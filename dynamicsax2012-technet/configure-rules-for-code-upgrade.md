@@ -54,7 +54,7 @@ If you now open the **Manage code upgrade rules** form, you can view a hierarchy
 
   - **XppCompiler**
 
-A similar procedure can be used to import other rule sets that you create yourself and organize into your own categories. For developer documentation about code upgrade, see the [code upgrade white papers](http://go.microsoft.com/fwlink/?linkid=215083%26clcid=0x409).
+A similar procedure can be used to import other rule sets that you create yourself and organize into your own categories. For developer documentation about code upgrade, see the [code upgrade white papers](https://go.microsoft.com/fwlink/?linkid=215083%26clcid=0x409).
 
   
 

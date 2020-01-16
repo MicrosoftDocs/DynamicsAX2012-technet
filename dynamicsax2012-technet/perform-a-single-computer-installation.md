@@ -26,7 +26,7 @@ If you install by using the **Single-computer installation** option in Setup, de
 
 ## Before you perform a single-computer installation
 
-Prerequisites for all components that are included in the single-server installation must be installed before you can use this type of installation. On the computer where you plan to perform the installation, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md). For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+Prerequisites for all components that are included in the single-server installation must be installed before you can use this type of installation. On the computer where you plan to perform the installation, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md). For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 If you add Retail components to a single-computer installation, and the computer is a primary domain controller, the operating system must be Windows Server 2008 R2 or a later release.
 

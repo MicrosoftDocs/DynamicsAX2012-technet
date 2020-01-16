@@ -14,9 +14,9 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-You can map a network drive to access files that Microsoft SharePoint Server 2013 uses to support an Microsoft Dynamics AX 2012 R2 Retail online store. First, you must make sure that you have [Web Distributed Authoring and Versioning (WebDAV)](http://go.microsoft.com/fwlink/?linkid=324007&clcid=0x409) installed and running on your computer.
+You can map a network drive to access files that Microsoft SharePoint Server 2013 uses to support an Microsoft Dynamics AX 2012 R2 Retail online store. First, you must make sure that you have [Web Distributed Authoring and Versioning (WebDAV)](https://go.microsoft.com/fwlink/?linkid=324007&clcid=0x409) installed and running on your computer.
 
-These procedures work for Windows Server operating systems. For information about mapping a drive on other operating systems, see [How to: Map a network drive to the SharePoint 2013 Master Page Gallery](http://msdn.microsoft.com/en-us/library/jj733519.aspx).
+These procedures work for Windows Server operating systems. For information about mapping a drive on other operating systems, see [How to: Map a network drive to the SharePoint 2013 Master Page Gallery](https://msdn.microsoft.com/library/jj733519.aspx).
 
 
 > [!NOTE]
@@ -79,9 +79,9 @@ These procedures work for Windows Server operating systems. For information abou
 
 ## See also
 
-[SharePoint 2013 development overview](http://msdn.microsoft.com/en-us/library/jj164084.aspx)
+[SharePoint 2013 development overview](https://msdn.microsoft.com/library/jj164084.aspx)
 
-[How-tos for SharePoint 2013](http://msdn.microsoft.com/en-us/library/jj901636.aspx)
+[How-tos for SharePoint 2013](https://msdn.microsoft.com/library/jj901636.aspx)
 
   
 

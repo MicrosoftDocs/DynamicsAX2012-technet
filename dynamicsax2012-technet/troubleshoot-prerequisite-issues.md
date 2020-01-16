@@ -38,7 +38,7 @@ If you use the prerequisite validation utility to configure Windows Search Servi
 
 ## Cumulative Update 3 for Microsoft SQL Server 2008 R2 cannot be installed
 
-If the “Required updates for Microsoft SQL Server” prerequisite fails, the prerequisite validation utility instructs you to install Cumulative Update 3 for SQL Server 2008 R2. When you attempt to install Cumulative Update 3, and other Cumulative Updates have already been installed, you may receive a message that states that a higher version number of SQL Server 2008 R2 is already installed. If you receive this message and the prerequisite check still fails, we recommend that you download and install [Cumulative update package 8](http://support.microsoft.com/kb/2534352/en-us) or higher for SQL Server 2008 R2.
+If the “Required updates for Microsoft SQL Server” prerequisite fails, the prerequisite validation utility instructs you to install Cumulative Update 3 for SQL Server 2008 R2. When you attempt to install Cumulative Update 3, and other Cumulative Updates have already been installed, you may receive a message that states that a higher version number of SQL Server 2008 R2 is already installed. If you receive this message and the prerequisite check still fails, we recommend that you download and install [Cumulative update package 8](https://support.microsoft.com/kb/2534352/en-us) or higher for SQL Server 2008 R2.
 
 ## Required restart after you install the Microsoft .NET Framework version 4.0
 

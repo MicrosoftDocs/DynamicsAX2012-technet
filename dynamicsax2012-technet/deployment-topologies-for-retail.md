@@ -57,7 +57,7 @@ The following table lists the types of computers that are used in a typical Reta
 <td><ul>
 <li><p>AOS computer with Retail headquarters component installed</p></li>
 <li><p>Database server</p>
-<p>You must modify the Microsoft Dynamics AX database server only if the settings for Microsoft SQL Server do not comply with the Payment Card Industry (PCI) Data Security Standard. For more information about PCI-compliant settings, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</a>.</p></li>
+<p>You must modify the Microsoft Dynamics AX database server only if the settings for Microsoft SQL Server do not comply with the Payment Card Industry (PCI) Data Security Standard. For more information about PCI-compliant settings, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</a>.</p></li>
 <li><p>Communications server that hosts Commerce Data Exchange: Real-time Service and Async Server (or Synch Service for versions prior to AX 2012 R3).</p>
 <p>If you prefer, you can have two communications servers, one for each of these applications.</p></li>
 <li><p>Microsoft Dynamics AX client computers with Retail headquarters component installed</p></li>
@@ -175,7 +175,7 @@ The following table lists the types of computers that are used in a typical Reta
 <td><ul>
 <li><p>AOS computer</p></li>
 <li><p>Database server</p>
-<p>You must modify the Microsoft Dynamics AX database server only if the settings for Microsoft SQL Server do not comply with the Payment Card Industry (PCI) Data Security Standard. For more information about PCI-compliant settings, see the <a href="http://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</a>.</p></li>
+<p>You must modify the Microsoft Dynamics AX database server only if the settings for Microsoft SQL Server do not comply with the Payment Card Industry (PCI) Data Security Standard. For more information about PCI-compliant settings, see the <a href="https://go.microsoft.com/fwlink/?linkid=237283">Implementation Guide for PCI Compliance</a>.</p></li>
 <li><p>Communications server that hosts Commerce Data Exchange: Real-time Service and Commerce Data Exchange: Synch Service.</p>
 <p>If you prefer, you can have two communications servers, one for each of these applications.</p></li>
 <li><p>Microsoft Dynamics AX client computers</p></li>

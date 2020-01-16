@@ -26,7 +26,7 @@ The Retail SDK contains source code for the sample online stores. For more infor
 
 ### ![Dn720293.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn720293.collapse_all(en-us,AX.60).gif")Debugging in a browser window
 
-You can debug test, and speed up your webpages by using the F12 developer tools. Open the tools by pressing F12 or by clicking **F12 developer tools** on the **Tools** menu in Internet Explorer. For more information, see [Using the F12 developer tools](http://go.microsoft.com/fwlink/?linkid=335860).
+You can debug test, and speed up your webpages by using the F12 developer tools. Open the tools by pressing F12 or by clicking **F12 developer tools** on the **Tools** menu in Internet Explorer. For more information, see [Using the F12 developer tools](https://go.microsoft.com/fwlink/?linkid=335860).
 
 ### ![Dn720293.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn720293.collapse_all(en-us,AX.60).gif")Debugging in Visual Studio
 

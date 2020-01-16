@@ -18,11 +18,11 @@ Microsoft Dynamics AX 2012 is accompanied by Microsoft SQL Server software compo
 
 ## Microsoft SQL Server 2008 Native Client
 
-[SQL Server 2008 R2 Native Client License Terms (English)](http://go.microsoft.com/fwlink/?linkid=215040)
+[SQL Server 2008 R2 Native Client License Terms (English)](https://go.microsoft.com/fwlink/?linkid=215040)
 
 ## Microsoft ADOMD.NET
 
-[SQL Server 2008 R2 ADOMD License Terms (English)](http://go.microsoft.com/fwlink/?linkid=215039)
+[SQL Server 2008 R2 ADOMD License Terms (English)](https://go.microsoft.com/fwlink/?linkid=215039)
 
   
 

@@ -164,21 +164,21 @@ The Connect Web part displays links to online resources, such as training, suppo
 
 Enterprise Portal includes the following module sites, where users can access data and participate in business processes. Click a link to learn more about the common tasks and the type of data that is available on each module site.
 
-  - [The Procurement site](http://go.microsoft.com/fwlink/?linkid=227603%26clcid=0x409)
+  - [The Procurement site](https://go.microsoft.com/fwlink/?linkid=227603%26clcid=0x409)
 
-  - [The Sales site](http://go.microsoft.com/fwlink/?linkid=227604)
+  - [The Sales site](https://go.microsoft.com/fwlink/?linkid=227604)
 
-  - [The Compliance site](http://go.microsoft.com/fwlink/?linkid=227605)
+  - [The Compliance site](https://go.microsoft.com/fwlink/?linkid=227605)
 
-  - [The Project management site](http://go.microsoft.com/fwlink/?linkid=227606)
+  - [The Project management site](https://go.microsoft.com/fwlink/?linkid=227606)
 
-  - [The Service management site](http://go.microsoft.com/fwlink/?linkid=227607)
+  - [The Service management site](https://go.microsoft.com/fwlink/?linkid=227607)
 
-  - [The Employee Services site](http://go.microsoft.com/fwlink/?linkid=227608)
+  - [The Employee Services site](https://go.microsoft.com/fwlink/?linkid=227608)
 
-  - [The Vendor self-service site](http://go.microsoft.com/fwlink/?linkid=227609)
+  - [The Vendor self-service site](https://go.microsoft.com/fwlink/?linkid=227609)
 
-  - [The Customer self-service site](http://go.microsoft.com/fwlink/?linkid=227610)
+  - [The Customer self-service site](https://go.microsoft.com/fwlink/?linkid=227610)
 
 ## See also
 

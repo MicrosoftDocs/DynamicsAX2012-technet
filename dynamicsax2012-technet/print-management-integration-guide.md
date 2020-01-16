@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012_
 
 Print management gives users specialized control of print settings for selected Microsoft Dynamics AX reports. This document describes print management, how to set it up, and how to use it.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=274095%26clcid=0x409).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=274095%26clcid=0x409).
 
   
 

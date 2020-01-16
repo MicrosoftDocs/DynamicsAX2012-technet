@@ -64,7 +64,7 @@ After you installed Search Server Express 2010, use the Services Control Panel t
 
 If you are using Microsoft Search Server 2010 Express, and you receive the error message “The trial period for this product has expired,” you may have to install the SharePoint Server 2010 hotfix package dated August 31, 2010.
 
-For more information and to download the hotfix package, see Microsoft Knowledge Base article number [2276336](http://support.microsoft.com/kb/2276336).
+For more information and to download the hotfix package, see Microsoft Knowledge Base article number [2276336](https://support.microsoft.com/kb/2276336).
 
 ## The Business Connector proxy account does not have permission to perform the operation
 

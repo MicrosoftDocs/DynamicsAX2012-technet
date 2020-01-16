@@ -52,7 +52,7 @@ The following apps can be used with Microsoft Dynamics AX. Click on a link to le
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://technet.microsoft.com/en-us/library/dn508393.aspx">Microsoft Dynamics Business Analyzer</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/dn508393.aspx">Microsoft Dynamics Business Analyzer</a></p></td>
 <td><p>Use this app to view and interact with reports, charts, or KPIs for AX 2012 R2.  Choose from a set of default reports based on a specific role or personalize the application with the reports that are most important to you.</p></td>
 </tr>
 <tr class="odd">

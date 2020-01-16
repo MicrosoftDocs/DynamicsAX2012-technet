@@ -190,7 +190,7 @@ C:\\Program Files (x86)\\Microsoft Dynamics AX\\60\\Retail Online Channel\\tools
 <tr class="odd">
 <td><p><strong>StoreFront_DeviceChannelsListName</strong></p></td>
 <td><p>Canaux des appareils</p></td>
-<td><p>This value is the name of a SharePoint Design Manager list that stores device channels. For more information about device channel lists, see <a href="http://go.microsoft.com/fwlink/?linkid=394743">SharePoint 2013 Design Manager device channels</a>. The name of this value varies based on locale. For example, if you are deploying the online store by using the en-US locale then the name should be Device Channels. If you are deploying for an online store for fr-FR (French) locale then this name should be Canaux des appareils.</p></td>
+<td><p>This value is the name of a SharePoint Design Manager list that stores device channels. For more information about device channel lists, see <a href="https://go.microsoft.com/fwlink/?linkid=394743">SharePoint 2013 Design Manager device channels</a>. The name of this value varies based on locale. For example, if you are deploying the online store by using the en-US locale then the name should be Device Channels. If you are deploying for an online store for fr-FR (French) locale then this name should be Canaux des appareils.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>StoreFrontUrlPort_Public</strong></p></td>

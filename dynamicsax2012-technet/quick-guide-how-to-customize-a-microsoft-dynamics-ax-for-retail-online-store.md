@@ -14,13 +14,13 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This topic describes how to customize the online store by using SharePoint features and the Visual Studio source-code projects that are included in the Retail SDK. This topic also describes how to deploy customizations in development, test, and production environments. For information about developer prerequisites, including Microsoft Visual Studio, see [Set up the development environment for SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=299477).
+This topic describes how to customize the online store by using SharePoint features and the Visual Studio source-code projects that are included in the Retail SDK. This topic also describes how to deploy customizations in development, test, and production environments. For information about developer prerequisites, including Microsoft Visual Studio, see [Set up the development environment for SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=299477).
 
 ## Before you begin
 
 **Use SharePoint features to change the look and feel of the application**
 
-SharePoint enables you to customize the user interface of the application. Developers and administrators can edit master pages, change styles, add new pages, and change web part properties, to name a few options. You can perform these tasks in SharePoint or with 3rd party development tools that access SharePoint. It is recommended to use these tools for the initial customization process. For information about modifying web parts, including the Content Search Web Parts that display products in the store, see [Edit existing Web Parts in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=395066%26clcid=0x409).
+SharePoint enables you to customize the user interface of the application. Developers and administrators can edit master pages, change styles, add new pages, and change web part properties, to name a few options. You can perform these tasks in SharePoint or with 3rd party development tools that access SharePoint. It is recommended to use these tools for the initial customization process. For information about modifying web parts, including the Content Search Web Parts that display products in the store, see [Edit existing Web Parts in SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=395066%26clcid=0x409).
 
 **Use the SDK to change the behavior, look, and feel of the application**
 
@@ -56,7 +56,7 @@ The process of customizing the Retail online store requires that you recompile t
 
 Customization of the Retail online sample stores requires Microsoft Office Developer Tools for Visual Studio. Use the following steps to install the tools.
 
-To download the Microsoft Web Platform Installer, see [Microsoft Web Platform Installer](http://go.microsoft.com/fwlink/?linkid=395063%26clcid=0x409).
+To download the Microsoft Web Platform Installer, see [Microsoft Web Platform Installer](https://go.microsoft.com/fwlink/?linkid=395063%26clcid=0x409).
 
 ### To install Microsoft Office Developer Tools for Visual Studio
 

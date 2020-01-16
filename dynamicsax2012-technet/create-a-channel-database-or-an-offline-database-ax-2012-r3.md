@@ -32,7 +32,7 @@ On each computer where you want to create a database, you must use the Microsoft
 
 
 
-The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of supported operating systems and SQL Server versions, see the [Microsoft Dynamics AX system requirements](http://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for channel databases and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
+The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of supported operating systems and SQL Server versions, see the [Microsoft Dynamics AX system requirements](https://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for channel databases and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
 
 The Retail Channel Configuration Utility can also be used to configure database connections for a POS register. For more information, see [Configure database connections for a POS register by using the Retail Channel Configuration Utility](configure-database-connections-for-a-pos-register-by-using-the-retail-channel-configuration-utility.md).
 

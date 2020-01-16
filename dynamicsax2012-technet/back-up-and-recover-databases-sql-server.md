@@ -24,7 +24,7 @@ Database backups can be resource-intensive and can cause the whole system to slo
 
 The account of the user who performs the backup must be a member of the **db\_backupoperator** fixed database role for SQL Server on the database server where each database is stored.
 
-For detailed instructions, see [How to: Back up a database](http://go.microsoft.com/fwlink/?linkid=216758).
+For detailed instructions, see [How to: Back up a database](https://go.microsoft.com/fwlink/?linkid=216758).
 
 ## Recover the Microsoft Dynamics AX databases
 
@@ -34,13 +34,13 @@ Backups must be restored in the order in which they were created. Before you can
 
 Follow these steps to use SQL Server tools to restore a content database.
 
-1.  If you can, back up the live transaction log of the content database. This backup helps protect any changes that were made after the most recent full or differential backup. For more information, see [How to: Back up a transaction log](http://go.microsoft.com/fwlink/?linkid=216754).
+1.  If you can, back up the live transaction log of the content database. This backup helps protect any changes that were made after the most recent full or differential backup. For more information, see [How to: Back up a transaction log](https://go.microsoft.com/fwlink/?linkid=216754).
 
-2.  Restore the most recent full database backup. For more information, see [How to: Restore a database backup](http://go.microsoft.com/fwlink/?linkid=216755).
+2.  Restore the most recent full database backup. For more information, see [How to: Restore a database backup](https://go.microsoft.com/fwlink/?linkid=216755).
 
-3.  Restore the most recent differential database backup that occurred after the most recent full database backup. For more information, see [How to: Restore a differential backup](http://go.microsoft.com/fwlink/?linkid=216756).
+3.  Restore the most recent differential database backup that occurred after the most recent full database backup. For more information, see [How to: Restore a differential backup](https://go.microsoft.com/fwlink/?linkid=216756).
 
-4.  Restore all backups of the transaction log that occurred after the most recent full or differential database backup. For more information, see [How to: Restore a transaction log backup](http://go.microsoft.com/fwlink/?linkid=216757%26clcid=0x409).
+4.  Restore all backups of the transaction log that occurred after the most recent full or differential database backup. For more information, see [How to: Restore a transaction log backup](https://go.microsoft.com/fwlink/?linkid=216757%26clcid=0x409).
 
 ## See also
 

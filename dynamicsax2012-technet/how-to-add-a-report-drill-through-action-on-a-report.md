@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 A *report drill through action* lets you create links to other reports. A drillthrough report is a report that a user opens by clicking a link within another report. It lets users drill through to additional data. When defining a report drill through action, there are two reports involved: the top-level report and the drillthrough report. A report drill through action is defined on the top-level report. The drillthrough report typically displays additional information about the item that the user clicked in the top-level report. Parameters can be used to pass data from the top-level report to the drillthrough report. It is not required that you pass data to a drillthrough report.
 
-A drillthrough report serves a different purpose than a subreport. A subreport is processed as part of the main report. For example, if a subreport that displays order detail information is added to a table cell in the detail row, the subreport is processed one time per row of the table and rendered as part of the main report. A drillthrough report is only processed and rendered when the user clicks the drillthrough link in the top-level report. For more information, see [Adding Subreports](http://go.microsoft.com/fwlink/?linkid=234243%26clcid=0x409).
+A drillthrough report serves a different purpose than a subreport. A subreport is processed as part of the main report. For example, if a subreport that displays order detail information is added to a table cell in the detail row, the subreport is processed one time per row of the table and rendered as part of the main report. A drillthrough report is only processed and rendered when the user clicks the drillthrough link in the top-level report. For more information, see [Adding Subreports](https://go.microsoft.com/fwlink/?linkid=234243%26clcid=0x409).
 
 
 > [!NOTE]
@@ -126,7 +126,7 @@ When you add a report drill through action in an auto design, you will set prope
 
   - To pass data to the drillthrough report, use the parameters that are listed in the **Use these parameters to run the report** section. Click the **Value** Expression (**fx**) button to open the Expression dialog box. Write an expression that conforms to Visual Basic syntax for the parameter value. For example, to use company as a parameter, set the Name field to AX\_CompanyName and set the **Value** property to =Parameters\!AX\_CompanyName.Value and click **OK**.
 
-For more information, see [How to: Add a Drillthrough Report Link (SQL Report Designer)](http://go.microsoft.com/fwlink/?linkid=106185).
+For more information, see [How to: Add a Drillthrough Report Link (SQL Report Designer)](https://go.microsoft.com/fwlink/?linkid=106185).
 
 ## See also
 

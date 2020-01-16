@@ -32,7 +32,7 @@ Topics include:
 
 The paper also suggests design patterns for forms that use valid time state tables.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221069).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221069).
 
   
 

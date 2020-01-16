@@ -50,7 +50,7 @@ During installation, Setup verifies the operating system version of the computer
 
 ## Exception from HRESULT: 0x8024402C
 
-During installation, Setup tries to connect to the Microsoft Update website to install updates. Error code 0x8024402C indicates that the connection to the Windows Update servers failed. This error may occur if proxy or firewall settings are configured incorrectly. For more information, see Microsoft Knowledge Base article number [900936](http://support.microsoft.com/kb/900936).
+During installation, Setup tries to connect to the Microsoft Update website to install updates. Error code 0x8024402C indicates that the connection to the Windows Update servers failed. This error may occur if proxy or firewall settings are configured incorrectly. For more information, see Microsoft Knowledge Base article number [900936](https://support.microsoft.com/kb/900936).
 
 ## Buttons are not visible on Setup pages
 
@@ -245,7 +245,7 @@ After installing a component that uses Internet Information Services (IIS), such
 
 This error indicates that Microsoft .NET Framework 4.0 was installed, and then an earlier version of the .NET Framework was installed, or .NET 3.0 WCF HTTP Activation was enabled.
 
-To resolve the problem, follow the instructions in [Microsoft Knowledge Base article 2015129](http://support.microsoft.com/kb/2015129).
+To resolve the problem, follow the instructions in [Microsoft Knowledge Base article 2015129](https://support.microsoft.com/kb/2015129).
 
   
 

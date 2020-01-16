@@ -20,7 +20,7 @@ In some cases, the tasks that you can perform in Microsoft Dynamics AX depend on
 
   - To find out what version you’re using, in the upper-right corner of any page in Microsoft Dynamics AX, click the **Help** icon, and then click **About Microsoft Dynamics AX**.
 
-  - To find more information about build numbers, see [Overview of Microsoft Dynamics AX build numbers](http://go.microsoft.com/fwlink/?linkid=307072%26clcid=0x409).
+  - To find more information about build numbers, see [Overview of Microsoft Dynamics AX build numbers](https://go.microsoft.com/fwlink/?linkid=307072%26clcid=0x409).
 
   
 

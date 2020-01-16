@@ -38,7 +38,7 @@ Microsoft Dynamics AX Enterprise Search uses the following services.
 <ul>
 <li><p>SharePoint Server 2010</p></li>
 <li><p>Microsoft Search Server 2010</p></li>
-<li><p>Microsoft Search Server Express 2010, which is a free <a href="http://go.microsoft.com/fwlink/?linkid=180385">download</a></p></li>
+<li><p>Microsoft Search Server Express 2010, which is a free <a href="https://go.microsoft.com/fwlink/?linkid=180385">download</a></p></li>
 <li><p>Microsoft FAST Search Server 2010</p></li>
 <li><p>Microsoft SharePoint Foundation 2013 or Microsoft SharePoint Server 2013</p></li>
 </ul>

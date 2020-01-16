@@ -84,7 +84,7 @@ Use this procedure to install the default Microsoft Dynamics AX Retail Modern P
 
 The Retail SDK includes source samples and tools to help you customize the Retail Modern POS app for Windows 8.1. If you customize a Retail Modern POS app then you must use on the following methods to side-load it to supported devices.
 
-  - [Windows Intune](http://go.microsoft.com/fwlink/?linkid=397194)
+  - [Windows Intune](https://go.microsoft.com/fwlink/?linkid=397194)
 
   - System Center Configuration Manager
 

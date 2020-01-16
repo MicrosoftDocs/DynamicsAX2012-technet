@@ -32,7 +32,7 @@ Asynchronous exchanges require XML messages to be contained by the AIF message e
 
 http://schemas.microsoft.com/dynamics/2011/01/documents/Message
 
-For more information about the format of XML messages in AIF, see [AIF Messages](http://go.microsoft.com/fwlink/?linkid=223878).
+For more information about the format of XML messages in AIF, see [AIF Messages](https://go.microsoft.com/fwlink/?linkid=223878).
 
 ### Message-set schema
 

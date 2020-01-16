@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Microsoft Dynamics Sure Step is the prescribed methodology for deploying Microsoft Dynamics AX. The Sure Step application provides product-specific and general project-based templates, workflows, process maps and tools to assist the implementation partners. Sure Step is currently available as an online tool or for download from [PartnerSource](http://go.microsoft.com/fwlink/?linkid=215499).
+Microsoft Dynamics Sure Step is the prescribed methodology for deploying Microsoft Dynamics AX. The Sure Step application provides product-specific and general project-based templates, workflows, process maps and tools to assist the implementation partners. Sure Step is currently available as an online tool or for download from [PartnerSource](https://go.microsoft.com/fwlink/?linkid=215499).
 
 The Sure Step methodology is divided into the following phases:
 

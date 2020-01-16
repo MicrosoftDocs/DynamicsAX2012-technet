@@ -24,9 +24,9 @@ The benchmark results demonstrate the ability of Enterprise Portal to handle var
 
 We have published the following two papers about the Enterprise Portal benchmark:
 
-  - [Enterprise Portal benchmark for Microsoft Dynamics AX (details)](http://go.microsoft.com/fwlink/?linkid=245627) – This paper provides detailed results of the Enterprise Portal benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
+  - [Enterprise Portal benchmark for Microsoft Dynamics AX (details)](https://go.microsoft.com/fwlink/?linkid=245627) – This paper provides detailed results of the Enterprise Portal benchmark testing, and can be downloaded from CustomerSource and PartnerSource.
 
-  - [Enterprise Portal benchmark for Microsoft Dynamics AX (summary)](http://go.microsoft.com/fwlink/?linkid=245631) – This paper provides a summary of the Enterprise Portal benchmark results, and can be downloaded from CustomerSource and PartnerSource.
+  - [Enterprise Portal benchmark for Microsoft Dynamics AX (summary)](https://go.microsoft.com/fwlink/?linkid=245631) – This paper provides a summary of the Enterprise Portal benchmark results, and can be downloaded from CustomerSource and PartnerSource.
 
   
 

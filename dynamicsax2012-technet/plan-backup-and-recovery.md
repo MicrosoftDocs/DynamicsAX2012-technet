@@ -18,7 +18,7 @@ By carefully planning and implementing a backup and restore strategy, you can he
 
 
 > [!IMPORTANT]
-> <P>Microsoft Dynamics AX does not include any built-in backup and recovery tools. We assume that you rely on Microsoft SQL Server or other tools that support backup and recovery. For example, Microsoft System Center Data Protection Manager can be used to protect Microsoft Dynamics AX. For more information, see <A href="protecting-microsoft-dynamics-ax-environments-with-system-center-2012-data-protection-manager-dpm.md">Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)</A> and <A href="http://go.microsoft.com/fwlink/?linkid=230427">How to Protect Microsoft Dynamics AX 2009 with System Center Data Protection Manager 2007 sp1</A>.</P>
+> <P>Microsoft Dynamics AX does not include any built-in backup and recovery tools. We assume that you rely on Microsoft SQL Server or other tools that support backup and recovery. For example, Microsoft System Center Data Protection Manager can be used to protect Microsoft Dynamics AX. For more information, see <A href="protecting-microsoft-dynamics-ax-environments-with-system-center-2012-data-protection-manager-dpm.md">Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)</A> and <A href="https://go.microsoft.com/fwlink/?linkid=230427">How to Protect Microsoft Dynamics AX 2009 with System Center Data Protection Manager 2007 sp1</A>.</P>
 
 
 
@@ -98,13 +98,13 @@ For more information about how to implement a backup and recovery strategy for y
 
   - [Back up and recover databases (SQL Server)](back-up-and-recover-databases-sql-server.md)
 
-  - [Backing Up and Restoring Databases in SQL Server](http://go.microsoft.com/fwlink/?linkid=215815)
+  - [Backing Up and Restoring Databases in SQL Server](https://go.microsoft.com/fwlink/?linkid=215815)
 
-  - [High Availability and Disaster Recovery for SharePoint Server 2010](http://go.microsoft.com/fwlink/?linkid=215820)
+  - [High Availability and Disaster Recovery for SharePoint Server 2010](https://go.microsoft.com/fwlink/?linkid=215820)
 
-  - [Backup and Restore Operations for a Reporting Services Installation](http://go.microsoft.com/fwlink/?linkid=215818)
+  - [Backup and Restore Operations for a Reporting Services Installation](https://go.microsoft.com/fwlink/?linkid=215818)
 
-  - [Managing Backing Up and Restoring (Analysis Services)](http://go.microsoft.com/fwlink/?linkid=215819)
+  - [Managing Backing Up and Restoring (Analysis Services)](https://go.microsoft.com/fwlink/?linkid=215819)
 
   
 

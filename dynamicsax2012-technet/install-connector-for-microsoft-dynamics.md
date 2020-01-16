@@ -14,12 +14,12 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-This topic describes how to install Connector for Microsoft Dynamics by using the Microsoft Dynamics AX Setup wizard. Use Connector to integrate data between Microsoft Dynamics CRM and Microsoft Dynamics AX. For example, you can integrate Microsoft Dynamics AX customers with Microsoft Dynamics CRM accounts. This integration gives you access to up-to-date customer and account information in both systems. For more information about Connector, see [the Connector page](http://go.microsoft.com/fwlink/?linkid=324872) on CustomerSource (logon is required).
+This topic describes how to install Connector for Microsoft Dynamics by using the Microsoft Dynamics AX Setup wizard. Use Connector to integrate data between Microsoft Dynamics CRM and Microsoft Dynamics AX. For example, you can integrate Microsoft Dynamics AX customers with Microsoft Dynamics CRM accounts. This integration gives you access to up-to-date customer and account information in both systems. For more information about Connector, see [the Connector page](https://go.microsoft.com/fwlink/?linkid=324872) on CustomerSource (logon is required).
 
 
 > [!NOTE]
-> <P>Connector is available through the Microsoft Dynamics AX Setup wizard in cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7) and AX 2012 R3. For information about how to install Connector with CU 7, see the <A href="http://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
-> <P>If you’re not using Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2, you can use the stand-alone installation for Connector. Download and run the .msi file that is available on CustomerSource. For information about how to run the stand-alone installation, see <A href="http://go.microsoft.com/fwlink/?linkid=325397">Installation Guide</A> (PDF) for Connector.</P>
+> <P>Connector is available through the Microsoft Dynamics AX Setup wizard in cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7) and AX 2012 R3. For information about how to install Connector with CU 7, see the <A href="https://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
+> <P>If you’re not using Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2, you can use the stand-alone installation for Connector. Download and run the .msi file that is available on CustomerSource. For information about how to run the stand-alone installation, see <A href="https://go.microsoft.com/fwlink/?linkid=325397">Installation Guide</A> (PDF) for Connector.</P>
 
 
 
@@ -31,7 +31,7 @@ You must install Connector on a computer where Microsoft Dynamics AX Application
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install Connector for Microsoft Dynamics
 
@@ -73,7 +73,7 @@ Use this procedure to install Connector. If you install other Microsoft Dynamics
 
 ## After you install Connector for Microsoft Dynamics
 
-After you have installed Connector, you must configure the adapter settings for Microsoft Dynamics CRM and Microsoft Dynamics AX. For more information about how to configure adapter settings for Microsoft Dynamics CRM, see the [Installation Guide](http://go.microsoft.com/fwlink/?linkid=325397) (PDF) for Connector. For more information about how to configure adapter settings for Microsoft Dynamics AX, see the [Configuration Guide](http://go.microsoft.com/fwlink/?linkid=325398) (PDF) for the Microsoft Dynamics AX adapter.
+After you have installed Connector, you must configure the adapter settings for Microsoft Dynamics CRM and Microsoft Dynamics AX. For more information about how to configure adapter settings for Microsoft Dynamics CRM, see the [Installation Guide](https://go.microsoft.com/fwlink/?linkid=325397) (PDF) for Connector. For more information about how to configure adapter settings for Microsoft Dynamics AX, see the [Configuration Guide](https://go.microsoft.com/fwlink/?linkid=325398) (PDF) for the Microsoft Dynamics AX adapter.
 
   
 

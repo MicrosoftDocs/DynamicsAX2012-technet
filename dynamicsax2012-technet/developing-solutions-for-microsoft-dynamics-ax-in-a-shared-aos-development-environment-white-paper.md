@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides an overview of the best practices you should follow if you develop in a shared AOS environment.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221342)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221342)
 
 ## See also
 

@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store by calling JavaScript methods for supported events. The starter store includes events that correspond to certain shopping activities such as *add item to shopping cart* and *remove item from shopping cart*. You can use these events to add functionality of your own, in a way that resembles using the [jQuery eventing model](http://go.microsoft.com/fwlink/?linkid=296268&clcid=0x409). You turn your custom functionality on and off by using methods such as OnAddToCart and OffAddToCart. For example, you can change the message that is displayed when an item is added to the shopping cart.
+The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store by calling JavaScript methods for supported events. The starter store includes events that correspond to certain shopping activities such as *add item to shopping cart* and *remove item from shopping cart*. You can use these events to add functionality of your own, in a way that resembles using the [jQuery eventing model](https://go.microsoft.com/fwlink/?linkid=296268&clcid=0x409). You turn your custom functionality on and off by using methods such as OnAddToCart and OffAddToCart. For example, you can change the message that is displayed when an item is added to the shopping cart.
 
 This topic shows you how to change the message that is displayed when an item is added to the shopping cart. It also lists the methods for the types of events that are available to modify the behavior of the starter store.
 
@@ -205,7 +205,7 @@ The following table lists methods for the Microsoft.Dynamics.Retail.SharePoint.W
 
 ## See also
 
-[How to use F12 Developer Tools to Debug your Webpages](http://go.microsoft.com/fwlink/?linkid=294914&clcid=0x409)
+[How to use F12 Developer Tools to Debug your Webpages](https://go.microsoft.com/fwlink/?linkid=294914&clcid=0x409)
 
   
 

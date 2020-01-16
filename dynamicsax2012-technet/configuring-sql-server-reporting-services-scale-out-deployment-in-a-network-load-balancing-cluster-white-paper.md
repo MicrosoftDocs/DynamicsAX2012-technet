@@ -18,7 +18,7 @@ This white paper explains how to configure a Microsoft SQL Server Reporting Serv
 
 A Reporting Services scale-out deployment includes two or more report server instances that share a single report server database. By using a scale-out deployment, you can increase the number of users who can access reports at the same time and improve the availability of the report server.
 
-[Download the paper.](http://go.microsoft.com/fwlink/?linkid=248235)
+[Download the paper.](https://go.microsoft.com/fwlink/?linkid=248235)
 
   
 

@@ -30,7 +30,7 @@ If any of your users are logged on when they are added to the user group, they m
 
 
 
-For more information about how to create local groups, see [Create a local group](http://technet.microsoft.com/en-us/library/cc731215) on TechNet.
+For more information about how to create local groups, see [Create a local group](https://technet.microsoft.com/library/cc731215) on TechNet.
 
 ## The SQL Server logon for POS users
 
@@ -46,7 +46,7 @@ Employees use their local user accounts to log on to Windows and start Retail PO
 
 All user accounts should have strong passwords that meet the password policy for the organization. Guest or temporary user accounts are not supported.
 
-For more information about how to create local Windows user accounts, see [Create a local user account](http://technet.microsoft.com/en-us/library/cc770642.aspx) on TechNet.
+For more information about how to create local Windows user accounts, see [Create a local user account](https://technet.microsoft.com/library/cc770642.aspx) on TechNet.
 
 ## Set up users in Microsoft Dynamics AX
 

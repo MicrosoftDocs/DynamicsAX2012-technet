@@ -34,7 +34,7 @@ If you use this option to install the Visual C++ Runtime package, you’ll still
 
 Complete the following procedure to download and install the Visual C++ Runtime Package.
 
-1.  Download the component from the following location: [Visual C++ Runtime Package](http://go.microsoft.com/fwlink/?linkid=511069).
+1.  Download the component from the following location: [Visual C++ Runtime Package](https://go.microsoft.com/fwlink/?linkid=511069).
 
 2.  Open a Windows PowerShell session as an administrator.
 
@@ -60,7 +60,7 @@ Complete the following procedure to download the MSN News app.
 
 You can install Visual Studio Express 2013 to obtain the files, and then manually install the prerequisites for Retail Modern POS.
 
-1.  Download and install [Visual Studio Express 2013](http://go.microsoft.com/fwlink/?linkid=396853).
+1.  Download and install [Visual Studio Express 2013](https://go.microsoft.com/fwlink/?linkid=396853).
 
 2.  Copy and paste the following files to the specified locations.
     

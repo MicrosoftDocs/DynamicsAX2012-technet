@@ -26,7 +26,7 @@ Online stores give an online presence to a retail store so that the store’s cu
 
 You create an online store in the Microsoft Dynamics AX client. This store represents the online store that is published to a Microsoft SharePoint site. The properties that you define for the online store in Microsoft Dynamics AX control the behavior of the online store. For example, you define the navigation category hierarchy in Microsoft Dynamics AX and assign the navigation category hierarchy to the online store. When you publish the online store to a SharePoint site, the navigation category hierarchy is displayed in the online version of the store. Shoppers use the navigation category hierarchy to browse the online store and to search for products.
 
-For more information about how to configure and deploy the online store in SharePoint, see [Microsoft Dynamics AX for Retail](http://go.microsoft.com/fwlink/?linkid=273877).
+For more information about how to configure and deploy the online store in SharePoint, see [Microsoft Dynamics AX for Retail](https://go.microsoft.com/fwlink/?linkid=273877).
 
 To create the online store, you must set up the components that enable transactions to be processed for the store. This includes adding assortments, applying attributes, setting up payment methods, and setting up shipping methods. You can also define prices, promotions, discounts, trade agreements, and shipping terms that are specific to the online store.
 

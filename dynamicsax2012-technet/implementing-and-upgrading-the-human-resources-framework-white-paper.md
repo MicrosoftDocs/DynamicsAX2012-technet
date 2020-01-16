@@ -18,7 +18,7 @@ In Microsoft Dynamics AX 2012, the Human resources framework has been enhanced t
 
 This paper outlines the changes in Microsoft Dynamics AX 2012 and how to revise your current data patterns to use the new functionality.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213128).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213128).
 
   
 

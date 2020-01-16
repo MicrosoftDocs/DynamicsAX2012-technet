@@ -18,7 +18,7 @@ In Microsoft Dynamics AX 2012, the item-product data management framework is enh
 
 This paper explains the changes to the data model and how a developer should approach updating legacy code.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213132).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213132).
 
   
 

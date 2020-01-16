@@ -34,7 +34,7 @@ Users in a Remote Desktop Services farm can wait longer than 30 seconds if the s
 
 ## Before you begin
 
-Before you create a client configuration that enables roaming user profiles in Microsoft Dynamics AX, you must deploy a Remote Desktop Services farm and then configure roaming user profiles in the server farm. For more information, see [Deploy Roaming User Profiles](http://go.microsoft.com/fwlink/?linkid=328609) \[Windows Server 2012\] or [User Profiles on Windows Server 2008 R2 Remote Desktop Services](http://go.microsoft.com/fwlink/?linkid=328608).
+Before you create a client configuration that enables roaming user profiles in Microsoft Dynamics AX, you must deploy a Remote Desktop Services farm and then configure roaming user profiles in the server farm. For more information, see [Deploy Roaming User Profiles](https://go.microsoft.com/fwlink/?linkid=328609) \[Windows Server 2012\] or [User Profiles on Windows Server 2008 R2 Remote Desktop Services](https://go.microsoft.com/fwlink/?linkid=328608).
 
 ## Create a roaming user profile client configuration
 

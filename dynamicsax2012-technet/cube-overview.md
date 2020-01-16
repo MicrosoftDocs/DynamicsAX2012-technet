@@ -39,7 +39,7 @@ A cube consists of a set of measures and dimension attributes. For Microsoft Dyn
 
 A measure is a column in a table or view that contains quantifiable data, usually numeric, that can be aggregated. Measures correspond to something that users are interested in examining or analyzing; such as revenue, profit, or the total number of items sold. When you specify a measure, you must also specify an aggregate function that is used to aggregate the data. A cube has one or more measures.
 
-Measures that you specify in Microsoft Dynamics AX are grouped into measure groups. For more information about measures and measure groups and how they are used in cubes, see [Measures and Measure Groups (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=208692). For information about how to define measures in Microsoft Dynamics AX, see [How to: Specify Measures for a Cube](how-to-specify-measures-for-a-cube.md).
+Measures that you specify in Microsoft Dynamics AX are grouped into measure groups. For more information about measures and measure groups and how they are used in cubes, see [Measures and Measure Groups (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=208692). For information about how to define measures in Microsoft Dynamics AX, see [How to: Specify Measures for a Cube](how-to-specify-measures-for-a-cube.md).
 
 You define measures at different levels and on different objects in the AOT using the Business Intelligence (BI) properties that appear in the **Properties** sheet. The following table describes the objects you can define measures and how they are used.
 
@@ -80,11 +80,11 @@ You can set AOT properties on tables, views, and fields to create analysis servi
 
 After you define dimension and attribute properties, you add the dimension tables and views to a perspective to create a cube. If you do not want to specify dimensions and attributes directly on a table or view, you can create a perspective, and then add the dimension information to the perspective. For more information, see [Create a perspective for a cube](create-a-perspective-for-a-cube.md).
 
-For more information about how dimensions are used in cubes, see [Introduction to Dimensions (Analysis Services - Multidimensional Data) in SQL Server Books Online](http://go.microsoft.com/fwlink/?linkid=143293%26clcid=0x409).
+For more information about how dimensions are used in cubes, see [Introduction to Dimensions (Analysis Services - Multidimensional Data) in SQL Server Books Online](https://go.microsoft.com/fwlink/?linkid=143293%26clcid=0x409).
 
 ## Dimension and measure group relationships
 
-The relationships that are defined between dimensions and measure groups in a cube determine how the data in the cube is sliced. For Microsoft Dynamics AX cubes, relationships are generated based on the relationships that exist between the tables and views in the application. When you open a BI project in SQL Server Business Development Studio (BIDS), you can view the relationships that were generated when you click the **Dimension Usage** tab in Cube Designer. You can define additional relationships or modify existing relationships between dimensions and measure groups in Cube Designer. For more information, see [Dimension Relationships in SQL Server Books Online](http://go.microsoft.com/fwlink/?linkid=143289%26clcid=0x409).
+The relationships that are defined between dimensions and measure groups in a cube determine how the data in the cube is sliced. For Microsoft Dynamics AX cubes, relationships are generated based on the relationships that exist between the tables and views in the application. When you open a BI project in SQL Server Business Development Studio (BIDS), you can view the relationships that were generated when you click the **Dimension Usage** tab in Cube Designer. You can define additional relationships or modify existing relationships between dimensions and measure groups in Cube Designer. For more information, see [Dimension Relationships in SQL Server Books Online](https://go.microsoft.com/fwlink/?linkid=143289%26clcid=0x409).
 
 ## KPIs and calculated members
 

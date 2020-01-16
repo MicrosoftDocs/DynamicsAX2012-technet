@@ -54,11 +54,11 @@ The following table describes the refresh commands in the **Administration** sec
 
 ## Help for Enterprise Portal administrators
 
-Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](http://go.microsoft.com/fwlink/?linkid=201018%26clcid=0x409).
+Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](https://go.microsoft.com/fwlink/?linkid=201018%26clcid=0x409).
 
 ## Help for developers
 
-Information about how to create pages or customize Enterprise Portal is available in the [software development kit](http://go.microsoft.com/fwlink/?linkid=210740).
+Information about how to create pages or customize Enterprise Portal is available in the [software development kit](https://go.microsoft.com/fwlink/?linkid=210740).
 
   
 

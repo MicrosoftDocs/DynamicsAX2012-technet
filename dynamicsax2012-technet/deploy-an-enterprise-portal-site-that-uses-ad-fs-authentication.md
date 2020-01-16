@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This topic describes how to deploy Enterprise Portal for Microsoft Dynamics AX in an Active Directory Federation Services (AD FS) environment. AD FS simplifies access to systems and applications by using a claims-based authorization mechanism to help maintain application security. AD FS supports web single sign-on technologies that help IT organizations collaborate across organizational boundaries. AD FS is a server role in Windows Server 2008 R2 and Windows Server 2012. For more information about AD FS, see [Active Directory Federation Services](http://go.microsoft.com/fwlink/?linkid=389356).
+This topic describes how to deploy Enterprise Portal for Microsoft Dynamics AX in an Active Directory Federation Services (AD FS) environment. AD FS simplifies access to systems and applications by using a claims-based authorization mechanism to help maintain application security. AD FS supports web single sign-on technologies that help IT organizations collaborate across organizational boundaries. AD FS is a server role in Windows Server 2008 R2 and Windows Server 2012. For more information about AD FS, see [Active Directory Federation Services](https://go.microsoft.com/fwlink/?linkid=389356).
 
 This topic includes the following sections.
 
@@ -69,8 +69,8 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="odd">
 <td><p>Install Microsoft Dynamics AX hotfixes for claims-mode authentication (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).</p></td>
 <td><ol>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=294944">Download</a> and install the Microsoft Dynamics AX 2012 claims-mode authentication hotfix (KB 2823664).</p></li>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=294677">Download</a> and install the Microsoft Dynamics AX 2012 R2 claims-mode authentication hotfix (KB 2824690).</p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=294944">Download</a> and install the Microsoft Dynamics AX 2012 claims-mode authentication hotfix (KB 2823664).</p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=294677">Download</a> and install the Microsoft Dynamics AX 2012 R2 claims-mode authentication hotfix (KB 2824690).</p></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -104,7 +104,7 @@ Complete the following tasks before you install Enterprise Portal.
 <tr class="odd">
 <td><p>Verify prerequisites and system requirements</p></td>
 <td><p>On the computer where you will install Enterprise Portal, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see <a href="check-prerequisites.md">Check prerequisites</a>.</p>
-<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="http://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
+<p>For more information about the hardware and software requirements for Microsoft Dynamics AX, see the <a href="https://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Verify permissions</p></td>
@@ -181,7 +181,7 @@ This section describes how to install Enterprise Portal binaries by using Setup.
 
 ## Register an SSL certificate on the AD FS server
 
-For testing, you can create a self-signed SSL certificate. If you create self-signed certificates, we recommend that you have one self-signed SSL certificate for the Enterprise Portal server (SSLCert1) and one self-signed SSL certificate for the AD FS server (SSLCert2). For more information, see [Create a Self-Signed Server Certificate in IIS 7.0](http://go.microsoft.com/fwlink/?linkid=235235). For production servers, you must register an SSL certificate from a certification authority on the AD FS server. The certificate will help make sure that the user’s claim was not changed in transit. We recommend that you register separate SSL certificates for the AD FS and Enterprise Portal servers. After you have created self-signed certificates or acquired certificates, complete the following procedure.
+For testing, you can create a self-signed SSL certificate. If you create self-signed certificates, we recommend that you have one self-signed SSL certificate for the Enterprise Portal server (SSLCert1) and one self-signed SSL certificate for the AD FS server (SSLCert2). For more information, see [Create a Self-Signed Server Certificate in IIS 7.0](https://go.microsoft.com/fwlink/?linkid=235235). For production servers, you must register an SSL certificate from a certification authority on the AD FS server. The certificate will help make sure that the user’s claim was not changed in transit. We recommend that you register separate SSL certificates for the AD FS and Enterprise Portal servers. After you have created self-signed certificates or acquired certificates, complete the following procedure.
 
 1.  On the Windows Server that will host the claims-based Enterprise Portal site, click **Start** \> **Run**, type **mmc**, and then click **OK**.
 
@@ -231,7 +231,7 @@ You must enable the SharePoint claims to Windows token service (C2WTS) for claim
 
 ## Create a claims-aware Enterprise Portal site
 
-This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=235298) for more information. You can also create a claims-aware Enterprise Portal site on an existing SharePoint web application. Complete one of the following procedures.
+This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](https://go.microsoft.com/fwlink/?linkid=235298) for more information. You can also create a claims-aware Enterprise Portal site on an existing SharePoint web application. Complete one of the following procedures.
 
   - Create a claims-aware site on a new SharePoint web application
 
@@ -259,7 +259,7 @@ This section describes how to create a claims-aware Enterprise Portal site by us
     
     When prompted, enter the password that you specified when you exported the SSL certificate.
 
-5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](http://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
+5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](https://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
     
     The following example shows the cmdlet with the required parameters. Note that the port value of 8000 is a user-defined value. You can specify any available port number. If you specify port 443, then you do not need to specify the port number when you type the web site URL.
     
@@ -377,7 +377,7 @@ To resolve this issue:
 
 This section describes how to install AD FS on an Enterprise Portal server.
 
-1.  [Download](http://go.microsoft.com/fwlink/?linkid=235894) AD FS, and run Setup.
+1.  [Download](https://go.microsoft.com/fwlink/?linkid=235894) AD FS, and run Setup.
 
 2.  When prompted to select a server role, click **Federation server**.
 
@@ -465,7 +465,7 @@ A relying party trust is a trust object that is created to maintain the relation
     
     $SigningCert  = Get-PfxCertificate "path-to-token signing certificate from the AD FS server"
 
-4.  On the Enterprise Portal server, execute the **Add-AXSharepointClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXSharepointClaimsAuthenticationProvider](http://go.microsoft.com/fwlink/?linkid=217572) on TechNet.
+4.  On the Enterprise Portal server, execute the **Add-AXSharepointClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXSharepointClaimsAuthenticationProvider](https://go.microsoft.com/fwlink/?linkid=217572) on TechNet.
     
     The following example shows the cmdlet with the required parameters.
     
@@ -473,7 +473,7 @@ A relying party trust is a trust object that is created to maintain the relation
     
     You can specify any name for the provider. In this example, the name is ADFSProvider. The server URL must be the FQDN of the server that runs AD FS, followed by **/adfs/ls/**.
 
-5.  On the Enterprise Portal server, execute the **Add-AXEnterprisePortalClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXEnterprisePortalClaimsAuthenticationProvider](http://go.microsoft.com/fwlink/?linkid=217571) on TechNet.
+5.  On the Enterprise Portal server, execute the **Add-AXEnterprisePortalClaimsAuthenticationProvider** cmdlet. For descriptions of the required parameters and syntax, see [Add-AXEnterprisePortalClaimsAuthenticationProvider](https://go.microsoft.com/fwlink/?linkid=217571) on TechNet.
     
     The following example shows the cmdlet with the required parameters.
     
@@ -505,7 +505,7 @@ The **New-AXUser** cmdlet creates a new user in Microsoft Dynamics AX. You can s
 
 2.  Click **Microsoft Dynamics AX 2012 Management Shell**.
 
-3.  On the Enterprise Portal server, execute the New-AXUser cmdlet. For descriptions of the required parameters and syntax, see [New-AXUser](http://go.microsoft.com/fwlink/?linkid=217580) on TechNet.
+3.  On the Enterprise Portal server, execute the New-AXUser cmdlet. For descriptions of the required parameters and syntax, see [New-AXUser](https://go.microsoft.com/fwlink/?linkid=217580) on TechNet.
     
     The following example shows the cmdlet with the required parameters. AXUser, UserName, and UserDomain are user-specified values. The value of UserDomain is the same value that you specified in Step 4 of the “Specify the Claims Provider in SharePoint” procedure earlier in this document.
     

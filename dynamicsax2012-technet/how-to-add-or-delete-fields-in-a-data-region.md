@@ -52,7 +52,7 @@ You can add or delete fields for a data region in an auto design report. Each da
         <tbody>
         <tr class="odd">
         <td><p><strong>Expression</strong></p></td>
-        <td><p>An expression that identifies the data to be displayed. From the drop-down list, select an expression that identifies the field you want to display or click <strong>&lt;Expression…&gt;</strong> to display the <strong>Edit Expression</strong> dialog box where you can create an expression. For information about creating expressions, see <a href="http://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
+        <td><p>An expression that identifies the data to be displayed. From the drop-down list, select an expression that identifies the field you want to display or click <strong>&lt;Expression…&gt;</strong> to display the <strong>Edit Expression</strong> dialog box where you can create an expression. For information about creating expressions, see <a href="https://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
         </tr>
         <tr class="even">
         <td><p><strong>Name</strong></p></td>

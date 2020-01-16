@@ -412,7 +412,7 @@ Back to top
 
 [Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012](key-tasks-create-a-schedule-based-on-a-project-in-microsoft-dynamics-ax-2012.md)
 
-[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](http://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
+[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](https://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409)
 
   
 

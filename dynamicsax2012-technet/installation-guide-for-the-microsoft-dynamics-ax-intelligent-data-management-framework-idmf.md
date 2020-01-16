@@ -89,7 +89,7 @@ You must have the following software installed on the computer before you instal
 
 ### Configure MSDTC
 
-You must install and configure MSDTC on the SQL Server host, and on the computer where you install IDMF. Follow these steps to open the Local DTC Properties dialog box. For details about Windows 7, Windows Vista, Windows Server 2008, and Windows Server 2008 R2, see [Enable Network DTC Access](http://technet.microsoft.com/en-us/library/cc753510(WS.10).aspx).
+You must install and configure MSDTC on the SQL Server host, and on the computer where you install IDMF. Follow these steps to open the Local DTC Properties dialog box. For details about Windows 7, Windows Vista, Windows Server 2008, and Windows Server 2008 R2, see [Enable Network DTC Access](https://technet.microsoft.com/library/cc753510(WS.10).aspx).
 1.  Click **Start**, click **Run**, type dcomcnfg, and then click **OK** to open **Component Services**.
 2.  In the console tree, expand **Component Services**, click **Computers**, expand **My Computer**, click **Distributed Transaction Coordinator**, and then click **Local DTC**.
 3.  Right-click **Local DTC**, and then click **Properties** to open the **Local DTC Properties** dialog box.

@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This white paper describes the new patterns that are used to represent accounts and financial dimensions in Microsoft Dynamics AX. The white paper also describes how to convert existing patterns to the new patterns.
 
-[Download the white paper](http://go.microsoft.com/fwlink/?linkid=213133).
+[Download the white paper](https://go.microsoft.com/fwlink/?linkid=213133).
 
   
 

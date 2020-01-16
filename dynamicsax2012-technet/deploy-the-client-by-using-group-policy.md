@@ -48,13 +48,13 @@ To publish the Microsoft Dynamics AX installation by using Group Policy, you mus
     
 
     > [!NOTE]
-    > <P>The msiexec tool lets you install, modify, and perform operations on Windows Installer files from the command line. For more information about how to use msiexec, see <A href="http://technet.microsoft.com/en-us/library/cc759262(ws.10).aspx">Msiexec (command-line options)</A> on TechNet.</P>
+    > <P>The msiexec tool lets you install, modify, and perform operations on Windows Installer files from the command line. For more information about how to use msiexec, see <A href="https://technet.microsoft.com/library/cc759262(ws.10).aspx">Msiexec (command-line options)</A> on TechNet.</P>
 
 
 
 ## Create a transform for the ClientOba.msi file
 
-The .msi file for the Microsoft Dynamics AX client components must be modified before it can be published by using Group Policy. You can use the Orca database editor to modify .msi files. For more information about how to install and use Orca, see the Microsoft Knowledge Base article [How to use the Orca database editor to edit Windows Installer files](http://support.microsoft.com/kb/255905).
+The .msi file for the Microsoft Dynamics AX client components must be modified before it can be published by using Group Policy. You can use the Orca database editor to modify .msi files. For more information about how to install and use Orca, see the Microsoft Knowledge Base article [How to use the Orca database editor to edit Windows Installer files](https://support.microsoft.com/kb/255905).
 
 1.  Open ClientOba.msi or ClientOba64.msi by using the Orca editor.
 
@@ -177,7 +177,7 @@ Use the following procedure to create a GPO that installs the Microsoft Dynamics
 
 Typically, after you modify group policy settings, you must wait a default update interval or restart the computer. The default update interval is 90 minutes on domain members and 5 minutes on domain controllers. However, if you want the changes to be applied immediately, you can run the Gpupdate utility at a command prompt.
 
-For more information about how to use the Gpupdate utility, see [Gpupdate](http://technet.microsoft.com/en-us/library/bb490983.aspx) on TechNet.
+For more information about how to use the Gpupdate utility, see [Gpupdate](https://technet.microsoft.com/library/bb490983.aspx) on TechNet.
 
   
 

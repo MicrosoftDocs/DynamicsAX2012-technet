@@ -31,7 +31,7 @@ As the Partner implementation expert for Microsoft Dynamics ERP RapidStart Servi
 
 ## Activate your Partner Portal account
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  On the online services home page, click **For Partners**.
 

@@ -27,17 +27,17 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 To enhance your experience with Microsoft Dynamics AX, explore the following resources:
 
-[Search Help for application users on Microsoft TechNet](http://go.microsoft.com/fwlink/?linkid=205285)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX application users.
+[Search Help for application users on Microsoft TechNet](https://go.microsoft.com/fwlink/?linkid=205285)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX application users.
 
-[Search Help for system administrators on Microsoft TechNet](http://go.microsoft.com/fwlink/?linkid=193183)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX system administrators.
+[Search Help for system administrators on Microsoft TechNet](https://go.microsoft.com/fwlink/?linkid=193183)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX system administrators.
 
-[Search Help for developers on MSDN](http://go.microsoft.com/fwlink/?linkid=188679)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX developers.
+[Search Help for developers on MSDN](https://go.microsoft.com/fwlink/?linkid=188679)—Use optimized search to find the latest updated Help on the web for Microsoft Dynamics AX developers.
 
 [The Microsoft Dynamics AX developer center on MSDN](http://msdn.microsoft.com/en-us/dynamics/ax/default.aspx)—Browse the online developer resources for Microsoft Dynamics AX, including news, downloads, and blogs.
 
-[The Microsoft Dynamics AX site on Microsoft.com](http://go.microsoft.com/fwlink/?linkid=103682)—As the home portal for Microsoft Dynamics AX users, this site provides access to current product documentation and technical articles, and serves as a catalog of other Microsoft Dynamics AX resources.
+[The Microsoft Dynamics AX site on Microsoft.com](https://go.microsoft.com/fwlink/?linkid=103682)—As the home portal for Microsoft Dynamics AX users, this site provides access to current product documentation and technical articles, and serves as a catalog of other Microsoft Dynamics AX resources.
 
-[CustomerSource](http://go.microsoft.com/fwlink/?linkid=92647)—A benefit of your Enhancement Plan enrollment, CustomerSource helps you keep your solution current and enhance the productivity of your users. You can search the Microsoft Dynamics AX Knowledge Base, download product and documentation updates, view online training, update your profile, retrieve product registration keys, read product news, and receive support and documentation for earlier versions of Microsoft Dynamics AX.
+[CustomerSource](https://go.microsoft.com/fwlink/?linkid=92647)—A benefit of your Enhancement Plan enrollment, CustomerSource helps you keep your solution current and enhance the productivity of your users. You can search the Microsoft Dynamics AX Knowledge Base, download product and documentation updates, view online training, update your profile, retrieve product registration keys, read product news, and receive support and documentation for earlier versions of Microsoft Dynamics AX.
 
 [Microsoft Dynamics AX Community](http://www.microsoft.com/dynamics/ax/community.mspx)— Participate in the Microsoft Dynamics AX community, and interact with a pool of experts and experienced users. Microsoft Dynamics communities offer a unique opportunity for you to share valuable tips, receive answers to tough questions, and broaden your understanding of business management software. The community provides links to newsgroups, technical chats, weblogs (blogs), webcasts, events, user groups, and newsletters.
 

@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper explains where information comes from for each box on the German Intrastat arrival and dispatch forms, how to set up Intrastat, and how to transfer transactions and generate Intrastat forms for arrivals and dispatches. Intrastat reporting is the system that is used to record information and generate statistics on the compulsory declaration of movements of goods to or from other member states of the European Union (EU).
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=322100)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=322100)
 
 ## See also
 

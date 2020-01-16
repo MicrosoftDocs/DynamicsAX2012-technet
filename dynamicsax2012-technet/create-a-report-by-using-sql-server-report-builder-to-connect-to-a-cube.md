@@ -42,7 +42,7 @@ If Reporting Services is running in SharePoint integrated mode, follow these ste
     
 
     > [!NOTE]
-    > <P>If the <STRONG>Report Builder Report</STRONG> option is not available, your system administrator may need to add the Report Builder content type to the document library. This process is described in <A href="http://technet.microsoft.com/en-us/library/bb326289.aspx">Add Report Server Content Types to a Library (Reporting Services in SharePoint Integrated Mode)</A> in the SQL Server documentation.</P>
+    > <P>If the <STRONG>Report Builder Report</STRONG> option is not available, your system administrator may need to add the Report Builder content type to the document library. This process is described in <A href="https://technet.microsoft.com/library/bb326289.aspx">Add Report Server Content Types to a Library (Reporting Services in SharePoint Integrated Mode)</A> in the SQL Server documentation.</P>
 
     
     Report Builder opens and displays the Getting Started wizard to help you design the report. For information about how to design a report by using the Getting Started wizard, see the next section on this topic.

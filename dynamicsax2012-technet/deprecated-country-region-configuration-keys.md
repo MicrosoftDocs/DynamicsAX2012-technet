@@ -49,7 +49,7 @@ In Microsoft Dynamics AX 2009 and earlier versions, country/region configuration
 <tr class="odd">
 <td><p>Changes to upgrade</p></td>
 <td><p>This change does not affect application upgrade.</p>
-<p>For information about how to use country/region configuration keys when you upgrade an existing version of Microsoft Dynamics AX to AX 2012, see the <a href="http://go.microsoft.com/fwlink/?linkid=163798">Microsoft Dynamics AX 2012 Upgrade Guide</a>.</p></td>
+<p>For information about how to use country/region configuration keys when you upgrade an existing version of Microsoft Dynamics AX to AX 2012, see the <a href="https://go.microsoft.com/fwlink/?linkid=163798">Microsoft Dynamics AX 2012 Upgrade Guide</a>.</p></td>
 </tr>
 </tbody>
 </table>

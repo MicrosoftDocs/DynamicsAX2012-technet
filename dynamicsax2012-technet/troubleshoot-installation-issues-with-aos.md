@@ -26,7 +26,7 @@ To work around this issue, you can rename the conflicting event log and attempt 
 
 
 > [!WARNING]
-> <P>This section describes how to modify the registry. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. Then, if a problem occurs, you can restore the registry. For more information about how to back up and restore the registry, see Microsoft Knowledge Base article number <A href="http://support.microsoft.com/kb/256986">256986</A>.</P>
+> <P>This section describes how to modify the registry. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. Then, if a problem occurs, you can restore the registry. For more information about how to back up and restore the registry, see Microsoft Knowledge Base article number <A href="https://support.microsoft.com/kb/256986">256986</A>.</P>
 
 
   

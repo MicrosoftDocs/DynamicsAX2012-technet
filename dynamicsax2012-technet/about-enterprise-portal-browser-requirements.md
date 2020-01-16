@@ -18,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Information about browser requirements is described in the System requirements for Microsoft Dynamics AX 2012 document. Specifically, see the Enterprise Portal client requirements in the **Software requirements for the Microsoft Dynamics AX client** section.
 
-You may be able to use Enterprise Portal with other browsers. However, only the browsers listed here are supported and tested by Microsoft. For information about browsers that are supported by Microsoft SharePoint 2010 products, see [Plan browser support](http://go.microsoft.com/fwlink/?linkid=107295) on Microsoft TechNet.
+You may be able to use Enterprise Portal with other browsers. However, only the browsers listed here are supported and tested by Microsoft. For information about browsers that are supported by Microsoft SharePoint 2010 products, see [Plan browser support](https://go.microsoft.com/fwlink/?linkid=107295) on Microsoft TechNet.
 
   
 

@@ -27,7 +27,7 @@ Before you can create or update retail store databases, you must do the followin
     
     The Retail Channel Configuration Utility can also be used to configure a basic POS register that does not have an offline database. For more information, see [Configure database connections for a POS register by using the Retail Channel Configuration Utility](configure-database-connections-for-a-pos-register-by-using-the-retail-channel-configuration-utility.md).
 
-  - Install a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Store Database Utility. For a list of supported operating systems and SQL Server versions, see [Microsoft Dynamics AX system requirements](http://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for store and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
+  - Install a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Store Database Utility. For a list of supported operating systems and SQL Server versions, see [Microsoft Dynamics AX system requirements](https://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for store and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
 
 **Procedures in this topic**
 

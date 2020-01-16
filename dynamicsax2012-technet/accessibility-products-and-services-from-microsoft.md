@@ -22,29 +22,29 @@ Microsoft is committed to making its products and services easier for everyone t
 
 
 > [!NOTE]
-> <P>The information in this section may apply only to users who license Microsoft products in the United States. If you obtained this product outside the United States, you can use the subsidiary information card that came with your software package or visit the <A href="http://go.microsoft.com/fwlink/?linkid=86482">Microsoft Accessibility Web site</A> for a list of Microsoft support services telephone numbers and addresses. You can contact your subsidiary to find out whether the type of products and services described in this section are available in your area.</P>
+> <P>The information in this section may apply only to users who license Microsoft products in the United States. If you obtained this product outside the United States, you can use the subsidiary information card that came with your software package or visit the <A href="https://go.microsoft.com/fwlink/?linkid=86482">Microsoft Accessibility Web site</A> for a list of Microsoft support services telephone numbers and addresses. You can contact your subsidiary to find out whether the type of products and services described in this section are available in your area.</P>
 
 
 
 ## Accessibility features of Windows
 
-The Windows operating system has many built-in accessibility features that are useful for individuals who have difficulty typing or using a mouse, are blind or have low vision, or are deaf or hard-of-hearing. The features are installed during Setup. For more information about these features, see Help in Windows and the [Microsoft Accessibility Web site](http://go.microsoft.com/fwlink/?linkid=86482).
+The Windows operating system has many built-in accessibility features that are useful for individuals who have difficulty typing or using a mouse, are blind or have low vision, or are deaf or hard-of-hearing. The features are installed during Setup. For more information about these features, see Help in Windows and the [Microsoft Accessibility Web site](https://go.microsoft.com/fwlink/?linkid=86482).
 
 ## Free step-by-step tutorials
 
 Microsoft offers a series of step-by-step tutorials that provide detailed procedures for adjusting the accessibility options and settings on the computer. This information is presented in a side-by-side format so that you can learn how to use the mouse, the keyboard, or a combination of both.
 
-To find step-by-step tutorials for Microsoft products, see the [Microsoft Accessibility Web site](http://go.microsoft.com/fwlink/?linkid=86482).
+To find step-by-step tutorials for Microsoft products, see the [Microsoft Accessibility Web site](https://go.microsoft.com/fwlink/?linkid=86482).
 
 ## Assistive technology products for Windows
 
-A wide variety of assistive technology products is available to make computers easier to use for people with disabilities. You can search a catalog of assistive technology products that run on Windows at the [Microsoft Accessibility Web site](http://go.microsoft.com/fwlink/?linkid=86482).
+A wide variety of assistive technology products is available to make computers easier to use for people with disabilities. You can search a catalog of assistive technology products that run on Windows at the [Microsoft Accessibility Web site](https://go.microsoft.com/fwlink/?linkid=86482).
 
 If you use assistive technology, make sure that you contact your assistive technology vendor before you upgrade your software or hardware to check for possible compatibility issues.
 
 ## Documentation in alternative formats
 
-If you have difficulty reading or handling printed materials, you can obtain the documentation for many Microsoft products in more accessible formats. You can find an index of accessible product documentation on the [Microsoft Accessibility Web site](http://go.microsoft.com/fwlink/?linkid=86482).
+If you have difficulty reading or handling printed materials, you can obtain the documentation for many Microsoft products in more accessible formats. You can find an index of accessible product documentation on the [Microsoft Accessibility Web site](https://go.microsoft.com/fwlink/?linkid=86482).
 
 In addition, you can obtain additional Microsoft publications from Recording for the Blind & Dyslexic, Inc. (RFB\&D). RFB\&D distributes these documents to registered, eligible members of their distribution service. For information about the availability of Microsoft product documentation and books from Microsoft Press, contact:
 
@@ -76,7 +76,7 @@ Microsoft product and customer services are subject to the prices, terms, and co
 
 ## For more information
 
-For more information about how accessible technology for computers helps improve the lives of people with disabilities, see the [Microsoft Accessibility Web site](http://go.microsoft.com/fwlink/?linkid=86482).
+For more information about how accessible technology for computers helps improve the lives of people with disabilities, see the [Microsoft Accessibility Web site](https://go.microsoft.com/fwlink/?linkid=86482).
 
 ## See also
 

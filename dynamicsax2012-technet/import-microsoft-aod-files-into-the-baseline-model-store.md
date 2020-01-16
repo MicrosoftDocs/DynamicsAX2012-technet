@@ -19,7 +19,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Import Microsoft application files, or .aod files, from the source system into the baseline model store.
 
-For more information about how to upgrade code, see the white papers that are available at [http://go.microsoft.com/fwlink/?LinkID=215083](http://go.microsoft.com/fwlink/?linkid=215083).
+For more information about how to upgrade code, see the white papers that are available at [https://go.microsoft.com/fwlink/?LinkID=215083](https://go.microsoft.com/fwlink/?linkid=215083).
 
 ## Importing Microsoft .aod files into the baseline model store
 

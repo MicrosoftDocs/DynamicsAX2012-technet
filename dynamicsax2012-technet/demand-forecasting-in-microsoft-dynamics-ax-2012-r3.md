@@ -28,7 +28,7 @@ This paper describes the main features of the demand forecasting tool and how th
 
 This paper also describes how the demand forecasting solution uses products in the Microsoft operating system, such as Microsoft SQL Server, Microsoft SQL Server Analysis Services, and Microsoft Excel.
 
-[Demand forecasting in Microsoft Dynamics AX 2012 R3](http://go.microsoft.com/fwlink/?linkid=397865%26clcid=0x409)
+[Demand forecasting in Microsoft Dynamics AX 2012 R3](https://go.microsoft.com/fwlink/?linkid=397865%26clcid=0x409)
 
   
 

@@ -34,7 +34,7 @@ Install the RapidStart Connector on the server where the Application Object Serv
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - Create a domain account to use for the RapidStart Connector Windows service. For more information, see [Create service accounts](create-service-accounts.md).
 
@@ -64,9 +64,9 @@ Use this procedure to install the RapidStart Connector. If you install other Mic
 
 ## After you install the RapidStart Connector
 
-Additional configuration is required after you install the RapidStart Connector. For more information, see [Configure Projects for Microsoft Dynamics AX ERP - RapidStart Services](http://go.microsoft.com/fwlink/?linkid=238738).
+Additional configuration is required after you install the RapidStart Connector. For more information, see [Configure Projects for Microsoft Dynamics AX ERP - RapidStart Services](https://go.microsoft.com/fwlink/?linkid=238738).
 
-For information about how to use RapidStart Services, see [Help for Microsoft Dynamics ERP RapidStart Services users](http://go.microsoft.com/fwlink/?linkid=225970).
+For information about how to use RapidStart Services, see [Help for Microsoft Dynamics ERP RapidStart Services users](https://go.microsoft.com/fwlink/?linkid=225970).
 
   
 

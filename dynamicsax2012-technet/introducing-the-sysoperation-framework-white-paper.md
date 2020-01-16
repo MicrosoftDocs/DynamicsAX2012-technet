@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides a comparison of the new SysOperation framework that was introduced in Microsoft Dynamics AX 2012 with the RunBaseBatch framework, and introduces common development scenarios.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=246316).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=246316).
 
   
 

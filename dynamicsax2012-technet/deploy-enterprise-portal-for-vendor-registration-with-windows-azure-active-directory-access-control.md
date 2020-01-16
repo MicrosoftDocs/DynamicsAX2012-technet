@@ -38,11 +38,11 @@ Complete the following tasks before you deploy Enterprise Portal for vendor regi
 <tbody>
 <tr class="odd">
 <td><p>Learn about Windows Azure Active Directory Access Control (ACS)</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=390990">Access Control Services 2.0</a> on MSDN.</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=390990">Access Control Services 2.0</a> on MSDN.</p></td>
 </tr>
 <tr class="even">
 <td><p>Purchase an Azure subscription so that you can use ACS</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=390991">Windows Azure sign-up</a> on the web.</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=390991">Windows Azure sign-up</a> on the web.</p></td>
 </tr>
 </tbody>
 </table>
@@ -108,9 +108,9 @@ This section includes multiple procedures to help you register a site with ACS a
 
 ## Create an ACS site on the Azure management portal
 
-To perform the following procedure you must have an Azure subscription. For more information, see [Windows Azure sign-up](http://go.microsoft.com/fwlink/?linkid=390991) on the web.
+To perform the following procedure you must have an Azure subscription. For more information, see [Windows Azure sign-up](https://go.microsoft.com/fwlink/?linkid=390991) on the web.
 
-1.  Open the [Azure control panel](http://go.microsoft.com/fwlink/?linkid=390995) on the web.
+1.  Open the [Azure control panel](https://go.microsoft.com/fwlink/?linkid=390995) on the web.
 
 2.  In the left pane, click **Active Directory** and then click **Access control namespace** in the main header.
     
@@ -120,7 +120,7 @@ To perform the following procedure you must have an Azure subscription. For more
     
 
     > [!NOTE]
-    > <P>Only the administrator of the Azure subscription can access the ACS Management Portal. This person must configure access for other administrators who need access to the ACS Access Control page. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=391018">Portal Administrators</A>.</P>
+    > <P>Only the administrator of the Azure subscription can access the ACS Management Portal. This person must configure access for other administrators who need access to the ACS Access Control page. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=391018">Portal Administrators</A>.</P>
 
 
 
@@ -132,7 +132,7 @@ To perform the following procedure you must have an Azure subscription. For more
 
 Complete the following procedure to configure Facebook as an ACS identity provider for your claims-aware Enterprise Portal site.
 
-1.  Complete the configuration steps in the following article on MSDN: [Facebook as an ACS Identity Provider](http://go.microsoft.com/fwlink/?linkid=391020). After you complete these steps in the article, continue with this procedure.
+1.  Complete the configuration steps in the following article on MSDN: [Facebook as an ACS Identity Provider](https://go.microsoft.com/fwlink/?linkid=391020). After you complete these steps in the article, continue with this procedure.
 
 2.  In the **Access Control Service** management portal, on the **Basic** page for the Facebook app, enter **windows.net** in the **App Domains** field.
     
@@ -278,7 +278,7 @@ You created a custom token signing certificate by using IIS manager in the previ
 
 ## Create a claims-aware site on a new SharePoint web application
 
-This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=235298) for more information.
+This section describes how to create a claims-aware Enterprise Portal site by using a Microsoft Windows PowerShell cmdlet. The cmdlet in this section first creates a claims-aware web application in SharePoint, and then deploys an Enterprise Portal site on that web application. If you are not familiar with Windows PowerShell cmdlets for Microsoft Dynamics AX, see [Administering Microsoft Dynamics AX by using Windows PowerShell](https://go.microsoft.com/fwlink/?linkid=235298) for more information.
 
 
 > [!NOTE]
@@ -300,7 +300,7 @@ This section describes how to create a claims-aware Enterprise Portal site by us
     
     When prompted, enter the password that you specified when you created the SSL certificate.
 
-5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](http://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
+5.  On the Enterprise Portal server, execute the **New-AXClaimsAwareEnterprisePortalServer** cmdlet. For descriptions of the required parameters and syntax, see [New-AXClaimsAwareEnterprisePortalServer](https://go.microsoft.com/fwlink/?linkid=217573) on TechNet.
     
 
     > [!IMPORTANT]
@@ -512,7 +512,7 @@ You must configure the following parameters in the Microsoft Dynamics AX client.
 
 ## Next steps
 
-You must configure the vendor on-boarding workflow process in the Microsoft Dynamics AX client. The process is described in detail in the following blog [Step-by-step walkthrough of the vendor on-boarding process](http://go.microsoft.com/fwlink/?linkid=392074).
+You must configure the vendor on-boarding workflow process in the Microsoft Dynamics AX client. The process is described in detail in the following blog [Step-by-step walkthrough of the vendor on-boarding process](https://go.microsoft.com/fwlink/?linkid=392074).
 
 ## See also
 

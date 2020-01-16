@@ -44,9 +44,9 @@ This topic includes links to important information about how to set up and use G
 <p>Integration with General ledger</p>
 <p>Still didn’t find what you were looking for?</p></td>
 <td><img src="images/Dn800886.TopicIcons_RelatedResources(AX.60).png" title="Related resources" alt="Related resources" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=507515">Planning your chart of accounts in AX 2012</a> (blog)</p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=397377">Shared Financial Data Management for Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=397378">Implementing the account and dimensions framework</a> (white paper)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=507515">Planning your chart of accounts in AX 2012</a> (blog)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=397377">Shared Financial Data Management for Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=397378">Implementing the account and dimensions framework</a> (white paper)</p>
 <p><a href="financial-consolidations-and-currency-translation.md">Financial consolidations and currency translation by using Management Reporter</a> (white paper)</p>
 <p><a href="http://blogs.msdn.com/b/dynamics_financial_reporting/">Dynamics Financial Reporting</a> (blog)</p>
 <p><a href="http://community.dynamics.com/ax/f/33.aspx">Microsoft Dynamics AX Forum</a> (forum)</p>
@@ -125,7 +125,7 @@ This section provides information about what to consider before you set up Gener
 <td><p>Plan the chart of accounts</p></td>
 <td><p>Account structures in General ledger consist of main accounts and can include financial dimension segments. The account structures are used to define the valid combinations which, together with the main accounts, form a chart of accounts.</p>
 <p>If two or more segments of an account structure are organization units, such as Business unit or Department, an organization hierarchy can be used to determine the valid combinations. The constraints would not have to be defined directly in the account structure.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=507724">Planning your chart of accounts in AX 2012</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=507724">Planning your chart of accounts in AX 2012</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -257,7 +257,7 @@ This section lists tasks you can complete to set up General ledger.
 <td><p>Set up financial reports by using Management Reporter for Microsoft Dynamics ERP</p></td>
 <td><p>Create, maintain, deploy, and view financial reports by using Management Reporter for Microsoft Dynamics ERP (recommended) instead of using the traditional financial statements in Microsoft Dynamics AX.</p>
 <p>Management Reporter for Microsoft Dynamics ERP lets you design financial reports based on ledger accounts and financial dimensions, drill down to transaction-level detail, and use web-based report viewing.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up financial reason codes</p></td>
@@ -369,7 +369,7 @@ This section includes information about how to create, maintain, deploy, and vie
 <tr class="even">
 <td><p>Financial reports</p></td>
 <td><p>To create, maintain, deploy, and view financial reports, you can use Management Reporter for Microsoft Dynamics ERP (recommended), or you can use the traditional financial statements that are included with AX 2012.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</a></p>
 <p><a href="about-traditional-financial-statements.md">About traditional financial statements</a></p></td>
 </tr>
 <tr class="odd">

@@ -18,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 You use expressions throughout a report definition to control content and format the data in a report. You can use the Edit Expression window to write and edit expressions for an auto design report in Model Editor. Expressions are written using Visual Basic.
 
-When you define a precision design report in SQL Report Designer, you can use the Expression dialog box for Report Designer to write and edit expressions. The Edit Expression window is an extension of the Expression dialog box. This topic describes the Edit Expression window. For information about the Expression dialog box, see [Expression dialog box](http://go.microsoft.com/fwlink/?linkid=233067).
+When you define a precision design report in SQL Report Designer, you can use the Expression dialog box for Report Designer to write and edit expressions. The Edit Expression window is an extension of the Expression dialog box. This topic describes the Edit Expression window. For information about the Expression dialog box, see [Expression dialog box](https://go.microsoft.com/fwlink/?linkid=233067).
 
 You can also change the expression text in the Property window. Use the Property window when you know the expression to type. Use the Edit Expression window when you need to build an expression by adding items from a list.
 
@@ -150,7 +150,7 @@ An expression begins with an equal sign (=). This section contains references to
 </table>
 
 
-For additional examples of expressions, see [Expression Examples in Reporting Services](http://go.microsoft.com/fwlink/?linkid=106936).
+For additional examples of expressions, see [Expression Examples in Reporting Services](https://go.microsoft.com/fwlink/?linkid=106936).
 
 ## See also
 

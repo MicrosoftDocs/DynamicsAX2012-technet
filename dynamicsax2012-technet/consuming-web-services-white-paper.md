@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Microsoft Dynamics AX 2012 introduces a new model for how to consume external Web services. This white paper describes how to reference a Web service and provides example code that demonstrates how to use the service in X++.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213142).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213142).
 
   
 

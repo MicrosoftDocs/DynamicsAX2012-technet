@@ -149,7 +149,7 @@ To set up mobile device display settings, follow these steps:
 
 ## Define the date format to use on mobile devices
 
-You can extend the list of accepted date formats for each installation. For example, this can be useful if you want to provide a format that makes it easier for a worker to enter a date on a mobile device. The default format for dates is determined by the default language of the user account that the Internet Information Services (IIS) application pool that runs the WMDP uses to access Microsoft Dynamics AX. To change a date format, you must be familiar with regular expressions in the .NET Framework. For more information, see [.Net Framework Regular Expressions](http://go.microsoft.com/fwlink/?linkid=391260).
+You can extend the list of accepted date formats for each installation. For example, this can be useful if you want to provide a format that makes it easier for a worker to enter a date on a mobile device. The default format for dates is determined by the default language of the user account that the Internet Information Services (IIS) application pool that runs the WMDP uses to access Microsoft Dynamics AX. To change a date format, you must be familiar with regular expressions in the .NET Framework. For more information, see [.Net Framework Regular Expressions](https://go.microsoft.com/fwlink/?linkid=391260).
 
 You can define date formats by editing the Dates.ini file, which is located on the WMDP server in Content\\Settings\\Dates.ini. This file uses .NET regular expressions to determine the date format. The regular expression must contain sub-expressions that create named groups for day, month, and year (DDMMYY), as shown in the following example:
 

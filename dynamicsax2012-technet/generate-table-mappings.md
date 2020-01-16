@@ -39,7 +39,7 @@ To generate mapping between tables and fields in the source and target databases
 > [!IMPORTANT]
 > <UL>
 > <LI>
-> <P>If you encounter a mapping error, you may need to implement a presynchronization script that defines a mapping for the source table and field. For more information, see the white paper <A href="http://go.microsoft.com/fwlink/?linkid=196559%26clcid=0x409">How to write upgrade scripts in Microsoft Dynamics AX 2012</A>.</P>
+> <P>If you encounter a mapping error, you may need to implement a presynchronization script that defines a mapping for the source table and field. For more information, see the white paper <A href="https://go.microsoft.com/fwlink/?linkid=196559%26clcid=0x409">How to write upgrade scripts in Microsoft Dynamics AX 2012</A>.</P>
 > <LI>
 > <P>Customized solutions will frequently cause table mapping errors. For example, the addition of a new extended data type will create an error for every table where it occurs. You will not be able to complete upgrade until you write and implement presynchronization scripts to address schema differences you have introduced.</P>
 > <LI>

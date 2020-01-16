@@ -278,7 +278,7 @@ Plan the timing for updating your online store based on the availability require
 
 > [!NOTE]
 > <P>The recommended topology is to separate the computer running the head office components and the online channel components. In a topology that has head office components and Online Channel Components on the same computer, the Commerce Runtime and SharePoint DLLs in the Global Assembly Cache (GAC) must be the latest version of the DLLs. The assembly version of the DLLs for AX 2012 R3 RTM and AX 2012 R3 CU8 are the same and will require that you remove the existing DLLs from the GAC before AXUpdate.exe is run.</P>
-> <P>For more information, see <A href="http://msdn.microsoft.com/en-us/library/aa559881.aspx">How to Uninstall an Assembly from the GAC</A>.</P>
+> <P>For more information, see <A href="https://msdn.microsoft.com/library/aa559881.aspx">How to Uninstall an Assembly from the GAC</A>.</P>
 > <P>The assembly versions for the AX 2012 R2 and AX 2012 R3 releases are different and can co-exist.</P>
 
 

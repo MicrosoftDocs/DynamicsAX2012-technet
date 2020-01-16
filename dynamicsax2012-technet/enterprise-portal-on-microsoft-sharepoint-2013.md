@@ -26,15 +26,15 @@ Enterprise Portal is supported on SharePoint 2013. This topic describes prerequi
 
 1.  You must install one of the following updates if you plan to run Enterprise Portal on either Microsoft SharePoint Foundation 2013 or Microsoft SharePoint Server 2013 (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3). Choose an update that matches the SharePoint version on which you plan to deploy Enterprise Portal.
     
-    [Update for Microsoft SharePoint Enterprise Server 2013 (KB2767999)](http://go.microsoft.com/fwlink/?linkid=290893)
+    [Update for Microsoft SharePoint Enterprise Server 2013 (KB2767999)](https://go.microsoft.com/fwlink/?linkid=290893)
     
-    [Update for Microsoft SharePoint Foundation 2013 (KB2768000)](http://go.microsoft.com/fwlink/?linkid=286742)
+    [Update for Microsoft SharePoint Foundation 2013 (KB2768000)](https://go.microsoft.com/fwlink/?linkid=286742)
 
 2.  After you install an update, you must run the SharePoint 2013 Products Configuration wizard.
 
-3.  Download and install the Microsoft Dynamics AX 2012 R2 [setup hotfix (KB2830441)](http://go.microsoft.com/fwlink/?linkid=294676) (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).
+3.  Download and install the Microsoft Dynamics AX 2012 R2 [setup hotfix (KB2830441)](https://go.microsoft.com/fwlink/?linkid=294676) (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).
 
-4.  Download and install the Microsoft Dynamics AX 2012 R2 [claims-mode authentication hotfix (KB2824690)](http://go.microsoft.com/fwlink/?linkid=294677) (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).
+4.  Download and install the Microsoft Dynamics AX 2012 R2 [claims-mode authentication hotfix (KB2824690)](https://go.microsoft.com/fwlink/?linkid=294677) (required for Microsoft Dynamics AX 2012 R2 or earlier; not required for Microsoft Dynamics AX 2012 R3).
 
 5.  Reboot the server and then install Enterprise Portal. For more information about how to install Enterprise Portal or Enterprise Search, see [Install Enterprise Portal](install-enterprise-portal.md) and [Install Microsoft Dynamics AX Enterprise Search](install-microsoft-dynamics-ax-enterprise-search.md).
 
@@ -42,7 +42,7 @@ Enterprise Portal is supported on SharePoint 2013. This topic describes prerequi
 
 The following changes in Enterprise Portal functionality or behavior result when you run on SharePoint 2013.
 
-**Deprecated SharePoint features**: See [Changes from SharePoint 2010 to SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=306200) for a list of features that were deprecated in SharePoint 2013.
+**Deprecated SharePoint features**: See [Changes from SharePoint 2010 to SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=306200) for a list of features that were deprecated in SharePoint 2013.
 
 **Unable to install or configure Enterprise Portal**: Installation can fail if the Claims to Windows Token Service is not running in SharePoint Central Administration. The Setup log file includes the following error: Server was unable to process request. ---\> Could not retrieve a valid Windows identity. ---\> The message could not be dispatched because the service at the endpoint address 'net.pipe://localhost/s4u/022694f3-9fbd-422b-b4b2-312e25dae2a2' is unavailable for the protocol of the address.
 
@@ -50,7 +50,7 @@ To resolve this issue, in **SharePoint Central Administration**, click **System 
 
 **Experience all that SharePoint 2013 has to offer \> Missing Site Templates**: After you install Enterprise Portal on SharePoint 2013 you see a message bar that says, “Experience all that SharePoint 2013 has to offer.” If you click the link provided, you see an error that states, “Missing Site Templates”. You can ignore this message. To retain important functionality, features, and design, Enterprise Portal uses the SharePoint 2010 mode provided by SharePoint 2013.
 
-**Search Scope**: The SharePoint 2013 feature called result sources replaces SharePoint 2010 search scopes. For more information, see [Understanding result sources for search in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=306201) and [Configure result sources for search in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=306202).
+**Search Scope**: The SharePoint 2013 feature called result sources replaces SharePoint 2010 search scopes. For more information, see [Understanding result sources for search in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=306201) and [Configure result sources for search in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=306202).
 
 **Search Enterprise Portal Help**: SharePoint 2013 does not support search in Help content that is disk-based. The application only supports searching through Help content that is hosted online or on a web site. Users can still access Enterprise Portal Help by pressing F1 or by using the table of contents, but they cannot search the .cab-based system.
 

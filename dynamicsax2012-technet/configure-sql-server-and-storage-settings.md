@@ -60,19 +60,19 @@ Verify that SQL Server is configured to run as a background service in Windows.
 
 In addition to the documented best practices for SQL Server, we recommend the following configuration settings for the SQL Server service.
 
-  - Run the SQL Server service under an Active Directory domain account that has the minimum necessary privileges. For more information, see [SQL Server 2008 Security Overview for Database Administrators](http://go.microsoft.com/fwlink/?linkid=213202).
+  - Run the SQL Server service under an Active Directory domain account that has the minimum necessary privileges. For more information, see [SQL Server 2008 Security Overview for Database Administrators](https://go.microsoft.com/fwlink/?linkid=213202).
 
-  - Confirm that the account for the SQL Server service has been granted the **Lock pages in memory** privilege. We recommend this setting, because it significantly affects whether other processes affect SQL Server. For instructions, see [How to: Enable the Lock Pages in Memory Option (Windows)](http://go.microsoft.com/fwlink/?linkid=213203). For more information, see the following Web pages:
+  - Confirm that the account for the SQL Server service has been granted the **Lock pages in memory** privilege. We recommend this setting, because it significantly affects whether other processes affect SQL Server. For instructions, see [How to: Enable the Lock Pages in Memory Option (Windows)](https://go.microsoft.com/fwlink/?linkid=213203). For more information, see the following Web pages:
     
-      - The [Microsoft Customer Service and Support (CSS) SQL Server Engineers blog](http://go.microsoft.com/fwlink/?linkid=213204)
+      - The [Microsoft Customer Service and Support (CSS) SQL Server Engineers blog](https://go.microsoft.com/fwlink/?linkid=213204)
     
-      - Knowledge base article 981483, [How to reduce paging of buffer pool memory in the 64-bit version of SQL Server](http://go.microsoft.com/fwlink/?linkid=213205)
+      - Knowledge base article 981483, [How to reduce paging of buffer pool memory in the 64-bit version of SQL Server](https://go.microsoft.com/fwlink/?linkid=213205)
     
-      - [Slava Oks's WebLog](http://go.microsoft.com/fwlink/?linkid=213207)
+      - [Slava Oks's WebLog](https://go.microsoft.com/fwlink/?linkid=213207)
 
-  - Configure the account for the SQL Server service for instant file initialization. Instant file initialization is only available if the account for the SQL Server service, MSSQLSERVER, has been granted the SE\_MANAGE\_VOLUME\_NAME right. Members of the Windows Administrator group have this right and can grant it to other users by adding them to the **Perform Volume Maintenance Tasks** security policy. For more information, see [Database file initialization](http://go.microsoft.com/fwlink/?linkid=213208).
+  - Configure the account for the SQL Server service for instant file initialization. Instant file initialization is only available if the account for the SQL Server service, MSSQLSERVER, has been granted the SE\_MANAGE\_VOLUME\_NAME right. Members of the Windows Administrator group have this right and can grant it to other users by adding them to the **Perform Volume Maintenance Tasks** security policy. For more information, see [Database file initialization](https://go.microsoft.com/fwlink/?linkid=213208).
 
-  - Enable the TCP/IP network protocol. Depending on the edition of SQL Server that you use, this protocol may be automatically installed during installation. For instructions, see [How to: Enable or Disable a Server Network Protocol (SQL Server Configuration Manager)](http://go.microsoft.com/fwlink/?linkid=213210).
+  - Enable the TCP/IP network protocol. Depending on the edition of SQL Server that you use, this protocol may be automatically installed during installation. For instructions, see [How to: Enable or Disable a Server Network Protocol (SQL Server Configuration Manager)](https://go.microsoft.com/fwlink/?linkid=213210).
 
   - Disable hyperthreading. This step must be performed in the BIOS settings of the server. For instructions, see the hardware documentation for your server.
 
@@ -106,13 +106,13 @@ Examine the output from the second sp\_configure 'max degree of parallelism' sta
     GO
     EXEC sp_configure;
 
-For more information, see [max degree of parallelism Option](http://go.microsoft.com/fwlink/?linkid=213211). For general guidelines, see Knowledge base article 329204, [General guidelines to use to configure the MAXDOP option](http://go.microsoft.com/fwlink/?linkid=213212). For tips from the SQL Server team, visit the SQL Server Relational Engine team's blog, [SQL Server Engine Tips](http://go.microsoft.com/fwlink/?linkid=213213).
+For more information, see [max degree of parallelism Option](https://go.microsoft.com/fwlink/?linkid=213211). For general guidelines, see Knowledge base article 329204, [General guidelines to use to configure the MAXDOP option](https://go.microsoft.com/fwlink/?linkid=213212). For tips from the SQL Server team, visit the SQL Server Relational Engine team's blog, [SQL Server Engine Tips](https://go.microsoft.com/fwlink/?linkid=213213).
 
 ## Configuring max server memory
 
 SQL Server dynamically acquires and frees memory as required. Typically, an administrator does not have to specify how much memory is allocated to SQL Server. However, the **max server memory** option can be useful in some environments. Make sure that sufficient memory is available for the operation of Windows Server. For more information, see [Configure SQL Server and storage settings](configure-sql-server-and-storage-settings.md), later in this topic.
 
-If you find that the dynamic allocation of memory adversely affects the operation of Windows Server, adjust the value of **max server memory** based on the available random access memory (RAM). For more information, see [Effects of min and max server memory](http://go.microsoft.com/fwlink/?linkid=213214).
+If you find that the dynamic allocation of memory adversely affects the operation of Windows Server, adjust the value of **max server memory** based on the available random access memory (RAM). For more information, see [Effects of min and max server memory](https://go.microsoft.com/fwlink/?linkid=213214).
 
 ## Monitoring available memory
 
@@ -128,15 +128,15 @@ We recommend that you determine the total size of the data files and transaction
 
   - Determine the number of processors that are available to SQL Server. Unless you are using an affinity mask, this number is same as the total number of processors that you see on the **Performance** tab of Windows Task Manager. When hyperthreading is not enabled, each processor corresponds to a processor core. Affinity masks and processor cores are beyond the scope of this topic. For more information, see the Windows Server and SQL Server documentation.
 
-  - Based on performance testing of the OLTP workload for Microsoft Dynamics AX, we recommend that you maintain one tempdb data file per processor. For more information, see the performance benchmark reports on [PartnerSource](http://go.microsoft.com/fwlink/?linkid=143994) or [CustomerSource](http://go.microsoft.com/fwlink/?linkid=213216).
+  - Based on performance testing of the OLTP workload for Microsoft Dynamics AX, we recommend that you maintain one tempdb data file per processor. For more information, see the performance benchmark reports on [PartnerSource](https://go.microsoft.com/fwlink/?linkid=143994) or [CustomerSource](https://go.microsoft.com/fwlink/?linkid=213216).
 
   - Isolate tempdb on dedicated storage, if you can. We recommend that you move the primary data file and log file for tempdb to high-speed storage, if high-speed storage is available. The Microsoft Dynamics AX database runs in read committed snapshot isolation (RCSI) mode. In RCSI mode, row versions are stored in tempdb. By creating multiple files for tempdb data, even if these files reside on the same storage device, you can improve the performance of tempdb operations.
 
   - Determine the size of the tempdb data files and log files. You must create one primary data file and one log file. Determine how many additional, secondary data files you require for the tempdb data. For best results, create data files of equal size. The total number of data files must equal the total number of processor cores. The aggregate size of the primary data file and all other data files must equal the total data size that you determined for the tempdb database.
     
-    For more information, see [Optimizing tempdb performance](http://go.microsoft.com/fwlink/?linkid=213217).
+    For more information, see [Optimizing tempdb performance](https://go.microsoft.com/fwlink/?linkid=213217).
 
-  - Resize the primary data file and log file for tempdb. Move the primary data file and log file to dedicated storage, if dedicated storage is available. The primary tempdb data file cannot be moved while the instance of SQL Server is running. To complete the move, you must use an ALTER DATABASE statement and restart the instance of SQL Server. For more information, see [ALTER DATABASE](http://go.microsoft.com/fwlink/?linkid=213218).
+  - Resize the primary data file and log file for tempdb. Move the primary data file and log file to dedicated storage, if dedicated storage is available. The primary tempdb data file cannot be moved while the instance of SQL Server is running. To complete the move, you must use an ALTER DATABASE statement and restart the instance of SQL Server. For more information, see [ALTER DATABASE](https://go.microsoft.com/fwlink/?linkid=213218).
     
 
     > [!NOTE]
@@ -150,7 +150,7 @@ We recommend that you determine the total size of the data files and transaction
 
 ## Configuring the Microsoft Dynamics AX business database
 
-We recommend the following settings for the Microsoft Dynamics AX business database. You can use SQL Server Management Studio or the appropriate ALTER DATABASE statement to configure these settings. For more information, see [ALTER DATABASE](http://go.microsoft.com/fwlink/?linkid=213218).
+We recommend the following settings for the Microsoft Dynamics AX business database. You can use SQL Server Management Studio or the appropriate ALTER DATABASE statement to configure these settings. For more information, see [ALTER DATABASE](https://go.microsoft.com/fwlink/?linkid=213218).
 
   - Set COMPATIBILITY\_LEVEL to 110 for SQL Server 2012, or to 100 for SQL Server 2008 or SQL Server 2008 R2.
 
@@ -163,13 +163,13 @@ We recommend the following settings for the Microsoft Dynamics AX business datab
     
     Query the sys.databases catalog view, and verify that the Microsoft Dynamics AX database contains a value of 1 in the is\_read\_committed\_snapshot\_on column. For more information, see the following Web pages:
     
-      - [sys.databases](http://go.microsoft.com/fwlink/?linkid=213219)
+      - [sys.databases](https://go.microsoft.com/fwlink/?linkid=213219)
     
-      - [Choosing Row Versioning-based Isolation Levels](http://go.microsoft.com/fwlink/?linkid=213220)
+      - [Choosing Row Versioning-based Isolation Levels](https://go.microsoft.com/fwlink/?linkid=213220)
 
   - Set AUTO\_CREATE\_STATISTICS and AUTO\_UPDATE\_STATISTICS to **on**. Set AUTO\_UPDATE\_STATISTICS\_ASYNC to **off**. Performance testing has shown that Microsoft Dynamics AX performs better when the options have these settings.
 
-  - Make sure that the AUTO\_SHRINK option is set to **off**. When database files are automatically shrunk, performance of the database degrades. We recommend that the database administrator manually shrink the database files on a predefined schedule. For more information, see [Turn AUTO\_SHRINK OFF\!](http://go.microsoft.com/fwlink/?linkid=213221) on the SQL Server Storage Engine Team's blog.
+  - Make sure that the AUTO\_SHRINK option is set to **off**. When database files are automatically shrunk, performance of the database degrades. We recommend that the database administrator manually shrink the database files on a predefined schedule. For more information, see [Turn AUTO\_SHRINK OFF\!](https://go.microsoft.com/fwlink/?linkid=213221) on the SQL Server Storage Engine Team's blog.
 
 
 > [!IMPORTANT]
@@ -197,7 +197,7 @@ Designing a data storage solution involves multiple interrelated aspects. We rec
 
 5.  Track the performance as the workload changes.
 
-Step-by-step guidance about database architecture and storage is beyond the scope of this topic. For more detailed recommendations from the SQL Server team, see [Microsoft SQL Server Storage Top 10 Best Practices](http://go.microsoft.com/fwlink/?linkid=213199) and [Physical Database Storage Design](http://go.microsoft.com/fwlink/?linkid=213201).
+Step-by-step guidance about database architecture and storage is beyond the scope of this topic. For more detailed recommendations from the SQL Server team, see [Microsoft SQL Server Storage Top 10 Best Practices](https://go.microsoft.com/fwlink/?linkid=213199) and [Physical Database Storage Design](https://go.microsoft.com/fwlink/?linkid=213201).
 
 ## Configuring physical storage
 
@@ -205,7 +205,7 @@ This section provides general recommendations for physical storage. Determine th
 
   - Many factors contribute to optimal I/O performance for a disk. By default, Windows Server 2008 aligns partitions. When you upgrade to Windows Server 2008, preexisting partitions are not automatically aligned and must be manually rebuilt to guarantee optimal performance. Therefore, until you rebuild the migrated partitions, alignment of disk partitions remains a relevant technology.
     
-    Check existing disks on the server, and be aware of the differences in the analysis of basic partitions and dynamic volumes. Rebuild the partitions, if you can, and appropriate and create all new partitions based on guidance from the SAN vendor. If the vendor does not provide recommendations, follow the best practices for SQL Server. See [Disk Partition Alignment Best Practices for SQL Server](http://go.microsoft.com/fwlink/?linkid=213222).
+    Check existing disks on the server, and be aware of the differences in the analysis of basic partitions and dynamic volumes. Rebuild the partitions, if you can, and appropriate and create all new partitions based on guidance from the SAN vendor. If the vendor does not provide recommendations, follow the best practices for SQL Server. See [Disk Partition Alignment Best Practices for SQL Server](https://go.microsoft.com/fwlink/?linkid=213222).
     
     The partition offset value must be a multiple of the stripe size. In other words, the expression, *partition offset / stripe size*, must resolve to an integer value.
 
@@ -231,7 +231,7 @@ To help achieve optimal Microsoft Dynamics AX performance, you must correctly pl
 
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
-[Microsoft Dynamics AX Performance Team's blog](http://go.microsoft.com/fwlink/?linkid=213223)
+[Microsoft Dynamics AX Performance Team's blog](https://go.microsoft.com/fwlink/?linkid=213223)
 
   
 

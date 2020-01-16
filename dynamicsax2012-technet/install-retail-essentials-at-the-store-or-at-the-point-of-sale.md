@@ -129,7 +129,7 @@ Install one of the following components on point of sale devices.
 
   - On the computer where you plan to install these components, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install Retail essentials on the store server for Retail POS clients
 
@@ -325,7 +325,7 @@ Use this procedure to install Retail essentials on the store server. If you sele
 
   - On the computer where you plan to install these components, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install Retail essentials on point of sale devices
 

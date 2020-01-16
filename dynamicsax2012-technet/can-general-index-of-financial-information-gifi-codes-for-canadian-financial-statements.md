@@ -34,7 +34,7 @@ You must complete the following tasks before you begin to use GIFI codes:
 
   - Set up financial statement information for your company by using the **Financial statement** form.
 
-  - Download the binary file of GIFI codes from [CustomerSource](http://go.microsoft.com/fwlink/?linkid=84597).
+  - Download the binary file of GIFI codes from [CustomerSource](https://go.microsoft.com/fwlink/?linkid=84597).
 
 Use the following procedures to import GIFI codes into Microsoft Dynamics AX, and then use them for financial reporting.
 

@@ -408,10 +408,10 @@ The procedures for setting up and configuring AX 2012 R3 on Azure are the same p
 <tr class="even">
 <td>Use the Microsoft Dynamics AX web search tool</td>
 <td><ul>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=212924">Web search for developers</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=212925">Web search for system administrators</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=212922">Web search for application users</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=194311">Combined web search</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=212924">Web search for developers</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=212925">Web search for system administrators</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=212922">Web search for application users</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=194311">Combined web search</a></li>
 </ul></td>
 </tr>
 </tbody>

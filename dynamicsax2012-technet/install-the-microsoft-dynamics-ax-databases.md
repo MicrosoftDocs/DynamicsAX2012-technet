@@ -42,7 +42,7 @@ Verify that the following steps are completed before you install the Microsoft D
 
   - On the computer where you plan to install the databases, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - Make sure that you have the required permissions to install the database. For more information, see [Verify that you have the required permissions for installation](verify-that-you-have-the-required-permissions-for-installation.md).
 
@@ -302,7 +302,7 @@ Use this procedure to install the Microsoft Dynamics AX databases and model file
     
 
     > [!IMPORTANT]
-    > <P>The database name must not include any spaces or any of the following characters: backslashes (\), slashes (/), periods (.), commas (,), colons (:), brackets ([ ]), parentheses (( )), or hyphens (-). For more information about characters that are allowed by SQL Server, see the <A href="http://go.microsoft.com/fwlink/?linkid=214698">Identifiers</A> topic on MSDN.</P>
+    > <P>The database name must not include any spaces or any of the following characters: backslashes (\), slashes (/), periods (.), commas (,), colons (:), brackets ([ ]), parentheses (( )), or hyphens (-). For more information about characters that are allowed by SQL Server, see the <A href="https://go.microsoft.com/fwlink/?linkid=214698">Identifiers</A> topic on MSDN.</P>
 
     
     Click **Next**.

@@ -40,7 +40,7 @@ Use the following procedure to specify limits for diagnostic logging.
 
 ## See also
 
-[SharePoint documentation: Configure diagnostic logging](http://go.microsoft.com/fwlink/?linkid=194152)
+[SharePoint documentation: Configure diagnostic logging](https://go.microsoft.com/fwlink/?linkid=194152)
 
   
 

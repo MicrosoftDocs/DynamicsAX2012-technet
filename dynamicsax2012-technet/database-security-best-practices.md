@@ -26,7 +26,7 @@ We recommend that you do the following:
 
 ## Follow SQL Server security recommended practices
 
-We assume that you have followed the recommended transactional SQL Server security best practices described in the article [Securing SQL Server](http://msdn.microsoft.com/en-us/library/bb283235.aspx). These best practices include:
+We assume that you have followed the recommended transactional SQL Server security best practices described in the article [Securing SQL Server](https://msdn.microsoft.com/library/bb283235.aspx). These best practices include:
 
   - Platform and network security, including physical, operating system and file security
 
@@ -34,15 +34,15 @@ We assume that you have followed the recommended transactional SQL Server securi
 
 We also assume that security best practices are in place for all functions of SQL Server throughout the environment:
 
-  - [Security and protection (SSRS)](http://msdn.microsoft.com/en-us/library/bb522728.aspx)
+  - [Security and protection (SSRS)](https://msdn.microsoft.com/library/bb522728.aspx)
 
   - [Security and protection for analytics](security-and-protection-for-analytics.md)
 
-  - [Security planning for SharePoint 2013 farms](http://technet.microsoft.com/en-us/library/hh377941.aspx)
+  - [Security planning for SharePoint 2013 farms](https://technet.microsoft.com/library/hh377941.aspx)
 
 ## Encrypt sensitive data
 
-We recommend that you implement database encryption to enhance the security of data, including sensitive data, such as credit card numbers, bank account numbers, and personal identification numbers. If your business or organization processes and stores credit card information, we recommend that you adhere to the standards set by the [PCI Security Standards Council](http://go.microsoft.com/fwlink/?linkid=119942) for securing cardholder data. The [PCI Data Security Standard](http://go.microsoft.com/fwlink/?linkid=119943) requires the following:
+We recommend that you implement database encryption to enhance the security of data, including sensitive data, such as credit card numbers, bank account numbers, and personal identification numbers. If your business or organization processes and stores credit card information, we recommend that you adhere to the standards set by the [PCI Security Standards Council](https://go.microsoft.com/fwlink/?linkid=119942) for securing cardholder data. The [PCI Data Security Standard](https://go.microsoft.com/fwlink/?linkid=119943) requires the following:
 
 <table>
 <colgroup>
@@ -90,7 +90,7 @@ We recommend that you implement database encryption to enhance the security of d
 </table>
 
 
-Enabling database encryption directly addresses the requirement to protect stored cardholder data. SQL Server includes an encryption feature called Transparent Data Encryption (TDE). TDE is designed to provide protection for the entire database while it is at rest, without affecting existing applications. Implementing encryption in a database traditionally involves complicated application changes, such as modifying table schemas, removing functionality, and significant performance degradations. Custom schemes are often used to resolve equality searches, and ranged searches often cannot be used at all. Even basic database elements, such as creating an index or using foreign keys often do not work with cell-level or column-level encryption schemes, because the use of these features inherently leaks information. TDE solves these problems by encrypting everything, including all data types, keys, and indexes. For more information, see [Database Encryption in SQL Server 2008 Enterprise Edition](http://go.microsoft.com/fwlink/?linkid=119936).
+Enabling database encryption directly addresses the requirement to protect stored cardholder data. SQL Server includes an encryption feature called Transparent Data Encryption (TDE). TDE is designed to provide protection for the entire database while it is at rest, without affecting existing applications. Implementing encryption in a database traditionally involves complicated application changes, such as modifying table schemas, removing functionality, and significant performance degradations. Custom schemes are often used to resolve equality searches, and ranged searches often cannot be used at all. Even basic database elements, such as creating an index or using foreign keys often do not work with cell-level or column-level encryption schemes, because the use of these features inherently leaks information. TDE solves these problems by encrypting everything, including all data types, keys, and indexes. For more information, see [Database Encryption in SQL Server 2008 Enterprise Edition](https://go.microsoft.com/fwlink/?linkid=119936).
 
 ## Secure the database logs
 

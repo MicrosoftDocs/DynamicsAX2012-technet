@@ -18,7 +18,7 @@ In services and Application Integration Framework (AIF) document services, you c
 
 ## Enabling change tracking
 
-Change tracking must be enabled for the database tables that are used by the document service. For more information about how to enable change tracking, see [Configuring and Managing Change Tracking](http://go.microsoft.com/fwlink/?linkid=227482).
+Change tracking must be enabled for the database tables that are used by the document service. For more information about how to enable change tracking, see [Configuring and Managing Change Tracking](https://go.microsoft.com/fwlink/?linkid=227482).
 
 ## Configuring the integration port
 

@@ -56,10 +56,10 @@ Before you begin the planning process, you must make sure that the following pre
 <tr class="odd">
 <td><p>Required knowledge</p></td>
 <td><p>Before you begin installing and using the reporting features of Microsoft Dynamics AX, you must be familiar with Microsoft SQL Server Reporting Services.</p></td>
-<td><p><a href="http://technet.microsoft.com/en-us/library/ms159106.aspx">Reporting Services 2014</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/ms159106(v=sql.110).aspx">Reporting Services 2012</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/ms159106(v=sql.105).aspx">Reporting Services 2008 R2</a></p>
-<p><a href="http://technet.microsoft.com/en-us/library/ms159106(v=sql.100).aspx">Reporting Services 2008</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/ms159106.aspx">Reporting Services 2014</a></p>
+<p><a href="https://technet.microsoft.com/library/ms159106(v=sql.110).aspx">Reporting Services 2012</a></p>
+<p><a href="https://technet.microsoft.com/library/ms159106(v=sql.105).aspx">Reporting Services 2008 R2</a></p>
+<p><a href="https://technet.microsoft.com/library/ms159106(v=sql.100).aspx">Reporting Services 2008</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -170,11 +170,11 @@ An environment of this kind may resemble the following illustration.
 
 ![SSRS scale-out deployment](images/Dd309577.BI_Modern_SSRSScaleOut(AX.60).png "SSRS scale-out deployment")
 
-For more information about how to configure a scale-out deployment, see the [Configuring a SQL Server Reporting Services scale-out deployment to run on a Network Load Balancing cluster](http://go.microsoft.com/fwlink/?linkid=248235) white paper. For more information about Reporting Services scale-out deployments, see [Planning for scale-out deployment](http://msdn.microsoft.com/en-us/library/bb630407.aspx) in the SQL Server documentation.
+For more information about how to configure a scale-out deployment, see the [Configuring a SQL Server Reporting Services scale-out deployment to run on a Network Load Balancing cluster](https://go.microsoft.com/fwlink/?linkid=248235) white paper. For more information about Reporting Services scale-out deployments, see [Planning for scale-out deployment](https://msdn.microsoft.com/library/bb630407.aspx) in the SQL Server documentation.
 
 ## Failover clustering
 
-Reporting Services cannot be installed on a failover cluster because you cannot run the Reporting Services service as part of a failover cluster. However, you can install the report server database on a computer that has a failover cluster installed. For more information, see [Host a Report Server Database in a SQL Server Failover Cluster](http://msdn.microsoft.com/en-us/library/bb630402.aspx).
+Reporting Services cannot be installed on a failover cluster because you cannot run the Reporting Services service as part of a failover cluster. However, you can install the report server database on a computer that has a failover cluster installed. For more information, see [Host a Report Server Database in a SQL Server Failover Cluster](https://msdn.microsoft.com/library/bb630402.aspx).
 
 ## AlwaysOn
 
@@ -357,7 +357,7 @@ If you or anyone in your organization needs to create a new, custom report, seve
 
 ## Learn about Management Reporter
 
-Management Reporter for Microsoft Dynamics ERP is the recommended financial reporting solution for Microsoft Dynamics AX 2012. Use Management Reporter to create, distribute, and analyze financial statements and other financial reports. For more information, see [Management Reporter for Microsoft Dynamics ERP](http://technet.microsoft.com/en-us/library/dn435963.aspx).
+Management Reporter for Microsoft Dynamics ERP is the recommended financial reporting solution for Microsoft Dynamics AX 2012. Use Management Reporter to create, distribute, and analyze financial statements and other financial reports. For more information, see [Management Reporter for Microsoft Dynamics ERP](https://technet.microsoft.com/library/dn435963.aspx).
 
 ## Next steps
 

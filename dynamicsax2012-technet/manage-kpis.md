@@ -38,7 +38,7 @@ To configure the KPI List web part to display KPIs, follow these steps.
 
 2.  From the **Cube** list, select the cube that contains the KPI that you want to display.
     
-    For more information about the KPIs that are contained in each cube, see [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=268892).
+    For more information about the KPIs that are contained in each cube, see [Cube and KPI reference for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=268892).
 
 3.  From the **KPI** list, select the KPI to display.
 

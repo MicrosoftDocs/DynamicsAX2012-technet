@@ -32,7 +32,7 @@ The target completion dates that you assign are based on Coordinated Universal T
 
 
 
-1.  In your browser, open online services at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

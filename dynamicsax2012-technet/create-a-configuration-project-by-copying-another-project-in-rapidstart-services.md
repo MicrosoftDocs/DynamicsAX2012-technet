@@ -22,7 +22,7 @@ In Microsoft Dynamics ERP RapidStart Services, you can create a configuration pr
 
 For information about why you might choose to copy a configuration project, see the topic [Learn about configuration projects in RapidStart Services](learn-about-configuration-projects-in-rapidstart-services.md).
 
-1.  In your browser, open online services at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

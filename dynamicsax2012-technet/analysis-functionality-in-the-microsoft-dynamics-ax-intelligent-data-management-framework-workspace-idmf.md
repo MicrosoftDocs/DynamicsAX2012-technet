@@ -43,7 +43,7 @@ The **Analysis details** command provides detailed database analysis information
 
 ### Navigation of the Analysis details workspace
 
-The following tables provide descriptions for the controls in this workspace. For a detailed explanation of Microsoft SQL Server terms, see the [SQL Server documentation](http://go.microsoft.com/fwlink/?LinkId=227464).
+The following tables provide descriptions for the controls in this workspace. For a detailed explanation of Microsoft SQL Server terms, see the [SQL Server documentation](https://go.microsoft.com/fwlink/?LinkId=227464).
 #### Panes
 
 | Pane                                            | Description                                                                                                                                                                                                                               |

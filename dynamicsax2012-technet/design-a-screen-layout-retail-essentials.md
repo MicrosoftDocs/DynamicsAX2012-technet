@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-This topic explains how to design a screen layout for a register. You can use this feature only if you have been granted the appropriate permissions to the database. For more information, see this [TechNet article](http://go.microsoft.com/fwlink/?linkid=267571).
+This topic explains how to design a screen layout for a register. You can use this feature only if you have been granted the appropriate permissions to the database. For more information, see this [TechNet article](https://go.microsoft.com/fwlink/?linkid=267571).
 
 
 > [!NOTE]

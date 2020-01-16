@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 The Diagnostic Framework for Microsoft Dynamics AX, beta version, helped administrators diagnose the health of Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2009. The framework assessed the health of Microsoft Dynamics AX and its components, such as Microsoft Dynamics AX Application Object Server (AOS), Microsoft SQL Server, Microsoft Internet Information Services (IIS), Microsoft SQL Server Reporting Services, and Microsoft SQL Server Analysis Services.
 
-The Diagnostics Framework was available from the [InformationSource services download page](http://go.microsoft.com/fwlink/?linkid=275489).
+The Diagnostics Framework was available from the [InformationSource services download page](https://go.microsoft.com/fwlink/?linkid=275489).
 
 ## Overview
 

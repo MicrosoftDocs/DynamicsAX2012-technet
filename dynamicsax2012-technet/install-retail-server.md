@@ -38,7 +38,7 @@ This topic includes the following sections.
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - 
     
@@ -252,7 +252,7 @@ After you extract the installation files by using Setup, you must configure sett
 
 
 > [!IMPORTANT]
-> <P>If you deployed Retail Server in a web farm with a load balancer, you must specify a machine key to ensure that client connections retain session. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=397516">WIF and Web Farms</A>.</P>
+> <P>If you deployed Retail Server in a web farm with a load balancer, you must specify a machine key to ensure that client connections retain session. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=397516">WIF and Web Farms</A>.</P>
 
 
 

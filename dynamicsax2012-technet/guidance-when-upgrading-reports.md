@@ -70,7 +70,7 @@ Reporting Services is the primary reporting platform for Microsoft Dynamics AX. 
 
 10. View the report in Microsoft Dynamics AX by [creating a menu item](how-to-create-a-menu-item-for-a-report.md) for the report.
 
-11. After you upgrade the report you must manually delete the old report. For more information, see [How to Delete a SQL Reporting Services Report](http://go.microsoft.com/fwlink/?linkid=219164)
+11. After you upgrade the report you must manually delete the old report. For more information, see [How to Delete a SQL Reporting Services Report](https://go.microsoft.com/fwlink/?linkid=219164)
 
 
 > [!NOTE]
@@ -175,7 +175,7 @@ Use the following steps to convert a MorphX report to Reporting Services.
 
 12. View the report in Microsoft Dynamics AX by [creating a menu item](how-to-create-a-menu-item-for-a-report.md) for the report.
 
-13. After you convert the report you must manually delete the old report. For more information, see [How to Delete a SQL Reporting Services Report](http://go.microsoft.com/fwlink/?linkid=219164)
+13. After you convert the report you must manually delete the old report. For more information, see [How to Delete a SQL Reporting Services Report](https://go.microsoft.com/fwlink/?linkid=219164)
 
 
 > [!NOTE]

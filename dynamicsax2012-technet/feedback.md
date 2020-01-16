@@ -26,7 +26,7 @@ You can use **Feedback and Ratings** to share your concerns about a topic with t
 
 You can use the **Community Content** area at the bottom of the topic to post additional information that might be helpful to other readers. The **Community Content** area is available in the **Classic** and **Lightweight** views. Information that you enter by using the **Community Content** area is public.
 
-For more information, see the [Online privacy notice](http://go.microsoft.com/fwlink/?linkid=81184).
+For more information, see the [Online privacy notice](https://go.microsoft.com/fwlink/?linkid=81184).
 
   
 

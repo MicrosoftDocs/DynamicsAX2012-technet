@@ -24,7 +24,7 @@ If you are setting up AX 2012 R2 or AX 2012 R3, you must also complete the tasks
 
 If you are setting up AX 2012 R3, the **Initialization checklist** contains the following tasks:
 
-  - [Lifecycle Services](http://go.microsoft.com/fwlink/?linkid=306510)
+  - [Lifecycle Services](https://go.microsoft.com/fwlink/?linkid=306510)
 
   - [Set customer feedback options](set-customer-feedback-options.md)
 

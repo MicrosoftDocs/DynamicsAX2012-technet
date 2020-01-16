@@ -33,7 +33,7 @@ In Microsoft Dynamics AX 2012 R2, we changed and added country-specific function
 <tr class="odd">
 <td><p>Updates to the Italian fiscal journal report</p></td>
 <td><p>The Italian fiscal journal report lists all the vouchers and journal entries that are created for a specific month. The report now includes the following information: line numbers, the posting date, voucher numbers, tax vouchers, the document date, account numbers and descriptions, customer or vendor numbers and names, posting text, and posting amounts. The report also includes debit and credit totals, which are calculated yearly. Additionally, if a header is printed on the report, the company’s name and tax exempt number, and the page numbers, must be printed.</p>
-<p>For more information, see <a href="http://support.microsoft.com/kb/2711379">KB article 2711379: “Country-specific update for the Fiscal Journal report in Italy for Microsoft Dynamics AX 2012”</a>.</p></td>
+<p>For more information, see <a href="https://support.microsoft.com/kb/2711379">KB article 2711379: “Country-specific update for the Fiscal Journal report in Italy for Microsoft Dynamics AX 2012”</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Updates to the Italian sales tax payment report</p></td>

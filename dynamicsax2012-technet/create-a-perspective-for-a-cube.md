@@ -128,5 +128,5 @@ Before you can complete the procedures in this topic, you must make sure that th
 
 [Business Intelligence Properties](business-intelligence-properties.md)
 
-[Introduction to Cubes (SQL Server Books Online)](http://go.microsoft.com/fwlink/?linkid=115081)
+[Introduction to Cubes (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115081)
 

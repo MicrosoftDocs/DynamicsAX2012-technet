@@ -65,11 +65,11 @@ The following software must be installed in the Microsoft Dynamics AX environmen
 </tr>
 <tr class="even">
 <td><p>Microsoft SharePoint Server 2010 or 2013 Enterprise Edition must be installed.</p></td>
-<td><p>For information about how to install SharePoint Server 2010, see <a href="http://technet.microsoft.com/en-us/library/cc262957(v=office.14)">Deployment for SharePoint Server 2010</a>.</p>
-<p>For information about how to install SharePoint Server 2013, see <a href="http://technet.microsoft.com/en-us/library/cc303424.aspx">Install SharePoint 2013</a>.</p></td>
+<td><p>For information about how to install SharePoint Server 2010, see <a href="https://technet.microsoft.com/library/cc262957(v=office.14)">Deployment for SharePoint Server 2010</a>.</p>
+<p>For information about how to install SharePoint Server 2013, see <a href="https://technet.microsoft.com/library/cc303424.aspx">Install SharePoint 2013</a>.</p></td>
 </tr>
 <tr class="odd">
-<td><p>Microsoft SQL Server Reporting Services 2012 Service Pack 1 must be installed in SharePoint integrated mode with <a href="http://support.microsoft.com/kb/2833645/en-us">cumulative update 4</a> applied.</p>
+<td><p>Microsoft SQL Server Reporting Services 2012 Service Pack 1 must be installed in SharePoint integrated mode with <a href="https://support.microsoft.com/kb/2833645/en-us">cumulative update 4</a> applied.</p>
 <p>-OR-</p>
 <p>Microsoft SQL Server Reporting Services 2014 must be installed in SharePoint integrated mode.</p></td>
 <td><p>For information about how to install Reporting Services in SharePoint integrated mode, see the <strong>Configure Reporting Services 2012 or 2014 in SharePoint integrated mode</strong> section of <a href="before-you-install-the-reporting-services-extensions.md">Before you install the Reporting Services extensions</a>.</p>
@@ -77,16 +77,16 @@ The following software must be installed in the Microsoft Dynamics AX environmen
 <pre><code>&lt;add key=&quot;DynamicsAxPowerViewSQLVersion&quot; value=&quot;12&quot;/&gt;</code></pre></td>
 </tr>
 <tr class="even">
-<td><p>Microsoft SQL Server Analysis Services 2012 Service Pack 1 must be installed in multidimensional mode with <a href="http://support.microsoft.com/kb/2833645/en-us">cumulative update 4</a> applied.</p>
+<td><p>Microsoft SQL Server Analysis Services 2012 Service Pack 1 must be installed in multidimensional mode with <a href="https://support.microsoft.com/kb/2833645/en-us">cumulative update 4</a> applied.</p>
 <p>-OR-</p>
 <p>Microsoft SQL Server Analysis Services 2014 must be installed in multidimensional mode.</p></td>
-<td><p>For information about how to install Analysis Services in multidimensional mode, see <a href="http://technet.microsoft.com/en-us/library/ms143708.aspx">Install Analysis Services in multidimensional and data mining mode</a>.</p>
+<td><p>For information about how to install Analysis Services in multidimensional mode, see <a href="https://technet.microsoft.com/library/ms143708.aspx">Install Analysis Services in multidimensional and data mining mode</a>.</p>
 <p>If you install Analysis Services 2014, you must modify the SharePoint web.config file. This file is typically located at C:\Inetpub\wwwroot\wss\VirtualDirectories\80. Add the following line of code to the <strong>appSettings</strong> section:</p>
 <pre><code>&lt;add key=&quot;DynamicsAxPowerViewSQLVersion&quot; value=&quot;12&quot;/&gt;</code></pre></td>
 </tr>
 <tr class="odd">
 <td><p>The Power View site collection feature in SharePoint must be activated.</p></td>
-<td><p>For information about how to activate this feature, see the <strong>Active the Power View Site Collection Feature</strong> section of <a href="http://technet.microsoft.com/en-us/library/gg492276.aspx">Install Reporting Services SharePoint Mode as a Single Server Farm</a>.</p></td>
+<td><p>For information about how to activate this feature, see the <strong>Active the Power View Site Collection Feature</strong> section of <a href="https://technet.microsoft.com/library/gg492276.aspx">Install Reporting Services SharePoint Mode as a Single Server Farm</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Microsoft Dynamics AX 2012 R2 with cumulative update 6 or higher, or Microsoft Dynamics AX 2012 R3 must be installed. The following components are required:</p>
@@ -261,7 +261,7 @@ To create and design the Power View report, complete the following procedure.
 
 4.  Enter a name for the report in the title area.
 
-5.  Use the options on the **Styles**, **Design**, and **Layout** tabs to format the report as necessary. For more information about how to use the Power View options to format the report, see [Power View Design Experience](http://technet.microsoft.com/en-us/library/hh231518.aspx) in the SQL Server documentation.
+5.  Use the options on the **Styles**, **Design**, and **Layout** tabs to format the report as necessary. For more information about how to use the Power View options to format the report, see [Power View Design Experience](https://technet.microsoft.com/library/hh231518.aspx) in the SQL Server documentation.
 
 6.  Save the report.
 

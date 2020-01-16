@@ -153,7 +153,7 @@ The following procedures explain how to manually define a report parameter and u
     </tr>
     <tr class="even">
     <td><p><strong>Value</strong></p></td>
-    <td><p>The parameter or an expression that contains the parameter. Choose <strong>&lt;Expression…&gt;</strong> from the drop-down list to create a complex expression. For information about creating expressions, see <a href="http://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
+    <td><p>The parameter or an expression that contains the parameter. Choose <strong>&lt;Expression…&gt;</strong> from the drop-down list to create a complex expression. For information about creating expressions, see <a href="https://go.microsoft.com/fwlink/?linkid=106936">Expression Examples in Reporting Services</a>.</p></td>
     </tr>
     </tbody>
     </table>
@@ -241,5 +241,5 @@ There are many types of report parameters. Use the following table to decide whi
 
 [Controls Used to Render Report Parameters](controls-used-to-render-report-parameters.md)
 
-[Expression Examples in Reporting Services](http://go.microsoft.com/fwlink/?linkid=106936)
+[Expression Examples in Reporting Services](https://go.microsoft.com/fwlink/?linkid=106936)
 

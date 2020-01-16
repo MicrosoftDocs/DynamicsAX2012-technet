@@ -14,12 +14,12 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-This topic describes how to install Management Reporter for Microsoft Dynamics ERP by using the Microsoft Dynamics AX Setup wizard. Management Reporter is a financial reporting tool that is used to create, distribute, and analyze financial statements. For more information about Management Reporter, see [the Management Reporter page](http://go.microsoft.com/fwlink/?linkid=324871) on CustomerSource (logon is required).
+This topic describes how to install Management Reporter for Microsoft Dynamics ERP by using the Microsoft Dynamics AX Setup wizard. Management Reporter is a financial reporting tool that is used to create, distribute, and analyze financial statements. For more information about Management Reporter, see [the Management Reporter page](https://go.microsoft.com/fwlink/?linkid=324871) on CustomerSource (logon is required).
 
 
 > [!NOTE]
-> <P>Management Reporter is available through the Microsoft Dynamics AX Setup wizard in AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7). For information about how to install Management Reporter with CU 7, see the <A href="http://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
-> <P>If you’re not using Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2, you can use the stand-alone installation for Management Reporter. Download and run the installation package that is available on CustomerSource. For information about how to run the stand-alone installation, see the <A href="http://go.microsoft.com/fwlink/?linkid=325393">Management Reporter Installation Guide</A> (PDF).</P>
+> <P>Management Reporter is available through the Microsoft Dynamics AX Setup wizard in AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2 (CU 7). For information about how to install Management Reporter with CU 7, see the <A href="https://go.microsoft.com/fwlink/?linkid=329982">Installation Guide for cumulative update 7</A>.</P>
+> <P>If you’re not using Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2, you can use the stand-alone installation for Management Reporter. Download and run the installation package that is available on CustomerSource. For information about how to run the stand-alone installation, see the <A href="https://go.microsoft.com/fwlink/?linkid=325393">Management Reporter Installation Guide</A> (PDF).</P>
 
 
 
@@ -31,7 +31,7 @@ When you install Management Reporter, Microsoft SQL Server change tracking is en
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 ## Install Management Reporter
 
@@ -85,11 +85,11 @@ Use this procedure to install Management Reporter. If you install other Microsof
 
 ## After you install Management Reporter
 
-After installation, you must open the Report Designer client and enter registration keys. After you have entered registration keys, additional configuration might be required before you can add report viewers or users. For information about how to configure Management Reporter, see the [Management Reporter Installation Guide](http://go.microsoft.com/fwlink/?linkid=325393) (PDF).
+After installation, you must open the Report Designer client and enter registration keys. After you have entered registration keys, additional configuration might be required before you can add report viewers or users. For information about how to configure Management Reporter, see the [Management Reporter Installation Guide](https://go.microsoft.com/fwlink/?linkid=325393) (PDF).
 
-Management Reporter is available to Microsoft Dynamics AX users based on role membership in Microsoft Dynamics AX. For information about how Management Reporter integrates with Microsoft Dynamics AX, see the [Management Reporter Integration Guide for Microsoft Dynamics AX](http://go.microsoft.com/fwlink/?linkid=325395) (PDF).
+Management Reporter is available to Microsoft Dynamics AX users based on role membership in Microsoft Dynamics AX. For information about how Management Reporter integrates with Microsoft Dynamics AX, see the [Management Reporter Integration Guide for Microsoft Dynamics AX](https://go.microsoft.com/fwlink/?linkid=325395) (PDF).
 
-For information about how to use Management Reporter, see the [Management Reporter technical library](http://go.microsoft.com/fwlink/?linkid=325396) on TechNet.
+For information about how to use Management Reporter, see the [Management Reporter technical library](https://go.microsoft.com/fwlink/?linkid=325396) on TechNet.
 
 ## See also
 

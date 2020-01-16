@@ -176,7 +176,7 @@ The following example creates a message to update a sales order with three sales
 
 Document service queries often contain tables that are linked with a surrogate foreign key. Default behavior for a partial update using a document service is to leave fields unchanged if they are not specified in the update. In other words, if you do not specify any new values for the fields in the LogisticsPostalAddress table when updating fields for a Sales Order, those values remain the same after the partial update. However, you can clear surrogate foreign key fields by using the ClearNilFieldsOnUpdate property and xsi:nil attribute.
 
-To clear the surrogate foreign key fields when you perform a partial update, you set values for a property and an attribute. You set the property ClearNilFieldsOnUpdate to True. You use the xsi:nil attribute to indicate that the fields in the **LogisticsPostalAddress** table have no content. For more information about the xsi:nil attribute, see [Xsi:nil Attribute Binding Support](http://go.microsoft.com/fwlink/?linkid=394533%26clcid=0x409).
+To clear the surrogate foreign key fields when you perform a partial update, you set values for a property and an attribute. You set the property ClearNilFieldsOnUpdate to True. You use the xsi:nil attribute to indicate that the fields in the **LogisticsPostalAddress** table have no content. For more information about the xsi:nil attribute, see [Xsi:nil Attribute Binding Support](https://go.microsoft.com/fwlink/?linkid=394533%26clcid=0x409).
 
 The following example shows XML that clears the surrogate foreign key values for a Sales Order that has a CustAccount of 10002.
 

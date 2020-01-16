@@ -21,7 +21,7 @@ Secure Sockets Layer (SSL) enables web servers and clients to communicate more s
 
 ## Implement SSL
 
-To implement SSL, you must install a certificate and a private encryption key on the web server by using Internet Information Services (IIS) manager. For more information, see [How to Setup SSL on IIS 7](http://go.microsoft.com/fwlink/?linkid=223135).
+To implement SSL, you must install a certificate and a private encryption key on the web server by using Internet Information Services (IIS) manager. For more information, see [How to Setup SSL on IIS 7](https://go.microsoft.com/fwlink/?linkid=223135).
 
 ## See also
 

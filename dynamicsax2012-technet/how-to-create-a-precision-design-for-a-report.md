@@ -26,7 +26,7 @@ You can create a precision design for a report that requires a very precise layo
 
 3.  Right-click the **Designs** node for the report, point to **Add**, and then click **Precision Design**.
     
-    The report design opens in SQL Report Designer and is ready to be edited. You can drag and drop fields from the **Report Data** pane onto the report. In addition, you can drag and drop elements from **Toolbox** onto the report. Use the properties in the **Properties** window to modify the display of the elements in a report. For more information, see [Designing Reports in Report Designer](http://go.microsoft.com/fwlink/?linkid=229038).
+    The report design opens in SQL Report Designer and is ready to be edited. You can drag and drop fields from the **Report Data** pane onto the report. In addition, you can drag and drop elements from **Toolbox** onto the report. Use the properties in the **Properties** window to modify the display of the elements in a report. For more information, see [Designing Reports in Report Designer](https://go.microsoft.com/fwlink/?linkid=229038).
 
 ### To edit an existing report design in SQL Report Designer
 
@@ -50,7 +50,7 @@ You can create a precision design for a report that requires a very precise layo
 
 [How to: Create an Auto Design for a Report](how-to-create-an-auto-design-for-a-report.md)
 
-[Designing Reports in Report Designer](http://go.microsoft.com/fwlink/?linkid=229038)
+[Designing Reports in Report Designer](https://go.microsoft.com/fwlink/?linkid=229038)
 
 [Walkthrough: Referencing a Report Parameter from Multiple Datasets in a Precision Design Report](walkthrough-referencing-a-report-parameter-from-multiple-datasets-in-a-precision-design-report.md)
 

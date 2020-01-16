@@ -62,11 +62,11 @@ The following example shows the format of the entry in the WCF .config file that
 
 For more information, see the following topics:
 
-  - [Service Identity and Authentication](http://msdn.microsoft.com/en-us/library/ms733130.aspx)
+  - [Service Identity and Authentication](https://msdn.microsoft.com/library/ms733130.aspx)
 
-  - [Overriding the Identity of a Service for Authentication](http://msdn.microsoft.com/en-us/library/ms733130.aspx)
+  - [Overriding the Identity of a Service for Authentication](https://msdn.microsoft.com/library/ms733130.aspx)
 
-  - [Kerberos](http://technet.microsoft.com/en-us/library/cc753173\(ws.10\).aspx)
+  - [Kerberos](https://technet.microsoft.com/library/cc753173\(ws.10\).aspx)
 
 ## See also
 

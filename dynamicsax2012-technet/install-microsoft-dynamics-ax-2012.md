@@ -33,15 +33,15 @@ Be sure to review the following information before you install Microsoft Dynamic
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a></p></td>
 <td><p>Includes deployment information and guidance to help you simplify the experience of implementing Microsoft Dynamics AX 2012.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements</a></p></td>
 <td><p>Lists the Microsoft Dynamics AX 2012 system requirements.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=217931">Release notes</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=217931">Release notes</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -103,7 +103,7 @@ Use the following information to install and configure Microsoft Dynamics AX 201
 
 
 > [!NOTE]
-> <P>You can download a printable version of the <A href="http://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</A> from the Microsoft Download Center.</P>
+> <P>You can download a printable version of the <A href="https://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</A> from the Microsoft Download Center.</P>
 
 
 
@@ -124,11 +124,11 @@ Use the following resources after you install Microsoft Dynamics AX 2012.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=214390">System administrator help on TechNet</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=214390">System administrator help on TechNet</a></p></td>
 <td><p>Describes how to set up and administer Microsoft Dynamics AX.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=221362">Microsoft training</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=221362">Microsoft training</a></p></td>
 <td><p>Includes information about training that is available for your organization. This includes classroom training, online learning, onsite training, training materials, and training from your partner.</p></td>
 </tr>
 <tr class="odd">

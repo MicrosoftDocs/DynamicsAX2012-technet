@@ -40,9 +40,9 @@ Data import is a resource-intensive activity that can affect data integrity.
 
 Consider the following recommendations before you begin a data import:
 
-  - If you plan to perform many import operations, we recommend that you put the data file and transaction log file for Microsoft SQL Server on separate spindles to minimize contention. For more information about best practices for the placement of SQL Server log files and data files, see [Storage Top 10 Best Practices](http://go.microsoft.com/fwlink/?linkid=216182).
+  - If you plan to perform many import operations, we recommend that you put the data file and transaction log file for Microsoft SQL Server on separate spindles to minimize contention. For more information about best practices for the placement of SQL Server log files and data files, see [Storage Top 10 Best Practices](https://go.microsoft.com/fwlink/?linkid=216182).
 
-  - We recommend that you or the database administrator actively manage the size of the transaction log file after large import operations. During the import process, Microsoft Dynamics AX creates staging tables, and then drops them after the import is completed. Therefore, the transaction log file is likely to grow significantly during a data import. For more information about how to manage the size of the transaction log file, see [Managing the Size of the Transaction Log File](http://go.microsoft.com/fwlink/?linkid=216188).
+  - We recommend that you or the database administrator actively manage the size of the transaction log file after large import operations. During the import process, Microsoft Dynamics AX creates staging tables, and then drops them after the import is completed. Therefore, the transaction log file is likely to grow significantly during a data import. For more information about how to manage the size of the transaction log file, see [Managing the Size of the Transaction Log File](https://go.microsoft.com/fwlink/?linkid=216188).
 
   - We strongly recommend that you shut down Enterprise Portal for Microsoft Dynamics AX and Microsoft SharePoint products during a data import, so that the import is the only active process that affects data. Otherwise, data can be corrupted.
 

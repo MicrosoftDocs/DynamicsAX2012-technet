@@ -26,19 +26,19 @@ The following list includes links to documents that describe how to configure th
 
 2.  [Add AOT queries to the Search configuration](add-aot-queries-to-the-search-configuration.md)
 
-3.  [Install SharePoint 2012 Products and Technologies](http://go.microsoft.com/fwlink/?linkid=241980)
+3.  [Install SharePoint 2012 Products and Technologies](https://go.microsoft.com/fwlink/?linkid=241980)
 
-4.  [Install FAST Search Server 2010 for SharePoint](http://go.microsoft.com/fwlink/?linkid=241974)
+4.  [Install FAST Search Server 2010 for SharePoint](https://go.microsoft.com/fwlink/?linkid=241974)
 
-5.  [Configure a stand-alone deployment or a multiple server deployment (FAST Search Server 2010 for SharePoint)](http://go.microsoft.com/fwlink/?linkid=241975)
+5.  [Configure a stand-alone deployment or a multiple server deployment (FAST Search Server 2010 for SharePoint)](https://go.microsoft.com/fwlink/?linkid=241975)
 
-6.  [Create and set up the Content Search Service Application (FAST Search Server 2010 for SharePoint)](http://go.microsoft.com/fwlink/?linkid=241976)
+6.  [Create and set up the Content Search Service Application (FAST Search Server 2010 for SharePoint)](https://go.microsoft.com/fwlink/?linkid=241976)
 
-7.  [Create and set up the Query Search Service Application (FAST Search Server 2010 for SharePoint)](http://go.microsoft.com/fwlink/?linkid=241977)
+7.  [Create and set up the Query Search Service Application (FAST Search Server 2010 for SharePoint)](https://go.microsoft.com/fwlink/?linkid=241977)
 
-8.  [Enable queries from Microsoft SharePoint Server (FAST Search Server 2010 for SharePoint)](http://go.microsoft.com/fwlink/?linkid=241978)
+8.  [Enable queries from Microsoft SharePoint Server (FAST Search Server 2010 for SharePoint)](https://go.microsoft.com/fwlink/?linkid=241978)
 
-9.  [Install Hotfix 2276339 on the SharePoint server](http://go.microsoft.com/fwlink/?linkid=241979)
+9.  [Install Hotfix 2276339 on the SharePoint server](https://go.microsoft.com/fwlink/?linkid=241979)
 
 ## Configure the Business Connector proxy account for membership in the db\_owner role
 

@@ -16,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Enterprise Portal for Microsoft Dynamics AX is built on SharePoint and uses the same features for general accessibility. For specific accessibility information, see [Accessibility features](http://go.microsoft.com/fwlink/?linkid=210753) on the Web.
+Enterprise Portal for Microsoft Dynamics AX is built on SharePoint and uses the same features for general accessibility. For specific accessibility information, see [Accessibility features](https://go.microsoft.com/fwlink/?linkid=210753) on the Web.
 
   
 

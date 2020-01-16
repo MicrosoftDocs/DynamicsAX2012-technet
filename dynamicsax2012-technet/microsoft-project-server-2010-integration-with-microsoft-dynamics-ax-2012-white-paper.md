@@ -18,7 +18,7 @@ The integration of Microsoft Dynamics AX 2012 with Microsoft Project Server 2010
 
 This document provides instructions for integrating data between the two programs.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=215155).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=215155).
 
   
 

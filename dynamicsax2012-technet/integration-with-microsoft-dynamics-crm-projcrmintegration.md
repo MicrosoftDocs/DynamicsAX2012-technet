@@ -12,7 +12,7 @@ mtps_version: v=AX.60
 # Integration with Microsoft Dynamics CRM (ProjCRMIntegration) 
 
 
-To help your project teams and sales teams create and process project quotations more efficiently, you can synchronize data between Microsoft Dynamics AX and Microsoft Dynamics CRM. Data that is entered or updated in one program is automatically changed in the other. You set up this synchronization by installing Connector for Microsoft Dynamics AX. For more information about Connector, see [Connector for Microsoft Dynamics](http://go.microsoft.com/fwlink/?linkid=324872) on CustomerSource (logon is required).
+To help your project teams and sales teams create and process project quotations more efficiently, you can synchronize data between Microsoft Dynamics AX and Microsoft Dynamics CRM. Data that is entered or updated in one program is automatically changed in the other. You set up this synchronization by installing Connector for Microsoft Dynamics AX. For more information about Connector, see [Connector for Microsoft Dynamics](https://go.microsoft.com/fwlink/?linkid=324872) on CustomerSource (logon is required).
 
 The **Integration with Dynamics CRM** configuration key controls access to the form and functions that are used to set up and connect to Microsoft Dynamics CRM for projects.
 
@@ -36,7 +36,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Project quotation to Dynamics CRM integration setup</strong></p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=458515">About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=458515">About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics</a></p></td>
 </tr>
 </tbody>
 </table>

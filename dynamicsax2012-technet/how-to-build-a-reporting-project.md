@@ -46,7 +46,7 @@ When you build a reporting project, the report is updated in the model store. Ma
     
     MSBuild.exe InventoryReports.sln
     
-    There are several options that you can use when you build with MSBuild.exe from the command line. For more information, see [MSBuild Command Line Reference](http://go.microsoft.com/fwlink/?linkid=107298).
+    There are several options that you can use when you build with MSBuild.exe from the command line. For more information, see [MSBuild Command Line Reference](https://go.microsoft.com/fwlink/?linkid=107298).
 
 ## Security
 

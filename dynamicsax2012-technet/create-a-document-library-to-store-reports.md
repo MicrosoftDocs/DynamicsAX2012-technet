@@ -26,7 +26,7 @@ If you are using Microsoft Dynamics AX 2012 R2 or later, and if Microsoft SQL Se
 
 Create a document library on your SharePoint site to store reports. For information about how to create a document library, see the SharePoint documentation.
 
-After you create the document library, add Reporting Services content types to the library. For more information, see [Add Report Server Content Types to a Library (Reporting Services in SharePoint Integrated Mode)](http://technet.microsoft.com/en-us/library/bb326289\(v=sql.110\).aspx) in the SQL Server documentation.
+After you create the document library, add Reporting Services content types to the library. For more information, see [Add Report Server Content Types to a Library (Reporting Services in SharePoint Integrated Mode)](https://technet.microsoft.com/library/bb326289\(v=sql.110\).aspx) in the SQL Server documentation.
 
 ## Specify the URL of the document library
 

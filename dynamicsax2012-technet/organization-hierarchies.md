@@ -251,7 +251,7 @@ The following table describes how organization hierarchies are used for budget p
 <td><p><strong>Budget planning</strong></p></td>
 <td><p><a href="budget-planning-overview.md">Budget planning overview</a></p>
 <p><a href="key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md">Key tasks: Configure budget planning and set up budget planning processes</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=507697">Configuring Budget Planning for Microsoft Dynamics AX 2012 R3</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=507697">Configuring Budget Planning for Microsoft Dynamics AX 2012 R3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Security model: Based on security organizations</p></td>

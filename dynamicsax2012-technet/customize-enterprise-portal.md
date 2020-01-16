@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Information about how to develop Enterprise Portal for Microsoft Dynamics AX pages, Web parts, and user controls is available on the Microsoft Developer Network (MSDN). For more information, see [Enterprise Portal for Microsoft Dynamics AX](http://go.microsoft.com/fwlink/?linkid=219059).
+Information about how to develop Enterprise Portal for Microsoft Dynamics AX pages, Web parts, and user controls is available on the Microsoft Developer Network (MSDN). For more information, see [Enterprise Portal for Microsoft Dynamics AX](https://go.microsoft.com/fwlink/?linkid=219059).
 
   
 

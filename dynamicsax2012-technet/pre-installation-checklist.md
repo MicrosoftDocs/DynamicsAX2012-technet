@@ -30,11 +30,11 @@ Before you install Microsoft Dynamics AX, you must plan the implementation and c
 <tbody>
 <tr class="odd">
 <td><p>1. Plan the deployment of Microsoft Dynamics AX.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a> (PDF download)</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163797">Implementation Planning Guide</a> (PDF download)</p></td>
 </tr>
 <tr class="even">
 <td><p>2. Look for updated installation documentation for Microsoft Dynamics AX 2012 on the web.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</a> (PDF download)</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=163796">Installation Guide</a> (PDF download)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3. Review the system requirements.</p>
@@ -45,7 +45,7 @@ Before you install Microsoft Dynamics AX, you must plan the implementation and c
 
 
 </div></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=165377">System requirements on the Web</a> (PDF download)</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=165377">System requirements on the Web</a> (PDF download)</p></td>
 </tr>
 <tr class="even">
 <td><p>4. Create service accounts that Windows services can run as. For example, you must create accounts to run Microsoft Dynamics AX services and Microsoft SQL Server services.</p></td>

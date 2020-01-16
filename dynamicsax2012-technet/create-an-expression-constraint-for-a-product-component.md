@@ -33,7 +33,7 @@ For more information about how to create table constraints, see [Create a table 
 
 Expression constraints are characterized by an expression that uses arithmetic and Boolean operators and functions. An expression constraint is written for a specific component in a product configuration model. It cannot be reused by or shared with another component. However, the expression constraints for a component can reference attributes of the component's subcomponents. You use constraints to control the attribute values that you can use when you configure products for a sales order, sales quotation, purchase order, or production order.
 
-You can use the expression editor to create expression constraints, or you can just write them by using OML syntax for the attributes. Use Microsoft Solver Foundation constraint solver to solve the constraints. You must use Optimization Modeling Language (OML) syntax when you write the constraints. For more information, see [Microsoft Solver Foundation](http://go.microsoft.com/fwlink/?linkid=217059).
+You can use the expression editor to create expression constraints, or you can just write them by using OML syntax for the attributes. Use Microsoft Solver Foundation constraint solver to solve the constraints. You must use Optimization Modeling Language (OML) syntax when you write the constraints. For more information, see [Microsoft Solver Foundation](https://go.microsoft.com/fwlink/?linkid=217059).
 
 Follow these steps to create an expression constraint using the expression editor:
 

@@ -241,9 +241,9 @@ To prepare RMS data for migration, follow these steps:
     
       - Open the **ReceivablesTransactions** view, and make sure that all records have a **Document Status** value of **Posted**.
 
-2.  Make a backup of the headquarters database. For instructions, see [Create a Full Database Backup](http://technet.microsoft.com/en-us/library/ms187510.aspx).
+2.  Make a backup of the headquarters database. For instructions, see [Create a Full Database Backup](https://technet.microsoft.com/library/ms187510.aspx).
 
-3.  Remove access to the headquarters database by setting the database to single-user mode. For instructions, see [Set a Database to Single-user Mode](http://go.microsoft.com/fwlink/?linkid=395213%26clcid=0x409).
+3.  Remove access to the headquarters database by setting the database to single-user mode. For instructions, see [Set a Database to Single-user Mode](https://go.microsoft.com/fwlink/?linkid=395213%26clcid=0x409).
 
 4.  Run SQL queries to validate the RMS data and make sure that the data doesn’t have any issues that make it unusable in Microsoft Dynamics AX. We recommend that you check for the following issues:
     

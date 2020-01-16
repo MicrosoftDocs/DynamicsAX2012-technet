@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 
 > [!NOTE]
-> <P>This task and the associated form are not available after you upgrade to Microsoft Dynamics AX 2012 R2. Because data partitioning was added for Microsoft Dynamics AX 2012 R2, addresses are now assigned during the data upgrade preprocessing. For more information about data partitioning, see <A href="http://go.microsoft.com/fwlink/?linkid=268716%26clcid=0x409">Data partitioning architecture</A> and <A href="http://go.microsoft.com/fwlink/?linkid=268717%26clcid=0x409">Plan for data partitioning</A>.</P>
+> <P>This task and the associated form are not available after you upgrade to Microsoft Dynamics AX 2012 R2. Because data partitioning was added for Microsoft Dynamics AX 2012 R2, addresses are now assigned during the data upgrade preprocessing. For more information about data partitioning, see <A href="https://go.microsoft.com/fwlink/?linkid=268716%26clcid=0x409">Data partitioning architecture</A> and <A href="https://go.microsoft.com/fwlink/?linkid=268717%26clcid=0x409">Plan for data partitioning</A>.</P>
 
 
 

@@ -46,7 +46,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Other products</p></td>
 <td><p>Windows SharePoint</p>
-<p>You must create or have access to one or more document libraries before completing the procedures in this topic. For more information, see <a href="http://technet.microsoft.com/en-us/library/cc262215.aspx">Plan document libraries in SharePoint</a>.</p></td>
+<p>You must create or have access to one or more document libraries before completing the procedures in this topic. For more information, see <a href="https://technet.microsoft.com/library/cc262215.aspx">Plan document libraries in SharePoint</a>.</p></td>
 </tr>
 </tbody>
 </table>

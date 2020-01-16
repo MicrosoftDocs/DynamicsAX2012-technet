@@ -42,7 +42,7 @@ Table 1: Security tasks for the server and operating system
 </tr>
 <tr class="even">
 <td><p>Encrypt Enterprise Portal client-server communications by using Secure Sockets Layer (SSL).</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=223135">How to Setup SSL on IIS 7</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=223135">How to Setup SSL on IIS 7</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -24,7 +24,7 @@ Use the Retail Update generator with System Center Updates Publisher to automate
 
 The Update generator is part of the Retail mass deployment toolkit, which is a command-line tool that you can use to automate and centralize the deployment of the retail components of Microsoft Dynamics AX.
 
-System Center Updates Publisher enables you to import software updates from external catalogs, create and modify update definitions, export updates to external catalogs, and publish updates to a configured update server. When you use Updates Publisher to manage updates and publish them to the update server, administrators can detect and deploy published updates to client and server computers by using System Center Configuration Manager. For more information about Updates Publisher, see the [System Center Updates Publisher documentation](http://technet.microsoft.com/en-us/library/hh134742.aspx).
+System Center Updates Publisher enables you to import software updates from external catalogs, create and modify update definitions, export updates to external catalogs, and publish updates to a configured update server. When you use Updates Publisher to manage updates and publish them to the update server, administrators can detect and deploy published updates to client and server computers by using System Center Configuration Manager. For more information about Updates Publisher, see the [System Center Updates Publisher documentation](https://technet.microsoft.com/library/hh134742.aspx).
 
 This topic includes the following information:
 
@@ -64,7 +64,7 @@ To see the full list of commands that are available for the Update generator, op
 </tr>
 <tr class="even">
 <td><p>Install System Center Updates Publisher 2011</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=511859">System Center Updates Publisher</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=511859">System Center Updates Publisher</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ Use the following procedure to mass deploy updates to Retail components. For mor
     
 
     > [!NOTE]
-    > <P>For information about how to use Updates Publisher, see the <A href="http://go.microsoft.com/fwlink/?linkid=511873">series of videos</A> on TechNet.</P>
+    > <P>For information about how to use Updates Publisher, see the <A href="https://go.microsoft.com/fwlink/?linkid=511873">series of videos</A> on TechNet.</P>
 
 
 
@@ -136,7 +136,7 @@ Use the following procedure to deploy customizations to Retail components. Mass 
     
 
     > [!NOTE]
-    > <P>For information about how to use Updates Publisher, see the <A href="http://go.microsoft.com/fwlink/?linkid=511873">series of videos</A> on TechNet.</P>
+    > <P>For information about how to use Updates Publisher, see the <A href="https://go.microsoft.com/fwlink/?linkid=511873">series of videos</A> on TechNet.</P>
 
     
     Use the following information where applicable.

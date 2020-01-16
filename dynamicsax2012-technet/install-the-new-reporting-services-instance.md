@@ -46,7 +46,7 @@ When you install multiple report server instances on the same computer, each add
     
     ![Reporting Services Configuration page](images/Hh389770.BI_SQLSetup_SSRSConfig(AX.60).png "Reporting Services Configuration page")
 
-For more information about how to run the SQL Server Setup Wizard, see the SQL Server documentation on [TechNet](http://technet.microsoft.com/en-us/library/bb545450\(v=msdn.10+\).aspx) or [MSDN](http://msdn.microsoft.com/en-us/library/bb545450\(v=msdn.10+\).aspx) for the version that you are using.
+For more information about how to run the SQL Server Setup Wizard, see the SQL Server documentation on [TechNet](https://technet.microsoft.com/library/bb545450\(v=msdn.10+\).aspx) or [MSDN](https://msdn.microsoft.com/library/bb545450\(v=msdn.10+\).aspx) for the version that you are using.
 
   
 

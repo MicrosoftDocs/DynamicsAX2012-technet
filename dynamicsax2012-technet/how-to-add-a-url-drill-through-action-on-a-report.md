@@ -220,7 +220,7 @@ Next, you can preview the report in Visual Studio and you will see the drill thr
 
   - Write an expression for the URL drill through that has the following syntax: =\<DataMethodName\>(Parameters\!AX\_ReportContext.Value,Fields\!\<FieldNameWithDrillThroughAction\>). For example, the expression for the PersonnelNumber field in the Absence setup report is =DrillWorker(Parameters\!AX\_ReportContext.Value,Fields\!PersonnelNumber.Value).
 
-For more information, see [How to: Add a Hyperlink (SQL Report Designer)](http://go.microsoft.com/fwlink/?linkid=106192).
+For more information, see [How to: Add a Hyperlink (SQL Report Designer)](https://go.microsoft.com/fwlink/?linkid=106192).
 
 ## See also
 

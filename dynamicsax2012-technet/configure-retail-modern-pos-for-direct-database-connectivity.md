@@ -24,7 +24,7 @@ Retail Modern POS can be configured to connect to a channel database either dire
 
 On each device where you want to configure direct database connectivity, you must use the Microsoft Dynamics AX Setup wizard to install the Retail Channel Configuration Utility. For more information, see [Install the Retail Channel Configuration Utility (Retail Store Database Utility)](install-the-retail-channel-configuration-utility-retail-store-database-utility.md).
 
-The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of supported operating systems and SQL Server versions, see the [Microsoft Dynamics AX system requirements](http://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for channel databases and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
+The procedures in this topic assume that you have installed a supported version of Microsoft SQL Server on the computer where you plan to run the Retail Channel Configuration Utility. For a list of supported operating systems and SQL Server versions, see the [Microsoft Dynamics AX system requirements](https://go.microsoft.com/fwlink/?linkid=165377). For information about how to configure SQL Server for channel databases and offline databases, see [Configure SQL Server for the Retail databases](configure-sql-server-for-the-retail-databases.md).
 
 
 > [!NOTE]

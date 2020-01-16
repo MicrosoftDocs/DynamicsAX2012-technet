@@ -24,7 +24,7 @@ An implementation of Microsoft Dynamics AX requires many services to run. Set up
 
   - It must be able to log on as a service.
 
-If you are using Windows Server 2008 R2 or a later version of Windows Server, you can use managed service accounts. For more information, see the [Service Accounts Step-by-Step Guide](http://go.microsoft.com/fwlink/?linkid=214033) on TechNet.
+If you are using Windows Server 2008 R2 or a later version of Windows Server, you can use managed service accounts. For more information, see the [Service Accounts Step-by-Step Guide](https://go.microsoft.com/fwlink/?linkid=214033) on TechNet.
 
 
 > [!NOTE]
@@ -58,7 +58,7 @@ Create the accounts in the following table to run Microsoft Dynamics AX services
 <p>Consider the following points when you select an account:</p>
 <ul>
 <li><p>We strongly recommend that you use a domain account or a managed service account in a production environment. Use the Network Service account only in development and testing environments.</p></li>
-<li><p>If you plan to use a managed service account, you must first create that account as described in the <a href="http://go.microsoft.com/fwlink/?linkid=254376">Service Accounts Step-by-Step guide</a>.</p></li>
+<li><p>If you plan to use a managed service account, you must first create that account as described in the <a href="https://go.microsoft.com/fwlink/?linkid=254376">Service Accounts Step-by-Step guide</a>.</p></li>
 <li><p>If Microsoft SQL Server and the AOS are on different computers, you must use a domain account or a managed service account.</p></li>
 <li><p>If you plan to install any Microsoft Dynamics AX components on a domain controller, you must use a domain account.</p></li>
 <li><p>If you plan to use Message Queuing, which is also known as MSMQ, for document exchange with web services on Internet Information Services (IIS), and you want to send signed messages, you must use a domain account. However, if you want to send unsigned messages by using web services on IIS, the AOS can run under the Network Service account.</p></li>

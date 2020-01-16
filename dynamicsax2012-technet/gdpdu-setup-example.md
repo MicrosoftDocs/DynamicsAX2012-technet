@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper explains how to configure GDPdU data export for organizations in Germany and Austria. For each type of data that can be exported, the required tables and fields are explained, and an illustration of the exported text file is provided. You can export master data and transactions for main accounts, customers, vendors, items, fixed assets, and sales taxes.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=313187).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=313187).
 
 ## See also
 

@@ -92,11 +92,11 @@ To get started with Microsoft Dynamics AX, review the following resources in thi
 
 ## Get connected
 
-Do you have a question about Microsoft Dynamics AX or a favorite tip that you’d like to share? Join the discussion at [Ask the community](http://go.microsoft.com/fwlink/?linkid=218298.md).
+Do you have a question about Microsoft Dynamics AX or a favorite tip that you’d like to share? Join the discussion at [Ask the community](https://go.microsoft.com/fwlink/?linkid=218298.md).
 
-To find out what people are saying about Microsoft Dynamics AX, and to get the latest news about conferences, new releases, and events, see the [Microsoft Dynamics AX blogs](http://go.microsoft.com/fwlink/?linkid=218306.md).
+To find out what people are saying about Microsoft Dynamics AX, and to get the latest news about conferences, new releases, and events, see the [Microsoft Dynamics AX blogs](https://go.microsoft.com/fwlink/?linkid=218306.md).
 
-Microsoft Dynamics AX resources include a vibrant network of communities that are maintained by Microsoft Dynamics AX enthusiasts world-wide. For a list of non-Microsoft Web communities dedicated to Microsoft Dynamics AX, including blogs, discussions, and international forums, go to [Microsoft Dynamics Related Communities](http://go.microsoft.com/fwlink/?linkid=218304.md).
+Microsoft Dynamics AX resources include a vibrant network of communities that are maintained by Microsoft Dynamics AX enthusiasts world-wide. For a list of non-Microsoft Web communities dedicated to Microsoft Dynamics AX, including blogs, discussions, and international forums, go to [Microsoft Dynamics Related Communities](https://go.microsoft.com/fwlink/?linkid=218304.md).
 
   
 

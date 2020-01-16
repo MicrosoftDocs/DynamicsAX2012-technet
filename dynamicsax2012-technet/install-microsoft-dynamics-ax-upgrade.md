@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-You must install Microsoft Dynamics AX 2012 on a new server computer before completing the upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009. For complete installation instructions, refer to the [Microsoft Dynamics AX 2012 Installation Guide](http://go.microsoft.com/fwlink/?linkid=163796).
+You must install Microsoft Dynamics AX 2012 on a new server computer before completing the upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009. For complete installation instructions, refer to the [Microsoft Dynamics AX 2012 Installation Guide](https://go.microsoft.com/fwlink/?linkid=163796).
 
 
 > [!IMPORTANT]

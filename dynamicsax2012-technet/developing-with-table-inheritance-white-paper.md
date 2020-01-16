@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Microsoft Dynamics AX 2012 introduces programming support for table inheritance, which lets developers specify fields that are common to all tables in a base table and to configure derived tables to inherit these fields. This paper outlines the developer experience of creating and programming a table inheritance hierarchy and describes the run-time behavior of various existing and new Microsoft Dynamics AX structures and processes that are involved with table inheritance.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213123)
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213123)
 
   
 

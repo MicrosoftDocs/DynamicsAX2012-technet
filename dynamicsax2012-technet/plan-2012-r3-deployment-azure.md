@@ -207,32 +207,32 @@ Licensing the various components of the AX 2012 R3 virtual machine environment i
 <td>Demo</td>
 <td>The software that is included in the virtual machine environment is time-bound and licensed according to the terms in the Software License Terms.
 <ul>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the AX 2013 R3 demo environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the AX 2013 R3 CU8 demo environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the Retail essentials demo environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the AX 2013 R3 demo environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the AX 2013 R3 CU8 demo environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397371">Software License Terms for the Retail essentials demo environment</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Dev/test and high availability</td>
 <td>All software included in the virtual machine environment must be properly licensed. Please investigate your licensing needs thoroughly with your partner and your Microsoft representative. You will need to investigate the terms for each piece of software that is included in the virtual machine environment. For the complete list of software that is included in the virtual machine environment, review the Software License Terms.
 <ul>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the development environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the development with shared SQL Server environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the test environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=507496&amp;amp;clcid=0x409">Software License Terms for the Retail essentials dev/test environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=507494">Software License Terms for the Retail e-commerce dev/test environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkID=507496">Software License Terms for the Retail mobility dev/test environment</a></li>
-<li><a href="http://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the high availability environment</a> </li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the development environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the development with shared SQL Server environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the test environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=507496&amp;amp;clcid=0x409">Software License Terms for the Retail essentials dev/test environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=507494">Software License Terms for the Retail e-commerce dev/test environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=507496">Software License Terms for the Retail mobility dev/test environment</a></li>
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=397363">Software License Terms for the high availability environment</a> </li>
 </ul>
 <p>When reviewing the licensing terms and requirements, you need to pay special attention to any terms that apply specifically to deploying on Azure, as well as terms that apply to your intended use. For example, Microsoft Office has terms that are specific to Azure; but those terms vary depending on whether you deploy Office for development or test purposes, or whether you deploy Office for production purposes.</p>
 <p>Some resources to help you get started are linked to below. Most of the resources that are linked to below contain links to in-depth information for several products and scenarios; however, you may need to review additional information, as well. This information is provided to help guide your authorized use of products you license; it is not your agreement. Your use of products licensed under your volume license agreement is governed by the terms and conditions of that agreement. In the case of any conflict between information linked here and your agreement, the terms and conditions of your agreement control.</p>
 <ul>
 <li><strong>Virtual machines licensing FAQ</strong> Common questions regarding licensing on Azure virtual machines are answered on <a href="http://www.windowsazure.com/pricing/licensing-faq/">this page</a>.</li>
-<li><strong>Microsoft Product Use Rights and Product List</strong> Learn more about Microsoft Volume Licensing product licensing models, programs, scenarios, and terms and conditions to help you make effective business decisions and maximize the value of your IT purchases on <a href="http://go.microsoft.com/fwlink/?LinkId=397363">this page</a>.</li>
+<li><strong>Microsoft Product Use Rights and Product List</strong> Learn more about Microsoft Volume Licensing product licensing models, programs, scenarios, and terms and conditions to help you make effective business decisions and maximize the value of your IT purchases on <a href="https://go.microsoft.com/fwlink/?LinkId=397363">this page</a>.</li>
 </ul>
 <ul>
 <li><strong>License Mobility through Software Assurance on Azure program</strong> License Mobility through Software Assurance gives Microsoft volume licensing customers the flexibility to deploy eligible server applications with active Software Assurance on Azure. With this Software Assurance benefit, there is no need to purchase new licenses and no associated mobility fees. This enables you to easily deploy existing licenses on the Azure cloud platform. For more information, see <a href="http://www.windowsazure.com/pricing/license-mobility/">this page</a>. For Development, Test, and High Availability topologies trial versions of SharePoint, Visual Studio, SQL Server, and Office are provided. The trials range from 30-180 days. Please apply licenses accordingly.</li>
-<li><strong>Microsoft Dynamics AX volume licensing buyer’s guide</strong> For an overview of key licensing options with Microsoft Dynamics AX, see <a href="http://go.microsoft.com/fwlink/?LinkId=397363">this page</a>.</li>
+<li><strong>Microsoft Dynamics AX volume licensing buyer’s guide</strong> For an overview of key licensing options with Microsoft Dynamics AX, see <a href="https://go.microsoft.com/fwlink/?LinkId=397363">this page</a>.</li>
 <li><strong>Shared computer activation for Office 365 ProPlus</strong> Shared computer activation lets you to deploy Office 365 ProPlus to a computer in your organization that is accessed by multiple users. For more information, see <a href="https://technet.microsoft.com/library/dn782860(v=office.15).aspx">this page</a>.</li>
 </ul></td>
 </tr>

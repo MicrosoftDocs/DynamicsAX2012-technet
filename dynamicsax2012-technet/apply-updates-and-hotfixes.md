@@ -79,8 +79,8 @@ View or download a detailed poster of the update process.
 <tr class="odd">
 <td><p><strong>Microsoft Dynamics AX 2012 Update Process</strong></p>
 <img src="images/Hh335183.Updateprocessposter(AX.60).gif" title="Update process poster thumbnail" alt="Update process poster thumbnail" />
-<p><a href="http://go.microsoft.com/fwlink/?linkid=306777">Zoom in to the diagram at full detail by using Zoom.it from Microsoft</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=306776">Downloadable PDF and Microsoft Visio versions</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=306777">Zoom in to the diagram at full detail by using Zoom.it from Microsoft</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=306776">Downloadable PDF and Microsoft Visio versions</a></p></td>
 <td><p>This poster describes the types of updates, the recommended installation order, and the detailed update process for Microsoft Dynamics AX 2012. It also provides tips and tricks for managing updates.</p></td>
 </tr>
 </tbody>

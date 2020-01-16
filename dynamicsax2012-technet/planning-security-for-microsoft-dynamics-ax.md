@@ -159,7 +159,7 @@ Operational security policies are open-ended and vary from one organization to a
 
 4.  **Isolated sub-networks** – The principle of least privilege can be applied to the architecture of the organization’s local area network (LAN). You can segregate groups or duties by placing their computer resources on mutually non-routable subnets.
 
-For detailed information about all of these considerations, see [Network Security](http://technet.microsoft.com/en-us/library/cc716269.aspx) on TechNet.
+For detailed information about all of these considerations, see [Network Security](https://technet.microsoft.com/library/cc716269.aspx) on TechNet.
 
 ## Host-based defenses
 
@@ -213,7 +213,7 @@ For information about Microsoft Dynamics AX 2012 database security, see [Data se
 
 [Microsoft Security Blog](http://blogs.technet.com/b/security/)
 
-[Security Guidance](http://technet.microsoft.com/en-us/library/cc184906.aspx)
+[Security Guidance](https://technet.microsoft.com/library/cc184906.aspx)
 
 [Microsoft Security Bulletins](http://technet.microsoft.com/en-us/security/bulletin)
 

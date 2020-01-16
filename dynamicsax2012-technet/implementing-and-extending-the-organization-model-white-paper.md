@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 Microsoft Dynamics AX 2012 introduces new types of organizations, such as legal entities and operating units, so that customers can model their businesses in the same way that they operate their businesses, without having to customize Microsoft Dynamics AX. This document explains the main features of the new functionality and provides guidelines for modeling organization hierarchies.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213125).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213125).
 
   
 

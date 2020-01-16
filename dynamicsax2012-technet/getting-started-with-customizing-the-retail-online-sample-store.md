@@ -18,11 +18,11 @@ Retail in Microsoft Dynamics AX 2012 R3 includes starter stores that you can cus
 
 Before you begin working with the Retail online sample stores, you should understand the technologies that support the online stores.
 
-  - To understand the capabilities in Microsoft SharePoint Server 2013, see [Build sites for SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=394770&clcid=0x409).
+  - To understand the capabilities in Microsoft SharePoint Server 2013, see [Build sites for SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=394770&clcid=0x409).
 
   - In AX 2012, you set up Retail catalogs as part of configuring an online store. For more information, see [Set up an online store](set-up-an-online-store.md) and [Configure online store products in Microsoft Dynamics AX](online-store.md).
 
-  - For a step-by-step guide to creating an online shopping site by using SharePoint, see [How to set up a product-centric website in SharePoint Server 2013](http://go.microsoft.com/fwlink/?linkid=394769&clcid=0x409).
+  - For a step-by-step guide to creating an online shopping site by using SharePoint, see [How to set up a product-centric website in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=394769&clcid=0x409).
 
 The following articles can help you to understand the capabilities and design of the Retail online sample stores.
 
@@ -50,7 +50,7 @@ The following table lists some of the common tasks in customizing a starter stor
 </tr>
 <tr class="even">
 <td><p>View the functionality and appearance of the online sample stores on a demonstration virtual machine</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=394231&amp;clcid=0x409">Microsoft Dynamics AX 2012 Solution Demos</a>*</p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=394231&amp;clcid=0x409">Microsoft Dynamics AX 2012 Solution Demos</a>*</p></td>
 </tr>
 <tr class="odd">
 <td><p>Learn how the Retail online sample stores authenticate users and administrators, and learn how to add a logon provider such as Facebook</p></td>
@@ -113,11 +113,11 @@ Z:\\\_catalogs\\masterpage\\Display Templates\\Content Web Parts
 
 To customize the appearance of products in the sample stores, you can:
 
-  - Use standard SharePoint Content Search Web Parts to display the products. To view the web parts for the Retail online sample stores, open the SharePoint Central Administration page and then click the **Site Settings** button and then click **Web parts** under **Web Designer Galleries**. For example, the Product Gallery page uses the Product Gallery web part. For more information, see [Content Search Web Part in SharePoint 2013](http://msdn.microsoft.com/en-us/library/office/jj163789\(v=office.15\).aspx).
+  - Use standard SharePoint Content Search Web Parts to display the products. To view the web parts for the Retail online sample stores, open the SharePoint Central Administration page and then click the **Site Settings** button and then click **Web parts** under **Web Designer Galleries**. For example, the Product Gallery page uses the Product Gallery web part. For more information, see [Content Search Web Part in SharePoint 2013](https://msdn.microsoft.com/library/office/jj163789\(v=office.15\).aspx).
 
   - Modify the sample display templates that are provided by changing code in the HTML files on the mapped drive. Each HTML file has a corresponding .js file that SharePoint updates automatically after any changes that you make. For more information about mapping a network drive, see [Map a network drive to the SharePoint 2013 files for online stores](map-a-network-drive-to-the-sharepoint-2013-files-for-online-stores.md).
 
-  - Customize the CSWPs in the sample stores. For more information, see [Edit existing Web Parts in SharePoint 2013](http://go.microsoft.com/fwlink/?linkid=395066&clcid=0x409).
+  - Customize the CSWPs in the sample stores. For more information, see [Edit existing Web Parts in SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=395066&clcid=0x409).
 
 ### ![Dn741227.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "Dn741227.collapse_all(en-us,AX.60).gif")Managing data in the store pages
 

@@ -60,7 +60,7 @@ Complete the following procedure to open Windows PowerShell and view a list of t
     $reports = Get-AXReport -ReportName *
     ```
     
-    For more information about the Get-AXReport command, see [Get-AXReport](http://go.microsoft.com/fwlink/?linkid=217546).
+    For more information about the Get-AXReport command, see [Get-AXReport](https://go.microsoft.com/fwlink/?linkid=217546).
 
 3.  View the list of reports by entering the following command:
     
@@ -86,7 +86,7 @@ In the previous procedure, you displayed a list of all the reports that are incl
 
 ## Deploy the reports
 
-After you have retrieved a list of reports, you can deploy the reports. The Publish-AXReport command is used to deploy the reports. The following examples show how to use this command. For more information, see [Publish-AXReport](http://go.microsoft.com/fwlink/?linkid=217550).
+After you have retrieved a list of reports, you can deploy the reports. The Publish-AXReport command is used to deploy the reports. The following examples show how to use this command. For more information, see [Publish-AXReport](https://go.microsoft.com/fwlink/?linkid=217550).
 
   - To deploy a specific report, enter the name of the report. For example, to deploy the CustTransList report, enter the following command:
     
@@ -162,7 +162,7 @@ Instruct users to delete usage data by following these steps:
 
 [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md)
 
-[Piping and the Pipeline in Windows PowerShell](http://go.microsoft.com/fwlink/?linkid=187808)
+[Piping and the Pipeline in Windows PowerShell](https://go.microsoft.com/fwlink/?linkid=187808)
 
   
 

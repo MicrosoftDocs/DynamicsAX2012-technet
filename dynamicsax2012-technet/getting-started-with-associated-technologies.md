@@ -18,19 +18,19 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 To implement and administer the Microsoft Dynamics AX solution will require that you understand Microsoft infrastructure software such as Windows Server, Microsoft SQL Server, and Microsoft SharePoint 2010 products. An efficient and optimized information technology infrastructure is required for Microsoft Dynamics AX. This topic lists online resources that you can use to learn about best practices for IT infrastructure deployment and management.
 
-For up-to-date hardware and software requirements for Microsoft Dynamics AX, download Microsoft Dynamics AX 2012 System Requirements from the [Microsoft Download Center](http://go.microsoft.com/fwlink/?linkid=195222).
+For up-to-date hardware and software requirements for Microsoft Dynamics AX, download Microsoft Dynamics AX 2012 System Requirements from the [Microsoft Download Center](https://go.microsoft.com/fwlink/?linkid=195222).
 
 ## Infrastructure Planning and Design (IPD)
 
 The IPD guide series provides architectural guidance for Microsoft infrastructure products. These guides help clarify and streamline design processes for Microsoft infrastructure technologies. Each guide addresses a unique infrastructure technology or scenario.
 
-For more information, see [Introduction to the Infrastructure Planning and Design Series](http://go.microsoft.com/fwlink/?linkid=190377).
+For more information, see [Introduction to the Infrastructure Planning and Design Series](https://go.microsoft.com/fwlink/?linkid=190377).
 
 ## Microsoft Solution Accelerators
 
 Microsoft Solution Accelerators are tools and guidance that help you solve your deployment, planning, and operational IT problems. They are free and fully supported.
 
-For more information, see [Solution Accelerators home page](http://go.microsoft.com/fwlink/?linkid=190371).
+For more information, see [Solution Accelerators home page](https://go.microsoft.com/fwlink/?linkid=190371).
 
 ## Infrastructure Optimization Model
 
@@ -38,13 +38,13 @@ The Infrastructure Optimization Model provides a maturity framework for IT infra
 
 To begin, understand the maturity levels and then determine your maturity level, when compared to model. When this level is established, the next step is to use the model to plan your progress toward the target level that is needed for maximum business benefit.
 
-For more information, see [Resource Guide Overview](http://go.microsoft.com/fwlink/?linkid=190373).
+For more information, see [Resource Guide Overview](https://go.microsoft.com/fwlink/?linkid=190373).
 
 ## Microsoft Operations Framework (MOF)
 
 Microsoft Operations Framework (MOF) delivers practical guidance for everyday IT practices and activities. MOF helps users establish and implement reliable, cost-effective IT services.
 
-For more information, see [Microsoft Operations Framework](http://go.microsoft.com/fwlink/?linkid=190379).
+For more information, see [Microsoft Operations Framework](https://go.microsoft.com/fwlink/?linkid=190379).
 
 ## Associated technologies
 
@@ -68,8 +68,8 @@ Microsoft Dynamics AX client requires a Windows client or server operating syste
 <tbody>
 <tr class="odd">
 <td><p>Advanced administration of Windows-based networks using Windows Server. This includes Active Directory Domain Services, domain controllers, Domain Name System (DNS), and general network administration concepts.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232956">Windows Client TechCenter</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232956">Windows Client TechCenter</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -96,8 +96,8 @@ Enterprise Portal for Microsoft Dynamics AX, web services on Internet Informatio
 <li><p>IIS administration</p></li>
 <li><p>Microsoft .NET Framework 4, especially ASP.NET and Windows Communication Foundation</p></li>
 </ul></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232984">The Official Microsoft IIS Site</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232984">The Official Microsoft IIS Site</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +121,7 @@ Enterprise Portal requires either Microsoft SharePoint Foundation 2010 or Micros
 <tbody>
 <tr class="odd">
 <td><p>Installation and administration of SharePoint Foundation 2010 or SharePoint Server 2010.</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=189311">Microsoft SharePoint Products page</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=189311">Microsoft SharePoint Products page</a></p>
 <p></p></td>
 </tr>
 </tbody>
@@ -146,8 +146,8 @@ Enterprise Portal requires either Microsoft SharePoint Foundation 2010 or Micros
 <tbody>
 <tr class="odd">
 <td><p>.NET Framework 4, especially Windows Communication foundation and Windows Workflow Foundation</p></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232957">Microsoft.NET site</a></p>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=232955">Windows Server home page</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232957">Microsoft.NET site</a></p>
 <p></p></td>
 </tr>
 </tbody>
@@ -174,9 +174,9 @@ Enterprise Portal requires either Microsoft SharePoint Foundation 2010 or Micros
 <li><p>Database backup and recovery</p></li>
 <li><p>SQL Server administration</p></li>
 </ul></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=232960">SQL Server TechCenter</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232963">SQL Server 2008 R2 - Planning and Architecture</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232965">SQL Server 2008 R2 – Technical Articles</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=232960">SQL Server TechCenter</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232963">SQL Server 2008 R2 - Planning and Architecture</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232965">SQL Server 2008 R2 – Technical Articles</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -205,8 +205,8 @@ Microsoft SQL Server Analysis Services provides online analytical processing (OL
 <li><p>Reporting Services administration</p></li>
 <li><p>Analysis Services administration</p></li>
 </ul></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=232966">SQL Server Reporting Services (SSRS)</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=234114">SQL Server Analysis Services (SSAS)</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=232966">SQL Server Reporting Services (SSRS)</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=234114">SQL Server Analysis Services (SSAS)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -234,8 +234,8 @@ You must consider the availability of your infrastructure and applications caref
 <li><p>Failover clustering</p></li>
 <li><p>Disaster recovery planning</p></li>
 </ul></td>
-<td><p>Windows Server 2008 documentation for <a href="http://go.microsoft.com/fwlink/?linkid=232968">Availability and Scalability</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232966">High Availability with SQL Server 2008</a></p></td>
+<td><p>Windows Server 2008 documentation for <a href="https://go.microsoft.com/fwlink/?linkid=232968">Availability and Scalability</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232966">High Availability with SQL Server 2008</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -261,9 +261,9 @@ You must consider the availability of your infrastructure and applications caref
 <li><p>Database performance management</p></li>
 <li><p>Database and application tracing</p></li>
 </ul></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=234156">Performance and Reliability</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=234157">Performance (Database Engine)</a></p>
-<p>Microsoft Dynamics AX <a href="http://go.microsoft.com/fwlink/?linkid=232970">Performance Team’s Blog</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=234156">Performance and Reliability</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=234157">Performance (Database Engine)</a></p>
+<p>Microsoft Dynamics AX <a href="https://go.microsoft.com/fwlink/?linkid=232970">Performance Team’s Blog</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -290,9 +290,9 @@ You must consider the availability of your infrastructure and applications caref
 <li><p>Perimeter network</p></li>
 <li><p>IPsec</p></li>
 </ul></td>
-<td><p><a href="http://go.microsoft.com/fwlink/?linkid=42203">Security TechCenter</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232971">Infrastructure Planning and Design Guides for Security</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=232972">IPsec site on TechNet</a></p></td>
+<td><p><a href="https://go.microsoft.com/fwlink/?linkid=42203">Security TechCenter</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232971">Infrastructure Planning and Design Guides for Security</a></p>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=232972">IPsec site on TechNet</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -27,7 +27,7 @@ A financial statement is a statement of an organization's financial state at the
 
 
 
-To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about how to print financial statements by using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/?linkid=324762).
+To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about how to print financial statements by using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](https://go.microsoft.com/fwlink/?linkid=324762).
 
 To use the traditional financial statements, you must select the **Financial statement (traditional)** configuration key.
 

@@ -68,7 +68,7 @@ Implementing data transfers has changed significantly in Microsoft Dynamics AX 2
 
   - For information about what’s new in Microsoft Dynamics AX 2012 for developers, see What's New: Services and AIF for Developers in Microsoft Dynamics AX 2012.
 
-  - For information about new and see comment features in Microsoft Dynamics AX 2012, see [New, changed, and deprecated features for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=212966).
+  - For information about new and see comment features in Microsoft Dynamics AX 2012, see [New, changed, and deprecated features for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=212966).
 
 In Microsoft Dynamics AX 2012, proprietary Microsoft Message Queuing (MSMQ) and BizTalk Server adapters used in the previous releases of Microsoft Dynamics AX are no longer available. For information about how to use Message Queuing and BizTalk Server with AIF in Microsoft Dynamics AX 2012, see the following topics:
 

@@ -817,7 +817,7 @@ Use the following information to learn more about the reports that are provided 
 
 ## How to obtain help for a report
 
-For detailed descriptions of the default reports that are provided with Microsoft Dynamics AX, see the [Reports Catalog](http://go.microsoft.com/fwlink/?linkid=202434) on the Microsoft TechNet website.
+For detailed descriptions of the default reports that are provided with Microsoft Dynamics AX, see the [Reports Catalog](https://go.microsoft.com/fwlink/?linkid=202434) on the Microsoft TechNet website.
 
 ## How to work with reports
 

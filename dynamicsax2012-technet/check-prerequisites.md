@@ -24,7 +24,7 @@ Prerequisite validation is also built into Setup. Therefore, the same prerequisi
 
 
 
-To review the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+To review the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
 Use the following procedure to run the prerequisite validation utility.
 

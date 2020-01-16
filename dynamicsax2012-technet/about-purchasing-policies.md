@@ -20,7 +20,7 @@ A purchasing policy is a collection of rules that control the requisition proces
 
 
 > [!NOTE]
-> <P>Purchasing policies are part of a larger policy framework introduced in Microsoft Dynamics AX 2012. For more information, see <A href="http://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</A>.</P>
+> <P>Purchasing policies are part of a larger policy framework introduced in Microsoft Dynamics AX 2012. For more information, see <A href="https://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</A>.</P>
 
 
 

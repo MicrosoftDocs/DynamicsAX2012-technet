@@ -26,7 +26,7 @@ When you install Async Server, the Retail Salt Utility is also installed. The Re
 
 
 
-To deploy Async Server on multiple computers in a cluster, you can run Setup on each computer. Alternatively, you can use the Retail mass deployment toolkit to deploy Async Server from a central location. For information about how to set up an Internet Information Services (IIS) cluster, see the [Network Load Balancing Deployment Guide](http://technet.microsoft.com/en-us/library/cc754833\(v=ws.10\).aspx). For information about how to use the mass deployment toolkit, see [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md).
+To deploy Async Server on multiple computers in a cluster, you can run Setup on each computer. Alternatively, you can use the Retail mass deployment toolkit to deploy Async Server from a central location. For information about how to set up an Internet Information Services (IIS) cluster, see the [Network Load Balancing Deployment Guide](https://technet.microsoft.com/library/cc754833\(v=ws.10\).aspx). For information about how to use the mass deployment toolkit, see [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md).
 
 The following sections are included in this topic:
 
@@ -60,7 +60,7 @@ The following sections are included in this topic:
 
   - On the computer where you plan to install this component, run the prerequisite validation utility to verify that system requirements have been met. For information about how to run the prerequisite validation utility, see [Check prerequisites](check-prerequisites.md).
     
-    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377).
+    For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
   - The SQLCMD utility is required to install Async Server. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install Async Server, you can download and install [Microsoft Command Line Utilities 11 for SQL Server](http://www.microsoft.com/en-us/download/details.aspx?id=36433) to meet this requirement.
 

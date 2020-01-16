@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper describes how to develop mobile client apps to communicate with Microsoft Dynamics AX 2012 from phone or tablet platforms.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=285856).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=285856).
 
   
 

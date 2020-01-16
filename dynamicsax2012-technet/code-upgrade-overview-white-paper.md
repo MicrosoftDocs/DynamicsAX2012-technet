@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 The upgrade to Microsoft Dynamics AX is a multiple-stage process. This paper provides information about how to prepare a system for the upgrade and how to upgrade the code and system settings.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213108).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213108).
 
   
 

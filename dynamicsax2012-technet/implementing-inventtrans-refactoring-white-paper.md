@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes the refactoring of the InventTrans table and common design patterns. It also discusses how to implement these changes when you are developing new features or updating existing features.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213131).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213131).
 
   
 

@@ -54,13 +54,13 @@ You must complete the following tasks before you deploy the Microsoft Dynamics A
 </tr>
 <tr class="even">
 <td><p>Install URL Rewrite</p></td>
-<td><p>Verify that you installed the <a href="http://go.microsoft.com/fwlink/?linkid=277134&amp;clcid=0x409">URL Rewrite Module 2.0</a> (64-bit) on each SharePoint server.</p></td>
+<td><p>Verify that you installed the <a href="https://go.microsoft.com/fwlink/?linkid=277134&amp;clcid=0x409">URL Rewrite Module 2.0</a> (64-bit) on each SharePoint server.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Deploy and configure SharePoint</p></td>
 <td><ul>
-<li><p>Deploy and configure SharePoint Server 2013 Service Pack 1 or later (Enterprise edition). For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=286388">Overview of SharePoint 2013 installation and configuration</a></p></li>
-<li><p>Download and install all cumulative updates for SharePoint Server 2013. To improve update installation times, use the PowerShell script described in this <a href="http://go.microsoft.com/fwlink/?linkid=393181">MSDN blog</a>.</p></li>
+<li><p>Deploy and configure SharePoint Server 2013 Service Pack 1 or later (Enterprise edition). For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=286388">Overview of SharePoint 2013 installation and configuration</a></p></li>
+<li><p>Download and install all cumulative updates for SharePoint Server 2013. To improve update installation times, use the PowerShell script described in this <a href="https://go.microsoft.com/fwlink/?linkid=393181">MSDN blog</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -132,7 +132,7 @@ If the SharePoint Web Services Root application pool is stopped, you must start 
 </tr>
 <tr class="odd">
 <td><p>Acquire Secure Sockets Layer (SSL) certificates</p></td>
-<td><p><strong>Encryption settings:</strong> The Retail store publishing portal uses SSL encryption. For production environments, you must register your domain and obtain a valid, registered SSL certificate from a provider. For developer and evaluation environments, you can use a <a href="http://go.microsoft.com/fwlink/?linkid=235235">self-signed certificate</a>. For information about how to work with certificates see <a href="http://go.microsoft.com/fwlink/?linkid=282620">Certificate Overview</a>.</p></td>
+<td><p><strong>Encryption settings:</strong> The Retail store publishing portal uses SSL encryption. For production environments, you must register your domain and obtain a valid, registered SSL certificate from a provider. For developer and evaluation environments, you can use a <a href="https://go.microsoft.com/fwlink/?linkid=235235">self-signed certificate</a>. For information about how to work with certificates see <a href="https://go.microsoft.com/fwlink/?linkid=282620">Certificate Overview</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Verify SQLCMD utility</p></td>
@@ -353,7 +353,7 @@ This section describes how to configure settings in the oob-settings.xml file.
     </tr>
     <tr class="even">
     <td><p><strong>StoreFront_DeviceChannelsListName</strong></p></td>
-    <td><p>This value is the name of a SharePoint Design Manager list that stores device channels. For more information about device channel lists, see <a href="http://go.microsoft.com/fwlink/?linkid=394743">SharePoint 2013 Design Manager device channels</a>. The name of this value varies based on locale. For example, if you are deploying the online store by using the en-US locale then the name should be Device Channels. If you are deploying for an online store for fr-FR (French) locale then this name should be Canaux des appareils.</p>
+    <td><p>This value is the name of a SharePoint Design Manager list that stores device channels. For more information about device channel lists, see <a href="https://go.microsoft.com/fwlink/?linkid=394743">SharePoint 2013 Design Manager device channels</a>. The name of this value varies based on locale. For example, if you are deploying the online store by using the en-US locale then the name should be Device Channels. If you are deploying for an online store for fr-FR (French) locale then this name should be Canaux des appareils.</p>
     <div class="alert">
     <div class="mtps-table">
     <div class="mtps-row">
@@ -693,7 +693,7 @@ The Retail online store can authenticate users who sign in to your site by using
 
 9.  Save your changes in the oob-settings.xml file.
 
-**Certificates:** Use the following procedure to create certificates for Facebook authentication. For production environments, you must register your domain and obtain a valid, registered SSL certificate from a provider. For developer and evaluation environments, you can use a [self-signed certificate](http://go.microsoft.com/fwlink/?linkid=235235). For information about how to work with certificates see [Certificate Overview](http://go.microsoft.com/fwlink/?linkid=282620).
+**Certificates:** Use the following procedure to create certificates for Facebook authentication. For production environments, you must register your domain and obtain a valid, registered SSL certificate from a provider. For developer and evaluation environments, you can use a [self-signed certificate](https://go.microsoft.com/fwlink/?linkid=235235). For information about how to work with certificates see [Certificate Overview](https://go.microsoft.com/fwlink/?linkid=282620).
 
 1.  Search in the oob-settings.xml file for the parameters listed in the following table. Enter a value for each parameter. For each value, retain quotation marks (“”) but remove percent signs (%).
     

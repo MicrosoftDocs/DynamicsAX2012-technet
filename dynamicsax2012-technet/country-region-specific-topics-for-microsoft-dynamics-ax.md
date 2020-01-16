@@ -22,7 +22,7 @@ Microsoft Dynamics AX provides local and global functionality to meet requiremen
 
 Help topics that support country/region-specific features delivered with Microsoft Dynamics AX 2012 R2 are grouped by country/region and are located in the [Additional country/region-specific information](additional-country-region-specific-information.md) folder. Expand this folder to find sub-folders containing topics that support functionality specific to Brazil, China, Czech Republic, Estonia, Hungary, India, Japan, Latvia, Lithuania, Poland, and Russia.
 
-Microsoft Dynamics AX is updated as country/region-specific requirements change. For information about country/region-specific functionality that is periodically added to Microsoft Dynamics AX, together with other updated country/region information, look for updated Microsoft Dynamics AX documentation on [TechNet](http://go.microsoft.com/fwlink/?linkid=214391) and in the [Microsoft Dynamics Localization Portal](http://go.microsoft.com/fwlink/?linkid=268638).
+Microsoft Dynamics AX is updated as country/region-specific requirements change. For information about country/region-specific functionality that is periodically added to Microsoft Dynamics AX, together with other updated country/region information, look for updated Microsoft Dynamics AX documentation on [TechNet](https://go.microsoft.com/fwlink/?linkid=214391) and in the [Microsoft Dynamics Localization Portal](https://go.microsoft.com/fwlink/?linkid=268638).
 
 
 > [!NOTE]

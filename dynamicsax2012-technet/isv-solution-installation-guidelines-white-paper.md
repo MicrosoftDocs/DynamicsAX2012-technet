@@ -22,7 +22,7 @@ This document discusses one of the methodologies that independent software vendo
 
   - Help content Microsoft Installer (MSI) file
 
-You must have a PartnerSource account to download this paper. [Download the paper](http://go.microsoft.com/fwlink/?linkid=266252).
+You must have a PartnerSource account to download this paper. [Download the paper](https://go.microsoft.com/fwlink/?linkid=266252).
 
   
 

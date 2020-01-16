@@ -26,7 +26,7 @@ In accordance with 2008 regulatory requirements, all Spanish companies are requi
 
 > [!NOTE]
 > <P>We recommend that you use Management Reporter for Microsoft Dynamics ERP to create, maintain, deploy, and view financial reports. Management Reporter lets you design financial reports based on ledger accounts and financial dimensions, drill down to transaction-level detail, and use web-based report viewing.</P>
-> <P>For more information about how to print financial reports by using Management Reporter, see <A href="http://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</A>.</P>
+> <P>For more information about how to print financial reports by using Management Reporter, see <A href="https://go.microsoft.com/fwlink/?linkid=324762">Management Reporter for Microsoft Dynamics ERP</A>.</P>
 
 
 

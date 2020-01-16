@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 In Microsoft Dynamics AX 2012, multiple general journal tables have replaced the LedgerTrans table. This paper describes the mapping between the LedgerTrans table and the general journal tables to help you upgrade your code to the new data model. It also provides patterns of selecting data that you can adapt in your code.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221037).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221037).
 
   
 

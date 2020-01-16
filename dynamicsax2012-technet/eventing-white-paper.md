@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes eventing and how it can be used in Microsoft Dynamics AX 2012.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213111).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213111).
 
   
 

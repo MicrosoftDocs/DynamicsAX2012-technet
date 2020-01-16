@@ -62,7 +62,7 @@ This section applies to scenarios described by the following Retail-specific upg
 </table>
 
 
-Verifying that all transactions have been posted is mandatory for an upgrade to Microsoft Dynamics AX 2012 Feature Pack, since all POS terminals and databases must be shut down and redeployed during the upgrade process. It is optional during an upgrade to Microsoft Dynamics AX 2012 R2 or R3, which support multiple versions of the store software. This means that store redeployment is no longer tied to the head-office upgrade schedule, since stores can continue operating during upgrade, and a store must be shut down (and final transactions posted) only when the store’s actual redeployment is scheduled to occur. For more information, see the multi-version POS support [white paper](http://go.microsoft.com/fwlink/?linkid=259822).
+Verifying that all transactions have been posted is mandatory for an upgrade to Microsoft Dynamics AX 2012 Feature Pack, since all POS terminals and databases must be shut down and redeployed during the upgrade process. It is optional during an upgrade to Microsoft Dynamics AX 2012 R2 or R3, which support multiple versions of the store software. This means that store redeployment is no longer tied to the head-office upgrade schedule, since stores can continue operating during upgrade, and a store must be shut down (and final transactions posted) only when the store’s actual redeployment is scheduled to occur. For more information, see the multi-version POS support [white paper](https://go.microsoft.com/fwlink/?linkid=259822).
 
 For any stores being redeployed, the head-office Retail system undergoing upgrade must post any outstanding point-of-sale (POS) transactions before entering single-user mode. The upgrade administrator should coordinate with the administrator at each store to perform the following tasks:
 
@@ -122,9 +122,9 @@ The client-based batch framework in Microsoft Dynamics AX 4.0 supports only a si
 
 Back up the source system SQL Server database to protect your data from any loss that may be caused by unexpected issues during single-user mode preprocessing. The backup also sets the initial recovery point for the simple recovery model that you will set for your SQL Server database during this stage of upgrade. To find the procedures for backing up your SQL Server database, use the following links:
 
-  - To back up a SQL Server 2008 database, see [How to: Back Up a Database (SQL Server Management Studio)](http://go.microsoft.com/fwlink/?linkid=186062)
+  - To back up a SQL Server 2008 database, see [How to: Back Up a Database (SQL Server Management Studio)](https://go.microsoft.com/fwlink/?linkid=186062)
 
-  - To back up a SQL Server 2005 database, see [How to: Back Up a Database (SQL Server Management Studio)](http://go.microsoft.com/fwlink/?linkid=186063)
+  - To back up a SQL Server 2005 database, see [How to: Back Up a Database (SQL Server Management Studio)](https://go.microsoft.com/fwlink/?linkid=186063)
 
 ## Set the Microsoft SQL Server recovery model to simple
 

@@ -106,9 +106,9 @@ Follow these steps to create a new role that is named Accountant-Fabrikam. This 
 
 ## See also
 
-[Granting Dimension Access](http://technet.microsoft.com/en-us/library/ms175421.aspx)
+[Granting Dimension Access](https://technet.microsoft.com/library/ms175421.aspx)
 
-[Granting Custom Access to Dimension Data](http://technet.microsoft.com/en-us/library/ms175366.aspx)
+[Granting Custom Access to Dimension Data](https://technet.microsoft.com/library/ms175366.aspx)
 
   
 
