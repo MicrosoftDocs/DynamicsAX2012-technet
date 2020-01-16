@@ -2,8 +2,9 @@
 title: (IND) View product receipts for posted purchase invoices using an invoice journal
 TOCTitle: (IND) View product receipts for posted purchase invoices using an invoice journal
 ms:assetid: 85042496-1506-4769-898a-d1795728c9c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677978(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677978(v=AX.60)
 ms:contentKeyID: 49385941
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,11 +32,11 @@ You can view the product receipt details that are matched to a posted purchase o
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj664791\(v=ax.60\))
+[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/library/jj664791\(v=ax.60\))
 
-[(IND) Purchase posting (modified form)](https://technet.microsoft.com/en-us/library/jj664475\(v=ax.60\))
+[(IND) Purchase posting (modified form)](https://technet.microsoft.com/library/jj664475\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Install Connector for Microsoft Dynamics
 TOCTitle: Install Connector for Microsoft Dynamics
 ms:assetid: ac5e9a21-f216-4c75-953d-db6a8bddab63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507083(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507083(v=AX.60)
 ms:contentKeyID: 59623131
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

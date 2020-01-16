@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up address formats'
 TOCTitle: 'Key tasks: Set up address formats'
 ms:assetid: 4dd2cde8-11a8-4607-9054-c9683f00d730
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731791(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731791(v=AX.60)
 ms:contentKeyID: 35132631
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (IND) Setting up shifts
 TOCTitle: (IND) Setting up shifts
 ms:assetid: c5e9ad1c-ca47-4e24-972f-ecc78af26e81
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664892(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664892(v=AX.60)
 ms:contentKeyID: 49386220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

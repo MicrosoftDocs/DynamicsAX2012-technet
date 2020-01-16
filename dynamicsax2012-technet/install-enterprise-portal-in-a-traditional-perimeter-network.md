@@ -2,8 +2,9 @@
 title: Install Enterprise Portal in a traditional perimeter network
 TOCTitle: Install Enterprise Portal in a traditional perimeter network
 ms:assetid: 935a3dc1-157c-4020-a75a-c5ad593484d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd361998(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd361998(v=AX.60)
 ms:contentKeyID: 36607353
+author: Khairunj
 ms.date: 02/04/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -407,7 +408,7 @@ To configure SharePoint and to authenticate CORP users in a perimeter network wi
     
       - It must be an account that exists in the CORP (parent, or trusted) domain.
 
-2.  Add the CORP account that you created in step 1 to SharePoint. You can do this using the [New-SPManagedAccount](https://technet.microsoft.com/en-us/library/ff607831.aspx) command in PowerShell.
+2.  Add the CORP account that you created in step 1 to SharePoint. You can do this using the [New-SPManagedAccount](https://technet.microsoft.com/library/ff607831.aspx) command in PowerShell.
 
 3.  In the SharePoint Central Administration console, configure the Claims to Windows Token Service to run as the CORP account, as shown in the following image.
     

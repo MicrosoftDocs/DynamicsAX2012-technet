@@ -2,8 +2,9 @@
 title: Install an AOS instance
 TOCTitle: Install an AOS instance
 ms:assetid: ed12bb98-25eb-42ce-b5f7-651a06abe688
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355089(v=AX.60)
 ms:contentKeyID: 35133211
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

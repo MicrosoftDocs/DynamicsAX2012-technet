@@ -2,8 +2,9 @@
 title: (IND) Update the abatement certificate for service tax transactions
 TOCTitle: (IND) Update the abatement certificate for service tax transactions
 ms:assetid: 7ddd6806-f6bf-4c20-a860-86588392ad4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677953(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677953(v=AX.60)
 ms:contentKeyID: 49385915
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,9 +64,9 @@ For a GTA vendor, you can define the criteria to display the service tax transac
 
 ## See also
 
-[(IND) Abatement certificate (form)](https://technet.microsoft.com/en-us/library/jj664822\(v=ax.60\))
+[(IND) Abatement certificate (form)](https://technet.microsoft.com/library/jj664822\(v=ax.60\))
 
-[(IND) Service tax inquiry (form)](https://technet.microsoft.com/en-us/library/jj664526\(v=ax.60\))
+[(IND) Service tax inquiry (form)](https://technet.microsoft.com/library/jj664526\(v=ax.60\))
 
   
 

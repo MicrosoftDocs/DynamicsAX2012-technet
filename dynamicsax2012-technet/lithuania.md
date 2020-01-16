@@ -2,8 +2,9 @@
 title: Lithuania
 TOCTitle: Lithuania
 ms:assetid: 01b957be-4034-481c-8ae3-8cbb7f7a855b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664996(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664996(v=AX.60)
 ms:contentKeyID: 49386581
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

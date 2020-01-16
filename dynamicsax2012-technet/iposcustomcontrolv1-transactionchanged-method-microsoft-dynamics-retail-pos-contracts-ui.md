@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPosCustomControlV1.TransactionChanged Method  (Microsoft.Dynamics.Retail.Pos.Contracts.UI)
 TOCTitle: TransactionChanged Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.UI.IPosCustomControlV1.TransactionChanged(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.ui.iposcustomcontrolv1.transactionchanged(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.ui.iposcustomcontrolv1.transactionchanged(v=AX.60)
 ms:contentKeyID: 49841041
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Key concepts in AIF
 TOCTitle: Key concepts
 ms:assetid: c91ceac5-7794-4517-a9a2-aaf3fde59f50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731940(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731940(v=AX.60)
 ms:contentKeyID: 35132875
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

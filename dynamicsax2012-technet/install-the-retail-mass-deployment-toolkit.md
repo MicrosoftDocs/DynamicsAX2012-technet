@@ -2,8 +2,9 @@
 title: Install the Retail mass deployment toolkit
 TOCTitle: Install the Retail mass deployment toolkit
 ms:assetid: ece974c0-634d-4b2e-8744-e2f96ff35fa2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741223(v=AX.60)
 ms:contentKeyID: 62219110
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: 'Key tasks: Assign workers to projects based on availability'
 TOCTitle: 'Key tasks: Assign workers to projects based on availability'
 ms:assetid: 4e390353-cec1-4cd3-b1d1-de67f216adef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208763(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208763(v=AX.60)
 ms:contentKeyID: 36057047
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -393,19 +394,19 @@ Back to top
 
 ## Find form help
 
-[Assign resources (form)](https://technet.microsoft.com/en-us/library/hh208809\(v=ax.60\))
+[Assign resources (form)](https://technet.microsoft.com/library/hh208809\(v=ax.60\))
 
-[Schedule resources (form)](https://technet.microsoft.com/en-us/library/hh209507\(v=ax.60\))
+[Schedule resources (form)](https://technet.microsoft.com/library/hh209507\(v=ax.60\))
 
-[Other worker attributes (form)](https://technet.microsoft.com/en-us/library/hh242802\(v=ax.60\))
+[Other worker attributes (form)](https://technet.microsoft.com/library/hh242802\(v=ax.60\))
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\))
+[Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
 ## Find related tasks
 

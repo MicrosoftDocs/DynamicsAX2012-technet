@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPricingDataManagerV2.ChannelPriceConfiguration Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ChannelPriceConfiguration Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2.ChannelPriceConfiguration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.channelpriceconfiguration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.channelpriceconfiguration(v=AX.60)
 ms:contentKeyID: 62203528
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

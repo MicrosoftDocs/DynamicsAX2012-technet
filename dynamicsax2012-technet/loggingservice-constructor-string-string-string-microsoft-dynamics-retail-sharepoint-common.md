@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoggingService Constructor (String, String, String) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: LoggingService Constructor (String, String, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.LoggingService.#ctor(System.String,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.loggingservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.loggingservice(v=AX.60)
 ms:contentKeyID: 62203825
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,17 +58,17 @@ LoggingService(
 #### Parameters
 
   - loggingServiceName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - areaName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - loggingCategoryName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

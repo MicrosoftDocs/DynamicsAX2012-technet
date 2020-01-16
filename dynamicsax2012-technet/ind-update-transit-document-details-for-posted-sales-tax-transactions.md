@@ -2,8 +2,9 @@
 title: (IND) Update transit document details for posted sales tax transactions
 TOCTitle: (IND) Update transit document details for posted sales tax transactions
 ms:assetid: 5518333f-9ced-4894-9575-0c7bcbac3650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677822(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677822(v=AX.60)
 ms:contentKeyID: 49385783
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,7 +72,7 @@ Goods are often moved from one area to another during trade. The transit documen
 
 ## See also
 
-[(IND) Transit document details (form)](https://technet.microsoft.com/en-us/library/jj664773\(v=ax.60\))
+[(IND) Transit document details (form)](https://technet.microsoft.com/library/jj664773\(v=ax.60\))
 
   
 

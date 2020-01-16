@@ -2,8 +2,9 @@
 title: (IND) Verify export transaction details for an Advance Authorization incentive scheme
 TOCTitle: (IND) Verify the export transaction details for the Advanced Authorization (AA) incentive scheme
 ms:assetid: d150599e-73a1-4d58-8205-d66f22431a64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664939(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664939(v=AX.60)
 ms:contentKeyID: 49386268
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,9 +57,9 @@ For more information about how to create an export order and attach an AA incent
 
 [(IND) Create an export order and apply the AA incentive scheme to the export order](ind-create-an-export-order-and-apply-the-aa-incentive-scheme-to-the-export-order.md)
 
-[(IND) Export obligation (form)](https://technet.microsoft.com/en-us/library/jj677976\(v=ax.60\))
+[(IND) Export obligation (form)](https://technet.microsoft.com/library/jj677976\(v=ax.60\))
 
-[(IND) Export transaction details (form)](https://technet.microsoft.com/en-us/library/jj664611\(v=ax.60\))
+[(IND) Export transaction details (form)](https://technet.microsoft.com/library/jj664611\(v=ax.60\))
 
   
 

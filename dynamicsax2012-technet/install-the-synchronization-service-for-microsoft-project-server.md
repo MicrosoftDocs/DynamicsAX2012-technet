@@ -2,8 +2,9 @@
 title: Install the synchronization service for Microsoft Project Server
 TOCTitle: Install the synchronization service for Microsoft Project Server
 ms:assetid: b665dd6c-1d1f-4002-b69d-03e2006ea52d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362048(v=AX.60)
 ms:contentKeyID: 35132825
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

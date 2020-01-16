@@ -2,8 +2,9 @@
 title: (JPN) Set up for bills of exchange
 TOCTitle: (JPN) Set up for bills of exchange
 ms:assetid: 6de3e247-e629-4043-8a70-d615b7558867
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711072(v=AX.60)
 ms:contentKeyID: 49386485
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,9 +64,9 @@ You can use the **Customer posting profiles** form to add a new posting profile,
 
 ## See also
 
-[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664964\(v=ax.60\))
+[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj664964\(v=ax.60\))
 
-[Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\))
+[Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\))
 
 [Draw a bill of exchange](draw-a-bill-of-exchange.md)
 

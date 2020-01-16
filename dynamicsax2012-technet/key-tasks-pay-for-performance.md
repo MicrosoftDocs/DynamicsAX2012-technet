@@ -2,8 +2,9 @@
 title: 'Key tasks: Pay for performance'
 TOCTitle: 'Key tasks: Pay for performance'
 ms:assetid: d81f848d-a147-4e55-a498-07679c2dbebf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781103(v=AX.60)
 ms:contentKeyID: 43894520
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -125,11 +126,11 @@ Back to top
 
 ## Find form help
 
-[Performance plans (form)](https://technet.microsoft.com/en-us/library/hh781096\(v=ax.60\))
+[Performance plans (form)](https://technet.microsoft.com/library/hh781096\(v=ax.60\))
 
-[Pay for performance allocations (form)](https://technet.microsoft.com/en-us/library/hh781104\(v=ax.60\))
+[Pay for performance allocations (form)](https://technet.microsoft.com/library/hh781104\(v=ax.60\))
 
-[Performance ratings (form)](https://technet.microsoft.com/en-us/library/hh781109\(v=ax.60\))
+[Performance ratings (form)](https://technet.microsoft.com/library/hh781109\(v=ax.60\))
 
 ## Find related tasks
 

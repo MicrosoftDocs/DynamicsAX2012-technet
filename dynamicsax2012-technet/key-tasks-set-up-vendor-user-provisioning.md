@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up vendor user provisioning'
 TOCTitle: 'Key tasks: Set up vendor user provisioning'
 ms:assetid: 7126df3b-0969-4082-a964-59339fc63e21
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242649(v=AX.60)
 ms:contentKeyID: 36058065
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

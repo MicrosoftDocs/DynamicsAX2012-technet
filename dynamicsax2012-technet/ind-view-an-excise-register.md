@@ -2,8 +2,9 @@
 title: (IND) View an excise register
 TOCTitle: (IND) View an excise register
 ms:assetid: 081ef3d2-f4ec-4db6-afbc-d7fb6cd89bab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664455(v=AX.60)
 ms:contentKeyID: 49385534
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,9 +66,9 @@ Several types of inquiries are available for excise registers. Select the parame
 
 ## See also
 
-[(IND) Excise register inquiry (form)](https://technet.microsoft.com/en-us/library/jj710979\(v=ax.60\))
+[(IND) Excise register inquiry (form)](https://technet.microsoft.com/library/jj710979\(v=ax.60\))
 
-[(IND) Transactions (form)](https://technet.microsoft.com/en-us/library/jj664764\(v=ax.60\))
+[(IND) Transactions (form)](https://technet.microsoft.com/library/jj664764\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Intercompany configuration key (TradeInterCompany)
 TOCTitle: Intercompany configuration key (TradeInterCompany)
 ms:assetid: da9f64ff-682d-4ee3-93ba-5830ea891f31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620011(v=AX.60)
 ms:contentKeyID: 36991716
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,16 +40,16 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Purchase agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Intercompany</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh781085(v=ax.60)">Intercompany setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh781085(v=ax.60)">Intercompany setup (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Intercompany on-hand</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -70,12 +71,12 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Intercompany</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh781085(v=ax.60)">Intercompany setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh781085(v=ax.60)">Intercompany setup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328654(v=ax.60)">(PM) Sales order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328654(v=ax.60)">(PM) Sales order (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -127,12 +128,12 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Purchase agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Intercompany on-hand</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -154,17 +155,17 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Sales agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209567(v=ax.60)">Sales agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328665(v=ax.60)">(PM) Sales agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209567(v=ax.60)">Sales agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328665(v=ax.60)">(PM) Sales agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Intercompany on-hand</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619533(v=ax.60)">Intercompany on-hand (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328654(v=ax.60)">(PM) Sales order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328654(v=ax.60)">(PM) Sales order (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -202,7 +203,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

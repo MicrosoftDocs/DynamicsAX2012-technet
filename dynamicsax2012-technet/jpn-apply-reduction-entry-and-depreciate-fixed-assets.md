@@ -2,8 +2,9 @@
 title: (JPN) Apply reduction entry and depreciate fixed assets
 TOCTitle: (JPN) Apply reduction entry and depreciate fixed assets
 ms:assetid: 3785b26c-222e-4f76-b0e0-625f01e3bb92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn518243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn518243(v=AX.60)
 ms:contentKeyID: 61223079
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -88,9 +89,9 @@ To perform this task, follow these steps:
 
 1.  Click **Fixed assets** \> **Journals** \> **Fixed assets**.
 
-2.  Select or create a fixed asset acquisition journal. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Select or create a fixed asset acquisition journal. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
-3.  Click **Lines**, and then select or create a fixed asset acquisition journal line. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+3.  Click **Lines**, and then select or create a fixed asset acquisition journal line. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 4.  On the **Overview** tab, in the **Account** and **Value model** fields, select a fixed asset and value model to apply the reduction entry to.
 
@@ -168,9 +169,9 @@ To perform this task, follow these steps:
     
     Click **Fixed assets** \> **Journals** \> **Fixed assets**.
 
-2.  Select or create a depreciation journal, and then click **Lines**. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)) and [Depreciation book journal (form)](https://technet.microsoft.com/en-us/library/aa634765\(v=ax.60\)).
+2.  Select or create a depreciation journal, and then click **Lines**. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)) and [Depreciation book journal (form)](https://technet.microsoft.com/library/aa634765\(v=ax.60\)).
 
-3.  In the **Journal voucher** form or the **Journal line** form, enter the required details for the voucher. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)) and [Journal line (form)](https://technet.microsoft.com/en-us/library/hh209722\(v=ax.60\)).
+3.  In the **Journal voucher** form or the **Journal line** form, enter the required details for the voucher. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)) and [Journal line (form)](https://technet.microsoft.com/library/hh209722\(v=ax.60\)).
 
 4.  Click **Proposals** \> **Depreciation proposal**.
 

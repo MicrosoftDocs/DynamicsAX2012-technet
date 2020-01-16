@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyCard.LoyaltyGroups Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
 TOCTitle: LoyaltyGroups Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.LoyaltyCard.LoyaltyGroups
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.loyaltycard.loyaltygroups(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.loyaltycard.loyaltygroups(v=AX.60)
 ms:contentKeyID: 65318105
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property IList<LoyaltyGroup^>^ LoyaltyGroups {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[LoyaltyGroup](loyaltygroup-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[LoyaltyGroup](loyaltygroup-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Invoice turnover report (CustInvoiceVolume)
 TOCTitle: Invoice turnover report (CustInvoiceVolume)
 ms:assetid: e3377a6c-7126-47c5-82af-ecac88116ac8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa558245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa558245(v=AX.60)
 ms:contentKeyID: 37832037
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

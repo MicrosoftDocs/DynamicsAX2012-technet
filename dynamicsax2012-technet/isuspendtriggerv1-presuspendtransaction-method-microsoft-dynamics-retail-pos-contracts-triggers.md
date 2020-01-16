@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISuspendTriggerV1.PreSuspendTransaction Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PreSuspendTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ISuspendTriggerV1.PreSuspendTransaction(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.isuspendtriggerv1.presuspendtransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.isuspendtriggerv1.presuspendtransaction(v=AX.60)
 ms:contentKeyID: 47128872
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

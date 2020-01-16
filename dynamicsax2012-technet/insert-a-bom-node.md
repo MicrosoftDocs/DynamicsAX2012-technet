@@ -2,8 +2,9 @@
 title: Insert a BOM node
 TOCTitle: Insert a BOM node
 ms:assetid: fe8135aa-3b35-4315-bbb6-a7ceb4cedc34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573446(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573446(v=AX.60)
 ms:contentKeyID: 36060118
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ The bill of materials (BOM) node is useful for adding individual BOM lines to a 
     
       - **Variable** – Type the name of one of the variables for the product model in the BOM line field. When the item is configured, this field is completed with the value of the selected variable.
 
-8.  Complete the rest of the fields in the **BOM line** form. For their descriptions, see [BOM (form)](https://technet.microsoft.com/en-us/library/aa587282\(v=ax.60\)).
+8.  Complete the rest of the fields in the **BOM line** form. For their descriptions, see [BOM (form)](https://technet.microsoft.com/library/aa587282\(v=ax.60\)).
 
   
 

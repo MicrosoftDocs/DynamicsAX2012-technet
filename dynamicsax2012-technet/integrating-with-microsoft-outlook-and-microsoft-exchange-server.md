@@ -2,8 +2,9 @@
 title: Integrating with Microsoft Outlook and Microsoft Exchange Server
 TOCTitle: Integrating with Microsoft Outlook and Microsoft Exchange Server
 ms:assetid: 0427b3a1-d751-440c-bd8a-2b20e31b2a17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230659(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230659(v=AX.60)
 ms:contentKeyID: 36055943
+author: Khairunj
 ms.date: 12/09/2014
 mtps_version: v=AX.60
 f1_keywords:

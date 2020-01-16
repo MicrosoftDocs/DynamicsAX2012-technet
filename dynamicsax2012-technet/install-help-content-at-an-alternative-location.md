@@ -2,8 +2,9 @@
 title: Install Help content at an alternative location
 TOCTitle: Install Help content at an alternative location
 ms:assetid: 51d9dc28-1b6d-4949-adbc-055d0d6db756
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735269(v=AX.60)
 ms:contentKeyID: 49693270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (JPN) General ledger
 TOCTitle: (JPN) General ledger
 ms:assetid: 69ad120d-8fe8-4e1b-8d04-5f3024a1101d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711070(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711070(v=AX.60)
 ms:contentKeyID: 49386480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

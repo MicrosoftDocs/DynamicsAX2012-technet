@@ -2,8 +2,9 @@
 title: Inventory overview
 TOCTitle: Inventory overview
 ms:assetid: b0cacf0b-dcc0-4e98-9e03-d273e6337add
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232391(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232391(v=AX.60)
 ms:contentKeyID: 36058966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

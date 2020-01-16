@@ -2,8 +2,9 @@
 title: Install Enterprise Search on FAST Search Server
 TOCTitle: Install Enterprise Search on FAST Search Server
 ms:assetid: 50945280-0565-4786-b0c9-f26d0f947f27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575214(v=AX.60)
 ms:contentKeyID: 39555353
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 dev_langs:

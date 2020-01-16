@@ -2,8 +2,9 @@
 title: (IND) Split a DFIA license
 TOCTitle: (IND) Split a DFIA license
 ms:assetid: afc41858-4f2e-463f-a632-528a4090d60d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664800(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664800(v=AX.60)
 ms:contentKeyID: 49386130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,13 +69,13 @@ Additionally, the following details are updated in the **Import details** form:
 
 [(IND) Set up EXIM authorization schemes for DFIA](ind-set-up-exim-authorization-schemes-for-dfia.md)
 
-[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/en-us/library/jj664625\(v=ax.60\))
+[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/library/jj664625\(v=ax.60\))
 
-[(IND) Split details (form)](https://technet.microsoft.com/en-us/library/jj678058\(v=ax.60\))
+[(IND) Split details (form)](https://technet.microsoft.com/library/jj678058\(v=ax.60\))
 
-[(IND) Summary importable items (form)](https://technet.microsoft.com/en-us/library/jj664946\(v=ax.60\))
+[(IND) Summary importable items (form)](https://technet.microsoft.com/library/jj664946\(v=ax.60\))
 
-[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/en-us/library/jj664632\(v=ax.60\))
+[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/library/jj664632\(v=ax.60\))
 
   
 

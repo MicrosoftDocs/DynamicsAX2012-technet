@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up business rules for fixed asset determination'
 TOCTitle: 'Key tasks: Set up business rules for fixed asset determination'
 ms:assetid: 1851814e-c357-43ad-a8cd-0a548e7d1f18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208442(v=AX.60)
 ms:contentKeyID: 36056096
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Complete the following prerequisites before you set up business rules for fixed 
 
   - Set up fixed asset groups for legal entities. For information, see [Set up fixed asset groups](set-up-fixed-asset-groups.md).
 
-  - Create a currency conversion rate if the currency of a legal entity differs from the organization’s currency. You must do this before you can associate a legal entity rule with an organization-wide fixed asset identifier. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Create a currency conversion rate if the currency of a legal entity differs from the organization’s currency. You must do this before you can associate a legal entity rule with an organization-wide fixed asset identifier. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 ## What do you want to do?
 
@@ -201,7 +202,7 @@ Back to top
 
 ## Find form help
 
-[Business rules for fixed asset determination (form)](https://technet.microsoft.com/en-us/library/hh242884\(v=ax.60\))
+[Business rules for fixed asset determination (form)](https://technet.microsoft.com/library/hh242884\(v=ax.60\))
 
   
 

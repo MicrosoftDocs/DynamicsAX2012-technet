@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStorageElement.DefaultOperatingUnitNumber Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: DefaultOperatingUnitNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.IStorageElement.DefaultOperatingUnitNumber
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.istorageelement.defaultoperatingunitnumber(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.istorageelement.defaultoperatingunitnumber(v=AX.60)
 ms:contentKeyID: 65321329
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property String^ DefaultOperatingUnitNumber {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## Remarks
 

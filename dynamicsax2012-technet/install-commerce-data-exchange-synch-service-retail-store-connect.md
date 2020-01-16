@@ -2,8 +2,9 @@
 title: 'Install Commerce Data Exchange: Synch Service (Retail Store Connect)'
 TOCTitle: 'Install Commerce Data Exchange: Synch Service (Retail Store Connect)'
 ms:assetid: fe4c8504-6645-4952-a6bf-20f50fa984ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575262(v=AX.60)
 ms:contentKeyID: 39555434
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

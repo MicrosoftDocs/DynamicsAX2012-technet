@@ -1,9 +1,10 @@
-﻿---
+---
 title: LogonCredentials.Device Property  (Microsoft.Dynamics.Commerce.Runtime.Entities)
 TOCTitle: Device Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Entities.LogonCredentials.Device
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.entities.logoncredentials.device(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.entities.logoncredentials.device(v=AX.60)
 ms:contentKeyID: 65323069
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

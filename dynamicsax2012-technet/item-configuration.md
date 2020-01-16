@@ -2,8 +2,9 @@
 title: Item configuration
 TOCTitle: Item configuration
 ms:assetid: 45b5a5e2-5962-4806-9185-97dc4bc24b5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496983(v=AX.60)
 ms:contentKeyID: 36056897
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

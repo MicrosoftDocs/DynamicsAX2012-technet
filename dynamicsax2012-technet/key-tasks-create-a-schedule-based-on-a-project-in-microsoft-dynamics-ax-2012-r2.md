@@ -2,8 +2,9 @@
 title: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2'
 TOCTitle: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 R2'
 ms:assetid: 399e100e-51bd-47d0-a6fd-14b3ecb4de4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682092(v=AX.60)
 ms:contentKeyID: 49655579
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -165,15 +166,15 @@ Back to top
 
 ## Find form help
 
-[Schedule resources (form)](https://technet.microsoft.com/en-us/library/hh209507\(v=ax.60\))
+[Schedule resources (form)](https://technet.microsoft.com/library/hh209507\(v=ax.60\))
 
-[Assign resources (form)](https://technet.microsoft.com/en-us/library/hh208809\(v=ax.60\))
+[Assign resources (form)](https://technet.microsoft.com/library/hh208809\(v=ax.60\))
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[Other worker attributes (form)](https://technet.microsoft.com/en-us/library/hh242802\(v=ax.60\))
+[Other worker attributes (form)](https://technet.microsoft.com/library/hh242802\(v=ax.60\))
 
-[Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\))
+[Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\))
 
 ## Find related tasks
 

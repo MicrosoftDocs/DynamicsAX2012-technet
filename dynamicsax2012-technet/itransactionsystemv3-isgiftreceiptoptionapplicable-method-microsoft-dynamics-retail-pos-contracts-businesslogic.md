@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITransactionSystemV3.IsGiftReceiptOptionApplicable Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: IsGiftReceiptOptionApplicable Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ITransactionSystemV3.IsGiftReceiptOptionApplicable(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.itransactionsystemv3.isgiftreceiptoptionapplicable(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.itransactionsystemv3.isgiftreceiptoptionapplicable(v=AX.60)
 ms:contentKeyID: 62204512
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ bool IsGiftReceiptOptionApplicable(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if gift receipt is applicable  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: (IND) Verify export obligation details for an EPCG license
 TOCTitle: (IND) Verify export obligation details for an EPCG license
 ms:assetid: a6c780b3-9a1c-4b22-a07e-c2dceb8f3f82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664766(v=AX.60)
 ms:contentKeyID: 49386108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,11 +41,11 @@ Use the **EPCG export obligation** form to view the export transactions and othe
 
 [(IND) About EPCG incentive schemes for export orders](ind-about-epcg-incentive-schemes-for-export-orders.md)
 
-[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
+[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/library/jj677817\(v=ax.60\))
 
-[(IND) EPCG export obligation (form)](https://technet.microsoft.com/en-us/library/jj677936\(v=ax.60\))
+[(IND) EPCG export obligation (form)](https://technet.microsoft.com/library/jj677936\(v=ax.60\))
 
-[(IND) Export transaction details (form)](https://technet.microsoft.com/en-us/library/jj664611\(v=ax.60\))
+[(IND) Export transaction details (form)](https://technet.microsoft.com/library/jj664611\(v=ax.60\))
 
   
 

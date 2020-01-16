@@ -2,8 +2,9 @@
 title: (IND) View purchase or sales release orders
 TOCTitle: (IND) View purchase or sales release orders
 ms:assetid: 0277eb4f-3031-4ad1-b199-c2b4ac1322f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664433(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664433(v=AX.60)
 ms:contentKeyID: 49385523
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,9 +67,9 @@ You can view all purchase or sales release order lines for a purchase or sales a
 
 ## See also
 
-[Purchase release order lines (form)](https://technet.microsoft.com/en-us/library/aa617487\(v=ax.60\))
+[Purchase release order lines (form)](https://technet.microsoft.com/library/aa617487\(v=ax.60\))
 
-[Sales release order lines (form)](https://technet.microsoft.com/en-us/library/aa634845\(v=ax.60\))
+[Sales release order lines (form)](https://technet.microsoft.com/library/aa634845\(v=ax.60\))
 
 [About purchase agreements](about-purchase-agreements.md)
 

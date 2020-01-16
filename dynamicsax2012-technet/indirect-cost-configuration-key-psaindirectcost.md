@@ -2,8 +2,9 @@
 title: Indirect cost configuration key (PSAIndirectCost)
 TOCTitle: Indirect cost configuration key (PSAIndirectCost)
 ms:assetid: 603adac4-ab50-4a6f-abc6-f8fd178bbd31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500153(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500153(v=AX.60)
 ms:contentKeyID: 37820184
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,25 +36,25 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Indirect cost component</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208810(v=ax.60)">Indirect cost component (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208810(v=ax.60)">Indirect cost component (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Indirect cost component groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209621(v=ax.60)">Indirect cost component groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209621(v=ax.60)">Indirect cost component groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Indirect cost component group assignment rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227451(v=ax.60)">Indirect cost component group assignment rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227451(v=ax.60)">Indirect cost component group assignment rules (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Indirect component transaction</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209467(v=ax.60)">Indirect component transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209467(v=ax.60)">Indirect component transaction (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Compounding rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227384(v=ax.60)">Compounding rules - Cost (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh242812(v=ax.60)">Compounding rules - Invoice (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh209617(v=ax.60)">Compounding rules - Revenue (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227384(v=ax.60)">Compounding rules - Cost (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh242812(v=ax.60)">Compounding rules - Invoice (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh209617(v=ax.60)">Compounding rules - Revenue (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +92,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

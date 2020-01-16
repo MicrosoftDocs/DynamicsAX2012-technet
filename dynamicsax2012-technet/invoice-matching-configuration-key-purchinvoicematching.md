@@ -2,8 +2,9 @@
 title: Invoice matching configuration key (PurchInvoiceMatching)
 TOCTitle: Invoice matching configuration key (PurchInvoiceMatching)
 ms:assetid: 301ffc0c-ab4c-485b-b0e7-826e1f180112
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh441661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh441661(v=AX.60)
 ms:contentKeyID: 36993543
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,27 +42,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Charges tolerances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227600(v=ax.60)">Charges tolerances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227600(v=ax.60)">Charges tolerances (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Invoice matching details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209713(v=ax.60)">Invoice matching details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209713(v=ax.60)">Invoice matching details (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Invoice totals tolerances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209369(v=ax.60)">Invoice totals tolerances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209369(v=ax.60)">Invoice totals tolerances (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Matching policy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209508(v=ax.60)">Matching policy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209508(v=ax.60)">Matching policy (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Price tolerances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209247(v=ax.60)">Price tolerances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209247(v=ax.60)">Price tolerances (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor price tolerance groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242256(v=ax.60)">Vendor price tolerance groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242256(v=ax.60)">Vendor price tolerance groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +84,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Item price tolerance groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209702(v=ax.60)">Item price tolerance groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209702(v=ax.60)">Item price tolerance groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -105,11 +106,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Matching policy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209508(v=ax.60)">Matching policy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209508(v=ax.60)">Matching policy (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Price tolerances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209247(v=ax.60)">Price tolerances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209247(v=ax.60)">Price tolerances (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -147,7 +148,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

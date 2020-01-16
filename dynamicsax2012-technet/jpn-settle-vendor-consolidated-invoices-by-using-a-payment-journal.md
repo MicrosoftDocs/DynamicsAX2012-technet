@@ -2,8 +2,9 @@
 title: (JPN) Settle vendor consolidated invoices by using a payment journal
 TOCTitle: (JPN) Settle vendor consolidated invoices by using a payment journal
 ms:assetid: 19d07e8a-bd65-430d-819a-87d28c5a14a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711014(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711014(v=AX.60)
 ms:contentKeyID: 49386424
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Settle open transactions** form to settle open transactions that are related to consolidated invoices after you pay a vendor. You cannot delete a consolidated invoice after it has been settled. For more information, see [(JPN) Settle open transactions - vendor (modified form)](https://technet.microsoft.com/en-us/library/jj711052\(v=ax.60\)) and [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+Use the **Settle open transactions** form to settle open transactions that are related to consolidated invoices after you pay a vendor. You cannot delete a consolidated invoice after it has been settled. For more information, see [(JPN) Settle open transactions - vendor (modified form)](https://technet.microsoft.com/library/jj711052\(v=ax.60\)) and [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
 
@@ -55,9 +56,9 @@ Use the **Settle open transactions** form to settle open transactions that are r
 
 [(JPN) Mark purchase invoices for consolidation and calculate due dates](jpn-mark-purchase-invoices-for-consolidation-and-calculate-due-dates.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
+[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\))
 
   
 

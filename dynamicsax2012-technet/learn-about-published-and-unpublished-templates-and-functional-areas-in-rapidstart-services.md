@@ -2,8 +2,9 @@
 title: Learn about published and unpublished templates and functional areas in RapidStart Services
 TOCTitle: Learn about published and unpublished templates and functional areas in RapidStart Services
 ms:assetid: 0fbf4011-a065-477d-af0d-3d2318a15745
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413223(v=AX.60)
 ms:contentKeyID: 36918914
+author: Khairunj
 ms.date: 09/23/2015
 mtps_version: v=AX.60
 f1_keywords:

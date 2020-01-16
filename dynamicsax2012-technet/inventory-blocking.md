@@ -2,8 +2,9 @@
 title: Inventory blocking
 TOCTitle: Inventory blocking
 ms:assetid: dff45b5c-3e3d-412b-988f-371370027fba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227420(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227420(v=AX.60)
 ms:contentKeyID: 36059701
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

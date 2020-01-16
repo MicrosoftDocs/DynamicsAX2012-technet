@@ -2,8 +2,9 @@
 title: Inventory close
 TOCTitle: Inventory close
 ms:assetid: e1cc7ac8-9572-4785-98e1-a6bdaf8c6ee1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243211(v=AX.60)
 ms:contentKeyID: 36059713
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

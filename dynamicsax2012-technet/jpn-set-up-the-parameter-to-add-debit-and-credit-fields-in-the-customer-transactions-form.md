@@ -2,8 +2,9 @@
 title: (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form
 TOCTitle: (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form
 ms:assetid: 95c330ab-ca49-4323-a15e-9dbfdb1b0a0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn282398(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn282398(v=AX.60)
 ms:contentKeyID: 54906862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,9 +41,9 @@ For more information about how to use EDTs to create debit and credit columns, g
 
 ## See also
 
-[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664964\(v=ax.60\))
+[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj664964\(v=ax.60\))
 
-[Customer transactions (form)](https://technet.microsoft.com/en-us/library/aa634902\(v=ax.60\))
+[Customer transactions (form)](https://technet.microsoft.com/library/aa634902\(v=ax.60\))
 
 [(JPN) Set up the parameter to add debit and credit fields in the Vendor transactions form](jpn-set-up-the-parameter-to-add-debit-and-credit-fields-in-the-vendor-transactions-form.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITaxCode Methods (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects)
 TOCTitle: ITaxCode Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects.ITaxCode
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businessobjects.itaxcode_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businessobjects.itaxcode_methods(v=AX.60)
 ms:contentKeyID: 47129207
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

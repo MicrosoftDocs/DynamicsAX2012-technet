@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStoreInventoryServicesV1.CommitOrderReceipt Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: CommitOrderReceipt Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServicesV1.CommitOrderReceipt(System.String,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.Services.PRCountingType)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.commitorderreceipt(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.commitorderreceipt(v=AX.60)
 ms:contentKeyID: 47344354
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,12 +61,12 @@ IPRDocument^ CommitOrderReceipt(
 #### Parameters
 
   - orderId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - receiptNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

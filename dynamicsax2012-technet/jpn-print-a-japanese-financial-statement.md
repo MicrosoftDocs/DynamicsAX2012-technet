@@ -2,8 +2,9 @@
 title: (JPN) Print a Japanese financial statement
 TOCTitle: (JPN) Print a Japanese financial statement
 ms:assetid: 10877d0c-a18d-4c58-95e5-a9e52b9785b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711005(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711005(v=AX.60)
 ms:contentKeyID: 49386416
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ You can export and print Japanese financial statements, such as balance sheets, 
 
 [(JPN) Create a Japanese financial statement](jpn-create-a-japanese-financial-statement.md)
 
-[Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\))
+[Financial statement setup (form)](https://technet.microsoft.com/library/aa600912\(v=ax.60\))
 
   
 

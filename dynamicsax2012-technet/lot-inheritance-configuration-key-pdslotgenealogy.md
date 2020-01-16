@@ -2,8 +2,9 @@
 title: Lot inheritance configuration key (PDSLotGenealogy)
 TOCTitle: Lot inheritance configuration key (PDSLotGenealogy)
 ms:assetid: c038fe81-c08d-494d-a011-e6c4a11edb74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn782847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn782847(v=AX.60)
 ms:contentKeyID: 62817386
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Batch attributes selection</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838761(v=ax.60)">(PM) Batch attribute selection (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838761(v=ax.60)">(PM) Batch attribute selection (form)</a></p>
 <p><a href="define-and-activate-formula-ingredients-for-batch-attribute-inheritance.md">Define and activate formula ingredients for batch attribute inheritance</a></p></td>
 </tr>
 </tbody>
@@ -74,7 +75,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

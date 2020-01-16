@@ -2,8 +2,9 @@
 title: (IND) Withholding tax calculation
 TOCTitle: (IND) Withholding tax calculation
 ms:assetid: 4326760d-9d7a-4565-928c-2ebd003988b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn306811(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn306811(v=AX.60)
 ms:contentKeyID: 54925756
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

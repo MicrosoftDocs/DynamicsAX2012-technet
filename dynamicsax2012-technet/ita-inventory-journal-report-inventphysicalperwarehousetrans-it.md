@@ -2,8 +2,9 @@
 title: (ITA) Inventory journal report (InventPhysicalPerWarehouseTrans_IT)
 TOCTitle: (ITA) Inventory journal report (InventPhysicalPerWarehouseTrans_IT)
 ms:assetid: ba29b05c-d064-40bc-84e1-d4e47c53b5b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa556744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa556744(v=AX.60)
 ms:contentKeyID: 36687912
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

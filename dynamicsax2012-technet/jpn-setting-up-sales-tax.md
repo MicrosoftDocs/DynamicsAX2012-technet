@@ -2,8 +2,9 @@
 title: (JPN) Setting up sales tax
 TOCTitle: (JPN) Setting up sales tax
 ms:assetid: 92cfe8c2-42ba-4aba-856d-74eab29f700c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711095(v=AX.60)
 ms:contentKeyID: 49386506
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

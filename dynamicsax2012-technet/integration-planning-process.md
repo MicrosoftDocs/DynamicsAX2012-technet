@@ -2,8 +2,9 @@
 title: Integration planning process
 TOCTitle: Integration planning process
 ms:assetid: 56c4b24d-cc42-4ebf-a407-0ac0a6c14fb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309680(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309680(v=AX.60)
 ms:contentKeyID: 35132640
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

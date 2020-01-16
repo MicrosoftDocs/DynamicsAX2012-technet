@@ -2,8 +2,9 @@
 title: List pages
 TOCTitle: List pages
 ms:assetid: 774fe909-350b-4a6c-8487-13ff24c13217
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212990(v=AX.60)
 ms:contentKeyID: 36058209
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:

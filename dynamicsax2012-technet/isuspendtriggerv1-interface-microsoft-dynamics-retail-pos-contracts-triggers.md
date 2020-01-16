@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISuspendTriggerV1 Interface (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: ISuspendTriggerV1 Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ISuspendTriggerV1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.isuspendtriggerv1(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.isuspendtriggerv1(v=AX.60)
 ms:contentKeyID: 47128622
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

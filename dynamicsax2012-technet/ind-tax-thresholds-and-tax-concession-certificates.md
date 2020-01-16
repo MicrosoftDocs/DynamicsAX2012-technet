@@ -2,8 +2,9 @@
 title: (IND) Tax thresholds and tax concession certificates
 TOCTitle: (IND) Tax thresholds and tax concession certificates
 ms:assetid: 7264e8f3-69ce-420e-aa4d-936aa1f4527d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527715(v=AX.60)
 ms:contentKeyID: 59626290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -153,7 +154,7 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 
 [(IND) Set up threshold limits](ind-set-up-threshold-limits.md)
 
-[(IND) Withholding tax values (modified form)](https://technet.microsoft.com/en-us/library/jj710990\(v=ax.60\))
+[(IND) Withholding tax values (modified form)](https://technet.microsoft.com/library/jj710990\(v=ax.60\))
 
   
 

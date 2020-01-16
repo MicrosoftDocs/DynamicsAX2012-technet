@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPrinterV1.WindowsPrinting Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: WindowsPrinting Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrinterV1.WindowsPrinting(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iprinterv1.windowsprinting(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprinterv1.windowsprinting(v=AX.60)
 ms:contentKeyID: 47344328
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,12 +56,12 @@ void WindowsPrinting(
 #### Parameters
 
   - textToPrint  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - printerName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

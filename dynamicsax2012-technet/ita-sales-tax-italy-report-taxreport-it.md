@@ -2,8 +2,9 @@
 title: (ITA) Sales tax (Italy) report (TaxReport_IT)
 TOCTitle: (ITA) Sales tax (Italy) report (TaxReport_IT)
 ms:assetid: ca767b87-6900-40ea-8c99-70e0a40e9787
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352288(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352288(v=AX.60)
 ms:contentKeyID: 36687916
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -158,7 +159,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
+[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/library/aa600627\(v=ax.60\))
 
   
 

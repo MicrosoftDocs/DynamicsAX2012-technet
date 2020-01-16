@@ -2,8 +2,9 @@
 title: Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in
 TOCTitle: Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in
 ms:assetid: 59a18425-f0c1-4715-b1ea-35d8df708917
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208976(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208976(v=AX.60)
 ms:contentKeyID: 36057349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ The Project Management and Accounting Add-in includes the following features:
 
   - Pay when paid – Schedule payments to vendors when you receive payments from customers for projects. For more information about pay-when-paid projects, see [About pay-when-paid projects](about-pay-when-paid-projects.md). For more information about how to set up and manage pay-when-paid projects, see [Key tasks: Manage pay-when-paid projects](key-tasks-manage-pay-when-paid-projects.md).
 
-Before you begin to work in the Project Management and Accounting Add-in, set up parameters for project management and accounting. For more information, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)). By presetting these values, you can automate some of the data entry when you create documents for Project Management and Accounting Add-in transactions. You can override some of the default values when you create documents. For more information, see [About Project management and accounting parameters](about-project-management-and-accounting-parameters.md).
+Before you begin to work in the Project Management and Accounting Add-in, set up parameters for project management and accounting. For more information, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)). By presetting these values, you can automate some of the data entry when you create documents for Project Management and Accounting Add-in transactions. You can override some of the default values when you create documents. For more information, see [About Project management and accounting parameters](about-project-management-and-accounting-parameters.md).
 
   
 

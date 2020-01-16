@@ -2,8 +2,9 @@
 title: Install Retail Modern POS
 TOCTitle: Install Retail Modern POS
 ms:assetid: d1f8a90d-30c8-4f58-81b5-9ff958f68fe5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741434(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741434(v=AX.60)
 ms:contentKeyID: 62219711
+author: Khairunj
 ms.date: 07/24/2015
 mtps_version: v=AX.60
 ---

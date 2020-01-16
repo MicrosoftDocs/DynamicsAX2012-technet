@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITaxV1.TaxOverrideList Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: TaxOverrideList Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITaxV1.TaxOverrideList(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.TaxOverrideBy,System.String@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.itaxv1.taxoverridelist(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.itaxv1.taxoverridelist(v=AX.60)
 ms:contentKeyID: 47344098
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ DialogResult TaxOverrideList(
 <!-- end list -->
 
   - selectedTaxOverride  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/en-us/library/5ahe29t9\(v=ax.60\))  
+Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/library/5ahe29t9\(v=ax.60\))  
 One of the DialogResult values.  
 
 ## See Also

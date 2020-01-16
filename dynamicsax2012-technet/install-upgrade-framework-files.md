@@ -2,8 +2,9 @@
 title: Install upgrade framework files
 TOCTitle: Install upgrade framework files
 ms:assetid: de8bf5a7-4ae0-498c-82cc-8423b67e045d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732154(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732154(v=AX.60)
 ms:contentKeyID: 35133096
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPaymentTriggerV1.OnPayment Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: OnPayment Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPaymentTriggerV1.OnPayment(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.ipaymenttriggerv1.onpayment(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.ipaymenttriggerv1.onpayment(v=AX.60)
 ms:contentKeyID: 47128423
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

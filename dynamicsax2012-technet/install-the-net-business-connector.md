@@ -2,8 +2,9 @@
 title: Install the .NET Business Connector
 TOCTitle: Install the .NET Business Connector
 ms:assetid: c67944e8-73c5-4434-94d6-84484c810333
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548683(v=AX.60)
 ms:contentKeyID: 35132857
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

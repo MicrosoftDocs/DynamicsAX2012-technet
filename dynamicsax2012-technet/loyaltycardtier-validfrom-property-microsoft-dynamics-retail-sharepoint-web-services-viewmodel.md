@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyCardTier.ValidFrom Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: ValidFrom Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.LoyaltyCardTier.ValidFrom
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.loyaltycardtier.validfrom(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.loyaltycardtier.validfrom(v=AX.60)
 ms:contentKeyID: 62202023
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property DateTime ValidFrom {
 
 #### Property Value
 
-Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
-Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)).  
 
 ## See Also
 

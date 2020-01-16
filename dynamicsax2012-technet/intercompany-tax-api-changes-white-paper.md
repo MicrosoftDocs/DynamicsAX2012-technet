@@ -2,8 +2,9 @@
 title: Intercompany tax API changes (White paper)
 TOCTitle: Intercompany tax API changes (White paper)
 ms:assetid: 73407125-ed23-4855-9eaa-1b9c57cdd89c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn155927(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn155927(v=AX.60)
 ms:contentKeyID: 53906332
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

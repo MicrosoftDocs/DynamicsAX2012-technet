@@ -2,8 +2,9 @@
 title: Install web services on IIS
 TOCTitle: Install web services on IIS
 ms:assetid: 83827f45-6e85-4ec4-b673-133d284b2763
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731848(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731848(v=AX.60)
 ms:contentKeyID: 35132705
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

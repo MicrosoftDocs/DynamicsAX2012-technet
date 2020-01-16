@@ -1,9 +1,10 @@
-﻿---
+---
 title: LayoutManager.GetButtonGrids Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetButtonGrids Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.LayoutManager.GetButtonGrids(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.layoutmanager.getbuttongrids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.layoutmanager.getbuttongrids(v=AX.60)
 ms:contentKeyID: 65316441
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

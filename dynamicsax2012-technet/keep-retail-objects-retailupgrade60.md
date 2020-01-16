@@ -2,8 +2,9 @@
 title: Keep retail objects (RetailUpgrade60)
 TOCTitle: Keep retail objects (RetailUpgrade60)
 ms:assetid: aeae2fd9-1841-4b26-a861-a4e63eb9efef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn776323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn776323(v=AX.60)
 ms:contentKeyID: 62634606
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

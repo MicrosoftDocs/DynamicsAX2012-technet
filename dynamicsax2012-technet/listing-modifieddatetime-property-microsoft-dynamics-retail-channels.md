@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing.ModifiedDateTime Property  (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: ModifiedDateTime Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Channels.Listing.ModifiedDateTime
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing.modifieddatetime(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.modifieddatetime(v=AX.60)
 ms:contentKeyID: 65318659
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property DateTimeOffset ModifiedDateTime {
 
 #### Property Value
 
-Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 ## See Also
 

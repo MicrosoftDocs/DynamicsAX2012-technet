@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITransactionTriggerV2.PreConfirmReturnTransaction Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PreConfirmReturnTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ITransactionTriggerV2.PreConfirmReturnTransaction(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.itransactiontriggerv2.preconfirmreturntransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.itransactiontriggerv2.preconfirmreturntransaction(v=AX.60)
 ms:contentKeyID: 62203322
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

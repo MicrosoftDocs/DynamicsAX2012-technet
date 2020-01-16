@@ -2,8 +2,9 @@
 title: 'Key tasks: Create and submit a purchase requisition'
 TOCTitle: 'Key tasks: Create and submit a purchase requisition'
 ms:assetid: 606c8fa1-45ba-40ed-8b66-32b4a9fd921b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209152(v=AX.60)
 ms:contentKeyID: 36057620
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -337,7 +338,7 @@ By using requisitions with a purpose of replenishment, you can do the following:
 
   - Submit the purchase requisition for review and approval.
 
-The requisition purpose **Replenishment** must be enabled for your organization before you can create a requisition with a purpose of replenishment. For more information about how to set up requisition purposes, see [Requisition purpose rule (form)](https://technet.microsoft.com/en-us/library/jj677434\(v=ax.60\)).
+The requisition purpose **Replenishment** must be enabled for your organization before you can create a requisition with a purpose of replenishment. For more information about how to set up requisition purposes, see [Requisition purpose rule (form)](https://technet.microsoft.com/library/jj677434\(v=ax.60\)).
 
 ### Create a requisition with a purpose of replenishment
 
@@ -408,15 +409,15 @@ Back to top
 
 ## Find form help
 
-[Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh209453\(v=ax.60\))
+[Purchase requisitions (form)](https://technet.microsoft.com/library/hh209453\(v=ax.60\))
 
-[Purchase requisitions - lines (form)](https://technet.microsoft.com/en-us/library/hh209354\(v=ax.60\))
+[Purchase requisitions - lines (form)](https://technet.microsoft.com/library/hh209354\(v=ax.60\))
 
-[Purchase requisitions (list page)](https://technet.microsoft.com/en-us/library/hh227485\(v=ax.60\))
+[Purchase requisitions (list page)](https://technet.microsoft.com/library/hh227485\(v=ax.60\))
 
-[Vendor suggestions (form)](https://technet.microsoft.com/en-us/library/hh208595\(v=ax.60\))
+[Vendor suggestions (form)](https://technet.microsoft.com/library/hh208595\(v=ax.60\))
 
-[Business justifications (form)](https://technet.microsoft.com/en-us/library/hh242732\(v=ax.60\))
+[Business justifications (form)](https://technet.microsoft.com/library/hh242732\(v=ax.60\))
 
 ## Find related tasks
 

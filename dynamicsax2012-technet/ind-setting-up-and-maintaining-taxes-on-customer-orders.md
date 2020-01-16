@@ -2,8 +2,9 @@
 title: (IND) Setting up and maintaining taxes on customer orders
 TOCTitle: (IND) Setting up and maintaining taxes on customer orders
 ms:assetid: 7a9c39f2-0efb-40ab-9eb7-ba02dfecf728
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268483(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268483(v=AX.60)
 ms:contentKeyID: 54917022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Insert an IF node
 TOCTitle: Insert an IF node
 ms:assetid: 024803ed-0196-456d-8726-b07cd85901f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569692(v=AX.60)
 ms:contentKeyID: 36055926
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: InsertTransactionLogDataRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: InsertTransactionLogDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertTransactionLogDataRequest.#ctor(System.Int64,Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataTable)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.inserttransactionlogdatarequest.inserttransactionlogdatarequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.inserttransactionlogdatarequest.inserttransactionlogdatarequest(v=AX.60)
 ms:contentKeyID: 65320348
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ InsertTransactionLogDataRequest(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 

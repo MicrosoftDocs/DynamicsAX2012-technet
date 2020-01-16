@@ -1,9 +1,10 @@
-﻿---
+---
 title: IWishListService.UpdateWishListProperties Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: UpdateWishListProperties Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IWishListService.UpdateWishListProperties(System.String,System.String,System.Nullable{System.Boolean})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.iwishlistservice.updatewishlistproperties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.iwishlistservice.updatewishlistproperties(v=AX.60)
 ms:contentKeyID: 62204862
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,17 +64,17 @@ WishListResponse^ UpdateWishListProperties(
 #### Parameters
 
   - wishListId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - wishListName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - isFavorite  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))\>  
 
 #### Return Value
 

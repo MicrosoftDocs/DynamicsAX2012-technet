@@ -2,8 +2,9 @@
 title: Install management utilities
 TOCTitle: Install management utilities
 ms:assetid: 09d85a6e-911b-4067-a512-9176b3aee44d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751346(v=AX.60)
 ms:contentKeyID: 35132534
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

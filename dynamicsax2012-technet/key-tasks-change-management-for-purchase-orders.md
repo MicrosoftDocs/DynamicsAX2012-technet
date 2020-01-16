@@ -2,8 +2,9 @@
 title: 'Key tasks: Change management for purchase orders'
 TOCTitle: 'Key tasks: Change management for purchase orders'
 ms:assetid: 1f149219-fb27-4386-997b-139f053588c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh802989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh802989(v=AX.60)
 ms:contentKeyID: 44080955
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -201,11 +202,11 @@ Back to top
 
 ## Find form help
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Finalize purchase order (form)](https://technet.microsoft.com/en-us/library/hh209586\(v=ax.60\))
+[Finalize purchase order (form)](https://technet.microsoft.com/library/hh209586\(v=ax.60\))
 
-[Compare purchase order versions (form)](https://technet.microsoft.com/en-us/library/hh209288\(v=ax.60\))
+[Compare purchase order versions (form)](https://technet.microsoft.com/library/hh209288\(v=ax.60\))
 
 ## Find related tasks
 

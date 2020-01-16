@@ -2,8 +2,9 @@
 title: 'Key tasks: Credit card expense disputes'
 TOCTitle: 'Key tasks: Credit card expense disputes'
 ms:assetid: b3f1d573-bbc5-441a-ac27-1d431b9bd90b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271627(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271627(v=AX.60)
 ms:contentKeyID: 36384259
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

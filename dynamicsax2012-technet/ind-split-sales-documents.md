@@ -2,8 +2,9 @@
 title: (IND) Split sales documents
 TOCTitle: (IND) Split sales documents
 ms:assetid: 6e97d0fb-a7bf-4dd8-9559-30c0c9955842
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677904(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677904(v=AX.60)
 ms:contentKeyID: 49385880
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: 'Key tasks: Work with vendor search and search results'
 TOCTitle: 'Key tasks: Work with vendor search and search results'
 ms:assetid: 01f5affc-6ade-4ec0-9a43-cde7e080082c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242095(v=AX.60)
 ms:contentKeyID: 36055923
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -156,7 +157,7 @@ You can create an RFQ for a current vendor if the vendor has a hold status of **
 
 3.  In the **Vendor search results** form, on the **Current vendors** FastTab, select the vendor that you want to create an RFQ for.
 
-4.  Click **Functions**, and then click **Request for quotation** to open the **New request for quotation** form. For more information about how to create an RFQ, see [New request for quotation (form)](https://technet.microsoft.com/en-us/library/hh209104\(v=ax.60\)).
+4.  Click **Functions**, and then click **Request for quotation** to open the **New request for quotation** form. For more information about how to create an RFQ, see [New request for quotation (form)](https://technet.microsoft.com/library/hh209104\(v=ax.60\)).
 
 Back to top
 
@@ -184,7 +185,7 @@ Use this procedure to create a new purchase order for a vendor who is listed in 
 
 4.  Click **Functions**, and then click **Purchase order**.
 
-5.  In the **Transfer vendor information?** dialog box, click **Yes** to copy the name, address, buyer group, currency, and language from the vendor profile to the new purchase order. Click **No** if you want to copy only the vendor name and address to the new purchase order. For more information about how to create a purchase order, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)).
+5.  In the **Transfer vendor information?** dialog box, click **Yes** to copy the name, address, buyer group, currency, and language from the vendor profile to the new purchase order. Click **No** if you want to copy only the vendor name and address to the new purchase order. For more information about how to create a purchase order, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)).
 
 Back to top
 
@@ -258,19 +259,19 @@ Back to top
 
 ## Find form help
 
-[Vendor search criteria (form)](https://technet.microsoft.com/en-us/library/hh209336\(v=ax.60\))
+[Vendor search criteria (form)](https://technet.microsoft.com/library/hh209336\(v=ax.60\))
 
-[Vendor search results (form)](https://technet.microsoft.com/en-us/library/hh242677\(v=ax.60\))
+[Vendor search results (form)](https://technet.microsoft.com/library/hh242677\(v=ax.60\))
 
-[New request for quotation (form)](https://technet.microsoft.com/en-us/library/hh209104\(v=ax.60\))
+[New request for quotation (form)](https://technet.microsoft.com/library/hh209104\(v=ax.60\))
 
-[Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh209453\(v=ax.60\))
+[Purchase requisitions (form)](https://technet.microsoft.com/library/hh209453\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Unsolicited vendors (form)](https://technet.microsoft.com/en-us/library/hh209226\(v=ax.60\))
+[Unsolicited vendors (form)](https://technet.microsoft.com/library/hh209226\(v=ax.60\))
 
-[Add vendor to legal entities (form)](https://technet.microsoft.com/en-us/library/hh209684\(v=ax.60\))
+[Add vendor to legal entities (form)](https://technet.microsoft.com/library/hh209684\(v=ax.60\))
 
   
 

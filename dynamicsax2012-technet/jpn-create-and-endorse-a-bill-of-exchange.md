@@ -2,8 +2,9 @@
 title: (JPN) Create and endorse a bill of exchange
 TOCTitle: (JPN) Create and endorse a bill of exchange
 ms:assetid: c1c22cfc-9812-4f64-af12-b905eb9df72a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911062(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911062(v=AX.60)
 ms:contentKeyID: 52075312
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,7 +84,7 @@ You can accept a bill of exchange (BOE) by drawing a bill of exchange, and you c
 
 ## See also
 
-[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664964\(v=ax.60\))
+[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj664964\(v=ax.60\))
 
 [Remit a bill of exchange](remit-a-bill-of-exchange.md)
 
@@ -91,7 +92,7 @@ You can accept a bill of exchange (BOE) by drawing a bill of exchange, and you c
 
 [Redraw a bill of exchange](redraw-a-bill-of-exchange.md)
 
-[(JPN) Endorse bill of exchange (list page)](https://technet.microsoft.com/en-us/library/jj911067\(v=ax.60\))
+[(JPN) Endorse bill of exchange (list page)](https://technet.microsoft.com/library/jj911067\(v=ax.60\))
 
   
 

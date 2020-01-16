@@ -2,8 +2,9 @@
 title: License code and configuration key reference
 TOCTitle: License code and configuration key reference
 ms:assetid: 732b64a0-25bb-44ee-9254-dbecf10a63c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378074(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378074(v=AX.60)
 ms:contentKeyID: 36870656
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -191,7 +192,7 @@ The following license code topics are included:
 
 ## See also
 
-[About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\))
+[About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\))
 
 [Configure application functionality](configure-application-functionality.md)
 

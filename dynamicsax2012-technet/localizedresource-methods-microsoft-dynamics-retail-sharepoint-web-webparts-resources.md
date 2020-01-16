@@ -1,9 +1,10 @@
-﻿---
+---
 title: LocalizedResource Methods (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources)
 TOCTitle: LocalizedResource Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedResource
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedresource_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedresource_methods(v=AX.60)
 ms:contentKeyID: 62204211
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

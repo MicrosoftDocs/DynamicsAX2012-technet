@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up vendor add requests'
 TOCTitle: 'Key tasks: Set up vendor add requests'
 ms:assetid: 7cf92c10-76ff-4090-b9d6-15b97ffa6521
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209269(v=AX.60)
 ms:contentKeyID: 36058271
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -122,11 +123,11 @@ Back to top
 
 ## Find form help
 
-[New vendor request (form)](https://technet.microsoft.com/en-us/library/hh242728\(v=ax.60\))
+[New vendor request (form)](https://technet.microsoft.com/library/hh242728\(v=ax.60\))
 
-[Vendor requests (list page)](https://technet.microsoft.com/en-us/library/hh242710\(v=ax.60\))
+[Vendor requests (list page)](https://technet.microsoft.com/library/hh242710\(v=ax.60\))
 
-[Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\))
+[Vendor request configurations (form)](https://technet.microsoft.com/library/hh209430\(v=ax.60\))
 
 ## Find related tasks
 

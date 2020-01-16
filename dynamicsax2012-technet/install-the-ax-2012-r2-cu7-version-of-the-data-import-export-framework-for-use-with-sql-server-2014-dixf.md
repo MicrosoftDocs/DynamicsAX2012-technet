@@ -2,8 +2,9 @@
 title: Install the AX 2012 R2 CU7 DIXF for SQL Server 2014
 TOCTitle: Install the AX 2012 R2 CU7 DIXF for SQL Server 2014
 ms:assetid: 2427411b-d3b1-4382-85b5-d9a8f9eb5ff9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn878170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn878170(v=AX.60)
 ms:contentKeyID: 63701237
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---
@@ -15,10 +16,10 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 To use the Data import/export framework for Microsoft Dynamics AX 2012 R2 cumulative update 7 (CU7) with SQL Server 2014 Integration Services or later, you must install AX 2012 R2 CU7, and then apply the update <a href="https://mbs2.microsoft.com/Knowledgebase/KBDisplay.aspx?scid=kb;en-us;3018235">KB 3018235</a>.
 
-The following instructions apply for an environment in which SQL Server 2014 or a later version is installed. If you are running SQL Server 2008 or SQL Server 2012 Integration Services, you can install the Data Import/Export Framework for Dynamics AX 2012 R2 CU7 by using the update installer. For more information, see [Install the Data Import/Export Framework binary updates (CU7)](https://technet.microsoft.com/en-us/library/hh538446.aspx#DIXFInstall). To see which versions of Integration Services are supported with the Data Import/Export Framework, see the [Microsoft Dynamics AX 2012 System Requirements](http://go.microsoft.com/fwlink/?LinkId=165377).
+The following instructions apply for an environment in which SQL Server 2014 or a later version is installed. If you are running SQL Server 2008 or SQL Server 2012 Integration Services, you can install the Data Import/Export Framework for Dynamics AX 2012 R2 CU7 by using the update installer. For more information, see [Install the Data Import/Export Framework binary updates (CU7)](https://technet.microsoft.com/library/hh538446.aspx#DIXFInstall). To see which versions of Integration Services are supported with the Data Import/Export Framework, see the [Microsoft Dynamics AX 2012 System Requirements](http://go.microsoft.com/fwlink/?LinkId=165377).
 
 ## Before you begin
-1.  Download the CU7 hotfix package, and extract it to a local folder. To extract the download, follow the instructions in the [Download and extract an update from CustomerSource, PartnerSource, or Lifecycle Services](https://technet.microsoft.com/en-us/library/hh538446.aspx#Download)**.**
+1.  Download the CU7 hotfix package, and extract it to a local folder. To extract the download, follow the instructions in the [Download and extract an update from CustomerSource, PartnerSource, or Lifecycle Services](https://technet.microsoft.com/library/hh538446.aspx#Download)**.**
 2.  Download the hotfix package for [KB 3018235](https://mbs2.microsoft.com/Knowledgebase/KBDisplay.aspx?scid=kb;en-us;3018235), and extract it to a local folder.
 
 ## Install the AX 2012 R2 CU7 Data import/export framework for use with SQL Server 2014 Integration Services
@@ -39,7 +40,7 @@ By default the script’s log will be written to a file that is named **InstallD
 ## Install the Data import/export framework Client and Server Components
 After installation of pw\_DMF Service component has completed, install the Data Import/Export Framework Client and AOS components the ordinary way.
 
-1.  Install the CU7 version of the components on the appropriate computers. See [Install the Data Import/Export Framework binary updates (CU7)](https://technet.microsoft.com/en-us/library/hh538446.aspx#DIXFInstall).
+1.  Install the CU7 version of the components on the appropriate computers. See [Install the Data Import/Export Framework binary updates (CU7)](https://technet.microsoft.com/library/hh538446.aspx#DIXFInstall).
 2.  Apply hotfix [KB 3018235](https://mbs2.microsoft.com/Knowledgebase/KBDisplay.aspx?scid=kb;en-us;3018235) on the appropriate computers.
 
 ## Optional: Create a silent installation Windows PowerShell script

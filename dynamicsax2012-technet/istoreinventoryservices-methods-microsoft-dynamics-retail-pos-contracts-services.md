@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStoreInventoryServices Methods (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IStoreInventoryServices Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServices
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservices_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservices_methods(v=AX.60)
 ms:contentKeyID: 47344132
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

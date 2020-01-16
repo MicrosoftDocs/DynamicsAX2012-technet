@@ -2,8 +2,9 @@
 title: Install Office Add-ins
 TOCTitle: Install Office Add-ins
 ms:assetid: 7e6aaf42-8ba7-4a4d-af53-06395c0d8730
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731844(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731844(v=AX.60)
 ms:contentKeyID: 35132697
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

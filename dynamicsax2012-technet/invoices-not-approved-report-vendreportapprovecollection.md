@@ -2,8 +2,9 @@
 title: Invoices not approved report (VendReportApproveCollection)
 TOCTitle: Invoices not approved report (VendReportApproveCollection)
 ms:assetid: 118c38e0-a4de-4ab7-b46e-b083888a5b5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538441(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538441(v=AX.60)
 ms:contentKeyID: 39508863
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

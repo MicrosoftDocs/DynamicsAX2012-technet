@@ -2,8 +2,9 @@
 title: (ITA) Create fiscal LIFO journals
 TOCTitle: (ITA) Create fiscal LIFO journals
 ms:assetid: 9b79b279-cd27-4850-9bae-83a64577de85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498461(v=AX.60)
 ms:contentKeyID: 36058718
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

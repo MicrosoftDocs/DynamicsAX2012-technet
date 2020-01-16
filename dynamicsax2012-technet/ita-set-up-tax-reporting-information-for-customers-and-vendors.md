@@ -2,8 +2,9 @@
 title: (ITA) Set up tax reporting information for customers and vendors
 TOCTitle: (ITA) Set up tax reporting information for customers and vendors
 ms:assetid: 4bbd1ae1-a6e5-43b1-b5e5-f02c72c6c22c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212735(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212735(v=AX.60)
 ms:contentKeyID: 36057004
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ Complete the following tasks before you set up tax reporting information for cus
 
 ## See also
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

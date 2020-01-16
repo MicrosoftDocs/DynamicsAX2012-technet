@@ -2,8 +2,9 @@
 title: (ITA) Fiscal LIFO valuation of Inventory report (InventFiscalLIFOValuation)
 TOCTitle: (ITA) Fiscal LIFO valuation of Inventory report (InventFiscalLIFOValuation)
 ms:assetid: d0691437-6a16-4dcd-be95-b3a01ede6956
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456300(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456300(v=AX.60)
 ms:contentKeyID: 36997726
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

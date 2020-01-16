@@ -2,8 +2,9 @@
 title: Insert a Default node
 TOCTitle: Insert a Default node
 ms:assetid: 58eb0cd5-062c-4507-9aa9-2ee72a34fd36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549073(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549073(v=AX.60)
 ms:contentKeyID: 36057345
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

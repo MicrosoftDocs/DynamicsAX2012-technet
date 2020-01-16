@@ -2,8 +2,9 @@
 title: 'Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7'
 TOCTitle: 'Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7'
 ms:assetid: e55b39f0-f7ed-423b-beb2-0694660f556b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn529054(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn529054(v=AX.60)
 ms:contentKeyID: 59643366
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -254,7 +255,7 @@ Back to top
 
 [Reserve a specific worker for a project](reserve-a-specific-worker-for-a-project.md)
 
-[View booking details (form)](https://technet.microsoft.com/en-us/library/dn532267\(v=ax.60\))
+[View booking details (form)](https://technet.microsoft.com/library/dn532267\(v=ax.60\))
 
   
 

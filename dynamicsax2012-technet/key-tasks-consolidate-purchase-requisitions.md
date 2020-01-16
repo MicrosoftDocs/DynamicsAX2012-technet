@@ -2,8 +2,9 @@
 title: 'Key tasks: Consolidate purchase requisitions'
 TOCTitle: 'Key tasks: Consolidate purchase requisitions'
 ms:assetid: 7d1c7a88-9a03-48fb-9949-6207a37de651
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209279(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209279(v=AX.60)
 ms:contentKeyID: 36058293
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -178,15 +179,15 @@ Back to top
 
 ## Find form help
 
-[Release approved purchase requisition (form)](https://technet.microsoft.com/en-us/library/hh242658\(v=ax.60\))
+[Release approved purchase requisition (form)](https://technet.microsoft.com/library/hh242658\(v=ax.60\))
 
-[Purchase requisition consolidation (form)](https://technet.microsoft.com/en-us/library/hh227441\(v=ax.60\))
+[Purchase requisition consolidation (form)](https://technet.microsoft.com/library/hh227441\(v=ax.60\))
 
-[Create consolidation opportunity (form)](https://technet.microsoft.com/en-us/library/hh209697\(v=ax.60\))
+[Create consolidation opportunity (form)](https://technet.microsoft.com/library/hh209697\(v=ax.60\))
 
-[Bulk edit opportunity lines in opportunity (form)](https://technet.microsoft.com/en-us/library/hh242459\(v=ax.60\))
+[Bulk edit opportunity lines in opportunity (form)](https://technet.microsoft.com/library/hh242459\(v=ax.60\))
 
-[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/en-us/library/hh209698\(v=ax.60\))
+[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/library/hh209698\(v=ax.60\))
 
 ## Find related tasks
 

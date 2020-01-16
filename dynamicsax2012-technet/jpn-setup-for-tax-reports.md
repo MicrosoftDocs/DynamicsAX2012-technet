@@ -2,8 +2,9 @@
 title: (JPN) Setup for tax reports
 TOCTitle: (JPN) Setup for tax reports
 ms:assetid: 6c8fd05e-f034-49cb-838d-f65808e681d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711071(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711071(v=AX.60)
 ms:contentKeyID: 49386483
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ The Japanese taxation authority requires all businesses to file a consumption ta
 
 ## See also
 
-[(JPN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664972\(v=ax.60\))
+[(JPN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664972\(v=ax.60\))
 
   
 

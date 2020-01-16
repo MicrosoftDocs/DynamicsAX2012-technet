@@ -2,8 +2,9 @@
 title: Install server and web server components
 TOCTitle: Install server and web server components
 ms:assetid: fb30b3d9-2560-4ca0-9c7e-5eb9910076b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362135(v=AX.60)
 ms:contentKeyID: 35133316
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

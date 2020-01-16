@@ -2,8 +2,9 @@
 title: Inventory management (Retail essentials)
 TOCTitle: Inventory management (Retail essentials)
 ms:assetid: 734423f4-a7bc-4a80-b30a-33089ddbfd07
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736896(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736896(v=AX.60)
 ms:contentKeyID: 62200374
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

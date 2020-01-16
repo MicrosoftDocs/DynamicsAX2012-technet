@@ -2,8 +2,9 @@
 title: Line property setup report (ProjListLineProperty)
 TOCTitle: Line property setup report (ProjListLineProperty)
 ms:assetid: db10439f-afef-40b8-af58-f0039d6f32da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620113(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620113(v=AX.60)
 ms:contentKeyID: 36941306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Line properties are set up with one of the following relations:
 
   - **All** – Applies to all categories.
 
-When you enter a project transaction, the journal posting process applies the specified line property relation criteria. For more information, see [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+When you enter a project transaction, the journal posting process applies the specified line property relation criteria. For more information, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
 ## How to filter the data on this report
 

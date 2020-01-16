@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPeripheralsV1.LineDisplay Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: LineDisplay Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPeripheralsV1.LineDisplay
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralsv1.linedisplay(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralsv1.linedisplay(v=AX.60)
 ms:contentKeyID: 47344173
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

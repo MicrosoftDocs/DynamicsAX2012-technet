@@ -2,8 +2,9 @@
 title: 'Key tasks: Modify expense reports'
 TOCTitle: 'Key tasks: Modify expense reports'
 ms:assetid: 7e9026d4-36b7-4762-b3e8-af7840a3c8ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271577(v=AX.60)
 ms:contentKeyID: 36384208
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

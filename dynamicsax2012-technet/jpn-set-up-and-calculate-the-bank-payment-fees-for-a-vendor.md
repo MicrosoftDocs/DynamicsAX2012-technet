@@ -2,8 +2,9 @@
 title: (JPN) Set up and calculate the bank payment fees for a vendor
 TOCTitle: (JPN) Set up and calculate the bank payment fees for a vendor
 ms:assetid: a1c51150-2032-4083-877f-30b30ae02ea0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313058(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313058(v=AX.60)
 ms:contentKeyID: 54936304
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Related setup task</strong></p></td>
-<td><p>Set up bank groups. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664976(v=ax.60)">(JPN) Bank groups (modified form)</a>.</p></td>
+<td><p>Set up bank groups. For more information, see <a href="https://technet.microsoft.com/library/jj664976(v=ax.60)">(JPN) Bank groups (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -66,7 +67,7 @@ To set up a vendor account so that the vendor pays the bank payment fees, follow
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**.
 
-2.  Double-click a vendor account or create a vendor account. For more information, see [Create a vendor account](create-a-vendor-account.md) and [(JPN) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj711083\(v=ax.60\)).
+2.  Double-click a vendor account or create a vendor account. For more information, see [Create a vendor account](create-a-vendor-account.md) and [(JPN) Vendors (modified form)](https://technet.microsoft.com/library/jj711083\(v=ax.60\)).
 
 3.  On the **Payment** FastTab, select the **Vendor pays payment fee** check box.
     
@@ -132,13 +133,13 @@ To set up a payment fee, follow these steps:
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Payment fee**.
 
-2.  Create a payment fee record. For more information see [Vendor payment fee (form)](https://technet.microsoft.com/en-us/library/aa573151\(v=ax.60\)).
+2.  Create a payment fee record. For more information see [Vendor payment fee (form)](https://technet.microsoft.com/library/aa573151\(v=ax.60\)).
 
 3.  In the **Account** field, select the ledger account that is used to post the bank payment fee that is paid by the company.
 
 4.  In the **Payment fee account** field, update the ledger account that is used to post the bank payment fee that is paid by a vendor.
 
-5.  Click **Payment fee setup** to open the **Payment fee setup** form, where you can set up banks, methods of payment, payment specifications, calculation methods, and consumption tax. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa598976\(v=ax.60\)).
+5.  Click **Payment fee setup** to open the **Payment fee setup** form, where you can set up banks, methods of payment, payment specifications, calculation methods, and consumption tax. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/library/aa598976\(v=ax.60\)).
 
 6.  On the **Overview** tab, in the **Bank rule ID for payment fee** field, select the identification code for the bank rule to apply to the bank payment fee.
 
@@ -166,7 +167,7 @@ To create a payment journal, follow these steps:
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
 
-2.  Create a payment journal, and then create a payment journal line for the payment amount to pay to the vendor. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+2.  Create a payment journal, and then create a payment journal line for the payment amount to pay to the vendor. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 3.  In the **Offset account** field, enter the offset account for the transaction.
 

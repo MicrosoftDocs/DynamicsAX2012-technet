@@ -2,8 +2,9 @@
 title: (JPN) Configure and calculate fixed asset depreciation
 TOCTitle: (JPN) Configure and calculate fixed asset depreciation
 ms:assetid: c6ea5abd-69bc-4767-81a0-249e9d2f1b71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn473951(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn473951(v=AX.60)
 ms:contentKeyID: 59371905
+author: Khairunj
 ms.date: 12/03/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -44,7 +45,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Related setup tasks</p></td>
 <td><p>Set up basic fixed asset parameters, such as a default value model, reason codes, and number sequences, by using the <strong>Fixed assets parameters</strong> form. For more information, see <a href="set-up-fixed-assets-parameters.md">Set up Fixed assets parameters</a>.</p>
-<p>Define a fixed asset group by using the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p>
+<p>Define a fixed asset group by using the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p>
 <p>Create a fixed asset record. For more information, see <a href="create-a-fixed-asset.md">Create a fixed asset</a>.</p></td>
 </tr>
 <tr class="even">
@@ -75,7 +76,7 @@ To depreciate the fixed asset, follow these steps:
 
 2.  In the **Fixed assets** form, select the fixed asset journal, and then click **Lines**.
 
-3.  In the **Journal voucher** form, enter the required details for the voucher. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+3.  In the **Journal voucher** form, enter the required details for the voucher. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 4.  Click **Proposals** \> **Depreciation proposal**.
 
@@ -89,11 +90,11 @@ To depreciate the fixed asset, follow these steps:
 
 6.  Click **OK** to generate the depreciation proposal and close the form.
 
-You can use the **Fixed asset balances** form to view the depreciation amounts that are posted. For more information, see [Fixed asset balances (form)](https://technet.microsoft.com/en-us/library/aa589217\(v=ax.60\)).
+You can use the **Fixed asset balances** form to view the depreciation amounts that are posted. For more information, see [Fixed asset balances (form)](https://technet.microsoft.com/library/aa589217\(v=ax.60\)).
 
 If you want to view the planned depreciation amounts for the fixed asset value model, you can do so in the **Profile** form. You can also view a timetable for planned depreciation if you specified the number of years to use to equally divide depreciation amounts in the **Number of years to equally divide depreciation amounts** field in the **Depreciation profiles** form.
 
-For more information about the fields that are available in the **Profile** form, see [Fixed asset profile (form)](https://technet.microsoft.com/en-us/library/aa583543\(v=ax.60\)), and the following table:
+For more information about the fields that are available in the **Profile** form, see [Fixed asset profile (form)](https://technet.microsoft.com/library/aa583543\(v=ax.60\)), and the following table:
 
 <table>
 <colgroup>

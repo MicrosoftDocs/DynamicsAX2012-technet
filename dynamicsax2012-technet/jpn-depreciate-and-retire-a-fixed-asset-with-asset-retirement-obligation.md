@@ -2,8 +2,9 @@
 title: (JPN) Depreciate and retire a fixed asset with asset retirement obligation
 TOCTitle: (JPN) Depreciate and retire a fixed asset with asset retirement obligation
 ms:assetid: 0b24253e-e4d6-4563-931e-8d5fb76da572
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479197(v=AX.60)
 ms:contentKeyID: 59633803
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ After you set up an asset retirement obligation (ARO) document and attach it to 
 
 
 
-When you acquire a fixed asset, you can generate an ARO transaction to post the ARO amounts to the ledger during the acquisition. To do this, when you create an acquisition journal for the fixed asset, click **Functions** \> **Generate asset retirement obligation transactions** on the **Journal voucher** form. The ARO transactions are created in the **Journal voucher** form based on the ARO document that you attached to the fixed asset. You can then post the ARO transactions by clicking **Post**. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+When you acquire a fixed asset, you can generate an ARO transaction to post the ARO amounts to the ledger during the acquisition. To do this, when you create an acquisition journal for the fixed asset, click **Functions** \> **Generate asset retirement obligation transactions** on the **Journal voucher** form. The ARO transactions are created in the **Journal voucher** form based on the ARO document that you attached to the fixed asset. You can then post the ARO transactions by clicking **Post**. For more information, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 Follow the steps in this topic to generate an ARO proposal for an interest expense, retire a fixed asset, and view ARO settlement amounts.
 
@@ -70,7 +71,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><p>Ensure that you have set up basic fixed asset parameters, such as a default value model, reason codes, and number sequences, in the <strong>Fixed assets parameters</strong> form. For more information, see <a href="set-up-fixed-assets-parameters.md">Set up Fixed assets parameters</a>.</p>
-<p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p>
+<p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p>
 <p>Set up a fiscal calendar for depreciation. For more information, see <a href="key-tasks-fiscal-calendars-fiscal-years-and-periods.md">Key tasks: Fiscal calendars, fiscal years, and periods</a>.</p>
 <p>Ensure that you have created a fixed asset record. For more information, see <a href="create-a-fixed-asset.md">Create a fixed asset</a>.</p></td>
 </tr>

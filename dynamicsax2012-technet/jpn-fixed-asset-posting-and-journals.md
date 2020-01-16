@@ -2,8 +2,9 @@
 title: (JPN) Fixed asset posting and journals
 TOCTitle: (JPN) Fixed asset posting and journals
 ms:assetid: 40e4ba47-5b3f-4db1-a630-9c64aeb265e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505758(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505758(v=AX.60)
 ms:contentKeyID: 59614114
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

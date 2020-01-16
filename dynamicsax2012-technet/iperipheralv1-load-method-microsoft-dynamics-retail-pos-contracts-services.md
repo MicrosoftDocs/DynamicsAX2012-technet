@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPeripheralV1.Load Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: Load Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPeripheralV1.Load
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralv1.load(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralv1.load(v=AX.60)
 ms:contentKeyID: 47344322
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ void Load()
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/hccy4eyd(v=ax.60)">IOException</a></td>
+<td><a href="https://technet.microsoft.com/library/hccy4eyd(v=ax.60)">IOException</a></td>
 <td><p></p></td>
 </tr>
 </tbody>

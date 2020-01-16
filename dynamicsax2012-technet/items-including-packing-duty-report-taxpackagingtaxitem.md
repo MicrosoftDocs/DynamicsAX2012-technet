@@ -2,8 +2,9 @@
 title: Items including packing duty report (TaxPackagingTaxItem)
 TOCTitle: Items including packing duty report (TaxPackagingTaxItem)
 ms:assetid: 2ff8e75e-1016-49d2-8fac-727fcc1f85fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527780(v=AX.60)
 ms:contentKeyID: 37831989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

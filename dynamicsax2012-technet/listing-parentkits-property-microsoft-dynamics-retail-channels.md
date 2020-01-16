@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing.ParentKits Property  (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: ParentKits Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Channels.Listing.ParentKits
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing.parentkits(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.parentkits(v=AX.60)
 ms:contentKeyID: 65317351
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ICollection<KitComponent^>^ ParentKits {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<KitComponent\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<KitComponent\>  
 
 ## See Also
 

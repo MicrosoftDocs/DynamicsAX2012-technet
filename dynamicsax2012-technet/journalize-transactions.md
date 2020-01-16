@@ -2,8 +2,9 @@
 title: Journalize transactions
 TOCTitle: Journalize transactions
 ms:assetid: db130911-2d31-46d0-bfa1-a50ae84d4f26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551219(v=AX.60)
 ms:contentKeyID: 36059664
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ The journalization procedure creates a journal list, which can be viewed in the 
 
 ## See also
 
-[Ledger journal lines (form)](https://technet.microsoft.com/en-us/library/aa557422\(v=ax.60\))
+[Ledger journal lines (form)](https://technet.microsoft.com/library/aa557422\(v=ax.60\))
 
-[Ledger journal (form)](https://technet.microsoft.com/en-us/library/aa589041\(v=ax.60\))
+[Ledger journal (form)](https://technet.microsoft.com/library/aa589041\(v=ax.60\))
 
   
 

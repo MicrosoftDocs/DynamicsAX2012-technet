@@ -1,9 +1,10 @@
-﻿---
+---
 title: LocalizedResource.GetString Method  (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources)
 TOCTitle: GetString Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedResource.GetString(System.String,System.Globalization.CultureInfo)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedresource.getstring(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedresource.getstring(v=AX.60)
 ms:contentKeyID: 62207375
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ static String^ GetString(
 #### Parameters
 
   - resourceName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - cultureInfo  
-    Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/en-us/library/kx54z3k7\(v=ax.60\))  
+    Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/library/kx54z3k7\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 A localized string.  
 
 ## See Also

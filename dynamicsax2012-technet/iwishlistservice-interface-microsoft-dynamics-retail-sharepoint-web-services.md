@@ -1,9 +1,10 @@
-﻿---
+---
 title: IWishListService Interface (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: IWishListService Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IWishListService
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.iwishlistservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.iwishlistservice(v=AX.60)
 ms:contentKeyID: 62206611
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
