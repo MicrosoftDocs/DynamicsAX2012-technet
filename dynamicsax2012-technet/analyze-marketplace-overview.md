@@ -2,8 +2,9 @@
 title: Analyze marketplace overview
 TOCTitle: Analyze marketplace overview
 ms:assetid: 2a241d60-1abe-4b7b-9834-fbf1390e7113
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231009(v=AX.60)
 ms:contentKeyID: 36056228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

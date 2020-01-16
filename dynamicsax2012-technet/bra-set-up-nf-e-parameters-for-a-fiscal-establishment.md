@@ -2,8 +2,9 @@
 title: (BRA) Set up NF-e parameters for a fiscal establishment
 TOCTitle: (BRA) Set up NF-e parameters for a fiscal establishment
 ms:assetid: 4ab2c619-bb27-481c-bb20-68f0ba4c9000
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933513(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933513(v=AX.60)
 ms:contentKeyID: 50935132
+author: Khairunj
 ms.date: 05/27/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,9 +72,9 @@ Use the following procedure to set up the parameters for a Nota Fiscal eletrôni
 
 [(BRA) About fiscal establishments](bra-about-fiscal-establishments.md)
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
+[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/library/jj933509\(v=ax.60\))
 
   
 

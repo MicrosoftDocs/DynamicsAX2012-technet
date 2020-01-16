@@ -2,8 +2,9 @@
 title: (BRA) Specify fiscal information for a project contract
 TOCTitle: (BRA) Specify fiscal information for a project contract
 ms:assetid: 9c43c25d-e744-451f-8b50-f4b4e60f16a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937988(v=AX.60)
 ms:contentKeyID: 50950778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,9 +30,9 @@ Use this procedure to specify fiscal information for a project contract. You can
 
 ## See also
 
-[(BRA) Service code (form)](https://technet.microsoft.com/en-us/library/jj923397\(v=ax.60\))
+[(BRA) Service code (form)](https://technet.microsoft.com/library/jj923397\(v=ax.60\))
 
-[(BRA) Project contracts (modified form)](https://technet.microsoft.com/en-us/library/jj937993\(v=ax.60\))
+[(BRA) Project contracts (modified form)](https://technet.microsoft.com/library/jj937993\(v=ax.60\))
 
   
 

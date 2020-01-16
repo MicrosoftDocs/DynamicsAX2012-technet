@@ -2,8 +2,9 @@
 title: (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software
 TOCTitle: (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software
 ms:assetid: 91e839bb-4317-4ce3-bf41-7726d1e74890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232175(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232175(v=AX.60)
 ms:contentKeyID: 36058566
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,15 +58,15 @@ You must set up certain parameters before Microsoft Dynamics AX can integrate wi
     
       - **None** – The download integration mode for the Isabel electronic banking software is not active.
 
-7.  Click the **Number sequences** tab, and then select the number sequences to use for the file IDs and request IDs that are associated with the Isabel electronic banking software. For more information, see [Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\)).
+7.  Click the **Number sequences** tab, and then select the number sequences to use for the file IDs and request IDs that are associated with the Isabel electronic banking software. For more information, see [Number sequences (list page)](https://technet.microsoft.com/library/aa600321\(v=ax.60\)).
 
 8.  Close the form.
 
 ## See also
 
-[(BEL) IBS parameters (form)](https://technet.microsoft.com/en-us/library/hh209077\(v=ax.60\))
+[(BEL) IBS parameters (form)](https://technet.microsoft.com/library/hh209077\(v=ax.60\))
 
-[(BEL) IBS transactions (form)](https://technet.microsoft.com/en-us/library/hh227606\(v=ax.60\))
+[(BEL) IBS transactions (form)](https://technet.microsoft.com/library/hh227606\(v=ax.60\))
 
   
 

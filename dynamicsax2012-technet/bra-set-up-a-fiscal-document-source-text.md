@@ -2,8 +2,9 @@
 title: (BRA) Set up a fiscal document source text
 TOCTitle: (BRA) Set up a fiscal document source text
 ms:assetid: d6994cef-0af1-419a-a8a5-cc5d0a6c02f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663937(v=AX.60)
 ms:contentKeyID: 49384522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ You must set up a fiscal document source text before you can attach it to a fisc
 
 ## See also
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Associate a workflow with an organization
 TOCTitle: Associate a workflow with an organization
 ms:assetid: e70e41bd-658f-4839-96aa-6c4f4efcf652
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538464(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538464(v=AX.60)
 ms:contentKeyID: 39508896
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

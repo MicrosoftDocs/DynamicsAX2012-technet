@@ -2,8 +2,9 @@
 title: (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements
 TOCTitle: (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements
 ms:assetid: 69e8a761-1faa-48fc-9cc1-638ae426c069
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585796(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585796(v=AX.60)
 ms:contentKeyID: 36057975
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You must use GIFI codes when you submit financial statement information to the C
 
 You must complete the following tasks before you begin to use GIFI codes:
 
-  - Set up dimensions based on your general ledger accounts by using the **Financial dimension sets** form. For more information, see [Financial dimension sets (form)](https://technet.microsoft.com/en-us/library/aa597282\(v=ax.60\)).
+  - Set up dimensions based on your general ledger accounts by using the **Financial dimension sets** form. For more information, see [Financial dimension sets (form)](https://technet.microsoft.com/library/aa597282\(v=ax.60\)).
 
   - Create a row definition for your company financial statement. For more information, see [Design the row structure of a traditional financial statement](design-the-row-structure-of-a-traditional-financial-statement.md).
 
@@ -65,7 +66,7 @@ Download the binary file of GIFI codes to your computer hard disk.
 
 ## Link ledger accounts to GIFI codes
 
-1.  In the **Structure designer** form, select ledger accounts to link to GIFI codes. For information about linking ledger accounts to GIFI codes, see [Structure designer (form)](https://technet.microsoft.com/en-us/library/aa552297\(v=ax.60\)).
+1.  In the **Structure designer** form, select ledger accounts to link to GIFI codes. For information about linking ledger accounts to GIFI codes, see [Structure designer (form)](https://technet.microsoft.com/library/aa552297\(v=ax.60\)).
 
 2.  When you have finished linking accounts to GIFI codes, close the **Structure designer** form.
 
@@ -133,9 +134,9 @@ You can create a Microsoft Excel worksheet to submit reports that include GIFI c
 
 ## See also
 
-[Row definition (form)](https://technet.microsoft.com/en-us/library/aa557429\(v=ax.60\))
+[Row definition (form)](https://technet.microsoft.com/library/aa557429\(v=ax.60\))
 
-[Financial statement report (form)](https://technet.microsoft.com/en-us/library/aa585230\(v=ax.60\))
+[Financial statement report (form)](https://technet.microsoft.com/library/aa585230\(v=ax.60\))
 
   
 

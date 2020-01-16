@@ -2,8 +2,9 @@
 title: (BRA) About fiscal documents and the fiscal document framework
 TOCTitle: (BRA) About fiscal documents and the fiscal document framework
 ms:assetid: dc0a3685-3770-472b-823a-3210ecac339a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663949(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663949(v=AX.60)
 ms:contentKeyID: 49384539
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,9 +41,9 @@ The fiscal document framework also ensures that all related information uses the
 
 ## See also
 
-[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710567\(v=ax.60\))
+[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/library/jj710567\(v=ax.60\))
 
-[(BRA) Fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710548\(v=ax.60\))
+[(BRA) Fiscal document (form)](https://technet.microsoft.com/library/jj710548\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Assign sales tax groups to stores
 TOCTitle: Assign sales tax groups to stores
 ms:assetid: f81109ec-f598-4efc-94f7-6f4ae47aec87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597295(v=AX.60)
 ms:contentKeyID: 39519380
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

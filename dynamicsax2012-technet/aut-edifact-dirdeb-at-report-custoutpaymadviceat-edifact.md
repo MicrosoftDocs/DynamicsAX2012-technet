@@ -2,8 +2,9 @@
 title: (AUT) EDIFACT-DIRDEB (AT) report (CustOutPaymAdviceAT_EDIFACT)
 TOCTitle: (AUT) EDIFACT-DIRDEB (AT) report (CustOutPaymAdviceAT_EDIFACT)
 ms:assetid: 374ea3be-bf60-434a-bacd-72f5d0559c67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496416(v=AX.60)
 ms:contentKeyID: 37071993
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -181,7 +182,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Bank transaction type (form)](https://technet.microsoft.com/en-us/library/aa619635\(v=ax.60\))
+[Bank transaction type (form)](https://technet.microsoft.com/library/aa619635\(v=ax.60\))
 
   
 

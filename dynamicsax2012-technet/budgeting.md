@@ -2,8 +2,9 @@
 title: Budgeting
 TOCTitle: Budgeting
 ms:assetid: 6551af35-a04b-491c-9bd8-93c039aae148
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242449(v=AX.60)
 ms:contentKeyID: 36057741
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,33 +65,33 @@ In Budgeting, you can configure and set up budget planning processes based on th
 <tr class="odd">
 <td><p><a href="setting-up-basic-budgeting.md">Setting up basic budgeting</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242475(v=ax.60)">Budget parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242475(v=ax.60)">Budget parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="set-up-budget-control.md">Set up budget control</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242209(v=ax.60)">Budget control configuration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242209(v=ax.60)">Budget control configuration (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md">Key tasks: Configure budget planning and set up budget planning processes</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj677441(v=ax.60)">Budget planning process (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj677441(v=ax.60)">Budget planning process (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="key-tasks-create-and-process-budget-plans.md">Key tasks: Create and process budget plans</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677376(v=ax.60)">Budget plan (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677376(v=ax.60)">Budget plan (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-budget-register-entries.md">Create budget register entries</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227354(v=ax.60)">Budget registry entry (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227354(v=ax.60)">Budget registry entry (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="view-the-status-and-history-of-budget-registry-entries.md">View the status and history of budget registry entries</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242457(v=ax.60)">Budget control statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242457(v=ax.60)">Budget control statistics (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="scenario-use-budget-control-on-a-purchase-order.md">Scenario: Use budget control on a purchase order</a></p></td>

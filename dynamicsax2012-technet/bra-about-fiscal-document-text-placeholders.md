@@ -2,8 +2,9 @@
 title: (BRA) About fiscal document text placeholders
 TOCTitle: (BRA) About fiscal document text placeholders
 ms:assetid: 4506c98e-15a0-4a29-8d18-f571ccad4520
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710483(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710483(v=AX.60)
 ms:contentKeyID: 49384376
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -317,7 +318,7 @@ The following table contains the predefined tags for imports, and their values.
 
 [(BRA) Set up a fiscal document source text](bra-set-up-a-fiscal-document-source-text.md)
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
 [(BRA) Attach fiscal document texts to a free text invoice](bra-attach-fiscal-document-texts-to-a-free-text-invoice.md)
 

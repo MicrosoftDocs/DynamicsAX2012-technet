@@ -2,8 +2,9 @@
 title: (BEL) Approve or cancel vendor register invoices with Intrastat information
 TOCTitle: (BEL) Approve or cancel vendor register invoices with Intrastat information
 ms:assetid: 48539928-e604-40fe-99be-2a417461e4c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242399(v=AX.60)
 ms:contentKeyID: 36056923
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,11 +44,11 @@ You can approve or cancel a vendor invoice that contains Intrastat information a
 
 ## See also
 
-[Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\))
+[Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\))
 
-[Journal voucher - Invoice register (form)](https://technet.microsoft.com/en-us/library/aa575517\(v=ax.60\))
+[Journal voucher - Invoice register (form)](https://technet.microsoft.com/library/aa575517\(v=ax.60\))
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
 [(BEL) Transfer vendor invoice transactions and generate an Intrastat declaration](bel-transfer-vendor-invoice-transactions-and-generate-an-intrastat-declaration.md)
 

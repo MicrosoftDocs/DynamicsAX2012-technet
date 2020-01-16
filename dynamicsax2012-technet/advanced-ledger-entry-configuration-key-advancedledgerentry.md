@@ -2,8 +2,9 @@
 title: Advanced ledger entry configuration key (AdvancedLedgerEntry)
 TOCTitle: Advanced ledger entry configuration key (AdvancedLedgerEntry)
 ms:assetid: 3b9490e2-2df1-4e5f-8186-664d57135e8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450728(v=AX.60)
 ms:contentKeyID: 36966664
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Advanced ledger entry</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208579(v=ax.60)">Advanced ledger entry (form) (Public sector)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208579(v=ax.60)">Advanced ledger entry (form) (Public sector)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +84,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

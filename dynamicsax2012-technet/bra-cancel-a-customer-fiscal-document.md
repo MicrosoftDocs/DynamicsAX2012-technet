@@ -2,8 +2,9 @@
 title: (BRA) Cancel a customer fiscal document
 TOCTitle: (BRA) Cancel a customer fiscal document
 ms:assetid: 7f583608-bba6-4a05-ad02-77acd8dfb491
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710546(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710546(v=AX.60)
 ms:contentKeyID: 49384437
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ You can cancel an incorrect customer fiscal document by using the **Cancel fisca
 
 2.  Select a sales order to cancel.
 
-3.  On the **Action Pane**, click the **Sell** tab, and then click **Cancel fiscal document** to open the **Cancel fiscal document** form. For more information, see [(BRA) Cancel customer fiscal document (form)](https://technet.microsoft.com/en-us/library/jj933503\(v=ax.60\)).
+3.  On the **Action Pane**, click the **Sell** tab, and then click **Cancel fiscal document** to open the **Cancel fiscal document** form. For more information, see [(BRA) Cancel customer fiscal document (form)](https://technet.microsoft.com/library/jj933503\(v=ax.60\)).
 
 4.  In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: In the **Reason code** field, select the identification code of the reason that is used to cancel the customer fiscal document.
 
@@ -60,7 +61,7 @@ You can cancel an incorrect customer fiscal document by using the **Cancel fisca
 
 ## See also
 
-[(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
+[(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\))
 
 [(BRA) Cancel a vendor fiscal document](bra-cancel-a-vendor-fiscal-document.md)
 

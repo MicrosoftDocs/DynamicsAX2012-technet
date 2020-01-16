@@ -2,8 +2,9 @@
 title: (BRA) Process sales with future delivery
 TOCTitle: (BRA) Process sales with future delivery
 ms:assetid: eb69d0ea-2694-43dd-8bf8-c60d623d66b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863741(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863741(v=AX.60)
 ms:contentKeyID: 50396424
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,15 +81,15 @@ In Brazil, a sale of items that uses anticipated invoicing occurs in two phases.
 
 ## See also
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
+[(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\))
 
   
 

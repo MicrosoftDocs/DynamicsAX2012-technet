@@ -2,8 +2,9 @@
 title: Bank configuration key (Bank)
 TOCTitle: Bank configuration key (Bank)
 ms:assetid: 752db901-e1b1-4952-a989-b61e3e5da2a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416680(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416680(v=AX.60)
 ms:contentKeyID: 36931840
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,11 +38,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Payment fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598971(v=ax.60)">Payment fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598971(v=ax.60)">Payment fee (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Payment fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa573151(v=ax.60)">Vendor payment fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa573151(v=ax.60)">Vendor payment fee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -63,11 +64,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Payment fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616532(v=ax.60)">Customer payment fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616532(v=ax.60)">Customer payment fee (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Payment fee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598971(v=ax.60)">Payment fee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598971(v=ax.60)">Payment fee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -89,11 +90,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Account reconciliation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597523(v=ax.60)">Account reconciliation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597523(v=ax.60)">Account reconciliation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Balance</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553174(v=ax.60)">Bank balance (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553174(v=ax.60)">Bank balance (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bank accounts</strong></p></td>
@@ -101,47 +102,47 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Bank groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa571457(v=ax.60)">Bank groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa571457(v=ax.60)">Bank groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bank reasons</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209362(v=ax.60)">Reasons (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209362(v=ax.60)">Reasons (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bank transaction groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500560(v=ax.60)">Bank transaction groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500560(v=ax.60)">Bank transaction groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bank transaction types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619635(v=ax.60)">Bank transaction type (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619635(v=ax.60)">Bank transaction type (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bank transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556899(v=ax.60)">Bank transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556899(v=ax.60)">Bank transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cash and bank management parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>CODA definitions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591673(v=ax.60)">(BEL) CODA definitions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591673(v=ax.60)">(BEL) CODA definitions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>CODA parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590725(v=ax.60)">(BEL) CODA parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590725(v=ax.60)">(BEL) CODA parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>CODA transaction group</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616491(v=ax.60)">(BEL) CODA transaction group (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616491(v=ax.60)">(BEL) CODA transaction group (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>CODA</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600713(v=ax.60)">(BEL) CODA (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600713(v=ax.60)">(BEL) CODA (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586924(v=ax.60)">(BEL) Bank account statement details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586924(v=ax.60)">(BEL) Bank account statement details (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>IBS archive</strong></p></td>
@@ -149,39 +150,39 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>IBS parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209077(v=ax.60)">(BEL) IBS parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209077(v=ax.60)">(BEL) IBS parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>IBS transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227606(v=ax.60)">(BEL) IBS transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227606(v=ax.60)">(BEL) IBS transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Invoices</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa573304(v=ax.60)">Invoices (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa573304(v=ax.60)">Invoices (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Payment purpose codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587506(v=ax.60)">Payment purpose codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587506(v=ax.60)">Payment purpose codes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>State 11</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590556(v=ax.60)">(BEL) State 11 (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590556(v=ax.60)">(BEL) State 11 (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transaction category</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209452(v=ax.60)">(BEL) Transaction category (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209452(v=ax.60)">(BEL) Transaction category (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Transaction</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227649(v=ax.60)">(BEL) Transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227649(v=ax.60)">(BEL) Transaction (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597523(v=ax.60)">Account reconciliation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597523(v=ax.60)">Account reconciliation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616493(v=ax.60)">Bank account transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616493(v=ax.60)">Bank account transactions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -230,7 +231,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

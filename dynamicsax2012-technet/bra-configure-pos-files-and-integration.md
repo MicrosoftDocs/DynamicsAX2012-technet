@@ -2,8 +2,9 @@
 title: (BRA) Configure POS files and integration
 TOCTitle: (BRA) Configure POS files and integration
 ms:assetid: 5220a1a2-932d-4bd2-a5c6-91bab14563da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497720(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497720(v=AX.60)
 ms:contentKeyID: 62200234
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

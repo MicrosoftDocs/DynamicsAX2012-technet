@@ -2,8 +2,9 @@
 title: Assign a sequence group to an operation resource or resource group
 TOCTitle: Assign a sequence group to an operation resource or resource group
 ms:assetid: 28ef5fb5-0858-4724-8552-6d79a163caad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838727(v=AX.60)
 ms:contentKeyID: 50120610
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ Use this procedure to assign a sequence group to an operation resource or a reso
 
 [Create a production route for a product](create-a-production-route-for-a-product.md)
 
-[(PM) Resources (form)](https://technet.microsoft.com/en-us/library/jj838773\(v=ax.60\))
+[(PM) Resources (form)](https://technet.microsoft.com/library/jj838773\(v=ax.60\))
 
-[(PM) Resource groups (form)](https://technet.microsoft.com/en-us/library/jj838756\(v=ax.60\))
+[(PM) Resource groups (form)](https://technet.microsoft.com/library/jj838756\(v=ax.60\))
 
   
 

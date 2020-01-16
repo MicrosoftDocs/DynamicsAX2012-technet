@@ -2,8 +2,9 @@
 title: Approve vendor invoices
 TOCTitle: Approve vendor invoices
 ms:assetid: 2a7faf20-2268-4852-872b-ac3bcbfa69ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231012(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231012(v=AX.60)
 ms:contentKeyID: 36056236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: AuthenticationModule Class (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: AuthenticationModule Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule(v=AX.60)
 ms:contentKeyID: 62203084
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # AuthenticationModule Class
 
-Specifies the authentication module that verifies the request's [IPrincipal](https://technet.microsoft.com/en-us/library/f8kt7fb8\(v=ax.60\)).
+Specifies the authentication module that verifies the request's [IPrincipal](https://technet.microsoft.com/library/f8kt7fb8\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)
@@ -45,7 +46,7 @@ Thread.CurrentPrincipal has been assigned when this filter gets called. Based on
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule  
 
 ## Thread Safety

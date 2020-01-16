@@ -2,8 +2,9 @@
 title: Calculate time and attendance for workers
 TOCTitle: Calculate time and attendance for workers
 ms:assetid: eb4d224c-e5b9-476d-b10e-d2f1bba488b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551501(v=AX.60)
 ms:contentKeyID: 43976731
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -104,7 +105,7 @@ You can reverse the registrations that have been calculated for a worker. Howeve
 
 5.  In the **Calculates jobs** form, click the **Batch** tab.
 
-6.  Start the batch job. For more information, see [Calculates jobs (class form)](https://technet.microsoft.com/en-us/library/aa573289\(v=ax.60\)).
+6.  Start the batch job. For more information, see [Calculates jobs (class form)](https://technet.microsoft.com/library/aa573289\(v=ax.60\)).
     
 
     > [!NOTE]

@@ -2,8 +2,9 @@
 title: (BEL) About CIS
 TOCTitle: (BEL) About CIS
 ms:assetid: 192c025a-df87-49d8-af6d-b1c98847296d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208448(v=AX.60)
 ms:contentKeyID: 36056108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: AddressServiceConstants.CityComponentName Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CityComponentName Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.CityComponentName
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.citycomponentname(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.citycomponentname(v=AX.60)
 ms:contentKeyID: 49851471
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

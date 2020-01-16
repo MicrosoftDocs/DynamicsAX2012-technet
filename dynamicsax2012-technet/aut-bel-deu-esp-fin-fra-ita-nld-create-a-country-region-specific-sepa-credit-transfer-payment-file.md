@@ -2,8 +2,9 @@
 title: (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file
 TOCTitle: (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file
 ms:assetid: e7658fb6-9a69-47b1-95d8-d1fb01cc5b1c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227461(v=AX.60)
 ms:contentKeyID: 36059816
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,7 +72,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related set up tasks</strong></p></td>
 <td><ul>
-<li><p>Set up the legal entity information on the <strong>Statutory reporting</strong> tab in the <strong>Legal entities</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242860(v=ax.60)">Legal entities (form)</a>.</p></li>
+<li><p>Set up the legal entity information on the <strong>Statutory reporting</strong> tab in the <strong>Legal entities</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh242860(v=ax.60)">Legal entities (form)</a>.</p></li>
 <li><p>Set up an outbound integration port for payments. For more information, see <a href="set-up-an-outbound-payment-format.md">Set up an outbound payment format</a>.</p></li>
 <li><p>Set up company bank accounts for SEPA credit transfers. For more information, see <a href="set-up-a-bank-account-for-a-customer-account.md">Set up a bank account for a customer account</a>.</p></li>
 <li><p>Set up vendors and vendor bank accounts for SEPA credit transfers. For more information, see <a href="specify-when-a-vendor-bank-account-is-active.md">Specify when a vendor bank account is active</a>.</p></li>
@@ -145,9 +146,9 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Outbound ports for electronic payments (form)](https://technet.microsoft.com/en-us/library/hh208616\(v=ax.60\))
+[Outbound ports for electronic payments (form)](https://technet.microsoft.com/library/hh208616\(v=ax.60\))
 
-[Payment processing data (form)](https://technet.microsoft.com/en-us/library/hh242773\(v=ax.60\))
+[Payment processing data (form)](https://technet.microsoft.com/library/hh242773\(v=ax.60\))
 
   
 

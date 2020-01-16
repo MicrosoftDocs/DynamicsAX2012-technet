@@ -2,8 +2,9 @@
 title: Bank document configuration key (BankDocument)
 TOCTitle: Bank document configuration key (BankDocument)
 ms:assetid: afaaf6bd-2441-4a43-8883-9c169568c789
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh441665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh441665(v=AX.60)
 ms:contentKeyID: 36993550
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,11 +38,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Import letter of credit / import collection</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209538(v=ax.60)">Letter of credit / import collection (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209538(v=ax.60)">Letter of credit / import collection (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Letters of guarantee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -63,11 +64,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Export letter of credit/import collection</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208689(v=ax.60)">Export letter of credit/import collection (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208689(v=ax.60)">Export letter of credit/import collection (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Letters of guarantee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -89,43 +90,43 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Bank facility agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209692(v=ax.60)">Bank facility agreement details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209692(v=ax.60)">Bank facility agreement details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bank documents posting profile</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209510(v=ax.60)">Bank documents posting profile (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209510(v=ax.60)">Bank documents posting profile (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bank facilities</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242473(v=ax.60)">Bank facilities (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242473(v=ax.60)">Bank facilities (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Import letter of credit / import collection</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209538(v=ax.60)">Letter of credit / import collection (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209538(v=ax.60)">Letter of credit / import collection (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Export letter of credit/import collection</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208689(v=ax.60)">Export letter of credit/import collection (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208689(v=ax.60)">Export letter of credit/import collection (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Letter of credit/import collection history</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209689(v=ax.60)">Letter of credit/Import collection history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209689(v=ax.60)">Letter of credit/Import collection history (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Inquiries</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575929(v=ax.60)">Inquiry (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bank document margin</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227529(v=ax.60)">Letter of credit margin transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227529(v=ax.60)">Letter of credit margin transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shipment margin transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242248(v=ax.60)">Shipment margin (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242248(v=ax.60)">Shipment margin (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Letters of guarantee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -163,7 +164,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

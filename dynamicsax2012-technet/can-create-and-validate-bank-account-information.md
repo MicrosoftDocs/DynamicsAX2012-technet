@@ -2,8 +2,9 @@
 title: (CAN) Create and validate bank account information
 TOCTitle: (CAN) Create and validate bank account information
 ms:assetid: 8964262f-1a1f-4710-987c-f1e0093fb023
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209343(v=AX.60)
 ms:contentKeyID: 36058460
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,11 +69,11 @@ Use the **Bank accounts** form, the **Vendor bank accounts** form, and the **Cus
 
 ## See also
 
-[Bank groups (form)](https://technet.microsoft.com/en-us/library/aa571457\(v=ax.60\))
+[Bank groups (form)](https://technet.microsoft.com/library/aa571457\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
-[Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
+[Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\))
 
   
 

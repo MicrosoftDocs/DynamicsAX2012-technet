@@ -2,8 +2,9 @@
 title: (BRA) Import an electronic fiscal document for services file
 TOCTitle: (BRA) Import an electronic fiscal document for services file
 ms:assetid: d16b8abf-7074-46ce-9a06-0c3ae6555613
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663928(v=AX.60)
 ms:contentKeyID: 49384514
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ When you import an electronic fiscal document for services, information about th
 
 ## See also
 
-[(BRA) Import RPS file (form)](https://technet.microsoft.com/en-us/library/jj663927\(v=ax.60\))
+[(BRA) Import RPS file (form)](https://technet.microsoft.com/library/jj663927\(v=ax.60\))
 
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 

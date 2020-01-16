@@ -2,8 +2,9 @@
 title: (BRA) Cancel an NF-e that is generated from a tax fiscal document
 TOCTitle: (BRA) Cancel an NF-e that is generated from a tax fiscal document
 ms:assetid: 8ca59579-b443-4e9b-a7a0-4d4f420aeed6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933524(v=AX.60)
 ms:contentKeyID: 50935142
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ When you cancel the NF-e, a tax fiscal document that has a negative amount is cr
 
 ## See also
 
-[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\))
+[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/library/jj710428\(v=ax.60\))
 
   
 

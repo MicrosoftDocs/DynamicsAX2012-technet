@@ -2,8 +2,9 @@
 title: Applicants and employment applications
 TOCTitle: Applicants and employment applications
 ms:assetid: 315de2ff-81ac-45fb-afa4-2834d7f86624
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570048(v=AX.60)
 ms:contentKeyID: 36676380
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

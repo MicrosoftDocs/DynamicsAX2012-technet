@@ -2,8 +2,9 @@
 title: (BEL) PRODCOM report (InventProdCom_BE)
 TOCTitle: (BEL) PRODCOM report (InventProdCom_BE)
 ms:assetid: 81993367-f156-47c3-b070-990f68fae2be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335158(v=AX.60)
 ms:contentKeyID: 36687370
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

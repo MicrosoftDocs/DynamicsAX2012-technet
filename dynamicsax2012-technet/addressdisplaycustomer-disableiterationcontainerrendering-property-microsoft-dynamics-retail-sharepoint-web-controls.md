@@ -1,9 +1,10 @@
-﻿---
+---
 title: AddressDisplayCustomer.DisableIterationContainerRendering Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: DisableIterationContainerRendering Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplayCustomer.DisableIterationContainerRendering
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplaycustomer.disableiterationcontainerrendering(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplaycustomer.disableiterationcontainerrendering(v=AX.60)
 ms:contentKeyID: 62202968
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property bool DisableIterationContainerRendering {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

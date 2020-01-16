@@ -2,8 +2,9 @@
 title: (BRA) Create and post an ICMS tax fiscal document
 TOCTitle: (BRA) Create and post an ICMS tax fiscal document
 ms:assetid: 392994f5-3e38-459c-b4dd-58450f16a8f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710463(v=AX.60)
 ms:contentKeyID: 49384355
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -164,7 +165,7 @@ You can create only one ICMS fiscal document line for each ICMS tax fiscal docum
 
 [(BRA) About ICMS tax fiscal documents](bra-about-icms-tax-fiscal-documents.md)
 
-[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\))
+[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/library/jj710428\(v=ax.60\))
 
 [(BRA) Cancel an ICMS tax fiscal document](bra-cancel-an-icms-tax-fiscal-document.md)
 

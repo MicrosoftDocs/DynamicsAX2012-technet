@@ -2,8 +2,9 @@
 title: (BRA) Operation type
 TOCTitle: (BRA) Operation type
 ms:assetid: 2f83aef2-18f5-4611-87ff-a714d1ba37ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714190(v=AX.60)
 ms:contentKeyID: 49651299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -39,7 +40,7 @@ Use the following procedure to update the identification codes for the sales and
 
 ## See also
 
-[(BRA) Resolve purchase and sales operation type ID conflicts (form)](https://technet.microsoft.com/en-us/library/jj713626\(v=ax.60\))
+[(BRA) Resolve purchase and sales operation type ID conflicts (form)](https://technet.microsoft.com/library/jj713626\(v=ax.60\))
 
   
 

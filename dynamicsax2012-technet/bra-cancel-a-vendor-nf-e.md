@@ -2,8 +2,9 @@
 title: (BRA) Cancel a vendor NF-e
 TOCTitle: (BRA) Cancel a vendor NF-e
 ms:assetid: db8651ea-41d9-468b-bb2f-fee3b67dcf71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933532(v=AX.60)
 ms:contentKeyID: 50935146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ When you cancel a vendor NF-e, the original NF-e is marked as canceled, and all 
 
 ## See also
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Cancel vendor fiscal document (form)](https://technet.microsoft.com/en-us/library/jj923387\(v=ax.60\))
+[(BRA) Cancel vendor fiscal document (form)](https://technet.microsoft.com/library/jj923387\(v=ax.60\))
 
-[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710524\(v=ax.60\))
+[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/library/jj710524\(v=ax.60\))
 
-[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710577\(v=ax.60\))
+[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/library/jj710577\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Attach inventory items to service objects
 TOCTitle: Attach inventory items to service objects
 ms:assetid: b83c22c9-e3cb-4614-ac19-3d9669e35ab9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572250(v=AX.60)
 ms:contentKeyID: 62626032
+author: Khairunj
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

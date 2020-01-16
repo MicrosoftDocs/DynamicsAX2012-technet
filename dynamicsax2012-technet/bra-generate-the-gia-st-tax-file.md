@@ -2,8 +2,9 @@
 title: (BRA) Generate the GIA ST tax file
 TOCTitle: (BRA) Generate the GIA ST tax file
 ms:assetid: a842ff4e-0806-4c22-b3ad-c238b25f9cfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600280(v=AX.60)
 ms:contentKeyID: 62200244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

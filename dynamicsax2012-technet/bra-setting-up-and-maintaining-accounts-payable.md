@@ -2,8 +2,9 @@
 title: (BRA) Setting up and maintaining Accounts payable
 TOCTitle: (BRA) Setting up and maintaining Accounts payable
 ms:assetid: c43d66fa-ff79-482a-808e-3b1e7f504619
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663925(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663925(v=AX.60)
 ms:contentKeyID: 49384509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

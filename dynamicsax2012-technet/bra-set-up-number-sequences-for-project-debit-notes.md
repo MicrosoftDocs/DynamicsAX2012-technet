@@ -2,8 +2,9 @@
 title: (BRA) Set up number sequences for project debit notes
 TOCTitle: (BRA) Set up number sequences for project debit notes
 ms:assetid: 5b8414b3-c23a-4978-b2bc-8db861a9c130
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853380(v=AX.60)
 ms:contentKeyID: 50396747
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use the **Project management and accounting parameters** form to set up number s
 
 [(BRA) Set up a line property](bra-set-up-a-line-property.md)
 
-[(BRA) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj937990\(v=ax.60\))
+[(BRA) Project management and accounting parameters (modified form)](https://technet.microsoft.com/library/jj937990\(v=ax.60\))
 
   
 

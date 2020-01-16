@@ -2,8 +2,9 @@
 title: (BRA) Configuring fiscal reporting
 TOCTitle: (BRA) Configuring fiscal reporting
 ms:assetid: b9a1b9d7-b2a3-4e32-bbc3-7db933c1d358
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710606(v=AX.60)
 ms:contentKeyID: 49384495
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

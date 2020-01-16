@@ -2,8 +2,9 @@
 title: Assign sequence values to an item
 TOCTitle: Assign sequence values to an item
 ms:assetid: e8dcb2e7-a64c-4522-af18-1845f15b4cf9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838752(v=AX.60)
 ms:contentKeyID: 50120635
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Use this procedure to assign sequences and sequence values to an item, an item g
 
 [Set up sequence groups](set-up-sequence-groups.md)
 
-[Sequence item (form)](https://technet.microsoft.com/en-us/library/jj838760\(v=ax.60\))
+[Sequence item (form)](https://technet.microsoft.com/library/jj838760\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: BusinessIntelligenceSqlServerDataService Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer)
 TOCTitle: BusinessIntelligenceSqlServerDataService Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.BusinessIntelligenceSqlServerDataService.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.businessintelligencesqlserverdataservice.businessintelligencesqlserverdataservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.businessintelligencesqlserverdataservice.businessintelligencesqlserverdataservice(v=AX.60)
 ms:contentKeyID: 65316887
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

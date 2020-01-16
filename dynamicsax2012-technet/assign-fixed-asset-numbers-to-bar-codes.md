@@ -2,8 +2,9 @@
 title: Assign fixed asset numbers to bar codes
 TOCTitle: Assign fixed asset numbers to bar codes
 ms:assetid: 388b604d-2531-42a0-bf3f-49872adc9bc6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570140(v=AX.60)
 ms:contentKeyID: 36056622
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Instead of using the fixed asset number codes as bar codes, you can assign fixed
 
 [About bar codes for fixed assets](about-bar-codes-for-fixed-assets.md)
 
-[Assign fixed asset number to bar code (form)](https://technet.microsoft.com/en-us/library/aa553643\(v=ax.60\))
+[Assign fixed asset number to bar code (form)](https://technet.microsoft.com/library/aa553643\(v=ax.60\))
 
   
 

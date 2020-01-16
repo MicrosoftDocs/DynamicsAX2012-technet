@@ -2,8 +2,9 @@
 title: (AUT) Purchase duty report (TaxPurchaseTaxReport)
 TOCTitle: (AUT) Purchase duty report (TaxPurchaseTaxReport)
 ms:assetid: 371bec6f-7a6b-474f-a356-cff72a93a23a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335141(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335141(v=AX.60)
 ms:contentKeyID: 36687352
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

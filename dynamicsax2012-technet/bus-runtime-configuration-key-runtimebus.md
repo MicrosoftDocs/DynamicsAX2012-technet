@@ -2,8 +2,9 @@
 title: BUS Runtime configuration key (RuntimeBUS)
 TOCTitle: BUS Runtime configuration key (RuntimeBUS)
 ms:assetid: b7ead02d-4106-4e04-bb8f-68b1aa6a2e29
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa598608(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa598608(v=AX.60)
 ms:contentKeyID: 36997766
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -79,7 +80,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

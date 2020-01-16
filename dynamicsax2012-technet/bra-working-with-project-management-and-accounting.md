@@ -2,8 +2,9 @@
 title: (BRA) Working with Project management and accounting
 TOCTitle: (BRA) Working with Project management and accounting
 ms:assetid: 484515a1-4cd5-4a87-a1ae-e84fd297d162
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710488(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710488(v=AX.60)
 ms:contentKeyID: 49384378
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

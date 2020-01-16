@@ -2,8 +2,9 @@
 title: Applicant resume report (HcmApplicantResume)
 TOCTitle: Applicant resume report (HcmApplicantResume)
 ms:assetid: 4911670a-2f5c-4d89-a1e9-968e8094d965
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ994003(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ994003(v=AX.60)
 ms:contentKeyID: 51784125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (BRA) Create sites
 TOCTitle: (BRA) Create sites
 ms:assetid: e245b8b5-0d37-41c4-bce2-f2c4f2db0299
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923395(v=AX.60)
 ms:contentKeyID: 52075280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,9 +38,9 @@ Use this procedure to create a site.
 
 ## See also
 
-[(BRA) Sites (modified form)](https://technet.microsoft.com/en-us/library/jj923394\(v=ax.60\))
+[(BRA) Sites (modified form)](https://technet.microsoft.com/library/jj923394\(v=ax.60\))
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
   
 

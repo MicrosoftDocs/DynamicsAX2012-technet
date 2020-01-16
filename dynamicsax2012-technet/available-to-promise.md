@@ -2,8 +2,9 @@
 title: " available to promise"
 TOCTitle: " available to promise"
 ms:assetid: DynamicsAXGlossary.608219
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.608219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.608219(v=AX.60)
 ms:contentKeyID: 36057920
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

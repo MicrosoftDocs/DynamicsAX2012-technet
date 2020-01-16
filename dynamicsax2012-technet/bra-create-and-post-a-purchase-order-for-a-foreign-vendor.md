@@ -2,8 +2,9 @@
 title: (BRA) Create and post a purchase order for a foreign vendor
 TOCTitle: (BRA) Create and post a purchase order for a foreign vendor
 ms:assetid: f32e0584-ed77-4ea1-af42-9cacaa38319f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ915360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ915360(v=AX.60)
 ms:contentKeyID: 50874341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,15 +72,15 @@ Before you can create and post the purchase order for a foreign vendor, you must
 
 ## See also
 
-[(BRA) Import declaration (form)](https://technet.microsoft.com/en-us/library/jj863737\(v=ax.60\))
+[(BRA) Import declaration (form)](https://technet.microsoft.com/library/jj863737\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj933505\(v=ax.60\))
+[(BRA) Vendors (modified form)](https://technet.microsoft.com/library/jj933505\(v=ax.60\))
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
-[(BRA) Port (modified form)](https://technet.microsoft.com/en-us/library/jj923392\(v=ax.60\))
+[(BRA) Port (modified form)](https://technet.microsoft.com/library/jj923392\(v=ax.60\))
 
 [(BRA) About import fiscal documents](bra-about-import-fiscal-documents.md)
 

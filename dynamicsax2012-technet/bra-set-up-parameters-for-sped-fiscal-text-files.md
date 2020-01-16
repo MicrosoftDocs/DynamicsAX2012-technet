@@ -2,8 +2,9 @@
 title: (BRA) Set up parameters for SPED fiscal text files
 TOCTitle: (BRA) Set up parameters for SPED fiscal text files
 ms:assetid: 030e469b-6b42-44e0-8389-bc5d91822071
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305858(v=AX.60)
 ms:contentKeyID: 54912958
+author: Khairunj
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:

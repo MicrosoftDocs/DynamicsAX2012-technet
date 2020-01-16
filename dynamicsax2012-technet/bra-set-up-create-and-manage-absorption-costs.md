@@ -2,8 +2,9 @@
 title: (BRA) Set up, create, and manage absorption costs
 TOCTitle: (BRA) Set up, create, and manage absorption costs
 ms:assetid: 26ed04bf-e5bf-4b59-8f10-1a0f9bf776cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710437(v=AX.60)
 ms:contentKeyID: 49384329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,7 +30,7 @@ Use this procedure to set up the number sequence code for cost absorption journa
 
 ## Set up a cost center for absorption costs
 
-Use this procedure to set up a cost type for a cost center. You can use the **Cost center** form to set up cost centers for absorption costs. For more information, see [Operating units (form)](https://technet.microsoft.com/en-us/library/hh208817\(v=ax.60\)).
+Use this procedure to set up a cost type for a cost center. You can use the **Cost center** form to set up cost centers for absorption costs. For more information, see [Operating units (form)](https://technet.microsoft.com/library/hh208817\(v=ax.60\)).
 
 1.  Click **Production control** \> **Setup** \> **Absorption costs** \> **Cost centers**.
 
@@ -93,7 +94,7 @@ Use this procedure to create and post a cost absorption journal.
 
 ## Close absorption costs
 
-You can post the absorption costs for a specific month and year to the ledger. You can specify the transfer account and transfer offset account in the **Accounts - WIP** and **Accounts - costing** fields in the **Resources** form. For more information, see [Resources (form)](https://technet.microsoft.com/en-us/library/aa557962\(v=ax.60\)).
+You can post the absorption costs for a specific month and year to the ledger. You can specify the transfer account and transfer offset account in the **Accounts - WIP** and **Accounts - costing** fields in the **Resources** form. For more information, see [Resources (form)](https://technet.microsoft.com/library/aa557962\(v=ax.60\)).
 
 1.  Click **Production control** \> **Periodic** \> **Absorption costs** \> **Absorption costs - monthly closing**.
 
@@ -113,19 +114,19 @@ Use this procedure to cancel the absorbed costs that are not posted to the ledge
 
 ## See also
 
-[(BRA) Cost absorption journal (form)](https://technet.microsoft.com/en-us/library/jj710612\(v=ax.60\))
+[(BRA) Cost absorption journal (form)](https://technet.microsoft.com/library/jj710612\(v=ax.60\))
 
-[(BRA) Cost absorption journal lines (form)](https://technet.microsoft.com/en-us/library/jj663929\(v=ax.60\))
+[(BRA) Cost absorption journal lines (form)](https://technet.microsoft.com/library/jj663929\(v=ax.60\))
 
-[(BRA) Cost absorption parameters (form)](https://technet.microsoft.com/en-us/library/jj710572\(v=ax.60\))
+[(BRA) Cost absorption parameters (form)](https://technet.microsoft.com/library/jj710572\(v=ax.60\))
 
-[(BRA) Absorption costs - Monthly closing (form)](https://technet.microsoft.com/en-us/library/jj663935\(v=ax.60\))
+[(BRA) Absorption costs - Monthly closing (form)](https://technet.microsoft.com/library/jj663935\(v=ax.60\))
 
-[(BRA) Absorbed costs cancellation (form)](https://technet.microsoft.com/en-us/library/jj710580\(v=ax.60\))
+[(BRA) Absorbed costs cancellation (form)](https://technet.microsoft.com/library/jj710580\(v=ax.60\))
 
-[(BRA) Absorbed costs (form)](https://technet.microsoft.com/en-us/library/jj663941\(v=ax.60\))
+[(BRA) Absorbed costs (form)](https://technet.microsoft.com/library/jj663941\(v=ax.60\))
 
-[(BRA) Journal names (form)](https://technet.microsoft.com/en-us/library/jj710533\(v=ax.60\))
+[(BRA) Journal names (form)](https://technet.microsoft.com/library/jj710533\(v=ax.60\))
 
   
 

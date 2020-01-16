@@ -2,8 +2,9 @@
 title: (BRA) Working with fiscal books for incoming and outgoing transactions
 TOCTitle: (BRA) Working with fiscal books for incoming and outgoing transactions
 ms:assetid: f7170906-811d-44b6-a6f5-c05434208d9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305892(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305892(v=AX.60)
 ms:contentKeyID: 54912989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

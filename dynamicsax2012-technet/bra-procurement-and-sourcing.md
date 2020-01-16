@@ -2,8 +2,9 @@
 title: (BRA) Procurement and sourcing
 TOCTitle: (BRA) Procurement and sourcing
 ms:assetid: e4f5f63b-6633-4b18-b29b-26c166e30d27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663957(v=AX.60)
 ms:contentKeyID: 49384536
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

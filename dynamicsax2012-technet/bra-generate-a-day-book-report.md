@@ -2,8 +2,9 @@
 title: (BRA) Generate a day book report
 TOCTitle: (BRA) Generate a day book report
 ms:assetid: c149f63b-4bf0-4760-a824-3bf07745d5da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710616(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710616(v=AX.60)
 ms:contentKeyID: 49384505
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Use the Day book report to generate a day book report that contains daily transa
 
 ## See also
 
-[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/en-us/library/jj710413\(v=ax.60\))
+[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/library/jj710413\(v=ax.60\))
 
 [(BRA) Page and book control for legal accounting reports](bra-page-and-book-control-for-legal-accounting-reports.md)
 

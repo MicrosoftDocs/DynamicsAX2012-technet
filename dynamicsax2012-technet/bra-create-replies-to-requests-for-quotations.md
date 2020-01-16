@@ -2,8 +2,9 @@
 title: (BRA) Create replies to requests for quotations
 TOCTitle: (BRA) Create replies to requests for quotations
 ms:assetid: f22f7f1f-4b90-4196-9022-6304dae10996
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730982(v=AX.60)
 ms:contentKeyID: 49675213
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ You can accept or reject lines in the reply. You can also return the RFQ reply t
 
 ## See also
 
-[(BRA) Request for quotation reply (modified form)](https://technet.microsoft.com/en-us/library/jj730981\(v=ax.60\))
+[(BRA) Request for quotation reply (modified form)](https://technet.microsoft.com/library/jj730981\(v=ax.60\))
 
   
 

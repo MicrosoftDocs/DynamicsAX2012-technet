@@ -2,8 +2,9 @@
 title: (BRA) Set up the export or import process for NF-e
 TOCTitle: (BRA) Set up the export or import process for NF-e
 ms:assetid: fa7fd30c-9ee8-49e1-a7ac-f072d7253cb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933539(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933539(v=AX.60)
 ms:contentKeyID: 50935153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,9 +47,9 @@ Use the following procedure to set up the export or import process for a Nota Fi
 
 ## See also
 
-[Batch groups (form)](https://technet.microsoft.com/en-us/library/aa575384\(v=ax.60\))
+[Batch groups (form)](https://technet.microsoft.com/library/aa575384\(v=ax.60\))
 
-[Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
+[Recurrence (form)](https://technet.microsoft.com/library/aa616143\(v=ax.60\))
 
   
 

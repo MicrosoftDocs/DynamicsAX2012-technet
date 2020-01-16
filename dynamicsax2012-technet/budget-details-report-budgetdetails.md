@@ -2,8 +2,9 @@
 title: Budget details report (BudgetDetails)
 TOCTitle: Budget details report (BudgetDetails)
 ms:assetid: 111de53d-e9ce-4b58-aee5-dee38b6c73cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335133(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335133(v=AX.60)
 ms:contentKeyID: 36687343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,17 +43,17 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Financial dimension set</strong></p></td>
 <td><p>Select a financial dimension set for the report. These were defined in the <strong>Financial dimension sets</strong> form. A financial dimension set is a named group of accounts or dimensions that contains either account values for the account or dimension values for a single dimension. Examples include main accounts, departments, and cost centers, or combinations such as a cost center and main account, or a department and cost center.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Include draft transactions</strong></p></td>
 <td><p>Select this check box to include budget register entries that have a <strong>Draft</strong> status, or clear the check box to include only budget register entries that have a <strong>Completed</strong> status.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227354(v=ax.60)">Budget registry entry (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh227354(v=ax.60)">Budget registry entry (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Include submodels</strong></p></td>
 <td><p>Select this check box to include budget register entries for submodels of the parent budget models.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa586905(v=ax.60)">Budget model (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa586905(v=ax.60)">Budget model (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>From date</strong></p></td>
@@ -81,7 +82,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="even">
 <td><p><strong>Budget model</strong></p></td>
 <td><p>Click <strong>Select</strong> to open an inquiry form and select a budget model. You can leave this field blank to include all budget models on the report.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
 <div class="alert">
 
 > [!NOTE]
@@ -93,7 +94,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Budget type</strong></p></td>
 <td><p>Click <strong>Select</strong> to open an inquiry form and select a budget type. You can leave this field blank to include all available budget types.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa575929(v=ax.60)">Inquiry (form)</a>.</p>
 <div class="alert">
 
 > [!NOTE]

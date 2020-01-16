@@ -2,8 +2,9 @@
 title: (BRA) About referenced processes
 TOCTitle: (BRA) About referenced processes
 ms:assetid: f663ca76-8cba-4937-831d-8a2a43e1ff01
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933538(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933538(v=AX.60)
 ms:contentKeyID: 50935151
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,9 +30,9 @@ You can perform the following tasks to set up and include referenced process inf
 
 ## See also
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
-[(BRA) Fiscal document texts (form)](https://technet.microsoft.com/en-us/library/jj923164\(v=ax.60\))
+[(BRA) Fiscal document texts (form)](https://technet.microsoft.com/library/jj923164\(v=ax.60\))
 
   
 

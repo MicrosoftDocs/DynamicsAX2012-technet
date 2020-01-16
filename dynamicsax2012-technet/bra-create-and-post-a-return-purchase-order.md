@@ -2,8 +2,9 @@
 title: (BRA) Create and post a return purchase order
 TOCTitle: (BRA) Create and post a return purchase order
 ms:assetid: cd55f3c7-c387-44bd-88d6-a71b59adc8a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923390(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923390(v=AX.60)
 ms:contentKeyID: 52075275
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ Use the **Create purchase order** form to create a return purchase order.
 
 2.  On the **Action Pane**, click **Purchase order**, and then in the **Vendor account** field, select a vendor account.
 
-3.  On the **General** FastTab, in the **Purchase type** field, select **Returned order**. For more information, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)).
+3.  On the **General** FastTab, in the **Purchase type** field, select **Returned order**. For more information, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)).
 
 4.  In the **RMA number** field, enter the Return Merchandise Authorization (RMA) number for the item that is returned. The number is provided by your vendor. This number is used to track an item that is returned.
 
@@ -50,7 +51,7 @@ Use the **Create purchase order** form to create a return purchase order.
 
 10. On the **Action Pane**, click **Header view**.
 
-11. On the **Fiscal information** FastTab, in the **Operation type** field, select an operation type that you have created in the **Operation type** form. For more information, see [(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\)).
+11. On the **Fiscal information** FastTab, in the **Operation type** field, select an operation type that you have created in the **Operation type** form. For more information, see [(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\)).
 
 12. Select the **Use and consumption** check box to indicate that the purchase is for consumption.
 
@@ -80,17 +81,17 @@ Use the **Vendor invoice** form to post a return purchase order.
 
 6.  In the **Vendor invoice** form, on the **Action Pane**, click **Add shipping specifications**, and then create a shipment specification.
 
-7.  Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/en-us/library/jj683240\(v=ax.60\)).
+7.  Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/library/jj683240\(v=ax.60\)).
 
 8.  Click **Post** \> **Post** to post the invoice.
 
 ## See also
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
-[(BRA) Fiscal reference (form)](https://technet.microsoft.com/en-us/library/jj710558\(v=ax.60\))
+[(BRA) Fiscal reference (form)](https://technet.microsoft.com/library/jj710558\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (BRA) Set up a withholding tax settlement period
 TOCTitle: (BRA) Set up a withholding tax settlement period
 ms:assetid: 1e487a44-1541-47f3-bb99-a5ae35fed615
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126101(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126101(v=AX.60)
 ms:contentKeyID: 52075239
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Brazil
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-When you collect withholding taxes, you must settle and pay taxes at regular intervals called settlement periods. You can set up a withholding tax settlement period, and then attach one or more withholding tax codes. For more information, see [Sales tax settlement periods (form)](https://technet.microsoft.com/en-us/library/aa633944\(v=ax.60\)).
+When you collect withholding taxes, you must settle and pay taxes at regular intervals called settlement periods. You can set up a withholding tax settlement period, and then attach one or more withholding tax codes. For more information, see [Sales tax settlement periods (form)](https://technet.microsoft.com/library/aa633944\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Withholding tax** \> **Brazil** \> **Withholding tax settlement periods**.
 
@@ -49,9 +50,9 @@ When you collect withholding taxes, you must settle and pay taxes at regular int
 
 ## See also
 
-[(BRA) Withholding tax payments inquiry (form)](https://technet.microsoft.com/en-us/library/dn126102\(v=ax.60\))
+[(BRA) Withholding tax payments inquiry (form)](https://technet.microsoft.com/library/dn126102\(v=ax.60\))
 
-[(BRA) Withholding tax transactions (form)](https://technet.microsoft.com/en-us/library/dn126112\(v=ax.60\))
+[(BRA) Withholding tax transactions (form)](https://technet.microsoft.com/library/dn126112\(v=ax.60\))
 
 [(BRA) Set up an item withholding tax group](bra-set-up-an-item-withholding-tax-group.md)
 

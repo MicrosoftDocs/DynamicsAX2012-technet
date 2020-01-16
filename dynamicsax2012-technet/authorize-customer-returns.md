@@ -2,8 +2,9 @@
 title: Authorize customer returns
 TOCTitle: Authorize customer returns
 ms:assetid: 0ffb706d-ebd4-4bef-9eff-ae6661fce900
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230920(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230920(v=AX.60)
 ms:contentKeyID: 36056023
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

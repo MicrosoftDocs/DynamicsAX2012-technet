@@ -2,8 +2,9 @@
 title: (CAN, USA) Sales analysis by invoice report (CustSalesAnalysisByInvoice_NA)
 TOCTitle: (CAN, USA) Sales analysis by invoice report (CustSalesAnalysisByInvoice_NA)
 ms:assetid: 148a1fc4-bdc3-4261-a773-aba6501b00fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496414(v=AX.60)
 ms:contentKeyID: 37071991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

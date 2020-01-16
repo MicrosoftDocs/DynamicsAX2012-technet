@@ -2,8 +2,9 @@
 title: (BRA) Set up customer posting profiles
 TOCTitle: (BRA) Set up customer posting profiles
 ms:assetid: f3e60c6b-eb1f-4ceb-be5e-110e3c12e47e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663971(v=AX.60)
 ms:contentKeyID: 49384556
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,9 +50,9 @@ Use the **Customer posting profiles** form to specify an account to credit the I
 
 ## See also
 
-[Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\))
+[Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\))
 
-[(BRA) Customer posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj663980\(v=ax.60\))
+[(BRA) Customer posting profiles (modified form)](https://technet.microsoft.com/library/jj663980\(v=ax.60\))
 
   
 

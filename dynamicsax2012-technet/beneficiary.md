@@ -2,8 +2,9 @@
 title: " beneficiary"
 TOCTitle: " beneficiary"
 ms:assetid: DynamicsAXGlossary.1468751
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1468751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1468751(v=AX.60)
 ms:contentKeyID: 36057175
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ A person who is a member of an organization that provides benefits, or a party w
 
 [organization](organization.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 

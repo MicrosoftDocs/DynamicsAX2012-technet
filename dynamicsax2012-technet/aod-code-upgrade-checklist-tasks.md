@@ -2,8 +2,9 @@
 title: 'AOD code upgrade checklist: Tasks'
 TOCTitle: 'AOD code upgrade checklist: Tasks'
 ms:assetid: db73ab58-914b-4cee-85f7-a394bdb19505
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn364415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn364415(v=AX.60)
 ms:contentKeyID: 62200026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

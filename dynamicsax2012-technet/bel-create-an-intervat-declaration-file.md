@@ -2,8 +2,9 @@
 title: (BEL) Create an INTERVAT declaration file
 TOCTitle: (BEL) Create an INTERVAT declaration file
 ms:assetid: 6b552fb8-6844-4f07-9382-eece9aa62cbe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231784(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231784(v=AX.60)
 ms:contentKeyID: 36057988
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Use the **INTERVAT tax declaration** form to enter tax header declaration information, general information, and date and signature information for the INTERVAT declaration file.
 
-You can create the INTERVAT declaration as an XML file. You can also include corrections in the INTERVAT declaration from the previous year. Additionally, if you did not have transactions for a turnover report or an annual listing during the previous financial year, you can indicate that this is an empty annual listing. For more information, see [(BEL) Additional sales tax report boxes (form)](https://technet.microsoft.com/en-us/library/aa599851\(v=ax.60\)).
+You can create the INTERVAT declaration as an XML file. You can also include corrections in the INTERVAT declaration from the previous year. Additionally, if you did not have transactions for a turnover report or an annual listing during the previous financial year, you can indicate that this is an empty annual listing. For more information, see [(BEL) Additional sales tax report boxes (form)](https://technet.microsoft.com/library/aa599851\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -66,7 +67,7 @@ After you create the INTERVAT declaration file, you can upload the file by using
 
 [(BEL) Set up INTERVAT](bel-set-up-intervat.md)
 
-[(BEL) INTERVAT tax declaration (form)](https://technet.microsoft.com/en-us/library/hh242885\(v=ax.60\))
+[(BEL) INTERVAT tax declaration (form)](https://technet.microsoft.com/library/hh242885\(v=ax.60\))
 
 [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md)
 

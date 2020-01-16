@@ -2,8 +2,9 @@
 title: (BRA) Cancel a vendor fiscal document
 TOCTitle: (BRA) Cancel a vendor fiscal document
 ms:assetid: 440ddb6c-7a6b-43a4-bad0-eded6ef030b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710479(v=AX.60)
 ms:contentKeyID: 49384370
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You can cancel incorrect vendor fiscal documents that are generated and issued b
 
 2.  Select a purchase order that has a purchase type of **Returned order** and an approval status of **Approved** or **Confirmed**.
 
-3.  On the **Action Pane**, on the **Purchase** tab, click **Cancel fiscal document** to open the **Cancel fiscal document** form. For more information, see [(BRA) Cancel vendor fiscal document (form)](https://technet.microsoft.com/en-us/library/jj923387\(v=ax.60\)).
+3.  On the **Action Pane**, on the **Purchase** tab, click **Cancel fiscal document** to open the **Cancel fiscal document** form. For more information, see [(BRA) Cancel vendor fiscal document (form)](https://technet.microsoft.com/library/jj923387\(v=ax.60\)).
 
 4.  In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: In the **Reason code** field, select the identification code of the reason to cancel the vendor fiscal document.
 
@@ -54,7 +55,7 @@ You can cancel incorrect vendor fiscal documents that are generated and issued b
 
 [(BRA) Cancel a purchase complementary fiscal document](bra-cancel-a-purchase-complementary-fiscal-document.md)
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
 [(BRA) Cancel a customer fiscal document](bra-cancel-a-customer-fiscal-document.md)
 

@@ -2,8 +2,9 @@
 title: (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails
 TOCTitle: (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails
 ms:assetid: 1ddf4c84-168e-45b1-a2a7-407b784dfcf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479042(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479042(v=AX.60)
 ms:contentKeyID: 59632410
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -249,7 +250,7 @@ To import and verify the NF-e XML files and DANFE from emails, follow these step
 
 8.  In the **Received NF-e XML documents** form, select a line, and then click **Inquire status** to inquire about the current status of the NF-e at the SEFAZ using the access key. The status, date, and time of the inquiry are updated in the **Status from SEFAZ** and **Date and time of the last inquiry** fields.
 
-You can click **XML document** and **DANFE** on the **Received NF-e federal** tab on the **Action Pane** in the **Fiscal document** form to view the XML document and DANFE for an NF-e. For more information about how to verify the posted fiscal documents, see [(BRA) Fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710548\(v=ax.60\)).
+You can click **XML document** and **DANFE** on the **Received NF-e federal** tab on the **Action Pane** in the **Fiscal document** form to view the XML document and DANFE for an NF-e. For more information about how to verify the posted fiscal documents, see [(BRA) Fiscal document (form)](https://technet.microsoft.com/library/jj710548\(v=ax.60\)).
 
 ## 4\. Inquire about the status of NF-e access keys at the SEFAZ
 

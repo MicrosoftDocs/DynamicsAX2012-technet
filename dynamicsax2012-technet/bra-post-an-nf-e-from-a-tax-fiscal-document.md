@@ -2,8 +2,9 @@
 title: (BRA) Post an NF-e from a tax fiscal document
 TOCTitle: (BRA) Post an NF-e from a tax fiscal document
 ms:assetid: 69cb6c90-7e71-42f4-ac35-da479884502d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937987(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937987(v=AX.60)
 ms:contentKeyID: 50950776
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ You can create a new tax fiscal document and generate a nota fiscal eletrônica 
 
 1.  Click **General ledger** \> **Journals** \> **All tax fiscal documents**.
 
-2.  On the **Action Pane**, click **Tax fiscal document** to open the **Tax fiscal document** form. For more information, see [(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\)).
+2.  On the **Action Pane**, click **Tax fiscal document** to open the **Tax fiscal document** form. For more information, see [(BRA) Tax fiscal document (form)](https://technet.microsoft.com/library/jj710428\(v=ax.60\)).
 
 3.  On the **Tax fiscal document header** FastTab, in the **Tax fiscal document type** field, select a type of Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax fiscal document.
 

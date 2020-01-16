@@ -2,8 +2,9 @@
 title: (BRA) Updates to consolidated legal entity transactions
 TOCTitle: (BRA) Updates to consolidated legal entity transactions
 ms:assetid: f84fe223-3494-4871-9ad8-d6955a708d5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663973(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663973(v=AX.60)
 ms:contentKeyID: 49384558
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

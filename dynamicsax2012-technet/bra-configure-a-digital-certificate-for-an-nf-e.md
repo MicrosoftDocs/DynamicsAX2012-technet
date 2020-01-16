@@ -2,8 +2,9 @@
 title: (BRA) Configure a digital certificate for an NF-e
 TOCTitle: (BRA) Configure a digital certificate for an NF-e
 ms:assetid: aaaf0d4c-5bc0-4eee-80bb-f237c59f2322
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917352(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ917352(v=AX.60)
 ms:contentKeyID: 50952841
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

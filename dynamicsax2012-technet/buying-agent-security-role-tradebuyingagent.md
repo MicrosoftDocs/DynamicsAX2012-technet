@@ -2,8 +2,9 @@
 title: Buying agent security role (TradeBuyingAgent)
 TOCTitle: Buying agent security role (TradeBuyingAgent)
 ms:assetid: b226b369-9fad-411b-868e-afd66884d4d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527123(v=AX.60)
 ms:contentKeyID: 37823174
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

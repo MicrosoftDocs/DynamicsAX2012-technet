@@ -2,8 +2,9 @@
 title: Adjust transactions in projects
 TOCTitle: Adjust transactions in projects
 ms:assetid: c2add340-71ba-45d0-a7af-ffe34ad6c173
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550708(v=AX.60)
 ms:contentKeyID: 36059282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

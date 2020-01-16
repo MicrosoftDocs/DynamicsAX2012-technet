@@ -2,8 +2,9 @@
 title: (BRA) Set up the CFOP codes
 TOCTitle: (BRA) Set up the CFOP codes
 ms:assetid: 9441235e-0f15-47bf-8bc9-36c8eb608805
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933526(v=AX.60)
 ms:contentKeyID: 50935139
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -146,15 +147,15 @@ Use the following procedure to create CFOP codes.
 
 ## See also
 
-[(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\))
+[(BRA) CFOP codes (form)](https://technet.microsoft.com/library/jj933522\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
-[(BRA) CFOP matrix (form)](https://technet.microsoft.com/en-us/library/jj933496\(v=ax.60\))
+[(BRA) CFOP matrix (form)](https://technet.microsoft.com/library/jj933496\(v=ax.60\))
 
 [(BRA) Set up the CFOP matrix](bra-set-up-the-cfop-matrix.md)
 

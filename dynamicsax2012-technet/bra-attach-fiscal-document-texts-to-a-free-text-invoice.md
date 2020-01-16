@@ -2,8 +2,9 @@
 title: (BRA) Attach fiscal document texts to a free text invoice
 TOCTitle: (BRA) Attach fiscal document texts to a free text invoice
 ms:assetid: d30da180-41d5-464d-9770-1e49ead4ed02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663938(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663938(v=AX.60)
 ms:contentKeyID: 49384524
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ The fiscal document text is attached to the free text invoice. The fiscal docume
 
 ## See also
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
 [(BRA) Set up a fiscal document source text](bra-set-up-a-fiscal-document-source-text.md)
 

@@ -2,8 +2,9 @@
 title: (BRA) Working with fiscal books for fixed assets
 TOCTitle: (BRA) Working with fiscal books for fixed assets
 ms:assetid: f3f6bb30-d584-423c-959e-a708b0fce7fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305889(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305889(v=AX.60)
 ms:contentKeyID: 54912987
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information
 TOCTitle: (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information
 ms:assetid: 25d8b505-2c4e-4e55-a395-082b8cd98c33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208484(v=AX.60)
 ms:contentKeyID: 36056194
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,9 +25,9 @@ The Intrastat declaration is a mandatory statement that reports the movement of 
 
 Before you generate an Intrastat declaration, complete the following:
 
-  - Set up Intrastat parameters to generate Intrastat transaction details and compression details. For more information, see [About Intrastat](about-intrastat.md) and [Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\)).
+  - Set up Intrastat parameters to generate Intrastat transaction details and compression details. For more information, see [About Intrastat](about-intrastat.md) and [Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\)).
 
-  - Create an item and specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Commodity codes (form)](https://technet.microsoft.com/en-us/library/aa617816\(v=ax.60\)) and [Units (form)](https://technet.microsoft.com/en-us/library/hh209233\(v=ax.60\)).
+  - Create an item and specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Commodity codes (form)](https://technet.microsoft.com/library/aa617816\(v=ax.60\)) and [Units (form)](https://technet.microsoft.com/library/hh209233\(v=ax.60\)).
 
 <!-- end list -->
 
@@ -36,7 +37,7 @@ Before you generate an Intrastat declaration, complete the following:
     
     Click **Accounts payable** \> **Journals** \> **Invoices** \> **Invoice register**.
 
-2.  Select a journal line to enter the required details. For more information, see [Post invoices in an invoice journal](post-invoices-in-an-invoice-journal.md) and [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\)).
+2.  Select a journal line to enter the required details. For more information, see [Post invoices in an invoice journal](post-invoices-in-an-invoice-journal.md) and [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\)).
 
 3.  Click the **Invoice** tab.
 
@@ -66,7 +67,7 @@ Before you generate an Intrastat declaration, complete the following:
 
 [(BEL) Transfer vendor invoice transactions and generate an Intrastat declaration](bel-transfer-vendor-invoice-transactions-and-generate-an-intrastat-declaration.md)
 
-[Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\))
+[Compression of Intrastat (form)](https://technet.microsoft.com/library/aa584795\(v=ax.60\))
 
   
 

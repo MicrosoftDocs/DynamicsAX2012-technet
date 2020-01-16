@@ -2,8 +2,9 @@
 title: (BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity
 TOCTitle: (BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity
 ms:assetid: 8d0c6d63-d560-40b1-8370-4ec8174f3c74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710563(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710563(v=AX.60)
 ms:contentKeyID: 49384453
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ After you set up a consolidated legal entity, you can use the **Consolidate** fo
 
 
 
-5.  Click the **Financial dimensions** tab, and then in the **Specification** field, select the type of data that is transferred to the **Financial dimension** field of the consolidated legal entity. For example, if you select **Company accounts** in the **Specification** field for the consolidated legal entity, you can identify the subsidiary origin of each transaction in the consolidated legal entity. The other dimension information is not transferred. For more information, see [Consolidate (form)](https://technet.microsoft.com/en-us/library/aa618539\(v=ax.60\)).
+5.  Click the **Financial dimensions** tab, and then in the **Specification** field, select the type of data that is transferred to the **Financial dimension** field of the consolidated legal entity. For example, if you select **Company accounts** in the **Specification** field for the consolidated legal entity, you can identify the subsidiary origin of each transaction in the consolidated legal entity. The other dimension information is not transferred. For more information, see [Consolidate (form)](https://technet.microsoft.com/library/aa618539\(v=ax.60\)).
 
 6.  In the **Segment order** field, enter a number to indicate the order of financial dimensions in the consolidated legal entity. Enter 0 for the dimensions that have a specification of **None**.
     
@@ -53,13 +54,13 @@ After you set up a consolidated legal entity, you can use the **Consolidate** fo
 
 8.  Click **OK** to transfer the transactions.
 
-After you transfer the subsidiary legal entity transactions to a consolidated legal entity, you can view the transactions that are transferred in the **Voucher transactions** form. For more information, see [Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\)). You can also generate the following reports:
+After you transfer the subsidiary legal entity transactions to a consolidated legal entity, you can view the transactions that are transferred in the **Voucher transactions** form. For more information, see [Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\)). You can also generate the following reports:
 
-  - **Financial statement** – Generate the financial statement report to analyze transactions in a subsidiary legal entity by using one or more dimensions of the consolidated account. For more information, see [Financial statement report (form)](https://technet.microsoft.com/en-us/library/aa585230\(v=ax.60\)) and [Generate, print, and export a traditional financial statement](generate-print-and-export-a-traditional-financial-statement.md).
+  - **Financial statement** – Generate the financial statement report to analyze transactions in a subsidiary legal entity by using one or more dimensions of the consolidated account. For more information, see [Financial statement report (form)](https://technet.microsoft.com/library/aa585230\(v=ax.60\)) and [Generate, print, and export a traditional financial statement](generate-print-and-export-a-traditional-financial-statement.md).
 
-  - **Analytical ledger** – Generate an analytical ledger report that contains the original legal entity and voucher transactions from the consolidated legal entity. For more information, see [(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\)).
+  - **Analytical ledger** – Generate an analytical ledger report that contains the original legal entity and voucher transactions from the consolidated legal entity. For more information, see [(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/library/jj710455\(v=ax.60\)).
 
-  - **Day book** – Generate a day book report that contains the daily transactions, sorted by date, for a specified period. For more information, see [(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/en-us/library/jj710413\(v=ax.60\)).
+  - **Day book** – Generate a day book report that contains the daily transactions, sorted by date, for a specified period. For more information, see [(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/library/jj710413\(v=ax.60\)).
 
 ## See also
 

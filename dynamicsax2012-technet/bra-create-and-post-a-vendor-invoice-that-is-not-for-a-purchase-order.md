@@ -2,8 +2,9 @@
 title: (BRA) Create and post a vendor invoice that is not for a purchase order
 TOCTitle: (BRA) Create and post a vendor invoice that is not for a purchase order
 ms:assetid: c0c38c6b-ca94-4440-98a0-045a490226a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933528(v=AX.60)
 ms:contentKeyID: 50935141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Use this procedure to create and post a vendor invoice that is not associated wi
 
 6.  In the **Specie** field, select the fiscal document specie.
 
-7.  On the **Lines** FastTab, click **Add line** to create a new invoice line. Enter the required line details. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\)).
+7.  On the **Lines** FastTab, click **Add line** to create a new invoice line. Enter the required line details. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\)).
 
 8.  Click the **Line details** FastTab, and then click the **Fiscal information** tab.
 

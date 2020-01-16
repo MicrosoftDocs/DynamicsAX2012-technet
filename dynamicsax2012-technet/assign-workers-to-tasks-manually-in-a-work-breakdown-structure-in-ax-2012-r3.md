@@ -2,8 +2,9 @@
 title: Assign workers to tasks manually in a work breakdown structure in AX 2012 R3
 TOCTitle: Assign workers to tasks manually in a work breakdown structure in AX 2012 R3
 ms:assetid: 8a679501-fd22-4b1b-aba7-0c1ba3ae3c82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783115(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783115(v=AX.60)
 ms:contentKeyID: 62830463
+author: Khairunj
 ms.date: 09/05/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -149,7 +150,7 @@ You can select multiple cells for one or more workers to cancel multiple booking
 
 [Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7](key-tasks-create-a-schedule-based-on-a-project-in-ax-2012-r3-or-ax-2012-r2-cu7.md)
 
-[Work breakdown structure (form)](https://technet.microsoft.com/en-us/library/hh209089\(v=ax.60\))
+[Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Call center configuration key (MCRCallCenter)
 TOCTitle: Call center configuration key (MCRCallCenter)
 ms:assetid: d408ab14-95ad-4da1-9e4c-e08a13be245c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774948(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774948(v=AX.60)
 ms:contentKeyID: 62617668
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -229,7 +230,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

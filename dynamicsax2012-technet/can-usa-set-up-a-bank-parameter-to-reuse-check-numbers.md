@@ -2,8 +2,9 @@
 title: (CAN, USA) Set up a bank parameter to reuse check numbers
 TOCTitle: (CAN, USA) Set up a bank parameter to reuse check numbers
 ms:assetid: 1ab0e327-2f40-44fc-8a1f-e778dda159a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230972(v=AX.60)
 ms:contentKeyID: 36056126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can set up bank parameters to reuse check numbers. For example, if a check i
 
 [(CAN, USA) Reuse a check number](can-usa-reuse-a-check-number.md)
 
-[Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
+[Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Batch numbers in Warehouse management
 TOCTitle: Batch numbers in Warehouse management
 ms:assetid: 46bc4ac0-084f-4102-bc61-83143172b5ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn887221(v=AX.60)
 ms:contentKeyID: 63378890
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 audience: Application User

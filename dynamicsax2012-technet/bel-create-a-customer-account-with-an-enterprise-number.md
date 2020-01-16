@@ -2,8 +2,9 @@
 title: (BEL) Create a customer account with an enterprise number
 TOCTitle: (BEL) Create a customer account with an enterprise number
 ms:assetid: a40bd09e-d781-47ec-8d13-4543f8d7bd3d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209463(v=AX.60)
 ms:contentKeyID: 36058815
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,11 +48,11 @@ Use this procedure to create a customer account and specify the enterprise numbe
 
 ## See also
 
-[Tax exempt numbers (form)](https://technet.microsoft.com/en-us/library/aa583706\(v=ax.60\))
+[Tax exempt numbers (form)](https://technet.microsoft.com/library/aa583706\(v=ax.60\))
 
 [(BEL) Create a vendor account with an enterprise number](bel-create-a-vendor-account-with-an-enterprise-number.md)
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Balances report (LedgerJournalAccountMovement)
 TOCTitle: Balances report (LedgerJournalAccountMovement)
 ms:assetid: f3f51de4-015f-484f-b84a-11fc28f31b6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227626(v=AX.60)
 ms:contentKeyID: 36060809
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

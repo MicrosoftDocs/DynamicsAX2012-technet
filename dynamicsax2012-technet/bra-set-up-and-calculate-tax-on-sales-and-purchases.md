@@ -2,8 +2,9 @@
 title: (BRA) Set up and calculate tax on sales and purchases
 TOCTitle: (BRA) Set up and calculate tax on sales and purchases
 ms:assetid: ad29bccc-5629-45fc-8d24-23488f7b8331
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683238(v=AX.60)
 ms:contentKeyID: 49685119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -196,17 +197,17 @@ When you set up taxes without tax credit:
 
 ## See also
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
-[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
+[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/library/jj710417\(v=ax.60\))
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
-[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
+[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/library/jj710417\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (BRA) Enter and post fiscal books adjustments, benefits, and incentives
 TOCTitle: (BRA) Enter and post fiscal books adjustments, benefits, and incentives
 ms:assetid: 7ca1b157-f9a4-4b67-a26b-3e06082b3cff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600276(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600276(v=AX.60)
 ms:contentKeyID: 62200239
+author: Khairunj
 ms.date: 07/08/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,7 +81,7 @@ To enter and register the fixed asset credit appropriation transactions, follow 
 
 2.  Click **New** to create a tax adjustment transaction.
 
-3.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+3.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 4.  On the **Setup** tab, in the **Fiscal establishment ID** and **Tax type** fields, select the default fiscal establishment ID and the tax type.
 
@@ -132,7 +133,7 @@ To enter and post tax adjustment transactions, follow these steps:
 
 3.  Click **New** to create a tax adjustment transaction.
 
-4.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+4.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 5.  On the **Setup** tab, in the **Fiscal establishment ID** and **Tax type** fields, select the default fiscal establishment ID and the tax type.
 
@@ -168,7 +169,7 @@ To register tax adjustment transactions for fiscal documents, follow these steps
 
 2.  Click **New** to create a tax adjustment transaction.
 
-3.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+3.  In the **Name** field, select the journal name, which was created in the **Journal names** form. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 4.  On the **Setup** tab, in the **Fiscal establishment ID** and **Tax type** fields, select the default fiscal establishment ID and the tax type.
 

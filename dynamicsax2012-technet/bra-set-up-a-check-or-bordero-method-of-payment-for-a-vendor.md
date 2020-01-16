@@ -2,8 +2,9 @@
 title: (BRA) Set up a check or Bordero method of payment for a vendor
 TOCTitle: (BRA) Set up a check or Bordero method of payment for a vendor
 ms:assetid: 4730fee7-3d4d-46c7-8814-5c3097a5bb00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910985(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910985(v=AX.60)
 ms:contentKeyID: 53382663
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -87,7 +88,7 @@ You can set up a check or Bordero method of payment to make payments to vendors.
 
 ## See also
 
-[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/en-us/library/jj923217\(v=ax.60\))
+[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/library/jj923217\(v=ax.60\))
 
 [(BRA) Post a payment with the Bordero method of payment and generate the Bordero report](bra-post-a-payment-with-the-bordero-method-of-payment-and-generate-the-bordero-report.md)
 

@@ -2,8 +2,9 @@
 title: (BRA) Set up the purchase of electricity
 TOCTitle: (BRA) Set up the purchase of electricity
 ms:assetid: ae91ac77-8f5f-4088-aa39-d3774c651b34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863732(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863732(v=AX.60)
 ms:contentKeyID: 50396415
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,15 +55,15 @@ The Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax credit on t
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
 [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md)
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[Values of sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa500790\(v=ax.60\))
+[Values of sales tax codes (form)](https://technet.microsoft.com/library/aa500790\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

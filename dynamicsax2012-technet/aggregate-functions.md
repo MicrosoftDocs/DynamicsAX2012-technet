@@ -1,9 +1,10 @@
-﻿---
+---
 title: Aggregate Functions
 TOCTitle: Aggregate Functions
 ms:assetid: 729fcdb6-175c-452e-912d-885b5e2b8367
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc593112(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc593112(v=AX.60)
 ms:contentKeyID: 28119379
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

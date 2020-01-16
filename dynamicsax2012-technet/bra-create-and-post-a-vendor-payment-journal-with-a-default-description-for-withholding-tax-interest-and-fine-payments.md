@@ -2,8 +2,9 @@
 title: (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments
 ms:assetid: eb9849eb-a1b1-456d-b4e0-2b0883dcda94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663964(v=AX.60)
 ms:contentKeyID: 49384552
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ You must specify a journal description before you post a journal. When you post 
 
 3.  Click **Payment proposal** \> **Create payment proposal**, and then in the **Proposal type** field, select a proposal type.
 
-4.  Enter other criteria for the proposal, and then click **OK**. For more information, see [Vendor payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa554537\(v=ax.60\)).
+4.  Enter other criteria for the proposal, and then click **OK**. For more information, see [Vendor payment proposal (class form)](https://technet.microsoft.com/library/aa554537\(v=ax.60\)).
 
 5.  Click **Transfer** to transfer the proposal lines to the payment journal.
 
@@ -65,15 +66,15 @@ You must specify a journal description before you post a journal. When you post 
 
 ## See also
 
-[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
+[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
 [(BRA) Set up a default description for withholding tax, interest, and fine payments](bra-set-up-a-default-description-for-withholding-tax-interest-and-fine-payments.md)
 
-[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/en-us/library/jj710413\(v=ax.60\))
+[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/library/jj710413\(v=ax.60\))
 
-[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
+[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/library/jj710455\(v=ax.60\))
 
   
 

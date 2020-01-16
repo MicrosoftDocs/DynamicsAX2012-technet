@@ -2,8 +2,9 @@
 title: (BRA) Set up project parameters
 TOCTitle: (BRA) Set up project parameters
 ms:assetid: 15ed1300-84a4-4e35-a0b4-e737209e1599
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853379(v=AX.60)
 ms:contentKeyID: 50396748
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ You can set up the default unit to use in fiscal document lines that are created
 
 [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md)
 
-[(BRA) Projects (modified form)](https://technet.microsoft.com/en-us/library/jj923389\(v=ax.60\))
+[(BRA) Projects (modified form)](https://technet.microsoft.com/library/jj923389\(v=ax.60\))
 
-[(BRA) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj937990\(v=ax.60\))
+[(BRA) Project management and accounting parameters (modified form)](https://technet.microsoft.com/library/jj937990\(v=ax.60\))
 
-[(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\))
+[(BRA) CFOP codes (form)](https://technet.microsoft.com/library/jj933522\(v=ax.60\))
 
   
 

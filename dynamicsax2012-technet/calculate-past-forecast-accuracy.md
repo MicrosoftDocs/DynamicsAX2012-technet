@@ -2,8 +2,9 @@
 title: Calculate past forecast accuracy
 TOCTitle: Calculate past forecast accuracy
 ms:assetid: da3a953f-77b2-4f2d-a08f-fc7cc8dcaa89
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715984(v=AX.60)
 ms:contentKeyID: 62200167
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

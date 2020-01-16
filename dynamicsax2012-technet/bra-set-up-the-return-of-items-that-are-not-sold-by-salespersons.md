@@ -2,8 +2,9 @@
 title: (BRA) Set up the return of items that are not sold by salespersons
 TOCTitle: (BRA) Set up the return of items that are not sold by salespersons
 ms:assetid: 7d496306-8149-4af9-9540-25750b1e92c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863726(v=AX.60)
 ms:contentKeyID: 50396409
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ Items that are not sold by a salesperson are returned. In this case, the remitta
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
   
 

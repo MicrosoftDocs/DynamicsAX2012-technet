@@ -2,8 +2,9 @@
 title: (BRA) Move products
 TOCTitle: (BRA) Move products
 ms:assetid: 7edef224-6597-49a3-8378-67fa2540e409
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710542(v=AX.60)
 ms:contentKeyID: 49384433
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

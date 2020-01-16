@@ -2,8 +2,9 @@
 title: Appointment scheduling
 TOCTitle: Appointment scheduling
 ms:assetid: c97bdd0c-fd79-4249-bde9-404b6edddb61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553200(v=AX.60)
 ms:contentKeyID: 62200158
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

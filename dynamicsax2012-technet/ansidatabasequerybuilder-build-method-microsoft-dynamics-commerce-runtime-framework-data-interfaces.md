@@ -1,9 +1,10 @@
-﻿---
+---
 title: AnsiDatabaseQueryBuilder.Build Method  (Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces)
 TOCTitle: Build Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.Build(Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.build(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.build(v=AX.60)
 ms:contentKeyID: 65319312
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ virtual String^ Build(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 Final SQL statement.  
 
 #### Implements

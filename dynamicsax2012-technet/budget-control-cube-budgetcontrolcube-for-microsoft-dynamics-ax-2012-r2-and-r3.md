@@ -2,8 +2,9 @@
 title: Budget control cube (BudgetControlCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Budget control cube (BudgetControlCube)
 ms:assetid: 644eb8b0-ee0c-4723-9bce-0fd2315cffef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710392(v=AX.60)
 ms:contentKeyID: 49384283
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

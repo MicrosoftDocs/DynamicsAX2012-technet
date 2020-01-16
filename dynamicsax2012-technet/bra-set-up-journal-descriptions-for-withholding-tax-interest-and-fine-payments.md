@@ -2,8 +2,9 @@
 title: (BRA) Set up journal descriptions for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Set up journal descriptions for withholding tax, interest, and fine payments
 ms:assetid: 5ce01e29-6dc7-4299-a9e3-2268155a386f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710514(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710514(v=AX.60)
 ms:contentKeyID: 49384407
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Approve time and attendance registrations
 TOCTitle: Approve time and attendance registrations
 ms:assetid: 09c79081-edec-4e3a-a7ee-eb0d5c239467
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569735(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569735(v=AX.60)
 ms:contentKeyID: 49384093
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ The approval workflow is an automatic approval process. All registrations are va
 
 4.  Click **Update** and **Approve**.
 
-5.  Start the batch job. See [Approve registrations (class form)](https://technet.microsoft.com/en-us/library/aa551722\(v=ax.60\)) regarding how to create a batch job.
+5.  Start the batch job. See [Approve registrations (class form)](https://technet.microsoft.com/library/aa551722\(v=ax.60\)) regarding how to create a batch job.
 
 ## Approve registrations for all workers in an approval group
 

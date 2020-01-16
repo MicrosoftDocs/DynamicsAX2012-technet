@@ -2,8 +2,9 @@
 title: (BRA) About import fiscal documents
 TOCTitle: (BRA) About import fiscal documents
 ms:assetid: c7c4d6ca-8ce5-4e37-acd1-771e9f33ed79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856146(v=AX.60)
 ms:contentKeyID: 50406984
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

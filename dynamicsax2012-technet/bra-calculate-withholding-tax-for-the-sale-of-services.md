@@ -2,8 +2,9 @@
 title: (BRA) Calculate withholding tax for the sale of services
 TOCTitle: (BRA) Calculate withholding tax for the sale of services
 ms:assetid: a1e62480-cbc8-49bd-92b1-81a3b5769b43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126105(v=AX.60)
 ms:contentKeyID: 52075263
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,13 +56,13 @@ Use the following procedures to calculate the withholding tax transactions when 
 
 5.  On the **Sell** tab, in the **Generate** group, click **Confirm** to confirm the sales order.
 
-6.  On the **Invoice** tab, click **Invoice** to post the customer invoice. For more information, see [(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\)) and [Key tasks: Customer invoices](key-tasks-customer-invoices.md).
+6.  On the **Invoice** tab, click **Invoice** to post the customer invoice. For more information, see [(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\)) and [Key tasks: Customer invoices](key-tasks-customer-invoices.md).
 
 ## Calculate withholding tax for service sales
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**. Create a payment journal, and then click **Lines** to open the **Journal voucher** form.
 
-2.  In the **Account** field select the customer account that is updated with the withholding tax for services. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the customer in the **Customers** form. For more information, see [(BRA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933499\(v=ax.60\)).
+2.  In the **Account** field select the customer account that is updated with the withholding tax for services. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the customer in the **Customers** form. For more information, see [(BRA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj933499\(v=ax.60\)).
 
 3.  Click **Functions** \> **Settlement**
 

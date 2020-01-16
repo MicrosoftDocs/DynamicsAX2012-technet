@@ -2,8 +2,9 @@
 title: (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails
 TOCTitle: (BRA) Import and verify NF-e XML documents and DANFE that you receive in emails
 ms:assetid: 40e55405-0d7f-4026-8f58-46cd618c1d80
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527707(v=AX.60)
 ms:contentKeyID: 59626279
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

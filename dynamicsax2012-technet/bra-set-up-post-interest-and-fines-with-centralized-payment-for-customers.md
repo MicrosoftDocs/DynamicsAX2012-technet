@@ -2,8 +2,9 @@
 title: (BRA) Set up post interest and fines with centralized payment for customers
 TOCTitle: (BRA) Set up post interest and fines with centralized payment for customers
 ms:assetid: b92a4289-4f44-4824-bde8-c4bd24f5e585
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710603(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710603(v=AX.60)
 ms:contentKeyID: 49384494
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(BRA) Intercompany accounting (modified form)](https://technet.microsoft.com/en-us/library/jj710429\(v=ax.60\))
+[(BRA) Intercompany accounting (modified form)](https://technet.microsoft.com/library/jj710429\(v=ax.60\))
 
 [(BRA) Set up interest and fines for customer payments](bra-set-up-interest-and-fines-for-customer-payments.md)
 

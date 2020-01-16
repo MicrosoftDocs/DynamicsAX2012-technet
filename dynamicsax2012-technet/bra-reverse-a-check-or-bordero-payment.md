@@ -2,8 +2,9 @@
 title: (BRA) Reverse a check or Bordero payment
 TOCTitle: (BRA) Reverse a check or Bordero payment
 ms:assetid: 1a578448-2f88-4e93-81f9-41e36125ac2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910964(v=AX.60)
 ms:contentKeyID: 53382659
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You can reverse a check or Bordero payment. When you reverse a payment, the tran
     
 
     > [!NOTE]
-    > <P>You must specify the reason code if you selected the <STRONG>Require reasons for payment reversals</STRONG> check box in the <STRONG>Cash and bank management parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</A>.</P>
+    > <P>You must specify the reason code if you selected the <STRONG>Require reasons for payment reversals</STRONG> check box in the <STRONG>Cash and bank management parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</A>.</P>
 
 
 
@@ -63,7 +64,7 @@ You can reverse a check or Bordero payment. When you reverse a payment, the tran
 
 ## See also
 
-[(BRA) Payment reversals (modified form)](https://technet.microsoft.com/en-us/library/jj923375\(v=ax.60\))
+[(BRA) Payment reversals (modified form)](https://technet.microsoft.com/library/jj923375\(v=ax.60\))
 
 [Reverse a posted check](reverse-a-posted-check.md)
 

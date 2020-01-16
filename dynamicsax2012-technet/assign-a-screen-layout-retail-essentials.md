@@ -2,8 +2,9 @@
 title: Assign a screen layout (Retail essentials)
 TOCTitle: Assign a screen layout (Retail essentials)
 ms:assetid: bc2f3e42-d68e-49f3-9ea4-99d8de13804d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736940(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736940(v=AX.60)
 ms:contentKeyID: 62200417
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

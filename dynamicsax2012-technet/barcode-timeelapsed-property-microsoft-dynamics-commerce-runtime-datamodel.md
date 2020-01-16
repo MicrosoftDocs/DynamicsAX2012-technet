@@ -1,9 +1,10 @@
-﻿---
+---
 title: Barcode.TimeElapsed Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TimeElapsed Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Barcode.TimeElapsed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.barcode.timeelapsed(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.barcode.timeelapsed(v=AX.60)
 ms:contentKeyID: 62213724
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property TimeSpan TimeElapsed {
 
 #### Property Value
 
-Type: [System.TimeSpan](https://technet.microsoft.com/en-us/library/269ew577\(v=ax.60\))  
+Type: [System.TimeSpan](https://technet.microsoft.com/library/269ew577\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (BRA) Post a sales delivery slip
 TOCTitle: (BRA) Post a sales delivery slip
 ms:assetid: b717f74d-6cf3-4da3-8ef5-9cfd82eeec5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863735(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863735(v=AX.60)
 ms:contentKeyID: 50396418
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -97,9 +98,9 @@ You can post a delivery slip for a sales order that has multiple sales order lin
 
 ## See also
 
-[(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
+[(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\))
 
-[(BRA) Fiscal reference (form)](https://technet.microsoft.com/en-us/library/jj710558\(v=ax.60\))
+[(BRA) Fiscal reference (form)](https://technet.microsoft.com/library/jj710558\(v=ax.60\))
 
   
 

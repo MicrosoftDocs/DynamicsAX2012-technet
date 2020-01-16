@@ -2,8 +2,9 @@
 title: (BEL) Belgian sales tax reporting report (TaxReport_BE)
 TOCTitle: (BEL) Belgian sales tax reporting report (TaxReport_BE)
 ms:assetid: 93cfa6f6-72b1-4731-856a-83d904622d22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527154(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527154(v=AX.60)
 ms:contentKeyID: 37823205
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -97,9 +98,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(BEL) Additional sales tax report boxes (form)](https://technet.microsoft.com/en-us/library/aa599851\(v=ax.60\))
+[(BEL) Additional sales tax report boxes (form)](https://technet.microsoft.com/library/aa599851\(v=ax.60\))
 
-[Sales tax settlement periods (form)](https://technet.microsoft.com/en-us/library/aa633944\(v=ax.60\))
+[Sales tax settlement periods (form)](https://technet.microsoft.com/library/aa633944\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Billing rules configuration key (PSAContractLine)
 TOCTitle: Billing rules configuration key (PSAContractLine)
 ms:assetid: 2c055d74-4ffd-4627-9fbe-0d29c7e82a55
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500150(v=AX.60)
 ms:contentKeyID: 37820180
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Billing rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227642(v=ax.60)">Billing rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227642(v=ax.60)">Billing rules (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +74,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

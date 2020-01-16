@@ -2,8 +2,9 @@
 title: Calculate interest and create interest notes
 TOCTitle: Calculate interest and create interest notes
 ms:assetid: a6ffdfbe-c0b2-4c3e-8af0-952ed350c785
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243052(v=AX.60)
 ms:contentKeyID: 36058873
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ The following setup steps can be omitted if they have already been completed:
     
       - On the **Payments** tab, select an account in the **Ledger posting credit** field. This identifies the general ledger account where interest payments will be posted.
 
-2.  Open the **Customer posting profiles** form and create a customer posting profile that can be used to create interest notes that have a fee but no interest. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\)).
+2.  Open the **Customer posting profiles** form and create a customer posting profile that can be used to create interest notes that have a fee but no interest. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\)).
     
     Include the following details:
     
@@ -85,7 +86,7 @@ The following setup steps can be omitted if they have already been completed:
 
 ## Create free text invoices
 
-Use the **Free text invoice** form to create free text invoices for the customers to whom you want to charge a fee. Post the free text invoices that you create. For more information, see [Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\)).
+Use the **Free text invoice** form to create free text invoices for the customers to whom you want to charge a fee. Post the free text invoices that you create. For more information, see [Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\)).
 
 ## Create interest notes that have fees but no interest
 
@@ -109,7 +110,7 @@ Use the **Free text invoice** form to create free text invoices for the customer
 
 2.  Click **Print** to print the interest notes. Interest notes must be printed before they can be posted.
 
-3.  Click **Post** to post the interest notes. For more information, see [Interest note (form)](https://technet.microsoft.com/en-us/library/aa549918\(v=ax.60\)).
+3.  Click **Post** to post the interest notes. For more information, see [Interest note (form)](https://technet.microsoft.com/library/aa549918\(v=ax.60\)).
 
 ## Calculate interest without creating interest notes
 
@@ -161,7 +162,7 @@ Use this procedure to create interest notes.
     
     Click **Accounts receivable** \> **Common** \> **Customer invoices** \> **Open customer invoices**. On the **Action Pane**, on the **Open customer invoice** tab, click **New interest note**, and then select **Customer** or **Invoice**.
 
-2.  Enter values in the fields in the **Parameters** section to define the transaction type and the due date limits to create interest note proposal lines for. You can also indicate a round-off value, and specify a posting profile or customer posting profile to determine the interest rate code. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/en-us/library/aa600712\(v=ax.60\)).
+2.  Enter values in the fields in the **Parameters** section to define the transaction type and the due date limits to create interest note proposal lines for. You can also indicate a round-off value, and specify a posting profile or customer posting profile to determine the interest rate code. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/library/aa600712\(v=ax.60\)).
 
 3.  Click **OK**. The lines that fulfill the criteria that you selected in the **Interest calculation** form are created as interest note proposal lines in the **Interest note** form.
 
@@ -197,7 +198,7 @@ You can print a payment slip to include the invoice number as the payment ID. To
 
 ## See also
 
-[Interest calculation (class form)](https://technet.microsoft.com/en-us/library/aa600712\(v=ax.60\))
+[Interest calculation (class form)](https://technet.microsoft.com/library/aa600712\(v=ax.60\))
 
 [Set up interest calculations](set-up-interest-calculations.md)
 

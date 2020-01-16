@@ -2,8 +2,9 @@
 title: (BRA) Set up fiscal books parameters per state
 TOCTitle: (BRA) Set up fiscal books parameters per state
 ms:assetid: 44485ac4-7ad3-430a-b594-a3d688c55a50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305866(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305866(v=AX.60)
 ms:contentKeyID: 54912966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

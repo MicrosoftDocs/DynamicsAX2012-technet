@@ -2,8 +2,9 @@
 title: (BRA) Remit and return electronic payments
 TOCTitle: (BRA) Remit and return electronic payments
 ms:assetid: d1075b9e-1ebf-4755-ad7f-d64dd177b1b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663933(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663933(v=AX.60)
 ms:contentKeyID: 49384518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

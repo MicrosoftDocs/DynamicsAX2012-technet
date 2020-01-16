@@ -2,8 +2,9 @@
 title: (BRA) Set up an electronic payment process for a complex file structure
 TOCTitle: (BRA) Set up an electronic payment process for a complex file structure
 ms:assetid: 19e803b1-7f74-4c42-8df8-268fb8ec7b87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730965(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730965(v=AX.60)
 ms:contentKeyID: 49675195
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ You can use a complex file structure to process an electronic payment remittance
 
 ## Set up payment types
 
-Use this procedure to create codes for the different types of electronic payments that are used by your bank. The codes must be created based on the payment types that are specified by the bank that you work with. For more information, see [(BRA) Payment types (form)](https://technet.microsoft.com/en-us/library/jj730967\(v=ax.60\)).
+Use this procedure to create codes for the different types of electronic payments that are used by your bank. The codes must be created based on the payment types that are specified by the bank that you work with. For more information, see [(BRA) Payment types (form)](https://technet.microsoft.com/library/jj730967\(v=ax.60\)).
 
 1.  Click **Cash and bank management** \> **Setup** \> **Electronic payment** \> **Payment types**.
 
@@ -36,7 +37,7 @@ Use this procedure to create codes for the different types of electronic payment
 
 ## Set up payment ways
 
-Use this procedure to create codes for the different ways your bank processes electronic payments. The codes must be created based on the payment ways that are specified by the bank that you work with. For more information, see the [(BRA) Payment ways (form)](https://technet.microsoft.com/en-us/library/jj730972\(v=ax.60\)).
+Use this procedure to create codes for the different ways your bank processes electronic payments. The codes must be created based on the payment ways that are specified by the bank that you work with. For more information, see the [(BRA) Payment ways (form)](https://technet.microsoft.com/library/jj730972\(v=ax.60\)).
 
 1.  Click **Cash and bank management** \> **Setup** \> **Electronic payment** \> **Payment ways**.
 
@@ -48,7 +49,7 @@ Use this procedure to create codes for the different ways your bank processes el
 
 ## Set up segments
 
-Use this procedure to create segments that a bank uses to generate the electronic payment files. The segments must be created based on the segments that are specified by the bank that you work with. A segment determines what information is required by bank to perform a payment. You must create a layout group in the **Configurator layout groups** form before you can use the segments. For more information, see [(BRA) Segments (form)](https://technet.microsoft.com/en-us/library/jj730973\(v=ax.60\)).
+Use this procedure to create segments that a bank uses to generate the electronic payment files. The segments must be created based on the segments that are specified by the bank that you work with. A segment determines what information is required by bank to perform a payment. You must create a layout group in the **Configurator layout groups** form before you can use the segments. For more information, see [(BRA) Segments (form)](https://technet.microsoft.com/library/jj730973\(v=ax.60\)).
 
 1.  Click **Cash and bank management** \> **Setup** \> **Electronic payment** \> **Segments**.
 

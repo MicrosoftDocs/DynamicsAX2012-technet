@@ -2,8 +2,9 @@
 title: (BRA) Set up the configurator definition group
 TOCTitle: (BRA) Set up the configurator definition group
 ms:assetid: fa4f9d51-23b0-4667-bb82-21cebd5dd4b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730983(v=AX.60)
 ms:contentKeyID: 49675212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,7 +77,7 @@ You can create a configurator definition group, and then use the Definition Grou
 
 
 
-6.  Follow the instructions in the wizard to create a configurator definition group. For more information, see [(BRA) Definition group wizard (form)](https://technet.microsoft.com/en-us/library/jj863740\(v=ax.60\))
+6.  Follow the instructions in the wizard to create a configurator definition group. For more information, see [(BRA) Definition group wizard (form)](https://technet.microsoft.com/library/jj863740\(v=ax.60\))
 
 ## See also
 
@@ -84,7 +85,7 @@ You can create a configurator definition group, and then use the Definition Grou
 
 [(BRA) Set up fiscal document types](bra-set-up-fiscal-document-types.md)
 
-[(BRA) Configurator definition groups (form)](https://technet.microsoft.com/en-us/library/jj730968\(v=ax.60\))
+[(BRA) Configurator definition groups (form)](https://technet.microsoft.com/library/jj730968\(v=ax.60\))
 
   
 

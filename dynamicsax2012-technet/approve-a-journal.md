@@ -2,8 +2,9 @@
 title: Approve a journal
 TOCTitle: Approve a journal
 ms:assetid: 37784aa9-378e-4a18-a82d-3eb364937835
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570130(v=AX.60)
 ms:contentKeyID: 36056607
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ A member of the user group that was designated in the **Journal names** form can
 
 [Post and print a journal or journal lines](post-and-print-a-journal-or-journal-lines.md)
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
   
 

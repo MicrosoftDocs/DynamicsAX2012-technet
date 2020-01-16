@@ -2,8 +2,9 @@
 title: Approve or reject absences
 TOCTitle: Approve or reject absences
 ms:assetid: 14cfd517-1c47-4bdc-8d9e-6cebb02a2d66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496620(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496620(v=AX.60)
 ms:contentKeyID: 36966698
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,13 +64,13 @@ You can approve or reject only absence requests that have a status of **Transfer
 
 [Key task: Set up absence information](key-task-set-up-absence-information.md)
 
-[Approve absence requests (form)](https://technet.microsoft.com/en-us/library/aa500373\(v=ax.60\))
+[Approve absence requests (form)](https://technet.microsoft.com/library/aa500373\(v=ax.60\))
 
-[Request absence approval (form)](https://technet.microsoft.com/en-us/library/aa586020\(v=ax.60\))
+[Request absence approval (form)](https://technet.microsoft.com/library/aa586020\(v=ax.60\))
 
-[Request future absences (form)](https://technet.microsoft.com/en-us/library/aa556621\(v=ax.60\))
+[Request future absences (form)](https://technet.microsoft.com/library/aa556621\(v=ax.60\))
 
-[Register absences for multiple workers (form)](https://technet.microsoft.com/en-us/library/aa554509\(v=ax.60\))
+[Register absences for multiple workers (form)](https://technet.microsoft.com/library/aa554509\(v=ax.60\))
 
   
 

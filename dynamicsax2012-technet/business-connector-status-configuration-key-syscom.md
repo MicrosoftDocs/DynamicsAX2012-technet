@@ -2,8 +2,9 @@
 title: Business Connector Status configuration key (SysCOM)
 TOCTitle: Business Connector Status configuration key (SysCOM)
 ms:assetid: 92f38b1b-ac51-4ab2-8e80-959e9d08f086
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa616648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa616648(v=AX.60)
 ms:contentKeyID: 43876666
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

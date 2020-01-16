@@ -2,8 +2,9 @@
 title: (BRA) CFOP code (upgrade)
 TOCTitle: (BRA) CFOP code (upgrade)
 ms:assetid: 81bb969d-d11d-4421-bec1-1581ad227339
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714194(v=AX.60)
 ms:contentKeyID: 49651303
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -103,7 +104,7 @@ Use the following procedure to select unique CFOP codes to upgrade when multiple
 
 ## See also
 
-[(BRA) CFOP code (upgrade) (form)](https://technet.microsoft.com/en-us/library/jj713620\(v=ax.60\))
+[(BRA) CFOP code (upgrade) (form)](https://technet.microsoft.com/library/jj713620\(v=ax.60\))
 
   
 

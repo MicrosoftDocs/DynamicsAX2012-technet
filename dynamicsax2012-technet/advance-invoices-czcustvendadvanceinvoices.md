@@ -2,8 +2,9 @@
 title: Advance invoices (CzCustVendAdvanceInvoices)
 TOCTitle: Advance invoices (CzCustVendAdvanceInvoices)
 ms:assetid: 9792ed28-9ebf-48cc-9068-f5cbb9e88ec1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783117(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783117(v=AX.60)
 ms:contentKeyID: 62830464
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -35,9 +36,9 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>All advance invoices</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677585(v=ax.60)">(CZE) Advance invoice (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj664355(v=ax.60)">(HUN) Advance invoice (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj678209(v=ax.60)">(POL) Advance invoice (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677585(v=ax.60)">(CZE) Advance invoice (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj664355(v=ax.60)">(HUN) Advance invoice (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj678209(v=ax.60)">(POL) Advance invoice (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -59,15 +60,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>All advance invoices</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677585(v=ax.60)">(CZE) Advance invoice (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj664355(v=ax.60)">(HUN) Advance invoice (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj678209(v=ax.60)">(POL) Advance invoice (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677585(v=ax.60)">(CZE) Advance invoice (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj664355(v=ax.60)">(HUN) Advance invoice (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj678209(v=ax.60)">(POL) Advance invoice (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Linking prepayments to advance invoices</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677630(v=ax.60)">(CZE) Linking prepayments to advance invoices (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj664420(v=ax.60)">(HUN) Linking prepayments to advance invoices (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj678240(v=ax.60)">(POL) Linking prepayment to advance invoices (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677630(v=ax.60)">(CZE) Linking prepayments to advance invoices (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj664420(v=ax.60)">(HUN) Linking prepayments to advance invoices (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj678240(v=ax.60)">(POL) Linking prepayment to advance invoices (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Select free text invoice for advance invoice</strong></p></td>
@@ -75,7 +76,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Tax documents</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj721660(v=ax.60)">(CZE) Tax documents (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj721660(v=ax.60)">(CZE) Tax documents (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Create a prepayment proposal from advance invoices</strong></p></td>
@@ -117,7 +118,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

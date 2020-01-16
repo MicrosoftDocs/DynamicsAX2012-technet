@@ -2,8 +2,9 @@
 title: An Introduction to Client Surrogate Keys in Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: An Introduction to Client Surrogate Keys in Microsoft Dynamics AX 2012
 ms:assetid: aa0ff132-d509-45cd-ba9d-e70db1addfa2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ860380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ860380(v=AX.60)
 ms:contentKeyID: 50470852
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: AddressDisplay.StreetNumber Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: StreetNumber Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplay.StreetNumber
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplay.streetnumber(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplay.streetnumber(v=AX.60)
 ms:contentKeyID: 62206252
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (BRA) Generate fiscal documents for a load
 TOCTitle: (BRA) Generate fiscal documents for a load
 ms:assetid: 0953439a-6579-4904-a251-7d62ab3c6535
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716007(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716007(v=AX.60)
 ms:contentKeyID: 62200230
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -118,7 +119,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><ul>
 <li><p>Create a fiscal establishment group and a fiscal establishment. For more information, see <a href="bra-create-a-fiscal-establishment-group.md">(BRA) Create a fiscal establishment group</a> and <a href="bra-create-a-fiscal-establishment.md">(BRA) Create a fiscal establishment</a>.</p></li>
 <li><p>Set up a fiscal document type, and then assign it to customers, vendors, or inventory items. For more information, see <a href="bra-set-up-fiscal-document-types.md">(BRA) Set up fiscal document types</a> and <a href="bra-assign-fiscal-document-types-for-customers-or-vendors.md">(BRA) Assign fiscal document types for customers or vendors</a>.</p></li>
-<li><p>Set up a transportation management shipping carrier that contains the same vendor as the one that you specified in the <strong>Vendor account</strong> field in the <strong>Carrier</strong> form in the Sales and Marketing module. For more information, see <a href="set-up-shipping-carriers-and-carrier-groups.md">Set up shipping carriers and carrier groups</a> and <a href="https://technet.microsoft.com/en-us/library/jj710592(v=ax.60)">(BRA) Carrier (modified form)</a>.</p></li>
+<li><p>Set up a transportation management shipping carrier that contains the same vendor as the one that you specified in the <strong>Vendor account</strong> field in the <strong>Carrier</strong> form in the Sales and Marketing module. For more information, see <a href="set-up-shipping-carriers-and-carrier-groups.md">Set up shipping carriers and carrier groups</a> and <a href="https://technet.microsoft.com/library/jj710592(v=ax.60)">(BRA) Carrier (modified form)</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -187,13 +188,13 @@ To perform this task, follow these steps:
 
 4.  Select the **Posting** check box to post the sales orders for the load to generate fiscal documents.
 
-5.  Specify additional details, if required. For more information, see [(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\)).
+5.  Specify additional details, if required. For more information, see [(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\)).
 
 6.  Click **OK** to post the sales orders for the load and generate the fiscal documents.
 
 ## Related tasks
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
 [(BRA) Create and post a sales order](bra-create-and-post-a-sales-order.md)
 

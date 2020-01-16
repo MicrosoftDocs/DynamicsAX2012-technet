@@ -2,8 +2,9 @@
 title: Administering Microsoft Dynamics AX by using Windows PowerShell
 TOCTitle: Administering Microsoft Dynamics AX by using Windows PowerShell
 ms:assetid: 96e9ae2f-447a-426e-b77f-95636ddb9f15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272856(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272856(v=AX.60)
 ms:contentKeyID: 36584380
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

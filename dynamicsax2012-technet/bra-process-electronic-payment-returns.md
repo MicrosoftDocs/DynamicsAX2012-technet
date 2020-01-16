@@ -2,8 +2,9 @@
 title: (BRA) Process electronic payment returns
 TOCTitle: (BRA) Process electronic payment returns
 ms:assetid: f081271e-fcd2-4ea0-9a71-d330ceb5cb35
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730979(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730979(v=AX.60)
 ms:contentKeyID: 49675209
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ You can make electronic payments by transferring files between a legal entity an
 
   - You can import a return file from a bank. The return file contains information about the acceptance of an invoice together with the payment number that is provided by the bank. Alternatively, the return file contains information about the payments that are received from a customer or paid to a vendor.
 
-Use this procedure to import a return file into Microsoft Dynamics AX. When you import a return file, the status of the payments is updated in the **Payment status** field in the **Payment transfers** form. The new status is based on the relationship between the bank return occurrence codes in the return file and the return occurrence codes in Microsoft Dynamics AX. For more information, see [(BRA) Return occurrence codes (form)](https://technet.microsoft.com/en-us/library/jj730966\(v=ax.60\)). When you post the payments that the return file is imported for, only payments that have a status of **Approved** are posted to the payment journal.
+Use this procedure to import a return file into Microsoft Dynamics AX. When you import a return file, the status of the payments is updated in the **Payment status** field in the **Payment transfers** form. The new status is based on the relationship between the bank return occurrence codes in the return file and the return occurrence codes in Microsoft Dynamics AX. For more information, see [(BRA) Return occurrence codes (form)](https://technet.microsoft.com/library/jj730966\(v=ax.60\)). When you post the payments that the return file is imported for, only payments that have a status of **Approved** are posted to the payment journal.
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment transfer**.
     

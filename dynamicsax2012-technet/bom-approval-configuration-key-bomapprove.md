@@ -2,8 +2,9 @@
 title: BOM approval configuration key (BOMApprove)
 TOCTitle: BOM approval configuration key (BOMApprove)
 ms:assetid: c4127cd3-c039-4536-b205-8e612646f941
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa590611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa590611(v=AX.60)
 ms:contentKeyID: 36997771
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

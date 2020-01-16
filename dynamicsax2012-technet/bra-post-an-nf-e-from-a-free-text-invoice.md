@@ -2,8 +2,9 @@
 title: (BRA) Post an NF-e from a free text invoice
 TOCTitle: (BRA) Post an NF-e from a free text invoice
 ms:assetid: 37f3d890-d463-4702-84af-965196bc9832
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ915359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ915359(v=AX.60)
 ms:contentKeyID: 50874340
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,9 +69,9 @@ Use the following procedure to post an NF-e from a free text invoice.
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj933514\(v=ax.60\))
+[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/library/jj933514\(v=ax.60\))
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
   
 

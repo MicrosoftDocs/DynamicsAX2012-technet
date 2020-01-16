@@ -1,9 +1,10 @@
-﻿---
+---
 title: AXHtmlCssClasses.Anchor Field (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: Anchor Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXHtmlCssClasses.Anchor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.axhtmlcssclasses.anchor(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axhtmlcssclasses.anchor(v=AX.60)
 ms:contentKeyID: 62202630
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

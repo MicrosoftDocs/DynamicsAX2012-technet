@@ -2,8 +2,9 @@
 title: Apply a custom control to the POS register
 TOCTitle: Apply a custom control to the POS register
 ms:assetid: ab80594f-e86e-48b5-b325-923ce081aee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741453(v=AX.60)
 ms:contentKeyID: 62219730
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

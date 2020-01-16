@@ -2,8 +2,9 @@
 title: Balance control accounts report (LedgerBalanceControl)
 TOCTitle: Balance control accounts report (LedgerBalanceControl)
 ms:assetid: 84136264-4d1c-4e8b-bed0-9ce222adda7d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527785(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527785(v=AX.60)
 ms:contentKeyID: 37832015
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
