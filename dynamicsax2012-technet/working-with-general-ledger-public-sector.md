@@ -2,8 +2,9 @@
 title: Working with General ledger (Public sector)
 TOCTitle: Working with General ledger (Public sector)
 ms:assetid: de0d0923-e403-4ddd-881d-3e42a274dde4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208593(v=AX.60)
 ms:contentKeyID: 36056380
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

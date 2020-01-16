@@ -2,8 +2,9 @@
 title: Working with basic budgeting and budget control (Public sector)
 TOCTitle: Working with basic budgeting and budget control (Public sector)
 ms:assetid: e888c6fa-e753-4645-a3a1-87d80945adef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208598(v=AX.60)
 ms:contentKeyID: 36056385
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 audience: Application User

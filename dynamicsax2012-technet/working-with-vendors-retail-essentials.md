@@ -2,8 +2,9 @@
 title: Working with vendors (Retail essentials)
 TOCTitle: Working with vendors (Retail essentials)
 ms:assetid: d6836598-6d1b-47e3-a770-f2e612078b33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736965(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736965(v=AX.60)
 ms:contentKeyID: 62200442
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ When you create a vendor account, you enter information about the vendor in a ve
 
 6.  In the **Group** field, select the vendor group that applies to the vendor.
 
-7.  Enter values on the other FastTabs in the **Vendors** form as appropriate. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+7.  Enter values on the other FastTabs in the **Vendors** form as appropriate. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 ## Update a vendor record
 
@@ -55,7 +56,7 @@ When you create a vendor account, you enter information about the vendor in a ve
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: .NET Framework Classes for Microsoft Dynamics AX Commerce Runtime
 TOCTitle: Commerce Runtime Reference
 ms:assetid: 977e5fa7-6d1a-4a80-a38f-56123020c508
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992752(v=AX.60)
 ms:contentKeyID: 51739438
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -24,7 +25,7 @@ This section contains reference documentation for the .NET Framework classes tha
 
 [Commerce Runtime](../commerce-runtime.md)
 
-[Reference](https://technet.microsoft.com/en-us/library/aa626373\(v=ax.60\))
+[Reference](https://technet.microsoft.com/library/aa626373\(v=ax.60\))
 
   
 

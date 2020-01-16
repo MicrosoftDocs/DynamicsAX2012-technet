@@ -2,8 +2,9 @@
 title: Working with batch orders and consolidated batch orders
 TOCTitle: Working with batch orders and consolidated batch orders
 ms:assetid: be01a4ab-737c-4432-8888-bc1d33b31fd7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352344(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352344(v=AX.60)
 ms:contentKeyID: 36687975
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

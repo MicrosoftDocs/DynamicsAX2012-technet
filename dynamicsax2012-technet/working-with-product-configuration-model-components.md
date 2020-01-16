@@ -2,8 +2,9 @@
 title: Working with product configuration model components
 TOCTitle: Working with product configuration model components
 ms:assetid: 4a43fa3c-a528-499c-8840-80f631a5c90b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh351819(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh351819(v=AX.60)
 ms:contentKeyID: 36676385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

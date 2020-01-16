@@ -2,8 +2,9 @@
 title: Working with sites and warehouses (Retail essentials)
 TOCTitle: Working with sites and warehouses (Retail essentials)
 ms:assetid: d5bc4e89-8568-4c02-8863-fca16fdacabd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736962(v=AX.60)
 ms:contentKeyID: 62200439
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
@@ -63,7 +64,7 @@ To create a warehouse and then assign it to a site, follow these steps:
 
 9.  On the **Retail** FastTab, set up the default warehouse information that is entered for retail product inventory. For example, you can specify the warehouse that is added automatically for returned products. You can overwrite this default information for specific transactions.
 
-10. For information about the other fields in the **Warehouses** form, see [Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\)).
+10. For information about the other fields in the **Warehouses** form, see [Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\)).
 
 ## See also
 

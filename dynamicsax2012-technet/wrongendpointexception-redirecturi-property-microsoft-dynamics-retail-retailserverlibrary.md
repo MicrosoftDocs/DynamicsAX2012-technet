@@ -1,9 +1,10 @@
-﻿---
+---
 title: WrongEndpointException.RedirectUri Property  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: RedirectUri Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.WrongEndpointException.RedirectUri
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.wrongendpointexception.redirecturi(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.wrongendpointexception.redirecturi(v=AX.60)
 ms:contentKeyID: 62202531
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Uri^ RedirectUri {
 
 #### Property Value
 
-Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
-Returns [Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\)).  
+Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
+Returns [Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\)).  
 
 ## See Also
 

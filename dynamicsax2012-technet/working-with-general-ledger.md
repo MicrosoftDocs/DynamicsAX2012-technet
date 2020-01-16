@@ -2,8 +2,9 @@
 title: Working with General ledger
 TOCTitle: Working with General ledger
 ms:assetid: d514d7a0-a9c9-4685-ae2b-d486830e728f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213697(v=AX.60)
 ms:contentKeyID: 36059525
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

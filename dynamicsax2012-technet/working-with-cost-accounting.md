@@ -2,8 +2,9 @@
 title: Working with cost accounting
 TOCTitle: Working with cost accounting
 ms:assetid: bdf0210a-dd21-4559-8e52-5d0d943a32ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242782(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242782(v=AX.60)
 ms:contentKeyID: 36059162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

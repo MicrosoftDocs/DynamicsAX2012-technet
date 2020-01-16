@@ -2,8 +2,9 @@
 title: Working with shelf life
 TOCTitle: Working with shelf life
 ms:assetid: 3014b480-62db-4c7b-be28-55feec7a5f6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352194(v=AX.60)
 ms:contentKeyID: 36687827
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

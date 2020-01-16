@@ -2,8 +2,9 @@
 title: Working with batch order sequencing
 TOCTitle: Working with batch order sequencing
 ms:assetid: 7ffd6ab2-3bf4-4528-ae8b-bb2cb400559c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838741(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838741(v=AX.60)
 ms:contentKeyID: 50120624
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

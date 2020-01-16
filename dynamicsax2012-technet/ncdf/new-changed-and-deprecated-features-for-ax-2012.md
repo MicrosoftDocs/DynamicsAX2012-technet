@@ -2,8 +2,9 @@
 title: New, Changed, and Deprecated Features for AX 2012 overview
 TOCTitle: New, Changed, and Deprecated Features for AX 2012
 ms:assetid: af686153-4c0a-458e-b288-60627d5a41d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527205(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527205(v=AX.60)
 ms:contentKeyID: 59623334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

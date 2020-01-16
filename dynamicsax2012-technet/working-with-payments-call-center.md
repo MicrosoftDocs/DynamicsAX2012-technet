@@ -2,8 +2,9 @@
 title: Working with payments (Call center)
 TOCTitle: Working with payments (Call center)
 ms:assetid: 91792361-dc83-4988-85a0-dd25a6124102
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497802(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497802(v=AX.60)
 ms:contentKeyID: 62200118
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Working with customers and customer groups (Retail essentials)
 TOCTitle: Working with customers and customer groups (Retail essentials)
 ms:assetid: 5bd24cb8-bf7b-463f-b91b-a0369336753d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736886(v=AX.60)
 ms:contentKeyID: 62200364
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ Use this procedure to create a customer record in Retail essentials.
 
 7.  Click **Customer account** to add more information to the customer record, or click **Customer account** to close the customer record. You can add more information to the record later.
     
-    If you save the information that you entered and open the customer record to add more details, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)) for more information.
+    If you save the information that you entered and open the customer record to add more details, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)) for more information.
 
 ## Create a customer group
 
@@ -56,7 +57,7 @@ Use this procedure to create one or more customer groups.
 
 4.  In the **Terms of payment** field, select the terms of payment that apply to customers who are assigned to the selected customer group. Terms of payment are used to manage your customer accounts. We strongly recommend that you select terms of payments for customer groups.
     
-    For more information, see [Terms of payment (form)](https://technet.microsoft.com/en-us/library/aa588427\(v=ax.60\)).
+    For more information, see [Terms of payment (form)](https://technet.microsoft.com/library/aa588427\(v=ax.60\)).
 
 5.  In the **Settle period** field, select the standard interval between the due date for payments from customers in the selected customer group and the date on which the payments are received in your legal entity’s bank account. The due date is defined by the terms of payment. The settle period is used for liquidity calculations that are based on the cash flow forecast.
 

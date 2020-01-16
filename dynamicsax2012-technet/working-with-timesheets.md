@@ -2,8 +2,9 @@
 title: Working with timesheets
 TOCTitle: Working with timesheets
 ms:assetid: 0d47f272-834e-4313-ad9a-a622fe98099f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271451(v=AX.60)
 ms:contentKeyID: 36384083
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

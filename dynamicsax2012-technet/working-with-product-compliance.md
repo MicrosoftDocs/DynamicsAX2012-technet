@@ -2,8 +2,9 @@
 title: Working with product compliance
 TOCTitle: Working with product compliance
 ms:assetid: 4c9ec625-2d82-4a03-b1cd-9119ba9e301f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352202(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352202(v=AX.60)
 ms:contentKeyID: 36687836
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
