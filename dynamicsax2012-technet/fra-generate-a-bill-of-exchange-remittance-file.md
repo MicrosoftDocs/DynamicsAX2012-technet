@@ -2,8 +2,9 @@
 title: (FRA) Generate a bill of exchange remittance file
 TOCTitle: (FRA) Generate a bill of exchange remittance file
 ms:assetid: f6ee8359-2083-43a9-9a1c-0430acae76fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243292(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243292(v=AX.60)
 ms:contentKeyID: 36060021
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Use a **Remittance journal** to generate a bill of exchange remittance file for 
 
 12. Click **OK** to generate the bill of exchange remittance file. If the **Control report** check box is selected, a control report is printed.
 
-You can print a remittance file for customers by clicking **File** \> **Print** \> **Print…** in the **Remittance files for customers** form. For more information, see [Remittance files for customers (form)](https://technet.microsoft.com/en-us/library/aa596345\(v=ax.60\)).
+You can print a remittance file for customers by clicking **File** \> **Print** \> **Print…** in the **Remittance files for customers** form. For more information, see [Remittance files for customers (form)](https://technet.microsoft.com/library/aa596345\(v=ax.60\)).
 
 ## See also
 

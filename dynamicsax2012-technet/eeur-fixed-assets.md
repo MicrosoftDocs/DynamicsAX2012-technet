@@ -2,8 +2,9 @@
 title: (EEUR) Fixed assets
 TOCTitle: (EEUR) Fixed assets
 ms:assetid: d56caa0f-7447-4a34-98cb-c38630062923
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710769(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710769(v=AX.60)
 ms:contentKeyID: 49385166
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

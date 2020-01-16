@@ -2,8 +2,9 @@
 title: Flexible budgets
 TOCTitle: Flexible budgets
 ms:assetid: d18dcc82-d2a0-4e71-8a25-b517ee382441
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551030(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551030(v=AX.60)
 ms:contentKeyID: 36059499
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

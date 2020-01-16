@@ -2,8 +2,9 @@
 title: Finalize engineering
 TOCTitle: Finalize engineering
 ms:assetid: f1627a96-3fbb-4f34-a297-ea2a1a323171
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243275(v=AX.60)
 ms:contentKeyID: 36059930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

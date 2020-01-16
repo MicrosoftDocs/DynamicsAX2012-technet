@@ -2,8 +2,9 @@
 title: Enter a journal description in hour and fee journals
 TOCTitle: Enter a journal description in hour and fee journals
 ms:assetid: ffe8084e-34f7-47d0-bc6c-310a7efb8a66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370709(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh370709(v=AX.60)
 ms:contentKeyID: 36811445
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Journal descriptions are defined in the **Journal descriptions** form. For more 
 
 ## See also
 
-[Journal descriptions (form)](https://technet.microsoft.com/en-us/library/aa587702\(v=ax.60\))
+[Journal descriptions (form)](https://technet.microsoft.com/library/aa587702\(v=ax.60\))
 
 [Create journal descriptions](create-journal-descriptions.md)
 

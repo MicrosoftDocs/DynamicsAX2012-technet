@@ -2,8 +2,9 @@
 title: Enter vendor invoices in an invoice pool
 TOCTitle: Enter vendor invoices in an invoice pool
 ms:assetid: ae5c8ccc-d8bb-4a91-a896-e4e35853683f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498594(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498594(v=AX.60)
 ms:contentKeyID: 36058942
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ Use this procedure to enter vendor invoices. Another user will approve and post 
 
 [Post vendor invoices that are in an invoice pool](post-vendor-invoices-that-are-in-an-invoice-pool.md)
 
-[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
+[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/library/bb314782\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: 'Examples: Posting definitions (Public sector)'
 TOCTitle: 'Examples: Posting definitions (Public sector)'
 ms:assetid: 70e37c7c-84b1-4a49-a19f-7bf2fd0d4a81
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412236(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412236(v=AX.60)
 ms:contentKeyID: 36916345
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -2284,9 +2285,9 @@ In this example, any Expense account structure matches the posting definition cr
 
 [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md)
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
 [Examples: Posting definitions](examples-posting-definitions.md)
 

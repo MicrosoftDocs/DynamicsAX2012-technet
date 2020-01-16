@@ -2,8 +2,9 @@
 title: (ESP) Open transactions by method of payment report (VendTransOpen_PaymMode_ES)
 TOCTitle: (ESP) Open transactions by method of payment report (VendTransOpen_PaymMode_ES)
 ms:assetid: 8015b9d1-7ef7-4823-8404-d9cc6c8adb63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496448(v=AX.60)
 ms:contentKeyID: 37072030
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

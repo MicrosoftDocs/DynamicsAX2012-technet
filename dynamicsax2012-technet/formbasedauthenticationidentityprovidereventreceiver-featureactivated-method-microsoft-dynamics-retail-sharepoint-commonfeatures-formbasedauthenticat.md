@@ -1,9 +1,10 @@
-﻿---
+---
 title: FormBasedAuthenticationIdentityProviderEventReceiver.FeatureActivated Method  (Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.FormBasedAuthenticationIdentityProvider)
 TOCTitle: FeatureActivated Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.FormBasedAuthenticationIdentityProvider.FormBasedAuthenticationIdentityProviderEventReceiver.FeatureActivated(Microsoft.SharePoint.SPFeatureReceiverProperties)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.commonfeatures.formbasedauthenticationidentityprovider.formbasedauthenticationidentityprovidereventreceiver.featureactivated(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.formbasedauthenticationidentityprovider.formbasedauthenticationidentityprovidereventreceiver.featureactivated(v=AX.60)
 ms:contentKeyID: 62201960
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (FRA) About mandats de paiement (Public sector)
 TOCTitle: (FRA) About mandats de paiement (Public sector)
 ms:assetid: adc03bf5-593c-430e-963a-e0cd45806f83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450747(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450747(v=AX.60)
 ms:contentKeyID: 36966685
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ A group of related mandats, together with all supporting documentation, are assi
 
 ## See also
 
-[(FRA) Maintain mandats de paiement (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh450744\(v=ax.60\))
+[(FRA) Maintain mandats de paiement (form) (Public sector)](https://technet.microsoft.com/library/hh450744\(v=ax.60\))
 
 [(FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector)](fra-key-tasks-mandats-de-paiement-and-bordereaux-de-mandat-public-sector.md)
 

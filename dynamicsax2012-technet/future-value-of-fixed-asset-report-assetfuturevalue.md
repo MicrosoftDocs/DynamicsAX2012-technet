@@ -2,8 +2,9 @@
 title: Future value of fixed asset report (AssetFutureValue)
 TOCTitle: Future value of fixed asset report (AssetFutureValue)
 ms:assetid: ef632eb6-20ce-4bc4-aff9-62e385ac8aa4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620600(v=AX.60)
 ms:contentKeyID: 37832042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

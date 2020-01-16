@@ -2,8 +2,9 @@
 title: General ledger reports
 TOCTitle: General ledger reports
 ms:assetid: 59c0da77-cff4-452d-a771-1f43b9975a05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334485(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334485(v=AX.60)
 ms:contentKeyID: 36676470
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

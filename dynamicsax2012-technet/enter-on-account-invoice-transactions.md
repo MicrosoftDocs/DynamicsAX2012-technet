@@ -2,8 +2,9 @@
 title: Enter on-account invoice transactions
 TOCTitle: Enter on-account invoice transactions
 ms:assetid: c0ac38ea-e927-4f01-81ef-078d358fc77a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550672(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550672(v=AX.60)
 ms:contentKeyID: 36966738
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ In Microsoft Dynamics AX 2012 R3, you can create on-account transaction invoices
 
 [Create invoice proposals for projects with and without billing rules](create-invoice-proposals-for-projects-with-and-without-billing-rules.md)
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (FIN) Generate a Finnish Intrastat declaration
 TOCTitle: (FIN) Generate a Finnish Intrastat declaration
 ms:assetid: 984fe965-37bc-4c34-9812-8c6d2c8a2c4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209415(v=AX.60)
 ms:contentKeyID: 36058675
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,21 +24,21 @@ The Intrastat declaration is used to report the movement of goods between Europe
 
 Before you generate an Intrastat declaration, complete the following tasks:
 
-  - Set up Intrastat parameters to generate Intrastat transaction details and compression details. You can compress export transactions based on commodity code, transaction code, transport, or country/region. Import transactions can be compressed on the basis of commodity, country/region, or country/region of origin. For more information, see [Compress (class form)](https://technet.microsoft.com/en-us/library/aa590820\(v=ax.60\)), [Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\)) and [Foreign trade parameters (form)](https://technet.microsoft.com/en-us/library/aa620385\(v=ax.60\)).
+  - Set up Intrastat parameters to generate Intrastat transaction details and compression details. You can compress export transactions based on commodity code, transaction code, transport, or country/region. Import transactions can be compressed on the basis of commodity, country/region, or country/region of origin. For more information, see [Compress (class form)](https://technet.microsoft.com/library/aa590820\(v=ax.60\)), [Compression of Intrastat (form)](https://technet.microsoft.com/library/aa584795\(v=ax.60\)) and [Foreign trade parameters (form)](https://technet.microsoft.com/library/aa620385\(v=ax.60\)).
 
-  - Create an item and specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Commodity codes (form)](https://technet.microsoft.com/en-us/library/aa617816\(v=ax.60\)).
+  - Create an item and specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Commodity codes (form)](https://technet.microsoft.com/library/aa617816\(v=ax.60\)).
 
-  - Create an Intrastat service point. For more information, see [(FIN) Intrastat service point (form)](https://technet.microsoft.com/en-us/library/aa600293\(v=ax.60\)) and [Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\)).
+  - Create an Intrastat service point. For more information, see [(FIN) Intrastat service point (form)](https://technet.microsoft.com/library/aa600293\(v=ax.60\)) and [Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\)).
 
 ## Generate the Intrastat declaration
 
-Use this procedure to generate the Intrastat declaration. If you selected the **Intrastat** check box for a charge in the **Charges code** form, the charge is included in the Intrastat amount. For more information, see [Charges code (form)](https://technet.microsoft.com/en-us/library/aa598932\(v=ax.60\)), [Create charges codes](create-charges-codes.md), and [About sales order information for shipping carriers](about-sales-order-information-for-shipping-carriers.md).
+Use this procedure to generate the Intrastat declaration. If you selected the **Intrastat** check box for a charge in the **Charges code** form, the charge is included in the Intrastat amount. For more information, see [Charges code (form)](https://technet.microsoft.com/library/aa598932\(v=ax.60\)), [Create charges codes](create-charges-codes.md), and [About sales order information for shipping carriers](about-sales-order-information-for-shipping-carriers.md).
 
 1.  Click **Organization administration** \> **Periodic** \> **Foreign trade** \> **Intrastat**.
     
 
     > [!NOTE]
-    > <P>If any Intrastat transactions are present in the <STRONG>Intrastat</STRONG> form, select them and click <STRONG>Delete</STRONG>. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa619055(v=ax.60)">Intrastat (form)</A> and <A href="about-intrastat.md">About Intrastat</A>.</P>
+    > <P>If any Intrastat transactions are present in the <STRONG>Intrastat</STRONG> form, select them and click <STRONG>Delete</STRONG>. For more information, see <A href="https://technet.microsoft.com/library/aa619055(v=ax.60)">Intrastat (form)</A> and <A href="about-intrastat.md">About Intrastat</A>.</P>
 
 
 
@@ -85,9 +86,9 @@ Use this procedure to generate the Intrastat declaration. If you selected the **
 
 ## See also
 
-[Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\))
+[Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\))
 
-[(FIN) Make diskette for Intrastat in Finnish layout (class form)](https://technet.microsoft.com/en-us/library/hh209641\(v=ax.60\))
+[(FIN) Make diskette for Intrastat in Finnish layout (class form)](https://technet.microsoft.com/library/hh209641\(v=ax.60\))
 
   
 

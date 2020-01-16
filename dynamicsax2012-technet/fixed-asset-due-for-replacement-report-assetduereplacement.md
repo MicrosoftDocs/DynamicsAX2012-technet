@@ -2,8 +2,9 @@
 title: Fixed asset due for replacement report (AssetDueReplacement)
 TOCTitle: Fixed asset due for replacement report (AssetDueReplacement)
 ms:assetid: 93550391-0db1-411e-b0ed-9cea4c647687
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556866(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556866(v=AX.60)
 ms:contentKeyID: 39509599
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

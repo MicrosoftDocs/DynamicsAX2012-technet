@@ -2,8 +2,9 @@
 title: (ESP) Summarized Spanish journal list report (LedgerJournalSummary_ES)
 TOCTitle: (ESP) Summarized Spanish journal list report (LedgerJournalSummary_ES)
 ms:assetid: fb15b733-d1de-4ee6-a8e4-ba43cbdc0630
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524747(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh524747(v=AX.60)
 ms:contentKeyID: 37072043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Fixed asset reserve transactions report (AssetReserveTransactions)
 TOCTitle: Fixed asset reserve transactions report (AssetReserveTransactions)
 ms:assetid: de8b08c5-a93b-4ce9-ad7e-39967588f3f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa591674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa591674(v=AX.60)
 ms:contentKeyID: 36687384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,7 +92,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [About fixed asset reserves](about-fixed-asset-reserves.md)
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
   
 

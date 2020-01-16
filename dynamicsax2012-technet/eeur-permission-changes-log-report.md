@@ -2,8 +2,9 @@
 title: (EEUR) Permission changes log (report)
 TOCTitle: (EEUR) Permission changes log (report)
 ms:assetid: ec8cd885-8936-49b3-9f0a-a6dc90cc078f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ874416(v=AX.60)
 ms:contentKeyID: 50619732
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

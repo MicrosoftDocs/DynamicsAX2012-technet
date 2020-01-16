@@ -2,8 +2,9 @@
 title: Generate timesheet periods
 TOCTitle: Generate timesheet periods
 ms:assetid: 49a3aa2e-6d08-42bf-b299-67c28ccbdbcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497006(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497006(v=AX.60)
 ms:contentKeyID: 36056943
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,11 +66,11 @@ Timesheet periods in Microsoft Dynamics AX are generated for each period type. W
 
 [About utilization rates](about-utilization-rates.md)
 
-[Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
+[Period types (form)](https://technet.microsoft.com/library/aa586707\(v=ax.60\))
 
-[Period transactions (form)](https://technet.microsoft.com/en-us/library/aa558283\(v=ax.60\))
+[Period transactions (form)](https://technet.microsoft.com/library/aa558283\(v=ax.60\))
 
-[Generate periods (class form)](https://technet.microsoft.com/en-us/library/aa557965\(v=ax.60\))
+[Generate periods (class form)](https://technet.microsoft.com/library/aa557965\(v=ax.60\))
 
 [Assign and maintain worker periods](assign-and-maintain-worker-periods.md)
 

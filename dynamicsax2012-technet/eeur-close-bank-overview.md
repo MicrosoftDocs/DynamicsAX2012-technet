@@ -2,8 +2,9 @@
 title: (EEUR) Close bank overview
 TOCTitle: (EEUR) Close bank overview
 ms:assetid: f2dbb795-43a9-4a5b-8496-5aea0409a7fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710649(v=AX.60)
 ms:contentKeyID: 49385047
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

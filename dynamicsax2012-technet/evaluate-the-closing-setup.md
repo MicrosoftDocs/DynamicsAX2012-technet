@@ -2,8 +2,9 @@
 title: Evaluate the closing setup
 TOCTitle: Evaluate the closing setup
 ms:assetid: 565bc4a0-8065-417d-aa81-c5843eb92fcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549054(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549054(v=AX.60)
 ms:contentKeyID: 37835227
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ You should review the following settings before you close the fiscal year. You c
 
 
 
-For information about the other fields in the **General ledger parameters** form, see [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\)).
+For information about the other fields in the **General ledger parameters** form, see [General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\)).
 
 ## See also
 

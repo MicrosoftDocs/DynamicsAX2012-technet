@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCardTypesResponse Constructor (IEnumerable(CardTypeInfo)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetCardTypesResponse Constructor (IEnumerable(CardTypeInfo))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCardTypesResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CardTypeInfo})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getcardtypesresponse.getcardtypesresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcardtypesresponse.getcardtypesresponse(v=AX.60)
 ms:contentKeyID: 62208101
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetCardTypesResponse(
 #### Parameters
 
   - cardTypes  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CardTypeInfo](cardtypeinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[CardTypeInfo](cardtypeinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

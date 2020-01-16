@@ -2,8 +2,9 @@
 title: Draw a promissory note
 TOCTitle: Draw a promissory note
 ms:assetid: 5da88792-b3a2-4268-b125-f0bae015d5ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549102(v=AX.60)
 ms:contentKeyID: 36655930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ When you draw a promissory note, it appears as an open vendor transaction for th
 
 ## Draw a promissory note automatically
 
-You can automatically draw promissory notes for vendor invoices that are posted for a method of payment. To enable this functionality, select the **Create and post draw journal automatically when posting invoices** check box in the **Methods of payment - vendors** form. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+You can automatically draw promissory notes for vendor invoices that are posted for a method of payment. To enable this functionality, select the **Create and post draw journal automatically when posting invoices** check box in the **Methods of payment - vendors** form. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 ## Draw a promissory note in a journal
 
@@ -104,7 +105,7 @@ You can draw and then print a promissory note document to send to a vendor. You 
     
 
     > [!NOTE]
-    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -120,9 +121,9 @@ You can draw and then print a promissory note document to send to a vendor. You 
 
 [Make a payment by check](make-a-payment-by-check.md)
 
-[Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
+[Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\))
 
-[Promissory note statistics (form)](https://technet.microsoft.com/en-us/library/aa550186\(v=ax.60\))
+[Promissory note statistics (form)](https://technet.microsoft.com/library/aa550186\(v=ax.60\))
 
 [Specify when a vendor bank account is active](specify-when-a-vendor-bank-account-is-active.md)
 

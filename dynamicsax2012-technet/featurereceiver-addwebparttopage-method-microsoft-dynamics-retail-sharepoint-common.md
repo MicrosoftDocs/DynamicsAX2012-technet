@@ -1,9 +1,10 @@
-﻿---
+---
 title: FeatureReceiver.AddWebPartToPage Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: AddWebPartToPage Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.AddWebPartToPage(Microsoft.SharePoint.SPWeb,System.Web.UI.WebControls.WebParts.WebPart,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.addwebparttopage(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.addwebparttopage(v=AX.60)
 ms:contentKeyID: 62202960
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,17 +69,17 @@ static void AddWebPartToPage(
 <!-- end list -->
 
   - webPart  
-    Type: [System.Web.UI.WebControls.WebParts.WebPart](https://technet.microsoft.com/en-us/library/h0t1fxe7\(v=ax.60\))  
+    Type: [System.Web.UI.WebControls.WebParts.WebPart](https://technet.microsoft.com/library/h0t1fxe7\(v=ax.60\))  
 
 <!-- end list -->
 
   - zoneId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - page  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

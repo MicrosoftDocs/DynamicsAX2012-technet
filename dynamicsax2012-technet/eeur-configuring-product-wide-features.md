@@ -2,8 +2,9 @@
 title: (EEUR) Configuring product-wide features
 TOCTitle: (EEUR) Configuring product-wide features
 ms:assetid: 30232d1f-2b5a-4482-9692-328d2c28112c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710694(v=AX.60)
 ms:contentKeyID: 49385092
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

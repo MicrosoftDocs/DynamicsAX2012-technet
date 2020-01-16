@@ -1,9 +1,10 @@
-﻿---
+---
 title: Export-AXModel
 TOCTitle: Export-AXModel
 ms:assetid: 6A37B6EB-1001-48F4-9C33-38A3E97BFF18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720261(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720261(v=AX.60)
 ms:contentKeyID: 49720050
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

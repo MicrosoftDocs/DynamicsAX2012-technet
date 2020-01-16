@@ -2,8 +2,9 @@
 title: Fixed assets in fixed asset statement rows report (AssetsInAssetStatement)
 TOCTitle: Fixed assets in fixed asset statement rows report (AssetsInAssetStatement)
 ms:assetid: 4329c6cd-c0f5-4899-978b-90cffb199c66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa554467(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa554467(v=AX.60)
 ms:contentKeyID: 37820211
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

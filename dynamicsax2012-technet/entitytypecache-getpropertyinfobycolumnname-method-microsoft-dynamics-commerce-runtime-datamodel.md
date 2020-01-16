@@ -1,9 +1,10 @@
-﻿---
+---
 title: EntityTypeCache.GetPropertyInfoByColumnName Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetPropertyInfoByColumnName Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.EntityTypeCache.GetPropertyInfoByColumnName(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.entitytypecache.getpropertyinfobycolumnname(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.entitytypecache.getpropertyinfobycolumnname(v=AX.60)
 ms:contentKeyID: 65319915
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # GetPropertyInfoByColumnName Method
 
-Gets the [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)) for a property of the entity that specifies [ColumnAttribute](columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md).
+Gets the [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) for a property of the entity that specifies [ColumnAttribute](columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -52,12 +53,12 @@ PropertyInfo^ GetPropertyInfoByColumnName(
 #### Parameters
 
   - columnName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
-The [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)) for the property that specifies the column described by columnName.  
+Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\))  
+The [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) for the property that specifies the column described by columnName.  
 
 ## See Also
 

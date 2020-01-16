@@ -2,8 +2,9 @@
 title: Encumbrance and ledger reconciliation report (LedgerEncumbranceReconciliation)
 TOCTitle: Encumbrance and ledger reconciliation report (LedgerEncumbranceReconciliation)
 ms:assetid: 2a2ba138-ac5d-4911-8fe1-63820970f3f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335139(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335139(v=AX.60)
 ms:contentKeyID: 36687349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Before you run this report, make sure that the following prerequisites have been
 
   - **Enable encumbrance process** – The encumbrance process must be enabled before encumbrances for purchase orders can be recorded in the general ledger. For more information, see [Encumber purchase orders](encumber-purchase-orders.md).
 
-  - **Select encumbrance accounts to include on the report** – Open the **Main account categories** form and select the **ENCUMBRANCE** main account category. Click **Link main accounts**, and then select the **Linked** check box for each main account to use for encumbrances. For more information, see [Link main accounts (form)](https://technet.microsoft.com/en-us/library/hh209475\(v=ax.60\)).
+  - **Select encumbrance accounts to include on the report** – Open the **Main account categories** form and select the **ENCUMBRANCE** main account category. Click **Link main accounts**, and then select the **Linked** check box for each main account to use for encumbrances. For more information, see [Link main accounts (form)](https://technet.microsoft.com/library/hh209475\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -139,7 +140,7 @@ When you generate this report, the following default parameters are displayed. Y
 </tr>
 <tr class="odd">
 <td><p><strong>Dimension</strong></p></td>
-<td><p>Select a financial dimension for the report. You can select from the financial dimensions that were defined in the <strong>Financial dimensions</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209534(v=ax.60)">Financial dimensions (form)</a>.</p></td>
+<td><p>Select a financial dimension for the report. You can select from the financial dimensions that were defined in the <strong>Financial dimensions</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh209534(v=ax.60)">Financial dimensions (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Include details</strong></p></td>

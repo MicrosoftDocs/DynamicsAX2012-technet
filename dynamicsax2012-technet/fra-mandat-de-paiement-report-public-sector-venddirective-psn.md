@@ -2,8 +2,9 @@
 title: (FRA) Mandat de paiement report (Public sector) (VendDirective_PSN)
 TOCTitle: (FRA) Mandat de paiement report (Public sector) (VendDirective_PSN)
 ms:assetid: b61b0d8d-d37f-44c4-bba7-1dde10b81590
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450753(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450753(v=AX.60)
 ms:contentKeyID: 36966709
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

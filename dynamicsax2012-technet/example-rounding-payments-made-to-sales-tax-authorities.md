@@ -2,8 +2,9 @@
 title: 'Example: Rounding payments made to sales tax authorities'
 TOCTitle: 'Example: Rounding payments made to sales tax authorities'
 ms:assetid: 27f356de-3786-40b0-b866-05aaacf69dfa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496835(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496835(v=AX.60)
 ms:contentKeyID: 39519075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,11 +28,11 @@ The legal entity wants to use a rounding method that rounds the balance to the n
 
 3.  In the **Round-off** field, enter 1.00.
 
-4.  When it is time to pay the sales taxes to the tax authority, open the **Sales tax payment** form. (Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Sales tax payments**.) Run the periodic job. For more information, see [Sales tax payments (form)](https://technet.microsoft.com/en-us/library/aa583763\(v=ax.60\)).
+4.  When it is time to pay the sales taxes to the tax authority, open the **Sales tax payment** form. (Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Sales tax payments**.) Run the periodic job. For more information, see [Sales tax payments (form)](https://technet.microsoft.com/library/aa583763\(v=ax.60\)).
 
 5.  On the sales tax payments report, the tax amount of 98,765.43 is rounded to 98,765.
 
-The following table shows how an amount of 98,765.43 is rounded by using each rounding method that is available in the **Rounding form** field in the **Sales tax authorities** form. For more information, see [Sales tax authorities (form)](https://technet.microsoft.com/en-us/library/aa552841\(v=ax.60\)).
+The following table shows how an amount of 98,765.43 is rounded by using each rounding method that is available in the **Rounding form** field in the **Sales tax authorities** form. For more information, see [Sales tax authorities (form)](https://technet.microsoft.com/library/aa552841\(v=ax.60\)).
 
 <table>
 <colgroup>

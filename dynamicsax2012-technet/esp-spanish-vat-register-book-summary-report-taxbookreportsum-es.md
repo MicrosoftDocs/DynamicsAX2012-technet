@@ -2,8 +2,9 @@
 title: (ESP) Spanish VAT register book summary report (TaxBookReportSum_ES)
 TOCTitle: (ESP) Spanish VAT register book summary report (TaxBookReportSum_ES)
 ms:assetid: f39ed576-2e40-40c4-ab99-ce875e0d9d00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352298(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352298(v=AX.60)
 ms:contentKeyID: 36687926
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -89,7 +90,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(ESP) Spanish VAT reports (form)](https://technet.microsoft.com/en-us/library/aa554510\(v=ax.60\))
+[(ESP) Spanish VAT reports (form)](https://technet.microsoft.com/library/aa554510\(v=ax.60\))
 
   
 

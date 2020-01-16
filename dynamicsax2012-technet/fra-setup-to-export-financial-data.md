@@ -2,8 +2,9 @@
 title: (FRA) Setup to export financial data
 TOCTitle: (FRA) Setup to export financial data
 ms:assetid: 55498ff6-6eac-45f0-8d7f-137161b8d07e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212802(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212802(v=AX.60)
 ms:contentKeyID: 36057314
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -202,7 +203,7 @@ Use the **Data export fields** form to create data export fields and assign the 
 
 [(FRA) Export financial transaction data to an archive file](fra-export-financial-transaction-data-to-an-archive-file.md)
 
-[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/en-us/library/aa571461\(v=ax.60\))
+[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/library/aa571461\(v=ax.60\))
 
   
 

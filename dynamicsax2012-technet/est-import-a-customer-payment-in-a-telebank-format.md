@@ -2,8 +2,9 @@
 title: (EST) Import a customer payment in a telebank format
 TOCTitle: (EST) Import a customer payment in a telebank format
 ms:assetid: bfbf4bf5-8873-4e97-a2ff-ee47cef44fc6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ713648(v=AX.60)
 ms:contentKeyID: 49643142
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

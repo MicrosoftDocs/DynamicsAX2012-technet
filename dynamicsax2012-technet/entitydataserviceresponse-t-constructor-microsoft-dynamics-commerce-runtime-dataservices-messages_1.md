@@ -1,9 +1,10 @@
-﻿---
+---
 title: EntityDataServiceResponse(T) Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: EntityDataServiceResponse(T) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`1.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn991129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn991129(v=AX.60)
 ms:contentKeyID: 65322561
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

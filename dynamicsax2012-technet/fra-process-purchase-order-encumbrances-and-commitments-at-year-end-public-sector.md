@@ -2,8 +2,9 @@
 title: (FRA) Process purchase order encumbrances and commitments at year end (Public sector)
 TOCTitle: (FRA) Process purchase order encumbrances and commitments at year end (Public sector)
 ms:assetid: 3fdb7b79-2297-47e1-996a-4da7479a979d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208527(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208527(v=AX.60)
 ms:contentKeyID: 36056276
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,7 +91,7 @@ After you have processed purchase orders and commitments, the commitments in the
 
 [Process purchase orders at year end](process-purchase-orders-at-year-end.md)
 
-[Purchase order year-end process (form)](https://technet.microsoft.com/en-us/library/hh209522\(v=ax.60\))
+[Purchase order year-end process (form)](https://technet.microsoft.com/library/hh209522\(v=ax.60\))
 
 [(FRA) Key tasks: Commitments (Public sector)](fra-key-tasks-commitments-public-sector.md)
 

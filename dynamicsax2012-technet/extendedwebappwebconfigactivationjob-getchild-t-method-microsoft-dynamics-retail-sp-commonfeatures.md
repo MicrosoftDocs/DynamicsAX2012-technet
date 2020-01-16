@@ -1,9 +1,10 @@
-﻿---
+---
 title: ExtendedWebAppWebConfigActivationJob.GetChild(T) Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: GetChild(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.ExtendedWebAppWebConfigActivationJob.GetChild``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn684460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn684460(v=AX.60)
 ms:contentKeyID: 62203590
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

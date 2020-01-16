@@ -2,8 +2,9 @@
 title: (EEUR) Calculate exchange rate adjustments for bank account transactions
 TOCTitle: (EEUR) Calculate exchange rate adjustments for bank account transactions
 ms:assetid: 8f3ac3c6-f8a8-4e2f-af6e-9edb5608ae3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917354(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ917354(v=AX.60)
 ms:contentKeyID: 50952843
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You must revalue and adjust bank accounts if there is a difference in the exchan
 
 4.  Close the form.
 
-5.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency exchange rates**. In the **Currency exchange rates** form, you can define the exchange rate between two currencies or a currency pair. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)) and [Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\)).
+5.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency exchange rates**. In the **Currency exchange rates** form, you can define the exchange rate between two currencies or a currency pair. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)) and [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).
 
 6.  Close the form.
 
@@ -51,15 +52,15 @@ You must revalue and adjust bank accounts if there is a difference in the exchan
     
 
     > [!NOTE]
-    > <P>You can view two separate transactions for the accounting currency and the reporting currency in the general ledger. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa556899(v=ax.60)">Bank transactions (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa583215(v=ax.60)">Voucher transactions (form)</A>.</P>
+    > <P>You can view two separate transactions for the accounting currency and the reporting currency in the general ledger. For more information, see <A href="https://technet.microsoft.com/library/aa556899(v=ax.60)">Bank transactions (form)</A> and <A href="https://technet.microsoft.com/library/aa583215(v=ax.60)">Voucher transactions (form)</A>.</P>
 
 
 
 ## See also
 
-[(EEUR) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710711\(v=ax.60\))
+[(EEUR) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj710711\(v=ax.60\))
 
-[Ledger (form)](https://technet.microsoft.com/en-us/library/hh209331\(v=ax.60\))
+[Ledger (form)](https://technet.microsoft.com/library/hh209331\(v=ax.60\))
 
   
 

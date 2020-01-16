@@ -2,8 +2,9 @@
 title: Estonia
 TOCTitle: Estonia
 ms:assetid: f9ace311-be08-4686-a51c-1c9d77841ac8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664209(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664209(v=AX.60)
 ms:contentKeyID: 49385298
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

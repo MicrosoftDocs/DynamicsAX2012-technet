@@ -2,8 +2,9 @@
 title: (EEUR) Set up exchange rates for calculating VAT
 TOCTitle: (EEUR) Set up exchange rates for calculating VAT
 ms:assetid: 2aaa883b-5787-4c79-b3c1-d0cfb20fe02e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ852135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ852135(v=AX.60)
 ms:contentKeyID: 50281221
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ Your organization can select the exchange rate to use to calculate value-added t
 
 ## See also
 
-[Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
+[Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\))
 
-[Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\))
+[Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\))
 
   
 

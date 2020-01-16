@@ -2,8 +2,9 @@
 title: '(EEUR) Key tasks: Set up officials to certify financial documents'
 TOCTitle: '(EEUR) Key tasks: Set up officials to certify financial documents'
 ms:assetid: e493419a-1835-4be6-a565-e8e814d9959d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ874421(v=AX.60)
 ms:contentKeyID: 50619738
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -157,7 +158,7 @@ Back to top
 
 ## Find form help
 
-[(EEUR) Officials (form)](https://technet.microsoft.com/en-us/library/jj710672\(v=ax.60\))
+[(EEUR) Officials (form)](https://technet.microsoft.com/library/jj710672\(v=ax.60\))
 
   
 

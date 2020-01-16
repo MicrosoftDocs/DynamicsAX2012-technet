@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Example: Read Action'
 TOCTitle: 'Example: Read Action'
 ms:assetid: 7ef4a0ee-9263-484d-9f0a-09b09cecab13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa642551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa642551(v=AX.60)
 ms:contentKeyID: 35246128
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -62,7 +63,7 @@ The read action in the following message requests that the customer record with 
 
 In an outbound message, the read action signifies that the read method on the document service class was called. The \<Body\> of this outbound message contains the data of the record being returned. The \<AccountNum\> value matches the \<Value\> value for the \<KeyField\> from the inbound message.
 
-The \<DirParty\> tag indicates subsequent tags that contain information about the customer. This includes the postal address. For more information about the DirParty class and the global address book (GAB) framework, see [Global Address Framework](https://technet.microsoft.com/en-us/library/hh608233\(v=ax.60\)).
+The \<DirParty\> tag indicates subsequent tags that contain information about the customer. This includes the postal address. For more information about the DirParty class and the global address book (GAB) framework, see [Global Address Framework](https://technet.microsoft.com/library/hh608233\(v=ax.60\)).
 
 The following outbound message is generated from the previous inbound message.
 

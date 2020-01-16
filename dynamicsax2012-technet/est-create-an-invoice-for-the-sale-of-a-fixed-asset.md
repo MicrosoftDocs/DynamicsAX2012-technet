@@ -2,8 +2,9 @@
 title: (EST) Create an invoice for the sale of a fixed asset
 TOCTitle: (EST) Create an invoice for the sale of a fixed asset
 ms:assetid: 8916fdaf-2083-4f0e-bf69-6210e5e2bd02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710859(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710859(v=AX.60)
 ms:contentKeyID: 49385255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

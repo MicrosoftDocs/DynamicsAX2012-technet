@@ -2,8 +2,9 @@
 title: Edit document templates
 TOCTitle: Edit document templates
 ms:assetid: 6c6248f7-a8e8-4b3e-b5dc-fbc181e2bbb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271553(v=AX.60)
 ms:contentKeyID: 36384185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

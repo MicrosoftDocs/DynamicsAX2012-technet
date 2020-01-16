@@ -2,8 +2,9 @@
 title: Fixed asset physical inventory worksheet report (AssetInventoryWorkSheet)
 TOCTitle: Fixed asset physical inventory worksheet report (AssetInventoryWorkSheet)
 ms:assetid: 8cd62006-3393-44ad-ab41-43d5f84572b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556865(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556865(v=AX.60)
 ms:contentKeyID: 39509598
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Generate budget register entries from budget plans
 TOCTitle: Generate budget register entries from budget plans
 ms:assetid: 0a60643e-df9a-4126-a7e1-4c900b574aac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677321(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677321(v=AX.60)
 ms:contentKeyID: 49384094
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -151,7 +152,7 @@ The following table shows two budget plan lines and the budget register entry li
 
 6.  To create budget register entries by using a batch process, complete the fields on the **Batch** FastTab.
     
-    For information about the batch options in this form, and about how to submit a batch processing job, see [Batch tasks (form)](https://technet.microsoft.com/en-us/library/hh209494\(v=ax.60\)) and [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md).
+    For information about the batch options in this form, and about how to submit a batch processing job, see [Batch tasks (form)](https://technet.microsoft.com/library/hh209494\(v=ax.60\)) and [Submit a batch processing job from a form](submit-a-batch-processing-job-from-a-form.md).
 
 7.  Click **Generate**.
 
@@ -163,7 +164,7 @@ The following table shows two budget plan lines and the budget register entry li
 
 ## See also
 
-[Generate budget register entry (form)](https://technet.microsoft.com/en-us/library/jj710365\(v=ax.60\))
+[Generate budget register entry (form)](https://technet.microsoft.com/library/jj710365\(v=ax.60\))
 
   
 

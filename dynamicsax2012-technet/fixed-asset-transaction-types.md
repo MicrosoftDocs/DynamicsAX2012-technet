@@ -2,8 +2,9 @@
 title: Fixed asset transaction types
 TOCTitle: Fixed asset transaction types
 ms:assetid: 37462558-9e84-4c42-a186-244a3fc03cdf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570128(v=AX.60)
 ms:contentKeyID: 36056603
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

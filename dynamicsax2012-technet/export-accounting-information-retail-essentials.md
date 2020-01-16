@@ -2,8 +2,9 @@
 title: Export accounting information (Retail essentials)
 TOCTitle: Export accounting information (Retail essentials)
 ms:assetid: c188bfb1-9f0a-4621-b69d-3bff3228ae48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736945(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736945(v=AX.60)
 ms:contentKeyID: 62200422
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

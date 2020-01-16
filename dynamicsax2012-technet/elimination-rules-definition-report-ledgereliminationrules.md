@@ -2,8 +2,9 @@
 title: Elimination rules definition report (LedgerEliminationRules)
 TOCTitle: Elimination rules definition report (LedgerEliminationRules)
 ms:assetid: 3e212dde-92ea-446e-93d9-4526d462e634
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334475(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334475(v=AX.60)
 ms:contentKeyID: 36676460
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

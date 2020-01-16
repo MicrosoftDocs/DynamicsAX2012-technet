@@ -2,8 +2,9 @@
 title: (EST) Create and view a sales invoice
 TOCTitle: (EST) Create and view a sales invoice
 ms:assetid: 4f1c0054-1921-4e8a-897b-7ff1938c9b43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710837(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710837(v=AX.60)
 ms:contentKeyID: 49385233
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

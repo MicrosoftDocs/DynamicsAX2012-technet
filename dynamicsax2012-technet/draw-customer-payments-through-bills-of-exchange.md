@@ -2,8 +2,9 @@
 title: Draw customer payments through bills of exchange
 TOCTitle: Draw customer payments through bills of exchange
 ms:assetid: 11960b8c-af62-41e0-915c-59baea82acc1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230929(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230929(v=AX.60)
 ms:contentKeyID: 36056033
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

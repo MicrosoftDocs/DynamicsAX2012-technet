@@ -2,8 +2,9 @@
 title: " FIFO inventory valuation method"
 TOCTitle: " FIFO inventory valuation method"
 ms:assetid: DynamicsAXGlossary.235331
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.235331(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.235331(v=AX.60)
 ms:contentKeyID: 62830157
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

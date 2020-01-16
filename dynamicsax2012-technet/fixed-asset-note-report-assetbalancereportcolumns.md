@@ -2,8 +2,9 @@
 title: Fixed asset note report (AssetBalanceReportColumns)
 TOCTitle: Fixed asset note report (AssetBalanceReportColumns)
 ms:assetid: 4ab69a29-2510-4c70-87b9-91b7f5cb18fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576252(v=AX.60)
 ms:contentKeyID: 37820212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

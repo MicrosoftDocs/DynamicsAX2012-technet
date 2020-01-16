@@ -2,8 +2,9 @@
 title: Fixed-price projects - profit and loss backlog report (ProjListEstimateprodBacklogPL)
 TOCTitle: Fixed-price projects - profit and loss backlog report (ProjListEstimateprodBacklogPL)
 ms:assetid: adeb6ddc-7716-4897-877d-99f1a7f0baae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589529(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589529(v=AX.60)
 ms:contentKeyID: 37820227
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

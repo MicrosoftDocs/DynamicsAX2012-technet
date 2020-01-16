@@ -2,8 +2,9 @@
 title: (EEUR) Adjust a transaction by using an hour, expense, or fee journal
 TOCTitle: (EEUR) Adjust a transaction by using an hour, expense, or fee journal
 ms:assetid: 8d04e024-14ac-4adc-8f43-c76216ba0a96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730994(v=AX.60)
 ms:contentKeyID: 49675236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -93,19 +94,19 @@ You can adjust fee amounts that are recorded to projects by entering an adjustin
 
 ## See also
 
-[Hour journal (form)](https://technet.microsoft.com/en-us/library/aa598983\(v=ax.60\))
+[Hour journal (form)](https://technet.microsoft.com/library/aa598983\(v=ax.60\))
 
-[Journal lines for hours (form)](https://technet.microsoft.com/en-us/library/aa571787\(v=ax.60\))
+[Journal lines for hours (form)](https://technet.microsoft.com/library/aa571787\(v=ax.60\))
 
-[Expense journal (form)](https://technet.microsoft.com/en-us/library/aa600976\(v=ax.60\))
+[Expense journal (form)](https://technet.microsoft.com/library/aa600976\(v=ax.60\))
 
-[Fee journal (form)](https://technet.microsoft.com/en-us/library/hh209390\(v=ax.60\))
+[Fee journal (form)](https://technet.microsoft.com/library/hh209390\(v=ax.60\))
 
-[Journal lines for fees (form)](https://technet.microsoft.com/en-us/library/aa498986\(v=ax.60\))
+[Journal lines for fees (form)](https://technet.microsoft.com/library/aa498986\(v=ax.60\))
 
 [(EEUR) Adjust a transaction that has been posted to a project](eeur-adjust-a-transaction-that-has-been-posted-to-a-project.md)
 
-[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710688\(v=ax.60\))
+[(EEUR) Project management and accounting parameters (modified form)](https://technet.microsoft.com/library/jj710688\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Enter and settle customer payments in a payment journal
 TOCTitle: Enter and settle customer payments in a payment journal
 ms:assetid: 3d12ee34-e06d-425e-a64b-5f35fe49081d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231160(v=AX.60)
 ms:contentKeyID: 36056673
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

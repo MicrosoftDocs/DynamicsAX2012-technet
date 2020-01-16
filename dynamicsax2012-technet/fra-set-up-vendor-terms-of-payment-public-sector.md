@@ -2,8 +2,9 @@
 title: (FRA) Set up vendor terms of payment (Public sector)
 TOCTitle: (FRA) Set up vendor terms of payment (Public sector)
 ms:assetid: a7b44412-a928-4c82-92db-aa1e83b9b6ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208567(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208567(v=AX.60)
 ms:contentKeyID: 36056345
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,13 +50,13 @@ You can set up a default payment term that can be used for all vendors and for r
 
 4.  Enter a **Description** for the term of payment. For example, enter “Net and 30 days” to describe the “Net30” term of payment.
 
-5.  Select a **Payment method** to calculate the due date. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+5.  Select a **Payment method** to calculate the due date. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 6.  Enter the number of **Months** or **Days** to use with the payment method to calculate the due date. For example, enter 30 for a term in which payments are due within 30 days.
 
 7.  Select the **Default terms of payment** check box.
 
-8.  The rest of the fields on this form are optional. Add additional information as needed and close the form. For more information, see [Terms of payment (form)](https://technet.microsoft.com/en-us/library/aa588427\(v=ax.60\)).
+8.  The rest of the fields on this form are optional. Add additional information as needed and close the form. For more information, see [Terms of payment (form)](https://technet.microsoft.com/library/aa588427\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -114,9 +115,9 @@ Select a term of payment for a pending invoice.
 
 ## See also
 
-[Terms of payment (form)](https://technet.microsoft.com/en-us/library/aa588427\(v=ax.60\))
+[Terms of payment (form)](https://technet.microsoft.com/library/aa588427\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
 [(FRA) Place or release vendor invoice payment holds (Public sector)](fra-place-or-release-vendor-invoice-payment-holds-public-sector.md)
 

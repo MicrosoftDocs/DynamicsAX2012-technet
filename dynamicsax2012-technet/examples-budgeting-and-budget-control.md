@@ -2,8 +2,9 @@
 title: 'Examples: Budgeting and budget control'
 TOCTitle: 'Examples: Budgeting and budget control'
 ms:assetid: 418595c9-6c9a-433a-89c0-cd963b6007a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242261(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242261(v=AX.60)
 ms:contentKeyID: 36056729
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

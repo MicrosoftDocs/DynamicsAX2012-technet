@@ -1,9 +1,10 @@
-﻿---
+---
 title: Edit Expression Overview
 TOCTitle: Edit Expression Overview
 ms:assetid: 2d8ca49d-319b-4efa-b63b-ec8e69c062d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc551700(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc551700(v=AX.60)
 ms:contentKeyID: 28119328
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

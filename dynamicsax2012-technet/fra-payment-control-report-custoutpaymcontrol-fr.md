@@ -2,8 +2,9 @@
 title: (FRA) Payment control report (CustOutPaymControl_FR)
 TOCTitle: (FRA) Payment control report (CustOutPaymControl_FR)
 ms:assetid: d7d90a27-6f70-49d4-b319-db079ccda51b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433521(v=AX.60)
 ms:contentKeyID: 36941304
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

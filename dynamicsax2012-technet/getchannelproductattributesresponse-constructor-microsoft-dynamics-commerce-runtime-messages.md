@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelProductAttributesResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetChannelProductAttributesResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelProductAttributesResponse.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getchannelproductattributesresponse.getchannelproductattributesresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelproductattributesresponse.getchannelproductattributesresponse(v=AX.60)
 ms:contentKeyID: 49824815
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

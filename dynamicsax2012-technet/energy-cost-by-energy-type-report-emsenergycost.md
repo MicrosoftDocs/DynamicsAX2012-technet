@@ -2,8 +2,9 @@
 title: Energy cost by energy type report (EMSEnergyCost)
 TOCTitle: Energy cost by energy type report (EMSEnergyCost)
 ms:assetid: 4e12c0c6-8f58-4050-af80-24f6459585b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412245(v=AX.60)
 ms:contentKeyID: 36916355
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

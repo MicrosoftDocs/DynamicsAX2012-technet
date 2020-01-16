@@ -2,8 +2,9 @@
 title: Enable users to access Enterprise Portal
 TOCTitle: Enable users to access Enterprise Portal
 ms:assetid: 2adbf75e-a599-45ca-a849-765185bf7897
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309631(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309631(v=AX.60)
 ms:contentKeyID: 36607345
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

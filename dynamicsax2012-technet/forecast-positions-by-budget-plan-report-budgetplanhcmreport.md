@@ -2,8 +2,9 @@
 title: Forecast positions by budget plan report (BudgetPlanHCMReport)
 TOCTitle: Forecast positions by budget plan report (BudgetPlanHCMReport)
 ms:assetid: ce8e38a9-cdc1-4f4c-a813-ec38899d92fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714211(v=AX.60)
 ms:contentKeyID: 49651320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

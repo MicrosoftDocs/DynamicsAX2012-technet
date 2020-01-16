@@ -2,8 +2,9 @@
 title: (EEUR) Set up a tax directive
 TOCTitle: (EEUR) Set up a tax directive
 ms:assetid: 560b9f29-ecc8-46ff-86c0-2972345a5e5f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710712(v=AX.60)
 ms:contentKeyID: 49385109
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

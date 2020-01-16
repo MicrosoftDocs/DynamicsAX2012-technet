@@ -2,8 +2,9 @@
 title: (EEUR) Create and post vendor invoices with advance holder details
 TOCTitle: (EEUR) Create and post vendor invoices with advance holder details
 ms:assetid: b5b747ab-6969-4361-8407-1a6838f2d9b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911009(v=AX.60)
 ms:contentKeyID: 52075305
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,11 +26,11 @@ Use this procedure to create and post vendor invoices with advance holder detail
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**.
 
-2.  Press CTRL+N or click **Purchase order** to create a purchase order. For more information, see [Create a purchase order](create-a-purchase-order.md) and [(EEUR) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj710700\(v=ax.60\)).
+2.  Press CTRL+N or click **Purchase order** to create a purchase order. For more information, see [Create a purchase order](create-a-purchase-order.md) and [(EEUR) Purchase orders (modified form)](https://technet.microsoft.com/library/jj710700\(v=ax.60\)).
 
 3.  In the **Purchase order** form, on the **Action Pane**, click **Header view**, and then click the **Price and discount** FastTab.
 
-4.  In the **Terms of payment** field, select the payment term. For more information, see [(EEUR) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj911004\(v=ax.60\)).
+4.  In the **Terms of payment** field, select the payment term. For more information, see [(EEUR) Terms of payment (modified form)](https://technet.microsoft.com/library/jj911004\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -47,19 +48,19 @@ Use this procedure to create and post vendor invoices with advance holder detail
 
 9.  Click **Post** \> **Post** to select the posting settings and generate the invoice.
     
-    You can view two vendor transactions with opposite amounts in the **Vendor transactions** form. For more information, see [(EEUR) Vendor transactions (modified form)](https://technet.microsoft.com/en-us/library/jj730985\(v=ax.60\)).
+    You can view two vendor transactions with opposite amounts in the **Vendor transactions** form. For more information, see [(EEUR) Vendor transactions (modified form)](https://technet.microsoft.com/library/jj730985\(v=ax.60\)).
 
 10. Close the form.
 
-11. Click **Accounts payable** \> **Inquiries** \> **Advance holders** \> **Transactions**. In the **Advance holder transactions** form, you can view one advance holder transaction. For more information, see [(EEUR) Advance holder transactions (form)](https://technet.microsoft.com/en-us/library/jj910968\(v=ax.60\)).
+11. Click **Accounts payable** \> **Inquiries** \> **Advance holders** \> **Transactions**. In the **Advance holder transactions** form, you can view one advance holder transaction. For more information, see [(EEUR) Advance holder transactions (form)](https://technet.microsoft.com/library/jj910968\(v=ax.60\)).
 
-12. Click **Voucher** to open the **Voucher transactions** form. The vendor balance account is replaced by the employee balance account, and the **Posting type** field is updated to **Employee balance**. For more information, see [Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\)).
+12. Click **Voucher** to open the **Voucher transactions** form. The vendor balance account is replaced by the employee balance account, and the **Posting type** field is updated to **Employee balance**. For more information, see [Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\)).
 
 ## See also
 
 [(EEUR) Settle advance holder balances](eeur-settle-advance-holder-balances.md)
 
-[(EEUR) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj862346\(v=ax.60\))
+[(EEUR) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj862346\(v=ax.60\))
 
   
 

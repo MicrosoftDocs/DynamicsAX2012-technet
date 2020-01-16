@@ -1,9 +1,10 @@
-﻿---
+---
 title: Get-AXAOS
 TOCTitle: Get-AXAOS
 ms:assetid: B43F64E4-93BE-4962-B03C-75FD25364E0D
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720278(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720278(v=AX.60)
 ms:contentKeyID: 49720067
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

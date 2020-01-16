@@ -2,8 +2,9 @@
 title: Explode a BOM from a sales order line
 TOCTitle: Explode a BOM from a sales order line
 ms:assetid: 3fa4b63a-e76c-4b74-8f43-cd5abf980265
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496944(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496944(v=AX.60)
 ms:contentKeyID: 36056706
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Explode a BOM from a sales order line:
 
 ## See also
 
-[Explode BOM lines in purchase order (form)](https://technet.microsoft.com/en-us/library/aa500727\(v=ax.60\))
+[Explode BOM lines in purchase order (form)](https://technet.microsoft.com/library/aa500727\(v=ax.60\))
 
   
 

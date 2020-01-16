@@ -1,9 +1,10 @@
-﻿---
+---
 title: ExtendedWebAppWebConfigDeactivationJob Constructor  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: ExtendedWebAppWebConfigDeactivationJob Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.ExtendedWebAppWebConfigDeactivationJob.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigdeactivationjob.extendedwebappwebconfigdeactivationjob(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigdeactivationjob.extendedwebappwebconfigdeactivationjob(v=AX.60)
 ms:contentKeyID: 62205408
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (EEUR) Setting up and maintaining General ledger
 TOCTitle: (EEUR) Setting up and maintaining General ledger
 ms:assetid: d022e371-d9ac-4c9b-b473-6cbec0187a3b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710770(v=AX.60)
 ms:contentKeyID: 49385167
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

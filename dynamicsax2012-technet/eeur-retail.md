@@ -2,8 +2,9 @@
 title: (EEUR) Retail
 TOCTitle: (EEUR) Retail
 ms:assetid: c6d80ec0-a442-44e4-a392-62f63b0da6ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313240(v=AX.60)
 ms:contentKeyID: 54964137
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

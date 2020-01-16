@@ -2,8 +2,9 @@
 title: (FRA) About RB/SL depreciation
 TOCTitle: (FRA) About RB/SL depreciation
 ms:assetid: 821e4927-89f8-46c4-8d11-82e8f8ffcd77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571558(v=AX.60)
 ms:contentKeyID: 36058364
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 RB/SL reducing balance is a depreciation method that calculates depreciation amounts using the reducing balance depreciation method and the straight-line depreciation method, and then uses the greater of the two calculated depreciation amounts as the RB/SL reducing balance depreciation amount. When you set up a fixed asset depreciation profile and select **RB/SL (France)** in the **Method** field in the **Depreciation profiles** form, the depreciation of the fixed assets that are assigned to the depreciation profile is based on the service life of the assets. For more information about setting up depreciation profiles, see [Set up depreciation profiles](set-up-depreciation-profiles.md).
 
-You can use the **RB/SL factors** form to set up reducing balance factors by service life for fixed assets. For more information, see [(FRA) RB/SL factors (form)](https://technet.microsoft.com/en-us/library/aa574244\(v=ax.60\)).
+You can use the **RB/SL factors** form to set up reducing balance factors by service life for fixed assets. For more information, see [(FRA) RB/SL factors (form)](https://technet.microsoft.com/library/aa574244\(v=ax.60\)).
 
 The reducing balance percentage is calculated for each fixed asset, depending on the service life of the asset. To calculate RB/SL depreciation, the depreciation starting date is always the first day of the month, and the depreciation ending date is always the end of the fiscal year. The RB/SL depreciation is the greater of either the reducing balance depreciation amount or the straight line depreciation amount.
 
@@ -96,7 +97,7 @@ For example, a fixed asset with an acquisition price is placed into service on F
 
 ## See also
 
-[Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\))
+[Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\))
 
 [Create a depreciation profile](create-a-depreciation-profile.md)
 

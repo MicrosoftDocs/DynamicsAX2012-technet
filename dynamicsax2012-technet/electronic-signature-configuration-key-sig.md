@@ -2,8 +2,9 @@
 title: Electronic signature configuration key (SIG)
 TOCTitle: Electronic signature configuration key (SIG)
 ms:assetid: d860bec1-be34-4ced-9154-4d608d441dea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416694(v=AX.60)
 ms:contentKeyID: 36931855
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,19 +38,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Electronic signature parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242781(v=ax.60)">Electronic signature parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242781(v=ax.60)">Electronic signature parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Electronic signature reason codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227594(v=ax.60)">Electronic signature reason codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227594(v=ax.60)">Electronic signature reason codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Electronic signature requirements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227382(v=ax.60)">Electronic signature requirements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227382(v=ax.60)">Electronic signature requirements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Signature requirement details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209509(v=ax.60)">Signature requirement details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209509(v=ax.60)">Signature requirement details (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -71,11 +72,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Designate approver</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209506(v=ax.60)">Designate approver (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209506(v=ax.60)">Designate approver (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Signature review</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227588(v=ax.60)">Signature review (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227588(v=ax.60)">Signature review (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +114,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: (ESP) Create and post free text invoices with delivery dates
 TOCTitle: (ESP) Create and post free text invoices with delivery dates
 ms:assetid: 8f67a255-8ff1-48f9-8219-972860e3ea20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933295(v=AX.60)
 ms:contentKeyID: 50877509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ Use the following procedure to create and post free text invoices with delivery 
 
 ## See also
 
-[(ESP) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj916229\(v=ax.60\))
+[(ESP) Free text invoice (modified form)](https://technet.microsoft.com/library/jj916229\(v=ax.60\))
 
   
 

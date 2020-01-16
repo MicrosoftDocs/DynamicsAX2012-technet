@@ -2,8 +2,9 @@
 title: (EST) Set up the import of telebank payments from customers
 TOCTitle: (EST) Set up the import of telebank payments from customers
 ms:assetid: 8327f2f2-e91b-4c30-90f5-69892d8552bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710856(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710856(v=AX.60)
 ms:contentKeyID: 49385252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ You can import telebank payments from customers into the accounts receivable pay
 
 1.  Click **Accounts receivable** \> **Setup** \> **Payment** \> **Methods of payment**.
 
-2.  Select a method of payment. To create a method of payment, click **New**, and then enter the required details. For more information, see [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+2.  Select a method of payment. To create a method of payment, click **New**, and then enter the required details. For more information, see [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
 3.  On the **File formats** FastTab, click **Setup** to open the **File formats for methods of payment** form.
 
@@ -35,7 +36,7 @@ You can import telebank payments from customers into the accounts receivable pay
 
 [(EST) Set up a customer reference number](est-set-up-a-customer-reference-number.md)
 
-[(EST) File formats for methods of payment (form)](https://technet.microsoft.com/en-us/library/jj710825\(v=ax.60\))
+[(EST) File formats for methods of payment (form)](https://technet.microsoft.com/library/jj710825\(v=ax.60\))
 
   
 

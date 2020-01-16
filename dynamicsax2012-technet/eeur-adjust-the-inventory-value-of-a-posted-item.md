@@ -2,8 +2,9 @@
 title: (EEUR) Adjust the inventory value of a posted item
 TOCTitle: (EEUR) Adjust the inventory value of a posted item
 ms:assetid: 91ffca54-94e3-4cd6-8f3a-de4ff8b222c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678297(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678297(v=AX.60)
 ms:contentKeyID: 49387019
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,11 +30,11 @@ Use this procedure to adjust the financial value of the selected receipt transac
 
 2.  In the **Adjust transactions** form, click **Select**, and then, in the **InventTransAdjustment** form, specify your selection criteria. When you are finished, click **OK**.
     
-    For more information about how to select transactions in the **InventTransAdjustment** form, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+    For more information about how to select transactions in the **InventTransAdjustment** form, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 3.  In the **Adjust transactions** form, click **Adjustment**, and then select an option.
     
-    For information about the options in this menu, see [Adjust transactions (form) (Inventory)](https://technet.microsoft.com/en-us/library/aa585975\(v=ax.60\)).
+    For information about the options in this menu, see [Adjust transactions (form) (Inventory)](https://technet.microsoft.com/library/aa585975\(v=ax.60\)).
 
 4.  In the **Edit now** field, enter the revised value. Depending on the option that you selected in step 5, the value might be calculated for you, but you can change it.
 
@@ -59,7 +60,7 @@ Use this procedure to adjust the financial value of the selected receipt transac
 
 [(EEUR) Adjust the cost value of on-hand inventory](eeur-adjust-the-cost-value-of-on-hand-inventory.md)
 
-[(EEUR) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710787\(v=ax.60\))
+[(EEUR) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj710787\(v=ax.60\))
 
   
 

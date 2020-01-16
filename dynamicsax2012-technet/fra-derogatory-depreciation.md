@@ -2,8 +2,9 @@
 title: (FRA) Derogatory depreciation
 TOCTitle: (FRA) Derogatory depreciation
 ms:assetid: 536d211c-fde1-41db-9e19-b15ee8440f18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208952(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208952(v=AX.60)
 ms:contentKeyID: 36057297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,11 +36,11 @@ To use derogatory depreciation, the value models must meet the following require
 
 ## See also
 
-[Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\))
+[Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\))
 
 [Create a depreciation profile](create-a-depreciation-profile.md)
 
-[Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\))
+[Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\))
 
 [Set up value models](set-up-value-models.md)
 

@@ -2,8 +2,9 @@
 title: Fixed units
 TOCTitle: Fixed units
 ms:assetid: af7beca8-1903-41b2-855e-e1cd52ae2381
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731896(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731896(v=AX.60)
 ms:contentKeyID: 35132813
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

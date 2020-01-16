@@ -2,8 +2,9 @@
 title: Expression constraints and table constraints
 TOCTitle: Expression constraints and table constraints
 ms:assetid: e1a7370d-890e-4ba5-bb62-5c4b01c0e40f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn283317(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn283317(v=AX.60)
 ms:contentKeyID: 54916491
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

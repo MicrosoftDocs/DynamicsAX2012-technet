@@ -2,8 +2,9 @@
 title: (ESP) Spanish payment due date compliance report (DueDateCompliance_ES)
 TOCTitle: (ESP) Spanish payment due date compliance report (DueDateCompliance_ES)
 ms:assetid: b89f7b1f-9a50-49ef-a429-f73b4e34b07e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn584138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn584138(v=AX.60)
 ms:contentKeyID: 60936834
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

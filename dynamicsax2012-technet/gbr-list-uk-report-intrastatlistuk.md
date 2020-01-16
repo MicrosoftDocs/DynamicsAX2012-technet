@@ -2,8 +2,9 @@
 title: (GBR) List UK report (IntrastatListUK)
 TOCTitle: (GBR) List UK report (IntrastatListUK)
 ms:assetid: 40eaba78-fbc7-44e2-aea8-e54d357abcd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433490(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433490(v=AX.60)
 ms:contentKeyID: 36941251
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

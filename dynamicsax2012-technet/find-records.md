@@ -2,8 +2,9 @@
 title: Find records
 TOCTitle: Find records
 ms:assetid: 2ca4a3ff-438c-45af-ac58-18eeafa51058
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496870(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496870(v=AX.60)
 ms:contentKeyID: 37822141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

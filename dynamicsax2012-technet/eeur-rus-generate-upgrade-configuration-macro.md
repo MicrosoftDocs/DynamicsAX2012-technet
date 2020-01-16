@@ -2,8 +2,9 @@
 title: (EEUR, RUS) Generate upgrade configuration macro
 TOCTitle: (EEUR, RUS) Generate upgrade configuration macro
 ms:assetid: aee421a1-5c2a-4e48-91a1-a142df7ce5bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714198(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714198(v=AX.60)
 ms:contentKeyID: 49651307
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ The following steps describe how to create the macro file and to save it as a li
 
 ## See also
 
-[(EEUR, RUS) Upgrade configuration macro generator (form)](https://technet.microsoft.com/en-us/library/jj713627\(v=ax.60\))
+[(EEUR, RUS) Upgrade configuration macro generator (form)](https://technet.microsoft.com/library/jj713627\(v=ax.60\))
 
   
 

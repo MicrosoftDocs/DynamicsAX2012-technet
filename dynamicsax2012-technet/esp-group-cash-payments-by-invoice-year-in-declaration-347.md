@@ -2,8 +2,9 @@
 title: (ESP) Group cash payments by invoice year in Declaration 347
 TOCTitle: (ESP) Group cash payments by invoice year in Declaration 347
 ms:assetid: 2f90be1f-3819-4446-8903-9ab4af4eaa79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304971(v=AX.60)
 ms:contentKeyID: 54899948
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,11 +30,11 @@ You can use the **Declaration 347** form to generate a Declaration 347 report fo
 
 Complete the following tasks before you generate the Declaration 347 report:
 
-1.  Set up the terms of payment. For more information, see [(ESP) Terms of payment (modified form)](https://technet.microsoft.com/en-us/library/jj910987\(v=ax.60\)).
+1.  Set up the terms of payment. For more information, see [(ESP) Terms of payment (modified form)](https://technet.microsoft.com/library/jj910987\(v=ax.60\)).
 
-2.  Set up the cash ledger account that is used to retrieve the cash payments. For more information, see [(ESP) Cash ledger accounts (form)](https://technet.microsoft.com/en-us/library/hh242856\(v=ax.60\)).
+2.  Set up the cash ledger account that is used to retrieve the cash payments. For more information, see [(ESP) Cash ledger accounts (form)](https://technet.microsoft.com/library/hh242856\(v=ax.60\)).
 
-3.  Set up the sales tax group that is excluded from the Declaration 347 report. For more information, see [(ESP) 347 validation lists (form)](https://technet.microsoft.com/en-us/library/hh209436\(v=ax.60\)).
+3.  Set up the sales tax group that is excluded from the Declaration 347 report. For more information, see [(ESP) 347 validation lists (form)](https://technet.microsoft.com/library/hh209436\(v=ax.60\)).
 
   
 

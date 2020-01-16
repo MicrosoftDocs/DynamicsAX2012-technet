@@ -1,9 +1,10 @@
-﻿---
+---
 title: EntityDataServiceResponse(T) Constructor (ReadOnlyCollection(T)) (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: EntityDataServiceResponse(T) Constructor (ReadOnlyCollection(T))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`1.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{`0})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn990601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn990601(v=AX.60)
 ms:contentKeyID: 65321540
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ EntityDataServiceResponse(
 #### Parameters
 
   - entityCollection  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[T](entitydataserviceresponse-t-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[T](entitydataserviceresponse-t-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)\>  
 
 ## See Also
 

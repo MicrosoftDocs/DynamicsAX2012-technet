@@ -2,8 +2,9 @@
 title: (FRA) Draw and print bills of exchange
 TOCTitle: (FRA) Draw and print bills of exchange
 ms:assetid: 5c06df45-d2ca-4740-b8a6-74e14869d44b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242502(v=AX.60)
 ms:contentKeyID: 36057566
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,11 +18,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Before you can draw and print bills of exchange, you must perform the following setup tasks:
 
-  - Set up a method of payment for bills of exchange by selecting **French bill of exchange** in the **Export format** field and **French bill of exchange remittance** in the **Remittance format** field in the **Methods of payment - customers** form. For more information, see [Set up bills of exchange](set-up-bills-of-exchange.md) and [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+  - Set up a method of payment for bills of exchange by selecting **French bill of exchange** in the **Export format** field and **French bill of exchange remittance** in the **Remittance format** field in the **Methods of payment - customers** form. For more information, see [Set up bills of exchange](set-up-bills-of-exchange.md) and [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
   - Set up a bank account for a customer. For more information, see [Set up a bank account for a customer account](set-up-a-bank-account-for-a-customer-account.md).
 
-  - Set up a customer address that has a purpose of **Payment** to use for bills of exchange. For more information, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)) and [Manage addresses (form)](https://technet.microsoft.com/en-us/library/hh370713\(v=ax.60\)).
+  - Set up a customer address that has a purpose of **Payment** to use for bills of exchange. For more information, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)) and [Manage addresses (form)](https://technet.microsoft.com/library/hh370713\(v=ax.60\)).
 
 Use this procedure to draw and print bills of exchange.
 
@@ -41,7 +42,7 @@ Depending on the method of payment that you selected for each journal line, one 
 
 ## See also
 
-[Generate payments - customer (class form)](https://technet.microsoft.com/en-us/library/aa554105\(v=ax.60\))
+[Generate payments - customer (class form)](https://technet.microsoft.com/library/aa554105\(v=ax.60\))
 
   
 

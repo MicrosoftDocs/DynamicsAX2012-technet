@@ -2,8 +2,9 @@
 title: 'Examples: Posting definitions'
 TOCTitle: 'Examples: Posting definitions'
 ms:assetid: 0543bf68-6ee4-4f8e-a513-1d30b9be3108
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242107(v=AX.60)
 ms:contentKeyID: 36055951
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -322,9 +323,9 @@ In this example, any account that is part of Account Structure - P\&L matches th
 
 [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md)
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
   
 

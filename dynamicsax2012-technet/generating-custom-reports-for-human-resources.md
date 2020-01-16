@@ -2,8 +2,9 @@
 title: Generating custom reports for Human resources
 TOCTitle: Generating custom reports for Human resources
 ms:assetid: 7f05681c-cb75-4d7f-8f7d-37ac098e4890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527697(v=AX.60)
 ms:contentKeyID: 59626229
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

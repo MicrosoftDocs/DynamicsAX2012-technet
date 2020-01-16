@@ -2,8 +2,9 @@
 title: Fixed asset records
 TOCTitle: Fixed asset records
 ms:assetid: 5ea53226-d12a-466c-9bb8-cbd961cf6496
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527695(v=AX.60)
 ms:contentKeyID: 59626230
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ The asset must have been transferred originally by using the **Transfer fixed as
 
 The fixed asset numbering for fixed asset groups and the general fixed asset numbering option in the **Fixed assets parameters** form are complementary. This means that fixed assets in a fixed asset group can have their own set of numbers, separate from the number sequence used for all of the other fixed assets. If no specific numbering exists for a fixed asset group, the default number sequence in the **Fixed assets parameters** form is used.
 
-For more information about fixed asset numbers, see [Fixed asset number](https://technet.microsoft.com/en-us/library/aa618207\(v=ax.60\)) and [Fixed asset number sequence](https://technet.microsoft.com/en-us/library/aa500119\(v=ax.60\)).
+For more information about fixed asset numbers, see [Fixed asset number](https://technet.microsoft.com/library/aa618207\(v=ax.60\)) and [Fixed asset number sequence](https://technet.microsoft.com/library/aa500119\(v=ax.60\)).
 
 ## Don't see your question here?
 

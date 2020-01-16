@@ -2,8 +2,9 @@
 title: (EEUR) Set up the financial reports generator
 TOCTitle: (EEUR) Set up the financial reports generator
 ms:assetid: 810045fe-1ff2-47e7-9017-ee9ba07fdd52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910986(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910986(v=AX.60)
 ms:contentKeyID: 52075300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You can use the Russian financial reports generator (FRG) to generate reports by
 
 
 
-5.  In the **Data** field, select the data source for the report. For more information, see [(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\)).
+5.  In the **Data** field, select the data source for the report. For more information, see [(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\)).
 
 6.  In the **Budget model** field, select a budget model number.
     
@@ -49,7 +50,7 @@ You can use the Russian financial reports generator (FRG) to generate reports by
 
 10. In the **Fractional part** field, enter the number of decimal places that is used for the amounts on the report.
 
-11. On the **Type of transactions** tab, in the **Transaction usage** field, select the type of transaction to include on the report. For more information, see [(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\)).
+11. On the **Type of transactions** tab, in the **Transaction usage** field, select the type of transaction to include on the report. For more information, see [(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\)).
     
 
     > [!NOTE]

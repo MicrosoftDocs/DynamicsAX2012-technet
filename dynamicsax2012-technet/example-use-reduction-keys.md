@@ -2,8 +2,9 @@
 title: 'Example: Use reduction keys'
 TOCTitle: 'Example: Use reduction keys'
 ms:assetid: 8bb788fb-cf70-4d5c-b3c0-da747d0c4bba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498254(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498254(v=AX.60)
 ms:contentKeyID: 36058474
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -192,7 +193,7 @@ Using the same demand forecast of 1000 pieces per month, the following requireme
 
 ## See also
 
-[Reduction keys (form)](https://technet.microsoft.com/en-us/library/aa553816\(v=ax.60\))
+[Reduction keys (form)](https://technet.microsoft.com/library/aa553816\(v=ax.60\))
 
 [Create and use a reduction key](create-and-use-a-reduction-key.md)
 
