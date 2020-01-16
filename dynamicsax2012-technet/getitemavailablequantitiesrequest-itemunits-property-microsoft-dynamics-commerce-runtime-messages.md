@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetItemAvailableQuantitiesRequest.ItemUnits Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: ItemUnits Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemAvailableQuantitiesRequest.ItemUnits
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getitemavailablequantitiesrequest.itemunits(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitemavailablequantitiesrequest.itemunits(v=AX.60)
 ms:contentKeyID: 49837904
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property IEnumerable<ItemUnit^>^ ItemUnits {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ItemUnit](itemunit-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ItemUnit](itemunit-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The item quantities.  
 
 ## See Also

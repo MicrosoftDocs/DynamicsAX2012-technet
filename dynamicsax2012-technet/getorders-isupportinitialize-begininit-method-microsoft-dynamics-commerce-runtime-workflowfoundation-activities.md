@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOrders.ISupportInitialize.BeginInit Method  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: ISupportInitialize.BeginInit Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.GetOrders.System#ComponentModel#ISupportInitialize#BeginInit
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989291(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989291(v=AX.60)
 ms:contentKeyID: 65319245
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ virtual void BeginInit() sealed = ISupportInitialize::BeginInit
 
 #### Implements
 
-[ISupportInitialize.BeginInit()](https://technet.microsoft.com/en-us/library/2w2h58x7\(v=ax.60\))  
+[ISupportInitialize.BeginInit()](https://technet.microsoft.com/library/2w2h58x7\(v=ax.60\))  
 
 ## See Also
 

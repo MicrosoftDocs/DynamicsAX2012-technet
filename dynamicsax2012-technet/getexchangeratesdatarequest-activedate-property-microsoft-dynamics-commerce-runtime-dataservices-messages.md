@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetExchangeRatesDataRequest.ActiveDate Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: ActiveDate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetExchangeRatesDataRequest.ActiveDate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getexchangeratesdatarequest.activedate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getexchangeratesdatarequest.activedate(v=AX.60)
 ms:contentKeyID: 65323237
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property DateTime ActiveDate {
 
 #### Property Value
 
-Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
-Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)).  
 
 ## See Also
 

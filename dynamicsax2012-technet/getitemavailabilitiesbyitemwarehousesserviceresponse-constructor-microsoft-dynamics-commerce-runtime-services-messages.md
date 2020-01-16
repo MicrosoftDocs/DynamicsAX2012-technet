@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetItemAvailabilitiesByItemWarehousesServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetItemAvailabilitiesByItemWarehousesServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetItemAvailabilitiesByItemWarehousesServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailability},System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getitemavailabilitiesbyitemwarehousesserviceresponse.getitemavailabilitiesbyitemwarehousesserviceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getitemavailabilitiesbyitemwarehousesserviceresponse.getitemavailabilitiesbyitemwarehousesserviceresponse(v=AX.60)
 ms:contentKeyID: 62209693
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,12 +56,12 @@ GetItemAvailabilitiesByItemWarehousesServiceResponse(
 #### Parameters
 
   - itemAvailabilities  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ItemAvailability](itemavailability-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ItemAvailability](itemavailability-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - totalNumberOfRecords  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

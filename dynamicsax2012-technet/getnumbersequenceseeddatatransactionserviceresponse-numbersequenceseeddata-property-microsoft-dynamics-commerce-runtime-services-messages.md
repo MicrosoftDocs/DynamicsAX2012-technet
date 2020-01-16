@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetNumberSequenceSeedDataTransactionServiceResponse.NumberSequenceSeedData Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: NumberSequenceSeedData Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetNumberSequenceSeedDataTransactionServiceResponse.NumberSequenceSeedData
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getnumbersequenceseeddatatransactionserviceresponse.numbersequenceseeddata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getnumbersequenceseeddatatransactionserviceresponse.numbersequenceseeddata(v=AX.60)
 ms:contentKeyID: 65320853
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property IEnumerable<NumberSequenceSeedData^>^ NumberSequenceSeedData {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[NumberSequenceSeedData](numbersequenceseeddata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[NumberSequenceSeedData](numbersequenceseeddata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

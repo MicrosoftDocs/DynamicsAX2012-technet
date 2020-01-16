@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetPickingListResponse Constructor (IEnumerable(PickingList)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetPickingListResponse Constructor (IEnumerable(PickingList))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetPickingListResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.PickingList})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getpickinglistresponse.getpickinglistresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getpickinglistresponse.getpickinglistresponse(v=AX.60)
 ms:contentKeyID: 62215104
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetPickingListResponse(
 #### Parameters
 
   - pickingLists  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[PickingList](pickinglist-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[PickingList](pickinglist-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

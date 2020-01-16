@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetOrdersServiceResponse.Orders Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: Orders Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetOrdersServiceResponse.Orders
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getordersserviceresponse.orders(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getordersserviceresponse.orders(v=AX.60)
 ms:contentKeyID: 49843534
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<SalesOrder^>^ Orders {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[SalesOrder](salesorder-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [Collection\<T\>](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[SalesOrder](salesorder-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [Collection\<T\>](https://technet.microsoft.com/library/ms132397\(v=ax.60\)).  
 
 ## See Also
 

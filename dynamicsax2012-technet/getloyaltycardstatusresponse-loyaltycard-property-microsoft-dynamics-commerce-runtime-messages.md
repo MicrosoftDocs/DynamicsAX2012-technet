@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetLoyaltyCardStatusResponse.LoyaltyCard Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: LoyaltyCard Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetLoyaltyCardStatusResponse.LoyaltyCard
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getloyaltycardstatusresponse.loyaltycard(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getloyaltycardstatusresponse.loyaltycard(v=AX.60)
 ms:contentKeyID: 62213951
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
