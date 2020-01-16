@@ -64,7 +64,7 @@ Consider the following information when you are deciding which tables to include
 
   - Adding a table that is not company-specific to a table collection has no effect, because the records in the table are already available to all organizations.
 
-  - The database administrator may need to tune indexes to improve performance, depending on which tables are shared in a virtual company. For more information about how to design indexes, start with [Index Design Basics](http://technet.microsoft.com/en-us/library/ms179560\(v=sql.105\).aspx) in the SQL Server documentation.
+  - The database administrator may need to tune indexes to improve performance, depending on which tables are shared in a virtual company. For more information about how to design indexes, start with [Index Design Basics](https://technet.microsoft.com//library/ms179560\(v=sql.105\).aspx) in the SQL Server documentation.
 
 The following procedure describes how to create table collections by using drag-and-drop operations in the Application Object Tree (AOT).
 

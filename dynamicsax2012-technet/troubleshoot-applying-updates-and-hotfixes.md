@@ -95,7 +95,7 @@ It may seem that a hotfix includes more classes than are required. Additional cl
 
 When a hotfix is created, the servicing process creates a dependency between the objects in the hotfix. For example, if a hotfix modifies two classes, a dependency is created between the classes. Therefore, whenever one class is included in a hotfix, the other class is also included as a dependency. This behavior is required to ensure the integrity of the hotfix. Because a hotfix contains the whole fix together with all encompassed software updates, we do not regress on functionality that was previously shipped.
 
-For a more detailed explanation, see the post [Understanding Application Dependencies in Dynamics AX 2009 Hotfixes](http://blogs.technet.com/b/dynamicsaxse/archive/2011/05/11/understanding-dependencies-in-dynamics-ax-2009-hotfixes.aspx) on the Microsoft Dynamics AX Sustained Engineering blog.
+For a more detailed explanation, see the post [Understanding Application Dependencies in Dynamics AX 2009 Hotfixes](https://blogs.technet.com/b/dynamicsaxse/archive/2011/05/11/understanding-dependencies-in-dynamics-ax-2009-hotfixes.aspx) on the Microsoft Dynamics AX Sustained Engineering blog.
 
 ## Roll back an update
 

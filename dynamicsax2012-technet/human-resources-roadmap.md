@@ -57,7 +57,7 @@ You can use Human resources to complete these tasks:
 <p><a href="https://blogs.msdn.com/b/dax/archive/2014/01/14/human-capital-management-even-better-with-the-latest-release-of-microsoft-dynamics-ax-2012.aspx">Human Capital Management – Even better with the latest release of Microsoft Dynamics AX 2012</a> (blog)</p>
 <p><a href="http://sandeepchaudhury.wordpress.com/2013/02/14/time-and-attendance-registration-functionality-of-microsoft-dynamics-ax-2012/">Time and Attendance Registration functionality of Microsoft Dynamics AX 2012</a> (blog)</p>
 <p><a href="https://lcs.dynamics.com/home/homeindex">Lifecycle Services</a>* (Cloud-based workspace)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
 <p><a href="https://mbs.microsoft.com/partnersource/northamerica/deployment/documentation/white-papers/ax2012_businessprocessdiagramtemplates">Business Process Diagram Templates for Microsoft Dynamics AX 2012</a> (download)</p>
 <p>* In order to use Lifecycle Services, you must have a CustomerSource or PartnerSource account, and have created a project. For more information, see the <a href="lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md">Lifecycle Service User Guide</a></p></td>
 </tr>

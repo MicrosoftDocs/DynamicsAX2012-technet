@@ -253,7 +253,7 @@ If you are using Reporting Services 2012 or 2014, follow these steps to configur
     <li><p><a href="https://technet.microsoft.com/library/hh479775.aspx">Add an Additional Reporting Services Web Front-end to a Farm</a></p></li>
     </ul></td>
     <td><ul>
-    <li><p><a href="http://msdn.microsoft.com/en-in/library/jj219068.aspx">Install Reporting Services SharePoint Mode for SharePoint 2013</a></p>
+    <li><p><a href="https://msdn.microsoft.com//library/jj219068.aspx">Install Reporting Services SharePoint Mode for SharePoint 2013</a></p>
     <div class="alert">
 
     > [!IMPORTANT]

@@ -30,7 +30,7 @@ Use the Retail mass deployment toolkit with System Center Configuration Manager 
 
 The Retail mass deployment toolkit is a command-line tool that you can use to facilitate mass deployment of the retail components of Microsoft Dynamics AX.
 
-Configuration Manager enables secure and scalable software deployment, management of compliance settings, and comprehensive asset management for servers, desktops, portable computers, and mobile devices. For more information about Configuration Manager, see the [System Center Configuration Manager TechCenter](http://technet.microsoft.com/en-us/systemcenter/hh285244) on TechNet.
+Configuration Manager enables secure and scalable software deployment, management of compliance settings, and comprehensive asset management for servers, desktops, portable computers, and mobile devices. For more information about Configuration Manager, see the [System Center Configuration Manager TechCenter](https://technet.microsoft.com//systemcenter/hh285244) on TechNet.
 
 This topic includes the following information:
 

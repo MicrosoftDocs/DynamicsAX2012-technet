@@ -136,7 +136,7 @@ If the SharePoint Web Services Root application pool is stopped, you must start 
 </tr>
 <tr class="even">
 <td><p>Verify SQLCMD utility</p></td>
-<td><p>The SQLCMD utility is required to install the Retail online store. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install the online store, you can download and install <a href="http://www.microsoft.com/en-us/download/details.aspx?id=36433">Microsoft Command Line Utilities 11 for SQL Server</a> to meet this requirement.</p></td>
+<td><p>The SQLCMD utility is required to install the Retail online store. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install the online store, you can download and install <a href="https://www.microsoft.com/en-us/download/details.aspx?id=36433">Microsoft Command Line Utilities 11 for SQL Server</a> to meet this requirement.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Verify warehouse requirement</p></td>

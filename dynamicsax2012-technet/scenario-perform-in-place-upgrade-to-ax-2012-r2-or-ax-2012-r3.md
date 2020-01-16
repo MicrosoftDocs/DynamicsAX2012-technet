@@ -116,7 +116,7 @@ To create a test system, follow these steps:
     
     For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](https://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
     
-    For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094).
+    For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](https://www.microsoft.com/en-us/download/details.aspx?id=11094).
 
 ## Import customized Web Parts and reports into the AOT
 
@@ -371,7 +371,7 @@ To create a development system, follow these steps:
     
     For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](https://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
     
-    For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094).
+    For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](https://www.microsoft.com/en-us/download/details.aspx?id=11094).
 
 ## Prepare development system for code upgrade
 

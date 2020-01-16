@@ -28,5 +28,5 @@ The following topics provide guidance to upgrade reports in Microsoft Dynamics A
 
 ## See also
 
-[Report List in Microsoft Excel Format](http://www.microsoft.com/download/en/details.aspx?id=27877)
+[Report List in Microsoft Excel Format](https://www.microsoft.com/download/en/details.aspx?id=27877)
 

@@ -39,7 +39,7 @@ This article introduces you to resources to help you understand how worker resou
 <p>Schedule workers for projects</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="https://go.microsoft.com/fwlink/?linkid=268038%26amp%3bclcid=0x409">Worker resource scheduling in Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=43112">Worker resource scheduling in Microsoft Dynamics AX 2012 R3</a> (white paper)</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=43112">Worker resource scheduling in Microsoft Dynamics AX 2012 R3</a> (white paper)</p>
 <p><a href="https://www.youtube.com/watch?v=cp33redl9es">Microsoft Dynamics AX 2012 R3 for Service Industries demo: Staff for success</a> (video)</p>
 <p><a href="create-or-update-a-project-by-using-microsoft-project.md">Create or update a project by using Microsoft Project</a> (article)</p>
 <p><a href="http://community.dynamics.com/ax/b/dynamicsaxtipoftheday/archive/2014/01/23/assign-workers-to-projects-visually-using-the-worker-reservation-screen.aspx">Assign Workers To Projects Visually Using The Worker Reservation Screen</a> (blog post)</p></td>

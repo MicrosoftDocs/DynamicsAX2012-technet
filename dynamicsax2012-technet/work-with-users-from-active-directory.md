@@ -22,7 +22,7 @@ Before you install or deploy Microsoft Dynamics AX, carefully plan the user topo
 
 For information about how to configure AD DS, see one of the following resources:
 
-  - [Deploy Active Directory Domain Services (AD DS) in Your Enterprise (Windows Server 2012)](http://technet.microsoft.com/en-us/library/hh472160.aspx)
+  - [Deploy Active Directory Domain Services (AD DS) in Your Enterprise (Windows Server 2012)](https://technet.microsoft.com//library/hh472160.aspx)
 
   - [Deployment guide for Active Directory Domain Services on Windows Server 2008](https://go.microsoft.com/fwlink/?linkid=164995)
 

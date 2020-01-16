@@ -175,7 +175,7 @@ You must be a local administrator on the computers that host the AOS, Real-time 
 
 [IISADMIN Service](https://technet.microsoft.com/library/cc735102.aspx)
 
-[Start or Stop an Application Pool](http://technet.microsoft.com/en-us/library/cc732742.aspx)
+[Start or Stop an Application Pool](https://technet.microsoft.com//library/cc732742.aspx)
 
   
 

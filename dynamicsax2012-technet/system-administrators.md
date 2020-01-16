@@ -66,7 +66,7 @@ To start working with Microsoft Dynamics AX, review the following resources.
 <li><p><a href="the-microsoft-dynamics-ax-client.md">The Microsoft Dynamics AX client</a></p></li>
 <li><p><a href="application-object-servers.md">Application Object Servers</a></p></li>
 <li><p><a href="reporting-in-microsoft-dynamics-ax.md">Reporting in Microsoft Dynamics AX</a></p></li>
-<li><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=5916">Management Reporter 2012</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=5916">Management Reporter 2012</a></p></li>
 <li><p><a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a></p></li>
 <li><p><a href="help-server.md">Help server</a></p></li>
 <li><p><a href="enterprise-portal-and-role-centers.md">Enterprise Portal and Role Centers</a></p></li>
@@ -138,7 +138,7 @@ See the following blogs for more information about Microsoft Dynamics AX.
 <li><p><a href="https://blogs.msdn.com/b/aksheygupta/">Akshey Gupta</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/chrisgarty/">Chris Garty</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/bwelcker/">Brian Welcker</a></p></li>
-<li><p><a href="http://blogs.technet.com/b/tompatton/">Tom Patton</a></p></li>
+<li><p><a href="https://blogs.technet.com/b/tompatton/">Tom Patton</a></p></li>
 <li><p><a href="https://blogs.msdn.com/b/lcash/">Lachlan Cash</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221072">Michael Fruergaard Pontoppidan</a></p></li>
 </ul></td>

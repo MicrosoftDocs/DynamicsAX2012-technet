@@ -22,11 +22,11 @@ You must install the Shared Management Objects for Microsoft SQL Server on Micro
 
 Download the Shared Management Objects for the version of SQL Server that you are using. You can download the Shared Management Objects from one of the following web pages:
 
-  - [SQL Server 2008 Feature Pack page](http://www.microsoft.com/en-us/download/details.aspx?id=8824)
+  - [SQL Server 2008 Feature Pack page](https://www.microsoft.com/en-us/download/details.aspx?id=8824)
 
-  - [SQL Server 2008 R2 Feature Pack page](http://www.microsoft.com/en-us/download/details.aspx?id=16978)
+  - [SQL Server 2008 R2 Feature Pack page](https://www.microsoft.com/en-us/download/details.aspx?id=16978)
 
-  - [SQL Server 2012 Feature Pack page](http://www.microsoft.com/en-us/download/details.aspx?id=29065)
+  - [SQL Server 2012 Feature Pack page](https://www.microsoft.com/en-us/download/details.aspx?id=29065)
 
   
 

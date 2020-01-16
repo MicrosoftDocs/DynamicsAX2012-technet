@@ -34,7 +34,7 @@ Before you implement the analytical features of Microsoft Dynamics AX, there are
 <p>Determine how you want to display cube data</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a> (content roadmap)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=38410">Business Intelligence Capabilities and Tools</a> (white paper)</p></td>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=38410">Business Intelligence Capabilities and Tools</a> (white paper)</p></td>
 </tr>
 </tbody>
 </table>

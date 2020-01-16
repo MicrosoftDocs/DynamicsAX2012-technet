@@ -44,7 +44,7 @@ To deploy Async Client on multiple computers in an environment, you can use the 
     
     For more information about the hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377).
 
-  - The SQLCMD utility is required to install Async Client. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install Async Client, you can download and install [Microsoft Command Line Utilities 11 for SQL Server](http://www.microsoft.com/en-us/download/details.aspx?id=36433) to meet this requirement.
+  - The SQLCMD utility is required to install Async Client. This utility is typically installed with Microsoft SQL Server. If a version of SQL Server is not installed on the computer where you install Async Client, you can download and install [Microsoft Command Line Utilities 11 for SQL Server](https://www.microsoft.com/en-us/download/details.aspx?id=36433) to meet this requirement.
 
 ## Option 1: Install Async Client by using Setup
 

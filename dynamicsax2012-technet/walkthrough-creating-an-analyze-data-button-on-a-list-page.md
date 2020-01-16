@@ -32,7 +32,7 @@ To add an Analyze data button to a list page, you must:
 
   - Microsoft SQL Server Reporting Services 2012 Service Pack 1 must be installed in SharePoint integrated mode with [cumulative update 4](https://support.microsoft.com/kb/2833645/en-us) applied.
 
-  - The Power View site collection feature in SharePoint must be activated. For instructions about how to activate this feature, see the information in the [Install Reporting Services SharePoint Mode as a Single Server Farm](http://technet.microsoft.com/en-us/library/gg492276.aspx) topic.
+  - The Power View site collection feature in SharePoint must be activated. For instructions about how to activate this feature, see the information in the [Install Reporting Services SharePoint Mode as a Single Server Farm](https://technet.microsoft.com//library/gg492276.aspx) topic.
 
   - Microsoft SQL Server Analysis Services 2012 Service Pack 1 must be installed in multidimensional mode with [cumulative update 4](https://support.microsoft.com/kb/2833645/en-us) applied.
 
@@ -124,7 +124,7 @@ You must add a data source to your SharePoint library to connect a Power View re
     
 
     > [!NOTE]
-    > <P>If Analysis Services and Enterprise Portal are installed on different computers, you must use Kerberos security. To configure Kerberos security, see <A href="http://www.microsoft.com/en-us/download/details.aspx?id=16080">this white paper.</A> After you have configured Kerberos security to work with the servers, complete the following steps:</P>
+    > <P>If Analysis Services and Enterprise Portal are installed on different computers, you must use Kerberos security. To configure Kerberos security, see <A href="https://www.microsoft.com/en-us/download/details.aspx?id=16080">this white paper.</A> After you have configured Kerberos security to work with the servers, complete the following steps:</P>
     > <OL>
     > <LI>
     > <P>In the <STRONG>Credentials</STRONG> area, select <STRONG>Stored credentials</STRONG>.</P>

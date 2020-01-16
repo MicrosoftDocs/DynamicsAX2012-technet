@@ -612,7 +612,7 @@ Define a deployment profile for each device where you plan to deploy Retail Mode
     <tr class="even">
     <td><p><strong>Side loading key</strong></p></td>
     <td><p>Enter a sideloading key.</p>
-    <p>Apps that aren't signed by Windows Store can be installed only on devices that are enabled for sideloading. To enable sideloading on a computer, you must use a sideloading product activation key. For more information about how to sideload apps, see <a href="http://technet.microsoft.com/en-us/windows/jj874388.aspx">Try It Out: Sideload Windows Store Apps</a>.</p></td>
+    <p>Apps that aren't signed by Windows Store can be installed only on devices that are enabled for sideloading. To enable sideloading on a computer, you must use a sideloading product activation key. For more information about how to sideload apps, see <a href="https://technet.microsoft.com//windows/jj874388.aspx">Try It Out: Sideload Windows Store Apps</a>.</p></td>
     </tr>
     </tbody>
     </table>

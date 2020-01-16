@@ -61,7 +61,7 @@ Before you can complete the procedures in this topic, you must make sure that th
 <tr class="odd">
 <td><p>Required software</p></td>
 <td><p>This walkthrough utilizes Power Query, Power Pivot, and Power BI Sites from Power BI for Office 365</p></td>
-<td><p><a href="http://www.microsoft.com/en-us/powerbi/default.aspx">Power BI for Office 365</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/powerbi/default.aspx">Power BI for Office 365</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ Back to top
 
 ## 7\. Share the report in Power BI sites
 
-Now that you’ve created the report, you can add it to your Power BI sites page and share it with other people. You can also access your reports by using the Power BI app from the Windows store app. For more information about Power BI sites, see the [Power BI sites documentation](http://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx). For more information about the Power BI Windows Store app, see [Power BI Windows Store help](https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
+Now that you’ve created the report, you can add it to your Power BI sites page and share it with other people. You can also access your reports by using the Power BI app from the Windows store app. For more information about Power BI sites, see the [Power BI sites documentation](https://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx). For more information about the Power BI Windows Store app, see [Power BI Windows Store help](https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
 
 1.  From your Power BI sites page, click **Shared with Everyone**.
 

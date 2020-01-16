@@ -92,7 +92,7 @@ For more information about how license codes and configuration keys work togethe
 
 ## See also
 
-[White Paper: Support for Previous POS Versions](http://www.microsoft.com/en-us/download/details.aspx?id=35833)
+[White Paper: Support for Previous POS Versions](https://www.microsoft.com/en-us/download/details.aspx?id=35833)
 
   
 

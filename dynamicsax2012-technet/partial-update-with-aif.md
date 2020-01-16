@@ -110,7 +110,7 @@ The following example creates a message to update a sales order with three sales
     <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/
         01/documents/Message">
         <Header>
-            <Action>http://www.microsoft.com/dynamics/services/2008/
+            <Action>https://www.microsoft.com/dynamics/services/2008/
                 01/SalesOrderService/update</Action>
         </Header>
         <Body>
@@ -184,7 +184,7 @@ The following example shows XML that clears the surrogate foreign key values for
     <Envelope xmlns="<a href='https://schemas.microsoft.com/dynamics/2011/'>https://schemas.microsoft.com/dynamics/2011/</a>
     01/documents/Message">
     <Header>
-    <Action><a href='http://www.microsoft.com/dynamics/services/2008/'>http://www.microsoft.com/dynamics/services/2008/</a>
+    <Action><a href='https://www.microsoft.com/dynamics/services/2008/'>https://www.microsoft.com/dynamics/services/2008/</a>
     01/SalesOrderService/update</Action>
     </Header>
     <Body>

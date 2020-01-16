@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Welcome to the Microsoft Dynamics AX 2012 New, Changed, and Deprecated Features library. This library provides a summary of new and changed features for Microsoft Dynamics AX 2012, including Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012 R2, and Microsoft Dynamics AX 2012 R3. The library also describes companion apps and tools and services that support AX 2012. It also includes deprecated feature notices for features that are planned for removal in AX 2012 or future versions. Familiarity with Microsoft Dynamics AX or other business management software is assumed.
 
-You can download the [New, Changed, and Deprecated Features book](http://www.microsoft.com/download/en/details.aspx?id=7225) from the Microsoft Download Center.
+You can download the [New, Changed, and Deprecated Features book](https://www.microsoft.com/download/en/details.aspx?id=7225) from the Microsoft Download Center.
 
 ## Get Started
 

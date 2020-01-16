@@ -18,15 +18,15 @@ The topics in this section provide information about how to use Windows PowerShe
 
 [Administering Microsoft Dynamics AX by using Windows PowerShell](administering-microsoft-dynamics-ax-by-using-windows-powershell.md)
 
-[General management cmdlets](http://technet.microsoft.com/en-us/library/hh580550.aspx)
+[General management cmdlets](https://technet.microsoft.com//library/hh580550.aspx)
 
-[Flexible authentication cmdlets](http://technet.microsoft.com/en-us/library/hh580551.aspx)
+[Flexible authentication cmdlets](https://technet.microsoft.com//library/hh580551.aspx)
 
-[Model and model store cmdlets](http://technet.microsoft.com/en-us/library/hh580552.aspx)
+[Model and model store cmdlets](https://technet.microsoft.com//library/hh580552.aspx)
 
-[Report server management cmdlets](http://technet.microsoft.com/en-us/library/hh580553.aspx)
+[Report server management cmdlets](https://technet.microsoft.com//library/hh580553.aspx)
 
-[User and role-based security cmdlets](http://technet.microsoft.com/en-us/library/hh580554.aspx)
+[User and role-based security cmdlets](https://technet.microsoft.com//library/hh580554.aspx)
 
   
 

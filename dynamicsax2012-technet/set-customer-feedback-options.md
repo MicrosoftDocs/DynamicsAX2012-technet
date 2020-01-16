@@ -25,7 +25,7 @@ Join the Customer Experience Improvement Program to help improve the quality, re
 
 The program collects information about computer hardware and how you use Microsoft Dynamics AX, without interrupting you. This helps Microsoft identify which Microsoft Dynamics AX features to improve. No information collected is used to identify or contact you.
 
-For more information and a complete privacy statement for the Customer Experience Improvement Program, visit the [Customer Experience Improvement Program Web site](http://www.microsoft.com/products/ceip).
+For more information and a complete privacy statement for the Customer Experience Improvement Program, visit the [Customer Experience Improvement Program Web site](https://www.microsoft.com/products/ceip).
 
   
 

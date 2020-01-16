@@ -27,7 +27,7 @@ This article explains how to use the features and services that are included in 
 <p>Overview of Power BI for Office 365</p>
 <p>How Microsoft Dynamics AX integrates with Power BI for Office 365</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://www.microsoft.com/en-us/powerbi/default.aspx#fbid=skw-o4z9lps">Power BI for Office 365 (website)</a></p>
+<p><a href="https://www.microsoft.com/en-us/powerbi/default.aspx#fbid=skw-o4z9lps">Power BI for Office 365 (website)</a></p>
 <p><a href="https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-getting-started-guide-ha104103589.aspx">Power BI: Getting Started Guide (webpage)</a></p></td>
 </tr>
 </tbody>
@@ -58,9 +58,9 @@ The features listed in the following table are part of the familiar Excel enviro
   </tr>
   <tr>
     <td>
-      <img runat="server" AltText="Discover data" src="https://technet.microsoft.com/en-us/Dn768397.BI_PowerBI_Discover(AX.60).png" title="Discover data" alt="Discover data" />
+      <img runat="server" AltText="Discover data" src="https://technet.microsoft.com/Dn768397.BI_PowerBI_Discover(AX.60).png" title="Discover data" alt="Discover data" />
     </td>
-    <td> <p> <a href="http://www.microsoft.com/en-us/powerbi/home/discover.aspx#fbid=skw-o4z9lps" runat="server">Power Query</a> </p> </td>
+    <td> <p> <a href="https://www.microsoft.com/en-us/powerbi/home/discover.aspx#fbid=skw-o4z9lps" runat="server">Power Query</a> </p> </td>
     <td> <p>
    
 	 Use Power Query to access data from public and corporate data sources. Power Query includes a new online search feature that helps you find public data on the Web.
@@ -68,9 +68,9 @@ The features listed in the following table are part of the familiar Excel enviro
   </tr>
   <tr>
     <td>
-      <img runat="server" AltText="Analyze data" src="https://technet.microsoft.com/en-us/Dn768397.BI_PowerBI_(AX.60).png" title="Analyze data" alt="Analyze data" />
+      <img runat="server" AltText="Analyze data" src="https://technet.microsoft.com/Dn768397.BI_PowerBI_(AX.60).png" title="Analyze data" alt="Analyze data" />
     </td>
-    <td> <p> <a href="http://www.microsoft.com/en-us/powerbi/home/analyze.aspx#fbid=skw-o4z9lps" runat="server">Power Pivot</a> </p> </td>
+    <td> <p> <a href="https://www.microsoft.com/en-us/powerbi/home/analyze.aspx#fbid=skw-o4z9lps" runat="server">Power Pivot</a> </p> </td>
     <td> <p>
    
 	 Use Power Pivot to create analytical models in the familiar Excel environment. You can mash-up data from multiple sources and analyze large amounts of data.
@@ -78,16 +78,16 @@ The features listed in the following table are part of the familiar Excel enviro
   </tr>
   <tr>
     <td rowspan="2">
-      <img runat="server" AltText="Visualize data" src="https://technet.microsoft.com/en-us/Dn768397.BI_PowerBI_Visualize(AX.60).png" title="Visualize data" alt="Visualize data" />
+      <img runat="server" AltText="Visualize data" src="https://technet.microsoft.com/Dn768397.BI_PowerBI_Visualize(AX.60).png" title="Visualize data" alt="Visualize data" />
     </td>
-    <td> <p> <a href="http://www.microsoft.com/en-us/powerbi/home/visualize.aspx#fbid=skw-o4z9lps" runat="server">Power View</a> </p> </td>
+    <td> <p> <a href="https://www.microsoft.com/en-us/powerbi/home/visualize.aspx#fbid=skw-o4z9lps" runat="server">Power View</a> </p> </td>
     <td> <p>
    
 	 Use Power View to create interactive charts and graphs that help you explore and present your data visually in Excel.
   </p> </td>
   </tr>
   <tr>
-    <td> <p> <a href="http://www.microsoft.com/en-us/powerbi/home/visualize.aspx#fbid=skw-o4z9lps" runat="server">Power Map</a> </p> </td>
+    <td> <p> <a href="https://www.microsoft.com/en-us/powerbi/home/visualize.aspx#fbid=skw-o4z9lps" runat="server">Power Map</a> </p> </td>
     <td> <p>
    
 	 Use Power Map to explore and navigate data on a 3D map in Excel.
@@ -116,17 +116,17 @@ The features listed in the following table help you share data and reports with 
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn768397.BI_PowerBI_Share(AX.60).png" title="Share data" alt="Share data" /></td>
-<td><p><a href="http://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx#fbid=skw-o4z9lps">Power BI sites</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx#fbid=skw-o4z9lps">Power BI sites</a></p></td>
 <td><p>Create collaborative Power BI sites for your team to share and view reports. Larger workbook viewing is also supported so that users can view and interact with larger workbooks through the browser.</p></td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn768397.BI_PowerBI_Ask(AX.60).png" title="Query your data by asking questions" alt="Query your data by asking questions" /></td>
-<td><p><a href="http://www.microsoft.com/en-us/powerbi/home/ask-questions.aspx#fbid=skw-o4z9lps">Power BI Q&amp;A</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/powerbi/home/ask-questions.aspx#fbid=skw-o4z9lps">Power BI Q&amp;A</a></p></td>
 <td><p>Type your questions into the Q&amp;A speech bubble for immediate answers in the form of interactive charts and graphs.</p></td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn768397.BI_PowerBI_GoMobile(AX.60).png" title="Access your data when you&#39;re on the go" alt="Access your data when you&#39;re on the go" /></td>
-<td><p><a href="http://www.microsoft.com/en-us/powerbi/home/access.aspx#fbid=skw-o4z9lps">Power BI app</a></p></td>
+<td><p><a href="https://www.microsoft.com/en-us/powerbi/home/access.aspx#fbid=skw-o4z9lps">Power BI app</a></p></td>
 <td><p>Access the latest reports posted to your Power BI site from an app on your mobile device.</p></td>
 </tr>
 </tbody>
