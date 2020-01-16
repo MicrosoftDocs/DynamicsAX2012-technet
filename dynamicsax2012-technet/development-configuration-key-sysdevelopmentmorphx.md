@@ -2,8 +2,9 @@
 title: Development configuration key (SysDevelopmentMorphX)
 TOCTitle: Development configuration key (SysDevelopmentMorphX)
 ms:assetid: d9683edb-77a6-4583-b0de-b488bdb158cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa619761(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa619761(v=AX.60)
 ms:contentKeyID: 36997776
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Help properties</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882389(v=ax.60)">Context Sensitive Help</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882389(v=ax.60)">Context Sensitive Help</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Import AOD files into the new model store</strong></p></td>
@@ -55,11 +56,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Best practices</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa880220(v=ax.60)">Best practice parameters</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa880220(v=ax.60)">Best practice parameters</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Embedded resources</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272135(v=ax.60)">Embedded Resources Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272135(v=ax.60)">Embedded Resources Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Import label files into the new model store</strong></p></td>
@@ -67,51 +68,51 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Change current model</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272142(v=ax.60)">Change Current Model Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272142(v=ax.60)">Change Current Model Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Model elements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272133(v=ax.60)">Model Elements</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272133(v=ax.60)">Model Elements</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Model elements (baseline)</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272133(v=ax.60)">Model Elements</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272133(v=ax.60)">Model Elements</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Table browser</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584230(v=ax.60)">Table Browser Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584230(v=ax.60)">Table Browser Form</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Type hierarchy browser</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272137(v=ax.60)">Type Hierarchy Browser</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272137(v=ax.60)">Type Hierarchy Browser</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Type hierarchy context</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh272146(v=ax.60)">Type Hierarchy Context</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh272146(v=ax.60)">Type Hierarchy Context</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Estimation report</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc580715(v=ax.60)">Estimation Report</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc580715(v=ax.60)">Estimation Report</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Estimation report</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc599400(v=ax.60)">Upgrade Parameters Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc599400(v=ax.60)">Upgrade Parameters Form</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Contents</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597275(v=ax.60)">Contents Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597275(v=ax.60)">Contents Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Changes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553089(v=ax.60)">Changes Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553089(v=ax.60)">Changes Form</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Pending objects</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa845998(v=ax.60)">Pending Objects Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa845998(v=ax.60)">Pending Objects Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Check in</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589701(v=ax.60)">Check in Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589701(v=ax.60)">Check in Form</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Information</strong></p></td>
@@ -119,27 +120,27 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>History</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa629751(v=ax.60)">How to: View the History of an Element</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa629751(v=ax.60)">How to: View the History of an Element</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>System settings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa497046(v=ax.60)">How to: Configure Global Version Control System Settings (Administrator)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa497046(v=ax.60)">How to: Configure Global Version Control System Settings (Administrator)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa641378(v=ax.60)">How to: Set Up Local Version Control Parameters (Developer)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa641378(v=ax.60)">How to: Set Up Local Version Control Parameters (Developer)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Review</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589701(v=ax.60)">Check in Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589701(v=ax.60)">Check in Form</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Synchronization log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598375(v=ax.60)">Synchronization log Form</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598375(v=ax.60)">Synchronization log Form</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reverse engineer</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc618797(v=ax.60)">Reverse Engineering Tool Overview</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc618797(v=ax.60)">Reverse Engineering Tool Overview</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -177,7 +178,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

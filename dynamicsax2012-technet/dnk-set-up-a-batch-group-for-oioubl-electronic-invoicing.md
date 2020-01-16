@@ -2,8 +2,9 @@
 title: (DNK) Set up a batch group for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up a batch group for OIOUBL electronic invoicing
 ms:assetid: 4e156937-8060-49cd-93ef-f510e5e38840
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208758(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208758(v=AX.60)
 ms:contentKeyID: 36057041
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use the **Batch group** form to set up a batch group to process the Offentlig In
 
 [(DNK) Set up batch processing for OIOUBL electronic invoicing](dnk-set-up-batch-processing-for-oioubl-electronic-invoicing.md)
 
-[Batch groups (form)](https://technet.microsoft.com/en-us/library/aa575384\(v=ax.60\))
+[Batch groups (form)](https://technet.microsoft.com/library/aa575384\(v=ax.60\))
 
   
 

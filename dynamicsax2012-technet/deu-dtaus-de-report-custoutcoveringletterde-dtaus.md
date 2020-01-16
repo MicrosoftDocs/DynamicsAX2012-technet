@@ -2,8 +2,9 @@
 title: (DEU) DTAUS (DE) report (CustOutCoveringLetterDE_DTAUS)
 TOCTitle: (DEU) DTAUS (DE) report (CustOutCoveringLetterDE_DTAUS)
 ms:assetid: 63193566-ecb4-4944-924d-fe3b1ee3e454
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496437(v=AX.60)
 ms:contentKeyID: 37072019
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Document Class Service Operations
 TOCTitle: Document Class Service Operations
 ms:assetid: c36e9521-3a4e-48c2-a260-33c9b99a1527
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa864923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa864923(v=AX.60)
 ms:contentKeyID: 35250119
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

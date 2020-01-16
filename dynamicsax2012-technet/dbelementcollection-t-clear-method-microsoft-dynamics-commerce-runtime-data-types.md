@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Clear Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Clear Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Clear
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn969207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn969207(v=AX.60)
 ms:contentKeyID: 65322822
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ virtual void Clear() sealed
 
 #### Implements
 
-[ICollection\<T\>.Clear()](https://technet.microsoft.com/en-us/library/5axy4fbh\(v=ax.60\))  
+[ICollection\<T\>.Clear()](https://technet.microsoft.com/library/5axy4fbh\(v=ax.60\))  
 
 ## See Also
 

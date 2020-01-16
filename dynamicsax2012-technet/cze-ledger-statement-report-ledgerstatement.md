@@ -2,8 +2,9 @@
 title: (CZE) Ledger statement report (LedgerStatement)
 TOCTitle: (CZE) Ledger statement report (LedgerStatement)
 ms:assetid: a07e7b0a-4dc8-436d-8ff7-de27287ef895
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677631(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677631(v=AX.60)
 ms:contentKeyID: 49384933
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>1</strong> – The declared amounts are rounded to the nearest whole number based on the rounding method that is selected in the <strong>Rounding form</strong> field in the <strong>Ledger statement definition</strong> form.</p></li>
 <li><p><strong>1000</strong> – The declared amounts are rounded to the nearest thousand based on the rounding method that is selected in the <strong>Rounding form</strong> field in the <strong>Ledger statement definition</strong> form.</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj710663(v=ax.60)">(CZE) Ledger statement definition (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj710663(v=ax.60)">(CZE) Ledger statement definition (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

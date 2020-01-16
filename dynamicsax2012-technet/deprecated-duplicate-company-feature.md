@@ -2,8 +2,9 @@
 title: 'Deprecated: Duplicate company feature'
 TOCTitle: Duplicate company feature
 ms:assetid: b323d938-4839-4e2d-b67d-ed61af57cc25
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527200(v=AX.60)
 ms:contentKeyID: 59623329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

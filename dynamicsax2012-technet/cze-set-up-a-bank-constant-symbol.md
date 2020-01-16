@@ -2,8 +2,9 @@
 title: (CZE) Set up a bank constant symbol
 TOCTitle: (CZE) Set up a bank constant symbol
 ms:assetid: 87a9828c-2a7a-41ad-8424-3bf3083e586e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714437(v=AX.60)
 ms:contentKeyID: 49651544
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The constant symbol is also displayed on invoice printouts.
 
 ## See also
 
-[(CZE) Bank constant symbols (form)](https://technet.microsoft.com/en-us/library/jj714438\(v=ax.60\))
+[(CZE) Bank constant symbols (form)](https://technet.microsoft.com/library/jj714438\(v=ax.60\))
 
   
 

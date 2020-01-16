@@ -2,8 +2,9 @@
 title: (CZE) Depreciation plan report (AssetDepreciationPlan)
 TOCTitle: (CZE) Depreciation plan report (AssetDepreciationPlan)
 ms:assetid: ace07c11-3ada-4042-bb31-3604b51ecae3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683245(v=AX.60)
 ms:contentKeyID: 49685126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (CZE) Generate the balance sheet report
 TOCTitle: (CZE) Generate the balance sheet report
 ms:assetid: a7d9ae32-a64c-4bb6-833e-b4b4ccf17dea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677644(v=AX.60)
 ms:contentKeyID: 49384946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Czech Republic
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Balance sheet** report to generate and print a balance sheet report for a specified period. You can specify the layout of the balance sheet report in the **Balance sheet definition** form. For more information, see [(CZE) Balance sheet definition (form)](https://technet.microsoft.com/en-us/library/jj710630\(v=ax.60\)).
+Use the **Balance sheet** report to generate and print a balance sheet report for a specified period. You can specify the layout of the balance sheet report in the **Balance sheet definition** form. For more information, see [(CZE) Balance sheet definition (form)](https://technet.microsoft.com/library/jj710630\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Reports** \> **Transactions** \> **Balance sheet**.
 

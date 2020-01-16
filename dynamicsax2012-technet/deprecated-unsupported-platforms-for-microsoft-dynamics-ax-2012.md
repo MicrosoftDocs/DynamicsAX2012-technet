@@ -2,8 +2,9 @@
 title: 'Deprecated: Unsupported platforms for Microsoft Dynamics AX 2012'
 TOCTitle: Unsupported platforms for Microsoft Dynamics AX 2012
 ms:assetid: e14258a1-fc96-424f-af18-92d82fadfeab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527252(v=AX.60)
 ms:contentKeyID: 59623380
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

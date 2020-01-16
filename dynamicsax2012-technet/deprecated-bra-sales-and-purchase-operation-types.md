@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Sales and purchase operation types'
 TOCTitle: (BRA) Sales and purchase operation types
 ms:assetid: 29bcb2e6-d6c1-4980-bd2a-28c2f493f835
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527120(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527120(v=AX.60)
 ms:contentKeyID: 59623249
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

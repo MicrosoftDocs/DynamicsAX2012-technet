@@ -2,8 +2,9 @@
 title: Delete a question in RapidStart Services
 TOCTitle: Delete a question in RapidStart Services
 ms:assetid: 66a7988c-40b8-4502-86cf-b7dff6b773ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413236(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413236(v=AX.60)
 ms:contentKeyID: 36918927
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

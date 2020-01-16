@@ -2,8 +2,9 @@
 title: 'Deprecated: (CHN) GB/T19581 export accounting data standard'
 TOCTitle: (CHN) GB/T19581 export accounting data standard
 ms:assetid: dce67915-f84b-4672-9443-5ce811be89a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527250(v=AX.60)
 ms:contentKeyID: 59623378
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

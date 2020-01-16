@@ -2,8 +2,9 @@
 title: 'Deprecated: (POL) Dates of holidays'
 TOCTitle: (POL) Dates of holidays
 ms:assetid: d7c38c3f-b8c4-4fa1-a9d4-52e4473045a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527221(v=AX.60)
 ms:contentKeyID: 59623350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

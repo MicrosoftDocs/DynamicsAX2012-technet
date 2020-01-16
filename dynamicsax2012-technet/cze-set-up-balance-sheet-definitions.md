@@ -2,8 +2,9 @@
 title: (CZE) Set up balance sheet definitions
 TOCTitle: (CZE) Set up balance sheet definitions
 ms:assetid: ad3d41d5-dc4d-4796-985d-15e179960984
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677649(v=AX.60)
 ms:contentKeyID: 49384953
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ You can specify how asset and liability transaction amounts are displayed on the
 
 6.  In the **Header** grid, in the **Mark** field, enter a description for the report line.
 
-7.  In the **Rounding form** field, select the rounding method to use to round the amount. For more information, see [(CZE) Balance sheet definition (form)](https://technet.microsoft.com/en-us/library/jj710630\(v=ax.60\)).
+7.  In the **Rounding form** field, select the rounding method to use to round the amount. For more information, see [(CZE) Balance sheet definition (form)](https://technet.microsoft.com/library/jj710630\(v=ax.60\)).
 
 8.  In the **Gross** grid, select the **Invert sign** check box to reverse the signs of the amounts before report line amounts are added together and displayed on the report.
 

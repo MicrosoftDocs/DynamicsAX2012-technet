@@ -2,8 +2,9 @@
 title: (DNK) Set up batch processing for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up batch processing for OIOUBL electronic invoicing
 ms:assetid: f1ff9c46-5c14-45af-81b5-1db3d849c245
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227520(v=AX.60)
 ms:contentKeyID: 36059959
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,9 +66,9 @@ You can set up a batch job for sales outbound electronic invoices, and another b
 
 [(DNK) Set up recurring batch jobs](dnk-set-up-recurring-batch-jobs.md)
 
-[Batch job (form)](https://technet.microsoft.com/en-us/library/aa585684\(v=ax.60\))
+[Batch job (form)](https://technet.microsoft.com/library/aa585684\(v=ax.60\))
 
-[Batch tasks (form)](https://technet.microsoft.com/en-us/library/hh209494\(v=ax.60\))
+[Batch tasks (form)](https://technet.microsoft.com/library/hh209494\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Remove Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Remove Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Remove(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968165(v=AX.60)
 ms:contentKeyID: 65320529
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,12 +57,12 @@ virtual bool Remove(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether the element has been removed or not.  
 
 #### Implements
 
-[ICollection\<T\>.Remove(T)](https://technet.microsoft.com/en-us/library/bye7h94w\(v=ax.60\))  
+[ICollection\<T\>.Remove(T)](https://technet.microsoft.com/library/bye7h94w\(v=ax.60\))  
 
 ## See Also
 

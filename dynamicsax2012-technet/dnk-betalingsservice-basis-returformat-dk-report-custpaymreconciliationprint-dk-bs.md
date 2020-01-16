@@ -2,8 +2,9 @@
 title: (DNK) Betalingsservice Basis-returformat (DK) report (CustPaymReconciliationPrint_DK_BS)
 TOCTitle: (DNK) Betalingsservice Basis-returformat (DK) report (CustPaymReconciliationPrint_DK_BS)
 ms:assetid: 625e4351-ae86-4301-b732-9e71dcecdc0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433497(v=AX.60)
 ms:contentKeyID: 36941264
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

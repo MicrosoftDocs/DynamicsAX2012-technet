@@ -2,8 +2,9 @@
 title: (CZE) Post a vendor transaction as a correction transaction
 TOCTitle: (CZE) Post a vendor transaction as a correction transaction
 ms:assetid: 4a993df8-b5b5-4496-a5dc-6db07c7e1612
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677520(v=AX.60)
 ms:contentKeyID: 49384825
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ You can create ledger transactions for a summary account and an arrival account 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa551972(v=ax.60)">Vendor posting profiles (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa551972(v=ax.60)">Vendor posting profiles (form)</A>.</P>
 
 
 

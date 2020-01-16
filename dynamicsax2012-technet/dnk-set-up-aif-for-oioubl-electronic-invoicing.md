@@ -2,8 +2,9 @@
 title: (DNK) Set up AIF for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up AIF for OIOUBL electronic invoicing
 ms:assetid: df365dc0-d048-49d0-a6fe-88d31f65cafb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227417(v=AX.60)
 ms:contentKeyID: 36059695
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ For information about how to configure the enhanced integration port, go to [Man
     
 
     > [!NOTE]
-    > <P>In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: You must indicate a unit for which you specified the external code according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa583814(v=ax.60)">External codes (form)</A>.</P>
+    > <P>In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: You must indicate a unit for which you specified the external code according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards. For more information, see <A href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</A> and <A href="https://technet.microsoft.com/library/aa583814(v=ax.60)">External codes (form)</A>.</P>
 
 
 
@@ -66,7 +67,7 @@ For information about how to configure the enhanced integration port, go to [Man
 
 ## See also
 
-[AIF outbound ports (form)](https://technet.microsoft.com/en-us/library/hh227495\(v=ax.60\))
+[AIF outbound ports (form)](https://technet.microsoft.com/library/hh227495\(v=ax.60\))
 
   
 

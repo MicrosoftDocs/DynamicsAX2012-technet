@@ -2,8 +2,9 @@
 title: Deploy Message Queuing for AIF
 TOCTitle: Deploy Message Queuing for AIF
 ms:assetid: 1e5a2329-3f18-40cc-ad10-3d2f1530f6c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834340(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834340(v=AX.60)
 ms:contentKeyID: 36687857
+author: Khairunj
 ms.date: 03/26/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Define packing material fees
 TOCTitle: Define packing material fees
 ms:assetid: 94ac5a3e-a564-4aa6-a578-e9d72f234140
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498412(v=AX.60)
 ms:contentKeyID: 39519235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Packing material fees (form)](https://technet.microsoft.com/en-us/library/aa558441\(v=ax.60\))
+[Packing material fees (form)](https://technet.microsoft.com/library/aa558441\(v=ax.60\))
 
   
 

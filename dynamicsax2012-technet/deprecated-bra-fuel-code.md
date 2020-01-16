@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Fuel code'
 TOCTitle: (BRA) Fuel code
 ms:assetid: 5b0d874f-d49c-4a81-9ed8-03ad0d7110f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527156(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527156(v=AX.60)
 ms:contentKeyID: 59623285
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

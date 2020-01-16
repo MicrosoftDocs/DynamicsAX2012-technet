@@ -2,8 +2,9 @@
 title: Detailed receipt report (RetailTransactions)
 TOCTitle: Detailed receipt report (RetailTransactions)
 ms:assetid: 741d949e-ed00-4b06-92a4-a295b097b3a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697613(v=AX.60)
 ms:contentKeyID: 42518422
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

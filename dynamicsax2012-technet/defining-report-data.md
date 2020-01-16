@@ -1,9 +1,10 @@
-﻿---
+---
 title: Defining Report Data
 TOCTitle: Defining Report Data
 ms:assetid: 337770c8-7505-4d61-bbf1-b92fcce6bd2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc569526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc569526(v=AX.60)
 ms:contentKeyID: 28119337
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseAccessor.ExecuteStoredProcedure Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedure Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,System.Action{Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult},Microsoft.Dynamics.Commerce.Runtime.Data.ConnectionManager,System.Int32@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredprocedure(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredprocedure(v=AX.60)
 ms:contentKeyID: 65321962
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ void ExecuteStoredProcedure(
 #### Parameters
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -85,7 +86,7 @@ void ExecuteStoredProcedure(
 <!-- end list -->
 
   - resultCallback  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/018hxwa8\(v=ax.60\))\<[IDatabaseResult](idatabaseresult-interface-microsoft-dynamics-commerce-runtime-data.md)\>  
+    Type: [System.Action](https://technet.microsoft.com/library/018hxwa8\(v=ax.60\))\<[IDatabaseResult](idatabaseresult-interface-microsoft-dynamics-commerce-runtime-data.md)\>  
 
 <!-- end list -->
 
@@ -95,7 +96,7 @@ void ExecuteStoredProcedure(
 <!-- end list -->
 
   - returnValue  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

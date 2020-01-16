@@ -2,8 +2,9 @@
 title: (CZE) Working with Fixed assets
 TOCTitle: (CZE) Working with Fixed assets
 ms:assetid: 2d1f87ae-ff28-49f2-ab7d-0831ed60a3b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677493(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677493(v=AX.60)
 ms:contentKeyID: 49384796
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

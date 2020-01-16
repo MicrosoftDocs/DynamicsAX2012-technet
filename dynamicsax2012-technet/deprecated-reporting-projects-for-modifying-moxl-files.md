@@ -2,8 +2,9 @@
 title: 'Deprecated: Reporting Projects for modifying .moxl files'
 TOCTitle: Reporting Project
 ms:assetid: 270d7390-aa47-4056-8b1e-781d8df9e01a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507139(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507139(v=AX.60)
 ms:contentKeyID: 59623225
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009, a Reporting Project is used when users modify .mo
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. A new project that is known as a Model Project enables direct modification of any reporting data on the repository. Local .moxl files are not required.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa851066(v=ax.60)">How to: Create a Repository</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa851066(v=ax.60)">How to: Create a Repository</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

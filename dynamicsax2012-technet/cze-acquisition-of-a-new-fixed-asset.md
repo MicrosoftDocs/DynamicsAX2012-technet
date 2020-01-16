@@ -2,8 +2,9 @@
 title: (CZE) Acquisition of a new fixed asset
 TOCTitle: (CZE) Acquisition of a new fixed asset
 ms:assetid: 640ef9ae-50d2-406b-ba46-d31675cbc9cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677549(v=AX.60)
 ms:contentKeyID: 49384858
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

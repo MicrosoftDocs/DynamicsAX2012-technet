@@ -2,8 +2,9 @@
 title: 'Deprecated: (RUS) Cumulative discounts feature for Retail'
 TOCTitle: (RUS) Cumulative discounts feature for Retail
 ms:assetid: f8904995-b45a-461b-a350-fa88c866222b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716033(v=AX.60)
 ms:contentKeyID: 62200297
+author: Khairunj
 ms.date: 04/27/2014
 mtps_version: v=AX.60
 ---
@@ -40,7 +41,7 @@ For Russian installations, Microsoft Dynamics AX 2012 R2 for Retail provides a c
 <p>For more information, see the following topics:</p>
 <ul>
 <li><p><a href="about-setting-up-loyalty-programs-in-ax-2012-r3.md">About setting up loyalty programs in AX 2012 R3</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh597338(v=ax.60)">Loyalty point transactions (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh597338(v=ax.60)">Loyalty point transactions (form)</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountBase.ConvertPriceDiscountGroupIdsToGroups Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: ConvertPriceDiscountGroupIdsToGroups Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.ConvertPriceDiscountGroupIdsToGroups(System.Collections.Generic.ISet{System.Int64},Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.convertpricediscountgroupidstogroups(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.convertpricediscountgroupidstogroups(v=AX.60)
 ms:contentKeyID: 62212379
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ static IEnumerable<String^>^ ConvertPriceDiscountGroupIdsToGroups(
 #### Parameters
 
   - priceDiscountGroupIds  
-    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -65,7 +66,7 @@ static IEnumerable<String^>^ ConvertPriceDiscountGroupIdsToGroups(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 A collection of text identifiers for the price discount groups.  
 
 ## See Also

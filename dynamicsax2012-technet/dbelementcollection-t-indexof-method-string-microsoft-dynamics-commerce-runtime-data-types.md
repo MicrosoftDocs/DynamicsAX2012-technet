@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).IndexOf Method (String) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: IndexOf Method (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IndexOf(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn998819(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn998819(v=AX.60)
 ms:contentKeyID: 65317503
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -50,11 +51,11 @@ int IndexOf(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The zero-based index of the first occurrence of key within the entire collection, if found; otherwise, –1.  
 
 ## See Also

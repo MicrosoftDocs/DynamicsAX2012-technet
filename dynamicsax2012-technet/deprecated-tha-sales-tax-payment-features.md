@@ -2,8 +2,9 @@
 title: 'Deprecated: (THA) Sales tax payment features'
 TOCTitle: (THA) Sales tax payment features
 ms:assetid: c8db125d-0af0-4f53-9a8a-c52ee5be6e2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527217(v=AX.60)
 ms:contentKeyID: 59623346
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

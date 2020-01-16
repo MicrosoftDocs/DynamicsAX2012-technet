@@ -2,8 +2,9 @@
 title: 'Deprecated: Payment services using Authorize.net'
 TOCTitle: Payment services using Authorize.net
 ms:assetid: edde8971-717c-45f4-8719-01751afdefd7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527231(v=AX.60)
 ms:contentKeyID: 59623359
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

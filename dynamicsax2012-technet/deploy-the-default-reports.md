@@ -2,8 +2,9 @@
 title: Deploy the default reports
 TOCTitle: Deploy the default reports
 ms:assetid: 6a34674a-f68c-4d67-8bcb-3159f9089d4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309703(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309703(v=AX.60)
 ms:contentKeyID: 28119372
+author: Khairunj
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 dev_langs:

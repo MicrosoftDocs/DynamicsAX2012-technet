@@ -2,8 +2,9 @@
 title: 'Deprecated: Multisite activation wizard'
 TOCTitle: Multisite activation wizard
 ms:assetid: 45884d5a-06ad-4598-8b05-c9760e3f5020
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507126(v=AX.60)
 ms:contentKeyID: 59623215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

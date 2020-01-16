@@ -2,8 +2,9 @@
 title: Demand forecast accuracy cube (ReqDemPlanAccuracyCube) for Microsoft Dynamics AX 2012 R3
 TOCTitle: Demand forecast accuracy cube (ReqDemPlanAccuracyCube)
 ms:assetid: 7832825d-0b3c-47ec-b45a-9476bfbf6da6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716005(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716005(v=AX.60)
 ms:contentKeyID: 62200228
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

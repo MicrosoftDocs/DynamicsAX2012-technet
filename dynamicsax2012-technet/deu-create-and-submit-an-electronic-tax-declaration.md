@@ -2,8 +2,9 @@
 title: (DEU) Create and submit an electronic tax declaration
 TOCTitle: (DEU) Create and submit an electronic tax declaration
 ms:assetid: 08218b85-e631-4956-8730-c061978f3cb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230686(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230686(v=AX.60)
 ms:contentKeyID: 36055971
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

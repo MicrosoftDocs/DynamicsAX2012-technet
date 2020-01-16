@@ -1,9 +1,10 @@
-﻿---
+---
 title: DeleteShiftRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: DeleteShiftRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.DeleteShiftRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.deleteshiftrequest.deleteshiftrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.deleteshiftrequest.deleteshiftrequest(v=AX.60)
 ms:contentKeyID: 65317821
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Define invoice totals matching tolerances for vendors
 TOCTitle: Define invoice totals matching tolerances for vendors
 ms:assetid: a612f8a8-e8d0-437e-9322-8b775df9de46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242683(v=AX.60)
 ms:contentKeyID: 36058869
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ The default tolerance for invoice totals matching is specified in the **Accounts
 
 ## See also
 
-[Invoice totals tolerances (form)](https://technet.microsoft.com/en-us/library/hh209369\(v=ax.60\))
+[Invoice totals tolerances (form)](https://technet.microsoft.com/library/hh209369\(v=ax.60\))
 
   
 

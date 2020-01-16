@@ -2,8 +2,9 @@
 title: Depreciate/amortize assets overview
 TOCTitle: Depreciate/amortize assets overview
 ms:assetid: 6a1f2e25-4d0a-4907-af23-49627027eddc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231583(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231583(v=AX.60)
 ms:contentKeyID: 36057976
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

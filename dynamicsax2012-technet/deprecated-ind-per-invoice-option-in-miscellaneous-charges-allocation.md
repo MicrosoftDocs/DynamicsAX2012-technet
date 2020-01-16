@@ -2,8 +2,9 @@
 title: 'Deprecated: (IND) Per invoice option in miscellaneous charges allocation'
 TOCTitle: (IND) Per invoice option in miscellaneous charges allocation
 ms:assetid: fef51b09-3ebc-4870-ae86-1a50bfbf7bff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527270(v=AX.60)
 ms:contentKeyID: 59623398
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009, the **Purchase order** and **Purchase invoice** h
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. Users can add miscellaneous charges at the invoice header level. If there are multiple invoices, the user can manually add these codes for each invoice.</p>
-<p>For more information, see <a href="adjust-charges-on-vendor-invoices.md">Adjust charges on vendor invoices</a> and <a href="https://technet.microsoft.com/en-us/library/jj677929(v=ax.60)">(IND) Allocate charges (modified form)</a>.</p></td>
+<p>For more information, see <a href="adjust-charges-on-vendor-invoices.md">Adjust charges on vendor invoices</a> and <a href="https://technet.microsoft.com/library/jj677929(v=ax.60)">(IND) Allocate charges (modified form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

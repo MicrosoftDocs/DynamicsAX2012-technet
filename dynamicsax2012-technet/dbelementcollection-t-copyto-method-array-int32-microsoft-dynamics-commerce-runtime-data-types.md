@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).CopyTo Method (Array, Int32) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: CopyTo Method (Array, Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.CopyTo(System.Array,System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn969366(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn969366(v=AX.60)
 ms:contentKeyID: 65322979
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,16 +54,16 @@ virtual void CopyTo(
 #### Parameters
 
   - array  
-    Type: [System.Array](https://technet.microsoft.com/en-us/library/czz5hkty\(v=ax.60\))  
+    Type: [System.Array](https://technet.microsoft.com/library/czz5hkty\(v=ax.60\))  
 
 <!-- end list -->
 
   - index  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Implements
 
-[ICollection.CopyTo(Array, Int32)](https://technet.microsoft.com/en-us/library/t4kx53hz\(v=ax.60\))  
+[ICollection.CopyTo(Array, Int32)](https://technet.microsoft.com/library/t4kx53hz\(v=ax.60\))  
 
 ## See Also
 

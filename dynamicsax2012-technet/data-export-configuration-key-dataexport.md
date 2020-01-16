@@ -2,8 +2,9 @@
 title: Data export configuration key (DataExport)
 TOCTitle: Data export configuration key (DataExport)
 ms:assetid: 6f1231d8-9c9b-466b-badc-a8a3ff008477
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456313(v=AX.60)
 ms:contentKeyID: 36997756
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,23 +40,23 @@ The following forms are available when the feature is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Data export</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618035(v=ax.60)">(DEU) Data export wizard</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618035(v=ax.60)">(DEU) Data export wizard</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Data export definition groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615425(v=ax.60)">(DEU) Data export definition groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615425(v=ax.60)">(DEU) Data export definition groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Data export fields</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596357(v=ax.60)">(DEU) Data export fields (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596357(v=ax.60)">(DEU) Data export fields (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Data export relations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620743(v=ax.60)">(DEU) Data export relations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620743(v=ax.60)">(DEU) Data export relations (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Data export tables</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa571461(v=ax.60)">(DEU, FRA) Data export tables (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa571461(v=ax.60)">(DEU, FRA) Data export tables (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +94,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

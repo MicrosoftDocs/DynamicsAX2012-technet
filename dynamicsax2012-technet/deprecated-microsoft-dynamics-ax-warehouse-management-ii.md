@@ -2,8 +2,9 @@
 title: 'Deprecated: Microsoft Dynamics AX Warehouse Management II'
 TOCTitle: Microsoft Dynamics AX Warehouse Management II
 ms:assetid: 01be456f-1531-4f3c-893d-e96cd5cd3b15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn753830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn753830(v=AX.60)
 ms:contentKeyID: 62486006
+author: Khairunj
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

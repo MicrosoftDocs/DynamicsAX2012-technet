@@ -2,8 +2,9 @@
 title: 'Deprecated: Edit dimensions form'
 TOCTitle: Edit dimensions form
 ms:assetid: 84e65b4a-61b1-48ee-a41a-ecbbe68436d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527150(v=AX.60)
 ms:contentKeyID: 59623279
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

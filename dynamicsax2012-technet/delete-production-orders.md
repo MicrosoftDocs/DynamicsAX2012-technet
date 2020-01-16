@@ -2,8 +2,9 @@
 title: Delete production orders
 TOCTitle: Delete production orders
 ms:assetid: 8c2fc32a-79ac-43b1-88d9-3ac5487b64f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498330(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498330(v=AX.60)
 ms:contentKeyID: 36058478
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ When you delete production orders that have the status **Ended**, the accounting
 
 ## See also
 
-[Delete productions (class form)](https://technet.microsoft.com/en-us/library/aa548642\(v=ax.60\))
+[Delete productions (class form)](https://technet.microsoft.com/library/aa548642\(v=ax.60\))
 
   
 

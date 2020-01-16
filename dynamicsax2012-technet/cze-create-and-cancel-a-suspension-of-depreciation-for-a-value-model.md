@@ -2,8 +2,9 @@
 title: (CZE) Create and cancel a suspension of depreciation for a value model
 TOCTitle: (CZE) Create and cancel a suspension of depreciation for a value model
 ms:assetid: 9edd07f7-d8d9-4d75-8ab5-6a6e55c19bc1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677629(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677629(v=AX.60)
 ms:contentKeyID: 49384932
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

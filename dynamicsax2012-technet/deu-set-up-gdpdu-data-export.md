@@ -2,8 +2,9 @@
 title: (DEU) Set up GDPdU data export
 TOCTitle: (DEU) Set up GDPdU data export
 ms:assetid: 8e40fa72-5700-45cb-9ee1-f49dc07795d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa616006(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa616006(v=AX.60)
 ms:contentKeyID: 36058513
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,13 +76,13 @@ Use the **Data export definition groups** form to create definition groups for t
 
 [(DEU) Export GDPdU data](deu-export-gdpdu-data.md)
 
-[(DEU) Data export definition groups (form)](https://technet.microsoft.com/en-us/library/aa615425\(v=ax.60\))
+[(DEU) Data export definition groups (form)](https://technet.microsoft.com/library/aa615425\(v=ax.60\))
 
-[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/en-us/library/aa571461\(v=ax.60\))
+[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/library/aa571461\(v=ax.60\))
 
-[(DEU) Data export fields (form)](https://technet.microsoft.com/en-us/library/aa596357\(v=ax.60\))
+[(DEU) Data export fields (form)](https://technet.microsoft.com/library/aa596357\(v=ax.60\))
 
-[(DEU) Data export relations (form)](https://technet.microsoft.com/en-us/library/aa620743\(v=ax.60\))
+[(DEU) Data export relations (form)](https://technet.microsoft.com/library/aa620743\(v=ax.60\))
 
   
 

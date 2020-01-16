@@ -2,8 +2,9 @@
 title: Data import/export framework administrator security role (DMFAdministrator)
 TOCTitle: Data import/export framework administrator security role (DMFAdministrator)
 ms:assetid: 24817f66-6d49-4d65-9a11-c2f99906636c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720453(v=AX.60)
 ms:contentKeyID: 62224160
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

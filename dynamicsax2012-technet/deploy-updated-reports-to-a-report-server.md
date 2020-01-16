@@ -2,8 +2,9 @@
 title: Deploy updated reports to a report server
 TOCTitle: Deploy updated reports to a report server
 ms:assetid: c354dfe9-6d29-4cc3-8799-d5dfdc9974c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538459(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538459(v=AX.60)
 ms:contentKeyID: 39508887
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: " dataset parameter"
 TOCTitle: " dataset parameter"
 ms:assetid: DynamicsAXGlossary.1367550
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1367550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1367550(v=AX.60)
 ms:contentKeyID: 36056559
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

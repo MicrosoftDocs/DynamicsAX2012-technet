@@ -2,8 +2,9 @@
 title: Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control
 TOCTitle: Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control
 ms:assetid: 2c6e0947-fe25-40da-85e6-1485d2309d9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715949(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715949(v=AX.60)
 ms:contentKeyID: 62200022
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

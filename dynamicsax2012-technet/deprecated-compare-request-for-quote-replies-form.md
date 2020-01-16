@@ -2,8 +2,9 @@
 title: 'Deprecated: Compare request for quote replies form'
 TOCTitle: Compare request for quote replies form
 ms:assetid: cbf3c7e9-9f60-4531-85d1-66b748d36ecf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527244(v=AX.60)
 ms:contentKeyID: 59623372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

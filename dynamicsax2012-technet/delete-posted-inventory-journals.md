@@ -2,8 +2,9 @@
 title: Delete posted inventory journals
 TOCTitle: Delete posted inventory journals
 ms:assetid: 27975d05-9bd6-4d59-8a66-8e9d9287f532
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496832(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496832(v=AX.60)
 ms:contentKeyID: 36056212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\))
+[Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\))
 
   
 

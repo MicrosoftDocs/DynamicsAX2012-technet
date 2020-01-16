@@ -2,8 +2,9 @@
 title: (CZE) Pay for product or service overview
 TOCTitle: (CZE) Pay for product or service overview
 ms:assetid: 0d9b09bb-963b-45eb-b257-457cadb0f372
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664173(v=AX.60)
 ms:contentKeyID: 49384756
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Define financial dimensions for Budgeting
 TOCTitle: Define financial dimensions for Budgeting
 ms:assetid: e4978c30-70a4-4ee4-83ab-73a57c2cba7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227432(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227432(v=AX.60)
 ms:contentKeyID: 36059732
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Some organizations might not define specific financial dimensions, including the
 
 ## See also
 
-[Budgeting dimensions (form)](https://technet.microsoft.com/en-us/library/hh209361\(v=ax.60\))
+[Budgeting dimensions (form)](https://technet.microsoft.com/library/hh209361\(v=ax.60\))
 
   
 

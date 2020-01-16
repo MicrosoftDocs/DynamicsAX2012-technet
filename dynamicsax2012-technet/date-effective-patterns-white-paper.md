@@ -2,8 +2,9 @@
 title: Date Effective Patterns (White paper)
 TOCTitle: Date Effective Patterns
 ms:assetid: 1cef84a6-f3ad-4ceb-bcd6-391000af24e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335187(v=AX.60)
 ms:contentKeyID: 36687412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

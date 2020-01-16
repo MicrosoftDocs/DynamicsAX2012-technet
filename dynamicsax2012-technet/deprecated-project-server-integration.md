@@ -2,8 +2,9 @@
 title: 'Deprecated: Project Server integration'
 TOCTitle: Project Server integration
 ms:assetid: ec0bba3e-b40b-4df2-8c92-5fa93dd43ef2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497722(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497722(v=AX.60)
 ms:contentKeyID: 62200296
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

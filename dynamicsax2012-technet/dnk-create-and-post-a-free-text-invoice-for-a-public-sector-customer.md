@@ -2,8 +2,9 @@
 title: (DNK) Create and post a free text invoice for a public sector customer
 TOCTitle: (DNK) Create and post a free text invoice for a public sector customer
 ms:assetid: 2f9683a9-0e33-4e1b-b3d1-146a013ddff4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231025(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231025(v=AX.60)
 ms:contentKeyID: 36056300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

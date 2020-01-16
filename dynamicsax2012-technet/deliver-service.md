@@ -2,8 +2,9 @@
 title: Deliver service
 TOCTitle: Deliver service
 ms:assetid: dcdbb60c-aeac-4054-926e-75c3943b31a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243195(v=AX.60)
 ms:contentKeyID: 36059676
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

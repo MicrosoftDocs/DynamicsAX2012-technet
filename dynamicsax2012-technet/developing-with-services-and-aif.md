@@ -1,9 +1,10 @@
-﻿---
+---
 title: Developing with Services and AIF
 TOCTitle: Developing with Services and AIF
 ms:assetid: ef81f14f-a96a-43a0-9a58-dc8a2cda09e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh509053(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh509053(v=AX.60)
 ms:contentKeyID: 37046472
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

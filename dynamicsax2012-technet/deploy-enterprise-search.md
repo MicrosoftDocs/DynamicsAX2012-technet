@@ -2,8 +2,9 @@
 title: Deploy Enterprise Search
 TOCTitle: Deploy Enterprise Search
 ms:assetid: a009bb2b-f8c2-40d6-aaea-458b5deade71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731880(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731880(v=AX.60)
 ms:contentKeyID: 35132787
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

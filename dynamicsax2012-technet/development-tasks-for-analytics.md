@@ -1,9 +1,10 @@
-﻿---
+---
 title: Development Tasks for Analytics
 TOCTitle: Development
 ms:assetid: 263df3da-a7ef-402e-bfab-e78eae318a95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc568224(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc568224(v=AX.60)
 ms:contentKeyID: 28119322
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

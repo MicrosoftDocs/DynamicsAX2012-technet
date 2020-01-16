@@ -2,8 +2,9 @@
 title: (DEU) Set up electronic tax declaration
 TOCTitle: (DEU) Set up electronic tax declaration
 ms:assetid: 411dea33-8b5d-4d05-a6a7-03f1244c2def
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231361(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231361(v=AX.60)
 ms:contentKeyID: 36056727
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ In AX 2012 R3 and cumulative update 6 or later for AX 2012 R2: The default tax s
 
 [(DEU) Create and submit an electronic tax declaration](deu-create-and-submit-an-electronic-tax-declaration.md)
 
-[(DEU) Electronic tax declaration setup (form)](https://technet.microsoft.com/en-us/library/aa598009\(v=ax.60\))
+[(DEU) Electronic tax declaration setup (form)](https://technet.microsoft.com/library/aa598009\(v=ax.60\))
 
   
 

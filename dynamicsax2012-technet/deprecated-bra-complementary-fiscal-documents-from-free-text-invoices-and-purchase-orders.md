@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Complementary fiscal documents from free text invoices and purchase orders'
 TOCTitle: (BRA) Complementary fiscal documents from free text invoices and purchase orders
 ms:assetid: be089165-30b0-4419-9f70-7bd4b5ccfeaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527216(v=AX.60)
 ms:contentKeyID: 59623345
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

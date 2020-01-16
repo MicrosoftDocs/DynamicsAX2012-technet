@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataColumn.DefaultValue Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: DefaultValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataColumn.DefaultValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.types.datacolumn.defaultvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.datacolumn.defaultvalue(v=AX.60)
 ms:contentKeyID: 65317725
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property Object^ DefaultValue {
 
 #### Property Value
 
-Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-Returns [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\)).  
+Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+Returns [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\)).  
 
 ## See Also
 

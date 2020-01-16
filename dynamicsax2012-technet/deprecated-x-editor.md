@@ -2,8 +2,9 @@
 title: 'Deprecated: X++ editor'
 TOCTitle: X++ editor
 ms:assetid: f5619251-ae6d-4d03-b015-f222b200e67f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527260(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527260(v=AX.60)
 ms:contentKeyID: 59623388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009, the X++ editor is used to write X++ code in Morph
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature has been deprecated, and a new X++ editor has been introduced that is based on the Visual Studio 2010 editor control. Although the editor script extension is still supported, extensions to the legacy editor UI are no longer supported.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa874756(v=ax.60)">X++ Code Editor</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa874756(v=ax.60)">X++ Code Editor</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

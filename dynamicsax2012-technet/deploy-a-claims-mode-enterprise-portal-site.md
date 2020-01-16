@@ -2,8 +2,9 @@
 title: Deploy a claims-mode Enterprise Portal site
 TOCTitle: Deploy a claims-mode Enterprise Portal site
 ms:assetid: d188e9bc-1bbb-49d9-b40f-fdc5b6322e60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621033(v=AX.60)
 ms:contentKeyID: 61078357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

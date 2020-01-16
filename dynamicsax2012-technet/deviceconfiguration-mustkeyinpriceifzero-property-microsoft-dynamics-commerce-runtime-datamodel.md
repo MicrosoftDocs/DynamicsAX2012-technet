@@ -1,9 +1,10 @@
-﻿---
+---
 title: DeviceConfiguration.MustKeyInPriceIfZero Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: MustKeyInPriceIfZero Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceConfiguration.MustKeyInPriceIfZero
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.deviceconfiguration.mustkeyinpriceifzero(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.deviceconfiguration.mustkeyinpriceifzero(v=AX.60)
 ms:contentKeyID: 62212669
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property bool MustKeyInPriceIfZero {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if must key in price if zero is set; otherwise, false.  
 
 ## See Also

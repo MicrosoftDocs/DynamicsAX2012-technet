@@ -2,8 +2,9 @@
 title: 'Deprecated: Department hierarchy control'
 TOCTitle: Department hierarchy control
 ms:assetid: 2417fab7-5eb7-4517-8e52-88f93172dc04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621050(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621050(v=AX.60)
 ms:contentKeyID: 61084797
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

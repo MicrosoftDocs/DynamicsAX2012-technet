@@ -2,8 +2,9 @@
 title: Defining processes
 TOCTitle: Defining processes
 ms:assetid: c072a095-57d7-4edb-beed-5b6477100b6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213630(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213630(v=AX.60)
 ms:contentKeyID: 36059265
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

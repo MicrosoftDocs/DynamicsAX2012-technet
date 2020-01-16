@@ -2,8 +2,9 @@
 title: Delete project journals
 TOCTitle: Delete project journals
 ms:assetid: b1c9c606-9c92-41e6-aeb7-29d6065c4feb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781098(v=AX.60)
 ms:contentKeyID: 43894511
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,7 +82,7 @@ You can delete project journals from which transactions have been posted. By del
 
 ## See also
 
-[Delete project journals (class form)](https://technet.microsoft.com/en-us/library/aa619118\(v=ax.60\))
+[Delete project journals (class form)](https://technet.microsoft.com/library/aa619118\(v=ax.60\))
 
   
 

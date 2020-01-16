@@ -1,9 +1,10 @@
-﻿---
+---
 title: Data Method Selector
 TOCTitle: Data Method Selector
 ms:assetid: af6beff2-0b44-4bd6-a9b2-0dea8ae29162
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc573435(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc573435(v=AX.60)
 ms:contentKeyID: 28119565
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

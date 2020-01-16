@@ -2,8 +2,9 @@
 title: (DNK) Generate a payment file for electronic payments to vendors through Nordea Bank
 TOCTitle: (DNK) Generate a payment file for electronic payments to vendors through Nordea Bank
 ms:assetid: 48207cb8-f2fa-4bfa-a082-e165921d6af1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ913180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ913180(v=AX.60)
 ms:contentKeyID: 52075220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ Use the **Generate payments** form to generate a payment file in the **Nordea Un
 
 ## See also
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
   
 

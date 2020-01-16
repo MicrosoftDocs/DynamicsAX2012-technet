@@ -2,8 +2,9 @@
 title: Distribute forecast
 TOCTitle: Distribute forecast
 ms:assetid: a71ccee0-8cdc-415b-aa91-f50630440e70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243053(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243053(v=AX.60)
 ms:contentKeyID: 36058874
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

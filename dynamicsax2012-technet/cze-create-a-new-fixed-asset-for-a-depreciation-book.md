@@ -2,8 +2,9 @@
 title: (CZE) Create a new fixed asset for a depreciation book
 TOCTitle: (CZE) Create a new fixed asset for a depreciation book
 ms:assetid: 64f2534c-ce67-49ee-b45c-5cfda4e4e244
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677550(v=AX.60)
 ms:contentKeyID: 49384859
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

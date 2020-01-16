@@ -2,8 +2,9 @@
 title: (CZE) Create and cancel a suspension of depreciation in a depreciation book
 TOCTitle: (CZE) Create and cancel a suspension of depreciation in a depreciation book
 ms:assetid: 6ec4fe1e-59a4-4611-96be-0267e27a95bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677564(v=AX.60)
 ms:contentKeyID: 49384867
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,11 +44,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(CZE) Depreciation books (modified form)](https://technet.microsoft.com/en-us/library/jj677672\(v=ax.60\))
+[(CZE) Depreciation books (modified form)](https://technet.microsoft.com/library/jj677672\(v=ax.60\))
 
-[(CZE) Create depreciation suspension (form)](https://technet.microsoft.com/en-us/library/jj677602\(v=ax.60\))
+[(CZE) Create depreciation suspension (form)](https://technet.microsoft.com/library/jj677602\(v=ax.60\))
 
-[(CZE) Depreciation suspension (form)](https://technet.microsoft.com/en-us/library/jj664163\(v=ax.60\))
+[(CZE) Depreciation suspension (form)](https://technet.microsoft.com/library/jj664163\(v=ax.60\))
 
   
 

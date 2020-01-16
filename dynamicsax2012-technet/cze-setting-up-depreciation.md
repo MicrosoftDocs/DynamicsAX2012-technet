@@ -2,8 +2,9 @@
 title: (CZE) Setting up depreciation
 TOCTitle: (CZE) Setting up depreciation
 ms:assetid: df028a33-f1fb-4193-9e94-733166fb8f3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710628(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710628(v=AX.60)
 ms:contentKeyID: 49385025
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

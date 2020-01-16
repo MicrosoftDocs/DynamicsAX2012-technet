@@ -2,8 +2,9 @@
 title: (CZE) Set up ledger statement definitions
 TOCTitle: (CZE) Set up ledger statement definitions
 ms:assetid: 8c7e75f7-bba0-45ca-8019-489078239591
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677606(v=AX.60)
 ms:contentKeyID: 49384909
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can specify how ledger transaction amounts are displayed on the ledger state
 
 5.  In the **Mark** field, enter a description for the report line.
 
-6.  In the **Rounding form** field, select the rounding method to use to round the amount. For more information, see [(CZE) Ledger statement definition (form)](https://technet.microsoft.com/en-us/library/jj710663\(v=ax.60\)).
+6.  In the **Rounding form** field, select the rounding method to use to round the amount. For more information, see [(CZE) Ledger statement definition (form)](https://technet.microsoft.com/library/jj710663\(v=ax.60\)).
 
 7.  In the **Ledger statement definition** grid, select the **Invert sign** check box to reverse the sign of the amounts before report line amounts are added together and displayed on the report.
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataValidationErrors.RequestedItemIsOutOfStock Field (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: RequestedItemIsOutOfStock Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.RequestedItemIsOutOfStock
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.requesteditemisoutofstock(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.requesteditemisoutofstock(v=AX.60)
 ms:contentKeyID: 62210136
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

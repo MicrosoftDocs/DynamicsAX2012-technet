@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataSet.Tables Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Tables Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataSet.Tables
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.types.dataset.tables(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.dataset.tables(v=AX.60)
 ms:contentKeyID: 65320864
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property IList<DataTable^>^ Tables {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[DataTable](datatable-class-microsoft-dynamics-commerce-runtime-data-types.md)\>  
-Returns [IList\<T\>](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\)).  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[DataTable](datatable-class-microsoft-dynamics-commerce-runtime-data-types.md)\>  
+Returns [IList\<T\>](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\)).  
 
 ## See Also
 

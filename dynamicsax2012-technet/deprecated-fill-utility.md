@@ -2,8 +2,9 @@
 title: 'Deprecated: Fill Utility'
 TOCTitle: Fill Utility
 ms:assetid: 99e30ac1-e661-4e3d-9097-72bc96ce4537
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527189(v=AX.60)
 ms:contentKeyID: 59623318
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -39,7 +40,7 @@ In Microsoft Dynamics AX 2009, the Fill Utility lets users make mass changes to 
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
-<td><p>Yes. The feature has been removed and replaced by the use of standard SQL updates. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa674382(v=ax.60)">update_recordset</a>.</p></td>
+<td><p>Yes. The feature has been removed and replaced by the use of standard SQL updates. For more information, see <a href="https://technet.microsoft.com/library/aa674382(v=ax.60)">update_recordset</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

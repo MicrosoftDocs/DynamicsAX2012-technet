@@ -2,8 +2,9 @@
 title: Delete a workflow
 TOCTitle: Delete a workflow
 ms:assetid: 55c3a1ba-4f40-4a55-a0eb-fd770e1faa03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202058(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202058(v=AX.60)
 ms:contentKeyID: 35949297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

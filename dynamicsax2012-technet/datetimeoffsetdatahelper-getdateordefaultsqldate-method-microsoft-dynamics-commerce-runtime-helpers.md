@@ -1,9 +1,10 @@
-﻿---
+---
 title: DateTimeOffsetDataHelper.GetDateOrDefaultSqlDate Method  (Microsoft.Dynamics.Commerce.Runtime.Helpers)
 TOCTitle: GetDateOrDefaultSqlDate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Helpers.DateTimeOffsetDataHelper.GetDateOrDefaultSqlDate(System.Nullable{System.DateTimeOffset})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.helpers.datetimeoffsetdatahelper.getdateordefaultsqldate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers.datetimeoffsetdatahelper.getdateordefaultsqldate(v=AX.60)
 ms:contentKeyID: 65323097
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static DateTime GetDateOrDefaultSqlDate(
 #### Parameters
 
   - dateTimeOffset  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))\>  
 
 #### Return Value
 
-Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 The date/time value.  
 
 ## See Also

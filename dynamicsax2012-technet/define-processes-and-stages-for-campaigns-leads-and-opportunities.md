@@ -2,8 +2,9 @@
 title: Define processes and stages for campaigns, leads, and opportunities
 TOCTitle: Define processes and stages for campaigns, leads, and opportunities
 ms:assetid: c6fc9b46-5b49-44f1-8b06-d31c9c6e9cc6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213644(v=AX.60)
 ms:contentKeyID: 36059308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ You can create a process and the stages of a process for campaigns, leads, and o
 
 [Assign responsibilities](assign-responsibilities.md)
 
-[Lead qualifying process (form)](https://technet.microsoft.com/en-us/library/hh242699\(v=ax.60\))
+[Lead qualifying process (form)](https://technet.microsoft.com/library/hh242699\(v=ax.60\))
 
   
 
