@@ -2,8 +2,9 @@
 title: Planning for reporting in Microsoft Dynamics AX
 TOCTitle: Planning for reporting
 ms:assetid: 05dd329c-ba8a-41e6-a2d5-1d534c34b10a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309577(v=AX.60)
 ms:contentKeyID: 35132809
+author: Khairunj
 ms.date: 03/11/2015
 mtps_version: v=AX.60
 ---
@@ -149,7 +150,7 @@ To integrate an AOS load balancing cluster with Reporting Services, complete the
     
     2.  Click **System administration** \> **Setup** \> **Business intelligence** \> **Reporting Services** \> **Report servers**.
     
-    3.  Connect the AOS instance to the Reporting Services instance by creating a new record in the **Report servers** form. For more information about how to use this form, see [Report servers (form)](https://technet.microsoft.com/en-us/library/aa548504\(v=ax.60\)).
+    3.  Connect the AOS instance to the Reporting Services instance by creating a new record in the **Report servers** form. For more information about how to use this form, see [Report servers (form)](https://technet.microsoft.com/library/aa548504\(v=ax.60\)).
 
 ## Reporting Services scale-out deployments
 

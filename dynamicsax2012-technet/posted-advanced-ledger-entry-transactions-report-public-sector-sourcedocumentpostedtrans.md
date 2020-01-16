@@ -2,8 +2,9 @@
 title: Posted advanced ledger entry transactions report (Public sector) (SourceDocumentPostedTrans)
 TOCTitle: Posted advanced ledger entry transactions report (Public sector) (SourceDocumentPostedTrans)
 ms:assetid: 2eff9b60-66fe-4d6c-8802-a028d6b8c2af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn535767(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn535767(v=AX.60)
 ms:contentKeyID: 60103052
+author: Khairunj
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (LTU) Set up the currency name declension
 TOCTitle: (LTU) Set up the currency name declension
 ms:assetid: 4e61ceb0-edc1-4c29-9733-611c19458546
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665076(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665076(v=AX.60)
 ms:contentKeyID: 49386658
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,9 +58,9 @@ In Lithuania, you must print both the full and short names of all currency units
 
 ## See also
 
-[(LTU) Exchange rate (modified form)](https://technet.microsoft.com/en-us/library/jj665109\(v=ax.60\))
+[(LTU) Exchange rate (modified form)](https://technet.microsoft.com/library/jj665109\(v=ax.60\))
 
-[(EEUR) Monetary unit declensions (form)](https://technet.microsoft.com/en-us/library/jj710691\(v=ax.60\))
+[(EEUR) Monetary unit declensions (form)](https://technet.microsoft.com/library/jj710691\(v=ax.60\))
 
   
 

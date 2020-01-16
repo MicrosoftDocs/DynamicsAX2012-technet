@@ -2,8 +2,9 @@
 title: Procurement I license code (ProcEssentials)
 TOCTitle: Procurement I license code (ProcEssentials)
 ms:assetid: d1965d6b-84ca-4730-a7cb-6d331a9e47ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433471(v=AX.60)
 ms:contentKeyID: 36941228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

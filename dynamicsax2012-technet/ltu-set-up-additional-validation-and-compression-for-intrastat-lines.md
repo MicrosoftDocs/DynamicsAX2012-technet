@@ -2,8 +2,9 @@
 title: (LTU) Set up additional validation and compression for Intrastat lines
 TOCTitle: (LTU) Set up additional validation and compression for Intrastat lines
 ms:assetid: 4c8f2305-4185-47eb-93eb-87ddbb4ceaab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665072(v=AX.60)
 ms:contentKeyID: 49386655
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ You can export Intrastat reports in XML format. You can also validate and compre
 
 ## See also
 
-[(LTU) Foreign trade parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678085\(v=ax.60\))
+[(LTU) Foreign trade parameters (modified form)](https://technet.microsoft.com/library/jj678085\(v=ax.60\))
 
   
 

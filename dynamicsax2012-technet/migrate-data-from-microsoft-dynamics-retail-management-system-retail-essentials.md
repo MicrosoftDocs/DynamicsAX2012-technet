@@ -2,8 +2,9 @@
 title: Migrate data from Microsoft Dynamics Retail Management System (Retail essentials)
 TOCTitle: Migrate data from Microsoft Dynamics Retail Management System (Retail essentials)
 ms:assetid: ab056d98-0ca0-49ea-a616-a24728431b5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736933(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736933(v=AX.60)
 ms:contentKeyID: 62200411
+author: Khairunj
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -214,7 +215,7 @@ Entities that represent RMS functionality that is significantly different in Ret
 
 If you want to migrate other entities that are not included by default, or if you want to support custom fields in migrated entities, follow these steps:
 
-1.  Create or modify a target table so that it has the same fields as the entity. For instructions, see [How to: Create Tables](https://technet.microsoft.com/en-us/library/aa882181\(v=ax.60\)).
+1.  Create or modify a target table so that it has the same fields as the entity. For instructions, see [How to: Create Tables](https://technet.microsoft.com/library/aa882181\(v=ax.60\)).
 
 2.  Create a custom Data Import/Export Framework entity for the RMS entity, based on the table from step 1. For instructions, see [Create a custom target entity for the Data import/export framework (DIXF, DMF)](create-a-custom-target-entity-for-the-data-import-export-framework-dixf-dmf.md).
 

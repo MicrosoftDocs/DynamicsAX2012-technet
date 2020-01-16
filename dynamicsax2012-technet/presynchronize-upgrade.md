@@ -2,8 +2,9 @@
 title: Presynchronize (upgrade)
 TOCTitle: Presynchronize (upgrade)
 ms:assetid: 44585f2f-9b9e-4155-8288-a48e93ef0a82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731786(v=AX.60)
 ms:contentKeyID: 35132617
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PagingInfo.CalculateRecordCount Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CalculateRecordCount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PagingInfo.CalculateRecordCount
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.paginginfo.calculaterecordcount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paginginfo.calculaterecordcount(v=AX.60)
 ms:contentKeyID: 65315511
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property bool CalculateRecordCount {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true the record count should be calculated; otherwise, false.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: Print backorder information on packing slips and invoices
 TOCTitle: Print backorder information on packing slips and invoices
 ms:assetid: 3ece7188-6e87-4f7e-8962-901994232457
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496939(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496939(v=AX.60)
 ms:contentKeyID: 36056691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

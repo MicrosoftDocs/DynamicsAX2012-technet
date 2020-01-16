@@ -2,8 +2,9 @@
 title: Master Data Management in Microsoft Dynamics AX
 TOCTitle: Master Data Management in Microsoft Dynamics AX
 ms:assetid: c6c0d477-625d-445a-9afc-96f2ce7301b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720451(v=AX.60)
 ms:contentKeyID: 62224158
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

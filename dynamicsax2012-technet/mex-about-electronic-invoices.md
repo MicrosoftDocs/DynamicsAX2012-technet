@@ -2,8 +2,9 @@
 title: (MEX) About electronic invoices
 TOCTitle: (MEX) About electronic invoices
 ms:assetid: 1dc47136-a78a-47fe-8c0e-74c7adec81c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208460(v=AX.60)
 ms:contentKeyID: 36056144
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

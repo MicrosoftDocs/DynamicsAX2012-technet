@@ -2,8 +2,9 @@
 title: (POL) Create a NIP record to define VAT register data
 TOCTitle: (POL) Create a NIP record to define VAT register data
 ms:assetid: 77cd2350-264e-4684-bdd4-57d66e7c26e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678244(v=AX.60)
 ms:contentKeyID: 49386965
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You can use the **NIP table** form to create a NIP record to define the data tha
 
 ## See also
 
-[(POL) NIP table (form)](https://technet.microsoft.com/en-us/library/jj678287\(v=ax.60\))
+[(POL) NIP table (form)](https://technet.microsoft.com/library/jj678287\(v=ax.60\))
 
   
 

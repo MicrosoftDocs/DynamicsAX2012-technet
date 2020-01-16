@@ -1,9 +1,10 @@
-﻿---
+---
 title: MorphX Reporting Tools Overview
 TOCTitle: MorphX Reporting Tools Overview
 ms:assetid: 0a0b6d19-aa25-49e8-8889-0786633579f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc967358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc967358(v=AX.60)
 ms:contentKeyID: 35290294
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ To create a new report, right-click the **Reports** node in the AOT and then cli
 
 ### Create a query
 
-After you create a report, you can specify the information that the report contains by creating a query. A Data Source node is nested under the report node, and the Query node is nested below that Data Source node. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)), [How to: Create Queries by Using X++](https://technet.microsoft.com/en-us/library/aa638454\(v=ax.60\)), and [Walkthrough: Creating Reports in the AOT (MorphX Reporting Tools)](walkthrough-creating-reports-in-the-aot-morphx-reporting-tools.md).
+After you create a report, you can specify the information that the report contains by creating a query. A Data Source node is nested under the report node, and the Query node is nested below that Data Source node. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)), [How to: Create Queries by Using X++](https://technet.microsoft.com/library/aa638454\(v=ax.60\)), and [Walkthrough: Creating Reports in the AOT (MorphX Reporting Tools)](walkthrough-creating-reports-in-the-aot-morphx-reporting-tools.md).
 
 ### Create a report design
 

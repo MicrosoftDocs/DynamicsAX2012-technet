@@ -2,8 +2,9 @@
 title: Product dimension - configuration configuration key (Config)
 TOCTitle: Product dimension - configuration configuration key (Config)
 ms:assetid: d3af0fe8-2b94-4989-9214-5f9078e41303
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa619481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa619481(v=AX.60)
 ms:contentKeyID: 36993556
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,17 +40,17 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Configuration route</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587282(v=ax.60)">BOM (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328668(v=ax.60)">Formula (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587282(v=ax.60)">BOM (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328668(v=ax.60)">Formula (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Configuration rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328632(v=ax.60)">Configuration rules - Formula (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa576607(v=ax.60)">Configuration rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328632(v=ax.60)">Configuration rules - Formula (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa576607(v=ax.60)">Configuration rules (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Configuration groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599171(v=ax.60)">Configuration groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599171(v=ax.60)">Configuration groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Configuration - tree</strong></p></td>
@@ -65,7 +66,7 @@ The following forms are available when the configuration key is enabled.
 <div class="alert">
 
 > [!TIP]
-> <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
+> <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
 
 
 </div></td>
@@ -94,7 +95,7 @@ The following forms are available when the configuration key is enabled.
 <div class="alert">
 
 > [!TIP]
-> <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
+> <P>This form can be accessed from the <STRONG>Released product details</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
 
 
 </div></td>
@@ -135,7 +136,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

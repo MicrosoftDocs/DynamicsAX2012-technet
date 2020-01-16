@@ -2,8 +2,9 @@
 title: Procurement categories configuration key (ProcCategory)
 TOCTitle: Procurement categories configuration key (ProcCategory)
 ms:assetid: 8cd7b6fd-b1fb-4e59-ab20-10adda5dc3b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433463(v=AX.60)
 ms:contentKeyID: 36941218
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,23 +38,23 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Procurement categories</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227365(v=ax.60)">Procurement categories (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227365(v=ax.60)">Procurement categories (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Category guidelines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208977(v=ax.60)">Category guidelines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208977(v=ax.60)">Category guidelines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Add category questionnaire</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242743(v=ax.60)">Add questionnaire (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242743(v=ax.60)">Add questionnaire (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Category access policy rule</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227513(v=ax.60)">Category access policy rule (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227513(v=ax.60)">Category access policy rule (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Category policy rule</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209240(v=ax.60)">Category policy rule (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209240(v=ax.60)">Category policy rule (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -92,13 +93,13 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
-[Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\))
+[Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\))
 
   
 

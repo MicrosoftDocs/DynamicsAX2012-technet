@@ -2,8 +2,9 @@
 title: Make a payment by check
 TOCTitle: Make a payment by check
 ms:assetid: 31baab1e-a686-4627-8714-21be0cc2016c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570052(v=AX.60)
 ms:contentKeyID: 36056344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ To make a payment by check, you must first set up the layout of checks in the **
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  To set up the layout of checks for the selected bank account (if this needs to be done), click the **Setup** tab \>**Check layout**. See [Check layout (form)](https://technet.microsoft.com/en-us/library/aa576973\(v=ax.60\)) for information about the fields in the **Check layout** form.
+2.  To set up the layout of checks for the selected bank account (if this needs to be done), click the **Setup** tab \>**Check layout**. See [Check layout (form)](https://technet.microsoft.com/library/aa576973\(v=ax.60\)) for information about the fields in the **Check layout** form.
 
 3.  If you select **Fixed** in the **Check number method** field, you must create a series of pre-printed checks that you can use to make payments:
     

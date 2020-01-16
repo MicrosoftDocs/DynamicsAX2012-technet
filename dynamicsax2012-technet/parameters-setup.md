@@ -2,8 +2,9 @@
 title: Parameters setup
 TOCTitle: Parameters setup
 ms:assetid: ff7d08af-92b7-476e-a2aa-ccaeacd8c9dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573456(v=AX.60)
 ms:contentKeyID: 36931890
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

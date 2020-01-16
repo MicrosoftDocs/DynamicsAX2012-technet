@@ -2,8 +2,9 @@
 title: (LTU) Set up a customer bank account for bank payments transfer
 TOCTitle: (LTU) Set up a customer bank account for bank payments transfer
 ms:assetid: 15ed786f-11da-434c-b869-aa05680ee61c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665024(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665024(v=AX.60)
 ms:contentKeyID: 49386605
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,9 +66,9 @@ You can set up bank account details for a customer using the **Customer bank acc
 
 ## See also
 
-[(LTU) Customer bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj665100\(v=ax.60\))
+[(LTU) Customer bank accounts (modified form)](https://technet.microsoft.com/library/jj665100\(v=ax.60\))
 
-[(EEUR) Customer bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj710670\(v=ax.60\))
+[(EEUR) Customer bank accounts (modified form)](https://technet.microsoft.com/library/jj710670\(v=ax.60\))
 
   
 

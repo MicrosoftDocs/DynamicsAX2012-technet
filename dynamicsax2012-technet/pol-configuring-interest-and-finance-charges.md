@@ -2,8 +2,9 @@
 title: (POL) Configuring interest and finance charges
 TOCTitle: (POL) Configuring interest and finance charges
 ms:assetid: 202aae1e-30e2-4f8b-a513-709a2658bd00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678149(v=AX.60)
 ms:contentKeyID: 49386871
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

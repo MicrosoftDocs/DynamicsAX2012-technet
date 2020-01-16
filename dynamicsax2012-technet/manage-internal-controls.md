@@ -2,8 +2,9 @@
 title: Manage internal controls
 TOCTitle: Manage internal controls
 ms:assetid: fa736577-3037-4eee-ac31-c4bd803a7c8c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299231(v=AX.60)
 ms:contentKeyID: 36384337
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: MemoryCacheAccessor.TryGetItem(T) Method  (Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache)
 TOCTitle: TryGetItem(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache.MemoryCacheAccessor.TryGetItem``1(System.String,``0@,Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989647(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989647(v=AX.60)
 ms:contentKeyID: 65320106
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ virtual bool TryGetItem(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -80,7 +81,7 @@ virtual bool TryGetItem(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if the key exists in the memory cache.  
 
 #### Implements

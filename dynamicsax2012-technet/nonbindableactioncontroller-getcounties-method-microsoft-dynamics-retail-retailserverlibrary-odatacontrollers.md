@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionController.GetCounties Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetCounties Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.GetCounties(System.Web.Http.OData.ODataActionParameters,System.Web.Http.OData.Query.ODataQueryOptions{Microsoft.Dynamics.Commerce.Runtime.DataModel.CountyInfo})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.getcounties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.getcounties(v=AX.60)
 ms:contentKeyID: 62201961
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ virtual IEnumerable<CountyInfo^>^ GetCounties(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<CountyInfo\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<CountyInfo\>  
 A collection of cities.  
 
 ## See Also

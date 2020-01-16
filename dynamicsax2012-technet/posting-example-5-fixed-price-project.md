@@ -2,8 +2,9 @@
 title: Posting example 5 - fixed-price project
 TOCTitle: Posting example 5 - fixed-price project
 ms:assetid: ccf57f55-e139-4655-bf12-b5ccae3c6c58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572678(v=AX.60)
 ms:contentKeyID: 36059457
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -446,7 +447,7 @@ The following tables provide an example of posting a fixed-price project.
 
 [Create an invoice for a fixed-price project](create-an-invoice-for-a-fixed-price-project.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
 [Configuring project groups](configuring-project-groups.md)
 

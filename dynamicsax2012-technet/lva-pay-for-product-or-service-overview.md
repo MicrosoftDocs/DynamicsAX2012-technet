@@ -2,8 +2,9 @@
 title: (LVA) Pay for product or service overview
 TOCTitle: (LVA) Pay for product or service overview
 ms:assetid: f36c132a-5568-4c1e-a7d3-264ca5f650da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731071(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731071(v=AX.60)
 ms:contentKeyID: 49675311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

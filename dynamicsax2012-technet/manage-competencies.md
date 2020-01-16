@@ -2,8 +2,9 @@
 title: Manage competencies
 TOCTitle: Manage competencies
 ms:assetid: 96fbd925-1832-40e6-a31b-f68a896992ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232238(v=AX.60)
 ms:contentKeyID: 50619130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

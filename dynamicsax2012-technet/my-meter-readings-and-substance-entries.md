@@ -2,8 +2,9 @@
 title: My meter readings and substance entries
 TOCTitle: My meter readings and substance entries
 ms:assetid: 682b8edb-2f48-4b6f-9d24-161957d33116
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271550(v=AX.60)
 ms:contentKeyID: 36384182
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

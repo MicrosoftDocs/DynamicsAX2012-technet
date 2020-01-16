@@ -2,8 +2,9 @@
 title: (LVA) Create a cash receipt batch and post the journal
 TOCTitle: (LVA) Create a cash receipt batch and post the journal
 ms:assetid: 7d5ffb08-67de-4053-b3b4-03979f982765
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838782(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838782(v=AX.60)
 ms:contentKeyID: 50120664
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -77,13 +78,13 @@ Use the **Cash receipt books** form to create cash receipts that you can use dur
 
 ## See also
 
-[(LVA) Cash receipt books (form)](https://technet.microsoft.com/en-us/library/jj838785\(v=ax.60\))
+[(LVA) Cash receipt books (form)](https://technet.microsoft.com/library/jj838785\(v=ax.60\))
 
-[(LVA) Cash receipts transactions (form)](https://technet.microsoft.com/en-us/library/jj838783\(v=ax.60\))
+[(LVA) Cash receipts transactions (form)](https://technet.microsoft.com/library/jj838783\(v=ax.60\))
 
-[(LVA) Cash receipts movements (form)](https://technet.microsoft.com/en-us/library/jj838784\(v=ax.60\))
+[(LVA) Cash receipts movements (form)](https://technet.microsoft.com/library/jj838784\(v=ax.60\))
 
-[(LVA) Cash receipt update (form)](https://technet.microsoft.com/en-us/library/jj721416\(v=ax.60\))
+[(LVA) Cash receipt update (form)](https://technet.microsoft.com/library/jj721416\(v=ax.60\))
 
   
 

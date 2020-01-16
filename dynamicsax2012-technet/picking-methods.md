@@ -2,8 +2,9 @@
 title: Picking methods
 TOCTitle: Picking methods
 ms:assetid: aae46a18-d75e-4281-becc-bdc742de2f4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589311(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589311(v=AX.60)
 ms:contentKeyID: 36931878
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

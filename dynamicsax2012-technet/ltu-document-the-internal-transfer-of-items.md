@@ -2,8 +2,9 @@
 title: (LTU) Document the internal transfer of items
 TOCTitle: (LTU) Document the internal transfer of items
 ms:assetid: 559be693-158d-4923-a93b-dc752bc5216e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665087(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665087(v=AX.60)
 ms:contentKeyID: 49386669
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -89,7 +90,7 @@ This topic explains how to document the internal transfer of items from one loca
 
 ## See also
 
-[Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
+[Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\))
 
   
 

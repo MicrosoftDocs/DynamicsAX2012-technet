@@ -2,8 +2,9 @@
 title: OSHA 300A preparation report (HcmOSHA300APrepReport)
 TOCTitle: OSHA 300A preparation report (HcmOSHA300APrepReport)
 ms:assetid: 47ac3613-19cf-4bb3-8ce9-f8349f5e29f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479035(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479035(v=AX.60)
 ms:contentKeyID: 59632403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

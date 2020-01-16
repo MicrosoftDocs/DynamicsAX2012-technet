@@ -2,8 +2,9 @@
 title: Print copies of payments as non-negotiable checks
 TOCTitle: Print copies of payments as non-negotiable checks
 ms:assetid: ccbbe602-5859-421d-98b4-0552cd6ec26d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242904(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242904(v=AX.60)
 ms:contentKeyID: 36059454
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,9 +26,9 @@ After a payment has been generated and posted to the payment journal, you can pr
 
 Before you can print copies of payments, you must follow these steps:
 
-  - Set up a bank to print copies of payments. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\)).
+  - Set up a bank to print copies of payments. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\)).
 
-  - Set up a vendor method of payment to print copies of payments. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+  - Set up a vendor method of payment to print copies of payments. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 ### Set up the non-negotiable check layout for a bank account
 
@@ -61,7 +62,7 @@ Before you can print copies of payments, you must follow these steps:
     
 
     > [!NOTE]
-    > <P>You can print a copy of a payment only if its method of payment allows for payment copies and the offset account type is <STRONG>Bank</STRONG>. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa618565(v=ax.60)">Methods of payment - vendors (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</A>.</P>
+    > <P>You can print a copy of a payment only if its method of payment allows for payment copies and the offset account type is <STRONG>Bank</STRONG>. For more information, see <A href="https://technet.microsoft.com/library/aa618565(v=ax.60)">Methods of payment - vendors (form)</A> and <A href="https://technet.microsoft.com/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</A>.</P>
 
 
 
@@ -79,7 +80,7 @@ Before you can print copies of payments, you must follow these steps:
     
 
     > [!NOTE]
-    > <P>You can print a copy of a payment only if its method of payment allows for payment copies and the offset account type is <STRONG>Bank</STRONG>. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa618565(v=ax.60)">Methods of payment - vendors (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</A>.</P>
+    > <P>You can print a copy of a payment only if its method of payment allows for payment copies and the offset account type is <STRONG>Bank</STRONG>. For more information, see <A href="https://technet.microsoft.com/library/aa618565(v=ax.60)">Methods of payment - vendors (form)</A> and <A href="https://technet.microsoft.com/library/aa599011(v=ax.60)">Journal voucher - Vendor payment journal (form)</A>.</P>
 
 
 

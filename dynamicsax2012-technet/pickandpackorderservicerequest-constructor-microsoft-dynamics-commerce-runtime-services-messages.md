@@ -1,9 +1,10 @@
-﻿---
+---
 title: PickAndPackOrderServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: PickAndPackOrderServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.PickAndPackOrderServiceRequest.#ctor(System.String,System.Boolean,System.Boolean,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.pickandpackorderservicerequest.pickandpackorderservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.pickandpackorderservicerequest.pickandpackorderservicerequest(v=AX.60)
 ms:contentKeyID: 65322641
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,22 +63,22 @@ PickAndPackOrderServiceRequest(
 #### Parameters
 
   - salesId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - createPickingList  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - createPackingSlip  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - inventoryLocationId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

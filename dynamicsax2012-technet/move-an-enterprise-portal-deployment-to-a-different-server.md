@@ -2,8 +2,9 @@
 title: Move an Enterprise Portal deployment to a different server
 TOCTitle: Move an Enterprise Portal deployment to a different server
 ms:assetid: c58183aa-8bf0-4abf-acca-bf2cd89b263c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352315(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352315(v=AX.60)
 ms:contentKeyID: 36687944
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

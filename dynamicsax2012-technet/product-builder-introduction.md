@@ -2,8 +2,9 @@
 title: Product builder introduction
 TOCTitle: Product builder introduction
 ms:assetid: 5c5dbf56-e04e-4b29-b535-ffed132b5932
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549094(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549094(v=AX.60)
 ms:contentKeyID: 36057569
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

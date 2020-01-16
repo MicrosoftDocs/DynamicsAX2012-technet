@@ -2,8 +2,9 @@
 title: (POL) Set up depreciation of fixed assets
 TOCTitle: (POL) Set up depreciation of fixed assets
 ms:assetid: cb07c316-d716-4576-a470-6c8e162f32c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730413(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730413(v=AX.60)
 ms:contentKeyID: 49636332
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

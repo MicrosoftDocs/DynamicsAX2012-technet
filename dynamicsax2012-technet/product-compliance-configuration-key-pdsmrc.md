@@ -2,8 +2,9 @@
 title: Product compliance configuration key (PdsMRC)
 TOCTitle: Product compliance configuration key (PdsMRC)
 ms:assetid: f2e6a4e2-f1ad-448e-be03-bdc7d6fa51be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496445(v=AX.60)
 ms:contentKeyID: 37072027
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,20 +41,20 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Product safety data sheet</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh352275(v=ax.60)">Product safety data sheet - Country and region (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh352275(v=ax.60)">Product safety data sheet - Country and region (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Regulated products regional lists</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328691(v=ax.60)">Material reporting lists (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328691(v=ax.60)">Material reporting lists (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Regulated products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328736(v=ax.60)">Regulated products (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328717(v=ax.60)">Reported regulated products (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328736(v=ax.60)">Regulated products (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328717(v=ax.60)">Reported regulated products (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Restricted products regional lists</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh352232(v=ax.60)">Restricted products regional lists (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh352232(v=ax.60)">Restricted products regional lists (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +76,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Product safety data sheet log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328631(v=ax.60)">Product safety data sheet log - Vendor (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328631(v=ax.60)">Product safety data sheet log - Vendor (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +98,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Item CAS relations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328763(v=ax.60)">Item CAS relations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328763(v=ax.60)">Item CAS relations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Product compliance alerts</strong></p></td>
@@ -105,19 +106,19 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Regulated products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328714(v=ax.60)">Countries/regions that require item reporting (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328714(v=ax.60)">Countries/regions that require item reporting (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reporting details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328591(v=ax.60)">Reporting details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328591(v=ax.60)">Reporting details (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Restricted products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh352367(v=ax.60)">Restricted products - Country/State by item (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh352367(v=ax.60)">Restricted products - Country/State by item (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Safety data sheet</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh352364(v=ax.60)">Product safety data sheet (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh352364(v=ax.60)">Product safety data sheet (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -139,7 +140,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Product safety data sheet log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh352321(v=ax.60)">Product safety data sheet log - Customer (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh352321(v=ax.60)">Product safety data sheet log - Customer (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -177,7 +178,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

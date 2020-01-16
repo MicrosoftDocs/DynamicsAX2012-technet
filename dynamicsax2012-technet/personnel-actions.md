@@ -2,8 +2,9 @@
 title: Personnel actions
 TOCTitle: Personnel actions
 ms:assetid: 98a3ea89-d4b0-4e5e-874a-a734081dfa7d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527696(v=AX.60)
 ms:contentKeyID: 59626234
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ There are two types of personnel actions:
 
   - **Position action** – A position action is performed on existing positions or new positions. For example, a position action might be required if you change a value on an existing position or if you create a new seasonal position. For detailed information about how to use position actions, see [Key tasks: Existing worker positions](key-tasks-existing-worker-positions.md) or [Key tasks: New worker positions](key-tasks-new-worker-positions.md).
 
-  - **Worker action** – A worker action is performed on existing employees or new employees. For example, a worker action might be required when a new employee is hired or an existing employee is promoted. For detailed information about how to use worker actions, see [Assign personnel actions to workers](https://technet.microsoft.com/en-us/library/dn479033\(v=ax.60\)).
+  - **Worker action** – A worker action is performed on existing employees or new employees. For example, a worker action might be required when a new employee is hired or an existing employee is promoted. For detailed information about how to use worker actions, see [Assign personnel actions to workers](https://technet.microsoft.com/library/dn479033\(v=ax.60\)).
     
 
     > [!NOTE]

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PaymentData.IsCardTokenRequired Property  (Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation)
 TOCTitle: IsCardTokenRequired Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.PaymentData.IsCardTokenRequired
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.paymentdata.iscardtokenrequired(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.paymentdata.iscardtokenrequired(v=AX.60)
 ms:contentKeyID: 65318421
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property bool IsCardTokenRequired {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

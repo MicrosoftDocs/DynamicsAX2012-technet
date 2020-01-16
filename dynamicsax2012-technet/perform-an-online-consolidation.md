@@ -2,8 +2,9 @@
 title: Perform an online consolidation
 TOCTitle: Perform an online consolidation
 ms:assetid: a0deda69-d53e-4eb7-9b0b-01ae925c2621
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571755(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571755(v=AX.60)
 ms:contentKeyID: 37832519
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

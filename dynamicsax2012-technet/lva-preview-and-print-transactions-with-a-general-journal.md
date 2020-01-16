@@ -2,8 +2,9 @@
 title: (LVA) Preview and print transactions with a general journal
 TOCTitle: (LVA) Preview and print transactions with a general journal
 ms:assetid: 778c6a64-83fc-43d8-ad0a-cea251d6489b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853410(v=AX.60)
 ms:contentKeyID: 50396780
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ You can preview and print ledger transactions before posting them to the ledger 
 
 ## See also
 
-[(LVA) Transactions preview (form)](https://technet.microsoft.com/en-us/library/jj731049\(v=ax.60\))
+[(LVA) Transactions preview (form)](https://technet.microsoft.com/library/jj731049\(v=ax.60\))
 
   
 

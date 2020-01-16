@@ -2,8 +2,9 @@
 title: (POL) Configuring required Accounts payable information
 TOCTitle: (POL) Configuring required Accounts payable information
 ms:assetid: 685e4867-f83f-41d2-a81f-204f10ab531f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678228(v=AX.60)
 ms:contentKeyID: 49386951
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (POL) Maintain and collect overdue payments
 TOCTitle: (POL) Maintain and collect overdue payments
 ms:assetid: eee32ae9-aab8-476a-a85f-760415cd1785
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711308(v=AX.60)
 ms:contentKeyID: 49387126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

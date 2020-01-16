@@ -1,9 +1,10 @@
-﻿---
+---
 title: New-AXClaimsAwareEnterprisePortalServer
 TOCTitle: New-AXClaimsAwareEnterprisePortalServer
 ms:assetid: 26DC4045-7F50-412A-93A9-396C8AAE8DB1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720244(v=AX.60)
 ms:contentKeyID: 49720033
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

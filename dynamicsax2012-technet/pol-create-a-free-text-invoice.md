@@ -2,8 +2,9 @@
 title: (POL) Create a free text invoice
 TOCTitle: (POL) Create a free text invoice
 ms:assetid: f42c2916-fa81-42bb-b17c-c73991b23c24
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711330(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711330(v=AX.60)
 ms:contentKeyID: 49387148
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

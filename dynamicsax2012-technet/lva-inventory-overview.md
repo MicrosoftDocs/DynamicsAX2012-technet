@@ -2,8 +2,9 @@
 title: (LVA) Inventory overview
 TOCTitle: (LVA) Inventory overview
 ms:assetid: 12245509-0b66-42fe-98bf-e8041cd3e10a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731006(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731006(v=AX.60)
 ms:contentKeyID: 49675246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

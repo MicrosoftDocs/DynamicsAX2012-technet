@@ -2,8 +2,9 @@
 title: Produce and test, including subcontracting
 TOCTitle: Produce and test, including subcontracting
 ms:assetid: b2a55520-08ed-4d64-9d48-329798e683dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232409(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232409(v=AX.60)
 ms:contentKeyID: 36059061
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyController.GetLoyaltyCards Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel)
 TOCTitle: GetLoyaltyCards Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.LoyaltyController.GetLoyaltyCards
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.loyaltycontroller.getloyaltycards(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.loyaltycontroller.getloyaltycards(v=AX.60)
 ms:contentKeyID: 62202938
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ static ReadOnlyCollection<LoyaltyCard^>^ GetLoyaltyCards()
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<LoyaltyCard\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<LoyaltyCard\>  
 read only collection of all loyalty card numbers  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: (POL) Set up and use PKWiU codes
 TOCTitle: (POL) Set up and use PKWiU codes
 ms:assetid: 6ba96fc7-95db-4216-a7df-12f7d3c5a418
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678231(v=AX.60)
 ms:contentKeyID: 49386953
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ Category hierarchies are used to classify products or transactions for reporting
 
 ## See also
 
-[Invoice journals (form) (Project)](https://technet.microsoft.com/en-us/library/aa618187\(v=ax.60\))
+[Invoice journals (form) (Project)](https://technet.microsoft.com/library/aa618187\(v=ax.60\))
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
   
 

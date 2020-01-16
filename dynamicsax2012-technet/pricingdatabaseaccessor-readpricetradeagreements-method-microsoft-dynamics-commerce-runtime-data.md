@@ -1,9 +1,10 @@
-﻿---
+---
 title: PricingDatabaseAccessor.ReadPriceTradeAgreements Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ReadPriceTradeAgreements Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.PricingDatabaseAccessor.ReadPriceTradeAgreements(System.Collections.Generic.ISet{System.String},System.Collections.Generic.ISet{System.String},System.String,System.DateTimeOffset,System.DateTimeOffset,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.pricingdatabaseaccessor.readpricetradeagreements(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.pricingdatabaseaccessor.readpricetradeagreements(v=AX.60)
 ms:contentKeyID: 62211349
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,36 +75,36 @@ virtual ReadOnlyCollection<TradeAgreement^>^ ReadPriceTradeAgreements(
 #### Parameters
 
   - itemIds  
-    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - priceGroups  
-    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - customerAccount  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - minActiveDate  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 <!-- end list -->
 
   - maxActiveDate  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 <!-- end list -->
 
   - currencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TradeAgreement](tradeagreement-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TradeAgreement](tradeagreement-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Collection of trade agreements which may be applied to the given items.  
 
 #### Implements

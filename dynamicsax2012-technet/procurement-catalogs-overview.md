@@ -2,8 +2,9 @@
 title: Procurement catalogs overview
 TOCTitle: Procurement catalogs overview
 ms:assetid: 00ab1ea0-9655-49c2-a5f1-dd9d1da57db7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242092(v=AX.60)
 ms:contentKeyID: 36055918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

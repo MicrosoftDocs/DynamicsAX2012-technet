@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyController.ShoppingCartController Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
 TOCTitle: ShoppingCartController Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.LoyaltyController.ShoppingCartController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.loyaltycontroller.shoppingcartcontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.loyaltycontroller.shoppingcartcontroller(v=AX.60)
 ms:contentKeyID: 65317976
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

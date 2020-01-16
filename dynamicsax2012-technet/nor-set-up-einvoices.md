@@ -2,8 +2,9 @@
 title: (NOR) Set up eInvoices
 TOCTitle: (NOR) Set up eInvoices
 ms:assetid: 48d823ce-967a-480f-938e-84802d7d8989
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242407(v=AX.60)
 ms:contentKeyID: 36056932
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

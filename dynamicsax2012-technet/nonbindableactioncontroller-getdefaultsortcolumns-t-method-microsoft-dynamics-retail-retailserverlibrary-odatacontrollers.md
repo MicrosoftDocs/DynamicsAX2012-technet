@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionController.GetDefaultSortColumns(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetDefaultSortColumns(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.GetDefaultSortColumns``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn738005(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn738005(v=AX.60)
 ms:contentKeyID: 62203210
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

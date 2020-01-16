@@ -1,9 +1,10 @@
-﻿---
+---
 title: PaymentCardTypesResponse Constructor (Collection(PaymentCardType)) (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: PaymentCardTypesResponse Constructor (Collection(PaymentCardType))
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.PaymentCardTypesResponse.#ctor(System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.PaymentCardType})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.paymentcardtypesresponse.paymentcardtypesresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.paymentcardtypesresponse.paymentcardtypesresponse(v=AX.60)
 ms:contentKeyID: 65316370
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -46,7 +47,7 @@ PaymentCardTypesResponse(
 #### Parameters
 
   - cardTypes  
-    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[PaymentCardType](paymentcardtype-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[PaymentCardType](paymentcardtype-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 ## See Also
 

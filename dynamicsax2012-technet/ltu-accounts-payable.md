@@ -2,8 +2,9 @@
 title: (LTU) Accounts payable
 TOCTitle: (LTU) Accounts payable
 ms:assetid: 29937a26-24d3-4acb-a445-49c06cb4e070
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665041(v=AX.60)
 ms:contentKeyID: 49386625
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

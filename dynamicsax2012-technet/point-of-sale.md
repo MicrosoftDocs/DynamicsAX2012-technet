@@ -2,8 +2,9 @@
 title: Point of Sale
 TOCTitle: Point of Sale
 ms:assetid: 2051b6fa-b8a1-4254-a115-a3480ad31143
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937969(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937969(v=AX.60)
 ms:contentKeyID: 50950757
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -250,7 +251,7 @@ The following tables describe the configuration tasks that you must complete in 
 <p>To process credit card transactions at retail point-of-sale (POS) registers, you can also set up payment services.</p></td>
 <td><p><a href="setting-up-payment-methods-retail.md">Setting up payment methods (Retail)</a></p>
 <p><a href="set-up-payment-services.md">Set up Payment Services</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj683232(v=ax.60)">Set up payment connector</a> (optional)</p></td>
+<p><a href="https://technet.microsoft.com/library/jj683232(v=ax.60)">Set up payment connector</a> (optional)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up sales tax groups</p></td>

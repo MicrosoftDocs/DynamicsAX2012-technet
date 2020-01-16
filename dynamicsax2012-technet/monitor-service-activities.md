@@ -2,8 +2,9 @@
 title: Monitor service activities
 TOCTitle: Monitor service activities
 ms:assetid: 844217c2-e363-43e2-9acd-e480847c6066
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213167(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213167(v=AX.60)
 ms:contentKeyID: 36058385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Click **Service management** \> **Periodic** \> **Dispatch board**.
 
 [Monitor service activities](monitor-service-activities.md)
 
-[Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
+[Dispatch board (form)](https://technet.microsoft.com/library/hh242789\(v=ax.60\))
 
   
 

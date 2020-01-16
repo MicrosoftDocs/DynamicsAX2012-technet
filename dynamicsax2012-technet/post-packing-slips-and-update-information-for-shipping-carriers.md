@@ -2,8 +2,9 @@
 title: Post packing slips and update information for shipping carriers
 TOCTitle: Post packing slips and update information for shipping carriers
 ms:assetid: b0556c9a-0fa5-4896-8bcb-51cae2804ad5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232390(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232390(v=AX.60)
 ms:contentKeyID: 36058961
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -104,11 +105,11 @@ Use this procedure to post packing slips for shipments that are picked and packe
 
 [About sales order information for shipping carriers](about-sales-order-information-for-shipping-carriers.md)
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[Packing slip journal (form)](https://technet.microsoft.com/en-us/library/aa548967\(v=ax.60\))
+[Packing slip journal (form)](https://technet.microsoft.com/library/aa548967\(v=ax.60\))
 
-[Carrier transaction information (form)](https://technet.microsoft.com/en-us/library/hh209503\(v=ax.60\))
+[Carrier transaction information (form)](https://technet.microsoft.com/library/hh209503\(v=ax.60\))
 
   
 

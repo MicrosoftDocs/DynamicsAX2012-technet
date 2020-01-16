@@ -2,8 +2,9 @@
 title: Print management
 TOCTitle: Print management
 ms:assetid: 171cc27d-d606-4fc9-b346-e20bf049f885
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309604(v=AX.60)
 ms:contentKeyID: 36056078
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You use footer text to distinguish the original from the copies. For example, fo
 
 ## See also
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [About print management originals, copies, and settings](about-print-management-originals-copies-and-settings.md)
 

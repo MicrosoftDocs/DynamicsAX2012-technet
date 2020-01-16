@@ -2,8 +2,9 @@
 title: (LVA) Setting up and maintaining Cash and bank management
 TOCTitle: (LVA) Setting up and maintaining Cash and bank management
 ms:assetid: 32e204ef-3595-4701-ac5c-9935a3d72fb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731014(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731014(v=AX.60)
 ms:contentKeyID: 49675253
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

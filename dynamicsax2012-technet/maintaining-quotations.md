@@ -2,8 +2,9 @@
 title: Maintaining quotations
 TOCTitle: Maintaining quotations
 ms:assetid: 22df8fc8-75e9-40cc-a9ba-409b3effb3eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496801(v=AX.60)
 ms:contentKeyID: 36056176
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

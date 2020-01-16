@@ -2,8 +2,9 @@
 title: Manage workers in projects
 TOCTitle: Manage workers in projects
 ms:assetid: 01b493bc-8690-4112-a8ae-4f0c77aa0aa6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569691(v=AX.60)
 ms:contentKeyID: 36055922
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,17 +92,17 @@ Use the following procedures to set up a worker record and define project-specif
 
 [Set up validation groups](set-up-validation-groups.md)
 
-[Worker/project validation groups (form)](https://technet.microsoft.com/en-us/library/aa615696\(v=ax.60\))
+[Worker/project validation groups (form)](https://technet.microsoft.com/library/aa615696\(v=ax.60\))
 
-[Project setup (form)](https://technet.microsoft.com/en-us/library/hh209540\(v=ax.60\))
+[Project setup (form)](https://technet.microsoft.com/library/hh209540\(v=ax.60\))
 
-[Update worker periods (class form)](https://technet.microsoft.com/en-us/library/aa620393\(v=ax.60\))
+[Update worker periods (class form)](https://technet.microsoft.com/library/aa620393\(v=ax.60\))
 
 [Assign and maintain worker periods](assign-and-maintain-worker-periods.md)
 
 [Create and generate timesheet periods](create-and-generate-timesheet-periods.md)
 
-[Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
+[Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\))
 
   
 

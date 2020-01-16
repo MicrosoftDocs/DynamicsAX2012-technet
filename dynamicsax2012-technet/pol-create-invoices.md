@@ -2,8 +2,9 @@
 title: (POL) Create invoices
 TOCTitle: (POL) Create invoices
 ms:assetid: 85f08db0-a2f0-46d4-be4a-c760313b8c5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678270(v=AX.60)
 ms:contentKeyID: 49386992
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

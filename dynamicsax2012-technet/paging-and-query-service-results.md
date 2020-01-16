@@ -1,9 +1,10 @@
-﻿---
+---
 title: Paging and Query Service Results
 TOCTitle: Paging and Query Service Results
 ms:assetid: 03ac49bb-14ef-4210-93b6-a51263a9cb9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg843447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg843447(v=AX.60)
 ms:contentKeyID: 35240242
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -44,29 +45,29 @@ When you call the query service, you pass the paging parameters to the service b
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh186334(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.Paging</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh186334(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.Paging</a></p></td>
 <td><p>Abstract class that all the other paging classes extend.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh153285(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.PositionBasedPaging</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh153285(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.PositionBasedPaging</a></p></td>
 <td><p>Class used for position-based paging.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh131386(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.TopLevelValueBasedPaging</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh131386(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.TopLevelValueBasedPaging</a></p></td>
 <td><p>Class used for top-level value-based paging.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh187684(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.ValueBasedPaging</a></p></td>
-<td><p>Class used for value-based paging. Extends the <a href="https://technet.microsoft.com/en-us/library/gg769928(v=ax.60)">AifQueryPaging</a> class.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh187684(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.ValueBasedPaging</a></p></td>
+<td><p>Class used for value-based paging. Extends the <a href="https://technet.microsoft.com/library/gg769928(v=ax.60)">AifQueryPaging</a> class.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh187248(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.ValueBasedPagingBase</a></p>
+<td><p><a href="https://technet.microsoft.com/library/hh187248(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.ValueBasedPagingBase</a></p>
 <p></p></td>
-<td><p>Abstract class that extends the <a href="https://technet.microsoft.com/en-us/library/gg769928(v=ax.60)">AifQueryPaging</a> class.</p></td>
+<td><p>Abstract class that extends the <a href="https://technet.microsoft.com/library/gg769928(v=ax.60)">AifQueryPaging</a> class.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh153260(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.AdvancedValueBasedPaging</a></p></td>
-<td><p>Class used for advanced value-based paging. Extends the <a href="https://technet.microsoft.com/en-us/library/gg759741(v=ax.60)">AifValueBasedQueryPagingBase</a> class.</p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh153260(v=ax.60)">Microsoft.Dynamics.AX.Framework.Services.QueryService.AdvancedValueBasedPaging</a></p></td>
+<td><p>Class used for advanced value-based paging. Extends the <a href="https://technet.microsoft.com/library/gg759741(v=ax.60)">AifValueBasedQueryPagingBase</a> class.</p></td>
 </tr>
 </tbody>
 </table>

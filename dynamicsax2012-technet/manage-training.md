@@ -2,8 +2,9 @@
 title: Manage training
 TOCTitle: Manage training
 ms:assetid: ff11a6e4-20f3-4238-bd75-97d871d2184b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243317(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243317(v=AX.60)
 ms:contentKeyID: 49384150
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

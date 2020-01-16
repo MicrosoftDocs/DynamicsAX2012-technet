@@ -2,8 +2,9 @@
 title: Planning considerations for analytics
 TOCTitle: Planning considerations for analytics
 ms:assetid: 0cfb03b6-336a-4665-be39-b205fd34b5c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731898(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731898(v=AX.60)
 ms:contentKeyID: 35132815
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -129,7 +130,7 @@ Microsoft Dynamics AX 2012 R2 and R3 enable data isolation by using *data partit
 
 If your Microsoft Dynamics AX installation has multiple data partitions, you must deploy cubes for each partition. For example, suppose you have two data partitions, *Partition 1* and *Partition 2*. You must deploy cubes for each partition. This means you’ll have a General Ledger cube for Partiton 1, and a separate General Ledger cube for Partition 2.
 
-For more information about data partitions, see [Data partitioning architecture](data-partitioning-architecture.md) and [Partitions, Companies, and Data Isolation in Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/jj677285\(v=ax.60\)). For more information about how to deploy cubes for each partition, see [Deploy the default cubes](deploy-the-default-cubes.md).
+For more information about data partitions, see [Data partitioning architecture](data-partitioning-architecture.md) and [Partitions, Companies, and Data Isolation in Microsoft Dynamics AX](https://technet.microsoft.com/library/jj677285\(v=ax.60\)). For more information about how to deploy cubes for each partition, see [Deploy the default cubes](deploy-the-default-cubes.md).
 
 ## Learn the security model
 

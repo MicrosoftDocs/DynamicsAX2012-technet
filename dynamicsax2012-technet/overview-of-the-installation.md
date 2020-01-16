@@ -2,8 +2,9 @@
 title: Overview of the installation
 TOCTitle: Overview of the installation
 ms:assetid: a24c5924-a984-4878-888f-1f125e0fded3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355070(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355070(v=AX.60)
 ms:contentKeyID: 35132794
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

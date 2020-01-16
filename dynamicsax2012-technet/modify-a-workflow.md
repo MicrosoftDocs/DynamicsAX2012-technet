@@ -2,8 +2,9 @@
 title: Modify a workflow
 TOCTitle: Modify a workflow
 ms:assetid: 6ad6c480-9f38-4e96-87d1-c6a6714cb335
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202066(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202066(v=AX.60)
 ms:contentKeyID: 35949308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (LTU) Set up United VAT invoice for customers
 TOCTitle: (LTU) Set up United VAT invoice for customers
 ms:assetid: fec5a15c-8d15-41c0-980b-6964a133cdc8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678109(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678109(v=AX.60)
 ms:contentKeyID: 49386833
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ The sales documents issued by United VAT companies are marked to indicate that t
 
 ## See also
 
-[(LTU) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj665091\(v=ax.60\))
+[(LTU) Customers (modified form)](https://technet.microsoft.com/library/jj665091\(v=ax.60\))
 
   
 

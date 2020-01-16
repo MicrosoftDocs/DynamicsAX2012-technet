@@ -2,8 +2,9 @@
 title: Post-upgrade tasks
 TOCTitle: Post-upgrade tasks
 ms:assetid: c0706c3c-0fa0-4bf9-8dce-733aecd9e2b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn198673(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn198673(v=AX.60)
 ms:contentKeyID: 53874073
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

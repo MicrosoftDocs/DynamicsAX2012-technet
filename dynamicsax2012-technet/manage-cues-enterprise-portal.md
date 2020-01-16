@@ -2,8 +2,9 @@
 title: Manage cues (Enterprise Portal)
 TOCTitle: Manage cues
 ms:assetid: d9bcbb13-fb60-44e5-9948-4122af5a6240
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227402(v=AX.60)
 ms:contentKeyID: 36059656
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

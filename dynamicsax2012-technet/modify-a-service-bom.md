@@ -2,8 +2,9 @@
 title: Modify a Service BOM
 TOCTitle: Modify a Service BOM
 ms:assetid: 66e3268e-65a9-4578-b7cb-32707822417d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571154(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571154(v=AX.60)
 ms:contentKeyID: 39519164
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

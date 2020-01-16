@@ -1,9 +1,10 @@
-﻿---
+---
 title: Model and model store cmdlets
 TOCTitle: Model and model store cmdlets
 ms:assetid: 5D7FAC77-5DDB-8781-F8EF-573F741A1569
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh706140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh706140(v=AX.60)
 ms:contentKeyID: 42528999
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

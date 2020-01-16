@@ -2,8 +2,9 @@
 title: (LTU) Inventory and warehouse management
 TOCTitle: (LTU) Inventory and warehouse management
 ms:assetid: 9bd690ce-6306-41dc-abae-06dcf6cc94c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665149(v=AX.60)
 ms:contentKeyID: 49386730
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

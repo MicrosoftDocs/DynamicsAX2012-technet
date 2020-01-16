@@ -2,8 +2,9 @@
 title: (LTU) Set up sales tax reporting
 TOCTitle: (LTU) Set up sales tax reporting
 ms:assetid: 957a798a-8a83-48da-868b-cae9a7b837af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn528957(v=AX.60)
 ms:contentKeyID: 59641346
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Before you report sales tax transactions for your organization, you can set up t
 
 **Prerequisites**
 
-  - Define parameters to use to calculate sales taxes. For example, define how to calculate tax on invoices, cash discounts, overpayments, and corrections. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\)).
+  - Define parameters to use to calculate sales taxes. For example, define how to calculate tax on invoices, cash discounts, overpayments, and corrections. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\)).
 
   - Set up a tax authority to whom the taxes are paid. Also, select a report layout or structure for reporting taxes to the tax authority. For more information, see [Set up sales tax authorities](set-up-sales-tax-authorities.md).
 
@@ -59,7 +60,7 @@ Create XML codes, which are also known as elements, that define the lines that y
 
 4.  Optional: In the **Total calculation** field group, select one or more report lines to include on a total line on the sales tax report.
 
-5.  Enter the remaining information for the report lines and total calculation lines. For more information, see [(LTU) Sales tax reporting codes (modified form)](https://technet.microsoft.com/en-us/library/dn133215\(v=ax.60\)).
+5.  Enter the remaining information for the report lines and total calculation lines. For more information, see [(LTU) Sales tax reporting codes (modified form)](https://technet.microsoft.com/library/dn133215\(v=ax.60\)).
 
 6.  To view and print a report for sales tax reporting codes, click **Sales tax reporting codes**.
 
@@ -73,7 +74,7 @@ Create XML codes, which are also known as elements, that define the lines that y
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

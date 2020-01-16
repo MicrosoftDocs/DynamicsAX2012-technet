@@ -1,9 +1,10 @@
-﻿---
+---
 title: MakePaymentRequest.PaymentCard Property  (Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation)
 TOCTitle: PaymentCard Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.MakePaymentRequest.PaymentCard
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.makepaymentrequest.paymentcard(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.makepaymentrequest.paymentcard(v=AX.60)
 ms:contentKeyID: 65319395
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

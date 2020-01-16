@@ -2,8 +2,9 @@
 title: Prepare financial dimension framework for upgrade
 TOCTitle: Prepare financial dimension framework for upgrade
 ms:assetid: d5fd4c31-fc51-49ea-8118-8e782c4bad98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731971(v=AX.60)
 ms:contentKeyID: 35132913
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

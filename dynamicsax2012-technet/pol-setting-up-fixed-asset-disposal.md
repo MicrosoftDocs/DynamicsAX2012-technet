@@ -2,8 +2,9 @@
 title: (POL) Setting up fixed asset disposal
 TOCTitle: (POL) Setting up fixed asset disposal
 ms:assetid: ac02a300-5f49-4357-b96d-e558f7160478
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730412(v=AX.60)
 ms:contentKeyID: 49636331
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,11 +70,11 @@ The following path describes how to open the template: Click **Fixed assets** \>
 
 ## See also
 
-[(POL) Fixed asset details (modified form)](https://technet.microsoft.com/en-us/library/jj730411\(v=ax.60\))
+[(POL) Fixed asset details (modified form)](https://technet.microsoft.com/library/jj730411\(v=ax.60\))
 
-[(POL) Fixed assets parameters (modified form)](https://technet.microsoft.com/en-us/library/jj730406\(v=ax.60\))
+[(POL) Fixed assets parameters (modified form)](https://technet.microsoft.com/library/jj730406\(v=ax.60\))
 
-[(POL) Disposal parameters (modified form)](https://technet.microsoft.com/en-us/library/jj730407\(v=ax.60\))
+[(POL) Disposal parameters (modified form)](https://technet.microsoft.com/library/jj730407\(v=ax.60\))
 
   
 

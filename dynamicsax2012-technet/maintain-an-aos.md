@@ -2,8 +2,9 @@
 title: Maintain an AOS
 TOCTitle: Maintain an AOS
 ms:assetid: d1df8c87-80be-417d-b1ea-85c333b7d700
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202109(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202109(v=AX.60)
 ms:contentKeyID: 35949363
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

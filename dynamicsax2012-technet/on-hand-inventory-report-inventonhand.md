@@ -2,8 +2,9 @@
 title: On-hand inventory report (InventOnhand)
 TOCTitle: On-hand inventory report (InventOnhand)
 ms:assetid: 87bcf61f-33ff-4e30-a099-445721df8f32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227364(v=AX.60)
 ms:contentKeyID: 36059575
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -136,7 +137,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[On-hand inventory (form)](https://technet.microsoft.com/en-us/library/aa616522\(v=ax.60\))
+[On-hand inventory (form)](https://technet.microsoft.com/library/aa616522\(v=ax.60\))
 
   
 

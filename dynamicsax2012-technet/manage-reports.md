@@ -2,8 +2,9 @@
 title: Manage reports
 TOCTitle: Manage reports
 ms:assetid: 5477de81-fdec-402b-92d4-24ee92337364
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208957(v=AX.60)
 ms:contentKeyID: 36057306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Report web parts display Microsoft Dynamics AX reports. These reports run on the
 
 ## Add the Report web part to a page
 
-To add the Report web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+To add the Report web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 ## Configure the Report web part
 
@@ -29,7 +30,7 @@ To configure the Report web part to display a report, follow these steps.
 
 2.  In the **Report selection** section, select the report to display.
     
-    For more information about the reports that you can display in Enterprise Portal for Microsoft Dynamics AX, see [Accessible Reports for Enterprise Portal](https://technet.microsoft.com/en-us/library/hh330355\(v=ax.60\)).
+    For more information about the reports that you can display in Enterprise Portal for Microsoft Dynamics AX, see [Accessible Reports for Enterprise Portal](https://technet.microsoft.com/library/hh330355\(v=ax.60\)).
 
 3.  If the report uses parameters, enter the parameter values in the **Report parameters** section.
 

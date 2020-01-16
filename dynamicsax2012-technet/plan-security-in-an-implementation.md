@@ -2,8 +2,9 @@
 title: Plan security in an implementation
 TOCTitle: Plan security
 ms:assetid: 1ceed25f-cf71-400e-8602-2a6fd8f719b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh918185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh918185(v=AX.60)
 ms:contentKeyID: 45964480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

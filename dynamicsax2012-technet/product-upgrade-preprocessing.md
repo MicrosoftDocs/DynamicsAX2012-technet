@@ -2,8 +2,9 @@
 title: Product upgrade (preprocessing)
 TOCTitle: Product upgrade (preprocessing)
 ms:assetid: 7e2e587a-bb29-4197-8ca8-fb22f6381d03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731843(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731843(v=AX.60)
 ms:contentKeyID: 35132696
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

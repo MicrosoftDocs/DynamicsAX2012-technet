@@ -1,9 +1,10 @@
-﻿---
+---
 title: PriceContextHelper.GetCatalogIds Method (SalesTransaction) (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: GetCatalogIds Method (SalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.GetCatalogIds(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getcatalogids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getcatalogids(v=AX.60)
 ms:contentKeyID: 62211783
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,7 +54,7 @@ static ISet<long long>^ GetCatalogIds(
 
 #### Return Value
 
-Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/en-us/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+Type: [System.Collections.Generic.ISet](https://technet.microsoft.com/library/dd412081\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 Set of catalog Ids.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: Procurement II configuration key (ProcAdvanced)
 TOCTitle: Procurement II configuration key (ProcAdvanced)
 ms:assetid: 0f9a6f82-8224-4b82-8394-b5c7e64b679f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433445(v=AX.60)
 ms:contentKeyID: 36941194
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -58,7 +59,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

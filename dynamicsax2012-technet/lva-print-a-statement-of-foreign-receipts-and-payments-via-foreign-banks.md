@@ -2,8 +2,9 @@
 title: (LVA) Print a statement of foreign receipts and payments via foreign banks
 TOCTitle: (LVA) Print a statement of foreign receipts and payments via foreign banks
 ms:assetid: a3665ceb-c5e3-4db8-9fb0-2b34bf738659
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721457(v=AX.60)
 ms:contentKeyID: 49730235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,7 +74,7 @@ If a company that operates in Latvia receives payments from a foreign bank and d
 
 ## See also
 
-[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj721419\(v=ax.60\))
+[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/library/jj721419\(v=ax.60\))
 
   
 

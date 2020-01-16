@@ -1,9 +1,10 @@
-﻿---
+---
 title: Processing batched messages in AIF
 TOCTitle: Processing batched messages in AIF
 ms:assetid: c7bc8b20-9d66-464e-9a89-4df2309d001d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh397323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh397323(v=AX.60)
 ms:contentKeyID: 36929814
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

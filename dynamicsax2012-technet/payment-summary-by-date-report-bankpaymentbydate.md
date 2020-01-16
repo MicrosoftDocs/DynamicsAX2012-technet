@@ -2,8 +2,9 @@
 title: Payment summary by date report (BankPaymentByDate)
 TOCTitle: Payment summary by date report (BankPaymentByDate)
 ms:assetid: e0812aa9-c982-449e-9bed-34c799bf749a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa592027(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa592027(v=AX.60)
 ms:contentKeyID: 36931905
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

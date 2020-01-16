@@ -2,8 +2,9 @@
 title: (MEX) Electronic invoices
 TOCTitle: (MEX) Electronic invoices
 ms:assetid: 1c94f41a-449e-4e40-a0b3-cbba6752c6bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841078(v=AX.60)
 ms:contentKeyID: 50406237
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

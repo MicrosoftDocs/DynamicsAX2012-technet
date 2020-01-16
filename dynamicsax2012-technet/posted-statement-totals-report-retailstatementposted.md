@@ -2,8 +2,9 @@
 title: Posted statement totals report (RetailStatementPosted)
 TOCTitle: Posted statement totals report (RetailStatementPosted)
 ms:assetid: a1046724-c07d-45a7-8d8c-1169f8fd11e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697684(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697684(v=AX.60)
 ms:contentKeyID: 42518432
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

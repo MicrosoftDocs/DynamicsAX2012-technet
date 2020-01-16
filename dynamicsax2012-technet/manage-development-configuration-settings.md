@@ -2,8 +2,9 @@
 title: Manage development configuration settings
 TOCTitle: Manage development configuration settings
 ms:assetid: 5a07fe8c-e4a7-4f98-ac98-eeb79578e1d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569648(v=AX.60)
 ms:contentKeyID: 35949300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

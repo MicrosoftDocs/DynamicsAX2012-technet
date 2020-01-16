@@ -2,8 +2,9 @@
 title: Payment control report (CustOutPaymControl)
 TOCTitle: Payment control report (CustOutPaymControl)
 ms:assetid: a099829c-a01b-4762-8917-8b87e5dee3fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538457(v=AX.60)
 ms:contentKeyID: 39508885
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

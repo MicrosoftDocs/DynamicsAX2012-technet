@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductDimensionDictionary Class (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ProductDimensionDictionary Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionDictionary
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensiondictionary(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensiondictionary(v=AX.60)
 ms:contentKeyID: 62202106
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ public ref class ProductDimensionDictionary sealed : public Dictionary<String^, 
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [ProductDimensionValueDictionary](productdimensionvaluedictionary-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [ProductDimensionValueDictionary](productdimensionvaluedictionary-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
     Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionDictionary  
 
 ## Thread Safety

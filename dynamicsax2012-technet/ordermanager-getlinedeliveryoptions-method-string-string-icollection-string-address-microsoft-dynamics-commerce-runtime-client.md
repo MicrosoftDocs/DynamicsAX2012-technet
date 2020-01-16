@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.GetLineDeliveryOptions Method (String, String, ICollection(String), Address) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetLineDeliveryOptions Method (String, String, ICollection(String), Address)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.GetLineDeliveryOptions(System.String,System.String,System.Collections.Generic.ICollection{System.String},Microsoft.Dynamics.Commerce.Runtime.DataModel.Address)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getlinedeliveryoptions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getlinedeliveryoptions(v=AX.60)
 ms:contentKeyID: 62209783
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -64,17 +65,17 @@ ReadOnlyCollection<SalesLineDeliveryOption^>^ GetLineDeliveryOptions(
 #### Parameters
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - customerAccountNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - cartLineIds  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -83,7 +84,7 @@ ReadOnlyCollection<SalesLineDeliveryOption^>^ GetLineDeliveryOptions(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[SalesLineDeliveryOption](saleslinedeliveryoption-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[SalesLineDeliveryOption](saleslinedeliveryoption-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The applicable delivery options at the line level.  
 
 ## See Also

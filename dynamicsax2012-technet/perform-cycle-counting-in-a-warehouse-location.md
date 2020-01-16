@@ -2,8 +2,9 @@
 title: Perform cycle counting in a warehouse location
 TOCTitle: Perform cycle counting in a warehouse location
 ms:assetid: 90301cce-3937-45b8-9690-ffe8abc0ab38
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn727123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn727123(v=AX.60)
 ms:contentKeyID: 62383464
+author: Khairunj
 ms.date: 05/28/2014
 mtps_version: v=AX.60
 audience: Application User

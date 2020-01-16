@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.GetInvoicesByCustomerAccount Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetInvoicesByCustomerAccount Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.GetInvoicesByCustomerAccount(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getinvoicesbycustomeraccount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getinvoicesbycustomeraccount(v=AX.60)
 ms:contentKeyID: 62214856
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ ReadOnlyCollection<SalesInvoice^>^ GetInvoicesByCustomerAccount(
 #### Parameters
 
   - customerAccount  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[SalesInvoice](salesinvoice-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[SalesInvoice](salesinvoice-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The invoices for the given customer account.  
 
 ## Exceptions
@@ -74,7 +75,7 @@ The invoices for the given customer account.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
+<td><a href="https://technet.microsoft.com/library/3w1b3114(v=ax.60)">ArgumentException</a></td>
 <td><p>Thrown if customerAccount is null or empty.</p></td>
 </tr>
 </tbody>

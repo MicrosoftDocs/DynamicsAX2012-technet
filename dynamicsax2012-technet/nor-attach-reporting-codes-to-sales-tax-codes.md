@@ -2,8 +2,9 @@
 title: (NOR) Attach reporting codes to sales tax codes
 TOCTitle: (NOR) Attach reporting codes to sales tax codes
 ms:assetid: 2e070335-e3ab-40f5-b802-93896977fd6f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231021(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231021(v=AX.60)
 ms:contentKeyID: 36056273
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -116,7 +117,7 @@ Use the **Sales tax codes** form to attach reporting codes to sales tax codes to
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Post timesheet hours and view distributions
 TOCTitle: Post timesheet hours and view distributions
 ms:assetid: 5bd42802-2ff2-4b8b-b162-74ecafceaa97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597105(v=AX.60)
 ms:contentKeyID: 39519153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use the **Unposted timesheets** list page to preview the distributions for a tim
 
 ## See also
 
-[Unposted timesheets (list page)](https://technet.microsoft.com/en-us/library/hh597166\(v=ax.60\))
+[Unposted timesheets (list page)](https://technet.microsoft.com/library/hh597166\(v=ax.60\))
 
   
 

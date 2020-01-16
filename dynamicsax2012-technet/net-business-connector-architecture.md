@@ -2,8 +2,9 @@
 title: .NET Business Connector architecture
 TOCTitle: .NET Business Connector architecture
 ms:assetid: 492d0d1c-5697-482a-9893-54a06756a4a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309664(v=AX.60)
 ms:contentKeyID: 35132621
+author: Khairunj
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Packing Duty configuration key (InventPackaging)
 TOCTitle: Packing Duty configuration key (InventPackaging)
 ms:assetid: 9f5b0ddd-2d8b-4432-a9c1-0378c6d4f1af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa588485(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa588485(v=AX.60)
 ms:contentKeyID: 36993549
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,19 +40,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Packing groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572636(v=ax.60)">Packing groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572636(v=ax.60)">Packing groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Packing material codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585483(v=ax.60)">Packing material codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585483(v=ax.60)">Packing material codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Packing material fees</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa558441(v=ax.60)">Packing material fees (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa558441(v=ax.60)">Packing material fees (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Packing units</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616127(v=ax.60)">Packing units (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616127(v=ax.60)">Packing units (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +74,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Packing material transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591994(v=ax.60)">Packing material transactions - purchase (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591994(v=ax.60)">Packing material transactions - purchase (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -95,7 +96,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Packing material transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588621(v=ax.60)">Packing material transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588621(v=ax.60)">Packing material transactions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +134,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

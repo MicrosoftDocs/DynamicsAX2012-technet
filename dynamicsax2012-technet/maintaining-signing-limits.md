@@ -2,8 +2,9 @@
 title: Maintaining signing limits
 TOCTitle: Maintaining signing limits
 ms:assetid: b8184745-d979-481a-a67f-5f63c43af2df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271633(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271633(v=AX.60)
 ms:contentKeyID: 36384265
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

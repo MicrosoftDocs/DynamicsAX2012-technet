@@ -2,8 +2,9 @@
 title: Print inventory transfer report (InventJournalTransTransfer)
 TOCTitle: Print inventory transfer report (InventJournalTransTransfer)
 ms:assetid: 69eac42d-5913-4d47-8f80-f2163f4f3e5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242742(v=AX.60)
 ms:contentKeyID: 36059043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -146,7 +147,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/en-us/library/aa587291\(v=ax.60\))
+[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/library/aa587291\(v=ax.60\))
 
   
 

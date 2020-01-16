@@ -2,8 +2,9 @@
 title: (LVA) Generate the VAT declaration as an XML file
 TOCTitle: (LVA) Generate the VAT declaration as an XML file
 ms:assetid: a75a6b16-5cf3-4017-b4c0-531bedaf92bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716013(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716013(v=AX.60)
 ms:contentKeyID: 62200256
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,10 +52,10 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
-<td><p>Set up XML elements for sales tax report lines. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj721459(v=ax.60)">(LVA) VAT report setup (form)</a>.</p>
-<p>Set up sales tax report lines in the <strong>Sales tax reporting codes</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa588316(v=ax.60)">Sales tax reporting codes (form)</a>.</p>
-<p>Set up sales tax codes to report lines. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa553257(v=ax.60)">Sales tax codes (form)</a>.</p>
-<p>Set up the reporting type for transactions in the <strong>Item sales tax groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa615960(v=ax.60)">Item sales tax groups (form)</a>.</p></td>
+<td><p>Set up XML elements for sales tax report lines. For more information, see <a href="https://technet.microsoft.com/library/jj721459(v=ax.60)">(LVA) VAT report setup (form)</a>.</p>
+<p>Set up sales tax report lines in the <strong>Sales tax reporting codes</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa588316(v=ax.60)">Sales tax reporting codes (form)</a>.</p>
+<p>Set up sales tax codes to report lines. For more information, see <a href="https://technet.microsoft.com/library/aa553257(v=ax.60)">Sales tax codes (form)</a>.</p>
+<p>Set up the reporting type for transactions in the <strong>Item sales tax groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa615960(v=ax.60)">Item sales tax groups (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Related transaction task</strong></p></td>
@@ -72,7 +73,7 @@ To generate the VAT declaration as an XML file, follow these steps:
 
 1.  Click **General ledger** \> **Reports** \> **External** \> **Sales tax payments**.
 
-2.  In the **Sales tax payments** form, view the settled VAT payments for a specified period. For more information, see [Sales tax payments (form)](https://technet.microsoft.com/en-us/library/aa583763\(v=ax.60\)).
+2.  In the **Sales tax payments** form, view the settled VAT payments for a specified period. For more information, see [Sales tax payments (form)](https://technet.microsoft.com/library/aa583763\(v=ax.60\)).
 
 3.  Click **EU sales list**.
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PricingDataServiceManager.GetPeriodicDiscounts Method  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: GetPeriodicDiscounts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingDataServiceManager.GetPeriodicDiscounts(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{System.Int64},System.String,System.DateTimeOffset)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingdataservicemanager.getperiodicdiscounts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingdataservicemanager.getperiodicdiscounts(v=AX.60)
 ms:contentKeyID: 65322404
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,31 +69,31 @@ virtual ReadOnlyCollection<PeriodicDiscount^>^ GetPeriodicDiscounts(
 #### Parameters
 
   - productId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - variantId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - priceGroupIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - currencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - activeDate  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[PeriodicDiscount](periodicdiscount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[PeriodicDiscount](periodicdiscount-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Implements
 

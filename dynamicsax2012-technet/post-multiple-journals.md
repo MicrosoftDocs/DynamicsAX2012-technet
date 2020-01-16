@@ -2,8 +2,9 @@
 title: Post multiple journals
 TOCTitle: Post multiple journals
 ms:assetid: 3d2d2afc-88a7-4b11-9c25-05772d8aa37a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570269(v=AX.60)
 ms:contentKeyID: 36931869
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -157,15 +158,15 @@ This procedure uses the **Daily** journal type.
 
 ## See also
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Post journals (form)](https://technet.microsoft.com/en-us/library/aa583389\(v=ax.60\))
+[Post journals (form)](https://technet.microsoft.com/library/aa583389\(v=ax.60\))
 
 [Processing batch jobs](processing-batch-jobs.md)
 
-[Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\))
+[Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\))
 
   
 

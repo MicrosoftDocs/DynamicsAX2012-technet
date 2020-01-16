@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonSaleTenderOperationDataManager.GetCurrentShiftNonSaleOperations Method (NonSalesTransaction) (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: GetCurrentShiftNonSaleOperations Method (NonSalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.NonSaleTenderOperationDataManager.GetCurrentShiftNonSaleOperations(Microsoft.Dynamics.Commerce.Runtime.DataModel.NonSalesTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.nonsaletenderoperationdatamanager.getcurrentshiftnonsaleoperations(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.nonsaletenderoperationdatamanager.getcurrentshiftnonsaleoperations(v=AX.60)
 ms:contentKeyID: 62208902
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,7 +55,7 @@ ReadOnlyCollection<NonSalesTransaction^>^ GetCurrentShiftNonSaleOperations(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[NonSalesTransaction](nonsalestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[NonSalesTransaction](nonsalestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Collection of non-sale tender operation.  
 
 ## See Also

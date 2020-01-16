@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.SearchOrders Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: SearchOrders Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.SearchOrders(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrderSearchCriteria)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.searchorders(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.searchorders(v=AX.60)
 ms:contentKeyID: 65318508
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

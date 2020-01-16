@@ -2,8 +2,9 @@
 title: Preparing to maintain standard costs in a manufacturing environment
 TOCTitle: Preparing to maintain standard costs in a manufacturing environment
 ms:assetid: 001ab793-a3b3-4946-aa91-bf9302d6bb86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230647(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230647(v=AX.60)
 ms:contentKeyID: 36055912
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

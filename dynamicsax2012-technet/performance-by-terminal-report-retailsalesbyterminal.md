@@ -2,8 +2,9 @@
 title: Performance by terminal report (RetailSalesByTerminal)
 TOCTitle: Performance by terminal report (RetailSalesByTerminal)
 ms:assetid: 1e68ac2c-64a8-441b-ad82-6016a7670ef8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ851126(v=AX.60)
 ms:contentKeyID: 50173435
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

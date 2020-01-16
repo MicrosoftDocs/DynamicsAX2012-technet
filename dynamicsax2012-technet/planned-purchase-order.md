@@ -2,8 +2,9 @@
 title: " planned purchase order"
 TOCTitle: " planned purchase order"
 ms:assetid: DynamicsAXGlossary.232533
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.232533(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.232533(v=AX.60)
 ms:contentKeyID: 36057805
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

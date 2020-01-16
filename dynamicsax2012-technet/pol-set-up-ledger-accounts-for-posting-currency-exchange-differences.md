@@ -2,8 +2,9 @@
 title: (POL) Set up ledger accounts for posting currency exchange differences
 TOCTitle: (POL) Set up ledger accounts for posting currency exchange differences
 ms:assetid: 6d4680f8-3e8e-446f-bb55-047876e7334f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678233(v=AX.60)
 ms:contentKeyID: 49386955
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,11 +28,11 @@ You can set up ledger accounts for posting gains and losses for currency exchang
 
 2.  Press CTRL+N to create a new currency code.
 
-3.  Enter the required details. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+3.  Enter the required details. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 4.  Click **General ledger** \> **Setup** \> **Currency** \> **Currency revaluation accounts**.
 
-5.  On the **Currency revaluation accounts** form, in the **Main account** field, select the ledger accounts for realized and unrealized currency exchange adjustments. For more information, see [Currency revaluation accounts (form)](https://technet.microsoft.com/en-us/library/hh227652\(v=ax.60\)).
+5.  On the **Currency revaluation accounts** form, in the **Main account** field, select the ledger accounts for realized and unrealized currency exchange adjustments. For more information, see [Currency revaluation accounts (form)](https://technet.microsoft.com/library/hh227652\(v=ax.60\)).
     
 
     > [!NOTE]

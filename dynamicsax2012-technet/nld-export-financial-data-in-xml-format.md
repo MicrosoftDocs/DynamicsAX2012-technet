@@ -2,8 +2,9 @@
 title: (NLD) Export financial data in XML format
 TOCTitle: (NLD) Export financial data in XML format
 ms:assetid: d897dca4-a9b4-46a5-8eb6-944c094a8037
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227396(v=AX.60)
 ms:contentKeyID: 36059644
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ Manage folder and file permissions so that only users qualified to view the repo
 
 ## See also
 
-[(NLD) Export financial data for XBRL reporter (form)](https://technet.microsoft.com/en-us/library/hh242795\(v=ax.60\))
+[(NLD) Export financial data for XBRL reporter (form)](https://technet.microsoft.com/library/hh242795\(v=ax.60\))
 
-[(NLD) Path and file name for XBRL (form)](https://technet.microsoft.com/en-us/library/hh227568\(v=ax.60\))
+[(NLD) Path and file name for XBRL (form)](https://technet.microsoft.com/library/hh227568\(v=ax.60\))
 
   
 

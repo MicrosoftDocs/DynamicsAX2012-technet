@@ -2,8 +2,9 @@
 title: Notify respondents of questionnaires available to them
 TOCTitle: Notify respondents of questionnaires available to them
 ms:assetid: b7bbb4b5-6304-4bae-8cc0-1d544306c59d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500668(v=AX.60)
 ms:contentKeyID: 37822156
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

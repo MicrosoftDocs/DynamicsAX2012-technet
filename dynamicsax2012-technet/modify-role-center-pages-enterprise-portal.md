@@ -2,8 +2,9 @@
 title: Modify Role center pages (Enterprise Portal)
 TOCTitle: Modify Role center pages
 ms:assetid: f2911de2-e533-47c5-bdbd-71766ba0fcf6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227524(v=AX.60)
 ms:contentKeyID: 36059968
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

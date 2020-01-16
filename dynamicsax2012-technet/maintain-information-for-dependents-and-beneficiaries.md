@@ -2,8 +2,9 @@
 title: Maintain information for dependents and beneficiaries
 TOCTitle: Maintain information for dependents and beneficiaries
 ms:assetid: 8e3466af-19a9-472b-a468-0b194fcd0e5f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209360(v=AX.60)
 ms:contentKeyID: 36058510
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ Use the **Personal contacts** form to maintain information about a worker’s co
 
 ## See also
 
-[Personal contacts (form)](https://technet.microsoft.com/en-us/library/hh242670\(v=ax.60\))
+[Personal contacts (form)](https://technet.microsoft.com/library/hh242670\(v=ax.60\))
 
   
 

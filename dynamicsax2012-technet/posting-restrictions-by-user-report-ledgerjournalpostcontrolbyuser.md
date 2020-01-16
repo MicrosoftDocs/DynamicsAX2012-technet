@@ -2,8 +2,9 @@
 title: Posting restrictions by user report (LedgerJournalPostControlByUser)
 TOCTitle: Posting restrictions by user report (LedgerJournalPostControlByUser)
 ms:assetid: ef6747a9-13ec-47dc-b435-79a51c760cf2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527789(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527789(v=AX.60)
 ms:contentKeyID: 37832043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

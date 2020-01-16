@@ -1,9 +1,10 @@
-﻿---
+---
 title: NumberSequenceDataServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: NumberSequenceDataServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.NumberSequenceDataServiceResponse.#ctor(System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.numbersequencedataserviceresponse.numbersequencedataserviceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.numbersequencedataserviceresponse.numbersequencedataserviceresponse(v=AX.60)
 ms:contentKeyID: 65319231
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ NumberSequenceDataServiceResponse(
 #### Parameters
 
   - numberSequenceValue  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

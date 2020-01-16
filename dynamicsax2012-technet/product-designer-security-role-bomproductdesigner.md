@@ -2,8 +2,9 @@
 title: Product designer security role (BOMProductDesigner)
 TOCTitle: Product designer security role (BOMProductDesigner)
 ms:assetid: 1e40047d-9e1f-4318-9e52-ea8b75e3a567
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527073(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527073(v=AX.60)
 ms:contentKeyID: 37823125
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

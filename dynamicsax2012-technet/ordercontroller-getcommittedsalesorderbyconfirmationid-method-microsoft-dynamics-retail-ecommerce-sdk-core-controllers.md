@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderController.GetCommittedSalesOrderByConfirmationId Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
 TOCTitle: GetCommittedSalesOrderByConfirmationId Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.OrderController.GetCommittedSalesOrderByConfirmationId(System.String,System.Boolean,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.ordercontroller.getcommittedsalesorderbyconfirmationid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.ordercontroller.getcommittedsalesorderbyconfirmationid(v=AX.60)
 ms:contentKeyID: 65318721
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,12 +60,12 @@ virtual SalesOrder^ GetCommittedSalesOrderByConfirmationId(
 #### Parameters
 
   - confirmationId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - includeSalesLines  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 

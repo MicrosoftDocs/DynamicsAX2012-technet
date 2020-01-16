@@ -2,8 +2,9 @@
 title: Plan backup and recovery
 TOCTitle: Plan backup and recovery
 ms:assetid: 91864f99-40c7-4f58-9947-02a7de0be946
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd361990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd361990(v=AX.60)
 ms:contentKeyID: 36584379
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyTier Constructor  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
 TOCTitle: LoyaltyTier Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.LoyaltyTier.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.loyaltytier.loyaltytier(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.loyaltytier.loyaltytier(v=AX.60)
 ms:contentKeyID: 65318288
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

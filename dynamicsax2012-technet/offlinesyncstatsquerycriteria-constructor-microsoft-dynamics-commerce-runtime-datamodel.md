@@ -1,9 +1,10 @@
-﻿---
+---
 title: OfflineSyncStatsQueryCriteria Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: OfflineSyncStatsQueryCriteria Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.OfflineSyncStatsQueryCriteria.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.offlinesyncstatsquerycriteria.offlinesyncstatsquerycriteria(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.offlinesyncstatsquerycriteria.offlinesyncstatsquerycriteria(v=AX.60)
 ms:contentKeyID: 65319539
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

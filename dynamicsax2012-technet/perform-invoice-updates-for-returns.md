@@ -2,8 +2,9 @@
 title: Perform invoice updates for returns
 TOCTitle: Perform invoice updates for returns
 ms:assetid: 2c24e50d-6446-4dfe-8c12-7f789b8229bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231016(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231016(v=AX.60)
 ms:contentKeyID: 36056253
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

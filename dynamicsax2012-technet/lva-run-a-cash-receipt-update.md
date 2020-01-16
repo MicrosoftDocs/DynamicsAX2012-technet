@@ -2,8 +2,9 @@
 title: (LVA) Run a cash receipt update
 TOCTitle: (LVA) Run a cash receipt update
 ms:assetid: 2ea64f4d-9156-468f-bd75-6a7031907e47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721420(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721420(v=AX.60)
 ms:contentKeyID: 49729985
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(LVA) Cash receipt update (form)](https://technet.microsoft.com/en-us/library/jj721416\(v=ax.60\))
+[(LVA) Cash receipt update (form)](https://technet.microsoft.com/library/jj721416\(v=ax.60\))
 
   
 

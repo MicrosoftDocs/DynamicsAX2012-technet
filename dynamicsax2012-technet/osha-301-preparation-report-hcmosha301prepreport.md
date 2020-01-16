@@ -2,8 +2,9 @@
 title: OSHA 301 preparation report (HcmOSHA301PrepReport)
 TOCTitle: OSHA 301 preparation report (HcmOSHA301PrepReport)
 ms:assetid: 5c5d7157-9b1e-467f-9d41-6e02ebf6af03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479038(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479038(v=AX.60)
 ms:contentKeyID: 59632404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

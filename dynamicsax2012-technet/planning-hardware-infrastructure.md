@@ -2,8 +2,9 @@
 title: Planning hardware infrastructure
 TOCTitle: Planning hardware infrastructure
 ms:assetid: e10f80b4-7816-492f-976a-4cb45c66ed65
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362104(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362104(v=AX.60)
 ms:contentKeyID: 35133103
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---

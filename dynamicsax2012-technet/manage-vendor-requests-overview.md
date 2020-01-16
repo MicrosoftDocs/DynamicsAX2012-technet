@@ -2,8 +2,9 @@
 title: Manage vendor requests overview
 TOCTitle: Manage vendor requests overview
 ms:assetid: ed3af57c-b639-44ae-8779-2d7fe9ebc7b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227499(v=AX.60)
 ms:contentKeyID: 36059903
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

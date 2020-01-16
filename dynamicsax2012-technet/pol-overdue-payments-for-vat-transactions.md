@@ -2,8 +2,9 @@
 title: (POL) Overdue payments for VAT transactions
 TOCTitle: (POL) Overdue payments for VAT transactions
 ms:assetid: 8bdae5f1-9523-4959-9124-b7b788e991b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn753825(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn753825(v=AX.60)
 ms:contentKeyID: 62486000
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 f1_keywords:

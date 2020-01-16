@@ -2,8 +2,9 @@
 title: Partial Update With AIF
 TOCTitle: Partial Update With AIF
 ms:assetid: 836f2927-9221-43ee-923f-ce381eaf02bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh582243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh582243(v=AX.60)
 ms:contentKeyID: 39533579
+author: Khairunj
 ms.date: 04/02/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Performance data collection and analysis process
 TOCTitle: Performance data collection and analysis process
 ms:assetid: ff764bab-4428-4cbb-b3c5-777473aeff12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn756357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn756357(v=AX.60)
 ms:contentKeyID: 62524060
+author: Khairunj
 ms.date: 06/24/2014
 mtps_version: v=AX.60
 ---

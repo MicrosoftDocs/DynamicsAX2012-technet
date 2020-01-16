@@ -2,8 +2,9 @@
 title: (POL) Reverse a vendor transaction
 TOCTitle: (POL) Reverse a vendor transaction
 ms:assetid: 3d85eed6-d109-44cd-a675-ca296e021e4a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678179(v=AX.60)
 ms:contentKeyID: 49386901
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ Use this procedure to reverse a vendor transaction.
 
 ## See also
 
-[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678134\(v=ax.60\))
+[(POL) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj678134\(v=ax.60\))
 
   
 

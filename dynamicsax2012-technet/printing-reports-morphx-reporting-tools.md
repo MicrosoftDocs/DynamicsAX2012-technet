@@ -1,9 +1,10 @@
-﻿---
+---
 title: Printing Reports (MorphX Reporting Tools)
 TOCTitle: Printing Reports
 ms:assetid: 5f6bd4e6-3bbb-45e7-bab3-5db1c89d3270
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb410534(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb410534(v=AX.60)
 ms:contentKeyID: 35290299
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

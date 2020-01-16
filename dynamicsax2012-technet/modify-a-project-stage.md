@@ -2,8 +2,9 @@
 title: Modify a project stage
 TOCTitle: Modify a project stage
 ms:assetid: 5e04c140-252e-4c32-bc08-678953a6b3f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242518(v=AX.60)
 ms:contentKeyID: 36811406
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,9 +47,9 @@ Project stages can serve as a guide to the project life cycle. You can define th
 
 [About project stages](about-project-stages.md)
 
-[Stage rules (form)](https://technet.microsoft.com/en-us/library/hh208617\(v=ax.60\))
+[Stage rules (form)](https://technet.microsoft.com/library/hh208617\(v=ax.60\))
 
-[Rename project stage (form)](https://technet.microsoft.com/en-us/library/hh209091\(v=ax.60\))
+[Rename project stage (form)](https://technet.microsoft.com/library/hh209091\(v=ax.60\))
 
   
 

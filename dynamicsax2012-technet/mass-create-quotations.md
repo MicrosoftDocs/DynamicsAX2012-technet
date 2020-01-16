@@ -2,8 +2,9 @@
 title: Mass create quotations
 TOCTitle: Mass create quotations
 ms:assetid: e764fc5e-3529-49d6-b336-d23db4c6e897
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573192(v=AX.60)
 ms:contentKeyID: 36059813
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Microsoft.Dynamics.Retail.RetailServerLibrary Namespace ()
 TOCTitle: Microsoft.Dynamics.Retail.RetailServerLibrary Namespace
 ms:assetid: N:Microsoft.Dynamics.Retail.RetailServerLibrary
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary(v=AX.60)
 ms:contentKeyID: 62202651
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="authenticationmodule-class-microsoft-dynamics-retail-retailserverlibrary.md">AuthenticationModule</a></td>
-<td>Specifies the authentication module that verifies the request's <a href="https://technet.microsoft.com/en-us/library/f8kt7fb8(v=ax.60)">IPrincipal</a>.</td>
+<td>Specifies the authentication module that verifies the request's <a href="https://technet.microsoft.com/library/f8kt7fb8(v=ax.60)">IPrincipal</a>.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
@@ -45,7 +46,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="commerceauthorizationattribute-class-microsoft-dynamics-retail-retailserverlibrary.md">CommerceAuthorizationAttribute</a></td>
-<td>CommerceAuthorizationAttribute specifies the commerce authorization filter that verifies the user request's <a href="https://technet.microsoft.com/en-us/library/f8kt7fb8(v=ax.60)">IPrincipal</a>.</td>
+<td>CommerceAuthorizationAttribute specifies the commerce authorization filter that verifies the user request's <a href="https://technet.microsoft.com/library/f8kt7fb8(v=ax.60)">IPrincipal</a>.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>

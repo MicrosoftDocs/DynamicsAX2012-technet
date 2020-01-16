@@ -2,8 +2,9 @@
 title: (POL) Set up customer posting profiles for deposits
 TOCTitle: (POL) Set up customer posting profiles for deposits
 ms:assetid: 48ad9fff-cb9e-42e3-9476-3007d2d76c10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911063(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911063(v=AX.60)
 ms:contentKeyID: 52075332
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use the **Customer posting profiles** form to set up a main account number for t
 
 1.  Click **Accounts receivable** \> **Setup** \> **Customer posting profiles**.
 
-2.  Press CTRL+N to create a customer posting profile. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\)).
+2.  Press CTRL+N to create a customer posting profile. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\)).
 
 3.  On the **Setup** tab, in the **Account code** field, select whether this posting profile is used for a single customer account, a group of customer accounts, or all customer accounts.
 
@@ -42,7 +43,7 @@ Use the **Customer posting profiles** form to set up a main account number for t
 
 ## See also
 
-[(POL) Customer posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj923262\(v=ax.60\))
+[(POL) Customer posting profiles (modified form)](https://technet.microsoft.com/library/jj923262\(v=ax.60\))
 
 [(POL) Set up returnable packages for a customer](pol-set-up-returnable-packages-for-a-customer.md)
 

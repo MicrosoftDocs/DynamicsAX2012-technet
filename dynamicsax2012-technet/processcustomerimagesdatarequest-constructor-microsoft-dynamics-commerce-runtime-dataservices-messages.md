@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProcessCustomerImagesDataRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: ProcessCustomerImagesDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ProcessCustomerImagesDataRequest.#ctor(System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.processcustomerimagesdatarequest.processcustomerimagesdatarequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.processcustomerimagesdatarequest.processcustomerimagesdatarequest(v=AX.60)
 ms:contentKeyID: 65321532
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ ProcessCustomerImagesDataRequest(
 #### Parameters
 
   - customers  
-    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[Customer](customer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[Customer](customer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

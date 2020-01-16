@@ -2,8 +2,9 @@
 title: Manage and collect overdue customer payments
 TOCTitle: Manage and collect overdue customer payments
 ms:assetid: 109b15a4-0c6d-4c15-9c29-ec167c75efc3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230926(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230926(v=AX.60)
 ms:contentKeyID: 36056028
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

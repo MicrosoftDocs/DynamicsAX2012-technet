@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductDatabaseAccessor.RetrieveIdsOfChangedProducts Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: RetrieveIdsOfChangedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductDatabaseAccessor.RetrieveIdsOfChangedProducts(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangedProductsSearchCriteria,System.Int64@,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet@,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productdatabaseaccessor.retrieveidsofchangedproducts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productdatabaseaccessor.retrieveidsofchangedproducts(v=AX.60)
 ms:contentKeyID: 62202999
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,7 +72,7 @@ ReadOnlyCollection<CommerceEntityChangeTrackingInformation^>^ RetrieveIdsOfChang
 <!-- end list -->
 
   - currentMarker  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -85,7 +86,7 @@ ReadOnlyCollection<CommerceEntityChangeTrackingInformation^>^ RetrieveIdsOfChang
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[CommerceEntityChangeTrackingInformation](commerceentitychangetrackinginformation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[CommerceEntityChangeTrackingInformation](commerceentitychangetrackinginformation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The collection of products ids.  
 
 ## See Also

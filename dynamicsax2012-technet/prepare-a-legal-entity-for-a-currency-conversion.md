@@ -2,8 +2,9 @@
 title: Prepare a legal entity for a currency conversion
 TOCTitle: Prepare a legal entity for a currency conversion
 ms:assetid: 22570bdf-7798-43ed-bb91-7fc7b13b2790
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496797(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496797(v=AX.60)
 ms:contentKeyID: 36941285
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,23 +104,23 @@ If you performed foreign currency revaluations to revalue amounts with regard to
 
 ## See also
 
-[Accounts for automatic transactions (form)](https://technet.microsoft.com/en-us/library/aa548973\(v=ax.60\))
+[Accounts for automatic transactions (form)](https://technet.microsoft.com/library/aa548973\(v=ax.60\))
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
 [Check ledger transactions report (LedgerCheckTrans)](check-ledger-transactions-report-ledgerchecktrans.md)
 
-[Closing and adjustment (form)](https://technet.microsoft.com/en-us/library/aa553192\(v=ax.60\))
+[Closing and adjustment (form)](https://technet.microsoft.com/library/aa553192\(v=ax.60\))
 
-[Currencies (form)](https://technet.microsoft.com/en-us/library/aa582902\(v=ax.60\))
+[Currencies (form)](https://technet.microsoft.com/library/aa582902\(v=ax.60\))
 
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 
-[Ledger (form)](https://technet.microsoft.com/en-us/library/hh209331\(v=ax.60\))
+[Ledger (form)](https://technet.microsoft.com/library/hh209331\(v=ax.60\))
 
-[Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\))
+[Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\))
 
-[Opening transactions (form)](https://technet.microsoft.com/en-us/library/aa572506\(v=ax.60\))
+[Opening transactions (form)](https://technet.microsoft.com/library/aa572506\(v=ax.60\))
 
   
 

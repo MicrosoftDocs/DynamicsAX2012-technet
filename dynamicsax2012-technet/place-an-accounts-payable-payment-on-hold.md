@@ -2,8 +2,9 @@
 title: Place an Accounts payable payment on hold
 TOCTitle: Place an Accounts payable payment on hold
 ms:assetid: 19d282bb-4276-4e77-926d-3a6fc446b36a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208452(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208452(v=AX.60)
 ms:contentKeyID: 36056116
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

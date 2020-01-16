@@ -2,8 +2,9 @@
 title: (LVA) Create and post a journal for foreign receipts and payments
 TOCTitle: (LVA) Create and post a journal for foreign receipts and payments
 ms:assetid: 45a0ceef-7c43-4219-a1eb-859aa5f642e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853408(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853408(v=AX.60)
 ms:contentKeyID: 50396779
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -97,15 +98,15 @@ To capture information about the person who changed any values in posted transac
 
 [(LVA) Print a statement of foreign receipts and payments via foreign banks](lva-print-a-statement-of-foreign-receipts-and-payments-via-foreign-banks.md)
 
-[(LVA) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj853411\(v=ax.60\))
+[(LVA) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj853411\(v=ax.60\))
 
-[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj720370\(v=ax.60\))
+[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj720370\(v=ax.60\))
 
-[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj721419\(v=ax.60\))
+[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/library/jj721419\(v=ax.60\))
 
-[(LVA) Bank transactions (modified form)](https://technet.microsoft.com/en-us/library/jj839644\(v=ax.60\))
+[(LVA) Bank transactions (modified form)](https://technet.microsoft.com/library/jj839644\(v=ax.60\))
 
-[Payment purpose codes (form)](https://technet.microsoft.com/en-us/library/aa587506\(v=ax.60\))
+[Payment purpose codes (form)](https://technet.microsoft.com/library/aa587506\(v=ax.60\))
 
   
 

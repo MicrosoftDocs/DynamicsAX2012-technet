@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrgUnitsController.GetAvailableInventory Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetAvailableInventory Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.OrgUnitsController.GetAvailableInventory(System.Web.Http.OData.ODataActionParameters)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller.getavailableinventory(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.orgunitscontroller.getavailableinventory(v=AX.60)
 ms:contentKeyID: 62203065
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ virtual IEnumerable<OrgUnitAvailability^>^ GetAvailableInventory(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<OrgUnitAvailability\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<OrgUnitAvailability\>  
 The collection of store availabilities.  
 
 ## See Also

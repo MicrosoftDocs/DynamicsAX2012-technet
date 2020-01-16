@@ -2,8 +2,9 @@
 title: (NOR) Configuring customer payment formats
 TOCTitle: (NOR) Configuring customer payment formats
 ms:assetid: 61d094f1-75b1-4210-9e37-8c98558b0a9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209184(v=AX.60)
 ms:contentKeyID: 36057659
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

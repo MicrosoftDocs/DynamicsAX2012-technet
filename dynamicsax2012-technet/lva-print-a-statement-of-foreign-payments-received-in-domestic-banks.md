@@ -2,8 +2,9 @@
 title: (LVA) Print a statement of foreign payments received in domestic banks
 TOCTitle: (LVA) Print a statement of foreign payments received in domestic banks
 ms:assetid: fc22a7dc-bc8b-4420-96b3-9f8e6775da88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911244(v=AX.60)
 ms:contentKeyID: 52075327
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,13 +68,13 @@ If your company receives payments from a foreign bank and deposits the payments 
 
 [(LVA) Create and post a journal for foreign receipts and payments](lva-create-and-post-a-journal-for-foreign-receipts-and-payments.md)
 
-[(LVA) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj853411\(v=ax.60\))
+[(LVA) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj853411\(v=ax.60\))
 
-[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj720370\(v=ax.60\))
+[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj720370\(v=ax.60\))
 
-[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj721419\(v=ax.60\))
+[(LVA) Vendor payment journal lines (modified form)](https://technet.microsoft.com/library/jj721419\(v=ax.60\))
 
-[(LVA) Bank transactions (modified form)](https://technet.microsoft.com/en-us/library/jj839644\(v=ax.60\))
+[(LVA) Bank transactions (modified form)](https://technet.microsoft.com/library/jj839644\(v=ax.60\))
 
   
 

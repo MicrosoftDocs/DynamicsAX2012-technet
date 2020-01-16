@@ -2,8 +2,9 @@
 title: Master planning and multisite functionality
 TOCTitle: Master planning and multisite functionality
 ms:assetid: 327813a9-4541-4b02-bfdb-133f8fa08f79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231036(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231036(v=AX.60)
 ms:contentKeyID: 36056361
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
