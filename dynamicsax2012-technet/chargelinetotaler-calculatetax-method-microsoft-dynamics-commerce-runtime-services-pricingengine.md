@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChargeLineTotaler.CalculateTax Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: CalculateTax Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.ChargeLineTotaler.CalculateTax(Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.chargelinetotaler.calculatetax(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.chargelinetotaler.calculatetax(v=AX.60)
 ms:contentKeyID: 62204385
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

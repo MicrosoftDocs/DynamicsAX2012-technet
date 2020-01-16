@@ -2,8 +2,9 @@
 title: Change a co-product or by-product  line in a batch order
 TOCTitle: Change a co-product or by-product  line in a batch order
 ms:assetid: 7b08cc65-d410-426f-b8bd-30311bff81b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352217(v=AX.60)
 ms:contentKeyID: 36687852
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,9 +30,9 @@ Use this procedure to change a co-product or by-product line in a batch order.
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Co/By products - batch (form)](https://technet.microsoft.com/en-us/library/hh328643\(v=ax.60\))
+[Co/By products - batch (form)](https://technet.microsoft.com/library/hh328643\(v=ax.60\))
 
   
 

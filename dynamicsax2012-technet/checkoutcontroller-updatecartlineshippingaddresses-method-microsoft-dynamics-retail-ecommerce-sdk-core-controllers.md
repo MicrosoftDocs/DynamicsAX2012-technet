@@ -1,9 +1,10 @@
-﻿---
+---
 title: CheckoutController.UpdateCartLineShippingAddresses Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
 TOCTitle: UpdateCartLineShippingAddresses Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.CheckoutController.UpdateCartLineShippingAddresses(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SelectedLineDeliveryOption},System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.checkoutcontroller.updatecartlineshippingaddresses(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.checkoutcontroller.updatecartlineshippingaddresses(v=AX.60)
 ms:contentKeyID: 65317189
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,12 +54,12 @@ virtual void UpdateCartLineShippingAddresses(
 #### Parameters
 
   - selectedLineDeliveryOptions  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[SelectedLineDeliveryOption](selectedlinedeliveryoption-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[SelectedLineDeliveryOption](selectedlinedeliveryoption-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 <!-- end list -->
 
   - lines  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<CartLine\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<CartLine\>  
 
 ## See Also
 

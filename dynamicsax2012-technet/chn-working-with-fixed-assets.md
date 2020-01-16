@@ -2,8 +2,9 @@
 title: (CHN) Working with Fixed assets
 TOCTitle: (CHN) Working with Fixed assets
 ms:assetid: 2652e3cd-a46d-4dd4-a1a5-6e734de95970
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313045(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313045(v=AX.60)
 ms:contentKeyID: 54936292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

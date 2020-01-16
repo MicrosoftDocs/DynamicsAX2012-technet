@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceActionParameterNames.OrgUnitNumber Field (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: OrgUnitNumber Field
 ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParameterNames.OrgUnitNumber
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.orgunitnumber(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.orgunitnumber(v=AX.60)
 ms:contentKeyID: 62203738
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (CHN) Print ledger inquiry report
 TOCTitle: (CHN) Print ledger inquiry report
 ms:assetid: 70031459-66be-45a9-991a-559b866d70be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664061(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664061(v=AX.60)
 ms:contentKeyID: 49384645
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,17 +76,17 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
+[(CHN) Print layout (form)](https://technet.microsoft.com/library/jj664037\(v=ax.60\))
 
-[(CHN) Daily ledger (form)](https://technet.microsoft.com/en-us/library/jj664083\(v=ax.60\))
+[(CHN) Daily ledger (form)](https://technet.microsoft.com/library/jj664083\(v=ax.60\))
 
-[(CHN) Detail ledger (form)](https://technet.microsoft.com/en-us/library/jj664044\(v=ax.60\))
+[(CHN) Detail ledger (form)](https://technet.microsoft.com/library/jj664044\(v=ax.60\))
 
-[(CHN) General ledger (form)](https://technet.microsoft.com/en-us/library/jj664084\(v=ax.60\))
+[(CHN) General ledger (form)](https://technet.microsoft.com/library/jj664084\(v=ax.60\))
 
-[(CHN) Summarized general ledger (form)](https://technet.microsoft.com/en-us/library/jj664080\(v=ax.60\))
+[(CHN) Summarized general ledger (form)](https://technet.microsoft.com/library/jj664080\(v=ax.60\))
 
-[(CHN) Trial balance (form)](https://technet.microsoft.com/en-us/library/jj664069\(v=ax.60\))
+[(CHN) Trial balance (form)](https://technet.microsoft.com/library/jj664069\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChangedProductsSearchResult.Results Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Results Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangedProductsSearchResult.Results
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.changedproductssearchresult.results(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.changedproductssearchresult.results(v=AX.60)
 ms:contentKeyID: 62207643
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property ReadOnlyCollection<Product^>^ Results {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Product](product-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Product](product-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The set of changed products.  
 
 ## See Also

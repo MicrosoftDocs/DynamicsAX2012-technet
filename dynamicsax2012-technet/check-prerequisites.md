@@ -2,8 +2,9 @@
 title: Check prerequisites
 TOCTitle: Check prerequisites
 ms:assetid: a1ae0f82-c843-491b-8367-19de11f59fc5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731884(v=AX.60)
 ms:contentKeyID: 35132793
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (CHN) Cash status (report)
 TOCTitle: (CHN) Cash status (report)
 ms:assetid: 9b0e6a00-37bd-432c-bdb8-87400da32423
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ873749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ873749(v=AX.60)
 ms:contentKeyID: 50593458
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

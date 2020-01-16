@@ -2,8 +2,9 @@
 title: (CHN) View ledger account information
 TOCTitle: (CHN) View ledger account information
 ms:assetid: 10bdb437-3b8e-41b7-9058-58c9b650e507
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663996(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663996(v=AX.60)
 ms:contentKeyID: 49384582
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -157,15 +158,15 @@ Use the **Trial balance** form to view the list of voucher transactions for a pa
 
 ## See also
 
-[(CHN) Daily ledger (form)](https://technet.microsoft.com/en-us/library/jj664083\(v=ax.60\))
+[(CHN) Daily ledger (form)](https://technet.microsoft.com/library/jj664083\(v=ax.60\))
 
-[(CHN) Detail ledger (form)](https://technet.microsoft.com/en-us/library/jj664044\(v=ax.60\))
+[(CHN) Detail ledger (form)](https://technet.microsoft.com/library/jj664044\(v=ax.60\))
 
-[(CHN) General ledger (form)](https://technet.microsoft.com/en-us/library/jj664084\(v=ax.60\))
+[(CHN) General ledger (form)](https://technet.microsoft.com/library/jj664084\(v=ax.60\))
 
-[(CHN) Summarized general ledger (form)](https://technet.microsoft.com/en-us/library/jj664080\(v=ax.60\))
+[(CHN) Summarized general ledger (form)](https://technet.microsoft.com/library/jj664080\(v=ax.60\))
 
-[(CHN) Trial balance (form)](https://technet.microsoft.com/en-us/library/jj664069\(v=ax.60\))
+[(CHN) Trial balance (form)](https://technet.microsoft.com/library/jj664069\(v=ax.60\))
 
   
 

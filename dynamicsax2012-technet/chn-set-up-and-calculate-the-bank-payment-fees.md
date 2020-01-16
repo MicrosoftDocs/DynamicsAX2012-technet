@@ -2,8 +2,9 @@
 title: (CHN) Set up and calculate the bank payment fees
 TOCTitle: (CHN) Set up and calculate the bank payment fees
 ms:assetid: cf8b1bc1-9bc1-47d3-9901-443175a27d06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn364501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn364501(v=AX.60)
 ms:contentKeyID: 56472064
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Related setup task</strong></p></td>
-<td><p>Set up bank groups. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa571457(v=ax.60)">Bank groups (form)</a>.</p></td>
+<td><p>Set up bank groups. For more information, see <a href="https://technet.microsoft.com/library/aa571457(v=ax.60)">Bank groups (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -109,11 +110,11 @@ To set up a payment fee, follow these steps:
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Payment fee**.
 
-2.  Create a payment fee record. For more information see [Vendor payment fee (form)](https://technet.microsoft.com/en-us/library/aa573151\(v=ax.60\)).
+2.  Create a payment fee record. For more information see [Vendor payment fee (form)](https://technet.microsoft.com/library/aa573151\(v=ax.60\)).
 
 3.  In the **Main account** field, select the ledger account that is used to post the bank payment fee that you pay.
 
-4.  Click **Payment fee setup** to open the **Payment fee setup** form, where you can set up banks, methods of payment, payment specifications, calculation methods, and currencies. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa598976\(v=ax.60\)).
+4.  Click **Payment fee setup** to open the **Payment fee setup** form, where you can set up banks, methods of payment, payment specifications, calculation methods, and currencies. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/library/aa598976\(v=ax.60\)).
 
 5.  On the **Overview** tab, in the **Bank rule ID for payment fee** field, select the identification code for the bank rule to apply the bank payment fee to.
 
@@ -162,7 +163,7 @@ To create a payment journal, follow these steps:
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
 
-2.  Create a payment journal, and then create a payment journal line for the payment amount. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+2.  Create a payment journal, and then create a payment journal line for the payment amount. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 3.  On the **Overview** tab, in the **Account** field, select the account number for the vendor.
 
@@ -188,7 +189,7 @@ When you post the payment, the bank payment fees are deducted from the vendor pa
 
 ## Related tasks
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
   
 

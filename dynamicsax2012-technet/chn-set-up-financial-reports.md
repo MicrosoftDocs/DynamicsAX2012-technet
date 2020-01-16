@@ -2,8 +2,9 @@
 title: (CHN) Set up financial reports
 TOCTitle: (CHN) Set up financial reports
 ms:assetid: d84235e7-abb4-4f17-a518-369340daab60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664115(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664115(v=AX.60)
 ms:contentKeyID: 49384698
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ In accordance with Chinese Accounting Standards (CAS), there are several major e
 
 ## See also
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
   
 

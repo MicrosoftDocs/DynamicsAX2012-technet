@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelManager.GetLanguages Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetLanguages Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.GetLanguages(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getlanguages(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getlanguages(v=AX.60)
 ms:contentKeyID: 65322432
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

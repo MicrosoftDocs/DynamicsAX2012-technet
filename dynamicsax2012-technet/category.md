@@ -2,8 +2,9 @@
 title: " category"
 TOCTitle: " category"
 ms:assetid: DynamicsAXGlossary.1599059
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1599059(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1599059(v=AX.60)
 ms:contentKeyID: 45765372
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,7 +24,7 @@ f1_keywords:
 
 [location](location.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [product](product.md)
 

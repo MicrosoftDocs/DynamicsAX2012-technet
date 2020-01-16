@@ -2,8 +2,9 @@
 title: (CHN) Item sales analysis (report)
 TOCTitle: (CHN) Item sales analysis (report)
 ms:assetid: 34b791c1-3523-4281-b1cb-dd4088a6d40c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169454(v=AX.60)
 ms:contentKeyID: 53865947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeConfigDeploymentJob Constructor (String, , String, String, String) (Microsoft.Dynamics.Retail.SP.CommerceRuntime)
 TOCTitle: CommerceRuntimeConfigDeploymentJob Constructor (String, , String, String, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntimeConfigDeploymentJob.#ctor(System.String,Microsoft.SharePoint.Administration.SPWebApplication,System.String,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjob.commerceruntimeconfigdeploymentjob(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjob.commerceruntimeconfigdeploymentjob(v=AX.60)
 ms:contentKeyID: 62207553
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -67,7 +68,7 @@ CommerceRuntimeConfigDeploymentJob(
 #### Parameters
 
   - jobName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -77,17 +78,17 @@ CommerceRuntimeConfigDeploymentJob(
 <!-- end list -->
 
   - commerceRuntimeSourceFileRelativePath  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - workflowFoundationSourceFileRelativePath  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - rtsBindingsSourceFileRelativePath  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

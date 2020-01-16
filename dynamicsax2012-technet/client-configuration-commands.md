@@ -2,8 +2,9 @@
 title: Client configuration commands
 TOCTitle: Client configuration commands
 ms:assetid: 8eceee52-a2d1-4487-80ca-27a95503c467
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569653(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569653(v=AX.60)
 ms:contentKeyID: 39555384
+author: Khairunj
 ms.date: 10/20/2014
 mtps_version: v=AX.60
 ---

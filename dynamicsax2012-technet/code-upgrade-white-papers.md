@@ -2,8 +2,9 @@
 title: Code upgrade white papers
 TOCTitle: Code upgrade white papers
 ms:assetid: 5eafb4ed-e86f-4a13-90b3-31ccea62fb92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272866(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272866(v=AX.60)
 ms:contentKeyID: 36584390
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

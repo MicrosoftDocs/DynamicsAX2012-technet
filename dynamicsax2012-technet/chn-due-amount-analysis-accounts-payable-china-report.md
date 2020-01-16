@@ -2,8 +2,9 @@
 title: (CHN) Due amount analysis Accounts payable (China) (report)
 TOCTitle: (CHN) Due amount analysis Accounts payable (China) (report)
 ms:assetid: 23bc0089-ce9e-42dc-87b9-14e7af6a451b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945387(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945387(v=AX.60)
 ms:contentKeyID: 51442778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

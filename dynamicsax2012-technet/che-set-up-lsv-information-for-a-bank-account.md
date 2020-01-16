@@ -2,8 +2,9 @@
 title: (CHE) Set up LSV+ information for a bank account
 TOCTitle: (CHE) Set up LSV+ information for a bank account
 ms:assetid: 8da14aa9-b013-4876-8cbd-bc1496892996
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242884(v=AX.60)
 ms:contentKeyID: 36058505
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Use the **Bank accounts** form to set up Lastschriftenverfahren (LSV+) information for a bank account.
 
-1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**. Double-click a bank account or click **Bank account** in the **New** group to open the **Bank accounts** form and create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**. Double-click a bank account or click **Bank account** in the **New** group to open the **Bank accounts** form and create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 2.  Click the **General** FastTab, and then in the **Bank account** field, select a customer bank account.
     

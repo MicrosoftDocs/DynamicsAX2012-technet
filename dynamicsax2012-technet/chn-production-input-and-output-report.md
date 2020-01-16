@@ -2,8 +2,9 @@
 title: (CHN) Production input and output (report)
 TOCTitle: (CHN) Production input and output (report)
 ms:assetid: 4f1fd76f-6c25-4541-bc5a-c48971af7176
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169457(v=AX.60)
 ms:contentKeyID: 53865949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

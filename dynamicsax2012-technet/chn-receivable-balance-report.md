@@ -2,8 +2,9 @@
 title: (CHN) Receivable balance report
 TOCTitle: (CHN) Receivable balance report
 ms:assetid: 02605ee5-7f7c-45f1-a8ae-c835b0fad6a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944964(v=AX.60)
 ms:contentKeyID: 51412464
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

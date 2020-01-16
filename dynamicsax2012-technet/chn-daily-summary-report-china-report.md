@@ -2,8 +2,9 @@
 title: (CHN) Daily summary report (China) (report)
 TOCTitle: (CHN) Daily summary report (China) (report)
 ms:assetid: 56883d98-7b23-4446-beba-8c3032bd29ae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ873746(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ873746(v=AX.60)
 ms:contentKeyID: 50593459
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

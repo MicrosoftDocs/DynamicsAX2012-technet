@@ -2,8 +2,9 @@
 title: Change a customer, prospect, or contacts name
 TOCTitle: Change a customer, prospect, or contacts name
 ms:assetid: 07caca59-7158-40a4-8dc8-41e575647eb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271448(v=AX.60)
 ms:contentKeyID: 36384080
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

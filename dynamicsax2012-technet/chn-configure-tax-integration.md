@@ -2,8 +2,9 @@
 title: (CHN) Configure tax integration
 TOCTitle: (CHN) Configure tax integration
 ms:assetid: 76f2f5f7-741b-477c-b5fe-1532001ffec1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304990(v=AX.60)
 ms:contentKeyID: 54899997
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,11 +61,11 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p>Create a sales tax group and attach the sales tax code for VAT to the sales tax group. For more information, see <a href="set-up-and-use-a-sales-tax-group.md">Set up and use a sales tax group</a> and <a href="https://technet.microsoft.com/en-us/library/aa498345(v=ax.60)">Sales tax groups (form)</a>.</p></td>
+<td><p>Create a sales tax group and attach the sales tax code for VAT to the sales tax group. For more information, see <a href="set-up-and-use-a-sales-tax-group.md">Set up and use a sales tax group</a> and <a href="https://technet.microsoft.com/library/aa498345(v=ax.60)">Sales tax groups (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p>Create an item sales tax group and attach the sales tax code for VAT to the item sales tax group. For more information, see <a href="create-item-sales-tax-groups.md">Create item sales tax groups</a> and <a href="https://technet.microsoft.com/en-us/library/aa615960(v=ax.60)">Item sales tax groups (form)</a>.</p></td>
+<td><p>Create an item sales tax group and attach the sales tax code for VAT to the item sales tax group. For more information, see <a href="create-item-sales-tax-groups.md">Create item sales tax groups</a> and <a href="https://technet.microsoft.com/library/aa615960(v=ax.60)">Item sales tax groups (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
@@ -76,7 +77,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p>Select the <strong>Integration with tax system</strong> check box in the <strong>Accounts receivable parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664148(v=ax.60)">(CHN) Accounts receivable parameters (modified form)</a>.</p></td>
+<td><p>Select the <strong>Integration with tax system</strong> check box in the <strong>Accounts receivable parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj664148(v=ax.60)">(CHN) Accounts receivable parameters (modified form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +91,7 @@ To set up a tax integration profile, follow these steps:
 
 1.  Click **Accounts receivable** \> **Setup** \> **Tax integration** \> **Tax integration profiles**.
 
-2.  Select or create a tax integration profile, and then set up the inbound and outbound ports for the tax integration profile. For more information, see [(CHN) Tax integration profiles (form)](https://technet.microsoft.com/en-us/library/jj664013\(v=ax.60\)).
+2.  Select or create a tax integration profile, and then set up the inbound and outbound ports for the tax integration profile. For more information, see [(CHN) Tax integration profiles (form)](https://technet.microsoft.com/library/jj664013\(v=ax.60\)).
 
 3.  In the **Sales tax code** field, select a sales tax code for the tax integration profile. The sales tax code that you select is used to group and combine the invoices. The sales tax code also determines whether a customer invoice is integrated with the external invoice system and whether it will be exported.
 
@@ -126,7 +127,7 @@ To set up a tax integration profile, follow these steps:
 
 [(CHN) Chinese tax integration for VAT customer invoices](chn-chinese-tax-integration-for-vat-customer-invoices.md)
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

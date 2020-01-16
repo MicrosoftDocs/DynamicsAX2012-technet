@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceEntityDataExtensions.Populate Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Populate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntityDataExtensions.Populate(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntity,Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult,System.Collections.Generic.List{Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneInterval})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commerceentitydataextensions.populate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commerceentitydataextensions.populate(v=AX.60)
 ms:contentKeyID: 65321431
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ static void Populate(
 <!-- end list -->
 
   - channelTimeZoneRecords  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Usage Note
 

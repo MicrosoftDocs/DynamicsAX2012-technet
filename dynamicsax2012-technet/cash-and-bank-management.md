@@ -2,8 +2,9 @@
 title: Cash and bank management
 TOCTitle: Cash and bank management
 ms:assetid: 8806e216-5822-4b4e-b391-bbb792df7baa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209332(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209332(v=AX.60)
 ms:contentKeyID: 36058438
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,35 +57,35 @@ You can use Cash and bank management to maintain the legal entity’s bank accou
 <tr class="odd">
 <td><p><a href="create-a-deposit-slip.md">Create a deposit slip</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591289(v=ax.60)">Cash and bank management parameters (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="bank-reconciliation-report-bankreconciliation.md">Bank reconciliation report (BankReconciliation)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="reconcile-a-bank-account.md">Reconcile a bank account</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587660(v=ax.60)">Bank accounts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587660(v=ax.60)">Bank accounts (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="bank-statement-report-bankaccountstatement.md">Bank statement report (BankAccountStatement)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="make-a-payment-by-check.md">Make a payment by check</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589944(v=ax.60)">Deposit slip (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589944(v=ax.60)">Deposit slip (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="payment-advice-report-bankpaymadvicecheque.md">Payment advice report (BankPaymAdviceCheque)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="generate-a-check-on-a-ledger-account-or-a-bank-account.md">Generate a check on a ledger account or a bank account</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588011(v=ax.60)">Check (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588011(v=ax.60)">Check (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="deposit-slip-report-bankdepositslip.md">Deposit slip report (BankDepositSlip)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="request-and-issue-the-letter-of-guarantee.md">Request and issue the letter of guarantee</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227662(v=ax.60)">Letter of guarantee (form)</a></p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>

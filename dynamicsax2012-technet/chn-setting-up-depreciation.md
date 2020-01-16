@@ -2,8 +2,9 @@
 title: (CHN) Setting up depreciation
 TOCTitle: (CHN) Setting up depreciation
 ms:assetid: 782cfe8c-0195-4778-be6e-f78c320f76bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn306804(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn306804(v=AX.60)
 ms:contentKeyID: 54925749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

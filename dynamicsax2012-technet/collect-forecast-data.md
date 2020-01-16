@@ -2,8 +2,9 @@
 title: Collect forecast data
 TOCTitle: Collect forecast data
 ms:assetid: 46b9db68-4f2c-4ce9-a147-ca018dd2dcd2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231392(v=AX.60)
 ms:contentKeyID: 36056904
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

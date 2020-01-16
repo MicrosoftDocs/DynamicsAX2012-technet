@@ -2,8 +2,9 @@
 title: (CHN) Purchase VAT details (report)
 TOCTitle: (CHN) Purchase VAT details (report)
 ms:assetid: c9af2354-cb83-4739-b0ae-edacd5a0b012
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169466(v=AX.60)
 ms:contentKeyID: 53865960
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

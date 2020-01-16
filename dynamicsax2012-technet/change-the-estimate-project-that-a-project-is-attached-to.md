@@ -2,8 +2,9 @@
 title: Change the Estimate project that a project is attached to
 TOCTitle: Change the Estimate project that a project is attached to
 ms:assetid: bbd2084f-f56c-488c-91bb-3d9633f84197
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677358(v=AX.60)
 ms:contentKeyID: 49384133
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ You can use the **Projects** form to attach a Fixed-price or Investment project 
 
 [Attach a project to an estimate](attach-a-project-to-an-estimate.md)
 
-[Estimate projects (form)](https://technet.microsoft.com/en-us/library/aa599196\(v=ax.60\))
+[Estimate projects (form)](https://technet.microsoft.com/library/aa599196\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceController(TEntity, TKey).GetDefaultSortColumns(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetDefaultSortColumns(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.GetDefaultSortColumns``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716580(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716580(v=AX.60)
 ms:contentKeyID: 62203096
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

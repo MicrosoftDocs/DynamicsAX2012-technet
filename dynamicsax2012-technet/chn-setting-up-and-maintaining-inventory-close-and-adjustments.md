@@ -2,8 +2,9 @@
 title: (CHN) Setting up and maintaining inventory close and adjustments
 TOCTitle: (CHN) Setting up and maintaining inventory close and adjustments
 ms:assetid: 5a5a71e9-7f00-400d-b2c9-06c0452ca62c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664046(v=AX.60)
 ms:contentKeyID: 49384630
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

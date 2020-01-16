@@ -2,8 +2,9 @@
 title: Closing the month, period, and fiscal year
 TOCTitle: Closing the month, period, and fiscal year
 ms:assetid: a1a394b1-3bf5-4720-a0d0-b86fa15348fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571818(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571818(v=AX.60)
 ms:contentKeyID: 36058786
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

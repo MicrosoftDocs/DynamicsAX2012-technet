@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartWorkflowHelper.GetTenderLinesForSalesOrder Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetTenderLinesForSalesOrder Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.GetTenderLinesForSalesOrder(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.Messages.GetReceiptRequest)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.gettenderlinesforsalesorder(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.gettenderlinesforsalesorder(v=AX.60)
 ms:contentKeyID: 62209348
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ static ReadOnlyCollection<TenderLine^>^ GetTenderLinesForSalesOrder(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TenderLine](tenderline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TenderLine](tenderline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Returns the sales order or the object that contains all the information of the receipt.  
 
 ## See Also

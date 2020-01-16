@@ -2,8 +2,9 @@
 title: (CHN) Item purchase history analysis (report)
 TOCTitle: (CHN) Item purchase history analysis (report)
 ms:assetid: b111bf46-9047-42bd-b75a-dede1b4578b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169465(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169465(v=AX.60)
 ms:contentKeyID: 53865957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

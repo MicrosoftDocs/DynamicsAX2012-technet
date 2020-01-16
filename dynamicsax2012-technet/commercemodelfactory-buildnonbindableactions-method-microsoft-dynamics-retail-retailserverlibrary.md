@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceModelFactory.BuildNonBindableActions Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: BuildNonBindableActions Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceModelFactory.BuildNonBindableActions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commercemodelfactory.buildnonbindableactions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commercemodelfactory.buildnonbindableactions(v=AX.60)
 ms:contentKeyID: 62202486
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

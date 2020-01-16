@@ -2,8 +2,9 @@
 title: (CHN) Set up a matrix and generate a dimension matrix report
 TOCTitle: (CHN) Set up a matrix and generate a dimension matrix report
 ms:assetid: b2aed1fb-79ff-40e7-8007-3a7e1adf8d56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664102(v=AX.60)
 ms:contentKeyID: 49384687
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ The **Matrix dimension** report displays the voucher date, voucher number, vouch
 
 ## See also
 
-[(CHN) Dimension matrix report (form)](https://technet.microsoft.com/en-us/library/jj663994\(v=ax.60\))
+[(CHN) Dimension matrix report (form)](https://technet.microsoft.com/library/jj663994\(v=ax.60\))
 
   
 

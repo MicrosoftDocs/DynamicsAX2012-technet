@@ -2,8 +2,9 @@
 title: (CHN) About posting inventory main accounts by site
 TOCTitle: (CHN) About posting inventory main accounts by site
 ms:assetid: b586a0a1-2b40-42ea-ba50-e04823b72840
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664103(v=AX.60)
 ms:contentKeyID: 49384686
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -87,11 +88,11 @@ By setting up main accounts for inventory values by site, you can post inventory
 
 ## See also
 
-[(CHN) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664079\(v=ax.60\))
+[(CHN) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj664079\(v=ax.60\))
 
-[(CHN) Activate transaction combinations (modified form)](https://technet.microsoft.com/en-us/library/jj664107\(v=ax.60\))
+[(CHN) Activate transaction combinations (modified form)](https://technet.microsoft.com/library/jj664107\(v=ax.60\))
 
-[(CHN) Item posting (modified form)](https://technet.microsoft.com/en-us/library/jj664026\(v=ax.60\))
+[(CHN) Item posting (modified form)](https://technet.microsoft.com/library/jj664026\(v=ax.60\))
 
 [(CHN) Set up item posting by site](chn-set-up-item-posting-by-site.md)
 

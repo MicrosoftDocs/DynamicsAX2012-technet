@@ -2,8 +2,9 @@
 title: (CHN) Transfer fixed assets to a new location
 TOCTitle: (CHN) Transfer fixed assets to a new location
 ms:assetid: d8d75d98-19df-4884-8cec-3f86040dd076
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn306808(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn306808(v=AX.60)
 ms:contentKeyID: 54925752
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

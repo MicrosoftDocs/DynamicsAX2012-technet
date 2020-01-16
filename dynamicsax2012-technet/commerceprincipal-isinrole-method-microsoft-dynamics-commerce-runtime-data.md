@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommercePrincipal.IsInRole Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: IsInRole Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal.IsInRole(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.commerceprincipal.isinrole(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.commerceprincipal.isinrole(v=AX.60)
 ms:contentKeyID: 65322816
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,15 +51,15 @@ virtual bool IsInRole(
 #### Parameters
 
   - role  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Implements
 
-[IPrincipal.IsInRole(String)](https://technet.microsoft.com/en-us/library/3cdewxwy\(v=ax.60\))  
+[IPrincipal.IsInRole(String)](https://technet.microsoft.com/library/3cdewxwy\(v=ax.60\))  
 
 ## See Also
 

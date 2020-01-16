@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartLine.IsInvoiceLine Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsInvoiceLine Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine.IsInvoiceLine
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.cartline.isinvoiceline(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartline.isinvoiceline(v=AX.60)
 ms:contentKeyID: 62207837
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property bool IsInvoiceLine {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if this instance is an invoice line; otherwise, false.  
 
 ## See Also

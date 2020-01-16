@@ -2,8 +2,9 @@
 title: Closing sheet report (LedgerClosing)
 TOCTitle: Closing sheet report (LedgerClosing)
 ms:assetid: 2baec0f7-7988-48d8-9624-607716d4a0c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781065(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781065(v=AX.60)
 ms:contentKeyID: 43894463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Change a BOM item
 TOCTitle: Change a BOM item
 ms:assetid: a8f7ec17-0d72-4810-b69b-d00e4e33f828
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550317(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550317(v=AX.60)
 ms:contentKeyID: 36058891
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ You can make changes or add new items to bills of materials (BOMs) that you sele
 
 ## See also
 
-[Change BOM item (class form)](https://technet.microsoft.com/en-us/library/aa557587\(v=ax.60\))
+[Change BOM item (class form)](https://technet.microsoft.com/library/aa557587\(v=ax.60\))
 
   
 

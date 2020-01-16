@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelManager.CalculateTotalCurrency Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: CalculateTotalCurrency Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.CalculateTotalCurrency(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CurrencyRequest},Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.channelmanager.calculatetotalcurrency(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.calculatetotalcurrency(v=AX.60)
 ms:contentKeyID: 65322038
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ CurrencyAmount^ CalculateTotalCurrency(
 #### Parameters
 
   - currencyToConvert  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CurrencyRequest](currencyrequest-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[CurrencyRequest](currencyrequest-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 

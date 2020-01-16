@@ -2,8 +2,9 @@
 title: 'Checklist: Install the Reporting Services extensions and deploy reports'
 TOCTitle: 'Checklist: Install the Reporting Services extensions and deploy reports'
 ms:assetid: d414bfd2-4ff1-487c-a4b6-ace0e7e1b73e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362085(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362085(v=AX.60)
 ms:contentKeyID: 28119591
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---
