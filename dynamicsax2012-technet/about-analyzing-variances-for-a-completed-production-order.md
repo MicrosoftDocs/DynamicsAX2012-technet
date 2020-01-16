@@ -2,8 +2,9 @@
 title: About analyzing variances for a completed production order
 TOCTitle: About analyzing variances for a completed production order
 ms:assetid: 88509f5b-119e-4fcf-8c5d-a2c1fcd16e4a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242850(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242850(v=AX.60)
 ms:contentKeyID: 37822151
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

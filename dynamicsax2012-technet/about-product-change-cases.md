@@ -2,8 +2,9 @@
 title: About product change cases
 TOCTitle: About product change cases
 ms:assetid: d49636d7-048f-461d-93db-1399bc298b5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505750(v=AX.60)
 ms:contentKeyID: 59604024
+author: Khairunj
 ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Yes, when you create a product change case, you must assign it to the **Product 
 
 In addition to the standard case category features, when you create a case category and assign it to the product change category type, the **Validation rules** FastTab is available. You can enable validation rules to make sure that the information in the product change case is complete and consistent before the case can be closed. For each validation rule, you can specify whether a violation will cause an error message or a warning. An error message must be addressed before a user can close the case. A warning message will not prevent a user from closing the case.
 
-For more information about case categories, see [Case categories (form)](https://technet.microsoft.com/en-us/library/hh209319\(v=ax.60\)).
+For more information about case categories, see [Case categories (form)](https://technet.microsoft.com/library/hh209319\(v=ax.60\)).
 
 ## What can I associate with a product change case?
 

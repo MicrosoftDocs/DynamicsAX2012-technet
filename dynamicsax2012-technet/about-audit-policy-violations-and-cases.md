@@ -2,8 +2,9 @@
 title: About audit policy violations and cases
 TOCTitle: About audit policy violations and cases
 ms:assetid: c8745a77-0733-4a13-952a-d4a95ddcd9a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242849(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242849(v=AX.60)
 ms:contentKeyID: 36059319
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,11 +65,11 @@ The document selection date range has additional functions for an audit policy.
 
 [Case management](case-management.md)
 
-[Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
+[Case grouping criteria (form)](https://technet.microsoft.com/library/hh209729\(v=ax.60\))
 
-[Additional options (form)](https://technet.microsoft.com/en-us/library/hh227519\(v=ax.60\))
+[Additional options (form)](https://technet.microsoft.com/library/hh227519\(v=ax.60\))
 
-[Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
+[Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\))
 
   
 

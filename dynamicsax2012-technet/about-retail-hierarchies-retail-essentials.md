@@ -2,8 +2,9 @@
 title: About retail hierarchies (Retail essentials)
 TOCTitle: About retail hierarchies (Retail essentials)
 ms:assetid: 47495282-643a-434a-8469-0096a5714373
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716084(v=AX.60)
 ms:contentKeyID: 62200347
+author: Khairunj
 ms.date: 04/22/2015
 mtps_version: v=AX.60
 ---

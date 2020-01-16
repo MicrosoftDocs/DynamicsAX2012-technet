@@ -2,8 +2,9 @@
 title: About production order status
 TOCTitle: About production order status
 ms:assetid: 5fd1dffe-02d4-478a-89e1-d89a68d08d17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571100(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571100(v=AX.60)
 ms:contentKeyID: 36057602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

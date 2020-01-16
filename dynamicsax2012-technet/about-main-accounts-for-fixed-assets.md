@@ -2,8 +2,9 @@
 title: About main accounts for fixed assets
 TOCTitle: About main accounts for fixed assets
 ms:assetid: e0864411-ca99-4807-9fe2-a88bac8f9d78
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551308(v=AX.60)
 ms:contentKeyID: 43876672
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,13 +28,13 @@ In addition to setting up the main accounts that are used in the **Fixed asset p
 
 ## See also
 
-[Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\))
+[Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\))
 
 [Set up provision types](set-up-provision-types.md)
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
-[Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\))
+[Fixed assets parameters (form)](https://technet.microsoft.com/library/hh242490\(v=ax.60\))
 
   
 

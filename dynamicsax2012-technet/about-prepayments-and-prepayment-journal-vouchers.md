@@ -2,8 +2,9 @@
 title: About prepayments and prepayment journal vouchers
 TOCTitle: About prepayments and prepayment journal vouchers
 ms:assetid: 41c8dacb-6759-4782-a145-222dea1d8a53
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242262(v=AX.60)
 ms:contentKeyID: 36056731
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About reserving items for sales orders
 TOCTitle: About reserving items for sales orders
 ms:assetid: 63bb9716-a782-489f-9801-7e1f56b075e5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571137(v=AX.60)
 ms:contentKeyID: 36057691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

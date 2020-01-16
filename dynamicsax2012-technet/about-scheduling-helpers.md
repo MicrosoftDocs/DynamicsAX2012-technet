@@ -2,8 +2,9 @@
 title: About scheduling helpers
 TOCTitle: About scheduling helpers
 ms:assetid: 5b905e71-fce0-436d-a161-d4685ad64c73
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242496(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242496(v=AX.60)
 ms:contentKeyID: 43876667
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,15 +26,15 @@ When you run scheduling, the batch framework enables the automatic launching of 
 
 ## See also
 
-[Master scheduling (class form)](https://technet.microsoft.com/en-us/library/aa616758\(v=ax.60\))
+[Master scheduling (class form)](https://technet.microsoft.com/library/aa616758\(v=ax.60\))
 
-[Forecast scheduling (class form)](https://technet.microsoft.com/en-us/library/aa619452\(v=ax.60\))
+[Forecast scheduling (class form)](https://technet.microsoft.com/library/aa619452\(v=ax.60\))
 
-[Unfinished scheduling processes (form)](https://technet.microsoft.com/en-us/library/hh227390\(v=ax.60\))
+[Unfinished scheduling processes (form)](https://technet.microsoft.com/library/hh227390\(v=ax.60\))
 
-[Item process duration (form)](https://technet.microsoft.com/en-us/library/hh242287\(v=ax.60\))
+[Item process duration (form)](https://technet.microsoft.com/library/hh242287\(v=ax.60\))
 
-[Thread list (form)](https://technet.microsoft.com/en-us/library/hh242895\(v=ax.60\))
+[Thread list (form)](https://technet.microsoft.com/library/hh242895\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About bonus depreciation
 TOCTitle: About bonus depreciation
 ms:assetid: 6a2ad77a-0642-4b72-a3de-4daf5bb411aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571174(v=AX.60)
 ms:contentKeyID: 36057977
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

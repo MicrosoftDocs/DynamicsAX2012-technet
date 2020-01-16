@@ -2,8 +2,9 @@
 title: About setting up alert email templates
 TOCTitle: About setting up alert email templates
 ms:assetid: a8466f12-283c-454b-94a1-0d720c566229
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834423(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834423(v=AX.60)
 ms:contentKeyID: 46687561
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -127,9 +128,9 @@ The merge data elements that you insert depend on the information that you want 
 
 [About drilling down from an alert email message](about-drilling-down-from-an-alert-email-message.md)
 
-[Syntax of HTML template for alert emails](https://technet.microsoft.com/en-us/library/aa834376\(v=ax.60\))
+[Syntax of HTML template for alert emails](https://technet.microsoft.com/library/aa834376\(v=ax.60\))
 
-[Syntax of XSLT template for alert emails](https://technet.microsoft.com/en-us/library/aa570097\(v=ax.60\))
+[Syntax of XSLT template for alert emails](https://technet.microsoft.com/library/aa570097\(v=ax.60\))
 
   
 

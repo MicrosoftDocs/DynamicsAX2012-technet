@@ -2,8 +2,9 @@
 title: About questionnaire groups
 TOCTitle: About questionnaire groups
 ms:assetid: 43ebb3d7-2d6d-49e0-ad28-2d6470efcf97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580620(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580620(v=AX.60)
 ms:contentKeyID: 39519108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,9 +20,9 @@ You can use questionnaire groups to include the respondents to distribute a ques
 
 You can create questionnaire groups from the following forms:
 
-  - **Questionnaire groups** form – Only individuals in a questionnaire group can complete a selected questionnaire. For example, if your intended audience is contractors, you might create a questionnaire group that is specific to those respondents. For more information, see [Questionnaire groups (form)](https://technet.microsoft.com/en-us/library/aa620437\(v=ax.60\)).
+  - **Questionnaire groups** form – Only individuals in a questionnaire group can complete a selected questionnaire. For example, if your intended audience is contractors, you might create a questionnaire group that is specific to those respondents. For more information, see [Questionnaire groups (form)](https://technet.microsoft.com/library/aa620437\(v=ax.60\)).
 
-  - **Questionnaire group members** form – You can add people to the questionnaire groups. For more information, see [Questionnaire group members (form)](https://technet.microsoft.com/en-us/library/hh209456\(v=ax.60\)).
+  - **Questionnaire group members** form – You can add people to the questionnaire groups. For more information, see [Questionnaire group members (form)](https://technet.microsoft.com/library/hh209456\(v=ax.60\)).
 
 ## Possible next steps
 

@@ -2,8 +2,9 @@
 title: About consolidated batch orders
 TOCTitle: About consolidated batch orders
 ms:assetid: 03ec075c-f667-4dbb-b0f0-5fae83e59c71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352178(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352178(v=AX.60)
 ms:contentKeyID: 36687809
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ You firm and consolidate batch orders in the **Planned orders** form by using th
 
 ## See also
 
-[Bulk item conversion (form)](https://technet.microsoft.com/en-us/library/hh209242\(v=ax.60\))
+[Bulk item conversion (form)](https://technet.microsoft.com/library/hh209242\(v=ax.60\))
 
-[Consolidated batch orders (form)](https://technet.microsoft.com/en-us/library/hh328731\(v=ax.60\))
+[Consolidated batch orders (form)](https://technet.microsoft.com/library/hh328731\(v=ax.60\))
 
-[Planned orders (form)](https://technet.microsoft.com/en-us/library/aa620351\(v=ax.60\))
+[Planned orders (form)](https://technet.microsoft.com/library/aa620351\(v=ax.60\))
 
   
 

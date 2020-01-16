@@ -2,8 +2,9 @@
 title: About setting up and calculating packing material fees
 TOCTitle: About setting up and calculating packing material fees
 ms:assetid: b14b557c-aa9c-4772-ba76-5f67046dfaaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498648(v=AX.60)
 ms:contentKeyID: 36058973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

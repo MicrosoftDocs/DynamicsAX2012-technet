@@ -2,8 +2,9 @@
 title: About Product Builder processes
 TOCTitle: About Product Builder processes
 ms:assetid: a8b1340b-3bf3-4770-8feb-390be5aef7c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550314(v=AX.60)
 ms:contentKeyID: 36058889
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

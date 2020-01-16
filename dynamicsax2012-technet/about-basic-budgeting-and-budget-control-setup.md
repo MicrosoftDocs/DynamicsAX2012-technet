@@ -2,8 +2,9 @@
 title: About basic budgeting and budget control setup
 TOCTitle: About basic budgeting and budget control setup
 ms:assetid: ae172470-3248-4564-9cfa-a4bac0726af0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242705(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242705(v=AX.60)
 ms:contentKeyID: 36058938
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

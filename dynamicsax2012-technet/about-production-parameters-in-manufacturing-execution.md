@@ -2,8 +2,9 @@
 title: About production parameters in Manufacturing execution
 TOCTitle: About production parameters in Manufacturing execution
 ms:assetid: 3a93e761-7fa5-47b3-8887-91a23e191eff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570152(v=AX.60)
 ms:contentKeyID: 36056641
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 The **Manufacturing execution** module is primarily targeted at manufacturing companies. It can be used to register time and item consumption on production jobs or projects. Before you start to use the module for job registrations, you must first set up various production parameters that define how and when registrations are posted in the production process. Production parameter settings affect inventory management, production management, and cost calculation.
 
-You should carefully consider all settings in the **Production parameters** form before workers start making registrations on production jobs. Click **Production control** \> **Setup** \> **Manufacturing execution** \> **Production parameters**. If your company uses the multisite functionality, you may want to set up different production parameters by site. For more information, see [Manufacturing execution production parameters (form)](https://technet.microsoft.com/en-us/library/hh208822\(v=ax.60\)).
+You should carefully consider all settings in the **Production parameters** form before workers start making registrations on production jobs. Click **Production control** \> **Setup** \> **Manufacturing execution** \> **Production parameters**. If your company uses the multisite functionality, you may want to set up different production parameters by site. For more information, see [Manufacturing execution production parameters (form)](https://technet.microsoft.com/library/hh208822\(v=ax.60\)).
 
 The parameters for integrating to the **Production** module are set up on the following tabs in the **Production parameters** form:
 

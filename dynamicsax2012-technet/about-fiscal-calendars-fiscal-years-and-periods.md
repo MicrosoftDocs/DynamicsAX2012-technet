@@ -2,8 +2,9 @@
 title: About fiscal calendars, fiscal years, and periods
 TOCTitle: About fiscal calendars, fiscal years, and periods
 ms:assetid: ce1bd504-30b6-4c0c-8104-09ed92fcf410
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242909(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242909(v=AX.60)
 ms:contentKeyID: 36059465
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,15 +42,15 @@ Select the fiscal calendar that you want to use for the ledger for your legal en
 
 ## Select a fiscal calendar for fixed assets
 
-You can select a fiscal calendar for a value model or depreciation book, and that fiscal calendar will be used by the fixed assets that use the selected value model or depreciation book. You can select from any fiscal calendar that is defined in the **Fiscal calendars** form. For more information, see [Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\)) or [Depreciation books setup (form)](https://technet.microsoft.com/en-us/library/aa597721\(v=ax.60\)).
+You can select a fiscal calendar for a value model or depreciation book, and that fiscal calendar will be used by the fixed assets that use the selected value model or depreciation book. You can select from any fiscal calendar that is defined in the **Fiscal calendars** form. For more information, see [Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\)) or [Depreciation books setup (form)](https://technet.microsoft.com/library/aa597721\(v=ax.60\)).
 
 ## Define budget cycle time spans
 
-Budget cycles are the length of time during which a budget is used. Budget cycles can include part of a fiscal year or multiple fiscal years, such as a biennial budget cycle of two years or a triennial budget cycle of three years. The budget cycle time span defines the number of periods that are included in the budget cycle. To specify the budget cycle time span, use the **Budget cycle time spans** form. For more information, see [Budget cycle time spans (form)](https://technet.microsoft.com/en-us/library/hh227604\(v=ax.60\)).
+Budget cycles are the length of time during which a budget is used. Budget cycles can include part of a fiscal year or multiple fiscal years, such as a biennial budget cycle of two years or a triennial budget cycle of three years. The budget cycle time span defines the number of periods that are included in the budget cycle. To specify the budget cycle time span, use the **Budget cycle time spans** form. For more information, see [Budget cycle time spans (form)](https://technet.microsoft.com/library/hh227604\(v=ax.60\)).
 
 ## Maintain periods for your organization
 
-You can use the **Ledger calendar** form to view the details of the fiscal calendar, fiscal years, and periods used by your organization. You can also change the status of the periods and select which users can post accounting transactions to periods. For more information, see [Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\)) and [Specify which users can post to a period](specify-which-users-can-post-to-a-period.md).
+You can use the **Ledger calendar** form to view the details of the fiscal calendar, fiscal years, and periods used by your organization. You can also change the status of the periods and select which users can post accounting transactions to periods. For more information, see [Ledger calendar (form)](https://technet.microsoft.com/library/hh242506\(v=ax.60\)) and [Specify which users can post to a period](specify-which-users-can-post-to-a-period.md).
 
 ## Using fiscal calendars if you upgraded from a previous release of Microsoft Dynamics AX
 
@@ -57,7 +58,7 @@ When you upgrade to Microsoft Dynamics AX 2012, you must use the **Upgrade fixed
 
 ## See also
 
-[Fiscal calendars (form)](https://technet.microsoft.com/en-us/library/hh209283\(v=ax.60\))
+[Fiscal calendars (form)](https://technet.microsoft.com/library/hh209283\(v=ax.60\))
 
   
 

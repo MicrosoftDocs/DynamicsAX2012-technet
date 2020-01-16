@@ -2,8 +2,9 @@
 title: About purchase order upgrade
 TOCTitle: About purchase order upgrade
 ms:assetid: 697e8730-fb55-4cdd-9692-70a9304993c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731822(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731822(v=AX.60)
 ms:contentKeyID: 35132670
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

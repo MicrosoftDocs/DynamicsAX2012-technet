@@ -2,8 +2,9 @@
 title: About packing materials and packing material fees
 TOCTitle: About packing materials and packing material fees
 ms:assetid: 58c2025e-426a-4e49-aaf6-ff0cc37cabdd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549072(v=AX.60)
 ms:contentKeyID: 39519149
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

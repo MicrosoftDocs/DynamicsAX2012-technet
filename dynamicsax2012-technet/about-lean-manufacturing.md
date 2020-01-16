@@ -2,8 +2,9 @@
 title: About lean manufacturing
 TOCTitle: About lean manufacturing
 ms:assetid: ead08595-169c-442e-9d88-f8f3f91e4a32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227483(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227483(v=AX.60)
 ms:contentKeyID: 36059859
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -112,17 +113,17 @@ In addition, lean manufacturing supports the purchasing and invoicing processes 
 
 ## See also
 
-[Production flows (form)](https://technet.microsoft.com/en-us/library/hh208997\(v=ax.60\))
+[Production flows (form)](https://technet.microsoft.com/library/hh208997\(v=ax.60\))
 
-[Create new plan activity (form)](https://technet.microsoft.com/en-us/library/hh227522\(v=ax.60\))
+[Create new plan activity (form)](https://technet.microsoft.com/library/hh227522\(v=ax.60\))
 
-[Kanban rules (form)](https://technet.microsoft.com/en-us/library/hh227370\(v=ax.60\))
+[Kanban rules (form)](https://technet.microsoft.com/library/hh227370\(v=ax.60\))
 
-[Kanban schedule board (form)](https://technet.microsoft.com/en-us/library/hh597153\(v=ax.60\))
+[Kanban schedule board (form)](https://technet.microsoft.com/library/hh597153\(v=ax.60\))
 
-[Kanban board for transfer jobs (form)](https://technet.microsoft.com/en-us/library/hh781100\(v=ax.60\))
+[Kanban board for transfer jobs (form)](https://technet.microsoft.com/library/hh781100\(v=ax.60\))
 
-[Kanban board for process jobs (form)](https://technet.microsoft.com/en-us/library/hh781101\(v=ax.60\))
+[Kanban board for process jobs (form)](https://technet.microsoft.com/library/hh781101\(v=ax.60\))
 
   
 

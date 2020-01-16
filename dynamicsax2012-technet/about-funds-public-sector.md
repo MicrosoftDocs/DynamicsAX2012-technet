@@ -2,8 +2,9 @@
 title: About funds (Public sector)
 TOCTitle: About funds (Public sector)
 ms:assetid: e05aadc3-9f25-4620-88a0-d63bdde8058e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208594(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208594(v=AX.60)
 ms:contentKeyID: 36056381
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -281,9 +282,9 @@ The following table shows funds that are grouped by fund class:
 
 ## See also
 
-[Funds (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208514\(v=ax.60\))
+[Funds (form) (Public sector)](https://technet.microsoft.com/library/hh208514\(v=ax.60\))
 
-[Fund types (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208583\(v=ax.60\))
+[Fund types (form) (Public sector)](https://technet.microsoft.com/library/hh208583\(v=ax.60\))
 
   
 

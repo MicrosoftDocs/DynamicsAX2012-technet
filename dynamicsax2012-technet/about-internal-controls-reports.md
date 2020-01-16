@@ -2,8 +2,9 @@
 title: About internal controls reports
 TOCTitle: About internal controls reports
 ms:assetid: 07291a2c-bd10-4c84-aa06-58ebc562a270
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271447(v=AX.60)
 ms:contentKeyID: 36384079
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

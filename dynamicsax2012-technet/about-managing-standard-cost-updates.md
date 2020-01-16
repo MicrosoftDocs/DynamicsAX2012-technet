@@ -2,8 +2,9 @@
 title: About managing standard cost updates
 TOCTitle: About managing standard cost updates
 ms:assetid: 381b984a-9ad9-4d34-af30-acddd804be8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231109(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231109(v=AX.60)
 ms:contentKeyID: 36056616
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

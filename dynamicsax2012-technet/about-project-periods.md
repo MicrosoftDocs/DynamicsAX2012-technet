@@ -2,8 +2,9 @@
 title: About project periods
 TOCTitle: About project periods
 ms:assetid: 862945c5-31b0-4e30-a2c6-d5f995b738e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500665(v=AX.60)
 ms:contentKeyID: 37822150
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

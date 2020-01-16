@@ -2,8 +2,9 @@
 title: About parameters for time and attendance
 TOCTitle: About parameters for time and attendance
 ms:assetid: 043f61f0-67f8-4f38-a1b7-d98e949ca0cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569708(v=AX.60)
 ms:contentKeyID: 36055945
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This topic includes general information about the parameters that you must set before you can use time and attendance with **Human resources**. For more detailed information about specific time and attendance parameters, see [Time and attendance parameters (form)](https://technet.microsoft.com/en-us/library/aa634266\(v=ax.60\)).
+This topic includes general information about the parameters that you must set before you can use time and attendance with **Human resources**. For more detailed information about specific time and attendance parameters, see [Time and attendance parameters (form)](https://technet.microsoft.com/library/aa634266\(v=ax.60\)).
 
 The parameters are divided into the following categories:
 

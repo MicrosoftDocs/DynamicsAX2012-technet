@@ -2,8 +2,9 @@
 title: About footer text for purchase orders and purchasing documents
 TOCTitle: About footer text for purchase orders and purchasing documents
 ms:assetid: 16232178-0bb0-4de4-94d0-a29c9fdd77c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569887(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569887(v=AX.60)
 ms:contentKeyID: 37822139
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Footer text is printed on all pages of a document. For example, if the original 
 
 ## See also
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [About print management document types and modules](about-print-management-document-types-and-modules.md)
 

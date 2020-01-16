@@ -2,8 +2,9 @@
 title: About project transactions
 TOCTitle: About project transactions
 ms:assetid: b3ddd882-ed40-4c9f-814f-ca41cfc00cde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271626(v=AX.60)
 ms:contentKeyID: 36384258
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About assets acquired through procurement
 TOCTitle: About assets acquired through procurement
 ms:assetid: 6de2c783-2e12-4146-b837-b2ea25cd1c07
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231804(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231804(v=AX.60)
 ms:contentKeyID: 36058033
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ When you use a method where the asset is automatically created and acquired, you
 
 A capitalization threshold is a currency amount that determines whether assets are depreciated if they meet the specified amount. For example, if you purchase an asset and the purchase amount is less than the capitalization threshold, the asset is not designated to depreciate; if the purchase amount meets or exceeds the threshold, the asset is designated to depreciate.
 
-You can set up the capitalization threshold in the **Fixed asset groups** form. For more information, see [Fixed asset groups (form)](https://technet.microsoft.com/en-us/library/aa573347\(v=ax.60\)).
+You can set up the capitalization threshold in the **Fixed asset groups** form. For more information, see [Fixed asset groups (form)](https://technet.microsoft.com/library/aa573347\(v=ax.60\)).
 
 ## Scenario
 
@@ -181,9 +182,9 @@ The following are variations for this scenario:
 
 [Set up Fixed assets and Accounts payable integration](set-up-fixed-assets-and-accounts-payable-integration.md)
 
-[Acquisition proposal (form)](https://technet.microsoft.com/en-us/library/aa575857\(v=ax.60\))
+[Acquisition proposal (form)](https://technet.microsoft.com/library/aa575857\(v=ax.60\))
 
-[Acquisition adjustment proposal (form)](https://technet.microsoft.com/en-us/library/hh209549\(v=ax.60\))
+[Acquisition adjustment proposal (form)](https://technet.microsoft.com/library/hh209549\(v=ax.60\))
 
   
 

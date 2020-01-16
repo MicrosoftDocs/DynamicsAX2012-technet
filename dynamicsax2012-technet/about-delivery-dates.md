@@ -2,8 +2,9 @@
 title: About delivery dates
 TOCTitle: About delivery dates
 ms:assetid: b30785e5-c86e-4e40-bb7b-a7d3cfc7a2d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571894(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571894(v=AX.60)
 ms:contentKeyID: 36059065
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

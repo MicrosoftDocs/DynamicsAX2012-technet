@@ -2,8 +2,9 @@
 title: About Include physical value
 TOCTitle: About Include physical value
 ms:assetid: 224750d2-dcf3-49de-bfcb-ff315e782cca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230988(v=AX.60)
 ms:contentKeyID: 36056172
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,7 +80,7 @@ When a sales order is posted, the posted cost amount is USD 10.00, because the r
 
 [Specify an inventory model for inventory close](specify-an-inventory-model-for-inventory-close.md)
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
   
 

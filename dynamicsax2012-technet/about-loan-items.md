@@ -2,8 +2,9 @@
 title: About loan items
 TOCTitle: About loan items
 ms:assetid: 52ed3df7-a0af-4f85-b3c0-43a83eb0f1fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548922(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548922(v=AX.60)
 ms:contentKeyID: 36676388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,11 +40,11 @@ If an item becomes damaged or misplaced, enter a fictitious return record. Then 
 
 [Create loan items](create-loan-items.md)
 
-[Loan (form)](https://technet.microsoft.com/en-us/library/aa500857\(v=ax.60\))
+[Loan (form)](https://technet.microsoft.com/library/aa500857\(v=ax.60\))
 
-[Loan types (form)](https://technet.microsoft.com/en-us/library/aa574151\(v=ax.60\))
+[Loan types (form)](https://technet.microsoft.com/library/aa574151\(v=ax.60\))
 
-[Loan items (form)](https://technet.microsoft.com/en-us/library/aa550442\(v=ax.60\))
+[Loan items (form)](https://technet.microsoft.com/library/aa550442\(v=ax.60\))
 
   
 

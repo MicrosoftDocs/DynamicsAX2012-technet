@@ -2,8 +2,9 @@
 title: About absence administration
 TOCTitle: About absence administration
 ms:assetid: 7cb4bc85-f228-4644-857f-2e1fe2440e2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571521(v=AX.60)
 ms:contentKeyID: 36966731
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,17 +50,17 @@ If you are an absence administrator, you must periodically review the absence re
 
 ## See also
 
-[Absence administration (form)](https://technet.microsoft.com/en-us/library/aa556694\(v=ax.60\))
+[Absence administration (form)](https://technet.microsoft.com/library/aa556694\(v=ax.60\))
 
-[Register absences for multiple workers (form)](https://technet.microsoft.com/en-us/library/aa554509\(v=ax.60\))
+[Register absences for multiple workers (form)](https://technet.microsoft.com/library/aa554509\(v=ax.60\))
 
-[Approve absence requests (form)](https://technet.microsoft.com/en-us/library/aa500373\(v=ax.60\))
+[Approve absence requests (form)](https://technet.microsoft.com/library/aa500373\(v=ax.60\))
 
-[Absence history (form)](https://technet.microsoft.com/en-us/library/aa582545\(v=ax.60\))
+[Absence history (form)](https://technet.microsoft.com/library/aa582545\(v=ax.60\))
 
-[Create planned absence (form)](https://technet.microsoft.com/en-us/library/aa618740\(v=ax.60\))
+[Create planned absence (form)](https://technet.microsoft.com/library/aa618740\(v=ax.60\))
 
-[Absence setup (form)](https://technet.microsoft.com/en-us/library/aa583231\(v=ax.60\))
+[Absence setup (form)](https://technet.microsoft.com/library/aa583231\(v=ax.60\))
 
   
 

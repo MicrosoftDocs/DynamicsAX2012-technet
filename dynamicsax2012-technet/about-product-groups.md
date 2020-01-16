@@ -2,8 +2,9 @@
 title: About product groups
 TOCTitle: About product groups
 ms:assetid: 83b034ca-2a3e-45f5-9eda-22779e9a5edb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571566(v=AX.60)
 ms:contentKeyID: 42518556
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

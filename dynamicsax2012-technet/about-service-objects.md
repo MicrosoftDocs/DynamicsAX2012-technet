@@ -2,8 +2,9 @@
 title: About service objects
 TOCTitle: About service objects
 ms:assetid: cebb2b96-f489-46c5-8149-b282934264f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572704(v=AX.60)
 ms:contentKeyID: 37832535
+author: Khairunj
 ms.date: 07/29/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Service objects are a customer’s assets and products for which you can perform
 
 [Create service objects](create-service-objects.md)
 
-[Service objects (form)](https://technet.microsoft.com/en-us/library/aa615497\(v=ax.60\))
+[Service objects (form)](https://technet.microsoft.com/library/aa615497\(v=ax.60\))
 
   
 

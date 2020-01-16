@@ -2,8 +2,9 @@
 title: About project category groups
 TOCTitle: About project category groups
 ms:assetid: 9cc1bf63-a21f-4b81-9567-d740eef32d49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571697(v=AX.60)
 ms:contentKeyID: 36058735
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ The benefit of dividing category groups and their corresponding categories into 
 
 [About transaction types](about-transaction-types.md)
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
-[Project/group line properties (form)](https://technet.microsoft.com/en-us/library/aa598358\(v=ax.60\))
+[Project/group line properties (form)](https://technet.microsoft.com/library/aa598358\(v=ax.60\))
 
-[Category groups (form)](https://technet.microsoft.com/en-us/library/aa558210\(v=ax.60\))
+[Category groups (form)](https://technet.microsoft.com/library/aa558210\(v=ax.60\))
 
   
 

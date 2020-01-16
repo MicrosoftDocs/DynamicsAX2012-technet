@@ -2,8 +2,9 @@
 title: About item-related cost price fields
 TOCTitle: About item-related cost price fields
 ms:assetid: 3b04590f-433a-4872-a1e2-eb90872b78fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh694708(v=AX.60)
 ms:contentKeyID: 42117753
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The following table explains how the amounts in the item-related cost price fiel
 
 ## See also
 
-[Item transactions (form)](https://technet.microsoft.com/en-us/library/aa599479\(v=ax.60\))
+[Item transactions (form)](https://technet.microsoft.com/library/aa599479\(v=ax.60\))
 
 [Set up cost prices and sales prices for projects](set-up-cost-prices-and-sales-prices-for-projects.md)
 

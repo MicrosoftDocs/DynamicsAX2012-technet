@@ -2,8 +2,9 @@
 title: About allocation rules
 TOCTitle: About allocation rules
 ms:assetid: f562dbeb-3d11-4a93-b22d-5595ffb5bc54
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ff395364(v=AX.60)
 ms:contentKeyID: 36059999
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

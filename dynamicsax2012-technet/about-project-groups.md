@@ -2,8 +2,9 @@
 title: About project groups
 TOCTitle: About project groups
 ms:assetid: a144781b-de98-43ce-9bbb-4c889ed33cfb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450757(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450757(v=AX.60)
 ms:contentKeyID: 36966736
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,11 +48,11 @@ After a project is assigned to a project group, the options that have been defin
 
 [Change the project group](change-the-project-group.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
 [About project category groups](about-project-category-groups.md)
 
-[Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\))
+[Project categories (form)](https://technet.microsoft.com/library/aa582118\(v=ax.60\))
 
   
 

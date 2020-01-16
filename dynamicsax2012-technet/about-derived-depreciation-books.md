@@ -2,8 +2,9 @@
 title: About derived depreciation books
 TOCTitle: About derived depreciation books
 ms:assetid: 28f9a89b-f928-4ae2-9452-d390bea9eb10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496845(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496845(v=AX.60)
 ms:contentKeyID: 36056218
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About batch merges in inventory
 TOCTitle: About batch merges in inventory
 ms:assetid: 04d2b20c-22ff-4e06-a757-cef42ffb65a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505751(v=AX.60)
 ms:contentKeyID: 59604025
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ Yes, there are some things that you must set up before you can use the merge bat
 </tr>
 <tr class="even">
 <td><p><strong>Batch number group</strong></p></td>
-<td><p>Optional: To generate a batch number when you create a merged batch, you must assign a batch number group to the released product. Otherwise, you can enter a batch number manually. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa591648(v=ax.60)">Number groups (form)</a>.</p></td>
+<td><p>Optional: To generate a batch number when you create a merged batch, you must assign a batch number group to the released product. Otherwise, you can enter a batch number manually. For more information, see <a href="https://technet.microsoft.com/library/aa591648(v=ax.60)">Number groups (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: About answer session results
 TOCTitle: About answer session results
 ms:assetid: 79dbbe30-697f-464d-88ba-2be7965f27db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692488(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692488(v=AX.60)
 ms:contentKeyID: 41702386
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -68,7 +69,7 @@ From the **Answers** form, you can view details about answers, points earned, a 
 
 
 
-For more information about specific options available in the **Answers** form, see [Answers (form)](https://technet.microsoft.com/en-us/library/aa557954\(v=ax.60\)).
+For more information about specific options available in the **Answers** form, see [Answers (form)](https://technet.microsoft.com/library/aa557954\(v=ax.60\)).
 
 ## Possible next steps
 

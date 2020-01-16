@@ -1,9 +1,10 @@
-﻿---
+---
 title: About Document Service Classes
 TOCTitle: About Document Service Classes
 ms:assetid: 0bf0f772-4e99-4f37-96a3-ecb0eda6ae7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc582145(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc582145(v=AX.60)
 ms:contentKeyID: 35240418
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

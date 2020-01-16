@@ -2,8 +2,9 @@
 title: About customer invoices, free text invoices, and pro forma invoices
 TOCTitle: About customer invoices, free text invoices, and pro forma invoices
 ms:assetid: 7d47c9d2-222d-4b11-8e6a-64d13894c918
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213135(v=AX.60)
 ms:contentKeyID: 36058297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,15 +33,15 @@ A pro forma invoice is an invoice that is prepared as an estimate of the actual 
 
 [Key tasks: Free text invoices](key-tasks-free-text-invoices.md)
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[Print customer invoice (form)](https://technet.microsoft.com/en-us/library/hh242517\(v=ax.60\))
+[Print customer invoice (form)](https://technet.microsoft.com/library/hh242517\(v=ax.60\))
 
-[Accounting distributions (form)](https://technet.microsoft.com/en-us/library/hh209296\(v=ax.60\))
+[Accounting distributions (form)](https://technet.microsoft.com/library/hh209296\(v=ax.60\))
 
-[Subledger journal (form)](https://technet.microsoft.com/en-us/library/hh208685\(v=ax.60\))
+[Subledger journal (form)](https://technet.microsoft.com/library/hh208685\(v=ax.60\))
 
   
 
