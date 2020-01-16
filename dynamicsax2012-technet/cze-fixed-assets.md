@@ -2,8 +2,9 @@
 title: (CZE) Fixed assets
 TOCTitle: (CZE) Fixed assets
 ms:assetid: f0f65b68-53a0-41de-b6b9-c4307e8e47a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710644(v=AX.60)
 ms:contentKeyID: 49385042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

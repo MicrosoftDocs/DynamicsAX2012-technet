@@ -2,8 +2,9 @@
 title: Data Import/Export Framework (DIXF) user guide
 TOCTitle: Data Import/Export Framework (DIXF) user guide
 ms:assetid: 618b2aed-b379-4c8f-b8e6-68232db72cfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ225591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ225591(v=AX.60)
 ms:contentKeyID: 48457367
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

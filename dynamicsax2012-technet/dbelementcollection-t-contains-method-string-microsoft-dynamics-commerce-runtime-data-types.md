@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Contains Method (String) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Contains Method (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Contains(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968833(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968833(v=AX.60)
 ms:contentKeyID: 65321953
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -50,11 +51,11 @@ bool Contains(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether this collection contains a specific key.  
 
 ## See Also

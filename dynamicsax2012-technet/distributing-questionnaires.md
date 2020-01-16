@@ -2,8 +2,9 @@
 title: Distributing questionnaires
 TOCTitle: Distributing questionnaires
 ms:assetid: 44fae256-a564-4440-8e47-7543ffa6c3a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496979(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496979(v=AX.60)
 ms:contentKeyID: 37072050
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

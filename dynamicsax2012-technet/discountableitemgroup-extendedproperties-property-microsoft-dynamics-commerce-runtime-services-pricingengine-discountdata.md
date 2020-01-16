@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountableItemGroup.ExtendedProperties Property  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: ExtendedProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountableItemGroup.ExtendedProperties
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountableitemgroup.extendedproperties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountableitemgroup.extendedproperties(v=AX.60)
 ms:contentKeyID: 62211540
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

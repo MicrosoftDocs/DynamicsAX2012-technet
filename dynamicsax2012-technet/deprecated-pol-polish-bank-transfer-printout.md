@@ -2,8 +2,9 @@
 title: 'Deprecated: (POL) Polish bank transfer printout'
 TOCTitle: (POL) Polish bank transfer printout
 ms:assetid: 77a20b10-aa9c-4393-8697-6385dc7fcb87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527145(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527145(v=AX.60)
 ms:contentKeyID: 59623274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

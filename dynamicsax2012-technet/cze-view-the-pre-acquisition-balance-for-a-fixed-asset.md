@@ -2,8 +2,9 @@
 title: (CZE) View the pre-acquisition balance for a fixed asset
 TOCTitle: (CZE) View the pre-acquisition balance for a fixed asset
 ms:assetid: 609dda69-db5d-4a7d-a36d-c5887d9a2191
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677544(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677544(v=AX.60)
 ms:contentKeyID: 49384848
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

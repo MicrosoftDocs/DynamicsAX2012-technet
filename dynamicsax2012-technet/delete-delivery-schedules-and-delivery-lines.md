@@ -2,8 +2,9 @@
 title: Delete delivery schedules and delivery lines
 TOCTitle: Delete delivery schedules and delivery lines
 ms:assetid: 3d2b3435-ca67-4456-a2f6-5ef9ab87e65e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242235(v=AX.60)
 ms:contentKeyID: 36056674
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use this procedure to delete all of a delivery schedule with all associated deli
     
 
     > [!NOTE]
-    > <P>You can only delete the whole delivery schedule if all your delivery lines can be deleted. This means that no lines have been invoiced. However, if you have set the parameter field <STRONG>Delete order after invoicing</STRONG> in the <A href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</A> and <A href="https://technet.microsoft.com/en-us/library/aa596348(v=ax.60)">Accounts payable parameters (form)</A>, the whole delivery schedule will automatically be deleted when all the delivery lines have the status Invoiced.</P>
+    > <P>You can only delete the whole delivery schedule if all your delivery lines can be deleted. This means that no lines have been invoiced. However, if you have set the parameter field <STRONG>Delete order after invoicing</STRONG> in the <A href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</A> and <A href="https://technet.microsoft.com/library/aa596348(v=ax.60)">Accounts payable parameters (form)</A>, the whole delivery schedule will automatically be deleted when all the delivery lines have the status Invoiced.</P>
 
 
 
@@ -75,11 +76,11 @@ Use this procedure to delete one delivery line.
 
 ## See also
 
-[Delivery schedule - Sales order (form)](https://technet.microsoft.com/en-us/library/hh209246\(v=ax.60\))
+[Delivery schedule - Sales order (form)](https://technet.microsoft.com/library/hh209246\(v=ax.60\))
 
-[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/en-us/library/hh209450\(v=ax.60\))
+[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/library/hh209450\(v=ax.60\))
 
-[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh227634\(v=ax.60\))
+[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/library/hh227634\(v=ax.60\))
 
 [About delivery schedules](about-delivery-schedules.md)
 

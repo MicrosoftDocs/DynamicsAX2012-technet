@@ -2,8 +2,9 @@
 title: Default offset accounts for vendor invoice journals
 TOCTitle: Default offset accounts for vendor invoice journals
 ms:assetid: ca0941c2-b422-4cb4-b38d-252f11823adc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn454568(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn454568(v=AX.60)
 ms:contentKeyID: 57085673
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -94,21 +95,21 @@ Use the following table to help you decide where to assign default accounts and 
 
 ## See also
 
-[Default account setup (form)](https://technet.microsoft.com/en-us/library/aa583932\(v=ax.60\))
+[Default account setup (form)](https://technet.microsoft.com/library/aa583932\(v=ax.60\))
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - Invoice approval journal (form)](https://technet.microsoft.com/en-us/library/aa498954\(v=ax.60\))
+[Journal voucher - Invoice approval journal (form)](https://technet.microsoft.com/library/aa498954\(v=ax.60\))
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
-[Journal voucher - Invoice register (form)](https://technet.microsoft.com/en-us/library/aa575517\(v=ax.60\))
+[Journal voucher - Invoice register (form)](https://technet.microsoft.com/library/aa575517\(v=ax.60\))
 
-[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/en-us/library/bb314782\(v=ax.60\))
+[Vendor invoice pool excluding posting details (form)](https://technet.microsoft.com/library/bb314782\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (DEU) Create and submit a VAT report
 TOCTitle: (DEU) Create and submit a VAT report
 ms:assetid: 4609b89f-0e8d-49d0-8d30-ec877b658132
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242385(v=AX.60)
 ms:contentKeyID: 36056899
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ Complete the following setup procedures to generate the electronic tax declarati
 
   - Set up a settlement period that contains a sales tax authority with the German report layout. For more information, see [Set up a sales tax settlement period](set-up-a-sales-tax-settlement-period.md).
 
-  - Set up the sales tax reporting codes for the German report layout. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/en-us/library/aa588316\(v=ax.60\)).
+  - Set up the sales tax reporting codes for the German report layout. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/library/aa588316\(v=ax.60\)).
 
   - Set up sales tax codes, sales tax groups, and item sales tax groups. For more information, see [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md), [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md), and [Create item sales tax groups](create-item-sales-tax-groups.md).
 
@@ -104,9 +105,9 @@ Complete the following setup procedures to generate the electronic tax declarati
 
 ## See also
 
-[Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\))
+[Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\))
 
-[(DEU) Electronic tax declaration log (form)](https://technet.microsoft.com/en-us/library/aa620200\(v=ax.60\))
+[(DEU) Electronic tax declaration log (form)](https://technet.microsoft.com/library/aa620200\(v=ax.60\))
 
   
 

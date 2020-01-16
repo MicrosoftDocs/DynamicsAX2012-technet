@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataStorePolicy Constructor (BitArray, DateTimeOffset, TimeSpan) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: DataStorePolicy Constructor (BitArray, DateTimeOffset, TimeSpan)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataStorePolicy.#ctor(System.Collections.BitArray,System.DateTimeOffset,System.TimeSpan)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.datastorepolicy(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.datastorepolicy(v=AX.60)
 ms:contentKeyID: 62209283
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,17 +58,17 @@ DataStorePolicy(
 #### Parameters
 
   - policyBits  
-    Type: [System.Collections.BitArray](https://technet.microsoft.com/en-us/library/x3we7ff2\(v=ax.60\))  
+    Type: [System.Collections.BitArray](https://technet.microsoft.com/library/x3we7ff2\(v=ax.60\))  
 
 <!-- end list -->
 
   - defaultAbsoluteExpiration  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 <!-- end list -->
 
   - defaultSlidingExpiration  
-    Type: [System.TimeSpan](https://technet.microsoft.com/en-us/library/269ew577\(v=ax.60\))  
+    Type: [System.TimeSpan](https://technet.microsoft.com/library/269ew577\(v=ax.60\))  
 
 ## See Also
 

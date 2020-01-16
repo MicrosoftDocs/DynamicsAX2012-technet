@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseAccessor.ExecuteStoredProcedureDataSet Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedureDataSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedureDataSet(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredproceduredataset(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredproceduredataset(v=AX.60)
 ms:contentKeyID: 65322279
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ DataSet^ ExecuteStoredProcedureDataSet(
 #### Parameters
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

@@ -2,8 +2,9 @@
 title: Delink from or delete a collaboration workspace (Project)
 TOCTitle: Delink from or delete a collaboration workspace (Project)
 ms:assetid: d977d4b8-63c2-4087-9e77-1ae56c82bfb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227399(v=AX.60)
 ms:contentKeyID: 36059652
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

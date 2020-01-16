@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Contains Method (T) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Contains Method (T)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Contains(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn966508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn966508(v=AX.60)
 ms:contentKeyID: 65316456
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,12 +55,12 @@ virtual bool Contains(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether the element is contained in the collection.  
 
 #### Implements
 
-[ICollection\<T\>.Contains(T)](https://technet.microsoft.com/en-us/library/k5cf1d56\(v=ax.60\))  
+[ICollection\<T\>.Contains(T)](https://technet.microsoft.com/library/k5cf1d56\(v=ax.60\))  
 
 ## See Also
 

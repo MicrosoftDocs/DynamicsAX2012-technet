@@ -2,8 +2,9 @@
 title: Delegate permissions to create purchase requisitions on your behalf
 TOCTitle: Delegate permissions to create purchase requisitions on your behalf
 ms:assetid: 9b858a54-c0bb-49b6-a94a-01d7f6a92f0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271607(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271607(v=AX.60)
 ms:contentKeyID: 36384239
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

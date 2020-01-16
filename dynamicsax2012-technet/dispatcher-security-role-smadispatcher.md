@@ -2,8 +2,9 @@
 title: Dispatcher security role (SMADispatcher)
 TOCTitle: Dispatcher security role (SMADispatcher)
 ms:assetid: ebb587d2-60ca-4e72-bd89-a73fc53ab1e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527148(v=AX.60)
 ms:contentKeyID: 37823199
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

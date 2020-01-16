@@ -2,8 +2,9 @@
 title: Delete a template or subtemplate in RapidStart Services
 TOCTitle: Delete a template or subtemplate in RapidStart Services
 ms:assetid: 05de83ff-aef3-47ae-b8ef-d253f992d527
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413221(v=AX.60)
 ms:contentKeyID: 36918913
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

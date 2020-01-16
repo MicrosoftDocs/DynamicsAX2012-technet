@@ -2,8 +2,9 @@
 title: Deploy Master Data Management
 TOCTitle: Deploy Master Data Management
 ms:assetid: c15ae977-07d6-43c9-8fbf-3ce9f7434377
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720449(v=AX.60)
 ms:contentKeyID: 62224155
+author: Khairunj
 ms.date: 11/26/2014
 mtps_version: v=AX.60
 ---

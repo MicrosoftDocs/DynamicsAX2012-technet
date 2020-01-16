@@ -2,8 +2,9 @@
 title: (DEU) DTAUS report (VendOutAttendingNoteDE_DTAUS)
 TOCTitle: (DEU) DTAUS report (VendOutAttendingNoteDE_DTAUS)
 ms:assetid: 5412f5c5-962f-496c-88e4-3e712be9487c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335148(v=AX.60)
 ms:contentKeyID: 36687359
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

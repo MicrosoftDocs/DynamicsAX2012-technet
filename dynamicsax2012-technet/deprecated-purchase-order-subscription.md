@@ -2,8 +2,9 @@
 title: 'Deprecated: Purchase order subscription'
 TOCTitle: Purchase order subscription
 ms:assetid: db7cf136-02de-449a-8f9c-0626bf2a2dac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527259(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527259(v=AX.60)
 ms:contentKeyID: 59623387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

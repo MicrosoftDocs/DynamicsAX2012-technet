@@ -2,8 +2,9 @@
 title: Deploy the client by using Group Policy
 TOCTitle: Deploy the client by using Group Policy
 ms:assetid: ea4a6465-9c70-49a6-866e-1ab3d1e46ac2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378078(v=AX.60)
 ms:contentKeyID: 36870661
+author: Khairunj
 ms.date: 05/23/2014
 mtps_version: v=AX.60
 ---

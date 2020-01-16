@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountBase.GetProductOrVariantIdToRetailDiscountLinesMap Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: GetProductOrVariantIdToRetailDiscountLinesMap Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.GetProductOrVariantIdToRetailDiscountLinesMap
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.getproductorvariantidtoretaildiscountlinesmap(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.getproductorvariantidtoretaildiscountlinesmap(v=AX.60)
 ms:contentKeyID: 62214434
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ IDictionary<long long, IList<RetailDiscountLine^>^>^ GetProductOrVariantIdToReta
 
 #### Return Value
 
-Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)), [IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[RetailDiscountLine](retaildiscountline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>\>  
+Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)), [IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[RetailDiscountLine](retaildiscountline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>\>  
 Product or variant Id to retail discount lines map.  
 
 ## See Also

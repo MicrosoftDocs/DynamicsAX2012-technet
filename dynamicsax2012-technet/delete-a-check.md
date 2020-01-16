@@ -2,8 +2,9 @@
 title: Delete a check
 TOCTitle: Delete a check
 ms:assetid: 272c60cd-82bd-45d9-a9de-7e3bd8a92875
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496829(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496829(v=AX.60)
 ms:contentKeyID: 36056207
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

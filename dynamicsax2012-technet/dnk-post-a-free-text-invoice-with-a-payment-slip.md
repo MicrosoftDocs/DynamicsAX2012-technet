@@ -2,8 +2,9 @@
 title: (DNK) Post a free text invoice with a payment slip
 TOCTitle: (DNK) Post a free text invoice with a payment slip
 ms:assetid: 8268d812-02ae-48e3-a31d-25ad57095f40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209313(v=AX.60)
 ms:contentKeyID: 36058370
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ You can post a free text invoice with a payment slip attachment in a specified f
 
 [(DNK) Set up a payment slip format for customers](dnk-set-up-a-payment-slip-format-for-customers.md)
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
   
 

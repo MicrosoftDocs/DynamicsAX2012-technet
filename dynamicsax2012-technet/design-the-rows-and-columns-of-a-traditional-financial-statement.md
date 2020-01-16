@@ -2,8 +2,9 @@
 title: Design the rows and columns of a traditional financial statement
 TOCTitle: Design the rows and columns of a traditional financial statement
 ms:assetid: ef8dc67f-adcd-49f0-b0d9-3745162d3b09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551563(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551563(v=AX.60)
 ms:contentKeyID: 44081061
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ The **Financial statement** form is available only when the **Financial statemen
     
 
     > [!NOTE]
-    > <P>For more information about the fields that are mentioned in this topic, see <A href="https://technet.microsoft.com/en-us/library/aa600912(v=ax.60)">Financial statement setup (form)</A>.</P>
+    > <P>For more information about the fields that are mentioned in this topic, see <A href="https://technet.microsoft.com/library/aa600912(v=ax.60)">Financial statement setup (form)</A>.</P>
 
 
 
@@ -130,7 +131,7 @@ Each column is defined by a column type. Some column types, such as **Primary di
 
 4.  In the **Name** field, enter a name for the column. This name is displayed as the column header on the financial statement.
 
-5.  In the **Column type** field, select the type of column. For more information about the column types, see [Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\)).
+5.  In the **Column type** field, select the type of column. For more information about the column types, see [Financial statement setup (form)](https://technet.microsoft.com/library/aa600912\(v=ax.60\)).
 
 6.  You can create additional column types, and then specify their order by clicking the **Up** and **Down** buttons.
     
@@ -146,7 +147,7 @@ After you set up all the rows and columns, you can generate the traditional fina
 
 [About traditional financial statements](about-traditional-financial-statements.md)
 
-[Financial statement setup (form)](https://technet.microsoft.com/en-us/library/aa600912\(v=ax.60\))
+[Financial statement setup (form)](https://technet.microsoft.com/library/aa600912\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Define processes and stages for projects
 TOCTitle: Define processes and stages for projects
 ms:assetid: ab67e719-e818-46ec-94bb-1f7356999121
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242695(v=AX.60)
 ms:contentKeyID: 36058909
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can create a process and the stages of a process for projects.
 
 ## See also
 
-[Process templates (form)](https://technet.microsoft.com/en-us/library/hh242468\(v=ax.60\))
+[Process templates (form)](https://technet.microsoft.com/library/hh242468\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Delete obsolete application objects
 TOCTitle: Delete obsolete application objects
 ms:assetid: 414f56a5-6d2d-46d8-9d96-a57b54875510
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh769361(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh769361(v=AX.60)
 ms:contentKeyID: 43876669
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

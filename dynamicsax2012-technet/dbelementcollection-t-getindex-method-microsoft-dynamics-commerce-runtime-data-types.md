@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).GetIndex Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: GetIndex Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.GetIndex(`0,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989152(v=AX.60)
 ms:contentKeyID: 65319107
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,11 +61,11 @@ virtual int GetIndex(
 <!-- end list -->
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The index of the element.  
 
 ## See Also

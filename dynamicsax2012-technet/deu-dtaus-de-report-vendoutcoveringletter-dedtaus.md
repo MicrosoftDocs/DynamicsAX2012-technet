@@ -2,8 +2,9 @@
 title: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)
 TOCTitle: (DEU) DTAUS (DE) report (VendOutCoveringLetter_DEDTAUS)
 ms:assetid: 59b68ffb-1a56-4d36-b55a-971bfc00cb15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496435(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496435(v=AX.60)
 ms:contentKeyID: 37072017
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

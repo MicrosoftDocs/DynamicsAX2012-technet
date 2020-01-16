@@ -2,8 +2,9 @@
 title: (DNK) Assign the Nordea Bank method of payment and create a bank account for a vendor
 TOCTitle: (DNK) Assign the Nordea Bank method of payment and create a bank account for a vendor
 ms:assetid: ad0771ff-308b-4ed1-9581-097d9bb2a78c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ895269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ895269(v=AX.60)
 ms:contentKeyID: 52075222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ Use the **Vendors** form to set up a method of payment that uses the **Nordea Un
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
 [(DNK) Set up a method of payment to pay vendors through Nordea Bank](dnk-set-up-a-method-of-payment-to-pay-vendors-through-nordea-bank.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Add Method (T) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Add Method (T)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Add(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn987565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn987565(v=AX.60)
 ms:contentKeyID: 65316119
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,7 +54,7 @@ virtual void Add(
 
 #### Implements
 
-[ICollection\<T\>.Add(T)](https://technet.microsoft.com/en-us/library/63ywd54z\(v=ax.60\))  
+[ICollection\<T\>.Add(T)](https://technet.microsoft.com/library/63ywd54z\(v=ax.60\))  
 
 ## See Also
 

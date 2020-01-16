@@ -2,8 +2,9 @@
 title: "Deprecated: (IND) Removal of 'Exceed threshold limit'  from Direct Tax parameters"
 TOCTitle: (IND) Removal of 'Exceed threshold limit'  from Direct Tax parameters
 ms:assetid: 99f92e50-d7d4-4a17-8511-94beea5f8018
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527191(v=AX.60)
 ms:contentKeyID: 59623320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: 'Deprecated: Default posting level attribute'
 TOCTitle: Default posting level attribute
 ms:assetid: 10c984f9-6475-403f-9503-c3c6444ab662
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507132(v=AX.60)
 ms:contentKeyID: 59623220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

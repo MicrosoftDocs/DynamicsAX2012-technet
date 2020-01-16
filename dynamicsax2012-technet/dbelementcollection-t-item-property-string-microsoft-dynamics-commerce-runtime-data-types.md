@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Item Property (String) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Item Property (String)
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Item(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988404(v=AX.60)
 ms:contentKeyID: 65317959
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -55,7 +56,7 @@ property T Item[String^ key] {
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Property Value
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataValidationErrors.CustomerAccountDepositCannotBeVoided Field (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: CustomerAccountDepositCannotBeVoided Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.CustomerAccountDepositCannotBeVoided
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.customeraccountdepositcannotbevoided(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.customeraccountdepositcannotbevoided(v=AX.60)
 ms:contentKeyID: 65322277
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

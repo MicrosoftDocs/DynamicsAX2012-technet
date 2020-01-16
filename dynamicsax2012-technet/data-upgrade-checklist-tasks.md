@@ -2,8 +2,9 @@
 title: 'Data upgrade checklist: Tasks'
 TOCTitle: 'Data upgrade checklist: Tasks'
 ms:assetid: 734ca204-a452-4f76-8126-c0e7e2bba3a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn364414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn364414(v=AX.60)
 ms:contentKeyID: 62200024
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -31,11 +32,11 @@ Complete the checklist tasks listed below. Task names link to help explaining th
 <tbody>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
@@ -87,11 +88,11 @@ Complete the checklist tasks listed below. Task names link to help explaining th
 </tr>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
@@ -131,7 +132,7 @@ Complete the checklist tasks listed below. Task names link to help explaining th
 </tr>
 <tr class="even">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj687481(v=ax.60)">Performance (upgrade)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>

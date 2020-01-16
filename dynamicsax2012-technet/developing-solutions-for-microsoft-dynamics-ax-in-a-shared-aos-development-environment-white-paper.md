@@ -2,8 +2,9 @@
 title: Developing Solutions for Microsoft Dynamics AX in a Shared AOS Development Environment (White paper)
 TOCTitle: Developing Solutions for Microsoft Dynamics AX in a Shared AOS Development Environment
 ms:assetid: 89199019-a8d3-45ca-8991-e04d50180e83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352230(v=AX.60)
 ms:contentKeyID: 36687855
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ This paper provides an overview of the best practices you should follow if you d
 
 ## See also
 
-[Version Control System](https://technet.microsoft.com/en-us/library/aa639568\(v=ax.60\))
+[Version Control System](https://technet.microsoft.com/library/aa639568\(v=ax.60\))
 
   
 

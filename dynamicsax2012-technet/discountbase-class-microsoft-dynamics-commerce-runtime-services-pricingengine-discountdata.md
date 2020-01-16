@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountBase Class (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: DiscountBase Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase(v=AX.60)
 ms:contentKeyID: 62211948
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ public ref class DiscountBase abstract
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase  
     [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.MixAndMatchDiscount](mixandmatchdiscount-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)  
     [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.MultipleBuyDiscount](multiplebuydiscount-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)  

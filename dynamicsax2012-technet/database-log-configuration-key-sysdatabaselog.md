@@ -2,8 +2,9 @@
 title: Database Log configuration key  (SysDatabaseLog)
 TOCTitle: Database Log configuration key  (SysDatabaseLog)
 ms:assetid: 2e6f3c1a-01c8-434f-8e76-22def2c2458e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa552632(v=AX.60)
 ms:contentKeyID: 36916341
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Database log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586729(v=ax.60)">Database log (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586729(v=ax.60)">Database log (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Database log setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619532(v=ax.60)">Database log setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619532(v=ax.60)">Database log setup (form)</a></p></td>
 </tr>
 </tbody>
 </table>

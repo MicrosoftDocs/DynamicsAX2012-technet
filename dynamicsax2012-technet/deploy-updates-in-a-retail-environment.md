@@ -2,8 +2,9 @@
 title: Deploy updates in a retail environment
 TOCTitle: Deploy updates in a retail environment
 ms:assetid: eaecf1b3-93dd-4211-97e3-6552441ef014
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305851(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305851(v=AX.60)
 ms:contentKeyID: 54911460
+author: Khairunj
 ms.date: 03/09/2016
 mtps_version: v=AX.60
 ---
@@ -282,7 +283,7 @@ Plan the timing for updating your online store based on the availability require
 
 
 
-Other topology options include setting up a new AX 2012 R3 CU8 channel database connected to an existing online channel. Such a topology can use Commerce Data Exchange to publish (distribution schedule changes) only to the new channel and bring back orders from both channels. This method requires installing the online store. For more information see [Install the online store](https://technet.microsoft.com/en-us/library/jj677412\(v=ax.60\)).
+Other topology options include setting up a new AX 2012 R3 CU8 channel database connected to an existing online channel. Such a topology can use Commerce Data Exchange to publish (distribution schedule changes) only to the new channel and bring back orders from both channels. This method requires installing the online store. For more information see [Install the online store](https://technet.microsoft.com/library/jj677412\(v=ax.60\)).
 
 ## Uninstall an online channel
 

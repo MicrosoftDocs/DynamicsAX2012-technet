@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataStoreAccessor.StorageResolver Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: StorageResolver Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreAccessor.StorageResolver
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.datastoreaccessor.storageresolver(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastoreaccessor.storageresolver(v=AX.60)
 ms:contentKeyID: 62214250
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

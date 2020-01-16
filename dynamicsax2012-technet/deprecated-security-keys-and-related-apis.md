@@ -2,8 +2,9 @@
 title: 'Deprecated: Security keys and related APIs'
 TOCTitle: Security keys and related APIs
 ms:assetid: 6532d48c-93b2-4725-acb4-fc36db6049b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527137(v=AX.60)
 ms:contentKeyID: 59623266
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ Security keys are the permissions that control access to functionality in the ap
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature was removed, and a replacement feature is available. Security keys have been replaced by role-based security. Role-based security lets a developer or administrator create privileges, duties, and roles, and assign permissions to various resources, based on the security requirements. The framework also automatically identifies the resources that are accessed by some base objects, such as forms, web controls, service operations, and reports. The developer does not have to use security keys to group these related objects. Therefore, the administrator can easily grant access without having to determine which security keys were set by the developer. All the APIs that were based on security keys were removed together with the security keys. These APIs were replaced with APIs that identify access based on objects.</p>
-<p>For a high-level overview of the role-based security changes, see the product-wide feature topic <a href="what-s-new-role-based-security.md">What's new: Role-based security</a>. For more detailed information, see the <a href="https://technet.microsoft.com/en-us/library/gg864884(v=ax.60)">Role-Based Security System</a> and <a href="security-architecture-of-the-microsoft-dynamics-ax-application.md">Security architecture of the Microsoft Dynamics AX application</a> topics.</p></td>
+<p>For a high-level overview of the role-based security changes, see the product-wide feature topic <a href="what-s-new-role-based-security.md">What's new: Role-based security</a>. For more detailed information, see the <a href="https://technet.microsoft.com/library/gg864884(v=ax.60)">Role-Based Security System</a> and <a href="security-architecture-of-the-microsoft-dynamics-ax-application.md">Security architecture of the Microsoft Dynamics AX application</a> topics.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

@@ -2,8 +2,9 @@
 title: 'Deprecated: (POL) Polish coloration of chart of account lines'
 TOCTitle: (POL) Polish coloration of chart of account lines
 ms:assetid: 2bb078b5-d2b2-4d8f-a51c-319c9be66350
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507155(v=AX.60)
 ms:contentKeyID: 59623240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

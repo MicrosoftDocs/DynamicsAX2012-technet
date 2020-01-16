@@ -2,8 +2,9 @@
 title: (DNK) Set up a payment slip format for customers
 TOCTitle: (DNK) Set up a payment slip format for customers
 ms:assetid: a1223925-466c-4ef7-891c-6be505e1472e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209451(v=AX.60)
 ms:contentKeyID: 36058776
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -85,9 +86,9 @@ After you set up the payment slip attachment format for sales invoices, free tex
 
 [(DNK) Post a project invoice with a payment slip](dnk-post-a-project-invoice-with-a-payment-slip.md)
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
-[Form setup (form)](https://technet.microsoft.com/en-us/library/aa589956\(v=ax.60\))
+[Form setup (form)](https://technet.microsoft.com/library/aa589956\(v=ax.60\))
 
   
 

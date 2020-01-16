@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerTransactionServiceRequestHandler Properties (Microsoft.Dynamics.Commerce.Runtime.TransactionService)
 TOCTitle: CustomerTransactionServiceRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.CustomerTransactionServiceRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.customertransactionservicerequesthandler_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.customertransactionservicerequesthandler_properties(v=AX.60)
 ms:contentKeyID: 65319244
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

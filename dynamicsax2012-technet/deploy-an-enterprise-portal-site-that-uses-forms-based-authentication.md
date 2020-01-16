@@ -2,8 +2,9 @@
 title: Deploy an Enterprise Portal site that uses forms-based authentication
 TOCTitle: Deploy an Enterprise Portal site that uses forms-based authentication
 ms:assetid: dca19036-df4f-41b0-b6af-5fcfa951c67e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575253(v=AX.60)
 ms:contentKeyID: 39555416
+author: Khairunj
 ms.date: 07/01/2015
 mtps_version: v=AX.60
 f1_keywords:

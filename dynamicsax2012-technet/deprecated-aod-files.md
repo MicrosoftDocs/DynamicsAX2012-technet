@@ -2,8 +2,9 @@
 title: 'Deprecated: AOD files'
 TOCTitle: AOD files
 ms:assetid: 78a4ae5b-acc2-466f-b4b3-48485b985260
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527159(v=AX.60)
 ms:contentKeyID: 59623288
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DemoServiceResponse Properties (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: DemoServiceResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.DemoServiceResponse
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.demoserviceresponse_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.demoserviceresponse_properties(v=AX.60)
 ms:contentKeyID: 62205463
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

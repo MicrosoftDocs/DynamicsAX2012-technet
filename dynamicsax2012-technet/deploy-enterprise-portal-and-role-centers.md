@@ -2,8 +2,9 @@
 title: Deploy Enterprise Portal and Role Centers
 TOCTitle: Deploy Enterprise Portal and Role Centers
 ms:assetid: da6f6961-3a45-41f9-ae5b-37e827abc140
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732128(v=AX.60)
 ms:contentKeyID: 35133074
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

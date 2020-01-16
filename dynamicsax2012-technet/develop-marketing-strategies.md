@@ -2,8 +2,9 @@
 title: Develop marketing strategies
 TOCTitle: Develop marketing strategies
 ms:assetid: 4f98a16c-8739-4f35-8079-8d1deb047587
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212761(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212761(v=AX.60)
 ms:contentKeyID: 36057225
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

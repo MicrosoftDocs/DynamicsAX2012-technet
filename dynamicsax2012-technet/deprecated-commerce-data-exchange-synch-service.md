@@ -2,8 +2,9 @@
 title: 'Deprecated: Commerce Data Exchange: Synch Service'
 TOCTitle: 'Commerce Data Exchange: Synch Service'
 ms:assetid: 792c1c8c-c7ef-4736-be56-1fab61bfed17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716030(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716030(v=AX.60)
 ms:contentKeyID: 62200289
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

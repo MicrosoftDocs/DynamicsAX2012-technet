@@ -2,8 +2,9 @@
 title: 'Deprecated: (THA) Manage realized and unrealized VAT'
 TOCTitle: (THA) Manage realized and unrealized VAT
 ms:assetid: 732f7e28-5164-40c2-8eab-bc5039d892f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527144(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527144(v=AX.60)
 ms:contentKeyID: 59623273
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

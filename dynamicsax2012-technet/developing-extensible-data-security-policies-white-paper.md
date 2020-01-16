@@ -2,8 +2,9 @@
 title: Developing Extensible Data Security Policies (White paper)
 TOCTitle: Developing Extensible Data Security Policies
 ms:assetid: 3eff3026-9bd1-4158-a162-fe4f9162d755
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272862(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272862(v=AX.60)
 ms:contentKeyID: 36584386
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

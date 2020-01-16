@@ -2,8 +2,9 @@
 title: (DEU) Generate the EU sales list
 TOCTitle: (DEU) Generate the EU sales list
 ms:assetid: 83f84853-150e-4f27-8f1a-e5ef919928ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304980(v=AX.60)
 ms:contentKeyID: 54899954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ Use the **EU reporting** form to generate the EU sales list as an ELMA5 text fil
 
 2.  Click **Transfer** to open the **Transfer transactions for EU sales list** form.
 
-3.  Select the criteria to transfer the customer invoices or project invoices to the EU sales list, and then click **Transfer** to transfer the invoices to the **EU sales list** form. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\)) and [EU sales list (form)](https://technet.microsoft.com/en-us/library/aa596355\(v=ax.60\)).
+3.  Select the criteria to transfer the customer invoices or project invoices to the EU sales list, and then click **Transfer** to transfer the invoices to the **EU sales list** form. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\)) and [EU sales list (form)](https://technet.microsoft.com/library/aa596355\(v=ax.60\)).
 
 4.  In the **EU sales list** form, click **Validate**, select criteria, and then click **OK**. Make any corrections that are needed.
 

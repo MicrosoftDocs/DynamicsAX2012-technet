@@ -2,8 +2,9 @@
 title: (DNK) Create and post a customer invoice for a public sector customer
 TOCTitle: (DNK) Create and post a customer invoice for a public sector customer
 ms:assetid: 84e6ff83-10e8-483e-a974-d5a1bb7ca36b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213173(v=AX.60)
 ms:contentKeyID: 36058400
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ When the batch job for electronic sales invoices is processed, invoices for cust
 
 [(DNK) Set up batch processing for OIOUBL electronic invoicing](dnk-set-up-batch-processing-for-oioubl-electronic-invoicing.md)
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
   
 

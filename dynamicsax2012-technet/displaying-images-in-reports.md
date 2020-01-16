@@ -1,9 +1,10 @@
-﻿---
+---
 title: Displaying Images in Reports
 TOCTitle: Displaying Images in Reports
 ms:assetid: 2640e4da-e676-4863-ad8c-1fbd01cd7d27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc568230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc568230(v=AX.60)
 ms:contentKeyID: 28119323
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

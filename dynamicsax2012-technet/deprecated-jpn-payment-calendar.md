@@ -2,8 +2,9 @@
 title: 'Deprecated: (JPN) Payment calendar'
 TOCTitle: (JPN) Payment calendar
 ms:assetid: f148f2b1-3b80-48e4-992f-b13b06317d50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527233(v=AX.60)
 ms:contentKeyID: 59623361
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

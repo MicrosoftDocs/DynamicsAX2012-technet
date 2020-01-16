@@ -2,8 +2,9 @@
 title: Define inbound warehouse processes based on container types
 TOCTitle: Define inbound warehouse processes based on container types
 ms:assetid: 298ae871-813c-4d19-a9f1-01a91b64b514
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt740364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt740364(v=AX.60)
 ms:contentKeyID: 73212215
+author: Khairunj
 ms.date: 07/20/2016
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountBase.GetDiscountAmountFromDealPrice Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: GetDiscountAmountFromDealPrice Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.GetDiscountAmountFromDealPrice(System.Decimal,System.Boolean,System.Decimal,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.getdiscountamountfromdealprice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.getdiscountamountfromdealprice(v=AX.60)
 ms:contentKeyID: 65319670
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,26 +64,26 @@ static Decimal GetDiscountAmountFromDealPrice(
 #### Parameters
 
   - price  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - hasExistingDealPrice  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - bestExistingDealPrice  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - dealPrice  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 ## See Also
 

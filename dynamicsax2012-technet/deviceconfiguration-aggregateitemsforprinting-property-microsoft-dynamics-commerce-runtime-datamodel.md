@@ -1,9 +1,10 @@
-﻿---
+---
 title: DeviceConfiguration.AggregateItemsForPrinting Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AggregateItemsForPrinting Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceConfiguration.AggregateItemsForPrinting
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.deviceconfiguration.aggregateitemsforprinting(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.deviceconfiguration.aggregateitemsforprinting(v=AX.60)
 ms:contentKeyID: 62207246
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property bool AggregateItemsForPrinting {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if aggregate items for printing is set; otherwise, false.  
 
 ## See Also

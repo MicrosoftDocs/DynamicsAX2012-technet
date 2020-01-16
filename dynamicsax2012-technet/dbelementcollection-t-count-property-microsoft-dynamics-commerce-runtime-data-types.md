@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Count Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Count Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Count
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968414(v=AX.60)
 ms:contentKeyID: 65321030
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,13 +48,13 @@ virtual property int Count {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 #### Implements
 
-[ICollection.Count](https://technet.microsoft.com/en-us/library/2yz8a4x3\(v=ax.60\))  
-[ICollection\<T\>.Count](https://technet.microsoft.com/en-us/library/5s3kzhec\(v=ax.60\))  
+[ICollection.Count](https://technet.microsoft.com/library/2yz8a4x3\(v=ax.60\))  
+[ICollection\<T\>.Count](https://technet.microsoft.com/library/5s3kzhec\(v=ax.60\))  
 
 ## See Also
 

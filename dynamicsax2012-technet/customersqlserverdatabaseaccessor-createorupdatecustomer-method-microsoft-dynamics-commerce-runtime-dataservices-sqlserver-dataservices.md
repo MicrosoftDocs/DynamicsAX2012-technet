@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerSqlServerDatabaseAccessor.CreateOrUpdateCustomer Method  (Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices)
 TOCTitle: CreateOrUpdateCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices.CustomerSqlServerDatabaseAccessor.CreateOrUpdateCustomer(Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.dataservices.customersqlserverdatabaseaccessor.createorupdatecustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.dataservices.customersqlserverdatabaseaccessor.createorupdatecustomer(v=AX.60)
 ms:contentKeyID: 65321960
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

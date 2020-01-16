@@ -2,8 +2,9 @@
 title: Define Budgeting parameters and number sequences
 TOCTitle: Define Budgeting parameters and number sequences
 ms:assetid: ff5559b1-295e-4cc0-b034-2eb61f286890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227593(v=AX.60)
 ms:contentKeyID: 36060131
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Use the following steps to define budgeting parameters and number sequences in A
 
 1.  Click **Budgeting** \> **Setup** \> **Budgeting parameters**.
 
-2.  Select a period allocation key for cash flow forecasts. The allocation key determines how the amount for a budget account entry is allocated in a cash flow forecast. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/en-us/library/aa582352\(v=ax.60\)).
+2.  Select a period allocation key for cash flow forecasts. The allocation key determines how the amount for a budget account entry is allocated in a cash flow forecast. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/library/aa582352\(v=ax.60\)).
 
 3.  Select the **Use rules for budget transfers** check box to enable budget transfers.
 
@@ -46,7 +47,7 @@ Use the following steps to define budgeting parameters and number sequences in A
 
 5.  Select whether to process budget register entries when they are transferred from project, fixed assets, demand forecast, or supply forecast budgets to general ledger budgets.
 
-6.  If **Enable budget appropriation** is selected in the **General ledger parameters** form, select a budget journal to use for budget appropriations. This budget journal must have a journal type of **Budget** in the **Journal names** form. For more information, see [Journal names (form) (Project)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\)).
+6.  If **Enable budget appropriation** is selected in the **General ledger parameters** form, select a budget journal to use for budget appropriations. This budget journal must have a journal type of **Budget** in the **Journal names** form. For more information, see [Journal names (form) (Project)](https://technet.microsoft.com/library/aa617509\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -82,7 +83,7 @@ Use the following steps to define budgeting parameters and number sequences in A
 
 
 
-You can also create new number sequences by using the **Number sequences** form. For more information about number sequences, see [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\)).
+You can also create new number sequences by using the **Number sequences** form. For more information about number sequences, see [Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\)).
 
 ## In Microsoft Dynamics AX 2012 R3 Cumulative Update 8 with hotfix KB3047235
 
@@ -98,7 +99,7 @@ Use the following steps to define budgeting parameters and number sequences.
 
 1.  Click **Budgeting** \> **Setup** \> **Budgeting parameters**.
 
-2.  Select a period allocation key for cash flow forecasts. The allocation key determines how the amount for a budget account entry is allocated in a cash flow forecast. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/en-us/library/aa582352\(v=ax.60\)).
+2.  Select a period allocation key for cash flow forecasts. The allocation key determines how the amount for a budget account entry is allocated in a cash flow forecast. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/library/aa582352\(v=ax.60\)).
 
 3.  Select the **Use rules for budget transfers** check box to enable budget transfers.
 
@@ -106,7 +107,7 @@ Use the following steps to define budgeting parameters and number sequences.
 
 5.  Select whether to process budget register entries when they are transferred to general ledger budgets from project, fixed assets, demand forecast, or supply forecast budgets.
 
-6.  If **Enable budget appropriation** is selected in the **General ledger parameters** form, select a budget journal to use for budget appropriations. This budget journal must have a journal type of **Budget** in the **Journal names** form. For more information, see [Journal names (form) (Project)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\)).
+6.  If **Enable budget appropriation** is selected in the **General ledger parameters** form, select a budget journal to use for budget appropriations. This budget journal must have a journal type of **Budget** in the **Journal names** form. For more information, see [Journal names (form) (Project)](https://technet.microsoft.com/library/aa617509\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -149,7 +150,7 @@ Use the following steps to define budgeting parameters and number sequences.
     
       - Select a code for the **Budget plans** reference.
     
-    You can also create new number sequences by using the **Number sequences** form. For more information about number sequences, see [Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\)).
+    You can also create new number sequences by using the **Number sequences** form. For more information about number sequences, see [Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (DEU) Print checks report (Cheque_DE)
 TOCTitle: (DEU) Print checks report (Cheque_DE)
 ms:assetid: ce89093b-21ba-492b-804e-2037d181e0d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352290(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352290(v=AX.60)
 ms:contentKeyID: 36687918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

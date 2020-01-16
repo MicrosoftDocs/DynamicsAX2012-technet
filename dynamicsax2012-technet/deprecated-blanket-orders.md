@@ -2,8 +2,9 @@
 title: 'Deprecated: Blanket orders'
 TOCTitle: Blanket orders
 ms:assetid: 42f11522-ed43-4f5b-a66a-ae248fcad127
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507122(v=AX.60)
 ms:contentKeyID: 59623211
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Design the row structure of a traditional financial statement
 TOCTitle: Design the row structure of a traditional financial statement
 ms:assetid: af59c513-1f9a-4a8b-ac16-ddd79623f429
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498632(v=AX.60)
 ms:contentKeyID: 44081026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ This form is available only when the **Financial statement (traditional)** confi
 
 
 
-6.  To design or view the row structure of the selected row definition, click **Structure designer**. For more information, see [Structure designer (form)](https://technet.microsoft.com/en-us/library/aa552297\(v=ax.60\)).
+6.  To design or view the row structure of the selected row definition, click **Structure designer**. For more information, see [Structure designer (form)](https://technet.microsoft.com/library/aa552297\(v=ax.60\)).
 
 ## Structure designer views
 
@@ -61,7 +62,7 @@ If you clear the **Tree control** check box, you can view each row in the struct
 
 ## Design the row structure by using the tree structure
 
-Use the **Structure designer** form to design the row structure of a row definition. For more information, see the field descriptions in [Structure designer (form)](https://technet.microsoft.com/en-us/library/aa552297\(v=ax.60\)).
+Use the **Structure designer** form to design the row structure of a row definition. For more information, see the field descriptions in [Structure designer (form)](https://technet.microsoft.com/library/aa552297\(v=ax.60\)).
 
 
 > [!NOTE]

@@ -2,8 +2,9 @@
 title: Design a screen layout (Retail essentials)
 TOCTitle: Design a screen layout (Retail essentials)
 ms:assetid: 9f85c09b-b4f6-4f64-9461-dc1ff36a085b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736924(v=AX.60)
 ms:contentKeyID: 62200399
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

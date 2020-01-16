@@ -2,8 +2,9 @@
 title: Deployment of the Help server
 TOCTitle: Deployment
 ms:assetid: 01bb175a-c5e3-4c92-92ba-96c46b462f61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg866970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg866970(v=AX.60)
 ms:contentKeyID: 35256664
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

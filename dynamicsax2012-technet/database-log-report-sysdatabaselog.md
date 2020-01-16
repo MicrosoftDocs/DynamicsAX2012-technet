@@ -2,8 +2,9 @@
 title: Database log report (SysDatabaseLog)
 TOCTitle: Database log report (SysDatabaseLog)
 ms:assetid: 09b46111-7ca7-40ed-af4e-07f461b241a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335130(v=AX.60)
 ms:contentKeyID: 36687339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

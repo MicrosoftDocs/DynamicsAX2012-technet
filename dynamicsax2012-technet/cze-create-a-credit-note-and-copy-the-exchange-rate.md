@@ -2,8 +2,9 @@
 title: (CZE) Create a credit note and copy the exchange rate
 TOCTitle: (CZE) Create a credit note and copy the exchange rate
 ms:assetid: 6b5c554a-45ae-4ea3-bcb0-3b287c39e663
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677559(v=AX.60)
 ms:contentKeyID: 49384862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You can select the exchange rate that should be used to create a credit note for
 
 ## See also
 
-[(CZE) Copy sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj710625\(v=ax.60\))
+[(CZE) Copy sales orders (modified form)](https://technet.microsoft.com/library/jj710625\(v=ax.60\))
 
   
 

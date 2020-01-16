@@ -2,8 +2,9 @@
 title: Delete outdated sales orders for a call center
 TOCTitle: Delete outdated sales orders for a call center
 ms:assetid: 143a1ef1-ff3f-4b36-b80f-29d07f21f7f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720456(v=AX.60)
 ms:contentKeyID: 62224163
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -100,7 +101,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 [Delete the update history of purchase or sales orders](delete-the-update-history-of-purchase-or-sales-orders.md)
 
-[Delete orders (class form)](https://technet.microsoft.com/en-us/library/aa620155\(v=ax.60\))
+[Delete orders (class form)](https://technet.microsoft.com/library/aa620155\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (DNK) Create and post a credit note for a sales order for a public sector customer
 TOCTitle: (DNK) Create and post a credit note for a sales order for a public sector customer
 ms:assetid: cf47b4af-449b-4c00-bdf6-40f0406af962
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242913(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242913(v=AX.60)
 ms:contentKeyID: 36059476
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ When the batch job for the electronic sales invoices is processed, invoices for 
 
 [(DNK) Set up batch processing for OIOUBL electronic invoicing](dnk-set-up-batch-processing-for-oioubl-electronic-invoicing.md)
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
   
 

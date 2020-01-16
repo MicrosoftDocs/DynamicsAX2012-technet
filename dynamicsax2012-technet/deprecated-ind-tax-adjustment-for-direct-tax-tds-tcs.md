@@ -2,8 +2,9 @@
 title: 'Deprecated: (IND) Tax adjustment for Direct Tax (TDS/TCS)'
 TOCTitle: (IND) Tax adjustment for Direct Tax (TDS/TCS)
 ms:assetid: 815eb5f6-2598-4b18-8077-04a27f597f26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527152(v=AX.60)
 ms:contentKeyID: 59623281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -45,7 +46,7 @@ In Microsoft Dynamics AX 2009, the tax adjustment functionality lets users selec
 <li><p>Users can use the adjustment journal functionality to adjust the posted TDS/TCS amount that is not yet reported to the tax department. The amount can be adjusted either up or down.</p></li>
 <li><p>Users can also link the adjustment entry for the TDS/TCS with the appropriate parent transaction. In this case, the reports net off the overall result to reflect the change in tax liability that corresponds to the specific document.</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664896(v=ax.60)">(IND) Create withholding tax journal (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664896(v=ax.60)">(IND) Create withholding tax journal (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>
