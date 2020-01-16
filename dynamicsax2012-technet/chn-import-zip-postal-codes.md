@@ -2,8 +2,9 @@
 title: (CHN) Import ZIP/postal codes
 TOCTitle: (CHN) Import ZIP/postal codes
 ms:assetid: 2be3f6a3-327f-4744-af7c-4bef7e515997
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664017(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664017(v=AX.60)
 ms:contentKeyID: 49384601
+author: Khairunj
 ms.date: 11/11/2017
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ You can import ZIP or postal codes when you set up addresses. When you import th
 
 ## See also
 
-[Import ZIP/postal codes (form)](https://technet.microsoft.com/en-us/library/aa591460\(v=ax.60\))
+[Import ZIP/postal codes (form)](https://technet.microsoft.com/library/aa591460\(v=ax.60\))
 
 [(CHN) Set up the Chinese user interface](chn-set-up-the-chinese-user-interface.md)
 

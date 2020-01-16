@@ -2,8 +2,9 @@
 title: Change the date for a client session
 TOCTitle: Change the date for a client session
 ms:assetid: 6289b243-a802-45e0-ae86-30caf72f05bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571130(v=AX.60)
 ms:contentKeyID: 36057675
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -42,7 +43,7 @@ The date resets to the current date when you close your client session.
 
 ## See also
 
-[Session date and time (form)](https://technet.microsoft.com/en-us/library/aa586010\(v=ax.60\))
+[Session date and time (form)](https://technet.microsoft.com/library/aa586010\(v=ax.60\))
 
   
 

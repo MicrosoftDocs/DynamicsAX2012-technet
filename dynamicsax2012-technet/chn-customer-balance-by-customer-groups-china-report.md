@@ -2,8 +2,9 @@
 title: (CHN) Customer balance by customer groups (China) (Report)
 TOCTitle: (CHN) Customer balance by customer groups (China) (Report)
 ms:assetid: 97da4c02-5c27-4bb5-96b0-e398c8878624
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944976(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944976(v=AX.60)
 ms:contentKeyID: 51412476
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

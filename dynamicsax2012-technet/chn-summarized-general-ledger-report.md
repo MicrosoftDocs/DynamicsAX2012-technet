@@ -2,8 +2,9 @@
 title: (CHN) Summarized general ledger (report)
 TOCTitle: (CHN) Summarized general ledger (report)
 ms:assetid: 1a0d887b-112a-4364-bccd-9aba5bdecc80
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ874404(v=AX.60)
 ms:contentKeyID: 50619721
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

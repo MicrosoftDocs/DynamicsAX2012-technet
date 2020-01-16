@@ -2,8 +2,9 @@
 title: Collections agent security role (CollectionLetterCollectionsAgent)
 TOCTitle: Collections agent security role (CollectionLetterCollectionsAgent)
 ms:assetid: 85efe94b-ac6b-489c-b4d7-1cad37d567f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527107(v=AX.60)
 ms:contentKeyID: 37823159
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (CHN) Set up the integration with a tax system
 TOCTitle: (CHN) Set up the integration with a tax system
 ms:assetid: ad4ffade-f645-4e65-8396-4bc5d6013b72
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664099(v=AX.60)
 ms:contentKeyID: 49384683
+author: Khairunj
 ms.date: 01/03/2018
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ You can select individual invoices or batch invoices to export to a single outpu
 
 ## See also
 
-[(CHN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664148\(v=ax.60\))
+[(CHN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj664148\(v=ax.60\))
 
   
 

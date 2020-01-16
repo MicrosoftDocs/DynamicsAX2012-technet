@@ -1,9 +1,10 @@
-﻿---
+---
 title: CheckoutServiceBase.GetOrderDeliveryOptionsForShipping Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: GetOrderDeliveryOptionsForShipping Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.CheckoutServiceBase.GetOrderDeliveryOptionsForShipping(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Address)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.checkoutservicebase.getorderdeliveryoptionsforshipping(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.checkoutservicebase.getorderdeliveryoptionsforshipping(v=AX.60)
 ms:contentKeyID: 65317087
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

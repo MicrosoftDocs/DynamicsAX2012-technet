@@ -1,9 +1,10 @@
-﻿---
+---
 title: ColumnSet(T).Add Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Add Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.Add(`0[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn739375(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn739375(v=AX.60)
 ms:contentKeyID: 62212439
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

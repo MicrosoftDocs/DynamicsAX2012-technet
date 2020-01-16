@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelManager.GetOnlineChannel Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetOnlineChannel Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.GetOnlineChannel(System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getonlinechannel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getonlinechannel(v=AX.60)
 ms:contentKeyID: 49852809
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ OnlineChannel^ GetOnlineChannel(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 

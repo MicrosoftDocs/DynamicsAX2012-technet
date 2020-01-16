@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommercePropertyValue Type Conversions (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CommercePropertyValue Type Conversions
 ms:assetid: Operators.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue_operators(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue_operators(v=AX.60)
 ms:contentKeyID: 62207909
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Cash and bank management reports
 TOCTitle: Cash and bank management reports
 ms:assetid: 5863ad1e-325b-4d24-8f9e-1450220bcf3b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334482(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334482(v=AX.60)
 ms:contentKeyID: 36676467
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

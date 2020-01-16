@@ -2,8 +2,9 @@
 title: (CHN, JPN) Fixed asset location transfer history
 TOCTitle: (CHN, JPN) Fixed asset location transfer history
 ms:assetid: ed3d3f1e-a6f0-48b8-bec8-5ac5666e8cbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn306809(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn306809(v=AX.60)
 ms:contentKeyID: 54925755
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartsController.Json(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Json(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CartsController.Json``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn684310(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn684310(v=AX.60)
 ms:contentKeyID: 62203452
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

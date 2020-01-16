@@ -2,8 +2,9 @@
 title: 'Checklist: Deploy Microsoft Dynamics AX Enterprise Search'
 TOCTitle: 'Checklist: Deploy Enterprise Search'
 ms:assetid: 5e416444-e326-4097-b95b-9e378acbd1cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731811(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731811(v=AX.60)
 ms:contentKeyID: 35132657
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

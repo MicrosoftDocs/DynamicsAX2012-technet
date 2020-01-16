@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelDatabaseAccessor.GetChannelAttributesByChannelId Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetChannelAttributesByChannelId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDatabaseAccessor.GetChannelAttributesByChannelId(System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getchannelattributesbychannelid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getchannelattributesbychannelid(v=AX.60)
 ms:contentKeyID: 65321617
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ virtual ReadOnlyCollection<ChannelAttribute^>^ GetChannelAttributesByChannelId(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -64,7 +65,7 @@ virtual ReadOnlyCollection<ChannelAttribute^>^ GetChannelAttributesByChannelId(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ChannelAttribute](channelattribute-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ChannelAttribute](channelattribute-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Implements
 

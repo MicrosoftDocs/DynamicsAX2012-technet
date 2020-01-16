@@ -2,8 +2,9 @@
 title: (CHE) Company identification numbers for tax exemption
 TOCTitle: (CHE) Company identification numbers for tax exemption
 ms:assetid: 6fba88d7-660e-4ef6-b6c9-fa18c23ac0ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715965(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715965(v=AX.60)
 ms:contentKeyID: 62200090
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ To add a tax registration type for a customer or a vendor, you can perform these
     
     Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**.
 
-2.  Create or select a customer or a vendor. For more information, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)) or [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+2.  Create or select a customer or a vendor. For more information, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)) or [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 3.  In the **Action Pane**, on the **Customer** FastTab, click **Registration** \> **Taxes**.
     
@@ -64,7 +65,7 @@ To set up the parameter that can validate the UID format, you can follow these s
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **External** \> **Country/region parameters**.
 
-2.  Create a record for the legal entity. For more information, see [Country/region parameters (form)](https://technet.microsoft.com/en-us/library/hh242897\(v=ax.60\)).
+2.  Create a record for the legal entity. For more information, see [Country/region parameters (form)](https://technet.microsoft.com/library/hh242897\(v=ax.60\)).
 
 3.  Select the **Check tax exempt number** check box to validate the tax exempt number based on the UID format for a customer or a vendor.
 

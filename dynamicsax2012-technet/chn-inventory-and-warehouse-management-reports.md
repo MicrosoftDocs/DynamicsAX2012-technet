@@ -2,8 +2,9 @@
 title: (CHN) Inventory and warehouse management reports
 TOCTitle: (CHN) Inventory and warehouse management reports
 ms:assetid: 803ae2be-b1ce-4a0d-85a9-297bd87ce848
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664072(v=AX.60)
 ms:contentKeyID: 49384656
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

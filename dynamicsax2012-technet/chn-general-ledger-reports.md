@@ -2,8 +2,9 @@
 title: (CHN) General ledger reports
 TOCTitle: (CHN) General ledger reports
 ms:assetid: a570d784-54c5-41a2-b299-a60a7c7942e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733507(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733507(v=AX.60)
 ms:contentKeyID: 49685471
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

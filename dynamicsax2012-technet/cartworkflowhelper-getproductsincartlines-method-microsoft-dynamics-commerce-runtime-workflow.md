@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartWorkflowHelper.GetProductsInCartLines Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetProductsInCartLines Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.GetProductsInCartLines(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.getproductsincartlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.getproductsincartlines(v=AX.60)
 ms:contentKeyID: 62203675
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ static Dictionary<long long, Product^>^ GetProductsInCartLines(
 <!-- end list -->
 
   - cartLines  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CartLine](cartline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[CartLine](cartline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Return Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)), [Product](product-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)), [Product](product-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 A dictionary of listing id to listings mapping.  
 
 ## See Also

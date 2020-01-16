@@ -1,9 +1,10 @@
-﻿---
+---
 title: ColumnSet(T).Count Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: Count Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.Count
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn684364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn684364(v=AX.60)
 ms:contentKeyID: 62203504
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ property int Count {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: CIS Payroll license code (RPay)
 TOCTitle: CIS Payroll license code (RPay)
 ms:assetid: 45ca2858-2b29-4876-b2e7-373514bc634a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn502559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn502559(v=AX.60)
 ms:contentKeyID: 59361415
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -79,7 +80,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (CHN) Vendor balance inquiry (report)
 TOCTitle: (CHN) Vendor balance inquiry (report)
 ms:assetid: d8c55cd2-47c4-4d43-ada1-ed489ef19253
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944981(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944981(v=AX.60)
 ms:contentKeyID: 51412482
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

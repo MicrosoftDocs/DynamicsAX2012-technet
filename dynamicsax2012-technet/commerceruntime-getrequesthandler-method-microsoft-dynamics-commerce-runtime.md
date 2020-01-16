@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntime.GetRequestHandler Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: GetRequestHandler Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime.GetRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.commerceruntime.getrequesthandler(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.commerceruntime.getrequesthandler(v=AX.60)
 ms:contentKeyID: 65317830
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

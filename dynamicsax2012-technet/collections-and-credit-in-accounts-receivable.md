@@ -2,8 +2,9 @@
 title: Collections and credit in Accounts receivable
 TOCTitle: Collections and credit in Accounts receivable
 ms:assetid: 72ec4090-d516-4a47-b9ac-7f5ece30351c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209221(v=AX.60)
 ms:contentKeyID: 36058131
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,13 +62,13 @@ The aging snapshot header contains the total amount due, credit limit, packing s
 
 For each aging period in the aging period definition, an aging snapshot detail record is created. Each aging snapshot detail record contains the aging period ID and the total amount of the transactions with dates that are in the aging period. Transactions are assigned to an aging period, such as 30 days past due. The date is relative to the **Aging as of** date that is specified when you create the aging snapshot. This information is shown on the **Collections** list page and in the **Aged balances** FactBox in the **Collections** form.
 
-For more information, see [Create an aging snapshot](create-an-aging-snapshot.md) and [Customer aging snapshot (form)](https://technet.microsoft.com/en-us/library/hh242719\(v=ax.60\)).
+For more information, see [Create an aging snapshot](create-an-aging-snapshot.md) and [Customer aging snapshot (form)](https://technet.microsoft.com/library/hh242719\(v=ax.60\)).
 
 ## Collections customer pools help you organize your work
 
 Customer pools are queries that define a group of customer records that can be displayed and managed for collections or aging processes. Use customer pools to filter information on the **Collections**, **Collections activities**, and **Collections cases** list pages. You also use customer pools to filter the customer accounts that are included when aging snapshots are created.
 
-For more information, see [Set up collections](set-up-collections.md) and [Customer pools (form)](https://technet.microsoft.com/en-us/library/hh227560\(v=ax.60\)).
+For more information, see [Set up collections](set-up-collections.md) and [Customer pools (form)](https://technet.microsoft.com/library/hh227560\(v=ax.60\)).
 
 ## Collections agents can have their own customer pools
 
@@ -75,7 +76,7 @@ By default, Microsoft Dynamics AX users can view all customer information on col
 
 A collections agent is a person who works with customers to make sure that payments are collected in a timely manner. In Microsoft Dynamics AX, collections agents are workers who are set up as users in the **User relations** form.
 
-For more information, see [Set up collections](set-up-collections.md) and [Collections agents (form)](https://technet.microsoft.com/en-us/library/hh209479\(v=ax.60\)).
+For more information, see [Set up collections](set-up-collections.md) and [Collections agents (form)](https://technet.microsoft.com/library/hh209479\(v=ax.60\)).
 
 ## List pages organize collections customers, activities, and cases
 
@@ -113,7 +114,7 @@ FactBoxes display aged balances and credit limit information for the selected cu
 
 The Action Pane contains buttons that display related information for the selected customer, case, transaction, or activity. You can also perform common actions such as changing the collections status of a transaction, sending email correspondence through the integration with Microsoft Outlook, reimbursing customers, processing NSF payments, and writing off uncollectible balances.
 
-For more information, see [Key tasks: Collections](key-tasks-collections.md) and [Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\)).
+For more information, see [Key tasks: Collections](key-tasks-collections.md) and [Collections (form)](https://technet.microsoft.com/library/hh209726\(v=ax.60\)).
 
 ## Waive, reinstate, or reverse interest and fees in one step
 
@@ -135,13 +136,13 @@ When you write off transactions for a customer, all transactions for the custome
 
 The write-off transaction is created in the transaction currency.
 
-For more information, see [Set up collections](set-up-collections.md), [About default entries for write-off transactions](about-default-entries-for-write-off-transactions.md), [Key tasks: Collections](key-tasks-collections.md), and [Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\)).
+For more information, see [Set up collections](set-up-collections.md), [About default entries for write-off transactions](about-default-entries-for-write-off-transactions.md), [Key tasks: Collections](key-tasks-collections.md), and [Collections (form)](https://technet.microsoft.com/library/hh209726\(v=ax.60\)).
 
 ## Process not sufficient funds (NSF) payments in one step
 
 You can process NSF payments by clicking **NSF payment** in the **Collections** form. When you click this button, the payment is canceled. If an NSF fee applies for the customer, a charges transaction is created in a payment journal. The fee amount is based on the settings for the automatic charges. The automatic charges that apply for NSF payments are specified by the charges group that is selected in the **Bank accounts** form for the affected bank account.
 
-For more information, see [Set up collections](set-up-collections.md), [Key tasks: Collections](key-tasks-collections.md), and [Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\)).
+For more information, see [Set up collections](set-up-collections.md), [Key tasks: Collections](key-tasks-collections.md), and [Collections (form)](https://technet.microsoft.com/library/hh209726\(v=ax.60\)).
 
   
 

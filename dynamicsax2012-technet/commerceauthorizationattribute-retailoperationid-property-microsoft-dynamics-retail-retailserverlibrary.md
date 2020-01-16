@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceAuthorizationAttribute.RetailOperationId Property  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: RetailOperationId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceAuthorizationAttribute.RetailOperationId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute.retailoperationid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute.retailoperationid(v=AX.60)
 ms:contentKeyID: 62201866
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

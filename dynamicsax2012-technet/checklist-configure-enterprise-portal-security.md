@@ -2,8 +2,9 @@
 title: 'Checklist: Configure Enterprise Portal security'
 TOCTitle: 'Checklist: Configure Enterprise Portal security'
 ms:assetid: fed77384-7e0c-446f-8f17-1fb3220a07c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362143(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362143(v=AX.60)
 ms:contentKeyID: 35133351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

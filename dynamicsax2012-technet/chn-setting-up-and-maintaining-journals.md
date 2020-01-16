@@ -2,8 +2,9 @@
 title: (CHN) Setting up and maintaining journals
 TOCTitle: (CHN) Setting up and maintaining journals
 ms:assetid: eb598d71-8d7a-4faa-ab3b-515ad481417f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664146(v=AX.60)
 ms:contentKeyID: 49384729
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

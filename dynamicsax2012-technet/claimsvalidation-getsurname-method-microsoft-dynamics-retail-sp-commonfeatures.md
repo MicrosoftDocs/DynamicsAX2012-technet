@@ -1,9 +1,10 @@
-﻿---
+---
 title: ClaimsValidation.GetSurname Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: GetSurname Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.ClaimsValidation.GetSurname
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.claimsvalidation.getsurname(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.claimsvalidation.getsurname(v=AX.60)
 ms:contentKeyID: 62202264
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ static String^ GetSurname()
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The surname.  
 
 ## See Also

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceActionParameterNames.CurrenciesAmount Field (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: CurrenciesAmount Field
 ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParameterNames.CurrenciesAmount
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.currenciesamount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.currenciesamount(v=AX.60)
 ms:contentKeyID: 62202641
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

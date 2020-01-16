@@ -2,8 +2,9 @@
 title: 'Commerce Data Exchange: Async Client'
 TOCTitle: 'Commerce Data Exchange: Async Client'
 ms:assetid: 2cbf6c94-b940-4b0b-888a-559fa57dbabf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741439(v=AX.60)
 ms:contentKeyID: 62219723
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (CHN) Set up negative debits and credits
 TOCTitle: (CHN) Set up negative debits and credits
 ms:assetid: 0ed59f7a-aa07-4010-8377-affb1876dc4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663993(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663993(v=AX.60)
 ms:contentKeyID: 49384579
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,13 +32,13 @@ You can view credit and debit amounts for ledger accounts in two separate column
 
 ## See also
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
-[(CHN) Daily ledger (form)](https://technet.microsoft.com/en-us/library/jj664083\(v=ax.60\))
+[(CHN) Daily ledger (form)](https://technet.microsoft.com/library/jj664083\(v=ax.60\))
 
-[(CHN) Detail ledger (form)](https://technet.microsoft.com/en-us/library/jj664044\(v=ax.60\))
+[(CHN) Detail ledger (form)](https://technet.microsoft.com/library/jj664044\(v=ax.60\))
 
-[(CHN) General ledger (form)](https://technet.microsoft.com/en-us/library/jj664084\(v=ax.60\))
+[(CHN) General ledger (form)](https://technet.microsoft.com/library/jj664084\(v=ax.60\))
 
   
 

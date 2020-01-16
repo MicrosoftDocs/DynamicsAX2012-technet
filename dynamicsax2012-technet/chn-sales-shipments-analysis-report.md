@@ -2,8 +2,9 @@
 title: (CHN) Sales shipments analysis (report)
 TOCTitle: (CHN) Sales shipments analysis (report)
 ms:assetid: 0e7a8aa4-6e52-4976-bbe2-09fcb77571b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169451(v=AX.60)
 ms:contentKeyID: 53865946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

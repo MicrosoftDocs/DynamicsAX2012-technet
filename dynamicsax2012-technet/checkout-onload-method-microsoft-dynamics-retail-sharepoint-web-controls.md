@@ -1,9 +1,10 @@
-﻿---
+---
 title: Checkout.OnLoad Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: OnLoad Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.Checkout.OnLoad(System.EventArgs)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.checkout.onload(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.checkout.onload(v=AX.60)
 ms:contentKeyID: 62206094
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual void OnLoad(
 #### Parameters
 
   - e  
-    Type: [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\))  
+    Type: [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\))  
 
 ## See Also
 

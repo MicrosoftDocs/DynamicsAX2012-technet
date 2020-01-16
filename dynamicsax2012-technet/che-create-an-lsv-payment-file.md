@@ -2,8 +2,9 @@
 title: (CHE) Create an LSV+ payment file
 TOCTitle: (CHE) Create an LSV+ payment file
 ms:assetid: f1be7bdc-6124-4964-b0e4-35c8c220db9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243278(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243278(v=AX.60)
 ms:contentKeyID: 36059956
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

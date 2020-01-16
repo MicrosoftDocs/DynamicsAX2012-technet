@@ -2,8 +2,9 @@
 title: Combine service orders
 TOCTitle: Combine service orders
 ms:assetid: 2df4f81f-fa86-435c-97be-9ab7b10482aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552570(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa552570(v=AX.60)
 ms:contentKeyID: 36056269
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

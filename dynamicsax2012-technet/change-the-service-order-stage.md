@@ -2,8 +2,9 @@
 title: Change the service order stage
 TOCTitle: Change the service order stage
 ms:assetid: 5620b397-8f41-4d9f-8ad9-b4b1e2e3cd76
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549052(v=AX.60)
 ms:contentKeyID: 42517323
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Follow these steps to move a service order to the next stage in the service work
 
 ## See also
 
-[Change service stage (form)](https://technet.microsoft.com/en-us/library/aa556458\(v=ax.60\))
+[Change service stage (form)](https://technet.microsoft.com/library/aa556458\(v=ax.60\))
 
   
 

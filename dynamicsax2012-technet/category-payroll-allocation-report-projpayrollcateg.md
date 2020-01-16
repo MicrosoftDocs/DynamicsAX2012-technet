@@ -2,8 +2,9 @@
 title: Category payroll allocation report (ProjPayrollCateg)
 TOCTitle: Category payroll allocation report (ProjPayrollCateg)
 ms:assetid: ff5d8552-2303-4f3a-9f6c-9d1d587e80d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220780(v=AX.60)
 ms:contentKeyID: 36966719
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (CHN) Summary of tentative purchase inventory (report)
 TOCTitle: (CHN) Summary of tentative purchase inventory (report)
 ms:assetid: d933b9d7-06e8-4440-a1bb-9e01af496133
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169468(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169468(v=AX.60)
 ms:contentKeyID: 53865961
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

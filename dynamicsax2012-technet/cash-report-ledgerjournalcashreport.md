@@ -2,8 +2,9 @@
 title: Cash report (LedgerJournalCashReport)
 TOCTitle: Cash report (LedgerJournalCashReport)
 ms:assetid: 3430a553-9f60-4bc5-9b5d-313d5156687c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa574718(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa574718(v=AX.60)
 ms:contentKeyID: 37831991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

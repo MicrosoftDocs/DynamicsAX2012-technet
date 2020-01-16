@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommercePropertyValue.BooleanValue Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: BooleanValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.BooleanValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.booleanvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.booleanvalue(v=AX.60)
 ms:contentKeyID: 62214484
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property Nullable<bool> BooleanValue {
 
 #### Property Value
 
-Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))\>  
-Returns [Nullable\<T\>](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\)).  
+Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))\>  
+Returns [Nullable\<T\>](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\)).  
 
 ## Remarks
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceController(TEntity, TKey).DeleteLink Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: DeleteLink Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.DeleteLink
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716809(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716809(v=AX.60)
 ms:contentKeyID: 62203822
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

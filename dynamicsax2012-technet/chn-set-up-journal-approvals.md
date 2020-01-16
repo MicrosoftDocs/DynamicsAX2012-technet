@@ -2,8 +2,9 @@
 title: (CHN) Set up journal approvals
 TOCTitle: (CHN) Set up journal approvals
 ms:assetid: 9f3832ee-18ae-4fd6-86cf-ecadf7b56e3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664090(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664090(v=AX.60)
 ms:contentKeyID: 49384674
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Journal vouchers must be approved by another user before posting. You cannot app
 
 ## See also
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
   
 

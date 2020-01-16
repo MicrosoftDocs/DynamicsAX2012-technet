@@ -2,8 +2,9 @@
 title: (CHE) Swiss LSV+ electronic payment format
 TOCTitle: (CHE) Swiss LSV+ electronic payment format
 ms:assetid: 6e976eb2-9b75-4d87-a7c3-567f7a614af0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231810(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231810(v=AX.60)
 ms:contentKeyID: 36058037
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
