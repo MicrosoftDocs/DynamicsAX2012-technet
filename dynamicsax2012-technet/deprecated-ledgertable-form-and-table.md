@@ -37,7 +37,7 @@ In Microsoft Dynamics AX 2009 and earlier versions, the LedgerTable form and tab
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature is no longer available and has been replaced with a new financial dimension framework.</p>
-<p>For more information, see <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_account_and_financial_dimensions_framework_ax2012.pdf">Implementing the Account and Financial Dimensions Framework</a> and the <a href="what-s-new-financial-dimensions-framework.md">What's new: Financial dimensions framework</a> topic.</p></td>
+<p>For more information, see <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_account_and_financial_dimensions_framework_ax2012.pdf">Implementing the Account and Financial Dimensions Framework</a> and the <a href="what-s-new-financial-dimensions-framework.md">What's new: Financial dimensions framework</a> topic.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

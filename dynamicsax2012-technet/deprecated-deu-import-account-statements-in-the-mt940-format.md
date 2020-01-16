@@ -40,7 +40,7 @@ In AX 2012 R2, you can use the bank statement and reconciliation feature to impo
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The local feature has been removed from AX 2012 R3, and the functionality that it provides is now supported by the bank statement and reconciliation feature in AX 2012 R2 and AX 2012 R3.</p>
-<p>For more information, see <a href="reconcile-a-bank-account.md">Reconcile a bank account</a>, <a href="set-up-advanced-bank-reconciliation-import.md">Set up advanced bank reconciliation import</a>, <a href="import-and-reconcile-using-advance-bank-reconciliation.md">Import and reconcile using advance bank reconciliation</a>, and <a href="http://www.microsoft.com/en-us/download/details.aspx?id=39090">Microsoft Dynamics AX 2012 R2 White Paper: Advanced Bank Reconciliation – Processing and Troubleshooting</a>.</p></td>
+<p>For more information, see <a href="reconcile-a-bank-account.md">Reconcile a bank account</a>, <a href="set-up-advanced-bank-reconciliation-import.md">Set up advanced bank reconciliation import</a>, <a href="import-and-reconcile-using-advance-bank-reconciliation.md">Import and reconcile using advance bank reconciliation</a>, and <a href="https://www.microsoft.com/en-us/download/details.aspx?id=39090">Microsoft Dynamics AX 2012 R2 White Paper: Advanced Bank Reconciliation – Processing and Troubleshooting</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

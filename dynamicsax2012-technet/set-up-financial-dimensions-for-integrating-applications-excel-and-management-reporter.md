@@ -69,7 +69,7 @@ To set up financial dimension attributes for Office Add-ins, follow these steps:
 
 ## 2\. Set up financial dimension attributes for Management Reporter
 
-Use this procedure to specify the order in which financial dimensions are displayed in Management Reporter. For more information about Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/?linkid=324762).
+Use this procedure to specify the order in which financial dimensions are displayed in Management Reporter. For more information about Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](https://go.microsoft.com/fwlink/?linkid=324762).
 
 To set up financial dimension attributes for Management Reporter, follow these steps:
 

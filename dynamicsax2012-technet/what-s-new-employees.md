@@ -175,7 +175,7 @@ This feature has changed considerably since AX 2009. AX 2012 includes changes to
 
 ## More information
 
-For more information about employees and the Human Resources Framework, see the white paper [Implementing and Updating the Human Resources Framework for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213128%26clcid=0x409).
+For more information about employees and the Human Resources Framework, see the white paper [Implementing and Updating the Human Resources Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213128%26clcid=0x409).
 
   
 

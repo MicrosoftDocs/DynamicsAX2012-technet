@@ -35,7 +35,7 @@ Cost accounting is used to measure and report financial information that is rela
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 
 <p><a href="cost-accounting.md">Microsoft Dynamics AX 2012 R3 Cost Accounting Help</a> (article)</p>
-<p><a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2014/05/23/new-costing-features-in-dynamics-ax-2012-r3.aspx">Microsoft Dynamics AX 2012 R3 Supply Chain</a> (blog)</p>
+<p><a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2014/05/23/new-costing-features-in-dynamics-ax-2012-r3.aspx">Microsoft Dynamics AX 2012 R3 Supply Chain</a> (blog)</p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=1041">Microsoft Dynamics AX 2009 White Paper: Cost Management</a> (white paper)</p>
 <p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=30128">Microsoft Dynamics AX 2009 White Paper: BOM Calculations Using Costing Sheet</a> (white paper)</p>
 <p><a href="http://www.microsoft.com/en-us/download/confirmation.aspx?id=4306">Microsoft Dynamics AX 2009 White Paper: Standard Cost Conversion Guide</a> (white paper)</p></td>

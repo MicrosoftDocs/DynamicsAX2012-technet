@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Eastern Europe. To learn more, refer to the tables that apply to your version of the product.
 
-For more information about specific features for Eastern Europe, see [TechNet Library for Application Users – Eastern Europe](http://go.microsoft.com/fwlink/?linkid=299909).
+For more information about specific features for Eastern Europe, see [TechNet Library for Application Users – Eastern Europe](https://go.microsoft.com/fwlink/?linkid=299909).
 
 ## What’s new in cumulative update 8 for Microsoft Dynamics AX 2012 R3
 

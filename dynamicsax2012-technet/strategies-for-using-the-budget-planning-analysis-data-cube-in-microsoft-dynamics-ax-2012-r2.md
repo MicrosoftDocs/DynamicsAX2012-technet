@@ -21,7 +21,7 @@ In Microsoft Dynamics AX 2012 R2, organizations can use the budget planning anal
 
 This white paper covers the budget planning analysis data cube and considerations for its use.
 
-[Download the paper.](http://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
+[Download the paper.](https://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
 
   
 

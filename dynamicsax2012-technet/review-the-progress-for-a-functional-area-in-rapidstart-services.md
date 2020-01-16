@@ -36,7 +36,7 @@ For each functional area, you can review the following information:
 
 ### Review the status of functional areas on the Projects page
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 
@@ -54,7 +54,7 @@ For each functional area, you can review the following information:
 
 ### Review the status of functional areas on the Functional area progress page
 
-1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](http://go.microsoft.com/fwlink/p/?linkid=141031).
+1.  In your browser, open online services for Microsoft Dynamics ERP at [http://www.dynamicsonline.com](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 2.  Click **For Customers**, and then click **Sign in**.
 

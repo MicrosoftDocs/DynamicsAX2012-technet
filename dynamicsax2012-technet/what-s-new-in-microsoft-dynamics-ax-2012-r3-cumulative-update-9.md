@@ -62,7 +62,7 @@ The following table outlines the features that were added in Microsoft Dynamics 
 <p></p>
 <p>You can manually pack transfer orders from the packing station. This is particularly useful in retail environments if you want to pack cartons that will refill retail stores from a distribution center.</p>
 <p></p>
-<p>Two new locations directive action strategies are now supported for the work order type Inventory movement: Consolidate and Empty location with no incoming work. For more information, see <a href="create-a-location-directive.md">Create a location directive</a>, and <a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2015/01/30/put-away-strategies-for-purchase-orders-possibilities-performance-and-improvements-in-cu8.aspx">Dynamics AX SCM R&amp;D Team blog</a>.</p>
+<p>Two new locations directive action strategies are now supported for the work order type Inventory movement: Consolidate and Empty location with no incoming work. For more information, see <a href="create-a-location-directive.md">Create a location directive</a>, and <a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2015/01/30/put-away-strategies-for-purchase-orders-possibilities-performance-and-improvements-in-cu8.aspx">Dynamics AX SCM R&amp;D Team blog</a>.</p>
 <p></p>
 <p>You can now report as finished on a mobile device in overproduction scenarios. For more information, see <a href="set-up-production-processes-in-a-warehouse.md">Set up production processes in a warehouse</a>.</p>
 <p></p>

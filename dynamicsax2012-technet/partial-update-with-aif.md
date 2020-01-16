@@ -107,18 +107,18 @@ The following table lists the specific actions that can be performed by using th
 The following example creates a message to update a sales order with three sales lines: one to be updated, one to be created, and one to be deleted.
 
     <?xml version="1.0" encoding="utf-8" ?> 
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/
         01/documents/Message">
         <Header>
             <Action>http://www.microsoft.com/dynamics/services/2008/
                 01/SalesOrderService/update</Action>
         </Header>
         <Body>
-            <MessageParts xmlns = "http://schemas.microsoft.com/dynamics/2008/01/documents/Message">
+            <MessageParts xmlns = "https://schemas.microsoft.com/dynamics/2008/01/documents/Message">
      
-            <EntityKeyList xmlns="http://schemas.microsoft.com/dynamics/
+            <EntityKeyList xmlns="https://schemas.microsoft.com/dynamics/
                 2006/02/documents/EntityKeyList">
-                <EntityKey xmlns="http://schemas.microsoft.com/dynamics/
+                <EntityKey xmlns="https://schemas.microsoft.com/dynamics/
                     2006/02/documents/EntityKey">
                     <KeyData>
                         <KeyField>
@@ -129,7 +129,7 @@ The following example creates a message to update a sales order with three sales
                 </EntityKey>
       </EntityKeyList>
      
-          <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/
+          <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/
               2008/01/documents/SalesOrder">
               <SalesTable class="entity" action="update">
                  <CustAccount>10002</CustAccount>
@@ -181,18 +181,18 @@ To clear the surrogate foreign key fields when you perform a partial update, you
 The following example shows XML that clears the surrogate foreign key values for a Sales Order that has a CustAccount of 10002.
 
     <?xml version="1.0" encoding="utf-8" ?> 
-    <Envelope xmlns="<a href='http://schemas.microsoft.com/dynamics/2011/'>http://schemas.microsoft.com/dynamics/2011/</a>
+    <Envelope xmlns="<a href='https://schemas.microsoft.com/dynamics/2011/'>https://schemas.microsoft.com/dynamics/2011/</a>
     01/documents/Message">
     <Header>
     <Action><a href='http://www.microsoft.com/dynamics/services/2008/'>http://www.microsoft.com/dynamics/services/2008/</a>
     01/SalesOrderService/update</Action>
     </Header>
     <Body>
-    <MessageParts xmlns = "<a href='http://schemas.microsoft.com/dynamics/2008/01/documents/Message'>http://schemas.microsoft.com/dynamics/2008/01/documents/Message</a>">
+    <MessageParts xmlns = "<a href='https://schemas.microsoft.com/dynamics/2008/01/documents/Message'>https://schemas.microsoft.com/dynamics/2008/01/documents/Message</a>">
      
-    <EntityKeyList xmlns="<a href='http://schemas.microsoft.com/dynamics/'>http://schemas.microsoft.com/dynamics/</a>
+    <EntityKeyList xmlns="<a href='https://schemas.microsoft.com/dynamics/'>https://schemas.microsoft.com/dynamics/</a>
     2006/02/documents/EntityKeyList">
-    <EntityKey xmlns="<a href='http://schemas.microsoft.com/dynamics/'>http://schemas.microsoft.com/dynamics/</a>
+    <EntityKey xmlns="<a href='https://schemas.microsoft.com/dynamics/'>https://schemas.microsoft.com/dynamics/</a>
     2006/02/documents/EntityKey">
     <KeyData>
     <KeyField>
@@ -203,7 +203,7 @@ The following example shows XML that clears the surrogate foreign key values for
     </EntityKey>
     </EntityKeyList>
      
-    <SalesOrder xmlns="<a href='http://schemas.microsoft.com/dynamics/'>http://schemas.microsoft.com/dynamics/</a>
+    <SalesOrder xmlns="<a href='https://schemas.microsoft.com/dynamics/'>https://schemas.microsoft.com/dynamics/</a>
     2008/01/documents/SalesOrder">
     <ClearNilFieldsOnUpdate>true</ClearNilFieldsOnUpdate>
     <SalesTable class="entity" action="update">

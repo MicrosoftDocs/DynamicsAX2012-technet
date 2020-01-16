@@ -28,7 +28,7 @@ In November 2014, in an effort to streamline the number of sites that partners a
     
     [Go to Lifecycle Services](https://lcs.dynamics.com)
 
-  - The content has moved to CustomerSource. Start [here](http://go.microsoft.com/fwlink/?linkid=518079) to find conference content, whitepapers, datasheets, and how-to videos.
+  - The content has moved to CustomerSource. Start [here](https://go.microsoft.com/fwlink/?linkid=518079) to find conference content, whitepapers, datasheets, and how-to videos.
     
     All content on CustomerSource is now indexed by Bing and other external search engines, so you can find content just by searching. You will still be required to log in to access the content.
 

@@ -24,21 +24,21 @@ The following inbound delete message specifies that one record is deleted from t
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/
+<Envelope xmlns = "https://schemas.microsoft.com/
   dynamics/2008/01/documents/Message">
  <Header>
   <MessageId>{DD112222-0306-1220-0001-DD33444455DD}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/
+  <Action>https://schemas.microsoft.com/dynamics/
     2011/01/services/SalesOrderService/delete</Action>
  </Header>
 
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/
+  <MessageParts xmlns = "https://schemas.microsoft.com/
     dynamics/2008/01/documents/Message">
-   <EntityKeyList xmlns = "http://schemas.microsoft.com/
+   <EntityKeyList xmlns = "https://schemas.microsoft.com/
      dynamics/2006/02/documents/EntityKeyList">
 
-    <EntityKey xmlns = "http://schemas.microsoft.com/
+    <EntityKey xmlns = "https://schemas.microsoft.com/
       dynamics/2006/02/documents/EntityKey">
      <KeyData>
       <KeyField>
@@ -66,14 +66,14 @@ The outbound delete message has an almost empty \<Body\> section. The following 
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+<Envelope xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
  <Header>
   <MessageId>{513ACDF8-8BB9-41E2-8B26-48D8A0458C5B}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/delete</Action>
+  <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/delete</Action>
   <RequestMessageId>{DD112222-0306-1220-0001-DD33444455DD}</RequestMessageId>
  </Header>
  <Body>
-  <MessageParts xmlns = "http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+  <MessageParts xmlns = "https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
   </MessageParts>
  </Body>
 </Envelope>

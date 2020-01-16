@@ -18,7 +18,7 @@ When you upgrade from a Microsoft Dynamics AX 2009 system that has a GLS-EE/RU l
 
 
 > [!NOTE]
-> <P>Customization of the Name EDT for Russian and Eastern European localizations was provided as part of Microsoft Dynamics AX 2009 SP1. For more information about this service pack, see <A href="http://go.microsoft.com/fwlink/?linkid=257861">Service Pack 1 for Microsoft Dynamics AX 2009</A> on CustomerSource. Logon is required.</P>
+> <P>Customization of the Name EDT for Russian and Eastern European localizations was provided as part of Microsoft Dynamics AX 2009 SP1. For more information about this service pack, see <A href="https://go.microsoft.com/fwlink/?linkid=257861">Service Pack 1 for Microsoft Dynamics AX 2009</A> on CustomerSource. Logon is required.</P>
 
 
 

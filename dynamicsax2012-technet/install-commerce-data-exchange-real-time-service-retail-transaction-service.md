@@ -421,9 +421,9 @@ A sample Windows PowerShell script is provided to help you deploy the WCF servic
 
 For more information about how to configure, test, and troubleshoot the installation of Real-time Service, see the following posts on the AX Support Blog:
 
-  - [AX for Retail 2012 R2: Installing the Real-time Service](http://blogs.msdn.com/b/axsupport/archive/2012/12/18/ax-for-retail-2012-r2-installing-the-real-time-service.aspx)
+  - [AX for Retail 2012 R2: Installing the Real-time Service](https://blogs.msdn.com/b/axsupport/archive/2012/12/18/ax-for-retail-2012-r2-installing-the-real-time-service.aspx)
 
-  - [AX for Retail 2012 R2: Troubleshooting the Real-time Service](http://blogs.msdn.com/b/axsupport/archive/2012/12/31/ax-for-retail-2012-r2-troubleshooting-the-real-time-service.aspx)
+  - [AX for Retail 2012 R2: Troubleshooting the Real-time Service](https://blogs.msdn.com/b/axsupport/archive/2012/12/31/ax-for-retail-2012-r2-troubleshooting-the-real-time-service.aspx)
 
 ## After you install and deploy Real-time Service
 

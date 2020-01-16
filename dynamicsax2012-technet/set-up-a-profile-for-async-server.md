@@ -19,7 +19,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A profile for Async Server specifies how frequently Async Client checks for data packages to download and creates data packages to upload. You must configure data download and upload intervals for each instance of Async Client in the environment.
 
-Async Client is part of Commerce Data Exchange, the asynchronous system that shares data between the Microsoft Dynamics AX database and retail channel databases. Async Client is installed for each channel, and communicates with the channel database. Commerce Data Exchange also includes Async Server, which is installed at headquarters and communicates with the Microsoft Dynamics AX database. For more information about Commerce Data Exchange, see the [Commerce Data Exchange documentation](http://go.microsoft.com/fwlink/?linkid=391057) on TechNet.
+Async Client is part of Commerce Data Exchange, the asynchronous system that shares data between the Microsoft Dynamics AX database and retail channel databases. Async Client is installed for each channel, and communicates with the channel database. Commerce Data Exchange also includes Async Server, which is installed at headquarters and communicates with the Microsoft Dynamics AX database. For more information about Commerce Data Exchange, see the [Commerce Data Exchange documentation](https://go.microsoft.com/fwlink/?linkid=391057) on TechNet.
 
 
 > [!NOTE]

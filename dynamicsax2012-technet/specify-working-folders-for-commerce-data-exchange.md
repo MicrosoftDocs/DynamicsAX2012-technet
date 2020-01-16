@@ -27,7 +27,7 @@ Use the **Working folders** form to set up the working folders for Commerce Data
 
 
 
-For more information about Commerce Data Exchange, see the [Commerce Data Exchange documentation](http://go.microsoft.com/fwlink/?linkid=391057) on TechNet.
+For more information about Commerce Data Exchange, see the [Commerce Data Exchange documentation](https://go.microsoft.com/fwlink/?linkid=391057) on TechNet.
 
 1.  Create the shared folders where data packages will be stored. We recommend that you create a folder for data uploads and a folder for data downloads. The service accounts for AOS and Async Server must have permission to read and update these folders.
 

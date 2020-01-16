@@ -24,9 +24,9 @@ dev_langs:
 
 ``` vb
 'Declaration
-<OperationContractAttribute(Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages",  _
-    ReplyAction := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")> _
-<FaultContractAttribute(GetType(TrackedFault), Action := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
+<OperationContractAttribute(Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages",  _
+    ReplyAction := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")> _
+<FaultContractAttribute(GetType(TrackedFault), Action := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault",  _
     Name := "TrackedFault")> _
 Sub UploadMessages ( _
     requestInfo As RequestInfo, _
@@ -42,9 +42,9 @@ instance.UploadMessages(requestInfo, _
 ```
 
 ``` csharp
-[OperationContractAttribute(Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages", 
-    ReplyAction = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")]
-[FaultContractAttribute(typeof(TrackedFault), Action = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[OperationContractAttribute(Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages", 
+    ReplyAction = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")]
+[FaultContractAttribute(typeof(TrackedFault), Action = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = "TrackedFault")]
 void UploadMessages(
     RequestInfo requestInfo,
@@ -53,9 +53,9 @@ void UploadMessages(
 ```
 
 ``` c++
-[OperationContractAttribute(Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages", 
-    ReplyAction = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")]
-[FaultContractAttribute(typeof(TrackedFault), Action = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
+[OperationContractAttribute(Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessages", 
+    ReplyAction = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/IStoreConnectMonitoring/UploadMessagesResponse")]
+[FaultContractAttribute(typeof(TrackedFault), Action = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService/ITransactionService/TrackedFault", 
     Name = L"TrackedFault")]
 void UploadMessages(
     RequestInfo^ requestInfo, 

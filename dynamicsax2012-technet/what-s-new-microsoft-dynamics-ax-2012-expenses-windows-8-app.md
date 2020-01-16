@@ -96,7 +96,7 @@ Microsoft released the Windows 8 Expenses App. This app is compatible only with 
 
 ## Downloads
 
-This app is available in the [Windows App Store](http://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-expenses/07aab6f9-c6ce-4b81-b04c-4b43c3f6de67).
+This app is available in the [Windows App Store](https://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-expenses/07aab6f9-c6ce-4b81-b04c-4b43c3f6de67).
 
   
 

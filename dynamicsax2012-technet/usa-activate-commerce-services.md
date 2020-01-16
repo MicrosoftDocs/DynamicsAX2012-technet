@@ -22,7 +22,7 @@ After you upgrade to Microsoft Dynamics AX 2012 Feature Pack, activate your acco
 > [!IMPORTANT]
 > <UL>
 > <LI>
-> <P>To enable Microsoft Dynamics AX and Commerce Services to synchronize data, you must turn on change tracking for your database. For more information, see <A href="http://msdn.microsoft.com/en-us/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
+> <P>To enable Microsoft Dynamics AX and Commerce Services to synchronize data, you must turn on change tracking for your database. For more information, see <A href="https://msdn.microsoft.com/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
 > <LI>
 > <P>The instance of Application Object Server (AOS) for Microsoft Dynamics AX must use credentials that have access to the Internet.</P></LI></UL>
 

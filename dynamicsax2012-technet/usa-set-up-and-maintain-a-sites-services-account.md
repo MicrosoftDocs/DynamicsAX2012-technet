@@ -24,7 +24,7 @@ After you sign up and configure your account, you can use the solutions that are
 > [!IMPORTANT]
 > <UL>
 > <LI>
-> <P>To allow Microsoft Dynamics AX and Sites Services to synchronize data, you must enable change tracking for your database. For more information, see <A href="http://msdn.microsoft.com/en-us/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
+> <P>To allow Microsoft Dynamics AX and Sites Services to synchronize data, you must enable change tracking for your database. For more information, see <A href="https://msdn.microsoft.com/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
 > <P>When enabling change tracking, the retention period must be at least 2 days.</P>
 > <LI>
 > <P>The Microsoft Dynamics AX Application Object Server (AOS) must be run with credentials that have access to the Internet.</P></LI></UL>

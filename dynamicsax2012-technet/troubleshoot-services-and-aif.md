@@ -27,7 +27,7 @@ When you expose a service by using the NetTcp adapter, you can consume the servi
       </uri>
     </configuration>
 
-For more information, see [\<idn\> Element (Uri Settings)](http://go.microsoft.com/fwlink/?linkid=394968%26clcid=0x409).
+For more information, see [\<idn\> Element (Uri Settings)](https://go.microsoft.com/fwlink/?linkid=394968%26clcid=0x409).
 
 ## Warning message: An error occurred while creating AifWebsites entry –or– Error message: Cannot create a record in Web sites (AifWebsites)
 
@@ -41,7 +41,7 @@ You might encounter this error message when you change the Application Object Se
 
 If you make any changes to a service in a service group, you must redeploy the entire group. If you do not redeploy the service group, you may see messages resembling the following when you call the service:
 
-System.ServiceModel.ActionNotSupportedException: The message with Action 'http://schemas.microsoft.com/dynamics/2011/01/services/TSTimesheet/getLabelTranslations' cannot be processed at the receiver, due to a ContractFilter mismatch at the EndpointDispatcher. This may be because of either a contract mismatch (mismatched Actions between sender and receiver) or a binding/security mismatch between the sender and the receiver.  Check that sender and receiver have the same contract and the same binding (including security requirements, e.g. Message, Transport, None).
+System.ServiceModel.ActionNotSupportedException: The message with Action 'https://schemas.microsoft.com/dynamics/2011/01/services/TSTimesheet/getLabelTranslations' cannot be processed at the receiver, due to a ContractFilter mismatch at the EndpointDispatcher. This may be because of either a contract mismatch (mismatched Actions between sender and receiver) or a binding/security mismatch between the sender and the receiver.  Check that sender and receiver have the same contract and the same binding (including security requirements, e.g. Message, Transport, None).
 
 To redeploy a service group, right-click the name of the service group in the **Service Groups** node of the AOT and then click **Deploy Service Group**.
 
@@ -81,7 +81,7 @@ For synchronous messages, use pipelines for preprocessing and post-processing of
 
 ## Document filters do not work
 
-Document filters are applied only to documents that have been configured for change tracking. Change tracking must be enabled for the database tables that the document service uses. For more information about how to enable change tracking, see [Configuring and Managing Change Tracking](http://go.microsoft.com/fwlink/?linkid=227482).
+Document filters are applied only to documents that have been configured for change tracking. Change tracking must be enabled for the database tables that the document service uses. For more information about how to enable change tracking, see [Configuring and Managing Change Tracking](https://go.microsoft.com/fwlink/?linkid=227482).
 
 ## Document versions are not logged
 
@@ -123,7 +123,7 @@ To avoid this situation, always host service operations for custom services and 
 
 When you create tables that will be used in data exchanges, make sure that you use unique names for all fields and data sources. Otherwise, schema generation may fail. For example, if you create tables in a parent/child relationship, and a field in the parent table has the same name as a data source in the child table, schema generation fails, and you receive the following message in the Infolog:
 
-XSD schema contains errors. Multiple definition of element 'http://schemas.microsoft.com/dynamics/2008/01/documents/Query1Document:SubEntity2' causes the content model to become ambiguous. A content model must be formed such that during validation of an element information item sequence, the particle contained directly, indirectly or implicitly therein with which to attempt to validate each item in the sequence in turn can be uniquely determined without examining the content or attributes of that item, and without any information about the items in the remainder of the sequence.
+XSD schema contains errors. Multiple definition of element 'https://schemas.microsoft.com/dynamics/2008/01/documents/Query1Document:SubEntity2' causes the content model to become ambiguous. A content model must be formed such that during validation of an element information item sequence, the particle contained directly, indirectly or implicitly therein with which to attempt to validate each item in the sequence in turn can be uniquely determined without examining the content or attributes of that item, and without any information about the items in the remainder of the sequence.
 
 ## HTTP is supported only for Internet Information Services
 

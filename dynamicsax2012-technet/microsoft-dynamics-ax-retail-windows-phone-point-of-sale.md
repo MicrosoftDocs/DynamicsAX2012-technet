@@ -108,9 +108,9 @@ In the Retail SDK, open **POS Clients** \> **WP8** \> **POS.sln**.
 4.  Uncomment the code in lines 15, 17-21, and 27-33. Move the reference in line 15 after line 8. The result should look like this:
     
         <UserControl x:Class="Microsoft.Dynamics.Retail.Pos.View.ReportChartControl"
-            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns="https://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="https://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="https://schemas.microsoft.com/expression/blend/2008"
             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
             xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
             xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"  
@@ -154,8 +154,8 @@ In the Retail SDK, open **POS Clients** \> **WP8** \> **POS.sln**.
 8.  Uncomment lines 16-18 and move them after line 13. The result should look like the following snippet:
     
         <ResourceDictionary
-            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns="https://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="https://schemas.microsoft.com/winfx/2006/xaml"
             xmlns:res="clr-namespace:Microsoft.Dynamics.Retail.Pos.View.Resources"
             xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
             xmlns:datavis="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"

@@ -31,7 +31,7 @@ Microsoft Dynamics AX 2012 includes Accounts receivable features that help you t
 <p>Integration with Accounts receivable</p></td>
 <td><img src="images/Dn800886.TopicIcons_RelatedResources(AX.60).png" title="Related resources" alt="Related resources" />
 <p><a href="https://lcs.dynamics.com/home/homeindex">Lifecycle Services*</a>(cloud-based workspace)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Microsoft Dynamics AX 2012</a>(download)</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Microsoft Dynamics AX 2012</a>(download)</p>
 <p><a href="https://mbs.microsoft.com/partnersource/northamerica/deployment/documentation/white-papers/ax2012_businessprocessdiagramtemplates">Business Process Diagram Templates for Microsoft Dynamics AX 2012 R2</a>(download)</p>
 <p><a href="https://community.dynamics.com/ax/b/axresources/archive/2012/07/12/resource-page-for-financials-management-in-microsoft-dynamics-ax-2012.aspx">Resource Page for Financials Management in Microsoft Dynamics AX 2012</a>(blog)</p>
 <p>* In order to use Lifecycle Services, you must have a CustomerSource or PartnerSource account, and have created a project. For more information, see the <a href="lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md">Lifecycle Service User Guide</a></p></td>

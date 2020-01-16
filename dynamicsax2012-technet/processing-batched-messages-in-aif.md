@@ -20,7 +20,7 @@ Microsoft Dynamics AX document services and Application Integration Framework (A
 
 Batched messages use the batch schema. This XML schema provides the \<Batch\> element, which can contain one or more \<Envelope\> elements. Each \<Envelope\> element contains a single AIF message. Each single AIF message in the batch must be smaller than 10 MB.
 
-The namespace of the batch schema is http://schemas.microsoft.com/Microsoft Dynamics/2009/06/documents/Batch. You can retrieve the Extensible Stylesheet Definition (XSD) file for the batch schema from the following location where you installed Microsoft Dynamics AX:
+The namespace of the batch schema is https://schemas.microsoft.com/Microsoft Dynamics/2009/06/documents/Batch. You can retrieve the Extensible Stylesheet Definition (XSD) file for the batch schema from the following location where you installed Microsoft Dynamics AX:
 
 Program files\\Microsoft Dynamics AX\\60\\Server\\MicrosoftDynamicsAX\\bin\\Application\\Share\\Include\\MessageSet.xsd
 
@@ -55,16 +55,16 @@ The \<Batch\> element optionally contains the two attributes that are described 
 The following example shows a single batched message that contains two requests to create sales orders.
 
     <?xml version="1.0" encoding="UTF-8"?>
-    <Batch xmlns="http://schemas.microsoft.com/dynamics/2009/06/documents/Batch"
+    <Batch xmlns="https://schemas.microsoft.com/dynamics/2009/06/documents/Batch"
         BatchId="1234" ConversationId="5678">
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
       <Header>
         <MessageId>{722B196B-4ACB-4048-8ED3-36915A7DD269}</MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+        <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
       </Header>
       <Body>
         <MessageParts>
-          <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
+          <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
             <SalesTable class="entity">
               <CustAccount>100002</CustAccount>
               <PurchOrderFormNum>P0</PurchOrderFormNum>
@@ -79,14 +79,14 @@ The following example shows a single batched message that contains two requests 
         </MessageParts>
       </Body>
     </Envelope>
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
       <Header>
         <MessageId>{44920385-3194-498F-8AC7-438F3632DF51}</MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+        <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
       </Header>
       <Body>
         <MessageParts>
-          <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
+          <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
             <SalesTable class="entity">
               <CustAccount>100002</CustAccount>
               <PurchOrderFormNum>P0</PurchOrderFormNum>
@@ -108,16 +108,16 @@ The following example shows a single batched message that contains two requests 
 After a batched message is received, Microsoft Dynamics AX splits the document into its component requests, and then processes each request separately. If the integration port is configured to send responses, each component request receives a separate, corresponding response message. Each response message contains a \<RequestMessageId\> element. This element contains the GUID from the corresponding \<MessageId\> element in the header of the original request. The following example shows one response message that corresponds to the second request in the batched message shown in the previous section. In this example, you can see that the \<MessageId\> element contains a new GUID value, but the \<RequestMessageId\> element contains the same value as the message ID in the request.
 
     <?xml version="1.0" encoding="UTF-8"?>
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
       <Header>
         <MessageId>{B165292C-BF8B-43A4-9788-21D1B0AED185}</MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+        <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
         <RequestMessageId>{44920385-3194-498F-8AC7-438F3632DF51}</RequestMessageId>
       </Header>
       <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-          <EntityKeyList xmlns="http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
-            <EntityKey xmlns="http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+          <EntityKeyList xmlns="https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
+            <EntityKey xmlns="https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
               <KeyData>
                 <KeyField>
                   <Field>SalesId</Field>

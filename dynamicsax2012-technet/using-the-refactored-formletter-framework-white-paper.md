@@ -18,7 +18,7 @@ The formletter framework in Microsoft Dynamics AX is used when posting documents
 
 This paper describes the changes to the framework and how to update your customizations to take advantage of them.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=218315).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=218315).
 
   
 

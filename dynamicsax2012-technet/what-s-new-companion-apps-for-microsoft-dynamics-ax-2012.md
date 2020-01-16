@@ -40,9 +40,9 @@ These companion apps are available for Microsoft Dynamics AX 2012 R3 or cumulati
 
 ## See also
 
-[Configure the Microsoft Dynamics AX environment for companion apps](http://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409)
+[Configure the Microsoft Dynamics AX environment for companion apps](https://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409)
 
-[Dynamics AX Companion Apps blog](http://blogs.msdn.com/b/axcompapp/)
+[Dynamics AX Companion Apps blog](https://blogs.msdn.com/b/axcompapp/)
 
   
 

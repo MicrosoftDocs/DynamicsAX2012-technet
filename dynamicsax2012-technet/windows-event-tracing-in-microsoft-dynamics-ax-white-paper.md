@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper describes how to use the infrastructure for the Microsoft Windows event tracing framework in Microsoft Dynamics AX.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=228594).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=228594).
 
   
 

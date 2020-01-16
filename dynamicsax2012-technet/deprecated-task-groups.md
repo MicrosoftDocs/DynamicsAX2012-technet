@@ -37,7 +37,7 @@ In Microsoft Dynamics AX 2009, task groups are used to specify alternative work 
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. Task groups have been replaced by the more versatile concept of capabilities, which can be used to specify resource requirements for operations. Therefore, the scheduling engine can choose between alternative resources that can perform similar tasks.</p>
-<p>For more information, see the <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_operations_resource_model_ax2012.pdf">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a> white paper and the <a href="set-up-operations-for-production.md">Set up operations for production</a> topic.</p></td>
+<p>For more information, see the <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_operations_resource_model_ax2012.pdf">Implementing the Operations Resource Model for Microsoft Dynamics AX 2012 applications</a> white paper and the <a href="set-up-operations-for-production.md">Set up operations for production</a> topic.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

@@ -16,11 +16,11 @@ This topic includes a roadmap of information that is available for implementers 
 
 ![Reference](images/JJ710380.TopicIcons_Reference(AX.60).png "Reference")
 
-  - [Dynamics AX Companion Apps](http://blogs.msdn.com/b/axcompapp/) (blog)
+  - [Dynamics AX Companion Apps](https://blogs.msdn.com/b/axcompapp/) (blog)
 
-  - [Configure the Microsoft Dynamics AX environment for companion apps](http://www.microsoft.com/en-pk/download/details.aspx?id=36776) (white paper)
+  - [Configure the Microsoft Dynamics AX environment for companion apps](https://www.microsoft.com/en-pk/download/details.aspx?id=36776) (white paper)
 
-  - [Developing Mobile Apps](http://www.microsoft.com/en-us/download/details.aspx?id=38413) (White paper)
+  - [Developing Mobile Apps](https://www.microsoft.com/en-us/download/details.aspx?id=38413) (White paper)
 
   - [What's new: Companion apps for Microsoft Dynamics AX 2012 R2](what-s-new-companion-apps-for-microsoft-dynamics-ax-2012.md) (article)
 
@@ -56,15 +56,15 @@ The following apps can be used with Microsoft Dynamics AX. Click on a link to le
 <td><p>Use this app to view and interact with reports, charts, or KPIs for AX 2012 R2.  Choose from a set of default reports based on a specific role or personalize the application with the reports that are most important to you.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-approvals/50dc0fad-729f-41ce-8e26-c48e3007f067">Dynamics AX 2012 Approvals</a></p></td>
+<td><p><a href="https://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-approvals/50dc0fad-729f-41ce-8e26-c48e3007f067">Dynamics AX 2012 Approvals</a></p></td>
 <td><p>Use this app to manage AX 2012 R2 approvals. Approval types include expense reports and timesheets.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://apps.microsoft.com/windows/en-us/app/2ac31b2e-f3fa-4f1c-bfb9-151393749246">Dynamics AX 2012 Timesheets</a></p></td>
+<td><p><a href="https://apps.microsoft.com/windows/en-us/app/2ac31b2e-f3fa-4f1c-bfb9-151393749246">Dynamics AX 2012 Timesheets</a></p></td>
 <td><p>Use this app to create and manage AX 2012 R2 timesheets.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://apps.microsoft.com/windows/en-us/app/07aab6f9-c6ce-4b81-b04c-4b43c3f6de67">Dynamics AX 2012 Expenses</a></p></td>
+<td><p><a href="https://apps.microsoft.com/windows/en-us/app/07aab6f9-c6ce-4b81-b04c-4b43c3f6de67">Dynamics AX 2012 Expenses</a></p></td>
 <td><p>Use this app to create and manage AX 2012 R2 expense reports.</p></td>
 </tr>
 <tr class="even">

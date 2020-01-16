@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides information about the changes to the number sequence framework and describes how to set up and customize the number sequence framework for specific scenarios.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213124).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213124).
 
   
 

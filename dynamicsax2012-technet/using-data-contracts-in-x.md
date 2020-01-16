@@ -26,7 +26,7 @@ X++ provides support for data contract serialization through the following attri
 
   - DataMemberAttribute – This attribute is applied to a parm method on an X++ data contract class and specifies that the data member should be serialized. The attribute can be applied to public and instance methods, as long as the method uses a get/set pattern that contains one optional parameter. The data type of the return type and the parameter should be the same. For example, \[DataMemberAttribute\] Int parmXX(int \_x = x)
 
-The X++ data contract attributes function just as the data contract attributes for .NET types. For more information, see [Using Data Contracts](http://go.microsoft.com/fwlink/?linkid=139795).
+The X++ data contract attributes function just as the data contract attributes for .NET types. For more information, see [Using Data Contracts](https://go.microsoft.com/fwlink/?linkid=139795).
 
 The following X++ constructs can be used implicitly as data contracts and do not require markup with the data contract attributes:
 
@@ -42,7 +42,7 @@ The following X++ constructs can be used implicitly as data contracts and do not
 
 ## .NET Types
 
-Any .NET type that can be serialized by WCF can be used as a parameter or return type by a service in Microsoft Dynamics AX. By default, WCF uses the Data Contract Serializer to serialize and deserialize data. For more information about what types are supported by WCF, see [Types Supported by the Data Contract Serializer](http://go.microsoft.com/fwlink/?linkid=128325).
+Any .NET type that can be serialized by WCF can be used as a parameter or return type by a service in Microsoft Dynamics AX. By default, WCF uses the Data Contract Serializer to serialize and deserialize data. For more information about what types are supported by WCF, see [Types Supported by the Data Contract Serializer](https://go.microsoft.com/fwlink/?linkid=128325).
 
 To use .NET types as parameters or return types in X++, you must first create a .NET assembly that contains the .NET data contract classes that have been decorated with the data contract attributes. You then add this assembly as a reference in the AOT, and you can use the data contracts in X++ service operations.
 

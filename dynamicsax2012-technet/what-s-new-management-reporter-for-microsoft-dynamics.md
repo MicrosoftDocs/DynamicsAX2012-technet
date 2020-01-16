@@ -22,7 +22,7 @@ Read the documentation:
 
   - [Management Reporter Help documentation](http://technet.microsoft.com/en-us/library/dn435963.aspx)
 
-  - [Microsoft Dynamics ® Management Reporter 2012 for Microsoft Dynamics ERP® Installation and Configuration Guide](http://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mrfordynerpinstguide_enus.pdf)
+  - [Microsoft Dynamics ® Management Reporter 2012 for Microsoft Dynamics ERP® Installation and Configuration Guide](https://download.microsoft.com/download/7/8/a/78a3710a-9d72-4908-b302-cd54b5130096/mrfordynerpinstguide_enus.pdf)
 
   
 

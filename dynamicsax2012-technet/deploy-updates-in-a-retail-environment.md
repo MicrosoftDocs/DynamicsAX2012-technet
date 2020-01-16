@@ -70,7 +70,7 @@ Before you deploy updates to Retail components, you must complete the following 
 
 ## Merge any existing code changes with POS and redeploy
 
-When updates are applied to POS, they may overwrite your customized assemblies. If you have customized Retail POS, you must re-merge your code changes to services and triggers, compile, and then re-deploy the customized assemblies. For more information about how to handle customizations in an update, see the blog post [AX for Retail: Managing and Maintaining POS Customizations](http://blogs.msdn.com/b/axsupport/archive/2013/07/08/ax-for-retail-managing-and-maintaining-pos-customizations.aspx) from the Microsoft Dynamics AX Support team.
+When updates are applied to POS, they may overwrite your customized assemblies. If you have customized Retail POS, you must re-merge your code changes to services and triggers, compile, and then re-deploy the customized assemblies. For more information about how to handle customizations in an update, see the blog post [AX for Retail: Managing and Maintaining POS Customizations](https://blogs.msdn.com/b/axsupport/archive/2013/07/08/ax-for-retail-managing-and-maintaining-pos-customizations.aspx) from the Microsoft Dynamics AX Support team.
 
 ## Update the Retail Channel Configuration Utility (Retail Store Database Utility) on one computer
 

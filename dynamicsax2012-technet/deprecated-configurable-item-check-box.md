@@ -37,7 +37,7 @@ In Microsoft Dynamics AX 2009, a check box controls whether an item can be confi
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature has been removed, and a replacement feature is available. As part of the new product definition concept in AX 2012, the process of defining a product has been made more explicit. Users select whether a product is a simple product or a product master. If a product is a product master, the user must specify the tool or method that is used to create product variants for that master.</p>
-<p>For more information, see <a href="product-information-management.md">Product information management</a>. For more information about item-product management, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_item-product_data_management_framework_for_microsoft_dynamics_ax_2012_applications_ax2012.pdf">Implementing the Item-Product Data Management Framework</a>.</p></td>
+<p>For more information, see <a href="product-information-management.md">Product information management</a>. For more information about item-product management, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_item-product_data_management_framework_for_microsoft_dynamics_ax_2012_applications_ax2012.pdf">Implementing the Item-Product Data Management Framework</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

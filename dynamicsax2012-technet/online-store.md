@@ -392,7 +392,7 @@ The user interface for the online starter store is based on Microsoft SharePoint
 <td><ul>
 <li><p><a href="https://msdn.microsoft.com/library/jj163201.aspx">How to: Complete basic operations using JavaScript library code in SharePoint 2013</a></p></li>
 <li><p><a href="https://msdn.microsoft.com/library/jj193034.aspx">JavaScript API reference for SharePoint 2013</a></p></li>
-<li><p><a href="http://code.msdn.microsoft.com/sharepoint-2013-execute-a41c49ff">Execute basic tasks using the JavaScript object model</a></p></li>
+<li><p><a href="https://code.msdn.microsoft.com/sharepoint-2013-execute-a41c49ff">Execute basic tasks using the JavaScript object model</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">

@@ -34,7 +34,7 @@ Microsoft Dynamics AX includes default cubes that you can use in your Microsoft 
 <p>Troubleshoot</p>
 <p>View technical reference</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p><a href="http://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence (blog)</a></p>
+<p><a href="https://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence (blog)</a></p>
 <p><a href="http://www.youtube.com/user/dynamicsaxbi">Microsoft Dynamics AX BI videos channel (videos)</a></p>
 
 
@@ -84,7 +84,7 @@ The following table lists tasks you can complete to learn more about cubes and h
 <td><p><a href="analytics-architecture.md">Analytics architecture</a></p>
 <p><a href="planning-considerations-for-analytics.md">Planning considerations for analytics</a></p>
 <p><a href="tools-used-for-analytics.md">Tools used for analytics</a></p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=38410">Business Intelligence Capabilities and Tools white paper</a></p></td>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=38410">Business Intelligence Capabilities and Tools white paper</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -152,8 +152,8 @@ Complete the tasks in the following table to integrate Microsoft Dynamics AX and
 </ul>
 <p>Download the Shared Management Objects for the version of SQL Server that you are using. You can download the Shared Management Objects from one of the following web pages:</p>
 <ul>
-<li><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=16978">SQL Server 2008 R2 Feature Pack page</a></p></li>
-<li><p><a href="http://www.microsoft.com/en-us/download/details.aspx?id=29065">SQL Server 2012 Feature Pack page</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=16978">SQL Server 2008 R2 Feature Pack page</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=29065">SQL Server 2012 Feature Pack page</a></p></li>
 </ul></td>
 <td><p></p></td>
 </tr>

@@ -42,7 +42,7 @@ You can use basic mode to generate a Microsoft Word document and a video recordi
 
 The updated Task recorder includes an advanced mode. Advanced mode captures additional metadata that you can use to create a file that can be uploaded to Business process modeler in Microsoft Dynamics Lifecycle Services. This file includes metadata about the hierarchy, business processes, and Application Object Tree (AOT). It also includes cross-functional flowcharts and activities that you can modify to identify business requirements.
 
-Advanced mode is available by default in Microsoft Dynamics AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2. If you are working with an earlier version of Microsoft Dynamics AX, you can download the hotfix with the updated version of Task recorder from [Knowledge base article 2863182](http://go.microsoft.com/fwlink/?linkid=309911). For more information, see the following topics:
+Advanced mode is available by default in Microsoft Dynamics AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2. If you are working with an earlier version of Microsoft Dynamics AX, you can download the hotfix with the updated version of Task recorder from [Knowledge base article 2863182](https://go.microsoft.com/fwlink/?linkid=309911). For more information, see the following topics:
 
   - For information about how to use the updated version of Task recorder with Lifecycle Services Business process modeler, see [Upload custom business processes to Business process modeler from Task recorder](upload-custom-business-processes-to-business-process-modeler-from-task-recorder.md).
 

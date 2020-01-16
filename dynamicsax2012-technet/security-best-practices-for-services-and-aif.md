@@ -29,7 +29,7 @@ It is very important that you maintain data security when you use services and A
     > <P>You can avoid any change in file ownership by using a Uniform Naming Convention (UNC) path to specify the location of the file adapter. Ownership of files cannot be changed if you use a UNC path.</P>
 
     
-    For more information, see [Configure addresses for enhanced integration ports](configure-addresses-for-enhanced-integration-ports.md) and [Managing Object Ownership](http://go.microsoft.com/fwlink/?linkid=396920&clcid=0x40).
+    For more information, see [Configure addresses for enhanced integration ports](configure-addresses-for-enhanced-integration-ports.md) and [Managing Object Ownership](https://go.microsoft.com/fwlink/?linkid=396920&clcid=0x40).
 
   - Make sure that data that is sent to and from AIF integration ports is encrypted and can be accessed only by authenticated and authorized users. All data transmissions must be secured, so that no one can read or modify the data during transmission. Authentication and encryption are especially important for business-to-business scenarios in which data is transmitted over the public Internet. For HTTP ports, you can add HTTPS settings through Internet Information Services (IIS).
 
@@ -57,7 +57,7 @@ It is very important that you maintain data security when you use services and A
 
 Follow these additional security-related recommendations when you configure AIF web services:
 
-  - By default, AIF web services implement the basicHttpBinding binding. This binding is configured to use the message-level security that is offered through Windows Communication Foundation (WCF). We recommend that administrators follow the standard WCF configuration in IIS. For more information about security in WCF, see [Securing Services](http://go.microsoft.com/fwlink/?linkid=102986).
+  - By default, AIF web services implement the basicHttpBinding binding. This binding is configured to use the message-level security that is offered through Windows Communication Foundation (WCF). We recommend that administrators follow the standard WCF configuration in IIS. For more information about security in WCF, see [Securing Services](https://go.microsoft.com/fwlink/?linkid=102986).
 
   - Restrict access to the files for AIF web services. When AIF web services are installed, Setup creates a network share to the content directory where the files for AIF web services are located. We recommend that you restrict access to this network share.
     
@@ -69,7 +69,7 @@ Follow these additional security-related recommendations when you configure AIF 
     
     4.  In the **Members** field, verify that only accounts for Application Object Server (AOS) are members of the group.
     
-    5.  If you are using the default permissions in Windows Server 2008, all domain users have Read and Execute permissions for the content directory where the web services are installed. For more information, see the [Default local groups](http://go.microsoft.com/fwlink/?linkid=227787) article on TechNet. If you are not using default permissions, you may have to grant access to the share by using one of the following methods:
+    5.  If you are using the default permissions in Windows Server 2008, all domain users have Read and Execute permissions for the content directory where the web services are installed. For more information, see the [Default local groups](https://go.microsoft.com/fwlink/?linkid=227787) article on TechNet. If you are not using default permissions, you may have to grant access to the share by using one of the following methods:
         
           - Create a local Windows group that has access to the directory, and then add users of AIF web services to this group.
         

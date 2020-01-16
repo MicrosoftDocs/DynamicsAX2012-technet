@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides information about how to configure Application Integration Framework and Microsoft BizTalk Server 2010 to enable the exchange of service documents.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=221937).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=221937).
 
   
 

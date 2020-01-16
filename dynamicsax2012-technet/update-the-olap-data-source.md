@@ -62,7 +62,7 @@ Follow these steps to use Windows PowerShell to modify the DynamicsAXOLAP data s
     Set-AXReportDataSource -DataSourceName DynamicsAXOLAP -ConnectionString “Provider=MSOLAP.4;Integrated Security=SSPI;Persist Security Info=True;Data Source=[SSASServerName];Initial Catalog=[DatabaseName]”
     ```
     
-    For more information about the Set-AXReportDataSource command, see [Set-AXReportDataSource](http://go.microsoft.com/fwlink/?linkid=217552).
+    For more information about the Set-AXReportDataSource command, see [Set-AXReportDataSource](https://go.microsoft.com/fwlink/?linkid=217552).
 
 ## See also
 

@@ -42,7 +42,7 @@ To add an Analyze data button to a list page, you must:
     
       - The cubes that are included with Microsoft Dynamics AX must be deployed to Analysis Services. For more information, see [Checklist: Configure Analysis Services and deploy cubes](checklist-configure-analysis-services-and-deploy-cubes.md).
 
-  - Cumulative update 6 for Microsoft Dynamics AX 2012 R2 must be installed. For more information about how to install cumulative update 6 for Microsoft Dynamics AX 2012 R2, see the Knowledge Base article for [cumulative update 6](http://go.microsoft.com/fwlink/?linkid=309870).
+  - Cumulative update 6 for Microsoft Dynamics AX 2012 R2 must be installed. For more information about how to install cumulative update 6 for Microsoft Dynamics AX 2012 R2, see the Knowledge Base article for [cumulative update 6](https://go.microsoft.com/fwlink/?linkid=309870).
     
     After you install cumulative update 6, you must redeploy three page definitions. To deploy these page definitions, complete the following steps. Keep in mind, when you redeploy the Role Center pages, you will lose customizations made to the pages.
     

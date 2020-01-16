@@ -129,7 +129,7 @@ You can use Excel to consume OData feeds. Power Query is a Power BI for Office 3
     
 
     > [!NOTE]
-    > <P>You can install Power Query from <A href="http://office.microsoft.com/en-us/excel/download-microsoft-power-query-for-excel-fx104018616.aspx">here</A>.</P>
+    > <P>You can install Power Query from <A href="https://office.microsoft.com/excel/download-microsoft-power-query-for-excel-fx104018616.aspx">here</A>.</P>
 
 
 
@@ -316,7 +316,7 @@ Back to top
 
 ## 7\. Share the report in Power BI sites
 
-Now that you’ve created the report, you can add it to your Power BI sites page and share it with other people. You can also access your reports by using the Power BI app from the Windows store app. For more information about Power BI sites, see the [Power BI sites documentation](http://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx). For more information about the Power BI Windows Store app, see [Power BI Windows Store help](http://office.microsoft.com/en-ca/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
+Now that you’ve created the report, you can add it to your Power BI sites page and share it with other people. You can also access your reports by using the Power BI app from the Windows store app. For more information about Power BI sites, see the [Power BI sites documentation](http://www.microsoft.com/en-us/powerbi/home/share-collaborate.aspx). For more information about the Power BI Windows Store app, see [Power BI Windows Store help](https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
 
 1.  From your Power BI sites page, click **Shared with Everyone**.
 

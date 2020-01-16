@@ -28,7 +28,7 @@ This topic describes how to use Microsoft Baseline Configuration Analyzer 2.0 (M
 
 ## Before you begin
 
-Verify system requirements on the [Microsoft Baseline Configuration Analyzer 2.0](http://go.microsoft.com/fwlink/?linkid=228454) download site. After you verify system requirements, download and install MBCA 2.0 on an AOS instance where you want to analyze configurations. You do not have to install MBCA on every component server for Microsoft Dynamics AX. After MBCA is installed on an AOS instance, you can run it against remote component servers if all the following criteria are met:
+Verify system requirements on the [Microsoft Baseline Configuration Analyzer 2.0](https://go.microsoft.com/fwlink/?linkid=228454) download site. After you verify system requirements, download and install MBCA 2.0 on an AOS instance where you want to analyze configurations. You do not have to install MBCA on every component server for Microsoft Dynamics AX. After MBCA is installed on an AOS instance, you can run it against remote component servers if all the following criteria are met:
 
 1.  You are a member of the Windows Administrators group on the component server.
 
@@ -72,7 +72,7 @@ Before you can run MBCA on the server, you must run the following commands in Wi
 
 ## Verify system settings by using MBCA
 
-1.  Download and install the [Microsoft Dynamics AX 2012 MBCA models](http://go.microsoft.com/fwlink/?linkid=228905) on the AOS instance.
+1.  Download and install the [Microsoft Dynamics AX 2012 MBCA models](https://go.microsoft.com/fwlink/?linkid=228905) on the AOS instance.
 
 2.  Open MBCA. Click **Start**, click **All Programs**, and then click **Microsoft Baseline Configuration Analyzer 2.0**.
 

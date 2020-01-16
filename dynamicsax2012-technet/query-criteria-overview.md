@@ -27,7 +27,7 @@ The following XML code illustrates an inbound message. The message has an \<Acti
 The system uses Boolean OR logic to connect all the \<CriteriaElement\> tags. This means that the record information returned in the outbound message comes from records that satisfy any one of the following \<CriteriaElement\> conditions.
 
 ``` xml
-<QueryCriteria xmlns = "http://schemas.microsoft.com/
+<QueryCriteria xmlns = "https://schemas.microsoft.com/
   dynamics/2006/02/documents/QueryCriteria">
 
  <CriteriaElement>

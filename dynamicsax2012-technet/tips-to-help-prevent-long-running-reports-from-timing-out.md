@@ -115,7 +115,7 @@ On the Reporting Services server, follow these steps to configure the **SessionT
     
         $>rs.exe -i <Path to SessionTimeout.rss file> -s <Report Server URL> -v timeout="72000" –l 0
     
-    By default, the rs.exe tool is located at \\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn. For more information about how to use this tool, see the [rs Utility (rs.exe)](https://technet.microsoft.com/library/ms162839.aspx) topic in the SQL Server documentation and the [Session Timeout during execution](http://blogs.msdn.com/b/jgalla/archive/2006/10/11/session-timeout-during-execution.aspx) blog post.
+    By default, the rs.exe tool is located at \\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn. For more information about how to use this tool, see the [rs Utility (rs.exe)](https://technet.microsoft.com/library/ms162839.aspx) topic in the SQL Server documentation and the [Session Timeout during execution](https://blogs.msdn.com/b/jgalla/archive/2006/10/11/session-timeout-during-execution.aspx) blog post.
 
 ## Specify WCF time-outs and thresholds
 

@@ -454,7 +454,7 @@ The following table lists the forms that are available for setting up and mainta
 <div class="alert">
 
 > [!NOTE]
-> <P>For detailed information about how to integrate Microsoft Dynamics AX and Microsoft Project Server 2010 so that you can use the features of both programs to manager your projects, see the white paper “<A href="http://go.microsoft.com/fwlink/?linkid=215155">Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012</A>.”</P>
+> <P>For detailed information about how to integrate Microsoft Dynamics AX and Microsoft Project Server 2010 so that you can use the features of both programs to manager your projects, see the white paper “<A href="https://go.microsoft.com/fwlink/?linkid=215155">Microsoft Project Server 2010 Integration with Microsoft Dynamics AX 2012</A>.”</P>
 
 
 </div></td>

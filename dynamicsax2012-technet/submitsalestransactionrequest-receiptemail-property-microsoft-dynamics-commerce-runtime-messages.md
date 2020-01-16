@@ -63,7 +63,7 @@ Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).
 
 ## Remarks
 
-The validation regular expression string is taken from [How to: Verify that Strings Are in Valid Email Format](http://msdn.microsoft.com/en-us/library/01escwtf.aspx).
+The validation regular expression string is taken from [How to: Verify that Strings Are in Valid Email Format](https://msdn.microsoft.com/library/01escwtf.aspx).
 
 ## See Also
 

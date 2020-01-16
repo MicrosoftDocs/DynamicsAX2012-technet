@@ -18,7 +18,7 @@ This white paper explains implementation considerations for the Trade agreement 
 
 Intended for developers and administrators, this white paper provides detailed information about how to apply TAE policies, the architecture of the policies, and how to extend and debug the policies.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=252366).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=252366).
 
   
 

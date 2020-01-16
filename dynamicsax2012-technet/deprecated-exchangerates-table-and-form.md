@@ -37,7 +37,7 @@ In Microsoft Dynamics AX 2009, the ExchRates table and form are used to create a
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature is no longer available, and has been replaced with shared currencies and exchange rates.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/shared_currencies_and_exchange_rates_ax2012.pdf">Shared Currencies and Exchange Rates for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/shared_currencies_and_exchange_rates_ax2012.pdf">Shared Currencies and Exchange Rates for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

@@ -185,7 +185,7 @@ The global address book has changed considerably since AX 2009. AX 2012 includes
 
 ## More information
 
-For more information about the address book framework, see the white paper [Implementing the address book framework for Microsoft Dynamics AX 2012 applications](http://go.microsoft.com/fwlink/?linkid=213127%26clcid=0x409).
+For more information about the address book framework, see the white paper [Implementing the address book framework for Microsoft Dynamics AX 2012 applications](https://go.microsoft.com/fwlink/?linkid=213127%26clcid=0x409).
 
   
 

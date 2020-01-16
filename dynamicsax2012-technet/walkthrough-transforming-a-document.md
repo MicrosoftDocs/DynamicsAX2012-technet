@@ -104,16 +104,16 @@ For this scenario, use the following XSLT code. Copy the code to Notepad and nam
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:InternalSO="http://InternalSalesOrder">
       <xsl:template match="InternalSO:SalesOrder">
-        <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
           <Header>
             <MessageId>
               <xsl:value-of select="Header/MessageId"/>
             </MessageId>
-            <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+            <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
           </Header>
           <Body>
             <MessageParts>
-              <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
+              <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
                 <SalesTable class="entity">
                   <CustAccount>
                     <xsl:value-of select="Header/CustAccountNum"/>

@@ -18,7 +18,7 @@ Microsoft Dynamics AX provides many tools and strategies that you can use when y
 
 The Data Import/Export Framework for Microsoft Dynamics AX 2012 is an extension that helps you export data and import data into Microsoft Dynamics AX. Examples of the data that you can import include master data, open stock, and balances.
 
-As of cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Data Import/Export Framework is shipped as part of Microsoft Dynamics AX instead of as an add-on. If you have not installed cumulative update 7, the Data Import/Export Framework is available from the [InformationSource services download page](http://go.microsoft.com/fwlink/?linkid=255246).
+As of cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Data Import/Export Framework is shipped as part of Microsoft Dynamics AX instead of as an add-on. If you have not installed cumulative update 7, the Data Import/Export Framework is available from the [InformationSource services download page](https://go.microsoft.com/fwlink/?linkid=255246).
 
 For detailed information about the Data Import/Export Framework, see the [Data import/export framework user guide (DIXF, DMF)](data-import-export-framework-user-guide-dixf-dmf.md).
 

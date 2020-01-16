@@ -107,14 +107,14 @@ The sales order request is an XML-based document. For this example, you will use
 1.  Copy the following XML code into an empty Notepad document.
     
         <?xml version="1.0" encoding="utf-8" ?>
-        <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
         <Header>
           <MessageId>{5603D03A-4380-404D-9F27-738BE0FEA13E}</MessageId>
-          <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+          <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
         </Header>
           <Body>
             <MessageParts>
-              <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
+              <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/SalesOrder">
                 <SalesTable class="entity">
                   <CustAccount>100002</CustAccount>
                   <DeliveryDate>2011-10-11</DeliveryDate>
@@ -154,16 +154,16 @@ The sales order request is an XML-based document. For this example, you will use
 4.  Open the response file to view the XML code. A valid XML response contains the number of the sales order that was created in the field named **SalesId**. For example:
     
         <?xml version="1.0" encoding="UTF-8"?>
-        <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
         <Header>
           <MessageId>{E120D4F9-C466-4CBF-BA60-E365202D7BE6}</MessageId>
-          <Action>http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
+          <Action>https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService/create</Action>
           <RequestMessageId>{5603D03A-4380-404D-9F27-738BE0FEA13E}</RequestMessageId>
         </Header>
         <Body>
-          <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-            <EntityKeyList xmlns="http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
-              <EntityKey xmlns="http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
+          <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+            <EntityKeyList xmlns="https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList">
+              <EntityKey xmlns="https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey">
                 <KeyData>
                   <KeyField>
                     <Field>SalesId</Field>

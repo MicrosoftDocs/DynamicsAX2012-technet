@@ -86,7 +86,7 @@ Change tracking is a way for Retail Headquarters and Retail POS to maintain data
 
 3.  Right-click the **EcosResProductImage** table and then click **View Code**.
 
-4.  Create a new method named delete. For more information about how to create methods, see [Methods in X++](http://msdn.microsoft.com/en-us/library/aa673265).
+4.  Create a new method named delete. For more information about how to create methods, see [Methods in X++](https://msdn.microsoft.com/library/aa673265).
 
 5.  Insert the following code into the new method:
     
@@ -307,7 +307,7 @@ In this section, you will use Retail Headquarters to select images and attach th
 
 3.  Copy the **Blank Operations** and **Dialog** folders to the directory that contains your Visual Studio solution named ItemDetails.
 
-4.  Add the **BlankOperations.csproj** and **Dialog.csproj** files to your Visual Studio **ItemDetails** solution. For more information about how to add existing projects to Visual Studio solutions, see [How to add an existing project to a solution (Visual Studio)](http://msdn.microsoft.com/en-us/library/aa179467\(v=sql.80\).aspx)
+4.  Add the **BlankOperations.csproj** and **Dialog.csproj** files to your Visual Studio **ItemDetails** solution. For more information about how to add existing projects to Visual Studio solutions, see [How to add an existing project to a solution (Visual Studio)](https://msdn.microsoft.com/library/aa179467\(v=sql.80\).aspx)
 
 5.  In **Solution Explorer**, expand the **Dialog** project and then expand the **WinFormsTouch** node. Right-click the **frmItemSearch.cs** file and then select **Copy**. Navigate back to the **WinFormsTouch** node, right-click and select **Paste**.
     

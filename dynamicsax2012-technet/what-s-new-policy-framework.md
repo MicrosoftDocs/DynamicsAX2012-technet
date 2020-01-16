@@ -112,7 +112,7 @@ Enforcement of rules at the business transaction level has expanded considerably
 
 ## More information
 
-For more information about the policy framework, see the white paper [Using the Policy Framework in Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409).
+For more information about the policy framework, see the white paper [Using the Policy Framework in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409).
 
   
 

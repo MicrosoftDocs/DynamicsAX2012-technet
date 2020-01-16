@@ -55,14 +55,14 @@ To automate the receiving process by using an ASN, you must be able to import th
 The following example shows a structure for an XML file that can be imported through the AIF.
 
     <?xml version="1.0" encoding="UTF-8"?>
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
       <Header>
         <Action>http://tempuri.org/WHSShipmentASNService/create</Action>
         <Company>CEU</Company>
       </Header>
       <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-          <WHSShipmentASN xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/WHSShipmentASN">
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+          <WHSShipmentASN xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/WHSShipmentASN">
             <WHSShipmentTable class="entity">
               <ShipmentId>CEU-SHP000411-TST001</ShipmentId>
               <WHSUOMStructure class="entity">

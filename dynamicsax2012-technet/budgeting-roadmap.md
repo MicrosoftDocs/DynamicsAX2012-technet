@@ -45,7 +45,7 @@ In Budgeting, you can configure and set up budget planning processes based on th
 <p><a href="https://go.microsoft.com/fwlink/?linkid=507698">Budget planning for Dynamics AX 2012 R2 reporting by using Management Reporter</a> (blog)</p>
 <p><a href="strategies-for-using-the-budget-planning-analysis-data-cube-in-microsoft-dynamics-ax-2012-r2.md">Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2</a> (white paper)</p>
 <p><a href="http://community.dynamics.com/ax/f/33.aspx">Microsoft Dynamics AX Forum</a> (forum)</p>
-<p><a href="http://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?displaylang=en%26id=29210">Help and Resources Datasheet for Dynamics AX 2012</a> (download)</p>
 <p><a href="https://lcs.dynamics.com/home/homeindex">Lifecycle Services</a>* (cloud-based workspace)</p>
 <p>* In order to use Lifecycle Services, you must have a CustomerSource or PartnerSource account, and have created a project. For more information, see the <a href="lifecycle-services-for-microsoft-dynamics-user-guide-lcs.md">Lifecycle Services for Microsoft Dynamics User Guide (LCS)</a></p></td>
 </tr>

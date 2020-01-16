@@ -32,7 +32,7 @@ Microsoft Office Excel 2010 or above with PowerPivot add-in
 
 
 > [!NOTE]
-> <P>For information about PowerPivot capabilities in Excel 2013, see <A href="http://office.microsoft.com/en-us/excel-help/whats-new-in-powerpivot-in-excel-2013-ha102893837.aspx">What’s new in PowerPivot in Excel 2013</A>.</P>
+> <P>For information about PowerPivot capabilities in Excel 2013, see <A href="https://office.microsoft.com/excel-help/whats-new-in-powerpivot-in-excel-2013-ha102893837.aspx">What’s new in PowerPivot in Excel 2013</A>.</P>
 
 
 
@@ -178,7 +178,7 @@ After you complete this walkthrough, you can upload a PowerPivot model (your Exc
 
 [Walkthrough: Creating an Analyze Data Button on a List Page](walkthrough-creating-an-analyze-data-button-on-a-list-page.md)
 
-[OData Query Service](http://blogs.msdn.com/b/aif/archive/2011/08/23/odata-query-service.aspx)
+[OData Query Service](https://blogs.msdn.com/b/aif/archive/2011/08/23/odata-query-service.aspx)
 
   
 

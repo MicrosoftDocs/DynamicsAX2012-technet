@@ -36,7 +36,7 @@ Microsoft Dynamics AX 2009 and earlier versions support Microsoft Visual SourceS
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
-<td><p>Support for Visual SourceSafe remains in Microsoft Dynamics AX 2012 but will be removed in the next version of Microsoft Dynamics AX. We recommend that you now use Team Foundation Server 2010 instead of Visual SourceSafe. For more information, see <a href="http://www.microsoft.com/en-us/download/details.aspx?id=21367">Migration of Microsoft Dynamics AX Version Control System content from Microsoft Visual SourceSafe to Microsoft Team Foundation Server</a>.</p></td>
+<td><p>Support for Visual SourceSafe remains in Microsoft Dynamics AX 2012 but will be removed in the next version of Microsoft Dynamics AX. We recommend that you now use Team Foundation Server 2010 instead of Visual SourceSafe. For more information, see <a href="https://www.microsoft.com/en-us/download/details.aspx?id=21367">Migration of Microsoft Dynamics AX Version Control System content from Microsoft Visual SourceSafe to Microsoft Team Foundation Server</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

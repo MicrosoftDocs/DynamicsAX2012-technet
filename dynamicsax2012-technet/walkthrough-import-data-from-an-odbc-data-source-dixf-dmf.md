@@ -60,7 +60,7 @@ To complete this walkthrough you will need:
 ## Create an ODBC data source to connect to the SQL Server database
 1.  On the computer that is running Microsoft Dynamics AX, open **Administrative Tools** &gt; **Data Source (ODBC)**.
 2.  Create a User DSN for SQL Server, name it **DMFLegacyDB-DSN**, and select the instance of SQL Server that you used to create the database.
-3.  Click **Next**, and select the appropriate values to connect to the SQL Server instance. In general, we recommend that you connect with the account that you are running the Data Import/Export Framework service as. For more information, see [Managing Data Sources](http://msdn.microsoft.com/en-us/library/windows/desktop/ms712362(v=vs.85).aspx).
+3.  Click **Next**, and select the appropriate values to connect to the SQL Server instance. In general, we recommend that you connect with the account that you are running the Data Import/Export Framework service as. For more information, see [Managing Data Sources](https://msdn.microsoft.com/library/windows/desktop/ms712362(v=vs.85).aspx).
 4.  Click **Next**, select **DMFLegacyDB** for the default database, and then click **Finish**.
 
 ## Define the format of your source data

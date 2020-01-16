@@ -28,7 +28,7 @@ The process for setting up a payment service in Retail essentials includes the f
 
 ## Partner: In Partner Portal, create a payment service account for the retailer
 
-1.  Sign in to [Partner Portal](http://go.microsoft.com/fwlink/?linkid=265493) by using the email address and password for your Microsoft account.
+1.  Sign in to [Partner Portal](https://go.microsoft.com/fwlink/?linkid=265493) by using the email address and password for your Microsoft account.
 
 2.  Click **Customer List**, and then click **New Customer** to add the retailer.
 
@@ -60,7 +60,7 @@ The process for setting up a payment service in Retail essentials includes the f
     
       - If you select another provider, follow the provider’s instructions to submit an application.
 
-6.  Sign in to [Customer Portal](http://go.microsoft.com/fwlink/?linkid=265494) by using the email address and password for your Microsoft account.
+6.  Sign in to [Customer Portal](https://go.microsoft.com/fwlink/?linkid=265494) by using the email address and password for your Microsoft account.
 
 7.  Click **Service list**, select the check box for the payment service, and then click **Change Partner**.
 

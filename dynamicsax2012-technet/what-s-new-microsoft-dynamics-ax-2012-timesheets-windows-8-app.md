@@ -58,7 +58,7 @@ By using the Windows 8 Timesheets App, you can create and manage timesheets for 
 
 ## Downloads
 
-This app is available in the [Windows App Store](http://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-timesheets/2ac31b2e-f3fa-4f1c-bfb9-151393749246#).
+This app is available in the [Windows App Store](https://apps.microsoft.com/windows/en-us/app/dynamics-ax-2012-timesheets/2ac31b2e-f3fa-4f1c-bfb9-151393749246#).
 
 ## More information
 

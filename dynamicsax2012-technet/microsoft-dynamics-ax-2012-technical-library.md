@@ -136,29 +136,29 @@ See the following blogs for more information about Microsoft Dynamics AX.
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><p><a href="http://blogs.msdn.com/b/lcs/">Lifecycle Services</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/axinthefield/">AX in the field</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/axcompapp/">Microsoft Dynamics AX Companion Apps</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/lcs/">Lifecycle Services</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/axinthefield/">AX in the field</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/axcompapp/">Microsoft Dynamics AX Companion Apps</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221076">The Edge</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221077">Inside Microsoft Dynamics AX</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221079">Microsoft Dynamics AX Support</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221078">Microsoft Dynamics AX In-Market Engineering</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/dynamicsaxscm/">Microsoft Dynamics AX Supply Chain Management</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/daxserver/">Microsoft Dynamics AX Server Team</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/axtools/">Microsoft Dynamics AX Tools</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/axperf/">Microsoft Dynamics AX Performance</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/dynamicsaxscm/">Microsoft Dynamics AX Supply Chain Management</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/dynamicsaxbi/">Microsoft Dynamics AX Business Intelligence</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/daxserver/">Microsoft Dynamics AX Server Team</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/axtools/">Microsoft Dynamics AX Tools</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/axperf/">Microsoft Dynamics AX Performance</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=223226">Microsoft Dynamics Corporate Performance Management</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=223227">Connector for Microsoft Dynamics</a></p></li>
 <li><p><a href="https://community.dynamics.com/ax/b/axhcmnewslearningshighlights/default.aspx">Microsoft Dynamics AX HCM</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/x/">Issues concerning X++</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/x/">Issues concerning X++</a></p></li>
 </ul></td>
 <td><ul>
-<li><p><a href="http://blogs.msdn.com/b/aksheygupta/">Akshey Gupta</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/chrisgarty/">Chris Garty</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/bwelcker/">Brian Welcker</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/aksheygupta/">Akshey Gupta</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/chrisgarty/">Chris Garty</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/bwelcker/">Brian Welcker</a></p></li>
 <li><p><a href="http://blogs.technet.com/b/tompatton/">Tom Patton</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/lcash/">Lachlan Cash</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/lcash/">Lachlan Cash</a></p></li>
 <li><p><a href="https://go.microsoft.com/fwlink/?linkid=221072">Michael Fruergaard Pontoppidan</a></p></li>
 </ul></td>
 </tr>

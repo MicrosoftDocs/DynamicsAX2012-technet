@@ -90,7 +90,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 </tr>
 <tr class="even">
 <td><p>Policy framework.</p></td>
-<td><p>You can create rules and apply them to different parts of the enterprise. These rules help the organization enforce standard internal business controls for processes such as requisitions, submission of corporate expenses, and enforcement of corporate audits. For more information about the policy framework, see the white paper <a href="http://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</a>.</p></td>
+<td><p>You can create rules and apply them to different parts of the enterprise. These rules help the organization enforce standard internal business controls for processes such as requisitions, submission of corporate expenses, and enforcement of corporate audits. For more information about the policy framework, see the white paper <a href="https://go.microsoft.com/fwlink/?linkid=213137%26clcid=0x409">Using the Policy Framework in Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up spending limits and approval limits.</p></td>
@@ -122,9 +122,9 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <td><p>Purchasing managers or purchasing agents can import catalog data from vendors by using a delivered XML schema. Purchasing managers or purchasing agents can then review and modify product data before they pass that data to the procurement order site.</p>
 <p>For more information, see <a href="import-a-catalog-from-a-vendor.md">Import a catalog from a vendor</a>. Additionally, the Supply Chain Management in Dynamics AX team blog has a three-part blog series that walks you through the process for importing catalogs:</p>
 <ul>
-<li><p><a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2012/08/29/import-vendor-catalogs-from-setup-to-importing-a-sample-catalog-part-1-setup.aspx">Import vendor catalogs: from setup to importing a sample catalog – Part 1 (Setup)</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2012/09/09/import-vendor-catalogs-from-setup-to-importing-a-sample-catalog-part-2-importing-a-sample-catalog.aspx">Import vendor catalogs: from setup to importing a sample catalog – Part 2 (Importing a sample catalog)</a></p></li>
-<li><p><a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2013/03/07/import-vendor-catalogs-part-3-troubleshooting.aspx">Import Vendor Catalogs – Part 3 (Troubleshooting)</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2012/08/29/import-vendor-catalogs-from-setup-to-importing-a-sample-catalog-part-1-setup.aspx">Import vendor catalogs: from setup to importing a sample catalog – Part 1 (Setup)</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2012/09/09/import-vendor-catalogs-from-setup-to-importing-a-sample-catalog-part-2-importing-a-sample-catalog.aspx">Import vendor catalogs: from setup to importing a sample catalog – Part 2 (Importing a sample catalog)</a></p></li>
+<li><p><a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2013/03/07/import-vendor-catalogs-part-3-troubleshooting.aspx">Import Vendor Catalogs – Part 3 (Troubleshooting)</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -439,7 +439,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <td><p>Trade agreements are now created and maintained in journals. This change allows for better control, usability, and transparency. Microsoft Dynamics AX now supports one view that includes all trade agreements for a selected set of items, customers, and vendors. Microsoft Dynamics AX also supports separate roles for creating or maintaining trade agreements, and for approving, bulk updating, and controlling date types in trade agreements.</p>
 <p>In earlier versions of Microsoft Dynamics AX, changes to an order or an order line could indirectly cause the trade agreements to be reevaluated. This reevaluation could overwrite values that had been entered manually or entered by an external source. External sources include sales quotations, project quotations, purchase requisitions, RFQs, purchase agreements or sales agreements, projects, Microsoft Dynamics AX Application Integration Framework (AIF), or Enterprise Portal. Now, configuration settings can prevent unintended reevaluation of trade agreements.</p>
 <p>The smart rounding concept has also been introduced. Smart rounding is a type of psychological pricing or price ending that is based on the marketing theory that prices have a psychological impact on people. Smart rounding pertains to unusual prices that are somewhat less than a round number, such as USD 19.99. Smart rounding can be applied after a bulk adjustment of trade agreements, or it can be applied automatically after a unit price has been calculated, based on a generic currency and an exchange rate. Date type control enables trade agreements to be evaluated, based not only on the entry dates but also on the requested dates.</p>
-<p>For more information, see <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></td>
+<p>For more information, see <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enhanced purchase agreement functionality</p></td>

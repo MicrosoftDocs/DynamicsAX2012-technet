@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This paper provides an overview of the various types of services available in Microsoft Dynamics AX 2012 and provides guidance to developers and architects in deciding when to use a specific service type.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=213141).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=213141).
 
   
 

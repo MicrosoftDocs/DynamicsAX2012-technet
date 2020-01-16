@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Lithuania. For more information, see the tables that apply to your version of the product.
 
-For more information about specific features for Lithuania, see [TechNet Library for Application Users - Lithuania](http://go.microsoft.com/fwlink/?linkid=299916).
+For more information about specific features for Lithuania, see [TechNet Library for Application Users - Lithuania](https://go.microsoft.com/fwlink/?linkid=299916).
 
 ## What’s new in AX 2012 R2
 

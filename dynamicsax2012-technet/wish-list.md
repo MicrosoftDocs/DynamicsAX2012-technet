@@ -140,7 +140,7 @@ In the Storefront.sln solution, the Share.PointWeb.Storefront project contains s
 
 ## See also
 
-[Creating WCF Services for ASP.NET AJAX](http://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
+[Creating WCF Services for ASP.NET AJAX](https://go.microsoft.com/fwlink/?linkid=396549&clcid=0x409)
 
   
 

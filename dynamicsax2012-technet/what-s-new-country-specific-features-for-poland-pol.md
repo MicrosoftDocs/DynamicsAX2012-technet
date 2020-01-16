@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Poland. For more information, see the tables that apply to your version of the product.
 
-For more information about specific features for Poland, see [TechNet Library for Application Users - Poland](http://go.microsoft.com/fwlink/?linkid=299917).
+For more information about specific features for Poland, see [TechNet Library for Application Users - Poland](https://go.microsoft.com/fwlink/?linkid=299917).
 
 ## What’s new in AX 2012 R2
 
@@ -36,7 +36,7 @@ For more information about specific features for Poland, see [TechNet Library fo
 <td><p>Track Numeru Identyfikacji Podatkowej (NIP) tax identification information</p></td>
 <td><p>Legal entities in Poland can now store and track tax identification numbers (NIP) for a customer or vendor. Each NIP record stores the customer or vendor name, the tax ID number, the tax exempt number, and the address that is on file for the tax exempt number.</p>
 <p>NIP data is entered in a new <strong>NIP table</strong> form and appears in several journal forms in Microsoft Dynamics AX. When transactions are updated or posted, the NIP details are posted to the tax tables. From the tax tables, the NIP details are then printed on the Polish value-added tax (VAT) register.</p>
-<p>For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=301254">(POL) Create a NIP record to define VAT register data</a>.</p></td>
+<p>For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=301254">(POL) Create a NIP record to define VAT register data</a>.</p></td>
 </tr>
 </tbody>
 </table>

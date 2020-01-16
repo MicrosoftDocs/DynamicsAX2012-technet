@@ -18,7 +18,7 @@ If you understand the internal architecture of Microsoft Dynamics AX, you can mo
 
 ## Microsoft Dynamics AX system architecture
 
-The following diagram provides a high-level overview of the system architecture of Microsoft Dynamics AX. This diagram does not depict the system topology or physical infrastructure that are required for the deployment. Your infrastructure can consist of many Microsoft Dynamics AX components, and these components can be installed on either a single physical server or multiple physical servers. For factors that you must consider when you plan a deployment infrastructure, see [Plan system topology](plan-system-topology.md). For detailed information about Microsoft Dynamics AX components, see [Component architecture](component-architecture.md). For the current hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377) document that is available from the Microsoft Download Center.
+The following diagram provides a high-level overview of the system architecture of Microsoft Dynamics AX. This diagram does not depict the system topology or physical infrastructure that are required for the deployment. Your infrastructure can consist of many Microsoft Dynamics AX components, and these components can be installed on either a single physical server or multiple physical servers. For factors that you must consider when you plan a deployment infrastructure, see [Plan system topology](plan-system-topology.md). For detailed information about Microsoft Dynamics AX components, see [Component architecture](component-architecture.md). For the current hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377) document that is available from the Microsoft Download Center.
 
 ![System architecture](images/Dd362112.AX6_sysdocs_Systemarchitecture(AX.60).gif "System architecture")
 
@@ -64,7 +64,7 @@ For more information, see [Security architecture of the Microsoft Dynamics AX ap
 
 ## Application Object Server
 
-Application Object Server (AOS) controls communication among Microsoft Dynamics AX clients, databases, and applications. AOS also hosts Microsoft Dynamics AX services and the workflow system. You can deploy AOS on a single computer or create a load-balanced cluster of multiple AOS instances. AOS is a Windows service that requires a Windows Server operating system. For the current hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](http://go.microsoft.com/fwlink/?linkid=165377) document that is available from the Microsoft Download Center.
+Application Object Server (AOS) controls communication among Microsoft Dynamics AX clients, databases, and applications. AOS also hosts Microsoft Dynamics AX services and the workflow system. You can deploy AOS on a single computer or create a load-balanced cluster of multiple AOS instances. AOS is a Windows service that requires a Windows Server operating system. For the current hardware and software requirements for Microsoft Dynamics AX, see the [system requirements](https://go.microsoft.com/fwlink/?linkid=165377) document that is available from the Microsoft Download Center.
 
 AOS uses libraries from the Microsoft .NET Framework version 4, such as Windows Communication Foundation and Windows Workflow Foundation.
 

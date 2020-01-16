@@ -28,20 +28,20 @@ There are no XML tags that are specific to this inbound message. However, the va
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns = "http://schemas.microsoft.com/
+<Envelope xmlns = "https://schemas.microsoft.com/
    dynamics/2011/01/documents/Message">
 
  <Header>
   <MessageId>{d1e4853a-0311-1233-0008
     -e84804976b33}</MessageId>
-  <Action>http://schemas.microsoft.com/dynamics/
+  <Action>https://schemas.microsoft.com/dynamics/
     2008/01/services/CustomerService/find</Action>
  </Header>
 
  <Body>
-  <MessageParts xmlns="http://schemas.microsoft.com/
+  <MessageParts xmlns="https://schemas.microsoft.com/
     dynamics/2011/01/documents/Message">
-   <QueryCriteria xmlns = "http://schemas.microsoft.com/
+   <QueryCriteria xmlns = "https://schemas.microsoft.com/
      dynamics/2006/02/documents/QueryCriteria">
     <CriteriaElement>
      <DataSourceName>CustTable</DataSourceName>
@@ -65,15 +65,15 @@ The following outbound message is generated from the previous inbound message.
 
 ``` xml
   <?xml version="1.0" encoding="UTF-8" ?> 
-  <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+  <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
   <Header>
    <MessageId>{93FE7B5F-99E6-45D6-BAA5-654699EFF0EA}</MessageId> 
-   <Action>http://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/find</Action> 
+   <Action>https://schemas.microsoft.com/dynamics/2008/01/services/CustomerService/find</Action> 
    <RequestMessageId>{d1e4853a-0311-1233-0008-e84804976b33}</RequestMessageId> 
   </Header>
   <Body>
-    <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-    <Customer xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
+    <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+    <Customer xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/Customer">
       <DocPurpose>Original</DocPurpose> 
       <SenderId>DMO</SenderId> 
       <ValidAsOfDateTime>2012-04-19T19:42:40Z</ValidAsOfDateTime> 

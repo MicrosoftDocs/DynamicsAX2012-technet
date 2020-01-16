@@ -126,20 +126,20 @@ To read the sales order, you must place a message specifying the entity key (ID)
     
     ``` xml
     <?xml version="1.0" encoding="utf-8"?>
-    <Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/
+    <Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/
         01/documents/Message">
         <Header>
             <MessageId></MessageId>
-            <Action>http://schemas.microsoft.com/dynamics/2011/
+            <Action>https://schemas.microsoft.com/dynamics/2011/
                 01/services/SalesOrderService/read</Action>
             <ConversationId></ConversationId>
         </Header>
     <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/
             01/documents/Message">
-            <EntityKeyList xmlns="http://schemas.microsoft.com/dynamics/
+            <EntityKeyList xmlns="https://schemas.microsoft.com/dynamics/
             2006/02/documents/EntityKeyList">
-                <EntityKey xmlns="http://schemas.microsoft.com/dynamics/
+                <EntityKey xmlns="https://schemas.microsoft.com/dynamics/
                     2006/02/documents/EntityKey">
                     <KeyData>
                         <KeyField>
@@ -178,19 +178,19 @@ The following code is an example of what AIF returns when you request a sales or
 
 ``` xml
 <?xml version="1.0" encoding="utf-8" ?> 
-<Envelope xmlns="http://schemas.microsoft.com/dynamics/2011
+<Envelope xmlns="https://schemas.microsoft.com/dynamics/2011
     01/documents/Message">
     <Header>
         <MessageId>{2002A291-8AA4-4405-BC10-383C30376F76}</MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/
+        <Action>https://schemas.microsoft.com/dynamics/
             2008/01/services/SalesOrderService/read</Action>
         <RequestMessageId>{13A5A1E4-D248-4361-B484-791AE121C952}
             </RequestMessageId> 
     </Header>
     <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/
             2011/01/documents/Message">
-            <SalesOrder xmlns="http://schemas.microsoft.com/dynamics/
+            <SalesOrder xmlns="https://schemas.microsoft.com/dynamics/
                 2008/01/documents/SalesOrder">
                 <DocPurpose>Original</DocPurpose>
                 <SenderId>DAT</SenderId>
@@ -349,20 +349,20 @@ The following code is an example of what the XML message should resemble when yo
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
-<Envelope xmlns="http://schemas.microsoft.com/dynamics/
+<Envelope xmlns="https://schemas.microsoft.com/dynamics/
     2011/01/documents/Message">
     <Header>
         <MessageId></MessageId>
-        <Action>http://schemas.microsoft.com/dynamics/
+        <Action>https://schemas.microsoft.com/dynamics/
             2008/01/services/SalesOrderService/update</Action>
         <ConversationId></ConversationId>
     </Header>
     <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/
             2011/01/documents/Message">
-            <EntityKeyList xmlns="http://schemas.microsoft.com/
+            <EntityKeyList xmlns="https://schemas.microsoft.com/
                 dynamics/2006/02/documents/EntityKeyList">
-                <EntityKey xmlns="http://schemas.microsoft.com/
+                <EntityKey xmlns="https://schemas.microsoft.com/
                     dynamics/2006/02/documents/EntityKey">
                     <KeyData>
                         <KeyField>
@@ -372,7 +372,7 @@ The following code is an example of what the XML message should resemble when yo
                     </KeyData>
                 </EntityKey>
             </EntityKeyList>
-            <SalesOrder xmlns="http://schemas.microsoft.com/
+            <SalesOrder xmlns="https://schemas.microsoft.com/
                 dynamics/2008/01/documents/SalesOrder">
                 <DocPurpose>Original</DocPurpose>
                 <SenderId>dat</SenderId>

@@ -24,7 +24,7 @@ dev_langs:
 
 ``` vb
 'Declaration
-<DataContractAttribute(Name := "TrackedFault", Namespace := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
+<DataContractAttribute(Name := "TrackedFault", Namespace := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
 Public Class TrackedFault _
     Implements IExtensibleDataObject
 'Usage
@@ -32,12 +32,12 @@ Dim instance As TrackedFault
 ```
 
 ``` csharp
-[DataContractAttribute(Name = "TrackedFault", Namespace = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = "TrackedFault", Namespace = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 public class TrackedFault : IExtensibleDataObject
 ```
 
 ``` c++
-[DataContractAttribute(Name = L"TrackedFault", Namespace = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = L"TrackedFault", Namespace = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 public ref class TrackedFault : IExtensibleDataObject
 ```
 

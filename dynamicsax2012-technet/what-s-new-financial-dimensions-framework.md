@@ -296,7 +296,7 @@ Financial dimensions have changed considerably since AX 2009. The dimensions fra
 
 ## More information
 
-For more information about financial dimensions, see the white paper [Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409).
+For more information about financial dimensions, see the white paper [Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409).
 
   
 

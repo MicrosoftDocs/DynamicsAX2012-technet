@@ -132,7 +132,7 @@ The following table describes the counters for the Microsoft Dynamics AX client.
 
 ## Service counters
 
-You can use standard service and endpoint performance counters to monitor the performance of the Microsoft Dynamics AX services. For more information, see [Service Performance Counters](http://msdn.microsoft.com/en-us/library/ms731087.aspx) and [Endpoint Performance Counters](http://msdn.microsoft.com/en-us/library/ms732207.aspx).
+You can use standard service and endpoint performance counters to monitor the performance of the Microsoft Dynamics AX services. For more information, see [Service Performance Counters](https://msdn.microsoft.com/library/ms731087.aspx) and [Endpoint Performance Counters](https://msdn.microsoft.com/library/ms732207.aspx).
 
 ## Enterprise Portal counters
 

@@ -38,7 +38,7 @@ The process for setting up Payment Services includes the following steps, some p
 
 ## Partner: In Partner Portal, create a Payment Services account for the retailer
 
-1.  Sign in to [Partner Portal](http://go.microsoft.com/fwlink/?linkid=265493) by using your Microsoft account email address and password.
+1.  Sign in to [Partner Portal](https://go.microsoft.com/fwlink/?linkid=265493) by using your Microsoft account email address and password.
 
 2.  Click **Customer List**, and then click **New Customer** to add the retailer.
 
@@ -64,7 +64,7 @@ The process for setting up Payment Services includes the following steps, some p
     
       - If you select another provider, follow the provider’s instructions to submit an application.
 
-4.  Sign in to [Customer Portal](http://go.microsoft.com/fwlink/?linkid=265494) by using your Microsoft account email address and password.
+4.  Sign in to [Customer Portal](https://go.microsoft.com/fwlink/?linkid=265494) by using your Microsoft account email address and password.
 
 5.  Click **Service list**, select the check box for the payment service, and then click **Change Partner**.
 
@@ -88,7 +88,7 @@ Provide the settings for the merchant account to your Microsoft Dynamics AX part
 
 ## Partner: In Partner Portal, activate the payment provider
 
-1.  Sign in to [Partner Portal](http://go.microsoft.com/fwlink/?linkid=265493) by using your Microsoft account email address and password.
+1.  Sign in to [Partner Portal](https://go.microsoft.com/fwlink/?linkid=265493) by using your Microsoft account email address and password.
 
 2.  In the **Customer list**, select the customer, and then click the link in the **Services** column.
 
@@ -204,7 +204,7 @@ Provide the settings for the merchant account to your Microsoft Dynamics AX part
 
 ## Retailer: In Customer Portal, test the payment service
 
-1.  Sign in to [Customer Portal](http://go.microsoft.com/fwlink/?linkid=265494) by using your Microsoft account email address and password.
+1.  Sign in to [Customer Portal](https://go.microsoft.com/fwlink/?linkid=265494) by using your Microsoft account email address and password.
 
 2.  Click **Dashboard**, and then click the Payment Services account.
 

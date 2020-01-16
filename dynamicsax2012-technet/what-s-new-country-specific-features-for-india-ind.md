@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for India. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Indian installations, such as features that affect export/import (EXIM) incentive schemes, taxation, invoicing, general ledger, and fixed assets. The second section describes additional changes to country-specific functionality for India. For more information about specific features for India, see [TechNet Library for Application Users - India](http://go.microsoft.com/fwlink/?linkid=299913).
+In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for India. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Indian installations, such as features that affect export/import (EXIM) incentive schemes, taxation, invoicing, general ledger, and fixed assets. The second section describes additional changes to country-specific functionality for India. For more information about specific features for India, see [TechNet Library for Application Users - India](https://go.microsoft.com/fwlink/?linkid=299913).
 
 ## Key features for India
 
@@ -599,7 +599,7 @@ For more information about additional country-specific features that we added fo
 <td><p>In Microsoft Dynamics AX, you can create organizational structures that align with your business processes or legal entities by using the organizational hierarchy designer. You can create legal entities by using the <strong>Legal entities</strong> form. You can enter address, contact, and tax information for legal entities.</p>
 <p>For India, you can enter the tax information for your company on the <strong>Tax registration</strong> tab in the <strong>Manage addresses</strong> form. The address, contact, and tax information is updated in the global address book.</p>
 <p>For more information, see <a href="https://technet.microsoft.com/library/jj664569(v=ax.60)">(IND) Legal entities (modified form)</a> and <a href="https://technet.microsoft.com/library/jj664593(v=ax.60)">(IND) Manage addresses (modified form)</a>.</p>
-<p>For more information about the Organization model, see the white paper <a href="http://go.microsoft.com/fwlink/?linkid=213125%26clcid=0x409">Implementing and Extending the Organization Model in Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information about the Organization model, see the white paper <a href="https://go.microsoft.com/fwlink/?linkid=213125%26clcid=0x409">Implementing and Extending the Organization Model in Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Duties and privileges are added for user roles in features for India.</p></td>

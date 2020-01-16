@@ -256,7 +256,7 @@ To complete this procedure, you must meet the following requirements:
 
   - You must be assigned to the Administrators group on the computer from which you’ll run Windows PowerShell.
 
-  - You must install the SQL Server 2008 R2 Analysis Management Objects (AMO) on the computer from which you’ll run Windows PowerShell. You can download AMO from this [page](http://www.microsoft.com/en-us/download/details.aspx?id=16978).
+  - You must install the SQL Server 2008 R2 Analysis Management Objects (AMO) on the computer from which you’ll run Windows PowerShell. You can download AMO from this [page](https://www.microsoft.com/en-us/download/details.aspx?id=16978).
 
   - You must be assigned to the Server Administrator role in Analysis Services.
 

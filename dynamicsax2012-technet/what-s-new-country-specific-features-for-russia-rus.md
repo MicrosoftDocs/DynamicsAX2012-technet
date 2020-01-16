@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Russia. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Russian installations. These features include changes to General ledger, Inventory management, sales and purchase agreements, customer and vendor invoicing, factures, and reporting. The second section describes additional changes to country-specific functionality for Russia. For more information about specific features for Russia, see [TechNet Library for Application Users - Russia](http://go.microsoft.com/fwlink/?linkid=299918).
+In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Russia. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Russian installations. These features include changes to General ledger, Inventory management, sales and purchase agreements, customer and vendor invoicing, factures, and reporting. The second section describes additional changes to country-specific functionality for Russia. For more information about specific features for Russia, see [TechNet Library for Application Users - Russia](https://go.microsoft.com/fwlink/?linkid=299918).
 
 ## Key features for Russia in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3
 

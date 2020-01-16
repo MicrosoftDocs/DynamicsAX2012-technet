@@ -45,7 +45,7 @@ A channel database profile provides the information that enables Microsoft Dynam
 
 5.  If you are using features that require Retail Server, such as Retail Modern POS, enter channel database information in the **Retail Server** FastTab. Enter the name of the server that hosts the channel database, and enter the name of the channel database.
 
-6.  If you are using Synch Service for compatibility with an earlier version of Retail POS, the **Synch Service** FastTab is displayed. For more information about how to use earlier versions of Retail POS, see the [Support for Previous POS Versions](http://go.microsoft.com/fwlink/?linkid=259822) white paper.
+6.  If you are using Synch Service for compatibility with an earlier version of Retail POS, the **Synch Service** FastTab is displayed. For more information about how to use earlier versions of Retail POS, see the [Support for Previous POS Versions](https://go.microsoft.com/fwlink/?linkid=259822) white paper.
 
 7.  To synchronize all data for the channel database, click **Full data sync** and then select the distribution schedule that is named **Full sync**.
 

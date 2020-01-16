@@ -32,7 +32,7 @@ Enterprise Portal requires one of the following SharePoint products.
 
   - Microsoft SharePoint Server 2013
 
-For a complete comparison between the SharePoint offerings, see [Compare SharePoint Editions](http://go.microsoft.com/fwlink/?linkid=225033) on the web.
+For a complete comparison between the SharePoint offerings, see [Compare SharePoint Editions](https://go.microsoft.com/fwlink/?linkid=225033) on the web.
 
 ## New features and enhancements
 
@@ -78,7 +78,7 @@ Microsoft Dynamics AX 2012 provides an improved upgrade experience from Enterpri
 
 Enterprise Portal automatically grants and denies access to data and Web pages according to the role-based security framework in Microsoft Dynamics AX 2012. Before users can view data or Enterprise Portal pages, administrators must configure role-based security. For more information, see [Set up user security in Microsoft Dynamics AX](set-up-user-security-in-microsoft-dynamics-ax.md).
 
-This version of Enterprise Portal also supports flexible authentication. Flexible authentication includes Active Directory Federated Services (ADFS) and form-based authentication. Flexible authentication can help ease administrative overhead if your organization authenticates many external user accounts in Active Directory. For more information, see [Flexible authentication](http://go.microsoft.com/fwlink/?linkid=188717).
+This version of Enterprise Portal also supports flexible authentication. Flexible authentication includes Active Directory Federated Services (ADFS) and form-based authentication. Flexible authentication can help ease administrative overhead if your organization authenticates many external user accounts in Active Directory. For more information, see [Flexible authentication](https://go.microsoft.com/fwlink/?linkid=188717).
 
 ## Improved search
 

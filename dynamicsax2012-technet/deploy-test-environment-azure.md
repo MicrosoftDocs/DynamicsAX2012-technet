@@ -84,7 +84,7 @@ To enable corporate users to access resources on the virtual machines in the Azu
 
 -   [Virtual network overview](https://msdn.microsoft.com/library/windowsazure/jj156007.aspx)
 -   [Virtual network configuration tasks](https://msdn.microsoft.com/library/jj156206.aspx)
--   [Set up a simulated hybrid cloud environment for testing](http://azure.microsoft.com/documentation/articles/virtual-networks-setup-simulated-hybrid-cloud-environment-testing/)
+-   [Set up a simulated hybrid cloud environment for testing](https://azure.microsoft.com/documentation/articles/virtual-networks-setup-simulated-hybrid-cloud-environment-testing/)
 -   [Site-to-site VPN in Azure virtual network using Windows Server 2012 Routing and Remote Access Service (RRAS)](https://msdn.microsoft.com/library/dn636917.aspx)
 -   [Configure a virtual network gateway in the management portal](https://msdn.microsoft.com/library/azure/jj156210.aspx)
 
@@ -286,7 +286,7 @@ Complete the following procedure to deploy a test environment on Azure.
 12. Click **Done**. The **Deploy environment** panel is redisplayed.
 13. The number and size of each virtual machine that will be deployed is listed. Change the number and size of the virtual machines, as needed.
     -   For information about the software installed on each virtual machine in this environment, see [Plan AX 2012 R3 deployments on Azure](plan-2012-r3-deployment-azure.md).
-    -   For sizing and pricing details about virtual machines, see [Virtual machines pricing details](http://azure.microsoft.com/pricing/details/virtual-machines/).
+    -   For sizing and pricing details about virtual machines, see [Virtual machines pricing details](https://azure.microsoft.com/pricing/details/virtual-machines/).
 
 14. Click **Software License Terms** to review the licensing terms and conditions. Then select the check box to indicate that you agree to the terms.
 15. Click **Next**.

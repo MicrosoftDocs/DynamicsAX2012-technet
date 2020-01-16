@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 
 
 The Security Upgrade Advisor Tool compares entry points and permissions between systems, and generates a list of matching privileges that can be used for a particular role. The role-to-privilege mapping is based on the user group–to–access right mapping in earlier versions of Microsoft Dynamics AX systems. The tool is designed as an aid that can help upgrade security settings and is not a one-click solution. We recommend that developers review each suggestion carefully before they make any changes.
 
-[Go to the services download page](http://go.microsoft.com/fwlink/?linkid=228151)
+[Go to the services download page](https://go.microsoft.com/fwlink/?linkid=228151)
 
 Read the documentation: [Security Upgrade Advisor Tool User Guide](security-upgrade-advisor-tool-user-guide.md)
 

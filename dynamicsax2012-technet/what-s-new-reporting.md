@@ -129,7 +129,7 @@ The [Compare Tool](https://technet.microsoft.com/library/aa849010\(v=ax.60\)) ha
 
 Management Reporter is a tool that you should use to create financial reports. Management Reporter can now be installed when you install Microsoft Dynamics AX. For installation instructions, see [Install Management Reporter server components](install-management-reporter-server-components.md).
 
-For more information about how to configure and use Management Reporter, see the Management Reporter [configuration guide](http://www.microsoft.com/en-us/download/details.aspx?id=5916) and [blog](http://blogs.msdn.com/b/dynamicscpm/).
+For more information about how to configure and use Management Reporter, see the Management Reporter [configuration guide](http://www.microsoft.com/en-us/download/details.aspx?id=5916) and [blog](https://blogs.msdn.com/b/dynamicscpm/).
 
 ## New features in Microsoft Dynamics AX 2012 R2
 
@@ -165,7 +165,7 @@ The following reporting features have been added in AX 2012.
 
 In AX 2012, the Setup wizard has been updated to simplify the process of installing the Reporting Services extensions. When you install the Reporting Services extensions, the Setup wizard will:
 
-1.  Verify that prerequisite software has been installed on the server that runs Reporting Services. For more information about the prerequisite software, see the [system requirements webpage](http://go.microsoft.com/fwlink/?linkid=165377).
+1.  Verify that prerequisite software has been installed on the server that runs Reporting Services. For more information about the prerequisite software, see the [system requirements webpage](https://go.microsoft.com/fwlink/?linkid=165377).
 
 2.  Prompt you to select an instance of Reporting Services. The extensions that you install will be configured to use this instance. For more information, see [Install Reporting Services extensions for Microsoft Dynamics AX](install-reporting-services-extensions-for-microsoft-dynamics-ax.md).
 
@@ -298,7 +298,7 @@ The following improvements have been made to the report development process.
 <td><p>When you use Microsoft Dynamics AX queries, the reporting framework was enhanced to support display methods, field groups, and dimensions. When you add a field to a field group, the field is automatically reflected throughout the application. Therefore, reports automatically add the field. Display methods are treated like fields in the query, even though the display method retrieves the data from a different table. Because of the support for dimensions, you can create a report design by using dimension attributes in the data set, and dimension attributes can be used as report parameters.</p>
 <p>An RDP class lets you write X++ code to define the business logic for your report.</p></td>
 <td><p><a href="report-data-overview.md">Report Data Overview</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=230569">Report Programming Guide</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=230569">Report Programming Guide</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Use labels on a report.</p></td>
@@ -336,7 +336,7 @@ The following improvements have been made to the report development process.
 <td><p>Use the RDP framework that supports complex business logic in X++ code.</p></td>
 <td><p>The RDP framework can support logic to handle data on a report. For example, an amount can be calculated based on a specific field.</p></td>
 <td><p><a href="how-to-use-a-report-data-provider-class-in-a-report.md">How to: Use a Report Data Provider Class in a Report</a></p>
-<p><a href="http://go.microsoft.com/fwlink/?linkid=230569">Report Programming Guide</a></p></td>
+<p><a href="https://go.microsoft.com/fwlink/?linkid=230569">Report Programming Guide</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Use services to access data and business logic for a report.</p></td>
@@ -482,7 +482,7 @@ The following features have been added so that Reporting Services reports have t
 <li><p>Modify the print settings of a Reporting Services report, based on the contents of the data that is printed. For example, you can print sales orders that total less than USD 1,000 to printer A, and sales orders that total USD 1,000 or more to printer B.</p></li>
 <li><p>Specify print settings at various levels of the application. For example, you can set up module-level print settings that apply to all documents in a specific module. Alternatively, you can set up customer-level print settings that apply to documents for specific customers.</p></li>
 </ul></td>
-<td><p><a href="http://download.microsoft.com/download/2/b/4/2b41d4f0-3072-4f93-90a5-4b0e08a96a43/printmgmtintegrationguide.pdf">Print Management Integration Guide</a></p></td>
+<td><p><a href="https://download.microsoft.com/download/2/b/4/2b41d4f0-3072-4f93-90a5-4b0e08a96a43/printmgmtintegrationguide.pdf">Print Management Integration Guide</a></p></td>
 </tr>
 </tbody>
 </table>

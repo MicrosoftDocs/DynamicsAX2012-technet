@@ -16,7 +16,7 @@ dev_langs:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-The upgrade process for Retail installations of Microsoft Dynamics AX 2012 is based on the Microsoft Dynamics AX 2012 upgrade framework, and uses procedures that are common to both Retail and non-Retail deployments. Before administrators attempt an upgrade, they must be familiar with the [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=163798) and the regularly updated upgrade documentation on TechNet.
+The upgrade process for Retail installations of Microsoft Dynamics AX 2012 is based on the Microsoft Dynamics AX 2012 upgrade framework, and uses procedures that are common to both Retail and non-Retail deployments. Before administrators attempt an upgrade, they must be familiar with the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=163798) and the regularly updated upgrade documentation on TechNet.
 
 ### ![JJ721717.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "JJ721717.collapse_all(en-us,AX.60).gif")Supported Retail upgrade paths
 
@@ -40,7 +40,7 @@ The term *in-place* describes upgrades that take place on a single computer syst
 
 Each of the following cases provides a simplified workflow of the phases that are involved in the upgrade of a Microsoft Dynamics AX Retail system. Only one of these cases will apply to your own upgrade.
 
-For complete, step-by-step documentation of the AX 2012 upgrade process, see the [Microsoft Dynamics AX 2012 Upgrade Guide](http://go.microsoft.com/fwlink/?linkid=163798), or see the latest [Upgrade to Microsoft Dynamics AX 2012](upgrade-to-microsoft-dynamics-ax-2012.md) on TechNet.
+For complete, step-by-step documentation of the AX 2012 upgrade process, see the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=163798), or see the latest [Upgrade to Microsoft Dynamics AX 2012](upgrade-to-microsoft-dynamics-ax-2012.md) on TechNet.
 
 #### ![JJ721717.collapse\_all(en-us,AX.60).gif](images/Gg841655.collapse_all(en-us,AX.60).gif "JJ721717.collapse_all(en-us,AX.60).gif")Case 1: Upgrade AX 2009 for Retail (R2 Refresh) to AX 2012 Feature Pack
 

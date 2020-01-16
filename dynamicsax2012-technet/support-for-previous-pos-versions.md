@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 This white paper describes how to enable previous versions of Retail Point of Sale (POS) to exchange data with Microsoft Dynamics AX 2012 R2. This allows you to upgrade your Retail system store-by-store rather than all at once.
 
-[Download the paper](http://go.microsoft.com/fwlink/?linkid=259822).
+[Download the paper](https://go.microsoft.com/fwlink/?linkid=259822).
 
   
 

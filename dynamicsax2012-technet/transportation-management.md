@@ -38,7 +38,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 <p>Manage dispatch plan attainment</p>
 <p>Handle inbound and outbound flows</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
-<p>Search for blog posts about transportation and warehouse management on the Supply Chain Management blog - <a href="http://blogs.msdn.com/b/dynamicsaxscm/">Supply Chain Management in Microsoft Dynamics AX</a> (blog)</p>
+<p>Search for blog posts about transportation and warehouse management on the Supply Chain Management blog - <a href="https://blogs.msdn.com/b/dynamicsaxscm/">Supply Chain Management in Microsoft Dynamics AX</a> (blog)</p>
 <p>Learn about how to implement and deploy transportation management engines – <a href="http://www.microsoft.com/en-us/download/details.aspx?id=43385">Implementing and Deploying Transportation Management Engines</a> (white paper)</p>
 
 </td>

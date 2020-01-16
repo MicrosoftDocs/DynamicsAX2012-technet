@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Latvia. For more information, see the tables that apply to your version of the product.
 
-For more information about specific features for Latvia, see [TechNet Library for Application Users - Latvia](http://go.microsoft.com/fwlink/?linkid=299915).
+For more information about specific features for Latvia, see [TechNet Library for Application Users - Latvia](https://go.microsoft.com/fwlink/?linkid=299915).
 
 ## What’s new in AX 2012 R2
 

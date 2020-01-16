@@ -99,7 +99,7 @@ This topic includes strategies and procedures to help you troubleshoot problems 
 </tr>
 <tr class="even">
 <td><p><strong>Error: 500 Internal Server</strong></p></td>
-<td><p>If you experience this error in the Command Prompt window after you execute the Deploy-FarmSolutions script, it means that you have not installed the <a href="http://go.microsoft.com/fwlink/?linkid=277134&amp;clcid=0x409">URL Rewrite Module 2.0</a> on the SharePoint server. Install the URL Rewrite Module and then execute the Deploy-FarmSolutions script again.</p></td>
+<td><p>If you experience this error in the Command Prompt window after you execute the Deploy-FarmSolutions script, it means that you have not installed the <a href="https://go.microsoft.com/fwlink/?linkid=277134&amp;clcid=0x409">URL Rewrite Module 2.0</a> on the SharePoint server. Install the URL Rewrite Module and then execute the Deploy-FarmSolutions script again.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Error: System.Servicemodel.ServiceActivationException</strong></p></td>

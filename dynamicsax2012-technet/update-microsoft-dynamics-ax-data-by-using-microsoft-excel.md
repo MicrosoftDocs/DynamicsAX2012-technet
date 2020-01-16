@@ -65,7 +65,7 @@ After you save the workbook, the data is updated for recent transactions the nex
 
 [Integrating Microsoft Dynamics AX with Microsoft Office](integrating-microsoft-dynamics-ax-with-microsoft-office.md)
 
-[Microsoft TechNet](http://go.microsoft.com/fwlink/?linkid=275089)
+[Microsoft TechNet](https://go.microsoft.com/fwlink/?linkid=275089)
 
   
 

@@ -24,7 +24,7 @@ Follow these steps if file formats are not available for selection in the **File
 
 
 
-To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about printing financial statements using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](http://go.microsoft.com/fwlink/?linkid=324762).
+To print financial statements, you can use Management Reporter, or you can use the traditional financial statements that are included with Microsoft Dynamics AX. For more information about printing financial statements using Management Reporter, see [Management Reporter for Microsoft Dynamics ERP](https://go.microsoft.com/fwlink/?linkid=324762).
 
 The **Financial statement** form is available only when the **Financial statement (traditional)** configuration key is selected.
 

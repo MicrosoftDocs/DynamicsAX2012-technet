@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-The first step to troubleshooting a report issue is to identify the underlying cause for it. This topic describes common issues that may occur when you are defining a Microsoft Dynamics AX report. For SQL Server Reporting Services report troubleshooting information, see [Troubleshooting Report Problems](http://go.microsoft.com/fwlink/?linkid=200936%26clcid=0x409).
+The first step to troubleshooting a report issue is to identify the underlying cause for it. This topic describes common issues that may occur when you are defining a Microsoft Dynamics AX report. For SQL Server Reporting Services report troubleshooting information, see [Troubleshooting Report Problems](https://go.microsoft.com/fwlink/?linkid=200936%26clcid=0x409).
 
 The following table provides guidance to help you determine the cause of your report issue.
 
@@ -165,7 +165,7 @@ The following table provides guidance to help you determine the cause of your re
 <tr class="odd">
 <td><p>The same report contains different information when saved to different file formats.</p>
 <p>For example, a sales invoice report that is saved to an .HTML file may contain header information, line items, and totals. When the same report is saved to an .XML file, it may contain only the line items and totals.</p></td>
-<td><p>This is by design. For more information about how reports are rendered in the available file formats, see <a href="http://msdn.microsoft.com/en-us/library/dd239307(sql.105).aspx">Exporting Reports (Report Builder 3.0 and SSRS)</a> in the SQL Server documentation.</p></td>
+<td><p>This is by design. For more information about how reports are rendered in the available file formats, see <a href="https://msdn.microsoft.com/library/dd239307(sql.105).aspx">Exporting Reports (Report Builder 3.0 and SSRS)</a> in the SQL Server documentation.</p></td>
 </tr>
 <tr class="even">
 <td><p>Users receive the following error when clicking on a drill-through link on a report in Enterprise Portal:</p>
@@ -181,7 +181,7 @@ The following table provides guidance to help you determine the cause of your re
 </tr>
 <tr class="odd">
 <td><p>Tables are not aligned correctly when viewing reports in right-to-left (RTL) languages.</p></td>
-<td><p>This is a known issue with the Reporting Services tablix control. For more information about the issue, see <a href="http://blogs.msdn.com/b/dynamicsaxbi/archive/2012/10/02/known-issue-dynamic-precision-designs-spacing-issues-in-rtl-languages.aspx">Known Issue: Dynamic Precision designs spacing issues in RTL languages</a> in the Microsoft Dynamics AX Business Intelligence blog.</p></td>
+<td><p>This is a known issue with the Reporting Services tablix control. For more information about the issue, see <a href="https://blogs.msdn.com/b/dynamicsaxbi/archive/2012/10/02/known-issue-dynamic-precision-designs-spacing-issues-in-rtl-languages.aspx">Known Issue: Dynamic Precision designs spacing issues in RTL languages</a> in the Microsoft Dynamics AX Business Intelligence blog.</p></td>
 </tr>
 <tr class="even">
 <td><p>The Reporting Services extensions become unusable when additional Reporting Services instances are installed on the same computer. As a result:</p>

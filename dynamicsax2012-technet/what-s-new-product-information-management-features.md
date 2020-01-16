@@ -33,7 +33,7 @@ We have changed and added functionality in the [Product information management](
 <tr class="odd">
 <td><p>Product configuration Application Programming Interface</p></td>
 <td><p>An Application programming interface (API) is available to help existing customers who are using Product builder to migrate their existing product builder models to new product configuration models. The API will also provide a tool for developers to extend new product configuration model functionality.</p>
-<p>For more information, see the white paper titled <a href="http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-10-36-90-26/migrate-from-product-builder-to-product-configurator-microsoft-dynamics-ax-2012.pdf">Migrate from Product builder to Product configurator</a>.</p></td>
+<p>For more information, see the white paper titled <a href="https://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-10-36-90-26/migrate-from-product-builder-to-product-configurator-microsoft-dynamics-ax-2012.pdf">Migrate from Product builder to Product configurator</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Product configurator</p></td>

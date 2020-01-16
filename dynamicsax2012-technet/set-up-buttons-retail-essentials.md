@@ -18,7 +18,7 @@ This topic explains how to set up buttons that are included in grids on the poin
 
 **Prerequisite**
 
-To use the Designer for button grids, you must have the appropriate permissions to access the database. For more information, see this [TechNet article](http://go.microsoft.com/fwlink/?linkid=267571).
+To use the Designer for button grids, you must have the appropriate permissions to access the database. For more information, see this [TechNet article](https://go.microsoft.com/fwlink/?linkid=267571).
 
 ## Create a button or modify an existing button
 

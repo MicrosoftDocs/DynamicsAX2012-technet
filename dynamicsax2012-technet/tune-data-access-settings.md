@@ -89,11 +89,11 @@ If you are concerned about CPU consumption, we recommend that you start by setti
 
 Use the guidance in the following resources to help you determine how or whether to compress your tables and indexes:
 
-  - SQL Server Books online: [Creating Compressed Tables and Indexes](http://go.microsoft.com/fwlink/?linkid=210430)
+  - SQL Server Books online: [Creating Compressed Tables and Indexes](https://go.microsoft.com/fwlink/?linkid=210430)
 
-  - SQLCat article: [Data Compression: Strategy, Capacity Planning and Best Practices](http://go.microsoft.com/fwlink/?linkid=210431)
+  - SQLCat article: [Data Compression: Strategy, Capacity Planning and Best Practices](https://go.microsoft.com/fwlink/?linkid=210431)
 
-  - Database Engine team blog post: [Compression Strategies](http://go.microsoft.com/fwlink/?linkid=210424).  
+  - Database Engine team blog post: [Compression Strategies](https://go.microsoft.com/fwlink/?linkid=210424).  
 
 ## Fill factor options
 

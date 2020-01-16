@@ -109,7 +109,7 @@ The following table lists the metadata service operations that return object nam
 </tr>
 <tr class="odd">
 <td><p>string[] GetServiceNames()</p></td>
-<td><p>Returns the fully-qualified, unique XML names for all published services in Microsoft Dynamics AX. For example, http://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService.</p></td>
+<td><p>Returns the fully-qualified, unique XML names for all published services in Microsoft Dynamics AX. For example, https://schemas.microsoft.com/dynamics/2008/01/services/SalesOrderService.</p></td>
 </tr>
 <tr class="even">
 <td><p>string[] GetService GroupNames()</p></td>

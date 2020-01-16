@@ -120,7 +120,7 @@ After an Microsoft Dynamics AX 2009 report is converted, there may be additional
 </tr>
 <tr class="odd">
 <td><p>Report has data methods and you receive an error that the application requires Full Trust permissions to run correctly.</p></td>
-<td><p>Data methods must run with the FullTrust named permission set. For more information, see <a href="http://go.microsoft.com/fwlink/?linkid=224632">Code Access Security</a>.</p></td>
+<td><p>Data methods must run with the FullTrust named permission set. For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=224632">Code Access Security</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>The report parameter values no longer display in the report header.</p></td>

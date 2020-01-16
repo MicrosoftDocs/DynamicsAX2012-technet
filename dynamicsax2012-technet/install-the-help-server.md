@@ -18,7 +18,7 @@ Use this procedure to install the Help server and Help files. If you are install
 
 
 > [!NOTE]
-> <P>To install the most recent help updates, see the blog post <A href="http://blogs.msdn.com/b/axsupport/archive/2015/02/02/ax-content-help-server-update-for-ax2012-r3-is-available-easier-to-find-and-install.aspx">AX Content: Help Server update for AX2012 R3 is available, easier to find and install</A>.</P>
+> <P>To install the most recent help updates, see the blog post <A href="https://blogs.msdn.com/b/axsupport/archive/2015/02/02/ax-content-help-server-update-for-ax2012-r3-is-available-easier-to-find-and-install.aspx">AX Content: Help Server update for AX2012 R3 is available, easier to find and install</A>.</P>
 > <P>If you are upgrading Help server between Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 Feature Pack, and Microsoft Dynamics AX 2012 R2, you should review <A href="scenario-perform-in-place-upgrade-to-ax-2012-r2-or-ax-2012-r3.md">Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3</A>.</P>
 
 

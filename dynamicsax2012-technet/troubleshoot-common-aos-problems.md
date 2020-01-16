@@ -40,7 +40,7 @@ By default, if a Windows service takes longer than 30 seconds to start, the syst
 
 
 > [!WARNING]
-> <P>This section describes how to modify the registry so that the AOS Windows service has enough time to start before Windows displays an error message. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. If a problem occurs, you can restore it. For more information about how to back up and restore the registry, see <A href="http://go.microsoft.com/fwlink/?linkid=214428">Backup and recovery</A>.</P>
+> <P>This section describes how to modify the registry so that the AOS Windows service has enough time to start before Windows displays an error message. Be aware that serious problems can occur if you modify the registry incorrectly. We recommend that you back up the registry before you modify it. If a problem occurs, you can restore it. For more information about how to back up and restore the registry, see <A href="https://go.microsoft.com/fwlink/?linkid=214428">Backup and recovery</A>.</P>
 
 
 

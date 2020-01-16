@@ -22,7 +22,7 @@ You can sign up for an account for Commerce Services for Microsoft Dynamics ERP 
 > [!IMPORTANT]
 > <UL>
 > <LI>
-> <P>To enable Microsoft Dynamics AX and Commerce Services to synchronize data, you must turn on change tracking for your database. For more information, see <A href="http://msdn.microsoft.com/en-us/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
+> <P>To enable Microsoft Dynamics AX and Commerce Services to synchronize data, you must turn on change tracking for your database. For more information, see <A href="https://msdn.microsoft.com/library/bb964713.aspx">Configuring and Managing Change Tracking</A>.</P>
 > <LI>
 > <P>Microsoft Dynamics AX Application Object Server (AOS) must be run with credentials that have access to the Internet.</P></LI></UL>
 

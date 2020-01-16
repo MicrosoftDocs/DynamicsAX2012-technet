@@ -20,16 +20,16 @@ When Application Integration Framework (AIF) sends a document out of Microsoft D
 
 ``` xml
 <?xml version="1.0" encoding="UTF-8" ?> 
-<Envelope xmlns="http://schemas.microsoft.com/dynamics/2011/01/
+<Envelope xmlns="https://schemas.microsoft.com/dynamics/2011/01/
     documents/Message">
     <Header>
         <MessageId>{55240EEC-0057-4B82-A144-89F107A26F80}</MessageId> 
-        <Action>http://schemas.microsoft.com/dynamics/2008/01/services/LedgerJournalService/read</Action> 
+        <Action>https://schemas.microsoft.com/dynamics/2008/01/services/LedgerJournalService/read</Action> 
         <RequestMessageId>{7947E0F8-B07D-4344-8632-571C46129A54}<RequestMessageId /> 
     </Header>
     <Body>
-        <MessageParts xmlns="http://schemas.microsoft.com/dynamics/2011/01/documents/Message">
-        <LedgerJournal xmlns="http://schemas.microsoft.com/dynamics/2008/01/documents/LedgerJournal">
+        <MessageParts xmlns="https://schemas.microsoft.com/dynamics/2011/01/documents/Message">
+        <LedgerJournal xmlns="https://schemas.microsoft.com/dynamics/2008/01/documents/LedgerJournal">
             <DocPurpose>Original</DocPurpose>
             <SenderId>DAT</SenderId>
             <LedgerJournalTable class="entity">

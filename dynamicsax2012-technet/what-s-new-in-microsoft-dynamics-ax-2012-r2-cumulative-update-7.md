@@ -193,7 +193,7 @@ Other features were added or changed in cumulative update 7 for Microsoft Dynami
 </tr>
 <tr class="odd">
 <td><p>Data import, export, and migration</p></td>
-<td><p>As of cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Data Import/Export Framework is shipped as part of Microsoft Dynamics AX instead of as an add-on. If you have not installed cumulative update 7, the Data Import/Export Framework is available from the <a href="http://go.microsoft.com/fwlink/?linkid=255246">InformationSource services download page</a>. For detailed information about the Data Import/Export Framework, see the <a href="data-import-export-framework-user-guide-dixf-dmf.md">Data import/export framework user guide (DIXF, DMF)</a>.</p></td>
+<td><p>As of cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Data Import/Export Framework is shipped as part of Microsoft Dynamics AX instead of as an add-on. If you have not installed cumulative update 7, the Data Import/Export Framework is available from the <a href="https://go.microsoft.com/fwlink/?linkid=255246">InformationSource services download page</a>. For detailed information about the Data Import/Export Framework, see the <a href="data-import-export-framework-user-guide-dixf-dmf.md">Data import/export framework user guide (DIXF, DMF)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Office Add-ins for Microsoft Dynamics AX</p></td>
@@ -227,7 +227,7 @@ Other features were added or changed in cumulative update 7 for Microsoft Dynami
 <td><p>Update installer</p></td>
 <td><ul>
 <li><p>Support for express or advanced installation of application hotfixes.</p></li>
-<li><p>Advanced installation of hotfixes allows filtering by module, country/region, configuration key or business process from <a href="http://go.microsoft.com/fwlink/?linkid=306503">Lifecycle Services</a> (if set up).</p></li>
+<li><p>Advanced installation of hotfixes allows filtering by module, country/region, configuration key or business process from <a href="https://go.microsoft.com/fwlink/?linkid=306503">Lifecycle Services</a> (if set up).</p></li>
 <li><p>The ability to export a list of updates to a file, so that you can later use the file to speed up applying application updates to another computer.</p></li>
 <li><p>The Impact analysis wizard now enables you to select specific layers to analyze.</p></li>
 <li><p>In the software update checklist, the <strong>Merge code automatically</strong> checklist item was added.</p></li>

@@ -349,7 +349,7 @@ The process for deploying the default Analysis Services cubes that are included 
 <td><p>To deploy the default cubes that were included with AX 2009, you had to install the analysis extensions when you ran the Setup wizard. In AX 2012, the Setup wizard has been changed. The Setup wizard no longer includes an option for installing the analysis extensions.</p>
 <p>When you run the Setup wizard, you can select the <strong>Analysis Services configuration</strong> option. When you select this option, the Setup wizard performs the following actions:</p>
 <ul>
-<li><p>Verifies that prerequisite software has been installed on the server that runs Analysis Services. For more information about the prerequisite software, see the <a href="http://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></li>
+<li><p>Verifies that prerequisite software has been installed on the server that runs Analysis Services. For more information about the prerequisite software, see the <a href="https://go.microsoft.com/fwlink/?linkid=165377">system requirements</a>.</p></li>
 <li><p>Prompts you to specify the domain accounts that will be used to process cubes. The Setup wizard gives these accounts read access to the online transaction processing (OLTP) database for Microsoft Dynamics AX.</p></li>
 </ul>
 <p>The Setup wizard does not deploy the default cubes that are included with AX 2012. To deploy the cubes, you must run the Analysis Services Project wizard.</p></td>

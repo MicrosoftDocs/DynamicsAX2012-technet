@@ -143,7 +143,7 @@ Select the parameters to apply when baseline forecasts are generated. The parame
     <tbody>
     <tr class="odd">
     <td><p><strong>SSAS time series forecasting methods</strong></p></td>
-    <td><p>Use the Microsoft SQL Server Analysis Services Time Series algorithm to calculate a statistical baseline forecast. For more information about Microsoft SQL Server Analysis Services, see <a href="http://msdn.microsoft.com/en-us/library/bb677216.aspx">Microsoft Time Series Technical Reference</a>. For more information about using cubes in Microsoft Dynamics AX, see <a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a>.</p></td>
+    <td><p>Use the Microsoft SQL Server Analysis Services Time Series algorithm to calculate a statistical baseline forecast. For more information about Microsoft SQL Server Analysis Services, see <a href="https://msdn.microsoft.com/library/bb677216.aspx">Microsoft Time Series Technical Reference</a>. For more information about using cubes in Microsoft Dynamics AX, see <a href="analytics-in-microsoft-dynamics-ax.md">Analytics in Microsoft Dynamics AX</a>.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Copy over historical demand</strong></p></td>

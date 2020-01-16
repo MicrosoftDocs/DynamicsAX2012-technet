@@ -52,29 +52,29 @@ Make sure that the account that BizTalk runs under is listed as a user account i
 
 AIF service documents are always constructed from XML that conforms to a service schema definition and is contained in a special wrapper, called an envelope. For exchanges that use SOAP, such as exchanges over TCP/IP or HTTP, the envelope is the standard SOAP envelope. For other exchanges, such as through Message Queuing or the file system, AIF provides an envelope schema. The namespace for the AIF envelope schema is:
 
-    http://schemas.microsoft.com/dynamics/2011/01/documents/Message
+    https://schemas.microsoft.com/dynamics/2011/01/documents/Message
 
 For message sets, AIF uses the message-set schema. The namespace of the message-set schema is:
 
-    http://schemas.microsoft.com/Microsoft Dynamics/2009/06/documents/Batch
+    https://schemas.microsoft.com/Microsoft Dynamics/2009/06/documents/Batch
 
 AIF uses entity key schemas to contain name-value pairs, such as those used to query for a particular item during a read operation or when sending a response to a create operation. The namespaces for entity keys and entity key lists are:
     
 ```
-http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
+https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKey
 ```
     
 ```
-http://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
+https://schemas.microsoft.com/dynamics/2006/02/documents/EntityKeyList
 ```
 
 AIF aggregates common property types in the shared-types schema. The namespace for the shared-types schema is:
 
-    http://schemas.microsoft.com/dynamics/2008/01/sharedtypes
+    https://schemas.microsoft.com/dynamics/2008/01/sharedtypes
 
 AIF uses the fault schema to contain response messages about error conditions. The namespace for the fault schema is:
 
-    http://schemas.microsoft.com/dynamics/2008/01/documents/Fault
+    https://schemas.microsoft.com/dynamics/2008/01/documents/Fault
 
 **Where can I get the schema definitions for Microsoft Dynamics AX services?**
 

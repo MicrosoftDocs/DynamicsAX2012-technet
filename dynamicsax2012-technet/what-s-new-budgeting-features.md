@@ -33,12 +33,12 @@ We have changed and added functionality in the [Budgeting](budgeting.md) area fo
 <tr class="odd">
 <td><p>Budget control is integrated with general journal entry.</p></td>
 <td><p>If you are using budget control, you can validate spending, based on approved limits. You can specify that each purchase or planned purchase must be validated during processing to guarantee that the purchase does not exceed the budget funds that are available. You can use budget control for journals of the daily, allocation, and project expense account types. The vendor invoice recording journal and the vendor invoice approval journal can also be included in budget control. If you are using budget control for expense accounts, authorized users can override the available budget by transferring budget funds from other accounts. Those users can also reject purchases.</p>
-<p>For more information, see <a href="about-budget-control.md">About budget control</a> and the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_budget_control_framework_for_microsoft_dynamics_ax_2012_applications_ax_2012.pdf">Implementing the Budget Control Framework for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see <a href="about-budget-control.md">About budget control</a> and the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_budget_control_framework_for_microsoft_dynamics_ax_2012_applications_ax_2012.pdf">Implementing the Budget Control Framework for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enhanced budgeting</p></td>
 <td><p>You can customize how budget entries are transferred from other modules. You can also use new check boxes in the <strong>Budgeting parameters</strong> form to specify whether budget register entries that are created from a cross-module transfer have a draft or completed status when they are first created. Additionally, it is now easier to identify newly transferred budget register entries in the <strong>Budget register entry</strong> form, because these entries have a budget type that resembles their origin. For example, budget register entries that are created from a fixed asset budget transfer have a budget type of <strong>Fixed assets</strong>.</p>
-<p>For more information, see the white paper <a href="http://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_budgeting_for_microsoft_dynamics_ax_2012_applications_ax+2012.pdf">Implementing Budgeting for Microsoft Dynamics AX 2012</a>.</p></td>
+<p>For more information, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_budgeting_for_microsoft_dynamics_ax_2012_applications_ax+2012.pdf">Implementing Budgeting for Microsoft Dynamics AX 2012</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Make sure that purchases do not exceed approved budgets.</p></td>
@@ -70,7 +70,7 @@ We have changed and added functionality in the [Budgeting](budgeting.md) area fo
 <tr class="even">
 <td><p>Budgeting and budget control</p></td>
 <td><p>You can set up budgets and configure budget control, based on the ledger for a legal entity. The ledger provides the chart of accounts, accounting and reporting currencies, and fiscal calendar. You can specify which dimensions from the chart of accounts are available for budgeting and budget control. You can configure budget intervals, budget cycle time spans, budget thresholds, budget managers, budget groups, and the calculation that is used to check for available budget funds. The available budget funds can be verified when source document line items and accounting journals are entered.</p>
-<p>For more information, see <a href="about-budget-control.md">About budget control</a> and the white paper <a href="http://go.microsoft.com/fwlink/?linkid=213130%26clcid=0x409">Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications</a>.</p></td>
+<p>For more information, see <a href="about-budget-control.md">About budget control</a> and the white paper <a href="https://go.microsoft.com/fwlink/?linkid=213130%26clcid=0x409">Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use posting definitions for budget register entries.</p></td>
@@ -100,9 +100,9 @@ We have changed and added functionality in the [Budgeting](budgeting.md) area fo
 <td><p>You can use budget planning in AX 2012 R2 to establish a base budget, prepare and evaluate budget plans, and approve or revise budget plans. You can also generate an approved budget that can be used together with budget control. Budget planning is configurable, and supports a flexible chart of accounts and dimensions, custom-defined process configurations, and workflows. Additionally, budget planning lets you use Microsoft Excel to estimate costs to create scenarios, and provides standard reports and an analysis cube.</p>
 <p>For more information, see <a href="budget-planning-overview.md">Budget planning overview</a> and the following white papers:</p>
 <ul>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409">Configure budget planning for Microsoft AX 2012 R2</a></p></li>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409">Configure budget planning templates for Microsoft AX 2012 R2</a></p></li>
-<li><p><a href="http://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409">Strategies for Using the Budget Planning Analysis Data Cube for Microsoft AX 2012 R2</a></p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409">Configure budget planning for Microsoft AX 2012 R2</a></p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409">Configure budget planning templates for Microsoft AX 2012 R2</a></p></li>
+<li><p><a href="https://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409">Strategies for Using the Budget Planning Analysis Data Cube for Microsoft AX 2012 R2</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -821,7 +821,7 @@ Budgeting and budget control has changed considerably since AX 2009. AX 2012 inc
 
 ## More information
 
-For more information about budgeting and budget control, see the white papers [Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213130%26clcid=0x409) and [Implementing Budgeting for Microsoft Dynamics AX 2012 Applications](http://go.microsoft.com/fwlink/?linkid=213129%26clcid=0x409).
+For more information about budgeting and budget control, see the white papers [Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213130%26clcid=0x409) and [Implementing Budgeting for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213129%26clcid=0x409).
 
 ## More about budget planning in AX 2012 R2
 
@@ -1435,11 +1435,11 @@ This feature was not available in AX 2009. AX 2012 R2 includes the following maj
 
 For more detailed information about budget planning, see the following white papers:
 
-  - [Configuring budget planning for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409)
+  - [Configuring budget planning for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409)
 
-  - [Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409)
+  - [Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409)
 
-  - [Strategies for using the Budget planning analysis data cube in Microsoft Dynamics AX 2012 R2](http://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
+  - [Strategies for using the Budget planning analysis data cube in Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
 
   
 

@@ -28,7 +28,7 @@ This article explains how to use the features and services that are included in 
 <p>How Microsoft Dynamics AX integrates with Power BI for Office 365</p></td>
 <td><img src="images/Dn507140.TopicIcons_Resources(AX.60).png" title="Resources" alt="Resources" />
 <p><a href="http://www.microsoft.com/en-us/powerbi/default.aspx#fbid=skw-o4z9lps">Power BI for Office 365 (website)</a></p>
-<p><a href="http://office.microsoft.com/en-us/office365-sharepoint-online-enterprise-help/power-bi-getting-started-guide-ha104103589.aspx">Power BI: Getting Started Guide (webpage)</a></p></td>
+<p><a href="https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-getting-started-guide-ha104103589.aspx">Power BI: Getting Started Guide (webpage)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -173,9 +173,9 @@ The following diagram shows how you can use the features of Power BI for Office 
     
       - To display a report on a Role Center page in Enterprise Portal, see the “Display the report on a Role Center page” section of [Create a report by using Power View to connect to a cube](create-a-report-by-using-power-view-to-connect-to-a-cube.md).
     
-      - To display a report in a Power BI site for Office 365, see [Power BI sites on Power BI for Office 365](http://office.microsoft.com/en-ca/office365-sharepoint-online-enterprise-help/power-bi-sites-on-power-bi-for-office-365-ha104097290.aspx?ctt=5%26origin=ha104102902).
+      - To display a report in a Power BI site for Office 365, see [Power BI sites on Power BI for Office 365](https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-sites-on-power-bi-for-office-365-ha104097290.aspx?ctt=5%26origin=ha104102902).
     
-      - To display a report in the Power BI app, see the “View your own reports in the Powe BI app” section of [Power BI Windows Store app help](http://office.microsoft.com/en-ca/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
+      - To display a report in the Power BI app, see the “View your own reports in the Powe BI app” section of [Power BI Windows Store app help](https://office.microsoft.com/office365-sharepoint-online-enterprise-help/power-bi-windows-store-app-help-ha104010871.aspx?ctt=5%26origin=ha104095851).
 
   
 

@@ -14,7 +14,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Brazil. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Brazilian installations, such as features that support fiscal establishments, fiscal documents, and specific requirements for regulatory reporting. The second section describes additional changes to country-specific functionality for Brazil. For more information about specific features for Brazil, see [TechNet Library for Application Users - Brazil](http://go.microsoft.com/fwlink/?linkid=299904).
+In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Brazil. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Brazilian installations, such as features that support fiscal establishments, fiscal documents, and specific requirements for regulatory reporting. The second section describes additional changes to country-specific functionality for Brazil. For more information about specific features for Brazil, see [TechNet Library for Application Users - Brazil](https://go.microsoft.com/fwlink/?linkid=299904).
 
 ## Key features for Brazil
 

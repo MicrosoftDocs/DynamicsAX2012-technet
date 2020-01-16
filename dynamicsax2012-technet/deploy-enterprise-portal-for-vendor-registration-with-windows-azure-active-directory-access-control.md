@@ -321,11 +321,11 @@ Use the following PowerShell commands to map three different claims to the ACS s
 
 1.  From the SharePoint Management Shell, execute the following three commands:
     
-    1.  $claim1 = New-SPClaimTypeMapping -IncomingClaimType "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier" -IncomingClaimTypeDisplayName "ACS Name Identifier Claim" -LocalClaimType "http://schemas.microsoft.com/custom/claim/type/2013/07/acs-nameidentifier"
+    1.  $claim1 = New-SPClaimTypeMapping -IncomingClaimType "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier" -IncomingClaimTypeDisplayName "ACS Name Identifier Claim" -LocalClaimType "https://schemas.microsoft.com/custom/claim/type/2013/07/acs-nameidentifier"
     
-    2.  $claim2 = New-SPClaimTypeMapping -IncomingClaimType "http://schemas.microsoft.com/accesscontrolservice/2010/07/claims/identityprovider" -IncomingClaimTypeDisplayName "ACS Identity Provider" -LocalClaimType "http://schemas.microsoft.com/custom/claim/type/2013/07/acs-identityprovider"
+    2.  $claim2 = New-SPClaimTypeMapping -IncomingClaimType "https://schemas.microsoft.com/accesscontrolservice/2010/07/claims/identityprovider" -IncomingClaimTypeDisplayName "ACS Identity Provider" -LocalClaimType "https://schemas.microsoft.com/custom/claim/type/2013/07/acs-identityprovider"
     
-    3.  $claim3 = New-SPClaimTypeMapping -IncomingClaimType "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" -IncomingClaimTypeDisplayName "ACS username" -LocalClaimType "http://schemas.microsoft.com/custom/claim/type/2013/07/acs-username"
+    3.  $claim3 = New-SPClaimTypeMapping -IncomingClaimType "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" -IncomingClaimTypeDisplayName "ACS username" -LocalClaimType "https://schemas.microsoft.com/custom/claim/type/2013/07/acs-username"
 
 2.  Execute the following commands from the SharePoint Management Shell to register a token:
     

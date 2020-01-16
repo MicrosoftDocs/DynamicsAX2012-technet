@@ -114,7 +114,7 @@ To create a test system, follow these steps:
 
 4.  Restore a copy of your production system Microsoft Dynamics AX databases into SQL Server on the test system.
     
-    For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](http://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
+    For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](https://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
     
     For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094).
 
@@ -369,7 +369,7 @@ To create a development system, follow these steps:
 
 4.  Restore a copy of your test system Microsoft Dynamics AX databases into SQL Server on the development system.
     
-    For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](http://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
+    For tips that can help you restore or copy a Microsoft Dynamics AX system for testing or development purposes, see [Moving between Microsoft Dynamics AX 2012 Environments](https://blogs.msdn.com/b/axsupport/archive/2011/11/07/moving-between-microsoft-dynamics-ax-2012-environments.aspx).
     
     For system requirements, see [Microsoft Dynamics AX 2012 System Requirements](http://www.microsoft.com/en-us/download/details.aspx?id=11094).
 
@@ -752,7 +752,7 @@ The **Data upgrade checklist for in-place upgrade** contains the following tasks
 </tr>
 <tr class="odd">
 <td><p><strong>Restructure database schema for inherited tables</strong></p></td>
-<td><p>This task flattens the legacy table hierarchy to improve performance. Follow the steps in the Infolog window that the task opens. For more information, see the <a href="http://go.microsoft.com/fwlink/?linkid=238709">Upgrade best practices</a> white paper.</p></td>
+<td><p>This task flattens the legacy table hierarchy to improve performance. Follow the steps in the Infolog window that the task opens. For more information, see the <a href="https://go.microsoft.com/fwlink/?linkid=238709">Upgrade best practices</a> white paper.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Restart Application Object Server</strong></p></td>

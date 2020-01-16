@@ -72,6 +72,6 @@ In Microsoft Dynamics AX 2012, we added and changed several features that affect
 
 ## See also
 
-[TechNet library for application users](http://go.microsoft.com/fwlink/?linkid=214391)
+[TechNet library for application users](https://go.microsoft.com/fwlink/?linkid=214391)
 
-[TechNet Library for System Administrators](http://go.microsoft.com/fwlink/?linkid=214390)
+[TechNet Library for System Administrators](https://go.microsoft.com/fwlink/?linkid=214390)

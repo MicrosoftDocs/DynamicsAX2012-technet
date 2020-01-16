@@ -30,7 +30,7 @@ This section describes the changes to Enterprise Portal data, code, pages, and o
 
   - The **Data upgrade checklist** automatically upgrades Enterprise Portal ASP.NET pages from Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012 R2.
 
-  - If your business or organization currently uses Enterprise Portal on Microsoft Dynamics AX 4.0 or earlier versions, you must upgrade to Microsoft Dynamics AX 2009 before you can upgrade to Microsoft Dynamics AX 2012 R2. Also be aware that the Enterprise Portal framework in Microsoft Dynamics AX 4.0 supported X++ objects, whereas the Enterprise Portal framework in Microsoft Dynamics AX 2012 R2 supports only ASP.NET objects, not X++ objects. After you upgrade to Microsoft Dynamics AX 2012 R2, the **Data upgrade checklist** creates a list of all X++ objects that you must manually convert to ASP.NET before the objects can work with the Enterprise Portal framework in Microsoft Dynamics AX 2012. For more information, see [Framework Changes](http://go.microsoft.com/fwlink/?linkid=229073).
+  - If your business or organization currently uses Enterprise Portal on Microsoft Dynamics AX 4.0 or earlier versions, you must upgrade to Microsoft Dynamics AX 2009 before you can upgrade to Microsoft Dynamics AX 2012 R2. Also be aware that the Enterprise Portal framework in Microsoft Dynamics AX 4.0 supported X++ objects, whereas the Enterprise Portal framework in Microsoft Dynamics AX 2012 R2 supports only ASP.NET objects, not X++ objects. After you upgrade to Microsoft Dynamics AX 2012 R2, the **Data upgrade checklist** creates a list of all X++ objects that you must manually convert to ASP.NET before the objects can work with the Enterprise Portal framework in Microsoft Dynamics AX 2012. For more information, see [Framework Changes](https://go.microsoft.com/fwlink/?linkid=229073).
 
   - The **Data upgrade checklist** does not change any Enterprise Portal parameters.
 
@@ -52,7 +52,7 @@ You must complete the following tasks before you upgrade Enterprise Portal. Othe
 
 3.  You must complete the Microsoft Dynamics AX 2012 R2 **Data upgrade checklist** before you upgrade Enterprise Portal. The **Data upgrade checklist** makes important changes to data and Enterprise Portal objects. These changes are described later in this topic.
 
-4.  Enterprise Portal for Microsoft Dynamics AX 2012 R2 requires either Microsoft SharePoint Foundation 2010 or Microsoft SharePoint Server 2010. You must upgrade earlier versions of SharePoint to one of these versions before you upgrade Enterprise Portal. For more information, see [Upgrading to SharePoint Foundation 2010](http://go.microsoft.com/fwlink/?linkid=198146) or [Upgrading to SharePoint Server 2010](http://go.microsoft.com/fwlink/?linkid=198148).
+4.  Enterprise Portal for Microsoft Dynamics AX 2012 R2 requires either Microsoft SharePoint Foundation 2010 or Microsoft SharePoint Server 2010. You must upgrade earlier versions of SharePoint to one of these versions before you upgrade Enterprise Portal. For more information, see [Upgrading to SharePoint Foundation 2010](https://go.microsoft.com/fwlink/?linkid=198146) or [Upgrading to SharePoint Server 2010](https://go.microsoft.com/fwlink/?linkid=198148).
 
 ## Upgrade Enterprise Portal
 
@@ -70,7 +70,7 @@ This section describes how to upgrade an Enterprise Portal site. You must comple
 
 ## Create a new Web application
 
-Use SharePoint 2010 Central Administration to create a new Web application. For more information, see [Create a Web application (SharePoint Server 2010)](http://go.microsoft.com/fwlink/?linkid=205797).
+Use SharePoint 2010 Central Administration to create a new Web application. For more information, see [Create a Web application (SharePoint Server 2010)](https://go.microsoft.com/fwlink/?linkid=205797).
 
 ## Install Enterprise Portal on the new Web application
 
@@ -98,7 +98,7 @@ Use the following procedure to install Enterprise Portal on the new Web applicat
 
 ## Attach the content database from your Microsoft Dynamics AX 2009 Enterprise Portal site to the new Web application
 
-To retain content from an earlier version of Enterprise Portal and display that content in your Microsoft Dynamics AX 2012 R2 Enterprise Portal site, you must attach the old content database to your new Web application. For more information, see [Attach databases and upgrade to SharePoint Server 2010](http://go.microsoft.com/fwlink/?linkid=205805).
+To retain content from an earlier version of Enterprise Portal and display that content in your Microsoft Dynamics AX 2012 R2 Enterprise Portal site, you must attach the old content database to your new Web application. For more information, see [Attach databases and upgrade to SharePoint Server 2010](https://go.microsoft.com/fwlink/?linkid=205805).
 
 ## Resolve URL conflicts
 

@@ -41,7 +41,7 @@ In Microsoft Dynamics AX, users are assigned to Role Centers based on user profi
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>No. The feature is no longer available, and there is no replacement feature.</p>
-<p>For more information about security roles and licensing, see the <a href="http://download.microsoft.com/download/b/6/6/b66540b2-c8d7-4c5c-91d5-ff6760906a7b/msdax2012_security_roles_licensing_whitepaper.pdf">Security roles and licensing</a> white paper and the <a href="role-based-security-in-microsoft-dynamics-ax.md">Role-based security in Microsoft Dynamics AX</a> topic.</p></td>
+<p>For more information about security roles and licensing, see the <a href="https://download.microsoft.com/download/b/6/6/b66540b2-c8d7-4c5c-91d5-ff6760906a7b/msdax2012_security_roles_licensing_whitepaper.pdf">Security roles and licensing</a> white paper and the <a href="role-based-security-in-microsoft-dynamics-ax.md">Role-based security in Microsoft Dynamics AX</a> topic.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

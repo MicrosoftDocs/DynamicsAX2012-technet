@@ -387,5 +387,5 @@ You have now successfully created a precision design report by using the Microso
 
 [Walkthrough: Creating an Auto Design Report](walkthrough-creating-an-auto-design-report.md)
 
-[Designing Reports in Report Designer](http://go.microsoft.com/fwlink/?linkid=229038)
+[Designing Reports in Report Designer](https://go.microsoft.com/fwlink/?linkid=229038)
 

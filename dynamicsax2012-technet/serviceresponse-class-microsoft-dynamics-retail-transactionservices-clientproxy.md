@@ -28,7 +28,7 @@ dev_langs:
 <KnownTypeAttribute(GetType(Exception))> _
 <KnownTypeAttribute(GetType(RequestInfo))> _
 <KnownTypeAttribute(GetType(TrackedFault))> _
-<DataContractAttribute(Name := "ServiceResponse", Namespace := "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
+<DataContractAttribute(Name := "ServiceResponse", Namespace := "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")> _
 <KnownTypeAttribute(GetType(Object()()))> _
 Public Class ServiceResponse _
     Implements IExtensibleDataObject
@@ -41,7 +41,7 @@ Dim instance As ServiceResponse
 [KnownTypeAttribute(typeof(Exception))]
 [KnownTypeAttribute(typeof(RequestInfo))]
 [KnownTypeAttribute(typeof(TrackedFault))]
-[DataContractAttribute(Name = "ServiceResponse", Namespace = "http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = "ServiceResponse", Namespace = "https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 [KnownTypeAttribute(typeof(Object[][]))]
 public class ServiceResponse : IExtensibleDataObject
 ```
@@ -51,7 +51,7 @@ public class ServiceResponse : IExtensibleDataObject
 [KnownTypeAttribute(typeof(Exception))]
 [KnownTypeAttribute(typeof(RequestInfo))]
 [KnownTypeAttribute(typeof(TrackedFault))]
-[DataContractAttribute(Name = L"ServiceResponse", Namespace = L"http://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
+[DataContractAttribute(Name = L"ServiceResponse", Namespace = L"https://schemas.microsoft.com/dynamics/2012/05/CommerceRuntime/TransactionService")]
 [KnownTypeAttribute(typeof(array<array<Object^>^>))]
 public ref class ServiceResponse : IExtensibleDataObject
 ```

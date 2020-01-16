@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics ERP RapidStart Services lets partners and customers configure an installation of Microsoft Dynamics AX 2012 by using a cloud-based, interview-style questionnaire. The questionnaire uses general terminology about business processes instead of terms that are specific to Microsoft Dynamics AX. Partners, independent software vendors (ISVs), and customers can create, maintain, and reuse configurations that reflect their custom solutions. Partners can also create additional groups of questions to enlarge the scope of a configuration.
 
-RapidStart Services is hosted on the [Online services for Microsoft Dynamics ERP website](http://go.microsoft.com/fwlink/p/?linkid=141031).
+RapidStart Services is hosted on the [Online services for Microsoft Dynamics ERP website](https://go.microsoft.com/fwlink/p/?linkid=141031).
 
 For more information, see [Microsoft Dynamics ERP RapidStart Services](microsoft-dynamics-erp-rapidstart-services.md).
 

@@ -49,7 +49,7 @@ The following example demonstrates how to create a Web API controller for Retail
 
 To create the controller, you need to create a new class that uses the Export attribute and specify that the type is the IWebApiConfig interface. The IWebApiConfig interface has one method you can override called Register. After you override the Register method, you can call the base class to get the same mapping as an OData metadata controller.
 
-You must derive from the standard web API controller, and then you can customize the controller to meet your business needs. For more information, see [ASP.NET Web API](http://msdn.microsoft.com/en-us/library/hh833994\(v=vs.108\).aspx).
+You must derive from the standard web API controller, and then you can customize the controller to meet your business needs. For more information, see [ASP.NET Web API](https://msdn.microsoft.com/library/hh833994\(v=vs.108\).aspx).
 
 ## See also
 

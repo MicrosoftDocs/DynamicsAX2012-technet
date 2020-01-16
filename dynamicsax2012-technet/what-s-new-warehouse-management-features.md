@@ -233,7 +233,7 @@ Include quality control in any inbound or outbound processes that you set up for
 <li><p>Define a specific output location for a production order or a batch order. This enables the warehouse worker to know exactly where to pick up the goods for put away work.</p></li>
 <li><p>Generate put away work for warehouse-enabled items when you use the reporting as finish process on the Microsoft Dynamics AX client. (Previously you could only do this from a mobile device.)</p></li>
 </ul>
-<p>For more information, see blog posts on the <a href="http://blogs.msdn.com/b/axmfg/">Dynamics AX Manufacturing R&amp;D Team blog</a> and <a href="set-up-production-processes-in-a-warehouse.md">Set up production processes in a warehouse</a>.</p></td>
+<p>For more information, see blog posts on the <a href="https://blogs.msdn.com/b/axmfg/">Dynamics AX Manufacturing R&amp;D Team blog</a> and <a href="set-up-production-processes-in-a-warehouse.md">Set up production processes in a warehouse</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use bar code lookup in inbound processes</p></td>
@@ -273,7 +273,7 @@ Include quality control in any inbound or outbound processes that you set up for
 </tr>
 <tr class="even">
 <td><p>Use additional strategies when moving inventory</p></td>
-<td><p>Two new locations directive action strategies are now supported for the work order type Inventory movement: <strong>Consolidate</strong> and <strong>Empty location with no incoming work</strong>. For more information, see <a href="create-a-location-directive.md">Create a location directive</a> and the <a href="http://blogs.msdn.com/b/dynamicsaxscm/archive/2015/01/30/put-away-strategies-for-purchase-orders-possibilities-performance-and-improvements-in-cu8.aspx">Dynamics AX SCM R&amp;D Team blog</a>.</p></td>
+<td><p>Two new locations directive action strategies are now supported for the work order type Inventory movement: <strong>Consolidate</strong> and <strong>Empty location with no incoming work</strong>. For more information, see <a href="create-a-location-directive.md">Create a location directive</a> and the <a href="https://blogs.msdn.com/b/dynamicsaxscm/archive/2015/01/30/put-away-strategies-for-purchase-orders-possibilities-performance-and-improvements-in-cu8.aspx">Dynamics AX SCM R&amp;D Team blog</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Use additional production processes in a warehouse</p></td>

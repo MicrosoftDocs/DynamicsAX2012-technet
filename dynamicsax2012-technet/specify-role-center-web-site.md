@@ -28,7 +28,7 @@ Use this information to specify which web site will host the Role Centers.
 
 3.  Select a site by using the lookup icon to the right of the field and then close the form. If you are not certain which site should host Role Centers, skip this step. You can select the site later by using this form.
 
-4.  If no web sites are listed in this form, Enterprise Portal has not been installed or an Enterprise Portal web site has not been created. To learn more, see "Install Enterprise Portal and Role Centers" in the Microsoft Dynamics AX 2012 [Installation Guide](http://go.microsoft.com/fwlink/?linkid=163796).
+4.  If no web sites are listed in this form, Enterprise Portal has not been installed or an Enterprise Portal web site has not been created. To learn more, see "Install Enterprise Portal and Role Centers" in the Microsoft Dynamics AX 2012 [Installation Guide](https://go.microsoft.com/fwlink/?linkid=163796).
 
 ## See also
 

@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 This topic provides information about Microsoft Dynamics AX communities, newsgroups, blogs, and the Dynamics AX User Group (AXUG):
 
-  - The Microsoft Dynamics AX [Community site](http://www.microsoft.com/dynamics/ax/community.mspx) is a Microsoft site that provides links to newsgroups, blogs, and other related sites.
+  - The Microsoft Dynamics AX [Community site](https://www.microsoft.com/dynamics/ax/community.mspx) is a Microsoft site that provides links to newsgroups, blogs, and other related sites.
 
   - The Microsoft Dynamics AX [User Group (AXUG)](http://www.axug.com) is an association of companies sharing the common interest of optimizing their deployments. This independent community of users exchanges knowledge and best practices.
 

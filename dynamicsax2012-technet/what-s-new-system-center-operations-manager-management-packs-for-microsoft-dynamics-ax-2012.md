@@ -20,13 +20,13 @@ System Center Operations Manager management packs are available for both Microso
 
 The Management Pack for Microsoft Dynamics AX 2012 provides an end-to-end monitoring solution for Microsoft Dynamics AX. The management pack automatically discovers the entire Microsoft Dynamics AX environment, and monitors the configuration, availability, and performance of components. The management pack provides early warnings that an operator can use to proactively identify issues that can affect the performance and availability of the Microsoft Dynamics AX system.
 
-For more information, see [System Center Monitoring Pack for Microsoft Dynamics AX 2012](http://go.microsoft.com/fwlink/?linkid=393811%26clcid=0x409).
+For more information, see [System Center Monitoring Pack for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=393811%26clcid=0x409).
 
 ## Management Pack for Microsoft Dynamics AX Retail 2012 R3
 
 The Management Pack for Microsoft Dynamics AX Retail 2012 R3 provides a monitoring solution for Microsoft Dynamics AX Retail components. The management pack automatically discovers the Retail components in your environment, and monitors the configuration and availability of those components. The management pack provides early warnings that an operator can use to proactively identify issues that can affect the availability of the Microsoft Dynamics AX Retail system.
 
-For more information, see [System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3](http://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409).
+For more information, see [System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3](https://go.microsoft.com/fwlink/?linkid=393807%26clcid=0x409).
 
   
 

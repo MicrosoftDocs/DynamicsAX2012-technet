@@ -37341,7 +37341,7 @@ This section contains the entire contents of CommerceRuntimeScripts.sql. There a
     WHERE rslgo.CHANNEL = @bi_ChannelId
     
         -- 4326 maps to the WGS 84 spatial reference system. Use link to see more info.
-        -- http://msdn.microsoft.com/en-us/library/bb964707.aspx
+        -- https://msdn.microsoft.com/library/bb964707.aspx
         SET @geo_CenterGeolocation = geography::STGeomFromText('POINT(' + CONVERT(VARCHAR(100), @f_Longitude) + ' ' +  CONVERT(VARCHAR(100), @f_Latitude) + ')', 4326)
     
         INSERT @GETNEARBYSTORESRESULT
@@ -80468,7 +80468,7 @@ This section contains the entire contents of CommerceRuntimeScripts.sql. There a
     CREATE VIEW [dbo].[STOREINFORMATIONVIEW] AS
     (
         -- 4326 maps to the WGS 84 spatial reference system. Use link to see more info.
-        -- http://msdn.microsoft.com/en-us/library/bb964707.aspx
+        -- https://msdn.microsoft.com/library/bb964707.aspx
         SELECT
             RST.STORENUMBER,
             RCT2.INVENTLOCATION,

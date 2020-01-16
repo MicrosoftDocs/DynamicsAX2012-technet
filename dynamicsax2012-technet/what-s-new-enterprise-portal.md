@@ -21,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## What's new
 
-The following table lists new features and changes for Enterprise Portal users. For a list of features and changes for Enterprise Portal administrators, see the [What’s new](http://go.microsoft.com/fwlink/?linkid=188672) topic for system administrators.
+The following table lists new features and changes for Enterprise Portal users. For a list of features and changes for Enterprise Portal administrators, see the [What’s new](https://go.microsoft.com/fwlink/?linkid=188672) topic for system administrators.
 
 
 > [!IMPORTANT]
