@@ -2,8 +2,9 @@
 title: Set up system-wide synchronization options for Microsoft Outlook or Exchange Server
 TOCTitle: Set up system-wide synchronization options for Microsoft Outlook or Exchange Server
 ms:assetid: fce482b0-1966-421f-b378-31ba5fea9eb8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn879706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn879706(v=AX.60)
 ms:contentKeyID: 63836100
+author: Khairunj
 ms.date: 12/19/2014
 mtps_version: v=AX.60
 ---

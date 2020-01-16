@@ -2,8 +2,9 @@
 title: Status of sales orders
 TOCTitle: Status of sales orders
 ms:assetid: b37e0e8d-2859-47d8-bf67-7b13406bf516
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572013(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572013(v=AX.60)
 ms:contentKeyID: 36059069
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

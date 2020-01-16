@@ -2,8 +2,9 @@
 title: Set up info code groups (Retail essentials)
 TOCTitle: Set up info code groups (Retail essentials)
 ms:assetid: 29edc4be-ab79-4b7f-b168-5b7e0460417f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859556(v=AX.60)
 ms:contentKeyID: 63820129
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: SelectedDeliveryOption.StoreAddress Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
 TOCTitle: StoreAddress Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SelectedDeliveryOption.StoreAddress
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.selecteddeliveryoption.storeaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.selecteddeliveryoption.storeaddress(v=AX.60)
 ms:contentKeyID: 65317809
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

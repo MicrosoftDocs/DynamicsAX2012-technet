@@ -2,8 +2,9 @@
 title: 'Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3'
 ms:assetid: eb8193f4-0318-427f-bcc9-2919f47afb8f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733502(v=AX.60)
 ms:contentKeyID: 49685466
+author: Khairunj
 ms.date: 07/29/2015
 mtps_version: v=AX.60
 ---
@@ -418,7 +419,7 @@ For more information about how to import a model from a file, see [How to: Expor
 
 
 
-Customer models belong to one of the customer layers. In ascending order, these layers include the ISV, VAR, CUS, and USR layers. Code upgrade is performed by layer. In other words, each customer layer is upgraded separately, starting at the lowest layer and working up through the higher layers. The lowest layer is the layer that is closest to the SYS layer. All models in a layer are upgraded as part of code upgrade in that layer. For more information, see [Layers](https://technet.microsoft.com/en-us/library/aa851164\(v=ax.60\)).
+Customer models belong to one of the customer layers. In ascending order, these layers include the ISV, VAR, CUS, and USR layers. Code upgrade is performed by layer. In other words, each customer layer is upgraded separately, starting at the lowest layer and working up through the higher layers. The lowest layer is the layer that is closest to the SYS layer. All models in a layer are upgraded as part of code upgrade in that layer. For more information, see [Layers](https://technet.microsoft.com/library/aa851164\(v=ax.60\)).
 
 
 > [!IMPORTANT]
@@ -426,7 +427,7 @@ Customer models belong to one of the customer layers. In ascending order, these 
 
 
 
-As shown in **Step 1** in **Figure 10**, you first determine the lowest non-upgraded customized layer. Use the Microsoft Dynamics AX Configuration Utility to assign this layer as the working layer. Restart the Microsoft Dynamics AX client to make this change take effect. In **Figure 10**, the VAR layer has been set as the working layer and is shown in yellow. In this example, we assume that the ISV layer has already been upgraded as described in the section “Import ISV-provided models into the development system,” earlier in this topic. For more information about how to set the working layer, see [How to: Set the Layer](https://technet.microsoft.com/en-us/library/aa673975\(v=ax.60\)).
+As shown in **Step 1** in **Figure 10**, you first determine the lowest non-upgraded customized layer. Use the Microsoft Dynamics AX Configuration Utility to assign this layer as the working layer. Restart the Microsoft Dynamics AX client to make this change take effect. In **Figure 10**, the VAR layer has been set as the working layer and is shown in yellow. In this example, we assume that the ISV layer has already been upgraded as described in the section “Import ISV-provided models into the development system,” earlier in this topic. For more information about how to set the working layer, see [How to: Set the Layer](https://technet.microsoft.com/library/aa673975\(v=ax.60\)).
 
 Next, as shown in **Step 2**, use AxUtil to delete the models in layers that are higher than the lowest non-upgraded customized layer. For more information about how to remove models by using AxUtil, see [How to: Remove (Uninstall) a Model](how-to-remove-uninstall-a-model.md).
 

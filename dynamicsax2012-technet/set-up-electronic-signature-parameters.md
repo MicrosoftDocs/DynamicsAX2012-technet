@@ -2,8 +2,9 @@
 title: Set up electronic signature parameters
 TOCTitle: Set up electronic signature parameters
 ms:assetid: 4a0275c4-e903-408e-a8b0-b3037ac9002f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309665(v=AX.60)
 ms:contentKeyID: 36056949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

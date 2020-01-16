@@ -1,9 +1,10 @@
-﻿---
+---
 title: SimpleProfiler.Dispose Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: Dispose Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.SimpleProfiler.Dispose
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.simpleprofiler.dispose(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.simpleprofiler.dispose(v=AX.60)
 ms:contentKeyID: 65319326
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ virtual void Dispose() sealed
 
 #### Implements
 
-[IDisposable.Dispose()](https://technet.microsoft.com/en-us/library/es4s3w1d\(v=ax.60\))  
+[IDisposable.Dispose()](https://technet.microsoft.com/library/es4s3w1d\(v=ax.60\))  
 
 ## See Also
 

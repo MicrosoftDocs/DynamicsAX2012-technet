@@ -2,8 +2,9 @@
 title: Setting up shipment management
 TOCTitle: Setting up shipment management
 ms:assetid: 72e85f01-6e94-445e-9537-60ad807bfb23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212957(v=AX.60)
 ms:contentKeyID: 36058128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

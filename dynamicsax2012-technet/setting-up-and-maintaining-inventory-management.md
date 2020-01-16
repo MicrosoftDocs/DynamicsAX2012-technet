@@ -2,8 +2,9 @@
 title: Setting up and maintaining Inventory management
 TOCTitle: Setting up and maintaining Inventory management
 ms:assetid: a40333b4-7a68-414a-a6be-61717d1c5549
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209462(v=AX.60)
 ms:contentKeyID: 36058814
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

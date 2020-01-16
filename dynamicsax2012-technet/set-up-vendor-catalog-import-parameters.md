@@ -2,8 +2,9 @@
 title: Set up vendor catalog import parameters
 TOCTitle: Set up vendor catalog import parameters
 ms:assetid: d46b92b1-c39c-446c-98cc-f6809380ea27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242928(v=AX.60)
 ms:contentKeyID: 36059520
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ CMR files are stored in a preconfigured folder. Use the following procedure to s
 
 ## See also
 
-[Vendor catalog import parameters (form)](https://technet.microsoft.com/en-us/library/hh227602\(v=ax.60\))
+[Vendor catalog import parameters (form)](https://technet.microsoft.com/library/hh227602\(v=ax.60\))
 
 [Import a catalog from a vendor](import-a-catalog-from-a-vendor.md)
 

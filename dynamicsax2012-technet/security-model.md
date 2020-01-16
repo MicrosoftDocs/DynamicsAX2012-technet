@@ -2,8 +2,9 @@
 title: " security model"
 TOCTitle: " security model"
 ms:assetid: DynamicsAXGlossary.1367518
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1367518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1367518(v=AX.60)
 ms:contentKeyID: 36056538
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ A structure that organizes application access control permissions by using privi
 
 ## See also
 
-[duty](https://technet.microsoft.com/en-us/library/hh877323\(v=ax.60\))
+[duty](https://technet.microsoft.com/library/hh877323\(v=ax.60\))
 
 [permission](permission.md)
 

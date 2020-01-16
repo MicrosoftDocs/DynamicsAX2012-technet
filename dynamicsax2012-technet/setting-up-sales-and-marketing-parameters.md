@@ -2,8 +2,9 @@
 title: Setting up Sales and marketing parameters
 TOCTitle: Setting up Sales and marketing parameters
 ms:assetid: 7657f899-e0ad-43ea-9803-b51d9bdd6ef1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550037(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550037(v=AX.60)
 ms:contentKeyID: 36058187
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ You can set the telephony activities and any prefix numbers that are required to
 
 You can set the number sequences. These codes are used with the corresponding references when new records for prospects are created.
 
-For more information, and for descriptions of individual fields, see [Sales and marketing parameters (form)](https://technet.microsoft.com/en-us/library/aa617498\(v=ax.60\)).
+For more information, and for descriptions of individual fields, see [Sales and marketing parameters (form)](https://technet.microsoft.com/library/aa617498\(v=ax.60\)).
 
   
 

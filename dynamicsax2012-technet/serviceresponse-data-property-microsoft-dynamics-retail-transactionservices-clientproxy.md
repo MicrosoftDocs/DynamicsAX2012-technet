@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceResponse.Data Property  (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: Data Property
 ms:assetid: P:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ServiceResponse.Data
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.serviceresponse.data(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.serviceresponse.data(v=AX.60)
 ms:contentKeyID: 49854416
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<Object^>^ Data {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Set up number sequence for upgrade
 TOCTitle: Set up number sequence for upgrade
 ms:assetid: 98efee6f-bb16-4850-9ccb-8ab0fc6f9398
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731876(v=AX.60)
 ms:contentKeyID: 35132778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Use the **Set up number sequence for upgrade** form to set up the number sequenc
 
 ## See also
 
-[Set up number sequence for upgrade (form)](https://technet.microsoft.com/en-us/library/hh202085\(v=ax.60\))
+[Set up number sequence for upgrade (form)](https://technet.microsoft.com/library/hh202085\(v=ax.60\))
 
   
 

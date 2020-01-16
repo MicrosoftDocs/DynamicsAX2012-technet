@@ -2,8 +2,9 @@
 title: Set up alert email templates in HTML
 TOCTitle: Set up alert email templates in HTML
 ms:assetid: 86111fcc-f8dc-4a0d-9b74-19aa4a46040b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834405(v=AX.60)
 ms:contentKeyID: 46687553
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 [About setting up alert email templates](about-setting-up-alert-email-templates.md)
 
-[Syntax of HTML template for alert emails](https://technet.microsoft.com/en-us/library/aa834376\(v=ax.60\))
+[Syntax of HTML template for alert emails](https://technet.microsoft.com/library/aa834376\(v=ax.60\))
 
 [Set up alert email templates in XSLT](set-up-alert-email-templates-in-xslt.md)
 

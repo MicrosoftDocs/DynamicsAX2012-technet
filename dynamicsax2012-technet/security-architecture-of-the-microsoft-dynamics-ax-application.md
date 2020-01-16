@@ -2,8 +2,9 @@
 title: Security architecture of the Microsoft Dynamics AX application
 TOCTitle: Security architecture of the Microsoft Dynamics AX application
 ms:assetid: 7d8a9cda-d97f-4b99-acd7-a42b9b662656
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496919(v=AX.60)
 ms:contentKeyID: 35132694
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -39,7 +40,7 @@ For more information about role-based security in Microsoft Dynamics AX, see [Ro
 
 Authorization is used to grant access to elements of the application. By contrast, data security is used to deny access to tables, fields, and rows in the database.
 
-Use the extensible data security framework to control access to transactional data by assigning data security policies to security roles. Data security policies can restrict access to data, based on the effective date or based on user data, such as the sales territory or organization. For more information about how to use data security policies in Microsoft Dynamics AX, see [Overview of Security Policies for Table Records](https://technet.microsoft.com/en-us/library/hh272123\(v=ax.60\)).
+Use the extensible data security framework to control access to transactional data by assigning data security policies to security roles. Data security policies can restrict access to data, based on the effective date or based on user data, such as the sales territory or organization. For more information about how to use data security policies in Microsoft Dynamics AX, see [Overview of Security Policies for Table Records](https://technet.microsoft.com/library/hh272123\(v=ax.60\)).
 
 In addition to the extensible data security framework, record-level security can be used to limit access to data that is based on a query. However, because the record-level security feature is becoming obsolete in a future release of Microsoft Dynamics AX, we recommend that you use data security policies, instead.
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveStoreOperationResponse Constructor (DropAndDeclareTransaction) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: SaveStoreOperationResponse Constructor (DropAndDeclareTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveStoreOperationResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.DropAndDeclareTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savestoreoperationresponse.savestoreoperationresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savestoreoperationresponse.savestoreoperationresponse(v=AX.60)
 ms:contentKeyID: 62210237
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

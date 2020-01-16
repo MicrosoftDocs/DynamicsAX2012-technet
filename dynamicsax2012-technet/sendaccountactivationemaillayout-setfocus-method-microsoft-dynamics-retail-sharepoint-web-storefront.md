@@ -1,9 +1,10 @@
-﻿---
+---
 title: SendAccountActivationEmailLayout.SetFocus Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront)
 TOCTitle: SetFocus Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.SendAccountActivationEmailLayout.SetFocus
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.sendaccountactivationemaillayout.setfocus(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.sendaccountactivationemaillayout.setfocus(v=AX.60)
 ms:contentKeyID: 62206087
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,13 +32,13 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/e04ah0f4(v=ax.60)">SetFocus(Control)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/dfbt9et1(v=ax.60)">Page</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/e04ah0f4(v=ax.60)">SetFocus(Control)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/dfbt9et1(v=ax.60)">Page</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/cssff821(v=ax.60)">SetFocus(String)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/dfbt9et1(v=ax.60)">Page</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/cssff821(v=ax.60)">SetFocus(String)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/dfbt9et1(v=ax.60)">Page</a>.)</td>
 </tr>
 </tbody>
 </table>

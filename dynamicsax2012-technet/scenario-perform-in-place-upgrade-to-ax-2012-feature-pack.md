@@ -2,8 +2,9 @@
 title: 'Scenario: Perform in-place upgrade to AX 2012 Feature Pack'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 Feature Pack'
 ms:assetid: eadfc86d-fcc0-4c96-aa96-1a58a6e82590
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863522(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863522(v=AX.60)
 ms:contentKeyID: 50395322
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

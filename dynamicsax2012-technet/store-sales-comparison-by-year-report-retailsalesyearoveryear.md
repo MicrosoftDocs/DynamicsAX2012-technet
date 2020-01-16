@@ -2,8 +2,9 @@
 title: Store sales comparison by year report (RetailSalesYearOverYear)
 TOCTitle: Store sales comparison by year report (RetailSalesYearOverYear)
 ms:assetid: b430ac06-19f5-413a-bf75-635a34c8598e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697694(v=AX.60)
 ms:contentKeyID: 42518522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

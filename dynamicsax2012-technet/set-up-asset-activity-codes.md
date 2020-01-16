@@ -2,8 +2,9 @@
 title: Set up asset activity codes
 TOCTitle: Set up asset activity codes
 ms:assetid: c7b59886-fd84-4564-8faf-5c81dd62b6df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242848(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242848(v=AX.60)
 ms:contentKeyID: 36059315
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,11 +42,11 @@ Asset activity codes are often used together with other fixed asset codes, such 
 
 ## See also
 
-[Asset activity codes (form)](https://technet.microsoft.com/en-us/library/hh227477\(v=ax.60\))
+[Asset activity codes (form)](https://technet.microsoft.com/library/hh227477\(v=ax.60\))
 
-[Fixed asset groups (form)](https://technet.microsoft.com/en-us/library/aa573347\(v=ax.60\))
+[Fixed asset groups (form)](https://technet.microsoft.com/library/aa573347\(v=ax.60\))
 
-[Property groups (form)](https://technet.microsoft.com/en-us/library/hh242668\(v=ax.60\))
+[Property groups (form)](https://technet.microsoft.com/library/hh242668\(v=ax.60\))
 
   
 

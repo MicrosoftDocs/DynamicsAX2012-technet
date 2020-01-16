@@ -2,8 +2,9 @@
 title: 'Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date'
 TOCTitle: 'Scenario: Settle a partial vendor payment and settle the final payment in full before the discount date'
 ms:assetid: 99928c66-04f5-4534-9cfa-6b774668f031
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597186(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597186(v=AX.60)
 ms:contentKeyID: 39519251
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Fabrikam buys goods from vendor 3064. The vendor gives Fabrikam a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. The vendor also lets Fabrikam take cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts payable](about-parameters-for-settlements-in-accounts-payable.md) and [Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\)).
+Fabrikam buys goods from vendor 3064. The vendor gives Fabrikam a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. The vendor also lets Fabrikam take cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts payable](about-parameters-for-settlements-in-accounts-payable.md) and [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)).
 
 On June 25, April enters an invoice for 1,000.00 for vendor 3064.
 

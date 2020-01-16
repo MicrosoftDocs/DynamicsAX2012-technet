@@ -2,8 +2,9 @@
 title: Statement total report (RetailStatement)
 TOCTitle: Statement total report (RetailStatement)
 ms:assetid: a318dd6d-708f-423f-9c22-1c343157fbbc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697685(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697685(v=AX.60)
 ms:contentKeyID: 42518433
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: SQL Server topology recommendations for availability and performance
 TOCTitle: SQL Server topology recommendations for availability and performance
 ms:assetid: c526201c-e55b-4d39-94bf-4ac85a2ef60f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362068(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362068(v=AX.60)
 ms:contentKeyID: 39555407
+author: Khairunj
 ms.date: 03/15/2017
 mtps_version: v=AX.60
 ---

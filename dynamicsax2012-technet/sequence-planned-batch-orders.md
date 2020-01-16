@@ -2,8 +2,9 @@
 title: Sequence planned batch orders
 TOCTitle: Sequence planned batch orders
 ms:assetid: 988986c1-28f5-4777-9010-45b9656e8a45
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838744(v=AX.60)
 ms:contentKeyID: 50120627
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,9 +30,9 @@ You can also select the sequenced planned orders on the **Sequenced planned orde
 
 ## See also
 
-[Sequenced planned orders (form)](https://technet.microsoft.com/en-us/library/jj838772\(v=ax.60\))
+[Sequenced planned orders (form)](https://technet.microsoft.com/library/jj838772\(v=ax.60\))
 
-[(PM) Planned orders (form)](https://technet.microsoft.com/en-us/library/hh328645\(v=ax.60\))
+[(PM) Planned orders (form)](https://technet.microsoft.com/library/hh328645\(v=ax.60\))
 
   
 

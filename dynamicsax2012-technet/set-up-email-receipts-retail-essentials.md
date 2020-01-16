@@ -2,8 +2,9 @@
 title: Set up email receipts (Retail essentials)
 TOCTitle: Set up email receipts (Retail essentials)
 ms:assetid: 413b1b34-187b-4dd7-859e-d07466a0d578
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859560(v=AX.60)
 ms:contentKeyID: 63820134
+author: Khairunj
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---
@@ -73,7 +74,7 @@ Set up default customer receipt options for customers who are not set up in Reta
 
 ## See also
 
-[Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\))
+[Retail parameters (form)](https://technet.microsoft.com/library/hh597194\(v=ax.60\))
 
   
 

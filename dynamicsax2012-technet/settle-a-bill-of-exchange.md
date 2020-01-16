@@ -2,8 +2,9 @@
 title: Settle a bill of exchange
 TOCTitle: Settle a bill of exchange
 ms:assetid: c9f2e52d-bd35-420c-8ab4-d836a9cccf53
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499074(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499074(v=AX.60)
 ms:contentKeyID: 36059328
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ You can settle the bill of exchange when the invoice is due.
     
 
     > [!NOTE]
-    > <P>If you receive a message that mentions posting restrictions, you can post only the journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you receive a message that mentions posting restrictions, you can post only the journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -67,9 +68,9 @@ Use the **Remittance files for customers** form to change the status of a bill o
 
 [Set up bills of exchange](set-up-bills-of-exchange.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Remittance files for customers (form)](https://technet.microsoft.com/en-us/library/aa596345\(v=ax.60\))
+[Remittance files for customers (form)](https://technet.microsoft.com/library/aa596345\(v=ax.60\))
 
   
 

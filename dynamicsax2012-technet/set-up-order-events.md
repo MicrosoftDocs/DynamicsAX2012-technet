@@ -2,8 +2,9 @@
 title: Set up order events
 TOCTitle: Set up order events
 ms:assetid: c6261c6f-c127-43d3-a820-19c3270b233b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497826(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497826(v=AX.60)
 ms:contentKeyID: 62221426
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

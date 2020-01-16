@@ -2,8 +2,9 @@
 title: Setting up time and attendance
 TOCTitle: Setting up time and attendance
 ms:assetid: 441b0386-ff33-4ab1-897a-d5a941a44192
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496971(v=AX.60)
 ms:contentKeyID: 36056884
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

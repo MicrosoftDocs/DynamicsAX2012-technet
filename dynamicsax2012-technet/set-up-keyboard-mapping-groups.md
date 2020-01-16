@@ -2,8 +2,9 @@
 title: Set up keyboard mapping groups
 TOCTitle: Set up keyboard mapping groups
 ms:assetid: 98e5d5b1-b845-457f-b054-3a37add85b1c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597183(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597183(v=AX.60)
 ms:contentKeyID: 39519248
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ Use the **Keyboard mapping groups** form to set up and view the keyboard mapping
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
-[Keyboard mapping groups (form)](https://technet.microsoft.com/en-us/library/hh597324\(v=ax.60\))
+[Keyboard mapping groups (form)](https://technet.microsoft.com/library/hh597324\(v=ax.60\))
 
-[Keyboard mapping (form)](https://technet.microsoft.com/en-us/library/hh597342\(v=ax.60\))
+[Keyboard mapping (form)](https://technet.microsoft.com/library/hh597342\(v=ax.60\))
 
   
 

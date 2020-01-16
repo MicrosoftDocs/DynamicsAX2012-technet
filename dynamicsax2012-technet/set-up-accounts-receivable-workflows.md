@@ -2,8 +2,9 @@
 title: Set up Accounts receivable workflows
 TOCTitle: Set up Accounts receivable workflows
 ms:assetid: d48a1492-47d1-4c69-a736-8e4dcf8529cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213694(v=AX.60)
 ms:contentKeyID: 36059521
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -210,7 +211,7 @@ The following calculated fields and expressions are used with Accounts receivabl
 
 ## See also
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
 [About free text invoice workflows](about-free-text-invoice-workflows.md)
 

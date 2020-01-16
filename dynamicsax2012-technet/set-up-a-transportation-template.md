@@ -2,8 +2,9 @@
 title: Set up a transportation template
 TOCTitle: Set up a transportation template
 ms:assetid: 7bd474cd-4fba-4389-b8d1-74a7de3ee7ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553174(v=AX.60)
 ms:contentKeyID: 62200104
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

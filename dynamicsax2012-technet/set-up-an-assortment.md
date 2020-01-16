@@ -2,8 +2,9 @@
 title: Set up an assortment
 TOCTitle: Set up an assortment
 ms:assetid: 7e0bb912-9ca3-4123-99a8-f887e828128b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597144(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597144(v=AX.60)
 ms:contentKeyID: 39519200
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -85,15 +86,15 @@ After you create an assortment and assign it to the appropriate retail channels,
 
 ## See also
 
-[Assortments (list page)](https://technet.microsoft.com/en-us/library/hh597112\(v=ax.60\))
+[Assortments (list page)](https://technet.microsoft.com/library/hh597112\(v=ax.60\))
 
-[Assortment (form)](https://technet.microsoft.com/en-us/library/hh580644\(v=ax.60\))
+[Assortment (form)](https://technet.microsoft.com/library/hh580644\(v=ax.60\))
 
 [About setting up assortments](about-setting-up-assortments.md)
 
 [View assortment products](view-assortment-products.md)
 
-[Retail assortments job (form)](https://technet.microsoft.com/en-us/library/hh597306\(v=ax.60\))
+[Retail assortments job (form)](https://technet.microsoft.com/library/hh597306\(v=ax.60\))
 
   
 

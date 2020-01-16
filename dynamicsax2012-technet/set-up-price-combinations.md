@@ -2,8 +2,9 @@
 title: Set up price combinations
 TOCTitle: Set up price combinations
 ms:assetid: 007c732b-6bab-445e-8357-10ea45986d97
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569681(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569681(v=AX.60)
 ms:contentKeyID: 36055916
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Set up trade allowance templates
 TOCTitle: Set up trade allowance templates
 ms:assetid: 454dbaa0-4cc1-4898-b6a7-e1f1283daa05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497741(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497741(v=AX.60)
 ms:contentKeyID: 62500051
+author: Khairunj
 ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:

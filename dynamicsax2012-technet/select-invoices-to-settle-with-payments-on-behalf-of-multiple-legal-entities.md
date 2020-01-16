@@ -2,8 +2,9 @@
 title: Select invoices to settle with payments on behalf of multiple legal entities
 TOCTitle: Select invoices to settle with payments on behalf of multiple legal entities
 ms:assetid: 462738d8-b17f-4529-9d49-274862f9d4eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231384(v=AX.60)
 ms:contentKeyID: 36056901
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ In organizations that use centralized payment processing, each operating legal e
 
 [About centralized customer payments](about-centralized-customer-payments.md)
 
-[Customer payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa550814\(v=ax.60\))
+[Customer payment proposal (class form)](https://technet.microsoft.com/library/aa550814\(v=ax.60\))
 
   
 

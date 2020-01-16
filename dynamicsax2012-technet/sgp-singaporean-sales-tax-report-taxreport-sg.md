@@ -2,8 +2,9 @@
 title: (SGP) Singaporean sales tax report (TaxReport_SG)
 TOCTitle: (SGP) Singaporean sales tax report (TaxReport_SG)
 ms:assetid: 3b247c08-8640-40cb-b27a-d386e451a698
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh371726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh371726(v=AX.60)
 ms:contentKeyID: 36814939
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up General ledger year-end processes (Public sector)
 TOCTitle: Set up General ledger year-end processes (Public sector)
 ms:assetid: 3ddecfa3-ea60-4bbe-a323-95ac0954d92a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208524(v=AX.60)
 ms:contentKeyID: 36056272
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ If you are in the public sector and are using general budget reservations, see a
 
 To set up year-end processes, complete the following tasks:
 
-1.  Select a closing type for the closing account, such as nominal or real. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\)).
+1.  Select a closing type for the closing account, such as nominal or real. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\)).
 
 2.  [Set up posting definitions](set-up-posting-definitions.md): Define which originating and generated accounts will be updated at closing.
     
@@ -75,13 +76,13 @@ To set up year-end processes, complete the following tasks:
 
 ## See also
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
-[Opening transactions (form)](https://technet.microsoft.com/en-us/library/aa572506\(v=ax.60\))
+[Opening transactions (form)](https://technet.microsoft.com/library/aa572506\(v=ax.60\))
 
-[Preview year-end General ledger transactions (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208564\(v=ax.60\))
+[Preview year-end General ledger transactions (form) (Public sector)](https://technet.microsoft.com/library/hh208564\(v=ax.60\))
 
   
 

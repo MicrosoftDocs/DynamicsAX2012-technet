@@ -2,8 +2,9 @@
 title: Service Management configuration key (SMAManagement)
 TOCTitle: Service Management configuration key (SMAManagement)
 ms:assetid: 22dec5d4-fae2-45b4-9108-f6d41aa995a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573384(v=AX.60)
 ms:contentKeyID: 36997746
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -163,11 +164,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Copy template lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599119(v=ax.60)">Copy service template lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599119(v=ax.60)">Copy service template lines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Create service agreement</strong></p></td>
@@ -175,7 +176,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Create service order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553901(v=ax.60)">Create service orders (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553901(v=ax.60)">Create service orders (class form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Dispatch teams</strong></p></td>
@@ -187,7 +188,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Service agreement details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Service agreement groups</strong></p></td>
@@ -195,7 +196,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Service agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Service agreements</strong></p></td>
@@ -203,7 +204,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Service agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617823(v=ax.60)">Service agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Service intervals</strong></p></td>
@@ -215,7 +216,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Service management parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634925(v=ax.60)">Service management parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634925(v=ax.60)">Service management parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service object groups</strong></p></td>
@@ -227,11 +228,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Service order details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Service order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service orders ready for posting</strong></p></td>
@@ -239,7 +240,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Service orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service stages</strong></p></td>
@@ -247,7 +248,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Service tasks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600626(v=ax.60)">Service task relations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600626(v=ax.60)">Service task relations (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service tasks</strong></p></td>
@@ -255,7 +256,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Service template groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598001(v=ax.60)">Service template groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598001(v=ax.60)">Service template groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service templates</strong></p></td>
@@ -263,23 +264,23 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>SLA time recording</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242794(v=ax.60)">SLA time recording (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242794(v=ax.60)">SLA time recording (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Stage reason codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554323(v=ax.60)">Stage reason codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554323(v=ax.60)">Stage reason codes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Stage reasons</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582897(v=ax.60)">Stage reasons (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582897(v=ax.60)">Stage reasons (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Template lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599119(v=ax.60)">Copy service template lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599119(v=ax.60)">Copy service template lines (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Time recording</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242794(v=ax.60)">SLA time recording (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242794(v=ax.60)">SLA time recording (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Time window</strong></p></td>
@@ -287,7 +288,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>View service orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554361(v=ax.60)">Service orders (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Web service orders</strong></p></td>
@@ -337,7 +338,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

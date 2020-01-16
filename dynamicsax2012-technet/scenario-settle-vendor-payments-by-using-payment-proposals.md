@@ -2,8 +2,9 @@
 title: 'Scenario: Settle vendor payments by using payment proposals'
 TOCTitle: 'Scenario: Settle vendor payments by using payment proposals'
 ms:assetid: 2569c66a-2f90-4686-9d2f-71b9309542c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580587(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580587(v=AX.60)
 ms:contentKeyID: 39519070
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

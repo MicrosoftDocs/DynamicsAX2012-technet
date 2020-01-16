@@ -2,8 +2,9 @@
 title: Set up a rating profile
 TOCTitle: Set up a rating profile
 ms:assetid: 4a3ed5e8-3e85-4da0-94fd-72bb69cbc0e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553162(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553162(v=AX.60)
 ms:contentKeyID: 62524892
+author: Khairunj
 ms.date: 06/25/2014
 mtps_version: v=AX.60
 audience: Application User

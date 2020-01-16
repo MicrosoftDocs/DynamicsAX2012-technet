@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesTaxGroupPicker.Create Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: Create Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.SalesTaxGroupPicker.Create(Microsoft.Dynamics.Commerce.Runtime.DataModel.Channel,Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address,System.String,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.salestaxgrouppicker.create(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.salestaxgrouppicker.create(v=AX.60)
 ms:contentKeyID: 65315811
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,17 +87,17 @@ static SalesTaxGroupPicker^ Create(
 <!-- end list -->
 
   - deliveryMode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - fulfillmentStoreId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - shippingFromInventLocation  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

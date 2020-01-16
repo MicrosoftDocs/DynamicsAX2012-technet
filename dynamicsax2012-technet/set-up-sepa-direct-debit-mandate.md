@@ -2,8 +2,9 @@
 title: Set up SEPA direct debit mandate
 TOCTitle: Set up SEPA direct debit mandate
 ms:assetid: 93f488e1-fbe9-44d2-9d4a-f0db94576f24
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268415(v=AX.60)
 ms:contentKeyID: 54916952
+author: Khairunj
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 f1_keywords:

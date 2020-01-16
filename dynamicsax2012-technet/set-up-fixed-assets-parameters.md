@@ -2,8 +2,9 @@
 title: Set up Fixed assets parameters
 TOCTitle: Set up Fixed assets parameters
 ms:assetid: ce5dea52-e966-4d53-8343-409b9fad6dda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572695(v=AX.60)
 ms:contentKeyID: 36059468
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 To set up Fixed assets, you must specify parameters in the **Fixed assets parameters** form.
 
-For information about these fields, see [Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\)).
+For information about these fields, see [Fixed assets parameters (form)](https://technet.microsoft.com/library/hh242490\(v=ax.60\)).
 
 1.  Click **Fixed assets** \> **Setup** \> **Fixed assets parameters**.
 
@@ -42,9 +43,9 @@ For information about these fields, see [Fixed assets parameters (form)](https:/
 
 [Basic setup of Fixed assets](basic-setup-of-fixed-assets.md)
 
-[Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\))
+[Fixed assets parameters (form)](https://technet.microsoft.com/library/hh242490\(v=ax.60\))
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
 [About financial reason codes](about-financial-reason-codes.md)
 

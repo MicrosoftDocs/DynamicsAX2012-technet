@@ -1,9 +1,10 @@
-﻿---
+---
 title: SortingInfo Constructor (String, Boolean) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SortingInfo Constructor (String, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SortingInfo.#ctor(System.String,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.sortinginfo.sortinginfo(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.sortinginfo.sortinginfo(v=AX.60)
 ms:contentKeyID: 65319595
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ SortingInfo(
 #### Parameters
 
   - columnName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - isDescending  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

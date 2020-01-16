@@ -2,8 +2,9 @@
 title: Setting up production flows and activities
 TOCTitle: Setting up production flows and activities
 ms:assetid: 3d7e52a8-bd1c-49a1-a218-1e55c585fe2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242240(v=AX.60)
 ms:contentKeyID: 36056681
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up interest rates for an interest code
 TOCTitle: Set up interest rates for an interest code
 ms:assetid: cbdda5aa-6baf-43fe-b08d-9030a2c42dd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213664(v=AX.60)
 ms:contentKeyID: 36059345
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ This procedure explains how to set up interest rates for interest that you earn 
     
 
     > [!NOTE]
-    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/en-us/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
+    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
 
 
 
@@ -99,7 +100,7 @@ This procedure explains how to set up interest rates for interest that you earn 
     
 
     > [!NOTE]
-    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/en-us/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
+    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
 
 
 
@@ -139,7 +140,7 @@ This procedure explains how to set up interest rates for interest that you earn 
     
 
     > [!NOTE]
-    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/en-us/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
+    > <P>When you first set up an interest code, the accounting currency code is selected in the <STRONG>Currency</STRONG> field. For more information about the <STRONG>Currency</STRONG> field, see <A href="https://technet.microsoft.com/library/aa574050(v=ax.60)">Interest setup (form)</A>.</P>
 
 
 
@@ -381,7 +382,7 @@ You set up the range information as follows.
 
 ## See also
 
-[Interest setup (form)](https://technet.microsoft.com/en-us/library/aa574050\(v=ax.60\))
+[Interest setup (form)](https://technet.microsoft.com/library/aa574050\(v=ax.60\))
 
 [Calculate interest and create interest notes](calculate-interest-and-create-interest-notes.md)
 

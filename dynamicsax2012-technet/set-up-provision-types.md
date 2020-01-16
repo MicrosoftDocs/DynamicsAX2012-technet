@@ -2,8 +2,9 @@
 title: Set up provision types
 TOCTitle: Set up provision types
 ms:assetid: 942dba37-0831-4f41-bdbf-55f46c8b9ff2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498395(v=AX.60)
 ms:contentKeyID: 36058593
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

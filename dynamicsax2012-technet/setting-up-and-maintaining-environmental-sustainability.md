@@ -2,8 +2,9 @@
 title: Setting up and maintaining Environmental sustainability
 TOCTitle: Setting up and maintaining Environmental sustainability
 ms:assetid: 663dd3c4-5773-4fc2-b99b-9f541f558820
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242456(v=AX.60)
 ms:contentKeyID: 36057752
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

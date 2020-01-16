@@ -1,9 +1,10 @@
-﻿---
+---
 title: Services and AIF operations
 TOCTitle: Services and AIF operations
 ms:assetid: 72e9566c-ce49-4321-a80f-5a9455ad9108
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731830(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731830(v=AX.60)
 ms:contentKeyID: 35132679
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

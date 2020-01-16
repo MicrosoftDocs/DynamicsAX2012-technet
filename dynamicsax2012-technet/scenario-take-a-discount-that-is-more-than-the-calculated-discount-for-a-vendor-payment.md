@@ -2,8 +2,9 @@
 title: 'Scenario: Take a discount that is more than the calculated discount for a vendor payment'
 TOCTitle: 'Scenario: Take a discount that is more than the calculated discount for a vendor payment'
 ms:assetid: 8ffae42a-e65c-4139-bb99-b58619e63468
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597172(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597172(v=AX.60)
 ms:contentKeyID: 39519232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

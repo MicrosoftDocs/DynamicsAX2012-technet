@@ -2,8 +2,9 @@
 title: Set up parameters to create a warehouse location
 TOCTitle: Set up parameters to create a warehouse location
 ms:assetid: 2f7d39ba-6e15-4d3f-a181-23d0e8f559ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553157(v=AX.60)
 ms:contentKeyID: 62200050
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

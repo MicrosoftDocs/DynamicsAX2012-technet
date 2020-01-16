@@ -2,8 +2,9 @@
 title: Set up the pricing precision for a potency item
 TOCTitle: Set up the pricing precision for a potency item
 ms:assetid: 9859e3ac-b293-415b-90d8-89f1f2c8a097
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838743(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838743(v=AX.60)
 ms:contentKeyID: 50120626
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use this procedure to define the degree of purchase pricing precision for a spec
 
 ## See also
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

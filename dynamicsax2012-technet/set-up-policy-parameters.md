@@ -2,8 +2,9 @@
 title: Set up policy parameters
 TOCTitle: Set up policy parameters
 ms:assetid: c70691a0-73db-4410-b832-558e99f56676
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242846(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242846(v=AX.60)
 ms:contentKeyID: 36059310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -121,15 +122,15 @@ Back to top
 
 ## Find form help
 
-[Audit policy (form)](https://technet.microsoft.com/en-us/library/hh242790\(v=ax.60\))
+[Audit policy (form)](https://technet.microsoft.com/library/hh242790\(v=ax.60\))
 
-[Vendor invoice policy (form)](https://technet.microsoft.com/en-us/library/hh209409\(v=ax.60\))
+[Vendor invoice policy (form)](https://technet.microsoft.com/library/hh209409\(v=ax.60\))
 
-[Signing limit policy (form)](https://technet.microsoft.com/en-us/library/hh242788\(v=ax.60\))
+[Signing limit policy (form)](https://technet.microsoft.com/library/hh242788\(v=ax.60\))
 
-[Purchasing policy (form)](https://technet.microsoft.com/en-us/library/hh209627\(v=ax.60\))
+[Purchasing policy (form)](https://technet.microsoft.com/library/hh209627\(v=ax.60\))
 
-[Expense policies (form)](https://technet.microsoft.com/en-us/library/hh208982\(v=ax.60\))
+[Expense policies (form)](https://technet.microsoft.com/library/hh208982\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Set up customer prenotes
 TOCTitle: Set up customer prenotes
 ms:assetid: 58e0abd2-043b-4660-a1c3-965cd89606fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208973(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208973(v=AX.60)
 ms:contentKeyID: 36057344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ A prenote is a zero-dollar transaction that is sent to a bank through the Automa
 
 Before you can create prenotes for your organization’s bank, you must follow these steps:
 
-  - Define the prenote number sequence. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\)).
+  - Define the prenote number sequence. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\)).
 
   - Set up an organizational bank to require prenotes. For more information, see the following procedure.
 
@@ -88,7 +89,7 @@ Follow these steps to create a customer account prenote for your organization’
 
 [Set up vendor prenotes](set-up-vendor-prenotes.md)
 
-[Create prenotes (form)](https://technet.microsoft.com/en-us/library/hh209352\(v=ax.60\))
+[Create prenotes (form)](https://technet.microsoft.com/library/hh209352\(v=ax.60\))
 
   
 

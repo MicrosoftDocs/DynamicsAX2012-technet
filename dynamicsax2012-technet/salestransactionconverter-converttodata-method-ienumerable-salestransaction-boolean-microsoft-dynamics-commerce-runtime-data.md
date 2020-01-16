@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesTransactionConverter.ConvertToData Method (IEnumerable(SalesTransaction), Boolean) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ConvertToData Method (IEnumerable(SalesTransaction), Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.SalesTransactionConverter.ConvertToData(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction},System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.salestransactionconverter.converttodata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salestransactionconverter.converttodata(v=AX.60)
 ms:contentKeyID: 62210831
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,16 +55,16 @@ static ReadOnlyCollection<SalesTransactionData^>^ ConvertToData(
 #### Parameters
 
   - salesTransactions  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - serializeData  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[SalesTransactionData](salestransactiondata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[SalesTransactionData](salestransactiondata-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The collection of sales transactions database representation.  
 
 ## See Also

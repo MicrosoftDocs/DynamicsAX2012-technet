@@ -2,8 +2,9 @@
 title: Service Management - Repair configuration key (SMARepair)
 TOCTitle: Service Management - Repair configuration key (SMARepair)
 ms:assetid: f44d7dd5-8e36-4b1e-a9a7-d20c12aa7245
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa600294(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa600294(v=AX.60)
 ms:contentKeyID: 36997783
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,39 +74,39 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Conditions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620391(v=ax.60)">Conditions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620391(v=ax.60)">Conditions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Diagnosis areas</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582655(v=ax.60)">Diagnosis areas (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582655(v=ax.60)">Diagnosis areas (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Diagnosis codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550443(v=ax.60)">Diagnosis codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550443(v=ax.60)">Diagnosis codes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Repair</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620446(v=ax.60)">Repair lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620446(v=ax.60)">Repair lines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Repair operations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620446(v=ax.60)">Repair lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620446(v=ax.60)">Repair lines (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Repair stages</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582124(v=ax.60)">Repair stages (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582124(v=ax.60)">Repair stages (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Resolutions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600766(v=ax.60)">Resolution (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600766(v=ax.60)">Resolution (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Symptom areas</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa577117(v=ax.60)">Symptom areas (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa577117(v=ax.60)">Symptom areas (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Symptom codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa574681(v=ax.60)">Symptom codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa574681(v=ax.60)">Symptom codes (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -143,7 +144,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

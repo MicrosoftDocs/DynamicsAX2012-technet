@@ -2,8 +2,9 @@
 title: Set up calculation and approval groups for time and attendance
 TOCTitle: Set up calculation and approval groups for time and attendance
 ms:assetid: 996c8b4e-9fa9-4cb8-b9d6-7a73867b4615
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498447(v=AX.60)
 ms:contentKeyID: 36058695
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

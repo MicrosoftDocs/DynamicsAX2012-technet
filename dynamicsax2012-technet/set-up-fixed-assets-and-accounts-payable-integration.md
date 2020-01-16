@@ -2,8 +2,9 @@
 title: Set up Fixed assets and Accounts payable integration
 TOCTitle: Set up Fixed assets and Accounts payable integration
 ms:assetid: f7b9764b-275f-4a33-a55f-f931db49c664
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243296(v=AX.60)
 ms:contentKeyID: 36060041
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,11 +81,11 @@ This topic discusses how to set up all of the methods except the default method.
 
 [About fixed assets integration](about-fixed-assets-integration.md)
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
-[Fixed assets parameters (form)](https://technet.microsoft.com/en-us/library/hh242490\(v=ax.60\))
+[Fixed assets parameters (form)](https://technet.microsoft.com/library/hh242490\(v=ax.60\))
 
-[Item group (form)](https://technet.microsoft.com/en-us/library/aa575515\(v=ax.60\))
+[Item group (form)](https://technet.microsoft.com/library/aa575515\(v=ax.60\))
 
 [About assets acquired through procurement](about-assets-acquired-through-procurement.md)
 

@@ -2,8 +2,9 @@
 title: Set up store locator groups in Retail
 TOCTitle: Set up store locator groups in Retail
 ms:assetid: e3f49c05-3374-428b-87cd-dc5a2a8dd296
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728715(v=AX.60)
 ms:contentKeyID: 49556620
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -123,9 +124,9 @@ However, a customer who is shopping in online store B also searches for product 
 
 ## See also
 
-[Store locator group assignment (form)](https://technet.microsoft.com/en-us/library/jj728726\(v=ax.60\))
+[Store locator group assignment (form)](https://technet.microsoft.com/library/jj728726\(v=ax.60\))
 
-[Store locator groups (form)](https://technet.microsoft.com/en-us/library/jj728728\(v=ax.60\))
+[Store locator groups (form)](https://technet.microsoft.com/library/jj728728\(v=ax.60\))
 
 [Set up a retail store](set-up-a-retail-store.md)
 

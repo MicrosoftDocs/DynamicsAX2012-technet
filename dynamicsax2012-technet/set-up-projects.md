@@ -2,8 +2,9 @@
 title: Set up projects
 TOCTitle: Set up projects
 ms:assetid: 8d15d031-d548-4fb3-9598-87712f35be27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209350(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209350(v=AX.60)
 ms:contentKeyID: 36058487
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

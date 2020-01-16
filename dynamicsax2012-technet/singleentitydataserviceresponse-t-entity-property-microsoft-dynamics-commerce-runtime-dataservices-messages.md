@@ -1,9 +1,10 @@
-﻿---
+---
 title: SingleEntityDataServiceResponse(T).Entity Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: Entity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SingleEntityDataServiceResponse`1.Entity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn991043(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn991043(v=AX.60)
 ms:contentKeyID: 65322485
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

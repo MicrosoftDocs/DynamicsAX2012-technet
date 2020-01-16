@@ -2,8 +2,9 @@
 title: Set up and assign functionality profiles
 TOCTitle: Set up and assign functionality profiles
 ms:assetid: f49978f8-42da-4298-aeba-3ee8cb522840
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597281(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597281(v=AX.60)
 ms:contentKeyID: 39519365
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ After the functionality profile is set up, you can assign it to one or more stor
 
 ## See also
 
-[POS functionality profile (form)](https://technet.microsoft.com/en-us/library/hh597181\(v=ax.60\))
+[POS functionality profile (form)](https://technet.microsoft.com/library/hh597181\(v=ax.60\))
 
   
 

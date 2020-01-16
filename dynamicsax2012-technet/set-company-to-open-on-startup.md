@@ -2,8 +2,9 @@
 title: Set company to open on startup
 TOCTitle: Set company to open on startup
 ms:assetid: e337c278-2e1b-4587-ab24-230662c0e65d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569660(v=AX.60)
 ms:contentKeyID: 35949369
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

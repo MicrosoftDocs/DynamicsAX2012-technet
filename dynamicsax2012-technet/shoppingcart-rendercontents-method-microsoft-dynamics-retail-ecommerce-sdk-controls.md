@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart.RenderContents Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls)
 TOCTitle: RenderContents Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.ShoppingCart.RenderContents(System.Web.UI.HtmlTextWriter)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.controls.shoppingcart.rendercontents(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.controls.shoppingcart.rendercontents(v=AX.60)
 ms:contentKeyID: 65316664
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # RenderContents Method
 
-This member overrides [WebControl.RenderContents(HtmlTextWriter)](https://technet.microsoft.com/en-us/library/sb0s70ds\(v=ax.60\)).
+This member overrides [WebControl.RenderContents(HtmlTextWriter)](https://technet.microsoft.com/library/sb0s70ds\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.dll)
@@ -50,7 +51,7 @@ virtual void RenderContents(
 #### Parameters
 
   - writer  
-    Type: [System.Web.UI.HtmlTextWriter](https://technet.microsoft.com/en-us/library/bt7b938d\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlTextWriter](https://technet.microsoft.com/library/bt7b938d\(v=ax.60\))  
 
 ## See Also
 

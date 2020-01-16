@@ -2,8 +2,9 @@
 title: 'Scenario: Upgrade a Retail system'
 TOCTitle: 'Scenario: Upgrade a Retail system'
 ms:assetid: 82b5489f-750d-4bde-a5c7-ab1cc8798c57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721717(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721717(v=AX.60)
 ms:contentKeyID: 49732800
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -477,7 +478,7 @@ Complete the following steps to prepare for Retail POS deployment.
 
 1.  To enable data transfers between the head office and the POS registers, configure a default distribution setup. For more information, see [Set up or modify table distributions](set-up-or-modify-table-distributions.md).
 
-2.  Initialize configuration data for the head office, and create POS operations. These operations include both legacy operations, such as tender transaction, return item, search item, and set quantity, and operations that are new in AX 2012, such as end shift and suspend shift. New jobs are also created. For more information, see [Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\)).
+2.  Initialize configuration data for the head office, and create POS operations. These operations include both legacy operations, such as tender transaction, return item, search item, and set quantity, and operations that are new in AX 2012, such as end shift and suspend shift. New jobs are also created. For more information, see [Retail parameters (form)](https://technet.microsoft.com/library/hh597194\(v=ax.60\)).
 
 3.  At the stores, use the Retail Database Utility to create and configure the databases that you require. For more information, see [Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack)](create-a-store-database-or-an-offline-database-ax-2012-r2-and-ax-2012-feature-pack.md).
 
@@ -531,7 +532,7 @@ For each store and POS register, configure the following settings to set initial
     
       - **Transaction ID**
     
-    For more information about these fields, see [Retail POS redeployment (form)](https://technet.microsoft.com/en-us/library/jj735277\(v=ax.60\)).
+    For more information about these fields, see [Retail POS redeployment (form)](https://technet.microsoft.com/library/jj735277\(v=ax.60\)).
 
 When you have finished configuring initial transaction values, click **Close**.
 

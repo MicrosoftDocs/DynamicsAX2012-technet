@@ -1,9 +1,10 @@
-﻿---
+---
 title: SavePickingListRequest Constructor (Boolean, PickingList) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: SavePickingListRequest Constructor (Boolean, PickingList)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SavePickingListRequest.#ctor(System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.PickingList)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savepickinglistrequest.savepickinglistrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savepickinglistrequest.savepickinglistrequest(v=AX.60)
 ms:contentKeyID: 62212420
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,7 +54,7 @@ SavePickingListRequest(
 #### Parameters
 
   - commit  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 

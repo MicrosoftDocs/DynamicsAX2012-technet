@@ -2,8 +2,9 @@
 title: Set up registers (Retail essentials)
 TOCTitle: Set up registers (Retail essentials)
 ms:assetid: 42acda35-2dd8-42e0-ac3b-c5807371decc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716080(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716080(v=AX.60)
 ms:contentKeyID: 62200343
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ To set up a register and assign profiles to it, follow these steps:
 
 7.  On the **General** FastTab, enter values in the remaining fields as appropriate.
 
-8.  In the **POS registers** form, enter values on the other FastTabs as appropriate. For more information, see [POS registers (form)](https://technet.microsoft.com/en-us/library/hh597141\(v=ax.60\)).
+8.  In the **POS registers** form, enter values on the other FastTabs as appropriate. For more information, see [POS registers (form)](https://technet.microsoft.com/library/hh597141\(v=ax.60\)).
 
 ## See also
 

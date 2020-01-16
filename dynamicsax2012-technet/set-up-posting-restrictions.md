@@ -2,8 +2,9 @@
 title: Set up posting restrictions
 TOCTitle: Set up posting restrictions
 ms:assetid: e81ad5df-2a29-4278-988d-b07dfa24312e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243236(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243236(v=AX.60)
 ms:contentKeyID: 36059826
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ When the specified users try to post a journal of a type for which they are rest
 
 ## See also
 
-[Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\))
+[Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\))
 
   
 

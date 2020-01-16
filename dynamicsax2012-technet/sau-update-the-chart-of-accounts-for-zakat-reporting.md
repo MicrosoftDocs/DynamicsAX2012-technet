@@ -2,8 +2,9 @@
 title: (SAU) Update the chart of accounts for Zakat reporting
 TOCTitle: (SAU) Update the chart of accounts for Zakat reporting
 ms:assetid: 34cb529b-bbf7-4769-8c1c-b24eebdc651f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242171(v=AX.60)
 ms:contentKeyID: 36056556
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ Use the **Chart of accounts** form to create, manage, and view your company’s 
 
 [(SAU) Set up contract information for a project for Zakat reporting](sau-set-up-contract-information-for-a-project-for-zakat-reporting.md)
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
   
 

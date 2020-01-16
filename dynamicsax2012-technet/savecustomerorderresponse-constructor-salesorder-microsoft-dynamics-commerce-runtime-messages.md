@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveCustomerOrderResponse Constructor (SalesOrder) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: SaveCustomerOrderResponse Constructor (SalesOrder)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCustomerOrderResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savecustomerorderresponse.savecustomerorderresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savecustomerorderresponse.savecustomerorderresponse(v=AX.60)
 ms:contentKeyID: 62211161
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

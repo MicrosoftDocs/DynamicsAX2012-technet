@@ -2,8 +2,9 @@
 title: Sort records
 TOCTitle: Sort records
 ms:assetid: c9609a3d-25cc-4a5e-8b37-003bee139d6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550879(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550879(v=AX.60)
 ms:contentKeyID: 43894518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

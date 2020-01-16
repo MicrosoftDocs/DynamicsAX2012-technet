@@ -2,8 +2,9 @@
 title: Set up worker attributes
 TOCTitle: Set up worker attributes
 ms:assetid: 64f8c2b2-b500-45e3-9a90-a9b834bc88ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242442(v=AX.60)
 ms:contentKeyID: 36057734
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,9 +48,9 @@ The additional attribute for the worker is displayed in the **Resource competenc
 
 ## See also
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[Other worker attributes (form)](https://technet.microsoft.com/en-us/library/hh242802\(v=ax.60\))
+[Other worker attributes (form)](https://technet.microsoft.com/library/hh242802\(v=ax.60\))
 
 [About resource management for projects](about-resource-management-for-projects.md)
 

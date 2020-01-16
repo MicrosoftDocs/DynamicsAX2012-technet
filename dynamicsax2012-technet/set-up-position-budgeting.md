@@ -2,8 +2,9 @@
 title: Set up position budgeting
 TOCTitle: Set up position budgeting
 ms:assetid: a73e1b33-7076-47a6-b311-dcc7313a68fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527699(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527699(v=AX.60)
 ms:contentKeyID: 59626232
+author: Khairunj
 ms.date: 03/06/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ If you have any problems when you set up position budgeting, see the frequently 
 
 
 > [!NOTE]
-> <P>If you are using a version of Microsoft Dynamics AX 2012 R2 earlier than cumulative update 7 for Microsoft Dynamics AX 2012 R2, see <A href="https://technet.microsoft.com/en-us/library/jj680908(v=ax.60)">Budget purpose types (form)</A>.</P>
+> <P>If you are using a version of Microsoft Dynamics AX 2012 R2 earlier than cumulative update 7 for Microsoft Dynamics AX 2012 R2, see <A href="https://technet.microsoft.com/library/jj680908(v=ax.60)">Budget purpose types (form)</A>.</P>
 
 
 
@@ -68,7 +69,7 @@ Budget cost elements are specific costs that are associated with a position, suc
 
 
 > [!NOTE]
-> <P>If you are using a version of Microsoft Dynamics AX 2012 R2 before cumulative update 7, budget cost elements are called budget purpose types. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj680908(v=ax.60)">Budget purpose types (form)</A>.</P>
+> <P>If you are using a version of Microsoft Dynamics AX 2012 R2 before cumulative update 7, budget cost elements are called budget purpose types. For more information, see <A href="https://technet.microsoft.com/library/jj680908(v=ax.60)">Budget purpose types (form)</A>.</P>
 
 
 
@@ -291,7 +292,7 @@ To create a compensation group, follow these steps:
 
 ## 3\. If required: Create compensation grids for compensation tables
 
-If your organization has standard compensation tables that are referenced to determine worker pay when positions are forecasted, you must create and assign step tables of currency values. You can use these tables as a basis for compensation calculations. If you haven’t created a reference point setup that you can use for this grid, you must exit this area and create it before you set up the grid. For more information, see [Reference point setups (form)](https://technet.microsoft.com/en-us/library/hh803014\(v=ax.60\)).
+If your organization has standard compensation tables that are referenced to determine worker pay when positions are forecasted, you must create and assign step tables of currency values. You can use these tables as a basis for compensation calculations. If you haven’t created a reference point setup that you can use for this grid, you must exit this area and create it before you set up the grid. For more information, see [Reference point setups (form)](https://technet.microsoft.com/library/hh803014\(v=ax.60\)).
 
 
 > [!NOTE]

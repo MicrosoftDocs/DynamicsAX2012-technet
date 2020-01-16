@@ -2,8 +2,9 @@
 title: Set up funds (Public sector)
 TOCTitle: Set up funds (Public sector)
 ms:assetid: ed80aaf4-26b8-4bfe-b566-93d9f6f0818a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208602(v=AX.60)
 ms:contentKeyID: 36056390
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ The Governmental Accounting Standards Board (GASB) recommends a set of Generally
 
 ## See also
 
-[Funds (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208514\(v=ax.60\))
+[Funds (form) (Public sector)](https://technet.microsoft.com/library/hh208514\(v=ax.60\))
 
   
 

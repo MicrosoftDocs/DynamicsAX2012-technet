@@ -2,8 +2,9 @@
 title: Set up sizes, colors, and styles
 TOCTitle: Set up sizes, colors, and styles
 ms:assetid: 7e5c247a-2891-471e-8763-871db7eadebb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597145(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597145(v=AX.60)
 ms:contentKeyID: 39519201
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,11 +36,11 @@ Set up product sizes, colors, and styles to distinguish the product variants tha
 
 [About variants](about-variants.md)
 
-[Sizes (form)](https://technet.microsoft.com/en-us/library/jj728724\(v=ax.60\))
+[Sizes (form)](https://technet.microsoft.com/library/jj728724\(v=ax.60\))
 
-[Colors (form)](https://technet.microsoft.com/en-us/library/jj728722\(v=ax.60\))
+[Colors (form)](https://technet.microsoft.com/library/jj728722\(v=ax.60\))
 
-[Styles (form)](https://technet.microsoft.com/en-us/library/jj728737\(v=ax.60\))
+[Styles (form)](https://technet.microsoft.com/library/jj728737\(v=ax.60\))
 
   
 

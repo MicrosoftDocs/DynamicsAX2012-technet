@@ -2,8 +2,9 @@
 title: Setting up and maintaining item arrival
 TOCTitle: Setting up and maintaining item arrival
 ms:assetid: f2ea834c-6a5b-4cd0-aa44-2d353f6e95cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243281(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243281(v=AX.60)
 ms:contentKeyID: 36059974
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Setting up performance information
 TOCTitle: Setting up performance information
 ms:assetid: 18696a61-b24c-4112-8f91-da04881df55d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230965(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230965(v=AX.60)
 ms:contentKeyID: 36056099
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

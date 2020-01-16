@@ -2,8 +2,9 @@
 title: Set up service intervals
 TOCTitle: Set up service intervals
 ms:assetid: 86479fcb-eca3-4436-b979-917fccbd8ed1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571579(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571579(v=AX.60)
 ms:contentKeyID: 36058412
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

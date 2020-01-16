@@ -2,8 +2,9 @@
 title: Set up receipt profiles
 TOCTitle: Set up receipt profiles
 ms:assetid: a34cedab-c208-4081-974d-f001b36dddf5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597197(v=AX.60)
 ms:contentKeyID: 39519266
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ The receipt profile that you select in a hardware profile assigns a set of recei
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
-[Receipt profile (form)](https://technet.microsoft.com/en-us/library/hh580640\(v=ax.60\))
+[Receipt profile (form)](https://technet.microsoft.com/library/hh580640\(v=ax.60\))
 
-[POS hardware profile (form)](https://technet.microsoft.com/en-us/library/hh580636\(v=ax.60\))
+[POS hardware profile (form)](https://technet.microsoft.com/library/hh580636\(v=ax.60\))
 
   
 

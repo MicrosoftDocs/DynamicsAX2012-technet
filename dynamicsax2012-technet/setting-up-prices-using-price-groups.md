@@ -2,8 +2,9 @@
 title: Setting up prices using price groups
 TOCTitle: Setting up prices using price groups
 ms:assetid: 8eda69ac-2702-4bdf-887c-b147d577ad87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597169(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597169(v=AX.60)
 ms:contentKeyID: 39519228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

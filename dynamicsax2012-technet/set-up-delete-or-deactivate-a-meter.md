@@ -2,8 +2,9 @@
 title: Set up, delete, or deactivate a meter
 TOCTitle: Set up, delete, or deactivate a meter
 ms:assetid: 2d62a8e8-651b-4bfa-af19-48a0bc7b255b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208516(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208516(v=AX.60)
 ms:contentKeyID: 36056260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ You can lose data when a meter is reset, if it exceeds its maximum value, or if 
 
 ## See also
 
-[Meters (form)](https://technet.microsoft.com/en-us/library/hh227567\(v=ax.60\))
+[Meters (form)](https://technet.microsoft.com/library/hh227567\(v=ax.60\))
 
 [Set up environmental processes](set-up-environmental-processes.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Services and AIF Walkthroughs
 TOCTitle: Services and AIF Walkthroughs
 ms:assetid: bbfd4b37-a7a8-42dc-970b-80df55304bab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710377(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710377(v=AX.60)
 ms:contentKeyID: 49384269
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

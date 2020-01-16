@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartService.GetAllLoyaltyCardsStatus Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GetAllLoyaltyCardsStatus Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ShoppingCartService.GetAllLoyaltyCardsStatus(System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.shoppingcartservice.getallloyaltycardsstatus(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.shoppingcartservice.getallloyaltycardsstatus(v=AX.60)
 ms:contentKeyID: 62202561
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ virtual LoyaltyCardsResponse^ GetAllLoyaltyCardsStatus(
 #### Parameters
 
   - useSecureToken  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

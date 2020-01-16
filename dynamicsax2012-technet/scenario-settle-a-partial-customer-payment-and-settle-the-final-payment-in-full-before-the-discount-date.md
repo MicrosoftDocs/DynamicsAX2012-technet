@@ -2,8 +2,9 @@
 title: 'Scenario: Settle a partial customer payment and settle the final payment in full before the discount date'
 TOCTitle: 'Scenario: Settle a partial customer payment and settle the final payment in full before the discount date'
 ms:assetid: 9d434af1-8628-4188-b957-146deda27be9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545526(v=AX.60)
 ms:contentKeyID: 37832518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Fabrikam sells goods to customer 4028. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. Fabrikam also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+Fabrikam sells goods to customer 4028. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. Fabrikam also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Customer invoice for 1,000.00 on June 25
 
@@ -671,7 +672,7 @@ Arnie posts this journal and reviews the customer transactions in the **Customer
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md)
 

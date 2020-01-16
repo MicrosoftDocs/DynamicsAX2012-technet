@@ -1,9 +1,10 @@
-﻿---
+---
 title: StorageException.DatabaseErrorCode Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: DatabaseErrorCode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.StorageException.DatabaseErrorCode
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.storageexception.databaseerrorcode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.storageexception.databaseerrorcode(v=AX.60)
 ms:contentKeyID: 49848690
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property int DatabaseErrorCode {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 ## See Also
 

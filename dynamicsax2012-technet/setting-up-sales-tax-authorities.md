@@ -2,8 +2,9 @@
 title: Setting up sales tax authorities
 TOCTitle: Setting up sales tax authorities
 ms:assetid: 26890627-d972-4c82-82bb-d98317bebf92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230998(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230998(v=AX.60)
 ms:contentKeyID: 36056202
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

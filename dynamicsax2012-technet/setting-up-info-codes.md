@@ -2,8 +2,9 @@
 title: Setting up info codes
 TOCTitle: Setting up info codes
 ms:assetid: 2190d0e4-2471-4d5a-995f-7ef62111efa8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580584(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580584(v=AX.60)
 ms:contentKeyID: 39519065
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up store payment methods (Retail Essentials)
 TOCTitle: Set up store payment methods (Retail Essentials)
 ms:assetid: 7af0c7c8-0e4f-482b-a53f-a3e7ca6d9b82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736903(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736903(v=AX.60)
 ms:contentKeyID: 62200381
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ You can also assign reason codes to each payment method. A reason code prompts a
 
 You can also specify the currencies that are accepted in the store. For example, the currency codes that you enter are used to determine the currencies that are available during the Pay currency operation in Retail essentials. Retail essentials uses only currencies for which an exchange rate conversion is configured for the company that the store is assigned to.
 
-For information about the fields in the **Payment method** form, see [Payment method (form)](https://technet.microsoft.com/en-us/library/hh580626\(v=ax.60\)).
+For information about the fields in the **Payment method** form, see [Payment method (form)](https://technet.microsoft.com/library/hh580626\(v=ax.60\)).
 
 
 > [!NOTE]

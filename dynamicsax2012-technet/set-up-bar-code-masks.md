@@ -2,8 +2,9 @@
 title: Set up bar code masks
 TOCTitle: Set up bar code masks
 ms:assetid: a15c1dc4-cb44-4a87-a2af-9582fe71d9f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597190(v=AX.60)
 ms:contentKeyID: 39519257
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

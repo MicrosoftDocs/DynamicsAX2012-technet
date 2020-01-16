@@ -2,8 +2,9 @@
 title: Set up budget allocation terms
 TOCTitle: Set up budget allocation terms
 ms:assetid: 2409fd8f-5341-4cd5-a1f6-3805ace1ea09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208480(v=AX.60)
 ms:contentKeyID: 36056186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Starting with cumulative update 7 for Microsoft Dynamics AX 2012 R2, you can als
 
 ## See also
 
-[Budget allocation terms (form)](https://technet.microsoft.com/en-us/library/hh209569\(v=ax.60\))
+[Budget allocation terms (form)](https://technet.microsoft.com/library/hh209569\(v=ax.60\))
 
   
 

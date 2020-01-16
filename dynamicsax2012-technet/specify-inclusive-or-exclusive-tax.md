@@ -2,8 +2,9 @@
 title: Specify inclusive or exclusive tax
 TOCTitle: Specify inclusive or exclusive tax
 ms:assetid: 094050b6-d216-4c30-995a-85b7276fd3fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580565(v=AX.60)
 ms:contentKeyID: 39519043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

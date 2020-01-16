@@ -2,8 +2,9 @@
 title: Set up documents for viewing in Enterprise Portal
 TOCTitle: Set up documents for viewing in Enterprise Portal
 ms:assetid: 3df198cd-7d4a-4214-a4ef-3ef9cc995f8c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309650(v=AX.60)
 ms:contentKeyID: 35132611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

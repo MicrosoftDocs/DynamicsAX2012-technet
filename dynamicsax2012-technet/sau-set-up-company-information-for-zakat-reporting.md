@@ -2,8 +2,9 @@
 title: (SAU) Set up company information for Zakat reporting
 TOCTitle: (SAU) Set up company information for Zakat reporting
 ms:assetid: e353a587-c199-4bf1-ae52-f727b824fe24
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227428(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227428(v=AX.60)
 ms:contentKeyID: 36059721
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The **Legal entities** form stores information about companies registered with t
 
 [(SAU) Set up a report name, item code, and asset group for Zakat reporting](sau-set-up-a-report-name-item-code-and-asset-group-for-zakat-reporting.md)
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
   
 

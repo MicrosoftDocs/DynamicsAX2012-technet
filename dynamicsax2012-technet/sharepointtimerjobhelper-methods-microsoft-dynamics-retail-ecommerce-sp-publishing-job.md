@@ -1,9 +1,10 @@
-﻿---
+---
 title: SharePointTimerJobHelper Methods (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job)
 TOCTitle: SharePointTimerJobHelper Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.SharePointTimerJobHelper
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.job.sharepointtimerjobhelper_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.job.sharepointtimerjobhelper_methods(v=AX.60)
 ms:contentKeyID: 65315793
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

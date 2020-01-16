@@ -2,8 +2,9 @@
 title: Set up environmental processes
 TOCTitle: Set up environmental processes
 ms:assetid: 575db9a4-04b4-4416-a6ab-b29d105d1688
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208969(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208969(v=AX.60)
 ms:contentKeyID: 36057330
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ Spheres provide context for where a process stands in your organization’s ecos
 
 ## See also
 
-[Process details (form)](https://technet.microsoft.com/en-us/library/hh227653\(v=ax.60\))
+[Process details (form)](https://technet.microsoft.com/library/hh227653\(v=ax.60\))
 
 [Set up environmental parameters](set-up-environmental-parameters.md)
 

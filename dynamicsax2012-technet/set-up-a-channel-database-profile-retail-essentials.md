@@ -2,8 +2,9 @@
 title: Set up a channel database profile (Retail essentials)
 TOCTitle: Set up a channel database profile (Retail essentials)
 ms:assetid: ac9c49cc-6d3d-41a8-8bcb-a03cf2075da0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736929(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736929(v=AX.60)
 ms:contentKeyID: 62200406
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

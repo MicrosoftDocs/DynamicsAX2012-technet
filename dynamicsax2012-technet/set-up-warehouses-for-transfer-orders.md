@@ -2,8 +2,9 @@
 title: Set up warehouses for transfer orders
 TOCTitle: Set up warehouses for transfer orders
 ms:assetid: fccc4095-ab94-4e3f-8370-5d3e79aab5c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500101(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500101(v=AX.60)
 ms:contentKeyID: 36060098
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ You can use warehouse levels to create a hierarchy that supports transfer orders
 
 ## See also
 
-[Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\))
+[Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\))
 
   
 

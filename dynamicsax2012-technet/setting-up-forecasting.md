@@ -2,8 +2,9 @@
 title: Setting up forecasting
 TOCTitle: Setting up forecasting
 ms:assetid: 9d2de812-fb20-4a25-9ac3-d7894d07d434
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213371(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213371(v=AX.60)
 ms:contentKeyID: 36058745
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

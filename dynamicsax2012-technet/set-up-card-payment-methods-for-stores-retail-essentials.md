@@ -2,8 +2,9 @@
 title: Set up card payment methods for stores (Retail essentials)
 TOCTitle: Set up card payment methods for stores (Retail essentials)
 ms:assetid: cbb6ffa9-d700-419d-8e7b-3bb267784b4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736952(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736952(v=AX.60)
 ms:contentKeyID: 62200429
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

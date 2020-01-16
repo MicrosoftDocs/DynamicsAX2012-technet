@@ -1,9 +1,10 @@
-﻿---
+---
 title: StorefrontConfiguration.GetShoppingCartCookieMinutesUntilExpiration Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: GetShoppingCartCookieMinutesUntilExpiration Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.StorefrontConfiguration.GetShoppingCartCookieMinutesUntilExpiration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.storefrontconfiguration.getshoppingcartcookieminutesuntilexpiration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.storefrontconfiguration.getshoppingcartcookieminutesuntilexpiration(v=AX.60)
 ms:contentKeyID: 62206464
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ static double GetShoppingCartCookieMinutesUntilExpiration()
 
 #### Return Value
 
-Type: [System.Double](https://technet.microsoft.com/en-us/library/643eft0t\(v=ax.60\))  
+Type: [System.Double](https://technet.microsoft.com/library/643eft0t\(v=ax.60\))  
 The time limit for expiration of shopping cart cookie.  
 
 ## See Also

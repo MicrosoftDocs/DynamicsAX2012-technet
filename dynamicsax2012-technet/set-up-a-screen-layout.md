@@ -2,8 +2,9 @@
 title: Set up a screen layout
 TOCTitle: Set up a screen layout
 ms:assetid: 8a835e7f-0fda-4abd-8124-08044cad2930
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597160(v=AX.60)
 ms:contentKeyID: 39519217
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ The screen layout specifies how the screen is displayed on the point of sale (PO
 
 [Set up a button grid](set-up-a-button-grid.md)
 
-[Screen layouts (form)](https://technet.microsoft.com/en-us/library/hh597310\(v=ax.60\))
+[Screen layouts (form)](https://technet.microsoft.com/library/hh597310\(v=ax.60\))
 
   
 

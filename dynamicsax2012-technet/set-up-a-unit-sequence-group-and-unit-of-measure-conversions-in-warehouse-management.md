@@ -2,8 +2,9 @@
 title: Set up a unit sequence group and unit of measure conversions in Warehouse management
 TOCTitle: Set up a unit sequence group and unit of measure conversions in Warehouse management
 ms:assetid: ae12b249-8eb6-48bd-acd6-193d8cd43f5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553191(v=AX.60)
 ms:contentKeyID: 62200137
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -241,7 +242,7 @@ To use a unit sequence group for released products, a unit conversion must be se
 
 1.  Click **Product information management** \> **Common** \> **Released products**.
 
-2.  Select a released product. On the **Action Pane**, in the **Set up** group, select **Unit conversions**. For more information about unit conversion setup for products, see [Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\)).
+2.  Select a released product. On the **Action Pane**, in the **Set up** group, select **Unit conversions**. For more information about unit conversion setup for products, see [Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -342,7 +343,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
+[Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\))
 
 [Unit conversions](unit-conversions.md)
 

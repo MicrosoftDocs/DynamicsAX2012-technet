@@ -2,8 +2,9 @@
 title: Set up competitors
 TOCTitle: Set up competitors
 ms:assetid: 85b7a305-682e-4419-949a-90ddfd40effc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597156(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597156(v=AX.60)
 ms:contentKeyID: 39519213
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use the following procedure to set up a competitor in **Retail**.
 
 3.  In the **Competitors** form, on the **General** FastTab, specify the name, type, and organizational details of the competitor.
 
-4.  On the other FastTabs, enter other information that is appropriate for the competitor. For more information about the fields in the form, see [Competitor (form)](https://technet.microsoft.com/en-us/library/hh242664\(v=ax.60\)).
+4.  On the other FastTabs, enter other information that is appropriate for the competitor. For more information about the fields in the form, see [Competitor (form)](https://technet.microsoft.com/library/hh242664\(v=ax.60\)).
 
 ## Configure competitor prices
 
@@ -49,9 +50,9 @@ Use this procedure to set up competitor prices for products that you want to tra
 
 ## See also
 
-[Competitors (form)](https://technet.microsoft.com/en-us/library/hh597346\(v=ax.60\))
+[Competitors (form)](https://technet.microsoft.com/library/hh597346\(v=ax.60\))
 
-[Competitor prices (form)](https://technet.microsoft.com/en-us/library/hh597334\(v=ax.60\))
+[Competitor prices (form)](https://technet.microsoft.com/library/hh597334\(v=ax.60\))
 
   
 

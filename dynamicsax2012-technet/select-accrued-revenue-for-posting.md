@@ -2,8 +2,9 @@
 title: Select accrued revenue for posting
 TOCTitle: Select accrued revenue for posting
 ms:assetid: 26111523-881c-46da-a394-80239bd58a7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496822(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496822(v=AX.60)
 ms:contentKeyID: 36056197
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

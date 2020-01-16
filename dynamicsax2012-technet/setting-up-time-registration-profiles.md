@@ -2,8 +2,9 @@
 title: Setting up time registration profiles
 TOCTitle: Setting up time registration profiles
 ms:assetid: cf8211a8-b200-47ae-bbd1-9411f94cc9c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550980(v=AX.60)
 ms:contentKeyID: 36059480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up production control parameters
 TOCTitle: Set up production control parameters
 ms:assetid: fd58436b-b540-4149-9843-121e702fb35b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500116(v=AX.60)
 ms:contentKeyID: 37820244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

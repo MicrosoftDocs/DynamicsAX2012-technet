@@ -2,8 +2,9 @@
 title: Set up print management for a customer or vendor
 TOCTitle: Set up print management for a customer or vendor
 ms:assetid: fb5cedee-5b96-475a-a038-d61fcf01f42c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362137(v=AX.60)
 ms:contentKeyID: 36060079
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Use this procedure to set up print management for a specific customer or vendor. This procedure assumes that print management was previously set up for a module. For more information, see [Set up print management for a module](set-up-print-management-for-a-module.md).
 
-If you will be emailing the documents to a group of email addresses that have the same business purpose or worker title, you must set up the purposes or titles, first. For more information, see [Address purpose (form)](https://technet.microsoft.com/en-us/library/hh242741\(v=ax.60\)). You set up purposes in the **Address and contact information purpose** form. Click **Organization administration** \> **Setup** \> **Global address book** \> **Address and contact information purpose**. You assign purposes in the **Customers** or **Vendors** form, on the **Contact information** FastTab, in the **Purpose** field. You assign worker titles in the **Worker** form, in the **Title** field. Click **Human resources** \> **Setup** \> **Workers** \> **Titles**.
+If you will be emailing the documents to a group of email addresses that have the same business purpose or worker title, you must set up the purposes or titles, first. For more information, see [Address purpose (form)](https://technet.microsoft.com/library/hh242741\(v=ax.60\)). You set up purposes in the **Address and contact information purpose** form. Click **Organization administration** \> **Setup** \> **Global address book** \> **Address and contact information purpose**. You assign purposes in the **Customers** or **Vendors** form, on the **Contact information** FastTab, in the **Purpose** field. You assign worker titles in the **Worker** form, in the **Title** field. Click **Human resources** \> **Setup** \> **Workers** \> **Titles**.
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
     
@@ -86,7 +87,7 @@ If you will be emailing the documents to a group of email addresses that have th
 
 ## See also
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [Set up print management for a module](set-up-print-management-for-a-module.md)
 

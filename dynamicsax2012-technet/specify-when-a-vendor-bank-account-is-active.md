@@ -2,8 +2,9 @@
 title: Specify when a vendor bank account is active
 TOCTitle: Specify when a vendor bank account is active
 ms:assetid: a4c10c96-7345-402c-869c-f12bcd7b5d33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213411(v=AX.60)
 ms:contentKeyID: 36058862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,11 +32,11 @@ By default, all bank accounts have blank active and expiration dates, so that th
 
 ## See also
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
 [About payment types](about-payment-types.md)
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShiftDataManager.GetShiftTransactions Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetShiftTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ShiftDataManager.GetShiftTransactions(System.String,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getshifttransactions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getshifttransactions(v=AX.60)
 ms:contentKeyID: 62213838
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,12 +58,12 @@ Shift^ GetShiftTransactions(
 #### Parameters
 
   - terminalId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - shiftId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 

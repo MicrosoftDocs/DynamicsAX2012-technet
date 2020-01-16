@@ -2,8 +2,9 @@
 title: Set up descriptions for fixed asset transactions
 TOCTitle: Set up descriptions for fixed asset transactions
 ms:assetid: 053f9c70-cda6-4d8a-b9c2-58df7f6a95a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569711(v=AX.60)
 ms:contentKeyID: 36055950
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

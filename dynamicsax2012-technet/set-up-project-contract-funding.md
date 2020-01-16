@@ -2,8 +2,9 @@
 title: Set up project contract funding
 TOCTitle: Set up project contract funding
 ms:assetid: ded445d0-3564-4360-b428-90a145816aab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227414(v=AX.60)
 ms:contentKeyID: 36059690
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

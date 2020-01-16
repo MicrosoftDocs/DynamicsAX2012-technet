@@ -2,8 +2,9 @@
 title: Set up sales tax on prepayments
 TOCTitle: Set up sales tax on prepayments
 ms:assetid: 35de1531-7859-444c-9097-c48554abb27c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570122(v=AX.60)
 ms:contentKeyID: 36056569
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

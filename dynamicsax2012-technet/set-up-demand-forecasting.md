@@ -2,8 +2,9 @@
 title: Set up demand forecasting
 TOCTitle: Set up demand forecasting
 ms:assetid: 7d928df8-d612-4d63-9949-0abf7956109a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497793(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497793(v=AX.60)
 ms:contentKeyID: 62200105
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ To assign an item to an item allocation key, follow these steps:
 
 1.  Click **Inventory management** \> **Setup** \> **Forecast** \> **Item allocation keys**.
 
-2.  Create or select an item allocation key. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/en-us/library/aa590322\(v=ax.60\)).
+2.  Create or select an item allocation key. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/library/aa590322\(v=ax.60\)).
 
 3.  Click **Assign items**.
 
@@ -118,7 +119,7 @@ Select the parameters to apply when baseline forecasts are generated. The parame
 
 1.  Click **Master planning** \> **Setup** \> **Demand forecasting** \> **Demand forecasting parameters**.
 
-2.  In the **Demand forecast unit** field, select the unit to use for forecast quantities. This field is required because demand forecasts are generated based on quantities of items. Also, make sure that there is a conversion rule defined for the forecast unit and the item unit. For more information, see [Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\)).
+2.  In the **Demand forecast unit** field, select the unit to use for forecast quantities. This field is required because demand forecasts are generated based on quantities of items. Also, make sure that there is a conversion rule defined for the forecast unit and the item unit. For more information, see [Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\)).
 
 3.  In the **Excel demand forecast file path** field, enter the file path location that is used to save the Excel demand forecast file.
 
@@ -242,9 +243,9 @@ If you don't have access to the pages that are used to complete this task, conta
 
 [Business process: demand forecasting](business-process-demand-forecasting.md)
 
-[Item allocation keys (form)](https://technet.microsoft.com/en-us/library/aa590322\(v=ax.60\))
+[Item allocation keys (form)](https://technet.microsoft.com/library/aa590322\(v=ax.60\))
 
-[Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
+[Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\))
 
   
 

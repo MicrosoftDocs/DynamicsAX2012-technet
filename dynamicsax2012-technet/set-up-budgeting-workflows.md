@@ -2,8 +2,9 @@
 title: Set up Budgeting workflows
 TOCTitle: Set up Budgeting workflows
 ms:assetid: 062e69fc-cd63-4c59-a249-b41bef7f6d26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242112(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242112(v=AX.60)
 ms:contentKeyID: 36055960
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -292,7 +293,7 @@ You can assign a workflow element to the following groups of participants.
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget manager participants</strong></p></td>
-<td><p>Assign the workflow element to a user who is defined as the budget manager in the budget control configuration. The budget manager can approve budget register entries. Additional budget managers for financial dimension values can be defined by using budget control rules. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242209(v=ax.60)">Budget control configuration (form)</a>.</p></td>
+<td><p>Assign the workflow element to a user who is defined as the budget manager in the budget control configuration. The budget manager can approve budget register entries. Additional budget managers for financial dimension values can be defined by using budget control rules. For more information, see <a href="https://technet.microsoft.com/library/hh242209(v=ax.60)">Budget control configuration (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget organization participants</strong></p>

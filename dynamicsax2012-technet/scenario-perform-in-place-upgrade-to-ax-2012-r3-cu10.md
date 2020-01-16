@@ -2,8 +2,9 @@
 title: 'Scenario: Perform in-place upgrade to AX 2012 R3 + CU10'
 TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 R3 + CU10'
 ms:assetid: 32c1b95e-5b84-4520-a4d9-68850716b61a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt674913(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt674913(v=AX.60)
 ms:contentKeyID: 72156812
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

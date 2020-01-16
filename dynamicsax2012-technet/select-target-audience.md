@@ -2,8 +2,9 @@
 title: Select target audience
 TOCTitle: Select target audience
 ms:assetid: a608707c-5215-47bc-8abc-85a1a0f860c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243045(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243045(v=AX.60)
 ms:contentKeyID: 36058868
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

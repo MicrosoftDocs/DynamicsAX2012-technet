@@ -2,8 +2,9 @@
 title: Settle transactions with payments
 TOCTitle: Settle transactions with payments
 ms:assetid: b01e2c2a-c970-4491-9d8e-8e5adfa73d34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498639(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498639(v=AX.60)
 ms:contentKeyID: 36058959
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ For information about cross-company settlements, see [About cross-company paymen
 
 6.  Select the **Mark** check box on the other open transactions to be settled. A red icon indicates that a transaction is already marked for settlement.
 
-7.  Optional: If the **Mark by priority** button is available, you can click this button to mark all debit transactions according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\)).
+7.  Optional: If the **Mark by priority** button is available, you can click this button to mark all debit transactions according to the settlement priority that is specified in the **Accounts receivable parameters** form. For more information about this button, see [Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\)).
 
 8.  Optional: If the **Mark invoice lines** button is available when you select an invoice, you can click this button to open the **Mark invoice lines** form. Use this form to select individual transaction lines for settlement and modify the amounts to settle for those lines. For more information, see [Key tasks: Customer payments and settlements](key-tasks-customer-payments-and-settlements.md).
 

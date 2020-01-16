@@ -1,9 +1,10 @@
-﻿---
+---
 title: SharePointTimerJobHelper.IsJobRunning Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: IsJobRunning Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTimerJobHelper.IsJobRunning(Microsoft.SharePoint.Administration.SPFarm,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.sharepointtimerjobhelper.isjobrunning(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtimerjobhelper.isjobrunning(v=AX.60)
 ms:contentKeyID: 62205326
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ static bool IsJobRunning(
 <!-- end list -->
 
   - jobTitle  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if the job is running in the specified farm; otherwise, false.  
 
 ## Exceptions
@@ -83,7 +84,7 @@ true if the job is running in the specified farm; otherwise, false.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>farm or jobTitle</p></td>
 </tr>
 </tbody>

@@ -2,8 +2,9 @@
 title: Set up an outbound payment format
 TOCTitle: Set up an outbound payment format
 ms:assetid: 325b86ae-7aca-4f86-beec-a5d507b4a81b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208576(v=AX.60)
 ms:contentKeyID: 36056360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,9 +63,9 @@ For information about these prerequisites, see [Walkthrough: Configuring an outb
 
 [Walkthrough: Configuring an outbound integration port for payments](walkthrough-configuring-an-outbound-integration-port-for-payments.md)
 
-[Payment processing data (form)](https://technet.microsoft.com/en-us/library/hh242773\(v=ax.60\))
+[Payment processing data (form)](https://technet.microsoft.com/library/hh242773\(v=ax.60\))
 
-[Outbound ports for electronic payments (form)](https://technet.microsoft.com/en-us/library/hh208616\(v=ax.60\))
+[Outbound ports for electronic payments (form)](https://technet.microsoft.com/library/hh208616\(v=ax.60\))
 
   
 

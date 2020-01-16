@@ -2,8 +2,9 @@
 title: Set up a quantity discount (Retail essentials)
 TOCTitle: Set up a quantity discount (Retail essentials)
 ms:assetid: 4b88fa2c-a8f2-4296-a405-483714c4d24c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716086(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716086(v=AX.60)
 ms:contentKeyID: 62200349
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

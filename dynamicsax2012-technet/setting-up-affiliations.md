@@ -2,8 +2,9 @@
 title: Setting up affiliations
 TOCTitle: Setting up affiliations
 ms:assetid: a13667f5-ce01-441c-ba57-e6c757ae3d4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497807(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497807(v=AX.60)
 ms:contentKeyID: 62200125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Set up property groups
 TOCTitle: Set up property groups
 ms:assetid: 7d9286b3-f532-4302-8192-4b47997c069c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209287(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209287(v=AX.60)
 ms:contentKeyID: 36058311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,9 +42,9 @@ Property groups are often used together with other fixed asset codes, such as fi
 
 ## See also
 
-[Property groups (form)](https://technet.microsoft.com/en-us/library/hh242668\(v=ax.60\))
+[Property groups (form)](https://technet.microsoft.com/library/hh242668\(v=ax.60\))
 
-[Fixed asset groups (form)](https://technet.microsoft.com/en-us/library/aa573347\(v=ax.60\))
+[Fixed asset groups (form)](https://technet.microsoft.com/library/aa573347\(v=ax.60\))
 
   
 

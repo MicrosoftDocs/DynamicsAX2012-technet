@@ -2,8 +2,9 @@
 title: Set up a payment calendar and payment calendar rules
 TOCTitle: Set up a payment calendar and payment calendar rules
 ms:assetid: 0bdd2f18-f71b-41d7-bfac-c2b854cdb709
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677322(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677322(v=AX.60)
 ms:contentKeyID: 49384095
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ This procedure describes how to set up a payment calendar, and how to specify da
 
 7.  To specify exception dates for the calendar year, click **Add**. In the **Date** field, select the date.
 
-8.  In the **Type** field, specify whether the exception date is a business day or a holiday. For more information, see [Payment calendar (form)](https://technet.microsoft.com/en-us/library/jj677409\(v=ax.60\)).
+8.  In the **Type** field, specify whether the exception date is a business day or a holiday. For more information, see [Payment calendar (form)](https://technet.microsoft.com/library/jj677409\(v=ax.60\)).
 
 ## Configure payment calendar rules
 
@@ -71,9 +72,9 @@ After you set up payment calendars, you can set up rules that determine the paym
 
 ## See also
 
-[Payment calendar (form)](https://technet.microsoft.com/en-us/library/jj677409\(v=ax.60\))
+[Payment calendar (form)](https://technet.microsoft.com/library/jj677409\(v=ax.60\))
 
-[Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/en-us/library/jj677400\(v=ax.60\))
+[Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/library/jj677400\(v=ax.60\))
 
   
 

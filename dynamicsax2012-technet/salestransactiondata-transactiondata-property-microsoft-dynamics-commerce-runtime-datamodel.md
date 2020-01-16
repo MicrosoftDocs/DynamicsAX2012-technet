@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesTransactionData.TransactionData Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TransactionData Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransactionData.TransactionData
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salestransactiondata.transactiondata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salestransactiondata.transactiondata(v=AX.60)
 ms:contentKeyID: 62210856
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property array<unsigned char>^ TransactionData {
 
 #### Property Value
 
-Type: [System.Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\))\[\]  
-Returns [Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\)).  
+Type: [System.Byte](https://technet.microsoft.com/library/yyb1w04y\(v=ax.60\))\[\]  
+Returns [Byte](https://technet.microsoft.com/library/yyb1w04y\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Set up images
 TOCTitle: Set up images
 ms:assetid: 6f162127-9a59-4513-8620-217394a71bca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597119(v=AX.60)
 ms:contentKeyID: 39519169
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ You can store images, each of which is assigned a unique ID. These images can be
 
 [Set up a button grid](set-up-a-button-grid.md)
 
-[Images (form)](https://technet.microsoft.com/en-us/library/hh597229\(v=ax.60\))
+[Images (form)](https://technet.microsoft.com/library/hh597229\(v=ax.60\))
 
   
 

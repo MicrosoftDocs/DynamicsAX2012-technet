@@ -2,8 +2,9 @@
 title: Second workers to another group
 TOCTitle: Second workers to another group
 ms:assetid: 00afd3a2-f051-446c-bff3-4745a07e419a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569682(v=AX.60)
 ms:contentKeyID: 36055919
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

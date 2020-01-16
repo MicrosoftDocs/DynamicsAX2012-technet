@@ -2,8 +2,9 @@
 title: Set up promissory notes
 TOCTitle: Set up promissory notes
 ms:assetid: 0309fe79-43fc-491b-b230-1d6ede75367c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569701(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569701(v=AX.60)
 ms:contentKeyID: 36055936
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -71,7 +72,7 @@ Create at least four journal names to use for promissory notes. For each promiss
 
 1.  Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**.
 
-2.  Click **New** or press CTRL+N, and then in the **Name** field, enter the journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+2.  Click **New** or press CTRL+N, and then in the **Name** field, enter the journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 3.  On the **General** FastTab, in the **Journal type** field, select one of the following options:
     
@@ -99,7 +100,7 @@ Create at least four journal names to use for promissory notes. For each promiss
 
 Set up at least one method of payment for promissory notes. If you do business with more than one bank, set up a method of payment that corresponds to the bill of exchange remittance format required for each bank.
 
-If you do business in more than one country/region, set up a method of payment that corresponds to the promissory note export format that is used in each country/region. For more information, see [Country/region-specific topics for Microsoft Dynamics AX](country-region-specific-topics-for-microsoft-dynamics-ax.md) and [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+If you do business in more than one country/region, set up a method of payment that corresponds to the promissory note export format that is used in each country/region. For more information, see [Country/region-specific topics for Microsoft Dynamics AX](country-region-specific-topics-for-microsoft-dynamics-ax.md) and [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Methods of payment**.
 
@@ -163,7 +164,7 @@ If you do business in more than one country/region, set up a method of payment t
 
 
 
-16. Click **Payment fee setup**, and then enter the payment fees for the method of payment in the **Payment fee setup** form. The payment fees that you set up in this form are used as the default entries on the **Payment fee** tab when journal lines are created in a redraw promissory note journal, remittance journal, or settle promissory note journal. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa598976\(v=ax.60\)).
+16. Click **Payment fee setup**, and then enter the payment fees for the method of payment in the **Payment fee setup** form. The payment fees that you set up in this form are used as the default entries on the **Payment fee** tab when journal lines are created in a redraw promissory note journal, remittance journal, or settle promissory note journal. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/library/aa598976\(v=ax.60\)).
 
 17. Click **Remittance files for vendors** to show a list of generated remittance files.
 
@@ -177,9 +178,9 @@ If vendors charge a fee when you pay with a promissory note, you can set up paym
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Payment fee**.
 
-2.  Click **New** or press CTRL+N, and then enter information for the payment fee. For more information, see [Vendor payment fee (form)](https://technet.microsoft.com/en-us/library/aa573151\(v=ax.60\)).
+2.  Click **New** or press CTRL+N, and then enter information for the payment fee. For more information, see [Vendor payment fee (form)](https://technet.microsoft.com/library/aa573151\(v=ax.60\)).
 
-3.  Click **Payment fee setup** to open the **Payment fee setup** form. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa598976\(v=ax.60\)).
+3.  Click **Payment fee setup** to open the **Payment fee setup** form. For more information, see [Vendor payment fee setup (form)](https://technet.microsoft.com/library/aa598976\(v=ax.60\)).
 
 4.  Click the **General** tab.
 
@@ -197,7 +198,7 @@ You can set up remittance fees that are charged by a bank for each remittance fi
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  Select a bank account or click **Bank account** to create a new account, and then enter information for the bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  Select a bank account or click **Bank account** to create a new account, and then enter information for the bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 3.  Click the **Negotiable instrument** FastTab.
 
@@ -213,9 +214,9 @@ Specify the document layout required for each bank account that you will generat
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  Select or create a bank account, and then enter the bank account details. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  Select or create a bank account, and then enter the bank account details. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
-3.  Click the **Setup** tab, click **Promissory note**, and then set up the layout. For more information, see [Promissory note layout (form)](https://technet.microsoft.com/en-us/library/aa583563\(v=ax.60\)).
+3.  Click the **Setup** tab, click **Promissory note**, and then set up the layout. For more information, see [Promissory note layout (form)](https://technet.microsoft.com/library/aa583563\(v=ax.60\)).
 
 4.  Close the form.
 
@@ -243,21 +244,21 @@ For each vendor that you will pay by using a promissory note, you can set up a d
 
 [Redraw a promissory note](redraw-a-promissory-note.md)
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
-[Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
+[Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\))
 
-[Promissory note layout (form)](https://technet.microsoft.com/en-us/library/aa583563\(v=ax.60\))
+[Promissory note layout (form)](https://technet.microsoft.com/library/aa583563\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
-[Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
+[Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\))
 
-[Vendor payment fee (form)](https://technet.microsoft.com/en-us/library/aa573151\(v=ax.60\))
+[Vendor payment fee (form)](https://technet.microsoft.com/library/aa573151\(v=ax.60\))
 
-[Vendor payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa598976\(v=ax.60\))
+[Vendor payment fee setup (form)](https://technet.microsoft.com/library/aa598976\(v=ax.60\))
 
-[Vendor posting profiles (form)](https://technet.microsoft.com/en-us/library/aa551972\(v=ax.60\))
+[Vendor posting profiles (form)](https://technet.microsoft.com/library/aa551972\(v=ax.60\))
 
 [About payment types](about-payment-types.md)
 

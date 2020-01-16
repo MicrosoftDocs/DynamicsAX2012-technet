@@ -2,8 +2,9 @@
 title: Set up reason codes for financial modules
 TOCTitle: Set up reason codes for financial modules
 ms:assetid: 8ab7ba27-88fe-4e4b-84b6-e111afec6fb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242861(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242861(v=AX.60)
 ms:contentKeyID: 36058468
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-A reason code is a code that users can select to record the reason for a change or transaction, such as a write-down adjustment or payment reversal. You can use the **Financial reasons** form in Organization administration to create reason codes for a variety of financial modules, or you can alternatively open a reasons form from a specific module to set up reason codes for only that module. For more information, see [Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\)).
+A reason code is a code that users can select to record the reason for a change or transaction, such as a write-down adjustment or payment reversal. You can use the **Financial reasons** form in Organization administration to create reason codes for a variety of financial modules, or you can alternatively open a reasons form from a specific module to set up reason codes for only that module. For more information, see [Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\)).
 
 You can also specify whether reason codes are required for a module. You specify reason code requirements in the parameters form for most modules.
 
@@ -110,7 +111,7 @@ You can also specify whether reason codes are required for a module. You specify
 
 [About financial reason codes](about-financial-reason-codes.md)
 
-[Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\))
+[Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\))
 
   
 

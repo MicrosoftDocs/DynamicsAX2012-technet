@@ -2,8 +2,9 @@
 title: Set up optional tax settings for stores (Retail essentials)
 TOCTitle: Set up optional tax settings for stores (Retail essentials)
 ms:assetid: 98dec17f-29e9-4d94-8cd9-771398fdb5e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736919(v=AX.60)
 ms:contentKeyID: 62200400
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

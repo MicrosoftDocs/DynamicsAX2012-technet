@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveCommerceListServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: SaveCommerceListServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCommerceListServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceList)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.savecommercelistserviceresponse.savecommercelistserviceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savecommercelistserviceresponse.savecommercelistserviceresponse(v=AX.60)
 ms:contentKeyID: 62205871
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

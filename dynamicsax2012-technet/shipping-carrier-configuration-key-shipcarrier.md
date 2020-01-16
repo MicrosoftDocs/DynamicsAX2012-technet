@@ -2,8 +2,9 @@
 title: Shipping carrier configuration key (ShipCarrier)
 TOCTitle: Shipping carrier configuration key (ShipCarrier)
 ms:assetid: b2d907e9-ff89-4d87-85d8-8b1496bf1a9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh441667(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh441667(v=AX.60)
 ms:contentKeyID: 36993551
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,36 +40,36 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Carrier company</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209693(v=ax.60)">Carrier company (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209693(v=ax.60)">Carrier company (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Delivery e-mail addresses</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208623(v=ax.60)">Delivery e-mail addresses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208623(v=ax.60)">Delivery e-mail addresses (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Carrier interface</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209394(v=ax.60)">Carrier interface (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209394(v=ax.60)">Carrier interface (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Carrier issues</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209472(v=ax.60)">Carrier issues (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209472(v=ax.60)">Carrier issues (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales pickup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328758(v=ax.60)">(PM) Sales pickup (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh242471(v=ax.60)">Sales pickup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328758(v=ax.60)">(PM) Sales pickup (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh242471(v=ax.60)">Sales pickup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Carrier transaction information</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209503(v=ax.60)">Carrier transaction information (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209503(v=ax.60)">Carrier transaction information (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Carrier role users</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209597(v=ax.60)">Shipping carrier role users (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209597(v=ax.60)">Shipping carrier role users (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Carrier IDs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209608(v=ax.60)">Carrier ID (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209608(v=ax.60)">Carrier ID (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +91,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Delivery e-mail addresses</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208623(v=ax.60)">Delivery e-mail addresses (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208623(v=ax.60)">Delivery e-mail addresses (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -128,7 +129,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

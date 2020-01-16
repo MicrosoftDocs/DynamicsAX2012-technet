@@ -1,9 +1,10 @@
-﻿---
+---
 title: SecurityManager.ElevateUser Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: ElevateUser Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.SecurityManager.ElevateUser(Microsoft.Dynamics.Commerce.Runtime.DataModel.ConnectionRequest,Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.securitymanager.elevateuser(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.securitymanager.elevateuser(v=AX.60)
 ms:contentKeyID: 62209447
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

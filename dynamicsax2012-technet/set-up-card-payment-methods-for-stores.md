@@ -2,8 +2,9 @@
 title: Set up card payment methods for stores
 TOCTitle: Set up card payment methods for stores
 ms:assetid: 5c159c8f-e872-44b4-8773-7623441ec166
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597106(v=AX.60)
 ms:contentKeyID: 39519154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ Use the following procedure to set up specific credit cards, debit cards, and ot
 
 [Set up card types and card numbers](set-up-card-types-and-card-numbers.md)
 
-[Payment methods (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597294\(v=ax.60\))
+[Payment methods (form) (Retail)](https://technet.microsoft.com/library/hh597294\(v=ax.60\))
 
-[Card setup (form)](https://technet.microsoft.com/en-us/library/hh597124\(v=ax.60\))
+[Card setup (form)](https://technet.microsoft.com/library/hh597124\(v=ax.60\))
 
   
 

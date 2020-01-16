@@ -2,8 +2,9 @@
 title: Set up a distribution location list
 TOCTitle: Set up a distribution location list
 ms:assetid: 6773484e-4696-40cb-add2-dd2426b8b2d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677411(v=AX.60)
 ms:contentKeyID: 49384196
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

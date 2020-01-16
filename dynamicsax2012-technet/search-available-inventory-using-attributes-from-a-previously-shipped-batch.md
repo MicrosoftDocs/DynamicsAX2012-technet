@@ -2,8 +2,9 @@
 title: Search available inventory using attributes from a previously shipped batch
 TOCTitle: Search available inventory using attributes from a previously shipped batch
 ms:assetid: 90540c7d-160d-4cb6-b05d-ff9d8251a43c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352291(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352291(v=AX.60)
 ms:contentKeyID: 36687919
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,11 +32,11 @@ You can search for available inventory with certain attributes using the informa
 
 ## See also
 
-[Batch history (form)](https://technet.microsoft.com/en-us/library/hh209323\(v=ax.60\))
+[Batch history (form)](https://technet.microsoft.com/library/hh209323\(v=ax.60\))
 
-[Batch reservation (form)](https://technet.microsoft.com/en-us/library/hh208645\(v=ax.60\))
+[Batch reservation (form)](https://technet.microsoft.com/library/hh208645\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

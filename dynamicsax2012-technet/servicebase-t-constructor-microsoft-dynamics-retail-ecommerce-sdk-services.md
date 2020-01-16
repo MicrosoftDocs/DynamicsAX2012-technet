@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceBase(T) Constructor  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: ServiceBase(T) Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988534(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988534(v=AX.60)
 ms:contentKeyID: 65318087
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

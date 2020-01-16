@@ -2,8 +2,9 @@
 title: Setting up kanban rules
 TOCTitle: Setting up kanban rules
 ms:assetid: ab24d1b2-f666-4595-aa54-f419a3a61fbc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh850372(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh850372(v=AX.60)
 ms:contentKeyID: 45442191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

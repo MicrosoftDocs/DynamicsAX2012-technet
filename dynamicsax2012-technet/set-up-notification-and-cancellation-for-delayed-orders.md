@@ -2,8 +2,9 @@
 title: Set up notification and cancellation for delayed orders
 TOCTitle: Set up notification and cancellation for delayed orders
 ms:assetid: fce7d023-2dc0-47d7-9ff3-bbefc76df123
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497861(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497861(v=AX.60)
 ms:contentKeyID: 62200194
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

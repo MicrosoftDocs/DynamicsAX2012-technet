@@ -2,8 +2,9 @@
 title: Set up a conditional question hierarchy
 TOCTitle: Set up a conditional question hierarchy
 ms:assetid: 8815c623-b3fd-4471-a1a0-920beac14327
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498221(v=AX.60)
 ms:contentKeyID: 42117763
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,13 +26,13 @@ When you set up a questionnaire, you can select to use conditional question hier
 
 1.  Click **Home** \> **Common** \> **Questionnaires** \> **Design** \> **Questionnaires**.
     
-    For more information about the **Questionnaires** form, see [Questionnaires (form)](https://technet.microsoft.com/en-us/library/aa576998\(v=ax.60\)).
+    For more information about the **Questionnaires** form, see [Questionnaires (form)](https://technet.microsoft.com/library/aa576998\(v=ax.60\)).
 
 2.  Select a questionnaire.
     
     Verify that **Conditional** is selected in the **Sequence** list on the **Setup** tab.
 
-3.  Click **Questions**, and then select **Conditional question** to open the **Conditional question** form. For more information, see [Conditional question (form)](https://technet.microsoft.com/en-us/library/aa596836\(v=ax.60\)).
+3.  Click **Questions**, and then select **Conditional question** to open the **Conditional question** form. For more information, see [Conditional question (form)](https://technet.microsoft.com/library/aa596836\(v=ax.60\)).
 
 4.  Select the conditional question, and then drag it to the primary question.
     
@@ -49,7 +50,7 @@ When you set up a questionnaire, you can select to use conditional question hier
     
 
     > [!NOTE]
-    > <P>The options that are available on the right side of this form are also available in the <STRONG>Questions</STRONG> form. Selections or changes that were made in either form will appear in both forms. For information about each field, see <A href="https://technet.microsoft.com/en-us/library/aa553083(v=ax.60)">Question selection (form)</A>.</P>
+    > <P>The options that are available on the right side of this form are also available in the <STRONG>Questions</STRONG> form. Selections or changes that were made in either form will appear in both forms. For information about each field, see <A href="https://technet.microsoft.com/library/aa553083(v=ax.60)">Question selection (form)</A>.</P>
 
 
 

@@ -2,8 +2,9 @@
 title: 'Scenario: Upgrade a country-specific or region-specific system'
 TOCTitle: 'Scenario: Upgrade a country-specific or region-specific system'
 ms:assetid: cead63b6-d48b-4e97-821e-d41e1b3ca152
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn198674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn198674(v=AX.60)
 ms:contentKeyID: 53874074
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -45,7 +46,7 @@ Except for the tasks in this table, the procedures for country-specific or regio
 <tbody>
 <tr class="odd">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj713622(v=ax.60)">(BRA) Legal text ID validation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj713622(v=ax.60)">(BRA) Legal text ID validation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><img src="images/Dn198674.Upgrade_checkbox_cleared(AX.60).png" title="Unchecked checkbox" alt="Unchecked checkbox" /></p></td>

@@ -2,8 +2,9 @@
 title: Setting up posting
 TOCTitle: Setting up posting
 ms:assetid: 1f71c8f4-cd3f-4c2e-81ee-cec87240160a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230978(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230978(v=AX.60)
 ms:contentKeyID: 36056152
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

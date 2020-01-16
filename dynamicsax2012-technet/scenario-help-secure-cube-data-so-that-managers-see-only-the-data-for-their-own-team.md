@@ -2,8 +2,9 @@
 title: 'Scenario: Help secure cube data so that managers see only the data for their own team'
 TOCTitle: 'Scenario: Help secure cube data so that managers see only the data for their own team'
 ms:assetid: c45d649f-747d-46ad-beca-514514062b8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ129500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ129500(v=AX.60)
 ms:contentKeyID: 46661152
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

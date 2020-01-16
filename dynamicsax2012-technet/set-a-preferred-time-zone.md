@@ -2,8 +2,9 @@
 title: Set a preferred time zone
 TOCTitle: Set a preferred time zone
 ms:assetid: f12c3cd8-192f-40a6-9177-bd7774c8beec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243274(v=AX.60)
 ms:contentKeyID: 36059928
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

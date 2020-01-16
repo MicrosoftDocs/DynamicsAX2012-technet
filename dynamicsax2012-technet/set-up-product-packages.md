@@ -2,8 +2,9 @@
 title: Set up product packages
 TOCTitle: Set up product packages
 ms:assetid: c8092119-b677-4904-80fa-7f9e36f4cabd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597239(v=AX.60)
 ms:contentKeyID: 39519315
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ The same item can be included in various packages for one or more vendors. After
 
 ## See also
 
-[Packages (form)](https://technet.microsoft.com/en-us/library/hh597320\(v=ax.60\))
+[Packages (form)](https://technet.microsoft.com/library/hh597320\(v=ax.60\))
 
   
 

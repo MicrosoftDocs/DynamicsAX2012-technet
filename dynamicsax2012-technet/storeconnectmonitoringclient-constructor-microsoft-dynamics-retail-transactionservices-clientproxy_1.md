@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreConnectMonitoringClient Constructor  (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: StoreConnectMonitoringClient Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.StoreConnectMonitoringClient.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.storeconnectmonitoringclient.storeconnectmonitoringclient(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.storeconnectmonitoringclient.storeconnectmonitoringclient(v=AX.60)
 ms:contentKeyID: 49853061
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -2,8 +2,9 @@
 title: Shelf life as of date configuration key (PdsShelf)
 TOCTitle: Shelf life as of date configuration key (PdsShelf)
 ms:assetid: 7c1213c7-446a-41ee-8a4b-84dca34e1f50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496422(v=AX.60)
 ms:contentKeyID: 37071999
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Vendor batch details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328738(v=ax.60)">(PM) Vendor invoice journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328738(v=ax.60)">(PM) Vendor invoice journal (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +65,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Sellable days</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328638(v=ax.60)">Sellable days by customer (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328638(v=ax.60)">Sellable days by customer (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -86,36 +87,36 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Batch disposition history</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209230(v=ax.60)">History of batch disposition inventory (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209230(v=ax.60)">History of batch disposition inventory (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Batch disposition master</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208612(v=ax.60)">Batch disposition master (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208612(v=ax.60)">Batch disposition master (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Best before as of date</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227546(v=ax.60)">Best before as of date (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227546(v=ax.60)">Best before as of date (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reset shelf life dates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209582(v=ax.60)">Reset shelf life date (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209582(v=ax.60)">Reset shelf life date (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Reset shelf life dates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209252(v=ax.60)">(PM) Batches (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa617234(v=ax.60)">Batch number creation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209252(v=ax.60)">(PM) Batches (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa617234(v=ax.60)">Batch number creation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reset vendor batch details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328605(v=ax.60)">Reset vendor batch details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328605(v=ax.60)">Reset vendor batch details (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shelf advice as of date</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227613(v=ax.60)">Shelf advice (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227613(v=ax.60)">Shelf advice (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Shelf life as of date</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227671(v=ax.60)">Shelf life as of date (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227671(v=ax.60)">Shelf life as of date (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +138,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Vendor batch details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328746(v=ax.60)">Vendor batch details - Posting product receipt (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328746(v=ax.60)">Vendor batch details - Posting product receipt (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -175,7 +176,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Set up reservation hierarchies
 TOCTitle: Set up reservation hierarchies
 ms:assetid: b731eb87-e7d5-4c7d-a83d-dd7522d0a8af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553195(v=AX.60)
 ms:contentKeyID: 62200144
+author: Khairunj
 ms.date: 02/27/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -126,7 +127,7 @@ To create a storage dimension group, follow these steps:
 
 3.  Enter a name and a description.
 
-4.  Select the **Use warehouse management processes** check box to enable Warehouse management for products that are associated with this group. When you select this check box, a set of check boxes are selected in the fields for each dimension. For more information about the fields in the form, see [Storage dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209317\(v=ax.60\)).
+4.  Select the **Use warehouse management processes** check box to enable Warehouse management for products that are associated with this group. When you select this check box, a set of check boxes are selected in the fields for each dimension. For more information about the fields in the form, see [Storage dimension groups (form)](https://technet.microsoft.com/library/hh209317\(v=ax.60\)).
 
 To assign a storage dimension group to a released product, follow these steps:
 
@@ -146,7 +147,7 @@ To create a tracking dimension group, follow these steps:
 
 2.  Click **New** to create a new tracking dimension group.
 
-3.  Enter a name and a description. For more information about the fields in the form, see [Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\)).
+3.  Enter a name and a description. For more information about the fields in the form, see [Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\)).
 
 To assign a tracking dimension group to a released product, follow these steps:
 

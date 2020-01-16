@@ -2,8 +2,9 @@
 title: Set up a file format for a method of payment for vendors
 TOCTitle: Set up a file format for a method of payment for vendors
 ms:assetid: af7bef92-1c36-4b39-9fa0-b957e788971e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243106(v=AX.60)
 ms:contentKeyID: 36058954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ If you and your bank agree to share information about vendor payments by using f
 
 3.  In the **Method of payment** field, enter a unique identifier for the payment method, and in the **Description** field, enter a description.
 
-4.  Enter appropriate values in the **Period**, **Grace period**, and **Payment status** fields, and in other fields, if appropriate. For information about each field, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+4.  Enter appropriate values in the **Period**, **Grace period**, and **Payment status** fields, and in other fields, if appropriate. For information about each field, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 5.  To open the **File formats for methods of payment** form, click the **File formats** FastTab and then click **Setup**.
 

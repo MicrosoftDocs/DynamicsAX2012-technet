@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesParameters.LineMultilineMethod Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: LineMultilineMethod Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesParameters.LineMultilineMethod
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesparameters.linemultilinemethod(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesparameters.linemultilinemethod(v=AX.60)
 ms:contentKeyID: 51677234
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

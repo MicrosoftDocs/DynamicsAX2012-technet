@@ -2,8 +2,9 @@
 title: Set up shipping charges for online stores
 TOCTitle: Set up shipping charges for online stores
 ms:assetid: e2aa075c-89d0-414d-b967-1a92fded3560
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728714(v=AX.60)
 ms:contentKeyID: 49556619
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ You can also define a shipping charge for a mode of delivery, a group of modes o
 
 
 > [!NOTE]
-> <P>Before you can specify shipping charges, you must create modes of delivery. For information, see <A href="https://technet.microsoft.com/en-us/library/aa619881(v=ax.60)">Modes of delivery (form)</A>.</P>
+> <P>Before you can specify shipping charges, you must create modes of delivery. For information, see <A href="https://technet.microsoft.com/library/aa619881(v=ax.60)">Modes of delivery (form)</A>.</P>
 
 
 
@@ -65,7 +66,7 @@ You can also define a shipping charge for a mode of delivery, a group of modes o
 
 7.  If you want the shipping carrier to provide the shipping charge , in the **Category** field, select **External**.
 
-8.  For information about the other fields on the **Lines** FastTab, see [Auto charges (form)](https://technet.microsoft.com/en-us/library/aa582856\(v=ax.60\)).
+8.  For information about the other fields on the **Lines** FastTab, see [Auto charges (form)](https://technet.microsoft.com/library/aa582856\(v=ax.60\)).
 
 ## See also
 

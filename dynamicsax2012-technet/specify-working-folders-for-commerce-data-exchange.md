@@ -2,8 +2,9 @@
 title: Specify working folders for Commerce Data Exchange
 TOCTitle: Specify working folders for Commerce Data Exchange
 ms:assetid: 7287752d-5b02-4f95-9ff2-1fb8a3f9685d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621058(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621058(v=AX.60)
 ms:contentKeyID: 62200205
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

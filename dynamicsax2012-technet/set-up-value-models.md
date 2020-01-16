@@ -2,8 +2,9 @@
 title: Set up value models
 TOCTitle: Set up value models
 ms:assetid: 436a5ae0-c108-4f9b-b5df-c144608bbc1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496964(v=AX.60)
 ms:contentKeyID: 36676384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,13 +28,13 @@ Before you set up value models, you must set up depreciation profiles to assign 
 
 4.  Select the posting layer. The default value is **Current**, but you can also select **Operations** or **Tax**.
 
-5.  Select additional options, as applicable. For more information, see [Posting layer](https://technet.microsoft.com/en-us/library/aa575927\(v=ax.60\)).
+5.  Select additional options, as applicable. For more information, see [Posting layer](https://technet.microsoft.com/library/aa575927\(v=ax.60\)).
 
 6.  You can attach other existing value models to use at the same time as the new value model. On the **Derived value models** FastTab, create a line for each value model, select the value model, and then specify the transaction type.
 
 7.  You can attach existing depreciation books that will be used at the same time as the new value model. On the **Derived depreciation books** FastTab, create a line for each depreciation book, select the depreciation book, and then specify the transaction type.
 
-8.  To attach the new value model to one or more fixed asset groups, click **Fixed asset groups**. For more information, see [Fixed asset group/value model (form)](https://technet.microsoft.com/en-us/library/aa554698\(v=ax.60\)).
+8.  To attach the new value model to one or more fixed asset groups, click **Fixed asset groups**. For more information, see [Fixed asset group/value model (form)](https://technet.microsoft.com/library/aa554698\(v=ax.60\)).
 
 ## See also
 

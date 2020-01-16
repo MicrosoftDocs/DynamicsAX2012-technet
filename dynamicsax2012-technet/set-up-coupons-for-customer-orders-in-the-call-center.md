@@ -2,8 +2,9 @@
 title: Set up coupons for customer orders in the call center
 TOCTitle: Set up coupons for customer orders in the call center
 ms:assetid: f4155152-096c-4c36-a7d1-54f2436d23d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497853(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497853(v=AX.60)
 ms:contentKeyID: 62224166
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

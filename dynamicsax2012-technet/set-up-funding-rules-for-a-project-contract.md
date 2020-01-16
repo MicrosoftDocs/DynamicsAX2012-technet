@@ -2,8 +2,9 @@
 title: Set up funding rules for a project contract
 TOCTitle: Set up funding rules for a project contract
 ms:assetid: b194fea3-9cfc-474e-860d-3fda41eceb5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242721(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242721(v=AX.60)
 ms:contentKeyID: 36058981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -84,7 +85,7 @@ After you create the funding rules, assign a percentage to each funding source i
 
 [Set up funding limits for funding sources in a project contract](set-up-funding-limits-for-funding-sources-in-a-project-contract.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

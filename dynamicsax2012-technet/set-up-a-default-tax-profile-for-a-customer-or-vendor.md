@@ -2,8 +2,9 @@
 title: Set up a default tax profile for a customer or vendor
 TOCTitle: Set up a default tax profile for a customer or vendor
 ms:assetid: 7e459c17-ceaa-4cfd-9bd1-73e9abff65e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571535(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571535(v=AX.60)
 ms:contentKeyID: 37822148
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,9 +54,9 @@ Net price, which excludes sales tax: 10 \* 10.00 = 100.00
 
 ## See also
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

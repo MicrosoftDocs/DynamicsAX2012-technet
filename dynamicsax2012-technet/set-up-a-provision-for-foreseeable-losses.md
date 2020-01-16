@@ -2,8 +2,9 @@
 title: Set up a provision for foreseeable losses
 TOCTitle: Set up a provision for foreseeable losses
 ms:assetid: 36b457c7-2a6d-46ae-94c6-cae2c1d94b56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570126(v=AX.60)
 ms:contentKeyID: 36056590
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You can use the **Project groups** form to create a provision for foreseeable lo
 
 ## See also
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
 [About the provision for foreseeable losses](about-the-provision-for-foreseeable-losses.md)
 

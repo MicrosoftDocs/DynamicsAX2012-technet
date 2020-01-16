@@ -2,8 +2,9 @@
 title: Set up number sequences for warehouse management
 TOCTitle: Set up number sequences for warehouse management
 ms:assetid: 6a9b1711-3c41-44c6-8658-a6cf4da82235
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553166(v=AX.60)
 ms:contentKeyID: 62200084
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

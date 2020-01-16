@@ -2,8 +2,9 @@
 title: Specification report (TaxTransCode)
 TOCTitle: Specification report (TaxTransCode)
 ms:assetid: 2bed7d1a-c627-4847-9a0a-bdab8bd00841
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa552314(v=AX.60)
 ms:contentKeyID: 37820210
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

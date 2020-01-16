@@ -2,8 +2,9 @@
 title: Set current time zone
 TOCTitle: Set current time zone
 ms:assetid: cf2df842-ba73-4da9-820d-9dcf0ba5f64f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731954(v=AX.60)
 ms:contentKeyID: 35132892
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ Before you upgrade your data from Microsoft Dynamics AX 4.0, you must specify yo
 
 The preferred method of storing date and time data in Microsoft Dynamics AX is Coordinated Universal Time (UTC), as specified by the utcDateTime data type. During data upgrade, both shipped and custom tables are scanned to identify system date and time fields. Your local time zone setting determines the offsets to apply to these fields when they are converted to UTC.
 
-If custom date or time fields have been added to Microsoft Dynamics AX, you must decide whether those fields should be merged into new utcDateTime fields during upgrade. For more information, see [Walkthrough: upgrading date and time table field pairs into UtcDateTime](https://technet.microsoft.com/en-us/library/dd362070\(v=ax.60\)).
+If custom date or time fields have been added to Microsoft Dynamics AX, you must decide whether those fields should be merged into new utcDateTime fields during upgrade. For more information, see [Walkthrough: upgrading date and time table field pairs into UtcDateTime](https://technet.microsoft.com/library/dd362070\(v=ax.60\)).
 
   
 

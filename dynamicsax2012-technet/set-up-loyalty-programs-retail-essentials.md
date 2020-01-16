@@ -2,8 +2,9 @@
 title: Set up loyalty programs (Retail essentials)
 TOCTitle: Set up loyalty programs (Retail essentials)
 ms:assetid: 3b12a1b8-6ae6-4736-81c5-54e83937404f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859561(v=AX.60)
 ms:contentKeyID: 63820135
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
