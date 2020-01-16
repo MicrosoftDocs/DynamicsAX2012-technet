@@ -1,9 +1,10 @@
-﻿---
+---
 title: MorphX Reporting Tools
 TOCTitle: MorphX Reporting Tools
 ms:assetid: 32180636-2f7d-4000-bdcb-4e3d9d5f56f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb427701(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb427701(v=AX.60)
 ms:contentKeyID: 35290295
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -33,5 +34,5 @@ The following topics describe how to create reports in Microsoft Dynamics AX usi
 
 ## See also
 
-[Query Framework in the AOT](https://technet.microsoft.com/en-us/library/cc586122\(v=ax.60\))
+[Query Framework in the AOT](https://technet.microsoft.com/library/cc586122\(v=ax.60\))
 

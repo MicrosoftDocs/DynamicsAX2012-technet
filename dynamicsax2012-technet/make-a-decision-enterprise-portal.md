@@ -2,8 +2,9 @@
 title: Make a decision (Enterprise Portal)
 TOCTitle: Make a decision
 ms:assetid: d49dad6d-60b2-4894-b7d2-a9f6a145201c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271655(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271655(v=AX.60)
 ms:contentKeyID: 36384287
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (LVA) Inventory and warehouse management
 TOCTitle: (LVA) Inventory and warehouse management
 ms:assetid: 1a87c3ed-0316-4617-a534-f039a0c8c3d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731008(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731008(v=AX.60)
 ms:contentKeyID: 49675248
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (MEX) Define tax registration numbers for a company and a vendor account
 TOCTitle: (MEX) Define tax registration numbers for a company and a vendor account
 ms:assetid: 6b0da322-8f95-4a70-9ab9-82c820074c05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242611(v=AX.60)
 ms:contentKeyID: 36057986
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,9 +107,9 @@ Use the **Vendors** form to enter the RFC and CURP numbers for a domestic or a f
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: New-AXUser
 TOCTitle: New-AXUser
 ms:assetid: 744188E5-3DF1-41E6-85AA-44D0B04A3E88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720263(v=AX.60)
 ms:contentKeyID: 49720052
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

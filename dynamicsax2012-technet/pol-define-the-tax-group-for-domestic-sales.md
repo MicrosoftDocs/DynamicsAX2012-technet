@@ -2,8 +2,9 @@
 title: (POL) Define the tax group for domestic sales
 TOCTitle: (POL) Define the tax group for domestic sales
 ms:assetid: 3034b38a-efbe-461d-b260-6e6bb122f489
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678170(v=AX.60)
 ms:contentKeyID: 49386893
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The domestic value-added tax (VAT) for export sales between members of the Europ
 
 [(POL) Post VAT transactions](pol-post-vat-transactions.md)
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
   
 

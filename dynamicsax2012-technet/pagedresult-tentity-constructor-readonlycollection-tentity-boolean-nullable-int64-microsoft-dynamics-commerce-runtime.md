@@ -1,9 +1,10 @@
-﻿---
+---
 title: PagedResult(TEntity) Constructor (ReadOnlyCollection(TEntity), Boolean, Nullable(Int64)) (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: PagedResult(TEntity) Constructor (ReadOnlyCollection(TEntity), Boolean, Nullable(Int64))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PagedResult`1.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{`0},System.Boolean,System.Nullable{System.Int64})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn685794(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn685794(v=AX.60)
 ms:contentKeyID: 62211513
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -55,17 +56,17 @@ PagedResult(
 #### Parameters
 
   - results  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TEntity](pagedresult-tentity-class-microsoft-dynamics-commerce-runtime.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TEntity](pagedresult-tentity-class-microsoft-dynamics-commerce-runtime.md)\>  
 
 <!-- end list -->
 
   - hasNextPage  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - totalCount  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 ## See Also
 

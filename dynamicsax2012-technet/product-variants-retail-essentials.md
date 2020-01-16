@@ -2,8 +2,9 @@
 title: Product variants (Retail essentials)
 TOCTitle: Product variants (Retail essentials)
 ms:assetid: fa134068-bc7b-43d0-aeeb-8c6cfb928bc0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736981(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736981(v=AX.60)
 ms:contentKeyID: 62200458
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

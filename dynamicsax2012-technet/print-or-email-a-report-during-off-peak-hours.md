@@ -2,8 +2,9 @@
 title: Print or email a report during off-peak hours
 TOCTitle: Print or email a report during off-peak hours
 ms:assetid: 2b3f8c73-b99c-47db-b615-6859dd13a998
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731911(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731911(v=AX.60)
 ms:contentKeyID: 35132834
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

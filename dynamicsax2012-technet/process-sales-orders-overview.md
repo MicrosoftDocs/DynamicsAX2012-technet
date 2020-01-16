@@ -2,8 +2,9 @@
 title: Process sales orders overview
 TOCTitle: Process sales orders overview
 ms:assetid: 5e2a2cbf-17fd-4dd5-835c-cd5fb7cba607
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242520(v=AX.60)
 ms:contentKeyID: 36057580
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

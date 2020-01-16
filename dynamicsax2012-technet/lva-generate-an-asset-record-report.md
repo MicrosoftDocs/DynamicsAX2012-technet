@@ -2,8 +2,9 @@
 title: (LVA) Generate an asset record report
 TOCTitle: (LVA) Generate an asset record report
 ms:assetid: b00bd57d-5097-4872-b9cb-07d6f4d93ab4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853415(v=AX.60)
 ms:contentKeyID: 50396784
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

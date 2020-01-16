@@ -2,8 +2,9 @@
 title: (LVA) Capitalize assets overview
 TOCTitle: (LVA) Capitalize assets overview
 ms:assetid: bd4a0b00-da50-4ee1-a0f2-29f424d4d850
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731060(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731060(v=AX.60)
 ms:contentKeyID: 49675300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

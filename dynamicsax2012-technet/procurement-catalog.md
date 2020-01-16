@@ -2,8 +2,9 @@
 title: " procurement catalog"
 TOCTitle: " procurement catalog"
 ms:assetid: DynamicsAXGlossary.1364960
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1364960(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1364960(v=AX.60)
 ms:contentKeyID: 36056476
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ A listing of product offerings that are grouped by procurement category. A procu
 
 ## See also
 
-[category](https://technet.microsoft.com/en-us/library/hh242303\(v=ax.60\))
+[category](https://technet.microsoft.com/library/hh242303\(v=ax.60\))
 
 [organization](organization.md)
 

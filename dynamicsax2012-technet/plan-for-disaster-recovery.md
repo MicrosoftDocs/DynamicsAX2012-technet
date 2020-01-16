@@ -2,8 +2,9 @@
 title: Plan for disaster recovery
 TOCTitle: Plan for disaster recovery
 ms:assetid: 9c2b4440-c706-4899-b1d0-f550979ae319
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn433225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn433225(v=AX.60)
 ms:contentKeyID: 56561978
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

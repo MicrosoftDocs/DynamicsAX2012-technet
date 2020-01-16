@@ -2,8 +2,9 @@
 title: (MEX) Generate the sales tax report
 TOCTitle: (MEX) Generate the sales tax report
 ms:assetid: def4515f-69a3-4bfb-97f3-7eb8b4400eb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227415(v=AX.60)
 ms:contentKeyID: 36059691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

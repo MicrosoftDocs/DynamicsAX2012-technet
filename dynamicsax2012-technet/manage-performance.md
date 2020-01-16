@@ -2,8 +2,9 @@
 title: Manage performance
 TOCTitle: Manage performance
 ms:assetid: ea8cc864-1055-4b4a-96c1-89136a143239
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243246(v=AX.60)
 ms:contentKeyID: 43894526
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

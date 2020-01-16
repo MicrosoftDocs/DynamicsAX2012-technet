@@ -2,8 +2,9 @@
 title: (LTU) Setting up and maintaining Intrastat
 TOCTitle: (LTU) Setting up and maintaining Intrastat
 ms:assetid: 7e533c3d-e9a9-4bc6-8644-f86fea826788
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665126(v=AX.60)
 ms:contentKeyID: 49386707
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

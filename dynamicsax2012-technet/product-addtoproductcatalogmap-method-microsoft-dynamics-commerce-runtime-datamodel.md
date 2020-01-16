@@ -1,9 +1,10 @@
-﻿---
+---
 title: Product.AddToProductCatalogMap Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AddToProductCatalogMap Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.AddToProductCatalogMap(System.Int64,System.Collections.Generic.List{Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalog})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.product.addtoproductcatalogmap(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.addtoproductcatalogmap(v=AX.60)
 ms:contentKeyID: 65320631
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,12 +55,12 @@ void AddToProductCatalogMap(
 #### Parameters
 
   - key  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - catalogs  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[ProductCatalog](productcatalog-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[ProductCatalog](productcatalog-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

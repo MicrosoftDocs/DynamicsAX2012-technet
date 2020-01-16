@@ -2,8 +2,9 @@
 title: Plan system topology
 TOCTitle: Plan system topology
 ms:assetid: 7b58645f-6f07-4033-b533-96efdd54b343
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309725(v=AX.60)
 ms:contentKeyID: 37820248
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

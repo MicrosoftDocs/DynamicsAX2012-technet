@@ -2,8 +2,9 @@
 title: Map country/region codes
 TOCTitle: Map country/region codes
 ms:assetid: 759aa0cb-bdba-4f3f-abf9-f859baa24a5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731832(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731832(v=AX.60)
 ms:contentKeyID: 35132681
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

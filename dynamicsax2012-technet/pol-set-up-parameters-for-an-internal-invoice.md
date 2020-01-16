@@ -2,8 +2,9 @@
 title: (POL) Set up parameters for an internal invoice
 TOCTitle: (POL) Set up parameters for an internal invoice
 ms:assetid: 7572e085-64bd-4812-9c5e-dcfdee054273
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678242(v=AX.60)
 ms:contentKeyID: 49386964
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ The Polish Fiscal Act of Goods and Services requires that all companies generate
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</A>.</P>
 
 
 
@@ -59,7 +60,7 @@ The Polish Fiscal Act of Goods and Services requires that all companies generate
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa553257(v=ax.60)">Sales tax codes (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa553257(v=ax.60)">Sales tax codes (form)</A>.</P>
 
 
 
@@ -71,7 +72,7 @@ The Polish Fiscal Act of Goods and Services requires that all companies generate
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa498345(v=ax.60)">Sales tax groups (form)</A>"Set up and use a sales tax group" in the Applications and Business Processes Help.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa498345(v=ax.60)">Sales tax groups (form)</A>"Set up and use a sales tax group" in the Applications and Business Processes Help.</P>
 
 
 

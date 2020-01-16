@@ -2,8 +2,9 @@
 title: Procurement and sourcing (Public sector)
 TOCTitle: Procurement and sourcing (Public sector)
 ms:assetid: 9e6a0b50-d4dd-4294-a7d2-bbe9bd126445
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208559(v=AX.60)
 ms:contentKeyID: 36056324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

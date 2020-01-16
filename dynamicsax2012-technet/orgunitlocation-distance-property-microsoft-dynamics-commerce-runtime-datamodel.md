@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrgUnitLocation.Distance Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Distance Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.OrgUnitLocation.Distance
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.orgunitlocation.distance(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.orgunitlocation.distance(v=AX.60)
 ms:contentKeyID: 62214192
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property double Distance {
 
 #### Property Value
 
-Type: [System.Double](https://technet.microsoft.com/en-us/library/643eft0t\(v=ax.60\))  
-Returns [Double](https://technet.microsoft.com/en-us/library/643eft0t\(v=ax.60\)).  
+Type: [System.Double](https://technet.microsoft.com/library/643eft0t\(v=ax.60\))  
+Returns [Double](https://technet.microsoft.com/library/643eft0t\(v=ax.60\)).  
 
 ## See Also
 

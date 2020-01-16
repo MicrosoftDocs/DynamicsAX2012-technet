@@ -2,8 +2,9 @@
 title: (LVA) Create and print a free text invoice with bank account details
 TOCTitle: (LVA) Create and print a free text invoice with bank account details
 ms:assetid: 133d6519-eb99-45e5-989a-762093d726a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721418(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721418(v=AX.60)
 ms:contentKeyID: 49729982
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

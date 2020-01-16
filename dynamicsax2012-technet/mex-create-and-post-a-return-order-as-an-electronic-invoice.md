@@ -2,8 +2,9 @@
 title: (MEX) Create and post a return order as an electronic invoice
 TOCTitle: (MEX) Create and post a return order as an electronic invoice
 ms:assetid: 0beffe39-4e06-4ad1-8601-2b4c9a57846f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242125(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242125(v=AX.60)
 ms:contentKeyID: 36055991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ When you create the return order for an imported item, you must specify the pert
 
 1.  Click **Sales and marketing** \> **Common** \> **Return orders** \> **All return orders**.
 
-2.  Click **Return order** to create a return order. For more information, see [(IND) Recoverable certificates (form)](https://technet.microsoft.com/en-us/library/jj664816\(v=ax.60\))
+2.  Click **Return order** to create a return order. For more information, see [(IND) Recoverable certificates (form)](https://technet.microsoft.com/library/jj664816\(v=ax.60\))
 
 3.  Close the forms.
 
@@ -65,11 +66,11 @@ When you create the return order for an imported item, you must specify the pert
 
 ## See also
 
-[Return orders (form)](https://technet.microsoft.com/en-us/library/hh803010\(v=ax.60\))
+[Return orders (form)](https://technet.microsoft.com/library/hh803010\(v=ax.60\))
 
-[Arrival overview (form)](https://technet.microsoft.com/en-us/library/hh227654\(v=ax.60\))
+[Arrival overview (form)](https://technet.microsoft.com/library/hh227654\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

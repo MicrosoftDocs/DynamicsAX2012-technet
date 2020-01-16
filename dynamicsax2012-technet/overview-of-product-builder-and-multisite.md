@@ -2,8 +2,9 @@
 title: Overview of Product Builder and multisite
 TOCTitle: Overview of Product Builder and multisite
 ms:assetid: ff4a9c8c-3617-4194-bdd6-0308b2425562
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243318(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243318(v=AX.60)
 ms:contentKeyID: 36676423
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -131,7 +132,7 @@ As the items are configured during the sales process, custom BOMs and routes are
 
 [Configure a multilevel BOM item requiring production in multiple sites](configure-a-multilevel-bom-item-requiring-production-in-multiple-sites.md)
 
-[Order settings (form)](https://technet.microsoft.com/en-us/library/hh209541\(v=ax.60\))
+[Order settings (form)](https://technet.microsoft.com/library/hh209541\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (POL) Post and print an interest note
 TOCTitle: (POL) Post and print an interest note
 ms:assetid: 839a592e-0277-4b8d-96be-8346c3667b26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678264(v=AX.60)
 ms:contentKeyID: 49386986
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

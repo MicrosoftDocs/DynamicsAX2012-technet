@@ -2,8 +2,9 @@
 title: (POL) Set parameters for the EU sales list
 TOCTitle: (POL) Set parameters for the EU sales list
 ms:assetid: a532c195-7532-4dc8-83a2-74069758bc60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678323(v=AX.60)
 ms:contentKeyID: 49387045
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

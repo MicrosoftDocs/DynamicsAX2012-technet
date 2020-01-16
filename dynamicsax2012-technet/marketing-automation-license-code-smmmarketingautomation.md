@@ -2,8 +2,9 @@
 title: Marketing automation license code (smmMarketingAutomation)
 TOCTitle: Marketing automation license code (smmMarketingAutomation)
 ms:assetid: cd3c3067-6220-4347-ab43-88c4ecb18e6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416690(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416690(v=AX.60)
 ms:contentKeyID: 36931851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

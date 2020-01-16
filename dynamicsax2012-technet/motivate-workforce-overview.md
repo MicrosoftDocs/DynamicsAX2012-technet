@@ -2,8 +2,9 @@
 title: Motivate workforce overview
 TOCTitle: Motivate workforce overview
 ms:assetid: 7d6eac24-56d1-438c-8193-e057c980c855
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213137(v=AX.60)
 ms:contentKeyID: 36676394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

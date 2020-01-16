@@ -2,8 +2,9 @@
 title: Operation of reporting
 TOCTitle: Operations
 ms:assetid: 2eb921de-6c83-40cc-a702-3b431bdee038
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873250(v=AX.60)
 ms:contentKeyID: 28119330
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

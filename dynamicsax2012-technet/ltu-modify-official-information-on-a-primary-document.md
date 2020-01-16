@@ -2,8 +2,9 @@
 title: (LTU) Modify official information on a primary document
 TOCTitle: (LTU) Modify official information on a primary document
 ms:assetid: d81d35e1-036d-4e49-aea4-e3eac9cf7937
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665204(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665204(v=AX.60)
 ms:contentKeyID: 49386784
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,11 +48,11 @@ Before you generate and post an invoice for a primary document, such as a sales 
 
 ## See also
 
-[(LTU) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj678097\(v=ax.60\))
+[(LTU) Sales orders (modified form)](https://technet.microsoft.com/library/jj678097\(v=ax.60\))
 
-[(LTU) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj911248\(v=ax.60\))
+[(LTU) Purchase orders (modified form)](https://technet.microsoft.com/library/jj911248\(v=ax.60\))
 
-[(EEUR) Officials (form)](https://technet.microsoft.com/en-us/library/jj710672\(v=ax.60\))
+[(EEUR) Officials (form)](https://technet.microsoft.com/library/jj710672\(v=ax.60\))
 
   
 

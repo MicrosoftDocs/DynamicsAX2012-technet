@@ -2,8 +2,9 @@
 title: (MEX) Provisional ISR payment report (ISRProvisionalDeclaration_MX)
 TOCTitle: (MEX) Provisional ISR payment report (ISRProvisionalDeclaration_MX)
 ms:assetid: 862c950b-1ddb-4ebc-87d1-6153c3bc5019
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433507(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433507(v=AX.60)
 ms:contentKeyID: 36941280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

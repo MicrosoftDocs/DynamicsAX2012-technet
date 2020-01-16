@@ -2,8 +2,9 @@
 title: (POL) Post and print a returned package report
 TOCTitle: (POL) Post and print a returned package report
 ms:assetid: 8bc3cd83-8cd7-4dd5-b4b1-7716e7d71a06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923252(v=AX.60)
 ms:contentKeyID: 52075334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to verify the packages that are issued for customers and to print the **Return packages confirmation** report.
 
-You can use the **Packages at customers** report to verify the packages that are issued to customers. You can use the **Return packages transactions** form to verify the return package transactions for a selected customer. For more information, see [(POL) Return packages transactions (form)](https://technet.microsoft.com/en-us/library/jj923259\(v=ax.60\)).
+You can use the **Packages at customers** report to verify the packages that are issued to customers. You can use the **Return packages transactions** form to verify the return package transactions for a selected customer. For more information, see [(POL) Return packages transactions (form)](https://technet.microsoft.com/library/jj923259\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 

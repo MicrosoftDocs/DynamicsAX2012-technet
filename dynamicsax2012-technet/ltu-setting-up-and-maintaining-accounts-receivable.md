@@ -2,8 +2,9 @@
 title: (LTU) Setting up and maintaining Accounts receivable
 TOCTitle: (LTU) Setting up and maintaining Accounts receivable
 ms:assetid: e3b93157-2169-4131-a335-6beec5d26ba6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678079(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678079(v=AX.60)
 ms:contentKeyID: 49386803
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

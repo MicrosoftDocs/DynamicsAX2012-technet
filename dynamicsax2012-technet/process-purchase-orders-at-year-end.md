@@ -2,8 +2,9 @@
 title: Process purchase orders at year end
 TOCTitle: Process purchase orders at year end
 ms:assetid: 8010f4a6-dcc1-40cb-b225-4bded6971d48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209300(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209300(v=AX.60)
 ms:contentKeyID: 36058338
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,7 +84,7 @@ Select one of the following year-end processing options to close purchase order 
 
 
 > [!NOTE]
-> <P>The year-end processing option that you select is used for encumbrances on all of the purchase orders that you select. If the <STRONG>Public Sector</STRONG> configuration key is selected, you can override this selection and substitute a different year-end processing option for specific funds that you select in the <STRONG>Funds</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh208514(v=ax.60)">Funds (form) (Public sector)</A>.</P>
+> <P>The year-end processing option that you select is used for encumbrances on all of the purchase orders that you select. If the <STRONG>Public Sector</STRONG> configuration key is selected, you can override this selection and substitute a different year-end processing option for specific funds that you select in the <STRONG>Funds</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh208514(v=ax.60)">Funds (form) (Public sector)</A>.</P>
 
 
 
@@ -144,7 +145,7 @@ Select one of the following year-end processing options to close purchase order 
 
 1.  Click **General ledger** \> **Periodic** \> **Fiscal year close** \> **Purchase order year-end process**.
 
-2.  Click **Retrieve purchase orders** in the lower pane to select purchase orders for the year-end process. This opens a query form where you can select purchase orders by criteria such as the date, date range, vendor account, purchase order type, purchase order balance, or financial dimensions. For more information, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+2.  Click **Retrieve purchase orders** in the lower pane to select purchase orders for the year-end process. This opens a query form where you can select purchase orders by criteria such as the date, date range, vendor account, purchase order type, purchase order balance, or financial dimensions. For more information, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 3.  Click **OK** in the **Inquiry** form.
 
@@ -158,9 +159,9 @@ Select one of the following year-end processing options to close purchase order 
 
 5.  In the **Year-end option** field, select how to process purchase order encumbrances.
 
-6.  Select an original budget code, if you selected the **Process and carry forward budget** year-end option. This code is used for budget adjustments that are made in the closing fiscal year. The code that you select must not have a workflow selected, because the year-end processing would stop for workflow approvals. For more information, see [Budget codes (form)](https://technet.microsoft.com/en-us/library/hh209638\(v=ax.60\)).
+6.  Select an original budget code, if you selected the **Process and carry forward budget** year-end option. This code is used for budget adjustments that are made in the closing fiscal year. The code that you select must not have a workflow selected, because the year-end processing would stop for workflow approvals. For more information, see [Budget codes (form)](https://technet.microsoft.com/library/hh209638\(v=ax.60\)).
 
-7.  Select a carry forward budget code, if you selected the **Process and carry forward budget** year-end option. This code is used for budget adjustments that are made in the new fiscal year. The code that you select must not have a workflow selected, because the year-end processing would stop for workflow approvals. For more information, see [Budget codes (form)](https://technet.microsoft.com/en-us/library/hh209638\(v=ax.60\)).
+7.  Select a carry forward budget code, if you selected the **Process and carry forward budget** year-end option. This code is used for budget adjustments that are made in the new fiscal year. The code that you select must not have a workflow selected, because the year-end processing would stop for workflow approvals. For more information, see [Budget codes (form)](https://technet.microsoft.com/library/hh209638\(v=ax.60\)).
 
 8.  Verify the default values in the **Calendar** and **Fiscal year** fields, and make any changes. You can change the fiscal year value here, but you must use the **Ledger** form to change the selected fiscal calendar.
     
@@ -196,15 +197,15 @@ Select one of the following year-end processing options to close purchase order 
 
 [Encumber purchase orders](encumber-purchase-orders.md)
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
-[Purchase order year-end process (form)](https://technet.microsoft.com/en-us/library/hh209522\(v=ax.60\))
+[Purchase order year-end process (form)](https://technet.microsoft.com/library/hh209522\(v=ax.60\))
 
 [Set up posting definitions](set-up-posting-definitions.md)
 
-[Subledger journal (form)](https://technet.microsoft.com/en-us/library/hh208685\(v=ax.60\))
+[Subledger journal (form)](https://technet.microsoft.com/library/hh208685\(v=ax.60\))
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
 [Finalize a general budget reservation (Public sector)](finalize-a-general-budget-reservation-public-sector.md)
 

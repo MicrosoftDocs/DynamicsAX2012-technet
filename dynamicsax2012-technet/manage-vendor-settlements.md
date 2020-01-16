@@ -2,8 +2,9 @@
 title: Manage vendor settlements
 TOCTitle: Manage vendor settlements
 ms:assetid: 0d5fd538-e8ae-4c8f-89b0-b956c698407b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230902(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230902(v=AX.60)
 ms:contentKeyID: 36056004
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

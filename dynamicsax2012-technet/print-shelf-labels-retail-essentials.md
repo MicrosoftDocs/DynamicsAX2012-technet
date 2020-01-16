@@ -2,8 +2,9 @@
 title: Print shelf labels (Retail essentials)
 TOCTitle: Print shelf labels (Retail essentials)
 ms:assetid: a7ab2dcb-fd55-44a4-9ccf-1400dce81d7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736927(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736927(v=AX.60)
 ms:contentKeyID: 62200404
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ The following tasks must be completed before you can generate and print shelf la
 
   - Before you can set up printing for shelf labels, a system administrator must enable menu items for Retail essentials. For more information, see Enable label printing (Retail essentials).
 
-  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. (On the area page, under **Channels**, click **Setup** \> **Retail shared parameters**.) For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/en-us/library/hh580625\(v=ax.60\)).
+  - Select options in the **Retail shared parameters** form to specify how labels should be generated for brick-and-mortar stores. (On the area page, under **Channels**, click **Setup** \> **Retail shared parameters**.) For more information about the options in this form, see [Retail shared parameters (form)](https://technet.microsoft.com/library/hh580625\(v=ax.60\)).
 
   - Select the reports that can be used to generate labels. For more information, see the following section, “Set up shelf label reports.”
 
@@ -153,11 +154,11 @@ For information about how to create a transfer order, see [Set up transfer order
     
       - In the **Update** field, select the appropriate value for the shipment.
         
-        For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+        For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - Select the **Edit lines** check box if appropriate.
         
-        For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+        For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - On the **General** tab, select the **Print shelf labels** check box.
     
@@ -187,11 +188,11 @@ For information about how to create a transfer order, see [Set up transfer order
     
       - In the **Update** field, select the appropriate value for the shipment.
         
-        For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+        For more information about the different values in the drop down list, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - Select the **Edit lines** check box if appropriate.
         
-        For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+        For more information about when to select the **Edit lines** check box, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
       - On the **General** tab, select the **Print shelf labels** check box.
     

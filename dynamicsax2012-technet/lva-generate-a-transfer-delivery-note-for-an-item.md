@@ -2,8 +2,9 @@
 title: (LVA) Generate a transfer delivery note for an item
 TOCTitle: (LVA) Generate a transfer delivery note for an item
 ms:assetid: bfc95312-9d6c-44ac-80b0-03eedf0caf6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721429(v=AX.60)
 ms:contentKeyID: 49729993
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ Use the **Transfer delivery note** form to transfer a delivery note for an item.
 
 ## See also
 
-[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/en-us/library/aa587291\(v=ax.60\))
+[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/library/aa587291\(v=ax.60\))
 
   
 

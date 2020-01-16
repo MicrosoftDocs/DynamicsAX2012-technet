@@ -2,8 +2,9 @@
 title: Potency configuration key (PDSPotency)
 TOCTitle: Potency configuration key (PDSPotency)
 ms:assetid: 26373556-1cb0-4b47-9712-d042d80b4f29
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn782845(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn782845(v=AX.60)
 ms:contentKeyID: 62817387
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -35,17 +36,17 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Batch balancing</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838768(v=ax.60)">Batch balancing (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838768(v=ax.60)">Batch balancing (form)</a></p>
 <p><a href="select-inventory-batches-for-an-active-ingredient-in-a-batch-order.md">Select inventory batches for an active ingredient in a batch order</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Attribute-based pricing data</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838766(v=ax.60)">Attribute-based pricing data (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838766(v=ax.60)">Attribute-based pricing data (form)</a></p>
 <p><a href="set-up-an-attribute-based-pricing-formula-for-a-potency-item.md">Set up an attribute-based pricing formula for a potency item</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Compensation principle</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838757(v=ax.60)">Compensation principle (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838757(v=ax.60)">Compensation principle (form)</a></p>
 <p><a href="define-an-active-ingredient-in-a-formula-line.md">Define an active ingredient in a formula line</a></p></td>
 </tr>
 </tbody>
@@ -84,7 +85,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

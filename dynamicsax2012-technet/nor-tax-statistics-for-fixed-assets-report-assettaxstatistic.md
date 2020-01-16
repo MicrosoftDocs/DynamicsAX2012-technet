@@ -2,8 +2,9 @@
 title: (NOR) Tax statistics for fixed assets report (AssetTaxStatistic)
 TOCTitle: (NOR) Tax statistics for fixed assets report (AssetTaxStatistic)
 ms:assetid: 5eff1710-33b6-4113-93b8-c7a5719aebcd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa584384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa584384(v=AX.60)
 ms:contentKeyID: 36941262
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

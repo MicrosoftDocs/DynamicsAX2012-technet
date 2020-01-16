@@ -2,8 +2,9 @@
 title: (LTU) Create invoices from purchase orders
 TOCTitle: (LTU) Create invoices from purchase orders
 ms:assetid: fa7ab85a-71a4-4486-a855-1eb09e4f51bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678104(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678104(v=AX.60)
 ms:contentKeyID: 49386828
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

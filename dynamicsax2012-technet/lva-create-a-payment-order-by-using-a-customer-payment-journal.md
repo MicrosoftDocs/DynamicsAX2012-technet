@@ -2,8 +2,9 @@
 title: (LVA) Create a payment order by using a customer payment journal
 TOCTitle: (LVA) Create a payment order by using a customer payment journal
 ms:assetid: 06bc0140-410a-46c1-99c5-5456bd4a3785
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720360(v=AX.60)
 ms:contentKeyID: 49721156
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can create a payment order by using a customer payment journal, you must set up a method of payment that includes any available export format. For more information, see [Set up payment types for vendor methods of payment](set-up-payment-types-for-vendor-methods-of-payment.md).
 
-You also must create a payment specification code for the method of payment that you selected in the **Methods of payment - customers** form. For more information, see [Customer payment specification (form)](https://technet.microsoft.com/en-us/library/aa620408\(v=ax.60\)).
+You also must create a payment specification code for the method of payment that you selected in the **Methods of payment - customers** form. For more information, see [Customer payment specification (form)](https://technet.microsoft.com/library/aa620408\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Journals** \> **Payments** \> **Payment journal**.
 
@@ -51,9 +52,9 @@ You also must create a payment specification code for the method of payment that
 
 ## See also
 
-[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj720370\(v=ax.60\))
+[(LVA) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj720370\(v=ax.60\))
 
-[(LVA) Approval of bank information (form)](https://technet.microsoft.com/en-us/library/jj720366\(v=ax.60\))
+[(LVA) Approval of bank information (form)](https://technet.microsoft.com/library/jj720366\(v=ax.60\))
 
   
 

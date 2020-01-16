@@ -1,9 +1,10 @@
-﻿---
+---
 title: Product.UnitsOfMeasureSymbol Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: UnitsOfMeasureSymbol Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.UnitsOfMeasureSymbol
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.product.unitsofmeasuresymbol(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.unitsofmeasuresymbol(v=AX.60)
 ms:contentKeyID: 62212162
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ICollection<String^>^ UnitsOfMeasureSymbol {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
-Returns [ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)).  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
+Returns [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).  
 
 ## See Also
 

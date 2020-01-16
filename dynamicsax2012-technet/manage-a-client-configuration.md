@@ -2,8 +2,9 @@
 title: Manage a client configuration
 TOCTitle: Manage a client configuration
 ms:assetid: 813ed1c9-aec5-47f5-9c1f-94e934fda5d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569651(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569651(v=AX.60)
 ms:contentKeyID: 35949323
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

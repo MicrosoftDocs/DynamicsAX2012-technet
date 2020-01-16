@@ -2,8 +2,9 @@
 title: Modify metadata for question groups in RapidStart Services
 TOCTitle: Modify metadata for question groups in RapidStart Services
 ms:assetid: 73441555-0dfb-4eb7-a907-2ceb43f5a848
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413241(v=AX.60)
 ms:contentKeyID: 36918932
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

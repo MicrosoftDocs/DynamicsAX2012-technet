@@ -2,8 +2,9 @@
 title: Manage KPIs
 TOCTitle: Manage KPIs
 ms:assetid: 9a0eb18c-9639-4b5a-ab91-deac75a283ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677301(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677301(v=AX.60)
 ms:contentKeyID: 49384072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ KPI List web parts display key performance indicators (KPIs). KPIs are business 
 
 ## Add the KPI List web part to a page
 
-To add the KPI List web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+To add the KPI List web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 After you add the KPI List web part to a page, the name of the web part is **Business overview**. The KPI List web part is a version of the Business Overview web part that is preconfigured to display KPIs. You can change the name of the web part when you configure it by using the following procedure.
 

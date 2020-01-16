@@ -2,8 +2,9 @@
 title: (LTU) Foreign trade
 TOCTitle: (LTU) Foreign trade
 ms:assetid: b6acaada-e437-443a-8b18-c9749ba74128
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665170(v=AX.60)
 ms:contentKeyID: 49386751
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

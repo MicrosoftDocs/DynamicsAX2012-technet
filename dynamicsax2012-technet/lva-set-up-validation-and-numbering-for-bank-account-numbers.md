@@ -2,8 +2,9 @@
 title: (LVA) Set up validation and numbering for bank account numbers
 TOCTitle: (LVA) Set up validation and numbering for bank account numbers
 ms:assetid: 8513df5e-15de-449c-bfd2-5d5da83c1e17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721425(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721425(v=AX.60)
 ms:contentKeyID: 49729988
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ You must set up and validate bank account numbers, based on the account number f
 
 ## See also
 
-[(LVA) Bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj721426\(v=ax.60\))
+[(LVA) Bank accounts (modified form)](https://technet.microsoft.com/library/jj721426\(v=ax.60\))
 
   
 

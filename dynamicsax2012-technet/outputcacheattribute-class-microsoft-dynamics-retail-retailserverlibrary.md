@@ -1,9 +1,10 @@
-﻿---
+---
 title: OutputCacheAttribute Class (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: OutputCacheAttribute Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.OutputCacheAttribute
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.outputcacheattribute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.outputcacheattribute(v=AX.60)
 ms:contentKeyID: 62203071
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ public ref class OutputCacheAttribute sealed : public ActionFilterAttribute
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Attribute](https://technet.microsoft.com/en-us/library/e8kc3626\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Attribute](https://technet.microsoft.com/library/e8kc3626\(v=ax.60\))  
     FilterAttribute  
       ActionFilterAttribute  
         Microsoft.Dynamics.Retail.RetailServerLibrary.OutputCacheAttribute  

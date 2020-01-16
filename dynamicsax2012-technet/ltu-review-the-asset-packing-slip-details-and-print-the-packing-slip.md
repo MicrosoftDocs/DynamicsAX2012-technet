@@ -2,8 +2,9 @@
 title: (LTU) Review the asset packing slip details and print the packing slip
 TOCTitle: (LTU) Review the asset packing slip details and print the packing slip
 ms:assetid: 82c9f850-6d73-4445-9bd8-f6d6b55e7212
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665128(v=AX.60)
 ms:contentKeyID: 49386709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Use this procedure to review the details of a packing slip for a fixed asset tra
     
 
     > [!NOTE]
-    > <P>You create packing slips in the <STRONG>Fixed asset transfer</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/dn126117(v=ax.60)">(LTU) Fixed asset transfer (modified form)</A>.</P>
+    > <P>You create packing slips in the <STRONG>Fixed asset transfer</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/dn126117(v=ax.60)">(LTU) Fixed asset transfer (modified form)</A>.</P>
 
 
 
@@ -37,13 +38,13 @@ Use this procedure to review the details of a packing slip for a fixed asset tra
 
 ## See also
 
-[(LTU) Packing slip details (form)](https://technet.microsoft.com/en-us/library/jj911247\(v=ax.60\))
+[(LTU) Packing slip details (form)](https://technet.microsoft.com/library/jj911247\(v=ax.60\))
 
-[(LTU) Warehouse transfer (form)](https://technet.microsoft.com/en-us/library/jj944989\(v=ax.60\))
+[(LTU) Warehouse transfer (form)](https://technet.microsoft.com/library/jj944989\(v=ax.60\))
 
 [(LTU) Create a transfer packing slip for a fixed asset](ltu-create-a-transfer-packing-slip-for-a-fixed-asset.md)
 
-[(LTU) Transportation details (form)](https://technet.microsoft.com/en-us/library/jj665040\(v=ax.60\))
+[(LTU) Transportation details (form)](https://technet.microsoft.com/library/jj665040\(v=ax.60\))
 
   
 

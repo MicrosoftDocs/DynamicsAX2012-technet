@@ -2,8 +2,9 @@
 title: (NOR) Payment control report (CustInPaymNO)
 TOCTitle: (NOR) Payment control report (CustInPaymNO)
 ms:assetid: 7dbf6978-4442-46d5-96e4-54f1cbf1b273
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335157(v=AX.60)
 ms:contentKeyID: 36687369
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (NOR) Set up the types of payment mode change for eInvoices
 TOCTitle: (NOR) Set up the types of payment mode change for eInvoices
 ms:assetid: e7f31ffc-d255-41e0-96c9-f26d2f5ee75c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243234(v=AX.60)
 ms:contentKeyID: 36059825
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[(NOR) Payment mode change (form)](https://technet.microsoft.com/en-us/library/hh209700\(v=ax.60\))
+[(NOR) Payment mode change (form)](https://technet.microsoft.com/library/hh209700\(v=ax.60\))
 
   
 

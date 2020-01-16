@@ -2,8 +2,9 @@
 title: (LVA) Setting up depreciation
 TOCTitle: (LVA) Setting up depreciation
 ms:assetid: 6bb54d1b-d6ae-4d58-b6f2-b38a80d98716
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731031(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731031(v=AX.60)
 ms:contentKeyID: 49675271
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

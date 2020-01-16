@@ -2,8 +2,9 @@
 title: Pay statements and the payment generation process
 TOCTitle: Pay statements and the payment generation process
 ms:assetid: 0248906d-a05a-49e5-ab62-7939b4d773be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876700(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876700(v=AX.60)
 ms:contentKeyID: 63385344
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Maintaining Installation-Specific Element IDs and Element Handles
 TOCTitle: Maintaining Installation-Specific Element IDs and Element Handles
 ms:assetid: e41443b8-1acf-4144-9b7f-2b7c216916ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352326(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352326(v=AX.60)
 ms:contentKeyID: 36687956
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -96,7 +97,7 @@ For more information about specific steps in this process, see [How to: Export a
 
 ## See also
 
-[Table Inheritance Overview](https://technet.microsoft.com/en-us/library/gg881053\(v=ax.60\))
+[Table Inheritance Overview](https://technet.microsoft.com/library/gg881053\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

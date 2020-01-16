@@ -2,8 +2,9 @@
 title: Manage Cues on Role Center pages
 TOCTitle: Manage Cues on Role Center pages
 ms:assetid: ab966176-2f37-4263-a494-65a2158d7ac2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362033(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362033(v=AX.60)
 ms:contentKeyID: 36966723
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

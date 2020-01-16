@@ -2,8 +2,9 @@
 title: (POL) Purchase VAT register (report)
 TOCTitle: (POL) Purchase VAT register (report)
 ms:assetid: 7c73bf11-9f0a-4a4a-a105-6111c1f407fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863717(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863717(v=AX.60)
 ms:contentKeyID: 50396400
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

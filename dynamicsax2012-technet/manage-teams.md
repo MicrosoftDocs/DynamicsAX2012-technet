@@ -2,8 +2,9 @@
 title: Manage teams
 TOCTitle: Manage teams
 ms:assetid: 00c979f0-6966-47cd-8395-ac8d267e8ef0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781063(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781063(v=AX.60)
 ms:contentKeyID: 43894460
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

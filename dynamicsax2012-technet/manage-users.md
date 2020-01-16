@@ -2,8 +2,9 @@
 title: Manage users
 TOCTitle: Manage users
 ms:assetid: 0f168598-54e6-4fb6-be09-b1160e2f3ab7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834331(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834331(v=AX.60)
 ms:contentKeyID: 36655943
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

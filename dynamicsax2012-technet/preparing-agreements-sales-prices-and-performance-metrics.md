@@ -2,8 +2,9 @@
 title: Preparing agreements, sales prices, and performance metrics
 TOCTitle: Preparing agreements, sales prices, and performance metrics
 ms:assetid: 5b81c232-b2fc-4dfc-a3ec-1aafa5b48a67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242492(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242492(v=AX.60)
 ms:contentKeyID: 36057560
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

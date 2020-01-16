@@ -2,8 +2,9 @@
 title: (LTU) Working with Fixed assets
 TOCTitle: (LTU) Working with Fixed assets
 ms:assetid: 16d0f568-8ef4-4c7e-8e23-f8a5491dddfd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665025(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665025(v=AX.60)
 ms:contentKeyID: 49386607
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderManager.VoidCartLine Method (String, CartLine, Nullable(CalculationModes)) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: VoidCartLine Method (String, CartLine, Nullable(CalculationModes))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.VoidCartLine(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.ordermanager.voidcartline(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.voidcartline(v=AX.60)
 ms:contentKeyID: 62215165
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -59,7 +60,7 @@ Cart^ VoidCartLine(
 #### Parameters
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -69,7 +70,7 @@ Cart^ VoidCartLine(
 <!-- end list -->
 
   - calculationModes  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Return Value
 

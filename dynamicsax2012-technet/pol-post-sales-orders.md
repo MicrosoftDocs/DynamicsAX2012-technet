@@ -2,8 +2,9 @@
 title: (POL) Post sales orders
 TOCTitle: (POL) Post sales orders
 ms:assetid: b93ab02f-89a0-442d-825c-1b9e40ab63f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711246(v=AX.60)
 ms:contentKeyID: 49387064
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

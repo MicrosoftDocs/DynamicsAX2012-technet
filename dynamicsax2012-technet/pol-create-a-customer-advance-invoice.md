@@ -2,8 +2,9 @@
 title: (POL) Create a customer advance invoice
 TOCTitle: (POL) Create a customer advance invoice
 ms:assetid: 3d810368-48dc-4733-b0ed-7163d4cfad87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678177(v=AX.60)
 ms:contentKeyID: 49386900
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

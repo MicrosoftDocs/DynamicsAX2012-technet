@@ -2,8 +2,9 @@
 title: Managing absences
 TOCTitle: Managing absences
 ms:assetid: 7cff2b18-5434-452c-b6fe-99a4e166764c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271575(v=AX.60)
 ms:contentKeyID: 36384206
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

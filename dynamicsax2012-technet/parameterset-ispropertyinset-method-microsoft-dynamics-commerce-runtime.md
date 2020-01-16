@@ -1,9 +1,10 @@
-﻿---
+---
 title: ParameterSet.IsPropertyInSet Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IsPropertyInSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ParameterSet.IsPropertyInSet(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.parameterset.ispropertyinset(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.parameterset.ispropertyinset(v=AX.60)
 ms:contentKeyID: 62213188
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ bool IsPropertyInSet(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether the property is defined in this property set or not.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: (LVA) Set up payment transaction codes
 TOCTitle: (LVA) Set up payment transaction codes
 ms:assetid: b514dcdb-6e68-479f-bb22-2afd3e78214b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720365(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720365(v=AX.60)
 ms:contentKeyID: 49721161
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ The payment transaction code indicates the type of the payment transaction, such
 
 ## See also
 
-[(LVA) Transaction code (form)](https://technet.microsoft.com/en-us/library/jj684600\(v=ax.60\))
+[(LVA) Transaction code (form)](https://technet.microsoft.com/library/jj684600\(v=ax.60\))
 
   
 

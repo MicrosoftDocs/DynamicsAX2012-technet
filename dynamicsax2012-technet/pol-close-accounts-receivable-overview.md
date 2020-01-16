@@ -2,8 +2,9 @@
 title: (POL) Close Accounts receivable overview
 TOCTitle: (POL) Close Accounts receivable overview
 ms:assetid: 9ed53a07-b827-4c20-ac02-33289d3d9877
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678313(v=AX.60)
 ms:contentKeyID: 49387035
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

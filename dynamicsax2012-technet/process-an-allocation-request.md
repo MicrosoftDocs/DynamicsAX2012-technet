@@ -2,8 +2,9 @@
 title: Process an allocation request
 TOCTitle: Process an allocation request
 ms:assetid: db873fae-db65-4c42-b6f4-4b2c7c0723bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ff395362(v=AX.60)
 ms:contentKeyID: 36059667
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ With allocation journals selected for budget control and with budget control tur
 
 [About allocation rules](about-allocation-rules.md)
 
-[Process allocation request (form)](https://technet.microsoft.com/en-us/library/ff395361\(v=ax.60\))
+[Process allocation request (form)](https://technet.microsoft.com/library/ff395361\(v=ax.60\))
 
   
 

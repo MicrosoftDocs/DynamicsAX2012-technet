@@ -2,8 +2,9 @@
 title: N
 TOCTitle: N
 ms:assetid: DynamicsAXGlossary.N
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.n(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.n(v=AX.60)
 ms:contentKeyID: 36058013
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---

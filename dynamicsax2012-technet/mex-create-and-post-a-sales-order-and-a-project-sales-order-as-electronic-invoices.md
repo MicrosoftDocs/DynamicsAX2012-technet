@@ -2,8 +2,9 @@
 title: (MEX) Create and post a sales order and a project sales order as electronic invoices
 TOCTitle: (MEX) Create and post a sales order and a project sales order as electronic invoices
 ms:assetid: c7050d39-6467-49a2-88de-a3710128861a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242845(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242845(v=AX.60)
 ms:contentKeyID: 36059309
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,9 +79,9 @@ You can also create and post a sales order for an imported item or a leasing ser
 
 ## See also
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
 [(MEX) Set up a sales tax code for an electronic invoice](mex-set-up-a-sales-tax-code-for-an-electronic-invoice.md)
 

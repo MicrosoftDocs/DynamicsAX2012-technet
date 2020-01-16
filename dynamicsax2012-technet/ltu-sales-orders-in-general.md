@@ -2,8 +2,9 @@
 title: (LTU) Sales orders in general
 TOCTitle: (LTU) Sales orders in general
 ms:assetid: c163685a-e816-4b8c-89b1-f2fe638f8193
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665183(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665183(v=AX.60)
 ms:contentKeyID: 49386764
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

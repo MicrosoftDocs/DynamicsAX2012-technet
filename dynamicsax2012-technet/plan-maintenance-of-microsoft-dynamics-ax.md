@@ -2,8 +2,9 @@
 title: Plan maintenance of Microsoft Dynamics AX
 TOCTitle: Plan maintenance
 ms:assetid: 7c47710a-bbd5-4031-a798-1a2fc7a37e01
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309726(v=AX.60)
 ms:contentKeyID: 36584377
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Organization hierarchies
 TOCTitle: Organization hierarchies
 ms:assetid: ed0999cf-d17e-4e60-aca4-1c130e1ea0a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn223357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn223357(v=AX.60)
 ms:contentKeyID: 54453516
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -127,7 +128,7 @@ An organization chart defines the relationships between departments, jobs, and p
 
 ## Data access
 
-A user's access to data in Microsoft Dynamics AX can be granted based on the user's relationship to an organization. To use a hierarchy in this scenario, you must assign the **Security** purpose to it. You must also create data security policies to help secure the organizations in the hierarchy. Then, when you associate a user who is in a particular role with a hierarchy, the user's access to data changes automatically when the hierarchy changes. For more information, see [Overview of Security Policies for Table Records](https://technet.microsoft.com/en-us/library/hh272123\(v=ax.60\)) and [Organizations for the automatic role assignment rule (form) or Organizations for the user (form)](https://technet.microsoft.com/en-us/library/hh242784\(v=ax.60\)).
+A user's access to data in Microsoft Dynamics AX can be granted based on the user's relationship to an organization. To use a hierarchy in this scenario, you must assign the **Security** purpose to it. You must also create data security policies to help secure the organizations in the hierarchy. Then, when you associate a user who is in a particular role with a hierarchy, the user's access to data changes automatically when the hierarchy changes. For more information, see [Overview of Security Policies for Table Records](https://technet.microsoft.com/library/hh272123\(v=ax.60\)) and [Organizations for the automatic role assignment rule (form) or Organizations for the user (form)](https://technet.microsoft.com/library/hh242784\(v=ax.60\)).
 
 If **Based on security organizations** is the security model selected for budget planning, for example, you must assign the **Security** purpose to the budget planning organization hierarchy so budget plan preparers have access to the budget plans. For more information, see Budget planning in this topic, [Configure budget planning security](configure-budget-planning-security.md), [Configuring Budget Planning for Microsoft Dynamics AX 2012 R2](configuring-budget-planning-for-microsoft-dynamics-ax-2012-r2.md), and [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md).
 

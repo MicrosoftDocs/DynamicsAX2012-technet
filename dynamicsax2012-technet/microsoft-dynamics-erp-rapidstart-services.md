@@ -2,8 +2,9 @@
 title: Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 4cfd48f9-a343-4605-985e-f130a1eb3147
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh429439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh429439(v=AX.60)
 ms:contentKeyID: 36920148
+author: Khairunj
 ms.date: 09/30/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Planning and architecture of analytics
 TOCTitle: Planning and architecture
 ms:assetid: 86a1ec46-1770-4c2b-9f44-f5bc1ee340a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873269(v=AX.60)
 ms:contentKeyID: 28119391
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

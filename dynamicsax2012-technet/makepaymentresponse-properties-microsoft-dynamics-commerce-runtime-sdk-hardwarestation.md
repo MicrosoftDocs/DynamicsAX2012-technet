@@ -1,9 +1,10 @@
-﻿---
+---
 title: MakePaymentResponse Properties (Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation)
 TOCTitle: MakePaymentResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.MakePaymentResponse
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.makepaymentresponse_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.makepaymentresponse_properties(v=AX.60)
 ms:contentKeyID: 65319347
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Post fixed asset journals
 TOCTitle: Post fixed asset journals
 ms:assetid: 900944e4-0335-4af6-97aa-a01b392002bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498367(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498367(v=AX.60)
 ms:contentKeyID: 36058526
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Each fixed asset transaction is posted to the general ledger. Typically, both a 
     
     You can select from only the value models that are set up for the posting layer of the journal. For example, if the posting layer for the journal is **Tax**, only value models that have the **Tax** posting layer are available.
 
-6.  Enter transaction text for manual transactions. For more information, see [Journal descriptions - General ledger (form)](https://technet.microsoft.com/en-us/library/aa500456\(v=ax.60\)).
+6.  Enter transaction text for manual transactions. For more information, see [Journal descriptions - General ledger (form)](https://technet.microsoft.com/library/aa500456\(v=ax.60\)).
 
 7.  On the **General** tab, select a reason for the transaction. You can use codes that are set up in the **Asset reasons** form.
     
@@ -61,7 +62,7 @@ Each fixed asset transaction is posted to the general ledger. Typically, both a 
     
 
     > [!NOTE]
-    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -93,7 +94,7 @@ Although only fixed assets with an **Open** status can be depreciated, you still
 
 Create consumption depreciation proposal lines for value models that have depreciation profiles with **Consumption** as the depreciation method.
 
-For more information, see [About consumption depreciation](about-consumption-depreciation.md) and [Create consumption proposal (form)](https://technet.microsoft.com/en-us/library/aa618495\(v=ax.60\)).
+For more information, see [About consumption depreciation](about-consumption-depreciation.md) and [Create consumption proposal (form)](https://technet.microsoft.com/library/aa618495\(v=ax.60\)).
 
 ## Revaluation proposal
 
@@ -135,9 +136,9 @@ Create journal lines for the disposal of scrap assets (assets that are no longer
 
 ## See also
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
-[Fixed asset depreciation profile schedules (form)](https://technet.microsoft.com/en-us/library/aa575368\(v=ax.60\))
+[Fixed asset depreciation profile schedules (form)](https://technet.microsoft.com/library/aa575368\(v=ax.60\))
 
 [About fixed asset acquisitions](about-fixed-asset-acquisitions.md)
 

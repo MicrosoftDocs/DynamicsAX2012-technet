@@ -2,8 +2,9 @@
 title: Manage an AOS configuration
 TOCTitle: Manage an AOS configuration
 ms:assetid: 4aab5e81-921d-4f7f-b379-adffcb8febce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569618(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569618(v=AX.60)
 ms:contentKeyID: 35949290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -99,7 +100,7 @@ You can open a configuration file by using the **Open configuration file** comma
 
 [Install an AOS instance](install-an-aos-instance.md)
 
-[Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/en-us/library/aa569635\(v=ax.60\))
+[Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/library/aa569635\(v=ax.60\))
 
 [Manage AOS performance and availability](manage-aos-performance-and-availability.md)
 

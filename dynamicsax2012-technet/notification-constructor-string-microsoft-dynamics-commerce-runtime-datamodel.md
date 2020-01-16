@@ -1,9 +1,10 @@
-﻿---
+---
 title: Notification Constructor (String) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Notification Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Notification.#ctor(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.notification.notification(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.notification.notification(v=AX.60)
 ms:contentKeyID: 62211651
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ Notification(
 #### Parameters
 
   - entityName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

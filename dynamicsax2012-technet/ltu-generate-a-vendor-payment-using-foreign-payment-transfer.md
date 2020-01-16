@@ -2,8 +2,9 @@
 title: (LTU) Generate a vendor payment using Foreign Payment Transfer
 TOCTitle: (LTU) Generate a vendor payment using Foreign Payment Transfer
 ms:assetid: 48a34ef1-42c6-4505-be92-f2969c3da799
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665067(v=AX.60)
 ms:contentKeyID: 49386650
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The Lithuanian market began using LITAS, the unified electronic banking system, 
 
 ## See also
 
-[(LTU) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj665107\(v=ax.60\))
+[(LTU) Vendor payment journal lines (modified form)](https://technet.microsoft.com/library/jj665107\(v=ax.60\))
 
 [(LTU) Generate a customer payment using Foreign Payment Transfer](ltu-generate-a-customer-payment-using-foreign-payment-transfer.md)
 

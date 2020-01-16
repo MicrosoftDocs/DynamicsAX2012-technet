@@ -2,8 +2,9 @@
 title: Prerequisites for questionnaire
 TOCTitle: Prerequisites for questionnaire
 ms:assetid: 8b160326-6a6b-4516-8cd0-400ceef19d3b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597161(v=AX.60)
 ms:contentKeyID: 39519218
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,12 +44,12 @@ There are two types of prerequisites: required and optional.
 <tr class="odd">
 <td><p><strong>Question types</strong></p></td>
 <td><p>Used to categorize questions.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600758(v=ax.60)">Question types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600758(v=ax.60)">Question types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Questionnaire types</strong></p></td>
 <td><p>Used to classify specific questionnaires.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582848(v=ax.60)">Questionnaire types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582848(v=ax.60)">Questionnaire types (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -73,27 +74,27 @@ There are two types of prerequisites: required and optional.
 <tr class="odd">
 <td><p><strong>Form templates</strong></p></td>
 <td><p>Displays a background image behind the questionnaire text.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588059(v=ax.60)">Form templates (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588059(v=ax.60)">Form templates (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reference types</strong></p></td>
 <td><p>Used to enter criteria to help when you select respondents.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa570248(v=ax.60)">Reference types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa570248(v=ax.60)">Reference types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Planning types</strong></p></td>
 <td><p>Used to classify questionnaire schedules.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597289(v=ax.60)">Planning types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597289(v=ax.60)">Planning types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Questionnaire parameters</strong></p></td>
 <td><p>Modifies basic controls and default settings for questionnaires.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550238(v=ax.60)">Questionnaire parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550238(v=ax.60)">Questionnaire parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Questionnaire groups</strong></p></td>
 <td><p>Assigns a questionnaire to specific respondents.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620437(v=ax.60)">Questionnaire groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620437(v=ax.60)">Questionnaire groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>

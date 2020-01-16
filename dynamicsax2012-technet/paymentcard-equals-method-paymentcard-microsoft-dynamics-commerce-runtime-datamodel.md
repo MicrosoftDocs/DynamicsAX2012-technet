@@ -1,9 +1,10 @@
-﻿---
+---
 title: PaymentCard.Equals Method (PaymentCard) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Equals Method (PaymentCard)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard.Equals(Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcard.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcard.equals(v=AX.60)
 ms:contentKeyID: 62207791
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,12 +55,12 @@ virtual bool Equals(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 A value indicating whether the paymentcards are equal.  
 
 #### Implements
 
-[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/en-us/library/ms131190\(v=ax.60\))  
+[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/library/ms131190\(v=ax.60\))  
 
 ## See Also
 

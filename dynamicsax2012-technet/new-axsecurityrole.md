@@ -1,9 +1,10 @@
-﻿---
+---
 title: New-AXSecurityRole
 TOCTitle: New-AXSecurityRole
 ms:assetid: B63231AF-FE63-4D13-9787-D7563C920D7A
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720280(v=AX.60)
 ms:contentKeyID: 49720070
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

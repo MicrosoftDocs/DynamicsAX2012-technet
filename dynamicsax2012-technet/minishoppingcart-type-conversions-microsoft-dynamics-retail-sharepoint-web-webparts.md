@@ -1,9 +1,10 @@
-﻿---
+---
 title: MiniShoppingCart Type Conversions (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: MiniShoppingCart Type Conversions
 ms:assetid: Operators.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.MiniShoppingCart
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.minishoppingcart_operators(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.minishoppingcart_operators(v=AX.60)
 ms:contentKeyID: 62204417
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

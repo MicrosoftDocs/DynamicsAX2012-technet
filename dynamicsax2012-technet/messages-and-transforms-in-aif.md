@@ -1,9 +1,10 @@
-﻿---
+---
 title: Messages and transforms in AIF
 TOCTitle: Messages and transforms
 ms:assetid: 94d668e0-db8c-4fe4-b7e3-b144e57f4026
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731873(v=AX.60)
 ms:contentKeyID: 35132771
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Product.ParentKits Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ParentKits Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.ParentKits
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.product.parentkits(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.parentkits(v=AX.60)
 ms:contentKeyID: 65317842
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property ICollection<KitComponent^>^ ParentKits {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[KitComponent](kitcomponent-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[KitComponent](kitcomponent-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (POL) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 TOCTitle: (POL) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 ms:assetid: 84f9cdf1-edaf-41ac-96c4-d64a280379e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133211(v=AX.60)
 ms:contentKeyID: 53365028
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

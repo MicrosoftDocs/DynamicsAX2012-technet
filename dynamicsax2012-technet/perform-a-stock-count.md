@@ -2,8 +2,9 @@
 title: Perform a stock count
 TOCTitle: Perform a stock count
 ms:assetid: 3a78e76d-0c76-47c3-b6c5-9c043347e650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352241(v=AX.60)
 ms:contentKeyID: 36687866
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

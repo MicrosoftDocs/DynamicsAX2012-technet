@@ -2,8 +2,9 @@
 title: Merge party IDs for customer accounts across multiple legal entities
 TOCTitle: Merge party IDs for customer accounts across multiple legal entities
 ms:assetid: e8b62f58-9306-40c0-b403-7e9b8cd43216
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243240(v=AX.60)
 ms:contentKeyID: 36059838
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ If multiple legal entities in your organization do business with the same custom
 
 ## See also
 
-[Party (form)](https://technet.microsoft.com/en-us/library/hh209008\(v=ax.60\))
+[Party (form)](https://technet.microsoft.com/library/hh209008\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
 [Merge global address book records](merge-global-address-book-records.md)
 

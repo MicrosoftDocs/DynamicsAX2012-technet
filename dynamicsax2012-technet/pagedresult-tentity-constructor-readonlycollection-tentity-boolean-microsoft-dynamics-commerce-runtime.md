@@ -1,9 +1,10 @@
-﻿---
+---
 title: PagedResult(TEntity) Constructor (ReadOnlyCollection(TEntity), Boolean) (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: PagedResult(TEntity) Constructor (ReadOnlyCollection(TEntity), Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PagedResult`1.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{`0},System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn686367(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn686367(v=AX.60)
 ms:contentKeyID: 62214366
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -51,12 +52,12 @@ PagedResult(
 #### Parameters
 
   - results  
-    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[TEntity](pagedresult-tentity-class-microsoft-dynamics-commerce-runtime.md)\>  
+    Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[TEntity](pagedresult-tentity-class-microsoft-dynamics-commerce-runtime.md)\>  
 
 <!-- end list -->
 
   - hasNextPage  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (NOR) Set up the layout for an eInvoice
 TOCTitle: (NOR) Set up the layout for an eInvoice
 ms:assetid: 7011a4b5-5ae4-4797-94ca-54470bbe4a68
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231825(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231825(v=AX.60)
 ms:contentKeyID: 36058053
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[(NOR) e-invoice (form)](https://technet.microsoft.com/en-us/library/hh209548\(v=ax.60\))
+[(NOR) e-invoice (form)](https://technet.microsoft.com/library/hh209548\(v=ax.60\))
 
   
 

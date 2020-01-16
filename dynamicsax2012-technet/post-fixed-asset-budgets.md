@@ -2,8 +2,9 @@
 title: Post fixed asset budgets
 TOCTitle: Post fixed asset budgets
 ms:assetid: 5b106fcc-0872-4a80-b57b-cdf544e11d0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549083(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549083(v=AX.60)
 ms:contentKeyID: 36057357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ You can create budgets for fixed asset value models and generate a budget-relate
 
 To update fixed asset budgets in General ledger, the same accounts as the accounts that are set up for realized fixed asset transactions are used for posting. These are the accounts from the **Fixed asset posting profiles** form. The transaction type of the budget account entry, together with the fixed asset and the value model of the budget journal line, will be used to update the accounts in the posting profile.
 
-Use the **Journal voucher** form to post fixed asset budget journals. For more information, see [Journal voucher - Fixed asset budget (form)](https://technet.microsoft.com/en-us/library/aa585887\(v=ax.60\)).
+Use the **Journal voucher** form to post fixed asset budget journals. For more information, see [Journal voucher - Fixed asset budget (form)](https://technet.microsoft.com/library/aa585887\(v=ax.60\)).
 
 1.  Click **Fixed assets** \> **Journals** \> **Fixed asset budget**. Select the fixed asset budget journal to post and then click **Lines**. Click **Post** and then click one of the following options.
     
@@ -35,11 +36,11 @@ Use the **Journal voucher** form to post fixed asset budget journals. For more i
 
 [Post fixed asset journals](post-fixed-asset-journals.md)
 
-[Fixed assets budget register entries (form)](https://technet.microsoft.com/en-us/library/aa577095\(v=ax.60\))
+[Fixed assets budget register entries (form)](https://technet.microsoft.com/library/aa577095\(v=ax.60\))
 
 [Future value of fixed asset report (AssetFutureValue)](future-value-of-fixed-asset-report-assetfuturevalue.md)
 
-[Budget model (form)](https://technet.microsoft.com/en-us/library/aa586905\(v=ax.60\))
+[Budget model (form)](https://technet.microsoft.com/library/aa586905\(v=ax.60\))
 
   
 

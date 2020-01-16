@@ -2,8 +2,9 @@
 title: Place a General ledger transaction on hold
 TOCTitle: Place a General ledger transaction on hold
 ms:assetid: d96eea23-327e-48c4-8948-1e7ddf7ed428
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213714(v=AX.60)
 ms:contentKeyID: 36059651
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Manage recruitment
 TOCTitle: Manage recruitment
 ms:assetid: 6a8da444-bc8e-4101-b4b6-b528057eb282
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231771(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231771(v=AX.60)
 ms:contentKeyID: 37072057
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Topics in this section provide information about the tools in Human resources th
 
 [Hiring](hiring.md)
 
-[(USA) Recruit online with Sites Services](https://technet.microsoft.com/en-us/library/hh209126\(v=ax.60\))
+[(USA) Recruit online with Sites Services](https://technet.microsoft.com/library/hh209126\(v=ax.60\))
 
   
 

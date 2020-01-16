@@ -2,8 +2,9 @@
 title: Payroll administrator security role (HcmPayrollAdministrator)
 TOCTitle: Payroll administrator security role (HcmPayrollAdministrator)
 ms:assetid: f3692225-d493-4ee8-b239-48f3ea6ac8e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527150(v=AX.60)
 ms:contentKeyID: 37823201
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

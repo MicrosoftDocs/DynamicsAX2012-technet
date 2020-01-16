@@ -2,8 +2,9 @@
 title: Manage client startup settings
 TOCTitle: Manage client startup settings
 ms:assetid: 271854f7-ddfb-4b2f-a797-d322f8f6617f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569640(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569640(v=AX.60)
 ms:contentKeyID: 35949273
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

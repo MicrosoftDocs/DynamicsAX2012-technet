@@ -2,8 +2,9 @@
 title: Post payroll and generate vendor invoices
 TOCTitle: Post payroll and generate vendor invoices
 ms:assetid: c3c9d2e3-c947-497a-a6a2-317bb27e779a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677360(v=AX.60)
 ms:contentKeyID: 49384135
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,9 +92,9 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Related configuration tasks</p></td>
 <td><p>You must complete these tasks before you can post payroll and generate vendor invoices:</p>
 <ul>
-<li><p>Set the <strong>Payroll clearing account</strong> field in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
-<li><p>Set the <strong>Procurement category</strong> field in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677433(v=ax.60)">Payroll parameters (form)</a></p></li>
-<li><p>Make sure that transaction posting definitions are created for payroll. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242550(v=ax.60)">Transaction posting definitions (form)</a>.</p></li>
+<li><p>Set the <strong>Payroll clearing account</strong> field in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></li>
+<li><p>Set the <strong>Procurement category</strong> field in the <strong>Payroll parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677433(v=ax.60)">Payroll parameters (form)</a></p></li>
+<li><p>Make sure that transaction posting definitions are created for payroll. For more information, see <a href="https://technet.microsoft.com/library/hh242550(v=ax.60)">Transaction posting definitions (form)</a>.</p></li>
 </ul></td>
 </tr>
 </tbody>

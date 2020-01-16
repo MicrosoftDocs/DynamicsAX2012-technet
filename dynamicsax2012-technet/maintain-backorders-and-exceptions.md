@@ -2,8 +2,9 @@
 title: Maintain backorders and exceptions
 TOCTitle: Maintain back orders and exceptions
 ms:assetid: 6c0c2291-d1d3-481c-937e-55ad47bba77d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231792(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231792(v=AX.60)
 ms:contentKeyID: 36057997
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

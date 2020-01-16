@@ -2,8 +2,9 @@
 title: Perform tasks on behalf of workers
 TOCTitle: Perform tasks on behalf of workers
 ms:assetid: 0c61f606-463e-49b8-aa86-248e55de861a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569751(v=AX.60)
 ms:contentKeyID: 36055995
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Manage business overview information
 TOCTitle: Manage business overview information
 ms:assetid: 3ca6940a-eacd-4da0-840d-a816e562fc61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242231(v=AX.60)
 ms:contentKeyID: 36056664
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ If you are using Microsoft Dynamics AX 2012 R2 or later, use the following proce
 
 ## Add the Business Overview web part to a page
 
-To add the Business Overview web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+To add the Business Overview web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 ## Configure the Business Overview web part to display indicators
 
@@ -211,7 +212,7 @@ If you are using the initial version of Microsoft Dynamics AX 2012 or Microsoft 
 
 ## Add the Business Overview web part to a page
 
-To add the Business Overview web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+To add the Business Overview web part to a page, follow the steps in [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 ## Configure the Business Overview web part to display indicators
 

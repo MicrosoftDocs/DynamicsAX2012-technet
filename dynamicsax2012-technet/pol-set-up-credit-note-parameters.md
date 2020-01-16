@@ -2,8 +2,9 @@
 title: (POL) Set up credit note parameters
 TOCTitle: (POL) Set up credit note parameters
 ms:assetid: 7c818026-0a6b-44ea-8ea6-b55d5abd54e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678253(v=AX.60)
 ms:contentKeyID: 49386975
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ A corrective invoice with a positive amount is treated as a credit note.
 
 [(EEUR) Create a credit note for correction](eeur-create-a-credit-note-for-correction.md)
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
-[(POL) Reason (modified form)](https://technet.microsoft.com/en-us/library/jj678160\(v=ax.60\))
+[(POL) Reason (modified form)](https://technet.microsoft.com/library/jj678160\(v=ax.60\))
 
   
 

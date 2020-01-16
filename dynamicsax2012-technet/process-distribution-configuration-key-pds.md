@@ -2,8 +2,9 @@
 title: Process distribution configuration key (PDS)
 TOCTitle: Process distribution configuration key (PDS)
 ms:assetid: 6083f2b6-5df1-4e7e-804f-2e3c83f9648c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496421(v=AX.60)
 ms:contentKeyID: 37071998
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

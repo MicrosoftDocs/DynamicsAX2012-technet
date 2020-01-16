@@ -2,8 +2,9 @@
 title: Master planning
 TOCTitle: Master planning
 ms:assetid: 4e2e1079-3a31-49f7-b5ae-240b256b0f32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208761(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208761(v=AX.60)
 ms:contentKeyID: 36057043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,23 +57,23 @@ Use Master planning to perform the following business processes:
 <tbody>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591522(v=ax.60)">Master planning parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591522(v=ax.60)">Master planning parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="run-forecast-scheduling.md">Run forecast scheduling</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619452(v=ax.60)">Forecast scheduling (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619452(v=ax.60)">Forecast scheduling (class form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="run-master-scheduling.md">Run master scheduling</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616758(v=ax.60)">Master scheduling (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616758(v=ax.60)">Master scheduling (class form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="view-item-requirements.md">View item requirements</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa577013(v=ax.60)">Net requirements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa577013(v=ax.60)">Net requirements (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="maintain-planned-orders.md">Maintain planned orders</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620351(v=ax.60)">Planned orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620351(v=ax.60)">Planned orders (form)</a></p></td>
 </tr>
 </tbody>
 </table>

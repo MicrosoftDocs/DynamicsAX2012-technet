@@ -1,9 +1,10 @@
-﻿---
+---
 title: Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace ()
 TOCTitle: Microsoft.Dynamics.Commerce.Runtime.DataModel Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime.DataModel
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel(v=AX.60)
 ms:contentKeyID: 49823015
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -1205,7 +1206,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="propertycolumnpair-class-microsoft-dynamics-commerce-runtime-datamodel.md">PropertyColumnPair</a></td>
-<td>Represents a mapping between <a href="https://technet.microsoft.com/en-us/library/8z852kf5(v=ax.60)">PropertyInfo</a> and <a href="columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md">ColumnAttribute</a>.</td>
+<td>Represents a mapping between <a href="https://technet.microsoft.com/library/8z852kf5(v=ax.60)">PropertyInfo</a> and <a href="columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md">ColumnAttribute</a>.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
@@ -1720,7 +1721,7 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="typecache-class-microsoft-dynamics-commerce-runtime-datamodel.md">TypeCache</a></td>
-<td>Base class to cache reflection data by <a href="https://technet.microsoft.com/en-us/library/42892f65(v=ax.60)">Type</a>.</td>
+<td>Base class to cache reflection data by <a href="https://technet.microsoft.com/library/42892f65(v=ax.60)">Type</a>.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>

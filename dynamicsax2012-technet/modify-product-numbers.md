@@ -2,8 +2,9 @@
 title: Modify product numbers
 TOCTitle: Modify product numbers
 ms:assetid: e832e5fc-bfb5-4680-81dc-a79452de971e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573197(v=AX.60)
 ms:contentKeyID: 39519352
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

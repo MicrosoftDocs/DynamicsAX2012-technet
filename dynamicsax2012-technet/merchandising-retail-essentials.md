@@ -2,8 +2,9 @@
 title: Merchandising (Retail essentials)
 TOCTitle: Merchandising (Retail essentials)
 ms:assetid: fbfabb1c-90f0-4296-9a40-0244a7d658f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736983(v=AX.60)
 ms:contentKeyID: 62200460
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

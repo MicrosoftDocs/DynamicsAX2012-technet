@@ -2,8 +2,9 @@
 title: (POL) Set up the accounts receivable parameters to calculate interest
 TOCTitle: (POL) Set up the accounts receivable parameters to calculate interest
 ms:assetid: 9a412380-af50-4b06-9a74-5cf1fdb2109e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678309(v=AX.60)
 ms:contentKeyID: 49387031
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ You can define the parameters for interest calculation in **Accounts receivable 
 
 [(POL) View the calculated interest](pol-view-the-calculated-interest.md)
 
-[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj678183\(v=ax.60\))
+[(POL) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj678183\(v=ax.60\))
 
   
 

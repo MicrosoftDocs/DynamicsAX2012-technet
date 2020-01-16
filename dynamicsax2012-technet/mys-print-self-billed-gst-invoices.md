@@ -2,8 +2,9 @@
 title: (MYS) Print self-billed GST invoices
 TOCTitle: (MYS) Print self-billed GST invoices
 ms:assetid: 74839207-2f46-41d7-aa00-1d5b6465903f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858081(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn858081(v=AX.60)
 ms:contentKeyID: 63400913
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,8 +42,8 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Related setup tasks</p></td>
 <td><p></p>
 <ol>
-<li><p>Create a new tax registration type for Malaysia, and select the <strong>Primary for country</strong> check box in the <strong>Tax registration types</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677414(v=ax.60)">Tax registration types (form)</a>.</p></li>
-<li><p>Select a registration type, and specify the authority, registration number, effective and expiration dates for the primary address of the legal entity in the <strong>Edit address</strong> form. For more information see, <a href="https://technet.microsoft.com/en-us/library/hh370713(v=ax.60)">Manage addresses (form)</a>.</p></li>
+<li><p>Create a new tax registration type for Malaysia, and select the <strong>Primary for country</strong> check box in the <strong>Tax registration types</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677414(v=ax.60)">Tax registration types (form)</a>.</p></li>
+<li><p>Select a registration type, and specify the authority, registration number, effective and expiration dates for the primary address of the legal entity in the <strong>Edit address</strong> form. For more information see, <a href="https://technet.microsoft.com/library/hh370713(v=ax.60)">Manage addresses (form)</a>.</p></li>
 <li><p>Set up print management for the <strong>Accounts payable</strong>, <strong>Accounts receivable</strong>, and <strong>Project management and accounting</strong> modules in the <strong>Print management setup</strong> form. For more information see, <a href="set-up-print-management-for-a-module.md">Set up print management for a module</a>.</p></li>
 <li><p>Select the printing format for the GST invoice as <strong>Full invoice</strong> or <strong>Simplified invoice</strong> in the <strong>GST invoice format</strong> field in the <strong>Sales tax</strong> area of the <strong>General ledger parameters</strong> form.</p></li>
 </ol></td>

@@ -2,8 +2,9 @@
 title: Prioritize automatic settlements
 TOCTitle: Prioritize automatic settlements
 ms:assetid: c1238d5f-4bef-4ff7-ab1c-5174fe0f6c6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242829(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242829(v=AX.60)
 ms:contentKeyID: 36059268
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Use this procedure to automatically settle payments by attribute type, transacti
     > <P>This control is available only if the <STRONG>Public Sector</STRONG> configuration key is selected.</P>
 
     
-    For more information about billing classifications, see [Billing classifications (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208608\(v=ax.60\)).
+    For more information about billing classifications, see [Billing classifications (form) (Public sector)](https://technet.microsoft.com/library/hh208608\(v=ax.60\)).
 
 3.  Close the **Billing classifications** form, if applicable.
 
@@ -52,7 +53,7 @@ Use this procedure to automatically settle payments by attribute type, transacti
 
 6.  Select the **Active** check box to include the attribute in the settlement priority. Only attributes that have the **Active** check box selected will be included in the automatic settlement process.
 
-7.  Specify other information, depending on the selected attribute and other settings that you have specified. For more information about these options, see [Settlement priority (form)](https://technet.microsoft.com/en-us/library/hh208717\(v=ax.60\)).
+7.  Specify other information, depending on the selected attribute and other settings that you have specified. For more information about these options, see [Settlement priority (form)](https://technet.microsoft.com/library/hh208717\(v=ax.60\)).
     
       - **Settlement order** – Specify the order in which the transactions that are displayed will be settled.
     
@@ -71,7 +72,7 @@ Use this procedure to automatically settle payments by attribute type, transacti
 
 ## See also
 
-[Settlement priority (form)](https://technet.microsoft.com/en-us/library/hh208717\(v=ax.60\))
+[Settlement priority (form)](https://technet.microsoft.com/library/hh208717\(v=ax.60\))
 
   
 

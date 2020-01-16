@@ -2,8 +2,9 @@
 title: Maintain record templates
 TOCTitle: Maintain record templates
 ms:assetid: 0dcce7f1-b62e-4c16-b230-e732babd1bd5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230906(v=AX.60)
 ms:contentKeyID: 36676367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -102,11 +103,11 @@ If you do not want to use templates when you create new records, select the **Do
 
 ## See also
 
-[Transaction information or Record information (form)](https://technet.microsoft.com/en-us/library/aa615677\(v=ax.60\))
+[Transaction information or Record information (form)](https://technet.microsoft.com/library/aa615677\(v=ax.60\))
 
-[Select a template for... (form)](https://technet.microsoft.com/en-us/library/aa586632\(v=ax.60\))
+[Select a template for... (form)](https://technet.microsoft.com/library/aa586632\(v=ax.60\))
 
-[Create template (form)](https://technet.microsoft.com/en-us/library/aa591516\(v=ax.60\))
+[Create template (form)](https://technet.microsoft.com/library/aa591516\(v=ax.60\))
 
   
 

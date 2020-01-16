@@ -2,8 +2,9 @@
 title: Pause inventory close
 TOCTitle: Pause inventory close
 ms:assetid: 321c9b9d-319b-4282-8d67-fb3c1df6f9fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231035(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231035(v=AX.60)
 ms:contentKeyID: 36056353
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ In some cases, you may have to pause the inventory close process.
 
 ## See also
 
-[Closing and adjustment (form)](https://technet.microsoft.com/en-us/library/aa553192\(v=ax.60\))
+[Closing and adjustment (form)](https://technet.microsoft.com/library/aa553192\(v=ax.60\))
 
 [Run inventory close](run-inventory-close.md)
 

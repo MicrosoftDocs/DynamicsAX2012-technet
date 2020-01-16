@@ -2,8 +2,9 @@
 title: Manage store inventory overview
 TOCTitle: Manage store inventory overview
 ms:assetid: 27d52a2d-6b4f-43ee-af00-b0d1ff3bc6e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580591(v=AX.60)
 ms:contentKeyID: 39519074
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

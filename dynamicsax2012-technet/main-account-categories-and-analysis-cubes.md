@@ -2,8 +2,9 @@
 title: Main account categories and analysis cubes
 TOCTitle: Main account categories and analysis cubes
 ms:assetid: c46186f1-b4bf-4554-b2c9-ab7aa27897cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213640(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213640(v=AX.60)
 ms:contentKeyID: 36993128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

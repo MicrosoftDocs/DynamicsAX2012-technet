@@ -2,8 +2,9 @@
 title: Pay for product or service overview (Public sector)
 TOCTitle: Pay for product or service overview (Public sector)
 ms:assetid: ddece806-64a7-4acc-bd8e-fc48d9ad4edd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208592(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208592(v=AX.60)
 ms:contentKeyID: 36056379
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

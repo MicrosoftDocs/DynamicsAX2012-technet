@@ -2,8 +2,9 @@
 title: (MEX) Set up the inflation adjustment parameters
 TOCTitle: (MEX) Set up the inflation adjustment parameters
 ms:assetid: 19930efb-020f-49b4-aa05-479612ad62a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208451(v=AX.60)
 ms:contentKeyID: 36056114
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ Use the **Main accounts - chart of accounts: %1** form to select a main account 
 
 2.  On the right pane, click **New** to open the **Main accounts - chart of accounts: %1** form.
 
-3.  Select a main account, and then click the **Setup** FastTab. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\))
+3.  Select a main account, and then click the **Setup** FastTab. For more information, see [Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\))
 
 4.  In the **Posting type** field, select the posting type for the main account.
 
@@ -75,7 +76,7 @@ Use the **Main accounts - chart of accounts: %1** form to select a main account 
 
 [(MEX) Create and post inflation adjustment ledger transactions](mex-create-and-post-inflation-adjustment-ledger-transactions.md)
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (LVA) Working with Accounts payable
 TOCTitle: (LVA) Working with Accounts payable
 ms:assetid: e36972c0-c9aa-45c1-8414-204d16b2e466
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ731072(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ731072(v=AX.60)
 ms:contentKeyID: 49675312
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

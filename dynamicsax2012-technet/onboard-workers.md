@@ -2,8 +2,9 @@
 title: Onboard workers
 TOCTitle: Onboard workers
 ms:assetid: 942e4cd2-5317-48f8-8e89-2bcf50375acb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232201(v=AX.60)
 ms:contentKeyID: 36058594
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

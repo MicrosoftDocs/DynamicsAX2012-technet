@@ -2,8 +2,9 @@
 title: Plan the organizational hierarchy
 TOCTitle: Plan the organizational hierarchy
 ms:assetid: cc19ddcb-68ca-43cf-ab64-1ab556e283d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242899(v=AX.60)
 ms:contentKeyID: 36059446
+author: Khairunj
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -147,7 +148,7 @@ Some functionality in Microsoft Dynamics AX works differently depending on wheth
 <div class="alert">
 
 > [!NOTE]
-> <P>In Microsoft Dynamics AX, a posting layer in the general ledger allows you to make adjusting entries to a parent company that uses a different accounting standard than the child company. For example, for a company that uses generally accepted accounting practices in the United Kingdom (UK GAAP), you can make adjusting entries in the posting layer. These entries can be consolidated into a parent company that uses generally accepted accounting principles (GAAP) in the United States. The adjusting entries do not affect UK GAAP reporting. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa575927(v=ax.60)">Posting layer</A>.</P>
+> <P>In Microsoft Dynamics AX, a posting layer in the general ledger allows you to make adjusting entries to a parent company that uses a different accounting standard than the child company. For example, for a company that uses generally accepted accounting practices in the United Kingdom (UK GAAP), you can make adjusting entries in the posting layer. These entries can be consolidated into a parent company that uses generally accepted accounting principles (GAAP) in the United States. The adjusting entries do not affect UK GAAP reporting. For more information, see <A href="https://technet.microsoft.com/library/aa575927(v=ax.60)">Posting layer</A>.</P>
 
 
 </div></td>
@@ -181,7 +182,7 @@ Some functionality in Microsoft Dynamics AX works differently depending on wheth
 <div class="alert">
 
 > [!NOTE]
-> <P>Even though product definitions are shared, in each legal entity where a product has been released, you can specify different sales, purchase, and stocking parameters for the item at each inventory site. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
+> <P>Even though product definitions are shared, in each legal entity where a product has been released, you can specify different sales, purchase, and stocking parameters for the item at each inventory site. For more information, see <A href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</A>.</P>
 
 
 </div></td>

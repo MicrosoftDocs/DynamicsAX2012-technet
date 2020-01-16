@@ -2,8 +2,9 @@
 title: Manage Master Data Management
 TOCTitle: Manage Master Data Management
 ms:assetid: bb7e73cc-0050-4989-877a-79dae52a701f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720448(v=AX.60)
 ms:contentKeyID: 62224154
+author: Khairunj
 ms.date: 05/14/2014
 mtps_version: v=AX.60
 ---

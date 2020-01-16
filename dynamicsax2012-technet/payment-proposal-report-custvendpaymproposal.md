@@ -2,8 +2,9 @@
 title: Payment proposal report (CustVendPaymProposal)
 TOCTitle: Payment proposal report (CustVendPaymProposal)
 ms:assetid: edd0959d-def2-4907-b17e-29a496d6b87e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209727(v=AX.60)
 ms:contentKeyID: 36060745
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

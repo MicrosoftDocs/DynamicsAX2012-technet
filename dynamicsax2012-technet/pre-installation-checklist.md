@@ -2,8 +2,9 @@
 title: Pre-installation checklist
 TOCTitle: Pre-installation checklist
 ms:assetid: 48cb5292-37da-4b47-b91a-0bf7d5c9037a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309663(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309663(v=AX.60)
 ms:contentKeyID: 35132619
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

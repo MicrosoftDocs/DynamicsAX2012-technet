@@ -2,8 +2,9 @@
 title: Microsoft Project Server integration configuration key (ProjServerIntegration)
 TOCTitle: Microsoft Project Server integration configuration key (ProjServerIntegration)
 ms:assetid: 35cdeb23-f606-4e60-af99-d188bb02bf44
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580488(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580488(v=AX.60)
 ms:contentKeyID: 39518953
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Global settings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209389(v=ax.60)">Microsoft Project Server integration global settings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209389(v=ax.60)">Microsoft Project Server integration global settings (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Integration settings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242729(v=ax.60)">Microsoft Project Server integration settings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242729(v=ax.60)">Microsoft Project Server integration settings (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -65,11 +66,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Integration log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208597(v=ax.60)">Integration log (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208597(v=ax.60)">Integration log (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Synchronization service parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209631(v=ax.60)">Synchronization service parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209631(v=ax.60)">Synchronization service parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +108,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

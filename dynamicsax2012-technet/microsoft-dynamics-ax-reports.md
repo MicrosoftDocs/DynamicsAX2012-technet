@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX reports
 TOCTitle: Microsoft Dynamics AX reports
 ms:assetid: 5f2eba4f-3130-4df6-a9d9-75ede0b8f41b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209129(v=AX.60)
 ms:contentKeyID: 36057589
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

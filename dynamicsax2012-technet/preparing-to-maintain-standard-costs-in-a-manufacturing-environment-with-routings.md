@@ -2,8 +2,9 @@
 title: Preparing to maintain standard costs in a manufacturing environment with routings
 TOCTitle: Preparing to maintain standard costs in a manufacturing environment with routings
 ms:assetid: 068a31e5-c4ff-43d5-b458-905cfcfc9a91
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230674(v=AX.60)
 ms:contentKeyID: 36055962
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

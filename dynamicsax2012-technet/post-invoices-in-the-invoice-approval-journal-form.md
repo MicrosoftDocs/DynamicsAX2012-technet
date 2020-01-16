@@ -2,8 +2,9 @@
 title: Post invoices in the Invoice approval journal form
 TOCTitle: Post invoices in the Invoice approval journal form
 ms:assetid: f79de90e-a2f4-4bf0-be6d-e6733dcd6574
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499801(v=AX.60)
 ms:contentKeyID: 36060037
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use this information to post invoices that have been entered in an invoice pool.
 
 9.  Click **Post** \> **Post**.
 
-The posted invoices can now be settled in the **Payment journal** form. If you cannot post, and you receive a message that mentions posting restrictions, you can post only the journals that you created. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/en-us/library/hh227598\(v=ax.60\)).
+The posted invoices can now be settled in the **Payment journal** form. If you cannot post, and you receive a message that mentions posting restrictions, you can post only the journals that you created. For more information, see [Posting restrictions (form)](https://technet.microsoft.com/library/hh227598\(v=ax.60\)).
 
 ## See also
 

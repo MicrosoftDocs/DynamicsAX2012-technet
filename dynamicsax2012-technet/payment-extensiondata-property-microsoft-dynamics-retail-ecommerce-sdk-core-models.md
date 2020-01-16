@@ -1,9 +1,10 @@
-﻿---
+---
 title: Payment.ExtensionData Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models)
 TOCTitle: ExtensionData Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Payment.ExtensionData
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.payment.extensiondata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.payment.extensiondata(v=AX.60)
 ms:contentKeyID: 65316602
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,11 +50,11 @@ virtual property ExtensionDataObject^ ExtensionData {
 
 #### Property Value
 
-Type: [System.Runtime.Serialization.ExtensionDataObject](https://technet.microsoft.com/en-us/library/ms574816\(v=ax.60\))  
+Type: [System.Runtime.Serialization.ExtensionDataObject](https://technet.microsoft.com/library/ms574816\(v=ax.60\))  
 
 #### Implements
 
-[IExtensibleDataObject.ExtensionData](https://technet.microsoft.com/en-us/library/ms553662\(v=ax.60\))  
+[IExtensibleDataObject.ExtensionData](https://technet.microsoft.com/library/ms553662\(v=ax.60\))  
 
 ## See Also
 

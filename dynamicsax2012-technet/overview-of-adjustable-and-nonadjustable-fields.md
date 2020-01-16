@@ -2,8 +2,9 @@
 title: Overview of adjustable and nonadjustable fields
 TOCTitle: Overview of adjustable and nonadjustable fields
 ms:assetid: 7d033834-373a-4657-b307-deeaf19d42c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209270(v=AX.60)
 ms:contentKeyID: 36058272
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -159,7 +160,7 @@ The following table provides an overview of which field values in projects can b
 
 [Adjust transactions](adjust-transactions.md)
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
 [Adjust transactions in projects](adjust-transactions-in-projects.md)
 
@@ -169,9 +170,9 @@ The following table provides an overview of which field values in projects can b
 
 [View transaction adjustment history](view-transaction-adjustment-history.md)
 
-[Adjust transactions (class form) (Project)](https://technet.microsoft.com/en-us/library/aa583326\(v=ax.60\))
+[Adjust transactions (class form) (Project)](https://technet.microsoft.com/library/aa583326\(v=ax.60\))
 
-[Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
+[Create adjustment transactions (class form)](https://technet.microsoft.com/library/aa634561\(v=ax.60\))
 
   
 

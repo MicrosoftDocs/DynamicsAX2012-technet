@@ -1,9 +1,10 @@
-﻿---
+---
 title: Metadata Service
 TOCTitle: Metadata Service
 ms:assetid: c736aa71-20e8-4d7f-8270-ca393aafc8a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg880762(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg880762(v=AX.60)
 ms:contentKeyID: 35251136
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -33,7 +34,7 @@ The metadata service has two types of service operations:
 
   - Service operations that return metadata – these service operations take a string array of names, an integer array of IDs, or an array of key objects (such as MenuItemKeys\[ \]) and return the metadata for those objects. Each of these service operations returns an array of metadata objects.
     
-    For example, the signature of the service operation to retrieve query metadata is: QueryMetadata\[\] GetQueryMetadataByName(string\[\] queryNames). The QueryMetadata objects that are returned in the QueryMetadata\[\] array derive from the [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class.
+    For example, the signature of the service operation to retrieve query metadata is: QueryMetadata\[\] GetQueryMetadataByName(string\[\] queryNames). The QueryMetadata objects that are returned in the QueryMetadata\[\] array derive from the [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class.
 
 To use the metadata service, you call the service operation to retrieve the object names. Then, you call the metadata service operation and pass in the name or names to retrieve the metadata for those objects as shown in the following code:
 
@@ -286,31 +287,31 @@ The following table lists the metadata service operations that return object met
 
 These service operations return an array of metadata objects. The metadata object contains the actual metadata. The type of metadata object returned depends on the service operation. For example, the GetQueryMetadataByName service operation returns an array of QueryMetadata objects. The QueryMetadata object contains the metadata for a single query and this metadata is exposed through the object methods and properties. For example, the QueryMetadata object has properties such as Name, QueryType, DataSources, and AllowCrossCompany.
 
-The metadata classes reside in the [Microsoft.Dynamics.AX.Framework.Services.Metadata.Contracts](https://technet.microsoft.com/en-us/library/hh187940\(v=ax.60\)) namespace. Some commonly used top-level metadata classes include the following:
+The metadata classes reside in the [Microsoft.Dynamics.AX.Framework.Services.Metadata.Contracts](https://technet.microsoft.com/library/hh187940\(v=ax.60\)) namespace. Some commonly used top-level metadata classes include the following:
 
-  - [DimensionMetadata](https://technet.microsoft.com/en-us/library/hh130620\(v=ax.60\))
+  - [DimensionMetadata](https://technet.microsoft.com/library/hh130620\(v=ax.60\))
 
-  - [EnumMetadata](https://technet.microsoft.com/en-us/library/hh186490\(v=ax.60\))
+  - [EnumMetadata](https://technet.microsoft.com/library/hh186490\(v=ax.60\))
 
-  - [FieldMetadata](https://technet.microsoft.com/en-us/library/hh186915\(v=ax.60\))
+  - [FieldMetadata](https://technet.microsoft.com/library/hh186915\(v=ax.60\))
 
-  - [FormControlMetadata](https://technet.microsoft.com/en-us/library/hh152904\(v=ax.60\))
+  - [FormControlMetadata](https://technet.microsoft.com/library/hh152904\(v=ax.60\))
 
-  - [LabelMetadata](https://technet.microsoft.com/en-us/library/hh131663\(v=ax.60\))
+  - [LabelMetadata](https://technet.microsoft.com/library/hh131663\(v=ax.60\))
 
-  - [ListPageMetadata](https://technet.microsoft.com/en-us/library/hh130921\(v=ax.60\))
+  - [ListPageMetadata](https://technet.microsoft.com/library/hh130921\(v=ax.60\))
 
-  - [MenuMetadata](https://technet.microsoft.com/en-us/library/hh186739\(v=ax.60\))
+  - [MenuMetadata](https://technet.microsoft.com/library/hh186739\(v=ax.60\))
 
-  - [MenuItemMetadata](https://technet.microsoft.com/en-us/library/hh152260\(v=ax.60\))
+  - [MenuItemMetadata](https://technet.microsoft.com/library/hh152260\(v=ax.60\))
 
-  - [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\))
+  - [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\))
 
-  - [ServiceMetadata](https://technet.microsoft.com/en-us/library/hh152855\(v=ax.60\))
+  - [ServiceMetadata](https://technet.microsoft.com/library/hh152855\(v=ax.60\))
 
-  - [ServiceGroupMetadata](https://technet.microsoft.com/en-us/library/hh153356\(v=ax.60\))
+  - [ServiceGroupMetadata](https://technet.microsoft.com/library/hh153356\(v=ax.60\))
 
-  - [TableMetadata](https://technet.microsoft.com/en-us/library/hh130058\(v=ax.60\))
+  - [TableMetadata](https://technet.microsoft.com/library/hh130058\(v=ax.60\))
 
 ### Metadata Service Architecture
 

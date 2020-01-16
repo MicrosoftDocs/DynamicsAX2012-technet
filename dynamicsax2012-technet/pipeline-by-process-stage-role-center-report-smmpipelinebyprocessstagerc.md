@@ -2,8 +2,9 @@
 title: Pipeline by process stage Role Center report (smmPipelineByProcessStageRC)
 TOCTitle: Pipeline by process stage Role Center report (smmPipelineByProcessStageRC)
 ms:assetid: 6fc384c0-11a6-4ca8-9e8f-31f907e6b449
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404042(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404042(v=AX.60)
 ms:contentKeyID: 36956696
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

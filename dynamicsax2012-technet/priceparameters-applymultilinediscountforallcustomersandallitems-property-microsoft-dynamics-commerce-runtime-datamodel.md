@@ -1,9 +1,10 @@
-﻿---
+---
 title: PriceParameters.ApplyMultilineDiscountForAllCustomersAndAllItems Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ApplyMultilineDiscountForAllCustomersAndAllItems Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceParameters.ApplyMultilineDiscountForAllCustomersAndAllItems
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.priceparameters.applymultilinediscountforallcustomersandallitems(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.priceparameters.applymultilinediscountforallcustomersandallitems(v=AX.60)
 ms:contentKeyID: 49854419
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ property bool ApplyMultilineDiscountForAllCustomersAndAllItems {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

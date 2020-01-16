@@ -1,9 +1,10 @@
-﻿---
+---
 title: NonBindableActionController.GetCountryRegionsByLanguageId Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: GetCountryRegionsByLanguageId Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.GetCountryRegionsByLanguageId(System.Web.Http.OData.ODataActionParameters,System.Web.Http.OData.Query.ODataQueryOptions{Microsoft.Dynamics.Commerce.Runtime.DataModel.CountryRegionInfo})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.getcountryregionsbylanguageid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.nonbindableactioncontroller.getcountryregionsbylanguageid(v=AX.60)
 ms:contentKeyID: 62203215
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ virtual IEnumerable<CountryRegionInfo^>^ GetCountryRegionsByLanguageId(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<CountryRegionInfo\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<CountryRegionInfo\>  
 A collection of cities.  
 
 ## See Also

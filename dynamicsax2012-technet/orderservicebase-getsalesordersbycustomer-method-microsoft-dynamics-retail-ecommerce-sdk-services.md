@@ -1,9 +1,10 @@
-﻿---
+---
 title: OrderServiceBase.GetSalesOrdersByCustomer Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: GetSalesOrdersByCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.OrderServiceBase.GetSalesOrdersByCustomer(System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.orderservicebase.getsalesordersbycustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.orderservicebase.getsalesordersbycustomer(v=AX.60)
 ms:contentKeyID: 65317201
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual SalesOrderCollectionResponse^ GetSalesOrdersByCustomer(
 #### Parameters
 
   - includeSalesLines  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 
