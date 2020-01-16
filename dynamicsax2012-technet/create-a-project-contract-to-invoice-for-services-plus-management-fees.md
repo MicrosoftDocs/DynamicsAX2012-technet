@@ -2,8 +2,9 @@
 title: Create a project contract to invoice for services plus management fees
 TOCTitle: Create a project contract to invoice for services plus management fees
 ms:assetid: 17ca1dee-54e5-4f11-b864-26c978027029
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242152(v=AX.60)
 ms:contentKeyID: 36056089
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -132,13 +133,13 @@ After you have created the contract and the associated project, use this procedu
 
 [Create billing rules](create-billing-rules.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Billing rules (form)](https://technet.microsoft.com/en-us/library/hh227642\(v=ax.60\))
+[Billing rules (form)](https://technet.microsoft.com/library/hh227642\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
 [About project groups](about-project-groups.md)
 

@@ -2,8 +2,9 @@
 title: Configure mobile devices for warehouse work
 TOCTitle: Configure mobile devices for warehouse work
 ms:assetid: fd207796-b021-4e7e-804c-71a7bee7124d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553216(v=AX.60)
 ms:contentKeyID: 62554032
+author: Khairunj
 ms.date: 01/08/2016
 mtps_version: v=AX.60
 f1_keywords:
@@ -568,7 +569,7 @@ Additional menu items options are available in the **Mobile device menu items** 
 </tr>
 <tr class="odd">
 <td><p><strong>Display batch disposition code</strong></p></td>
-<td><p>Select this check box to display batch disposition codes. For example, you can display batch disposition codes when you receive a returned batch. This will enable workers to evaluate the status or quality of a batch, and select the appropriate code. The rules on the batch disposition code determine whether the batch will be available to other warehouse processes. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh208612(v=ax.60)">Batch disposition master (form)</a>.</p>
+<td><p>Select this check box to display batch disposition codes. For example, you can display batch disposition codes when you receive a returned batch. This will enable workers to evaluate the status or quality of a batch, and select the appropriate code. The rules on the batch disposition code determine whether the batch will be available to other warehouse processes. For more information, see <a href="https://technet.microsoft.com/library/hh208612(v=ax.60)">Batch disposition master (form)</a>.</p>
 <p>If you do not select this check box, one of the following is used:</p>
 <ul>
 <li><p>If you receive a new batch number, the default batch disposition code that is specified on the item model group is used.</p></li>
@@ -597,7 +598,7 @@ Additional menu items options are available in the **Mobile device menu items** 
 </tr>
 <tr class="odd">
 <td><p><strong>Inventory adjustment types</strong></p></td>
-<td><p>Select the inventory adjustment type that determines the inventory counting journal that is used to post the adjustment, and whether to remove reservations. This option is available only for the <strong>Adjustment in</strong> or <strong>Adjustment out</strong> work creation processes. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa552692(v=ax.60)">Journal names, Inventory (form)</a>.</p></td>
+<td><p>Select the inventory adjustment type that determines the inventory counting journal that is used to post the adjustment, and whether to remove reservations. This option is available only for the <strong>Adjustment in</strong> or <strong>Adjustment out</strong> work creation processes. For more information, see <a href="https://technet.microsoft.com/library/aa552692(v=ax.60)">Journal names, Inventory (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Override batch number</strong></p></td>

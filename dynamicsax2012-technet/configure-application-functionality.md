@@ -2,8 +2,9 @@
 title: Configure application functionality
 TOCTitle: Configure application functionality
 ms:assetid: 2cc47a88-0e25-48ba-8aa9-3576de1b5cb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496468(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496468(v=AX.60)
 ms:contentKeyID: 35132590
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

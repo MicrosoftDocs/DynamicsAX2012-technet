@@ -2,8 +2,9 @@
 title: Creating credit notes
 TOCTitle: Creating credit notes
 ms:assetid: cb032267-97fa-484c-8855-788ec5d73cbc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572668(v=AX.60)
 ms:contentKeyID: 36059340
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

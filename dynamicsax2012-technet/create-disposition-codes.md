@@ -2,8 +2,9 @@
 title: Create disposition codes
 TOCTitle: Create disposition codes
 ms:assetid: 31e3a9da-bd53-40da-bbdf-4f75c9bd08ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553158(v=AX.60)
 ms:contentKeyID: 62200052
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 f1_keywords:

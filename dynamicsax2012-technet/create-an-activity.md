@@ -2,8 +2,9 @@
 title: Create an activity
 TOCTitle: Create an activity
 ms:assetid: 072a33f3-acfc-4565-a218-bc45ab52d8a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569722(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569722(v=AX.60)
 ms:contentKeyID: 36811393
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Create journal descriptions
 TOCTitle: Create journal descriptions
 ms:assetid: 05447d78-6352-4dff-9bc1-c5c8859615d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569712(v=AX.60)
 ms:contentKeyID: 36811392
+author: Khairunj
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ You can create journal descriptions to use in hour and fee journals. A journal d
 
 ## See also
 
-[Journal descriptions (form)](https://technet.microsoft.com/en-us/library/aa587702\(v=ax.60\))
+[Journal descriptions (form)](https://technet.microsoft.com/library/aa587702\(v=ax.60\))
 
 [Enter a journal description in hour and fee journals](enter-a-journal-description-in-hour-and-fee-journals.md)
 

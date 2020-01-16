@@ -2,8 +2,9 @@
 title: Cost accounting II license code (COSOpenDim)
 TOCTitle: Cost accounting II license code (COSOpenDim)
 ms:assetid: 4f1abe35-e6fc-4829-a4ac-607be6f8a5b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496411(v=AX.60)
 ms:contentKeyID: 37071988
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

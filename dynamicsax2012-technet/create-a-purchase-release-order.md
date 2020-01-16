@@ -2,8 +2,9 @@
 title: Create a purchase release order
 TOCTitle: Create a purchase release order
 ms:assetid: 4bbc52c7-9ff7-4f6f-a6d4-0cb1f29ed713
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545520(v=AX.60)
 ms:contentKeyID: 37832501
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ A purchase release order is a purchase order that is released from an existing p
 
 
 > [!NOTE]
-> <P>If you have selected the <STRONG>Public sector</STRONG> configuration key, you can create a purchase agreement classification that requires direct invoices and prevents release orders from being created for purchase agreements that use the classification. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh802986(v=ax.60)">Agreement classification (form)</A>.</P>
+> <P>If you have selected the <STRONG>Public sector</STRONG> configuration key, you can create a purchase agreement classification that requires direct invoices and prevents release orders from being created for purchase agreements that use the classification. For more information, see <A href="https://technet.microsoft.com/library/hh802986(v=ax.60)">Agreement classification (form)</A>.</P>
 
 
 
@@ -146,11 +147,11 @@ This topic describes two different procedures for creating purchase release orde
 
 ## See also
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Purchase agreements (form)](https://technet.microsoft.com/en-us/library/hh209550\(v=ax.60\))
+[Purchase agreements (form)](https://technet.microsoft.com/library/hh209550\(v=ax.60\))
 
-[Create purchase release order (form)](https://technet.microsoft.com/en-us/library/aa588195\(v=ax.60\))
+[Create purchase release order (form)](https://technet.microsoft.com/library/aa588195\(v=ax.60\))
 
   
 

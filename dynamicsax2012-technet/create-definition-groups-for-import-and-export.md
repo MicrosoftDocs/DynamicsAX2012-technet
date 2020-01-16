@@ -2,8 +2,9 @@
 title: Create definition groups for import and export
 TOCTitle: Create definition groups for import and export
 ms:assetid: 4dba7d56-469c-4124-8bc7-5f2928184255
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834357(v=AX.60)
 ms:contentKeyID: 35132630
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -175,7 +176,7 @@ Specify the types of records to export from a table by setting export criteria.
 
 2.  Click **Apply criteria** to make the **Export criteria** button available, and then click **Export criteria**.
 
-3.  Use the **Inquiry** form to filter the records that are exported from the table. For more information, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+3.  Use the **Inquiry** form to filter the records that are exported from the table. For more information, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 ## Add related tables to a definition group
 
@@ -195,7 +196,7 @@ A table relationship level indicates how closely a table is related to the selec
 
 3.  Use the **Select related tables** form to filter the related tables that are included in the definition group. In this form, you can specify how many table relationship levels to include in the definition group.
     
-    For more information, see [Select related tables (form)](https://technet.microsoft.com/en-us/library/hh227577\(v=ax.60\)).
+    For more information, see [Select related tables (form)](https://technet.microsoft.com/library/hh227577\(v=ax.60\)).
 
 ## Example: Create a definition group to export AIF endpoints
 
@@ -227,7 +228,7 @@ You can use the definition group to export the tables that are related to the AI
 
 ## See also
 
-[Create table definition group (form)](https://technet.microsoft.com/en-us/library/hh208980\(v=ax.60\))
+[Create table definition group (form)](https://technet.microsoft.com/library/hh208980\(v=ax.60\))
 
 [Import data from another instance of Microsoft Dynamics AX](import-data-from-another-instance-of-microsoft-dynamics-ax.md)
 

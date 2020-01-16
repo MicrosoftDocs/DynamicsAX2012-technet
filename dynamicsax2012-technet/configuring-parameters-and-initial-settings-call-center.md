@@ -2,8 +2,9 @@
 title: Configuring parameters and initial settings (Call center)
 TOCTitle: Configuring parameters and initial settings (Call center)
 ms:assetid: 480ea5dc-6662-499b-99c3-56bca66a6121
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497744(v=AX.60)
 ms:contentKeyID: 62200061
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

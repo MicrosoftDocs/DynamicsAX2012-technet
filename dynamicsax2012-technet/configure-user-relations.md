@@ -2,8 +2,9 @@
 title: Configure user relations
 TOCTitle: Configure user relations
 ms:assetid: 5c6ace7f-858d-4d84-9aec-a1d29d480893
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309687(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309687(v=AX.60)
 ms:contentKeyID: 35132651
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

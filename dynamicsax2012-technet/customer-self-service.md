@@ -2,8 +2,9 @@
 title: Customer self-service
 TOCTitle: Customer self-service
 ms:assetid: b9bf0ad1-03f2-41e0-b7e9-738fbb7047c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498850(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498850(v=AX.60)
 ms:contentKeyID: 36059122
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

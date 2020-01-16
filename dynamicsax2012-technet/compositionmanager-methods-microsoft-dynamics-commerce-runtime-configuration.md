@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositionManager Methods (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: CompositionManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Configuration.CompositionManager
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.compositionmanager_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.compositionmanager_methods(v=AX.60)
 ms:contentKeyID: 62212234
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Create mail merge files
 TOCTitle: Create mail merge files
 ms:assetid: d35a02c6-6a25-4dee-a6d7-018fcec89c1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551065(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551065(v=AX.60)
 ms:contentKeyID: 36059509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

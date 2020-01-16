@@ -2,8 +2,9 @@
 title: Create bar codes for products
 TOCTitle: Create bar codes for products
 ms:assetid: 79c51964-0e9a-4bd6-a074-7a30e3ed1026
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597134(v=AX.60)
 ms:contentKeyID: 39519188
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

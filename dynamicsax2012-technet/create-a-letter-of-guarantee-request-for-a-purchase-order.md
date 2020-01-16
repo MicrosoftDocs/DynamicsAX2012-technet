@@ -2,8 +2,9 @@
 title: Create a letter of guarantee request for a purchase order
 TOCTitle: Create a letter of guarantee request for a purchase order
 ms:assetid: ef3bfdbe-a3a9-472b-90c0-41f5211304d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227505(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227505(v=AX.60)
 ms:contentKeyID: 36059918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ You can request a letter of guarantee for a vendor using the **Purchase order** 
 
 [Liquidate, extend, or cancel a letter of guarantee](liquidate-extend-or-cancel-a-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

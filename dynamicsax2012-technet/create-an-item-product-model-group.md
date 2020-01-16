@@ -2,8 +2,9 @@
 title: Create an Item product model group
 TOCTitle: Create an Item product model group
 ms:assetid: 178c3fa5-6e08-4d77-8040-272515b8958f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569901(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569901(v=AX.60)
 ms:contentKeyID: 36056084
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ You must create an item product model group and add items to it before you can s
 
 ## See also
 
-[Default values (form)](https://technet.microsoft.com/en-us/library/aa583319\(v=ax.60\))
+[Default values (form)](https://technet.microsoft.com/library/aa583319\(v=ax.60\))
 
   
 

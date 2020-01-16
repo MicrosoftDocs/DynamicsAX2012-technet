@@ -2,8 +2,9 @@
 title: Configure clients computers to bulk edit attributes in Microsoft Excel
 TOCTitle: Bulk edit attributes in Microsoft Excel
 ms:assetid: ef325d7a-c26e-404f-86b5-616908cc202a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn292561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn292561(v=AX.60)
 ms:contentKeyID: 55119962
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

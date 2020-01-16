@@ -2,8 +2,9 @@
 title: Create service orders manually
 TOCTitle: Create service orders manually
 ms:assetid: baa499dc-5003-4e1d-bb0c-3f8990e67548
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498854(v=AX.60)
 ms:contentKeyID: 36059127
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ You can create service orders manually by using a service agreement or by using 
 
 3.  Click the **Deliver** tab and in the **Create** group click **Planned service orders** to open the **Create service orders** form.
 
-4.  See [Create service orders (class form)](https://technet.microsoft.com/en-us/library/aa553901\(v=ax.60\)) for more information about how to create a service order.
+4.  See [Create service orders (class form)](https://technet.microsoft.com/library/aa553901\(v=ax.60\)) for more information about how to create a service order.
 
 ## Create a service order manually in the Service orders form
 

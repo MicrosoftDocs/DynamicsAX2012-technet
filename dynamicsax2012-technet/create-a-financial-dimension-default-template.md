@@ -2,8 +2,9 @@
 title: Create a financial dimension default template
 TOCTitle: Create a financial dimension default template
 ms:assetid: 94b52d87-6425-4c8b-99db-968e98b1f8db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209388(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209388(v=AX.60)
 ms:contentKeyID: 36058602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Use the **Financial dimension default templates** form to create a template to d
 
 ## See also
 
-[Financial dimension default templates (form)](https://technet.microsoft.com/en-us/library/hh242464\(v=ax.60\))
+[Financial dimension default templates (form)](https://technet.microsoft.com/library/hh242464\(v=ax.60\))
 
 [Create a financial dimension](create-a-financial-dimension.md)
 

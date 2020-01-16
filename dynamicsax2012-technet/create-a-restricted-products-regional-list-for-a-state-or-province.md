@@ -2,8 +2,9 @@
 title: Create a restricted products regional list for a state or province
 TOCTitle: Create a restricted products regional list for a state or province
 ms:assetid: 01ef0129-f743-426c-b982-e5f8caff9e29
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352175(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352175(v=AX.60)
 ms:contentKeyID: 36687806
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to create and maintain restricted product regional lists for 
 
 ## See also
 
-[Restricted products regional lists (form)](https://technet.microsoft.com/en-us/library/hh352232\(v=ax.60\))
+[Restricted products regional lists (form)](https://technet.microsoft.com/library/hh352232\(v=ax.60\))
 
   
 

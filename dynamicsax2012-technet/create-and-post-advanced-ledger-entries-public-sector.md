@@ -2,8 +2,9 @@
 title: Create and post advanced ledger entries (Public sector)
 TOCTitle: Create and post advanced ledger entries (Public sector)
 ms:assetid: 94f492f9-b129-4325-8dac-5622f6e7b97d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208554(v=AX.60)
 ms:contentKeyID: 36056316
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,13 +30,13 @@ Before you create advanced ledger entries, you must set up number sequences and 
     
     2.  Verify or enter a new **Accounting date**.
     
-    3.  Enter or select **Transaction text** that identifies the purpose for the transaction. For more information, see [Journal descriptions (form)](https://technet.microsoft.com/en-us/library/aa587702\(v=ax.60\)).
+    3.  Enter or select **Transaction text** that identifies the purpose for the transaction. For more information, see [Journal descriptions (form)](https://technet.microsoft.com/library/aa587702\(v=ax.60\)).
     
-    4.  Select a **Posting definition** that has been configured for the General ledger module. For more information, see [Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\)).
+    4.  Select a **Posting definition** that has been configured for the General ledger module. For more information, see [Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\)).
     
-    5.  Verify the **Currency**, which is the company currency used to display the amounts. For more information, see [Currencies (form)](https://technet.microsoft.com/en-us/library/aa582902\(v=ax.60\)).
+    5.  Verify the **Currency**, which is the company currency used to display the amounts. For more information, see [Currencies (form)](https://technet.microsoft.com/library/aa582902\(v=ax.60\)).
     
-    6.  Select a **Reason code** and enter a **Reason comment**. For more information, see [Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\)).
+    6.  Select a **Reason code** and enter a **Reason comment**. For more information, see [Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\)).
     
     7.  To create a reversing advanced ledger entry, select the **Reversing entry** check box and enter a **Reversing date**.
         

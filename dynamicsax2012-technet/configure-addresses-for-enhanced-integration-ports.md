@@ -1,9 +1,10 @@
-﻿---
+---
 title: Configure addresses for enhanced integration ports
 TOCTitle: Configure addresses
 ms:assetid: 4178fdd6-6e80-47b0-a281-99f8d7564989
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202051(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202051(v=AX.60)
 ms:contentKeyID: 35949285
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

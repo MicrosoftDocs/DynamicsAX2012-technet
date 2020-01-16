@@ -2,8 +2,9 @@
 title: Create a new Retail Server Controller
 TOCTitle: Create a new Retail Server Controller
 ms:assetid: edc1a279-914b-49c3-90b6-84173e2f828d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741461(v=AX.60)
 ms:contentKeyID: 62219737
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

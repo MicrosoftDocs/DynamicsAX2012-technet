@@ -2,8 +2,9 @@
 title: Create bar code setups (Retail essentials)
 TOCTitle: Create bar code setups (Retail essentials)
 ms:assetid: 6fb3eac7-938f-4adb-9d6d-adc363eef2e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736893(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736893(v=AX.60)
 ms:contentKeyID: 62200370
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

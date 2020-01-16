@@ -1,9 +1,10 @@
-﻿---
+---
 title: CurrencyDataService Properties (Microsoft.Dynamics.Commerce.Runtime.DataServices.Common)
 TOCTitle: CurrencyDataService Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.CurrencyDataService
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.common.currencydataservice_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.common.currencydataservice_properties(v=AX.60)
 ms:contentKeyID: 65319838
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

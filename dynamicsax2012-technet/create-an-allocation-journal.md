@@ -2,8 +2,9 @@
 title: Create an allocation journal
 TOCTitle: Create an allocation journal
 ms:assetid: db977a53-bc71-49ba-8c01-e513373dd814
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395363(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ff395363(v=AX.60)
 ms:contentKeyID: 36059668
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,13 +49,13 @@ Use the **Process allocation request** form to create an allocation journal. You
 
 ## See also
 
-[Ledger allocation rule (form)](https://technet.microsoft.com/en-us/library/ff395357\(v=ax.60\))
+[Ledger allocation rule (form)](https://technet.microsoft.com/library/ff395357\(v=ax.60\))
 
-[Ledger allocation rule source (form)](https://technet.microsoft.com/en-us/library/ff395365\(v=ax.60\))
+[Ledger allocation rule source (form)](https://technet.microsoft.com/library/ff395365\(v=ax.60\))
 
-[Ledger allocation rule destination (form)](https://technet.microsoft.com/en-us/library/ff395369\(v=ax.60\))
+[Ledger allocation rule destination (form)](https://technet.microsoft.com/library/ff395369\(v=ax.60\))
 
-[Process allocation request (form)](https://technet.microsoft.com/en-us/library/ff395361\(v=ax.60\))
+[Process allocation request (form)](https://technet.microsoft.com/library/ff395361\(v=ax.60\))
 
   
 

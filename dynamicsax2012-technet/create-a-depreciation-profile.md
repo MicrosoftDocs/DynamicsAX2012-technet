@@ -2,8 +2,9 @@
 title: Create a depreciation profile
 TOCTitle: Create a depreciation profile
 ms:assetid: 15e346de-fe1f-49b4-9788-f406386fdbe5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569886(v=AX.60)
 ms:contentKeyID: 36676371
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Depreciation profiles** form to create and modify depreciation profile
 
 ## See also
 
-[Depreciation profiles (form)](https://technet.microsoft.com/en-us/library/aa549887\(v=ax.60\))
+[Depreciation profiles (form)](https://technet.microsoft.com/library/aa549887\(v=ax.60\))
 
   
 

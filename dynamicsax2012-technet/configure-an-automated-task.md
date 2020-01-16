@@ -2,8 +2,9 @@
 title: Configure an automated task
 TOCTitle: Configure an automated task
 ms:assetid: e98729b6-e5be-4b70-9aec-dcdc4ed242bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732234(v=AX.60)
 ms:contentKeyID: 35133175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

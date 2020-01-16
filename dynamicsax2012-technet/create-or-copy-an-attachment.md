@@ -2,8 +2,9 @@
 title: Create or copy an attachment
 TOCTitle: Create or copy an attachment
 ms:assetid: 1709aba2-f48d-4904-a35b-9dcf95455f2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569898(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569898(v=AX.60)
 ms:contentKeyID: 36056077
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

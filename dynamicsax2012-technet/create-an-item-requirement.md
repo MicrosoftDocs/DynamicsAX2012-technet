@@ -2,8 +2,9 @@
 title: Create an item requirement
 TOCTitle: Create an item requirement
 ms:assetid: 629262ef-dff7-4290-9c5d-9d788146056a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500664(v=AX.60)
 ms:contentKeyID: 37822144
+author: Khairunj
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ For information about the consumption of item requirements, see [Consume item re
 
 ## See also
 
-[Item requirements (form)](https://technet.microsoft.com/en-us/library/aa552021\(v=ax.60\))
+[Item requirements (form)](https://technet.microsoft.com/library/aa552021\(v=ax.60\))
 
   
 

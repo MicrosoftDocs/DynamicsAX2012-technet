@@ -2,8 +2,9 @@
 title: Create a product change case
 TOCTitle: Create a product change case
 ms:assetid: 2eec3012-309b-4c9b-872f-d2fbd28c41a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505746(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505746(v=AX.60)
 ms:contentKeyID: 59604022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Case categories</strong></p></td>
-<td><p>You must create a case category to use for product change cases. For more information, see the section in this topic titled “Create a case category for a product change.” For information about case categories, see <a href="https://technet.microsoft.com/en-us/library/hh209319(v=ax.60)">Case categories (form)</a>.</p></td>
+<td><p>You must create a case category to use for product change cases. For more information, see the section in this topic titled “Create a case category for a product change.” For information about case categories, see <a href="https://technet.microsoft.com/library/hh209319(v=ax.60)">Case categories (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

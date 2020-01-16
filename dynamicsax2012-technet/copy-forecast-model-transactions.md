@@ -2,8 +2,9 @@
 title: Copy forecast model transactions
 TOCTitle: Copy forecast model transactions
 ms:assetid: 12256b40-c7b8-4b48-af4d-643452688151
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496577(v=AX.60)
 ms:contentKeyID: 36056039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ You can create a forecast model by copying an existing forecast. In doing so, yo
 
 [Set up a forecast model](set-up-a-forecast-model.md)
 
-[Copy forecasts (class form)](https://technet.microsoft.com/en-us/library/aa634026\(v=ax.60\))
+[Copy forecasts (class form)](https://technet.microsoft.com/library/aa634026\(v=ax.60\))
 
 [Create forecast models for project budgets](create-forecast-models-for-project-budgets.md)
 

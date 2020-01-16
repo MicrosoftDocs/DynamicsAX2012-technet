@@ -2,8 +2,9 @@
 title: Create a freight allocation group
 TOCTitle: Create a freight allocation group
 ms:assetid: 08dd1ea1-bff5-479e-b881-03d734d52c2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242119(v=AX.60)
 ms:contentKeyID: 36055975
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use this procedure to create a freight allocation group. You can apply the freig
 
 ## See also
 
-[Freight allocation group (form)](https://technet.microsoft.com/en-us/library/hh352337\(v=ax.60\))
+[Freight allocation group (form)](https://technet.microsoft.com/library/hh352337\(v=ax.60\))
 
   
 

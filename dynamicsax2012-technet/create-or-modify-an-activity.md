@@ -2,8 +2,9 @@
 title: Create or modify an activity
 TOCTitle: Create or modify an activity
 ms:assetid: 72e123fb-f90c-4fd8-ae2b-fb91b3da1576
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271564(v=AX.60)
 ms:contentKeyID: 36384195
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

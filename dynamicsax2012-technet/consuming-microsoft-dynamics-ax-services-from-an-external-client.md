@@ -1,9 +1,10 @@
-﻿---
+---
 title: Consuming Microsoft Dynamics AX Services from an External Client
 TOCTitle: Consuming Microsoft Dynamics AX Services from an External Client
 ms:assetid: 6e9cd3e0-b732-4231-95e3-0d1869c0beb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500188(v=AX.60)
 ms:contentKeyID: 37820255
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

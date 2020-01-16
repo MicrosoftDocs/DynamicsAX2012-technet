@@ -2,8 +2,9 @@
 title: Create and reverse a preliminary budget (Public sector)
 TOCTitle: Create and reverse a preliminary budget (Public sector)
 ms:assetid: 0c0100f9-67c2-4f13-9b6e-7ff3c131f80e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208505(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208505(v=AX.60)
 ms:contentKeyID: 36056244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,7 +76,7 @@ When you create an original budget entry and use the budget model and dimension 
 
 10. To see the budget register entries for the original budget and for the reversal of the preliminary budget, select the budget account entry in the **Budget account entries** pane. Then click **Related information** \> **Budget register entries**.
 
-11. To see the results of reversing the preliminary budget, open the preliminary budget register entry and select the budget account entry in the **Budget account entries** pane. Then click **Related information** \> **Budget register entries** \> **Reversed tracing**. For more information, see [Reversed tracing (form)](https://technet.microsoft.com/en-us/library/aa588189\(v=ax.60\)).
+11. To see the results of reversing the preliminary budget, open the preliminary budget register entry and select the budget account entry in the **Budget account entries** pane. Then click **Related information** \> **Budget register entries** \> **Reversed tracing**. For more information, see [Reversed tracing (form)](https://technet.microsoft.com/library/aa588189\(v=ax.60\)).
 
   
 

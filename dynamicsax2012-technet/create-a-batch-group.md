@@ -2,8 +2,9 @@
 title: Create a batch group
 TOCTitle: Create a batch group
 ms:assetid: 5153936f-a872-430d-bd17-4c910de871d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548911(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548911(v=AX.60)
 ms:contentKeyID: 35132636
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -51,7 +52,7 @@ Client tasks must be run manually by using the **Set up batch processing** form.
 
 [Batch processing overview](batch-processing-overview.md)
 
-[Server configuration (form)](https://technet.microsoft.com/en-us/library/hh208825\(v=ax.60\))
+[Server configuration (form)](https://technet.microsoft.com/library/hh208825\(v=ax.60\))
 
   
 

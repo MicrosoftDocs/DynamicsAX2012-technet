@@ -2,8 +2,9 @@
 title: Create facility agreements for the letter of guarantee
 TOCTitle: Create facility agreements for the letter of guarantee
 ms:assetid: b8e4fd9c-4f73-4461-a70a-e9528cea2ec1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242761(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242761(v=AX.60)
 ms:contentKeyID: 36059113
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,9 +79,9 @@ Use this procedure to set up a bank facility agreement and enter letter of guara
 
 ## See also
 
-[Bank facility agreement details (form)](https://technet.microsoft.com/en-us/library/hh209692\(v=ax.60\))
+[Bank facility agreement details (form)](https://technet.microsoft.com/library/hh209692\(v=ax.60\))
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
 [Create a letter of guarantee request for a purchase order](create-a-letter-of-guarantee-request-for-a-purchase-order.md)
 

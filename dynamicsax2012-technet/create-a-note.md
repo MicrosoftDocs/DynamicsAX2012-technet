@@ -2,8 +2,9 @@
 title: Create a note
 TOCTitle: Create a note
 ms:assetid: fb05f094-5e7d-47bf-af05-0dccaa4f21b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499872(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499872(v=AX.60)
 ms:contentKeyID: 37822169
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ In any form that has a document handling icon or an **Attachments** button, you 
 
 ## See also
 
-[Document handling (form)](https://technet.microsoft.com/en-us/library/aa616432\(v=ax.60\))
+[Document handling (form)](https://technet.microsoft.com/library/aa616432\(v=ax.60\))
 
 [Using document management](using-document-management.md)
 

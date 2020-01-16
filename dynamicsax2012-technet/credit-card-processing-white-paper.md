@@ -2,8 +2,9 @@
 title: Credit card processing (White paper)
 TOCTitle: Credit card processing
 ms:assetid: 70b16533-2a8f-4d4f-9338-924e26b0aaef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh694707(v=AX.60)
 ms:contentKeyID: 42117750
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

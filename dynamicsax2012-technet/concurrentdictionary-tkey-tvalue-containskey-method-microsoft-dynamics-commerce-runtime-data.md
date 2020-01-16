@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).ContainsKey Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ContainsKey Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.ContainsKey(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967553(v=AX.60)
 ms:contentKeyID: 65319425
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,12 +57,12 @@ virtual bool ContainsKey(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Returns true if the key is present in dictionary.  
 
 #### Implements
 
-[IDictionary\<TKey, TValue\>.ContainsKey(TKey)](https://technet.microsoft.com/en-us/library/htszx2dy\(v=ax.60\))  
+[IDictionary\<TKey, TValue\>.ContainsKey(TKey)](https://technet.microsoft.com/library/htszx2dy\(v=ax.60\))  
 
 ## See Also
 

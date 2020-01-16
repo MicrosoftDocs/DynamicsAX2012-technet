@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlFactory.CreateDropDown Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: CreateDropDown Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateDropDown(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createdropdown(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createdropdown(v=AX.60)
 ms:contentKeyID: 62205455
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static HtmlSelect^ CreateDropDown(
 #### Parameters
 
   - className  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Web.UI.HtmlControls.HtmlSelect](https://technet.microsoft.com/en-us/library/xf11z4ad\(v=ax.60\))  
+Type: [System.Web.UI.HtmlControls.HtmlSelect](https://technet.microsoft.com/library/xf11z4ad\(v=ax.60\))  
 A drop downList instance.  
 
 ## See Also

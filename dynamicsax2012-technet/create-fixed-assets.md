@@ -2,8 +2,9 @@
 title: Create fixed assets
 TOCTitle: Create fixed assets
 ms:assetid: 77f57b45-9d9e-4e65-847d-8168916b95f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212997(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212997(v=AX.60)
 ms:contentKeyID: 36058216
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

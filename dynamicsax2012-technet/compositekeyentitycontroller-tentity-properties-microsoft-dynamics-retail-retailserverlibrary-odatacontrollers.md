@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositeKeyEntityController(TEntity) Properties (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: CompositeKeyEntityController(TEntity) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController`1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737430(v=AX.60)
 ms:contentKeyID: 62202143
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

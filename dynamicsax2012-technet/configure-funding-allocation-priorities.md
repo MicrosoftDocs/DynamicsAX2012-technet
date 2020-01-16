@@ -2,8 +2,9 @@
 title: Configure funding allocation priorities
 TOCTitle: Configure funding allocation priorities
 ms:assetid: 0e80d919-6f09-4ad9-a294-84a1f205169b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242133(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242133(v=AX.60)
 ms:contentKeyID: 36056011
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ For information about setting up funding rules for a project contract, including
 
 [Set up funding rules for a project contract](set-up-funding-rules-for-a-project-contract.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

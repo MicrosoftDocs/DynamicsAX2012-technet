@@ -2,8 +2,9 @@
 title: Configure stores to accept loyalty cards
 TOCTitle: Configure stores to accept loyalty cards
 ms:assetid: 609728de-6d4d-438a-8251-37cfc6d48191
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597107(v=AX.60)
 ms:contentKeyID: 39519156
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,9 +54,9 @@ Before you can set up a store to accept a loyalty card, you must set up the loya
 
 [Set up loyalty payment methods](set-up-loyalty-payment-methods.md)
 
-[Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\))
+[Stores (form)](https://technet.microsoft.com/library/hh580646\(v=ax.60\))
 
-[Card setup (form)](https://technet.microsoft.com/en-us/library/hh597124\(v=ax.60\))
+[Card setup (form)](https://technet.microsoft.com/library/hh597124\(v=ax.60\))
 
   
 

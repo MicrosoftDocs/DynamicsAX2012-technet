@@ -2,8 +2,9 @@
 title: Configure email settings for the workflow system
 TOCTitle: Configure email settings for the workflow system
 ms:assetid: e0de6075-a8ff-4080-9c0e-15fea57f4d5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732160(v=AX.60)
 ms:contentKeyID: 35133102
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

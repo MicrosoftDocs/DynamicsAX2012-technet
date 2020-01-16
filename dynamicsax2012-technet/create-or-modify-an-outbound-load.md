@@ -2,8 +2,9 @@
 title: Create or modify an outbound load
 TOCTitle: Create or modify an outbound load
 ms:assetid: be0ee355-8a38-42a6-9c1f-09067393b20b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn770235(v=AX.60)
 ms:contentKeyID: 62583048
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Create journals for projects
 TOCTitle: Create journals for projects
 ms:assetid: 822f63c5-0c11-4fb7-b9a4-7e83cd9ff6bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571559(v=AX.60)
 ms:contentKeyID: 36058366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,17 +60,17 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Hour journal (form)](https://technet.microsoft.com/en-us/library/aa598983\(v=ax.60\))
+[Hour journal (form)](https://technet.microsoft.com/library/aa598983\(v=ax.60\))
 
-[Fee journal (form)](https://technet.microsoft.com/en-us/library/hh209390\(v=ax.60\))
+[Fee journal (form)](https://technet.microsoft.com/library/hh209390\(v=ax.60\))
 
-[Expense journal (form)](https://technet.microsoft.com/en-us/library/aa600976\(v=ax.60\))
+[Expense journal (form)](https://technet.microsoft.com/library/aa600976\(v=ax.60\))
 
-[Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\))
+[Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\))
 
 [Create lines in journals for projects](create-lines-in-journals-for-projects.md)
 
-[Journal descriptions - General ledger (form)](https://technet.microsoft.com/en-us/library/aa500456\(v=ax.60\))
+[Journal descriptions - General ledger (form)](https://technet.microsoft.com/library/aa500456\(v=ax.60\))
 
 [Create journal descriptions](create-journal-descriptions.md)
 

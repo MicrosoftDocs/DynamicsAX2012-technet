@@ -2,8 +2,9 @@
 title: Create direct deliveries
 TOCTitle: Create direct deliveries
 ms:assetid: ebe33658-f6c4-4192-92a9-6466244643db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551512(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551512(v=AX.60)
 ms:contentKeyID: 39519355
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use this procedure to send ordered products directly to the customer from the ve
     
 
     > [!NOTE]
-    > <P>You can set up a preferred vendor for an item per site, warehouse, location, color, size, and configuration on the <STRONG>General</STRONG> tab in the <STRONG>Item coverage</STRONG> form. You can access the <STRONG>Item coverage</STRONG> form from the <STRONG>Released products</STRONG> list page. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa619147(v=ax.60)">Item coverage (form)</A>.</P>
+    > <P>You can set up a preferred vendor for an item per site, warehouse, location, color, size, and configuration on the <STRONG>General</STRONG> tab in the <STRONG>Item coverage</STRONG> form. You can access the <STRONG>Item coverage</STRONG> form from the <STRONG>Released products</STRONG> list page. For more information, see <A href="https://technet.microsoft.com/library/aa619147(v=ax.60)">Item coverage (form)</A>.</P>
 
 
 
@@ -57,7 +58,7 @@ All updates to the selected sales order lines are now performed by using the **P
 
 ## See also
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Configuring posting accounts
 TOCTitle: Configuring posting accounts
 ms:assetid: 939f07f7-39f9-4c92-8569-a2019f2064e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498389(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498389(v=AX.60)
 ms:contentKeyID: 36058586
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Configuring category groups, categories, and cost templates
 TOCTitle: Configuring category groups, categories, and cost templates
 ms:assetid: 0c626be0-b9e9-4a2c-9fd5-f22ad924278a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569752(v=AX.60)
 ms:contentKeyID: 36055996
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

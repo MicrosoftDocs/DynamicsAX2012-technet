@@ -2,8 +2,9 @@
 title: Create modeling variables
 TOCTitle: Create modeling variables
 ms:assetid: f7b77e3c-fdd3-40cd-a044-e9d09a374bd0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499809(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499809(v=AX.60)
 ms:contentKeyID: 36676421
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ For **Table** modeling variables, you must complete additional fields on the **G
 
 ## See also
 
-[Modeling variables (form)](https://technet.microsoft.com/en-us/library/aa592160\(v=ax.60\))
+[Modeling variables (form)](https://technet.microsoft.com/library/aa592160\(v=ax.60\))
 
   
 

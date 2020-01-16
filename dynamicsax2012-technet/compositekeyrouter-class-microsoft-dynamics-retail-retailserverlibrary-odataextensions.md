@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositeKeyRouter Class (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions)
 TOCTitle: CompositeKeyRouter Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CompositeKeyRouter
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.compositekeyrouter(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.compositekeyrouter(v=AX.60)
 ms:contentKeyID: 62202514
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ public ref class CompositeKeyRouter : public EntitySetRoutingConvention
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   EntitySetRoutingConvention  
     Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CompositeKeyRouter  
 

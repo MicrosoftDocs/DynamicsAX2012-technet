@@ -1,9 +1,10 @@
-﻿---
+---
 title: ContinueShopping Fields (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls)
 TOCTitle: ContinueShopping Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ContinueShopping
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.continueshopping_fields(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.continueshopping_fields(v=AX.60)
 ms:contentKeyID: 62205017
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

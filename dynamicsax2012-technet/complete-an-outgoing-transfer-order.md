@@ -2,8 +2,9 @@
 title: Complete an outgoing transfer order
 TOCTitle: Complete an outgoing transfer order
 ms:assetid: a42660bf-08d7-486c-9525-b63189daf2bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352267(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352267(v=AX.60)
 ms:contentKeyID: 36687893
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

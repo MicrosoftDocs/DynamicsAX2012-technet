@@ -2,8 +2,9 @@
 title: Critical on-hand inventory report (InventSumCritical)
 TOCTitle: Critical on-hand inventory report (InventSumCritical)
 ms:assetid: 42d78806-9503-41a7-be2f-b906bcd153f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209295(v=AX.60)
 ms:contentKeyID: 36058330
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -118,7 +119,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[On-hand inventory (form)](https://technet.microsoft.com/en-us/library/aa616522\(v=ax.60\))
+[On-hand inventory (form)](https://technet.microsoft.com/library/aa616522\(v=ax.60\))
 
   
 

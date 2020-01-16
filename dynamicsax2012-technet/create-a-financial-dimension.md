@@ -2,8 +2,9 @@
 title: Create a financial dimension
 TOCTitle: Create a financial dimension
 ms:assetid: ac9eeb95-4cb0-4352-ae89-0524cdba31a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242697(v=AX.60)
 ms:contentKeyID: 36058919
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,9 +72,9 @@ To create a user-defined financial dimension, in the **Use values from** field, 
 
 ## See also
 
-[Financial dimension values (form)](https://technet.microsoft.com/en-us/library/hh242667\(v=ax.60\))
+[Financial dimension values (form)](https://technet.microsoft.com/library/hh242667\(v=ax.60\))
 
-[Text translation (form)](https://technet.microsoft.com/en-us/library/hh697726\(v=ax.60\))
+[Text translation (form)](https://technet.microsoft.com/library/hh697726\(v=ax.60\))
 
   
 

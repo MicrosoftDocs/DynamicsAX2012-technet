@@ -2,8 +2,9 @@
 title: Configuring customer invoices (Public sector)
 TOCTitle: Configuring customer invoices (Public sector)
 ms:assetid: 89e42d42-a718-40b0-8d53-82492bc3820a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208550(v=AX.60)
 ms:contentKeyID: 36056307
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

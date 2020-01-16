@@ -2,8 +2,9 @@
 title: Configure purchase requisition parameters
 TOCTitle: Configure purchase requisition parameters
 ms:assetid: 5eba02e2-e783-426c-aaa7-c46922c6d86b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209127(v=AX.60)
 ms:contentKeyID: 36057583
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ If you do not configure the purchase requisition control rule, the default param
         
         If this check box is cleared, users can enter a quantity that does not match the specified multiple for item quantity. However, a message is displayed, and users can round the quantity up to match the required multiple.
     
-    For more information about how to configure order settings for a product, see [Order settings (form)](https://technet.microsoft.com/en-us/library/hh209541\(v=ax.60\)).
+    For more information about how to configure order settings for a product, see [Order settings (form)](https://technet.microsoft.com/library/hh209541\(v=ax.60\)).
 
 7.  On the **Dates** FastTab, select the **Use requested date as accounting date:** check box to use the requested date as the default accounting date.
     
@@ -72,7 +73,7 @@ If you do not configure the purchase requisition control rule, the default param
 
 ## See also
 
-[Purchase requisition control rule (form)](https://technet.microsoft.com/en-us/library/hh208589\(v=ax.60\))
+[Purchase requisition control rule (form)](https://technet.microsoft.com/library/hh208589\(v=ax.60\))
 
   
 

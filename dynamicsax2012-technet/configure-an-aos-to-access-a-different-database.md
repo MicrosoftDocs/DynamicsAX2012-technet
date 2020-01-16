@@ -2,8 +2,9 @@
 title: Configure an AOS to access a different database
 TOCTitle: Configure an AOS to access a different database
 ms:assetid: 139fc6d4-9f78-4549-b6cf-8dfa0304aa17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569613(v=AX.60)
 ms:contentKeyID: 36941282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

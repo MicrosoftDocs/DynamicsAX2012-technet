@@ -2,8 +2,9 @@
 title: Create loan items
 TOCTitle: Create loan items
 ms:assetid: 713b8feb-edd3-4a19-9839-f5b34a2a4af3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571315(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571315(v=AX.60)
 ms:contentKeyID: 36687395
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,11 +70,11 @@ The process for creating loan items depends on whether you want to create a sing
 
 [Record a returned loan item](record-a-returned-loan-item.md)
 
-[Loan (form)](https://technet.microsoft.com/en-us/library/aa500857\(v=ax.60\))
+[Loan (form)](https://technet.microsoft.com/library/aa500857\(v=ax.60\))
 
-[Loan types (form)](https://technet.microsoft.com/en-us/library/aa574151\(v=ax.60\))
+[Loan types (form)](https://technet.microsoft.com/library/aa574151\(v=ax.60\))
 
-[Loan items (form)](https://technet.microsoft.com/en-us/library/aa550442\(v=ax.60\))
+[Loan items (form)](https://technet.microsoft.com/library/aa550442\(v=ax.60\))
 
   
 

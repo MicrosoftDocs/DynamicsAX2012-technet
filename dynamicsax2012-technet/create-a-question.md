@@ -2,8 +2,9 @@
 title: Create a question
 TOCTitle: Create a question
 ms:assetid: ca2d4950-2425-4db6-8fec-2829b8f3a636
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499085(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499085(v=AX.60)
 ms:contentKeyID: 39519320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ Depending on your selection in the **Input type** list, you can create two kinds
 
 ## See also
 
-[Questions (form)](https://technet.microsoft.com/en-us/library/aa571301\(v=ax.60\))
+[Questions (form)](https://technet.microsoft.com/library/aa571301\(v=ax.60\))
 
   
 

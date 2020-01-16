@@ -2,8 +2,9 @@
 title: Create charges codes
 TOCTitle: Create charges codes
 ms:assetid: a68a5c6b-5aeb-4544-9eef-01e6c5af6d3b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550275(v=AX.60)
 ms:contentKeyID: 44081022
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,7 +104,7 @@ To add the unit charge to the item cost, you set up the following posting inform
 
 [Set up shipping carriers](set-up-shipping-carriers.md)
 
-[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/en-us/library/hh242731\(v=ax.60\))
+[Charges totals details/Compare charges values (form)](https://technet.microsoft.com/library/hh242731\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Copy a forecast item
 TOCTitle: Copy a forecast item
 ms:assetid: b48f131f-896f-48b1-89b1-4576673243a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550448(v=AX.60)
 ms:contentKeyID: 36059077
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,11 +32,11 @@ A forecasted item transaction can be copied to a sales order, an item consumptio
 
 ## See also
 
-[Edit forecast transactions (form) (Project)](https://technet.microsoft.com/en-us/library/hh242791\(v=ax.60\))
+[Edit forecast transactions (form) (Project)](https://technet.microsoft.com/library/hh242791\(v=ax.60\))
 
-[Copy forecast (form)](https://technet.microsoft.com/en-us/library/aa585014\(v=ax.60\))
+[Copy forecast (form)](https://technet.microsoft.com/library/aa585014\(v=ax.60\))
 
-[Item forecasts (form)](https://technet.microsoft.com/en-us/library/hh209438\(v=ax.60\))
+[Item forecasts (form)](https://technet.microsoft.com/library/hh209438\(v=ax.60\))
 
   
 

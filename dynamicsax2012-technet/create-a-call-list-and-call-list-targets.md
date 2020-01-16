@@ -2,8 +2,9 @@
 title: Create a call list and call list targets
 TOCTitle: Create a call list and call list targets
 ms:assetid: 2df28ac8-6f38-4072-af3d-851f59abfc12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548442(v=AX.60)
 ms:contentKeyID: 36811403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

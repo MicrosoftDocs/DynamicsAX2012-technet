@@ -2,8 +2,9 @@
 title: Create and post a purchase order for a potency item
 TOCTitle: Create and post a purchase order for a potency item
 ms:assetid: 0e57e6c4-0bff-46e4-b0e8-957c37a568e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838721(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838721(v=AX.60)
 ms:contentKeyID: 50120604
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,11 +24,11 @@ Use the information in this topic to create, process, and post a purchase order 
 
 3.  Set up an attribute-based pricing formula for a potency item. For more information, see [Set up an attribute-based pricing formula for a potency item](set-up-an-attribute-based-pricing-formula-for-a-potency-item.md).
 
-4.  Create a purchase trade agreement and add attribute-based pricing details to it. For more information, see [Update a trade agreement with new commodity pricing](update-a-trade-agreement-with-new-commodity-pricing.md) and [Trade agreements (form)](https://technet.microsoft.com/en-us/library/aa499393\(v=ax.60\)).
+4.  Create a purchase trade agreement and add attribute-based pricing details to it. For more information, see [Update a trade agreement with new commodity pricing](update-a-trade-agreement-with-new-commodity-pricing.md) and [Trade agreements (form)](https://technet.microsoft.com/library/aa499393\(v=ax.60\)).
 
 ## Process a purchase order for a potency item
 
-1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**. On the **Action Pane**, click **New** \> **Purchase order**, or double-click a purchase order. For more information, see [(PM) Purchase order (form)](https://technet.microsoft.com/en-us/library/hh328589\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
+1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**. On the **Action Pane**, click **New** \> **Purchase order**, or double-click a purchase order. For more information, see [(PM) Purchase order (form)](https://technet.microsoft.com/library/hh328589\(v=ax.60\)) and [Create a purchase order](create-a-purchase-order.md).
 
 2.  Select or create a purchase order line.
 
@@ -47,7 +48,7 @@ Use the information in this topic to create, process, and post a purchase order 
 
 ## See also
 
-[Attribute-based pricing data (form)](https://technet.microsoft.com/en-us/library/jj838766\(v=ax.60\))
+[Attribute-based pricing data (form)](https://technet.microsoft.com/library/jj838766\(v=ax.60\))
 
   
 

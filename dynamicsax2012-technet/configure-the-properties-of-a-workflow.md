@@ -2,8 +2,9 @@
 title: Configure the properties of a workflow
 TOCTitle: Configure the properties of a workflow
 ms:assetid: d1f7d42a-47fe-41d4-9130-94d287df7535
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg188988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg188988(v=AX.60)
 ms:contentKeyID: 35410568
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

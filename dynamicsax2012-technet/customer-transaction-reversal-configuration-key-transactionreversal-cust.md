@@ -2,8 +2,9 @@
 title: Customer transaction reversal configuration key (TransactionReversal_Cust)
 TOCTitle: Customer transaction reversal configuration key (TransactionReversal_Cust)
 ms:assetid: 98297a90-d1fb-4004-9d7c-4631fa4424ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467558(v=AX.60)
 ms:contentKeyID: 36991704
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,11 +38,11 @@ The following forms are available or affected when the configuration key is enab
 <tbody>
 <tr class="odd">
 <td><p><strong>Customer transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634902(v=ax.60)">Customer transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634902(v=ax.60)">Customer transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Reversed tracing</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588189(v=ax.60)">Reversed tracing (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588189(v=ax.60)">Reversed tracing (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +80,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Customer invoice transactions report (CustInvoice)
 TOCTitle: Customer invoice transactions report (CustInvoice)
 ms:assetid: f1da6960-7f27-4ebf-ae06-725021f4da28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa634260(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa634260(v=AX.60)
 ms:contentKeyID: 36060778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Dimension set</strong></p></td>
 <td><p>Select a financial dimension set for the report. These were defined in the <strong>Financial dimension sets</strong> form. A financial dimension set is a named group of accounts or dimensions that contains either account values for the account or dimension values for a single dimension. Examples include main accounts, departments, and cost centers, or combinations such as a cost center and main account, or a department and cost center.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>From date</strong></p></td>

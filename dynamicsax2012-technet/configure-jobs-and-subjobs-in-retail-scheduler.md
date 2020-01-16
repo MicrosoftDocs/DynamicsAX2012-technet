@@ -2,8 +2,9 @@
 title: Configure jobs and subjobs in Retail Scheduler
 TOCTitle: Configure jobs and subjobs in Retail Scheduler
 ms:assetid: ac7af386-fd6c-4f03-bea6-306db0537b87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ680084(v=AX.60)
 ms:contentKeyID: 49558130
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -79,7 +80,7 @@ If you’re using AX 2012 R3, complete this procedure to create or modify subjob
 
 6.  In the **Channel table name** field, enter the name of the table in the channel database. In the **Microsoft Dynamics AX table name** field, enter the name of the table in the Microsoft Dynamics AX database. For P jobs, you must also specify the temporary database table to use. To create the temporary table, click **Create staging table**.
 
-7.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/en-us/library/hh597422\(v=ax.60\)).
+7.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/library/hh597422\(v=ax.60\)).
 
 ## Create or modify a subjob in AX 2012 R2 and AX 2012 Feature Pack
 
@@ -99,7 +100,7 @@ If you’re using AX 2012 R2 or AX 2012 Feature Pack, complete this procedure to
 
 5.  In the **Channel table name** field, enter the name of the table in the destination database. In the **Microsoft Dynamics AX table name** field, enter the name of the table in the Microsoft Dynamics AX database. For P jobs, you must also specify the temporary database table to use. To create the temporary table, click **Create staging table**.
 
-6.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/en-us/library/hh597422\(v=ax.60\)).
+6.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/library/hh597422\(v=ax.60\)).
 
 ## Create or modify a scheduler job
 
@@ -131,7 +132,7 @@ Each scheduler job consists of one or more subjobs. Jobs should contain subjobs 
 
 
 
-7.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler job (form)](https://technet.microsoft.com/en-us/library/hh672166\(v=ax.60\)).
+7.  Enter other information in the form, if more information is required. For help with fields that are not described in this topic, see [Scheduler job (form)](https://technet.microsoft.com/library/hh672166\(v=ax.60\)).
 
   
 

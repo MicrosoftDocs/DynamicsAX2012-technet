@@ -2,8 +2,9 @@
 title: Create a formula and formula version
 TOCTitle: Create a formula and formula version
 ms:assetid: 2c2e3b3d-f087-453e-a74b-413fdbcb2f2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352191(v=AX.60)
 ms:contentKeyID: 36687824
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,13 +66,13 @@ When you create a new formula, it can have one or many versions. Each formula ve
 
 [About formulas](about-formulas.md)
 
-[Approve BOM or formula (class form)](https://technet.microsoft.com/en-us/library/hh227377\(v=ax.60\))
+[Approve BOM or formula (class form)](https://technet.microsoft.com/library/hh227377\(v=ax.60\))
 
-[(PM) Approve formula version (class form)](https://technet.microsoft.com/en-us/library/hh242740\(v=ax.60\))
+[(PM) Approve formula version (class form)](https://technet.microsoft.com/library/hh242740\(v=ax.60\))
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
   
 

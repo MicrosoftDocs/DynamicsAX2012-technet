@@ -2,8 +2,9 @@
 title: Customer self-service configuration key (CSS)
 TOCTitle: Customer self-service configuration key (CSS)
 ms:assetid: be04a513-a147-44ef-ab47-1edb2517a99b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589961(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589961(v=AX.60)
 ms:contentKeyID: 37831976
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ The following is a subset of the forms that are available when the configuration
 <tbody>
 <tr class="odd">
 <td><p><strong>Sales basket</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634290(v=ax.60)">Sales basket (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634290(v=ax.60)">Sales basket (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Registration</strong></p></td>
@@ -81,7 +82,7 @@ The following is a subset of the forms that are available when the configuration
 </tr>
 <tr class="odd">
 <td><p><strong>Customer self-service parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590303(v=ax.60)">Customer self-service parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590303(v=ax.60)">Customer self-service parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +120,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

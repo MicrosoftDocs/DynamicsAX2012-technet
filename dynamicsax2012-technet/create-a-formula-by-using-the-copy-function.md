@@ -2,8 +2,9 @@
 title: Create a formula by using the copy function
 TOCTitle: Create a formula by using the copy function
 ms:assetid: 7289c270-709c-490d-84df-76ebc5e52f90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352211(v=AX.60)
 ms:contentKeyID: 36687845
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,15 +56,15 @@ Use this procedure to create a formula that includes the same ingredients as an 
 
 ## See also
 
-[Approve BOM or formula (class form)](https://technet.microsoft.com/en-us/library/hh227377\(v=ax.60\))
+[Approve BOM or formula (class form)](https://technet.microsoft.com/library/hh227377\(v=ax.60\))
 
-[(PM) Approve formula version (class form)](https://technet.microsoft.com/en-us/library/hh242740\(v=ax.60\))
+[(PM) Approve formula version (class form)](https://technet.microsoft.com/library/hh242740\(v=ax.60\))
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula copying (form)](https://technet.microsoft.com/en-us/library/hh352338\(v=ax.60\))
+[Formula copying (form)](https://technet.microsoft.com/library/hh352338\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
   
 

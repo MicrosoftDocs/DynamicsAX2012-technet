@@ -2,8 +2,9 @@
 title: Cube and KPI reference for Microsoft Dynamics AX
 TOCTitle: Cube and KPI reference
 ms:assetid: 965aac51-ae29-43f5-ba80-ec68608aab51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781074(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781074(v=AX.60)
 ms:contentKeyID: 43894473
+author: Khairunj
 ms.date: 07/22/2014
 mtps_version: v=AX.60
 ---

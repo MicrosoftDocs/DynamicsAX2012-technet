@@ -2,8 +2,9 @@
 title: Configure system accounts
 TOCTitle: Configure system accounts
 ms:assetid: 56e3522e-38a8-41ba-b95e-3ad3c7d53178
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309681(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309681(v=AX.60)
 ms:contentKeyID: 35132641
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

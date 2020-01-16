@@ -1,9 +1,10 @@
-﻿---
+---
 title: CryptoUtilities.GetCertificate Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: GetCertificate Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.CryptoUtilities.GetCertificate(System.Security.Cryptography.X509Certificates.StoreName,System.Security.Cryptography.X509Certificates.StoreLocation,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.cryptoutilities.getcertificate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.cryptoutilities.getcertificate(v=AX.60)
 ms:contentKeyID: 62204303
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,21 +61,21 @@ static X509Certificate2^ GetCertificate(
 #### Parameters
 
   - storeName  
-    Type: [System.Security.Cryptography.X509Certificates.StoreName](https://technet.microsoft.com/en-us/library/tk313h1y\(v=ax.60\))  
+    Type: [System.Security.Cryptography.X509Certificates.StoreName](https://technet.microsoft.com/library/tk313h1y\(v=ax.60\))  
 
 <!-- end list -->
 
   - storeLocation  
-    Type: [System.Security.Cryptography.X509Certificates.StoreLocation](https://technet.microsoft.com/en-us/library/90tyd6y4\(v=ax.60\))  
+    Type: [System.Security.Cryptography.X509Certificates.StoreLocation](https://technet.microsoft.com/library/90tyd6y4\(v=ax.60\))  
 
 <!-- end list -->
 
   - thumbprint  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Security.Cryptography.X509Certificates.X509Certificate2](https://technet.microsoft.com/en-us/library/ms148409\(v=ax.60\))  
+Type: [System.Security.Cryptography.X509Certificates.X509Certificate2](https://technet.microsoft.com/library/ms148409\(v=ax.60\))  
 The certificate if found, null otherwise.  
 
 ## See Also

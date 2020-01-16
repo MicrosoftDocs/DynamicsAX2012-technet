@@ -2,8 +2,9 @@
 title: Create absence journals
 TOCTitle: Create absence journals
 ms:assetid: dcfad5d3-3006-49f1-9ed6-91b62bd73e02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551264(v=AX.60)
 ms:contentKeyID: 36966742
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ When you create absence journals, the starting date immediately follows the endi
 
 2.  Click **Select**.
 
-3.  In the **Create absence journals** inquiry form, modify the inquiry criteria to identify the workers to create absence journals for, and then click **OK**. For more information, see [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+3.  In the **Create absence journals** inquiry form, modify the inquiry criteria to identify the workers to create absence journals for, and then click **OK**. For more information, see [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 4.  Enter an ending date for the period to create absence journals for. For example, to create six absence journals for a worker whose absence periods are one month long, you can select an ending date that is six months from today’s date.
 

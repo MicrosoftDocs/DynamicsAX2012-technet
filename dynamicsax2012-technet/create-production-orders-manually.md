@@ -2,8 +2,9 @@
 title: Create production orders manually
 TOCTitle: Create production orders manually
 ms:assetid: 16b0d630-522a-4dd7-92c5-d6eb494b3117
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569893(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569893(v=AX.60)
 ms:contentKeyID: 37008244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

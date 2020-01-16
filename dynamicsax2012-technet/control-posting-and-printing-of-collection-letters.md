@@ -2,8 +2,9 @@
 title: Control posting and printing of collection letters
 TOCTitle: Control posting and printing of collection letters
 ms:assetid: 584c6e9d-425d-4ee8-b131-9ad3c49101eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549067(v=AX.60)
 ms:contentKeyID: 36655929
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ If you selected **Posting** in the **Update collection letter code** field, inst
     > <P>If you select this option and you also select <STRONG>All</STRONG> in the <STRONG>Collection letter</STRONG> field in the <STRONG>Creation of collection letter</STRONG> form, a collection letter is printed for each date that the customer has overdue invoices. Each collection letter can include several invoices.</P>
 
     
-    For more information, see the description of the **Update collection letter code** field in [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+    For more information, see the description of the **Update collection letter code** field in [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Specify how collection letters are printed
 
@@ -61,7 +62,7 @@ You can select whether to print separate collection letters for each transaction
     
       - Select any of the other options to print the corresponding collection letter.
     
-    You can set up collection letter codes in the **Collection letter** form. For more information, see [Collection letter (form)](https://technet.microsoft.com/en-us/library/aa620428\(v=ax.60\)).
+    You can set up collection letter codes in the **Collection letter** form. For more information, see [Collection letter (form)](https://technet.microsoft.com/library/aa620428\(v=ax.60\)).
 
 ## See also
 

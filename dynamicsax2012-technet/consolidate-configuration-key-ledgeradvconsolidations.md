@@ -2,8 +2,9 @@
 title: Consolidate configuration key (LedgerAdvConsolidations)
 TOCTitle: Consolidate configuration key (LedgerAdvConsolidations)
 ms:assetid: 55242557-1b04-4e8c-a577-ec27d7fdd58f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416678(v=AX.60)
 ms:contentKeyID: 36931836
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget register entries</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209499(v=ax.60)">Budget registry entries inquiry (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209499(v=ax.60)">Budget registry entries inquiry (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -59,31 +60,31 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Consolidations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596449(v=ax.60)">Consolidations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596449(v=ax.60)">Consolidations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Elimination</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Elimination proposal</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227620(v=ax.60)">Elimination proposal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227620(v=ax.60)">Elimination proposal (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Ledger elimination rule</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209563(v=ax.60)">Ledger elimination rule (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209563(v=ax.60)">Ledger elimination rule (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Ledger elimination rule line</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209511(v=ax.60)">Ledger elimination rule line (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209511(v=ax.60)">Ledger elimination rule line (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Ledger transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599192(v=ax.60)">Ledger transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599192(v=ax.60)">Ledger transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591466(v=ax.60)">Journal voucher - General journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591466(v=ax.60)">Journal voucher - General journal (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +122,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

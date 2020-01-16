@@ -2,8 +2,9 @@
 title: Create a project contract to invoice for progress billings
 TOCTitle: Create a project contract to invoice for progress billings
 ms:assetid: ba3bc52c-c93b-432f-b871-73d10df89674
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242766(v=AX.60)
 ms:contentKeyID: 36059124
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -140,15 +141,15 @@ After you have created the contract and the associated project, use this procedu
 
 [Create billing rules](create-billing-rules.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Billing rules (form)](https://technet.microsoft.com/en-us/library/hh227642\(v=ax.60\))
+[Billing rules (form)](https://technet.microsoft.com/library/hh227642\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 

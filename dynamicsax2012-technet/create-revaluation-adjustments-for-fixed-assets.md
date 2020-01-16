@@ -2,8 +2,9 @@
 title: Create revaluation adjustments for fixed assets
 TOCTitle: Create revaluation adjustments for fixed assets
 ms:assetid: c46be314-bbdf-4391-82af-9eba64f832e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550727(v=AX.60)
 ms:contentKeyID: 36059293
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ Use the **Revaluation groups** form to set up revaluation for a fixed asset.
 
 3.  On the **Factor** tab, click **Add**.
 
-4.  Select a date and enter a factor. The factor and the acquisition price determine the revaluation proposal for the fixed asset. For more information, see [(ESP) Revaluation groups (form)](https://technet.microsoft.com/en-us/library/aa588676\(v=ax.60\)).
+4.  Select a date and enter a factor. The factor and the acquisition price determine the revaluation proposal for the fixed asset. For more information, see [(ESP) Revaluation groups (form)](https://technet.microsoft.com/library/aa588676\(v=ax.60\)).
 
 ## See also
 

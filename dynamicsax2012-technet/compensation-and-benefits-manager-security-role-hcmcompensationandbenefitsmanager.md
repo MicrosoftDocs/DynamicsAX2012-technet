@@ -2,8 +2,9 @@
 title: Compensation and benefits manager security role (HcmCompensationAndBenefitsManager)
 TOCTitle: Compensation and benefits manager security role (HcmCompensationAndBenefitsManager)
 ms:assetid: c2c14c33-3cf9-4e8f-a782-0a795819c80a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527134(v=AX.60)
 ms:contentKeyID: 37823185
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

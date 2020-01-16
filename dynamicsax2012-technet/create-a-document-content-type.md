@@ -2,8 +2,9 @@
 title: Create a document content type
 TOCTitle: Create a document content type
 ms:assetid: 6f1a895d-3b2a-4301-af0f-a949bdcae325
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242642(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242642(v=AX.60)
 ms:contentKeyID: 36058042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,9 +28,9 @@ Document content types are used to describe the contents of unattached documents
 
 ## See also
 
-[Unattached documents (form)](https://technet.microsoft.com/en-us/library/hh227648\(v=ax.60\))
+[Unattached documents (form)](https://technet.microsoft.com/library/hh227648\(v=ax.60\))
 
-[Document content types (form)](https://technet.microsoft.com/en-us/library/hh209674\(v=ax.60\))
+[Document content types (form)](https://technet.microsoft.com/library/hh209674\(v=ax.60\))
 
 [Set up Organization administration workflows](set-up-organization-administration-workflows.md)
 

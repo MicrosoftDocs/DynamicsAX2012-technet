@@ -2,8 +2,9 @@
 title: Create a channel database or an offline database (AX 2012 R3)
 TOCTitle: Create a channel database or an offline database (AX 2012 R3)
 ms:assetid: e12bd6ab-e41f-494e-8b34-98abcee0217a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575256(v=AX.60)
 ms:contentKeyID: 39555421
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

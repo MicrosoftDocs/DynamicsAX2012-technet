@@ -2,8 +2,9 @@
 title: Create a reply to a request for quotation
 TOCTitle: Create a reply to a request for quotation
 ms:assetid: 52ec2199-7177-4bea-92c1-386ee9ccd10f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212791(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212791(v=AX.60)
 ms:contentKeyID: 36057291
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ Use this procedure to manually add a vendor’s reply information to the RFQ rep
 
 3.  In the **Request for quotation reply** form, on the **Action Pane**, on the **Reply** tab, click **Edit**, and then enter the information for the vendor account on the **Purchase quotation header** FastTab. For information about how to enter vendor information, see the “Enter vendor reply information” section later in this topic.
 
-4.  To verify or change charges, such as freight, on the **Action Pane**, on the **Reply** tab, in the **Financials** group, click **Manage charges**. For more information, see [Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\)).
+4.  To verify or change charges, such as freight, on the **Action Pane**, on the **Reply** tab, in the **Financials** group, click **Manage charges**. For more information, see [Charges transactions (form)](https://technet.microsoft.com/library/aa633876\(v=ax.60\)).
 
-5.  To create or update trade agreements for the vendor, on the **Action Pane**, on the **General** tab, in the **Trade agreements** group, click **Create price agreement journal**. For more information, see [Trade agreements (form)](https://technet.microsoft.com/en-us/library/aa499393\(v=ax.60\)).
+5.  To create or update trade agreements for the vendor, on the **Action Pane**, on the **General** tab, in the **Trade agreements** group, click **Create price agreement journal**. For more information, see [Trade agreements (form)](https://technet.microsoft.com/library/aa499393\(v=ax.60\)).
 
 6.  Save the form.
 

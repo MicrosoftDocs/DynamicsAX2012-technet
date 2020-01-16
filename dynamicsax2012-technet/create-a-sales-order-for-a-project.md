@@ -2,8 +2,9 @@
 title: Create a sales order for a project
 TOCTitle: Create a sales order for a project
 ms:assetid: ffe92493-05a2-4519-9401-b66ab7f121a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573458(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573458(v=AX.60)
 ms:contentKeyID: 36966745
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 
 > [!TIP]
-> <P>To add multiple sales order lines at the same time, in the <STRONG>Sales order lines</STRONG> table, click <STRONG>Add lines</STRONG> to open the <STRONG>Create lines</STRONG> form for sales orders. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh328648(v=ax.60)">(PM) Create sales lines (form)</A>.</P>
+> <P>To add multiple sales order lines at the same time, in the <STRONG>Sales order lines</STRONG> table, click <STRONG>Add lines</STRONG> to open the <STRONG>Create lines</STRONG> form for sales orders. For more information, see <A href="https://technet.microsoft.com/library/hh328648(v=ax.60)">(PM) Create sales lines (form)</A>.</P>
 
 
 

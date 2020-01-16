@@ -1,9 +1,10 @@
-﻿---
+---
 title: Customer.FirstNameColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: FirstNameColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.FirstNameColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.customer.firstnamecolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.firstnamecolumn(v=AX.60)
 ms:contentKeyID: 62213128
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

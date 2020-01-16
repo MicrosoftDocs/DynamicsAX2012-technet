@@ -2,8 +2,9 @@
 title: Create a financial dimension set
 TOCTitle: Create a financial dimension set
 ms:assetid: 84d7673d-7023-474d-91fd-9b0de56c85eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571570(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571570(v=AX.60)
 ms:contentKeyID: 37832516
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ When you view or report on financial transactions, the financial dimension sets 
 
 ## See also
 
-[Financial dimension sets (form)](https://technet.microsoft.com/en-us/library/aa597282\(v=ax.60\))
+[Financial dimension sets (form)](https://technet.microsoft.com/library/aa597282\(v=ax.60\))
 
   
 

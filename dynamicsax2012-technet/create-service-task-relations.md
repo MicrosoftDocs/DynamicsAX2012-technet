@@ -2,8 +2,9 @@
 title: Create service task relations
 TOCTitle: Create service task relations
 ms:assetid: 587dc0d0-a7a3-44ed-89c0-efc69cac6811
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549069(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549069(v=AX.60)
 ms:contentKeyID: 36057342
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

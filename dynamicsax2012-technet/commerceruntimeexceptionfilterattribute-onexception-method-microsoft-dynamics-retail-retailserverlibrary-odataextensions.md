@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeExceptionFilterAttribute.OnException Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions)
 TOCTitle: OnException Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CommerceRuntimeExceptionFilterAttribute.OnException(System.Web.Http.Filters.HttpActionExecutedContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceruntimeexceptionfilterattribute.onexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceruntimeexceptionfilterattribute.onexception(v=AX.60)
 ms:contentKeyID: 62202032
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Create or update a category extension request
 TOCTitle: Create or update a category extension request
 ms:assetid: 6e7fda7a-e095-409e-9270-a14b43a79f4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271559(v=AX.60)
 ms:contentKeyID: 36384190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Create a product model
 TOCTitle: Create a product model
 ms:assetid: fd88012a-4cf3-4d43-a420-7d8475750fd2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573438(v=AX.60)
 ms:contentKeyID: 36060110
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -28,7 +29,7 @@ Product models are created in almost the same manner as standard bills of materi
 
 
 > [!NOTE]
-> <P>For more information about using the Product model wizard, see <A href="https://technet.microsoft.com/en-us/library/aa498534(v=ax.60)">Product Model Wizard (form)</A>.</P>
+> <P>For more information about using the Product model wizard, see <A href="https://technet.microsoft.com/library/aa498534(v=ax.60)">Product Model Wizard (form)</A>.</P>
 
 
 
@@ -68,7 +69,7 @@ Product models are created in almost the same manner as standard bills of materi
 
 ## See also
 
-[Product model (form)](https://technet.microsoft.com/en-us/library/aa574919\(v=ax.60\))
+[Product model (form)](https://technet.microsoft.com/library/aa574919\(v=ax.60\))
 
   
 

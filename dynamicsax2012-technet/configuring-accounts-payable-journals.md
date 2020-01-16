@@ -2,8 +2,9 @@
 title: Configuring Accounts payable journals
 TOCTitle: Configuring Accounts payable journals
 ms:assetid: 4fb4f7c4-619b-42ca-81ef-75006981a57a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212764(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212764(v=AX.60)
 ms:contentKeyID: 36057230
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Create sales orders and customer invoices (Retail essentials)
 TOCTitle: Create sales orders and customer invoices (Retail essentials)
 ms:assetid: 59ee8135-b77b-4754-bfdd-a3a95d2cd7d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736883(v=AX.60)
 ms:contentKeyID: 62200361
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ To create a sales order, complete the following steps:
 
 5.  In the **Sales order** form, on the **Sales order lines** FastTab, enter an item number, quantity, and remaining details for the item.
 
-6.  To add products to the sales order, on the **Sales order lines** FastTab, click **Add line**. For more information about the fields in the form, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+6.  To add products to the sales order, on the **Sales order lines** FastTab, click **Add line**. For more information about the fields in the form, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 ## Create an invoice based on a sales order
 

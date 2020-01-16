@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.FillResolve Method (Uri, String , , List()) (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: FillResolve Method (Uri, String , , List())
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillResolve(System.Uri,System.String[],Microsoft.SharePoint.Administration.Claims.SPClaim,System.Collections.Generic.List{Microsoft.SharePoint.WebControls.PickerEntity})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillresolve(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillresolve(v=AX.60)
 ms:contentKeyID: 62207190
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -61,12 +62,12 @@ virtual void FillResolve(
 #### Parameters
 
   - context  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 <!-- end list -->
 
   - entityTypes  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\[\]  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
@@ -76,7 +77,7 @@ virtual void FillResolve(
 <!-- end list -->
 
   - resolved  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<PickerEntity\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<PickerEntity\>  
 
 ## Exceptions
 
@@ -93,7 +94,7 @@ virtual void FillResolve(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
+<td><a href="https://technet.microsoft.com/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
 <td><p></p></td>
 </tr>
 </tbody>

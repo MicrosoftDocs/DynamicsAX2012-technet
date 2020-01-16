@@ -2,8 +2,9 @@
 title: Create a cost journal
 TOCTitle: Create a cost journal
 ms:assetid: 580e1fb6-30ff-494b-a799-61db6102c9c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549066(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549066(v=AX.60)
 ms:contentKeyID: 36057339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
