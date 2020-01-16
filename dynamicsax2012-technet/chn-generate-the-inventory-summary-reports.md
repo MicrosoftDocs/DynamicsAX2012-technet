@@ -2,8 +2,9 @@
 title: (CHN) Generate the inventory summary reports
 TOCTitle: (CHN) Generate the inventory summary reports
 ms:assetid: 581800a9-5544-4041-8974-7021d4b38a63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664041(v=AX.60)
 ms:contentKeyID: 49384625
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -93,9 +94,9 @@ Use the **Inventory in/out status** form to generate an **Inventory in/out statu
 
 ## See also
 
-[(CHN) Inventory status (form)](https://technet.microsoft.com/en-us/library/jj664055\(v=ax.60\))
+[(CHN) Inventory status (form)](https://technet.microsoft.com/library/jj664055\(v=ax.60\))
 
-[(CHN) Inventory in/out status (form)](https://technet.microsoft.com/en-us/library/jj664092\(v=ax.60\))
+[(CHN) Inventory in/out status (form)](https://technet.microsoft.com/library/jj664092\(v=ax.60\))
 
   
 

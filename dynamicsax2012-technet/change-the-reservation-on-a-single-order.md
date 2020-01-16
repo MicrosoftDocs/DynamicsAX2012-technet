@@ -2,8 +2,9 @@
 title: Change the reservation on a single order
 TOCTitle: Change the reservation on a single order
 ms:assetid: 83629914-bf07-4d2f-bef2-c66d766ab7f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571561(v=AX.60)
 ms:contentKeyID: 37832515
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

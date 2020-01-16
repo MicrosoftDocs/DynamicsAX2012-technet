@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceEntitySearchResult(T) Properties (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CommerceEntitySearchResult(T) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntitySearchResult`1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn717736(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn717736(v=AX.60)
 ms:contentKeyID: 62209827
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

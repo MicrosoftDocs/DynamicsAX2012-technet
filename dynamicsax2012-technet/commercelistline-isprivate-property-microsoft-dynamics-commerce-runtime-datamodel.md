@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceListLine.IsPrivate Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsPrivate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceListLine.IsPrivate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercelistline.isprivate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercelistline.isprivate(v=AX.60)
 ms:contentKeyID: 62212755
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property bool IsPrivate {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 ## See Also
 

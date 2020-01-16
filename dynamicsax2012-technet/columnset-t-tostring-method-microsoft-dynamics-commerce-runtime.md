@@ -1,9 +1,10 @@
-﻿---
+---
 title: ColumnSet(T).ToString Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ToString Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.ToString
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn694689(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn694689(v=AX.60)
 ms:contentKeyID: 62205100
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # ToString Method
 
-Returns a [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) that represents this instance.
+Returns a [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) that represents this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -44,8 +45,8 @@ virtual String^ ToString() override
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-A [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)) that represents this instance.  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+A [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) that represents this instance.  
 
 ## See Also
 

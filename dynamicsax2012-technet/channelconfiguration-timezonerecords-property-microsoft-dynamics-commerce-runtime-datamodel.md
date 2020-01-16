@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelConfiguration.TimeZoneRecords Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TimeZoneRecords Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelConfiguration.TimeZoneRecords
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.channelconfiguration.timezonerecords(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.channelconfiguration.timezonerecords(v=AX.60)
 ms:contentKeyID: 65321543
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property List<TimeZoneInterval^>^ TimeZoneRecords {
 
 #### Property Value
 
-Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

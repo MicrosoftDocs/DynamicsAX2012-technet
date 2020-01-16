@@ -2,8 +2,9 @@
 title: (CHN) Payable statistics (report)
 TOCTitle: (CHN) Payable statistics (report)
 ms:assetid: b13fd54a-2854-450c-9a73-6a3891113c5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ944979(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ944979(v=AX.60)
 ms:contentKeyID: 51412479
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

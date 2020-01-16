@@ -2,8 +2,9 @@
 title: Category cash flow report (ProjCashFlowCategory)
 TOCTitle: Category cash flow report (ProjCashFlowCategory)
 ms:assetid: 5e95ba1f-f8bc-4f2c-8148-c260a0b9e94f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433495(v=AX.60)
 ms:contentKeyID: 36941261
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

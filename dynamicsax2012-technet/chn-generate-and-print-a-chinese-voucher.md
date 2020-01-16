@@ -2,8 +2,9 @@
 title: (CHN) Generate and print a Chinese voucher
 TOCTitle: (CHN) Generate and print a Chinese voucher
 ms:assetid: 1ea04af5-e801-4a92-a56a-6451a2f6fc10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664006(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664006(v=AX.60)
 ms:contentKeyID: 49384590
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ Use the **Journal voucher** form to generate and print Chinese vouchers. You can
 
 ## Print a Chinese voucher
 
-Use the **Ledger voucher** form to print Chinese vouchers. Before you print the transaction vouchers, you can run a continuity check to confirm that the vouchers are sequentially numbered, and that there are no gaps in the fiscal period. For more information, see [(CHN) Voucher continuity check log (form)](https://technet.microsoft.com/en-us/library/jj664113\(v=ax.60\)). The printed voucher displays the transaction details, tax information, and the history of renumbered Chinese vouchers, if any.
+Use the **Ledger voucher** form to print Chinese vouchers. Before you print the transaction vouchers, you can run a continuity check to confirm that the vouchers are sequentially numbered, and that there are no gaps in the fiscal period. For more information, see [(CHN) Voucher continuity check log (form)](https://technet.microsoft.com/library/jj664113\(v=ax.60\)). The printed voucher displays the transaction details, tax information, and the history of renumbered Chinese vouchers, if any.
 
 1.  Click **General ledger** \> **Journals** \> **General journal**. Select a general journal, and then click **Lines**. Click **Print** \> **Voucher**. 
     
@@ -114,9 +115,9 @@ You can configure Microsoft Dynamics AX to automatically batch print Chinese vou
 
 6.  Click **Recurrence** to open the **Recurrence** form.
 
-7.  Specify how often the report is printed, and then click **OK**. For more information, see [Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\)).
+7.  Specify how often the report is printed, and then click **OK**. For more information, see [Recurrence (form)](https://technet.microsoft.com/library/aa616143\(v=ax.60\)).
 
-8.  Click **Alerts** to open the **Set up alerts for batch jobs** form. For more information, see [Set up alert for batch job (form)](https://technet.microsoft.com/en-us/library/hh209082\(v=ax.60\)).
+8.  Click **Alerts** to open the **Set up alerts for batch jobs** form. For more information, see [Set up alert for batch job (form)](https://technet.microsoft.com/library/hh209082\(v=ax.60\)).
 
 9.  Specify how and when you receive alerts for the batch job, and then click **OK**.
 
@@ -124,7 +125,7 @@ You can configure Microsoft Dynamics AX to automatically batch print Chinese vou
 
 ## See also
 
-[(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
+[(CHN) Print layout (form)](https://technet.microsoft.com/library/jj664037\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (CHN) Inventory aging report
 TOCTitle: (CHN) Inventory aging report
 ms:assetid: 78156e1e-083a-49b2-bf32-afa9fc42314b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169462(v=AX.60)
 ms:contentKeyID: 53865952
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

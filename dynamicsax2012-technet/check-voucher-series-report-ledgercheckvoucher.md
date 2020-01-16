@@ -2,8 +2,9 @@
 title: Check voucher series report (LedgerCheckVoucher)
 TOCTitle: Check voucher series report (LedgerCheckVoucher)
 ms:assetid: 1d96abf8-5035-400b-be7f-3b073fc14fc6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527767(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527767(v=AX.60)
 ms:contentKeyID: 37831981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

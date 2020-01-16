@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChargeLine.Clone(TClone) Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Clone(TClone) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLine.Clone``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967348(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967348(v=AX.60)
 ms:contentKeyID: 65318713
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

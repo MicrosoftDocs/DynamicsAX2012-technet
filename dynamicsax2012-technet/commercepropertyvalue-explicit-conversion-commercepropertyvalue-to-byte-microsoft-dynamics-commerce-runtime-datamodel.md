@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommercePropertyValue Explicit Conversion (CommercePropertyValue to Byte) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Explicit Conversion (CommercePropertyValue to Byte)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Explicit(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue)~System.Byte
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_explicit(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_explicit(v=AX.60)
 ms:contentKeyID: 62203271
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -52,7 +53,7 @@ static explicit operator unsigned char (
 
 #### Return Value
 
-Type: [System.Byte](https://technet.microsoft.com/en-us/library/yyb1w04y\(v=ax.60\))  
+Type: [System.Byte](https://technet.microsoft.com/library/yyb1w04y\(v=ax.60\))  
 The byte value.  
 
 ## See Also

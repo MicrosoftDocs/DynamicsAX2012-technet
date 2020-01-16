@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceController(TEntity, TKey).Unauthorized Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Unauthorized Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.Unauthorized
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737096(v=AX.60)
 ms:contentKeyID: 62201804
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

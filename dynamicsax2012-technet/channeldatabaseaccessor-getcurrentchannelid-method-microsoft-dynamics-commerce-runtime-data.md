@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelDatabaseAccessor.GetCurrentChannelId Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetCurrentChannelId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDatabaseAccessor.GetCurrentChannelId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getcurrentchannelid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getcurrentchannelid(v=AX.60)
 ms:contentKeyID: 62202816
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ virtual long long GetCurrentChannelId() sealed
 
 #### Return Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The identifier of the current channel, or 0 if no channel is configured.  
 
 #### Implements

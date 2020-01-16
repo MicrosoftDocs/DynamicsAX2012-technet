@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChangePassword Constructor  (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls)
 TOCTitle: ChangePassword Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ChangePassword.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.changepassword.changepassword(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.changepassword.changepassword(v=AX.60)
 ms:contentKeyID: 62204501
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (CHN) Generate a user operation log for transactions and voucher changes
 TOCTitle: (CHN) Generate a user operation log for transactions and voucher changes
 ms:assetid: adc4b036-601e-4434-9000-563f934b5471
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn864770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn864770(v=AX.60)
 ms:contentKeyID: 63400917
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

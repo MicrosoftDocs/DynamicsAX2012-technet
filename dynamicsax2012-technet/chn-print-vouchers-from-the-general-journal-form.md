@@ -2,8 +2,9 @@
 title: (CHN) Print vouchers from the General journal form
 TOCTitle: (CHN) Print vouchers from the General journal form
 ms:assetid: 669bf52c-474b-47cb-8e6e-11db1e4a18bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664053(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664053(v=AX.60)
 ms:contentKeyID: 49384636
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\))
+[(CHN) Print layout (form)](https://technet.microsoft.com/library/jj664037\(v=ax.60\))
 
   
 

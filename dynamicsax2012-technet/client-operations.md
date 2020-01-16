@@ -2,8 +2,9 @@
 title: Client operations
 TOCTitle: Client operations
 ms:assetid: 7c502824-aec8-4f9e-91db-cc9d46f33194
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731840(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731840(v=AX.60)
 ms:contentKeyID: 35132692
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

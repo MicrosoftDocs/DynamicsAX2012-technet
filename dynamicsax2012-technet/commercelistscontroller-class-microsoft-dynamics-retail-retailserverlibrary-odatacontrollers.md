@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceListsController Class (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: CommerceListsController Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceListsController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.commercelistscontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.commercelistscontroller(v=AX.60)
 ms:contentKeyID: 62202821
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,11 +45,11 @@ public ref class CommerceListsController : public CommerceController<CommerceLis
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   ApiController  
     ODataController  
-      EntitySetController\<CommerceList, [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
-        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<CommerceList, [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+      EntitySetController\<CommerceList, [Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
+        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<CommerceList, [Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
           Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceListsController  
 
 ## Thread Safety

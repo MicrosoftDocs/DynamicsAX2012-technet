@@ -2,8 +2,9 @@
 title: (CHN) Customer aging (report)
 TOCTitle: (CHN) Customer aging (report)
 ms:assetid: e421c79c-3a21-4449-b4a1-c53a6c490ecb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945396(v=AX.60)
 ms:contentKeyID: 51442787
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

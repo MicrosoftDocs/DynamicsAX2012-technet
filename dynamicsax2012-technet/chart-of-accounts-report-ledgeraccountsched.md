@@ -2,8 +2,9 @@
 title: Chart of accounts report (LedgerAccountSched)
 TOCTitle: Chart of accounts report (LedgerAccountSched)
 ms:assetid: 3255207a-3086-4160-a988-adbf2b5082ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa553128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa553128(v=AX.60)
 ms:contentKeyID: 36931896
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

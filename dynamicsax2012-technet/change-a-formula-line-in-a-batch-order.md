@@ -2,8 +2,9 @@
 title: Change a formula line in a batch order
 TOCTitle: Change a formula line in a batch order
 ms:assetid: 3121011b-089c-408f-b86f-ab7815ce7539
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352195(v=AX.60)
 ms:contentKeyID: 36687828
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,9 +30,9 @@ Use this procedure to make changes to a formula line in a batch order.
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Formula lines-batch (form)](https://technet.microsoft.com/en-us/library/hh328711\(v=ax.60\))
+[Formula lines-batch (form)](https://technet.microsoft.com/library/hh328711\(v=ax.60\))
 
   
 

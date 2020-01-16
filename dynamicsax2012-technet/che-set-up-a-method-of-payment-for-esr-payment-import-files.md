@@ -2,8 +2,9 @@
 title: (CHE) Set up a method of payment for ESR payment import files
 TOCTitle: (CHE) Set up a method of payment for ESR payment import files
 ms:assetid: 3f5db37c-6d60-4b17-ae27-10db89a4f8ce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231173(v=AX.60)
 ms:contentKeyID: 36056705
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

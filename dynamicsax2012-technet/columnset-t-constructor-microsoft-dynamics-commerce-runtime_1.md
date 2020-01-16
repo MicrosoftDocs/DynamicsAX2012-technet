@@ -1,9 +1,10 @@
-﻿---
+---
 title: ColumnSet(T) Constructor  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ColumnSet(T) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn697863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn697863(v=AX.60)
 ms:contentKeyID: 62210502
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

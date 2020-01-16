@@ -2,8 +2,9 @@
 title: Change an item in formulas
 TOCTitle: Change an item in formulas
 ms:assetid: 2de8ed70-6aad-4441-91c7-a115e2a3328d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352193(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352193(v=AX.60)
 ms:contentKeyID: 36687826
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,7 +81,7 @@ The item that you add as a replacement can replace:
 
 ## See also
 
-[Change formula item (form)](https://technet.microsoft.com/en-us/library/hh209311\(v=ax.60\))
+[Change formula item (form)](https://technet.microsoft.com/library/hh209311\(v=ax.60\))
 
   
 

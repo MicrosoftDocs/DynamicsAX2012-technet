@@ -2,8 +2,9 @@
 title: Close the general ledger at month end
 TOCTitle: Close the general ledger at month end
 ms:assetid: 7fa71a7e-5538-45bd-901e-bdb3f8680613
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571542(v=AX.60)
 ms:contentKeyID: 36058329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,9 +34,9 @@ Use the following information to complete monthly closing procedures for General
 
 5.  Use the **Process allocation request** form to process allocation rules. For more information, see [Process an allocation request](process-an-allocation-request.md).
 
-6.  Use the **Journal** form to enter and post any manual period-end adjustments. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+6.  Use the **Journal** form to enter and post any manual period-end adjustments. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
-7.  Journalize transactions monthly in the **Journalize transactions** form and view the **Ledger journal** report to verify the information. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+7.  Journalize transactions monthly in the **Journalize transactions** form and view the **Ledger journal** report to verify the information. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 8.  In the legal entity that is set up for consolidation, consolidate and verify the changes in the **Consolidations** form. For more information, see [Consolidate transactions](consolidate-transactions.md).
 
@@ -55,7 +56,7 @@ You can also complete the following procedures, and might legally be required to
 
 [Close periods in the general ledger](close-periods-in-the-general-ledger.md)
 
-[Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
+[Ledger calendar (form)](https://technet.microsoft.com/library/hh242506\(v=ax.60\))
 
   
 

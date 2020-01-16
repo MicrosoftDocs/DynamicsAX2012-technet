@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceController(TEntity, TKey).Get Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Get Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.Get
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737903(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737903(v=AX.60)
 ms:contentKeyID: 62202857
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

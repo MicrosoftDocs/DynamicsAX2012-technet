@@ -2,8 +2,9 @@
 title: (CHN) Validate the closing or stopping of a fiscal period
 TOCTitle: (CHN) Validate the closing or stopping of a fiscal period
 ms:assetid: be9959cf-7804-4349-b7be-264c08df7743
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664105(v=AX.60)
 ms:contentKeyID: 49384691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,9 +74,9 @@ Only a stopped fiscal period can be opened. You cannot reopen a fiscal period th
 
 ## See also
 
-[(CHN) Ledger calendar (modified form)](https://technet.microsoft.com/en-us/library/jj664094\(v=ax.60\))
+[(CHN) Ledger calendar (modified form)](https://technet.microsoft.com/library/jj664094\(v=ax.60\))
 
-[(CHN) Validation checklist (form)](https://technet.microsoft.com/en-us/library/jj664060\(v=ax.60\))
+[(CHN) Validation checklist (form)](https://technet.microsoft.com/library/jj664060\(v=ax.60\))
 
 [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md)
 

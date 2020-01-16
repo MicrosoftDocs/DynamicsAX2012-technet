@@ -2,8 +2,9 @@
 title: Category forecast transactions report (ProjListBudget)
 TOCTitle: Category forecast transactions report (ProjListBudget)
 ms:assetid: 976d3ebb-b96a-4b8e-bc24-a5d7546d3c2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220732(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220732(v=AX.60)
 ms:contentKeyID: 36966707
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

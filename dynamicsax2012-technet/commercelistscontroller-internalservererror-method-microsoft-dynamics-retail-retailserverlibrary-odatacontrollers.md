@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceListsController.InternalServerError Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: InternalServerError Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceListsController.InternalServerError
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.commercelistscontroller.internalservererror(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.commercelistscontroller.internalservererror(v=AX.60)
 ms:contentKeyID: 62203105
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

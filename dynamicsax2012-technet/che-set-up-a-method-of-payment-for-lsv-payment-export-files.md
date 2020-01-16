@@ -2,8 +2,9 @@
 title: (CHE) Set up a method of payment for LSV+ payment export files
 TOCTitle: (CHE) Set up a method of payment for LSV+ payment export files
 ms:assetid: f99ae6ab-36ec-4cd2-b727-9194d18c4e2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243300(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243300(v=AX.60)
 ms:contentKeyID: 36060060
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

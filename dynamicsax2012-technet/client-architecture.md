@@ -2,8 +2,9 @@
 title: Client architecture
 TOCTitle: Client architecture
 ms:assetid: 11025338-70dd-4bba-8c13-37c58779f1c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309595(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309595(v=AX.60)
 ms:contentKeyID: 35132550
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

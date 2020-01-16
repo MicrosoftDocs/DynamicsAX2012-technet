@@ -2,8 +2,9 @@
 title: 'Checklist: Deploy Enterprise Portal changes to a different server'
 TOCTitle: 'Checklist: Deploy Enterprise Portal changes to a different server'
 ms:assetid: f107320f-e45b-4514-9e1e-c08f569b719b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352329(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352329(v=AX.60)
 ms:contentKeyID: 36687959
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -43,7 +44,7 @@ The following checklist can help you deploy changes from one Enterprise Portal s
 </tr>
 <tr class="even">
 <td><p>Right-click the AOT project and then click <strong>Deploy to EP</strong>. Or, use the AxUpdatePortal.exe utility to update the web-related items from the AOT.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/dd261467(v=ax.60)">AxUpdatePortal Utility</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/dd261467(v=ax.60)">AxUpdatePortal Utility</a></p></td>
 </tr>
 </tbody>
 </table>

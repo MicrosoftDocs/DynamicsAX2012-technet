@@ -2,8 +2,9 @@
 title: (CHN) Set up a Chinese voucher system
 TOCTitle: (CHN) Set up a Chinese voucher system
 ms:assetid: ef5dec31-b525-4155-83b3-c684265d8659
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664138(v=AX.60)
 ms:contentKeyID: 49384720
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ You can enter transactions using the **Simple** or **Advanced** method in the **
 
 ## See also
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
-[(CHN) Number sequences (modified form)](https://technet.microsoft.com/en-us/library/jj664047\(v=ax.60\))
+[(CHN) Number sequences (modified form)](https://technet.microsoft.com/library/jj664047\(v=ax.60\))
 
 [(CHN) Run a batch job to check the continuity of voucher numbers](chn-run-a-batch-job-to-check-the-continuity-of-voucher-numbers.md)
 

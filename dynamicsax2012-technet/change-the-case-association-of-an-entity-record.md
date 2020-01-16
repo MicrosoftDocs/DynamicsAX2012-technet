@@ -2,8 +2,9 @@
 title: Change the case association of an entity record
 TOCTitle: Change the case association of an entity record
 ms:assetid: d141494d-f7fe-46de-8281-5cc58f266c78
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242921(v=AX.60)
 ms:contentKeyID: 36059493
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Follow these steps to disassociate an entity record, such as an expense report o
 
 ## See also
 
-[Change case association (form)](https://technet.microsoft.com/en-us/library/hh209675\(v=ax.60\))
+[Change case association (form)](https://technet.microsoft.com/library/hh209675\(v=ax.60\))
 
 [Case management](case-management.md)
 

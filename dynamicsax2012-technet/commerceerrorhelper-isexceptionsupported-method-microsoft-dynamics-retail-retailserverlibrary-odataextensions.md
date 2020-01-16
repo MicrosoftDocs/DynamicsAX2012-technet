@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceErrorHelper.IsExceptionSupported Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions)
 TOCTitle: IsExceptionSupported Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CommerceErrorHelper.IsExceptionSupported(System.Exception,System.Net.Http.HttpRequestMessage)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceerrorhelper.isexceptionsupported(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.commerceerrorhelper.isexceptionsupported(v=AX.60)
 ms:contentKeyID: 62202662
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ virtual bool IsExceptionSupported(
 #### Parameters
 
   - exception  
-    Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
+    Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -65,7 +66,7 @@ virtual bool IsExceptionSupported(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Whether the exception is supported or not.  
 
 ## See Also

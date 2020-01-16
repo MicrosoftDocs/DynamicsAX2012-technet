@@ -2,8 +2,9 @@
 title: (CHN) Create a voucher type
 TOCTitle: (CHN) Create a voucher type
 ms:assetid: e0750f01-5b9c-4c61-bac7-f6afb08be9f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664122(v=AX.60)
 ms:contentKeyID: 49384704
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Voucher type setup** form to set up voucher types. You can set up rule
 
 8.  On the **General** tab, in the **Number sequence code** field, select the default number sequence for the voucher type.
 
-9.  In the **Print layout group** field, select the default print layout group that is used for the voucher type when the voucher is printed by using the **General journal** form. You can set up print layout groups in the **Print layout** form. For more information, see [(CHN) Print layout (form)](https://technet.microsoft.com/en-us/library/jj664037\(v=ax.60\)).
+9.  In the **Print layout group** field, select the default print layout group that is used for the voucher type when the voucher is printed by using the **General journal** form. You can set up print layout groups in the **Print layout** form. For more information, see [(CHN) Print layout (form)](https://technet.microsoft.com/library/jj664037\(v=ax.60\)).
 
 10. In the **Name** field, select the name of the default journal.
 
@@ -63,9 +64,9 @@ Use the **Voucher type setup** form to set up voucher types. You can set up rule
 
 ## See also
 
-[(CHN) Voucher type setup (form)](https://technet.microsoft.com/en-us/library/jj664036\(v=ax.60\))
+[(CHN) Voucher type setup (form)](https://technet.microsoft.com/library/jj664036\(v=ax.60\))
 
-[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664137\(v=ax.60\))
+[(CHN) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj664137\(v=ax.60\))
 
   
 

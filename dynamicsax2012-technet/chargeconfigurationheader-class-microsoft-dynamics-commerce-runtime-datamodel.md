@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChargeConfigurationHeader Class (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ChargeConfigurationHeader Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeConfigurationHeader
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.chargeconfigurationheader(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.chargeconfigurationheader(v=AX.60)
 ms:contentKeyID: 49832328
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ This is not an entity which is retrieved from the database.
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeConfigurationHeader  
 
 ## Thread Safety

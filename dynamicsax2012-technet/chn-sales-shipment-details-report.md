@@ -2,8 +2,9 @@
 title: (CHN) Sales shipment details (report)
 TOCTitle: (CHN) Sales shipment details (report)
 ms:assetid: cc763fb3-0dce-42db-abca-7242bb9d9139
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169467(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169467(v=AX.60)
 ms:contentKeyID: 53865956
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

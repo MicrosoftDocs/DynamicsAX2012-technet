@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceListManager.Create Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: Create Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager.Create(Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.commercelistmanager.create(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.commercelistmanager.create(v=AX.60)
 ms:contentKeyID: 62212457
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

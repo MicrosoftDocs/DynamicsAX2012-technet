@@ -1,9 +1,10 @@
-﻿---
+---
 title: ChannelManager.GetChannelCategoryHierarchy Method (Int64, QueryResultSettings) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetChannelCategoryHierarchy Method (Int64, QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.GetChannelCategoryHierarchy(System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getchannelcategoryhierarchy(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getchannelcategoryhierarchy(v=AX.60)
 ms:contentKeyID: 65319034
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,7 +54,7 @@ PagedResult<Category^>^ GetChannelCategoryHierarchy(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
