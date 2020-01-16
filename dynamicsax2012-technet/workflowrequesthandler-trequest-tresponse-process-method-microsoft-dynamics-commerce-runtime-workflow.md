@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowRequestHandler(TRequest, TResponse).Process Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: Process Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler`2.Process
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn990321(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn990321(v=AX.60)
 ms:contentKeyID: 65321263
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

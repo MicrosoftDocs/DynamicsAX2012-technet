@@ -2,8 +2,9 @@
 title: Working with FMLA
 TOCTitle: Working with FMLA
 ms:assetid: 6fe117b9-e2f3-4917-8caa-ba6664d38f06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876707(v=AX.60)
 ms:contentKeyID: 63385349
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -95,7 +96,7 @@ FMLA uses cases to track eligibility and hours taken. If you are not familiar wi
 
 
 > [!NOTE]
-> <P>Before you create an FMLA case, create the employment leave, if you haven’t already done so. This is required for all leaves of absence, regardless of whether the leave qualifies for FMLA. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa588994(v=ax.60)">Leave (form)</A>.</P>
+> <P>Before you create an FMLA case, create the employment leave, if you haven’t already done so. This is required for all leaves of absence, regardless of whether the leave qualifies for FMLA. For more information, see <A href="https://technet.microsoft.com/library/aa588994(v=ax.60)">Leave (form)</A>.</P>
 
 
 

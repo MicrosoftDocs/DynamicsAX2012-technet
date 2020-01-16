@@ -2,8 +2,9 @@
 title: Working with customer service options
 TOCTitle: Working with customer service options
 ms:assetid: 7bb53d4d-a6f6-494e-93f1-8e3c9b0da397
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497792(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497792(v=AX.60)
 ms:contentKeyID: 62200103
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

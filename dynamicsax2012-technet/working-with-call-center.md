@@ -2,8 +2,9 @@
 title: Working with Call center
 TOCTitle: Working with Call center
 ms:assetid: 5b02bda6-b609-4685-963f-bed33fdee846
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497757(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497757(v=AX.60)
 ms:contentKeyID: 62200074
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

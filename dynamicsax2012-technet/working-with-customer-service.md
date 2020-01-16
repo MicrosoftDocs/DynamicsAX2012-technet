@@ -2,8 +2,9 @@
 title: Working with customer service
 TOCTitle: Working with customer service
 ms:assetid: ad4a4ad5-7661-4856-96d5-830218ea8e5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243098(v=AX.60)
 ms:contentKeyID: 36058926
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

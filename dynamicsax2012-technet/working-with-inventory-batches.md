@@ -2,8 +2,9 @@
 title: Working with inventory batches
 TOCTitle: Working with inventory batches
 ms:assetid: e7da5b79-5b2d-46d2-94f6-adf74c1904dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227465(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227465(v=AX.60)
 ms:contentKeyID: 36059823
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

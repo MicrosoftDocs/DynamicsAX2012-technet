@@ -2,8 +2,9 @@
 title: Working with vendor invoices
 TOCTitle: Working with vendor invoices
 ms:assetid: 18c75932-3e5e-4f9f-b2b6-57c2d5c751af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271460(v=AX.60)
 ms:contentKeyID: 36384092
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

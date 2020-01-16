@@ -2,8 +2,9 @@
 title: Working with lot inheritance
 TOCTitle: Working with lot inheritance
 ms:assetid: 36505c07-b9b0-458f-9519-7f7bf3027242
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838729(v=AX.60)
 ms:contentKeyID: 50120612
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

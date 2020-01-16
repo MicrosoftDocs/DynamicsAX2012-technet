@@ -2,8 +2,9 @@
 title: Working with basic budgeting and budget control
 TOCTitle: Working with basic budgeting and budget control
 ms:assetid: e6314f58-47e6-41b0-a674-53a9f0b02ee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227456(v=AX.60)
 ms:contentKeyID: 36059800
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

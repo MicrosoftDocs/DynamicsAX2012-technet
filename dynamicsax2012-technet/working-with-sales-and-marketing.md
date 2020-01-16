@@ -2,8 +2,9 @@
 title: Working with Sales and marketing
 TOCTitle: Working with Sales and marketing
 ms:assetid: 22bcf5d8-675d-4caa-8ad3-57d63cd37a05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230989(v=AX.60)
 ms:contentKeyID: 36056175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

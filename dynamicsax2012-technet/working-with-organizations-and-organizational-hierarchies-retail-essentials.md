@@ -2,8 +2,9 @@
 title: Working with organizations and organizational hierarchies (Retail essentials)
 TOCTitle: Working with organizations and organizational hierarchies (Retail essentials)
 ms:assetid: 06da61a1-8155-4e70-a475-bd441b2c9ac9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716038(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716038(v=AX.60)
 ms:contentKeyID: 62200305
+author: Khairunj
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---

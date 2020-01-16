@@ -1,9 +1,10 @@
-﻿---
+---
 title: WrongEndpointException Constructor (Uri) (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: WrongEndpointException Constructor (Uri)
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.WrongEndpointException.#ctor(System.Uri)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.wrongendpointexception.wrongendpointexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.wrongendpointexception.wrongendpointexception(v=AX.60)
 ms:contentKeyID: 62202870
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ WrongEndpointException(
 #### Parameters
 
   - redirectUri  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 ## See Also
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowRequestHandler(TRequest, TResponse).SupportedRequestTypes Property  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: SupportedRequestTypes Property
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler`2.SupportedRequestTypes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989443(v=AX.60)
 ms:contentKeyID: 65319396
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
