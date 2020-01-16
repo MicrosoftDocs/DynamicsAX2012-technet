@@ -1,6 +1,6 @@
 ---
-title: Code Upgrade Tool User Guide
-TOCTitle: Code Upgrade Tool User Guide
+title: Code Upgrade Service user guide
+TOCTitle: Code Upgrade Service user guide
 ms:assetid: 37b53a7b-0c30-4e25-be4d-1ffb109b6edf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh535215(v=AX.60)
 ms:contentKeyID: 39092156
@@ -9,12 +9,13 @@ ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---
 
-# Code Upgrade Tool User Guide 
+# Code Upgrade Service user guide
 
+[!include [banner](../../includes/banner.md)]
 
-_**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
+The Code Upgrade Service has been deprecated. Use the Upgrade analysis tool. For more information, see [Upgrade analysis in Lifecycle Services (LCS)](upgrade-analysis-lcs.md).
 
-This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/code-upgrade-tool-user-guide/) in the Dynamics AX Help wiki.
+[Go to Lifecycle Services](https://lcs.dynamics.com).
 
   
 
