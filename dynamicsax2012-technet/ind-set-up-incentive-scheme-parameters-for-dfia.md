@@ -2,8 +2,9 @@
 title: (IND) Set up incentive scheme parameters for DFIA
 TOCTitle: (IND) Set up incentive scheme parameters for DFIA
 ms:assetid: bc860ea5-b4d5-446d-bc38-ebfce6d1ccd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664847(v=AX.60)
 ms:contentKeyID: 49386177
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,17 +68,17 @@ Before you can use the Duty Free Import Authorization (DFIA) incentive scheme, y
 
 [(IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme](ind-about-the-exim-duty-free-import-authorization-dfia-incentive-scheme.md)
 
-[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
+[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/library/jj677946\(v=ax.60\))
 
 [(IND) Create incentive scheme groups](ind-create-incentive-scheme-groups.md)
 
 [(IND) Set up tax codes for incentive scheme groups](ind-set-up-tax-codes-for-incentive-scheme-groups.md)
 
-[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/en-us/library/jj664715\(v=ax.60\))
+[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/library/jj664715\(v=ax.60\))
 
 [(IND) Create incentive scheme groups](ind-create-incentive-scheme-groups.md)
 
-[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/en-us/library/jj664715\(v=ax.60\))
+[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/library/jj664715\(v=ax.60\))
 
 [(IND) Set up tax ledger posting groups for DFIA](ind-set-up-tax-ledger-posting-groups-for-dfia.md)
 

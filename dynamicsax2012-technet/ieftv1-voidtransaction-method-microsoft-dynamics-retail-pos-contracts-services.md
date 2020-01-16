@@ -1,9 +1,10 @@
-﻿---
+---
 title: IEFTV1.VoidTransaction Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: VoidTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IEFTV1.VoidTransaction(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IEFTInfo@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ieftv1.voidtransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ieftv1.voidtransaction(v=AX.60)
 ms:contentKeyID: 47343908
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ bool VoidTransaction(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if the processing succeeded otherwise, false.  
 
 ## See Also

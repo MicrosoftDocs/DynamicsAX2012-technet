@@ -2,8 +2,9 @@
 title: (IND) Create a vendor invoice with VAT details
 TOCTitle: (IND) Create a vendor invoice with VAT details
 ms:assetid: b8590d24-961b-4549-b927-96b2b65fac17
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664810(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664810(v=AX.60)
 ms:contentKeyID: 49386140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You must record an invoice that you received from a vendor in the **Vendor invoi
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</A> in the Applications and Business Processes Help.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</A> in the Applications and Business Processes Help.</P>
 
 
 
@@ -61,7 +62,7 @@ You must record an invoice that you received from a vendor in the **Vendor invoi
 
 ## See also
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
 [(IND) Define TINs for vendors](ind-define-tins-for-vendors.md)
 

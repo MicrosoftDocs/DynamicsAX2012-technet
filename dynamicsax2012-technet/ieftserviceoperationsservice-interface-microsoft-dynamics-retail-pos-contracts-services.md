@@ -1,9 +1,10 @@
-﻿---
+---
 title: IEFTServiceOperationsService Interface (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IEFTServiceOperationsService Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IEFTServiceOperationsService
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ieftserviceoperationsservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ieftserviceoperationsservice(v=AX.60)
 ms:contentKeyID: 62205776
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

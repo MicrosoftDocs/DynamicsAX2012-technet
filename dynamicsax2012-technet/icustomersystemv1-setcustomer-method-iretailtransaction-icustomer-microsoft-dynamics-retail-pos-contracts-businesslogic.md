@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerSystemV1.SetCustomer Method (IRetailTransaction, ICustomer) (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: SetCustomer Method (IRetailTransaction, ICustomer)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ICustomerSystemV1.SetCustomer(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomer)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv1.setcustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv1.setcustomer(v=AX.60)
 ms:contentKeyID: 47128969
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

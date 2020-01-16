@@ -1,9 +1,10 @@
-﻿---
+---
 title: ILogOnV1.VerifyOperationAccess Method (IPosTransaction, PosisOperations) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: VerifyOperationAccess Method (IPosTransaction, PosisOperations)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILogOnV1.VerifyOperationAccess(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.PosisOperations)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ilogonv1.verifyoperationaccess(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ilogonv1.verifyoperationaccess(v=AX.60)
 ms:contentKeyID: 49851139
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -63,7 +64,7 @@ bool VerifyOperationAccess(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if operator has access, false other wise.  
 
 ## Remarks

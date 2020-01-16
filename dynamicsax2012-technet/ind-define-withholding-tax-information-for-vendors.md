@@ -2,8 +2,9 @@
 title: (IND) Define withholding tax information for vendors
 TOCTitle: (IND) Define withholding tax information for vendors
 ms:assetid: c1bfad9a-3ad6-4245-8054-0d33cfbba163
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664873(v=AX.60)
 ms:contentKeyID: 49386203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ You can set up withholding taxes in the form of tax deducted at source (TDS), pe
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**. Open the vendor record that you want to modify or, on the **Action Pane**, on the **Vendor** tab, in the **New** group, click **Vendor** to create a new vendor record.
 
-2.  If you created a new vendor record, enter the required information. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+2.  If you created a new vendor record, enter the required information. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
 3.  On the **Invoice and delivery** FastTab, select the **Calculate withholding tax** check box to calculate withholding tax for the vendor.
 
@@ -53,7 +54,7 @@ You can set up withholding taxes in the form of tax deducted at source (TDS), pe
 
 ## See also
 
-[(IND) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj664890\(v=ax.60\))
+[(IND) Vendors (modified form)](https://technet.microsoft.com/library/jj664890\(v=ax.60\))
 
   
 

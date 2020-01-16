@@ -2,8 +2,9 @@
 title: (IND) Enter VAT in purchase orders
 TOCTitle: (IND) Enter VAT in purchase orders
 ms:assetid: d837e97f-3dfe-406c-b48a-d896720d804d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710874(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710874(v=AX.60)
 ms:contentKeyID: 49386287
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 1.  Click **Procurement and sourcing** \> **Common** \> **Purchase orders** \> **All purchase orders**. On the **Action pane**, click **New** \> **Purchase order**, or double-click a purchase order.
 
-2.  Enter the required details. For more information, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)).
+2.  Enter the required details. For more information, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -61,7 +62,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
   
 

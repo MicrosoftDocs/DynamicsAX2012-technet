@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDiscountV1.AuthorizeLineDiscountAmount Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: AuthorizeLineDiscountAmount Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDiscountV1.AuthorizeLineDiscountAmount(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILineDiscountItem,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idiscountv1.authorizelinediscountamount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idiscountv1.authorizelinediscountamount(v=AX.60)
 ms:contentKeyID: 47344220
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,11 +71,11 @@ bool AuthorizeLineDiscountAmount(
 <!-- end list -->
 
   - maximumDiscountAmt  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if discount amount is allowed; otherwise, false.  
 
 ## Remarks

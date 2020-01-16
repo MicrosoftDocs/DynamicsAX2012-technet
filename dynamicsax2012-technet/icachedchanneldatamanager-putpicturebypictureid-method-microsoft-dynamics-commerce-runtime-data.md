@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICachedChannelDataManager.PutPictureByPictureId Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PutPictureByPictureId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedChannelDataManager.PutPictureByPictureId(System.Int32,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailImage)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.icachedchanneldatamanager.putpicturebypictureid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedchanneldatamanager.putpicturebypictureid(v=AX.60)
 ms:contentKeyID: 65321265
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ void PutPictureByPictureId(
 #### Parameters
 
   - pictureId  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 

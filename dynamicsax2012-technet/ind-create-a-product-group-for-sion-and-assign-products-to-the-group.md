@@ -2,8 +2,9 @@
 title: (IND) Create a product group for SION and assign products to the group
 TOCTitle: (IND) Create a product group for SION and assign products to the group
 ms:assetid: 09e94141-b3e5-4d98-a2f3-cf7f4801c159
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664462(v=AX.60)
 ms:contentKeyID: 49385541
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ Use the following procedures to create a product group for the SION, and then as
 
 [(IND) Set up the SION items](ind-set-up-the-sion-items.md)
 
-[(IND) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj677909\(v=ax.60\))
+[(IND) Released product details (modified form)](https://technet.microsoft.com/library/jj677909\(v=ax.60\))
 
   
 

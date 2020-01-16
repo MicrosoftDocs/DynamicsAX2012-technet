@@ -2,8 +2,9 @@
 title: (IND) Post service tax in purchase transaction using the Invoice pool excl. posting form
 TOCTitle: (IND) Post service tax in purchase transaction using the Invoice pool excl. posting form
 ms:assetid: 01ab9409-e917-423b-81b3-512f184fcbd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664430(v=AX.60)
 ms:contentKeyID: 49385519
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/en-us/library/jj664595\(v=ax.60\))
+[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/library/jj664595\(v=ax.60\))
 
   
 

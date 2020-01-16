@@ -1,9 +1,10 @@
-﻿---
+---
 title: ILoyaltyService Methods (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: ILoyaltyService Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ILoyaltyService
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.iloyaltyservice_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.iloyaltyservice_methods(v=AX.60)
 ms:contentKeyID: 65318681
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

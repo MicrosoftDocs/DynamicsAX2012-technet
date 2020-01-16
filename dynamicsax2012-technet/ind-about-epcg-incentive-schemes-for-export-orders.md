@@ -2,8 +2,9 @@
 title: (IND) About EPCG incentive schemes for export orders
 TOCTitle: (IND) About EPCG incentive schemes for export orders
 ms:assetid: 9ec1afac-ac2f-411c-802e-ac172332c0b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664714(v=AX.60)
 ms:contentKeyID: 49386045
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Before you can create an export sales order for an EPCG incentive scheme, you mu
 
   - Set up parameters for EPCG schemes. For more information, see [(IND) Set up general ledger parameters for the EPCG incentive scheme](ind-set-up-general-ledger-parameters-for-the-epcg-incentive-scheme.md).
 
-  - Define currency exchange rates to use for export transactions. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Define currency exchange rates to use for export transactions. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
   - Set up an EPCG incentive scheme for the primary license. For more information, see [(IND) Create a primary EPCG license](ind-create-a-primary-epcg-license.md).
 
@@ -39,7 +40,7 @@ Before you can create an export sales order for an EPCG incentive scheme, you mu
 
 ## See also
 
-[(IND) Create sales order (modified form)](https://technet.microsoft.com/en-us/library/jj664489\(v=ax.60\))
+[(IND) Create sales order (modified form)](https://technet.microsoft.com/library/jj664489\(v=ax.60\))
 
 [(IND) Create an export order for an EPCG incentive scheme](ind-create-an-export-order-for-an-epcg-incentive-scheme.md)
 

@@ -2,8 +2,9 @@
 title: (IND) Create a sales credit note for an excise transaction
 TOCTitle: (IND) Create a sales credit note for an excise transaction
 ms:assetid: e1c31c80-c4af-4dc1-862e-578ab462e7d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710898(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710898(v=AX.60)
 ms:contentKeyID: 49386313
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,11 +38,11 @@ When a customer returns goods and you create a credit note for the order, the ca
 
 ## See also
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
-[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj664849\(v=ax.60\))
+[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/library/jj664849\(v=ax.60\))
 
-[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664580\(v=ax.60\))
+[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/library/jj664580\(v=ax.60\))
 
   
 

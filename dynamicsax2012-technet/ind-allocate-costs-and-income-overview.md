@@ -2,8 +2,9 @@
 title: (IND) Allocate costs and income overview
 TOCTitle: (IND) Allocate costs and income overview
 ms:assetid: 6a866f73-5db5-45a6-bcd4-88a20f647cbb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677889(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677889(v=AX.60)
 ms:contentKeyID: 49385852
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

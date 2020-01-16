@@ -2,8 +2,9 @@
 title: (IND) Depreciate/amortize assets overview
 TOCTitle: (IND) Depreciate/amortize assets overview
 ms:assetid: ca1edad8-0f69-49e5-9349-22c2fb7b7fe0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664879(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664879(v=AX.60)
 ms:contentKeyID: 49386209
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

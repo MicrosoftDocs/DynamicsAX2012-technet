@@ -2,8 +2,9 @@
 title: (IND) Set up service tax information for customers
 TOCTitle: (IND) Set up service tax information for customers
 ms:assetid: 778f8a56-50c8-4483-a06a-629d20ec7dcd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677939(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677939(v=AX.60)
 ms:contentKeyID: 49385902
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Specify the Service tax registration (STC) number for the address of the custome
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**. In the **All customers** list, double-click a customer record to open it. Or, on the **Action Pane**, on the **Customer** tab, in the **New** group, click **Customer** to create a new customer record.
 
-2.  Press CTRL+N to create a new record or select an existing customer. For more information, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+2.  Press CTRL+N to create a new record or select an existing customer. For more information, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
 3.  Click the **Tax information** tab.
 
@@ -39,7 +40,7 @@ Specify the Service tax registration (STC) number for the address of the custome
 
 ## See also
 
-[(IND) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj678004\(v=ax.60\))
+[(IND) Customers (modified form)](https://technet.microsoft.com/library/jj678004\(v=ax.60\))
 
   
 

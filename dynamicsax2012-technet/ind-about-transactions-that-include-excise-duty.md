@@ -2,8 +2,9 @@
 title: (IND) About transactions that include excise duty
 TOCTitle: (IND) About transactions that include excise duty
 ms:assetid: 69669b37-11f1-46bf-8dca-cc45fee218ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677892(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677892(v=AX.60)
 ms:contentKeyID: 49385855
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,11 +64,11 @@ When you are updating the packing slip information for a purchase order that inc
 
 ## See also
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
-[(IND) Goods receipt note (form)](https://technet.microsoft.com/en-us/library/jj664834\(v=ax.60\))
+[(IND) Goods receipt note (form)](https://technet.microsoft.com/library/jj664834\(v=ax.60\))
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Set up the SION
 TOCTitle: (IND) Set up the SION
 ms:assetid: 57aab86b-e72f-41a0-936b-227233b3b4f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677829(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677829(v=AX.60)
 ms:contentKeyID: 49385793
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Use this procedure to set up Standard Input Output Norms (SION), and to assign p
 
 11. On the **Lines** FastTab, click **SION Items**.
 
-12. In the **SION Items** form, add products to the product group that you are assigning to the SION. For more information, see [(IND) SION (form)](https://technet.microsoft.com/en-us/library/jj710966\(v=ax.60\)).
+12. In the **SION Items** form, add products to the product group that you are assigning to the SION. For more information, see [(IND) SION (form)](https://technet.microsoft.com/library/jj710966\(v=ax.60\)).
 
 13. Optional: You can copy the SION to another product group. On the **Overview** FastTab, click **Copy**, and then select the product group to copy the SION to. For more information, see [(IND) Copy a product group in the SION](ind-copy-a-product-group-in-the-sion.md).
 

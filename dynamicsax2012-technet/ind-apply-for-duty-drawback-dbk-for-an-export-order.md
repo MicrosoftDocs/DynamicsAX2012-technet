@@ -2,8 +2,9 @@
 title: (IND) Apply for duty drawback (DBK) for an export order
 TOCTitle: (IND) Apply for duty drawback (DBK) for an export order
 ms:assetid: 98e4fa44-5d89-4960-b687-3a3f42cc431a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678062(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678062(v=AX.60)
 ms:contentKeyID: 49386023
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -107,9 +108,9 @@ After you complete the procedures, the following actions are performed:
 
 ## See also
 
-[(IND) Duty drawback (form)](https://technet.microsoft.com/en-us/library/jj664713\(v=ax.60\))
+[(IND) Duty drawback (form)](https://technet.microsoft.com/library/jj664713\(v=ax.60\))
 
-[(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/en-us/library/jj678025\(v=ax.60\))
+[(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/library/jj678025\(v=ax.60\))
 
   
 

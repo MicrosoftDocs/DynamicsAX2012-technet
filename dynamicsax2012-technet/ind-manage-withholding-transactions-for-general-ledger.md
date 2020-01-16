@@ -2,8 +2,9 @@
 title: (IND) Manage withholding transactions for General ledger
 TOCTitle: (IND) Manage withholding transactions for General ledger
 ms:assetid: 829f051e-e29c-48c7-9220-8372c2d621d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677970(v=AX.60)
 ms:contentKeyID: 49385932
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

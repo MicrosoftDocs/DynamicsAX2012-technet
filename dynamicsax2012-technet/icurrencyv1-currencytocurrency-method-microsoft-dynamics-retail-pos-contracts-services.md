@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICurrencyV1.CurrencyToCurrency Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: CurrencyToCurrency Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICurrencyV1.CurrencyToCurrency(System.String,System.String,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icurrencyv1.currencytocurrency(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icurrencyv1.currencytocurrency(v=AX.60)
 ms:contentKeyID: 47344238
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,21 +61,21 @@ Decimal CurrencyToCurrency(
 #### Parameters
 
   - fromCurrencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - toCurrencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - orgValue  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The value as it is after conversion in the toCurrencyCode parameter rounded according to the toCurrencyCode parameter rounding setup.  
 
 ## See Also

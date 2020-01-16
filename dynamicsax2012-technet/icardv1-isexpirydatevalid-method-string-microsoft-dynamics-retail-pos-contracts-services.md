@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICardV1.IsExpiryDateValid Method (String) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IsExpiryDateValid Method (String)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICardV1.IsExpiryDateValid(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icardv1.isexpirydatevalid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icardv1.isexpirydatevalid(v=AX.60)
 ms:contentKeyID: 47343826
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -49,11 +50,11 @@ bool IsExpiryDateValid(
 #### Parameters
 
   - expirationDateString  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true when the expiry date has not yet passed; otherwise, false.  
 
 ## See Also

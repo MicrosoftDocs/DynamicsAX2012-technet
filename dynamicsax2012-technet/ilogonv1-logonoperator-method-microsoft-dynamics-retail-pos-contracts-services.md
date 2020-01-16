@@ -1,9 +1,10 @@
-﻿---
+---
 title: ILogOnV1.LogOnOperator Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: LogOnOperator Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILogOnV1.LogOnOperator
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ilogonv1.logonoperator(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ilogonv1.logonoperator(v=AX.60)
 ms:contentKeyID: 49836436
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) About customer invoices
 TOCTitle: (IND) About customer invoices
 ms:assetid: 48244b93-c00f-4244-addb-931c8acc5606
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664670(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664670(v=AX.60)
 ms:contentKeyID: 49385737
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,11 +26,11 @@ This topic provides specific information about customer invoices for legal entit
 
 ## View invoices
 
-Use the **Open customer invoices** list page to view a list of customer invoices. The total TDS and TCS amounts are displayed in the list page grid for each invoice. You can view the withholding tax amount for each invoice line for the selected invoice in the preview pane. For more information, see [Open customer invoices (list page)](https://technet.microsoft.com/en-us/library/hh454994\(v=ax.60\)).
+Use the **Open customer invoices** list page to view a list of customer invoices. The total TDS and TCS amounts are displayed in the list page grid for each invoice. You can view the withholding tax amount for each invoice line for the selected invoice in the preview pane. For more information, see [Open customer invoices (list page)](https://technet.microsoft.com/library/hh454994\(v=ax.60\)).
 
 ## View customer transactions associated with an invoice
 
-Use the **Customer transactions** form to view customer transactions associated with an invoice. The TDS and TCS amounts are displayed at the bottom of the form. For more information, see [Customer transactions (form)](https://technet.microsoft.com/en-us/library/aa634902\(v=ax.60\)).
+Use the **Customer transactions** form to view customer transactions associated with an invoice. The TDS and TCS amounts are displayed at the bottom of the form. For more information, see [Customer transactions (form)](https://technet.microsoft.com/library/aa634902\(v=ax.60\)).
 
 ## See also
 

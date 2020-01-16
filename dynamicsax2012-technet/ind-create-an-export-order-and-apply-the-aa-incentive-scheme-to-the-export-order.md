@@ -2,8 +2,9 @@
 title: (IND) Create an export order and apply the AA incentive scheme to the export order
 TOCTitle: (IND) Create an export order and apply the AA incentive scheme to the export order
 ms:assetid: d034e62b-2b5e-4826-8ae9-08f5f68e6ee8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664900(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664900(v=AX.60)
 ms:contentKeyID: 49386229
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ You can attach the authorization number for an Advance Authorization (AA) to an 
 
 3.  Enter any additional information, and then click **OK** to create a new sales order.
     
-    For more information about how to create a sales order, see [(IND) Create an export sales order and post the confirmation order](ind-create-an-export-sales-order-and-post-the-confirmation-order.md). For information about India-specific fields in the **Sales order** form, see [(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\)).
+    For more information about how to create a sales order, see [(IND) Create an export sales order and post the confirmation order](ind-create-an-export-sales-order-and-post-the-confirmation-order.md). For information about India-specific fields in the **Sales order** form, see [(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\)).
 
 4.  Add a sales order line, and then, at the bottom of the **Line details** FastTab, click the **Setup** tab.
 
@@ -62,7 +63,7 @@ After you create and post the export sales order, create and post the shipping b
 
 [(IND) Create an export sales order and post the confirmation order](ind-create-an-export-sales-order-and-post-the-confirmation-order.md)
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
 [(IND) Post a shipping bill for an export sales order](ind-post-a-shipping-bill-for-an-export-sales-order.md)
 

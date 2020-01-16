@@ -2,8 +2,9 @@
 title: (IND) Reverse TCS and post the payment journal
 TOCTitle: (IND) Reverse TCS and post the payment journal
 ms:assetid: d0e6883f-7027-42ee-a647-f0f2f0f89700
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664935(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664935(v=AX.60)
 ms:contentKeyID: 49386265
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ A payment journal is automatically created in the **Deposit slip payment cancell
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
   
 

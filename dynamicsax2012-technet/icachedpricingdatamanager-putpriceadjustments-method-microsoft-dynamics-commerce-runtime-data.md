@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICachedPricingDataManager.PutPriceAdjustments Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PutPriceAdjustments Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedPricingDataManager.PutPriceAdjustments
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.icachedpricingdatamanager.putpriceadjustments(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedpricingdatamanager.putpriceadjustments(v=AX.60)
 ms:contentKeyID: 62214935
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

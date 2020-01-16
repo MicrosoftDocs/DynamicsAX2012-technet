@@ -1,9 +1,10 @@
-﻿---
+---
 title: IItemV1.Depth Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: Depth Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IItemV1.Depth
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iitemv1.depth(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iitemv1.depth(v=AX.60)
 ms:contentKeyID: 49845721
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property Decimal Depth {
 
 #### Property Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The depth.  
 
 ## See Also

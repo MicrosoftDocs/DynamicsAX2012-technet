@@ -2,8 +2,9 @@
 title: (IND) Maintain sales tax transactions for Accounts receivable
 TOCTitle: (IND) Maintain sales tax transactions for Accounts receivable
 ms:assetid: f92c8a4d-fc4c-485b-b469-83000e8b711c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710951(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710951(v=AX.60)
 ms:contentKeyID: 49386364
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

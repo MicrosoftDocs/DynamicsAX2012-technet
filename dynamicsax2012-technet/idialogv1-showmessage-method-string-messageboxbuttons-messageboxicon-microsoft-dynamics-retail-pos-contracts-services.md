@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDialogV1.ShowMessage Method (String, MessageBoxButtons, MessageBoxIcon) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: ShowMessage Method (String, MessageBoxButtons, MessageBoxIcon)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.ShowMessage(System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.showmessage(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.showmessage(v=AX.60)
 ms:contentKeyID: 47344355
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -58,21 +59,21 @@ DialogResult ShowMessage(
 #### Parameters
 
   - message  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - msgBoxButtons  
-    Type: [System.Windows.Forms.MessageBoxButtons](https://technet.microsoft.com/en-us/library/a29zcz90\(v=ax.60\))  
+    Type: [System.Windows.Forms.MessageBoxButtons](https://technet.microsoft.com/library/a29zcz90\(v=ax.60\))  
 
 <!-- end list -->
 
   - msgBoxIcon  
-    Type: [System.Windows.Forms.MessageBoxIcon](https://technet.microsoft.com/en-us/library/bathdwt4\(v=ax.60\))  
+    Type: [System.Windows.Forms.MessageBoxIcon](https://technet.microsoft.com/library/bathdwt4\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/en-us/library/5ahe29t9\(v=ax.60\))  
+Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/library/5ahe29t9\(v=ax.60\))  
 One of the DialogResult values  
 
 ## See Also

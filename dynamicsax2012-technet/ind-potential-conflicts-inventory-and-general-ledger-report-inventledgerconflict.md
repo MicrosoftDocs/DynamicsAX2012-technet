@@ -2,8 +2,9 @@
 title: (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict)
 TOCTitle: (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict)
 ms:assetid: 6810d44b-78f2-4164-b98f-df9e4d35a482
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ966247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ966247(v=AX.60)
 ms:contentKeyID: 51439432
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Calculate VAT on a reversed sales order
 TOCTitle: (IND) Calculate VAT on a reversed sales order
 ms:assetid: ca7d98c8-4ed2-4fae-9961-3678f3683b52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664914(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664914(v=AX.60)
 ms:contentKeyID: 49386243
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj664849\(v=ax.60\))
+[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/library/jj664849\(v=ax.60\))
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
 [(IND) Enter VAT details in sales orders](ind-enter-vat-details-in-sales-orders.md)
 

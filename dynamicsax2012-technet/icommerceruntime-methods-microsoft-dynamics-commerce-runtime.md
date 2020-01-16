@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICommerceRuntime Methods (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ICommerceRuntime Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.ICommerceRuntime
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.icommerceruntime_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.icommerceruntime_methods(v=AX.60)
 ms:contentKeyID: 65319462
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,8 +26,8 @@ The [ICommerceRuntime](icommerceruntime-interface-microsoft-dynamics-commerce-ru
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/es4s3w1d(v=ax.60)">Dispose</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/es4s3w1d(v=ax.60)">Dispose</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

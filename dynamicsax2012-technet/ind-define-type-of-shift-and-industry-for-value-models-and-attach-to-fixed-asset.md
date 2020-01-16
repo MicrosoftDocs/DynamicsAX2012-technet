@@ -2,8 +2,9 @@
 title: (IND) Define type of shift and industry for value models and attach to fixed asset
 TOCTitle: (IND) Define type of shift and industry for value models and attach to fixed asset
 ms:assetid: 5a76c5f3-1a6a-4811-8667-d03341338723
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677842(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677842(v=AX.60)
 ms:contentKeyID: 49385808
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -95,7 +96,7 @@ The calculation of depreciation is also based on the actual number of days in th
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa620341(v=ax.60)">Fixed assets (form)</A>in the Applications and Business Processes Help.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa620341(v=ax.60)">Fixed assets (form)</A>in the Applications and Business Processes Help.</P>
 
 
 
@@ -111,7 +112,7 @@ The calculation of depreciation is also based on the actual number of days in th
 
 ## See also
 
-[(IND) Fixed asset value model/shift depreciation (form)](https://technet.microsoft.com/en-us/library/jj678007\(v=ax.60\))
+[(IND) Fixed asset value model/shift depreciation (form)](https://technet.microsoft.com/library/jj678007\(v=ax.60\))
 
   
 

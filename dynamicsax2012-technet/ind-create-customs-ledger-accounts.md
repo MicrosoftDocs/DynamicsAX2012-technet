@@ -2,8 +2,9 @@
 title: (IND) Create customs ledger accounts
 TOCTitle: (IND) Create customs ledger accounts
 ms:assetid: 09534c14-0d63-442a-953a-d724f97b4115
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664459(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664459(v=AX.60)
 ms:contentKeyID: 49385539
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

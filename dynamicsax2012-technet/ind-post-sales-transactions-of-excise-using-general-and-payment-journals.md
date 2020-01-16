@@ -2,8 +2,9 @@
 title: (IND) Post sales transactions of excise using general and payment journals
 TOCTitle: (IND) Post sales transactions of excise using general and payment journals
 ms:assetid: 1c67898c-6465-4886-aa3c-ba6d7d377271
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664532(v=AX.60)
 ms:contentKeyID: 49385611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -123,7 +124,7 @@ The excise calculation rate that is applicable to an excise tax code is based on
 
 ## See also
 
-[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664751\(v=ax.60\))
+[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj664751\(v=ax.60\))
 
   
 

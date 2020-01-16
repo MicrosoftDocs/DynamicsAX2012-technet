@@ -2,8 +2,9 @@
 title: (IND) Generate the service tax payable report
 TOCTitle: (IND) Generate the service tax payable report
 ms:assetid: 17a2f107-b438-4994-bc97-33c10e88e358
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn344873(v=AX.60)
 ms:contentKeyID: 56117704
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

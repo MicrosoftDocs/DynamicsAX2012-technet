@@ -2,8 +2,9 @@
 title: (IND) Set up tax ledger posting groups for DFIA
 TOCTitle: (IND) Set up tax ledger posting groups for DFIA
 ms:assetid: 22c31006-b87e-4f5f-85b3-40c7bd70e31d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664558(v=AX.60)
 ms:contentKeyID: 49385635
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Use the **Tax ledger posting groups** form to set up the ledger posting groups t
 
 ## See also
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Manage gate entry and exit of goods
 TOCTitle: (IND) Manage gate entry and exit of goods
 ms:assetid: 5346537b-e655-47d8-9e59-c7bbc06fac32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876577(v=AX.60)
 ms:contentKeyID: 63378993
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ol>
-<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and the <strong>Customs</strong> check box. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
+<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and the <strong>Customs</strong> check box. For more information, see <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
 <li><p>In the <strong>Inventory and warehouse management parameters</strong> form, in the <strong>Gate management</strong> field group, select the <strong>Enable gate management</strong> check box.</p></li>
-<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
+<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
 <li><p>Select the <strong>DSA</strong> check box to update the DSA register for product transactions. The <strong>Excise record type</strong> is set to <strong>None</strong> to enable the <strong>DSA</strong> check box.</p></li>
 <li><p>Create a purchase order. For more information, see <a href="ind-create-a-purchase-order-and-post-charges.md">(IND) Create a purchase order and post charges</a>.</p></li>
 <li><p>Create a sales return order. For more information, see <a href="create-or-edit-a-return-order.md">Create or edit a return order</a>.</p></li>
-<li><p>Create a transfer order. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa634530(v=ax.60)">Transfer orders (form)</a>.</p></li>
+<li><p>Create a transfer order. For more information, see <a href="https://technet.microsoft.com/library/aa634530(v=ax.60)">Transfer orders (form)</a>.</p></li>
 <li><p>On the <strong>Sites</strong> form, on the <strong>Number sequence</strong> FastTab, specify the number sequence for <strong>Gate inward</strong> and <strong>Gate outward</strong>. For more information, see <a href="create-sites.md">Create sites</a>.</p></li>
 </ol></td>
 </tr>

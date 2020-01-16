@@ -2,8 +2,9 @@
 title: (IND) Record the approval details for a DFIA or AA license
 TOCTitle: (IND) Record the approval details for a DFIA or AA license
 ms:assetid: 2c4c458d-9daa-42d5-89b8-8b8b935278f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664588(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664588(v=AX.60)
 ms:contentKeyID: 49385664
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

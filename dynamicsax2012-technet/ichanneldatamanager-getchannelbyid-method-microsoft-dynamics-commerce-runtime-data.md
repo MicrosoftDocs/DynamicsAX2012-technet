@@ -1,9 +1,10 @@
-﻿---
+---
 title: IChannelDataManager.GetChannelById Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetChannelById Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChannelDataManager.GetChannelById(System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ichanneldatamanager.getchannelbyid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ichanneldatamanager.getchannelbyid(v=AX.60)
 ms:contentKeyID: 62208363
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Channel^ GetChannelById(
 #### Parameters
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 

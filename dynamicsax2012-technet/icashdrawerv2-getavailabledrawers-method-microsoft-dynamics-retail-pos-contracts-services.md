@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICashDrawerV2.GetAvailableDrawers Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetAvailableDrawers Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICashDrawerV2.GetAvailableDrawers
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icashdrawerv2.getavailabledrawers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icashdrawerv2.getavailabledrawers(v=AX.60)
 ms:contentKeyID: 49835353
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ ICollection<Tuple^>^ GetAvailableDrawers()
 
 #### Return Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<Tuple\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<Tuple\>  
 Collection of tuples containing Names and description of available drawers.  
 Tuple.Item1 = Drawer name Tuple.Item2 = Drawer description  
 

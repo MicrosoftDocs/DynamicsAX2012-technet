@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDiscountItemV1.GetTotalDiscountAmountForSaleItem Method  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: GetTotalDiscountAmountForSaleItem Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IDiscountItemV1.GetTotalDiscountAmountForSaleItem(System.Decimal,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.idiscountitemv1.gettotaldiscountamountforsaleitem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.idiscountitemv1.gettotaldiscountamountforsaleitem(v=AX.60)
 ms:contentKeyID: 49819681
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ Decimal GetTotalDiscountAmountForSaleItem(
 #### Parameters
 
   - itemPrice  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - itemQuantity  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 ## Remarks
 

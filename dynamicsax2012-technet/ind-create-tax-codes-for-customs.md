@@ -2,8 +2,9 @@
 title: (IND) Create tax codes for customs
 TOCTitle: (IND) Create tax codes for customs
 ms:assetid: 2b997829-3592-4334-ab1c-c64cf1eb0419
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664586(v=AX.60)
 ms:contentKeyID: 49385769
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ You can also enter the preferential value for the customs tax code because the p
 
 ## See also
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
   
 

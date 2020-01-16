@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDirPartyAddressRelationshipMappingV1.PartyAddressRelationshipRecId Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: PartyAddressRelationshipRecId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IDirPartyAddressRelationshipMappingV1.PartyAddressRelationshipRecId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.idirpartyaddressrelationshipmappingv1.partyaddressrelationshiprecid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.idirpartyaddressrelationshipmappingv1.partyaddressrelationshiprecid(v=AX.60)
 ms:contentKeyID: 47128843
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ property long long PartyAddressRelationshipRecId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
-The [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)) value.  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
+The [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)) value.  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (IND) Create service tax codes
 TOCTitle: (IND) Create service tax codes
 ms:assetid: 1255067f-f900-4bbe-98fa-c7bb6976beb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664498(v=AX.60)
 ms:contentKeyID: 49385577
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,15 +36,15 @@ You can create service tax codes for the service tax that your organization calc
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa500790(v=ax.60)">Values of sales tax codes (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa500790(v=ax.60)">Values of sales tax codes (form)</A>.</P>
 
 
 
 ## See also
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
-[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
+[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/library/jj664855\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Implementing Budgeting (White paper)
 TOCTitle: Implementing Budgeting
 ms:assetid: c99cf719-6bf9-4f17-804a-8fbe762ac9d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272878(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272878(v=AX.60)
 ms:contentKeyID: 36584402
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

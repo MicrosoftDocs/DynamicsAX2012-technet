@@ -1,9 +1,10 @@
-﻿---
+---
 title: IEnumerableExtensions Class (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IEnumerableExtensions Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.IEnumerableExtensions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.ienumerableextensions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.ienumerableextensions(v=AX.60)
 ms:contentKeyID: 49854436
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # IEnumerableExtensions Class
 
-Encapsulates functionaltiy used to extend the [IEnumerable\<T\>](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\)) implementation.
+Encapsulates functionaltiy used to extend the [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)) implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -42,7 +43,7 @@ public ref class IEnumerableExtensions abstract sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.IEnumerableExtensions  
 
 ## Thread Safety

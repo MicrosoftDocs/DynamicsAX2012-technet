@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerV1.BalanceReport Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: BalanceReport Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomerV1.BalanceReport
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv1.balancereport(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv1.balancereport(v=AX.60)
 ms:contentKeyID: 47343817
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Create tax ledger posting groups and attach an STC number
 TOCTitle: (IND) Create tax ledger posting groups and attach an STC number
 ms:assetid: 79528272-a04e-4e04-a573-e4e6aee37b72
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677947(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677947(v=AX.60)
 ms:contentKeyID: 49385910
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ The ledger posting group is attached to the service tax code. The posting group 
 
 ## See also
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
   
 

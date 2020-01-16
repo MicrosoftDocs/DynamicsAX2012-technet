@@ -2,8 +2,9 @@
 title: (IND) Create an import order for the DFIA incentive scheme
 TOCTitle: (IND) Create an import order for the DFIA incentive scheme
 ms:assetid: 5eca8174-9c81-49c0-bbe7-a22d6d717f70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677854(v=AX.60)
 ms:contentKeyID: 49385818
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ After you receive a Duty Free Import Authorization (DFIA) from the customs autho
 
 4.  Enter any additional field values, and then click **OK** to create a new purchase order.
     
-    For detailed information about how to create a purchase order, see [Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\)) and [(IND) Create purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj664490\(v=ax.60\)).
+    For detailed information about how to create a purchase order, see [Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\)) and [(IND) Create purchase order (modified form)](https://technet.microsoft.com/library/jj664490\(v=ax.60\)).
 
 5.  Add a purchase order line, and then, at the bottom of the **Line details** FastTab, click the **Setup** tab.
 

@@ -2,8 +2,9 @@
 title: (IND) Attach an EPCG incentive scheme to an import order
 TOCTitle: (IND) Attach an EPCG incentive scheme to an import order
 ms:assetid: a533d482-4c3f-4741-a6ba-db7ca61b196d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664737(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664737(v=AX.60)
 ms:contentKeyID: 49386069
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,11 +26,11 @@ When you create a new purchase order to import products that meet the requiremen
 
 **Prerequisites**
 
-  - Create and approve an EPCG incentive scheme. Importable items and approved vendors for the importable items are assigned to the EPCG incentive scheme during the approval process. For more information, see [(IND) Approval EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj710885\(v=ax.60\)).
+  - Create and approve an EPCG incentive scheme. Importable items and approved vendors for the importable items are assigned to the EPCG incentive scheme during the approval process. For more information, see [(IND) Approval EPCG schemes (form)](https://technet.microsoft.com/library/jj710885\(v=ax.60\)).
 
-  - Set up import and export taxes. For more information, see [(IND) Tax codes for incentive schemes (form)](https://technet.microsoft.com/en-us/library/jj664578\(v=ax.60\)).
+  - Set up import and export taxes. For more information, see [(IND) Tax codes for incentive schemes (form)](https://technet.microsoft.com/library/jj664578\(v=ax.60\)).
 
-  - Define currency exchange rates for vendor currencies. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Define currency exchange rates for vendor currencies. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 <!-- end list -->
 
@@ -59,11 +60,11 @@ When you create a new purchase order to import products that meet the requiremen
 
 ## See also
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
 [Create a purchase order](create-a-purchase-order.md)
 
-[(IND) Import details - EPCG (form)](https://technet.microsoft.com/en-us/library/jj664479\(v=ax.60\))
+[(IND) Import details - EPCG (form)](https://technet.microsoft.com/library/jj664479\(v=ax.60\))
 
 [(IND) Create a primary EPCG license](ind-create-a-primary-epcg-license.md)
 

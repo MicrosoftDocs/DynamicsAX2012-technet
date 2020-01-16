@@ -2,8 +2,9 @@
 title: (IND) Set up excise tax codes
 TOCTitle: (IND) Set up excise tax codes
 ms:assetid: 5a7ac4ba-2b50-4769-9751-cb40a60a0c1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677839(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677839(v=AX.60)
 ms:contentKeyID: 49385805
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,9 +80,9 @@ You must create the excise tax codes for the excise duties that your company mus
 
 ## See also
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
-[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
+[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/library/jj664855\(v=ax.60\))
 
 [(IND) Set up excise settlement periods](ind-set-up-excise-settlement-periods.md)
 

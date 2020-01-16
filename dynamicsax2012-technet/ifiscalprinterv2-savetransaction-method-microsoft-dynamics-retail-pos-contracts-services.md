@@ -1,9 +1,10 @@
-﻿---
+---
 title: IFiscalPrinterV2.SaveTransaction Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: SaveTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IFiscalPrinterV2.SaveTransaction(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,System.Data.SqlClient.SqlTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv2.savetransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv2.savetransaction(v=AX.60)
 ms:contentKeyID: 62204718
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ void SaveTransaction(
 <!-- end list -->
 
   - sqlTransaction  
-    Type: [System.Data.SqlClient.SqlTransaction](https://technet.microsoft.com/en-us/library/4b1h6b1d\(v=ax.60\))  
+    Type: [System.Data.SqlClient.SqlTransaction](https://technet.microsoft.com/library/4b1h6b1d\(v=ax.60\))  
 
 ## See Also
 

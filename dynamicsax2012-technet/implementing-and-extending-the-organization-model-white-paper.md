@@ -2,8 +2,9 @@
 title: Implementing and Extending the Organization Model (White paper)
 TOCTitle: Implementing and Extending the Organization Model
 ms:assetid: b6b170f2-0463-4764-9135-2cf6db64fe27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292602(v=AX.60)
 ms:contentKeyID: 36655940
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (IND) Create service agreements
 TOCTitle: (IND) Create service agreements
 ms:assetid: 6b6c9caf-3c3c-4149-a693-d2f2a13dfd15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677894(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677894(v=AX.60)
 ms:contentKeyID: 49385857
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Before you create a service agreement, you might want to create service objects,
 
 
 
-6.  Complete the remaining information on the **Service agreement** FastTab. For more information, see [Service agreements (form)](https://technet.microsoft.com/en-us/library/aa617823\(v=ax.60\)).
+6.  Complete the remaining information on the **Service agreement** FastTab. For more information, see [Service agreements (form)](https://technet.microsoft.com/library/aa617823\(v=ax.60\)).
 
 7.  On the **Lines** FastTab, click **Add**, and then select a project transaction type for the service agreement. You can select an **Hour**, **Expense**, **Item**, or **Fee** type. The details that you can select for the line are determined by the type. For example, if you select an **Item** transaction type, you must also select an item number.
 

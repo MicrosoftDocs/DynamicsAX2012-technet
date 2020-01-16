@@ -2,8 +2,9 @@
 title: (IND) Correct a sales order packing slip before posting an invoice
 TOCTitle: (IND) Correct a sales order packing slip before posting an invoice
 ms:assetid: 43463b6e-d1c5-4b55-be78-909385d32838
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664657(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664657(v=AX.60)
 ms:contentKeyID: 49385731
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

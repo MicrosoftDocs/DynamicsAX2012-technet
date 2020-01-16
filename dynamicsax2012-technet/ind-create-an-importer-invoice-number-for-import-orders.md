@@ -2,8 +2,9 @@
 title: (IND) Create an importer invoice number for import orders
 TOCTitle: (IND) Create an importer invoice number for import orders
 ms:assetid: c9df18b2-f747-4832-aa81-fb50155207eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664878(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664878(v=AX.60)
 ms:contentKeyID: 49386208
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

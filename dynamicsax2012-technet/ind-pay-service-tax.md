@@ -2,8 +2,9 @@
 title: (IND) Pay service tax
 TOCTitle: (IND) Pay service tax
 ms:assetid: 133df2c5-cda8-4d1f-8774-ebc17b2ff8a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664501(v=AX.60)
 ms:contentKeyID: 49385579
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -94,9 +95,9 @@ After service tax has been paid, you can use the **Challan information** form to
 
 ## See also
 
-[(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\))
+[(IND) Challan information (form)](https://technet.microsoft.com/library/jj677847\(v=ax.60\))
 
-[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664794\(v=ax.60\))
+[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj664794\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDiscountV1.AddDiscountLine Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: AddDiscountLine Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDiscountV1.AddDiscountLine(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IDiscountItem)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idiscountv1.adddiscountline(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idiscountv1.adddiscountline(v=AX.60)
 ms:contentKeyID: 62204387
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

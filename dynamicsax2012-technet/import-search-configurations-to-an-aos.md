@@ -2,8 +2,9 @@
 title: Import Search configurations to an AOS
 TOCTitle: Import Search configurations to an AOS
 ms:assetid: e44a9235-9a03-446b-9bee-494abf6631ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500184(v=AX.60)
 ms:contentKeyID: 37820251
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

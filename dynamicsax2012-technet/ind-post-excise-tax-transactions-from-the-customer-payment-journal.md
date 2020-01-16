@@ -2,8 +2,9 @@
 title: (IND) Post excise tax transactions from the customer payment journal
 TOCTitle: (IND) Post excise tax transactions from the customer payment journal
 ms:assetid: cf2d40b0-9954-4b14-a927-b1124587488a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664899(v=AX.60)
 ms:contentKeyID: 49386228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -89,7 +90,7 @@ The excise registers, RG23A (Part II), RG23C (Part II), and RG23D, are updated w
 
 ## See also
 
-[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664751\(v=ax.60\))
+[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj664751\(v=ax.60\))
 
   
 

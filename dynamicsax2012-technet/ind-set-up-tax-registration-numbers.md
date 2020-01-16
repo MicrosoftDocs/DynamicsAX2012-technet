@@ -2,8 +2,9 @@
 title: (IND) Set up tax registration numbers
 TOCTitle: (IND) Set up tax registration numbers
 ms:assetid: 9338fdc9-fa9c-4b89-b576-bc8bad1dd848
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678041(v=AX.60)
 ms:contentKeyID: 49386000
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,7 +74,7 @@ You can set up the following tax registration numbers for indirect taxes:
 
 [(IND) Key tasks: Tax information for legal entities](ind-key-tasks-tax-information-for-legal-entities.md)
 
-[(IND) Claim status (form)](https://technet.microsoft.com/en-us/library/jj710913\(v=ax.60\))
+[(IND) Claim status (form)](https://technet.microsoft.com/library/jj710913\(v=ax.60\))
 
   
 

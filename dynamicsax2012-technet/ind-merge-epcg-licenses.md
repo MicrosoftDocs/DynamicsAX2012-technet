@@ -2,8 +2,9 @@
 title: (IND) Merge EPCG licenses
 TOCTitle: (IND) Merge EPCG licenses
 ms:assetid: 14720789-b60e-49db-a263-d16ef2bba40d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664506(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664506(v=AX.60)
 ms:contentKeyID: 49385585
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ In the **EXIM EPCG Schemes** form, the merged schemes are updated to include the
 
 ## See also
 
-[(IND) Merge EPCG licenses (form)](https://technet.microsoft.com/en-us/library/jj678008\(v=ax.60\))
+[(IND) Merge EPCG licenses (form)](https://technet.microsoft.com/library/jj678008\(v=ax.60\))
 
 [(IND) Approve an EPCG license](ind-approve-an-epcg-license.md)
 

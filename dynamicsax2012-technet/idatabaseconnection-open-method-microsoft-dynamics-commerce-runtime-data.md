@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDatabaseConnection.Open Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Open Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseConnection.Open
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.idatabaseconnection.open(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatabaseconnection.open(v=AX.60)
 ms:contentKeyID: 65319861
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ void Open()
 
 This operation must be performed on the connection before any other action can be executed using the connection.
 
-The connection should be disposed calling [Dispose()](https://technet.microsoft.com/en-us/library/es4s3w1d\(v=ax.60\)) on this object.
+The connection should be disposed calling [Dispose()](https://technet.microsoft.com/library/es4s3w1d\(v=ax.60\)) on this object.
 
 ## See Also
 

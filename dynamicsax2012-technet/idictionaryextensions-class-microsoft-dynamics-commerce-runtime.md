@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDictionaryExtensions Class (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IDictionaryExtensions Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.IDictionaryExtensions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.idictionaryextensions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.idictionaryextensions(v=AX.60)
 ms:contentKeyID: 62214738
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # IDictionaryExtensions Class
 
-Encapsulates functionality used to extend the [IDictionary\<TKey, TValue\>](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\)) class.
+Encapsulates functionality used to extend the [IDictionary\<TKey, TValue\>](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\)) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -42,7 +43,7 @@ public ref class IDictionaryExtensions abstract sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.IDictionaryExtensions  
 
 ## Thread Safety

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerV1.AddCustomerToTransaction Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: AddCustomerToTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomerV1.AddCustomerToTransaction(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomer,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv1.addcustomertotransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv1.addcustomertotransaction(v=AX.60)
 ms:contentKeyID: 47344259
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

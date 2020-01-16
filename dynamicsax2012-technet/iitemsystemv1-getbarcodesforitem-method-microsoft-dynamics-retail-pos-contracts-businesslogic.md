@@ -1,9 +1,10 @@
-﻿---
+---
 title: IItemSystemV1.GetBarcodesForItem Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: GetBarcodesForItem Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IItemSystemV1.GetBarcodesForItem(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iitemsystemv1.getbarcodesforitem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iitemsystemv1.getbarcodesforitem(v=AX.60)
 ms:contentKeyID: 47128647
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ DataTable^ GetBarcodesForItem(
 #### Parameters
 
   - selectedItemId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Data.DataTable](https://technet.microsoft.com/en-us/library/9186hy08\(v=ax.60\))  
+Type: [System.Data.DataTable](https://technet.microsoft.com/library/9186hy08\(v=ax.60\))  
 The list of barcodes for the given item.  
 
 ## See Also

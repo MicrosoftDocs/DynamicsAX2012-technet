@@ -2,8 +2,9 @@
 title: (IND) Post an import order and verify the AA incentive scheme tax and balance tax
 TOCTitle: (IND) Post an import order and verify the AA incentive scheme tax and balance tax
 ms:assetid: 84a1eccd-0019-4b64-976e-1cb1b0b9980b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677981(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677981(v=AX.60)
 ms:contentKeyID: 49385944
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use this procedure to verify the details about the amount of incentive scheme ta
     
     Close the **Temporary sales tax transactions** form.
     
-    For more information about the fields in this form, see [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\)).
+    For more information about the fields in this form, see [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\)).
 
 8.  In the **Bill of entry** form, on the **Setup** tab, in the **Bill of entry date** field, select the date when the goods entered the country. Click **OK** to post the bill of entry and to close the **Bill of entry** form.
 
@@ -53,7 +54,7 @@ After you post the invoice, you can view the details of the import order by usin
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
 [(IND) Manage purchase orders](ind-manage-purchase-orders.md)
 
@@ -67,17 +68,17 @@ After you post the invoice, you can view the details of the import order by usin
 
 [(IND) Set up a bill of entry number for import orders](ind-set-up-a-bill-of-entry-number-for-import-orders.md)
 
-[(IND) Bill of entry number (form)](https://technet.microsoft.com/en-us/library/jj664729\(v=ax.60\))
+[(IND) Bill of entry number (form)](https://technet.microsoft.com/library/jj664729\(v=ax.60\))
 
 [(IND) Verify tax amounts for an incentive scheme by using a bill of entry journal](ind-verify-tax-amounts-for-an-incentive-scheme-by-using-a-bill-of-entry-journal.md)
 
-[(IND) Bill of entry journal (form)](https://technet.microsoft.com/en-us/library/jj677988\(v=ax.60\))
+[(IND) Bill of entry journal (form)](https://technet.microsoft.com/library/jj677988\(v=ax.60\))
 
 [(IND) Generate bills of entry inquiries for import orders](ind-generate-bills-of-entry-inquiries-for-import-orders.md)
 
 [(IND) Post bills of entry for import orders](ind-post-bills-of-entry-for-import-orders.md)
 
-[(IND) Tax transactions (form)](https://technet.microsoft.com/en-us/library/jj710906\(v=ax.60\))
+[(IND) Tax transactions (form)](https://technet.microsoft.com/library/jj710906\(v=ax.60\))
 
   
 

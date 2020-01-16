@@ -2,8 +2,9 @@
 title: (IND) Set up excise tax groups
 TOCTitle: (IND) Set up excise tax groups
 ms:assetid: 5952f91e-fdd5-47bf-ba56-ccd4a4bb058b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677840(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677840(v=AX.60)
 ms:contentKeyID: 49385804
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ You can create and manage excise tax groups that determine the excise duty calcu
 
 ## See also
 
-[(IND) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj664688\(v=ax.60\))
+[(IND) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj664688\(v=ax.60\))
 
   
 

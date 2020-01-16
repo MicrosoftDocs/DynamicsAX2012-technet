@@ -2,8 +2,9 @@
 title: (IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions
 TOCTitle: (IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions
 ms:assetid: b85f064a-2c11-4c12-bed1-7f6a0dc6d25f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664835(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664835(v=AX.60)
 ms:contentKeyID: 49386165
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ You can define automatically allocated charges for a specific vendor, a specific
 
 ## See also
 
-[(IND) Auto charges (modified form)](https://technet.microsoft.com/en-us/library/jj664811\(v=ax.60\))
+[(IND) Auto charges (modified form)](https://technet.microsoft.com/library/jj664811\(v=ax.60\))
 
 [(IND) Create a purchase order and post charges](ind-create-a-purchase-order-and-post-charges.md)
 

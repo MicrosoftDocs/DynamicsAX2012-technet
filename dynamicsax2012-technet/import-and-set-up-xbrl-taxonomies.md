@@ -2,8 +2,9 @@
 title: Import and set up XBRL taxonomies
 TOCTitle: Import and set up XBRL taxonomies
 ms:assetid: 0282381a-d979-41d4-8373-1185bd8e47a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569696(v=AX.60)
 ms:contentKeyID: 36055931
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,9 +50,9 @@ You must download the taxonomy files that you need before you import them.
 
 ## See also
 
-[XBRL taxonomy (form)](https://technet.microsoft.com/en-us/library/aa556714\(v=ax.60\))
+[XBRL taxonomy (form)](https://technet.microsoft.com/library/aa556714\(v=ax.60\))
 
-[Taxonomy details (form)](https://technet.microsoft.com/en-us/library/aa618475\(v=ax.60\))
+[Taxonomy details (form)](https://technet.microsoft.com/library/aa618475\(v=ax.60\))
 
   
 

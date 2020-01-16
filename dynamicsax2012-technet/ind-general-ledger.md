@@ -2,8 +2,9 @@
 title: (IND) General ledger
 TOCTitle: (IND) General ledger
 ms:assetid: 3d1199e4-57e5-4323-a07c-e339e0e548c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664635(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664635(v=AX.60)
 ms:contentKeyID: 49385712
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

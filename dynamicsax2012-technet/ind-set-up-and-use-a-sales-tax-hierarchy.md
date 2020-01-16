@@ -2,8 +2,9 @@
 title: (IND) Set up and use a sales tax hierarchy
 TOCTitle: (IND) Set up and use a sales tax hierarchy
 ms:assetid: 85f0f5b0-7968-49d9-823a-656c4a83b7f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn528665(v=AX.60)
 ms:contentKeyID: 59636749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -79,7 +80,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Set up the parameter for India sales tax. For more information, see <a href="ind-activate-sales-tax-parameters.md">(IND) Activate sales tax parameters</a>.</p>
 <p></p>
 <p>Set up sales tax codes, sales tax groups, and item sales tax groups. For more information, see <a href="ind-set-up-sales-tax-codes.md">(IND) Set up sales tax codes</a>, <a href="ind-set-up-sales-tax-groups-for-vat.md">(IND) Set up sales tax groups for VAT</a>, and <a href="ind-create-item-sales-tax-groups.md">(IND) Create item sales tax groups</a>.</p>
-<p>Set up tax components for sales tax. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664734(v=ax.60)">(IND) Tax components (form)</a>.</p>
+<p>Set up tax components for sales tax. For more information, see <a href="https://technet.microsoft.com/library/jj664734(v=ax.60)">(IND) Tax components (form)</a>.</p>
 <p>Set up service codes. For more information, see <a href="ind-set-up-service-codes-for-service-goods.md">(IND) Set up service codes for service goods</a>.</p></td>
 </tr>
 </tbody>

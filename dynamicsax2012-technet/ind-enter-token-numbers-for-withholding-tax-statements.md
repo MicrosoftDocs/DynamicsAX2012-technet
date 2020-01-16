@@ -2,8 +2,9 @@
 title: (IND) Enter token numbers for withholding tax statements
 TOCTitle: (IND) Enter token numbers for withholding tax statements
 ms:assetid: f8674497-b48a-4872-94d3-8d616f273117
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710972(v=AX.60)
 ms:contentKeyID: 49386384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ For more information, see [(IND) Generate 26Q or 27Q quarterly statements for TD
 
 ## See also
 
-[(IND) Token numbers (form)](https://technet.microsoft.com/en-us/library/jj664673\(v=ax.60\))
+[(IND) Token numbers (form)](https://technet.microsoft.com/library/jj664673\(v=ax.60\))
 
   
 

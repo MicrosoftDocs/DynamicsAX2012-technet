@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDialogV1.GenericSearch Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GenericSearch Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.GenericSearch(System.Data.DataTable,System.Data.DataRow@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.genericsearch(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.genericsearch(v=AX.60)
 ms:contentKeyID: 47343917
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ DialogResult GenericSearch(
 #### Parameters
 
   - dataTable  
-    Type: [System.Data.DataTable](https://technet.microsoft.com/en-us/library/9186hy08\(v=ax.60\))  
+    Type: [System.Data.DataTable](https://technet.microsoft.com/library/9186hy08\(v=ax.60\))  
 
 <!-- end list -->
 
   - selectedRow  
-    Type: [System.Data.DataRow](https://technet.microsoft.com/en-us/library/7f2d84ta\(v=ax.60\))  
+    Type: [System.Data.DataRow](https://technet.microsoft.com/library/7f2d84ta\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/en-us/library/5ahe29t9\(v=ax.60\))  
+Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/library/5ahe29t9\(v=ax.60\))  
 One of the DialogResult values.  
 
 ## Remarks

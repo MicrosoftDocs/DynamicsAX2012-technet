@@ -2,8 +2,9 @@
 title: (IND) Set up parameters for the extended features for India
 TOCTitle: (IND) Set up parameters for the extended features for India
 ms:assetid: ee7a79ef-20e9-4ab3-b069-194ccaa0e4b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710937(v=AX.60)
 ms:contentKeyID: 49386349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use the **General ledger parameters** form to activate parameters for miscellane
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Set up sales tax codes
 TOCTitle: (IND) Set up sales tax codes
 ms:assetid: f938efdb-19e5-4731-8ba6-e07c4acafbe1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710975(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710975(v=AX.60)
 ms:contentKeyID: 49386387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,9 +66,9 @@ You can define the sales tax codes for the **India sales tax**, **VAT**, **Excis
 
 ## See also
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
-[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
+[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/library/jj664855\(v=ax.60\))
 
   
 

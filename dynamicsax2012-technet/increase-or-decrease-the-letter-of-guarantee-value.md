@@ -2,8 +2,9 @@
 title: Increase or decrease the letter of guarantee value
 TOCTitle: Increase or decrease the letter of guarantee value
 ms:assetid: 4a5558a5-0607-462e-a0b8-d843726f2fcd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208707(v=AX.60)
 ms:contentKeyID: 36056962
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

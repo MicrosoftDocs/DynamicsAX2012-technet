@@ -2,8 +2,9 @@
 title: (IND) Apply service tax to intercompany transactions
 TOCTitle: (IND) Apply service tax to intercompany transactions
 ms:assetid: bdbd5fff-5bc1-4ef6-a710-780977f81de0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664850(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664850(v=AX.60)
 ms:contentKeyID: 49386180
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -83,7 +84,7 @@ You cannot post the related purchase order because the invoice amount in the pur
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Import label files into the new model store
 TOCTitle: Import label files into the new model store
 ms:assetid: a6e7c246-0478-4b8c-83d0-cc9dc32a5a3d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731886(v=AX.60)
 ms:contentKeyID: 35132797
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

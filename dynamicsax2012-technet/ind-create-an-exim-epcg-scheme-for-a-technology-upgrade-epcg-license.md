@@ -2,8 +2,9 @@
 title: (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license
 TOCTitle: (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license
 ms:assetid: 45cb9452-2dce-4836-aced-45420f35ac62
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664662(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664662(v=AX.60)
 ms:contentKeyID: 49385736
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

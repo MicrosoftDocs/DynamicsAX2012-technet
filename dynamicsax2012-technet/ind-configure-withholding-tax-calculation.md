@@ -2,8 +2,9 @@
 title: (IND) Configure withholding tax calculation
 TOCTitle: (IND) Configure withholding tax calculation
 ms:assetid: bee2e9ad-2635-423f-8d90-aa6842aeb953
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344874(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn344874(v=AX.60)
 ms:contentKeyID: 56117705
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tbody>
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
-<td><p>Select the <strong>Activate TDS</strong>, <strong>Invoice</strong>, <strong>Payment</strong>, and <strong>Service tax</strong> check boxes in the <strong>General ledger parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p>
+<td><p>Select the <strong>Activate TDS</strong>, <strong>Invoice</strong>, <strong>Payment</strong>, and <strong>Service tax</strong> check boxes in the <strong>General ledger parameters</strong> form. For more information, see <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p>
 <div class="alert">
 
 > [!NOTE]
@@ -68,7 +69,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Create sales tax codes, sales tax groups, and item sales tax groups for indirect taxes. For more information, see <a href="ind-set-up-sales-tax-groups-for-vat.md">(IND) Set up sales tax groups for VAT</a>, <a href="ind-create-item-sales-tax-groups.md">(IND) Create item sales tax groups</a>, and <a href="https://technet.microsoft.com/en-us/library/jj664688(v=ax.60)">(IND) Sales tax groups (modified form)</a>.</p></td>
+<td><p>Create sales tax codes, sales tax groups, and item sales tax groups for indirect taxes. For more information, see <a href="ind-set-up-sales-tax-groups-for-vat.md">(IND) Set up sales tax groups for VAT</a>, <a href="ind-create-item-sales-tax-groups.md">(IND) Create item sales tax groups</a>, and <a href="https://technet.microsoft.com/library/jj664688(v=ax.60)">(IND) Sales tax groups (modified form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +83,7 @@ To set up a withholding tax group for the **TDS** tax type, follow these steps:
 
 1.  Click **General ledger** \> **Setup** \> **Withholding tax** \> **Withholding tax groups**.
 
-2.  Create a withholding tax group. For more information, see [(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj677874\(v=ax.60\)).
+2.  Create a withholding tax group. For more information, see [(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/library/jj677874\(v=ax.60\)).
 
 3.  In the **Tax type** field, select **TDS**.
 
@@ -174,9 +175,9 @@ To set up the withholding tax calculation for a vendor, follow these steps:
 
 [Calculate and post withholding tax](calculate-and-post-withholding-tax.md)
 
-[(IND) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj678004\(v=ax.60\))
+[(IND) Customers (modified form)](https://technet.microsoft.com/library/jj678004\(v=ax.60\))
 
-[(IND) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj664890\(v=ax.60\))
+[(IND) Vendors (modified form)](https://technet.microsoft.com/library/jj664890\(v=ax.60\))
 
 [(IND) About recalculation of indirect taxes](ind-about-recalculation-of-indirect-taxes.md)
 

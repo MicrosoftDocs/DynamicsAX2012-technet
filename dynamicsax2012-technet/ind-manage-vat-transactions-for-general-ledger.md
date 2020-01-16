@@ -2,8 +2,9 @@
 title: (IND) Manage VAT transactions for General ledger
 TOCTitle: (IND) Manage VAT transactions for General ledger
 ms:assetid: ebaaa76a-a266-4c32-88ea-b8ffa427664e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710908(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710908(v=AX.60)
 ms:contentKeyID: 49386320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

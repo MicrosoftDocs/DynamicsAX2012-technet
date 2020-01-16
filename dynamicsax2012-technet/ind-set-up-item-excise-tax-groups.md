@@ -2,8 +2,9 @@
 title: (IND) Set up item excise tax groups
 TOCTitle: (IND) Set up item excise tax groups
 ms:assetid: 57395474-730d-4198-aef4-969c9c257c83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677826(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677826(v=AX.60)
 ms:contentKeyID: 49385790
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -116,9 +117,9 @@ Refer to the following examples for defining the calculation expression for exci
 
 ## See also
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\))
+[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\))
 
 [(IND) Setting up excise tax groups and item tax groups](ind-setting-up-excise-tax-groups-and-item-tax-groups.md)
 

@@ -2,8 +2,9 @@
 title: (IND) Generate Form 27D TCS certificate
 TOCTitle: (IND) Generate Form 27D TCS certificate
 ms:assetid: 6ef35429-ddb1-4ad0-a05b-8249f0338293
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677921(v=AX.60)
 ms:contentKeyID: 49385891
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

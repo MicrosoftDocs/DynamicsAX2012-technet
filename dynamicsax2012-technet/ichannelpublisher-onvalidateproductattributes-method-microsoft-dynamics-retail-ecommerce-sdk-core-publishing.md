@@ -1,9 +1,10 @@
-﻿---
+---
 title: IChannelPublisher.OnValidateProductAttributes Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: OnValidateProductAttributes Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.IChannelPublisher.OnValidateProductAttributes(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeProduct})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.ichannelpublisher.onvalidateproductattributes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.ichannelpublisher.onvalidateproductattributes(v=AX.60)
 ms:contentKeyID: 65317777
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ void OnValidateProductAttributes(
 #### Parameters
 
   - attributes  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<AttributeProduct\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<AttributeProduct\>  
 
 ## See Also
 

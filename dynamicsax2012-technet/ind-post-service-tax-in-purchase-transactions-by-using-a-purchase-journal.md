@@ -2,8 +2,9 @@
 title: (IND) Post service tax in purchase transactions by using a Purchase journal
 TOCTitle: (IND) Post service tax in purchase transactions by using a Purchase journal
 ms:assetid: d6f98db8-4b05-4a57-bfa4-58834f731631
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664954(v=AX.60)
 ms:contentKeyID: 49386283
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ Use the **Purchase order** form to identify the ledger accounts that the service
 
 [(IND) Calculate service tax for a purchase order](ind-calculate-service-tax-for-a-purchase-order.md)
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
   
 

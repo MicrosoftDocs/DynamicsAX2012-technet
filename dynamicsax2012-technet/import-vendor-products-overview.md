@@ -2,8 +2,9 @@
 title: Import vendor products overview
 TOCTitle: Import vendor products overview
 ms:assetid: 8569fd89-dcd4-481f-b60b-0d192c1e56ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597150(v=AX.60)
 ms:contentKeyID: 39519206
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ The following table lists the forms that support the Importing vendor products b
 <tbody>
 <tr class="odd">
 <td><p>Set up a vendor’s product numbers.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597108(v=ax.60)">External product descriptions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597108(v=ax.60)">External product descriptions (form)</a></p></td>
 <td><p>Map an external vendor’s product identifier and dimensions to an internal product.</p></td>
 </tr>
 <tr class="even">
@@ -75,22 +76,22 @@ The following table lists the forms that support the Importing vendor products b
 </tr>
 <tr class="odd">
 <td><p>Import a product data file from a vendor.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209505(v=ax.60)">Catalog approval page (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209505(v=ax.60)">Catalog approval page (form)</a></p></td>
 <td><p>Review and approve the vendor products to add them to the product master.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209525(v=ax.60)">Update catalog (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209525(v=ax.60)">Update catalog (form)</a></p></td>
 <td><p>Add a new CMR file for a vendor.</p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227602(v=ax.60)">Vendor catalog import parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227602(v=ax.60)">Vendor catalog import parameters (form)</a></p></td>
 <td><p>Set up the parameters that are used to store the CMR files that are received from vendors, and import the product data.</p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227480(v=ax.60)">Vendor catalogs (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227480(v=ax.60)">Vendor catalogs (list page)</a></p></td>
 <td><p>Create a catalog file to store the CMR files that are received from vendors, configure the vendor for catalog import, and generate the retail vendor template that is used to create the CMR files.</p></td>
 </tr>
 <tr class="odd">
@@ -100,7 +101,7 @@ The following table lists the forms that support the Importing vendor products b
 </tr>
 <tr class="even">
 <td><p>Set up sales price margins for vendors.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580650(v=ax.60)">Vendor sales price margin setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580650(v=ax.60)">Vendor sales price margin setup (form)</a></p></td>
 <td><p>Set up a formula that converts the vendor's suggested retail price or the vendor's purchase price to a sales price in local currency. This formula is used only if an entry for the product does not exist in the vendor's sales price points.</p></td>
 </tr>
 <tr class="odd">
@@ -110,7 +111,7 @@ The following table lists the forms that support the Importing vendor products b
 </tr>
 <tr class="even">
 <td><p>Set up sales price points for vendors.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597319(v=ax.60)">Vendor sales price point setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597319(v=ax.60)">Vendor sales price point setup (form)</a></p></td>
 <td><p>Create a sales price point that converts the suggested retail prices of a vendor’s products to sales prices in local currency.</p></td>
 </tr>
 </tbody>

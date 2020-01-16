@@ -2,8 +2,9 @@
 title: (IND) Create an inventory model group for capital items
 TOCTitle: (IND) Create an inventory model group for capital items
 ms:assetid: 163894d4-f610-4a3e-b9ac-1c5390b4f335
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664511(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664511(v=AX.60)
 ms:contentKeyID: 49385590
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Inventory issues are settled against the first receipts into inventory based on 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa577092(v=ax.60)">Item model groups (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa577092(v=ax.60)">Item model groups (form)</A>.</P>
 
 
 
@@ -53,9 +54,9 @@ Inventory issues are settled against the first receipts into inventory based on 
 
 ## See also
 
-[(IND) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664669\(v=ax.60\))
+[(IND) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj664669\(v=ax.60\))
 
-[(IND) Posting (modified form)](https://technet.microsoft.com/en-us/library/jj664940\(v=ax.60\))
+[(IND) Posting (modified form)](https://technet.microsoft.com/library/jj664940\(v=ax.60\))
 
   
 

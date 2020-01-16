@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodeLineItemV1.OriginType Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: OriginType Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IInfoCodeLineItemV1.OriginType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitemv1.origintype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitemv1.origintype(v=AX.60)
 ms:contentKeyID: 49825252
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Create an export order for DBK scheme
 TOCTitle: (IND) Create an export order for DBK scheme
 ms:assetid: a2161eae-0252-471d-a87a-1d6c125f587c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664726(v=AX.60)
 ms:contentKeyID: 49386057
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -85,7 +86,7 @@ Update the duty drawback details on the **Line details** FastTab in the **Tax in
 
 ## See also
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
   
 
