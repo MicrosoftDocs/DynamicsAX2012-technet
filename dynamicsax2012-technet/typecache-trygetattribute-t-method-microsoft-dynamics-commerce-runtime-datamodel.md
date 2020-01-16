@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCache.TryGetAttribute(T) Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TryGetAttribute(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache.TryGetAttribute``1(System.Reflection.PropertyInfo,``0@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn969171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn969171(v=AX.60)
 ms:contentKeyID: 65322786
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ static bool TryGetAttribute(
 #### Parameters
 
   - property  
-    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
+    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -72,7 +73,7 @@ static bool TryGetAttribute(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 A value indicating whether the attribute is specified by the property or not.  
 
 ## See Also

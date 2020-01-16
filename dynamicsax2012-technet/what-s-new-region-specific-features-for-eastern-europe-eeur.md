@@ -2,8 +2,9 @@
 title: "What's new: Region-specific features for Eastern Europe (EEUR)"
 TOCTitle: Region-specific features for Eastern Europe
 ms:assetid: a9c8746f-192f-4b74-b7d3-ac8f936a9e66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527196(v=AX.60)
 ms:contentKeyID: 59623325
+author: Khairunj
 ms.date: 11/20/2014
 mtps_version: v=AX.60
 ---
@@ -118,7 +119,7 @@ For more information about specific features for Eastern Europe, see [TechNet Li
 <li><p>Conditional tax postings, when an invoice is settled with a payment that has conditional tax applied</p></li>
 <li><p>Cross-company settlements, when an invoice is settled with a payment between different companies by using intercompany functionality</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj730993(v=ax.60)">(EEUR) Customer transactions (modified form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj730985(v=ax.60)">(EEUR) Vendor transactions (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj730993(v=ax.60)">(EEUR) Customer transactions (modified form)</a> and <a href="https://technet.microsoft.com/library/jj730985(v=ax.60)">(EEUR) Vendor transactions (modified form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>European Union (EU) sales list reporting for Eastern Europe</p></td>
@@ -135,7 +136,7 @@ For more information about specific features for Eastern Europe, see [TechNet Li
 <ul>
 <li><p><a href="cze-create-and-correct-records-in-the-eu-sales-list.md">(CZE) Create and correct records in the EU sales list</a></p></li>
 <li><p><a href="hun-create-and-submit-the-eu-sales-list.md">(HUN) Create and submit the EU sales list</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj665133(v=ax.60)">(LTU) EU sales list (modified form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj665133(v=ax.60)">(LTU) EU sales list (modified form)</a></p></li>
 <li><p><a href="lva-print-the-eu-sales-list-report.md">(LVA) Print the EU sales list report</a></p></li>
 <li><p><a href="pol-set-parameters-for-the-eu-sales-list.md">(POL) Set parameters for the EU sales list</a></p></li>
 </ul></td>

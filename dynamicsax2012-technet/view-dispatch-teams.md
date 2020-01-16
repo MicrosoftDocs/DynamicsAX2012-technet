@@ -2,8 +2,9 @@
 title: View dispatch teams
 TOCTitle: View dispatch teams
 ms:assetid: de1a6f1b-606c-4fb2-9266-0aaa30ba5ad7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243199(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243199(v=AX.60)
 ms:contentKeyID: 36059686
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ For information about how to assign a worker to a team, see [Set up a preferred 
 
 [Monitor service activities](monitor-service-activities.md)
 
-[Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\))
+[Dispatch board (form)](https://technet.microsoft.com/library/hh242789\(v=ax.60\))
 
   
 

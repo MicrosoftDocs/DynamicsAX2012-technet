@@ -2,8 +2,9 @@
 title: View training course tracks
 TOCTitle: View training course tracks
 ms:assetid: 67079523-67db-4dea-9b44-da7699cec4b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271548(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271548(v=AX.60)
 ms:contentKeyID: 36384180
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

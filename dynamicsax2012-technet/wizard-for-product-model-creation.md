@@ -2,8 +2,9 @@
 title: Wizard for product model creation
 TOCTitle: Wizard for product model creation
 ms:assetid: 5f11d9f5-642b-4fa8-9c01-fceb64c2a6b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549114(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549114(v=AX.60)
 ms:contentKeyID: 36057586
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

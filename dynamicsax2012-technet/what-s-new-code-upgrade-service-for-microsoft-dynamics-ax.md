@@ -2,8 +2,9 @@
 title: "What's new: Code Upgrade Service for Microsoft Dynamics AX"
 TOCTitle: Code Upgrade Service for Microsoft Dynamics AX
 ms:assetid: d4c683ab-8843-4f51-8554-bb7ea0e9e3fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527251(v=AX.60)
 ms:contentKeyID: 59623379
+author: Khairunj
 ms.date: 10/29/2014
 mtps_version: v=AX.60
 ---

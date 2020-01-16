@@ -2,8 +2,9 @@
 title: Vendor foreign currency revaluation report (VendExchRateAdjustment)
 TOCTitle: Vendor foreign currency revaluation report (VendExchRateAdjustment)
 ms:assetid: 7866d276-5e4c-4470-aafe-f780f757bb60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa615392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa615392(v=AX.60)
 ms:contentKeyID: 37832010
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Use this report to view and print the details of the foreign currency revaluatio
 
 
 > [!IMPORTANT]
-> <P>You can view and print this report only if you select the <STRONG>Print</STRONG> check box in the <STRONG>Foreign currency revaluation</STRONG> form immediately before you run the foreign currency revaluation. The report is not saved for later reference. You can always view the ledger and vendor transactions that are created in a particular run of the revaluation. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa500833(v=ax.60)">Vendor foreign currency revaluation (form)</A>.</P>
+> <P>You can view and print this report only if you select the <STRONG>Print</STRONG> check box in the <STRONG>Foreign currency revaluation</STRONG> form immediately before you run the foreign currency revaluation. The report is not saved for later reference. You can always view the ledger and vendor transactions that are created in a particular run of the revaluation. For more information, see <A href="https://technet.microsoft.com/library/aa500833(v=ax.60)">Vendor foreign currency revaluation (form)</A>.</P>
 
 
 
@@ -95,7 +96,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [About foreign currency revaluations for open vendor transactions](about-foreign-currency-revaluations-for-open-vendor-transactions.md)
 
-[Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/en-us/library/aa554435\(v=ax.60\))
+[Vendor foreign currency revaluation periodic job (class form)](https://technet.microsoft.com/library/aa554435\(v=ax.60\))
 
   
 

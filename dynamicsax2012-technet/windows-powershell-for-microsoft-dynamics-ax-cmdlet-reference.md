@@ -1,9 +1,10 @@
-﻿---
+---
 title: Windows PowerShell for Microsoft Dynamics AX cmdlet reference
 TOCTitle: Windows PowerShell for Microsoft Dynamics AX cmdlet reference
 ms:assetid: 2EA5A363-3B21-228B-4DF4-3C8491201740
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh881574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh881574(v=AX.60)
 ms:contentKeyID: 45769061
+author: Khairunj
 ms.date: 12/17/2013
 mtps_version: v=AX.60
 ---

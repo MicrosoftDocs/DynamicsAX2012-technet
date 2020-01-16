@@ -2,8 +2,9 @@
 title: (USA) Print checks report (Cheque_US)
 TOCTitle: (USA) Print checks report (Cheque_US)
 ms:assetid: 37b4ae80-9cee-4753-91d1-2d665126659a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242663(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242663(v=AX.60)
 ms:contentKeyID: 36058105
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

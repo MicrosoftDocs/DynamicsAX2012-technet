@@ -1,9 +1,10 @@
-﻿---
+---
 title: Using Queries to Access Report Data
 TOCTitle: Using Queries to Access Report Data
 ms:assetid: 71b1dc5f-df23-4809-9d7c-79cf272884d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456301(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456301(v=AX.60)
 ms:contentKeyID: 36997727
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

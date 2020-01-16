@@ -2,8 +2,9 @@
 title: 'Virtual company scenarios: Supply chain management (SCM)'
 TOCTitle: 'Virtual company scenarios: Supply chain management (SCM)'
 ms:assetid: 2b597c20-5c14-4be4-a737-47e78e27757c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ556268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ556268(v=AX.60)
 ms:contentKeyID: 49089839
+author: Khairunj
 ms.date: 05/30/2014
 mtps_version: v=AX.60
 ---

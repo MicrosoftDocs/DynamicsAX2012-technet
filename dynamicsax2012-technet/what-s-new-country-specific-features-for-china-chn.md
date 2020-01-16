@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for China (CHN)"
 TOCTitle: Country-specific features for China
 ms:assetid: 3bf77a0d-698d-4bcc-af87-335fce37d147
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507105(v=AX.60)
 ms:contentKeyID: 59623195
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
@@ -273,8 +274,8 @@ To learn more about additional country-specific features that we added for China
 </ul>
 <p>For more information, see the following topics:</p>
 <ul>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj664101(v=ax.60)">(CHN) Chart of accounts (modified form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj664026(v=ax.60)">(CHN) Item posting (modified form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj664101(v=ax.60)">(CHN) Chart of accounts (modified form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj664026(v=ax.60)">(CHN) Item posting (modified form)</a></p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -286,7 +287,7 @@ To learn more about additional country-specific features that we added for China
 <td><p>Changes to bank account reconciliation and the fiscal calendar for China</p></td>
 <td><p>You can reconcile bank statements for bank accounts that are active. You cannot change the bank account status to inactive if the account has any reconciliation journals that are open.</p>
 <p>You can also validate the closing of accounting periods in the <strong>Ledger calendar</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664094(v=ax.60)">(CHN) Ledger calendar (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664094(v=ax.60)">(CHN) Ledger calendar (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Maintain China-specific information in legal entities and the chart of accounts.</p></td>
@@ -322,7 +323,7 @@ To learn more about additional country-specific features that we added for China
 <tr class="even">
 <td><p>Issue VAT invoices by using a free text invoice.</p></td>
 <td><p>You can now issue VAT invoices from the <strong>Free-text invoice</strong> form.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj664126(v=ax.60)">(CHN) Free text invoice (modified form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj664126(v=ax.60)">(CHN) Free text invoice (modified form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Report information for GB/T 24589-2010 in China</p></td>

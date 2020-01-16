@@ -1,9 +1,10 @@
-﻿---
+---
 title: STSFormBasedAuthWebConfigDeactivationJob Properties (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: STSFormBasedAuthWebConfigDeactivationJob Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSFormBasedAuthWebConfigDeactivationJob
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigdeactivationjob_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigdeactivationjob_properties(v=AX.60)
 ms:contentKeyID: 62204401
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

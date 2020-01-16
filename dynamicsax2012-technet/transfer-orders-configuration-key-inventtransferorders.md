@@ -2,8 +2,9 @@
 title: Transfer Orders configuration key (InventTransferOrders)
 TOCTitle: Transfer Orders configuration key (InventTransferOrders)
 ms:assetid: fba1c24e-f8df-4960-8e7e-e69d7bd549fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa634862(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa634862(v=AX.60)
 ms:contentKeyID: 36993560
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,15 +40,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Default values</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599241(v=ax.60)">Set up default parameters for picking list (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599241(v=ax.60)">Set up default parameters for picking list (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Default values</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618623(v=ax.60)">Set up receipt (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618623(v=ax.60)">Set up receipt (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Default values</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553093(v=ax.60)">Set up shipment (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553093(v=ax.60)">Set up shipment (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Deliver remainder</strong></p></td>
@@ -67,7 +68,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Release transfer order picking</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328766(v=ax.60)">(PM) Release transfer order picking (form)</a> <a href="https://technet.microsoft.com/en-us/library/aa587324(v=ax.60)">Release transfer order picking (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328766(v=ax.60)">(PM) Release transfer order picking (form)</a> <a href="https://technet.microsoft.com/library/aa587324(v=ax.60)">Release transfer order picking (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Select</strong></p></td>
@@ -83,11 +84,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Transfer order history</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575833(v=ax.60)">Transfer order history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575833(v=ax.60)">Transfer order history (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transfer orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328698(v=ax.60)">(PM) Transfer orders (form)</a> <a href="https://technet.microsoft.com/en-us/library/aa634530(v=ax.60)">Transfer orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328698(v=ax.60)">(PM) Transfer orders (form)</a> <a href="https://technet.microsoft.com/library/aa634530(v=ax.60)">Transfer orders (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Transfer orders</strong></p></td>
@@ -129,7 +130,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

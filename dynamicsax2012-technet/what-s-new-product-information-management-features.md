@@ -2,8 +2,9 @@
 title: "What's new: Product information management features"
 TOCTitle: Product information management features
 ms:assetid: 44620561-2b42-4a4d-99f6-c952b74de93d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507124(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507124(v=AX.60)
 ms:contentKeyID: 59623213
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -64,7 +65,7 @@ We have changed and added functionality in the [Product information management](
 <tr class="odd">
 <td><p>The <strong>Configuration</strong> form in Product configurator is easier to extend</p></td>
 <td><p>To improve the extendibility of the <strong>Configure line</strong> form that is used during a configuration session in Product configurator, a new form that is based on X++ is now available as the default configuration form. Businesses can now select whether they want to use a configuration form that is based on the Windows Presentation Foundation, or one that is based on X++.</p>
-<p>For more information about customizing Microsoft Dynamics AX forms, see the topic titled <a href="https://technet.microsoft.com/en-us/library/aa881211(v=ax.60)">Forms in Microsoft Dynamics AX</a>.</p></td>
+<p>For more information about customizing Microsoft Dynamics AX forms, see the topic titled <a href="https://technet.microsoft.com/library/aa881211(v=ax.60)">Forms in Microsoft Dynamics AX</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Improvements to planning tools</p>
@@ -78,7 +79,7 @@ We have changed and added functionality in the [Product information management](
 <td><p>Improvements made to the overview of production information, approval and calculation of worker registration on projection jobs, and worker absences</p>
 <p></p></td>
 <td><p>Fields and controls have been added to the <strong>Edit job list</strong> form to provide shop floor supervisors with a better overview of the production information involved in production orders. The additions include an improved ability to prioritize jobs, change the resource that is assigned to a selected job, add attachments, and view information about the materials and route directly from the <strong>Edit job list</strong> form.</p>
-<p>For more information, see the topic titled <a href="https://technet.microsoft.com/en-us/library/hh209583(v=ax.60)">Edit job list (form)</a>.</p>
+<p>For more information, see the topic titled <a href="https://technet.microsoft.com/library/hh209583(v=ax.60)">Edit job list (form)</a>.</p>
 <p>Improvements have also been made to the features for approving and calculating worker registrations on production jobs and absence. A new <strong>Week</strong> view has been added to enable an approver to view and manage registrations for an individual worker for a full work week.</p>
 <p>For more information, see the topic titled <a href="about-calculating-approving-and-transferring-registrations.md">About calculating, approving and transferring registrations</a>.</p></td>
 </tr>

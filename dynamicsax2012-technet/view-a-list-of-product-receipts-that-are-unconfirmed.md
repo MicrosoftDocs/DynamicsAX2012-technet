@@ -2,8 +2,9 @@
 title: View a list of product receipts that are unconfirmed
 TOCTitle: View a list of product receipts that are unconfirmed
 ms:assetid: b8770f3b-6937-4355-a74d-68123cc6bc4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271634(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271634(v=AX.60)
 ms:contentKeyID: 36384266
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

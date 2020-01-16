@@ -2,8 +2,9 @@
 title: Vendor portal configuration key (VSS)
 TOCTitle: Vendor portal configuration key (VSS)
 ms:assetid: 2c989f58-ccef-4654-9455-1834880e2bbd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433447(v=AX.60)
 ms:contentKeyID: 36941198
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -75,7 +76,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

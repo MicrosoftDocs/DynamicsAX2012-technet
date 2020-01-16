@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Italy (ITA)"
 TOCTitle: Country-specific features for Italy
 ms:assetid: 9d4e046e-1fb9-4997-b9cd-8206981a7531
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527202(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527202(v=AX.60)
 ms:contentKeyID: 59623331
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

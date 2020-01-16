@@ -2,8 +2,9 @@
 title: Troubleshoot issues in Async Server or Async Client
 TOCTitle: Troubleshoot issues in Async Server or Async Client
 ms:assetid: 0405aece-8e58-47c4-a460-47dfc0563092
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn750875(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn750875(v=AX.60)
 ms:contentKeyID: 62369570
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Deploying the Document Service in an Outbound Exchange'
 TOCTitle: 'Walkthrough: Deploying the Document Service in an Outbound Exchange'
 ms:assetid: 5f807796-8b0e-4903-a803-91c46eb3295c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696875(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh696875(v=AX.60)
 ms:contentKeyID: 42517319
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -282,7 +283,7 @@ The sendElectronically method gets the entity key for the selected journal, call
 
 
 > [!NOTE]
-> <P>Parallel processing distributes the processing of messages across one or more instances of Application Object Server (AOS). To enable parallel processing for outbound messages, you use two optional parameters, processingMode and conversationID, in the call to the <A href="https://technet.microsoft.com/en-us/library/gg742775(v=ax.60)">AifSendServicesubmitDefault()</A> method.</P>
+> <P>Parallel processing distributes the processing of messages across one or more instances of Application Object Server (AOS). To enable parallel processing for outbound messages, you use two optional parameters, processingMode and conversationID, in the call to the <A href="https://technet.microsoft.com/library/gg742775(v=ax.60)">AifSendServicesubmitDefault()</A> method.</P>
 > <P>The following example code illustrates the signature of the submitDefault method.</P>
 > <UL>
 > <LI><PRE><CODE>public static void submitDefault(     AifServiceClassId serviceClassId,     AifEntityKey entityKey,     AifConstraintList constraintList,     AifSendMode sendMode,    [AifPropertyBag propertyBag = connull(),     AifProcessingMode processingMode =  AifProcessingMode::Parallel,     AifConversationId conversationId = #NoConversationId ]  )</CODE></PRE></LI></UL>

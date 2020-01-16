@@ -2,8 +2,9 @@
 title: Submit a document (Enterprise Portal)
 TOCTitle: Submit a document
 ms:assetid: 72643284-d1ef-4320-b4fe-4b883b8e4104
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271562(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271562(v=AX.60)
 ms:contentKeyID: 36384193
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

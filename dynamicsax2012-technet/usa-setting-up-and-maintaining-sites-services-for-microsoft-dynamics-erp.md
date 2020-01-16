@@ -2,8 +2,9 @@
 title: (USA) Setting up and maintaining Sites Services for Microsoft Dynamics ERP
 TOCTitle: (USA) Setting up and maintaining Sites Services for Microsoft Dynamics ERP
 ms:assetid: 45a86490-6b6d-4d66-be0b-e3fe94078d6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242382(v=AX.60)
 ms:contentKeyID: 36056895
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

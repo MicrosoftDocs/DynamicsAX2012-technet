@@ -2,8 +2,9 @@
 title: Using the Microsoft Dynamics AX Add-in for Excel
 TOCTitle: Using the Microsoft Dynamics AX Add-in for Excel
 ms:assetid: b6319a3d-b9cc-4795-bbf4-403a71a9b89a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781099(v=AX.60)
 ms:contentKeyID: 43894512
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

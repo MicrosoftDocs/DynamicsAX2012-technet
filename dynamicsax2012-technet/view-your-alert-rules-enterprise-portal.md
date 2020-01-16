@@ -2,8 +2,9 @@
 title: View your alert rules (Enterprise Portal)
 TOCTitle: View your alert rules
 ms:assetid: 30f3c9bb-2b58-4430-9225-13cca296e19e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271491(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271491(v=AX.60)
 ms:contentKeyID: 36384123
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

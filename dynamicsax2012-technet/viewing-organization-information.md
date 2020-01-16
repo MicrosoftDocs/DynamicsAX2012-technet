@@ -2,8 +2,9 @@
 title: Viewing organization information
 TOCTitle: Viewing organization information
 ms:assetid: 11a1af2f-8161-48e7-883d-a6f6268d5792
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271455(v=AX.60)
 ms:contentKeyID: 36384087
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

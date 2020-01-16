@@ -2,8 +2,9 @@
 title: View your vendor invoices
 TOCTitle: View your vendor invoices
 ms:assetid: ab22da0b-caf4-4482-9380-f224473a7821
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271621(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271621(v=AX.60)
 ms:contentKeyID: 36384253
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

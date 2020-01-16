@@ -2,8 +2,9 @@
 title: Workflow actions
 TOCTitle: Workflow actions
 ms:assetid: ff86d512-f01e-4089-93b1-1a5810587ed8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362144(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362144(v=AX.60)
 ms:contentKeyID: 35133354
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: View payments made to a vendor
 TOCTitle: View payments made to a vendor
 ms:assetid: c5c31cbc-64cd-4764-96d9-27014dd4da3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213643(v=AX.60)
 ms:contentKeyID: 36059303
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ You can also search for a specific invoice number or purchase order number to vi
 
 ## See also
 
-[Payment history (form)](https://technet.microsoft.com/en-us/library/hh209407\(v=ax.60\))
+[Payment history (form)](https://technet.microsoft.com/library/hh209407\(v=ax.60\))
 
 [Print copies of payments as non-negotiable checks](print-copies-of-payments-as-non-negotiable-checks.md)
 

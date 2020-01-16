@@ -2,8 +2,9 @@
 title: Use stage reason codes
 TOCTitle: Use stage reason codes
 ms:assetid: bb4cc6a7-9187-4258-b516-09d6a9b43f9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213593(v=AX.60)
 ms:contentKeyID: 37832529
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

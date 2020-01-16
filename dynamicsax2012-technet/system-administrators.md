@@ -2,8 +2,9 @@
 title: System administrators
 TOCTitle: System administrators
 ms:assetid: 58b6c1a7-6e12-47c4-9ab6-d8c3182c5d59
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731797(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731797(v=AX.60)
 ms:contentKeyID: 35132642
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

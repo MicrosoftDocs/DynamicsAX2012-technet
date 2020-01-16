@@ -2,8 +2,9 @@
 title: (SWE) Set up a bank account for BG direct debit payments
 TOCTitle: (SWE) Set up a bank account for BG direct debit payments
 ms:assetid: e93f8835-583b-495e-ae93-6a3312ec96ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227475(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227475(v=AX.60)
 ms:contentKeyID: 36059843
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ Use the **Bank accounts** form to set up a bank account for Bank giro (BG) direc
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  On the **Action Pane**, click **Bank account** to create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  On the **Action Pane**, click **Bank account** to create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 3.  Click the **General** FastTab, and in the **Bank account** field, select the bank account.
 

@@ -2,8 +2,9 @@
 title: (USA) Create and register a Facebook or Twitter application
 TOCTitle: (USA) Create and register a Facebook or Twitter application
 ms:assetid: 9bd5492a-cd7a-4cf3-a8c1-d57821e6b6f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682098(v=AX.60)
 ms:contentKeyID: 49655585
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: View the transactions of a foreign currency revaluation
 TOCTitle: View the transactions of a foreign currency revaluation
 ms:assetid: 455db52e-deef-471a-95e5-390e63874867
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496980(v=AX.60)
 ms:contentKeyID: 36056893
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ Use this procedure to view the transactions that are created by a foreign curren
 
 ## See also
 
-[Customer foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa586009\(v=ax.60\))
+[Customer foreign currency revaluation (form)](https://technet.microsoft.com/library/aa586009\(v=ax.60\))
 
 [About foreign currency revaluations for open customer transactions](about-foreign-currency-revaluations-for-open-customer-transactions.md)
 
-[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa500833\(v=ax.60\))
+[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/library/aa500833\(v=ax.60\))
 
 [About foreign currency revaluations for open vendor transactions](about-foreign-currency-revaluations-for-open-vendor-transactions.md)
 

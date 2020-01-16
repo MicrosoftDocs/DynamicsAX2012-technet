@@ -2,8 +2,9 @@
 title: Vendor aging report (VendAgingReport)
 TOCTitle: Vendor aging report (VendAgingReport)
 ms:assetid: e4367f5e-2525-4ad0-aa6b-196513d4c026
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620148(v=AX.60)
 ms:contentKeyID: 36060671
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -187,7 +188,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\))
+[Aging period definitions (form)](https://technet.microsoft.com/library/aa634713\(v=ax.60\))
 
   
 

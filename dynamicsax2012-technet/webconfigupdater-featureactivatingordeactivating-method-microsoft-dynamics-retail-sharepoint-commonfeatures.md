@@ -1,9 +1,10 @@
-﻿---
+---
 title: WebConfigUpdater.FeatureActivatingOrDeactivating Method  (Microsoft.Dynamics.Retail.SharePoint.CommonFeatures)
 TOCTitle: FeatureActivatingOrDeactivating Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.WebConfigUpdater.FeatureActivatingOrDeactivating(Microsoft.SharePoint.SPFeatureReceiverProperties,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.featureactivatingordeactivating(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.featureactivatingordeactivating(v=AX.60)
 ms:contentKeyID: 62206211
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ virtual void FeatureActivatingOrDeactivating(
 <!-- end list -->
 
   - isActivation  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

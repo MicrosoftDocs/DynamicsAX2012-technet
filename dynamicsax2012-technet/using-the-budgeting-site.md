@@ -2,8 +2,9 @@
 title: Using the Budgeting site
 TOCTitle: Using the Budgeting site
 ms:assetid: 12c56c4e-2ab8-4c4a-b23c-126149bc482c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677296(v=AX.60)
 ms:contentKeyID: 49384067
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

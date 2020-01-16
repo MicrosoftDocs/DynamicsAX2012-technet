@@ -2,8 +2,9 @@
 title: Using the preprocessing upgrade state transfer tool
 TOCTitle: Using the preprocessing upgrade state transfer tool
 ms:assetid: 414e3d48-f088-4e59-815e-0f8ad50da298
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731784(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731784(v=AX.60)
 ms:contentKeyID: 35132615
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

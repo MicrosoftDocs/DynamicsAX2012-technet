@@ -2,8 +2,9 @@
 title: "What's new: Backup and recovery"
 TOCTitle: Backup and recovery
 ms:assetid: 94bd9f02-cd04-44bf-82f2-32ebfae1e6b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527176(v=AX.60)
 ms:contentKeyID: 59623305
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

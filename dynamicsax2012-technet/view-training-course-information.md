@@ -2,8 +2,9 @@
 title: View training course information
 TOCTitle: View training course information
 ms:assetid: ed831dfa-d7dd-4609-b7fa-b014dc591416
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299219(v=AX.60)
 ms:contentKeyID: 36384326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

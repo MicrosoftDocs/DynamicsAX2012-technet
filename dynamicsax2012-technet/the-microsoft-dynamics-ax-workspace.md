@@ -2,8 +2,9 @@
 title: The Microsoft Dynamics AX workspace
 TOCTitle: The Microsoft Dynamics AX workspace
 ms:assetid: 1a6cad45-a2a9-4726-82ae-2a7ca3e52c61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230970(v=AX.60)
 ms:contentKeyID: 36056121
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -156,7 +157,7 @@ Some forms, such as the **Worker** form, have additional buttons on the status b
 
 [Common user interface elements](common-user-interface-elements.md)
 
-[Options (class form)](https://technet.microsoft.com/en-us/library/aa618202\(v=ax.60\))
+[Options (class form)](https://technet.microsoft.com/library/aa618202\(v=ax.60\))
 
   
 

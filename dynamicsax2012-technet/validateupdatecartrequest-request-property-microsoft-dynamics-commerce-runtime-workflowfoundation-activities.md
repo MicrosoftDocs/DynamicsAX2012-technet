@@ -1,9 +1,10 @@
-﻿---
+---
 title: ValidateUpdateCartRequest.Request Property  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: Request Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.ValidateUpdateCartRequest.Request
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.validateupdatecartrequest.request(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.validateupdatecartrequest.request(v=AX.60)
 ms:contentKeyID: 65316376
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

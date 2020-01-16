@@ -2,8 +2,9 @@
 title: "What's new: Procurement and sourcing features"
 TOCTitle: Procurement and sourcing features
 ms:assetid: 7c8d311d-a6af-47c8-8012-fc5a9d5136dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527153(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527153(v=AX.60)
 ms:contentKeyID: 59623282
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <tr class="odd">
 <td><p>Import commodity codes and minimum or maximum order quantities into vendor catalogs.</p></td>
 <td><p>Vendors can generate catalogs that include standard commodity codes, and those codes can be automatically mapped to procurement categories in Microsoft Dynamics AX. Vendors must comply with the Microsoft Dynamics AX customer’s unit of measure for quantities. Vendors can specify minimum, maximum, and standard order quantities for products in the vendor catalog. Vendors can also specify the lead time, which is the number of days that a vendor requires between the order date and the shipment date.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242810(v=ax.60)">Import categories (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh242810(v=ax.60)">Import categories (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enhancements to the catalog import schema.</p></td>
@@ -208,7 +209,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <td><p>Enhancements to the <strong>Purchase requisitions</strong> form</p></td>
 <td><p>The <strong>Purchase requisitions</strong> form has been modified to provide an intuitive user experience for both the novice or casual requester and the power user. Therefore, the requisitioning process is both efficient and effective.</p>
 <p>The <strong>Purchase requisitions</strong> form is now dynamic and includes only the fields that are important in the context of the purchase request.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209453(v=ax.60)">Purchase requisitions (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209453(v=ax.60)">Purchase requisitions (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Manage categories on a daily basis.</p></td>
@@ -474,7 +475,7 @@ We have changed and added functionality in the [Procurement and sourcing](procur
 <tr class="odd">
 <td><p>Finalize purchase orders and purchase order lines.</p></td>
 <td><p>You can finalize purchase order lines that have been completed. A line is completed when the ordered quantity has been received in full and matched to vendor invoices. The whole purchase order can be finalized if all its lines have been completed or canceled.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209586(v=ax.60)">Finalize purchase order (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209586(v=ax.60)">Finalize purchase order (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

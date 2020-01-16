@@ -2,8 +2,9 @@
 title: Use System Center Operations Manager with Microsoft Dynamics AX
 TOCTitle: Use System Center Operations Manager with Microsoft Dynamics AX
 ms:assetid: f47d74f0-a607-4510-87ee-2fb6ffa9609d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh867994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh867994(v=AX.60)
 ms:contentKeyID: 45715653
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

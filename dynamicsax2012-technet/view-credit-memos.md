@@ -2,8 +2,9 @@
 title: View credit memos
 TOCTitle: View credit memos
 ms:assetid: 4e31fa3d-f642-4748-a4f6-da7bce519094
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580634(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580634(v=AX.60)
 ms:contentKeyID: 39519125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

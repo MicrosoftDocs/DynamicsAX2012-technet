@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Mexico (MEX)"
 TOCTitle: Country-specific features for Mexico
 ms:assetid: ded8ca28-8b3a-49ec-98f1-2e0795c6c9b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527245(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527245(v=AX.60)
 ms:contentKeyID: 59623373
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
@@ -85,7 +86,7 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 <p>For more information, see the following topics:</p>
 <ul>
 <li><p><a href="bra-mex-set-up-general-ledger-to-reverse-and-update-opposite-sign-amounts.md">(BRA, MEX) Set up General ledger to reverse and update opposite sign amounts</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></li>
 </ul></td>
 </tr>
 </tbody>

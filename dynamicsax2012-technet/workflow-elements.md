@@ -2,8 +2,9 @@
 title: Workflow elements
 TOCTitle: Workflow elements
 ms:assetid: 244f32e8-6f95-4f86-bfe5-57b8aa6f667d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309626(v=AX.60)
 ms:contentKeyID: 35132582
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

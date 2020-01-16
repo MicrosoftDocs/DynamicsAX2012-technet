@@ -2,8 +2,9 @@
 title: Worker/item consumption (2 periods) report (ProjConsumEmpl2Prd)
 TOCTitle: Worker/item consumption (2 periods) report (ProjConsumEmpl2Prd)
 ms:assetid: 91532301-a02f-40ab-9af7-04837518e43d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220730(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220730(v=AX.60)
 ms:contentKeyID: 37832023
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

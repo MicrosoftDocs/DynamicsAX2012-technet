@@ -2,8 +2,9 @@
 title: "What's new: Management Reporter for Microsoft Dynamics"
 TOCTitle: Management Reporter for Microsoft Dynamics
 ms:assetid: 04c4c06b-1562-4b01-b60b-6ca1ff62e0bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn495055(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn495055(v=AX.60)
 ms:contentKeyID: 62200280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

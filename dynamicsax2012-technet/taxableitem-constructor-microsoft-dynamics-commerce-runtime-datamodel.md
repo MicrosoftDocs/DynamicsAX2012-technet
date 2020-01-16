@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxableItem Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TaxableItem Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.taxableitem.taxableitem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxableitem.taxableitem(v=AX.60)
 ms:contentKeyID: 49850727
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

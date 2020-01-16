@@ -2,8 +2,9 @@
 title: Tools used for analytics
 TOCTitle: Tools used for analytics
 ms:assetid: 499c97af-ab44-4815-8cb0-d4493e9c66ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731920(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731920(v=AX.60)
 ms:contentKeyID: 35132848
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

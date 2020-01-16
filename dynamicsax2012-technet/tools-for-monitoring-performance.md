@@ -2,8 +2,9 @@
 title: Tools for monitoring performance
 TOCTitle: Tools for monitoring performance
 ms:assetid: 2e740397-8bf2-41d1-8855-98b4397a5b83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ149695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ149695(v=AX.60)
 ms:contentKeyID: 47541246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -19,7 +20,7 @@ We recommend the following tools for monitoring the performance of Microsoft Dyn
     
       - [Install the Trace Parser](install-the-trace-parser.md)
     
-      - [Tracing Cockpit Form](https://technet.microsoft.com/en-us/library/hh272149\(v=ax.60\))
+      - [Tracing Cockpit Form](https://technet.microsoft.com/library/hh272149\(v=ax.60\))
     
       - [Walk through major features of Microsoft Dynamics AX 2012 Trace Parser (Part 1)](http://blogs.msdn.com/b/axperf/archive/2011/08/15/walk-through-major-features-of-microsoft-dynamics-ax-2012.aspx)
     

@@ -2,8 +2,9 @@
 title: "What's new: Financial dimensions framework"
 TOCTitle: Financial dimensions framework
 ms:assetid: 9fe71c7a-f872-41dd-bd98-93ea26946c51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527192(v=AX.60)
 ms:contentKeyID: 59623321
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

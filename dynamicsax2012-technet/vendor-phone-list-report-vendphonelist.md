@@ -2,8 +2,9 @@
 title: Vendor phone list report (VendPhoneList)
 TOCTitle: Vendor phone list report (VendPhoneList)
 ms:assetid: 1986ea54-f263-4436-b022-b41461c931d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572512(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572512(v=AX.60)
 ms:contentKeyID: 39508865
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

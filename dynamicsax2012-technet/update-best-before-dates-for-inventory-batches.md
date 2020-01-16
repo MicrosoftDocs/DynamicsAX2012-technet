@@ -2,8 +2,9 @@
 title: Update best before dates for inventory batches
 TOCTitle: Update best before dates for inventory batches
 ms:assetid: e77a9b79-2c5e-4c56-ab65-a5684ccc2e13
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328598(v=AX.60)
 ms:contentKeyID: 36688024
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,9 +51,9 @@ Use this procedure to update the best before date that is applied to a single in
 
 ## See also
 
-[Best before as of date (form)](https://technet.microsoft.com/en-us/library/hh227546\(v=ax.60\))
+[Best before as of date (form)](https://technet.microsoft.com/library/hh227546\(v=ax.60\))
 
-[Update best before dates (form)](https://technet.microsoft.com/en-us/library/hh209458\(v=ax.60\))
+[Update best before dates (form)](https://technet.microsoft.com/library/hh209458\(v=ax.60\))
 
   
 

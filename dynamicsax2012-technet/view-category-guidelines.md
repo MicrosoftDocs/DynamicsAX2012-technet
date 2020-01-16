@@ -2,8 +2,9 @@
 title: View category guidelines
 TOCTitle: View category guidelines
 ms:assetid: 7b3e6930-5958-499e-9fe9-2f87e87627b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209263(v=AX.60)
 ms:contentKeyID: 36058255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ The following are additional examples of procurement category guidelines:
 
 [Set up policies for category hierarchies](set-up-policies-for-category-hierarchies.md)
 
-[Category guidelines (form)](https://technet.microsoft.com/en-us/library/hh208977\(v=ax.60\))
+[Category guidelines (form)](https://technet.microsoft.com/library/hh208977\(v=ax.60\))
 
   
 

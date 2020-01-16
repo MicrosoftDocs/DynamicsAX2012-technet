@@ -2,8 +2,9 @@
 title: Telemarketing license code (smmTelemarketing)
 TOCTitle: Telemarketing license code (smmTelemarketing)
 ms:assetid: cc8a0649-b81a-42a2-9085-4817432af863
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416689(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416689(v=AX.60)
 ms:contentKeyID: 36931850
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -57,7 +58,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

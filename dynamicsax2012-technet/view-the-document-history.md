@@ -1,9 +1,10 @@
-﻿---
+---
 title: View the document history
 TOCTitle: View the document history
 ms:assetid: ad9b57ee-2d9f-4a49-a831-7b7ff6c33db6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834426(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834426(v=AX.60)
 ms:contentKeyID: 35132806
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

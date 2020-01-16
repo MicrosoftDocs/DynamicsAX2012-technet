@@ -2,8 +2,9 @@
 title: (USA) Set up IAT ACH file parameters
 TOCTitle: (USA) Set up IAT ACH file parameters
 ms:assetid: 15d1aa39-0b7f-48ae-b44b-bbd42f32caf5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242149(v=AX.60)
 ms:contentKeyID: 36056066
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,17 +25,17 @@ The National Automated Clearing House Association (NACHA) and Office of Foreign 
 
 Complete the following tasks before you generate an IAT EFT file:
 
-  - Set up information for your company in the **Legal entities** form. These details are used as the originator information when the IAT Electronic File Transmission (EFT) file is generated. For more information, see [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\)).
+  - Set up information for your company in the **Legal entities** form. These details are used as the originator information when the IAT Electronic File Transmission (EFT) file is generated. For more information, see [Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\)).
 
-  - Set up bank account details, such as **Bank account**, **Routing number type**, **Routing number**, and **SWIFT code**, for your company in the **Bank accounts** form. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)) and .
+  - Set up bank account details, such as **Bank account**, **Routing number type**, **Routing number**, and **SWIFT code**, for your company in the **Bank accounts** form. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)) and .
 
   - Set up details for the vendor who receives the payment in the **Vendors** form. These details are used as the receiver or beneficiary information in the IAT EFT file. For more information, see [Create a vendor account](create-a-vendor-account.md).
 
-  - Set up bank account details for the vendor in the **Vendor bank accounts** form. These details are used as the receiver Depository Financial Institution (DFI) information in the IAT EFT file. For more information, see [Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\)).
+  - Set up bank account details for the vendor in the **Vendor bank accounts** form. These details are used as the receiver Depository Financial Institution (DFI) information in the IAT EFT file. For more information, see [Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\)).
 
   - Set up details for the customer who receives a refund in the **Customers** form. These details are used as the originator information in the IAT EFT file. For more information, see [Create a customer record](create-a-customer-record.md).
 
-  - Set up bank account details for the customer in the **Customer bank accounts** form. These details are used as the originator DFI information in the IAT EFT files. For more information, see [Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\)).
+  - Set up bank account details for the customer in the **Customer bank accounts** form. These details are used as the originator DFI information in the IAT EFT files. For more information, see [Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\)).
 
 ## Set up a method of payment
 

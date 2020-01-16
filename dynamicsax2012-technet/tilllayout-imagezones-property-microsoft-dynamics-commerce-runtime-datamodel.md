@@ -1,9 +1,10 @@
-﻿---
+---
 title: TillLayout.ImageZones Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ImageZones Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TillLayout.ImageZones
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.tilllayout.imagezones(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tilllayout.imagezones(v=AX.60)
 ms:contentKeyID: 62208434
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property ICollection<ImageZone^>^ ImageZones {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[ImageZone](imagezone-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)).  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[ImageZone](imagezone-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).  
 
 ## See Also
 

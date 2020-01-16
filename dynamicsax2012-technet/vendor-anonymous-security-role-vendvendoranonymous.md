@@ -2,8 +2,9 @@
 title: Vendor anonymous security role (VendVendorAnonymous)
 TOCTitle: Vendor anonymous security role (VendVendorAnonymous)
 ms:assetid: 3825519a-8064-4c64-8b2d-cd7131f69347
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527080(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527080(v=AX.60)
 ms:contentKeyID: 37823132
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

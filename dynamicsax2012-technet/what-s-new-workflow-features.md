@@ -2,8 +2,9 @@
 title: "What's new: Workflow features"
 TOCTitle: Workflow features
 ms:assetid: 379dee01-56e9-4f06-9f5d-403f4322e58e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507093(v=AX.60)
 ms:contentKeyID: 59623181
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -43,7 +44,7 @@ For more information about the elements that you can use to control the flow of 
 
 You can now add automated tasks to workflows. An automated task runs business logic and requires no human interaction. For example, an automated task can perform a credit check, run a report, or update a record.
 
-Before you can add an automated task to a workflow, a software developer must create the automated task. For information about how to create an automated task, see [How to: Create a Workflow Automated Task](https://technet.microsoft.com/en-us/library/gg864388\(v=ax.60\)). After the automated task is created, you can add it to a workflow and configure it. For more information, see [Configure an automated task](configure-an-automated-task.md).
+Before you can add an automated task to a workflow, a software developer must create the automated task. For information about how to create an automated task, see [How to: Create a Workflow Automated Task](https://technet.microsoft.com/library/gg864388\(v=ax.60\)). After the automated task is created, you can add it to a workflow and configure it. For more information, see [Configure an automated task](configure-an-automated-task.md).
 
 ## Line-item workflows
 

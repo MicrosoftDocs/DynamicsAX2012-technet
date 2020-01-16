@@ -2,8 +2,9 @@
 title: Worker payment register report (PayrollWorkerPaymentRegister)
 TOCTitle: Worker payment register report (PayrollWorkerPaymentRegister)
 ms:assetid: 17ccfa7d-fae4-4498-8a88-07beb758abce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ713632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ713632(v=AX.60)
 ms:contentKeyID: 49643128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

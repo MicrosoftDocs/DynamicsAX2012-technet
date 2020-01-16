@@ -2,8 +2,9 @@
 title: "What's new: Analytics"
 TOCTitle: Analytics
 ms:assetid: 1b492ede-79e7-442b-a7c6-a4536cca7254
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507140(v=AX.60)
 ms:contentKeyID: 59623245
+author: Khairunj
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 ---

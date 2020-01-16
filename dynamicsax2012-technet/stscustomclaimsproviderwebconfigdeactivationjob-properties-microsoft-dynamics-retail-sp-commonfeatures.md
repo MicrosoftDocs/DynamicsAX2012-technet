@@ -1,9 +1,10 @@
-﻿---
+---
 title: STSCustomClaimsProviderWebConfigDeactivationJob Properties (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: STSCustomClaimsProviderWebConfigDeactivationJob Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSCustomClaimsProviderWebConfigDeactivationJob
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.stscustomclaimsproviderwebconfigdeactivationjob_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stscustomclaimsproviderwebconfigdeactivationjob_properties(v=AX.60)
 ms:contentKeyID: 62202245
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

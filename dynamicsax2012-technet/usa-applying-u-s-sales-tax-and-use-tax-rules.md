@@ -2,8 +2,9 @@
 title: (USA) Applying U.S. sales tax and use tax rules
 TOCTitle: (USA) Applying U.S. sales tax and use tax rules
 ms:assetid: a261cfd2-5900-4a38-afa7-5a34360939b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571829(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571829(v=AX.60)
 ms:contentKeyID: 36058799
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Using Business Logic in Report Data Methods to Access Report Data
 TOCTitle: Using Business Logic in Report Data Methods to Access Report Data
 ms:assetid: 2afe6073-cf98-436d-add7-7a54008a8b78
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc585863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc585863(v=AX.60)
 ms:contentKeyID: 28119325
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

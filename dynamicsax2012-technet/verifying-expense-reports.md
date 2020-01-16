@@ -2,8 +2,9 @@
 title: Verifying expense reports
 TOCTitle: Verifying expense reports
 ms:assetid: 24c77b34-1b58-41d5-bd56-82da9be2979b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230994(v=AX.60)
 ms:contentKeyID: 36811400
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

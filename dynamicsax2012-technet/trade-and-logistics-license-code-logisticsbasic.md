@@ -2,8 +2,9 @@
 title: Trade and logistics license code (LogisticsBasic)
 TOCTitle: Trade and logistics license code (LogisticsBasic)
 ms:assetid: e7a6adf0-8509-4692-afc1-3daff2271efc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467572(v=AX.60)
 ms:contentKeyID: 36991719
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 ---
@@ -73,7 +74,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

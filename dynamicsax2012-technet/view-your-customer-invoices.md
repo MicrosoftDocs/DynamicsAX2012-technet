@@ -2,8 +2,9 @@
 title: View your customer invoices
 TOCTitle: View your customer invoices
 ms:assetid: 1ea67bc3-4ee9-4c6d-9f5a-4bb56cb180f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271470(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271470(v=AX.60)
 ms:contentKeyID: 36384102
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

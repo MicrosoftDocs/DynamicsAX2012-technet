@@ -2,8 +2,9 @@
 title: Workflow concepts
 TOCTitle: Workflow concepts
 ms:assetid: d8e99602-0dff-4fee-a981-fee5af9874a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732122(v=AX.60)
 ms:contentKeyID: 35133068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

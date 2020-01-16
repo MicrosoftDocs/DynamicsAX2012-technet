@@ -2,8 +2,9 @@
 title: Submit a document
 TOCTitle: Submit a document
 ms:assetid: d8a2e330-c3f8-40bd-9375-d03fe3611830
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213711(v=AX.60)
 ms:contentKeyID: 35949366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

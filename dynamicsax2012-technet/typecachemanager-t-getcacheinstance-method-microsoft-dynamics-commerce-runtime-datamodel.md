@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCacheManager(T).GetCacheInstance Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetCacheInstance Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCacheManager`1.GetCacheInstance(System.Type,System.Func{System.Type,`0})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988029(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988029(v=AX.60)
 ms:contentKeyID: 65316822
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,12 +58,12 @@ T GetCacheInstance(
 #### Parameters
 
   - type  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 <!-- end list -->
 
   - creator  
-    Type: [System.Func](https://technet.microsoft.com/en-us/library/bb549151\(v=ax.60\))\<[Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\)), [T](typecachemanager-t-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Func](https://technet.microsoft.com/library/bb549151\(v=ax.60\))\<[Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\)), [T](typecachemanager-t-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 #### Return Value
 

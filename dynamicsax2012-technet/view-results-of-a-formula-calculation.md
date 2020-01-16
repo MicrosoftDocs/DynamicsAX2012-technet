@@ -2,8 +2,9 @@
 title: View results of a formula calculation
 TOCTitle: View results of a formula calculation
 ms:assetid: 7d8cf254-2598-4a38-9a13-da49b31fc9f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352259(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352259(v=AX.60)
 ms:contentKeyID: 36687885
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ Use this procedure to calculate and view the results of a formula calculation.
 
 ## See also
 
-[Formula calculation results (form)](https://technet.microsoft.com/en-us/library/hh352362\(v=ax.60\))
+[Formula calculation results (form)](https://technet.microsoft.com/library/hh352362\(v=ax.60\))
 
-[Item price (form)](https://technet.microsoft.com/en-us/library/hh803026\(v=ax.60\))
+[Item price (form)](https://technet.microsoft.com/library/hh803026\(v=ax.60\))
 
-[Released products (list page)](https://technet.microsoft.com/en-us/library/hh597154\(v=ax.60\))
+[Released products (list page)](https://technet.microsoft.com/library/hh597154\(v=ax.60\))
 
   
 

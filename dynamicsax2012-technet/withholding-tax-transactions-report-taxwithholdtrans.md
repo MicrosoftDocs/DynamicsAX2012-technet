@@ -2,8 +2,9 @@
 title: Withholding tax transactions report (TaxWithholdTrans)
 TOCTitle: Withholding tax transactions report (TaxWithholdTrans)
 ms:assetid: f3eae7ba-18aa-43c4-bda5-65a3b87838c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa600264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa600264(v=AX.60)
 ms:contentKeyID: 36931906
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

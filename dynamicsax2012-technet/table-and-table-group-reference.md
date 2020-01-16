@@ -2,8 +2,9 @@
 title: Table and table group reference
 TOCTitle: Table and table group reference
 ms:assetid: 0d41cc20-f60d-4b0e-8f5d-6dca9fb0d82a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731855(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731855(v=AX.60)
 ms:contentKeyID: 35132719
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

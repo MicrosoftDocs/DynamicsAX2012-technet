@@ -2,8 +2,9 @@
 title: Test the system after upgrade
 TOCTitle: Test the system after upgrade
 ms:assetid: cf2ee620-5d14-4fac-bd2f-76d855357812
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548696(v=AX.60)
 ms:contentKeyID: 35132894
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

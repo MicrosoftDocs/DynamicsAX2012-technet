@@ -2,8 +2,9 @@
 title: (THA) Withholding tax report (TaxWithholdReport_TH)
 TOCTitle: (THA) Withholding tax report (TaxWithholdReport_TH)
 ms:assetid: 2c14b810-3af7-4e86-91ac-d1aaee31e5fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352244(v=AX.60)
 ms:contentKeyID: 36687869
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

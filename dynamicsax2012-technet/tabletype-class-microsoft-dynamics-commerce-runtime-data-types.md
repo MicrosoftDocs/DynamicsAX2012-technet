@@ -1,9 +1,10 @@
-﻿---
+---
 title: TableType Class (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: TableType Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Data.Types.TableType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.types.tabletype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.tabletype(v=AX.60)
 ms:contentKeyID: 65318923
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ public ref class TableType abstract : IDisposable
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.Data.Types.TableType  
     [Microsoft.Dynamics.Commerce.Runtime.Data.Types.ItemVariantInventoryDimensionTableType](itemvariantinventorydimensiontabletype-class-microsoft-dynamics-commerce-runtime-data-types.md)  
     [Microsoft.Dynamics.Commerce.Runtime.Data.Types.JoinableTableType](joinabletabletype-class-microsoft-dynamics-commerce-runtime-data-types.md)  

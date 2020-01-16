@@ -2,8 +2,9 @@
 title: " vendor analysis report"
 TOCTitle: " vendor analysis report"
 ms:assetid: DynamicsAXGlossary.1354396
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1354396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1354396(v=AX.60)
 ms:contentKeyID: 36056460
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ A document that displays vendor invoice amounts summarized by one or more dimens
 
 [location](location.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [product](product.md)
 

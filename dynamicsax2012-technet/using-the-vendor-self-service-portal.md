@@ -2,8 +2,9 @@
 title: Using the Vendor self-service portal
 TOCTitle: Using the Vendor self-service portal
 ms:assetid: 9c7bceac-297f-4cf9-92b2-2e09bf2e0f9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271610(v=AX.60)
 ms:contentKeyID: 36384242
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (USA) Create a payment journal and generate the IAT transmission file
 TOCTitle: (USA) Create a payment journal and generate the IAT transmission file
 ms:assetid: cb94ad70-9743-45ee-8eeb-62696c7f51c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242854(v=AX.60)
 ms:contentKeyID: 36059343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -96,7 +97,7 @@ You can generate the NACHA – IAT transmission file for vendor payments and cus
 
 [(USA) Set up IAT ACH file parameters](usa-set-up-iat-ach-file-parameters.md)
 
-[(USA) NACHA IAT information (form)](https://technet.microsoft.com/en-us/library/hh227435\(v=ax.60\))
+[(USA) NACHA IAT information (form)](https://technet.microsoft.com/library/hh227435\(v=ax.60\))
 
   
 

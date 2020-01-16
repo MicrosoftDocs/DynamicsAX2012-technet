@@ -2,8 +2,9 @@
 title: Windows PowerShell for Microsoft Dynamics AX
 TOCTitle: Windows PowerShell for Microsoft Dynamics AX
 ms:assetid: c9852f5b-0fee-4b80-8317-62f014187549
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556863(v=AX.60)
 ms:contentKeyID: 39509593
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Customizing a Default Cube'
 TOCTitle: 'Walkthrough: Customizing a Default Cube'
 ms:assetid: 23b8d390-c2a2-4839-8839-de5e3127bf54
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd252602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd252602(v=AX.60)
 ms:contentKeyID: 28119321
+author: Khairunj
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---

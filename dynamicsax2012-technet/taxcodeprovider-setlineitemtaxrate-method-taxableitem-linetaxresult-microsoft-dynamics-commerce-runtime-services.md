@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxCodeProvider.SetLineItemTaxRate Method (TaxableItem, LineTaxResult) (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: SetLineItemTaxRate Method (TaxableItem, LineTaxResult)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeProvider.SetLineItemTaxRate(Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem,Microsoft.Dynamics.Commerce.Runtime.Services.LineTaxResult)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.setlineitemtaxrate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.setlineitemtaxrate(v=AX.60)
 ms:contentKeyID: 49852426
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

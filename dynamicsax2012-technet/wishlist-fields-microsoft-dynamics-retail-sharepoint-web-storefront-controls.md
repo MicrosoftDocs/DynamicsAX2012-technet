@@ -1,9 +1,10 @@
-﻿---
+---
 title: WishList Fields (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls)
 TOCTitle: WishList Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.WishList
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.wishlist_fields(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.wishlist_fields(v=AX.60)
 ms:contentKeyID: 62204416
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

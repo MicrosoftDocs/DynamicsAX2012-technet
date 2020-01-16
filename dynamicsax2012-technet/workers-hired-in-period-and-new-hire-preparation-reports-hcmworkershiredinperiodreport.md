@@ -2,8 +2,9 @@
 title: Workers hired in period and New hire preparation reports (HcmWorkersHiredInPeriodReport)
 TOCTitle: Workers hired in period and New hire preparation reports (HcmWorkersHiredInPeriodReport)
 ms:assetid: 3bc01d14-2905-4bb1-b0b0-80d19d8e0a50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268417(v=AX.60)
 ms:contentKeyID: 54916956
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

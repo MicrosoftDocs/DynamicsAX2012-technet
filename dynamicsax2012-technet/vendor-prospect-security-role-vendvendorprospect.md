@@ -2,8 +2,9 @@
 title: Vendor prospect security role (VendVendorProspect)
 TOCTitle: Vendor prospect security role (VendVendorProspect)
 ms:assetid: 368033ee-7dfb-4740-8ab9-c1cc892d6714
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527078(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527078(v=AX.60)
 ms:contentKeyID: 37823130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Workflow cube (WorkflowCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Workflow cube (WorkflowCube)
 ms:assetid: 05464503-9af8-4593-b61f-5de15e57b35e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh857319(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh857319(v=AX.60)
 ms:contentKeyID: 45688534
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

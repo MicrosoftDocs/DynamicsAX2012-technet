@@ -2,8 +2,9 @@
 title: Update project quotations
 TOCTitle: Update project quotations
 ms:assetid: 7d4f3880-05eb-4ad5-bc75-0e72cbff1513
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb176039(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb176039(v=AX.60)
 ms:contentKeyID: 36058300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -114,17 +115,17 @@ You can also use update multiple quotations at the same time by using a periodic
 
 ## See also
 
-[Project quotation (form)](https://technet.microsoft.com/en-us/library/aa557295\(v=ax.60\))
+[Project quotation (form)](https://technet.microsoft.com/library/aa557295\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Send quotation (class form)](https://technet.microsoft.com/en-us/library/aa589556\(v=ax.60\))
+[Send quotation (class form)](https://technet.microsoft.com/library/aa589556\(v=ax.60\))
 
-[Confirm quotation (class form)](https://technet.microsoft.com/en-us/library/aa571332\(v=ax.60\))
+[Confirm quotation (class form)](https://technet.microsoft.com/library/aa571332\(v=ax.60\))
 
-[Lose quotation (class form)](https://technet.microsoft.com/en-us/library/aa583731\(v=ax.60\))
+[Lose quotation (class form)](https://technet.microsoft.com/library/aa583731\(v=ax.60\))
 
-[Cancel quotation (class form)](https://technet.microsoft.com/en-us/library/aa634363\(v=ax.60\))
+[Cancel quotation (class form)](https://technet.microsoft.com/library/aa634363\(v=ax.60\))
 
   
 

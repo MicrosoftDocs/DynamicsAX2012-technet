@@ -2,8 +2,9 @@
 title: Technical diagrams for upgrade scenarios
 TOCTitle: Technical diagrams for upgrade scenarios
 ms:assetid: cd6a5e60-eb69-437a-a35d-616dc3cb9c9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133163(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133163(v=AX.60)
 ms:contentKeyID: 53356051
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

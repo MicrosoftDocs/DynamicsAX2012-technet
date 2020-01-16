@@ -2,8 +2,9 @@
 title: Testing products (sample)
 TOCTitle: Testing products (sample)
 ms:assetid: 1477a927-bd29-447d-80ed-6563d922dfcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230947(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230947(v=AX.60)
 ms:contentKeyID: 36056054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

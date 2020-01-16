@@ -2,8 +2,9 @@
 title: View benchmark reports
 TOCTitle: View benchmark reports
 ms:assetid: ff89de31-f899-4df7-ba63-e05fdcc4c452
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362145(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362145(v=AX.60)
 ms:contentKeyID: 39508897
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

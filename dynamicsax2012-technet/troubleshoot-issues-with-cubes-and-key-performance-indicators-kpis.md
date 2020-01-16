@@ -2,8 +2,9 @@
 title: Troubleshoot issues with cubes and key performance indicators (KPIs)
 TOCTitle: Troubleshoot issues with cubes and key performance indicators (KPIs)
 ms:assetid: aaadaba3-f3c5-4ebd-b867-95f146347d51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677280(v=AX.60)
 ms:contentKeyID: 49384051
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

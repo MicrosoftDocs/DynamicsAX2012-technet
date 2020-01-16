@@ -2,8 +2,9 @@
 title: Warehouse manager security role (WMSWarehouseManager)
 TOCTitle: Warehouse manager security role (WMSWarehouseManager)
 ms:assetid: 15050292-4252-40a2-9d11-ace82ce801d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527070(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527070(v=AX.60)
 ms:contentKeyID: 37823122
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

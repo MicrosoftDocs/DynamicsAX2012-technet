@@ -2,8 +2,9 @@
 title: What's new for developers
 TOCTitle: What's new for developers
 ms:assetid: c70aeb77-8672-4165-94cf-43eec4d07efe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527218(v=AX.60)
 ms:contentKeyID: 59623347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

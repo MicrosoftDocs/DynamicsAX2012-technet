@@ -2,8 +2,9 @@
 title: 'Walkthrough: Adding a table for customer preferences to the AX 2012 database'
 TOCTitle: 'Walkthrough: Extending the database schema'
 ms:assetid: 2a6f75bf-248c-41ff-a79d-0827255ba531
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720785(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720785(v=AX.60)
 ms:contentKeyID: 62231586
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -48,15 +49,15 @@ These walkthroughs illustrate adding a field to a retail channel that enables cu
 
 In the first walkthrough, you create a table to store the customer preferences. The following links provide background information about creating a new table.
 
-  - [How to: Create Tables](https://technet.microsoft.com/en-us/library/aa882181\(v=ax.60\))
+  - [How to: Create Tables](https://technet.microsoft.com/library/aa882181\(v=ax.60\))
 
-  - [Table Properties](https://technet.microsoft.com/en-us/library/aa871620\(v=ax.60\))
+  - [Table Properties](https://technet.microsoft.com/library/aa871620\(v=ax.60\))
 
-  - [Defining Table Relations](https://technet.microsoft.com/en-us/library/bb190076\(v=ax.60\))
+  - [Defining Table Relations](https://technet.microsoft.com/library/bb190076\(v=ax.60\))
 
-  - [How to: Add a Relation to a Table](https://technet.microsoft.com/en-us/library/aa556809\(v=ax.60\))
+  - [How to: Add a Relation to a Table](https://technet.microsoft.com/library/aa556809\(v=ax.60\))
 
-  - [Best Practices for Table Relations](https://technet.microsoft.com/en-us/library/aa880475\(v=ax.60\))
+  - [Best Practices for Table Relations](https://technet.microsoft.com/library/aa880475\(v=ax.60\))
 
 ## Create the RetailCustPreferences table
 

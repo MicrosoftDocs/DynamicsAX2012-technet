@@ -2,8 +2,9 @@
 title: Update a rebate program type
 TOCTitle: Update a rebate program type
 ms:assetid: 55dd2674-8b80-4c96-a727-fcf79f2a64ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352206(v=AX.60)
 ms:contentKeyID: 36687840
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use this procedure to update information for a rebate program type.
 
 [Create a rebate program type](create-a-rebate-program-type.md)
 
-[Rebate program types (form)](https://technet.microsoft.com/en-us/library/hh352270\(v=ax.60\))
+[Rebate program types (form)](https://technet.microsoft.com/library/hh352270\(v=ax.60\))
 
   
 

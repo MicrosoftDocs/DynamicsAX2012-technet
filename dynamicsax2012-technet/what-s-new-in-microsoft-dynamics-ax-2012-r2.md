@@ -2,8 +2,9 @@
 title: What's new in Microsoft Dynamics AX 2012 R2
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R2
 ms:assetid: 44593f89-d305-49ad-875a-b1d4e484ad61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn529285(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn529285(v=AX.60)
 ms:contentKeyID: 59644561
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -223,7 +224,7 @@ Other features were added or changed in AX 2012 R2.
 <tr class="odd">
 <td><p>Combine XPO</p></td>
 <td><p>The Combine XPO Tool is a command line program that combines a set of interdependent XPO files into a single XPO. It was moved from InformationSource into the product in AX 2012 R2.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj225589(v=ax.60)">Combine XPO Tool User Guide</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj225589(v=ax.60)">Combine XPO Tool User Guide</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Database split</p></td>

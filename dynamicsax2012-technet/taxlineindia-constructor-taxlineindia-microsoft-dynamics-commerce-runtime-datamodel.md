@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxLineIndia Constructor (TaxLineIndia) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TaxLineIndia Constructor (TaxLineIndia)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxLineIndia.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxLineIndia)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.taxlineindia.taxlineindia(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxlineindia.taxlineindia(v=AX.60)
 ms:contentKeyID: 62209597
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

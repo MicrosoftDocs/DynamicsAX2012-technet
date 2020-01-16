@@ -1,9 +1,10 @@
-﻿---
+---
 title: Utilities Methods (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: Utilities Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.utilities_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities_methods(v=AX.60)
 ms:contentKeyID: 62204874
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

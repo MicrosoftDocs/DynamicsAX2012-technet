@@ -2,8 +2,9 @@
 title: (USA) Comply with the Americans with Disabilities Act
 TOCTitle: (USA) Comply with the Americans with Disabilities Act
 ms:assetid: 17b65255-7688-4891-8b30-7814269a144a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230963(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230963(v=AX.60)
 ms:contentKeyID: 36056087
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

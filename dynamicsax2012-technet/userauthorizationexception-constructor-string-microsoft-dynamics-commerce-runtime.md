@@ -1,9 +1,10 @@
-﻿---
+---
 title: UserAuthorizationException Constructor (String) (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: UserAuthorizationException Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.UserAuthorizationException.#ctor(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.userauthorizationexception.userauthorizationexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.userauthorizationexception.userauthorizationexception(v=AX.60)
 ms:contentKeyID: 62210606
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ UserAuthorizationException(
 #### Parameters
 
   - errorResourceId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

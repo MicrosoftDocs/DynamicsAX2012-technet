@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Configuring an inbound integration port for catalog import'
 TOCTitle: 'Walkthrough: Configuring an inbound integration port for catalog import'
 ms:assetid: 9f843ab7-ea4a-47d1-a3a4-d5da5215281f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh533450(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh533450(v=AX.60)
 ms:contentKeyID: 39056466
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

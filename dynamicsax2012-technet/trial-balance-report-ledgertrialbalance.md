@@ -2,8 +2,9 @@
 title: Trial balance report (LedgerTrialBalance)
 TOCTitle: Trial balance report (LedgerTrialBalance)
 ms:assetid: adfc67a0-4681-4ad4-afe3-2dfb4e12fd0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589532(v=AX.60)
 ms:contentKeyID: 36060211
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 f1_keywords:

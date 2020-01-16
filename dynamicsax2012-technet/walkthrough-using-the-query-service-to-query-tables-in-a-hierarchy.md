@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Using the Query Service to Query Tables in a Hierarchy'
 TOCTitle: 'Walkthrough: Using the Query Service to Query Tables in a Hierarchy'
 ms:assetid: 15c944d2-e4a6-4d7b-b790-83567a96a0b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg843785(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg843785(v=AX.60)
 ms:contentKeyID: 35240628
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -15,7 +16,7 @@ dev_langs:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This walkthrough shows you how to call the query service and retrieve data from tables that implement table inheritance in Microsoft Dynamics AX. When the query service returns data from tables that are part of a table hierarchy, it returns the data for the base table and for each table that derives from the base table in DataTable objects in a single DataSet. The records in the base DataTable are related to the derived DataTables through DataRelation objects. For more information about table inheritance, see [Walkthrough: Creating Base and Derived Tables](https://technet.microsoft.com/en-us/library/gg844024\(v=ax.60\)).
+This walkthrough shows you how to call the query service and retrieve data from tables that implement table inheritance in Microsoft Dynamics AX. When the query service returns data from tables that are part of a table hierarchy, it returns the data for the base table and for each table that derives from the base table in DataTable objects in a single DataSet. The records in the base DataTable are related to the derived DataTables through DataRelation objects. For more information about table inheritance, see [Walkthrough: Creating Base and Derived Tables](https://technet.microsoft.com/library/gg844024\(v=ax.60\)).
 
 This walkthrough illustrates the following tasks:
 
@@ -143,5 +144,5 @@ Now we will write the code that calls the query service and returns the data spe
 
 [Walkthrough: Calling the Query Service with a Static Query](walkthrough-calling-the-query-service-with-a-static-query.md)
 
-[Walkthrough: Creating Base and Derived Tables](https://technet.microsoft.com/en-us/library/gg844024\(v=ax.60\))
+[Walkthrough: Creating Base and Derived Tables](https://technet.microsoft.com/library/gg844024\(v=ax.60\))
 

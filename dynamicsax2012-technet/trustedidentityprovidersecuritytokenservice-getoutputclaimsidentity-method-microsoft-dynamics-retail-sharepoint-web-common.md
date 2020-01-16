@@ -1,9 +1,10 @@
-﻿---
+---
 title: TrustedIdentityProviderSecurityTokenService.GetOutputClaimsIdentity Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: GetOutputClaimsIdentity Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.TrustedIdentityProviderSecurityTokenService.GetOutputClaimsIdentity(Microsoft.IdentityModel.Claims.IClaimsPrincipal,Microsoft.IdentityModel.Protocols.WSTrust.RequestSecurityToken,Microsoft.IdentityModel.SecurityTokenService.Scope)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.trustedidentityprovidersecuritytokenservice.getoutputclaimsidentity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.trustedidentityprovidersecuritytokenservice.getoutputclaimsidentity(v=AX.60)
 ms:contentKeyID: 62206640
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -92,7 +93,7 @@ The outgoing claimsIdentity to be included in the issued token.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>If 'principal' parameter is null.</p></td>
 </tr>
 </tbody>

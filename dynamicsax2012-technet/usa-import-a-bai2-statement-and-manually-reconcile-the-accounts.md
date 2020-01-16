@@ -2,8 +2,9 @@
 title: (USA) Import a BAI2 statement and manually reconcile the accounts
 TOCTitle: (USA) Import a BAI2 statement and manually reconcile the accounts
 ms:assetid: 46c32624-ed17-4f2e-a7fe-569778f102ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242387(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242387(v=AX.60)
 ms:contentKeyID: 36056905
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Before you can view service operations, you must select the **Advanced bank reco
 
 
 > [!NOTE]
-> <P>The following steps should be performed by system administrators who have knowledge of the Application Object Tree (AOT). For more information about these steps, see <A href="https://technet.microsoft.com/en-us/library/hh208821(v=ax.60)">AIF inbound ports (form)</A>.</P>
+> <P>The following steps should be performed by system administrators who have knowledge of the Application Object Tree (AOT). For more information about these steps, see <A href="https://technet.microsoft.com/library/hh208821(v=ax.60)">AIF inbound ports (form)</A>.</P>
 
 
 
@@ -130,7 +131,7 @@ Use the **Import methods for account statements** form to select the import form
 
 1.  Click **General ledger** \> **Setup** \> **Journals** \> **Methods of importing account statements**.
 
-2.  Click **New** to create a method to import a BAI2 statement. For more information, see [Methods of importing account statements (form)](https://technet.microsoft.com/en-us/library/aa618250\(v=ax.60\)).
+2.  Click **New** to create a method to import a BAI2 statement. For more information, see [Methods of importing account statements (form)](https://technet.microsoft.com/library/aa618250\(v=ax.60\)).
 
 3.  In the **Method of import** field, enter a method to import the BAI2 statement.
 
@@ -170,7 +171,7 @@ Use the **Journal voucher** form to import the BAI2 statement and manually recon
 
 ## See also
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (USA) Enter physical requirements for job templates and jobs
 TOCTitle: (USA) Enter physical requirements for job templates and jobs
 ms:assetid: 6568deb0-beb7-47b4-b198-c1776f456e2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231547(v=AX.60)
 ms:contentKeyID: 36057743
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -81,11 +82,11 @@ The physical requirements information that you can enter includes:
 
 [(USA) Comply with the Americans with Disabilities Act](usa-comply-with-the-americans-with-disabilities-act.md)
 
-[Job templates (form)](https://technet.microsoft.com/en-us/library/aa583740\(v=ax.60\))
+[Job templates (form)](https://technet.microsoft.com/library/aa583740\(v=ax.60\))
 
-[Job (form)](https://technet.microsoft.com/en-us/library/hh209557\(v=ax.60\))
+[Job (form)](https://technet.microsoft.com/library/hh209557\(v=ax.60\))
 
-[ADA requirements (form)](https://technet.microsoft.com/en-us/library/hh802992\(v=ax.60\))
+[ADA requirements (form)](https://technet.microsoft.com/library/hh802992\(v=ax.60\))
 
   
 

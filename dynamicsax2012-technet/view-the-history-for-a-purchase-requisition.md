@@ -2,8 +2,9 @@
 title: View the history for a purchase requisition
 TOCTitle: View the history for a purchase requisition
 ms:assetid: f3894d70-308b-424d-985f-6db4291cd90c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335180(v=AX.60)
 ms:contentKeyID: 36687404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,13 +54,13 @@ You can view and compare the change history for versions of a purchase requisiti
 
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
-[Version comparison for purchase requisition (form)](https://technet.microsoft.com/en-us/library/hh209659\(v=ax.60\))
+[Version comparison for purchase requisition (form)](https://technet.microsoft.com/library/hh209659\(v=ax.60\))
 
-[Purchase requisition versions (form)](https://technet.microsoft.com/en-us/library/hh242467\(v=ax.60\))
+[Purchase requisition versions (form)](https://technet.microsoft.com/library/hh242467\(v=ax.60\))
 
-[View purchase requisition version (form)](https://technet.microsoft.com/en-us/library/hh208983\(v=ax.60\))
+[View purchase requisition version (form)](https://technet.microsoft.com/library/hh208983\(v=ax.60\))
 
-[View purchase requisition version- lines (form)](https://technet.microsoft.com/en-us/library/hh209502\(v=ax.60\))
+[View purchase requisition version- lines (form)](https://technet.microsoft.com/library/hh209502\(v=ax.60\))
 
   
 

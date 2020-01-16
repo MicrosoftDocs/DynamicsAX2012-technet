@@ -2,8 +2,9 @@
 title: Troubleshoot common AOS problems
 TOCTitle: Troubleshoot common AOS problems
 ms:assetid: bb10d97d-e8b9-48bc-8a5c-963d87da5556
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680902(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ680902(v=AX.60)
 ms:contentKeyID: 49624321
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

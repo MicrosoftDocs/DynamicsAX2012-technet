@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransferOrdersController.Get Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Get Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.TransferOrdersController.Get
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.transferorderscontroller.get(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.transferorderscontroller.get(v=AX.60)
 ms:contentKeyID: 62203100
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ virtual IQueryable<TransferOrder^>^ Get() override
 
 #### Return Value
 
-Type: [System.Linq.IQueryable](https://technet.microsoft.com/en-us/library/bb351562\(v=ax.60\))\<TransferOrder\>  
+Type: [System.Linq.IQueryable](https://technet.microsoft.com/library/bb351562\(v=ax.60\))\<TransferOrder\>  
 A collection of transfer orders.  
 
 ## See Also

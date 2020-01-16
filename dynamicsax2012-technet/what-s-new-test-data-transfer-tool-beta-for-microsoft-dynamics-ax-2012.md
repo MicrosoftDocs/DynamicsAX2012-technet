@@ -2,8 +2,9 @@
 title: "What's new: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012"
 TOCTitle: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
 ms:assetid: 483a5aa2-2716-4d12-8410-a8d99b9936a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507131(v=AX.60)
 ms:contentKeyID: 59623219
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

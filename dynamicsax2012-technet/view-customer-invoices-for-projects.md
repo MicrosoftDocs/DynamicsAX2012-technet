@@ -2,8 +2,9 @@
 title: View customer invoices for projects
 TOCTitle: View customer invoices for projects
 ms:assetid: 4673d2c0-d6da-4c7a-a217-211b30753000
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496988(v=AX.60)
 ms:contentKeyID: 36056903
+author: Khairunj
 ms.date: 07/22/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,11 +47,11 @@ View all posted customer invoices and their underlying transactions.
 
 ## See also
 
-[Invoice journals (form) (Project)](https://technet.microsoft.com/en-us/library/aa618187\(v=ax.60\))
+[Invoice journals (form) (Project)](https://technet.microsoft.com/library/aa618187\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

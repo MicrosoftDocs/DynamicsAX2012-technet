@@ -1,9 +1,10 @@
-﻿---
+---
 title: TraceWarning.Message Property  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: Message Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.TraceWarning.Message
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.tracewarning.message(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.tracewarning.message(v=AX.60)
 ms:contentKeyID: 65322531
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property InArgument<String^>^ Message {
 
 #### Property Value
 
-Type: InArgument\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+Type: InArgument\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 Returns InArgument.  
 
 ## See Also

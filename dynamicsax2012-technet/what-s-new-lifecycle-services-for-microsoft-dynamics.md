@@ -2,8 +2,9 @@
 title: "What's new: Lifecycle Services for Microsoft Dynamics"
 TOCTitle: "What's new: Lifecycle Services for Microsoft Dynamics"
 ms:assetid: 24c4dc40-c487-40b3-a89a-055b39c410fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527817(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527817(v=AX.60)
 ms:contentKeyID: 59626381
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

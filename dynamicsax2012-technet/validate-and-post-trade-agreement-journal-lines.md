@@ -2,8 +2,9 @@
 title: Validate and post trade agreement journal lines
 TOCTitle: Validate and post trade agreement journal lines
 ms:assetid: 396abf77-0fa8-484c-b6e5-446d5a932daf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn277351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn277351(v=AX.60)
 ms:contentKeyID: 54658648
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -120,9 +121,9 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Price adjustment (class form)](https://technet.microsoft.com/en-us/library/aa585775\(v=ax.60\))
+[Price adjustment (class form)](https://technet.microsoft.com/library/aa585775\(v=ax.60\))
 
-[Journal lines, price/discount agreement (form)](https://technet.microsoft.com/en-us/library/aa553463\(v=ax.60\))
+[Journal lines, price/discount agreement (form)](https://technet.microsoft.com/library/aa553463\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (USA) About online marketplaces
 TOCTitle: (USA) About online marketplaces
 ms:assetid: 1bf0f168-ef31-41ce-8fe5-9cea587a7786
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728674(v=AX.60)
 ms:contentKeyID: 49556581
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

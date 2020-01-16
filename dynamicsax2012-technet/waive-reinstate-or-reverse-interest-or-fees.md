@@ -2,8 +2,9 @@
 title: Waive, reinstate, or reverse interest or fees
 TOCTitle: Waive, reinstate, or reverse interest or fees
 ms:assetid: c5534372-f34f-417f-8b32-d33e4d382341
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242842(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242842(v=AX.60)
 ms:contentKeyID: 36059299
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ All of these actions change an interest note, which is the business document tha
 </div></td>
 <td><p>The charges are no longer due from the customer. However, the charges become due again if you recalculate interest.</p></td>
 <td><p>The process is the same as for waiving interest notes or selected interest transactions. A credit note, or adjustment invoice, is created for the customer. This is used to automatically settle the interest note.</p>
-<p>You can use a separate process to recalculate interest and create a new interest note. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa600712(v=ax.60)">Interest calculation (class form)</a>.</p></td>
+<p>You can use a separate process to recalculate interest and create a new interest note. For more information, see <a href="https://technet.microsoft.com/library/aa600712(v=ax.60)">Interest calculation (class form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +149,7 @@ You can use this process to reverse a customer transaction on an invoice, when a
 
 ## Waive or reinstate interest notes
 
-You can waive or reinstate all of the charges on the interest notes that you select. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/en-us/library/hh209728\(v=ax.60\)). You can reinstate an interest note only if it was previously waived.
+You can waive or reinstate all of the charges on the interest notes that you select. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/library/hh209728\(v=ax.60\)). You can reinstate an interest note only if it was previously waived.
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -172,7 +173,7 @@ You can waive or reinstate all of the charges on the interest notes that you sel
 
 ## Waive or reinstate interest transactions
 
-You can waive or reinstate specific interest transactions on an interest note instead of adjusting all of the charges on an interest note. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/en-us/library/hh209728\(v=ax.60\)). You can reinstate an interest transaction only if it was previously waived.
+You can waive or reinstate specific interest transactions on an interest note instead of adjusting all of the charges on an interest note. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/library/hh209728\(v=ax.60\)). You can reinstate an interest transaction only if it was previously waived.
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -196,7 +197,7 @@ You can waive or reinstate specific interest transactions on an interest note in
 
 ## Waive or reinstate fees
 
-You can waive or reinstate specific fees on an interest note instead of adjusting all of the charges on an interest note. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/en-us/library/hh209728\(v=ax.60\)). You can reinstate a fee only if it was previously waived.
+You can waive or reinstate specific fees on an interest note instead of adjusting all of the charges on an interest note. When you waive charges, the total amount to be waived cannot exceed any amount limits that have been set. For more information, see [Manage customer waive limits (form)](https://technet.microsoft.com/library/hh209728\(v=ax.60\)). You can reinstate a fee only if it was previously waived.
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -220,7 +221,7 @@ You can waive or reinstate specific fees on an interest note instead of adjustin
 
 ## Reverse interest notes
 
-You can reverse all of the charges on the interest notes that you select. Reversed charges are removed from a customer’s account, and are no longer due. After the interest note is reversed, you can recalculate interest and create a new interest note. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/en-us/library/aa600712\(v=ax.60\)).
+You can reverse all of the charges on the interest notes that you select. Reversed charges are removed from a customer’s account, and are no longer due. After the interest note is reversed, you can recalculate interest and create a new interest note. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/library/aa600712\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -240,7 +241,7 @@ You can reverse all of the charges on the interest notes that you select. Revers
 
 ## Reverse interest transactions
 
-You can reverse all of the interest transactions that you select. Reversed charges are removed from a customer’s account, and are no longer due. After the transactions are reversed, you can recalculate interest and create a new interest note. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/en-us/library/aa600712\(v=ax.60\)).
+You can reverse all of the interest transactions that you select. Reversed charges are removed from a customer’s account, and are no longer due. After the transactions are reversed, you can recalculate interest and create a new interest note. For more information, see [Interest calculation (class form)](https://technet.microsoft.com/library/aa600712\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -260,7 +261,7 @@ You can reverse all of the interest transactions that you select. Reversed charg
 
 ## View the history of adjustments for charges that were waived, reinstated, or reversed
 
-You can view the detailed history of adjustments that were made for interest notes, such as the user who entered the adjustment, the type of adjustment, the amount, and when the adjustment was entered. For example, you might want to view the previous adjustments that were entered for an interest note before you create a new interest note. For more information, see [Interest note adjustment history (form)](https://technet.microsoft.com/en-us/library/hh208580\(v=ax.60\)).
+You can view the detailed history of adjustments that were made for interest notes, such as the user who entered the adjustment, the type of adjustment, the amount, and when the adjustment was entered. For example, you might want to view the previous adjustments that were entered for an interest note before you create a new interest note. For more information, see [Interest note adjustment history (form)](https://technet.microsoft.com/library/hh208580\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
@@ -274,27 +275,27 @@ You can view the detailed history of adjustments that were made for interest not
     
       - **Open adjustment invoice** – Open the **Free text invoice** form, where you can view details of the adjustment invoice. You can also convert the adjustment invoice to a vendor payment and give a refund to the customer.
     
-      - **View user** – Open the **User** form, where you can view details about the permissions and status of the user who entered the adjustment. For more information, see [User (form)](https://technet.microsoft.com/en-us/library/aa554087\(v=ax.60\)).
+      - **View user** – Open the **User** form, where you can view details about the permissions and status of the user who entered the adjustment. For more information, see [User (form)](https://technet.microsoft.com/library/aa554087\(v=ax.60\)).
 
 ## See also
 
-[Interest note adjustment history (form)](https://technet.microsoft.com/en-us/library/hh208580\(v=ax.60\))
+[Interest note adjustment history (form)](https://technet.microsoft.com/library/hh208580\(v=ax.60\))
 
-[Manage customer waive limits (form)](https://technet.microsoft.com/en-us/library/hh209728\(v=ax.60\))
+[Manage customer waive limits (form)](https://technet.microsoft.com/library/hh209728\(v=ax.60\))
 
-[Reinstate waived fees (form)](https://technet.microsoft.com/en-us/library/hh209559\(v=ax.60\))
+[Reinstate waived fees (form)](https://technet.microsoft.com/library/hh209559\(v=ax.60\))
 
-[Reinstate waived interest notes (form)](https://technet.microsoft.com/en-us/library/hh227615\(v=ax.60\))
+[Reinstate waived interest notes (form)](https://technet.microsoft.com/library/hh227615\(v=ax.60\))
 
-[Reinstate waived interest on customer transactions (form)](https://technet.microsoft.com/en-us/library/hh242540\(v=ax.60\))
+[Reinstate waived interest on customer transactions (form)](https://technet.microsoft.com/library/hh242540\(v=ax.60\))
 
-[Reverse interest notes (form)](https://technet.microsoft.com/en-us/library/hh208621\(v=ax.60\))
+[Reverse interest notes (form)](https://technet.microsoft.com/library/hh208621\(v=ax.60\))
 
-[Reverse interest on customer transactions (form)](https://technet.microsoft.com/en-us/library/hh209602\(v=ax.60\))
+[Reverse interest on customer transactions (form)](https://technet.microsoft.com/library/hh209602\(v=ax.60\))
 
-[Waive interest on customer transactions (form)](https://technet.microsoft.com/en-us/library/hh209483\(v=ax.60\))
+[Waive interest on customer transactions (form)](https://technet.microsoft.com/library/hh209483\(v=ax.60\))
 
-[Waive interest notes (form)](https://technet.microsoft.com/en-us/library/hh209719\(v=ax.60\))
+[Waive interest notes (form)](https://technet.microsoft.com/library/hh209719\(v=ax.60\))
 
   
 

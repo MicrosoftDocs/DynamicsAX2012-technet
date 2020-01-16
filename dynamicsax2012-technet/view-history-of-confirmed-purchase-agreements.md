@@ -2,8 +2,9 @@
 title: View history of confirmed purchase agreements
 TOCTitle: View history of confirmed purchase agreements
 ms:assetid: 243ae944-5590-42c9-af9f-28bd9863acf6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545516(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545516(v=AX.60)
 ms:contentKeyID: 37832496
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ When a purchase agreement is confirmed, the current version of the purchase agre
 
 ## See also
 
-[Purchase agreement confirmations (form)](https://technet.microsoft.com/en-us/library/hh545530\(v=ax.60\))
+[Purchase agreement confirmations (form)](https://technet.microsoft.com/library/hh545530\(v=ax.60\))
 
-[Purchase agreements (form)](https://technet.microsoft.com/en-us/library/hh209550\(v=ax.60\))
+[Purchase agreements (form)](https://technet.microsoft.com/library/hh209550\(v=ax.60\))
 
   
 

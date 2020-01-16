@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating an Auto Design Report'
 TOCTitle: 'Walkthrough: Creating an Auto Design Report'
 ms:assetid: ed2cd6d5-d030-4a6c-bb41-68a36e7074a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc622728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc622728(v=AX.60)
 ms:contentKeyID: 28119613
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

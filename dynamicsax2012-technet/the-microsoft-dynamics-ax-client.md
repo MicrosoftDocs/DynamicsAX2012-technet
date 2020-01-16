@@ -2,8 +2,9 @@
 title: The Microsoft Dynamics AX client
 TOCTitle: The Microsoft Dynamics AX client
 ms:assetid: e07eb6a2-41c1-4928-a98c-497073972513
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732158(v=AX.60)
 ms:contentKeyID: 35133101
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

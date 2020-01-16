@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Chart Control with Data from an Analysis Services Cube'
 TOCTitle: 'Walkthrough: Creating a Chart Control with Data from an Analysis Services Cube'
 ms:assetid: 49ffba25-1804-4586-bde8-3ace5069a295
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh965685(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh965685(v=AX.60)
 ms:contentKeyID: 46332000
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ f1_keywords:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
-A Chart Control is a User Control option to display chart data in Enterprise Portal. A Chart Control can display data from a Report Data Provider (RDP) class or from an analysis cube. This walkthrough demonstrates how to use the features in Microsoft Dynamics AX to create and deploy a Chart Control for Enterprise Portal that displays analysis cube data. For information about Chart Controls that display RDP data, see [How to: Create a Chart with Data from a Report Data Provider Class](https://technet.microsoft.com/en-us/library/hh975424\(v=ax.60\)). The walkthrough illustrates the following tasks:
+A Chart Control is a User Control option to display chart data in Enterprise Portal. A Chart Control can display data from a Report Data Provider (RDP) class or from an analysis cube. This walkthrough demonstrates how to use the features in Microsoft Dynamics AX to create and deploy a Chart Control for Enterprise Portal that displays analysis cube data. For information about Chart Controls that display RDP data, see [How to: Create a Chart with Data from a Report Data Provider Class](https://technet.microsoft.com/library/hh975424\(v=ax.60\)). The walkthrough illustrates the following tasks:
 
   - Creating an EP Web Application project.
 
@@ -62,7 +63,7 @@ Use Visual Studio to create User Controls for Enterprise Portal.
 
 
 
-4.  In the **Installed Templates** list, select **Microsoft Dynamics AX**. If you do not see this project template, make sure that you have Visual Studio Tools for Microsoft Dynamics AX installed. For more information, see [How to: Set Up Visual Studio for Enterprise Portal Development](https://technet.microsoft.com/en-us/library/cc572801\(v=ax.60\)).
+4.  In the **Installed Templates** list, select **Microsoft Dynamics AX**. If you do not see this project template, make sure that you have Visual Studio Tools for Microsoft Dynamics AX installed. For more information, see [How to: Set Up Visual Studio for Enterprise Portal Development](https://technet.microsoft.com/library/cc572801\(v=ax.60\)).
 
 5.  Choose the EP Web Application template.
 
@@ -162,7 +163,7 @@ Create a Chart Control that displays general ledger profit by date.
 
 ## Deploying the Chart Control
 
-After you have created and saved the Chart Control, you can display it in Enterprise Portal to verify its functionality. In this walkthrough, you will use the **Deploy to EP** functionality in the AOT to add the chart to Enterprise Portal. For information about how to display a chart in an existing page, see [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)) to add a [User Control Web Part](https://technet.microsoft.com/en-us/library/cc554683\(v=ax.60\)).
+After you have created and saved the Chart Control, you can display it in Enterprise Portal to verify its functionality. In this walkthrough, you will use the **Deploy to EP** functionality in the AOT to add the chart to Enterprise Portal. For information about how to display a chart in an existing page, see [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)) to add a [User Control Web Part](https://technet.microsoft.com/library/cc554683\(v=ax.60\)).
 
 ### To deploy the Chart Control
 
@@ -206,15 +207,15 @@ After you have created the page that contains the Chart Control, you can view th
 
 ## Next Steps
 
-Recall that a web menu item was created when you deployed the Chart Control. You could add this web menu item to the navigation for Enterprise Portal, and then access the new page through standard Enterprise Portal navigation. See [Page-level Navigation Overview](https://technet.microsoft.com/en-us/library/cc600461\(v=ax.60\)) or [Walkthrough: Adding a Page to Navigation](https://technet.microsoft.com/en-us/library/cc618510\(v=ax.60\)) for more information about how to add the web menu item to the navigation. Another option is to add the User Control web part to an existing page, like a Role Center page. For information about how to display a chart in an existing page, see [How to: Add Web Parts](https://technet.microsoft.com/en-us/library/cc604931\(v=ax.60\)).
+Recall that a web menu item was created when you deployed the Chart Control. You could add this web menu item to the navigation for Enterprise Portal, and then access the new page through standard Enterprise Portal navigation. See [Page-level Navigation Overview](https://technet.microsoft.com/library/cc600461\(v=ax.60\)) or [Walkthrough: Adding a Page to Navigation](https://technet.microsoft.com/library/cc618510\(v=ax.60\)) for more information about how to add the web menu item to the navigation. Another option is to add the User Control web part to an existing page, like a Role Center page. For information about how to display a chart in an existing page, see [How to: Add Web Parts](https://technet.microsoft.com/library/cc604931\(v=ax.60\)).
 
 ## See also
 
-[User Controls Overview](https://technet.microsoft.com/en-us/library/cc595764\(v=ax.60\))
+[User Controls Overview](https://technet.microsoft.com/library/cc595764\(v=ax.60\))
 
-[Chart Controls Overview](https://technet.microsoft.com/en-us/library/hh965689\(v=ax.60\))
+[Chart Controls Overview](https://technet.microsoft.com/library/hh965689\(v=ax.60\))
 
-[Walkthrough: Quickly Creating and Deploying a User Control](https://technet.microsoft.com/en-us/library/hh745329\(v=ax.60\))
+[Walkthrough: Quickly Creating and Deploying a User Control](https://technet.microsoft.com/library/hh745329\(v=ax.60\))
 
 [Walkthrough: Displaying Cube Data in a Report](walkthrough-displaying-cube-data-in-a-report.md)
 

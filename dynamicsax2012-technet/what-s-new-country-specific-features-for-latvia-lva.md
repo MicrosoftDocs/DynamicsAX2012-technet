@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Latvia (LVA)"
 TOCTitle: Country-specific features for Latvia
 ms:assetid: b5becb1a-d442-4242-b0db-08e050ba3414
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527214(v=AX.60)
 ms:contentKeyID: 59623343
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ For more information about specific features for Latvia, see [TechNet Library fo
 <td><p>Changes to fixed assets can be tracked and viewed.</p></td>
 <td><p>The system now keeps track of all changes to the <strong>Responsible</strong>, <strong>Department</strong>, and <strong>Location</strong> fields for every fixed asset as each change is saved. You can view the change history for the asset in the <strong>Fixed asset internal transfer history</strong> form. To access this form, click <strong>Internal transfer history</strong> on the <strong>Action Pane</strong> in the <strong>Fixed assets</strong> form.</p>
 <p>The information that appears in the inquiry form is also available on two reports, the <strong>Fixed asset internal transfers</strong> report and the <strong>Fixed asset movements</strong> report.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj943766(v=ax.60)">(LVA) Fixed asset internal transfer history (form)</a>, <a href="lva-view-internal-transfers-of-fixed-assets.md">(LVA) View internal transfers of fixed assets</a> and <a href="lva-generate-a-fixed-asset-movement-report.md">(LVA) Generate a fixed asset movement report</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj943766(v=ax.60)">(LVA) Fixed asset internal transfer history (form)</a>, <a href="lva-view-internal-transfers-of-fixed-assets.md">(LVA) View internal transfers of fixed assets</a> and <a href="lva-generate-a-fixed-asset-movement-report.md">(LVA) Generate a fixed asset movement report</a>.</p></td>
 </tr>
 </tbody>
 </table>

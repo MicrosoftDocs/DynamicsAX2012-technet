@@ -2,8 +2,9 @@
 title: Workflow (Enterprise Portal)
 TOCTitle: Workflow
 ms:assetid: 6c92b74b-5e9d-4bce-b3f4-5e3cd0668ca0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271554(v=AX.60)
 ms:contentKeyID: 36384186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

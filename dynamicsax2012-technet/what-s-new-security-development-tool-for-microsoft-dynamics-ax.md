@@ -2,8 +2,9 @@
 title: "What's new: Security Development Tool for Microsoft Dynamics AX"
 TOCTitle: Security Development Tool for Microsoft Dynamics AX
 ms:assetid: 8f8e97f0-e0ca-45ca-b08f-bee43dd908f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527171(v=AX.60)
 ms:contentKeyID: 59623300
+author: Khairunj
 ms.date: 10/29/2014
 mtps_version: v=AX.60
 ---

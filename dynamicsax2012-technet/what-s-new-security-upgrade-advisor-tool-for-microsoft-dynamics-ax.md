@@ -2,8 +2,9 @@
 title: "What's new: Security Upgrade Advisor Tool for Microsoft Dynamics AX"
 TOCTitle: Security Upgrade Advisor Tool for Microsoft Dynamics AX
 ms:assetid: ba9f0b3d-7539-4d83-80b7-409fe47c4f11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527225(v=AX.60)
 ms:contentKeyID: 59623353
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

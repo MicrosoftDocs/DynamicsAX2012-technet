@@ -2,8 +2,9 @@
 title: (USA) Accept vendor registrations online with Sites Services
 TOCTitle: (USA) Accept vendor registrations online with Sites Services
 ms:assetid: 2e6229d0-c72d-4baf-a22f-070bd667ec1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208529(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208529(v=AX.60)
 ms:contentKeyID: 36056277
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

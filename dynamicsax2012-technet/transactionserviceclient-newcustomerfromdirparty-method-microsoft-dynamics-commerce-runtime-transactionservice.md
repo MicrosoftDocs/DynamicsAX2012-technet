@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceClient.NewCustomerFromDirParty Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService)
 TOCTitle: NewCustomerFromDirParty Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.NewCustomerFromDirParty(Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer@,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.newcustomerfromdirparty(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.newcustomerfromdirparty(v=AX.60)
 ms:contentKeyID: 62214519
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ void NewCustomerFromDirParty(
 <!-- end list -->
 
   - storeId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

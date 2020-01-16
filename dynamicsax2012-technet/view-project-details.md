@@ -2,8 +2,9 @@
 title: View project details
 TOCTitle: View project details
 ms:assetid: d194e480-4e06-452a-a806-6f99cfa5a86b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271652(v=AX.60)
 ms:contentKeyID: 36384284
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

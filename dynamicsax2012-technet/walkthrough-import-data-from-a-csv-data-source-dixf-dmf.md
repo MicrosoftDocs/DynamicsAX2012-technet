@@ -2,8 +2,9 @@
 title: Import data from CSV data sources
 TOCTitle: Import data from CSV data sources
 ms:assetid: 8aad7f27-be82-4675-b048-b27361bc621f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn144988(v=AX.60)
 ms:contentKeyID: 52249878
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

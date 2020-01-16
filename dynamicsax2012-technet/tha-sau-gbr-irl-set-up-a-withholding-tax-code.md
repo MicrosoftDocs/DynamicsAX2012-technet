@@ -2,8 +2,9 @@
 title: (THA, SAU, GBR, IRL) Set up a withholding tax code
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax code
 ms:assetid: 9850397e-bc51-4361-88a9-9d6adad712c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209416(v=AX.60)
 ms:contentKeyID: 36058676
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-You can create a withholding tax code by using the **Withholding tax codes** form. After you create the code, you can assign a tax rate, exemption percentage, reporting currency, origin, and realization point. For more information, see [Withholding tax codes (form)](https://technet.microsoft.com/en-us/library/aa585361\(v=ax.60\)).
+You can create a withholding tax code by using the **Withholding tax codes** form. After you create the code, you can assign a tax rate, exemption percentage, reporting currency, origin, and realization point. For more information, see [Withholding tax codes (form)](https://technet.microsoft.com/library/aa585361\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Withholding tax** \> **Withholding tax codes**.
 
@@ -40,7 +41,7 @@ You can create a withholding tax code by using the **Withholding tax codes** for
 
 10. In the **Rounding form** field, select the rounding method.
 
-11. Click **Values** to open the **Withholding tax values** form, and specify the withholding tax values for the withholding tax code. For more information, see [Withholding tax values (form)](https://technet.microsoft.com/en-us/library/aa615586\(v=ax.60\)).
+11. Click **Values** to open the **Withholding tax values** form, and specify the withholding tax values for the withholding tax code. For more information, see [Withholding tax values (form)](https://technet.microsoft.com/library/aa615586\(v=ax.60\)).
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Displaying Cube Data in a Report'
 TOCTitle: 'Walkthrough: Displaying Cube Data in a Report'
 ms:assetid: 3147f042-ae36-4c41-894d-1ac64e2ece77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd252605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd252605(v=AX.60)
 ms:contentKeyID: 28119334
+author: Khairunj
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 dev_langs:
@@ -289,5 +290,5 @@ You can add the report to an Enterprise Portal Role Center page by adding a web 
 
 [Development Tasks for Reporting](development-tasks-for-reporting.md)
 
-[Reports in Enterprise Portal Overview](https://technet.microsoft.com/en-us/library/cc571238\(v=ax.60\))
+[Reports in Enterprise Portal Overview](https://technet.microsoft.com/library/cc571238\(v=ax.60\))
 

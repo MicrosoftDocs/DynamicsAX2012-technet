@@ -2,8 +2,9 @@
 title: White papers for application users
 TOCTitle: White papers for application users
 ms:assetid: eb47559d-d038-4e15-8d81-4774bfad87c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272883(v=AX.60)
 ms:contentKeyID: 36584407
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

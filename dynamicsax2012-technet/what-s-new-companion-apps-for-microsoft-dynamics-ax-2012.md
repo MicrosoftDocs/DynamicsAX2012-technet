@@ -2,8 +2,9 @@
 title: "What's new: Companion apps for Microsoft Dynamics AX 2012"
 TOCTitle: "What's new: Companion apps for Microsoft Dynamics AX 2012"
 ms:assetid: 93d32f6d-7ad5-4691-899c-60d545f464a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527182(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527182(v=AX.60)
 ms:contentKeyID: 59623311
+author: Khairunj
 ms.date: 03/03/2017
 mtps_version: v=AX.60
 ---

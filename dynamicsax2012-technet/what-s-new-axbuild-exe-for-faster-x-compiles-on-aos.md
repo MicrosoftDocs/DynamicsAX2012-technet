@@ -2,8 +2,9 @@
 title: "What's new: AxBuild.exe for faster X++ compiles on AOS"
 TOCTitle: AxBuild.exe for faster X++ compiles on AOS
 ms:assetid: 6b5bc7e5-44e0-4038-9a0c-29ea15dcb285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn529055(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn529055(v=AX.60)
 ms:contentKeyID: 59643367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ The AxBuild.exe utility program enables you to accomplish a full compile of all 
 
 AxBuild.exe is available in Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.
 
-Read the documentation: [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/en-us/library/dn528954\(v=ax.60\))
+Read the documentation: [AxBuild.exe for Parallel Compile on AOS of X++ to p-code](https://technet.microsoft.com/library/dn528954\(v=ax.60\))
 
   
 

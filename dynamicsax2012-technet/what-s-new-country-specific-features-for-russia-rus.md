@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Russia (RUS)"
 TOCTitle: Country-specific features for Russia
 ms:assetid: 8c154677-693f-4c6c-b737-91d7ef371da5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527162(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527162(v=AX.60)
 ms:contentKeyID: 59623292
+author: Khairunj
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
@@ -513,7 +514,7 @@ For more information about additional country-specific features that we added fo
 </tr>
 <tr class="odd">
 <td><p>Retrieve purchase orders or product receipts in the <strong>Update facture</strong> form.</p></td>
-<td><p>You can retrieve information about purchase orders or product receipts from the vendor invoice form. For Russia, you can now also retrieve this information from the <strong>Update facture</strong> form, which is based on the <strong>Posting invoice for payment</strong> form. You can view and select the purchase order lines that have the same posting profiles, the same kind of activity, and the same contract group values from the <strong>Update facture</strong> form by using the retrieve purchase orders or retrieve product receipts during invoice posting. You can also view and select the purchase order lines that have the same posting profiles and the same kind of activity, but that have no contract group values, by using the retrieve purchase orders or retrieve product receipts during invoice posting. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj889412(v=ax.60)">(RUS) Update facture (form)</a>.</p></td>
+<td><p>You can retrieve information about purchase orders or product receipts from the vendor invoice form. For Russia, you can now also retrieve this information from the <strong>Update facture</strong> form, which is based on the <strong>Posting invoice for payment</strong> form. You can view and select the purchase order lines that have the same posting profiles, the same kind of activity, and the same contract group values from the <strong>Update facture</strong> form by using the retrieve purchase orders or retrieve product receipts during invoice posting. You can also view and select the purchase order lines that have the same posting profiles and the same kind of activity, but that have no contract group values, by using the retrieve purchase orders or retrieve product receipts during invoice posting. For more information, see <a href="https://technet.microsoft.com/library/jj889412(v=ax.60)">(RUS) Update facture (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Inventory adjustments that use offset accounts and storno transactions</p></td>
@@ -540,7 +541,7 @@ For more information about additional country-specific features that we added fo
 </tr>
 <tr class="even">
 <td><p>Updates to the calculation of write-off time for deferrals</p></td>
-<td><p>In accordance with Russian legislation, the write-off time for deferrals must be calculated by using the factor that is used during the fixed asset depreciation. When you create a transaction for partial write-off or disposal of a fixed asset, if the transaction causes a loss, the transaction details are posted to a deferral account. This account contains the calculated value of the loss and the write-off time. The write-off time is calculated by using the useful life of the depreciated asset, the actual period of use before the asset’s disposal, and the fixed asset depreciation factor. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj853189(v=ax.60)">(RUS) Factors for deferrals writing off (form)</a>.</p></td>
+<td><p>In accordance with Russian legislation, the write-off time for deferrals must be calculated by using the factor that is used during the fixed asset depreciation. When you create a transaction for partial write-off or disposal of a fixed asset, if the transaction causes a loss, the transaction details are posted to a deferral account. This account contains the calculated value of the loss and the write-off time. The write-off time is calculated by using the useful life of the depreciated asset, the actual period of use before the asset’s disposal, and the fixed asset depreciation factor. For more information, see <a href="https://technet.microsoft.com/library/jj853189(v=ax.60)">(RUS) Factors for deferrals writing off (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Accounting for working clothes, special rigging, and not valuable fixed assets (NVFAs)</p></td>
@@ -710,8 +711,8 @@ For more information about additional country-specific features that we added fo
 <li><p><a href="rus-create-and-update-a-facture-for-a-corrected-credit-note-invoice.md">(RUS) Create and update a facture for a corrected credit note invoice</a></p></li>
 <li><p><a href="rus-create-and-update-a-facture-for-a-corrected-purchase-order.md">(RUS) Create and update a facture for a corrected purchase order</a></p></li>
 <li><p><a href="rus-post-and-print-an-invoice-for-payment-for-a-free-text-invoice.md">(RUS) Post and print an invoice for payment for a free text invoice</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh454994(v=ax.60)">Open customer invoices (list page)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj911374(v=ax.60)">(RUS) Free text invoice (modified form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh454994(v=ax.60)">Open customer invoices (list page)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj911374(v=ax.60)">(RUS) Free text invoice (modified form)</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -743,7 +744,7 @@ For more information about additional country-specific features that we added fo
 <li><p><strong>Write-off to cost</strong> – Write off the miscellaneous charges amount to item costs.</p></li>
 </ul>
 <p>After you allocate the miscellaneous charges on invoices, you can view the allocation history in the <strong>Charges allocation</strong> form. You can also cancel the allocations.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj923600(v=ax.60)">(RUS) Charges allocation (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj923600(v=ax.60)">(RUS) Charges allocation (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Fixed asset tax calculations and declarations</p></td>

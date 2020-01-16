@@ -2,8 +2,9 @@
 title: Warehouse planner security role (WHSWarehousePlanner)
 TOCTitle: Warehouse planner security role (WHSWarehousePlanner)
 ms:assetid: 3d7a0b6b-c507-4489-9f31-cdb26888f8c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn743809(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn743809(v=AX.60)
 ms:contentKeyID: 62279202
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

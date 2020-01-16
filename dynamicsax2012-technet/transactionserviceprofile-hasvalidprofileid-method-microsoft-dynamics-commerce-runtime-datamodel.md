@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceProfile.HasValidProfileId Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: HasValidProfileId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionServiceProfile.HasValidProfileId(Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionServiceProfile)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.transactionserviceprofile.hasvalidprofileid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.transactionserviceprofile.hasvalidprofileid(v=AX.60)
 ms:contentKeyID: 65323183
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ static bool HasValidProfileId(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

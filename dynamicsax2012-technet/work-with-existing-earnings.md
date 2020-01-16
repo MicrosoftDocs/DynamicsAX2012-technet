@@ -2,8 +2,9 @@
 title: Work with existing earnings
 TOCTitle: Work with existing earnings
 ms:assetid: f243de0f-005e-4beb-a299-2f25fa5ba1a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876710(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876710(v=AX.60)
 ms:contentKeyID: 63385357
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,7 +107,7 @@ To release earning statement lines, follow these steps:
 
     > [!NOTE]
     > <P>When you release an earnings statement line for an accrued benefit, such as sick time or vacation time, the number of hours on the line is verified against the minimum balance that is required by the benefit accrual plan. If the balance includes fewer hours than the number of hours on the line, the line isn’t released.</P>
-    > <P>For more information, see <A href="benefit-accrual-plan-tasks.md">Benefit accrual plan tasks</A> or <A href="https://technet.microsoft.com/en-us/library/jj677450(v=ax.60)">Benefit accrual balances (form)</A>.</P>
+    > <P>For more information, see <A href="benefit-accrual-plan-tasks.md">Benefit accrual plan tasks</A> or <A href="https://technet.microsoft.com/library/jj677450(v=ax.60)">Benefit accrual balances (form)</A>.</P>
 
 
 

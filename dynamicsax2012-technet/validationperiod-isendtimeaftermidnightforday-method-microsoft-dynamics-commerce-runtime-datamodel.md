@@ -1,9 +1,10 @@
-﻿---
+---
 title: ValidationPeriod.IsEndTimeAfterMidnightForDay Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsEndTimeAfterMidnightForDay Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ValidationPeriod.IsEndTimeAfterMidnightForDay(System.DayOfWeek)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod.isendtimeaftermidnightforday(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod.isendtimeaftermidnightforday(v=AX.60)
 ms:contentKeyID: 49855219
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ bool IsEndTimeAfterMidnightForDay(
 #### Parameters
 
   - day  
-    Type: [System.DayOfWeek](https://technet.microsoft.com/en-us/library/zh6aacza\(v=ax.60\))  
+    Type: [System.DayOfWeek](https://technet.microsoft.com/library/zh6aacza\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if the ending time wraps to after midnight for the given day.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: View call lists
 TOCTitle: View call lists
 ms:assetid: 943c7b4f-5f46-4f24-b799-99c16487c202
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271599(v=AX.60)
 ms:contentKeyID: 36384231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

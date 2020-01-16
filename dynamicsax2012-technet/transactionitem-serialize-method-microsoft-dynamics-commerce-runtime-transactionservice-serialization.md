@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionItem.Serialize Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: Serialize Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.TransactionItem.Serialize(Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.TransactionItem)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.transactionitem.serialize(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.transactionitem.serialize(v=AX.60)
 ms:contentKeyID: 49856230
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ static String^ Serialize(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The serialized string of the transaction item.  
 
 ## See Also

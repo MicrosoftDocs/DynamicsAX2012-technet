@@ -2,8 +2,9 @@
 title: 'Virtual company scenarios: Financials'
 TOCTitle: 'Virtual company scenarios: Financials'
 ms:assetid: 349e484d-710a-486a-b51d-da8d50d553ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ619166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ619166(v=AX.60)
 ms:contentKeyID: 49114587
+author: Khairunj
 ms.date: 05/30/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: What's new for application users
 TOCTitle: What's new for application users
 ms:assetid: d44a42eb-3ce0-48dc-9ed3-be670d1cda2d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527258(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527258(v=AX.60)
 ms:contentKeyID: 59623386
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -81,7 +82,7 @@ In Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 Feature Pack, Microsof
 <p></p>
 <p><a href="what-s-new-call-center-features.md">What's new: Call center features</a></p>
 <p></p>
-<p><a href="https://technet.microsoft.com/en-us/library/dn527215(v=ax.60)">What's new: E-commerce investments for omni-channel retail</a></p>
+<p><a href="https://technet.microsoft.com/library/dn527215(v=ax.60)">What's new: E-commerce investments for omni-channel retail</a></p>
 <p></p>
 <p><a href="what-s-new-intercompany-timesheet-entry-in-projects.md">What's new: Intercompany timesheet entry in projects</a></p>
 <p></p></td>

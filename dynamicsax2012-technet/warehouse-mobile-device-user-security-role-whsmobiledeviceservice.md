@@ -2,8 +2,9 @@
 title: Warehouse mobile device user security role (WHSMobileDeviceService)
 TOCTitle: Warehouse mobile device user security role (WHSMobileDeviceService)
 ms:assetid: 73031f45-17eb-44d9-bc58-894391e8b865
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn743811(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn743811(v=AX.60)
 ms:contentKeyID: 62279204
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

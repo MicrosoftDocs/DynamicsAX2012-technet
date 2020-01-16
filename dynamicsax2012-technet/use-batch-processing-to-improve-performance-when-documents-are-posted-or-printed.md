@@ -2,8 +2,9 @@
 title: Use batch processing to improve performance when documents are posted or printed
 TOCTitle: Use batch processing to improve performance when documents are posted or printed
 ms:assetid: a0c773eb-6ca2-4005-b958-e04b0b483c20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933494(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933494(v=AX.60)
 ms:contentKeyID: 50935108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

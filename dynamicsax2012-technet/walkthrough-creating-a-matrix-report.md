@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Matrix Report'
 TOCTitle: 'Walkthrough: Creating a Matrix Report'
 ms:assetid: f5a517b4-cf20-4faf-b201-d03a70ee222c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc623805(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc623805(v=AX.60)
 ms:contentKeyID: 28119618
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -271,7 +272,7 @@ Next, in the reporting project, you will create a report that displays customer 
 
 6.  Close the **Preview** window.
 
-The next step is to [create a menu item](how-to-create-a-menu-item-for-a-report.md) for the report or access the report from [Enterprise Portal](https://technet.microsoft.com/en-us/library/cc571238\(v=ax.60\)).
+The next step is to [create a menu item](how-to-create-a-menu-item-for-a-report.md) for the report or access the report from [Enterprise Portal](https://technet.microsoft.com/library/cc571238\(v=ax.60\)).
 
 ## See also
 
