@@ -2,8 +2,9 @@
 title: Create packing groups
 TOCTitle: Create packing groups
 ms:assetid: 50912b33-a8da-4255-9c7a-0cf621427eb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548907(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548907(v=AX.60)
 ms:contentKeyID: 36057241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Packing groups (form)](https://technet.microsoft.com/en-us/library/aa572636\(v=ax.60\))
+[Packing groups (form)](https://technet.microsoft.com/library/aa572636\(v=ax.60\))
 
   
 

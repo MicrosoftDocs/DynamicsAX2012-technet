@@ -2,8 +2,9 @@
 title: " container"
 TOCTitle: " container"
 ms:assetid: DynamicsAXGlossary.232501
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.232501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.232501(v=AX.60)
 ms:contentKeyID: 36057801
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

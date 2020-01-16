@@ -2,8 +2,9 @@
 title: Create and print labels overview
 TOCTitle: Create and print labels overview
 ms:assetid: 51cf2c21-b8b1-4311-bd5d-11d4a0231976
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580643(v=AX.60)
 ms:contentKeyID: 39519137
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,7 +76,7 @@ The following table lists the forms that support the labels business process com
 <tbody>
 <tr class="odd">
 <td><p>Print shelf labels</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597343(v=ax.60)">Shelf label printing (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597343(v=ax.60)">Shelf label printing (form)</a></p></td>
 <td><p>Place shelf labels on a store rack or shelf where products are displayed or stored. A shelf label contains core information about the product.</p></td>
 </tr>
 <tr class="even">
@@ -85,7 +86,7 @@ The following table lists the forms that support the labels business process com
 </tr>
 <tr class="odd">
 <td><p>Print product labels</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj851124(v=ax.60)">Product label printing (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj851124(v=ax.60)">Product label printing (form)</a></p></td>
 <td><p>Place product labels on a product or article. A product label contains all information about the product, including its batch number, serial number, and expiration date.</p></td>
 </tr>
 </tbody>
@@ -130,8 +131,8 @@ The following table lists the additional forms that support the labels business 
 <tbody>
 <tr class="odd">
 <td><p>Print shelf and product labels from purchase orders</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587152(v=ax.60)">Purchase posting (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa557983(v=ax.60)">Purchase order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587152(v=ax.60)">Purchase posting (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa557983(v=ax.60)">Purchase order (form)</a></p></td>
 <td><ul>
 <li><p>In the <strong>Purchase posting</strong> form, generate labels for products that are included in a purchase order when the product shipment is received, and print them when the receipt is posted.</p></li>
 <li><p>In the <strong>Purchase order</strong> form, generate labels at any time for products that are included in a purchase order for products that were received.</p></li>
@@ -144,8 +145,8 @@ The following table lists the additional forms that support the labels business 
 </tr>
 <tr class="odd">
 <td><p>Print shelf and product labels from transfer orders</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa577094(v=ax.60)">Transfer order shipment (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa552649(v=ax.60)">Receive (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa577094(v=ax.60)">Transfer order shipment (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa552649(v=ax.60)">Receive (form)</a></p></td>
 <td><ul>
 <li><p>In the <strong>Transfer order shipment</strong> form, generate labels for products that are included in a transfer order and send them with the products when they are shipped.</p></li>
 <li><p>In the <strong>Receive</strong> form, generate labels for products that are included in a transfer order and print them for the received products</p></li>
@@ -158,7 +159,7 @@ The following table lists the additional forms that support the labels business 
 </tr>
 <tr class="odd">
 <td><p>Print shelf and product labels for released products</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
 <td><p>Generate labels for one or more released products at any time, from either the <strong>Released products</strong> list page or the <strong>Released product details</strong> form.</p></td>
 </tr>
 </tbody>

@@ -2,8 +2,9 @@
 title: Configure or bypass IPsec for Synch Service
 TOCTitle: Configure or bypass IPsec for Synch Service
 ms:assetid: 645f73b8-684b-46cd-aa62-6d59342d22fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ679918(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ679918(v=AX.60)
 ms:contentKeyID: 49557900
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Copy project quotations
 TOCTitle: Copy project quotations
 ms:assetid: 4d11d472-bf65-435d-9ad3-ba5090471d01
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb147546(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb147546(v=AX.60)
 ms:contentKeyID: 36057020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,9 +60,9 @@ Use the following procedure to copy all or part of a project quotation.
 
 ## See also
 
-[Project quotation (form)](https://technet.microsoft.com/en-us/library/aa557295\(v=ax.60\))
+[Project quotation (form)](https://technet.microsoft.com/library/aa557295\(v=ax.60\))
 
-[Copy from all (form)](https://technet.microsoft.com/en-us/library/hh227596\(v=ax.60\))
+[Copy from all (form)](https://technet.microsoft.com/library/hh227596\(v=ax.60\))
 
 [Create a project quotation](create-a-project-quotation.md)
 

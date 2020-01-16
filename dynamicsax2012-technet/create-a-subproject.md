@@ -2,8 +2,9 @@
 title: Create a subproject
 TOCTitle: Create a subproject
 ms:assetid: f037b165-6e7d-4958-a007-2250679f372a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551579(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551579(v=AX.60)
 ms:contentKeyID: 36059922
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,9 +42,9 @@ A subproject is created. You can now perform on the subproject all of the operat
 
 [Create a project](create-a-project.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Update subprojects (form)](https://technet.microsoft.com/en-us/library/aa620758\(v=ax.60\))
+[Update subprojects (form)](https://technet.microsoft.com/library/aa620758\(v=ax.60\))
 
   
 

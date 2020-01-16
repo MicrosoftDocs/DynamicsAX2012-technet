@@ -2,8 +2,9 @@
 title: Correct a vendor invoice that was matched to the wrong product receipt line
 TOCTitle: Correct a vendor invoice that was matched to the wrong product receipt line
 ms:assetid: fd0c1913-16fd-4641-b5c6-ff57545076f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh454990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh454990(v=AX.60)
 ms:contentKeyID: 36993134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -195,11 +196,11 @@ The following table describes the documents that are created and matched because
 
 ## See also
 
-[Match product receipts to invoice (form)](https://technet.microsoft.com/en-us/library/hh209552\(v=ax.60\))
+[Match product receipts to invoice (form)](https://technet.microsoft.com/library/hh209552\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

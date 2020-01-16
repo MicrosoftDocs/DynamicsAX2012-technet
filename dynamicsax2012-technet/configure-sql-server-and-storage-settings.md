@@ -2,8 +2,9 @@
 title: Configure SQL Server and storage settings
 TOCTitle: Configure SQL Server and storage settings
 ms:assetid: 83931d0a-2d75-4cc8-b29b-129ebd5b27e5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309734(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309734(v=AX.60)
 ms:contentKeyID: 35132706
+author: Khairunj
 ms.date: 07/15/2015
 mtps_version: v=AX.60
 ---

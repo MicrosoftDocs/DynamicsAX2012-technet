@@ -2,8 +2,9 @@
 title: Create sites
 TOCTitle: Create sites
 ms:assetid: a23af815-3eff-4e34-9365-4e5818312ffe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213399(v=AX.60)
 ms:contentKeyID: 44081021
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ If either of these conditions exists, a message is displayed and you cannot dele
 
 ## See also
 
-[Sites (form)](https://technet.microsoft.com/en-us/library/hh242661\(v=ax.60\))
+[Sites (form)](https://technet.microsoft.com/library/hh242661\(v=ax.60\))
 
 [Set up site and warehouse hierarchies](set-up-site-and-warehouse-hierarchies.md)
 

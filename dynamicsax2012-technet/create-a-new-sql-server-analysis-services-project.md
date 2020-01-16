@@ -2,8 +2,9 @@
 title: Create a New SQL Server Analysis Services Project
 TOCTitle: Create a New SQL Server Analysis Services Project
 ms:assetid: 134366bb-2430-4ebf-bacf-3aa2ee4ea0b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc583157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc583157(v=AX.60)
 ms:contentKeyID: 28119313
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -66,7 +67,7 @@ The following procedure explains how to use the Analysis Services project wizard
 
 
 
-Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/en-us/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
+Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
 
 Analysis Services projects are not supported for Microsoft Dynamics AX TFS source control. To put an Analysis Services project under TFS source control, set the source control provider in TFS to Visual Studio instead of Microsoft Dynamics AX. Add files to source control directly from the TFS source control explorer.
 

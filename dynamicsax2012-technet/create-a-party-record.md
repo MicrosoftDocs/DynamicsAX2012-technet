@@ -2,8 +2,9 @@
 title: Create a party record
 TOCTitle: Create a party record
 ms:assetid: 1d50df9f-bc69-4b60-b370-22fdec429f02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230977(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230977(v=AX.60)
 ms:contentKeyID: 36811399
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Before you create a party record for a person or an organization, you should ver
 
 ## See also
 
-[Merge address book records (form)](https://technet.microsoft.com/en-us/library/hh370702\(v=ax.60\))
+[Merge address book records (form)](https://technet.microsoft.com/library/hh370702\(v=ax.60\))
 
 [Create a customer record](create-a-customer-record.md)
 

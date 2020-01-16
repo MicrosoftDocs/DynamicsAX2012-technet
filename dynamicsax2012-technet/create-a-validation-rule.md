@@ -2,8 +2,9 @@
 title: Create a validation rule
 TOCTitle: Create a validation rule
 ms:assetid: de428052-47e4-4119-98ae-7c9e2a95eb42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551275(v=AX.60)
 ms:contentKeyID: 36059687
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can also view the rules associated with the specific **Rule set number**, **
 
 ## See also
 
-[Rules (form)](https://technet.microsoft.com/en-us/library/aa587335\(v=ax.60\))
+[Rules (form)](https://technet.microsoft.com/library/aa587335\(v=ax.60\))
 
   
 

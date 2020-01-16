@@ -2,8 +2,9 @@
 title: Create, modify, or view a cash advance request
 TOCTitle: Create, modify, or view a cash advance request
 ms:assetid: 0edb92bf-21f2-411c-a641-918cce8d8b63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271453(v=AX.60)
 ms:contentKeyID: 36384085
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

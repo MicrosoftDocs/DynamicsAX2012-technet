@@ -2,8 +2,9 @@
 title: Customer Payment Journal Service in Microsoft Dynamics AX 2012
 TOCTitle: Customer Payment Journal Service in Microsoft Dynamics AX 2012
 ms:assetid: 355aa550-10ea-4663-882d-bfedfe375e6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ973038(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ973038(v=AX.60)
 ms:contentKeyID: 51649175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Create cost categories (CA)
 TOCTitle: Create cost categories
 ms:assetid: 8d79eaeb-2df9-43ca-a394-b2aae0defc27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498346(v=AX.60)
 ms:contentKeyID: 36058503
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

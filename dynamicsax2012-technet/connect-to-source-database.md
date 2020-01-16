@@ -2,8 +2,9 @@
 title: Connect to source database
 TOCTitle: Connect to source database
 ms:assetid: d6eab5c1-31b3-4008-866e-73a7266d91cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732103(v=AX.60)
 ms:contentKeyID: 35133044
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

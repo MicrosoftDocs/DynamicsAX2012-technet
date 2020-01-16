@@ -2,8 +2,9 @@
 title: Configure the Search Crawler account
 TOCTitle: Configure the Search Crawler account
 ms:assetid: ae8848a8-308d-4158-bb29-356ed00dd9e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731895(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731895(v=AX.60)
 ms:contentKeyID: 35132811
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Create a new benefit
 TOCTitle: Create a new benefit
 ms:assetid: a4d1d319-f2e3-4b36-bd86-c8ca9e63514d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ680905(v=AX.60)
 ms:contentKeyID: 49624326
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -117,9 +118,9 @@ After you have created benefit elements, you can create the benefits that you ca
 
 ## See also
 
-[Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\))
+[Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\))
 
-[Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\))
+[Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\))
 
 [Enroll and remove benefits for workers](enroll-and-remove-benefits-for-workers.md)
 

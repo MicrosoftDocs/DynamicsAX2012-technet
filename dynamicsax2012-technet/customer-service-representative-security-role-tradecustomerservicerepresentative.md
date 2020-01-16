@@ -2,8 +2,9 @@
 title: Customer service representative security role (TradeCustomerServiceRepresentative)
 TOCTitle: Customer service representative security role (TradeCustomerServiceRepresentative)
 ms:assetid: e304fea7-a722-4d5d-b19c-64c1c3003ef9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527146(v=AX.60)
 ms:contentKeyID: 37823197
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CurrencyL2CacheDataStoreAccessor.GetExchangeRates Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetExchangeRates Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CurrencyL2CacheDataStoreAccessor.GetExchangeRates(System.String,System.String,System.DateTime)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.currencyl2cachedatastoreaccessor.getexchangerates(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.currencyl2cachedatastoreaccessor.getexchangerates(v=AX.60)
 ms:contentKeyID: 65319876
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,21 +62,21 @@ ReadOnlyCollection<ExchangeRate^>^ GetExchangeRates(
 #### Parameters
 
   - fromCurrency  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - toCurrency  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - activeDate  
-    Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+    Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ExchangeRate](exchangerate-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ExchangeRate](exchangerate-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Returns up to two exchange rates, which are forward and backward rates between the currencies.  
 
 ## See Also

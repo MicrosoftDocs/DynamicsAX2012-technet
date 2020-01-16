@@ -2,8 +2,9 @@
 title: Create budget register entries
 TOCTitle: Create budget register entries
 ms:assetid: fc62428e-16ec-41fb-9126-59a6ea19b485
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227576(v=AX.60)
 ms:contentKeyID: 36060092
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -130,7 +131,7 @@ You can create a budget transfer when you are creating a budget register entry. 
     
 
     > [!IMPORTANT]
-    > <P>To decrease the budget for the from financial dimension values, you must enter a negative amount. The amount that is transferred from one or more financial dimension values must equal the amount that is transferred to the selected financial dimension value. The transaction total at the bottom of the form must be 0 (zero). For more information, see <A href="https://technet.microsoft.com/en-us/library/hh242713(v=ax.60)">Create budget transfer (form)</A>.</P>
+    > <P>To decrease the budget for the from financial dimension values, you must enter a negative amount. The amount that is transferred from one or more financial dimension values must equal the amount that is transferred to the selected financial dimension value. The transaction total at the bottom of the form must be 0 (zero). For more information, see <A href="https://technet.microsoft.com/library/hh242713(v=ax.60)">Create budget transfer (form)</A>.</P>
 
 
 
@@ -144,9 +145,9 @@ You can create a budget transfer when you are creating a budget register entry. 
 
 You can allocate budget register entries across periods or to financial dimensions.
 
-Period allocation keys define the percentage of a budget register entry that is allocated to specific periods. Period allocation keys work with the fiscal year definition for the fiscal calendar that is associated with the ledger. For example, if the fiscal year starts on July 1 and ends on June 30, and the period allocation is **Fixed**, the allocation is applied from the current date through June 30. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/en-us/library/aa582352\(v=ax.60\)).
+Period allocation keys define the percentage of a budget register entry that is allocated to specific periods. Period allocation keys work with the fiscal year definition for the fiscal calendar that is associated with the ledger. For example, if the fiscal year starts on July 1 and ends on June 30, and the period allocation is **Fixed**, the allocation is applied from the current date through June 30. For more information, see [Period allocation categories (form)](https://technet.microsoft.com/library/aa582352\(v=ax.60\)).
 
-Budget allocation terms define the percentage of a budget register entry that is allocated to specific financial dimension values. For example, a percentage of the travel budget can be allocated to various departments. For more information, see [Budget allocation terms (form)](https://technet.microsoft.com/en-us/library/hh209569\(v=ax.60\)).
+Budget allocation terms define the percentage of a budget register entry that is allocated to specific financial dimension values. For example, a percentage of the travel budget can be allocated to various departments. For more information, see [Budget allocation terms (form)](https://technet.microsoft.com/library/hh209569\(v=ax.60\)).
 
 1.  Click **Budgeting** \> **Common** \> **Budget register entries** \> **All budget register entries**.
 
@@ -200,7 +201,7 @@ For some expenses, such as rent, the budgeted amount is typically the same for e
 
 [About basic budgeting and budget control setup](about-basic-budgeting-and-budget-control-setup.md)
 
-[Budget registry entry (form)](https://technet.microsoft.com/en-us/library/hh227354\(v=ax.60\))
+[Budget registry entry (form)](https://technet.microsoft.com/library/hh227354\(v=ax.60\))
 
 [Examples: Budgeting and budget control](examples-budgeting-and-budget-control.md)
 

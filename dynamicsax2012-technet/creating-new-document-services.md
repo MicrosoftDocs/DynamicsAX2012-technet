@@ -1,9 +1,10 @@
-﻿---
+---
 title: Creating New Document Services
 TOCTitle: Creating New Document Services
 ms:assetid: b18b02a2-7996-4d58-830a-4ade86329873
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa856656(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa856656(v=AX.60)
 ms:contentKeyID: 35249740
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

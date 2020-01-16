@@ -2,8 +2,9 @@
 title: Create and generate timesheet periods
 TOCTitle: Create and generate timesheet periods
 ms:assetid: 8d2d02e4-6fed-41ad-bf9b-f34607e4caf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209351(v=AX.60)
 ms:contentKeyID: 36058489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,9 +78,9 @@ You must also associate periods with estimates because the estimate frequency is
 
 [Set up parameters for a timesheet system](set-up-parameters-for-a-timesheet-system.md)
 
-[Period types (form)](https://technet.microsoft.com/en-us/library/aa586707\(v=ax.60\))
+[Period types (form)](https://technet.microsoft.com/library/aa586707\(v=ax.60\))
 
-[Generate periods (class form)](https://technet.microsoft.com/en-us/library/aa557965\(v=ax.60\))
+[Generate periods (class form)](https://technet.microsoft.com/library/aa557965\(v=ax.60\))
 
   
 

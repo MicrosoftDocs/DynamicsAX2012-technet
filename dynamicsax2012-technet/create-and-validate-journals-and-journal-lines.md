@@ -2,8 +2,9 @@
 title: Create and validate journals and journal lines
 TOCTitle: Create and validate journals and journal lines
 ms:assetid: f251e5ca-2419-4a39-bc42-cb11a2d87da5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551623(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551623(v=AX.60)
 ms:contentKeyID: 36059961
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ Use journal forms to create and validate journals and journal lines. You can the
 
 [Post and print a journal or journal lines](post-and-print-a-journal-or-journal-lines.md)
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
 [About migrating project data from other ERP systems](about-migrating-project-data-from-other-erp-systems.md)
 

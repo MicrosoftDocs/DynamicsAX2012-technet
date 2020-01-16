@@ -2,8 +2,9 @@
 title: Create a positive pay file for multiple legal entities and bank accounts
 TOCTitle: Create a positive pay file for multiple legal entities and bank accounts
 ms:assetid: 61a15898-7bf4-4f53-95ae-2475bf5c3c71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn269116(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn269116(v=AX.60)
 ms:contentKeyID: 54920068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

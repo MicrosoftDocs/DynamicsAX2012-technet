@@ -2,8 +2,9 @@
 title: Create a cost template
 TOCTitle: Create a cost template
 ms:assetid: 61dcdc31-7458-42e7-837a-9dfe1abbd1a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571128(v=AX.60)
 ms:contentKeyID: 36057661
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,15 +54,15 @@ If nothing has been modified in the **Cost lines** form, all existing categories
 
 ## See also
 
-[Cost template (form)](https://technet.microsoft.com/en-us/library/aa616683\(v=ax.60\))
+[Cost template (form)](https://technet.microsoft.com/library/aa616683\(v=ax.60\))
 
 [Configuring category groups, categories, and cost templates](configuring-category-groups-categories-and-cost-templates.md)
 
 [About cost templates](about-cost-templates.md)
 
-[Cost lines (form)](https://technet.microsoft.com/en-us/library/aa550294\(v=ax.60\))
+[Cost lines (form)](https://technet.microsoft.com/library/aa550294\(v=ax.60\))
 
-[Cost lines setup (form)](https://technet.microsoft.com/en-us/library/aa617055\(v=ax.60\))
+[Cost lines setup (form)](https://technet.microsoft.com/library/aa617055\(v=ax.60\))
 
   
 

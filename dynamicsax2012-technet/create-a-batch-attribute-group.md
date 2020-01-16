@@ -2,8 +2,9 @@
 title: Create a batch attribute group
 TOCTitle: Create a batch attribute group
 ms:assetid: 939ec718-0cf8-4f42-9978-4eeec2fea5ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209384(v=AX.60)
 ms:contentKeyID: 36058584
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ Use this procedure to create batch attribute groups, which are groups of attribu
 
 [About batch attributes](about-batch-attributes.md)
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
-[Group attributes (form)](https://technet.microsoft.com/en-us/library/hh209573\(v=ax.60\))
+[Group attributes (form)](https://technet.microsoft.com/library/hh209573\(v=ax.60\))
 
   
 

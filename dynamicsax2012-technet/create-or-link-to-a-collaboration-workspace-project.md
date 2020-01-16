@@ -2,8 +2,9 @@
 title: Create or link to a collaboration workspace (Project)
 TOCTitle: Create or link to a collaboration workspace (Project)
 ms:assetid: 8689064e-7058-49fd-8000-52de9b2827a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209328(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209328(v=AX.60)
 ms:contentKeyID: 36058419
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

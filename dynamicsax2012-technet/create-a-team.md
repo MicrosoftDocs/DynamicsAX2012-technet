@@ -2,8 +2,9 @@
 title: Create a team
 TOCTitle: Create a team
 ms:assetid: 5a230f8b-4afe-414e-ac65-3c917f684829
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781092(v=AX.60)
 ms:contentKeyID: 43894501
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,9 +36,9 @@ You can create teams to associate groups of people who might not otherwise work 
 
 [Manage teams](manage-teams.md)
 
-[Manage teams (form)](https://technet.microsoft.com/en-us/library/hh209425\(v=ax.60\))
+[Manage teams (form)](https://technet.microsoft.com/library/hh209425\(v=ax.60\))
 
-[Add team members (form)](https://technet.microsoft.com/en-us/library/hh208765\(v=ax.60\))
+[Add team members (form)](https://technet.microsoft.com/library/hh208765\(v=ax.60\))
 
   
 

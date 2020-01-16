@@ -2,8 +2,9 @@
 title: Create budget register entries (Public sector)
 TOCTitle: Create budget register entries (Public sector)
 ms:assetid: aa1c0df9-9c97-4f1f-99d8-ec80838c9898
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208569(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208569(v=AX.60)
 ms:contentKeyID: 36056348
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

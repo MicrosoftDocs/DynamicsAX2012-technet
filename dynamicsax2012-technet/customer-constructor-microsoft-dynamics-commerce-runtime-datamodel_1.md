@@ -1,9 +1,10 @@
-﻿---
+---
 title: Customer Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Customer Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.customer.customer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.customer(v=AX.60)
 ms:contentKeyID: 49854033
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

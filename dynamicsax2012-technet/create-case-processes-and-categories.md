@@ -2,8 +2,9 @@
 title: Create case processes and categories
 TOCTitle: Create case processes and categories
 ms:assetid: f2b47520-5705-49db-9e5d-9ebf4997842b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh370706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh370706(v=AX.60)
 ms:contentKeyID: 36811440
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -97,11 +98,11 @@ After you create the process, you can save it as a template for other processes 
 
 [About audit policy violations and cases](about-audit-policy-violations-and-cases.md)
 
-[Case process (form)](https://technet.microsoft.com/en-us/library/hh242460\(v=ax.60\))
+[Case process (form)](https://technet.microsoft.com/library/hh242460\(v=ax.60\))
 
-[Case categories (form)](https://technet.microsoft.com/en-us/library/hh209319\(v=ax.60\))
+[Case categories (form)](https://technet.microsoft.com/library/hh209319\(v=ax.60\))
 
-[Case grouping criteria (form)](https://technet.microsoft.com/en-us/library/hh209729\(v=ax.60\))
+[Case grouping criteria (form)](https://technet.microsoft.com/library/hh209729\(v=ax.60\))
 
   
 

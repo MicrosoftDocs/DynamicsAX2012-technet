@@ -2,8 +2,9 @@
 title: Create packaging material transactions
 TOCTitle: Create packing material transactions
 ms:assetid: 88d015e5-ad71-4da4-aca2-d2ef91ab9ff2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498230(v=AX.60)
 ms:contentKeyID: 44081005
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

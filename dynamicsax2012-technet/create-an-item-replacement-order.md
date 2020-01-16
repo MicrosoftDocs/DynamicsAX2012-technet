@@ -2,8 +2,9 @@
 title: Create an item replacement order
 TOCTitle: Create an item replacement order
 ms:assetid: 38c243d9-9d42-49e3-b4ff-5197d46ebcae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231129(v=AX.60)
 ms:contentKeyID: 49684848
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Item replacement orders are usually created after a product is returned and insp
     
     In Microsoft Dynamics AX 2012 R2, if you identified the sales order in step 3, and if the sales order line for the returned item is linked to a sales agreement, the identifier of the applicable sales agreement for the item replacement order will be automatically displayed in the **Sales agreement ID** field.
 
-7.  Click **OK** to close the **Create sales order** form and open the **Sales order** form, where you can continue to enter information for the new sales order. Any applicable return order lines will be copied to the new sales order. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+7.  Click **OK** to close the **Create sales order** form and open the **Sales order** form, where you can continue to enter information for the new sales order. Any applicable return order lines will be copied to the new sales order. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
     
     In Microsoft Dynamics AX 2012 R2, if the identifier of the sales agreement is automatically displayed in the **Sales agreement ID** field, then the sales agreement has been linked to the sales order header for the item replacement order. If there is an applicable commitment in the sales agreement that has not been fulfilled yet, and the sales order is created before the sales agreement expires, a link is established between the sales agreement line and the sales order line. Therefore, information from the sales agreement, such as item price, is copied to the new sales order line. For more information, see [About sales agreements](about-sales-agreements.md).
 

@@ -2,8 +2,9 @@
 title: Configure partitions
 TOCTitle: Configure partitions
 ms:assetid: 75c6aa31-b1a0-41d3-8709-8d0986ce33ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ721415(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ721415(v=AX.60)
 ms:contentKeyID: 49729979
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

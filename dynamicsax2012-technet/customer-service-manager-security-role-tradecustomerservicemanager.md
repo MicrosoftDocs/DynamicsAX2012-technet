@@ -2,8 +2,9 @@
 title: Customer service manager security role (TradeCustomerServiceManager)
 TOCTitle: Customer service manager security role (TradeCustomerServiceManager)
 ms:assetid: d359fc6f-544a-4ec6-b9fb-f2497bd127f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527139(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527139(v=AX.60)
 ms:contentKeyID: 37823190
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

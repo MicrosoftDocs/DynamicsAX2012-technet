@@ -2,8 +2,9 @@
 title: Create delivery charges groups
 TOCTitle: Create delivery charges groups
 ms:assetid: 6fc99264-0c07-4f90-be8f-ec0815b906c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683227(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683227(v=AX.60)
 ms:contentKeyID: 49684850
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ Use this topic to create a charges group for modes of delivery. A delivery charg
 
 [Define auto charges](define-auto-charges.md)
 
-[Auto charges (form)](https://technet.microsoft.com/en-us/library/aa582856\(v=ax.60\))
+[Auto charges (form)](https://technet.microsoft.com/library/aa582856\(v=ax.60\))
 
-[Charges groups (form)](https://technet.microsoft.com/en-us/library/aa617452\(v=ax.60\))
+[Charges groups (form)](https://technet.microsoft.com/library/aa617452\(v=ax.60\))
 
-[Modes of delivery (form)](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\))
+[Modes of delivery (form)](https://technet.microsoft.com/library/aa619881\(v=ax.60\))
 
   
 

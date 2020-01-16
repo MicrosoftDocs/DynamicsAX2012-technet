@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeSection.Composition Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: Composition Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.CommerceRuntimeSection.Composition
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.composition(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.composition(v=AX.60)
 ms:contentKeyID: 49820761
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ virtual property IEnumerable<ICompositionElement^>^ Composition {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ICompositionElement](icompositionelement-interface-microsoft-dynamics-commerce-runtime-configuration.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ICompositionElement](icompositionelement-interface-microsoft-dynamics-commerce-runtime-configuration.md)\>  
 Returns [CompositionElementCollection](compositionelementcollection-class-microsoft-dynamics-commerce-runtime-configuration.md).  
 
 #### Implements

@@ -2,8 +2,9 @@
 title: Customer payment retention report (PSACustomerRetention)
 TOCTitle: Customer payment retention report (PSACustomerRetention)
 ms:assetid: a2e62f5a-1b82-4964-9765-d875f4ad1fbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334499(v=AX.60)
 ms:contentKeyID: 36676487
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

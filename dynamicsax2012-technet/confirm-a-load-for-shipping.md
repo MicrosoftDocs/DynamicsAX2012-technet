@@ -2,8 +2,9 @@
 title: Confirm a load for shipping
 TOCTitle: Confirm a load for shipping
 ms:assetid: d441a41f-27c5-47c5-948f-64da00d9ba02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn770237(v=AX.60)
 ms:contentKeyID: 62583047
+author: Khairunj
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:

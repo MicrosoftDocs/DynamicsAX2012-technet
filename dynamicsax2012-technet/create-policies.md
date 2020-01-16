@@ -2,8 +2,9 @@
 title: Create policies
 TOCTitle: Create policies
 ms:assetid: 408f928e-aab0-4ad7-bf3f-1f5c1fc0a590
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231354(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231354(v=AX.60)
 ms:contentKeyID: 36056719
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

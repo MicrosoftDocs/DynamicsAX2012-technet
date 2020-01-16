@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommunicationErrors.ExternalProviderError Field (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ExternalProviderError Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.CommunicationErrors.ExternalProviderError
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.communicationerrors.externalprovidererror(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationerrors.externalprovidererror(v=AX.60)
 ms:contentKeyID: 49827164
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

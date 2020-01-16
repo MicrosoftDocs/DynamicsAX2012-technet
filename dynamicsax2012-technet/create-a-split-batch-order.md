@@ -2,8 +2,9 @@
 title: Create a split batch order
 TOCTitle: Create a split batch order
 ms:assetid: 1c3d88ad-94e1-44cb-b96f-20d871f9c7a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352187(v=AX.60)
 ms:contentKeyID: 36687820
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ Use this procedure to create a batch order by using the split function.
 
 [About batch orders](about-batch-orders.md)
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Split (form)](https://technet.microsoft.com/en-us/library/aa588617\(v=ax.60\))
+[Split (form)](https://technet.microsoft.com/library/aa588617\(v=ax.60\))
 
   
 

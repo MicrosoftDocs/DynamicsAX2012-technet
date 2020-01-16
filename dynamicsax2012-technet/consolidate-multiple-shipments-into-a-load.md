@@ -2,8 +2,9 @@
 title: Consolidate multiple shipments into a load
 TOCTitle: Consolidate multiple shipments into a load
 ms:assetid: 1efe844c-e55c-492b-bd6e-0ea0d88cf965
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn770230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn770230(v=AX.60)
 ms:contentKeyID: 62583045
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 audience: Application User

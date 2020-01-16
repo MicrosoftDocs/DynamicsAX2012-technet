@@ -2,8 +2,9 @@
 title: Create call center catalogs
 TOCTitle: Create call center catalogs
 ms:assetid: bf42fea1-696e-4183-be39-05b1e67b69c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497822(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497822(v=AX.60)
 ms:contentKeyID: 62200149
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

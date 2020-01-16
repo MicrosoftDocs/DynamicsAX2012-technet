@@ -2,8 +2,9 @@
 title: Create a letter of guarantee request for a sales order
 TOCTitle: Create a letter of guarantee request for a sales order
 ms:assetid: 8076b3f8-e224-49c5-a43a-b24867ec9a94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209302(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209302(v=AX.60)
 ms:contentKeyID: 36058341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ You can request a letter of guarantee for a customer using the **Sales order** f
 
 [Liquidate, extend, or cancel a letter of guarantee](liquidate-extend-or-cancel-a-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

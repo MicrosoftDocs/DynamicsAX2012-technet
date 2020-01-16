@@ -2,8 +2,9 @@
 title: Create a configuration project by copying another project in RapidStart Services
 TOCTitle: Create a configuration project by copying another project in RapidStart Services
 ms:assetid: 585003cb-c725-4261-b22c-52e1053d3ec8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193995(v=AX.60)
 ms:contentKeyID: 52348262
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

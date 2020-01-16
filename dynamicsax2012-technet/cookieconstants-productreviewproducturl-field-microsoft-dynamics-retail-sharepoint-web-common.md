@@ -1,9 +1,10 @@
-﻿---
+---
 title: CookieConstants.ProductReviewProductUrl Field (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: ProductReviewProductUrl Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Common.CookieConstants.ProductReviewProductUrl
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.cookieconstants.productreviewproducturl(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.cookieconstants.productreviewproducturl(v=AX.60)
 ms:contentKeyID: 62206194
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

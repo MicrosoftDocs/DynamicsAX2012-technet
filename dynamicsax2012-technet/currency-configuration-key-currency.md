@@ -2,8 +2,9 @@
 title: Currency configuration key (Currency)
 TOCTitle: Currency configuration key (Currency)
 ms:assetid: e4a8bced-1c12-4640-a997-596a7beb1607
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416699(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416699(v=AX.60)
 ms:contentKeyID: 36931861
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

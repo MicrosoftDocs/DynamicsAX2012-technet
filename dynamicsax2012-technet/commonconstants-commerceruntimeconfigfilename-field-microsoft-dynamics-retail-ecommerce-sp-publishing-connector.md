@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommonConstants.CommerceRuntimeConfigFileName Field (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: CommerceRuntimeConfigFileName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.CommerceRuntimeConfigFileName
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.commerceruntimeconfigfilename(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.commerceruntimeconfigfilename(v=AX.60)
 ms:contentKeyID: 65317088
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

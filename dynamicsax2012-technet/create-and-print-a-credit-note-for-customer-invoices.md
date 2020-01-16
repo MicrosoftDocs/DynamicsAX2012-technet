@@ -2,8 +2,9 @@
 title: Create and print a credit note for customer invoices
 TOCTitle: Create and print a credit note for customer invoices
 ms:assetid: 110d56b9-c3b7-45e5-af5f-4132259b3511
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn818480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn818480(v=AX.60)
 ms:contentKeyID: 63172365
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 
 </div></li>
-<li><p>Create and post a sales order invoice. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
+<li><p>Create and post a sales order invoice. For more information, see <a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
 </ol></td>
 </tr>
 </tbody>

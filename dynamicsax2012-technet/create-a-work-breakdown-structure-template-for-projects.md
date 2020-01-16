@@ -2,8 +2,9 @@
 title: Create a work breakdown structure template for projects
 TOCTitle: Create a work breakdown structure template for projects
 ms:assetid: 769c21ef-9958-43c4-8724-5007d1cd6776
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn528661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn528661(v=AX.60)
 ms:contentKeyID: 59636746
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

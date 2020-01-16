@@ -2,8 +2,9 @@
 title: Configure project budget overrun settings
 TOCTitle: Configure project budget overrun settings
 ms:assetid: 11137a2f-8a8a-4cf9-a9be-26f783bb4808
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242140(v=AX.60)
 ms:contentKeyID: 36056031
+author: Khairunj
 ms.date: 09/21/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,9 +101,9 @@ If you define overrun options for specific user groups or projects in the **Proj
 
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project budget settings for user groups (form)](https://technet.microsoft.com/en-us/library/hh242598\(v=ax.60\))
+[Project budget settings for user groups (form)](https://technet.microsoft.com/library/hh242598\(v=ax.60\))
 
   
 

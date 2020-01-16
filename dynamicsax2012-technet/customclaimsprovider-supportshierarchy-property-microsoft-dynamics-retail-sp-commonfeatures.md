@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.SupportsHierarchy Property  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: SupportsHierarchy Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.SupportsHierarchy
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.supportshierarchy(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.supportshierarchy(v=AX.60)
 ms:contentKeyID: 62204796
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ virtual property bool SupportsHierarchy {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if \[supports hierarchy\]; otherwise, false.  
 
 ## See Also

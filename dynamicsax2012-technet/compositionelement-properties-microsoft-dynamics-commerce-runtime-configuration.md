@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositionElement Properties (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: CompositionElement Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Configuration.CompositionElement
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.compositionelement_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.compositionelement_properties(v=AX.60)
 ms:contentKeyID: 49856557
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -26,27 +27,27 @@ The [CompositionElement](compositionelement-class-microsoft-dynamics-commerce-ru
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td>CurrentConfiguration</td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134142(v=ax.60)">ElementInformation</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134142(v=ax.60)">ElementInformation</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134143(v=ax.60)">ElementProperty</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134143(v=ax.60)">ElementProperty</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134144(v=ax.60)">EvaluationContext</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134144(v=ax.60)">EvaluationContext</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
 <td>HasContext</td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
@@ -55,33 +56,33 @@ The [CompositionElement](compositionelement-class-microsoft-dynamics-commerce-ru
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134146(v=ax.60)">LockAllAttributesExcept</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134146(v=ax.60)">LockAllAttributesExcept</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134147(v=ax.60)">LockAllElementsExcept</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134147(v=ax.60)">LockAllElementsExcept</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134148(v=ax.60)">LockAttributes</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134148(v=ax.60)">LockAttributes</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134149(v=ax.60)">LockElements</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134149(v=ax.60)">LockElements</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms134150(v=ax.60)">LockItem</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms134150(v=ax.60)">LockItem</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998430.protproperty(en-us,AX.60).gif" title="Protected property" alt="Protected property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/3kx8tt8d(v=ax.60)">Properties</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/3kx8tt8d(v=ax.60)">Properties</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/kyx77cz3(v=ax.60)">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

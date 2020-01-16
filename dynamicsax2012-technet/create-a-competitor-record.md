@@ -2,8 +2,9 @@
 title: Create a competitor record
 TOCTitle: Create a competitor record
 ms:assetid: 5827210a-c04a-4b43-8559-df467855cb0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242480(v=AX.60)
 ms:contentKeyID: 36057340
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ When managing your sales opportunities, researching your competitors and familia
 
 3.  Enter or select a competitor name from the list, and then enter a brief description of the competitor.
 
-4.  Enter as much information as possible about the competitor in each field on the tabs. For information about the fields in the **Competitors** form, see [Competitor (form)](https://technet.microsoft.com/en-us/library/hh242664\(v=ax.60\)).
+4.  Enter as much information as possible about the competitor in each field on the tabs. For information about the fields in the **Competitors** form, see [Competitor (form)](https://technet.microsoft.com/library/hh242664\(v=ax.60\)).
 
 ## See also
 

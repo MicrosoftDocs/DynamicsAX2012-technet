@@ -2,8 +2,9 @@
 title: Create or edit a return order
 TOCTitle: Create or edit a return order
 ms:assetid: 73c827c7-4c09-435e-abf1-d25ef679629a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271565(v=AX.60)
 ms:contentKeyID: 36384196
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

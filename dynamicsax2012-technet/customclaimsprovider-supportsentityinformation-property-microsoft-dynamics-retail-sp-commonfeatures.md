@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.SupportsEntityInformation Property  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: SupportsEntityInformation Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.SupportsEntityInformation
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.supportsentityinformation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.supportsentityinformation(v=AX.60)
 ms:contentKeyID: 62202639
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ virtual property bool SupportsEntityInformation {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if \[supports entity information\]; otherwise, false.  
 
 ## See Also

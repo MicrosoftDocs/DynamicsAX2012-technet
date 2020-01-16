@@ -2,8 +2,9 @@
 title: Create sales targets
 TOCTitle: Create sales targets
 ms:assetid: 029af4be-eac6-49c4-8d27-6489ba20c1d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569698(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569698(v=AX.60)
 ms:contentKeyID: 36055933
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

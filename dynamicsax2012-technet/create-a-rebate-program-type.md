@@ -2,8 +2,9 @@
 title: Create a rebate program type
 TOCTitle: Create a rebate program type
 ms:assetid: 8c00c6f3-c5bf-4b16-86d8-ff0ebf222980
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352286(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352286(v=AX.60)
 ms:contentKeyID: 36687913
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ Use this procedure to create a rebate program type. You use rebate program types
 
 [About customer rebates](about-customer-rebates.md)
 
-[Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
+[Rebate agreements (form)](https://technet.microsoft.com/library/hh328681\(v=ax.60\))
 
-[Rebate program types (form)](https://technet.microsoft.com/en-us/library/hh352270\(v=ax.60\))
+[Rebate program types (form)](https://technet.microsoft.com/library/hh352270\(v=ax.60\))
 
   
 

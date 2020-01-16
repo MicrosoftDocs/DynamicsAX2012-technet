@@ -2,8 +2,9 @@
 title: Create a co-product
 TOCTitle: Create a co-product
 ms:assetid: 81d9053b-7828-4a10-a91b-eeeaff630b47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209309(v=AX.60)
 ms:contentKeyID: 36058357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ Use this procedure to create a co-product. To use this procedure, the related fo
 
 [About co-products and by-products](about-co-products-and-by-products.md)
 
-[Co-products (form)](https://technet.microsoft.com/en-us/library/hh328754\(v=ax.60\))
+[Co-products (form)](https://technet.microsoft.com/library/hh328754\(v=ax.60\))
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
   
 

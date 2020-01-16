@@ -2,8 +2,9 @@
 title: Create a minimum inventory quantity proposal
 TOCTitle: Create a minimum inventory quantity proposal
 ms:assetid: 8785e152-d1f4-49fa-b510-a2b1120b82da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571586(v=AX.60)
 ms:contentKeyID: 36058427
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ To create a minimum inventory quantity proposal, use the following procedure:
 
 ## See also
 
-[Item coverage journal lines (form)](https://technet.microsoft.com/en-us/library/aa583747\(v=ax.60\))
+[Item coverage journal lines (form)](https://technet.microsoft.com/library/aa583747\(v=ax.60\))
 
   
 

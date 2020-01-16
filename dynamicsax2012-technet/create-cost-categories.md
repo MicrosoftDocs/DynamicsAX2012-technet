@@ -2,8 +2,9 @@
 title: Create cost categories
 TOCTitle: Create cost categories
 ms:assetid: 31e928ad-6b14-40f9-ac9d-fa8463458828
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570056(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570056(v=AX.60)
 ms:contentKeyID: 36056349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

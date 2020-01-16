@@ -2,8 +2,9 @@
 title: Create a project beginning balance
 TOCTitle: Create a project beginning balance
 ms:assetid: 23b4cb63-adc2-4ec2-84c1-48dfaac5caa9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208478(v=AX.60)
 ms:contentKeyID: 36056183
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,9 +53,9 @@ If you created the beginning balance from the **Projects** form, you can view a 
 
 [Set up project journal names](set-up-project-journal-options.md)
 
-[Beginning balance journal (form)](https://technet.microsoft.com/en-us/library/hh209585\(v=ax.60\))
+[Beginning balance journal (form)](https://technet.microsoft.com/library/hh209585\(v=ax.60\))
 
-[Journal lines for beginning balances (form)](https://technet.microsoft.com/en-us/library/hh227479\(v=ax.60\))
+[Journal lines for beginning balances (form)](https://technet.microsoft.com/library/hh227479\(v=ax.60\))
 
 [About project beginning balances](about-project-beginning-balances.md)
 

@@ -2,8 +2,9 @@
 title: Configure a manual task
 TOCTitle: Configure a manual task
 ms:assetid: 1798c3e0-9c83-49a1-b2dd-2a23fb77d88c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309606(v=AX.60)
 ms:contentKeyID: 35132560
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

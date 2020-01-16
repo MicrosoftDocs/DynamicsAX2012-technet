@@ -2,8 +2,9 @@
 title: Credit subscription transactions
 TOCTitle: Credit subscription transactions
 ms:assetid: 49977831-e4dc-4213-b656-0c14fc9735ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497005(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497005(v=AX.60)
 ms:contentKeyID: 36056940
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ If the **Reverse accruals on crediting** field in the **Service management param
 
 ## See also
 
-[Service management parameters (form)](https://technet.microsoft.com/en-us/library/aa634925\(v=ax.60\))
+[Service management parameters (form)](https://technet.microsoft.com/library/aa634925\(v=ax.60\))
 
 [Invoice subscription transactions](invoice-subscription-transactions.md)
 

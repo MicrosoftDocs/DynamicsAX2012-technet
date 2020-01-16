@@ -2,8 +2,9 @@
 title: Compliance site configuration key (EPCompliance)
 TOCTitle: Compliance site configuration key (EPCompliance)
 ms:assetid: dcd27b1c-20c0-4b62-a174-843c56a6cd73
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450739(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450739(v=AX.60)
 ms:contentKeyID: 36966675
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -124,7 +125,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

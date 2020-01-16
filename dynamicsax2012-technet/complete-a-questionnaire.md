@@ -2,8 +2,9 @@
 title: Complete a questionnaire
 TOCTitle: Complete a questionnaire
 ms:assetid: 4486a805-b4be-4e5e-92ac-b09dbb5a3553
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496975(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496975(v=AX.60)
 ms:contentKeyID: 41702385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Questionnaires can be completed by selected respondents. For more information, s
     
       - **Cancel** – End the answer session without saving your answers.
         
-        For more information about these buttons, see [Complete a questionnaire (form)](https://technet.microsoft.com/en-us/library/aa552034\(v=ax.60\))
+        For more information about these buttons, see [Complete a questionnaire (form)](https://technet.microsoft.com/library/aa552034\(v=ax.60\))
 
 3.  If the questionnaire must be completed within a time limit, you can end it in one of three ways:
     
@@ -69,7 +70,7 @@ Questionnaires can be completed by selected respondents. For more information, s
     
       - **Cancel** – End the answer session without saving your answers.
         
-        For more information about these buttons, see [Complete a questionnaire (form)](https://technet.microsoft.com/en-us/library/aa552034\(v=ax.60\))
+        For more information about these buttons, see [Complete a questionnaire (form)](https://technet.microsoft.com/library/aa552034\(v=ax.60\))
 
 4.  Type or select your answer for the question that is displayed, and then click **Forward** to view the next question.
 

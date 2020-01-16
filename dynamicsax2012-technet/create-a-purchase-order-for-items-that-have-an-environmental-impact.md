@@ -2,8 +2,9 @@
 title: Create a purchase order for items that have an environmental impact
 TOCTitle: Create a purchase order for items that have an environmental impact
 ms:assetid: 9db17996-8dc9-4a39-8149-05c3c277db58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433546(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433546(v=AX.60)
 ms:contentKeyID: 36941351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

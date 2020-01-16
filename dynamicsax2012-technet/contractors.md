@@ -2,8 +2,9 @@
 title: Contractors
 TOCTitle: Contractors
 ms:assetid: 107cd636-1ff1-42fa-81a6-5fcde2ecaaf7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn754851(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn754851(v=AX.60)
 ms:contentKeyID: 62504011
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 audience: Application User

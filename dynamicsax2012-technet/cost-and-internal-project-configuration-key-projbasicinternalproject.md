@@ -2,8 +2,9 @@
 title: Cost and internal project configuration key (ProjBasicInternalProject)
 TOCTitle: Cost and internal project configuration key (ProjBasicInternalProject)
 ms:assetid: 478915f1-5677-4aa4-8b24-2dfa41edae46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa575989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa575989(v=AX.60)
 ms:contentKeyID: 39518957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

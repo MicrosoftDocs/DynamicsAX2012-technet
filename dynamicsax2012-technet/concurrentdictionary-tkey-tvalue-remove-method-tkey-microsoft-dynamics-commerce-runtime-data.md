@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).Remove Method (TKey) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Remove Method (TKey)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Remove(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn966515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn966515(v=AX.60)
 ms:contentKeyID: 65316463
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,12 +55,12 @@ virtual bool Remove(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 Returns true if the element is removed from the dictionary successfully.  
 
 #### Implements
 
-[IDictionary\<TKey, TValue\>.Remove(TKey)](https://technet.microsoft.com/en-us/library/k8s489f0\(v=ax.60\))  
+[IDictionary\<TKey, TValue\>.Remove(TKey)](https://technet.microsoft.com/library/k8s489f0\(v=ax.60\))  
 
 ## See Also
 

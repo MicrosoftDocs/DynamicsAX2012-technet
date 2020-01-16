@@ -2,8 +2,9 @@
 title: Create a timesheet
 TOCTitle: Create a timesheet
 ms:assetid: 991dcea3-93a8-4aa2-93cf-eedc029b87d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209420(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209420(v=AX.60)
 ms:contentKeyID: 36058687
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ By default, the **All timesheets** list page displays all your timesheets for th
 
 7.  Select information in the **Category** and **Activity** fields as required.
     
-    In Microsoft Dynamics AX 2012 R2, the default category is the category that was selected in the **Project setup** form. You can select another category. For more information, see [Project setup (form)](https://technet.microsoft.com/en-us/library/hh209540\(v=ax.60\)).
+    In Microsoft Dynamics AX 2012 R2, the default category is the category that was selected in the **Project setup** form. You can select another category. For more information, see [Project setup (form)](https://technet.microsoft.com/library/hh209540\(v=ax.60\)).
 
 8.  Enter the number of hours that you worked each day. Enter hours in a decimal format. For example, if you worked for two hours and fifteen minutes, enter 2.25.
 
@@ -144,13 +145,13 @@ By default, the **All timesheets** list page displays all your timesheets for th
 
 [About intercompany timesheets](about-intercompany-timesheets.md)
 
-[New timesheet (form)](https://technet.microsoft.com/en-us/library/hh227610\(v=ax.60\))
+[New timesheet (form)](https://technet.microsoft.com/library/hh227610\(v=ax.60\))
 
-[Timesheet favorites (form)](https://technet.microsoft.com/en-us/library/hh209717\(v=ax.60\))
+[Timesheet favorites (form)](https://technet.microsoft.com/library/hh209717\(v=ax.60\))
 
-[Timesheet line details (form)](https://technet.microsoft.com/en-us/library/hh209688\(v=ax.60\))
+[Timesheet line details (form)](https://technet.microsoft.com/library/hh209688\(v=ax.60\))
 
-[Timesheet line comments (form)](https://technet.microsoft.com/en-us/library/hh208812\(v=ax.60\))
+[Timesheet line comments (form)](https://technet.microsoft.com/library/hh208812\(v=ax.60\))
 
   
 

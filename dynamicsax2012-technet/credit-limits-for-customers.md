@@ -2,8 +2,9 @@
 title: Credit limits for customers
 TOCTitle: Credit limits for customers
 ms:assetid: 51bf672e-e965-4dad-b5cf-46395d685aa9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ155667(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ155667(v=AX.60)
 ms:contentKeyID: 47574347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -206,11 +207,11 @@ Sometimes, you might have to manually check a customer’s credit limit. For exa
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

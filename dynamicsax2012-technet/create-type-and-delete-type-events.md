@@ -2,8 +2,9 @@
 title: Create-type and delete-type events
 TOCTitle: Create-type and delete-type events
 ms:assetid: 94a3de7a-f92e-4fa1-855f-b91ff3bfa1a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498410(v=AX.60)
 ms:contentKeyID: 46687558
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

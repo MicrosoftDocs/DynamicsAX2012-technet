@@ -2,8 +2,9 @@
 title: Create a table constraint
 TOCTitle: Create a table constraint
 ms:assetid: f6409362-123c-4921-9dbf-44ea523405e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597282(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597282(v=AX.60)
 ms:contentKeyID: 39519366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ You can create user-defined or system-defined table constraints for components i
 
 ## Create a user-defined table constraint
 
-Before you can set up a user-defined table constraint, the attribute types to include in the constraint must already exist. For more information, see [Attribute types (form)](https://technet.microsoft.com/en-us/library/hh227367\(v=ax.60\)).
+Before you can set up a user-defined table constraint, the attribute types to include in the constraint must already exist. For more information, see [Attribute types (form)](https://technet.microsoft.com/library/hh227367\(v=ax.60\)).
 
 1.  Click **Product information management** \> **Common** \> **Product configuration models**.
 

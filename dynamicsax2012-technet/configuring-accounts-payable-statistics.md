@@ -2,8 +2,9 @@
 title: Configuring Accounts payable statistics
 TOCTitle: Configuring Accounts payable statistics
 ms:assetid: 85776f03-4ac3-459d-a56c-272a071ca287
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209325(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209325(v=AX.60)
 ms:contentKeyID: 36058404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

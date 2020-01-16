@@ -2,8 +2,9 @@
 title: Creating Reports Overview
 TOCTitle: Creating Reports Overview
 ms:assetid: 784dd771-693d-4c02-89b0-d4cc04c516e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc557922(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc557922(v=AX.60)
 ms:contentKeyID: 28119383
+author: Khairunj
 ms.date: 03/12/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,11 +49,11 @@ Reports created by using the Microsoft Visual Studio tools for Microsoft Dynamic
 
 ## Creating Reports
 
-The first step in creating your reports is to create a reporting project in Microsoft Visual Studio by selecting the Report Model project template. After you have created a reporting project, you can define a report in the model that is provided. You can add, remove, and modify report items using the context menus that appear when you right-click the nodes in the model. For example, you can right-click the **Images** node for a report, and then click **Add Image** to add an embedded image to a report. You can also move or create new elements in a model by using drag-and-drop functionality. For example, when you drag a report dataset onto the **Designs** node, an auto design is created for the report. For more information about the elements in a model, see [Model Editor Overview](https://technet.microsoft.com/en-us/library/cc643142\(v=ax.60\)). The following illustration shows an example of a report in a model.
+The first step in creating your reports is to create a reporting project in Microsoft Visual Studio by selecting the Report Model project template. After you have created a reporting project, you can define a report in the model that is provided. You can add, remove, and modify report items using the context menus that appear when you right-click the nodes in the model. For example, you can right-click the **Images** node for a report, and then click **Add Image** to add an embedded image to a report. You can also move or create new elements in a model by using drag-and-drop functionality. For example, when you drag a report dataset onto the **Designs** node, an auto design is created for the report. For more information about the elements in a model, see [Model Editor Overview](https://technet.microsoft.com/library/cc643142\(v=ax.60\)). The following illustration shows an example of a report in a model.
 
 ![Model file](images/Cc557922.ModelFile(AX.60).gif "Model file")
 
-Microsoft Dynamics AX provides two tools, Model Editor and Application Explorer, to edit and view models. If you double-click a report in Solution Explorer, the report opens in Model Editor. For more information about the modeling tools, see [Model Editor Overview](https://technet.microsoft.com/en-us/library/cc643142\(v=ax.60\)) and [Application Explorer](https://technet.microsoft.com/en-us/library/cc637855\(v=ax.60\)).
+Microsoft Dynamics AX provides two tools, Model Editor and Application Explorer, to edit and view models. If you double-click a report in Solution Explorer, the report opens in Model Editor. For more information about the modeling tools, see [Model Editor Overview](https://technet.microsoft.com/library/cc643142\(v=ax.60\)) and [Application Explorer](https://technet.microsoft.com/library/cc637855\(v=ax.60\)).
 
 ## Defining Report Data
 
@@ -120,7 +121,7 @@ You can display images in reports. Images can be embedded directly in a report, 
 
 [Reporting in Microsoft Dynamics AX](reporting-in-microsoft-dynamics-ax.md)
 
-[Reports](https://technet.microsoft.com/en-us/library/cc601396\(v=ax.60\))
+[Reports](https://technet.microsoft.com/library/cc601396\(v=ax.60\))
 
   
 

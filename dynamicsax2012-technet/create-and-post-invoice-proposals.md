@@ -2,8 +2,9 @@
 title: Create and post invoice proposals
 TOCTitle: Create and post invoice proposals
 ms:assetid: 29738be9-5198-4dbd-bcb7-cd32c26c707b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496846(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496846(v=AX.60)
 ms:contentKeyID: 36811401
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -113,13 +114,13 @@ To modify lines in an invoice proposal, follow these steps:
 
 ## See also
 
-[Create invoice proposal (form)](https://technet.microsoft.com/en-us/library/jj683236\(v=ax.60\))
+[Create invoice proposal (form)](https://technet.microsoft.com/library/jj683236\(v=ax.60\))
 
-[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/en-us/library/jj683235\(v=ax.60\))
+[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/library/jj683235\(v=ax.60\))
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
   
 

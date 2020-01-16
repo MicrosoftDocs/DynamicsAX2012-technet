@@ -2,8 +2,9 @@
 title: Create sales or sales quotation delivery schedules
 TOCTitle: Create sales delivery schedules
 ms:assetid: 6533a61a-b0c7-4c19-b836-f370be7a91e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242446(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242446(v=AX.60)
 ms:contentKeyID: 36057739
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -98,9 +99,9 @@ Use this procedure to create a delivery schedule that lets you split one order l
 
 [Update delivery schedules](update-delivery-schedules.md)
 
-[Delivery schedule - Sales order (form)](https://technet.microsoft.com/en-us/library/hh209246\(v=ax.60\))
+[Delivery schedule - Sales order (form)](https://technet.microsoft.com/library/hh209246\(v=ax.60\))
 
-[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/en-us/library/hh209450\(v=ax.60\))
+[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/library/hh209450\(v=ax.60\))
 
   
 

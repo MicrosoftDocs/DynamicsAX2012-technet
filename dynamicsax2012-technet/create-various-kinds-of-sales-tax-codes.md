@@ -2,8 +2,9 @@
 title: Create various kinds of sales tax codes
 TOCTitle: Create various kinds of sales tax codes
 ms:assetid: ac8bec09-b20f-4b28-8569-88d82793a326
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498564(v=AX.60)
 ms:contentKeyID: 36058918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -103,7 +104,7 @@ You can create a sales tax code to be used as a purchase duty.
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

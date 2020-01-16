@@ -2,8 +2,9 @@
 title: Create electronic documents
 TOCTitle: Create electronic documents
 ms:assetid: 7705a198-e891-4336-be98-601cc8f56c20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212984(v=AX.60)
 ms:contentKeyID: 36058202
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

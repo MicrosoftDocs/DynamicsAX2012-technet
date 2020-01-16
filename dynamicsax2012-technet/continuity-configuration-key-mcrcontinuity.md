@@ -2,8 +2,9 @@
 title: Continuity configuration key (MCRContinuity)
 TOCTitle: Continuity configuration key (MCRContinuity)
 ms:assetid: e891863a-4807-4bad-9f62-5a93af432db7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774950(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774950(v=AX.60)
 ms:contentKeyID: 62617669
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,7 +107,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

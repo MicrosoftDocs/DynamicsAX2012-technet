@@ -2,8 +2,9 @@
 title: Create invoice proposals for projects with and without billing rules
 TOCTitle: Create invoice proposals for projects with and without billing rules
 ms:assetid: caddee24-9551-498e-aef7-1cbbfe9dfc74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572664(v=AX.60)
 ms:contentKeyID: 36059335
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -96,13 +97,13 @@ You can create an invoice proposal for a specific project directly from the proj
 
 ## See also
 
-[Create invoice proposals (class form)](https://technet.microsoft.com/en-us/library/aa600958\(v=ax.60\))
+[Create invoice proposals (class form)](https://technet.microsoft.com/library/aa600958\(v=ax.60\))
 
-[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/en-us/library/jj683235\(v=ax.60\))
+[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/library/jj683235\(v=ax.60\))
 
 [Enter on-account invoice transactions](enter-on-account-invoice-transactions.md)
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
   
 

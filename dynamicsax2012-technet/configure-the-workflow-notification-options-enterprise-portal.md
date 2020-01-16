@@ -2,8 +2,9 @@
 title: Configure the workflow notification options (Enterprise Portal)
 TOCTitle: Configure the workflow notification options
 ms:assetid: 9c66563d-c276-46be-98d6-bb407af35f32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271609(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271609(v=AX.60)
 ms:contentKeyID: 36384241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

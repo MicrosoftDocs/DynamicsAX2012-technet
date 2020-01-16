@@ -2,8 +2,9 @@
 title: Create or modify a customer record
 TOCTitle: Create or edit a customer record
 ms:assetid: ffa5960c-9752-4133-ae25-264743823798
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299241(v=AX.60)
 ms:contentKeyID: 36384347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

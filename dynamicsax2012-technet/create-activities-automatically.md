@@ -2,8 +2,9 @@
 title: Create activities automatically
 TOCTitle: Create activities automatically
 ms:assetid: 96c4a524-9fab-45c4-b901-8e2532032b1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498427(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498427(v=AX.60)
 ms:contentKeyID: 36058642
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

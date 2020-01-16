@@ -2,8 +2,9 @@
 title: Create expense categories
 TOCTitle: Create expense categories
 ms:assetid: ec2de76d-d50b-4608-a7ee-9d85de2d8721
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243253(v=AX.60)
 ms:contentKeyID: 36059892
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

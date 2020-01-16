@@ -2,8 +2,9 @@
 title: Create a customer product model group
 TOCTitle: Create a customer product model group
 ms:assetid: 604f2e8c-9068-4d48-a92c-9af0b2c68547
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571108(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571108(v=AX.60)
 ms:contentKeyID: 36057616
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

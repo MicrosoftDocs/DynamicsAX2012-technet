@@ -1,9 +1,10 @@
-﻿---
+---
 title: Customer.CellphoneRecordId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CellphoneRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.CellphoneRecordId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.customer.cellphonerecordid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.cellphonerecordid(v=AX.60)
 ms:contentKeyID: 62203794
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property long long CellphoneRecordId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The cellphone record id.  
 
 ## See Also

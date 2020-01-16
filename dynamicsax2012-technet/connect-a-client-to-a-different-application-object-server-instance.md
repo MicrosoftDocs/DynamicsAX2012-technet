@@ -2,8 +2,9 @@
 title: Connect a client to a different Application Object Server instance
 TOCTitle: Connect a client to a different Application Object Server instance
 ms:assetid: d1489765-b203-4348-b884-34647443857a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569658(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569658(v=AX.60)
 ms:contentKeyID: 35132898
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

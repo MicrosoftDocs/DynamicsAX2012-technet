@@ -2,8 +2,9 @@
 title: Configuring alerts
 TOCTitle: Configuring alerts
 ms:assetid: 5c19866e-53b4-46b8-a28c-2d45407f8759
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834468(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834468(v=AX.60)
 ms:contentKeyID: 46687546
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ The following sections explain the prerequisites for setup and provide links to 
 
 ## Set up number sequences for alerts
 
-Before you can use alerts, number sequences must be set up in the **Number sequences** form. For setup information, see [Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\)).
+Before you can use alerts, number sequences must be set up in the **Number sequences** form. For setup information, see [Number sequences (list page)](https://technet.microsoft.com/library/aa600321\(v=ax.60\)).
 
 ## Set up batch processing for alerts
 

@@ -2,8 +2,9 @@
 title: Create template groups
 TOCTitle: Create template groups
 ms:assetid: a1a3bf14-8140-46a0-b6fd-def02f2160c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571820(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571820(v=AX.60)
 ms:contentKeyID: 36058789
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

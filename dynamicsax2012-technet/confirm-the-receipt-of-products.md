@@ -2,8 +2,9 @@
 title: Confirm the receipt of products
 TOCTitle: Confirm the receipt of products
 ms:assetid: 25fdcf0e-6fde-4653-bef3-0a08cf9c6c74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271477(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271477(v=AX.60)
 ms:contentKeyID: 36384109
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

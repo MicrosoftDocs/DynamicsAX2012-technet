@@ -2,8 +2,9 @@
 title: Create per diem rules
 TOCTitle: Create per diem rules
 ms:assetid: 3a6487ec-28fd-4c64-9195-93a6c583bb42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231142(v=AX.60)
 ms:contentKeyID: 36811404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

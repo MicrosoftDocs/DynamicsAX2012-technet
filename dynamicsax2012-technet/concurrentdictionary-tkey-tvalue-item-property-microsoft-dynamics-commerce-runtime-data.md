@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue).Item Property  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: Item Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Item(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967026(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967026(v=AX.60)
 ms:contentKeyID: 65317886
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ Returns the value of the dictionary.
 
 #### Implements
 
-[IDictionary\<TKey, TValue\>.Item\[TKey\]](https://technet.microsoft.com/en-us/library/zyxt2e2h\(v=ax.60\))  
+[IDictionary\<TKey, TValue\>.Item\[TKey\]](https://technet.microsoft.com/library/zyxt2e2h\(v=ax.60\))  
 
 ## See Also
 

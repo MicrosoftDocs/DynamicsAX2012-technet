@@ -2,8 +2,9 @@
 title: Concepts and data flow
 TOCTitle: Concepts and data flow
 ms:assetid: f5de7da1-9d91-4b8c-af69-ac7c57dfc359
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551650(v=AX.60)
 ms:contentKeyID: 36931887
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

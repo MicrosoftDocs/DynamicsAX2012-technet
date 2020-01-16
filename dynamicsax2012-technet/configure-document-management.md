@@ -2,8 +2,9 @@
 title: Configure document management
 TOCTitle: Configure document management
 ms:assetid: 9fbb5573-9df5-4edd-925f-6b4ba6cbfcb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn636897(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn636897(v=AX.60)
 ms:contentKeyID: 61223075
+author: Khairunj
 ms.date: 07/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -233,7 +234,7 @@ To create a document type, follow these steps:
     <td><p><strong>Check table</strong></p></td>
     <td><p>If this check box is selected, the selected document type is available only from the tables that are specified in the <strong>Options</strong> form.</p>
     <p>By default, the check box is cleared for the standard document types, <strong>Note</strong> and <strong>File</strong>.</p>
-    <p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa553828(v=ax.60)">Restrict a document type to a specific table</a>.</p></td>
+    <p>For more information, see <a href="https://technet.microsoft.com/library/aa553828(v=ax.60)">Restrict a document type to a specific table</a>.</p></td>
     </tr>
     </tbody>
     </table>
@@ -273,7 +274,7 @@ To create content types, follow these steps:
 
 2.  Click **New**, and then enter a name and a description for the content type.
 
-For more information, see [Document content types (form)](https://technet.microsoft.com/en-us/library/hh209674\(v=ax.60\)).
+For more information, see [Document content types (form)](https://technet.microsoft.com/library/hh209674\(v=ax.60\)).
 
 ## 8\. Optional: Specify document management settings for AIF
 

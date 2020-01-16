@@ -2,8 +2,9 @@
 title: Create a batch job for faxed receipts
 TOCTitle: Create a batch job for faxed receipts
 ms:assetid: fc2cb8e6-ecd0-4799-b08f-3f3bcd9710f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227575(v=AX.60)
 ms:contentKeyID: 36060089
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

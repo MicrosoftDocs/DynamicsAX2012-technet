@@ -2,8 +2,9 @@
 title: Create a formula rule
 TOCTitle: Create a formula rule
 ms:assetid: 3b8f33cf-85e0-43c8-b8ac-7f08402aeebe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570163(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570163(v=AX.60)
 ms:contentKeyID: 36931868
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

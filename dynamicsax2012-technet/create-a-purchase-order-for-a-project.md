@@ -2,8 +2,9 @@
 title: Create a purchase order for a project
 TOCTitle: Create a purchase order for a project
 ms:assetid: c55b6a87-2aa0-4fc0-b1e4-9b83f79142bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550751(v=AX.60)
 ms:contentKeyID: 36811428
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ You can create purchase orders in **Project management and accounting** by using
     
 
     > [!TIP]
-    > <P>For information about the field on the form, see <A href="https://technet.microsoft.com/en-us/library/aa570189(v=ax.60)">Create purchase order (form)</A>.</P>
+    > <P>For information about the field on the form, see <A href="https://technet.microsoft.com/library/aa570189(v=ax.60)">Create purchase order (form)</A>.</P>
 
 
 
@@ -117,7 +118,7 @@ You can create purchase orders in **Project management and accounting** by using
 
 [Consume item requirements in a project](consume-item-requirements-in-a-project.md)
 
-[Item requirements (form)](https://technet.microsoft.com/en-us/library/aa552021\(v=ax.60\))
+[Item requirements (form)](https://technet.microsoft.com/library/aa552021\(v=ax.60\))
 
 [Create a purchase order from a sales order](create-a-purchase-order-from-a-sales-order.md)
 
@@ -125,7 +126,7 @@ You can create purchase orders in **Project management and accounting** by using
 
 [Update quantity on purchase orders and sales orders](update-quantity-on-purchase-orders-and-sales-orders.md)
 
-[Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\))
+[Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\))
 
   
 

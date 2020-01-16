@@ -2,8 +2,9 @@
 title: Create variable groups
 TOCTitle: Create variable groups
 ms:assetid: 916e402f-e121-487b-87d8-4739df5d5c36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498373(v=AX.60)
 ms:contentKeyID: 36058563
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ If an item requires many modeling variables, it might be a good idea to create s
 
 ## See also
 
-[Variable groups for product models](https://technet.microsoft.com/en-us/library/aa588988\(v=ax.60\))
+[Variable groups for product models](https://technet.microsoft.com/library/aa588988\(v=ax.60\))
 
   
 

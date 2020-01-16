@@ -2,8 +2,9 @@
 title: Configuring required Accounts receivable information
 TOCTitle: Configuring required Accounts receivable information
 ms:assetid: 07aebba1-f82d-4b47-9db3-0b9b4cbf1f85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230683(v=AX.60)
 ms:contentKeyID: 36055969
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

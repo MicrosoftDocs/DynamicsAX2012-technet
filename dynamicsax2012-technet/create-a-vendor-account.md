@@ -2,8 +2,9 @@
 title: Create a vendor account
 TOCTitle: Create a vendor account
 ms:assetid: 6ceffee5-1344-4a3e-9d6e-5b31f9cd11f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571206(v=AX.60)
 ms:contentKeyID: 36058014
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ When you create a vendor account, you enter information about the vendor that is
 
   - Assign a vendor group. Every vendor must be assigned to a vendor group. Vendors in a vendor group have parameters in common. For example, they may have the same terms of payment.
 
-  - Place a vendor on a hold status. By default, no transaction types are on hold for the vendor. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+  - Place a vendor on a hold status. By default, no transaction types are on hold for the vendor. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
   - Allow an existing vendor to do business with another legal entity in your organization.
 
@@ -64,7 +65,7 @@ To speed up the process of creating vendor accounts, you can create templates th
 
 5.  In the **Group** field, select the vendor group that applies to the vendor.
 
-6.  Enter values on the other FastTabs in the **Vendors** form as appropriate. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+6.  Enter values on the other FastTabs in the **Vendors** form as appropriate. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 ## See also
 
@@ -72,11 +73,11 @@ To speed up the process of creating vendor accounts, you can create templates th
 
 [Create a vendor group](create-a-vendor-group.md)
 
-[Vendor groups (form)](https://technet.microsoft.com/en-us/library/aa550420\(v=ax.60\))
+[Vendor groups (form)](https://technet.microsoft.com/library/aa550420\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
 [Key tasks: Work with vendor search and search results](key-tasks-work-with-vendor-search-and-search-results.md)
 
@@ -84,7 +85,7 @@ To speed up the process of creating vendor accounts, you can create templates th
 
 [Import a catalog from a vendor](import-a-catalog-from-a-vendor.md)
 
-[Add vendor to legal entities (form)](https://technet.microsoft.com/en-us/library/hh209684\(v=ax.60\))
+[Add vendor to legal entities (form)](https://technet.microsoft.com/library/hh209684\(v=ax.60\))
 
   
 

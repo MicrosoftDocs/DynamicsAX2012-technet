@@ -2,8 +2,9 @@
 title: Create a reversing entry
 TOCTitle: Create a reversing entry
 ms:assetid: 4f88d335-9d75-4e07-b6cb-f372ec45f3f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212760(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212760(v=AX.60)
 ms:contentKeyID: 36057223
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ For example, a company that pays its employees every two weeks might have a pay 
 
 ## See also
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
   
 

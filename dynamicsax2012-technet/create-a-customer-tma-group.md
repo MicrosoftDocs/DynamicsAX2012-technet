@@ -2,8 +2,9 @@
 title: Create a customer TMA group
 TOCTitle: Create a customer TMA group
 ms:assetid: c75fd9d5-3fa5-46ed-a7f3-b53e87834692
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352355(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352355(v=AX.60)
 ms:contentKeyID: 36687986
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ Use this procedure to create a customer TMA (Trade and Merchandising Allowance) 
 
 [About customer rebates](about-customer-rebates.md)
 
-[Customer TMA groups (form)](https://technet.microsoft.com/en-us/library/hh328723\(v=ax.60\))
+[Customer TMA groups (form)](https://technet.microsoft.com/library/hh328723\(v=ax.60\))
 
   
 

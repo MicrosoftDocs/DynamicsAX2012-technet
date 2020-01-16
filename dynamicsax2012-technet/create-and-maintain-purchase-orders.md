@@ -2,8 +2,9 @@
 title: Create and maintain purchase orders
 TOCTitle: Create and maintain purchase orders
 ms:assetid: 2db6f5a8-edf9-4849-8f13-fddfcd337862
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231018(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231018(v=AX.60)
 ms:contentKeyID: 36056264
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

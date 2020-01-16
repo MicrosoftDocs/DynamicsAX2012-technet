@@ -2,8 +2,9 @@
 title: Create refill pallet transports for picking locations
 TOCTitle: Create a refill pallet transport for a picking location
 ms:assetid: 14332878-e240-4b11-9e49-78046cd59631
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230939(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230939(v=AX.60)
 ms:contentKeyID: 36056052
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

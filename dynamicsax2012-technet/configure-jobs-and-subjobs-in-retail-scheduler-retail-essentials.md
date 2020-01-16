@@ -2,8 +2,9 @@
 title: Configure jobs and subjobs in Retail Scheduler (Retail essentials)
 TOCTitle: Configure jobs and subjobs in Retail Scheduler (Retail essentials)
 ms:assetid: 0fa0b1db-53b2-4808-9f84-9f0eede40a4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716044(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716044(v=AX.60)
 ms:contentKeyID: 62200307
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -73,7 +74,7 @@ To create or modify a subjob, follow these steps:
     
     For P jobs, you must also specify the temporary database table to use. To create the temporary table, click **Create staging table**.
 
-6.  Enter any other information that is required. To find help about fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/en-us/library/hh597422\(v=ax.60\)).
+6.  Enter any other information that is required. To find help about fields that are not described in this topic, see [Scheduler subjobs (form)](https://technet.microsoft.com/library/hh597422\(v=ax.60\)).
 
 ## Create or modify a job
 
@@ -93,7 +94,7 @@ To create or modify a job, follow these steps:
     
     You can assign a subjob to more than one job.
 
-5.  Enter any other information that is required. To find help about fields that are not described in this topic, see [Scheduler job (form)](https://technet.microsoft.com/en-us/library/hh672166\(v=ax.60\)).
+5.  Enter any other information that is required. To find help about fields that are not described in this topic, see [Scheduler job (form)](https://technet.microsoft.com/library/hh672166\(v=ax.60\)).
 
 ## See also
 

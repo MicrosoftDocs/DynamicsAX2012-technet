@@ -2,8 +2,9 @@
 title: Create a Coded condition
 TOCTitle: Create a Coded condition
 ms:assetid: 7ee19c86-2a39-42e5-b180-341d73f0c4de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571538(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571538(v=AX.60)
 ms:contentKeyID: 36058323
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

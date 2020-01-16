@@ -1,9 +1,10 @@
-﻿---
+---
 title: CrtUtilities.GetChannelDefaultCulture Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core)
 TOCTitle: GetChannelDefaultCulture Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.CrtUtilities.GetChannelDefaultCulture
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.crtutilities.getchanneldefaultculture(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.crtutilities.getchanneldefaultculture(v=AX.60)
 ms:contentKeyID: 65318059
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ static CultureInfo^ GetChannelDefaultCulture()
 
 #### Return Value
 
-Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/en-us/library/kx54z3k7\(v=ax.60\))  
+Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/library/kx54z3k7\(v=ax.60\))  
 
 ## See Also
 

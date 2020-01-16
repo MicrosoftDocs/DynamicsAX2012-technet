@@ -2,8 +2,9 @@
 title: Copy, modify, or delete forecast lines
 TOCTitle: Copy, modify, or delete forecast lines
 ms:assetid: c48adcb3-8f27-4c0c-8fc6-8d4f610f7bfa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550733(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550733(v=AX.60)
 ms:contentKeyID: 36059295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,7 +75,7 @@ Use this procedure to process existing forecast transaction lines. You can copy,
 
 ## See also
 
-[Edit forecast transactions (form)](https://technet.microsoft.com/en-us/library/aa590281\(v=ax.60\))
+[Edit forecast transactions (form)](https://technet.microsoft.com/library/aa590281\(v=ax.60\))
 
 [Create forecast lines](create-forecast-lines.md)
 

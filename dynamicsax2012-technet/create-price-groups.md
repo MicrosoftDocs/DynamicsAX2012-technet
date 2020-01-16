@@ -2,8 +2,9 @@
 title: Create price groups
 TOCTitle: Create price groups
 ms:assetid: 13f3fac3-3088-40e8-b15e-49790506a30e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230938(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230938(v=AX.60)
 ms:contentKeyID: 36056050
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

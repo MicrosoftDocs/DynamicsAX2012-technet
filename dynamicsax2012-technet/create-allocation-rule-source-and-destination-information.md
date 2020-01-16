@@ -2,8 +2,9 @@
 title: Create allocation rule source and destination information
 TOCTitle: Create allocation rule source and destination information
 ms:assetid: 0c51afe5-e81b-4038-8d42-d258bbd95655
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230897(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230897(v=AX.60)
 ms:contentKeyID: 36676366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -109,9 +110,9 @@ Use the **Ledger allocation rule destination** form to define the destination in
 
 [Create an allocation rule](create-an-allocation-rule.md)
 
-[Ledger elimination rule (form)](https://technet.microsoft.com/en-us/library/hh209563\(v=ax.60\))
+[Ledger elimination rule (form)](https://technet.microsoft.com/library/hh209563\(v=ax.60\))
 
-[Ledger allocation basis (form)](https://technet.microsoft.com/en-us/library/ff395367\(v=ax.60\))
+[Ledger allocation basis (form)](https://technet.microsoft.com/library/ff395367\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Create ledger accrual transactions
 TOCTitle: Create ledger accrual transactions
 ms:assetid: b6cf8cec-83b1-456a-ba3f-de8310c4b684
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572155(v=AX.60)
 ms:contentKeyID: 36059098
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Ledger accruals (form)](https://technet.microsoft.com/en-us/library/aa574924\(v=ax.60\))
+[Ledger accruals (form)](https://technet.microsoft.com/library/aa574924\(v=ax.60\))
 
-[Accrual schemes (form)](https://technet.microsoft.com/en-us/library/aa597492\(v=ax.60\))
+[Accrual schemes (form)](https://technet.microsoft.com/library/aa597492\(v=ax.60\))
 
   
 

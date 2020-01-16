@@ -2,8 +2,9 @@
 title: Configuring Enterprise Portal for vendor requests
 TOCTitle: Configuring Enterprise Portal for vendor requests
 ms:assetid: fd6b06a0-6bb7-49f5-9717-ae40a1f7d327
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227584(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227584(v=AX.60)
 ms:contentKeyID: 36060108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
