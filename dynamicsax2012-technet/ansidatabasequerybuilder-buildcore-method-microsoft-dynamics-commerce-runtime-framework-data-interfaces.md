@@ -1,9 +1,10 @@
-﻿---
+---
 title: AnsiDatabaseQueryBuilder.BuildCore Method  (Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces)
 TOCTitle: BuildCore Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.BuildCore(System.Text.StringBuilder,Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts,System.Globalization.CultureInfo)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildcore(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildcore(v=AX.60)
 ms:contentKeyID: 65319543
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ virtual void BuildCore(
 #### Parameters
 
   - builder  
-    Type: [System.Text.StringBuilder](https://technet.microsoft.com/en-us/library/y9sxk6fy\(v=ax.60\))  
+    Type: [System.Text.StringBuilder](https://technet.microsoft.com/library/y9sxk6fy\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -68,7 +69,7 @@ virtual void BuildCore(
 <!-- end list -->
 
   - builderCulture  
-    Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/en-us/library/kx54z3k7\(v=ax.60\))  
+    Type: [System.Globalization.CultureInfo](https://technet.microsoft.com/library/kx54z3k7\(v=ax.60\))  
 
 ## See Also
 

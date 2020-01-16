@@ -2,8 +2,9 @@
 title: Calculate production costs
 TOCTitle: Calculate production costs
 ms:assetid: 72f62b3d-e9a9-4840-80fb-228549b9422e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212959(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212959(v=AX.60)
 ms:contentKeyID: 36058132
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

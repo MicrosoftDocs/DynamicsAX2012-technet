@@ -2,8 +2,9 @@
 title: (BRA) Set up an electronic method of payment
 TOCTitle: (BRA) Set up an electronic method of payment
 ms:assetid: ec40f383-4e19-4288-8896-c9eb0c9e5152
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730980(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730980(v=AX.60)
 ms:contentKeyID: 49675211
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ Before you set up the electronic methods of payment for vendors or customers, yo
 
 11. In the **Payment account** field, select the bank account number.
 
-12. Click **Payment specification** to open the **Payment specification** form, where you can create a payment specification for the method of payment. For more information, see [(BRA) Vendor payment specification (modified form)](https://technet.microsoft.com/en-us/library/jj730978\(v=ax.60\)) and [(BRA) Customer payment specification (modified form)](https://technet.microsoft.com/en-us/library/jj730984\(v=ax.60\)).
+12. Click **Payment specification** to open the **Payment specification** form, where you can create a payment specification for the method of payment. For more information, see [(BRA) Vendor payment specification (modified form)](https://technet.microsoft.com/library/jj730978\(v=ax.60\)) and [(BRA) Customer payment specification (modified form)](https://technet.microsoft.com/library/jj730984\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -85,7 +86,7 @@ Before you set up the electronic methods of payment for vendors or customers, yo
 
 [(BRA) Set up the configurator definition group](bra-set-up-the-configurator-definition-group.md)
 
-[(BRA) Methods of payment - customers (modified form)](https://technet.microsoft.com/en-us/library/jj730974\(v=ax.60\))
+[(BRA) Methods of payment - customers (modified form)](https://technet.microsoft.com/library/jj730974\(v=ax.60\))
 
   
 

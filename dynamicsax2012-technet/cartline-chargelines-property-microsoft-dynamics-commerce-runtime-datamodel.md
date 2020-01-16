@@ -1,9 +1,10 @@
-﻿---
+---
 title: CartLine.ChargeLines Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ChargeLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine.ChargeLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.cartline.chargelines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartline.chargelines(v=AX.60)
 ms:contentKeyID: 62208096
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property IList<ChargeLine^>^ ChargeLines {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[ChargeLine](chargeline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[ChargeLine](chargeline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The charge lines.  
 
 ## See Also

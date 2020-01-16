@@ -2,8 +2,9 @@
 title: (BRA) Receive and enter vendor invoices
 TOCTitle: (BRA) Receive and enter vendor invoices
 ms:assetid: bdbd4cf3-5cce-41ed-8b8a-98fe5f8d5bbc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710613(v=AX.60)
 ms:contentKeyID: 49384503
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (BRA) About purchase posting enhancements
 TOCTitle: (BRA) About purchase posting enhancements
 ms:assetid: 2e6c8ac5-b40b-40d0-a280-1fa5de8fee34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710456(v=AX.60)
 ms:contentKeyID: 49384347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

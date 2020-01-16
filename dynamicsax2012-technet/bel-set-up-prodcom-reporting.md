@@ -2,8 +2,9 @@
 title: (BEL) Set up PRODCOM reporting
 TOCTitle: (BEL) Set up PRODCOM reporting
 ms:assetid: c2899c84-a44a-487c-844f-fb7bf1348943
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213635(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213635(v=AX.60)
 ms:contentKeyID: 36059281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

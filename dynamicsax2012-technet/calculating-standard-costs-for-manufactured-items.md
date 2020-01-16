@@ -2,8 +2,9 @@
 title: Calculating standard costs for manufactured items
 TOCTitle: Calculating standard costs for manufactured items
 ms:assetid: 33a2ca88-be7f-476b-987d-bf5570c2a424
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231085(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231085(v=AX.60)
 ms:contentKeyID: 36056543
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Apply updates to database, AOS, and clients
 TOCTitle: Apply updates to database, AOS, and clients
 ms:assetid: 5aa25046-422c-4bb7-8fae-5901b3bd426c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538446(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538446(v=AX.60)
 ms:contentKeyID: 39508868
+author: Khairunj
 ms.date: 12/04/2014
 mtps_version: v=AX.60
 dev_langs:
@@ -855,7 +856,7 @@ The typical process for using this feature is:
     <tr class="odd">
     <td><p></p></td>
     <td><p><strong>Upgrade additional features</strong></p>
-    <p>This option appears only if upgrade scripts were detected. This option opens the <strong>Data upgrade cockpit</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa572565(v=ax.60)">Data upgrade cockpit (form)</a>.</p></td>
+    <p>This option appears only if upgrade scripts were detected. This option opens the <strong>Data upgrade cockpit</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa572565(v=ax.60)">Data upgrade cockpit (form)</a>.</p></td>
     </tr>
     </tbody>
     </table>

@@ -2,8 +2,9 @@
 title: Advanced filtering and query options
 TOCTitle: Advanced filtering and query options
 ms:assetid: 1c6113f6-be13-462b-8df3-bef7d1424ae8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569937(v=AX.60)
 ms:contentKeyID: 36676372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -136,7 +137,7 @@ The following filtering and query options are available when you use embedded fi
 <td><p>(methodName(parameters))</p>
 <p>(SysQueryRanget Util method between parenthesis)</p></td>
 <td><p>Matching the value or range of values specified by the parameters of the SysQueryRangeUtil method</p></td>
-<td><p>Type a SysQueryRangeUtil method with parameters that specify the value or range of values. For more information, see <a href="https://technet.microsoft.com/en-us/library/gg964746(v=ax.60)">SysQueryRangeUtil</a>.</p></td>
+<td><p>Type a SysQueryRangeUtil method with parameters that specify the value or range of values. For more information, see <a href="https://technet.microsoft.com/library/gg964746(v=ax.60)">SysQueryRangeUtil</a>.</p></td>
 <td><p></p>
 <ol>
 <li><p>Click <strong>Accounts receivable</strong> &gt; <strong>Common</strong> &gt; <strong>Customer invoices</strong> &gt; <strong>Open customer invoices</strong>.</p></li>

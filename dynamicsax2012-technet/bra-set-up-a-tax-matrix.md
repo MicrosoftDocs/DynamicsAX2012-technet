@@ -2,8 +2,9 @@
 title: (BRA) Set up a tax matrix
 TOCTitle: (BRA) Set up a tax matrix
 ms:assetid: 7ec568e6-dbd0-4d5f-a50c-ca4c68df0060
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ943750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ943750(v=AX.60)
 ms:contentKeyID: 51028416
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,9 +87,9 @@ You can set up the sales tax group and item sales tax group that are used in sal
 
 ## See also
 
-[(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
+[(BRA) Taxes matrix (form)](https://technet.microsoft.com/library/jj923368\(v=ax.60\))
 
-[(BRA) CFOP groups (form)](https://technet.microsoft.com/en-us/library/jj923344\(v=ax.60\))
+[(BRA) CFOP groups (form)](https://technet.microsoft.com/library/jj923344\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (AUS) About low value pool depreciation
 TOCTitle: (AUS) About low value pool depreciation
 ms:assetid: 8afa18af-e006-44a6-bca4-e186a3ea0e3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242863(v=AX.60)
 ms:contentKeyID: 36058472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

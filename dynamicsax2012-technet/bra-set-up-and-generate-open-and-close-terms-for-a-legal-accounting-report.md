@@ -2,8 +2,9 @@
 title: (BRA) Set up and generate open and close terms for a legal accounting report
 TOCTitle: (BRA) Set up and generate open and close terms for a legal accounting report
 ms:assetid: ac85b0cb-b5f5-4989-bd8a-dbfa12adea83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710590(v=AX.60)
 ms:contentKeyID: 49384480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,11 +68,11 @@ Use the following procedure to set up and generate open and close terms for a le
 
 ## See also
 
-[(BRA) Open or close term (form)](https://technet.microsoft.com/en-us/library/jj710478\(v=ax.60\))
+[(BRA) Open or close term (form)](https://technet.microsoft.com/library/jj710478\(v=ax.60\))
 
 [(BRA) Generate and print financial statements](bra-generate-and-print-financial-statements.md)
 
-[(BRA) Print open or close term report (LedgerOpenCloseTermReport\_BR)](https://technet.microsoft.com/en-us/library/jj710402\(v=ax.60\))
+[(BRA) Print open or close term report (LedgerOpenCloseTermReport\_BR)](https://technet.microsoft.com/library/jj710402\(v=ax.60\))
 
   
 

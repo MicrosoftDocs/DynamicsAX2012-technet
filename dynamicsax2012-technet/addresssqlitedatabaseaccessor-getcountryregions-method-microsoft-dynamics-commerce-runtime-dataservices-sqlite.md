@@ -1,9 +1,10 @@
-﻿---
+---
 title: AddressSqliteDatabaseAccessor.GetCountryRegions Method  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite)
 TOCTitle: GetCountryRegions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.AddressSqliteDatabaseAccessor.GetCountryRegions(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.addresssqlitedatabaseaccessor.getcountryregions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.addresssqlitedatabaseaccessor.getcountryregions(v=AX.60)
 ms:contentKeyID: 65320326
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,11 +51,11 @@ Tuple<ReadOnlyCollection<CountryRegionInfo^>^, ReadOnlyCollection<AddressFormatt
 #### Parameters
 
   - languageId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[CountryRegionInfo](countryregioninfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[AddressFormattingInfo](addressformattinginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>\>  
+Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[CountryRegionInfo](countryregioninfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[AddressFormattingInfo](addressformattinginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>\>  
 
 ## See Also
 

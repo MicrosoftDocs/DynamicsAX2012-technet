@@ -2,8 +2,9 @@
 title: (BRA) Address books
 TOCTitle: (BRA) Address books
 ms:assetid: bee1fc6a-de45-44f1-aad6-3b77a5a0e99d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710610(v=AX.60)
 ms:contentKeyID: 49384500
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

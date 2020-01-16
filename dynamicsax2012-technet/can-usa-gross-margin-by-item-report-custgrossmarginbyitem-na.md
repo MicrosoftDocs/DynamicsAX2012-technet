@@ -2,8 +2,9 @@
 title: (CAN, USA) Gross margin by item report (CustGrossMarginbyItem_NA)
 TOCTitle: (CAN, USA) Gross margin by item report (CustGrossMarginbyItem_NA)
 ms:assetid: e9f2e781-c9d0-44da-83f4-90d3453c1fc9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404050(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404050(v=AX.60)
 ms:contentKeyID: 36956716
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

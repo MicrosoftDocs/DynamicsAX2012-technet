@@ -2,8 +2,9 @@
 title: (BRA) Post an NF-e from a project invoice
 TOCTitle: (BRA) Post an NF-e from a project invoice
 ms:assetid: 21d77e19-7018-4411-a904-607a2605bd44
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933501(v=AX.60)
 ms:contentKeyID: 50935114
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ After the status of the NF-e is received from SEFAZ, you can perform the followi
 
 1.  Click **Project management and accounting** \> **Common** \> **Projects** \> **All projects**. Select a project, and then on the **Action Pane**, on the **Project** tab, in the **Maintain** group, click **Edit**. Alternatively, in the **All projects** list, double-click a project line.
 
-2.  Click the **Manage** tab, and then click **Invoice proposals**. For more information, see [Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\)).
+2.  Click the **Manage** tab, and then click **Invoice proposals**. For more information, see [Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\)).
 
 3.  Click **Invoice proposal**.
 

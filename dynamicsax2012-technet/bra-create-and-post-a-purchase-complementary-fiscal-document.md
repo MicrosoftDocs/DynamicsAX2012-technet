@@ -2,8 +2,9 @@
 title: (BRA) Create and post a purchase complementary fiscal document
 TOCTitle: (BRA) Create and post a purchase complementary fiscal document
 ms:assetid: 1ea0b2b9-3f16-4ce7-b06f-372082d42c23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710430(v=AX.60)
 ms:contentKeyID: 49384322
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -88,9 +89,9 @@ Use the following procedure to create and post a purchase complementary fiscal d
 
 ## See also
 
-[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710524\(v=ax.60\))
+[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/library/jj710524\(v=ax.60\))
 
-[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710577\(v=ax.60\))
+[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/library/jj710577\(v=ax.60\))
 
   
 

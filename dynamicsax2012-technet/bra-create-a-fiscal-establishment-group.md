@@ -2,8 +2,9 @@
 title: (BRA) Create a fiscal establishment group
 TOCTitle: (BRA) Create a fiscal establishment group
 ms:assetid: 4157bbb4-c7b7-4c80-85cc-5f9e77a505f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910982(v=AX.60)
 ms:contentKeyID: 52075245
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,13 +41,13 @@ You must assign a fiscal establishment group to the fiscal establishment that yo
 
 ## See also
 
-[(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
+[(BRA) Taxes matrix (form)](https://technet.microsoft.com/library/jj923368\(v=ax.60\))
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
 [(BRA) Create a fiscal establishment](bra-create-a-fiscal-establishment.md)
 
-[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/en-us/library/jj923398\(v=ax.60\))
+[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/library/jj923398\(v=ax.60\))
 
   
 

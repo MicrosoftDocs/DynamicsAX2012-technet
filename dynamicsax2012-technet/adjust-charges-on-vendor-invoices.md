@@ -2,8 +2,9 @@
 title: Adjust charges on vendor invoices
 TOCTitle: Adjust charges on vendor invoices
 ms:assetid: de71b8a4-2bc2-4b30-899b-3ed0f7df8272
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551276(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551276(v=AX.60)
 ms:contentKeyID: 36655950
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -66,11 +67,11 @@ Use this information to enter and allocate charges to multiple lines on a posted
 
 [Account for vendor invoice variance due to charges](account-for-vendor-invoice-variance-due-to-charges.md)
 
-[Allocate charges (form)](https://technet.microsoft.com/en-us/library/hh697725\(v=ax.60\))
+[Allocate charges (form)](https://technet.microsoft.com/library/hh697725\(v=ax.60\))
 
-[Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\))
+[Charges transactions (form)](https://technet.microsoft.com/library/aa633876\(v=ax.60\))
 
-[Vendor invoice journal (form)](https://technet.microsoft.com/en-us/library/aa587621\(v=ax.60\))
+[Vendor invoice journal (form)](https://technet.microsoft.com/library/aa587621\(v=ax.60\))
 
   
 

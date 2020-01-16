@@ -2,8 +2,9 @@
 title: (BRA) Setting up fiscal books
 TOCTitle: (BRA) Setting up fiscal books
 ms:assetid: 8ef68697-3f4c-4484-bab5-fadc54a413bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305875(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305875(v=AX.60)
 ms:contentKeyID: 54912977
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

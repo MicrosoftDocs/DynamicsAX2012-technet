@@ -2,8 +2,9 @@
 title: (BRA) Configuring required Accounts receivable information
 TOCTitle: (BRA) Configuring required Accounts receivable information
 ms:assetid: 0014bb35-1113-459a-b0c2-fbd3b7f3ede4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710399(v=AX.60)
 ms:contentKeyID: 49384292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (BRA) Set up interest and fines for vendor payments
 TOCTitle: (BRA) Set up interest and fines for vendor payments
 ms:assetid: ffd9bfe1-349a-4c3b-be7a-dc03a8320b77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ680913(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ680913(v=AX.60)
 ms:contentKeyID: 49624338
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ You must set up accounts for financial interest and fines, default codes for int
 
 7.  To specify exception dates for the calendar year, click **Add**. In the **Date** field, select the date.
 
-8.  In the **Type** field, specify whether the exception date is a business day or a holiday. For more information, see [Payment calendar (form)](https://technet.microsoft.com/en-us/library/jj677409\(v=ax.60\)).
+8.  In the **Type** field, specify whether the exception date is a business day or a holiday. For more information, see [Payment calendar (form)](https://technet.microsoft.com/library/jj677409\(v=ax.60\)).
 
 9.  To specify exception dates for a state or province, click **State/province holidays**, and then enter the information in the **State/province holidays** form.
     
@@ -125,9 +126,9 @@ You can set up fine codes to automatically calculate fines on delayed payments m
 
 [About payment calendars](about-payment-calendars.md)
 
-[Payment calendar (form)](https://technet.microsoft.com/en-us/library/jj677409\(v=ax.60\))
+[Payment calendar (form)](https://technet.microsoft.com/library/jj677409\(v=ax.60\))
 
-[Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/en-us/library/jj677400\(v=ax.60\))
+[Payment calendar configuration - vendors and customers (form)](https://technet.microsoft.com/library/jj677400\(v=ax.60\))
 
   
 

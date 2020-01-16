@@ -2,8 +2,9 @@
 title: Adjust transactions
 TOCTitle: Adjust transactions
 ms:assetid: 1aa36eb3-725d-4ede-8fef-4a881ef2f049
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569923(v=AX.60)
 ms:contentKeyID: 36056124
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,13 +77,13 @@ First, split the transaction into two adjustment lines, one for 15 hours and the
 
 [About automatic adjustment transactions](about-automatic-adjustment-transactions.md)
 
-[Adjust transactions (class form) (Project)](https://technet.microsoft.com/en-us/library/aa583326\(v=ax.60\))
+[Adjust transactions (class form) (Project)](https://technet.microsoft.com/library/aa583326\(v=ax.60\))
 
 [Adjust transactions in projects](adjust-transactions-in-projects.md)
 
-[Adjustments (form)](https://technet.microsoft.com/en-us/library/aa553205\(v=ax.60\))
+[Adjustments (form)](https://technet.microsoft.com/library/aa553205\(v=ax.60\))
 
-[Create adjustment transactions (class form)](https://technet.microsoft.com/en-us/library/aa634561\(v=ax.60\))
+[Create adjustment transactions (class form)](https://technet.microsoft.com/library/aa634561\(v=ax.60\))
 
 [View and record transactions](view-and-record-transactions.md)
 

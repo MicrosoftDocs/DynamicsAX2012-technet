@@ -2,8 +2,9 @@
 title: (BRA) Generate an outgoing electronic fiscal document for a service sale
 TOCTitle: (BRA) Generate an outgoing electronic fiscal document for a service sale
 ms:assetid: 86f4346c-cae9-4cb0-8c34-a810ee7ec47a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710556(v=AX.60)
 ms:contentKeyID: 49384446
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ You must create and confirm a sales order that has a fiscal document type of ele
 
 6.  Click **OK** to generate the outgoing electronic fiscal document for services.
 
-You can view the posted customer invoice in the **Invoice journal** form. For more information, see [Customer invoice journal (form)](https://technet.microsoft.com/en-us/library/aa618201\(v=ax.60\)).
+You can view the posted customer invoice in the **Invoice journal** form. For more information, see [Customer invoice journal (form)](https://technet.microsoft.com/library/aa618201\(v=ax.60\)).
 
 ## See also
 

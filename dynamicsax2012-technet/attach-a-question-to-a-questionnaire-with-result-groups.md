@@ -2,8 +2,9 @@
 title: Attach a question to a questionnaire with result groups
 TOCTitle: Attach a question to a questionnaire with result groups
 ms:assetid: 149e3f29-f6f1-45cd-a224-fe26287cf7a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496618(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496618(v=AX.60)
 ms:contentKeyID: 42117749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Using result groups is optional when you attach questions to a questionnaire. Cr
 
 7.  Enter additional information, as needed, in the remaining fields.
     
-    For more information, see [Result groups (form)](https://technet.microsoft.com/en-us/library/aa587908\(v=ax.60\)).
+    For more information, see [Result groups (form)](https://technet.microsoft.com/library/aa587908\(v=ax.60\)).
 
 ## Add questions to a result group
 
@@ -73,17 +74,17 @@ Using result groups is optional when you attach questions to a questionnaire. Cr
         
         Create a new line for each answer that will contribute to the result group.
         
-        For more information, see [Result groups for answer (form)](https://technet.microsoft.com/en-us/library/aa618542\(v=ax.60\)).
+        For more information, see [Result groups for answer (form)](https://technet.microsoft.com/library/aa618542\(v=ax.60\)).
     
       - **If not answer, then question** - Points for answers are added to the answer result group for the answer, if specified. Otherwise, they are added to the question result group for the question. For example, you can define the points for specific answers that should not be assigned to the question result group for the question.
         
         Next step: Select a result group. Then, click **Answer**, and in the **Answer** form, select the result group for the answer.
         
-        For more information, see [Result groups for answer (form)](https://technet.microsoft.com/en-us/library/aa618542\(v=ax.60\)).
+        For more information, see [Result groups for answer (form)](https://technet.microsoft.com/library/aa618542\(v=ax.60\)).
 
 7.  Enter information, as needed, in the remaining fields.
     
-    For more information, see [Question selection (form)](https://technet.microsoft.com/en-us/library/aa553083\(v=ax.60\)).
+    For more information, see [Question selection (form)](https://technet.microsoft.com/library/aa553083\(v=ax.60\)).
 
 ## Set up points/texts for a result group
 

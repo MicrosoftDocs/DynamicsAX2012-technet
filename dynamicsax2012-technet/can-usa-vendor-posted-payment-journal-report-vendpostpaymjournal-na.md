@@ -2,8 +2,9 @@
 title: (CAN, USA) Vendor posted payment journal report (VendPostPaymJournal_NA)
 TOCTitle: (CAN, USA) Vendor posted payment journal report (VendPostPaymJournal_NA)
 ms:assetid: 96ae4e06-d78d-46c4-8fb3-034099953c0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496451(v=AX.60)
 ms:contentKeyID: 37072033
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

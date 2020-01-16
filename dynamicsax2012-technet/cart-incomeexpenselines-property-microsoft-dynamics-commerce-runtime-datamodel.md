@@ -1,9 +1,10 @@
-﻿---
+---
 title: Cart.IncomeExpenseLines Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IncomeExpenseLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart.IncomeExpenseLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.cart.incomeexpenselines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cart.incomeexpenselines(v=AX.60)
 ms:contentKeyID: 62209362
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property IList<IncomeExpenseLine^>^ IncomeExpenseLines {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[IncomeExpenseLine](incomeexpenseline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [IList\<T\>](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\)).  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[IncomeExpenseLine](incomeexpenseline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [IList\<T\>](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\)).  
 
 ## See Also
 

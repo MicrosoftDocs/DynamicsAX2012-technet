@@ -2,8 +2,9 @@
 title: (BEL) Report from Isabel payments report (VendPaymRefReport_BE)
 TOCTitle: (BEL) Report from Isabel payments report (VendPaymRefReport_BE)
 ms:assetid: 7cdc0e85-af38-4665-8451-2e6cc58e31a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527153(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527153(v=AX.60)
 ms:contentKeyID: 37823204
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -121,7 +122,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
 [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md)
 

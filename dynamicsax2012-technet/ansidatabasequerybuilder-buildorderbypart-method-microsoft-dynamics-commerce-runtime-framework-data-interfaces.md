@@ -1,9 +1,10 @@
-﻿---
+---
 title: AnsiDatabaseQueryBuilder.BuildOrderByPart Method  (Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces)
 TOCTitle: BuildOrderByPart Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.BuildOrderByPart(System.Text.StringBuilder,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildorderbypart(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildorderbypart(v=AX.60)
 ms:contentKeyID: 65323010
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,12 +55,12 @@ void BuildOrderByPart(
 #### Parameters
 
   - builder  
-    Type: [System.Text.StringBuilder](https://technet.microsoft.com/en-us/library/y9sxk6fy\(v=ax.60\))  
+    Type: [System.Text.StringBuilder](https://technet.microsoft.com/library/y9sxk6fy\(v=ax.60\))  
 
 <!-- end list -->
 
   - orderBy  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

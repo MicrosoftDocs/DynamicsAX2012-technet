@@ -2,8 +2,9 @@
 title: (BRA) Set up tax exemptions for Suframa
 TOCTitle: (BRA) Set up tax exemptions for Suframa
 ms:assetid: ccb1eb11-f694-4b9a-b08a-088c946de31d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663932(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663932(v=AX.60)
 ms:contentKeyID: 49384517
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use the following procedure to exempt the PIS and COFINS taxes on sales made to 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa553257(v=ax.60)">Sales tax codes (form)</A>and <A href="set-up-and-use-sales-tax-codes.md">Set up and use sales tax codes</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa553257(v=ax.60)">Sales tax codes (form)</A>and <A href="set-up-and-use-sales-tax-codes.md">Set up and use sales tax codes</A>.</P>
 
 
 
@@ -43,7 +44,7 @@ Use the following procedure to exempt the PIS and COFINS taxes on sales made to 
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa615960(v=ax.60)">Item sales tax groups (form)</A> and <A href="create-item-sales-tax-groups.md">Create item sales tax groups</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa615960(v=ax.60)">Item sales tax groups (form)</A> and <A href="create-item-sales-tax-groups.md">Create item sales tax groups</A>.</P>
 
 
 
@@ -65,13 +66,13 @@ Use the following procedure to exempt the PIS and COFINS taxes on sales made to 
 
 ## See also
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
-[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/en-us/library/jj923173\(v=ax.60\))
+[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/library/jj923173\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
   
 

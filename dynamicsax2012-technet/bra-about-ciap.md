@@ -2,8 +2,9 @@
 title: (BRA) About CIAP
 TOCTitle: (BRA) About CIAP
 ms:assetid: 618071b1-7487-4f9b-994f-fdb3c5a5d22c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305868(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305868(v=AX.60)
 ms:contentKeyID: 54912968
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

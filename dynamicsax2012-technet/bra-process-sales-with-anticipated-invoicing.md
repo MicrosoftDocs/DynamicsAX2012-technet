@@ -2,8 +2,9 @@
 title: (BRA) Process sales with anticipated invoicing
 TOCTitle: (BRA) Process sales with anticipated invoicing
 ms:assetid: fa9ec2ac-fbf0-4e72-95d1-87497793bb43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863744(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863744(v=AX.60)
 ms:contentKeyID: 50396427
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,17 +66,17 @@ In a sale that uses anticipated invoicing, you accept a prepayment, or advance p
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
-[Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+[Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
-[(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
+[(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\))
 
   
 

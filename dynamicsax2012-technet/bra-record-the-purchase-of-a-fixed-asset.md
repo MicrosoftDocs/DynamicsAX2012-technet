@@ -2,8 +2,9 @@
 title: (BRA) Record the purchase of a fixed asset
 TOCTitle: (BRA) Record the purchase of a fixed asset
 ms:assetid: 90801784-8ef5-4631-a0cb-c1b9249087b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863728(v=AX.60)
 ms:contentKeyID: 50396411
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ You can record the purchase of a fixed asset by using the **Purchase order** for
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

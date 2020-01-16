@@ -2,8 +2,9 @@
 title: (BRA) About the NF-e process
 TOCTitle: (BRA) About the NF-e process
 ms:assetid: 2e491951-d107-4de2-b156-dbb35e096771
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ898462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ898462(v=AX.60)
 ms:contentKeyID: 50873681
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,17 +82,17 @@ After the status of the NF-e is received from SEFAZ, you can perform the followi
 
 [(BRA) About NF-e schemas and processes](bra-about-nf-e-schemas-and-processes.md)
 
-[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
+[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/library/jj933509\(v=ax.60\))
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
-[(BRA) Contingency mode (form)](https://technet.microsoft.com/en-us/library/jj933511\(v=ax.60\))
+[(BRA) Contingency mode (form)](https://technet.microsoft.com/library/jj933511\(v=ax.60\))
 
-[(BRA) Rejected fiscal documents with pending cancellation (list page)](https://technet.microsoft.com/en-us/library/jj937996\(v=ax.60\))
+[(BRA) Rejected fiscal documents with pending cancellation (list page)](https://technet.microsoft.com/library/jj937996\(v=ax.60\))
 
-[(BRA) Fiscal documents pending an update to contingency mode (list page)](https://technet.microsoft.com/en-us/library/jj937991\(v=ax.60\))
+[(BRA) Fiscal documents pending an update to contingency mode (list page)](https://technet.microsoft.com/library/jj937991\(v=ax.60\))
 
   
 

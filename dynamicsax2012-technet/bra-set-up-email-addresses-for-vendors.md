@@ -2,8 +2,9 @@
 title: (BRA) Set up email addresses for vendors
 TOCTitle: (BRA) Set up email addresses for vendors
 ms:assetid: 6347f4ce-7fca-49b3-ad54-a06cf0b7963d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933520(v=AX.60)
 ms:contentKeyID: 50935134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,13 +45,13 @@ Before you set up an email address for a vendor, you must select the **Contact i
 
 ## See also
 
-[Address purpose (form)](https://technet.microsoft.com/en-us/library/hh242741\(v=ax.60\))
+[Address purpose (form)](https://technet.microsoft.com/library/hh242741\(v=ax.60\))
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj933505\(v=ax.60\))
+[(BRA) Vendors (modified form)](https://technet.microsoft.com/library/jj933505\(v=ax.60\))
 
-[Edit contact information (form)](https://technet.microsoft.com/en-us/library/hh370700\(v=ax.60\))
+[Edit contact information (form)](https://technet.microsoft.com/library/hh370700\(v=ax.60\))
 
   
 

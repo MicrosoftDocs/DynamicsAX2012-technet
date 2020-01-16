@@ -2,8 +2,9 @@
 title: (BRA) Process items sent as rentals, free samples, demonstrations, or repairs
 TOCTitle: (BRA) Process items sent as rentals, free samples, demonstrations, or repairs
 ms:assetid: 48983ca0-3f21-42a5-8130-0176b9a77efc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863724(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863724(v=AX.60)
 ms:contentKeyID: 50396407
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,13 +61,13 @@ In some circumstances, taxes may not be involved when you send items as rentals 
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
   
 

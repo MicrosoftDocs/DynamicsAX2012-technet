@@ -2,8 +2,9 @@
 title: (BRA) Create and confirm a sales order for an electronic fiscal document for services
 TOCTitle: (BRA) Create and confirm a sales order for an electronic fiscal document for services
 ms:assetid: e01ae6a7-703b-46b8-aaa2-2a925c5cb588
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663950(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663950(v=AX.60)
 ms:contentKeyID: 49384534
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Apply a journal approval procedure
 TOCTitle: Apply a journal approval procedure
 ms:assetid: 0ed8c6d3-b90a-4e40-a84f-e2b057b6fba7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496413(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496413(v=AX.60)
 ms:contentKeyID: 36811394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ Applying a journal approval procedure involves attaching an approval procedure t
 
 
 > [!NOTE]
-> <P>Journal approval procedures are created in the <STRONG>Journal approval</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa499141(v=ax.60)">Journal approval (form)</A>.</P>
+> <P>Journal approval procedures are created in the <STRONG>Journal approval</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa499141(v=ax.60)">Journal approval (form)</A>.</P>
 
 
 
@@ -64,7 +65,7 @@ Applying a journal approval procedure involves attaching an approval procedure t
 
 [Set up project journal names](set-up-project-journal-options.md)
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
   
 

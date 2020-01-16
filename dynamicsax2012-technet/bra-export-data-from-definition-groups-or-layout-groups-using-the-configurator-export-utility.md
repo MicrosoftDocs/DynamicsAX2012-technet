@@ -2,8 +2,9 @@
 title: (BRA) Export data from definition groups or layout groups using the Configurator export utility
 TOCTitle: (BRA) Export data from definition groups or layout groups using the Configurator export utility
 ms:assetid: 9b117d33-4314-41b6-a005-414265bb7913
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863729(v=AX.60)
 ms:contentKeyID: 50396414
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ Use the **Configurator export utility** form to export data from the tables and 
 
 ## See also
 
-[(BRA) Configurator export utility (form)](https://technet.microsoft.com/en-us/library/jj863720\(v=ax.60\))
+[(BRA) Configurator export utility (form)](https://technet.microsoft.com/library/jj863720\(v=ax.60\))
 
 [(BRA) Set up the configurator definition group](bra-set-up-the-configurator-definition-group.md)
 

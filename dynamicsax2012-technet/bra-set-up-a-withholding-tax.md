@@ -2,8 +2,9 @@
 title: (BRA) Set up a withholding tax
 TOCTitle: (BRA) Set up a withholding tax
 ms:assetid: 01c5cd3b-d9e4-4ced-b148-fe5193957d27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126100(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126100(v=AX.60)
 ms:contentKeyID: 52075235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -98,7 +99,7 @@ The following table explains how withholding tax is calculated as a percentage o
 
 
 
-6.  Click **Values** to enter the values for the withholding tax code. For more information, see [Withholding tax values (form)](https://technet.microsoft.com/en-us/library/aa615586\(v=ax.60\)).
+6.  Click **Values** to enter the values for the withholding tax code. For more information, see [Withholding tax values (form)](https://technet.microsoft.com/library/aa615586\(v=ax.60\)).
 
 7.  In the **Minimum limit** field, enter the minimum base amount for the calculation of the withholding tax.
 
@@ -106,13 +107,13 @@ The following table explains how withholding tax is calculated as a percentage o
 
 ## See also
 
-[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/en-us/library/dn126109\(v=ax.60\))
+[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/library/dn126109\(v=ax.60\))
 
-[(BRA) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj710585\(v=ax.60\))
+[(BRA) Legal entities (modified form)](https://technet.microsoft.com/library/jj710585\(v=ax.60\))
 
-[(BRA) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj933505\(v=ax.60\))
+[(BRA) Vendors (modified form)](https://technet.microsoft.com/library/jj933505\(v=ax.60\))
 
-[(BRA) Withholding tax payments inquiry (form)](https://technet.microsoft.com/en-us/library/dn126102\(v=ax.60\))
+[(BRA) Withholding tax payments inquiry (form)](https://technet.microsoft.com/library/dn126102\(v=ax.60\))
 
 [(BRA) Set up a withholding tax group and attach it to a customer or vendor](bra-set-up-a-withholding-tax-group-and-attach-it-to-a-customer-or-vendor.md)
 

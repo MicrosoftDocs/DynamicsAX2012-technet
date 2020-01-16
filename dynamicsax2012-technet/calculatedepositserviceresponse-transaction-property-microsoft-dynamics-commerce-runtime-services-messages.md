@@ -1,9 +1,10 @@
-﻿---
+---
 title: CalculateDepositServiceResponse.Transaction Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: Transaction Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateDepositServiceResponse.Transaction
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.calculatedepositserviceresponse.transaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatedepositserviceresponse.transaction(v=AX.60)
 ms:contentKeyID: 65319886
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

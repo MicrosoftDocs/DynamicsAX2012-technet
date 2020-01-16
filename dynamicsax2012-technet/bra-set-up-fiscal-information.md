@@ -2,8 +2,9 @@
 title: (BRA) Set up fiscal information
 TOCTitle: (BRA) Set up fiscal information
 ms:assetid: 4a551efc-e3aa-4828-9b46-e0003addcb94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910998(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910998(v=AX.60)
 ms:contentKeyID: 52075248
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -253,15 +254,15 @@ You can set up fiscal information for legal entities, customers, and vendors. Yo
 
 ## See also
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj710585\(v=ax.60\))
+[(BRA) Legal entities (modified form)](https://technet.microsoft.com/library/jj710585\(v=ax.60\))
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
-[(BRA) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj933505\(v=ax.60\))
+[(BRA) Vendors (modified form)](https://technet.microsoft.com/library/jj933505\(v=ax.60\))
 
-[(BRA) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj923408\(v=ax.60\))
+[(BRA) Released product details (modified form)](https://technet.microsoft.com/library/jj923408\(v=ax.60\))
 
   
 

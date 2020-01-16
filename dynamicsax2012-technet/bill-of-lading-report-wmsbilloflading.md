@@ -2,8 +2,9 @@
 title: Bill of lading report (WMSBillOfLading)
 TOCTitle: Bill of lading report (WMSBillOfLading)
 ms:assetid: 0076b849-e531-465f-b2bd-a9c7c7849ef0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208560(v=AX.60)
 ms:contentKeyID: 36056325
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -111,7 +112,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [About shipping documents](about-shipping-documents.md)
 
-[Bill of lading (form)](https://technet.microsoft.com/en-us/library/aa587488\(v=ax.60\))
+[Bill of lading (form)](https://technet.microsoft.com/library/aa587488\(v=ax.60\))
 
   
 

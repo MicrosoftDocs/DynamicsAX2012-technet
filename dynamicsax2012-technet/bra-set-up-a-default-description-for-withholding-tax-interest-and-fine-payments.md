@@ -2,8 +2,9 @@
 title: (BRA) Set up a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Set up a default description for withholding tax, interest, and fine payments
 ms:assetid: a229d48e-d373-4e8c-8d5a-2dc73bf76d9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710575(v=AX.60)
 ms:contentKeyID: 49384474
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,9 +62,9 @@ Use the **Default descriptions** form to set up default descriptions and corresp
 
 [(BRA) Create and post a customer payment journal with a default description for withholding tax, interest, and fine payments](bra-create-and-post-a-customer-payment-journal-with-a-default-description-for-withholding-tax-interest-and-fine-payments.md)
 
-[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/en-us/library/jj710413\(v=ax.60\))
+[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/library/jj710413\(v=ax.60\))
 
-[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
+[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/library/jj710455\(v=ax.60\))
 
   
 

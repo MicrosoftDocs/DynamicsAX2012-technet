@@ -2,8 +2,9 @@
 title: (BRA) Configuring Cash and bank management
 TOCTitle: (BRA) Configuring Cash and bank management
 ms:assetid: 8012cdbe-613c-4ff0-9052-bc6efbeec5f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710543(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710543(v=AX.60)
 ms:contentKeyID: 49384436
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

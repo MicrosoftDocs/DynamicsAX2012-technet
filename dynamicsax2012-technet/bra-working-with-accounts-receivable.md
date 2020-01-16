@@ -2,8 +2,9 @@
 title: (BRA) Working with Accounts receivable
 TOCTitle: (BRA) Working with Accounts receivable
 ms:assetid: 20da5cd4-4514-4893-ac2b-58c0d9ace39d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710433(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710433(v=AX.60)
 ms:contentKeyID: 49384325
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

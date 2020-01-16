@@ -2,8 +2,9 @@
 title: (CAN, USA) Gross margin by customer report (CustGrossMarginbyAccount_NA)
 TOCTitle: (CAN, USA) Gross margin by customer report (CustGrossMarginbyAccount_NA)
 ms:assetid: 08527508-5d90-4046-b5d8-eab397e5f0b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433478(v=AX.60)
 ms:contentKeyID: 36941238
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

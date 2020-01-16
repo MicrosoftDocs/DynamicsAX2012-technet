@@ -2,8 +2,9 @@
 title: (BRA) Create and post a sales complementary fiscal document
 TOCTitle: (BRA) Create and post a sales complementary fiscal document
 ms:assetid: 555f5e54-127c-49d9-b1dc-46ef6c956ece
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710509(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710509(v=AX.60)
 ms:contentKeyID: 49384400
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,9 +71,9 @@ Use the following procedure to create and post a sales complementary fiscal docu
 
 ## See also
 
-[(BRA) Sales complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710523\(v=ax.60\))
+[(BRA) Sales complementary fiscal document (form)](https://technet.microsoft.com/library/jj710523\(v=ax.60\))
 
-[(BRA) All sales complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710595\(v=ax.60\))
+[(BRA) All sales complementary fiscal documents (list page)](https://technet.microsoft.com/library/jj710595\(v=ax.60\))
 
   
 

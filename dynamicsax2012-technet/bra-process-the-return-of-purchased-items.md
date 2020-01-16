@@ -2,8 +2,9 @@
 title: (BRA) Process the return of purchased items
 TOCTitle: (BRA) Process the return of purchased items
 ms:assetid: 893bbcbb-8cc9-4482-b9ef-cad21185bcb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863727(v=AX.60)
 ms:contentKeyID: 50396410
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ Legal entities can record the return of items that they purchased from a vendor.
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
   
 

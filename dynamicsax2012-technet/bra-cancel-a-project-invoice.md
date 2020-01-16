@@ -2,8 +2,9 @@
 title: (BRA) Cancel a project invoice
 TOCTitle: (BRA) Cancel a project invoice
 ms:assetid: 43120756-2256-47ea-8033-6a1347043f34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ851018(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ851018(v=AX.60)
 ms:contentKeyID: 50041973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ A message is displayed to confirm the cancelation.
 
 ## See also
 
-[(BRA) Cancel project invoice (form)](https://technet.microsoft.com/en-us/library/jj710496\(v=ax.60\))
+[(BRA) Cancel project invoice (form)](https://technet.microsoft.com/library/jj710496\(v=ax.60\))
 
-[Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\))
+[Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\))
 
   
 

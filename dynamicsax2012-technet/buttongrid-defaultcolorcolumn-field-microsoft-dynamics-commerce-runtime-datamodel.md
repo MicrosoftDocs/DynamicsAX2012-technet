@@ -1,9 +1,10 @@
-﻿---
+---
 title: ButtonGrid.DefaultColorColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: DefaultColorColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.ButtonGrid.DefaultColorColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.buttongrid.defaultcolorcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.buttongrid.defaultcolorcolumn(v=AX.60)
 ms:contentKeyID: 65321867
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

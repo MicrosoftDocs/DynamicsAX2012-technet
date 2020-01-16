@@ -2,8 +2,9 @@
 title: (BEL) Overview journals report (LedgerCentralisationJournalReportBE)
 TOCTitle: (BEL) Overview journals report (LedgerCentralisationJournalReportBE)
 ms:assetid: 5637ba5e-c1c0-46e0-9da8-4d8b529a7271
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527126(v=AX.60)
 ms:contentKeyID: 37823178
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

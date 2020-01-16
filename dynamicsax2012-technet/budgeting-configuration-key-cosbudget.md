@@ -2,8 +2,9 @@
 title: Budgeting configuration key (COSBudget)
 TOCTitle: Budgeting configuration key (COSBudget)
 ms:assetid: a369d2db-ee94-4efe-b13a-2dfc0f8c6a20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa588796(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa588796(v=AX.60)
 ms:contentKeyID: 37072006
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,11 +40,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget overview</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618569(v=ax.60)">Budget overview (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618569(v=ax.60)">Budget overview (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Cost budget</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616014(v=ax.60)">Cost budget (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616014(v=ax.60)">Cost budget (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service budget</strong></p></td>
@@ -85,7 +86,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

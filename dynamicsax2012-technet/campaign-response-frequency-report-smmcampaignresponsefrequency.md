@@ -2,8 +2,9 @@
 title: Campaign response frequency report (smmCampaignResponseFrequency)
 TOCTitle: Campaign response frequency report (smmCampaignResponseFrequency)
 ms:assetid: bb62a0cf-b191-4b98-b894-0b46070fdecc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412253(v=AX.60)
 ms:contentKeyID: 36916364
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

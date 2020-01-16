@@ -2,8 +2,9 @@
 title: Adjust flex time, unit count, and statistical payroll balances
 TOCTitle: Adjust flex time, unit count, and statistical payroll balances
 ms:assetid: 592d0181-361f-4672-95f8-1e9f0c063033
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549074(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549074(v=AX.60)
 ms:contentKeyID: 36057347
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -167,7 +168,7 @@ You can recalculate statistical payroll balances for a group of workers.
 
 [Set up payroll statistics for time and attendance](set-up-payroll-statistics-for-time-and-attendance.md)
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
   
 

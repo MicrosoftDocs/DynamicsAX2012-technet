@@ -2,8 +2,9 @@
 title: (BRA) About fiscal establishments
 TOCTitle: (BRA) About fiscal establishments
 ms:assetid: 85a9cf3b-2849-42fb-a82a-3226158aa54a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911269(v=AX.60)
 ms:contentKeyID: 52075255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,19 +53,19 @@ You can perform the following tasks:
 
 ## See also
 
-[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/en-us/library/jj923398\(v=ax.60\))
+[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/library/jj923398\(v=ax.60\))
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) Sites (modified form)](https://technet.microsoft.com/en-us/library/jj923394\(v=ax.60\))
+[(BRA) Sites (modified form)](https://technet.microsoft.com/library/jj923394\(v=ax.60\))
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
-[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710506\(v=ax.60\))
+[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/library/jj710506\(v=ax.60\))
 
-[(BRA) CFOP matrix (form)](https://technet.microsoft.com/en-us/library/jj933496\(v=ax.60\))
+[(BRA) CFOP matrix (form)](https://technet.microsoft.com/library/jj933496\(v=ax.60\))
 
-[(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
+[(BRA) Taxes matrix (form)](https://technet.microsoft.com/library/jj923368\(v=ax.60\))
 
   
 

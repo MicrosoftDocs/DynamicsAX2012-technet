@@ -2,8 +2,9 @@
 title: (BRA) Set up fiscal document types
 TOCTitle: (BRA) Set up fiscal document types
 ms:assetid: 341783fd-f258-429c-a3e4-61f72b24cae9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710450(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710450(v=AX.60)
 ms:contentKeyID: 49384341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -98,9 +99,9 @@ You can create fiscal document types that can be used in sales and purchase tran
 
 ## See also
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
-[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710506\(v=ax.60\))
+[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/library/jj710506\(v=ax.60\))
 
 [(BRA) Assign fiscal document types for customers or vendors](bra-assign-fiscal-document-types-for-customers-or-vendors.md)
 

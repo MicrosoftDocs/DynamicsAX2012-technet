@@ -2,8 +2,9 @@
 title: (BRA) Set up tax codes
 TOCTitle: (BRA) Set up tax codes
 ms:assetid: c53c7ba6-9ce2-4aa2-b7f8-cbccbad8dff7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682106(v=AX.60)
 ms:contentKeyID: 49655602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -133,15 +134,15 @@ You can set up item sales tax groups in the **Item sales tax groups** form. You 
 
 ## See also
 
-[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
+[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/library/jj822920\(v=ax.60\))
 
-[(BRA) Taxation code (form)](https://technet.microsoft.com/en-us/library/jj682104\(v=ax.60\))
+[(BRA) Taxation code (form)](https://technet.microsoft.com/library/jj682104\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
   
 

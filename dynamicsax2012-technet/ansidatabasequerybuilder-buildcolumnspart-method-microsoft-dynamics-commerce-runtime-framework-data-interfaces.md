@@ -1,9 +1,10 @@
-﻿---
+---
 title: AnsiDatabaseQueryBuilder.BuildColumnsPart Method  (Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces)
 TOCTitle: BuildColumnsPart Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.BuildColumnsPart(System.Text.StringBuilder,Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildcolumnspart(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.buildcolumnspart(v=AX.60)
 ms:contentKeyID: 65322604
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ void BuildColumnsPart(
 #### Parameters
 
   - builder  
-    Type: [System.Text.StringBuilder](https://technet.microsoft.com/en-us/library/y9sxk6fy\(v=ax.60\))  
+    Type: [System.Text.StringBuilder](https://technet.microsoft.com/library/y9sxk6fy\(v=ax.60\))  
 
 <!-- end list -->
 

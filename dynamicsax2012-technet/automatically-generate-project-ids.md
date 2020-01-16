@@ -2,8 +2,9 @@
 title: Automatically generate project IDs
 TOCTitle: Automatically generate project IDs
 ms:assetid: 7525fd84-e234-4efa-bb04-7b25ab311918
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550026(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550026(v=AX.60)
 ms:contentKeyID: 36058163
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,9 +42,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Number sequences (form)](https://technet.microsoft.com/en-us/library/hh209531\(v=ax.60\))
+[Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
 [Create a project](create-a-project.md)
 

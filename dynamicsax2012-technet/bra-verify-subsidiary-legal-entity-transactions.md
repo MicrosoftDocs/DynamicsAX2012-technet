@@ -2,8 +2,9 @@
 title: (BRA) Verify subsidiary legal entity transactions
 TOCTitle: (BRA) Verify subsidiary legal entity transactions
 ms:assetid: b5748c96-c59c-4a9e-b3ac-584824151d70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710605(v=AX.60)
 ms:contentKeyID: 49384496
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,13 +42,13 @@ Use the **Account number %1** form to view the original transactions of a subsid
 
 ## See also
 
-[(BRA) Account number (modified form)](https://technet.microsoft.com/en-us/library/jj710602\(v=ax.60\))
+[(BRA) Account number (modified form)](https://technet.microsoft.com/library/jj710602\(v=ax.60\))
 
-[Original document (form)](https://technet.microsoft.com/en-us/library/aa556127\(v=ax.60\))
+[Original document (form)](https://technet.microsoft.com/library/aa556127\(v=ax.60\))
 
-[(BRA) Voucher transactions (modified form)](https://technet.microsoft.com/en-us/library/jj710528\(v=ax.60\))
+[(BRA) Voucher transactions (modified form)](https://technet.microsoft.com/library/jj710528\(v=ax.60\))
 
-[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
+[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/library/jj710417\(v=ax.60\))
 
   
 

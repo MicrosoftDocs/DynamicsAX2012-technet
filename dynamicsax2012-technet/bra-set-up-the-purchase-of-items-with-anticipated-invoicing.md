@@ -2,8 +2,9 @@
 title: (BRA) Set up the purchase of items with anticipated invoicing
 TOCTitle: (BRA) Set up the purchase of items with anticipated invoicing
 ms:assetid: ee94f988-3e8c-4db2-bec1-173092cd670a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863742(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863742(v=AX.60)
 ms:contentKeyID: 50396425
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,13 +81,13 @@ In Brazil, a purchase of items that uses anticipated invoicing occurs in two pha
 
 [(BRA) Set up operation types](bra-set-up-operation-types.md)
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Calculations for product configuration models
 TOCTitle: Calculations for product configuration models
 ms:assetid: bc35311d-29a5-4501-a02d-7c022c2a1132
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn283316(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn283316(v=AX.60)
 ms:contentKeyID: 54916489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Attach documents, notes, or URLs  to records
 TOCTitle: Attach documents, notes, or URLs  to records
 ms:assetid: 95ba8a38-aea4-4192-aa4b-23e4f0ef9a20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271601(v=AX.60)
 ms:contentKeyID: 36384233
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

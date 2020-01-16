@@ -2,8 +2,9 @@
 title: Carry forward general budget reservation information to a new fiscal year (Public sector)
 TOCTitle: Carry forward general budget reservation information to a new fiscal year (Public sector)
 ms:assetid: 571e4b1e-3063-445c-843d-49e0047328a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762312(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn762312(v=AX.60)
 ms:contentKeyID: 65205499
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

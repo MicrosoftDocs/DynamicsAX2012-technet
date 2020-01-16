@@ -2,8 +2,9 @@
 title: Benefit accrual plan tasks
 TOCTitle: Benefit accrual plan tasks
 ms:assetid: 020cfd57-205e-44a8-81b1-e07de7fb2474
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677319(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677319(v=AX.60)
 ms:contentKeyID: 49384090
+author: Khairunj
 ms.date: 11/11/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -712,11 +713,11 @@ Back to top
 
 ## Find form help
 
-[Benefit accrual balances (form)](https://technet.microsoft.com/en-us/library/jj677450\(v=ax.60\))
+[Benefit accrual balances (form)](https://technet.microsoft.com/library/jj677450\(v=ax.60\))
 
-[Benefit accrual transactions (form)](https://technet.microsoft.com/en-us/library/jj677426\(v=ax.60\))
+[Benefit accrual transactions (form)](https://technet.microsoft.com/library/jj677426\(v=ax.60\))
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
   
 

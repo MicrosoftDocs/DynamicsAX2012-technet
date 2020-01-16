@@ -2,8 +2,9 @@
 title: (BEL) Sales tax list report (TaxList_BE)
 TOCTitle: (BEL) Sales tax list report (TaxList_BE)
 ms:assetid: d75601d0-2d76-4b20-9d00-1b0ff95d51ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527159(v=AX.60)
 ms:contentKeyID: 37823210
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

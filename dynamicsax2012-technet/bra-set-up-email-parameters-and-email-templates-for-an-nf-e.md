@@ -2,8 +2,9 @@
 title: (BRA) Set up email parameters and email templates for an NF-e
 TOCTitle: (BRA) Set up email parameters and email templates for an NF-e
 ms:assetid: 1d49cdc0-e714-4024-9e92-6c2150e9ee03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933497(v=AX.60)
 ms:contentKeyID: 50935111
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,15 +75,15 @@ Use the following procedure to set up email parameters to send a Nota Fiscal ele
 
 ## See also
 
-[E-mail parameters (form)](https://technet.microsoft.com/en-us/library/aa591302\(v=ax.60\))
+[E-mail parameters (form)](https://technet.microsoft.com/library/aa591302\(v=ax.60\))
 
-[Batch groups (form)](https://technet.microsoft.com/en-us/library/aa575384\(v=ax.60\))
+[Batch groups (form)](https://technet.microsoft.com/library/aa575384\(v=ax.60\))
 
 [Configure email functionality in Microsoft Dynamics AX](configure-email-functionality-in-microsoft-dynamics-ax.md)
 
-[Email templates (form)](https://technet.microsoft.com/en-us/library/aa575327\(v=ax.60\))
+[Email templates (form)](https://technet.microsoft.com/library/aa575327\(v=ax.60\))
 
-[E-mail distributor batch (form)](https://technet.microsoft.com/en-us/library/bb147537\(v=ax.60\))
+[E-mail distributor batch (form)](https://technet.microsoft.com/library/bb147537\(v=ax.60\))
 
 [Batch processing overview](batch-processing-overview.md)
 

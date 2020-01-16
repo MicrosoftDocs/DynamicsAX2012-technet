@@ -2,8 +2,9 @@
 title: (BRA) About the identification of CFOP codes for transactions
 TOCTitle: (BRA) About the identification of CFOP codes for transactions
 ms:assetid: da494277-889f-474a-9269-5912f7f1e2a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937994(v=AX.60)
 ms:contentKeyID: 50950782
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,29 +76,29 @@ The identification of CFOP codes for a tax fiscal document is based on the direc
 
 [(BRA) Create a fiscal establishment](bra-create-a-fiscal-establishment.md)
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\))
+[(BRA) CFOP codes (form)](https://technet.microsoft.com/library/jj933522\(v=ax.60\))
 
-[(BRA) CFOP matrix (form)](https://technet.microsoft.com/en-us/library/jj933496\(v=ax.60\))
+[(BRA) CFOP matrix (form)](https://technet.microsoft.com/library/jj933496\(v=ax.60\))
 
 [(BRA) Set up a tax matrix](bra-set-up-a-tax-matrix.md)
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/en-us/library/jj923406\(v=ax.60\))
+[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/library/jj923406\(v=ax.60\))
 
-[(BRA) Request for quotation reply (modified form)](https://technet.microsoft.com/en-us/library/jj730981\(v=ax.60\))
+[(BRA) Request for quotation reply (modified form)](https://technet.microsoft.com/library/jj730981\(v=ax.60\))
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
-[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/en-us/library/jj923173\(v=ax.60\))
+[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/library/jj923173\(v=ax.60\))
 
-[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj933514\(v=ax.60\))
+[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/library/jj933514\(v=ax.60\))
 
-[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710428\(v=ax.60\))
+[(BRA) Tax fiscal document (form)](https://technet.microsoft.com/library/jj710428\(v=ax.60\))
 
   
 

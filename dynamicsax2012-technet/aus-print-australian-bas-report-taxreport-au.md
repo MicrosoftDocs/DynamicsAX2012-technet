@@ -2,8 +2,9 @@
 title: (AUS) Print Australian BAS report (TaxReport_AU)
 TOCTitle: (AUS) Print Australian BAS report (TaxReport_AU)
 ms:assetid: e6e0a718-6bfa-4291-807a-995a088270c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa558463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa558463(v=AX.60)
 ms:contentKeyID: 36687386
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -99,11 +100,11 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(AUS) Additional BAS report boxes (form)](https://technet.microsoft.com/en-us/library/aa584353\(v=ax.60\))
+[(AUS) Additional BAS report boxes (form)](https://technet.microsoft.com/library/aa584353\(v=ax.60\))
 
-[(AUS) Australian BAS (form)](https://technet.microsoft.com/en-us/library/aa634554\(v=ax.60\))
+[(AUS) Australian BAS (form)](https://technet.microsoft.com/library/aa634554\(v=ax.60\))
 
-[Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\))
+[Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\))
 
   
 

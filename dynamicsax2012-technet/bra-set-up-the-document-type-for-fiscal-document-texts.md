@@ -2,8 +2,9 @@
 title: (BRA) Set up the document type for fiscal document texts
 TOCTitle: (BRA) Set up the document type for fiscal document texts
 ms:assetid: 9f8a02ae-2fd9-4b21-a197-8df36cd4e931
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710574(v=AX.60)
 ms:contentKeyID: 49384465
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ You must set up the document type for fiscal document texts before you attach th
 
 ## See also
 
-[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
+[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/library/jj822920\(v=ax.60\))
 
   
 

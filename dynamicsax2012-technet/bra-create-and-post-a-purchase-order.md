@@ -2,8 +2,9 @@
 title: (BRA) Create and post a purchase order
 TOCTitle: (BRA) Create and post a purchase order
 ms:assetid: 51833cc7-1ec8-4aab-9646-6e6a93a70350
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911250(v=AX.60)
 ms:contentKeyID: 52075249
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ Use the **Vendor invoice** form to post a purchase order.
 
 3.  On the **Action Pane**, click **Invoice** \> **Invoice**.
 
-4.  In the **Vendor invoice** form, enter values in the **Number**, **Invoice description**, and **Series** fields. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\)).
+4.  In the **Vendor invoice** form, enter values in the **Number**, **Invoice description**, and **Series** fields. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\)).
 
 5.  In the **Document model** field, select the document model for the vendor invoice.
 
@@ -91,7 +92,7 @@ Use the **Vendor invoice** form to post a purchase order.
 
 9.  On the **Action Pane**, click **Add shipping specifications**, and then create a shipment specification.
 
-10. Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/en-us/library/jj683240\(v=ax.60\)).
+10. Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/library/jj683240\(v=ax.60\)).
 
 11. Click **Header view**.
 
@@ -113,13 +114,13 @@ Use the **Vendor invoice** form to post a purchase order.
 
 ## See also
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
 [(BRA) Create and post a return purchase order](bra-create-and-post-a-return-purchase-order.md)
 
 [(BRA) Create and post a purchase order for a foreign vendor](bra-create-and-post-a-purchase-order-for-a-foreign-vendor.md)
 
-[Summary update sales and purchase orders](https://technet.microsoft.com/en-us/library/aa553732\(v=ax.60\))
+[Summary update sales and purchase orders](https://technet.microsoft.com/library/aa553732\(v=ax.60\))
 
   
 

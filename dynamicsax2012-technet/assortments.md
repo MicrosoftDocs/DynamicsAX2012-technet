@@ -2,8 +2,9 @@
 title: Assortments
 TOCTitle: Assortments
 ms:assetid: 0642d353-2d67-4d02-b9bb-bfdbfc7c11d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580560(v=AX.60)
 ms:contentKeyID: 39519036
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

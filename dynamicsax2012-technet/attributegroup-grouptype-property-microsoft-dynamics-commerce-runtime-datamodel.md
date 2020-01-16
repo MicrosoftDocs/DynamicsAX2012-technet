@@ -1,9 +1,10 @@
-﻿---
+---
 title: AttributeGroup.GroupType Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GroupType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeGroup.GroupType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.attributegroup.grouptype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributegroup.grouptype(v=AX.60)
 ms:contentKeyID: 49832785
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

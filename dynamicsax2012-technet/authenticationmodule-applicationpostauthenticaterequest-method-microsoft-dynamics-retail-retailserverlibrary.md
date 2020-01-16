@@ -1,9 +1,10 @@
-﻿---
+---
 title: AuthenticationModule.ApplicationPostAuthenticateRequest Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: ApplicationPostAuthenticateRequest Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.ApplicationPostAuthenticateRequest(System.Object,System.EventArgs)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.applicationpostauthenticaterequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.applicationpostauthenticaterequest(v=AX.60)
 ms:contentKeyID: 62201856
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,12 +57,12 @@ void ApplicationPostAuthenticateRequest(
 #### Parameters
 
   - sender  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 <!-- end list -->
 
   - e  
-    Type: [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\))  
+    Type: [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\))  
 
 ## See Also
 

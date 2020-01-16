@@ -2,8 +2,9 @@
 title: (BRA) Cancel a customer NF-e
 TOCTitle: (BRA) Cancel a customer NF-e
 ms:assetid: 20338892-f57f-437f-baca-f45e202c1b93
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933498(v=AX.60)
 ms:contentKeyID: 50935112
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,15 +63,15 @@ When you cancel a customer NF-e, the original NF-e is marked as canceled, and al
 
 ## See also
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
-[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj933514\(v=ax.60\))
+[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/library/jj933514\(v=ax.60\))
 
-[(BRA) All sales complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710595\(v=ax.60\))
+[(BRA) All sales complementary fiscal documents (list page)](https://technet.microsoft.com/library/jj710595\(v=ax.60\))
 
-[(BRA) Sales complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710523\(v=ax.60\))
+[(BRA) Sales complementary fiscal document (form)](https://technet.microsoft.com/library/jj710523\(v=ax.60\))
 
-[(BRA) Cancel customer fiscal document (form)](https://technet.microsoft.com/en-us/library/jj933503\(v=ax.60\))
+[(BRA) Cancel customer fiscal document (form)](https://technet.microsoft.com/library/jj933503\(v=ax.60\))
 
   
 

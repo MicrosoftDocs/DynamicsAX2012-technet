@@ -2,8 +2,9 @@
 title: (BEL) Posting journal list report (LedgerPostingJournalList)
 TOCTitle: (BEL) Posting journal list report (LedgerPostingJournalList)
 ms:assetid: 6a8c7906-9ea6-4500-8e96-24dc71914289
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527131(v=AX.60)
 ms:contentKeyID: 37823182
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

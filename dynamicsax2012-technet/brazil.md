@@ -2,8 +2,9 @@
 title: Brazil
 TOCTitle: Brazil
 ms:assetid: 55213c74-4e9d-4b2d-bd27-901230dcbcc0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710503(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710503(v=AX.60)
 ms:contentKeyID: 49384394
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

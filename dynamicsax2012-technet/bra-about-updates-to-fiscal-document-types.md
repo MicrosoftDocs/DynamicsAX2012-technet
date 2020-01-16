@@ -2,8 +2,9 @@
 title: (BRA) About updates to fiscal document types
 TOCTitle: (BRA) About updates to fiscal document types
 ms:assetid: 2a507f5a-b4fa-4c04-8153-60862d1fec82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710443(v=AX.60)
 ms:contentKeyID: 49384336
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,9 +30,9 @@ You can perform the following tasks:
 
 ## See also
 
-[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710506\(v=ax.60\))
+[(BRA) Assign fiscal document types (form)](https://technet.microsoft.com/library/jj710506\(v=ax.60\))
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
   
 

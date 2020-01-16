@@ -2,8 +2,9 @@
 title: (BRA) About purchase complementary fiscal documents
 TOCTitle: (BRA) About purchase complementary fiscal documents
 ms:assetid: 3d439f7e-9240-4521-a873-4ce029e1a67f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710465(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710465(v=AX.60)
 ms:contentKeyID: 49384356
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

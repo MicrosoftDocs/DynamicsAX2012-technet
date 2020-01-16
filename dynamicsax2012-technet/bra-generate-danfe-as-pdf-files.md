@@ -2,8 +2,9 @@
 title: (BRA) Generate DANFE as PDF files
 TOCTitle: (BRA) Generate DANFE as PDF files
 ms:assetid: 382d48d6-6fcb-47fc-8494-f0c681fa3b49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527706(v=AX.60)
 ms:contentKeyID: 59626284
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ Use this procedure to generate the Documento Auxiliar da Nota Fiscal Eletrônica
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710548\(v=ax.60\))
+[(BRA) Fiscal document (form)](https://technet.microsoft.com/library/jj710548\(v=ax.60\))
 
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 

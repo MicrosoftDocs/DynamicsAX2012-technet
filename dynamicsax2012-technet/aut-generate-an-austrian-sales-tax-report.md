@@ -2,8 +2,9 @@
 title: (AUT) Generate an Austrian sales tax report
 TOCTitle: (AUT) Generate an Austrian sales tax report
 ms:assetid: 73337299-b912-4fbb-b579-64aa943985bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209225(v=AX.60)
 ms:contentKeyID: 36058139
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

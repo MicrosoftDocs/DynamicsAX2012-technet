@@ -2,8 +2,9 @@
 title: (CAN) Create a payment journal and generate the IAT transmission file
 TOCTitle: (CAN) Create a payment journal and generate the IAT transmission file
 ms:assetid: 5f87dd16-e48c-4f49-9835-2fb3bcd4a967
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209132(v=AX.60)
 ms:contentKeyID: 36057592
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ To generate an RBC transmission file, first create a payment journal for a custo
 
 ## See also
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
-[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
+[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\))
 
   
 

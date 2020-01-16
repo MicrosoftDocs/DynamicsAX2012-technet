@@ -2,8 +2,9 @@
 title: (BRA) Cancel a transfer fiscal document
 TOCTitle: (BRA) Cancel a transfer fiscal document
 ms:assetid: bc7c72b3-0a14-44af-b2c5-7ff9d024b59a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933527(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933527(v=AX.60)
 ms:contentKeyID: 50935140
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Use the following procedure to cancel a transfer fiscal document that is incorre
 
 1.  Click **Inventory management** \> **Periodic** \> **Transfer orders**.
 
-2.  Select the transfer order to cancel. For more information, see [(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\)).
+2.  Select the transfer order to cancel. For more information, see [(BRA) Transfer orders (modified form)](https://technet.microsoft.com/library/jj910973\(v=ax.60\)).
 
 3.  Click **Posting**, and then click **Cancel fiscal document** to open the **Cancel fiscal document** form.
 
@@ -57,7 +58,7 @@ Use the following procedure to cancel a transfer fiscal document that is incorre
 
 [(BRA) About transfer orders](bra-about-transfer-orders.md)
 
-[(BRA) Cancel transfer fiscal document (form)](https://technet.microsoft.com/en-us/library/jj911300\(v=ax.60\))
+[(BRA) Cancel transfer fiscal document (form)](https://technet.microsoft.com/library/jj911300\(v=ax.60\))
 
   
 

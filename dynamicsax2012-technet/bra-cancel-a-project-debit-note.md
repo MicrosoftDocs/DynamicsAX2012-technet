@@ -2,8 +2,9 @@
 title: (BRA) Cancel a project debit note
 TOCTitle: (BRA) Cancel a project debit note
 ms:assetid: 5d78316a-01a2-45dc-b639-286fda27ba16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916623(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916623(v=AX.60)
 ms:contentKeyID: 50934013
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ Use the **Debit note journals** form to cancel debit notes for a project.
 
 ## See also
 
-[(BRA) Post debit note proposal (form)](https://technet.microsoft.com/en-us/library/jj923396\(v=ax.60\))
+[(BRA) Post debit note proposal (form)](https://technet.microsoft.com/library/jj923396\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (BRA) Create a request for quotation for a new product
 TOCTitle: (BRA) Create a request for quotation for a new product
 ms:assetid: a96c4118-c42a-4ca8-ab29-239d664916f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923214(v=AX.60)
 ms:contentKeyID: 52075267
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,9 +59,9 @@ Use this procedure to create and send a request for quotation (RFQ) for a new pr
 
 ## See also
 
-[(BRA) Sites (modified form)](https://technet.microsoft.com/en-us/library/jj923394\(v=ax.60\))
+[(BRA) Sites (modified form)](https://technet.microsoft.com/library/jj923394\(v=ax.60\))
 
-[Request for quotation details (form)](https://technet.microsoft.com/en-us/library/hh209669\(v=ax.60\))
+[Request for quotation details (form)](https://technet.microsoft.com/library/hh209669\(v=ax.60\))
 
   
 

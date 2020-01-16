@@ -2,8 +2,9 @@
 title: Balance list report (LedgerTotalAndBalanceList)
 TOCTitle: Balance list report (LedgerTotalAndBalanceList)
 ms:assetid: 047122bc-1357-431a-8ffe-0115d126967d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497176(v=AX.60)
 ms:contentKeyID: 36676452
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (CAN) Calculate financial statement balances for GIFI codes when multiple fiscal years are open
 TOCTitle: (CAN) Calculate financial statement balances for GIFI codes when multiple fiscal years are open
 ms:assetid: 2f0519ee-9c5e-4b9e-a64c-4938fc88c3d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552722(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa552722(v=AX.60)
 ms:contentKeyID: 36056290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Carry forward project budgets at year-end
 TOCTitle: Carry forward project budgets at year-end
 ms:assetid: 34b063c6-b816-486f-8aa0-c4a7a6836c8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242170(v=AX.60)
 ms:contentKeyID: 36056555
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -153,7 +154,7 @@ When you process your remaining budget amounts, you can decide whether you want 
 
 [Configure project budget control](configure-project-budget-control.md)
 
-[Project budget carry-forward process (form)](https://technet.microsoft.com/en-us/library/hh242217\(v=ax.60\))
+[Project budget carry-forward process (form)](https://technet.microsoft.com/library/hh242217\(v=ax.60\))
 
   
 

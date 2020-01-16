@@ -2,8 +2,9 @@
 title: (BRA) Return a transfer fiscal document
 TOCTitle: (BRA) Return a transfer fiscal document
 ms:assetid: e3d0201b-f676-4e19-baff-586eabbbae30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933535(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933535(v=AX.60)
 ms:contentKeyID: 50935149
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Use this procedure to return a transfer fiscal document.
 
 9.  Click **Posting**, and then click **Ship transfer order** to open the **Ship transfer order** form.
 
-10. In the **Update** field, select **All** to ship the remaining quantity of items for each line. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+10. In the **Update** field, select **All** to ship the remaining quantity of items for each line. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
 
 11. Select the **Edit lines** check box to update the transfer order lines based on the option that you selected in the **Update** field.
 
@@ -50,11 +51,11 @@ Use this procedure to return a transfer fiscal document.
 
 ## See also
 
-[(BRA) Return order (form)](https://technet.microsoft.com/en-us/library/jj911254\(v=ax.60\))
+[(BRA) Return order (form)](https://technet.microsoft.com/library/jj911254\(v=ax.60\))
 
 [(BRA) About transfer orders](bra-about-transfer-orders.md)
 
-[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
+[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/library/jj910973\(v=ax.60\))
 
   
 

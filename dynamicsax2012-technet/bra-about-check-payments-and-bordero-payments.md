@@ -2,8 +2,9 @@
 title: (BRA) About check payments and Bordero payments
 TOCTitle: (BRA) About check payments and Bordero payments
 ms:assetid: b9ce70c8-69d6-4fc7-a520-400faeb530f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923379(v=AX.60)
 ms:contentKeyID: 52075270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,19 +34,19 @@ You can perform the following tasks:
 
 ## See also
 
-[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/en-us/library/jj923217\(v=ax.60\))
+[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/library/jj923217\(v=ax.60\))
 
-[(BRA) Custom check layout (form)](https://technet.microsoft.com/en-us/library/jj923393\(v=ax.60\))
+[(BRA) Custom check layout (form)](https://technet.microsoft.com/library/jj923393\(v=ax.60\))
 
-[(BRA) Check layout (modified form)](https://technet.microsoft.com/en-us/library/jj911263\(v=ax.60\))
+[(BRA) Check layout (modified form)](https://technet.microsoft.com/library/jj911263\(v=ax.60\))
 
-[Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
+[Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\))
 
-[Check (form)](https://technet.microsoft.com/en-us/library/aa588011\(v=ax.60\))
+[Check (form)](https://technet.microsoft.com/library/aa588011\(v=ax.60\))
 
-[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\))
+[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj933534\(v=ax.60\))
 
-[(BRA) Bordero (form)](https://technet.microsoft.com/en-us/library/jj923356\(v=ax.60\))
+[(BRA) Bordero (form)](https://technet.microsoft.com/library/jj923356\(v=ax.60\))
 
   
 

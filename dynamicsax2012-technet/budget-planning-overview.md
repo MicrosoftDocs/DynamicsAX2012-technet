@@ -2,8 +2,9 @@
 title: Budget planning overview
 TOCTitle: Budget planning overview
 ms:assetid: 1ba682ec-6ab9-4929-9b03-f4eb1c6cec20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677328(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677328(v=AX.60)
 ms:contentKeyID: 49384102
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Budget planning is integrated with other modules, so you can bring in informatio
 
 ## Budget planning requirements
 
-The **Budget** configuration key for basic budgeting and the **Budget planning configuration key** must be enabled. The **Budget control** configuration key is optional but is typically enabled. For more information, see [Configuration keys](https://technet.microsoft.com/en-us/library/hh227464\(v=ax.60\)) and “Budgeting configuration keys” in [Setup overview: basic budgeting and budget control](setup-overview-basic-budgeting-and-budget-control.md).
+The **Budget** configuration key for basic budgeting and the **Budget planning configuration key** must be enabled. The **Budget control** configuration key is optional but is typically enabled. For more information, see [Configuration keys](https://technet.microsoft.com/library/hh227464\(v=ax.60\)) and “Budgeting configuration keys” in [Setup overview: basic budgeting and budget control](setup-overview-basic-budgeting-and-budget-control.md).
 
 Before you configure budget planning and set up budget planning processes, you must set up basic budgeting. You must also set up budget control if you’re using budget control. When you set up basic budgeting, include the financial dimensions, number sequences, budget cycles, and currency exchange rates for budget planning. For overview information, see [Setup overview: basic budgeting and budget control](setup-overview-basic-budgeting-and-budget-control.md). For a list of topics about basic budgeting, see [Setting up basic budgeting](setting-up-basic-budgeting.md).
 
@@ -59,7 +60,7 @@ The following table describes the information that you must compile before you c
 <tbody>
 <tr class="odd">
 <td><p>The financial dimensions that are required for budget planning, but that are not available in the chart of accounts.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677446(v=ax.60)">Budget planning rules (form)</a> and <a href="create-advanced-account-structures-and-rules-for-budget-planning.md">Create advanced account structures and rules for budget planning</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/jj677446(v=ax.60)">Budget planning rules (form)</a> and <a href="create-advanced-account-structures-and-rules-for-budget-planning.md">Create advanced account structures and rules for budget planning</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>The departments, business units, and cost centers in the organization hierarchy.</p></td>
@@ -75,7 +76,7 @@ The following table describes the information that you must compile before you c
 </tr>
 <tr class="odd">
 <td><p>The users who are outside the budget planning organization hierarchy or not associated with an organization unit in the hierarchy, but who must work with budget plans.</p></td>
-<td><p>Users who are outside the budgeting planning organization hierarchy can be assigned to a budget planning user group. This user group can then be associated with the budget plan that the users work with. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa576701(v=ax.60)">User groups (form)</a>, <a href="manage-user-groups.md">Manage user groups</a>, and <a href="key-tasks-create-and-process-budget-plans.md">Key tasks: Create and process budget plans</a>.</p></td>
+<td><p>Users who are outside the budgeting planning organization hierarchy can be assigned to a budget planning user group. This user group can then be associated with the budget plan that the users work with. For more information, see <a href="https://technet.microsoft.com/library/aa576701(v=ax.60)">User groups (form)</a>, <a href="manage-user-groups.md">Manage user groups</a>, and <a href="key-tasks-create-and-process-budget-plans.md">Key tasks: Create and process budget plans</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>The allocation, stage transition, review, and approval requirements for the Budgeting workflows.</p></td>

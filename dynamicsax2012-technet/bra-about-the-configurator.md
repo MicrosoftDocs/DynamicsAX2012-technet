@@ -2,8 +2,9 @@
 title: (BRA) About the configurator
 TOCTitle: (BRA) About the configurator
 ms:assetid: b606f82b-bbf5-4707-b9ea-3ab6b826ce36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863734(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863734(v=AX.60)
 ms:contentKeyID: 50396417
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,13 +36,13 @@ You can create a definition group by defining the tables and fields that are use
 
 ## See also
 
-[(BRA) Configurator definition groups (form)](https://technet.microsoft.com/en-us/library/jj730968\(v=ax.60\))
+[(BRA) Configurator definition groups (form)](https://technet.microsoft.com/library/jj730968\(v=ax.60\))
 
-[(BRA) Definition group wizard (form)](https://technet.microsoft.com/en-us/library/jj863740\(v=ax.60\))
+[(BRA) Definition group wizard (form)](https://technet.microsoft.com/library/jj863740\(v=ax.60\))
 
-[(BRA) Configurator layout groups (form)](https://technet.microsoft.com/en-us/library/jj863736\(v=ax.60\))
+[(BRA) Configurator layout groups (form)](https://technet.microsoft.com/library/jj863736\(v=ax.60\))
 
-[(BRA) Configurator export utility (form)](https://technet.microsoft.com/en-us/library/jj863720\(v=ax.60\))
+[(BRA) Configurator export utility (form)](https://technet.microsoft.com/library/jj863720\(v=ax.60\))
 
   
 

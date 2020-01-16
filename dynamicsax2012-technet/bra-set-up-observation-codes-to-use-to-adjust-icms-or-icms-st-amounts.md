@@ -2,8 +2,9 @@
 title: (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts
 TOCTitle: (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts
 ms:assetid: 1051f2b1-6b91-4a46-879d-f90daae07b9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305860(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305860(v=AX.60)
 ms:contentKeyID: 54912961
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

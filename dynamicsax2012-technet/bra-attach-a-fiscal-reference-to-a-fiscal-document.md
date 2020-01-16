@@ -2,8 +2,9 @@
 title: (BRA) Attach a fiscal reference to a fiscal document
 TOCTitle: (BRA) Attach a fiscal reference to a fiscal document
 ms:assetid: a3283b3a-e52a-49f8-b03b-da812efff721
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710581(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710581(v=AX.60)
 ms:contentKeyID: 49384478
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -163,11 +164,11 @@ You can attach a reference fiscal document to the vendor invoice when you post t
 
 ## See also
 
-[(BRA) Fiscal reference (form)](https://technet.microsoft.com/en-us/library/jj710558\(v=ax.60\))
+[(BRA) Fiscal reference (form)](https://technet.microsoft.com/library/jj710558\(v=ax.60\))
 
-[(BRA) Choose fiscal reference based fiscal documents (form)](https://technet.microsoft.com/en-us/library/jj710587\(v=ax.60\))
+[(BRA) Choose fiscal reference based fiscal documents (form)](https://technet.microsoft.com/library/jj710587\(v=ax.60\))
 
-[(BRA) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj853383\(v=ax.60\))
+[(BRA) Sales posting (modified form)](https://technet.microsoft.com/library/jj853383\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (BEL) Purchase sales tax transactions report (TaxPurchLedger)
 TOCTitle: (BEL) Purchase sales tax transactions report (TaxPurchLedger)
 ms:assetid: 7e5e79b3-5b48-48c9-acab-9c9e972bbc03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa615449(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa615449(v=AX.60)
 ms:contentKeyID: 43894484
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Assign users to security roles
 TOCTitle: Assign users to security roles
 ms:assetid: 214ee45b-5b99-4ea8-9454-f4297f68e38c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751367(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751367(v=AX.60)
 ms:contentKeyID: 35132576
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -47,7 +48,7 @@ If a rule for automatic role assignment encounters a conflict that is related to
     
 
     > [!IMPORTANT]
-    > <P>By default, the <STRONG>Security administrator</STRONG> role has access to only a subset of tables and fields in Microsoft Dynamics AX. If the <STRONG>Security administrator</STRONG> role is required to use other tables in a query, the permissions for the role must be modified to grant access to those tables. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209290(v=ax.60)">Override permissions (form)</A>.</P>
+    > <P>By default, the <STRONG>Security administrator</STRONG> role has access to only a subset of tables and fields in Microsoft Dynamics AX. If the <STRONG>Security administrator</STRONG> role is required to use other tables in a query, the permissions for the role must be modified to grant access to those tables. For more information, see <A href="https://technet.microsoft.com/library/hh209290(v=ax.60)">Override permissions (form)</A>.</P>
 
 
 

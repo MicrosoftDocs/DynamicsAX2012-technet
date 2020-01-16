@@ -2,8 +2,9 @@
 title: (BRA) Post an NF-e from a purchase order
 TOCTitle: (BRA) Post an NF-e from a purchase order
 ms:assetid: 34f72f34-e676-4afc-a63f-81dc8f9e717e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933507(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933507(v=AX.60)
 ms:contentKeyID: 50935120
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,9 +63,9 @@ Use the following procedure to post an NF-e from a purchase order for a non-taxp
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
   
 

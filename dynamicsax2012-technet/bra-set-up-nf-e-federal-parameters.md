@@ -2,8 +2,9 @@
 title: (BRA) Set up NF-e federal parameters
 TOCTitle: (BRA) Set up NF-e federal parameters
 ms:assetid: 45298749-f4bb-4cb9-8696-87687243a37a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933512(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933512(v=AX.60)
 ms:contentKeyID: 50935128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -141,7 +142,7 @@ Use the following procedures to set up NF-e federal parameters.
 
 ## See also
 
-[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
+[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/library/jj933509\(v=ax.60\))
 
 [(BRA) About NF-e schemas and processes](bra-about-nf-e-schemas-and-processes.md)
 

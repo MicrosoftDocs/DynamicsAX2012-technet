@@ -2,8 +2,9 @@
 title: Before you install the Reporting Services extensions
 TOCTitle: Before you install the Reporting Services extensions
 ms:assetid: 11952a63-2f66-44fa-ae1a-fa0510a94dfe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355041(v=AX.60)
 ms:contentKeyID: 28119311
+author: Khairunj
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

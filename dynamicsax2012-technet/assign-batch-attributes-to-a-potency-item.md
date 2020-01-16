@@ -2,8 +2,9 @@
 title: Assign batch attributes to a potency item
 TOCTitle: Assign batch attributes to a potency item
 ms:assetid: 20930921-5b41-41ba-b7b8-6fdf6ddbe779
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838725(v=AX.60)
 ms:contentKeyID: 50120608
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,15 +62,15 @@ Use this procedure to set up a batch attribute to identify an item as a potency 
 
 [About potency management](about-potency-management.md)
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
 [Create a batch attribute](create-a-batch-attribute.md)
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
 [Add a batch attribute to an item](add-a-batch-attribute-to-an-item.md)
 
-[Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
+[Product specific (form)](https://technet.microsoft.com/library/hh227369\(v=ax.60\))
 
   
 

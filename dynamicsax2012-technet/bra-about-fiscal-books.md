@@ -2,8 +2,9 @@
 title: (BRA) About fiscal books
 TOCTitle: (BRA) About fiscal books
 ms:assetid: aaa0cdc7-f73d-4c0e-9f71-f1d5e0c1d279
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305879(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305879(v=AX.60)
 ms:contentKeyID: 54912979
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

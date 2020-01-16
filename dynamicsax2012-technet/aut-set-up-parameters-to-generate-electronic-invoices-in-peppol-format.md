@@ -2,8 +2,9 @@
 title: (AUT) Set up parameters to generate electronic invoices in PEPPOL format
 TOCTitle: (AUT) Set up parameters to generate electronic invoices in PEPPOL format
 ms:assetid: 26ab8358-0e61-4678-9c57-0f7f6eba70b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774180(v=AX.60)
 ms:contentKeyID: 62629943
+author: Khairunj
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,9 +55,9 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
-<li><p>Set up the inventory units according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards in the <strong>Units</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</a> and <a href="https://technet.microsoft.com/en-us/library/aa583814(v=ax.60)">External codes (form)</a>.</p></li>
-<li><p>Set up a batch group that is used in batch processing to convert the invoice XML files to PEPPOL files. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575384(v=ax.60)">Batch groups (form)</a>.</p></li>
-<li><p>Set up recurrence for batch jobs using the <strong>Recurrence</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa616143(v=ax.60)">Recurrence (form)</a>.</p></li>
+<li><p>Set up the inventory units according to the United Nations Center for Trade Facilitation and Electronic Business Information Content Management Group (UN/CEFACT ICG) standards in the <strong>Units</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</a> and <a href="https://technet.microsoft.com/library/aa583814(v=ax.60)">External codes (form)</a>.</p></li>
+<li><p>Set up a batch group that is used in batch processing to convert the invoice XML files to PEPPOL files. For more information, see <a href="https://technet.microsoft.com/library/aa575384(v=ax.60)">Batch groups (form)</a>.</p></li>
+<li><p>Set up recurrence for batch jobs using the <strong>Recurrence</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa616143(v=ax.60)">Recurrence (form)</a>.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -144,7 +145,7 @@ To create an outbound port in Microsoft Dynamics AX Application Integration Fram
 
 9.  Click the **Processing options** FastTab, and then in the **Default encoding format** field, select **UTF-8**.
 
-10. Select the **Apply value mapping** check box, and then click **Value mapping** to open the **Value mapping** form. You can define the values, such as item number, customer account number, vendor account number, terms of delivery, and unit for the outbound port. Close the form. For more information, see [Value mapping (form)](https://technet.microsoft.com/en-us/library/aa586372\(v=ax.60\)).
+10. Select the **Apply value mapping** check box, and then click **Value mapping** to open the **Value mapping** form. You can define the values, such as item number, customer account number, vendor account number, terms of delivery, and unit for the outbound port. Close the form. For more information, see [Value mapping (form)](https://technet.microsoft.com/library/aa586372\(v=ax.60\)).
 
 11. Click the **Troubleshooting** FastTab, and then in the **Logging mode** field, select **All document versions**.
 

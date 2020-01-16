@@ -2,8 +2,9 @@
 title: (BRA) Post a payment with the check method of payment
 TOCTitle: (BRA) Post a payment with the check method of payment
 ms:assetid: a2421cd0-b20d-4656-b20e-903c74a9e20c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923201(v=AX.60)
 ms:contentKeyID: 53382672
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,15 +46,15 @@ In the **Checks** form, you can view the list of vendor payments that are genera
 
 ## See also
 
-[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/en-us/library/jj923217\(v=ax.60\))
+[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/library/jj923217\(v=ax.60\))
 
 [(BRA) Set up a custom check layout for a bank](bra-set-up-a-custom-check-layout-for-a-bank.md)
 
 [(BRA) About check payments and Bordero payments](bra-about-check-payments-and-bordero-payments.md)
 
-[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\))
+[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj933534\(v=ax.60\))
 
-[Check (form)](https://technet.microsoft.com/en-us/library/aa588011\(v=ax.60\))
+[Check (form)](https://technet.microsoft.com/library/aa588011\(v=ax.60\))
 
   
 

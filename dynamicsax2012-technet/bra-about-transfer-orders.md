@@ -2,8 +2,9 @@
 title: (BRA) About transfer orders
 TOCTitle: (BRA) About transfer orders
 ms:assetid: 7a8bc981-3886-435a-8e84-dd3025d49728
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933523(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933523(v=AX.60)
 ms:contentKeyID: 50935137
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,11 +46,11 @@ You can do the following to transfer items between fiscal establishments by usin
 
 ## See also
 
-[(BRA) CFOP matrix (form)](https://technet.microsoft.com/en-us/library/jj933496\(v=ax.60\))
+[(BRA) CFOP matrix (form)](https://technet.microsoft.com/library/jj933496\(v=ax.60\))
 
-[(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
+[(BRA) Taxes matrix (form)](https://technet.microsoft.com/library/jj923368\(v=ax.60\))
 
-[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
+[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/library/jj910973\(v=ax.60\))
 
   
 

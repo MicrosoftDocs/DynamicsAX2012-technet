@@ -2,8 +2,9 @@
 title: Budget plan scenarios report (BudgetPlanScenariosReport)
 TOCTitle: Budget plan scenarios report (BudgetPlanScenariosReport)
 ms:assetid: ec19b7f5-9819-41aa-9125-b918f6586c39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305855(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305855(v=AX.60)
 ms:contentKeyID: 54912954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

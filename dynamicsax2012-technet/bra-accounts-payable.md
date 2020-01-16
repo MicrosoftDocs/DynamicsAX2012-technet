@@ -2,8 +2,9 @@
 title: (BRA) Accounts payable
 TOCTitle: (BRA) Accounts payable
 ms:assetid: 48bc98de-c04c-4e9b-887f-33d987148773
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710489(v=AX.60)
 ms:contentKeyID: 49384382
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

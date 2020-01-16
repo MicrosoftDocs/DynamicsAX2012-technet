@@ -2,8 +2,9 @@
 title: Administration configuration key (SysAdmin)
 TOCTitle: Administration configuration key (SysAdmin)
 ms:assetid: 6b89c4e9-3fe7-4b54-8edb-49f383c04ede
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa577308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa577308(v=AX.60)
 ms:contentKeyID: 36931837
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>EDT relation migration tool</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg989788(v=ax.60)">EDT Relation Migration Tool</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg989788(v=ax.60)">EDT Relation Migration Tool</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -61,15 +62,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Batch history list</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Batch job</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585684(v=ax.60)">Batch job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585684(v=ax.60)">Batch job (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Batch tasks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +92,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Worker user requests</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +114,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Address books</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227355(v=ax.60)">Address books (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227355(v=ax.60)">Address books (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -135,11 +136,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Prospective vendor user requests</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor user requests</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242733(v=ax.60)">User request details (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -161,99 +162,99 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Add organizations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242784(v=ax.60)">Organizations for the automatic role assignment rule (form) or Organizations for the user (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242784(v=ax.60)">Organizations for the automatic role assignment rule (form) or Organizations for the user (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Add permissions to privilege</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242880(v=ax.60)">Add permissions to privilege (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242880(v=ax.60)">Add permissions to privilege (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Add privileges to role</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209663(v=ax.60)">Add privileges to role (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209663(v=ax.60)">Add privileges to role (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Assign roles to user</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242470(v=ax.60)">Assign roles to user (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242470(v=ax.60)">Assign roles to user (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Add server methods</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597276(v=ax.60)">Add server methods (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597276(v=ax.60)">Add server methods (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Add tables/fields</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597339(v=ax.60)">Add tables/fields (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597339(v=ax.60)">Add tables/fields (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Assign users to roles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209671(v=ax.60)">Assign users to roles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209671(v=ax.60)">Assign users to roles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Batch group</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575384(v=ax.60)">Batch groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575384(v=ax.60)">Batch groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Batch history list</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Batch job</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585684(v=ax.60)">Batch job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585684(v=ax.60)">Batch job (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Batch job history</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227449(v=ax.60)">Batch job history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227449(v=ax.60)">Batch job history (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Batch tasks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209494(v=ax.60)">Batch tasks (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cluster configuration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227571(v=ax.60)">Cluster configuration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227571(v=ax.60)">Cluster configuration (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Date effective policies for role</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580613(v=ax.60)">Date effective policies for role (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580613(v=ax.60)">Date effective policies for role (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Override permissions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209290(v=ax.60)">Override permissions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209290(v=ax.60)">Override permissions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Security privileges</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209366(v=ax.60)">Security privileges (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209366(v=ax.60)">Security privileges (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Security roles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227655(v=ax.60)">Security roles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227655(v=ax.60)">Security roles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Segregation of duties conflicts</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242876(v=ax.60)">Segregation of duties conflicts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242876(v=ax.60)">Segregation of duties conflicts (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Segregation of duties rules</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242672(v=ax.60)">Segregation of duties rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242672(v=ax.60)">Segregation of duties rules (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Segregation of duties conflicts</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242876(v=ax.60)">Segregation of duties conflicts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242876(v=ax.60)">Segregation of duties conflicts (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Select tables</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616804(v=ax.60)">Select tables (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616804(v=ax.60)">Select tables (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Server configuration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208825(v=ax.60)">Server configuration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208825(v=ax.60)">Server configuration (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>User</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa554087(v=ax.60)">User (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa554087(v=ax.60)">User (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Users</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227603(v=ax.60)">Users (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227603(v=ax.60)">Users (list page)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -306,7 +307,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

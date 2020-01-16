@@ -2,8 +2,9 @@
 title: Analyze source code data
 TOCTitle: Analyze source code data
 ms:assetid: a0eb4e16-b1e7-460f-832a-246449720448
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497806(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497806(v=AX.60)
 ms:contentKeyID: 62200124
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

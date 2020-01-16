@@ -2,8 +2,9 @@
 title: Authorize timesheet delegates
 TOCTitle: Authorize timesheet delegates
 ms:assetid: f29da748-8f81-491e-abcb-1a37b2346f58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227526(v=AX.60)
 ms:contentKeyID: 36059970
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ You can authorize delegates to enter timesheet information for other people. Set
 
 [Create and maintain timesheets](create-and-maintain-timesheets.md)
 
-[My delegates (form) (Project timesheets)](https://technet.microsoft.com/en-us/library/hh242734\(v=ax.60\))
+[My delegates (form) (Project timesheets)](https://technet.microsoft.com/library/hh242734\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Allocate costs and income overview
 TOCTitle: Allocate costs and income overview
 ms:assetid: 18b2b222-b5b6-4eb6-8a8c-7db2cd587357
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230966(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230966(v=AX.60)
 ms:contentKeyID: 36056103
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

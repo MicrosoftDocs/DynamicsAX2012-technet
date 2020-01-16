@@ -2,8 +2,9 @@
 title: Assign a price group to a project, project contract, or customer
 TOCTitle: Assign a price group to a project, project contract, or customer
 ms:assetid: 70f8b639-f5b7-4242-8698-02a5ff9dc9df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231828(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231828(v=AX.60)
 ms:contentKeyID: 36058061
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,11 +59,11 @@ You can assign an existing price group to a project, a project contract, or a cu
 
 [About creating and using price groups](about-creating-and-using-price-groups.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
   
 

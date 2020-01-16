@@ -1,9 +1,10 @@
-﻿---
+---
 title: ButtonGridButton.FontColorAsARGB Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: FontColorAsARGB Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ButtonGridButton.FontColorAsARGB
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.buttongridbutton.fontcolorasargb(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.buttongridbutton.fontcolorasargb(v=AX.60)
 ms:contentKeyID: 62212148
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

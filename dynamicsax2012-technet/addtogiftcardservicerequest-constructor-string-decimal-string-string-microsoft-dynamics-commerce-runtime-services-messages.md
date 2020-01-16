@@ -1,9 +1,10 @@
-﻿---
+---
 title: AddToGiftCardServiceRequest Constructor (String, Decimal, String, String) (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: AddToGiftCardServiceRequest Constructor (String, Decimal, String, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AddToGiftCardServiceRequest.#ctor(System.String,System.Decimal,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.addtogiftcardservicerequest.addtogiftcardservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.addtogiftcardservicerequest.addtogiftcardservicerequest(v=AX.60)
 ms:contentKeyID: 65322699
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -59,22 +60,22 @@ AddToGiftCardServiceRequest(
 #### Parameters
 
   - giftCardId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - amount  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - currencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - transactionId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

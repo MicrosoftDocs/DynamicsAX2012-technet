@@ -2,8 +2,9 @@
 title: (BRA) Set up email addresses for customers
 TOCTitle: (BRA) Set up email addresses for customers
 ms:assetid: 39637923-ac88-4686-86dc-b8630921287c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933508(v=AX.60)
 ms:contentKeyID: 50935121
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,13 +45,13 @@ Before you set up an email address for a customer, you must select the **Contact
 
 ## See also
 
-[Address purpose (form)](https://technet.microsoft.com/en-us/library/hh242741\(v=ax.60\))
+[Address purpose (form)](https://technet.microsoft.com/library/hh242741\(v=ax.60\))
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
-[Edit contact information (form)](https://technet.microsoft.com/en-us/library/hh370700\(v=ax.60\))
+[Edit contact information (form)](https://technet.microsoft.com/library/hh370700\(v=ax.60\))
 
   
 

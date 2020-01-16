@@ -2,8 +2,9 @@
 title: (BRA) Configure Microsoft Dynamics AX for Retail POS
 TOCTitle: (BRA) Configure Microsoft Dynamics AX for Retail POS
 ms:assetid: 313ab46d-9208-4032-b674-01fb37d8305d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497714(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497714(v=AX.60)
 ms:contentKeyID: 62200231
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -165,7 +166,7 @@ Apart from the standard tax codes that are used to determine tax rates, you must
 
 ## Determine CFOP code for fiscal receipts
 
-The CFOP for a fiscal receipt is determined based on the product type of the item, which must be set up based on the Public Digital Bookkeeping System (SPED) fiscal definition. You can specify a product type for the item by using the **Released product details** form. For more information, see [(BRA) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj923408\(v=ax.60\)).
+The CFOP for a fiscal receipt is determined based on the product type of the item, which must be set up based on the Public Digital Bookkeeping System (SPED) fiscal definition. You can specify a product type for the item by using the **Released product details** form. For more information, see [(BRA) Released product details (modified form)](https://technet.microsoft.com/library/jj923408\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -221,7 +222,7 @@ The POS sales screen in Microsoft Dynamics AX must display some mandatory column
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Screen layouts**.
 
-2.  In the **Screen layouts** form, enter the required details for the screen layout. For more information, see [Screen layouts (form)](https://technet.microsoft.com/en-us/library/hh597310\(v=ax.60\)).
+2.  In the **Screen layouts** form, enter the required details for the screen layout. For more information, see [Screen layouts (form)](https://technet.microsoft.com/library/hh597310\(v=ax.60\)).
 
 3.  In the **Button grids** fields, add lines for the following item columns:
     

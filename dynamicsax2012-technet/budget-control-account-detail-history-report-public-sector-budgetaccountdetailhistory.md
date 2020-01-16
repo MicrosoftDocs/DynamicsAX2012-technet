@@ -2,8 +2,9 @@
 title: Budget control account detail history report (Public sector) (BudgetAccountDetailHistory)
 TOCTitle: Budget control account detail history report (Public sector) (BudgetAccountDetailHistory)
 ms:assetid: 554b5578-6add-4af2-bd95-5346278f63a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334480(v=AX.60)
 ms:contentKeyID: 36676465
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ When you generate this report, the following default parameters are displayed. Y
 	 Select a financial dimension set for the report. These were defined in the <strong>Financial dimension sets</strong> form. A financial dimension set is a named group of accounts or dimensions that contains either account values for the account or dimension values for a single dimension. Examples include main accounts, departments, and cost centers, or combinations such as a cost center and main account, or a department and cost center.
   </p> <p>
    
-	 For more information, see <a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Financial dimension sets (form)</a>.
+	 For more information, see <a href="https://technet.microsoft.com/library/aa597282(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Financial dimension sets (form)</a>.
   </p> </td>
   </tr>
   <tr>
@@ -55,7 +56,7 @@ When you generate this report, the following default parameters are displayed. Y
     <td> <p> <strong>Budget cycle time span</strong> </p> </td>
     <td> <p>
    
-	 Select a budget cycle time span from those that are used by your organization. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227604(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Budget cycle time spans (form)</a>.
+	 Select a budget cycle time span from those that are used by your organization. For more information, see <a href="https://technet.microsoft.com/library/hh227604(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Budget cycle time spans (form)</a>.
   </p> </td>
   </tr>
   <tr>
@@ -76,7 +77,7 @@ When you generate this report, the following default parameters are displayed. Y
     <td rowspan="1"> <p> <strong>Budget cycle</strong> </p> </td>
     <td rowspan="1"> <p>
    
-	 If you selected <strong>Budget cycle</strong>, select the name of a budget cycle. This will use the dates that were set up for the selected budget cycle in the <strong>Budget cycle time spans</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227604(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Budget cycle time spans (form)</a>.
+	 If you selected <strong>Budget cycle</strong>, select the name of a budget cycle. This will use the dates that were set up for the selected budget cycle in the <strong>Budget cycle time spans</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh227604(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Budget cycle time spans (form)</a>.
   </p> </td>
   </tr>
   <tr>
@@ -120,7 +121,7 @@ When you generate this report, the following default parameters are displayed. Y
 	 Click <strong>Select</strong> to open an inquiry form to select specific values for a dimension.
   </p> <p>
    
-	 For example, for a Department dimension, select the Sales or Human Resources departments. For a Fund dimension, select one or more specific funds. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa575929(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Inquiry (form)</a>.
+	 For example, for a Department dimension, select the Sales or Human Resources departments. For a Fund dimension, select one or more specific funds. For more information, see <a href="https://technet.microsoft.com/library/aa575929(v=ax.60)" runat="server" xmlns="http://www.w3.org/1999/xhtml">Inquiry (form)</a>.
   </p> </td>
   </tr>
 </table>

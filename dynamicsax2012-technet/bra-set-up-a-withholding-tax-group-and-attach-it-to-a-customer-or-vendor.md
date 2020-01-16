@@ -2,8 +2,9 @@
 title: (BRA) Set up a withholding tax group and attach it to a customer or vendor
 TOCTitle: (BRA) Set up a withholding tax group and attach it to a customer or vendor
 ms:assetid: a844d15b-8e3c-4260-aea1-bd3716dfdac7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126106(v=AX.60)
 ms:contentKeyID: 52075264
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Brazil
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the following procedures to create a withholding tax group. After you create a group, you can assign multiple withholding tax codes and calculate multiple withholding tax rates for transactions. You can also attach a withholding tax group to a vendor or a customer. For more information, see [Withholding tax groups (form)](https://technet.microsoft.com/en-us/library/aa591973\(v=ax.60\)).
+Use the following procedures to create a withholding tax group. After you create a group, you can assign multiple withholding tax codes and calculate multiple withholding tax rates for transactions. You can also attach a withholding tax group to a vendor or a customer. For more information, see [Withholding tax groups (form)](https://technet.microsoft.com/library/aa591973\(v=ax.60\)).
 
 ## Create a withholding tax group
 
@@ -59,9 +60,9 @@ Use the following procedures to create a withholding tax group. After you create
 
 [(BRA) Calculate withholding tax for the sale of services](bra-calculate-withholding-tax-for-the-sale-of-services.md)
 
-[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/en-us/library/dn126109\(v=ax.60\))
+[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/library/dn126109\(v=ax.60\))
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
   
 
