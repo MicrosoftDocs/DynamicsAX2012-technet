@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Add Method (T, String, Nullable(Int32)) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Add Method (T, String, Nullable(Int32))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Add(`0,System.String,System.Nullable{System.Int32})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn990930(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn990930(v=AX.60)
 ms:contentKeyID: 65322120
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -61,12 +62,12 @@ void Add(
 <!-- end list -->
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - index  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))\>  
 
 ## See Also
 

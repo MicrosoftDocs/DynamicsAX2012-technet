@@ -2,8 +2,9 @@
 title: Dimensions in cost accounting
 TOCTitle: Dimensions in cost accounting
 ms:assetid: a9ba4ba2-89d6-486d-a393-06bc293e62fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550324(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550324(v=AX.60)
 ms:contentKeyID: 36058896
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

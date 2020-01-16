@@ -2,8 +2,9 @@
 title: Deployment topologies for Retail
 TOCTitle: Deployment topologies for Retail
 ms:assetid: eda17d27-a0e0-4117-92a9-6a7e52f1b917
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ991928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ991928(v=AX.60)
 ms:contentKeyID: 51595731
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

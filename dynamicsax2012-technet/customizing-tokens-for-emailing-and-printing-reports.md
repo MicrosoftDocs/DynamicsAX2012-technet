@@ -1,9 +1,10 @@
-﻿---
+---
 title: Customizing tokens for emailing and printing reports
 TOCTitle: Customizing tokens for emailing and printing reports
 ms:assetid: e756e8d0-95f8-49ed-bd4a-8b4ff88d08f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479194(v=AX.60)
 ms:contentKeyID: 59633684
+author: Khairunj
 ms.date: 01/08/2014
 mtps_version: v=AX.60
 ---

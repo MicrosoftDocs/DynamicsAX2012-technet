@@ -2,8 +2,9 @@
 title: (CZE) Collect for product or service overview
 TOCTitle: (CZE) Collect for product or service overview
 ms:assetid: 50bc5911-d58c-4cfb-b4b1-8a7c467d39db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677528(v=AX.60)
 ms:contentKeyID: 49384832
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

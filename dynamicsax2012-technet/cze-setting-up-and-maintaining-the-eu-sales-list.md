@@ -2,8 +2,9 @@
 title: (CZE) Setting up and maintaining the EU sales list
 TOCTitle: (CZE) Setting up and maintaining the EU sales list
 ms:assetid: 248728ce-8c67-40d8-b6dc-3b03105d975d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677485(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677485(v=AX.60)
 ms:contentKeyID: 49384789
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (CZE) Working with Cash and bank management
 TOCTitle: (CZE) Working with Cash and bank management
 ms:assetid: 0030e257-ce48-4867-968c-a88fc9195f81
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664152(v=AX.60)
 ms:contentKeyID: 49384735
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

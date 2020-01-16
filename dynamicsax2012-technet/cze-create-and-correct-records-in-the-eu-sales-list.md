@@ -2,8 +2,9 @@
 title: (CZE) Create and correct records in the EU sales list
 TOCTitle: (CZE) Create and correct records in the EU sales list
 ms:assetid: 81e7e6eb-2377-4f3a-94eb-e306c5aeea32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677589(v=AX.60)
 ms:contentKeyID: 49384892
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,11 +28,11 @@ Before you create a sales list, you can correct the sales list records to reflec
 
 3.  Select the new sales list record, update it as needed, and then click **Transfer**.
 
-4.  In the **Transfer transactions for EU sales list** form, enter the reporting types and invoice information to define the transactions to include on the sales list report, and then click **Transfer**. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\)).
+4.  In the **Transfer transactions for EU sales list** form, enter the reporting types and invoice information to define the transactions to include on the sales list report, and then click **Transfer**. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\)).
 
 ## See also
 
-[(CZE) EU sales list (modified form)](https://technet.microsoft.com/en-us/library/jj677500\(v=ax.60\))
+[(CZE) EU sales list (modified form)](https://technet.microsoft.com/library/jj677500\(v=ax.60\))
 
   
 

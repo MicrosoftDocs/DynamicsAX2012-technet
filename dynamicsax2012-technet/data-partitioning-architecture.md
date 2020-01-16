@@ -2,8 +2,9 @@
 title: Data partitioning architecture
 TOCTitle: Data partitioning architecture
 ms:assetid: 27ba6c51-7ea7-4403-867a-46ccc1ee053a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728665(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728665(v=AX.60)
 ms:contentKeyID: 49556573
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ It is important to understand that data partitions do not create separate instal
     
     By default, code runs in the context of the partition for the current session. This behavior resembles the behavior of X++, which handles companies by using the dataAreaId field. Therefore, pre-existing code that uses the X++ query mechanism works without modification. Direct SQL calls must be modified to filter on the context of the current partition.
     
-    For more information about using data partitions in development projects, see [Partitions, Companies, and Data Isolation in Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/jj677285\(v=ax.60\)).
+    For more information about using data partitions in development projects, see [Partitions, Companies, and Data Isolation in Microsoft Dynamics AX](https://technet.microsoft.com/library/jj677285\(v=ax.60\)).
     
     The Microsoft Dynamics AX cross-reference system is shared. Role definitions are shared across the system. In Microsoft Dynamics AX 2012 R2 and later versions, multi-partition configurations have no new requirements to define or maintain reports.
 

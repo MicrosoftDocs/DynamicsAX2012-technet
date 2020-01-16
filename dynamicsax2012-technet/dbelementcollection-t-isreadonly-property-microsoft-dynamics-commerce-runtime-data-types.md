@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).IsReadOnly Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: IsReadOnly Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IsReadOnly
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989919(v=AX.60)
 ms:contentKeyID: 65320375
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,12 +48,12 @@ virtual property bool IsReadOnly {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 #### Implements
 
-[ICollection\<T\>.IsReadOnly](https://technet.microsoft.com/en-us/library/0cfatk9t\(v=ax.60\))  
+[ICollection\<T\>.IsReadOnly](https://technet.microsoft.com/library/0cfatk9t\(v=ax.60\))  
 
 ## See Also
 

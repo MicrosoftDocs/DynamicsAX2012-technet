@@ -2,8 +2,9 @@
 title: (DEU) German sales tax report (TaxReport_DE)
 TOCTitle: (DEU) German sales tax report (TaxReport_DE)
 ms:assetid: 77c9c499-4fec-4e51-9ef9-ce29e80c20bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496438(v=AX.60)
 ms:contentKeyID: 37072020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -123,7 +124,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Sales tax reporting codes (form)](https://technet.microsoft.com/en-us/library/aa588316\(v=ax.60\))
+[Sales tax reporting codes (form)](https://technet.microsoft.com/library/aa588316\(v=ax.60\))
 
   
 

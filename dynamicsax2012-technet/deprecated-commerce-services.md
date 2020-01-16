@@ -2,8 +2,9 @@
 title: 'Deprecated: Commerce Services'
 TOCTitle: Commerce Services
 ms:assetid: a606564e-97e8-4b71-a86d-4af4a6194467
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716032(v=AX.60)
 ms:contentKeyID: 62200293
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

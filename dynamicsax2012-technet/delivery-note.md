@@ -2,8 +2,9 @@
 title: " delivery note"
 TOCTitle: " delivery note"
 ms:assetid: DynamicsAXGlossary.1496372
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1496372(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1496372(v=AX.60)
 ms:contentKeyID: 36057249
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ A business document that documents the delivery of products between two parties.
 
 [business document](business-document.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [product](product.md)
 

@@ -2,8 +2,9 @@
 title: Develop and establish agreements
 TOCTitle: Develop and establish agreements
 ms:assetid: 26759323-ccf3-43b9-b4d6-d88cebdc6e70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230997(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230997(v=AX.60)
 ms:contentKeyID: 36056199
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

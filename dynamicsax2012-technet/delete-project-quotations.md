@@ -2,8 +2,9 @@
 title: Delete project quotations
 TOCTitle: Delete project quotations
 ms:assetid: caf148cc-2e7d-4796-8c8c-29d5aa1ea219
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220749(v=AX.60)
 ms:contentKeyID: 36059337
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ Use the following procedures to delete project quotations.
 
 [Update quotations](update-quotations.md)
 
-[Project quotation (form)](https://technet.microsoft.com/en-us/library/aa557295\(v=ax.60\))
+[Project quotation (form)](https://technet.microsoft.com/library/aa557295\(v=ax.60\))
 
   
 

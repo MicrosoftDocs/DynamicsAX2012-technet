@@ -1,9 +1,10 @@
-﻿---
+---
 title: Defining Cubes in Microsoft Dynamics AX
 TOCTitle: Defining Cubes in Microsoft Dynamics AX
 ms:assetid: 9c934dac-82fa-4865-9763-c161f6311dba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc615265(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc615265(v=AX.60)
 ms:contentKeyID: 28119548
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

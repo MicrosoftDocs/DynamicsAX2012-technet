@@ -2,8 +2,9 @@
 title: (CZE) Set up sales tax codes for intra-community VAT
 TOCTitle: (CZE) Set up sales tax codes for intra-community VAT
 ms:assetid: d2eb668c-1df2-4efa-ba9f-afd7f5a54593
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677813(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677813(v=AX.60)
 ms:contentKeyID: 49385013
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ To enable intra-community VAT, do the following:
 
 ## Set up sales tax codes for intra-community VAT
 
-To calculate intra-community VAT for purchase transactions, you must create two sales tax codes. One code must have a positive tax percentage, and the other code must have a negative tax percentage. Tax percentages are set up in the **Values** form. For more information about setting up tax percentages, see [Values of sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa500790\(v=ax.60\)).
+To calculate intra-community VAT for purchase transactions, you must create two sales tax codes. One code must have a positive tax percentage, and the other code must have a negative tax percentage. Tax percentages are set up in the **Values** form. For more information about setting up tax percentages, see [Values of sales tax codes (form)](https://technet.microsoft.com/library/aa500790\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax codes**.
 

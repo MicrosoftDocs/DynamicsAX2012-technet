@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerPaymentService.SupportedOperationIds Property  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: SupportedOperationIds Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerPaymentService.SupportedOperationIds
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.customerpaymentservice.supportedoperationids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerpaymentservice.supportedoperationids(v=AX.60)
 ms:contentKeyID: 65319075
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ virtual property IEnumerable<int>^ SupportedOperationIds {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))\>  
 
 #### Implements
 

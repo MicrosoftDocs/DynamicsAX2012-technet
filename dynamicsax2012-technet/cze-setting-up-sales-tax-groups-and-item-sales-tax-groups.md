@@ -2,8 +2,9 @@
 title: (CZE) Setting up sales tax groups and item sales tax groups
 TOCTitle: (CZE) Setting up sales tax groups and item sales tax groups
 ms:assetid: 5f680a77-ac46-435d-ace3-d8e5027d2a62
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677541(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677541(v=AX.60)
 ms:contentKeyID: 49384844
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

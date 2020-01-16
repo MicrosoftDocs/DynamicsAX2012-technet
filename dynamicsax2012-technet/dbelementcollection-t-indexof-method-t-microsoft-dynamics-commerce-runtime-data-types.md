@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).IndexOf Method (T) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: IndexOf Method (T)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IndexOf(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988499(v=AX.60)
 ms:contentKeyID: 65318052
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,12 +55,12 @@ virtual int IndexOf(
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The index of element.  
 
 #### Implements
 
-[IList\<T\>.IndexOf(T)](https://technet.microsoft.com/en-us/library/3w0148af\(v=ax.60\))  
+[IList\<T\>.IndexOf(T)](https://technet.microsoft.com/library/3w0148af\(v=ax.60\))  
 
 ## See Also
 

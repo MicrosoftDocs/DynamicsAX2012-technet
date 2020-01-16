@@ -1,9 +1,10 @@
-﻿---
+---
 title: DictionaryCacheAccessor.PutItem(T) Method (String, T, DateTimeOffset, TimeSpan, IDataStore) (Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache)
 TOCTitle: PutItem(T) Method (String, T, DateTimeOffset, TimeSpan, IDataStore)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache.DictionaryCacheAccessor.PutItem``1(System.String,``0,System.DateTimeOffset,System.TimeSpan,Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn969402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn969402(v=AX.60)
 ms:contentKeyID: 65323015
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -71,7 +72,7 @@ virtual void PutItem(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -81,12 +82,12 @@ virtual void PutItem(
 <!-- end list -->
 
   - absoluteExpiration  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 <!-- end list -->
 
   - slidingExpiration  
-    Type: [System.TimeSpan](https://technet.microsoft.com/en-us/library/269ew577\(v=ax.60\))  
+    Type: [System.TimeSpan](https://technet.microsoft.com/library/269ew577\(v=ax.60\))  
 
 <!-- end list -->
 

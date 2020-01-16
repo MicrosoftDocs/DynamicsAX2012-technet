@@ -2,8 +2,9 @@
 title: 'Deprecated: Add Service Reference in the MorphX AOT'
 TOCTitle: Add Service Reference in the MorphX AOT
 ms:assetid: 00da95fb-1704-4222-81ec-5c0a83f600d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507110(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507110(v=AX.60)
 ms:contentKeyID: 59623200
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ In Microsoft Dynamics AX 2009 and earlier versions, the Add Service Reference fe
 
 ## See also
 
-[How to: Add a Reference to a .NET Assembly](https://technet.microsoft.com/en-us/library/gg881320\(v=ax.60\))
+[How to: Add a Reference to a .NET Assembly](https://technet.microsoft.com/library/gg881320\(v=ax.60\))
 
   
 

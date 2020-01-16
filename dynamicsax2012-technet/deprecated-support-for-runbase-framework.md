@@ -2,8 +2,9 @@
 title: 'Deprecated: Support for RunBase framework'
 TOCTitle: RunBase
 ms:assetid: 9a8a31f9-c594-4d38-95a9-aecc86a22ce0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527190(v=AX.60)
 ms:contentKeyID: 59623319
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009 and earlier versions, the **formletter** class con
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature has been removed, and a replacement feature is available. The RunBase framework has been replaced by the SysOperations Framework, which is more robust and has significant performance improvements.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg862488(v=ax.60)">SysOperation Framework Overview</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/gg862488(v=ax.60)">SysOperation Framework Overview</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

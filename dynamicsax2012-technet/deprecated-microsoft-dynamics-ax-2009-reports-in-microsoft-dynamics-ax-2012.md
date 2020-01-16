@@ -1,9 +1,10 @@
-﻿---
+---
 title: Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012
 TOCTitle: Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012
 ms:assetid: 0a8a18e2-5013-48b3-b346-90bc51eace3c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731897(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731897(v=AX.60)
 ms:contentKeyID: 35132814
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

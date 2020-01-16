@@ -2,8 +2,9 @@
 title: (CZE) Accounts payable
 TOCTitle: (CZE) Accounts payable
 ms:assetid: 9dbd15f3-de40-49c1-b16d-1fa640a6e683
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677627(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677627(v=AX.60)
 ms:contentKeyID: 49384930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

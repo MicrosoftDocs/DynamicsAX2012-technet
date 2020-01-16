@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerOrderWorkflowHelper Class (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: CustomerOrderWorkflowHelper Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper(v=AX.60)
 ms:contentKeyID: 62208218
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ public ref class CustomerOrderWorkflowHelper abstract sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper  
 
 ## Thread Safety

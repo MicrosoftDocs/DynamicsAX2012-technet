@@ -2,8 +2,9 @@
 title: Customize the functionality of an online store
 TOCTitle: Customize the functionality of an online store
 ms:assetid: 661cba1c-017d-474e-aa70-6281428bb21c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169144(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169144(v=AX.60)
 ms:contentKeyID: 53382653
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

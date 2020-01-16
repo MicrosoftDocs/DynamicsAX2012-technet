@@ -2,8 +2,9 @@
 title: 'Deprecated: (HUN) Import bank account statements in MT940'
 TOCTitle: (HUN) Import bank account statements in MT940
 ms:assetid: 84b6f1cc-137c-4fc4-a75d-9038b0512d56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527166(v=AX.60)
 ms:contentKeyID: 59623295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

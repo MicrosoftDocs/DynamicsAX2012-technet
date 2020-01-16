@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataProtectionRequestHandler Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: DataProtectionRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.DataProtectionRequestHandler.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.dataprotectionrequesthandler.dataprotectionrequesthandler(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.dataprotectionrequesthandler.dataprotectionrequesthandler(v=AX.60)
 ms:contentKeyID: 65323053
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

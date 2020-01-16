@@ -2,8 +2,9 @@
 title: (DEU) DTAZV report (VendOutCoveringLetter_DEDTAZV)
 TOCTitle: (DEU) DTAZV report (VendOutCoveringLetter_DEDTAZV)
 ms:assetid: 76e723b0-fd16-4423-a0a9-1f7490235c5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352258(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352258(v=AX.60)
 ms:contentKeyID: 36687884
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

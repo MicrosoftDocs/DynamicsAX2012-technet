@@ -2,8 +2,9 @@
 title: (CZE) Link vendor prepayments
 TOCTitle: (CZE) Link vendor prepayments
 ms:assetid: 8525f065-8af0-4141-b94a-978289771f43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677593(v=AX.60)
 ms:contentKeyID: 49384896
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

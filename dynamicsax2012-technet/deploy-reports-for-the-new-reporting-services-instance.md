@@ -2,8 +2,9 @@
 title: Deploy reports for the new Reporting Services instance
 TOCTitle: Deploy reports for the new Reporting Services instance
 ms:assetid: 9860b790-71ac-4aa1-9c69-7ca986fd977e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389771(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389771(v=AX.60)
 ms:contentKeyID: 36899750
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 dev_langs:

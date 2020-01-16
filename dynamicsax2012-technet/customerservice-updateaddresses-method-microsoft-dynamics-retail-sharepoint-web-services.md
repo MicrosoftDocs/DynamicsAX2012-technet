@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerService.UpdateAddresses Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: UpdateAddresses Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.CustomerService.UpdateAddresses(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Address})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.customerservice.updateaddresses(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.customerservice.updateaddresses(v=AX.60)
 ms:contentKeyID: 62204407
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ virtual NullResponse^ UpdateAddresses(
 #### Parameters
 
   - addresses  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Address](address-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Address](address-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
 
 #### Return Value
 

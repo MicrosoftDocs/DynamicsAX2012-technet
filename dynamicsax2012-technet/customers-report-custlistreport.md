@@ -2,8 +2,9 @@
 title: Customers report (CustListReport)
 TOCTitle: Customers report (CustListReport)
 ms:assetid: f967b238-dd20-40c2-9bec-5d7fe96c22d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527790(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527790(v=AX.60)
 ms:contentKeyID: 37832044
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

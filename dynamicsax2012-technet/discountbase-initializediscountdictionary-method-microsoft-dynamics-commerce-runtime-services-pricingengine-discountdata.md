@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountBase.InitializeDiscountDictionary Method  (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData)
 TOCTitle: InitializeDiscountDictionary Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.InitializeDiscountDictionary(System.Collections.Generic.Stack{Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.AppliedDiscountApplication},System.Collections.Generic.Dictionary{System.Int32,System.Collections.Generic.IList{Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountLineQuantity}},System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.initializediscountdictionary(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.initializediscountdictionary(v=AX.60)
 ms:contentKeyID: 65319196
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,21 +59,21 @@ bool InitializeDiscountDictionary(
 #### Parameters
 
   - appliedDiscounts  
-    Type: [System.Collections.Generic.Stack](https://technet.microsoft.com/en-us/library/3278tedw\(v=ax.60\))\<[AppliedDiscountApplication](applieddiscountapplication-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>  
+    Type: [System.Collections.Generic.Stack](https://technet.microsoft.com/library/3278tedw\(v=ax.60\))\<[AppliedDiscountApplication](applieddiscountapplication-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>  
 
 <!-- end list -->
 
   - discountDictionary  
-    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)), [IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[DiscountLineQuantity](discountlinequantity-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>\>  
+    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)), [IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[DiscountLineQuantity](discountlinequantity-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md)\>\>  
 
 <!-- end list -->
 
   - countThreshold  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

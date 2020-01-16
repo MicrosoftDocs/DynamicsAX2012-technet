@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Special parameter to enable Brazilian features'
 TOCTitle: (BRA) Enable Brazilian features
 ms:assetid: c8d22b9d-17d0-4176-96bf-2d09d207fe63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527240(v=AX.60)
 ms:contentKeyID: 59623368
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

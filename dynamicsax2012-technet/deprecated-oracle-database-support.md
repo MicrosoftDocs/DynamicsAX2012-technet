@@ -2,8 +2,9 @@
 title: 'Deprecated: Oracle database support'
 TOCTitle: Oracle database support
 ms:assetid: 62952627-c269-400c-8299-53626b4728b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527131(v=AX.60)
 ms:contentKeyID: 59623260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

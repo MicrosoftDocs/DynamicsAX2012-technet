@@ -2,8 +2,9 @@
 title: Define formula ingredients for shelf life inheritance
 TOCTitle: Define formula ingredients for shelf life inheritance
 ms:assetid: 4415aa93-c08e-449a-b7c7-bbe56b253875
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838733(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838733(v=AX.60)
 ms:contentKeyID: 50120616
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,9 +70,9 @@ Use this procedure to define formula ingredients for shelf life inheritance.
 
 ## See also
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (CZE) Foreign trade
 TOCTitle: (CZE) Foreign trade
 ms:assetid: 622460d6-5853-49b0-a8ea-4a4cc58ea29f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677547(v=AX.60)
 ms:contentKeyID: 49384851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

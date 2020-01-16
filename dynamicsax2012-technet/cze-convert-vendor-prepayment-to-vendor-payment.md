@@ -2,8 +2,9 @@
 title: (CZE) Convert vendor prepayment to vendor payment
 TOCTitle: (CZE) Convert vendor prepayment to vendor payment
 ms:assetid: 468e2061-9c5d-46b2-99fa-15f307d57962
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677516(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677516(v=AX.60)
 ms:contentKeyID: 49384820
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

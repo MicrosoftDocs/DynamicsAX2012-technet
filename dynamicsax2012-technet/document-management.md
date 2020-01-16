@@ -2,8 +2,9 @@
 title: Document management
 TOCTitle: Document management
 ms:assetid: 75db94e4-f2b8-4760-8dd8-a779ac74dbb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn606151(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn606151(v=AX.60)
 ms:contentKeyID: 61180074
+author: Khairunj
 ms.date: 09/17/2014
 mtps_version: v=AX.60
 audience: Application User

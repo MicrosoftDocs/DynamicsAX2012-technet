@@ -2,8 +2,9 @@
 title: Delete a functional area in RapidStart Services
 TOCTitle: Delete a functional area in RapidStart Services
 ms:assetid: 1d6195cc-cfc5-45cf-af9d-7db7ad1bb834
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413224(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413224(v=AX.60)
 ms:contentKeyID: 36918915
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

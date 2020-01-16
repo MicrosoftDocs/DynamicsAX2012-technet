@@ -2,8 +2,9 @@
 title: Define packing units and materials
 TOCTitle: Define packing units and materials
 ms:assetid: 59e0253f-3245-4367-860c-b5824a61b762
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549076(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549076(v=AX.60)
 ms:contentKeyID: 36057350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

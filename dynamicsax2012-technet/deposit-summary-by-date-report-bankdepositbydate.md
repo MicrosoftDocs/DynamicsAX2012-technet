@@ -2,8 +2,9 @@
 title: Deposit summary by date report (BankDepositByDate)
 TOCTitle: Deposit summary by date report (BankDepositByDate)
 ms:assetid: dc597d0e-9b6a-4e44-8f8f-43ac18fa4817
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa591430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa591430(v=AX.60)
 ms:contentKeyID: 36931904
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

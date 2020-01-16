@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerOrderWorkflowHelper.HandlePayments Method (RequestContext, SalesTransaction, TokenizedPaymentCard, String) (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: HandlePayments Method (RequestContext, SalesTransaction, TokenizedPaymentCard, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper.HandlePayments(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,Microsoft.Dynamics.Commerce.Runtime.DataModel.TokenizedPaymentCard,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.handlepayments(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.handlepayments(v=AX.60)
 ms:contentKeyID: 65319063
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -76,7 +77,7 @@ static SalesTransaction^ HandlePayments(
 <!-- end list -->
 
   - cardTypeId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

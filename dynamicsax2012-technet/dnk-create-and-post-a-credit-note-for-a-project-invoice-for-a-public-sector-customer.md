@@ -2,8 +2,9 @@
 title: (DNK) Create and post a credit note for a project invoice for a public sector customer
 TOCTitle: (DNK) Create and post a credit note for a project invoice for a public sector customer
 ms:assetid: e3c59ed3-565e-4980-a4c1-773ca3fbde59
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227429(v=AX.60)
 ms:contentKeyID: 36059726
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,13 +61,13 @@ When the batch job is processed, invoices for customers who have an EAN number a
 
 [(DNK) Set up batch processing for OIOUBL electronic invoicing](dnk-set-up-batch-processing-for-oioubl-electronic-invoicing.md)
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
-[Invoice journals (form) (Project)](https://technet.microsoft.com/en-us/library/aa618187\(v=ax.60\))
+[Invoice journals (form) (Project)](https://technet.microsoft.com/library/aa618187\(v=ax.60\))
 
-[Select for credit note (form)](https://technet.microsoft.com/en-us/library/aa550205\(v=ax.60\))
+[Select for credit note (form)](https://technet.microsoft.com/library/aa550205\(v=ax.60\))
 
   
 

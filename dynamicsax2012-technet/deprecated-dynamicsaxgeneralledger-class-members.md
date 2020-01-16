@@ -2,8 +2,9 @@
 title: 'Deprecated: DynamicsAXGeneralLedger class members'
 TOCTitle: DynamicsAXGeneralLedger class members
 ms:assetid: 34c49e16-6144-4ab4-b289-e84564714cfe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507094(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507094(v=AX.60)
 ms:contentKeyID: 59623180
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

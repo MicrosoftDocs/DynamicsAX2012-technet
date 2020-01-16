@@ -2,8 +2,9 @@
 title: Delete a batch attribute group from an item
 TOCTitle: Delete a batch attribute group from an item
 ms:assetid: 2ded1d4d-8265-4b64-a44c-3d869b22644a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208520(v=AX.60)
 ms:contentKeyID: 36056267
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use this procedure to delete a batch attribute group from an item.
 
 [About batch attributes](about-batch-attributes.md)
 
-[Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
+[Product specific (form)](https://technet.microsoft.com/library/hh227369\(v=ax.60\))
 
   
 

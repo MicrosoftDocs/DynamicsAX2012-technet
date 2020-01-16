@@ -2,8 +2,9 @@
 title: (CZE) Depreciate assets
 TOCTitle: (CZE) Depreciate assets
 ms:assetid: 85a228ed-9414-48b2-a09b-bfaedbe48477
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677595(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677595(v=AX.60)
 ms:contentKeyID: 49384898
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountParameters.CreateAndInitialize Method (IPricingDataManager) (Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine)
 TOCTitle: CreateAndInitialize Method (IPricingDataManager)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountParameters.CreateAndInitialize(Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManager)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountparameters.createandinitialize(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountparameters.createandinitialize(v=AX.60)
 ms:contentKeyID: 49846705
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

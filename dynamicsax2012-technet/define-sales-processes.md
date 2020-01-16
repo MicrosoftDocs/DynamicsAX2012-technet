@@ -2,8 +2,9 @@
 title: Define sales processes
 TOCTitle: Define sales processes
 ms:assetid: 166dc7e3-4346-4224-9d36-3b42b38c7702
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230957(v=AX.60)
 ms:contentKeyID: 36056072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

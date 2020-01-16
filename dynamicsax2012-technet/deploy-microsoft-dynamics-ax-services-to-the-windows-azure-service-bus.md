@@ -2,8 +2,9 @@
 title: Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus
 TOCTitle: Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus
 ms:assetid: cf55c0d5-b12b-4f42-a157-c1dd9508ed3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720289(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720289(v=AX.60)
 ms:contentKeyID: 62221428
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

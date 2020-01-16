@@ -2,8 +2,9 @@
 title: (CZE) Setting up and maintaining Cash and bank management
 TOCTitle: (CZE) Setting up and maintaining Cash and bank management
 ms:assetid: 88f83b61-3e29-4323-9961-b43e4c1900b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677599(v=AX.60)
 ms:contentKeyID: 49384901
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

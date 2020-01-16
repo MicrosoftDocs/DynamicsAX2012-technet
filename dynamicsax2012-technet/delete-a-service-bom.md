@@ -2,8 +2,9 @@
 title: Delete a service BOM
 TOCTitle: Delete a service BOM
 ms:assetid: 7bd79c68-2281-483c-aaa9-12d3f3dc6414
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571368(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571368(v=AX.60)
 ms:contentKeyID: 44431418
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

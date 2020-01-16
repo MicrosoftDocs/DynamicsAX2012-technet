@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseAccessor.ExecuteStoredProcedure(T1, T2) Method (String, ParameterSet, ParameterSet, Int32) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedure(T1, T2) Method (String, ParameterSet, ParameterSet, Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``2(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,System.Int32@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988583(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988583(v=AX.60)
 ms:contentKeyID: 65318135
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -73,7 +74,7 @@ Tuple<ReadOnlyCollection<T1>^, ReadOnlyCollection<T2>^>^ ExecuteStoredProcedure(
 #### Parameters
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -88,11 +89,11 @@ Tuple<ReadOnlyCollection<T1>^, ReadOnlyCollection<T2>^>^ ExecuteStoredProcedure(
 <!-- end list -->
 
   - returnValue  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Return Value
 
-Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T1\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T2\>\>  
+Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T1\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T2\>\>  
 
 ## See Also
 

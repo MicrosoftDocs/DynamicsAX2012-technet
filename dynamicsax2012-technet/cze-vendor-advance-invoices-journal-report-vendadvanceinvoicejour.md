@@ -2,8 +2,9 @@
 title: (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 TOCTitle: (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 ms:assetid: f82747c7-39be-4727-9f67-25da4221dfaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn133214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn133214(v=AX.60)
 ms:contentKeyID: 53365032
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

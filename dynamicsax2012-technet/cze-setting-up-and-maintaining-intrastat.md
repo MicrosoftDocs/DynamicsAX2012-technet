@@ -2,8 +2,9 @@
 title: (CZE) Setting up and maintaining Intrastat
 TOCTitle: (CZE) Setting up and maintaining Intrastat
 ms:assetid: 67647186-bff6-45a9-ace9-5deee99a103a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677554(v=AX.60)
 ms:contentKeyID: 49384856
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

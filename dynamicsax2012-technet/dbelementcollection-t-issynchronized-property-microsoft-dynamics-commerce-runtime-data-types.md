@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).IsSynchronized Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: IsSynchronized Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IsSynchronized
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988343(v=AX.60)
 ms:contentKeyID: 65317896
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,12 +48,12 @@ virtual property bool IsSynchronized {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 #### Implements
 
-[ICollection.IsSynchronized](https://technet.microsoft.com/en-us/library/d74ky11w\(v=ax.60\))  
+[ICollection.IsSynchronized](https://technet.microsoft.com/library/d74ky11w\(v=ax.60\))  
 
 ## See Also
 

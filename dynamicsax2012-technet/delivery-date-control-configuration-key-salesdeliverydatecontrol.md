@@ -2,8 +2,9 @@
 title: Delivery date control configuration key (SalesDeliveryDateControl)
 TOCTitle: Delivery date control configuration key (SalesDeliveryDateControl)
 ms:assetid: 1e4aeb8c-7463-4d62-bfed-813a493e6e23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499462(v=AX.60)
 ms:contentKeyID: 36997743
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>ATP information</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209482(v=ax.60)">ATP information (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209482(v=ax.60)">ATP information (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +82,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

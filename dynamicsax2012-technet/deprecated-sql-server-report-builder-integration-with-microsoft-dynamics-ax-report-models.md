@@ -2,8 +2,9 @@
 title: 'Deprecated: SQL Server Report Builder integration with Microsoft Dynamics AX report models'
 TOCTitle: SQL Server Report Builder integration with Microsoft Dynamics AX report models
 ms:assetid: 8ef50b2a-132b-4f40-add6-ac6fb21d0ceb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527170(v=AX.60)
 ms:contentKeyID: 59623299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

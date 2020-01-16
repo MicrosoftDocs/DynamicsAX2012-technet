@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataStorePolicy.PersistentDataStorePolicy Field (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PersistentDataStorePolicy Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.DataStorePolicy.PersistentDataStorePolicy
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.persistentdatastorepolicy(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.persistentdatastorepolicy(v=AX.60)
 ms:contentKeyID: 62201899
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

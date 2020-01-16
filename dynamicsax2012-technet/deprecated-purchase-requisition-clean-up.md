@@ -2,8 +2,9 @@
 title: 'Deprecated: Purchase requisition clean up'
 TOCTitle: Purchase requisition clean up
 ms:assetid: 40845b00-b123-477e-9e9c-ca489a865576
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507120(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507120(v=AX.60)
 ms:contentKeyID: 59623209
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

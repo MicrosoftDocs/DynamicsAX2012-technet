@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Taxes, taxation codes, and fiscal values on order lines'
 TOCTitle: (BRA) Taxes, taxation codes, and fiscal values on order lines
 ms:assetid: d93696f5-aee8-4a46-ac6f-58ae5c7ee4eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527223(v=AX.60)
 ms:contentKeyID: 59623351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

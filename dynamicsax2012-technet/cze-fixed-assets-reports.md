@@ -2,8 +2,9 @@
 title: (CZE) Fixed assets reports
 TOCTitle: (CZE) Fixed assets reports
 ms:assetid: 5af379a6-a977-4bb6-ba82-ffd81f73f1a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683243(v=AX.60)
 ms:contentKeyID: 49685124
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

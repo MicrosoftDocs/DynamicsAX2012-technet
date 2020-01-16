@@ -2,8 +2,9 @@
 title: (CZE) Manage customer payment settlements
 TOCTitle: (CZE) Manage customer payment settlements
 ms:assetid: 18658e28-a0d3-4c55-8022-b84ca159d497
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677466(v=AX.60)
 ms:contentKeyID: 49384770
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

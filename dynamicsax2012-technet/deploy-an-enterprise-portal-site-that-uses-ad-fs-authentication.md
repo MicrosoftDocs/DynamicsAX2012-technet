@@ -2,8 +2,9 @@
 title: Deploy an Enterprise Portal site that uses AD FS authentication
 TOCTitle: Deploy an Enterprise Portal site that uses AD FS authentication
 ms:assetid: 2de9bc47-e66f-49d6-ab97-b09b83422f94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621030(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621030(v=AX.60)
 ms:contentKeyID: 61078356
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

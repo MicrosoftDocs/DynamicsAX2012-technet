@@ -2,8 +2,9 @@
 title: Database components
 TOCTitle: Database components
 ms:assetid: 7721376c-08b6-443d-9e27-b575f5f461bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731834(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731834(v=AX.60)
 ms:contentKeyID: 35132683
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

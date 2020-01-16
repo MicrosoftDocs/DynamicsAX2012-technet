@@ -2,8 +2,9 @@
 title: Deployment of analytics
 TOCTitle: Deployment
 ms:assetid: 70c9976f-9d41-4c83-8581-fb45aecfc479
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873266(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873266(v=AX.60)
 ms:contentKeyID: 28119377
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

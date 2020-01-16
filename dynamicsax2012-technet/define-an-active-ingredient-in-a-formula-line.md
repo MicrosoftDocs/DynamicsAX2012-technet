@@ -2,8 +2,9 @@
 title: Define an active ingredient in a formula line
 TOCTitle: Define an active ingredient in a formula line
 ms:assetid: cc76ede2-2e30-401d-9eea-9ba96db18e88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838749(v=AX.60)
 ms:contentKeyID: 50120632
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Use this procedure to select an ingredient type for a specified formula line. A 
 
 2.  Select a potency item, click the **Engineer** tab, and then click **Lines**.
 
-3.  In the **Formula line** form, create a formula line. For more information, see [Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\)).
+3.  In the **Formula line** form, create a formula line. For more information, see [Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\)).
 
 4.  In the **Ingredient type** field, select the active ingredient type from the following options:
     
@@ -45,9 +46,9 @@ Use this procedure to select an ingredient type for a specified formula line. A 
 
 ## See also
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
   
 

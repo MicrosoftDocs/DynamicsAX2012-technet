@@ -2,8 +2,9 @@
 title: (CZE) Generate and export the Intrastat report
 TOCTitle: (CZE) Generate and export the Intrastat report
 ms:assetid: 0cd2a6f8-431f-42d4-921b-50d2b626e6a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664170(v=AX.60)
 ms:contentKeyID: 49384754
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use the following procedure to generate the Intrastat report for a Czech legal e
 
 
 > [!NOTE]
-> <P>In AX 2012 R3: The Intrastat report is exported in the XML file format or the CSV file format depending on the format that you select in the <STRONG>XSLT ID</STRONG> field in the <STRONG>Intrastat</STRONG> area in the <STRONG>Foreign trade parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj910988(v=ax.60)">(CZE) Foreign trade parameters (modified form)</A>.</P>
+> <P>In AX 2012 R3: The Intrastat report is exported in the XML file format or the CSV file format depending on the format that you select in the <STRONG>XSLT ID</STRONG> field in the <STRONG>Intrastat</STRONG> area in the <STRONG>Foreign trade parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/jj910988(v=ax.60)">(CZE) Foreign trade parameters (modified form)</A>.</P>
 
 
 

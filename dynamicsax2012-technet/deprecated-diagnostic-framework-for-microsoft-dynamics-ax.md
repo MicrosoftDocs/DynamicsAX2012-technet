@@ -2,8 +2,9 @@
 title: 'Deprecated: Diagnostic Framework for Microsoft Dynamics AX'
 TOCTitle: Diagnostic Framework for Microsoft Dynamics AX
 ms:assetid: 9ded9622-fa63-4aec-a4e4-0823a9a28b86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ884461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ884461(v=AX.60)
 ms:contentKeyID: 50580853
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

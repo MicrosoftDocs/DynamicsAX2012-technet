@@ -2,8 +2,9 @@
 title: (CZE) Set up intra-community VAT transactions
 TOCTitle: (CZE) Set up intra-community VAT transactions
 ms:assetid: 0ba60c7e-a81f-4480-8e0d-d4385dd002a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664169(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664169(v=AX.60)
 ms:contentKeyID: 49384752
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ When you purchase products from countries/regions in the European Union, the pay
 
 ## See also
 
-[(CZE) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710667\(v=ax.60\))
+[(CZE) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj710667\(v=ax.60\))
 
   
 

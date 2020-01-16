@@ -2,8 +2,9 @@
 title: 'Deprecated: (JPN) Bill of exchange'
 TOCTitle: (JPN) Bill of exchange
 ms:assetid: 6e149fa0-9544-4e20-a21a-0819461171f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527133(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527133(v=AX.60)
 ms:contentKeyID: 59623262
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

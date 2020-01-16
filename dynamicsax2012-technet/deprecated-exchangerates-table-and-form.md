@@ -2,8 +2,9 @@
 title: 'Deprecated: ExchangeRates table and form'
 TOCTitle: ExchangeRates table and form
 ms:assetid: 2d62ca0c-b9b6-44e3-810c-6501d54c1eea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507148(v=AX.60)
 ms:contentKeyID: 59623231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (CZE) About posting a purchase transaction that includes intra-community VAT
 TOCTitle: (CZE) About posting a purchase transaction that includes intra-community VAT
 ms:assetid: 46845f03-1a5c-4211-899d-9f5e43edf46a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677515(v=AX.60)
 ms:contentKeyID: 49384819
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

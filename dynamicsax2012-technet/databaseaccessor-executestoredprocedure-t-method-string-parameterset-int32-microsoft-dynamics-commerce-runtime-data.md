@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseAccessor.ExecuteStoredProcedure(T) Method (String, ParameterSet, Int32) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedure(T) Method (String, ParameterSet, Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``1(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,System.Int32@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn737634(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn737634(v=AX.60)
 ms:contentKeyID: 62202344
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -65,7 +66,7 @@ ReadOnlyCollection<T>^ ExecuteStoredProcedure(
 #### Parameters
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -75,11 +76,11 @@ ReadOnlyCollection<T>^ ExecuteStoredProcedure(
 <!-- end list -->
 
   - returnValue  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T\>  
 A collection of [CommerceEntity](commerceentity-class-microsoft-dynamics-commerce-runtime-datamodel.md) objects.  
 
 ## See Also

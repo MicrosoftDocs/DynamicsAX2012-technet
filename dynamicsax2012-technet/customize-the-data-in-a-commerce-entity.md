@@ -2,8 +2,9 @@
 title: Customize the Data in a Commerce Entity
 TOCTitle: Customize the Data in a Commerce Entity
 ms:assetid: 3857369f-d293-4897-90b7-bd8aefcbb3a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916616(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916616(v=AX.60)
 ms:contentKeyID: 50934006
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -43,7 +44,7 @@ To update the properties that are available in the commerce entity, you must do 
 
 
 
-2.  Specify properties for your new field. For more information, see [Tables Overview](https://technet.microsoft.com/en-us/library/bb314725\(v=ax.60\)).
+2.  Specify properties for your new field. For more information, see [Tables Overview](https://technet.microsoft.com/library/bb314725\(v=ax.60\)).
 
 3.  Add the new field in the CRT database.
 

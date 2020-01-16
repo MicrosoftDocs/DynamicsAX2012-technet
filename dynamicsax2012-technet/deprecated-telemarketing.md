@@ -2,8 +2,9 @@
 title: 'Deprecated: Telemarketing'
 TOCTitle: Telemarketing
 ms:assetid: 50069021-e088-4ac1-9956-01c358494b39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507130(v=AX.60)
 ms:contentKeyID: 59623218
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

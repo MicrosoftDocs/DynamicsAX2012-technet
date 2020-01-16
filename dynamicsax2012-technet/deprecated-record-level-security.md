@@ -2,8 +2,9 @@
 title: 'Deprecated: Record-level security'
 TOCTitle: Record-level security
 ms:assetid: a4f7a216-8650-46ab-a611-b77555c33b5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527195(v=AX.60)
 ms:contentKeyID: 59623324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

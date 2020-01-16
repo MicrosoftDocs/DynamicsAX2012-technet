@@ -2,8 +2,9 @@
 title: Define budget codes
 TOCTitle: Define budget codes
 ms:assetid: 4f678f47-bb30-48d9-8aec-c849ea460354
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208896(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208896(v=AX.60)
 ms:contentKeyID: 36057215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Use the **Budget codes** form to set up budget codes for budget register entries. You can use budget codes to categorize budget types. For more information, see [Budget codes (form)](https://technet.microsoft.com/en-us/library/hh209638\(v=ax.60\)).
+Use the **Budget codes** form to set up budget codes for budget register entries. You can use budget codes to categorize budget types. For more information, see [Budget codes (form)](https://technet.microsoft.com/library/hh209638\(v=ax.60\)).
 
 1.  Click **Budgeting** \> **Setup** \> **Basic budgeting** \> **Budget codes**.
 

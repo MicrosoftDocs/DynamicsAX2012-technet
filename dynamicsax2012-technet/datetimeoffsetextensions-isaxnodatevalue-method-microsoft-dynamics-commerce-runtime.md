@@ -1,9 +1,10 @@
-﻿---
+---
 title: DateTimeOffsetExtensions.IsAxNoDateValue Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IsAxNoDateValue Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DateTimeOffsetExtensions.IsAxNoDateValue(System.DateTimeOffset)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datetimeoffsetextensions.isaxnodatevalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datetimeoffsetextensions.isaxnodatevalue(v=AX.60)
 ms:contentKeyID: 65317521
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,15 +52,15 @@ static bool IsAxNoDateValue(
 #### Parameters
 
   - dateTimeOffset  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)). When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
 
 ## See Also
 

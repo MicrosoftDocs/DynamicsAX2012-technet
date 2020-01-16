@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseContext.ExecuteScalarCollection(T) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteScalarCollection(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseContext.ExecuteScalarCollection``1(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQuery)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967834(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967834(v=AX.60)
 ms:contentKeyID: 65319694
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ ReadOnlyCollection<T>^ ExecuteScalarCollection(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T\>  
 The scalar collection result.  
 
 ## See Also

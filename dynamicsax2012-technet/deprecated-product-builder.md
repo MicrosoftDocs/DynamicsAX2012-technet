@@ -2,8 +2,9 @@
 title: 'Deprecated: Product builder'
 TOCTitle: Product builder
 ms:assetid: e30e2377-f85d-4703-9398-f382ebd87629
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527253(v=AX.60)
 ms:contentKeyID: 59623381
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

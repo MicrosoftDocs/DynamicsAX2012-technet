@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).GetEnumerator Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: GetEnumerator Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.GetEnumerator
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988429(v=AX.60)
 ms:contentKeyID: 65317983
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,12 +43,12 @@ virtual IEnumerator^ GetEnumerator() sealed
 
 #### Return Value
 
-Type: [System.Collections.IEnumerator](https://technet.microsoft.com/en-us/library/1t2267t6\(v=ax.60\))  
-Returns [IEnumerator](https://technet.microsoft.com/en-us/library/1t2267t6\(v=ax.60\)).  
+Type: [System.Collections.IEnumerator](https://technet.microsoft.com/library/1t2267t6\(v=ax.60\))  
+Returns [IEnumerator](https://technet.microsoft.com/library/1t2267t6\(v=ax.60\)).  
 
 #### Implements
 
-[IEnumerable.GetEnumerator()](https://technet.microsoft.com/en-us/library/5zae5365\(v=ax.60\))  
+[IEnumerable.GetEnumerator()](https://technet.microsoft.com/library/5zae5365\(v=ax.60\))  
 
 ## See Also
 

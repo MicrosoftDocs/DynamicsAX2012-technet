@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerOrderWorkflowHelper.ValidateCartLineForAdd Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: ValidateCartLineForAdd Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper.ValidateCartLineForAdd(Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Commerce.Runtime.DataValidationFailure})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.validatecartlineforadd(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.validatecartlineforadd(v=AX.60)
 ms:contentKeyID: 62201740
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,7 +79,7 @@ static void ValidateCartLineForAdd(
 <!-- end list -->
 
   - validationFailures  
-    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
+    Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
 
 ## See Also
 
