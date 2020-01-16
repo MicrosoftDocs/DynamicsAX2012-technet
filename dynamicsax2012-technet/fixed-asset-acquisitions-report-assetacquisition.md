@@ -2,8 +2,9 @@
 title: Fixed asset acquisitions report (AssetAcquisition)
 TOCTitle: Fixed asset acquisitions report (AssetAcquisition)
 ms:assetid: f803f637-027f-4cae-b6e4-fcedb7f54a6a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa634704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa634704(v=AX.60)
 ms:contentKeyID: 36687391
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

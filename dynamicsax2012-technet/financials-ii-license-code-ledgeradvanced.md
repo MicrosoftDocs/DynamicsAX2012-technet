@@ -2,8 +2,9 @@
 title: Financials II license code (LedgerAdvanced)
 TOCTitle: Financials II license code (LedgerAdvanced)
 ms:assetid: df3f1794-9356-4ef4-b1d8-c7169d677592
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416698(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416698(v=AX.60)
 ms:contentKeyID: 36931860
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -63,7 +64,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

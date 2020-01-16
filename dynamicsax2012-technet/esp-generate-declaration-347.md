@@ -2,8 +2,9 @@
 title: (ESP) Generate Declaration 347
 TOCTitle: (ESP) Generate Declaration 347
 ms:assetid: 36b5b6f9-f543-4640-8569-721a243d0d96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304970(v=AX.60)
 ms:contentKeyID: 54899949
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,13 +30,13 @@ Use the **Transactions** form to modify the information for the customer transac
 
 1.  Click **General ledger** \> **Periodic** \> **Report 347** \> **Declaration 347**.
 
-2.  In the **Declaration 347** form, click **Generate** to open the **Declaration 347** dialog box. For more information, see [(ESP) Generate declaration 347 (class form)](https://technet.microsoft.com/en-us/library/aa589594\(v=ax.60\)).
+2.  In the **Declaration 347** form, click **Generate** to open the **Declaration 347** dialog box. For more information, see [(ESP) Generate declaration 347 (class form)](https://technet.microsoft.com/library/aa589594\(v=ax.60\)).
 
 3.  Specify the criteria for transferring the transactions to the **Declaration 347** form. For more information, see [(ESP) Generate the Declaration 347 report](esp-generate-the-declaration-347-report.md).
 
 4.  Click **OK** to transfer the transactions.
 
-5.  In the **Declaration 347** form, click **Transactions** to verify the customer transactions and vendor transactions for the report. For more information, see [(ESP) Declaration 347 transactions (form)](https://technet.microsoft.com/en-us/library/aa587699\(v=ax.60\)).
+5.  In the **Declaration 347** form, click **Transactions** to verify the customer transactions and vendor transactions for the report. For more information, see [(ESP) Declaration 347 transactions (form)](https://technet.microsoft.com/library/aa587699\(v=ax.60\)).
 
 6.  On the **General** tab, in the **Amounts in cash** field, modify the total cash amount for the transaction, if required.
 

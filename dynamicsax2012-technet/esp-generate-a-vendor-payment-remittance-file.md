@@ -2,8 +2,9 @@
 title: (ESP) Generate a vendor payment remittance file
 TOCTitle: (ESP) Generate a vendor payment remittance file
 ms:assetid: 94e7bb9e-774a-4768-a518-a2ac908bee79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232207(v=AX.60)
 ms:contentKeyID: 36058606
+author: Khairunj
 ms.date: 05/28/2014
 mtps_version: v=AX.60
 f1_keywords:

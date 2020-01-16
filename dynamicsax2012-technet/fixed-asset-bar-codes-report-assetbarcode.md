@@ -2,8 +2,9 @@
 title: Fixed asset bar codes report (AssetBarcode)
 TOCTitle: Fixed asset bar codes report (AssetBarcode)
 ms:assetid: e92093c5-74be-43ee-a35f-b0c93b55eef2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa592198(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa592198(v=AX.60)
 ms:contentKeyID: 37820237
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

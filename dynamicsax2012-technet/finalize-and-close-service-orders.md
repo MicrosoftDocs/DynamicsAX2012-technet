@@ -2,8 +2,9 @@
 title: Finalize and close service orders
 TOCTitle: Finalize and close service orders
 ms:assetid: ccfac8f6-5687-42dc-817d-66df1cdfdf2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213672(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213672(v=AX.60)
 ms:contentKeyID: 36059458
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

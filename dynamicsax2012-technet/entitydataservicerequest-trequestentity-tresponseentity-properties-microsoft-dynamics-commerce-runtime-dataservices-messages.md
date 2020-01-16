@@ -1,9 +1,10 @@
-﻿---
+---
 title: EntityDataServiceRequest(TRequestEntity, TResponseEntity) Properties (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: EntityDataServiceRequest(TRequestEntity, TResponseEntity) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceRequest`2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn998786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn998786(v=AX.60)
 ms:contentKeyID: 65317470
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

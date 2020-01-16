@@ -2,8 +2,9 @@
 title: Fixed asset replacements report (AssetReplacementReport)
 TOCTitle: Fixed asset replacements report (AssetReplacementReport)
 ms:assetid: c2070c5e-5f4e-4894-b938-df6df57f60c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556871(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556871(v=AX.60)
 ms:contentKeyID: 39509605
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

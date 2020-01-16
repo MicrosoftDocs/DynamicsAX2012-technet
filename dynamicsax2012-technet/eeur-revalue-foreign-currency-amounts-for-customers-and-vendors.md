@@ -2,8 +2,9 @@
 title: (EEUR) Revalue foreign currency amounts for customers and vendors
 TOCTitle: (EEUR) Revalue foreign currency amounts for customers and vendors
 ms:assetid: fdf53fd8-2514-42a8-b897-f22b458f8c86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911243(v=AX.60)
 ms:contentKeyID: 52075310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,9 +20,9 @@ When you reverse the exchange rate adjustments for a customer or a vendor, the t
 
 Before adjusting exchange rates, perform the following tasks:
 
-  - Set up the local currency and exchange rates. For more information, see [Currencies (form)](https://technet.microsoft.com/en-us/library/aa582902\(v=ax.60\)) and [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - Set up the local currency and exchange rates. For more information, see [Currencies (form)](https://technet.microsoft.com/library/aa582902\(v=ax.60\)) and [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
-  - Create a customer or vendor. For more information, see [Create a customer record](create-a-customer-record.md), [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)), [Create a vendor account](create-a-vendor-account.md), and [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+  - Create a customer or vendor. For more information, see [Create a customer record](create-a-customer-record.md), [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)), [Create a vendor account](create-a-vendor-account.md), and [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 ## Create a journal transaction for a customer or a vendor
 
@@ -43,7 +44,7 @@ Before adjusting exchange rates, perform the following tasks:
 
 9.  In the **Currency** field, enter the currency code.
 
-10. Click **Functions** \> **Settlement** to settle the payment and the invoice. For more information, see [Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\)) and [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+10. Click **Functions** \> **Settlement** to settle the payment and the invoice. For more information, see [Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\)) and [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 11. Click **Post** \> **Post** to post the transaction.
 
@@ -75,13 +76,13 @@ You can view the exchange rate adjustments with corrections for a customer in th
 
 ## See also
 
-[Customer foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa586009\(v=ax.60\))
+[Customer foreign currency revaluation (form)](https://technet.microsoft.com/library/aa586009\(v=ax.60\))
 
-[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa500833\(v=ax.60\))
+[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/library/aa500833\(v=ax.60\))
 
-[(EEUR) Customer transactions (modified form)](https://technet.microsoft.com/en-us/library/jj730993\(v=ax.60\))
+[(EEUR) Customer transactions (modified form)](https://technet.microsoft.com/library/jj730993\(v=ax.60\))
 
-[(EEUR) Vendor transactions (modified form)](https://technet.microsoft.com/en-us/library/jj730985\(v=ax.60\))
+[(EEUR) Vendor transactions (modified form)](https://technet.microsoft.com/library/jj730985\(v=ax.60\))
 
   
 

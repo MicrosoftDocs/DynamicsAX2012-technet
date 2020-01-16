@@ -2,8 +2,9 @@
 title: Flexible Authentication in Microsoft Dynamics AX 2012
 TOCTitle: Flexible Authentication in Microsoft Dynamics AX 2012
 ms:assetid: 9f8cb631-7b89-45c6-bb07-81202f8f37b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ860379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ860379(v=AX.60)
 ms:contentKeyID: 50470851
+author: Khairunj
 ms.date: 02/19/2014
 mtps_version: v=AX.60
 ---

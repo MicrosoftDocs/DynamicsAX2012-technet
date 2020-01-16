@@ -1,9 +1,10 @@
-﻿---
+---
 title: EntityDataServiceResponse(T).EntityCollection Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: EntityCollection Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`1.EntityCollection
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967633(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967633(v=AX.60)
 ms:contentKeyID: 65319504
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<T>^ EntityCollection {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[T](entitydataserviceresponse-t-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[T](entitydataserviceresponse-t-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

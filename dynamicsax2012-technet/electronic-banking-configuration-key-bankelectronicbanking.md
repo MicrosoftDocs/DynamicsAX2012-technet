@@ -2,8 +2,9 @@
 title: Electronic banking configuration key (BankElectronicBanking)
 TOCTitle: Electronic banking configuration key (BankElectronicBanking)
 ms:assetid: a6fff221-58b8-4f2b-899e-89973ddafa61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500159(v=AX.60)
 ms:contentKeyID: 37820190
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Payment fee setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598976(v=ax.60)">Vendor payment fee setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598976(v=ax.60)">Vendor payment fee setup (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -59,39 +60,39 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>eGiro</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209065(v=ax.60)">(NOR) eGiro segments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209065(v=ax.60)">(NOR) eGiro segments (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>eGiro parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209001(v=ax.60)">(NOR) eGiro parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209001(v=ax.60)">(NOR) eGiro parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>e-invoice</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209548(v=ax.60)">(NOR) e-invoice (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209548(v=ax.60)">(NOR) e-invoice (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>eInvoice enrollment and answer</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242418(v=ax.60)">(NOR) eInvoice enrollment and answer (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242418(v=ax.60)">(NOR) eInvoice enrollment and answer (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Error codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208978(v=ax.60)">Error codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208978(v=ax.60)">Error codes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Free text interpreter</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227597(v=ax.60)">(NOR) Free text interpreter (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227597(v=ax.60)">(NOR) Free text interpreter (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Integration type</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242893(v=ax.60)">Integration type (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242893(v=ax.60)">Integration type (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Payment fee setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557685(v=ax.60)">Customer payment fee setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557685(v=ax.60)">Customer payment fee setup (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Payment mode change</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209700(v=ax.60)">(NOR) Payment mode change (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209700(v=ax.60)">(NOR) Payment mode change (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -113,19 +114,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Bank remittance</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634727(v=ax.60)">Bank remittance (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634727(v=ax.60)">Bank remittance (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>File transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500911(v=ax.60)">File transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500911(v=ax.60)">File transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Remittance files for customers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596345(v=ax.60)">Remittance files for customers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596345(v=ax.60)">Remittance files for customers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Remittance files for vendors</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585800(v=ax.60)">Remittance files for vendors (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585800(v=ax.60)">Remittance files for vendors (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -163,7 +164,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

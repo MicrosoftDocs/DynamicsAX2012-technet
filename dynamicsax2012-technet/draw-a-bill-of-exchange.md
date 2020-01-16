@@ -2,8 +2,9 @@
 title: Draw a bill of exchange
 TOCTitle: Draw a bill of exchange
 ms:assetid: 7131006e-ae43-4284-9608-4d452605b12f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571313(v=AX.60)
 ms:contentKeyID: 36655932
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can draw a bill of exchange automatically or in a draw bill of exchange jour
 
 You can draw a bill of exchange automatically when you post or update a sales order invoice or a free text invoice.
 
-To automatically draw bills of exchange for a method of payment, select the **Create and post draw journal automatically when posting invoices** check box in the **Methods of payment - customers** form. For more information, see [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+To automatically draw bills of exchange for a method of payment, select the **Create and post draw journal automatically when posting invoices** check box in the **Methods of payment - customers** form. For more information, see [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
 ## Draw a bill of exchange in a journal
 
@@ -53,7 +54,7 @@ To manually draw bills of exchange for a method of payment, clear the **Create a
     
 
     > [!NOTE]
-    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -69,9 +70,9 @@ To manually draw bills of exchange for a method of payment, clear the **Create a
 
 [Set up bills of exchange](set-up-bills-of-exchange.md)
 
-[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
+[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/library/aa553272\(v=ax.60\))
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
 [Place an Accounts receivable transaction on hold](place-an-accounts-receivable-transaction-on-hold.md)
 

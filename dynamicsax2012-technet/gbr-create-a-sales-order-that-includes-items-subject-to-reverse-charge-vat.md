@@ -2,8 +2,9 @@
 title: (GBR) Create a sales order that includes items subject to reverse charge VAT
 TOCTitle: (GBR) Create a sales order that includes items subject to reverse charge VAT
 ms:assetid: 7d8af727-698f-4155-970f-5dab2bae9941
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213142(v=AX.60)
 ms:contentKeyID: 36058309
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

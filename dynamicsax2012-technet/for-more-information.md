@@ -1,9 +1,10 @@
-﻿---
+---
 title: For more information
 TOCTitle: For more information
 ms:assetid: c4d49465-71da-4f67-a40b-c7204e611c9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731923(v=AX.60)
 ms:contentKeyID: 35132853
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

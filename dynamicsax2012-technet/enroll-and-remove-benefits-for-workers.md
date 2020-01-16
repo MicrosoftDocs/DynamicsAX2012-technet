@@ -2,8 +2,9 @@
 title: Enroll and remove benefits for workers
 TOCTitle: Enroll and remove benefits for workers
 ms:assetid: 38c5702d-35a6-4619-a7eb-ab894add5b42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242207(v=AX.60)
 ms:contentKeyID: 36056627
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -108,7 +109,7 @@ You can enroll and remove workers from benefit plans and specify the dates when 
 
 [Set up benefits](set-up-benefits.md)
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
 [Maintain information for dependents and beneficiaries](maintain-information-for-dependents-and-beneficiaries.md)
 

@@ -2,8 +2,9 @@
 title: Free text invoice report (FreeTextInvoice)
 TOCTitle: Free text invoice report (FreeTextInvoice)
 ms:assetid: 048f3909-135a-4d57-bcad-9b60070e921d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208615(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208615(v=AX.60)
 ms:contentKeyID: 36056409
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -195,7 +196,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

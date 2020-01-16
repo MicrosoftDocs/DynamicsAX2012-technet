@@ -2,8 +2,9 @@
 title: Employee security role (HCMEmployee)
 TOCTitle: Employee security role (HCMEmployee)
 ms:assetid: 65f140fb-ed4e-44e9-bba3-31a4a8c1be56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527099(v=AX.60)
 ms:contentKeyID: 37823151
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

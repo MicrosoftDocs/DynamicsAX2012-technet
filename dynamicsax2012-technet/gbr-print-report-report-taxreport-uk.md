@@ -2,8 +2,9 @@
 title: (GBR) Print report report (TaxReport_UK)
 TOCTitle: (GBR) Print report report (TaxReport_UK)
 ms:assetid: 15a3f99e-b9ae-4d50-858b-58a60cd10815
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433480(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433480(v=AX.60)
 ms:contentKeyID: 36941240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

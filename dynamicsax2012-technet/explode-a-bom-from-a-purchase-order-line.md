@@ -2,8 +2,9 @@
 title: Explode a BOM from a purchase order line
 TOCTitle: Explode a BOM from a purchase order line
 ms:assetid: 5cb2dc78-685c-4a6f-ab73-67eaeaf58ea4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549097(v=AX.60)
 ms:contentKeyID: 36057573
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ To explode a BOM from a purchase order line, use the following procedure:
 
 ## See also
 
-[Explode BOM lines in purchase order (form)](https://technet.microsoft.com/en-us/library/aa500727\(v=ax.60\))
+[Explode BOM lines in purchase order (form)](https://technet.microsoft.com/library/aa500727\(v=ax.60\))
 
   
 

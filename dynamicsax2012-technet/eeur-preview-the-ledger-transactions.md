@@ -2,8 +2,9 @@
 title: (EEUR) Preview the ledger transactions
 TOCTitle: (EEUR) Preview the ledger transactions
 ms:assetid: dcafaa2f-af99-40fa-b9e9-7c2f2253ab96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710626(v=AX.60)
 ms:contentKeyID: 49385023
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,9 +54,9 @@ You can preview the ledger transactions before posting the ledger journal.
 
 ## See also
 
-[(LTU) Customer payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj665039\(v=ax.60\))
+[(LTU) Customer payment journal lines (modified form)](https://technet.microsoft.com/library/jj665039\(v=ax.60\))
 
-[(LTU) Vendor payment journal lines (modified form)](https://technet.microsoft.com/en-us/library/jj665107\(v=ax.60\))
+[(LTU) Vendor payment journal lines (modified form)](https://technet.microsoft.com/library/jj665107\(v=ax.60\))
 
   
 

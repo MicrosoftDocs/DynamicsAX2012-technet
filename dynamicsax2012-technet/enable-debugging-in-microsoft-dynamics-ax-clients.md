@@ -2,8 +2,9 @@
 title: Enable debugging in Microsoft Dynamics AX clients
 TOCTitle: Enable debugging in Microsoft Dynamics AX clients
 ms:assetid: bd7f8809-1a8e-4918-8bba-d8692caead90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202098(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202098(v=AX.60)
 ms:contentKeyID: 35949352
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -41,7 +42,7 @@ To debug .NET Business Connector, you must select both debug options. To debug a
 
 ## See also
 
-[Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg860898\(v=ax.60\))
+[Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/library/gg860898\(v=ax.60\))
 
 [Edit code at a customer site](edit-code-at-a-customer-site.md)
 

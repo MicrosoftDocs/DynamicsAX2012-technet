@@ -2,8 +2,9 @@
 title: (FIN) Set up and generate the Finnish sales tax report in a foreign currency
 TOCTitle: (FIN) Set up and generate the Finnish sales tax report in a foreign currency
 ms:assetid: ae40ede6-a338-4a72-93ae-3af1360b5436
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn511004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn511004(v=AX.60)
 ms:contentKeyID: 59953757
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,7 +107,7 @@ To perform this task, follow these steps:
 
 4.  In the **Reporting code** field, enter a reporting code that corresponds with a field number in the sales tax report. You can select field numbers on the **Report setup** FastTab in the **Sales tax codes** form to indicate the sections on the sales tax report where the sales information, purchase information, or import information is printed.
 
-5.  Enter report text and a brief description for the reporting code, if required. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/en-us/library/aa588316\(v=ax.60\)).
+5.  Enter report text and a brief description for the reporting code, if required. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/library/aa588316\(v=ax.60\)).
 
 ## 3\. Set up a foreign currency for a sales tax code
 
@@ -126,7 +127,7 @@ Use the **Sales tax payment** form to calculate sales tax that is due for a give
 
 
 > [!NOTE]
-> <P>Ensure that you have created and posted vendor payment journals using the sales tax information that you set up. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</A>, <A href="https://technet.microsoft.com/en-us/library/aa616218(v=ax.60)">Journal voucher - Invoice journal (form)</A>, and <A href="post-invoices-in-an-invoice-journal.md">Post invoices in an invoice journal</A>.</P>
+> <P>Ensure that you have created and posted vendor payment journals using the sales tax information that you set up. For more information, see <A href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</A>, <A href="https://technet.microsoft.com/library/aa616218(v=ax.60)">Journal voucher - Invoice journal (form)</A>, and <A href="post-invoices-in-an-invoice-journal.md">Post invoices in an invoice journal</A>.</P>
 
 
 
@@ -134,7 +135,7 @@ To perform this task, follow these steps:
 
 1.  Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Sales tax payments**.
 
-2.  Specify the criteria, such as settlement period, transaction date, and sales tax payment version for sales tax calculation, and then click **OK** to run the calculation. For more information, see [Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\)).
+2.  Specify the criteria, such as settlement period, transaction date, and sales tax payment version for sales tax calculation, and then click **OK** to run the calculation. For more information, see [Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\)).
 
 3.  In the **Finnish sales tax report** form, in the **Tax currency** field, select the currency that determines which transactions to include in the report. The transactions that are generated using the tax currency and the transactions that are generated using the tax codes that use the tax currency are included in the report.
 

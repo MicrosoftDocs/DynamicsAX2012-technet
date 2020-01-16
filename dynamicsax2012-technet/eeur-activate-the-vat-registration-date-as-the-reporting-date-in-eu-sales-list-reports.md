@@ -2,8 +2,9 @@
 title: (EEUR) Activate the VAT registration date as the reporting date in EU sales list reports
 TOCTitle: (EEUR) Activate the VAT registration date as the reporting date in EU sales list reports
 ms:assetid: 630fffc2-61c8-4e27-ab91-356005922b82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730989(v=AX.60)
 ms:contentKeyID: 49675231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **General ledger parameters** form to make the value-added tax (VAT) reg
 
 ## See also
 
-[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710686\(v=ax.60\))
+[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj710686\(v=ax.60\))
 
   
 

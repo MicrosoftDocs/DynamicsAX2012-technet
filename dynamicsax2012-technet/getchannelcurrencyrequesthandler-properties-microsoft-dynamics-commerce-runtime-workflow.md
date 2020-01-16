@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelCurrencyRequestHandler Properties (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: GetChannelCurrencyRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetChannelCurrencyRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.getchannelcurrencyrequesthandler_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getchannelcurrencyrequesthandler_properties(v=AX.60)
 ms:contentKeyID: 62214522
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Energy consumption report (EMSEnergyConsumptionDetail)
 TOCTitle: Energy consumption report (EMSEnergyConsumptionDetail)
 ms:assetid: 07218771-e69d-4b7d-9fe8-60e56576c321
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412239(v=AX.60)
 ms:contentKeyID: 36916348
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

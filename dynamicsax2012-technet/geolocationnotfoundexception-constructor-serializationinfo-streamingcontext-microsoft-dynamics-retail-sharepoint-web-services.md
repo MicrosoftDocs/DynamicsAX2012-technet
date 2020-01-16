@@ -1,9 +1,10 @@
-﻿---
+---
 title: GeoLocationNotFoundException Constructor (SerializationInfo, StreamingContext) (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GeoLocationNotFoundException Constructor (SerializationInfo, StreamingContext)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.GeoLocationNotFoundException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.geolocationnotfoundexception.geolocationnotfoundexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.geolocationnotfoundexception.geolocationnotfoundexception(v=AX.60)
 ms:contentKeyID: 62205796
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -52,12 +53,12 @@ GeoLocationNotFoundException(
 #### Parameters
 
   - info  
-    Type: [System.Runtime.Serialization.SerializationInfo](https://technet.microsoft.com/en-us/library/a9b6042e\(v=ax.60\))  
+    Type: [System.Runtime.Serialization.SerializationInfo](https://technet.microsoft.com/library/a9b6042e\(v=ax.60\))  
 
 <!-- end list -->
 
   - context  
-    Type: [System.Runtime.Serialization.StreamingContext](https://technet.microsoft.com/en-us/library/t16abws5\(v=ax.60\))  
+    Type: [System.Runtime.Serialization.StreamingContext](https://technet.microsoft.com/library/t16abws5\(v=ax.60\))  
 
 ## See Also
 

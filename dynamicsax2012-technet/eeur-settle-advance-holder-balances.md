@@ -2,8 +2,9 @@
 title: (EEUR) Settle advance holder balances
 TOCTitle: (EEUR) Settle advance holder balances
 ms:assetid: a1a58b52-26e1-4cb4-b24a-dfc6771a4202
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911002(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911002(v=AX.60)
 ms:contentKeyID: 51554522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,9 +24,9 @@ Use this procedure to settle advance holder balances. When you settle advance ho
 
 You can close balances for an advance holder in the following ways:
 
-  - Close through cash. For more information, see [(RUS) Close via cash (form)](https://technet.microsoft.com/en-us/library/jj711592\(v=ax.60\)).
+  - Close through cash. For more information, see [(RUS) Close via cash (form)](https://technet.microsoft.com/library/jj711592\(v=ax.60\)).
 
-  - Close through a bank. For more information, see [(RUS) Close via bank (form)](https://technet.microsoft.com/en-us/library/jj665454\(v=ax.60\)).
+  - Close through a bank. For more information, see [(RUS) Close via bank (form)](https://technet.microsoft.com/library/jj665454\(v=ax.60\)).
 
 ## Close through cash
 
@@ -75,7 +76,7 @@ The procedure for closing balances through a bank is similar to the procedure fo
 
 [(EEUR) Create and post vendor invoices with advance holder details](eeur-create-and-post-vendor-invoices-with-advance-holder-details.md)
 
-[(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj720358\(v=ax.60\))
+[(EEUR) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj720358\(v=ax.60\))
 
   
 

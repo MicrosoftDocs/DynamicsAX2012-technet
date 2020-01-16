@@ -2,8 +2,9 @@
 title: Fixed assets roadmap
 TOCTitle: Fixed assets roadmap
 ms:assetid: 9bfd6a8e-d97b-43d6-99d2-bad8802be323
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn800885(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn800885(v=AX.60)
 ms:contentKeyID: 62839683
+author: Khairunj
 ms.date: 11/26/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -176,7 +177,7 @@ Back to top
 <td><p>Calculate and post depreciation for all fixed assets in a single operation. Depreciation is calculated for fixed assets that have a status of <strong>Open</strong> for periods in which depreciation has not yet been posted.</p></td>
 <td><p><a href="change-depreciation-conventions-for-multiple-fixed-assets.md">Change depreciation conventions for multiple fixed assets</a></p>
 <p><a href="delete-depreciation-book-transactions.md">Delete depreciation book transactions</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa556126(v=ax.60)">Depreciation proposal (form)</a></p></td>
+<p><a href="https://technet.microsoft.com/library/aa556126(v=ax.60)">Depreciation proposal (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Dispose of assets</p></td>

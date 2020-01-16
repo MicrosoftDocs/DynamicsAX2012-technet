@@ -2,8 +2,9 @@
 title: General ledger
 TOCTitle: General ledger
 ms:assetid: d59388d1-4691-4d55-94b3-bc663f0bbb85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242930(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242930(v=AX.60)
 ms:contentKeyID: 36059528
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,35 +63,35 @@ You can use the tools for forecasting cash flow and currency requirements to est
 <tr class="odd">
 <td><p><a href="journalize-transactions.md">Journalize transactions</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="journal-list-report-ledgerjournal.md">Journal list report (LedgerJournal)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="perform-an-online-consolidation.md">Perform an online consolidation</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="ledger-transaction-list-report-ledgertranslistaccount.md">Ledger transaction list report (LedgerTransListAccount)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="close-the-general-ledger-at-month-end.md">Close the general ledger at month end</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</a></p></td>
 <td><p></p></td>
 <td><p><a href="trial-balance-report-ledgertrialbalance.md">Trial balance report (LedgerTrialBalance)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="close-periods-in-the-general-ledger.md">Close periods in the general ledger</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227362(v=ax.60)">Configure account structures (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227362(v=ax.60)">Configure account structures (form)</a></p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598539(v=ax.60)">Sales tax payment (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598539(v=ax.60)">Sales tax payment (class form)</a></p></td>
 <td><p></p></td>
 <td><p></p></td>
 </tr>

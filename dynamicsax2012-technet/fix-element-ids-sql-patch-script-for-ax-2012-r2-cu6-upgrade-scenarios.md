@@ -2,8 +2,9 @@
 title: Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios)
 TOCTitle: Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios)
 ms:assetid: 7206ce21-ece4-4ca1-9383-e2b07c0637e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313121(v=AX.60)
 ms:contentKeyID: 54940413
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 ---

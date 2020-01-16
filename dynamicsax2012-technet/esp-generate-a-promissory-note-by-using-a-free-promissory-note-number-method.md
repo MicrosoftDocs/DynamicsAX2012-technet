@@ -2,8 +2,9 @@
 title: (ESP) Generate a promissory note by using a free promissory note number method
 TOCTitle: (ESP) Generate a promissory note by using a free promissory note number method
 ms:assetid: d3e6f386-361f-41a5-a32a-df92ed820492
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213691(v=AX.60)
 ms:contentKeyID: 36059516
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **Journals** form to generate a promissory note using a free promissory 
 
 4.  Select a line, and then click the **Promissory note** tab.
 
-5.  In the **Bank account** field, select a bank account that uses the **Free** promissory note number method, and that is set up to use the **Spanish** layout. For more information, see [Promissory note layout (form)](https://technet.microsoft.com/en-us/library/aa583563\(v=ax.60\)).
+5.  In the **Bank account** field, select a bank account that uses the **Free** promissory note number method, and that is set up to use the **Spanish** layout. For more information, see [Promissory note layout (form)](https://technet.microsoft.com/library/aa583563\(v=ax.60\)).
 
 6.  Click **Functions** \> **Generate payments**.
 

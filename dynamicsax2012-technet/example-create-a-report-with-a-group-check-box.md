@@ -2,8 +2,9 @@
 title: 'Example: Create a Report with a Group Check Box'
 TOCTitle: 'Example: Create a Report with a Group Check Box'
 ms:assetid: 3acb567c-4933-4584-a6db-bcd092bb556a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720903(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720903(v=AX.60)
 ms:contentKeyID: 62235870
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ Before the conversion, the helper class did the following:
 
 ## Implementation
 
-To see the full implementation, in the development workspace, click **AOT \> Classes \> BOMPartOfUIBuilder**. The following code illustrates how to create a form group control, and how to use the control in the build method, the [getFromDialog](https://technet.microsoft.com/en-us/library/gg745384\(v=ax.60\)) method, and the [getSearchIntervalFromDialog](https://technet.microsoft.com/en-us/library/gg745385\(v=ax.60\)) method.
+To see the full implementation, in the development workspace, click **AOT \> Classes \> BOMPartOfUIBuilder**. The following code illustrates how to create a form group control, and how to use the control in the build method, the [getFromDialog](https://technet.microsoft.com/library/gg745384\(v=ax.60\)) method, and the [getSearchIntervalFromDialog](https://technet.microsoft.com/library/gg745385\(v=ax.60\)) method.
 
     public void build() 
     { 

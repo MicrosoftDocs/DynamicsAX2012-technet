@@ -2,8 +2,9 @@
 title: (FRA) Configure and print a lump sum recovery text on a customer invoice
 TOCTitle: (FRA) Configure and print a lump sum recovery text on a customer invoice
 ms:assetid: 640087d4-b724-4a79-aeb1-b345c70fc15b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304975(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304975(v=AX.60)
 ms:contentKeyID: 54899957
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -97,13 +98,13 @@ To print the lump sum recovery text on a customer invoice, follow these steps:
 
 3.  On the **Action Pane**, on the **Invoice** tab, click **Invoice**.
 
-4.  In the **Posting invoice** form, specify the required details. For more information, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+4.  In the **Posting invoice** form, specify the required details. For more information, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 5.  In the lower pane, on the **Overview** tab, the **Print lump sum recovery text** check box is selected for each line. A selected check box indicates that the lump sum recovery text is printed on the customer invoices.
 
 6.  Click **OK** to post the sales order. The lump sum recovery text is printed on the customer invoice.
 
-You can also print the lump sum recovery text on a customer invoice that you print from the **Invoice journal** form. For more information, see [Customer invoice journal (form)](https://technet.microsoft.com/en-us/library/aa618201\(v=ax.60\)).
+You can also print the lump sum recovery text on a customer invoice that you print from the **Invoice journal** form. For more information, see [Customer invoice journal (form)](https://technet.microsoft.com/library/aa618201\(v=ax.60\)).
 
 ## Related tasks
 

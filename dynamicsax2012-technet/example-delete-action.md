@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Example: Delete Action'
 TOCTitle: 'Example: Delete Action'
 ms:assetid: 1f3261d9-c237-4f3e-8413-cb6cba60e246
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc584466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc584466(v=AX.60)
 ms:contentKeyID: 35241491
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

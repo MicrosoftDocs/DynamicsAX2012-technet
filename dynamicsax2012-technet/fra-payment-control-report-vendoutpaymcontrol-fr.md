@@ -2,8 +2,9 @@
 title: (FRA) Payment control report (VendOutPaymControl_FR)
 TOCTitle: (FRA) Payment control report (VendOutPaymControl_FR)
 ms:assetid: 45ad9257-1a4c-477e-9c1e-a354870f033d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433491(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433491(v=AX.60)
 ms:contentKeyID: 36941252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (FRA) Open promissory notes report (VendPromissoryNoteOpenTrans_FR)
 TOCTitle: (FRA) Open promissory notes report (VendPromissoryNoteOpenTrans_FR)
 ms:assetid: eec78883-e085-4736-87a8-ec360c06744f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220772(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220772(v=AX.60)
 ms:contentKeyID: 36956719
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

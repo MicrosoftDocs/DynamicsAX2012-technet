@@ -2,8 +2,9 @@
 title: Fixed asset book compare report (AssetBookCompare)
 TOCTitle: Fixed asset book compare report (AssetBookCompare)
 ms:assetid: 907f61fc-b39f-4a2a-8334-5b2894ad619e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa616301(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa616301(v=AX.60)
 ms:contentKeyID: 37820221
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

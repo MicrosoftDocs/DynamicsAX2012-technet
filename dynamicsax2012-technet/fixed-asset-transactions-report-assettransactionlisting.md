@@ -2,8 +2,9 @@
 title: Fixed asset transactions report (AssetTransactionListing)
 TOCTitle: Fixed asset transactions report (AssetTransactionListing)
 ms:assetid: 420cd059-af6c-4738-b62f-1dd62fcce6e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa575716(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa575716(v=AX.60)
 ms:contentKeyID: 36931897
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

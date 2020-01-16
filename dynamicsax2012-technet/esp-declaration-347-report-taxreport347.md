@@ -2,8 +2,9 @@
 title: (ESP) Declaration 347 report (TaxReport347)
 TOCTitle: (ESP) Declaration 347 report (TaxReport347)
 ms:assetid: 4e3851c5-6912-48cd-83f7-bc56e4848541
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335146(v=AX.60)
 ms:contentKeyID: 36687357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

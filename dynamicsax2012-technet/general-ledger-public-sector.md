@@ -2,8 +2,9 @@
 title: General ledger (Public sector)
 TOCTitle: General ledger (Public sector)
 ms:assetid: 3e1871aa-a49e-4cbb-beb3-97cef0d7b9c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208525(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208525(v=AX.60)
 ms:contentKeyID: 36056274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

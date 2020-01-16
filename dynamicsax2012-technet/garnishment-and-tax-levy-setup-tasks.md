@@ -2,8 +2,9 @@
 title: Garnishment and tax levy setup tasks
 TOCTitle: Garnishment and tax levy setup tasks
 ms:assetid: 19e1f07f-79fa-469e-83b7-179479282a55
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682089(v=AX.60)
 ms:contentKeyID: 49655576
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ When you set up the system to process garnishments and tax levies, you must comp
 
   - **Set up disposable income definitions.** When the court imposes an order to garnish a worker’s wages, the actual amount of the garnishment is limited to a percentage of the worker’s disposable income. The federal disposable income definition is built into the payroll calculation engine. However, some states require additional reductions to disposable income. You can use disposable income definitions to identify those reductions and help make sure that the correct earnings and deductions are included when the worker’s disposable income is calculated.
 
-  - **Set up benefit elements for garnishments, tax levies, and administrative fees.** Because garnishments and tax levies are processed as benefits, each garnishment or tax levy consists of a benefit type, plan, and option. These elements combine to create a single instance of a garnishment or tax levy. For more information, see [Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\)).
+  - **Set up benefit elements for garnishments, tax levies, and administrative fees.** Because garnishments and tax levies are processed as benefits, each garnishment or tax levy consists of a benefit type, plan, and option. These elements combine to create a single instance of a garnishment or tax levy. For more information, see [Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\)).
     
     Administrative fees aren’t permitted in every state. Where they are permitted, they are never mandatory. It is up to your organization to decide whether to charge them.
 
@@ -445,11 +446,11 @@ Back to top
 
 ## Find form help
 
-[Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\))
+[Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\))
 
-[Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\))
+[Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\))
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
 ## Find related tasks
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetChannelProductAttributeRequest.AttributeId Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: AttributeId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelProductAttributeRequest.AttributeId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getchannelproductattributerequest.attributeid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelproductattributerequest.attributeid(v=AX.60)
 ms:contentKeyID: 49828492
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property long long AttributeId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The attribute identifier.  
 
 ## See Also

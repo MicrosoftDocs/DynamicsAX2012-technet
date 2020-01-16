@@ -1,9 +1,10 @@
-﻿---
+---
 title: DownloadDataSetResponse.DataSet Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: DataSet Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.DownloadDataSetResponse.DataSet
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.downloaddatasetresponse.dataset(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.downloaddatasetresponse.dataset(v=AX.60)
 ms:contentKeyID: 62212181
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ property DataSet^ DataSet {
 #### Property Value
 
 Type: [Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataSet](dataset-class-microsoft-dynamics-commerce-runtime-data-types.md)  
-Returns [DataSet](https://technet.microsoft.com/en-us/library/bwy42y0e\(v=ax.60\)).  
+Returns [DataSet](https://technet.microsoft.com/library/bwy42y0e\(v=ax.60\)).  
 
 ## See Also
 

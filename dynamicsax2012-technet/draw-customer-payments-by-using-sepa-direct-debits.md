@@ -2,8 +2,9 @@
 title: Draw customer payments by using SEPA direct debits
 TOCTitle: Draw customer payments by using SEPA direct debits
 ms:assetid: 16f51872-9f85-41b9-b263-89207c5bd088
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268412(v=AX.60)
 ms:contentKeyID: 54916950
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

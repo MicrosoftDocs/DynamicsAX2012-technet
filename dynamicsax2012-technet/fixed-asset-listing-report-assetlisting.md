@@ -2,8 +2,9 @@
 title: Fixed asset listing report (AssetListing)
 TOCTitle: Fixed asset listing report (AssetListing)
 ms:assetid: 170b70b9-299b-4c38-baf7-086a41490cd5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498976(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498976(v=AX.60)
 ms:contentKeyID: 37820204
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (ESP) Generate Report 349
 TOCTitle: (ESP) Generate Report 349
 ms:assetid: 4d19eacd-0ff1-4389-96f3-cbb37dc6550b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn353635(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn353635(v=AX.60)
 ms:contentKeyID: 55129178
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,19 +36,19 @@ Complete the following tasks before you generate Report 349:
 
   - Set up Intrastat parameters for Report 349. For more information, see [About Intrastat](about-intrastat.md) and [Set up Intrastat from a free text invoice](set-up-intrastat-from-a-free-text-invoice.md).
 
-  - Create commodity codes. For more information, see [Commodity codes (form)](https://technet.microsoft.com/en-us/library/aa617816\(v=ax.60\)).
+  - Create commodity codes. For more information, see [Commodity codes (form)](https://technet.microsoft.com/library/aa617816\(v=ax.60\)).
 
-  - Set up exchange rates. For more information, see [Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\)).
+  - Set up exchange rates. For more information, see [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).
 
-  - Set up sales tax codes and sales tax groups. For more information, see [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md), [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)), [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md), and [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)).
+  - Set up sales tax codes and sales tax groups. For more information, see [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md), [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)), [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md), and [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)).
 
-  - Select the **Transfer purchases** check box in the **EU sales list** area in the **Foreign trade parameters** form. For more information, see [Foreign trade parameters (form)](https://technet.microsoft.com/en-us/library/aa620385\(v=ax.60\)).
+  - Select the **Transfer purchases** check box in the **EU sales list** area in the **Foreign trade parameters** form. For more information, see [Foreign trade parameters (form)](https://technet.microsoft.com/library/aa620385\(v=ax.60\)).
 
 Use this procedure to transfer customer transactions and vendor transactions to the **EU sales list** form before you generate Report 349 as an ASCII file.
 
 1.  Click **Organization administration** \> **Periodic** \> **Foreign trade** \> **EU sales list**.
 
-2.  In the **EU sales list** form, click **Transfer** to open the **Transfer transactions for EU sales list** form to specify the reporting type for transferring the customer invoices, vendor invoices, or project invoices. For more information, see [Generate the EU sales list](generate-the-eu-sales-list.md) and [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/en-us/library/aa499405\(v=ax.60\)).
+2.  In the **EU sales list** form, click **Transfer** to open the **Transfer transactions for EU sales list** form to specify the reporting type for transferring the customer invoices, vendor invoices, or project invoices. For more information, see [Generate the EU sales list](generate-the-eu-sales-list.md) and [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\)).
 
 3.  Click **Transfer** to transfer the transactions.
 

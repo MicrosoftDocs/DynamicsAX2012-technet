@@ -2,8 +2,9 @@
 title: Fixed asset posting and journals
 TOCTitle: Fixed asset posting and journals
 ms:assetid: 18359af9-510a-46d0-b922-d45314dc5b58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569906(v=AX.60)
 ms:contentKeyID: 36056094
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

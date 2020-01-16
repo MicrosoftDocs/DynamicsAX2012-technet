@@ -2,8 +2,9 @@
 title: Enter a one-time depreciation transaction
 TOCTitle: Enter a one-time depreciation transaction
 ms:assetid: 7a1cf27e-b239-46e6-ac17-9f2289451538
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550066(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550066(v=AX.60)
 ms:contentKeyID: 36058245
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,9 +20,9 @@ The following information describes how to enter a one-time depreciation transac
 
 1.  Create a depreciation profile using the **Manual** depreciation method. For more information, see [Create a depreciation profile](create-a-depreciation-profile.md).
 
-2.  For a new value model, in the **Extraordinary depreciation profile** field, select the depreciation profile that you created. For more information, see [Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\)).
+2.  For a new value model, in the **Extraordinary depreciation profile** field, select the depreciation profile that you created. For more information, see [Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\)).
 
-3.  Attach the new value model to the fixed asset. For more information, see [Set up fixed asset groups](set-up-fixed-asset-groups.md) and [Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\)).
+3.  Attach the new value model to the fixed asset. For more information, see [Set up fixed asset groups](set-up-fixed-asset-groups.md) and [Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\)).
 
   
 

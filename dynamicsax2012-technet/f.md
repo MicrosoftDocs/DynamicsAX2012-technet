@@ -2,8 +2,9 @@
 title: F
 TOCTitle: F
 ms:assetid: DynamicsAXGlossary.F
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.f(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.f(v=AX.60)
 ms:contentKeyID: 36058003
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---

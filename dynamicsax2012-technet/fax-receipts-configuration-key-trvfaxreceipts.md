@@ -2,8 +2,9 @@
 title: Fax receipts configuration key (TrvFaxReceipts)
 TOCTitle: Fax receipts configuration key (TrvFaxReceipts)
 ms:assetid: 3e40c449-0e58-4a74-99da-c8e5198b1d90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416671(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416671(v=AX.60)
 ms:contentKeyID: 36931827
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,11 +36,11 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Import faxed receipts for employee</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242896(v=ax.60)">Import faxed receipts for employees or expense reports (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242896(v=ax.60)">Import faxed receipts for employees or expense reports (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Import faxed receipts for expense report</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242896(v=ax.60)">Import faxed receipts for employees or expense reports (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242896(v=ax.60)">Import faxed receipts for employees or expense reports (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Print employee barcode cover page</strong></p></td>
@@ -86,7 +87,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

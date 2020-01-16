@@ -2,8 +2,9 @@
 title: (EEUR) Set up value models
 TOCTitle: (EEUR) Set up value models
 ms:assetid: d99a9909-d296-4bdb-8e86-6422ce16b492
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710776(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710776(v=AX.60)
 ms:contentKeyID: 49385172
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Use the **Value models** form to set up value models for fixed assets.
 
 ## See also
 
-[(EEUR) Value models setup (modified form)](https://technet.microsoft.com/en-us/library/jj710676\(v=ax.60\))
+[(EEUR) Value models setup (modified form)](https://technet.microsoft.com/library/jj710676\(v=ax.60\))
 
 [(EEUR) About rounding off depreciation amounts](eeur-about-rounding-off-depreciation-amounts.md)
 

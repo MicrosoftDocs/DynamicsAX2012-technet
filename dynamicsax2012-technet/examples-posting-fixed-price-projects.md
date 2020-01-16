@@ -2,8 +2,9 @@
 title: 'Examples: Posting fixed-price projects'
 TOCTitle: 'Examples: Posting fixed-price projects'
 ms:assetid: 6b73cfa2-125b-455c-b46b-2480f7e6b419
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242614(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242614(v=AX.60)
 ms:contentKeyID: 36057990
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

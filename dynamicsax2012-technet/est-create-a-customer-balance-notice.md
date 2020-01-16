@@ -2,8 +2,9 @@
 title: (EST) Create a customer balance notice
 TOCTitle: (EST) Create a customer balance notice
 ms:assetid: 6e2d5cdc-4a27-447d-b71a-c18dbfbffef5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710847(v=AX.60)
 ms:contentKeyID: 49385243
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

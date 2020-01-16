@@ -1,9 +1,10 @@
-﻿---
+---
 title: GeoLocationNotFoundException Constructor (String, Exception) (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GeoLocationNotFoundException Constructor (String, Exception)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.GeoLocationNotFoundException.#ctor(System.String,System.Exception)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.geolocationnotfoundexception.geolocationnotfoundexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.geolocationnotfoundexception.geolocationnotfoundexception(v=AX.60)
 ms:contentKeyID: 62204107
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ GeoLocationNotFoundException(
 #### Parameters
 
   - message  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - inner  
-    Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
+    Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
 
 ## See Also
 

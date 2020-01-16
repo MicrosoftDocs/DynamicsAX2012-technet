@@ -1,9 +1,10 @@
-﻿---
+---
 title: ForgotPassword.XPathSelect Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls)
 TOCTitle: XPathSelect Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ForgotPassword.XPathSelect
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.forgotpassword.xpathselect(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.forgotpassword.xpathselect(v=AX.60)
 ms:contentKeyID: 62204182
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,13 +32,13 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.protmethod(en-us,AX.60).gif" title="Protected method" alt="Protected method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/2f902wc3(v=ax.60)">XPathSelect(String)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/2174ac61(v=ax.60)">TemplateControl</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/2f902wc3(v=ax.60)">XPathSelect(String)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/2174ac61(v=ax.60)">TemplateControl</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.protmethod(en-us,AX.60).gif" title="Protected method" alt="Protected method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms153608(v=ax.60)">XPathSelect(String, IXmlNamespaceResolver)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/2174ac61(v=ax.60)">TemplateControl</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms153608(v=ax.60)">XPathSelect(String, IXmlNamespaceResolver)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/2174ac61(v=ax.60)">TemplateControl</a>.)</td>
 </tr>
 </tbody>
 </table>

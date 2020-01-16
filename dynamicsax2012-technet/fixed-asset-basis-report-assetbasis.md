@@ -2,8 +2,9 @@
 title: Fixed asset basis report (AssetBasis)
 TOCTitle: Fixed asset basis report (AssetBasis)
 ms:assetid: 02b63303-5cf4-4078-ba44-652af09bd13b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570229(v=AX.60)
 ms:contentKeyID: 37820201
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Fixed asset mass update report (AssetDepBookMassUpdate)
 TOCTitle: Fixed asset mass update report (AssetDepBookMassUpdate)
 ms:assetid: 13ed60f4-bdd1-4806-a5ec-5dd745687084
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550662(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550662(v=AX.60)
 ms:contentKeyID: 37820203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

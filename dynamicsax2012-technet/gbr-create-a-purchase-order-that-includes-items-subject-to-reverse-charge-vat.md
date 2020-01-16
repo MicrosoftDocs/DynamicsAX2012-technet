@@ -2,8 +2,9 @@
 title: (GBR) Create a purchase order that includes items subject to reverse charge VAT
 TOCTitle: (GBR) Create a purchase order that includes items subject to reverse charge VAT
 ms:assetid: 03fba58d-470a-4867-ac06-7592cd45b0ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230657(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230657(v=AX.60)
 ms:contentKeyID: 36055941
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,9 +68,9 @@ Use the following procedures to create a purchase order that includes items subj
 
 [(GBR) Print - UK report (RCSalesList\_UK)](gbr-print-uk-report-rcsaleslist-uk.md)
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
   
 

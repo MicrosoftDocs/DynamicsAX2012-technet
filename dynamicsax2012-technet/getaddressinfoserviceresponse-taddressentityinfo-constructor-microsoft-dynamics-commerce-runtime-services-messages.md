@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetAddressInfoServiceResponse(TAddressEntityInfo) Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetAddressInfoServiceResponse(TAddressEntityInfo) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetAddressInfoServiceResponse`1.#ctor(System.Collections.Generic.IEnumerable{`0})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn696519(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn696519(v=AX.60)
 ms:contentKeyID: 62207919
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ GetAddressInfoServiceResponse(
 #### Parameters
 
   - results  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[TAddressEntityInfo](getaddressinfoserviceresponse-taddressentityinfo-class-microsoft-dynamics-commerce-runtime-services-messages.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[TAddressEntityInfo](getaddressinfoserviceresponse-taddressentityinfo-class-microsoft-dynamics-commerce-runtime-services-messages.md)\>  
 
 ## See Also
 

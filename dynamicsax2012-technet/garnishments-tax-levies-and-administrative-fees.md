@@ -2,8 +2,9 @@
 title: Garnishments, tax levies, and administrative fees
 TOCTitle: Garnishments, tax levies, and administrative fees
 ms:assetid: 6d54d30b-38cd-48e8-a047-36b1adcbd3af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497787(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497787(v=AX.60)
 ms:contentKeyID: 62200086
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -111,9 +112,9 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 
 [Garnishment and tax levy enrollment tasks](garnishment-and-tax-levy-enrollment-tasks.md)
 
-[Garnishment and tax levy rules (form)](https://technet.microsoft.com/en-us/library/dn497842\(v=ax.60\))
+[Garnishment and tax levy rules (form)](https://technet.microsoft.com/library/dn497842\(v=ax.60\))
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
   
 

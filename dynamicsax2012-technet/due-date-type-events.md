@@ -2,8 +2,9 @@
 title: Due date-type events
 TOCTitle: Due date-type events
 ms:assetid: e80d6489-fcd8-4174-a347-f5a9b1b3080c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573196(v=AX.60)
 ms:contentKeyID: 46687571
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

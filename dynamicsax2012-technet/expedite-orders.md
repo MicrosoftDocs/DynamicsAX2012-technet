@@ -2,8 +2,9 @@
 title: Expedite orders
 TOCTitle: Expedite orders
 ms:assetid: 4a8b566a-8dba-4d29-98d8-f35f2f26beb6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497748(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497748(v=AX.60)
 ms:contentKeyID: 62200064
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -134,7 +135,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Modes of delivery (form)](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\))
+[Modes of delivery (form)](https://technet.microsoft.com/library/aa619881\(v=ax.60\))
 
   
 

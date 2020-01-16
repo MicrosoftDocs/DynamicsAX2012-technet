@@ -1,9 +1,10 @@
-﻿---
+---
 title: Get-AXSecurityRoleInfo
 TOCTitle: Get-AXSecurityRoleInfo
 ms:assetid: 9F8327B0-C2A9-49AC-B98F-530EF1BF3216
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720272(v=AX.60)
 ms:contentKeyID: 49720061
+author: Khairunj
 ms.date: 10/24/2012
 mtps_version: v=AX.60
 ---

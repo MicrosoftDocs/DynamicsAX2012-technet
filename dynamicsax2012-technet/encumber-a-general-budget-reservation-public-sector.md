@@ -2,8 +2,9 @@
 title: Encumber a general budget reservation (Public sector)
 TOCTitle: Encumber a general budget reservation (Public sector)
 ms:assetid: c3a1ba47-f3b1-4335-9445-ff492e2aca52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762315(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn762315(v=AX.60)
 ms:contentKeyID: 65205505
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ To enable encumbrance and pre-encumbrance processing, follow these steps.
     
 
     > [!IMPORTANT]
-    > <P>You should create and test all posting definitions before you select the <STRONG>Use posting definitions</STRONG> check box. When you select that check box, all posting definitions are active immediately. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227669(v=ax.60)">Test Posting Definition Wizard (form)</A>. Posting definitions can be used only for the transaction posting types that are shown in the <STRONG>Transaction posting definitions</STRONG> form. Transaction posting types that are not shown in this form always use posting profiles. For more information, see <A href="about-posting-definitions.md">About posting definitions</A>, <A href="https://technet.microsoft.com/en-us/library/hh227607(v=ax.60)">Posting definitions (form)</A>, and <A href="https://technet.microsoft.com/en-us/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A>.</P>
+    > <P>You should create and test all posting definitions before you select the <STRONG>Use posting definitions</STRONG> check box. When you select that check box, all posting definitions are active immediately. For more information, see <A href="https://technet.microsoft.com/library/hh227669(v=ax.60)">Test Posting Definition Wizard (form)</A>. Posting definitions can be used only for the transaction posting types that are shown in the <STRONG>Transaction posting definitions</STRONG> form. Transaction posting types that are not shown in this form always use posting profiles. For more information, see <A href="about-posting-definitions.md">About posting definitions</A>, <A href="https://technet.microsoft.com/library/hh227607(v=ax.60)">Posting definitions (form)</A>, and <A href="https://technet.microsoft.com/library/hh242550(v=ax.60)">Transaction posting definitions (form)</A>.</P>
 
 
 

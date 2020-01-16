@@ -2,8 +2,9 @@
 title: (EST) Setting up import bank payments
 TOCTitle: (EST) Setting up import bank payments
 ms:assetid: c2799e46-c136-48c2-8755-eb3e38cdf1b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664192(v=AX.60)
 ms:contentKeyID: 49385282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Fixed asset statement report (AssetStatement)
 TOCTitle: Fixed asset statement report (AssetStatement)
 ms:assetid: b45ae05d-fc6b-4fb6-b9e8-fb8346c9cba2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589775(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589775(v=AX.60)
 ms:contentKeyID: 37820228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: '(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)'
 TOCTitle: '(FRA) Key tasks: Titres de recette and bordereaux de titre (Public sector)'
 ms:assetid: 6caa1120-6636-47ed-b376-5b187e184286
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450745(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450745(v=AX.60)
 ms:contentKeyID: 36966683
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -265,11 +266,11 @@ Back to top
 
 ## Find form help
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
-[(FRA) Maintain titres de recette (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh450748\(v=ax.60\))
+[(FRA) Maintain titres de recette (form) (Public sector)](https://technet.microsoft.com/library/hh450748\(v=ax.60\))
 
-[Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\))
+[Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: Enterprise Portal configuration key (EP)
 TOCTitle: Enterprise Portal configuration key (EP)
 ms:assetid: a2b4e7b8-3387-4bfe-b000-c16eaac2bed5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa588648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa588648(v=AX.60)
 ms:contentKeyID: 36997763
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following is a subset of the forms available when the configuration key is e
 <tbody>
 <tr class="odd">
 <td><p><strong>Edit quick links</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208776(v=ax.60)">Edit quick links (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208776(v=ax.60)">Edit quick links (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -61,11 +62,11 @@ The following is a subset of the forms available when the configuration key is e
 <tbody>
 <tr class="odd">
 <td><p><strong>Presentations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615708(v=ax.60)">Presentations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615708(v=ax.60)">Presentations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Product groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572041(v=ax.60)">Product groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572041(v=ax.60)">Product groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +88,7 @@ The following is a subset of the forms available when the configuration key is e
 <tbody>
 <tr class="odd">
 <td><p><strong>Sales basket</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634290(v=ax.60)">Sales basket (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634290(v=ax.60)">Sales basket (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sign up</strong></p></td>
@@ -95,7 +96,7 @@ The following is a subset of the forms available when the configuration key is e
 </tr>
 <tr class="odd">
 <td><p><strong>Customer self-service parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590303(v=ax.60)">Customer self-service parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590303(v=ax.60)">Customer self-service parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -117,19 +118,19 @@ The following is a subset of the forms available when the configuration key is e
 <tbody>
 <tr class="odd">
 <td><p><strong>Time periods</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209615(v=ax.60)">Time periods (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209615(v=ax.60)">Time periods (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Publish images</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/bb147528(v=ax.60)">Publish images (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/bb147528(v=ax.60)">Publish images (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Web sites</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500124(v=ax.60)">Administration of web sites (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500124(v=ax.60)">Administration of web sites (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Deployments</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589387(v=ax.60)">Manage Enterprise Portal deployments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589387(v=ax.60)">Manage Enterprise Portal deployments (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +168,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

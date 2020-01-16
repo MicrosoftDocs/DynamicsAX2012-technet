@@ -2,8 +2,9 @@
 title: (ESP) AEB remittance formats
 TOCTitle: (ESP) AEB remittance formats
 ms:assetid: 579107be-5b1b-4f7a-8958-241d4f45551c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242478(v=AX.60)
 ms:contentKeyID: 36057332
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

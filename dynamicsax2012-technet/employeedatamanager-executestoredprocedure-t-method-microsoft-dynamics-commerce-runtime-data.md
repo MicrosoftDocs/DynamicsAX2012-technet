@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeeDataManager.ExecuteStoredProcedure(T) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedure(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.EmployeeDataManager.ExecuteStoredProcedure``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn718328(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn718328(v=AX.60)
 ms:contentKeyID: 62213198
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

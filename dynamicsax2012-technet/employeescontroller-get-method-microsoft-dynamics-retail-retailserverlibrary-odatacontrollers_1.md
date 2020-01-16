@@ -1,9 +1,10 @@
-﻿---
+---
 title: EmployeesController.Get Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: Get Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.EmployeesController.Get
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.employeescontroller.get(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.employeescontroller.get(v=AX.60)
 ms:contentKeyID: 62202205
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 dev_langs:
@@ -45,8 +46,8 @@ virtual IQueryable<Employee^>^ Get() override
 
 #### Return Value
 
-Type: [System.Linq.IQueryable](https://technet.microsoft.com/en-us/library/bb351562\(v=ax.60\))\<Employee\>  
-The [IQueryable](https://technet.microsoft.com/en-us/library/bb495796\(v=ax.60\)) of Employee.  
+Type: [System.Linq.IQueryable](https://technet.microsoft.com/library/bb351562\(v=ax.60\))\<Employee\>  
+The [IQueryable](https://technet.microsoft.com/library/bb495796\(v=ax.60\)) of Employee.  
 
 ## See Also
 

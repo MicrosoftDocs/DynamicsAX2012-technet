@@ -2,8 +2,9 @@
 title: (EST) Accounts receivable
 TOCTitle: (EST) Accounts receivable
 ms:assetid: 3054d0eb-cc43-420d-af2d-6a4d9a722bdc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710817(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710817(v=AX.60)
 ms:contentKeyID: 49385213
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: 'Example: Set up, calculate, and view a cash flow forecast for a sales account'
 TOCTitle: 'Example: Set up, calculate, and view a cash flow forecast for a sales account'
 ms:assetid: 6805ef6f-2650-47cd-a2d4-9a3516abe8bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242599(v=AX.60)
 ms:contentKeyID: 36057949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

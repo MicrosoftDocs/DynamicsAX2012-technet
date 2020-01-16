@@ -2,8 +2,9 @@
 title: (EEUR) Access log (report)
 TOCTitle: (EEUR) Access log (report)
 ms:assetid: ad81c6b9-c985-4ede-bb02-a7e0fd7239b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ874414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ874414(v=AX.60)
 ms:contentKeyID: 50619730
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

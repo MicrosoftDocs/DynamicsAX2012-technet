@@ -2,8 +2,9 @@
 title: Fiscal year closing checklist
 TOCTitle: Fiscal year closing checklist
 ms:assetid: fd2f412e-d2e5-4fda-b4ee-b1cacaf0bd95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500109(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500109(v=AX.60)
 ms:contentKeyID: 36931889
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use the following information to prepare for a new fiscal year and close the cur
 
 7.  Create the new fiscal year. For more information, see [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md).
 
-8.  In the **Ledger calendar** form, set the appropriate period status to **On hold** for the current fiscal year. For more information, see [Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\)).
+8.  In the **Ledger calendar** form, set the appropriate period status to **On hold** for the current fiscal year. For more information, see [Ledger calendar (form)](https://technet.microsoft.com/library/hh242506\(v=ax.60\)).
 
 9.  Back up your legal entity’s data.
 

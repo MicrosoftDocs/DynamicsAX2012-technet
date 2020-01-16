@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetAffiliationsResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetAffiliationsResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetAffiliationsResponse.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getaffiliationsresponse.getaffiliationsresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getaffiliationsresponse.getaffiliationsresponse(v=AX.60)
 ms:contentKeyID: 62211936
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

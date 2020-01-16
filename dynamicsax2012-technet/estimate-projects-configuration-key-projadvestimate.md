@@ -2,8 +2,9 @@
 title: Estimate projects configuration key (ProjAdvEstimate)
 TOCTitle: Estimate projects configuration key (ProjAdvEstimate)
 ms:assetid: 3ff58e9d-36fa-4e8e-8580-e5e62d309c99
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa575470(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa575470(v=AX.60)
 ms:contentKeyID: 39518955
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,23 +40,23 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Accumulated</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Accumulated</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cost estimate</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587704(v=ax.60)">Cost estimate (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587704(v=ax.60)">Cost estimate (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Cost lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550294(v=ax.60)">Cost lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa550294(v=ax.60)">Cost lines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cost template</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616683(v=ax.60)">Cost template (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616683(v=ax.60)">Cost template (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Create</strong></p></td>
@@ -63,19 +64,19 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Estimate project details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Estimate project details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Estimate project details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Estimate project details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Estimate projects</strong></p></td>
@@ -83,15 +84,15 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Estimate</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Estimate</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583201(v=ax.60)">Transaction (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Estimate</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590971(v=ax.60)">Estimate (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590971(v=ax.60)">Estimate (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +138,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

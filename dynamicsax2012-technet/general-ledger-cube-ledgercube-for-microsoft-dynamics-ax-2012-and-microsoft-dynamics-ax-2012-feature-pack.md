@@ -2,8 +2,9 @@
 title: General ledger cube (LedgerCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: General ledger cube (LedgerCube)
 ms:assetid: 6f4656d7-84fe-49de-9234-e50ef10c7775
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781070(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781070(v=AX.60)
 ms:contentKeyID: 43894469
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

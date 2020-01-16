@@ -2,8 +2,9 @@
 title: (EEUR) General ledger
 TOCTitle: (EEUR) General ledger
 ms:assetid: c401a441-6b70-4c69-b122-7db0314c75d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710765(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710765(v=AX.60)
 ms:contentKeyID: 49385162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

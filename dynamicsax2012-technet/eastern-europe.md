@@ -2,8 +2,9 @@
 title: Eastern Europe
 TOCTitle: Eastern Europe
 ms:assetid: 718dc3e6-f2fd-43fc-b334-c36e5a793d0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710728(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710728(v=AX.60)
 ms:contentKeyID: 49385125
+author: Khairunj
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

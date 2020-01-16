@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetActiveProductPriceRequest.DateWhenActive Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: DateWhenActive Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetActiveProductPriceRequest.DateWhenActive
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getactiveproductpricerequest.datewhenactive(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getactiveproductpricerequest.datewhenactive(v=AX.60)
 ms:contentKeyID: 62208395
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property DateTime DateWhenActive {
 
 #### Property Value
 
-Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
-Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Generate a lead or opportunity record from a campaign or call list target
 TOCTitle: Generate a lead or opportunity record from a campaign or call list target
 ms:assetid: 20d9ebbe-3a89-4b49-b389-f1e8f89b1d5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677330(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677330(v=AX.60)
 ms:contentKeyID: 49384105
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

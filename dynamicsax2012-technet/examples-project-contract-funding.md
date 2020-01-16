@@ -2,8 +2,9 @@
 title: 'Examples: Project contract funding'
 TOCTitle: 'Examples: Project contract funding'
 ms:assetid: 6eb89b24-46e9-4ca4-b951-81cafbb6517b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh771576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh771576(v=AX.60)
 ms:contentKeyID: 43881149
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -231,7 +232,7 @@ The following table examines this scenario in more detail.
 
 ## See also
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
 [Set up funding limits for funding sources in a project contract](set-up-funding-limits-for-funding-sources-in-a-project-contract.md)
 

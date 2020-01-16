@@ -2,8 +2,9 @@
 title: Example of a costing sheet setup
 TOCTitle: Example of a costing sheet setup
 ms:assetid: b960f3c5-4789-41a5-b380-d69c42b92d2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213582(v=AX.60)
 ms:contentKeyID: 36059117
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Estimated versus actual expenses report (TrvEstimatedVsActualExpenses)
 TOCTitle: Estimated versus actual expenses report (TrvEstimatedVsActualExpenses)
 ms:assetid: 22011d2b-8bb8-465d-b9f4-3338ac7a1eb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412242(v=AX.60)
 ms:contentKeyID: 36916351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

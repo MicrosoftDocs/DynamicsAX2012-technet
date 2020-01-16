@@ -2,8 +2,9 @@
 title: Edit code at a customer site
 TOCTitle: Edit code at a customer site
 ms:assetid: 4c8d3398-243b-490a-a80b-d32a31f16da4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569645(v=AX.60)
 ms:contentKeyID: 35949292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

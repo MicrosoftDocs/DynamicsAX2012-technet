@@ -2,8 +2,9 @@
 title: Enterprise Portal on Microsoft SharePoint 2013
 TOCTitle: Enterprise Portal on Microsoft SharePoint 2013
 ms:assetid: 5906047d-4a98-4e86-9f2d-f405e3d69b22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn169057(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn169057(v=AX.60)
 ms:contentKeyID: 53378097
+author: Khairunj
 ms.date: 08/26/2014
 mtps_version: v=AX.60
 ---

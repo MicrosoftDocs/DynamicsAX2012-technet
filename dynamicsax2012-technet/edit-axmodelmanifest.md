@@ -1,9 +1,10 @@
-﻿---
+---
 title: Edit-AXModelManifest
 TOCTitle: Edit-AXModelManifest
 ms:assetid: DBDDFF16-8B0A-4166-B2C3-26AA4D2F500E
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720289(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720289(v=AX.60)
 ms:contentKeyID: 49720080
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---
