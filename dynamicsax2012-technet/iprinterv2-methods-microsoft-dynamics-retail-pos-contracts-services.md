@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPrinterV2 Methods (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IPrinterV2 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrinterV2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iprinterv2_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprinterv2_methods(v=AX.60)
 ms:contentKeyID: 49835783
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: 'Key tasks: Create retail product catalogs'
 TOCTitle: 'Key tasks: Create retail product catalogs'
 ms:assetid: e0af4c3e-0908-4bf9-8193-522a102bb772
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728712(v=AX.60)
 ms:contentKeyID: 49556617
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -214,15 +215,15 @@ Back to top
 
 ## Find form help
 
-[Catalogs (list page) (Retail)](https://technet.microsoft.com/en-us/library/jj728733\(v=ax.60\))
+[Catalogs (list page) (Retail)](https://technet.microsoft.com/library/jj728733\(v=ax.60\))
 
-[Catalogs (form) (Retail)](https://technet.microsoft.com/en-us/library/jj728723\(v=ax.60\))
+[Catalogs (form) (Retail)](https://technet.microsoft.com/library/jj728723\(v=ax.60\))
 
-[Listings (form)](https://technet.microsoft.com/en-us/library/jj728734\(v=ax.60\))
+[Listings (form)](https://technet.microsoft.com/library/jj728734\(v=ax.60\))
 
-[Validate catalog (form)](https://technet.microsoft.com/en-us/library/jj728739\(v=ax.60\))
+[Validate catalog (form)](https://technet.microsoft.com/library/jj728739\(v=ax.60\))
 
-[Publish catalog (form)](https://technet.microsoft.com/en-us/library/jj728730\(v=ax.60\))
+[Publish catalog (form)](https://technet.microsoft.com/library/jj728730\(v=ax.60\))
 
 ## Find related tasks
 

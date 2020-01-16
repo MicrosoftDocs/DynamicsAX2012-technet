@@ -2,8 +2,9 @@
 title: (JPN) Impairment accounting for fixed assets
 TOCTitle: (JPN) Impairment accounting for fixed assets
 ms:assetid: bfc8ef29-1793-4ceb-b8b8-f58519813ae4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn530766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn530766(v=AX.60)
 ms:contentKeyID: 59683046
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

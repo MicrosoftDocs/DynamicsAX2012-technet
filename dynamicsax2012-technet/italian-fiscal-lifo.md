@@ -2,8 +2,9 @@
 title: Italian fiscal LIFO
 TOCTitle: Italian fiscal LIFO
 ms:assetid: a476e70a-7cd4-4114-ba32-0e0625dc59f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550179(v=AX.60)
 ms:contentKeyID: 36058858
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

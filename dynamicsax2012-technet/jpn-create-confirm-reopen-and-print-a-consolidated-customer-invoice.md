@@ -2,8 +2,9 @@
 title: (JPN) Create, confirm, reopen, and print a consolidated customer invoice
 TOCTitle: (JPN) Create, confirm, reopen, and print a consolidated customer invoice
 ms:assetid: bbd359d6-2e03-4852-9811-6ad5f254e649
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664961(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664961(v=AX.60)
 ms:contentKeyID: 49386545
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -64,7 +65,7 @@ When you create a new consolidated invoice, the status is updated to **Unconfirm
 
 ## See also
 
-[(JPN) Consolidated invoice (form)](https://technet.microsoft.com/en-us/library/jj711205\(v=ax.60\))
+[(JPN) Consolidated invoice (form)](https://technet.microsoft.com/library/jj711205\(v=ax.60\))
 
 [(JPN) About consolidating invoices](jpn-about-consolidating-invoices.md)
 

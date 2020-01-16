@@ -1,9 +1,10 @@
-﻿---
+---
 title: InsertSalesTransactionTablesDataRequest.DiscountTable Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: DiscountTable Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.InsertSalesTransactionTablesDataRequest.DiscountTable
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.insertsalestransactiontablesdatarequest.discounttable(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.insertsalestransactiontablesdatarequest.discounttable(v=AX.60)
 ms:contentKeyID: 65318839
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

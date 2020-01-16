@@ -1,9 +1,10 @@
-﻿---
+---
 title: IUtilityV2.CreateSaleLineItem Method (String, IRounding, IPosTransaction) (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: CreateSaleLineItem Method (String, IRounding, IPosTransaction)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV2.CreateSaleLineItem(System.String,Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRounding,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv2.createsalelineitem(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv2.createsalelineitem(v=AX.60)
 ms:contentKeyID: 49853322
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -56,7 +57,7 @@ ISaleLineItem^ CreateSaleLineItem(
 #### Parameters
 
   - storeCurrencyCode  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

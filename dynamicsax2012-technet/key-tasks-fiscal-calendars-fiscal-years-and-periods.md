@@ -2,8 +2,9 @@
 title: 'Key tasks: Fiscal calendars, fiscal years, and periods'
 TOCTitle: 'Key tasks: Fiscal calendars, fiscal years, and periods'
 ms:assetid: 149a5222-97df-404f-be70-c1ade1daf663
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242146(v=AX.60)
 ms:contentKeyID: 36056056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -136,7 +137,7 @@ When you create a closing period, select a period that has a status of **Open** 
 
 
 > [!NOTE]
-> <P>You can view the period status on the <STRONG>Periods</STRONG> tab in the <STRONG>Ledger calendar</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh242506(v=ax.60)">Ledger calendar (form)</A>.</P>
+> <P>You can view the period status on the <STRONG>Periods</STRONG> tab in the <STRONG>Ledger calendar</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh242506(v=ax.60)">Ledger calendar (form)</A>.</P>
 
 
 
@@ -214,9 +215,9 @@ The following restrictions apply when you delete a fiscal calendar:
 
   - The fiscal calendar cannot be the selected fiscal calendar for the ledger in the **Ledger** form.
 
-  - The fiscal calendar cannot be assigned to a budget cycle time span in the **Budget cycle time spans** form. For more information, see [Budget cycle time spans (form)](https://technet.microsoft.com/en-us/library/hh227604\(v=ax.60\)).
+  - The fiscal calendar cannot be assigned to a budget cycle time span in the **Budget cycle time spans** form. For more information, see [Budget cycle time spans (form)](https://technet.microsoft.com/library/hh227604\(v=ax.60\)).
 
-  - The fiscal calendar cannot be assigned to fixed asset depreciation books or value models in the **Depreciation books** or **Value models** forms. For more information, see [Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\)) or [Depreciation books setup (form)](https://technet.microsoft.com/en-us/library/aa597721\(v=ax.60\)).
+  - The fiscal calendar cannot be assigned to fixed asset depreciation books or value models in the **Depreciation books** or **Value models** forms. For more information, see [Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\)) or [Depreciation books setup (form)](https://technet.microsoft.com/library/aa597721\(v=ax.60\)).
 
 <!-- end list -->
 
@@ -246,11 +247,11 @@ Back to top
 
 ## Find form help
 
-[Fiscal calendars (form)](https://technet.microsoft.com/en-us/library/hh209283\(v=ax.60\))
+[Fiscal calendars (form)](https://technet.microsoft.com/library/hh209283\(v=ax.60\))
 
-[Ledger (form)](https://technet.microsoft.com/en-us/library/hh209331\(v=ax.60\))
+[Ledger (form)](https://technet.microsoft.com/library/hh209331\(v=ax.60\))
 
-[Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
+[Ledger calendar (form)](https://technet.microsoft.com/library/hh242506\(v=ax.60\))
 
   
 

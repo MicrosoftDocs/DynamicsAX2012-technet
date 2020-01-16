@@ -2,8 +2,9 @@
 title: (IND) View posted purchase transactions from an invoice journal
 TOCTitle: (IND) View posted purchase transactions from an invoice journal
 ms:assetid: 6c38ef75-0dbd-47e2-aabf-41191296abae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677899(v=AX.60)
 ms:contentKeyID: 49385866
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The amount origin and the tax amounts calculated are displayed in the **Temporar
 
 
 > [!NOTE]
-> <P>For more information see <A href="https://technet.microsoft.com/en-us/library/aa591455(v=ax.60)">Temporary sales tax transactions (form)</A>.</P>
+> <P>For more information see <A href="https://technet.microsoft.com/library/aa591455(v=ax.60)">Temporary sales tax transactions (form)</A>.</P>
 
 
 
@@ -117,11 +118,11 @@ The following voucher entries are created when the journal is posted.
 
 ## See also
 
-[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj664791\(v=ax.60\))
+[(IND) Journal voucher - Invoice journal (modified form)](https://technet.microsoft.com/library/jj664791\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
   
 

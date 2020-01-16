@@ -2,8 +2,9 @@
 title: (JPN) Set up asset retirement obligation for fixed assets
 TOCTitle: (JPN) Set up asset retirement obligation for fixed assets
 ms:assetid: 78081364-da7c-4af7-9cae-cffec0018bc9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479198(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479198(v=AX.60)
 ms:contentKeyID: 59633804
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
 <li><p>Ensure that you have set up basic fixed asset parameters, such as a default value model, reason codes, and number sequences in the <strong>Fixed assets parameters</strong> form. For more information, see <a href="set-up-fixed-assets-parameters.md">Set up Fixed assets parameters</a>.</p></li>
-<li><p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
+<li><p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
 <li><p>Set up a fiscal calendar for depreciation. For more information, see <a href="key-tasks-fiscal-calendars-fiscal-years-and-periods.md">Key tasks: Fiscal calendars, fiscal years, and periods</a>.</p></li>
 <li><p>Ensure that you have created a fixed asset record. For more information, see <a href="create-a-fixed-asset.md">Create a fixed asset</a>.</p></li>
 </ul></td>

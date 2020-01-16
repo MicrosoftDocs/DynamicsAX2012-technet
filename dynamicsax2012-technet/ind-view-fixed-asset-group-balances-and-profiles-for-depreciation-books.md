@@ -2,8 +2,9 @@
 title: (IND) View fixed asset group balances and profiles for depreciation books
 TOCTitle: (IND) View fixed asset group balances and profiles for depreciation books
 ms:assetid: 38c02189-ac9a-4f8a-8840-29cd110feb47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664619(v=AX.60)
 ms:contentKeyID: 49385696
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,11 +32,11 @@ You can view the asset group profile, if you select the **Asset group depreciati
 
 ## See also
 
-[(IND) Transactions (form)](https://technet.microsoft.com/en-us/library/jj664764\(v=ax.60\))
+[(IND) Transactions (form)](https://technet.microsoft.com/library/jj664764\(v=ax.60\))
 
-[(IND) Depreciation books (modified form)](https://technet.microsoft.com/en-us/library/jj677965\(v=ax.60\))
+[(IND) Depreciation books (modified form)](https://technet.microsoft.com/library/jj677965\(v=ax.60\))
 
-[(IND) Profile (form)](https://technet.microsoft.com/en-us/library/jj664848\(v=ax.60\))
+[(IND) Profile (form)](https://technet.microsoft.com/library/jj664848\(v=ax.60\))
 
   
 

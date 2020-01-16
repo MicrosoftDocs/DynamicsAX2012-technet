@@ -2,8 +2,9 @@
 title: Lead qualifying process configuration key (smmSMLeadProcess)
 TOCTitle: Lead qualifying process configuration key (smmSMLeadProcess)
 ms:assetid: 38cade19-eb36-446f-86b7-52bb2be323d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416658(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416658(v=AX.60)
 ms:contentKeyID: 36931824
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Qualify process</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242699(v=ax.60)">Lead qualifying process (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242699(v=ax.60)">Lead qualifying process (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +76,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

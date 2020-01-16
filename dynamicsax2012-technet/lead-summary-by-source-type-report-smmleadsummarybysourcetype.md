@@ -2,8 +2,9 @@
 title: Lead summary by source type report (smmLeadSummaryBySourceType)
 TOCTitle: Lead summary by source type report (smmLeadSummaryBySourceType)
 ms:assetid: 155bec38-8f1e-482d-be03-d0346123578f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412241(v=AX.60)
 ms:contentKeyID: 36916350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

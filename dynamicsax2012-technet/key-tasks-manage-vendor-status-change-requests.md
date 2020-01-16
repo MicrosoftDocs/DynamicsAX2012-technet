@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage vendor status change requests'
 TOCTitle: 'Key tasks: Manage vendor status change requests'
 ms:assetid: fb018b50-da3d-4254-ac4e-b58f80438fff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735276(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735276(v=AX.60)
 ms:contentKeyID: 49693277
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -123,15 +124,15 @@ Status change requests that an employee submits in the Employee services site in
 
 5.  On the **Details** tab, view details about the completed steps in the workflow for this vendor request.
 
-For more information about workflow, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+For more information about workflow, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[New status change request (form)](https://technet.microsoft.com/en-us/library/hh227558\(v=ax.60\))
+[New status change request (form)](https://technet.microsoft.com/library/hh227558\(v=ax.60\))
 
-[Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\))
+[Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\))
 
 ## Find related tasks
 

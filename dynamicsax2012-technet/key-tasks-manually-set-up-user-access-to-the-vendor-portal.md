@@ -2,8 +2,9 @@
 title: 'Key tasks: Manually set up user access to the Vendor portal'
 TOCTitle: 'Key tasks: Manually set up user access to the Vendor portal'
 ms:assetid: 8899ef84-e217-44c5-80e4-ba1480e9992c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209340(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209340(v=AX.60)
 ms:contentKeyID: 36058450
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -155,11 +156,11 @@ Back to top
 
 ## Find form help
 
-[Users (list page)](https://technet.microsoft.com/en-us/library/hh227603\(v=ax.60\))
+[Users (list page)](https://technet.microsoft.com/library/hh227603\(v=ax.60\))
 
-[User relations (form)](https://technet.microsoft.com/en-us/library/aa575077\(v=ax.60\))
+[User relations (form)](https://technet.microsoft.com/library/aa575077\(v=ax.60\))
 
-[Assign users to roles (form)](https://technet.microsoft.com/en-us/library/hh209671\(v=ax.60\))
+[Assign users to roles (form)](https://technet.microsoft.com/library/hh209671\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: (JPN) Identify impaired assets and post journals for impairment
 TOCTitle: (JPN) Identify impaired assets and post journals for impairment
 ms:assetid: 836d62b1-bc88-470a-b56a-70261da6626d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn530767(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn530767(v=AX.60)
 ms:contentKeyID: 59683045
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -198,7 +199,7 @@ To perform this task, follow these steps:
     
     Click **Fixed assets** \> **Journals** \> **Fixed assets**.
 
-2.  Create a journal. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Create a journal. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal line** form or the **Journal voucher** form, and then click **Proposals** \> **Impairment proposal**.
 

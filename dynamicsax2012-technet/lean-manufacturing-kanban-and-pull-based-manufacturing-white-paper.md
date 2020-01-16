@@ -2,8 +2,9 @@
 title: 'Lean Manufacturing: Kanban and Pull-based Manufacturing (White paper)'
 TOCTitle: 'Lean Manufacturing: Kanban and Pull-based Manufacturing'
 ms:assetid: 53c0a159-89aa-4b20-9ace-281129e0ea50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352218(v=AX.60)
 ms:contentKeyID: 36687853
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

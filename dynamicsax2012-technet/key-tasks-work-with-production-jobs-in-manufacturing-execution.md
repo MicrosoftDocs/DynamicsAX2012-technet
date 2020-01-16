@@ -2,8 +2,9 @@
 title: 'Key tasks: Work with production jobs in Manufacturing execution'
 TOCTitle: 'Key tasks: Work with production jobs in Manufacturing execution'
 ms:assetid: c4d53512-bb9e-491e-a0fc-9a619cad5778
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242841(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242841(v=AX.60)
 ms:contentKeyID: 36059297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ In the **Job registration** form, you can perform tasks that are related to one 
 
 
 > [!NOTE]
-> <P>You can configure the <STRONG>Job registration</STRONG> form so that it displays information based on your requirements. The path that you use to open the form can vary, depending on the configuration of the form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa616991(v=ax.60)">Configure registration forms (form)</A>. For the tasks that are described in this topic, the <STRONG>Job registration</STRONG> form is set up so that all users can use the form.</P>
+> <P>You can configure the <STRONG>Job registration</STRONG> form so that it displays information based on your requirements. The path that you use to open the form can vary, depending on the configuration of the form. For more information, see <A href="https://technet.microsoft.com/library/aa616991(v=ax.60)">Configure registration forms (form)</A>. For the tasks that are described in this topic, the <STRONG>Job registration</STRONG> form is set up so that all users can use the form.</P>
 
 
 
@@ -195,7 +196,7 @@ When you work as an assistant, you can register time for the jobs that the pilot
 
 A team is assembled for the duration of the current shift. When all members of the team log off at the end of the shift, they must register as assistants again the next time that they log on. If you want the team to remain assembled for a longer duration, you can select the **Permanent teams** check box in the **Manufacturing execution parameters** form. If you select the check box, all teams will remain assembled.
 
-You can view the members of the team in the Teams form in **Human resources**. For more information, see [Teams (form)](https://technet.microsoft.com/en-us/library/aa585287\(v=ax.60\)).
+You can view the members of the team in the Teams form in **Human resources**. For more information, see [Teams (form)](https://technet.microsoft.com/library/aa585287\(v=ax.60\)).
 
 To change the pilot of a team, the current pilot can click the **Assistant** button and select another worker. The members of the team become assistants to the new pilot.
 
@@ -289,19 +290,19 @@ Back to top
 
 ## Find form help
 
-[Job registration - resource (form)](https://technet.microsoft.com/en-us/library/aa554833\(v=ax.60\))
+[Job registration - resource (form)](https://technet.microsoft.com/library/aa554833\(v=ax.60\))
 
-[Configure registration forms (form)](https://technet.microsoft.com/en-us/library/aa616991\(v=ax.60\))
+[Configure registration forms (form)](https://technet.microsoft.com/library/aa616991\(v=ax.60\))
 
-[Terminals (form)](https://technet.microsoft.com/en-us/library/aa585567\(v=ax.60\))
+[Terminals (form)](https://technet.microsoft.com/library/aa585567\(v=ax.60\))
 
-[Job registration (Job list) (form)](https://technet.microsoft.com/en-us/library/aa634723\(v=ax.60\))
+[Job registration (Job list) (form)](https://technet.microsoft.com/library/aa634723\(v=ax.60\))
 
-[Update feedback (form)](https://technet.microsoft.com/en-us/library/hh227469\(v=ax.60\))
+[Update feedback (form)](https://technet.microsoft.com/library/hh227469\(v=ax.60\))
 
-[Edit job list (form)](https://technet.microsoft.com/en-us/library/hh209583\(v=ax.60\))
+[Edit job list (form)](https://technet.microsoft.com/library/hh209583\(v=ax.60\))
 
-[Select resource and action (form)](https://technet.microsoft.com/en-us/library/hh242202\(v=ax.60\))
+[Select resource and action (form)](https://technet.microsoft.com/library/hh242202\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: Letter of guarantee application form report (BankLGApplication)
 TOCTitle: Letter of guarantee application form report (BankLGApplication)
 ms:assetid: 8d06e36f-d6c9-45db-9199-f62b76e68ddc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352282(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352282(v=AX.60)
 ms:contentKeyID: 36687908
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

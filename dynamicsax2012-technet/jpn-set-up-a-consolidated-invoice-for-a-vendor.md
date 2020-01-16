@@ -2,8 +2,9 @@
 title: (JPN) Set up a consolidated invoice for a vendor
 TOCTitle: (JPN) Set up a consolidated invoice for a vendor
 ms:assetid: 491e16a5-2d73-46b9-b87d-438548bc5c87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711044(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711044(v=AX.60)
 ms:contentKeyID: 49386455
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can consolidate multiple purchase orders into one invoice, based on a consolidation date that is specified in the **Vendors** form. You can also set up holiday due date control, the cutoff day for consolidation, and the number sequence for consolidation invoices. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+You can consolidate multiple purchase orders into one invoice, based on a consolidation date that is specified in the **Vendors** form. You can also set up holiday due date control, the cutoff day for consolidation, and the number sequence for consolidation invoices. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Setup** \> **Accounts payable parameters**.
 
@@ -67,7 +68,7 @@ You can consolidate multiple purchase orders into one invoice, based on a consol
 
 [(JPN) About consolidating invoices](jpn-about-consolidating-invoices.md)
 
-[(JPN) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710993\(v=ax.60\))
+[(JPN) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj710993\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Setting up fiscal calendars, fiscal years, and periods
 TOCTitle: (IND) Setting up fiscal calendars, fiscal years, and periods
 ms:assetid: 4b99859a-0682-4efb-b499-4cdb04dfd78b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664685(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664685(v=AX.60)
 ms:contentKeyID: 49385758
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

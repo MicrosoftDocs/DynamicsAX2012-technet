@@ -2,8 +2,9 @@
 title: Install the help server
 TOCTitle: Install the help server
 ms:assetid: 03749eca-de34-4fa7-8077-9cd2365da6ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751342(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751342(v=AX.60)
 ms:contentKeyID: 35132527
+author: Khairunj
 ms.date: 04/13/2015
 mtps_version: v=AX.60
 ---

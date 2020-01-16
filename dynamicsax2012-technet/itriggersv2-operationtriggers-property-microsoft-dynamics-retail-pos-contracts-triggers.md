@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITriggersV2.OperationTriggers Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: OperationTriggers Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ITriggersV2.OperationTriggers
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.itriggersv2.operationtriggers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.itriggersv2.operationtriggers(v=AX.60)
 ms:contentKeyID: 49833007
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property IEnumerable<IOperationTrigger^>^ OperationTriggers {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[IOperationTrigger](ioperationtrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md)\>  
-Returns [IEnumerable\<T\>](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\)).  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[IOperationTrigger](ioperationtrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md)\>  
+Returns [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)).  
 
 ## See Also
 

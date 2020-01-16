@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPosTransactionV1.StoreExchangeRate Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: StoreExchangeRate Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransactionV1.StoreExchangeRate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipostransactionv1.storeexchangerate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipostransactionv1.storeexchangerate(v=AX.60)
 ms:contentKeyID: 47128241
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property Decimal StoreExchangeRate {
 
 #### Property Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
-The [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\)) value.  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
+The [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\)) value.  
 
 ## See Also
 

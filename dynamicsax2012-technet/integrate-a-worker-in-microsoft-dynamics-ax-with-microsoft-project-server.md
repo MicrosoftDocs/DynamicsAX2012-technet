@@ -2,8 +2,9 @@
 title: Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server
 TOCTitle: Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server
 ms:assetid: fc27d06e-2b16-4813-8fdd-71b94c77b25c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243305(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243305(v=AX.60)
 ms:contentKeyID: 36060087
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

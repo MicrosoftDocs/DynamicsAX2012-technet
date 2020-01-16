@@ -1,9 +1,10 @@
-﻿---
+---
 title: IScaleV1.ReadFromScale Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: ReadFromScale Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IScaleV1.ReadFromScale
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iscalev1.readfromscale(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iscalev1.readfromscale(v=AX.60)
 ms:contentKeyID: 47343931
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

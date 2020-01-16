@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitTransactionDataManager Class (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: KitTransactionDataManager Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.KitTransactionDataManager
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.kittransactiondatamanager(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.kittransactiondatamanager(v=AX.60)
 ms:contentKeyID: 62210936
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ public ref class KitTransactionDataManager sealed : public TransactionLogDataMan
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreAccessor](datastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md)  
     [Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor](databaseaccessor-class-microsoft-dynamics-commerce-runtime-data.md)  
       [Microsoft.Dynamics.Commerce.Runtime.Data.TransactionLogDataManager](transactionlogdatamanager-class-microsoft-dynamics-commerce-runtime-data.md)  

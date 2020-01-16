@@ -2,8 +2,9 @@
 title: 'Key tasks: Create and use a Word template by using the Office Add-ins'
 TOCTitle: 'Key tasks: Create and use a Word template by using the Office Add-ins'
 ms:assetid: 599b8e31-d13c-462f-97a8-450371f5de1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781090(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781090(v=AX.60)
 ms:contentKeyID: 43894499
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -98,7 +99,7 @@ Back to top
 
 ## Find form help
 
-[Export document types (class form)](https://technet.microsoft.com/en-us/library/aa616371\(v=ax.60\))
+[Export document types (class form)](https://technet.microsoft.com/library/aa616371\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: Install Enterprise Portal in a Web farm
 TOCTitle: Install Enterprise Portal in a Web farm
 ms:assetid: 7e3b53f7-ba5e-4492-ac69-70b796e2711d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309729(v=AX.60)
 ms:contentKeyID: 39555374
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

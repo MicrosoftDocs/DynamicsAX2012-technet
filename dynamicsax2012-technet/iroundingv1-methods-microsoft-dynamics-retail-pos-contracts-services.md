@@ -1,9 +1,10 @@
-﻿---
+---
 title: IRoundingV1 Methods (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IRoundingV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRoundingV1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iroundingv1_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iroundingv1_methods(v=AX.60)
 ms:contentKeyID: 47343942
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Inventory control
 TOCTitle: Inventory control
 ms:assetid: 8a235595-6f34-4690-8abd-83d3a6f82ca6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242859(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242859(v=AX.60)
 ms:contentKeyID: 36058463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

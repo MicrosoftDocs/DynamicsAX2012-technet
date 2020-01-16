@@ -2,8 +2,9 @@
 title: Initialize preprocessing
 TOCTitle: Initialize preprocessing
 ms:assetid: 592a6c93-0ce6-4958-890b-c619bb8410d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731799(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731799(v=AX.60)
 ms:contentKeyID: 35132644
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

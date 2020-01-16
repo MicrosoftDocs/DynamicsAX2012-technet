@@ -2,8 +2,9 @@
 title: (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report
 TOCTitle: (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report
 ms:assetid: 8a982476-3c0c-4a11-bc52-83c140459514
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209344(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209344(v=AX.60)
 ms:contentKeyID: 36058467
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -120,11 +121,11 @@ After you reverse the closed conditional sales tax transaction, you can generate
 
 ## See also
 
-[(ITA) Italian sales tax books (form)](https://technet.microsoft.com/en-us/library/aa620738\(v=ax.60\))
+[(ITA) Italian sales tax books (form)](https://technet.microsoft.com/library/aa620738\(v=ax.60\))
 
-[Sales tax authorities (form)](https://technet.microsoft.com/en-us/library/aa552841\(v=ax.60\))
+[Sales tax authorities (form)](https://technet.microsoft.com/library/aa552841\(v=ax.60\))
 
-[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
+[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/library/aa600627\(v=ax.60\))
 
   
 

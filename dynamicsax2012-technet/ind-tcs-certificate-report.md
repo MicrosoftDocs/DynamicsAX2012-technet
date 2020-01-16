@@ -2,8 +2,9 @@
 title: (IND) TCS certificate (report)
 TOCTitle: (IND) TCS certificate (report)
 ms:assetid: aafbd1d7-17d4-4f6b-81de-06e6de8992a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ969580(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ969580(v=AX.60)
 ms:contentKeyID: 51554466
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Letter of credit application report (BankLCImportApplication)
 TOCTitle: Letter of credit application report (BankLCImportApplication)
 ms:assetid: 03bc3d3f-e7d3-4a23-8059-485f7eef1b33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692455(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692455(v=AX.60)
 ms:contentKeyID: 41702350
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

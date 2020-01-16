@@ -2,8 +2,9 @@
 title: 'Key tasks: Prepayments'
 TOCTitle: 'Key tasks: Prepayments'
 ms:assetid: 047ed3e2-c3a7-4e7e-bc9e-9a8ce6ec6f11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242104(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242104(v=AX.60)
 ms:contentKeyID: 36055947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ Click these links to find more information about the concepts that are discussed
 
 2.  Select the **Prepayment** option in the **Select** pane.
 
-3.  Click **Add** to add a posting type, and then select values in the fields. For prepayments, select **Category** in the **Item code** field, and then select values in the **Category relation**, **Account code**, and **Main account** fields. For more information, see [Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\)).
+3.  Click **Add** to add a posting type, and then select values in the fields. For prepayments, select **Category** in the **Item code** field, and then select values in the **Category relation**, **Account code**, and **Main account** fields. For more information, see [Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\)).
 
 Back to top
 
@@ -76,7 +77,7 @@ Back to top
 
 5.  On the **Action Pane**, click the **Purchase** tab, and then click **Prepayment**.
 
-6.  Enter information for the prepayment, including a description, the value of the prepayment, whether the prepayment is a fixed amount or a percentage, and a prepayment category ID. For more information, see [Prepayment (form)](https://technet.microsoft.com/en-us/library/hh227657\(v=ax.60\)).
+6.  Enter information for the prepayment, including a description, the value of the prepayment, whether the prepayment is a fixed amount or a percentage, and a prepayment category ID. For more information, see [Prepayment (form)](https://technet.microsoft.com/library/hh227657\(v=ax.60\)).
 
 7.  Click **Save**.
 
@@ -108,7 +109,7 @@ Follow these steps to post and a settle a single payment against a prepayment.
 
 3.  Enter information for the payment journal and then click **Lines**.
 
-4.  In the **Journal voucher** form, select the account, offset account, and other journal voucher details. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+4.  In the **Journal voucher** form, select the account, offset account, and other journal voucher details. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 5.  Click **Functions**, and then click **Settlement**. The **Settle open transactions** form opens.
 
@@ -170,11 +171,11 @@ Back to top
 
 ## Find form help
 
-[Apply prepayments (form)](https://technet.microsoft.com/en-us/library/hh242745\(v=ax.60\))
+[Apply prepayments (form)](https://technet.microsoft.com/library/hh242745\(v=ax.60\))
 
-[Prepayment (form)](https://technet.microsoft.com/en-us/library/hh227657\(v=ax.60\))
+[Prepayment (form)](https://technet.microsoft.com/library/hh227657\(v=ax.60\))
 
-[Reverse prepayment application (form)](https://technet.microsoft.com/en-us/library/hh209022\(v=ax.60\))
+[Reverse prepayment application (form)](https://technet.microsoft.com/library/hh209022\(v=ax.60\))
 
   
 

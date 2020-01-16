@@ -2,8 +2,9 @@
 title: (IND) View TDS payments and transactions posted for a TDS settlement period
 TOCTitle: (IND) View TDS payments and transactions posted for a TDS settlement period
 ms:assetid: c3a69acb-37ab-42db-ac94-aad98ba91478
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664857(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664857(v=AX.60)
 ms:contentKeyID: 49386186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 [(IND) Set up TDS parameters in Accounts payable and Accounts receivable](ind-set-up-tds-parameters-in-accounts-payable-and-accounts-receivable.md)
 
-[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/en-us/library/jj664719\(v=ax.60\))
+[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/library/jj664719\(v=ax.60\))
 
-[(IND) Withholding tax payment (form)](https://technet.microsoft.com/en-us/library/jj677836\(v=ax.60\))
+[(IND) Withholding tax payment (form)](https://technet.microsoft.com/library/jj677836\(v=ax.60\))
 
   
 

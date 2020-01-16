@@ -2,8 +2,9 @@
 title: (IND) Update the import order line quantity after updating the invoice registration
 TOCTitle: (IND) Update the import order line quantity after updating the invoice registration
 ms:assetid: dcd78907-9c94-4c60-b51d-6367ea1b8c0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710884(v=AX.60)
 ms:contentKeyID: 49386297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ Use the following procedure to update the quantity of an item on the purchase or
 
 ## See also
 
-[(IND) Bill of entry journal (form)](https://technet.microsoft.com/en-us/library/jj677988\(v=ax.60\))
+[(IND) Bill of entry journal (form)](https://technet.microsoft.com/library/jj677988\(v=ax.60\))
 
 [(IND) Set up a bill of entry number for import orders](ind-set-up-a-bill-of-entry-number-for-import-orders.md)
 

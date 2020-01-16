@@ -2,8 +2,9 @@
 title: (IND) Setting up Tax Collected at Source (TCS)
 TOCTitle: (IND) Setting up Tax Collected at Source (TCS)
 ms:assetid: ced946f6-5e69-416b-8e55-66240621ffae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664894(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664894(v=AX.60)
 ms:contentKeyID: 49386223
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

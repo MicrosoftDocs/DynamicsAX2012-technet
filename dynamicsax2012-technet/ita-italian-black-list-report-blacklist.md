@@ -2,8 +2,9 @@
 title: (ITA) Italian black list report (BlackList)
 TOCTitle: (ITA) Italian black list report (BlackList)
 ms:assetid: 0e12b6a8-5df1-4b89-951b-5890e5e2bb22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433479(v=AX.60)
 ms:contentKeyID: 36941239
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

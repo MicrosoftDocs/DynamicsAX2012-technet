@@ -1,9 +1,10 @@
-﻿---
+---
 title: IOfflineProvisionDataManager.GetLatestOfflineDatabaseChunks Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetLatestOfflineDatabaseChunks Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IOfflineProvisionDataManager.GetLatestOfflineDatabaseChunks(Microsoft.Dynamics.Commerce.Runtime.DataModel.OfflineDatabaseType,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.iofflineprovisiondatamanager.getlatestofflinedatabasechunks(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.iofflineprovisiondatamanager.getlatestofflinedatabasechunks(v=AX.60)
 ms:contentKeyID: 65321640
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,11 +62,11 @@ IEnumerable<OfflineDatabaseChunk^>^ GetLatestOfflineDatabaseChunks(
 <!-- end list -->
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[OfflineDatabaseChunk](offlinedatabasechunk-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[OfflineDatabaseChunk](offlinedatabasechunk-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 [OfflineDatabaseChunk](offlinedatabasechunk-class-microsoft-dynamics-commerce-runtime-datamodel.md) collection.  
 
 ## See Also

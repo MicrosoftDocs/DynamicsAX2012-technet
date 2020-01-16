@@ -2,8 +2,9 @@
 title: (IND) Verify and settle duty drawback voucher transactions
 TOCTitle: (IND) Verify and settle duty drawback voucher transactions
 ms:assetid: a8231b44-1000-47d1-8fc4-388ed52acc0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664749(v=AX.60)
 ms:contentKeyID: 49386080
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ For more information about how to generate duty drawback lines and apply for dut
     
     3.  Update the **Total drawback amount realized** field with the total amount that was recorded.
     
-    Transactions that are partially paid, and that therefore have a balance that is more than 0 (zero), remain in the **Open transactions** form for the customer, if the customer is specified in the **Customer account** field in the **EXIM ports** form. For more information about open transactions for customers, see [Closed customer transaction editing in several currencies (form)](https://technet.microsoft.com/en-us/library/aa554466\(v=ax.60\)).
+    Transactions that are partially paid, and that therefore have a balance that is more than 0 (zero), remain in the **Open transactions** form for the customer, if the customer is specified in the **Customer account** field in the **EXIM ports** form. For more information about open transactions for customers, see [Closed customer transaction editing in several currencies (form)](https://technet.microsoft.com/library/aa554466\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -82,11 +83,11 @@ For more information about how to generate duty drawback lines and apply for dut
 
 ## See also
 
-[(IND) Transactions vouchers (form)](https://technet.microsoft.com/en-us/library/jj678065\(v=ax.60\))
+[(IND) Transactions vouchers (form)](https://technet.microsoft.com/library/jj678065\(v=ax.60\))
 
-[(IND) Duty Drawback transactions (form)](https://technet.microsoft.com/en-us/library/jj664913\(v=ax.60\))
+[(IND) Duty Drawback transactions (form)](https://technet.microsoft.com/library/jj664913\(v=ax.60\))
 
-[(IND) EXIM Duty Drawback schemes (form)](https://technet.microsoft.com/en-us/library/jj664529\(v=ax.60\))
+[(IND) EXIM Duty Drawback schemes (form)](https://technet.microsoft.com/library/jj664529\(v=ax.60\))
 
 [(IND) Apply for duty drawback (DBK) for an export order](ind-apply-for-duty-drawback-dbk-for-an-export-order.md)
 

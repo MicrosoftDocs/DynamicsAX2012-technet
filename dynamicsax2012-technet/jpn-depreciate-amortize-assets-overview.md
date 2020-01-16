@@ -2,8 +2,9 @@
 title: (JPN) Depreciate/amortize assets overview
 TOCTitle: (JPN) Depreciate/amortize assets overview
 ms:assetid: 2c4a224b-b864-411a-864c-c3e5706744ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn505752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn505752(v=AX.60)
 ms:contentKeyID: 59604026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

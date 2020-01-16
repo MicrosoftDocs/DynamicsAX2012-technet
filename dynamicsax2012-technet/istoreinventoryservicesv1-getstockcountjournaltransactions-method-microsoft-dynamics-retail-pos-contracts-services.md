@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStoreInventoryServicesV1.GetStockCountJournalTransactions Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetStockCountJournalTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServicesV1.GetStockCountJournalTransactions(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.getstockcountjournaltransactions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.getstockcountjournaltransactions(v=AX.60)
 ms:contentKeyID: 47344347
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ IList<ISCJournalTransaction^>^ GetStockCountJournalTransactions(
 #### Parameters
 
   - journalId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[ISCJournalTransaction](iscjournaltransaction-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[ISCJournalTransaction](iscjournaltransaction-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
 A list of transaction journals.  
 
 ## See Also

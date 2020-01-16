@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemAvailabilitiesQueryCriteria Constructor (String, IEnumerable(ItemVariantInventoryDimension), Boolean) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ItemAvailabilitiesQueryCriteria Constructor (String, IEnumerable(ItemVariantInventoryDimension), Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailabilitiesQueryCriteria.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension},System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.itemavailabilitiesquerycriteria.itemavailabilitiesquerycriteria(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemavailabilitiesquerycriteria.itemavailabilitiesquerycriteria(v=AX.60)
 ms:contentKeyID: 65319901
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,17 +58,17 @@ ItemAvailabilitiesQueryCriteria(
 #### Parameters
 
   - customerAccountNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - items  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ItemVariantInventoryDimension](itemvariantinventorydimension-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ItemVariantInventoryDimension](itemvariantinventorydimension-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - includeQuantities  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

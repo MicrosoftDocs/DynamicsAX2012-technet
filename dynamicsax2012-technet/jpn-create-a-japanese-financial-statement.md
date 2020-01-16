@@ -2,8 +2,9 @@
 title: (JPN) Create a Japanese financial statement
 TOCTitle: (JPN) Create a Japanese financial statement
 ms:assetid: db18e463-a44a-49da-a617-c77d81fdbd90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664977(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664977(v=AX.60)
 ms:contentKeyID: 49386561
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

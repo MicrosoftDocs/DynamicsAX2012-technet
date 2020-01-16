@@ -2,8 +2,9 @@
 title: (IND) Set up withholding tax components for TDS tax types
 TOCTitle: (IND) Set up withholding tax components for TDS tax types
 ms:assetid: 8890a0fa-6987-4dbc-931c-5bcd4df0fab8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678021(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678021(v=AX.60)
 ms:contentKeyID: 49385982
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,11 +80,11 @@ Use this procedure to copy the TDS components that are set up for a TDS componen
 
 ## See also
 
-[(IND) Withholding tax components (form)](https://technet.microsoft.com/en-us/library/jj664790\(v=ax.60\))
+[(IND) Withholding tax components (form)](https://technet.microsoft.com/library/jj664790\(v=ax.60\))
 
-[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/en-us/library/jj678017\(v=ax.60\))
+[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/library/jj678017\(v=ax.60\))
 
-[(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj677874\(v=ax.60\))
+[(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/library/jj677874\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Verify details about the technology upgrade for an EPCG license
 TOCTitle: (IND) Verify details about the technology upgrade for an EPCG license
 ms:assetid: 673c69ab-9bfd-490b-bf6c-2b2b55757799
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677883(v=AX.60)
 ms:contentKeyID: 49385847
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

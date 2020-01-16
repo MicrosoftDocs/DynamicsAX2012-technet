@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing Class (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: Listing Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Channels.Listing
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing(v=AX.60)
 ms:contentKeyID: 65316176
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ public ref class Listing sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Retail.Channels.Listing  
 
 ## Thread Safety

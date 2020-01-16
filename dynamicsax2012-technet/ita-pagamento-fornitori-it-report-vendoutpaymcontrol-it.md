@@ -2,8 +2,9 @@
 title: (ITA) Pagamento Fornitori (IT) report (VendOutPaymControl_IT)
 TOCTitle: (ITA) Pagamento Fornitori (IT) report (VendOutPaymControl_IT)
 ms:assetid: ab06e8c7-9ed9-4e71-85ab-044ff9261817
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456298(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456298(v=AX.60)
 ms:contentKeyID: 36997724
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

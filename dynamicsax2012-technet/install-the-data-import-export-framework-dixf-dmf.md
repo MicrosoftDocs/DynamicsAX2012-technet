@@ -2,8 +2,9 @@
 title: Install the Data Import/Export Framework (DIXF)
 TOCTitle: Install the Data Import/Export Framework (DIXF)
 ms:assetid: a7d5fe66-43a9-4e66-a33a-37b4182b94b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ225595(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ225595(v=AX.60)
 ms:contentKeyID: 48457369
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

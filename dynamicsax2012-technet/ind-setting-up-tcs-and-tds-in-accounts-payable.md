@@ -2,8 +2,9 @@
 title: (IND) Setting up TCS and TDS in Accounts payable
 TOCTitle: (IND) Setting up TCS and TDS in Accounts payable
 ms:assetid: 98ff30ce-1baa-46a5-b4bb-faa0fd82b764
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664712(v=AX.60)
 ms:contentKeyID: 49386043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

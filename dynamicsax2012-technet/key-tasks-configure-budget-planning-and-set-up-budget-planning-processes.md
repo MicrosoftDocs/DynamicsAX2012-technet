@@ -2,8 +2,9 @@
 title: 'Key tasks: Configure budget planning and set up budget planning processes'
 TOCTitle: 'Key tasks: Configure budget planning and set up budget planning processes'
 ms:assetid: 70ce9e1b-d81c-4568-b631-e4cc929141de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677344(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677344(v=AX.60)
 ms:contentKeyID: 49384118
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ Additional configurable elements include scenario constraints, allocation schedu
 
 
 > [!NOTE]
-> <P>If your organization has workplaces in multiple countries/regions, you can specify translated text for the names and descriptions of scenarios, stages, workflows, and priorities. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh697726(v=ax.60)">Text translation (form)</A>.</P>
+> <P>If your organization has workplaces in multiple countries/regions, you can specify translated text for the names and descriptions of scenarios, stages, workflows, and priorities. For more information, see <A href="https://technet.microsoft.com/library/hh697726(v=ax.60)">Text translation (form)</A>.</P>
 
 
 
@@ -122,7 +123,7 @@ Additional configurable elements include scenario constraints, allocation schedu
 
 2.  In the **Scenarios** area, click **Add** and enter a name and a description for the budget plan scenario. When they are displayed in the **Filter by scenario**, the scenarios are sorted by name. Therefore, we recommend that you use a consistent naming convention so that you can easily sort and identify the scenarios. For example, you might start the scenarios with a year so that all the scenarios for particular year are sorted together.
 
-3.  Select a unit of measure class. **Monetary** is the typical unit of measure class, but you can select **Quantity** if the scenario includes quantitative data. If you select **Quantity**, a default unit of measure of **Each** is displayed. For more information, see [Unit setup (form)](https://technet.microsoft.com/en-us/library/aa596781\(v=ax.60\)).
+3.  Select a unit of measure class. **Monetary** is the typical unit of measure class, but you can select **Quantity** if the scenario includes quantitative data. If you select **Quantity**, a default unit of measure of **Each** is displayed. For more information, see [Unit setup (form)](https://technet.microsoft.com/library/aa596781\(v=ax.60\)).
 
 ### Create budget planning stages
 
@@ -273,9 +274,9 @@ Back to top
 
 ## Find form help
 
-[Budget planning configuration (form)](https://technet.microsoft.com/en-us/library/jj677418\(v=ax.60\))
+[Budget planning configuration (form)](https://technet.microsoft.com/library/jj677418\(v=ax.60\))
 
-[Budget planning process (form)](https://technet.microsoft.com/en-us/library/jj677441\(v=ax.60\))
+[Budget planning process (form)](https://technet.microsoft.com/library/jj677441\(v=ax.60\))
 
 ## Find related tasks
 

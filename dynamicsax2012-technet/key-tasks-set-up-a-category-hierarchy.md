@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up a category hierarchy'
 TOCTitle: 'Key tasks: Set up a category hierarchy'
 ms:assetid: 4612aa8c-96b2-4d9e-8b85-3f1bbf0b62bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242386(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242386(v=AX.60)
 ms:contentKeyID: 36056900
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,13 +81,13 @@ Use this procedure to create a category hierarchy and set up the parent category
 
 9.  On the **Category attributes** FastTab, click **Add** to assign attributes to the category. For example, you assign an attribute of **Manager** to a category. The data type for this attribute is **Text**. For each category, you enter the name of a category manager as the value for this attribute. For information about how to create category attributes, see [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md).
 
-10. On the **Commodity codes** FastTab, add subcategories from imported commodity codes. For information about imported commodity codes, see [Import categories (form)](https://technet.microsoft.com/en-us/library/hh242810\(v=ax.60\)).
+10. On the **Commodity codes** FastTab, add subcategories from imported commodity codes. For information about imported commodity codes, see [Import categories (form)](https://technet.microsoft.com/library/hh242810\(v=ax.60\)).
 
 11. On the **Assign project categories** FastTab, select a project category as the default category that is associated with the selected project category.
     
 
     > [!NOTE]
-    > <P>The <STRONG>Assign project categories</STRONG> FastTab is only available for procurement and sales category hierarchy types. For more information about category hierarchy types, see <A href="https://technet.microsoft.com/en-us/library/hh227389(v=ax.60)">Category hierarchy types (form)</A>.</P>
+    > <P>The <STRONG>Assign project categories</STRONG> FastTab is only available for procurement and sales category hierarchy types. For more information about category hierarchy types, see <A href="https://technet.microsoft.com/library/hh227389(v=ax.60)">Category hierarchy types (form)</A>.</P>
 
 
 
@@ -132,13 +133,13 @@ Use these procedures to manually add categories to a category hierarchy. You mus
 
 10. On the **Category attributes** FastTab, click **Add** to assign attributes to the category. Alternatively, select the **Inherit category attributes from parent category:** check box to assign the same attributes to a category that you assign to the parent of the category.
 
-11. On the **Commodity codes** FastTab, add commodity codes from the list of imported commodity codes. For information about how to import commodity codes, see [Import categories (form)](https://technet.microsoft.com/en-us/library/hh242810\(v=ax.60\)).
+11. On the **Commodity codes** FastTab, add commodity codes from the list of imported commodity codes. For information about how to import commodity codes, see [Import categories (form)](https://technet.microsoft.com/library/hh242810\(v=ax.60\)).
 
 12. On the **Assign project categories** FastTab, select a project category as the default category that is associated with the selected project category.
     
 
     > [!NOTE]
-    > <P>The <STRONG>Assign project categories</STRONG> FastTab is only available for procurement and sales category hierarchy types. For more information about category hierarchy types, see <A href="https://technet.microsoft.com/en-us/library/hh227389(v=ax.60)">Category hierarchy types (form)</A>.</P>
+    > <P>The <STRONG>Assign project categories</STRONG> FastTab is only available for procurement and sales category hierarchy types. For more information about category hierarchy types, see <A href="https://technet.microsoft.com/library/hh227389(v=ax.60)">Category hierarchy types (form)</A>.</P>
 
 
 
@@ -176,11 +177,11 @@ Back to top
 
 ## Find form help
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
-[Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\))
+[Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\))
 
-[Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\))
+[Procurement categories (form)](https://technet.microsoft.com/library/hh227365\(v=ax.60\))
 
 ## Find related tasks
 

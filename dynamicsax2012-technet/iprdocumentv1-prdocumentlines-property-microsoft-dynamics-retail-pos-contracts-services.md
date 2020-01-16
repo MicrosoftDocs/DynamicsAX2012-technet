@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPRDocumentV1.PRDocumentLines Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: PRDocumentLines Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPRDocumentV1.PRDocumentLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iprdocumentv1.prdocumentlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprdocumentv1.prdocumentlines(v=AX.60)
 ms:contentKeyID: 47344459
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,8 +49,8 @@ property IList<IPRDocumentLine^>^ PRDocumentLines {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[IPRDocumentLine](iprdocumentline-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
-The [IList\<T\>](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\)) list.  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[IPRDocumentLine](iprdocumentline-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
+The [IList\<T\>](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\)) list.  
 
 ## See Also
 

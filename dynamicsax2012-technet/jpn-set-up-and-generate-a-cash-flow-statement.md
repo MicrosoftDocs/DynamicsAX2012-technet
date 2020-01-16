@@ -2,8 +2,9 @@
 title: (JPN) Set up and generate a cash flow statement
 TOCTitle: (JPN) Set up and generate a cash flow statement
 ms:assetid: c4aa8754-db8c-4597-b719-1969bbefc314
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664967(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664967(v=AX.60)
 ms:contentKeyID: 49386551
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ After creating a cash flow statement, you can adjust the cash amount, and export
 
 [(JPN) Create row definitions for a Japanese financial statement](jpn-create-row-definitions-for-a-japanese-financial-statement.md)
 
-[(JPN) Financial statement setup (modified form)](https://technet.microsoft.com/en-us/library/jj711076\(v=ax.60\))
+[(JPN) Financial statement setup (modified form)](https://technet.microsoft.com/library/jj711076\(v=ax.60\))
 
   
 

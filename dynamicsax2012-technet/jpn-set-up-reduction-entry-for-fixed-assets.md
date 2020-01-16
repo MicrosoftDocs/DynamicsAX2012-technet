@@ -2,8 +2,9 @@
 title: (JPN) Set up reduction entry for fixed assets
 TOCTitle: (JPN) Set up reduction entry for fixed assets
 ms:assetid: 68f11d07-89ad-45bc-9552-0603f9d122af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn518244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn518244(v=AX.60)
 ms:contentKeyID: 61223078
+author: Khairunj
 ms.date: 12/05/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,9 +79,9 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
 <li><p>Ensure that you have set up basic fixed asset parameters, such as a default value model, reason codes, and number sequences, in the <strong>Fixed assets parameters</strong> form. For more information, see <a href="set-up-fixed-assets-parameters.md">Set up Fixed assets parameters</a>.</p></li>
-<li><p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
-<li><p>Set up currencies and rounding rules to post depreciation amounts. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa582902(v=ax.60)">Currencies (form)</a>.</p></li>
-<li><p>Set up fixed asset locations in the <strong>Fixed assets locations</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa584400(v=ax.60)">Fixed assets locations (form)</a>.</p></li>
+<li><p>Define a fixed asset group in the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
+<li><p>Set up currencies and rounding rules to post depreciation amounts. For more information, see <a href="https://technet.microsoft.com/library/aa582902(v=ax.60)">Currencies (form)</a>.</p></li>
+<li><p>Set up fixed asset locations in the <strong>Fixed assets locations</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa584400(v=ax.60)">Fixed assets locations (form)</a>.</p></li>
 <li><p>Set up a fiscal calendar for depreciation and assign the calendar to a ledger. For more information, see <a href="key-tasks-fiscal-calendars-fiscal-years-and-periods.md">Key tasks: Fiscal calendars, fiscal years, and periods</a> and <a href="select-a-fiscal-calendar-for-a-ledger.md">Select a fiscal calendar for a ledger</a>.</p></li>
 <li><p>Ensure that you have created a fixed asset record. For more information, see <a href="create-a-fixed-asset.md">Create a fixed asset</a>.</p></li>
 <li><p>Ensure that you have set up a value model for the fixed asset in the <strong>Value models</strong> form. For more information, see <a href="set-up-value-models.md">Set up value models</a>.</p></li>
@@ -310,7 +311,7 @@ To set up the disposal parameters for fixed assets with a transaction type of re
     
       - **Reduction entry - direct-off (this year)** – To retrieve the amount that was posted for reduction entry during the present year.
 
-5.  In the **Main account** and **Offset account** fields, select the main account and the offset account from which Microsoft Dynamics AX retrieves the transaction amount. For more information, see [About fixed asset disposal](about-fixed-asset-disposal.md) and [Disposal parameters (form)](https://technet.microsoft.com/en-us/library/aa499154\(v=ax.60\)).
+5.  In the **Main account** and **Offset account** fields, select the main account and the offset account from which Microsoft Dynamics AX retrieves the transaction amount. For more information, see [About fixed asset disposal](about-fixed-asset-disposal.md) and [Disposal parameters (form)](https://technet.microsoft.com/library/aa499154\(v=ax.60\)).
 
 ## Next step
 

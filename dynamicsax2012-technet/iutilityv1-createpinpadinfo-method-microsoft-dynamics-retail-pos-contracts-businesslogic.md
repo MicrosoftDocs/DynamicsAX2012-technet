@@ -1,9 +1,10 @@
-﻿---
+---
 title: IUtilityV1.CreatePinPadInfo Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: CreatePinPadInfo Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV1.CreatePinPadInfo
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv1.createpinpadinfo(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv1.createpinpadinfo(v=AX.60)
 ms:contentKeyID: 47128961
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Inventory management
 TOCTitle: Inventory management
 ms:assetid: fe841168-60a4-49d4-8cf5-4eab8b1cd0ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227590(v=AX.60)
 ms:contentKeyID: 36060122
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,17 +56,17 @@ Process shipments for complete orders, parts of orders or a consolidation of mul
 <tbody>
 <tr class="odd">
 <td><p><a href="test-products-and-quality-management-overview.md">Test products and quality management overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615744(v=ax.60)">Shipments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615744(v=ax.60)">Shipments (form)</a></p></td>
 <td><p><a href="print-inventory-transfer-report-inventjournaltranstransfer.md">Print inventory transfer report (InventJournalTransTransfer)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-shipments.md">Create shipments</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634530(v=ax.60)">Transfer orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634530(v=ax.60)">Transfer orders (form)</a></p></td>
 <td><p><a href="critical-on-hand-inventory-report-inventsumcritical.md">Critical on-hand inventory report (InventSumCritical)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="about-shipping-documents.md">About shipping documents</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227654(v=ax.60)">Arrival overview (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227654(v=ax.60)">Arrival overview (form)</a></p></td>
 <td><p><a href="items-in-quarantine-report-inventquarantineorder.md">Items in quarantine report (InventQuarantineOrder)</a></p></td>
 </tr>
 </tbody>

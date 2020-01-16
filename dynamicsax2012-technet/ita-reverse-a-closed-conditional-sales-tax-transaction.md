@@ -2,8 +2,9 @@
 title: (ITA) Reverse a closed conditional sales tax transaction
 TOCTitle: (ITA) Reverse a closed conditional sales tax transaction
 ms:assetid: 61264c63-3c28-483f-b987-ccd4eeaa1fec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209170(v=AX.60)
 ms:contentKeyID: 36057643
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ Use the **Sales tax payment** form to calculate and record sales tax payments fo
 
 1.  Click **General ledger** \> **Periodic** \> **Sales tax payments** \> **Sales tax payments**.
 
-2.  In the **From date** and **Transaction date** fields, select the start date and the end date of the fiscal month. For more information, see [Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\)).
+2.  In the **From date** and **Transaction date** fields, select the start date and the end date of the fiscal month. For more information, see [Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\)).
 
 3.  In the **Sales tax payment version** field, select **Original**.
 
@@ -93,9 +94,9 @@ You can reverse a closed conditional sales tax transaction if the fiscal month h
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
   
 

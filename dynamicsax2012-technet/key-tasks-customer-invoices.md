@@ -2,8 +2,9 @@
 title: 'Key tasks: Customer invoices'
 TOCTitle: 'Key tasks: Customer invoices'
 ms:assetid: 284a30a9-ca94-4beb-b661-c4f13ab3a278
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208491(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208491(v=AX.60)
 ms:contentKeyID: 36056215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -160,9 +161,9 @@ Back to top
 
 ## Find form help
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
-[Select sales order packing slip (form)](https://technet.microsoft.com/en-us/library/hh580614\(v=ax.60\))
+[Select sales order packing slip (form)](https://technet.microsoft.com/library/hh580614\(v=ax.60\))
 
 ## Find related tasks
 

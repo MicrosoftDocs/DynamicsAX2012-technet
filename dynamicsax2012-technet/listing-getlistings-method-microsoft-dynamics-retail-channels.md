@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing.GetListings Method  (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: GetListings Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Channels.Listing.GetListings(Microsoft.Dynamics.Commerce.Runtime.DataModel.Product)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing.getlistings(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.getlistings(v=AX.60)
 ms:contentKeyID: 65318780
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ static ReadOnlyCollection<Listing^>^ GetListings(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Listing](listing-class-microsoft-dynamics-retail-channels.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Listing](listing-class-microsoft-dynamics-retail-channels.md)\>  
 
 ## See Also
 

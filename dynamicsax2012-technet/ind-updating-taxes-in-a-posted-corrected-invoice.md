@@ -2,8 +2,9 @@
 title: (IND) Updating taxes in a posted corrected invoice
 TOCTitle: (IND) Updating taxes in a posted corrected invoice
 ms:assetid: ca10206a-75af-43ea-bf70-7097ef8449b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664910(v=AX.60)
 ms:contentKeyID: 49386239
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

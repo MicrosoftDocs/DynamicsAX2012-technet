@@ -2,8 +2,9 @@
 title: Install the Retail Channel Configuration Utility (Retail Store Database Utility)
 TOCTitle: Install the Retail Channel Configuration Utility (Retail Store Database Utility)
 ms:assetid: 2ede58e8-3dbe-4aed-8107-aaadf2fae1a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575204(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575204(v=AX.60)
 ms:contentKeyID: 39555338
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

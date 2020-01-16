@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoyaltyCardsResponse.LoyaltyCards Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: LoyaltyCards Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.LoyaltyCardsResponse.LoyaltyCards
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.loyaltycardsresponse.loyaltycards(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.loyaltycardsresponse.loyaltycards(v=AX.60)
 ms:contentKeyID: 62203854
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,8 +53,8 @@ property ReadOnlyCollection<LoyaltyCard^>^ LoyaltyCards {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[LoyaltyCard](loyaltycard-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[LoyaltyCard](loyaltycard-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

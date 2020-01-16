@@ -2,8 +2,9 @@
 title: (IND) View related vouchers to verify voucher and tax accounting entries
 TOCTitle: (IND) View related vouchers to verify voucher and tax accounting entries
 ms:assetid: 503615c4-4040-40a8-8475-2dec3ba1f409
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664697(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664697(v=AX.60)
 ms:contentKeyID: 49385778
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,13 +62,13 @@ You can process payments, receipts, and centralized payments for vendors and cus
 
 [(IND) Setting up service tax](ind-setting-up-service-tax.md)
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
   
 

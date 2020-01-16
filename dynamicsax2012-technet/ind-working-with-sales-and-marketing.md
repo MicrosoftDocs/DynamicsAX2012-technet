@@ -2,8 +2,9 @@
 title: (IND) Working with Sales and marketing
 TOCTitle: (IND) Working with Sales and marketing
 ms:assetid: c052157e-949f-4057-9157-c09c84ab3ff2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664837(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664837(v=AX.60)
 ms:contentKeyID: 49386167
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

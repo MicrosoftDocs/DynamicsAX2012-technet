@@ -2,8 +2,9 @@
 title: (IND) View fixed asset group balances and profiles for value models
 TOCTitle: (IND) View fixed asset group balances and profiles for value models
 ms:assetid: c01c25de-365d-4bf7-91c8-caebf1c09ce7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664839(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664839(v=AX.60)
 ms:contentKeyID: 49386169
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ You can use the **Profile** form to view the projected depreciation. The project
 
 ## See also
 
-[(IND) Fixed asset group/ Value model (modified form)](https://technet.microsoft.com/en-us/library/jj664616\(v=ax.60\))
+[(IND) Fixed asset group/ Value model (modified form)](https://technet.microsoft.com/library/jj664616\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (ITA) Set up a method of payment for payment remittance files
 TOCTitle: (ITA) Set up a method of payment for payment remittance files
 ms:assetid: de7e833c-2ce9-42e3-85e3-4bfa685bfcc4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227412(v=AX.60)
 ms:contentKeyID: 36059688
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Before you can generate a vendor payment remittance file, you must first specify
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  Click **Bank account** to create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  Click **Bank account** to create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 3.  In the **Bank account** and **Name** fields, enter a unique bank account number and the name of the bank.
 
@@ -47,7 +48,7 @@ Before you can generate a vendor payment remittance file, you must first specify
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**.
 
-2.  Select the vendor, and then click **Edit in grid** in the **Maintain** action group to view the vendor details. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+2.  Select the vendor, and then click **Edit in grid** in the **Maintain** action group to view the vendor details. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 3.  Click **Bank accounts** in the **Setup** action group to open the **Vendor bank accounts** form.
 
@@ -61,7 +62,7 @@ Before you can generate a vendor payment remittance file, you must first specify
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Methods of payment**.
 
-2.  Click **New** to create a method of payment. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)).
+2.  Click **New** to create a method of payment. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)).
 
 3.  In the **Method of payment** field, enter the unique identification code for the vendor method of payment.
 

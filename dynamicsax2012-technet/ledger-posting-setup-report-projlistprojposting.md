@@ -2,8 +2,9 @@
 title: Ledger posting setup report (ProjListProjPosting)
 TOCTitle: Ledger posting setup report (ProjListProjPosting)
 ms:assetid: 53e037c9-3839-45e4-9b0b-7a68762b0beb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa582885(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa582885(v=AX.60)
 ms:contentKeyID: 36941255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -15,7 +16,7 @@ f1_keywords:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Use this report to view ledger postings by project category, and the setup criteria for posting to ledger accounts by category relation. You can select whether to include direct, indirect, and unspecified project category relations on the report. For more information about ledger posting setup by category relation, see [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+Use this report to view ledger postings by project category, and the setup criteria for posting to ledger accounts by category relation. You can select whether to include direct, indirect, and unspecified project category relations on the report. For more information about ledger posting setup by category relation, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
 ## How to filter the data on this report
 

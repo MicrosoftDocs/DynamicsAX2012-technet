@@ -2,8 +2,9 @@
 title: (IND) Verify posted tax information for approved AA and DFIA authorizations
 TOCTitle: (IND) Verify posted tax information for approved AA and DFIA authorizations
 ms:assetid: bf82fdcf-070a-4504-b7ae-1dde9db814a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664836(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664836(v=AX.60)
 ms:contentKeyID: 49386166
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ After an application for an export-import (EXIM) license that is eligible for th
     </tbody>
     </table>
     
-    For information about the **Posted tax information** form, see [(IND) Posted tax information (form)](https://technet.microsoft.com/en-us/library/jj664909\(v=ax.60\)).
+    For information about the **Posted tax information** form, see [(IND) Posted tax information (form)](https://technet.microsoft.com/library/jj664909\(v=ax.60\)).
 
 3.  To view the posted voucher entries, click the **Voucher** button at the top of the **Posted tax information** form to open the **Voucher transactions** form. The voucher transactions appear for each tax component that you entered in the **Tax component** field when you approved, extended, or sold the authorization.
     
@@ -67,25 +68,25 @@ After an application for an export-import (EXIM) license that is eligible for th
     
       - The credit is to the account that is specified as the benefit account for the applicable incentive scheme in the **Incentive scheme parameters** form.
     
-    For information about the **Voucher transactions** form, see [Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\)).
+    For information about the **Voucher transactions** form, see [Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\)).
 
 ## See also
 
-[(IND) Authorization approval details (form)](https://technet.microsoft.com/en-us/library/jj677814\(v=ax.60\))
+[(IND) Authorization approval details (form)](https://technet.microsoft.com/library/jj677814\(v=ax.60\))
 
 [(IND) Enter the authorization approval details for DFIA](ind-enter-the-authorization-approval-details-for-dfia.md)
 
-[(IND) Create extension (form)](https://technet.microsoft.com/en-us/library/jj664454\(v=ax.60\))
+[(IND) Create extension (form)](https://technet.microsoft.com/library/jj664454\(v=ax.60\))
 
 [(IND) Extend the authorization period for a DFIA license](ind-extend-the-authorization-period-for-a-dfia-license.md)
 
-[(IND) Authorization sale details (form)](https://technet.microsoft.com/en-us/library/jj677924\(v=ax.60\))
+[(IND) Authorization sale details (form)](https://technet.microsoft.com/library/jj677924\(v=ax.60\))
 
 [(IND) Record the sale of a DFIA license](ind-record-the-sale-of-a-dfia-license.md)
 
-[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/en-us/library/jj664625\(v=ax.60\))
+[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/library/jj664625\(v=ax.60\))
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
   
 

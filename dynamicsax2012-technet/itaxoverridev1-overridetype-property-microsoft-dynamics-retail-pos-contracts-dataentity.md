@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITaxOverrideV1.OverrideType Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: OverrideType Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxOverrideV1.OverrideType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.itaxoverridev1.overridetype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.itaxoverridev1.overridetype(v=AX.60)
 ms:contentKeyID: 49823556
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

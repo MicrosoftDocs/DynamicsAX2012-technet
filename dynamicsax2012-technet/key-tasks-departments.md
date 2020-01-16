@@ -2,8 +2,9 @@
 title: 'Key tasks: Departments'
 TOCTitle: 'Key tasks: Departments'
 ms:assetid: 1ff7cc45-70e5-4c87-a148-e214aaea95ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208468(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208468(v=AX.60)
 ms:contentKeyID: 36056157
+author: Khairunj
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -165,9 +166,9 @@ Back to top
 
 ## Find form help
 
-[Operating units (form)](https://technet.microsoft.com/en-us/library/hh208817\(v=ax.60\))
+[Operating units (form)](https://technet.microsoft.com/library/hh208817\(v=ax.60\))
 
-[Hierarchy designer (form)](https://technet.microsoft.com/en-us/library/hh209547\(v=ax.60\))
+[Hierarchy designer (form)](https://technet.microsoft.com/library/hh209547\(v=ax.60\))
 
 ## Find related tasks
 

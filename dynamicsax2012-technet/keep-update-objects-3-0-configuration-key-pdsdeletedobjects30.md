@@ -2,8 +2,9 @@
 title: Keep update objects 3.0 configuration key (PdsDeletedObjects30)
 TOCTitle: Keep update objects 3.0 configuration key (PdsDeletedObjects30)
 ms:assetid: edd673c3-25b7-4149-b11e-ddb806439198
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496442(v=AX.60)
 ms:contentKeyID: 37072025
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

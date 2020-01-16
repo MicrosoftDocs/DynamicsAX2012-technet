@@ -2,8 +2,9 @@
 title: Introduction to Microsoft Dynamics AX 2012
 TOCTitle: Introduction to Microsoft Dynamics AX 2012
 ms:assetid: a811dc7c-a28d-4f80-a122-4fa1134be0fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242688(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242688(v=AX.60)
 ms:contentKeyID: 36058883
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

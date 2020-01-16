@@ -2,8 +2,9 @@
 title: Integrating Microsoft Dynamics AX with Microsoft Office
 TOCTitle: Integrating Microsoft Dynamics AX with Microsoft Office
 ms:assetid: 6f34c60c-87cc-4f2a-a808-ca4e6b9b2804
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781094(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781094(v=AX.60)
 ms:contentKeyID: 43894504
+author: Khairunj
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 f1_keywords:

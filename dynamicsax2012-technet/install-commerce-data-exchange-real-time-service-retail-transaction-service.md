@@ -2,8 +2,9 @@
 title: 'Install Commerce Data Exchange: Real-time Service (Retail Transaction Service)'
 TOCTitle: 'Install Commerce Data Exchange: Real-time Service (Retail Transaction Service)'
 ms:assetid: 8144c227-ebc2-4c24-8a61-62f52d61e95d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575229(v=AX.60)
 ms:contentKeyID: 39555376
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

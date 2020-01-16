@@ -2,8 +2,9 @@
 title: Indicate that a workflow is the default workflow
 TOCTitle: Indicate that a workflow is the default workflow
 ms:assetid: 6b4c6e81-eebc-4f31-a811-0848612d9438
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202067(v=AX.60)
 ms:contentKeyID: 35949309
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

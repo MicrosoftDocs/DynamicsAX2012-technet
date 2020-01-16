@@ -2,8 +2,9 @@
 title: (IND) Specify a service category for promissory notes
 TOCTitle: (IND) Specify a service category for promissory notes
 ms:assetid: db234d26-9558-445a-84b9-9b8c769fa296
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344875(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn344875(v=AX.60)
 ms:contentKeyID: 56117707
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

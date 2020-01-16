@@ -2,8 +2,9 @@
 title: 'Key tasks: Mass hire projects'
 TOCTitle: 'Key tasks: Mass hire projects'
 ms:assetid: ac834d58-a587-4234-94e2-49a1c6fcb8c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh694715(v=AX.60)
 ms:contentKeyID: 42117770
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -141,11 +142,11 @@ Back to top
 
 ## Find form help
 
-[Mass hire projects (form)](https://technet.microsoft.com/en-us/library/aa591824\(v=ax.60\))
+[Mass hire projects (form)](https://technet.microsoft.com/library/aa591824\(v=ax.60\))
 
-[Create mass hire positions (form)](https://technet.microsoft.com/en-us/library/aa500807\(v=ax.60\))
+[Create mass hire positions (form)](https://technet.microsoft.com/library/aa500807\(v=ax.60\))
 
-[Mass hire position details (form)](https://technet.microsoft.com/en-us/library/aa591980\(v=ax.60\))
+[Mass hire position details (form)](https://technet.microsoft.com/library/aa591980\(v=ax.60\))
 
 ## Find related tasks
 

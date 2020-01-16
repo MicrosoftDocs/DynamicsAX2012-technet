@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up reference information for workers'
 TOCTitle: 'Key tasks: Set up reference information for workers'
 ms:assetid: d0e6bcbf-02be-47e2-be4a-fb08ab17aa0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh454989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh454989(v=AX.60)
 ms:contentKeyID: 36993130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,31 +56,31 @@ Click these links to find more information about the concepts that are discussed
 
 ## Set up personal titles
 
-For each worker, you can select a personal title and a personal suffix for that worker. A personal title might be Mr. or Miss. A personal suffix might be Jr. or II. Use the **Name title and suffix** form to customize the list of personal titles and personal suffixes for workers. For more information, see [Name title or suffix (form)](https://technet.microsoft.com/en-us/library/hh227623\(v=ax.60\)).
+For each worker, you can select a personal title and a personal suffix for that worker. A personal title might be Mr. or Miss. A personal suffix might be Jr. or II. Use the **Name title and suffix** form to customize the list of personal titles and personal suffixes for workers. For more information, see [Name title or suffix (form)](https://technet.microsoft.com/library/hh227623\(v=ax.60\)).
 
 Back to top
 
 ## Set up name sequences
 
-For each worker, you can select the sequence in which their name should be displayed in reports and forms within Microsoft Dynamics AX. Use the **Name sequences** form to customize the list of name sequences. For more information, see [Name sequences (form)](https://technet.microsoft.com/en-us/library/hh209673\(v=ax.60\)).
+For each worker, you can select the sequence in which their name should be displayed in reports and forms within Microsoft Dynamics AX. Use the **Name sequences** form to customize the list of name sequences. For more information, see [Name sequences (form)](https://technet.microsoft.com/library/hh209673\(v=ax.60\)).
 
 Back to top
 
 ## Set up titles
 
-For each worker, you can select a professional title to associate with the worker. For example, a professional title might be Accounting manager. Use the **Titles** form to customize the list of titles. For more information, see [Position and job titles (form)](https://technet.microsoft.com/en-us/library/hh242474\(v=ax.60\)).
+For each worker, you can select a professional title to associate with the worker. For example, a professional title might be Accounting manager. Use the **Titles** form to customize the list of titles. For more information, see [Position and job titles (form)](https://technet.microsoft.com/library/hh242474\(v=ax.60\)).
 
 Back to top
 
 ## Set up ethnic origins
 
-For each worker, you can select the worker’s ethnic origin. Use the **Ethnic origins** form to customize the list of ethnic origins. For more information, see [Ethnic origin (form)](https://technet.microsoft.com/en-us/library/hh227363\(v=ax.60\)).
+For each worker, you can select the worker’s ethnic origin. Use the **Ethnic origins** form to customize the list of ethnic origins. For more information, see [Ethnic origin (form)](https://technet.microsoft.com/library/hh227363\(v=ax.60\)).
 
 Back to top
 
 ## Set up veteran statuses
 
-You can select the veteran status of each worker. Use the **Veteran statuses** form to customize the list of veteran statuses. For more information, see [Veteran status (form)](https://technet.microsoft.com/en-us/library/hh242730\(v=ax.60\)).
+You can select the veteran status of each worker. Use the **Veteran statuses** form to customize the list of veteran statuses. For more information, see [Veteran status (form)](https://technet.microsoft.com/library/hh242730\(v=ax.60\)).
 
 Back to top
 
@@ -97,7 +98,7 @@ Back to top
 
 ## Find form help
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
 ## Find related tasks
 

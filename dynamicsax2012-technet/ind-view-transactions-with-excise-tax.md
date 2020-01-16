@@ -2,8 +2,9 @@
 title: (IND) View transactions with excise tax
 TOCTitle: (IND) View transactions with excise tax
 ms:assetid: ada58c70-f8a7-4de4-b225-adc5a9594447
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664792(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664792(v=AX.60)
 ms:contentKeyID: 49386122
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,13 +68,13 @@ You can use the **Excise inquiry** form to view all transactions for the selecte
 
 ## See also
 
-[(IND) Excise inquiry (form)](https://technet.microsoft.com/en-us/library/jj664652\(v=ax.60\))
+[(IND) Excise inquiry (form)](https://technet.microsoft.com/library/jj664652\(v=ax.60\))
 
-[(IND) Totals - Excise (form)](https://technet.microsoft.com/en-us/library/jj710981\(v=ax.60\))
+[(IND) Totals - Excise (form)](https://technet.microsoft.com/library/jj710981\(v=ax.60\))
 
-[(IND) Excise transactions (form)](https://technet.microsoft.com/en-us/library/jj664581\(v=ax.60\))
+[(IND) Excise transactions (form)](https://technet.microsoft.com/library/jj664581\(v=ax.60\))
 
-[(IND) Tax components - Excise (form)](https://technet.microsoft.com/en-us/library/jj677960\(v=ax.60\))
+[(IND) Tax components - Excise (form)](https://technet.microsoft.com/library/jj677960\(v=ax.60\))
 
   
 

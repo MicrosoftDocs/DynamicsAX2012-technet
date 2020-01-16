@@ -2,8 +2,9 @@
 title: (JPN) Reverse a bill of exchange
 TOCTitle: (JPN) Reverse a bill of exchange
 ms:assetid: 816b3038-5ffe-49cf-bd9b-0436d2ae885a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711079(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711079(v=AX.60)
 ms:contentKeyID: 49386488
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ You can reverse the drawn and redrawn endorsed bills of exchange (BOEs) after ve
 
 ## See also
 
-[(JPN) Endorse bill of exchange (list page)](https://technet.microsoft.com/en-us/library/jj911067\(v=ax.60\))
+[(JPN) Endorse bill of exchange (list page)](https://technet.microsoft.com/library/jj911067\(v=ax.60\))
 
   
 

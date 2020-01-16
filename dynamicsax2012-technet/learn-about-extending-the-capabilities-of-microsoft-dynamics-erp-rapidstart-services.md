@@ -2,8 +2,9 @@
 title: Learn about extending the capabilities of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Learn about extending the capabilities of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 99a69e27-abcb-46b8-a556-6501c5be474c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413243(v=AX.60)
 ms:contentKeyID: 36918934
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

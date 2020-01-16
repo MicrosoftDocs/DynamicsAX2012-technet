@@ -2,8 +2,9 @@
 title: (IND) Setting up the EXIM Export Capital Goods (EPCG) incentive scheme
 TOCTitle: (IND) Setting up the EXIM Export Capital Goods (EPCG) incentive scheme
 ms:assetid: 7de51364-e53c-4614-946a-9fb8186892e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677972(v=AX.60)
 ms:contentKeyID: 49385935
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

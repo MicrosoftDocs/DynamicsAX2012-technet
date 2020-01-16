@@ -2,8 +2,9 @@
 title: Install Search
 TOCTitle: Install Enterprise Search
 ms:assetid: 5d19f528-02c4-439b-a0b2-7b046137d231
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731807(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731807(v=AX.60)
 ms:contentKeyID: 35132653
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

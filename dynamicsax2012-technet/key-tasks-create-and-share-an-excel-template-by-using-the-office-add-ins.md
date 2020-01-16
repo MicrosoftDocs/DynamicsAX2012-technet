@@ -2,8 +2,9 @@
 title: 'Key tasks: Create and share an Excel template by using the Office Add-ins'
 TOCTitle: 'Key tasks: Create and share an Excel template by using the Office Add-ins'
 ms:assetid: ddd117d5-45aa-4b22-b99b-31d54536dea0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575254(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575254(v=AX.60)
 ms:contentKeyID: 39555418
+author: Khairunj
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 f1_keywords:

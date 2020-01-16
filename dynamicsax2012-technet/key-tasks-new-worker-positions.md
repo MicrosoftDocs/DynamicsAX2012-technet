@@ -2,8 +2,9 @@
 title: 'Key tasks: New worker positions'
 TOCTitle: 'Key tasks: New worker positions'
 ms:assetid: cf6ffc13-11af-4402-b6dd-8781408db244
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242914(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242914(v=AX.60)
 ms:contentKeyID: 36059479
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -408,11 +409,11 @@ Back to top
 
 ## Find form help
 
-[Position hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh242466\(v=ax.60\))
+[Position hierarchy types (form)](https://technet.microsoft.com/library/hh242466\(v=ax.60\))
 
-[Position type (form)](https://technet.microsoft.com/en-us/library/hh209577\(v=ax.60\))
+[Position type (form)](https://technet.microsoft.com/library/hh209577\(v=ax.60\))
 
-[Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\))
+[Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble fixed assets
 TOCTitle: (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble fixed assets
 ms:assetid: 06267752-0d30-472d-b4d9-0d76b7c0c5d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716010(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716010(v=AX.60)
 ms:contentKeyID: 62200253
+author: Khairunj
 ms.date: 07/16/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -186,7 +187,7 @@ Use the **Fixed asset components** form to verify the details for an assembled c
     
       - **Reservation** – Opens the **Reservation** form, where you can view the quantity of the items in the on-hand inventory that are available for reservation.
 
-After you have finished creating the assembly component list for a fixed asset, you can create and post an acquisition journal or an acquisition adjustment journal for the fixed asset to deduct the quantity of items that you specify in the **Reserved quantity** field from the on-hand inventory. For more information about how to create and post fixed asset journals, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+After you have finished creating the assembly component list for a fixed asset, you can create and post an acquisition journal or an acquisition adjustment journal for the fixed asset to deduct the quantity of items that you specify in the **Reserved quantity** field from the on-hand inventory. For more information about how to create and post fixed asset journals, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 You can reverse the acquisition transactions for assembled fixed assets by clicking **Reverse transaction** in the **Fixed asset transactions** form. For more information, see [Reverse a transaction](reverse-a-transaction.md). During the reversal, a reversed component line is created for each original line and contains the same financial and inventory dimensions, cost amounts, and negative quantities.
 
@@ -319,7 +320,7 @@ Use the **Fixed asset components** form to verify the details for a disassembled
     
       - **Lot** – Opens the **Lot** form, where you can view issue and receipt transactions for the selected component.
 
-You can create and post a write-down regulation journal or a disposal scrap journal to disassemble the fixed asset and return the reserved components to the inventory. For more information about how to create and post fixed asset journals, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620564\(v=ax.60\)).
+You can create and post a write-down regulation journal or a disposal scrap journal to disassemble the fixed asset and return the reserved components to the inventory. For more information about how to create and post fixed asset journals, see [Journal voucher - Fixed assets (form)](https://technet.microsoft.com/library/aa620564\(v=ax.60\)).
 
 ## Related tasks
 

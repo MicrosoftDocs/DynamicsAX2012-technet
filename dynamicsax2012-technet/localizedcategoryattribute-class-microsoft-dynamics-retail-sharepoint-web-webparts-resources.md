@@ -1,9 +1,10 @@
-﻿---
+---
 title: LocalizedCategoryAttribute Class (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources)
 TOCTitle: LocalizedCategoryAttribute Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedCategoryAttribute
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedcategoryattribute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedcategoryattribute(v=AX.60)
 ms:contentKeyID: 62203851
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,9 +45,9 @@ public ref class LocalizedCategoryAttribute sealed : public CategoryAttribute
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Attribute](https://technet.microsoft.com/en-us/library/e8kc3626\(v=ax.60\))  
-    [System.ComponentModel.CategoryAttribute](https://technet.microsoft.com/en-us/library/w0ee2hf1\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Attribute](https://technet.microsoft.com/library/e8kc3626\(v=ax.60\))  
+    [System.ComponentModel.CategoryAttribute](https://technet.microsoft.com/library/w0ee2hf1\(v=ax.60\))  
       Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedCategoryAttribute  
 
 ## Thread Safety

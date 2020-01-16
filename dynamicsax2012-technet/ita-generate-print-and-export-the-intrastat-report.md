@@ -2,8 +2,9 @@
 title: (ITA) Generate, print, and export the Intrastat report
 TOCTitle: (ITA) Generate, print, and export the Intrastat report
 ms:assetid: 120b1e06-8de0-4a80-830f-0b4b72139780
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242141(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242141(v=AX.60)
 ms:contentKeyID: 36056038
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,9 +91,9 @@ You can generate the Intrastat report that contains the Intrastat transactions a
 
 [About Intrastat](about-intrastat.md)
 
-[Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\))
+[Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\))
 
-[(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/en-us/library/aa587754\(v=ax.60\))
+[(ITA) Make diskette for Intrastat in Italian layout (class form)](https://technet.microsoft.com/library/aa587754\(v=ax.60\))
 
   
 

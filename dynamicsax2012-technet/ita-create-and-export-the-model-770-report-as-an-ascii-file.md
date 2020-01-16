@@ -2,8 +2,9 @@
 title: (ITA) Create and export the Model 770 report as an ASCII file
 TOCTitle: (ITA) Create and export the Model 770 report as an ASCII file
 ms:assetid: 933893a6-abeb-42dd-b915-2d212838471e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh528493(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh528493(v=AX.60)
 ms:contentKeyID: 37835229
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,7 +130,7 @@ You can save and close the report numerous times without actually creating the f
 
 ## See also
 
-[(ITA) Withholding tax - Model 770 (form)](https://technet.microsoft.com/en-us/library/hh706143\(v=ax.60\))
+[(ITA) Withholding tax - Model 770 (form)](https://technet.microsoft.com/library/hh706143\(v=ax.60\))
 
   
 

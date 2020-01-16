@@ -1,9 +1,10 @@
-﻿---
+---
 title: IOperationTriggerV1.PreProcessOperation Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PreProcessOperation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IOperationTriggerV1.PreProcessOperation(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.PosisOperations)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.ioperationtriggerv1.preprocessoperation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.ioperationtriggerv1.preprocessoperation(v=AX.60)
 ms:contentKeyID: 49827174
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

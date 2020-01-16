@@ -2,8 +2,9 @@
 title: 'Key tasks: Create purchasing policies'
 TOCTitle: 'Key tasks: Create purchasing policies'
 ms:assetid: dade94d0-0e46-4d9d-a78f-6c3a14d4bf49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227404(v=AX.60)
 ms:contentKeyID: 36059662
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -103,9 +104,9 @@ Back to top
 
 ## Find form help
 
-[Purchasing policy (form)](https://technet.microsoft.com/en-us/library/hh209627\(v=ax.60\))
+[Purchasing policy (form)](https://technet.microsoft.com/library/hh209627\(v=ax.60\))
 
-[Policy parameters (form)](https://technet.microsoft.com/en-us/library/hh209114\(v=ax.60\))
+[Policy parameters (form)](https://technet.microsoft.com/library/hh209114\(v=ax.60\))
 
 ## Find related tasks
 

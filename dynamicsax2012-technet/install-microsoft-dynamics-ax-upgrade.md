@@ -2,8 +2,9 @@
 title: Install Microsoft Dynamics AX (upgrade)
 TOCTitle: Install Microsoft Dynamics AX (upgrade)
 ms:assetid: d23c61ae-c1f0-4c29-af2d-79994396d8cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362081(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362081(v=AX.60)
 ms:contentKeyID: 35132903
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

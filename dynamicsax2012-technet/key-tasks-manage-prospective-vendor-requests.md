@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage prospective vendor requests'
 TOCTitle: 'Key tasks: Manage prospective vendor requests'
 ms:assetid: e67d7faa-338f-42c5-ac29-c0ff5039cc6f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227458(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227458(v=AX.60)
 ms:contentKeyID: 36059803
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -141,15 +142,15 @@ Use this procedure to view the status and details of completed workflow tasks fo
 
 5.  In the **Workflow details:** section, click the **Tracking details** tab to view the details about the completed steps in the workflow for this vendor request.
 
-For more information about workflow history, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+For more information about workflow history, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[Prospective vendor profile (form)](https://technet.microsoft.com/en-us/library/hh227357\(v=ax.60\))
+[Prospective vendor profile (form)](https://technet.microsoft.com/library/hh227357\(v=ax.60\))
 
-[Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\))
+[Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\))
 
 ## Find related tasks
 

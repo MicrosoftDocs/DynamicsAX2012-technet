@@ -2,8 +2,9 @@
 title: Keep update objects 5.0 (SysDeletedObjects41)
 TOCTitle: Keep update objects 5.0 (SysDeletedObjects41)
 ms:assetid: a43bee7c-1e48-4a50-996e-3113f33e063c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500158(v=AX.60)
 ms:contentKeyID: 37820189
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

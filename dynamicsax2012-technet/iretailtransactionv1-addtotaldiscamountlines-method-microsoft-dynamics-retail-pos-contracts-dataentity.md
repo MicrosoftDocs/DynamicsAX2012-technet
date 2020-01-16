@@ -1,9 +1,10 @@
-﻿---
+---
 title: IRetailTransactionV1.AddTotalDiscAmountLines Method  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: AddTotalDiscAmountLines Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransactionV1.AddTotalDiscAmountLines(System.Type,System.Decimal)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iretailtransactionv1.addtotaldiscamountlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iretailtransactionv1.addtotaldiscamountlines(v=AX.60)
 ms:contentKeyID: 49834264
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,12 +58,12 @@ void AddTotalDiscAmountLines(
 #### Parameters
 
   - discountType  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 <!-- end list -->
 
   - amountToDiscount  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (IND) Set up withholding tax settlement periods for TCS tax types
 TOCTitle: (IND) Set up withholding tax settlement periods for TCS tax types
 ms:assetid: bdfa2d51-0aca-48a0-9dad-54a29b0ad651
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664831(v=AX.60)
 ms:contentKeyID: 49386161
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,9 +52,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Withholding tax payment (form)](https://technet.microsoft.com/en-us/library/jj677836\(v=ax.60\))
+[(IND) Withholding tax payment (form)](https://technet.microsoft.com/library/jj677836\(v=ax.60\))
 
-[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/en-us/library/jj664719\(v=ax.60\))
+[(IND) Withholding tax settlement periods (form)](https://technet.microsoft.com/library/jj664719\(v=ax.60\))
 
   
 

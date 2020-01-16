@@ -2,8 +2,9 @@
 title: 'Key task: Set up absence information'
 TOCTitle: 'Key task: Set up absence information'
 ms:assetid: 2ad57f5f-78c0-41d3-88c4-1f6a55ddbb4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496453(v=AX.60)
 ms:contentKeyID: 37072035
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -211,15 +212,15 @@ Back to top
 
 ## Find form help
 
-[Absence groups (form)](https://technet.microsoft.com/en-us/library/aa553840\(v=ax.60\))
+[Absence groups (form)](https://technet.microsoft.com/library/aa553840\(v=ax.60\))
 
-[Absence setup (form)](https://technet.microsoft.com/en-us/library/aa583231\(v=ax.60\))
+[Absence setup (form)](https://technet.microsoft.com/library/aa583231\(v=ax.60\))
 
-[Absence codes (form)](https://technet.microsoft.com/en-us/library/aa571804\(v=ax.60\))
+[Absence codes (form)](https://technet.microsoft.com/library/aa571804\(v=ax.60\))
 
-[Absence status (form)](https://technet.microsoft.com/en-us/library/aa600265\(v=ax.60\))
+[Absence status (form)](https://technet.microsoft.com/library/aa600265\(v=ax.60\))
 
-[Human resource parameters (form)](https://technet.microsoft.com/en-us/library/aa596451\(v=ax.60\))
+[Human resource parameters (form)](https://technet.microsoft.com/library/aa596451\(v=ax.60\))
 
 ## Find related tasks
 

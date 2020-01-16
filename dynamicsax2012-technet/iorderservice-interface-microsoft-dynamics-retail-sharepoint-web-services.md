@@ -1,9 +1,10 @@
-﻿---
+---
 title: IOrderService Interface (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: IOrderService Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IOrderService
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.iorderservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.iorderservice(v=AX.60)
 ms:contentKeyID: 62204029
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

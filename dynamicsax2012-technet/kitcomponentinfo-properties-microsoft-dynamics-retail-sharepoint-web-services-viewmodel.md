@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitComponentInfo Properties (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: KitComponentInfo Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.KitComponentInfo
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.kitcomponentinfo_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.kitcomponentinfo_properties(v=AX.60)
 ms:contentKeyID: 62204686
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

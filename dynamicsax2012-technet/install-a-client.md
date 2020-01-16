@@ -2,8 +2,9 @@
 title: Install a client
 TOCTitle: Install a client
 ms:assetid: 8211f4bd-180f-4a0b-b3d0-88f6dbfceda4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834494(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834494(v=AX.60)
 ms:contentKeyID: 35132703
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

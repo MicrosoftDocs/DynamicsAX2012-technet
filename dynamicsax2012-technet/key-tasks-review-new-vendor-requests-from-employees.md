@@ -2,8 +2,9 @@
 title: 'Key tasks: Review new vendor requests from employees'
 TOCTitle: 'Key tasks: Review new vendor requests from employees'
 ms:assetid: cda48608-976b-423b-a6fe-d495dfd89707
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242908(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242908(v=AX.60)
 ms:contentKeyID: 36059463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,7 +24,7 @@ When an employee wants to work with a vendor that is not already on your organiz
 
 Employees create and submit a vendor request in the Employee services portal in Enterprise Portal for Microsoft Dynamics AX. The vendor request includes preliminary address information for the vendor, vendor contact name and email address, and a reason for the request. Vendor requests appear on the **Vendor requests** list page in the Microsoft Dynamics AX client, where you can review them. If you approve a request, the prospective vendor is invited to submit a full profile about the vendor’s organization, contacts, and other details. The vendor provides this information by using the **Vendor registration** page in Enterprise Portal.
 
-You can view the workflow history to track the status of a new vendor request. As you and others complete the tasks in workflow, the status of the vendor request and the status of the prospective vendor profile are automatically updated. You can view the status of a vendor request on the **Vendor requests** list page. For more information, see [Vendor requests (list page)](https://technet.microsoft.com/en-us/library/hh242710\(v=ax.60\)).
+You can view the workflow history to track the status of a new vendor request. As you and others complete the tasks in workflow, the status of the vendor request and the status of the prospective vendor profile are automatically updated. You can view the status of a vendor request on the **Vendor requests** list page. For more information, see [Vendor requests (list page)](https://technet.microsoft.com/library/hh242710\(v=ax.60\)).
 
 **Prerequisites**
 
@@ -31,7 +32,7 @@ You can view the workflow history to track the status of a new vendor request. A
 
   - Before an employee can submit a request to add a new vendor, an administrator must set up the **New vendor request** page in Enterprise Portal. For more information about how to configure the **New vendor request** page, see [Key tasks: Set up vendor add requests](key-tasks-set-up-vendor-add-requests.md).
 
-  - Before a prospective vendor can complete the registration process, an administrator must configure the fields that appear on the **Vendor registration** page in Enterprise Portal. For more information about how to configure the information for a prospective vendor, see [Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\)).
+  - Before a prospective vendor can complete the registration process, an administrator must configure the fields that appear on the **Vendor registration** page in Enterprise Portal. For more information about how to configure the information for a prospective vendor, see [Vendor request configurations (form)](https://technet.microsoft.com/library/hh209430\(v=ax.60\)).
 
   - Before the vendor contact can complete the prospective vendor profile, an administrator must set up the **Vendor registration** page. For more information, see [Configuring Enterprise Portal for vendor requests](configuring-enterprise-portal-for-vendor-requests.md).
 
@@ -145,15 +146,15 @@ Vendor requests that an employee submits in the Employee portal in Enterprise Po
 
 5.  In the **Workflow details:** section, on the **Tracking details** tab, view details about the completed steps in the workflow for this vendor request.
 
-For more information about workflow, see [Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\)).
+For more information about workflow, see [Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[New vendor request (form)](https://technet.microsoft.com/en-us/library/hh242728\(v=ax.60\))
+[New vendor request (form)](https://technet.microsoft.com/library/hh242728\(v=ax.60\))
 
-[Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\))
+[Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\))
 
 ## Find related tasks
 

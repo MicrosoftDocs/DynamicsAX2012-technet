@@ -1,9 +1,10 @@
-﻿---
+---
 title: IProductDataManager.SaveProductData Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: SaveProductData Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IProductDataManager.SaveProductData(System.Xml.Linq.XDocument)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.iproductdatamanager.saveproductdata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.iproductdatamanager.saveproductdata(v=AX.60)
 ms:contentKeyID: 62213320
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,11 +51,11 @@ void SaveProductData(
 #### Parameters
 
   - productsXml  
-    Type: [System.Xml.Linq.XDocument](https://technet.microsoft.com/en-us/library/bb345449\(v=ax.60\))  
+    Type: [System.Xml.Linq.XDocument](https://technet.microsoft.com/library/bb345449\(v=ax.60\))  
 
 ## Remarks
 
-The [XDocument](https://technet.microsoft.com/en-us/library/bb345449\(v=ax.60\)) is retrieved from the Transaction Service API.
+The [XDocument](https://technet.microsoft.com/library/bb345449\(v=ax.60\)) is retrieved from the Transaction Service API.
 
 ## See Also
 

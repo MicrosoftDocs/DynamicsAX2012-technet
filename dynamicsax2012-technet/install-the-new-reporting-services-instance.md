@@ -2,8 +2,9 @@
 title: Install the new Reporting Services instance
 TOCTitle: Install the new Reporting Services instance
 ms:assetid: 4dcad543-cd17-4d98-81ac-13506d5404f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389770(v=AX.60)
 ms:contentKeyID: 36899749
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

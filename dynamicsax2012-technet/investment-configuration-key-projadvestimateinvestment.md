@@ -2,8 +2,9 @@
 title: Investment configuration key (ProjAdvEstimateInvestment)
 TOCTitle: Investment configuration key (ProjAdvEstimateInvestment)
 ms:assetid: 1c15c516-fc07-42cb-8680-135ce9f2cf0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572873(v=AX.60)
 ms:contentKeyID: 39518951
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

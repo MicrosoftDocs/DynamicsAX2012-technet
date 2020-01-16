@@ -1,9 +1,10 @@
-﻿---
+---
 title: LineTaxResult.TaxRatePercent Property  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: TaxRatePercent Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.LineTaxResult.TaxRatePercent
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.linetaxresult.taxratepercent(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.linetaxresult.taxratepercent(v=AX.60)
 ms:contentKeyID: 49826169
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property Decimal TaxRatePercent {
 
 #### Property Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The tax rate percentage.  
 
 ## See Also

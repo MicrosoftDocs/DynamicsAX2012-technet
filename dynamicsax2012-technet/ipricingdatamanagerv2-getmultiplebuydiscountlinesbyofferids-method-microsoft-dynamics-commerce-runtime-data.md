@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPricingDataManagerV2.GetMultipleBuyDiscountLinesByOfferIds Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetMultipleBuyDiscountLinesByOfferIds Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2.GetMultipleBuyDiscountLinesByOfferIds(System.Collections.Generic.IEnumerable{System.String})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.getmultiplebuydiscountlinesbyofferids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.getmultiplebuydiscountlinesbyofferids(v=AX.60)
 ms:contentKeyID: 62212882
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ ReadOnlyCollection<QuantityDiscountLevel^>^ GetMultipleBuyDiscountLinesByOfferId
 #### Parameters
 
   - offerIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[QuantityDiscountLevel](quantitydiscountlevel-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[QuantityDiscountLevel](quantitydiscountlevel-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Collection of multi buy discount lines associated with the given offer Ids.  
 
 ## See Also

@@ -1,9 +1,10 @@
-﻿---
+---
 title: InventoryManager.SavePickReceiveCount Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: SavePickReceiveCount Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.InventoryManager.SavePickReceiveCount(System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.PurchaseOrder,Microsoft.Dynamics.Commerce.Runtime.DataModel.TransferOrder)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.savepickreceivecount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.savepickreceivecount(v=AX.60)
 ms:contentKeyID: 62208219
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ void SavePickReceiveCount(
 #### Parameters
 
   - commit  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 

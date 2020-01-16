@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing.CategoryIds Property  (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: CategoryIds Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Channels.Listing.CategoryIds
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing.categoryids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.categoryids(v=AX.60)
 ms:contentKeyID: 65317609
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ICollection<long long>^ CategoryIds {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 ## See Also
 

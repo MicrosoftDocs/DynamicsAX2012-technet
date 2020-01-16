@@ -2,8 +2,9 @@
 title: Inventory dimension group upgrade
 TOCTitle: Inventory dimension group upgrade
 ms:assetid: a5527e0c-dce8-414f-b0cd-4a3084a8a837
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731885(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731885(v=AX.60)
 ms:contentKeyID: 35132795
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

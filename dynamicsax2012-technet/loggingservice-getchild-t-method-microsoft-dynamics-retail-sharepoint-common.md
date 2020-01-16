@@ -1,9 +1,10 @@
-﻿---
+---
 title: LoggingService.GetChild(T) Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: GetChild(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Common.LoggingService.GetChild``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn738133(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn738133(v=AX.60)
 ms:contentKeyID: 62203337
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

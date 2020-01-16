@@ -2,8 +2,9 @@
 title: Install Retail POS
 TOCTitle: Install Retail POS
 ms:assetid: c95dfdc6-6136-48cc-9dc7-1c4f199f54d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575249(v=AX.60)
 ms:contentKeyID: 39555412
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

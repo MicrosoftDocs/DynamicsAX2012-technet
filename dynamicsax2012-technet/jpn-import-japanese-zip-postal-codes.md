@@ -2,8 +2,9 @@
 title: (JPN) Import Japanese ZIP/postal codes
 TOCTitle: (JPN) Import Japanese ZIP/postal codes
 ms:assetid: 4cb1d376-196a-477b-97bb-38dc46c2ce6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711046(v=AX.60)
 ms:contentKeyID: 49386456
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Use this procedure to import Japanese ZIP Codes and postal codes when you set up
 
 ## See also
 
-[(JPN) Import ZIP/postal codes (modified form)](https://technet.microsoft.com/en-us/library/jj664985\(v=ax.60\))
+[(JPN) Import ZIP/postal codes (modified form)](https://technet.microsoft.com/library/jj664985\(v=ax.60\))
 
   
 

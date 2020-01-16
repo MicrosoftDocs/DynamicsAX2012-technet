@@ -2,8 +2,9 @@
 title: (JPN) Create a tax authority and settlement periods
 TOCTitle: (JPN) Create a tax authority and settlement periods
 ms:assetid: f34b6424-b926-4ec2-8cb4-3d530ec71404
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664988(v=AX.60)
 ms:contentKeyID: 49386572
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (IND) View transactions with sales tax
 TOCTitle: (IND) View transactions with sales tax
 ms:assetid: b1db96a7-bb10-4d71-b87f-8c754b86c65c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664806(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664806(v=AX.60)
 ms:contentKeyID: 49386136
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,7 +74,7 @@ You can use the **India sales tax inquiry** form to view all transactions for th
 
 ## See also
 
-[(IND) Totals - India sales tax (form)](https://technet.microsoft.com/en-us/library/jj664472\(v=ax.60\))
+[(IND) Totals - India sales tax (form)](https://technet.microsoft.com/library/jj664472\(v=ax.60\))
 
   
 

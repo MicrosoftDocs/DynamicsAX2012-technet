@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemOutOfStockException Events (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ItemOutOfStockException Events
 ms:assetid: Events.T:Microsoft.Dynamics.Commerce.Runtime.ItemOutOfStockException
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.itemoutofstockexception_events(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.itemoutofstockexception_events(v=AX.60)
 ms:contentKeyID: 65319255
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -26,7 +27,7 @@ The [ItemOutOfStockException](itemoutofstockexception-class-microsoft-dynamics-c
 <tr class="odd">
 <td><img src="images/Dn998588.protevent(en-us,AX.60).gif" title="Protected event" alt="Protected event" /></td>
 <td>SerializeObjectState</td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/c18k6c59(v=ax.60)">Exception</a>.)</td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/c18k6c59(v=ax.60)">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>

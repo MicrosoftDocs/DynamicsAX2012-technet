@@ -2,8 +2,9 @@
 title: (IND) View posted transactions for a DSA register
 TOCTitle: (IND) View posted transactions for a DSA register
 ms:assetid: 198b00e3-fdde-4c2f-94b8-d03fa53c4332
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664524(v=AX.60)
 ms:contentKeyID: 49385602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ In Microsoft Dynamics AX 2012, items and products are referred to interchangeabl
 
 
 > [!NOTE]
-> <P>The daily stock account (DSA) register is updated for products that have <STRONG>Production</STRONG> selected in the <STRONG>Default order type</STRONG> field on the <STRONG>Default order settings</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209541(v=ax.60)">Order settings (form)</A>.</P>
+> <P>The daily stock account (DSA) register is updated for products that have <STRONG>Production</STRONG> selected in the <STRONG>Default order type</STRONG> field on the <STRONG>Default order settings</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh209541(v=ax.60)">Order settings (form)</A>.</P>
 
 
 
@@ -63,9 +64,9 @@ In Microsoft Dynamics AX 2012, items and products are referred to interchangeabl
 
 ## See also
 
-[(IND) DSA details (form)](https://technet.microsoft.com/en-us/library/jj664573\(v=ax.60\))
+[(IND) DSA details (form)](https://technet.microsoft.com/library/jj664573\(v=ax.60\))
 
-[(IND) Excise register inquiry (form)](https://technet.microsoft.com/en-us/library/jj710979\(v=ax.60\))
+[(IND) Excise register inquiry (form)](https://technet.microsoft.com/library/jj710979\(v=ax.60\))
 
   
 

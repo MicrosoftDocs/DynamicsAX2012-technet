@@ -2,8 +2,9 @@
 title: Install Retail SDK (Retail POS Plug-ins)
 TOCTitle: Install Retail SDK (Retail POS Plug-ins)
 ms:assetid: 818a6bc0-cbce-4709-9f46-af065eeec275
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh771575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh771575(v=AX.60)
 ms:contentKeyID: 43881148
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

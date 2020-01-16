@@ -1,9 +1,10 @@
-﻿---
+---
 title: LocalizedWebDescriptionAttribute Class (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources)
 TOCTitle: LocalizedWebDescriptionAttribute Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedWebDescriptionAttribute
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedwebdescriptionattribute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedwebdescriptionattribute(v=AX.60)
 ms:contentKeyID: 62206440
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,9 +45,9 @@ public ref class LocalizedWebDescriptionAttribute sealed : public WebDescription
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Attribute](https://technet.microsoft.com/en-us/library/e8kc3626\(v=ax.60\))  
-    [System.Web.UI.WebControls.WebParts.WebDescriptionAttribute](https://technet.microsoft.com/en-us/library/ms157315\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Attribute](https://technet.microsoft.com/library/e8kc3626\(v=ax.60\))  
+    [System.Web.UI.WebControls.WebParts.WebDescriptionAttribute](https://technet.microsoft.com/library/ms157315\(v=ax.60\))  
       Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedWebDescriptionAttribute  
 
 ## Thread Safety

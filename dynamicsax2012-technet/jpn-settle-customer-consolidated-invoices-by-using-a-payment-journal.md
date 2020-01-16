@@ -2,8 +2,9 @@
 title: (JPN) Settle customer consolidated invoices by using a payment journal
 TOCTitle: (JPN) Settle customer consolidated invoices by using a payment journal
 ms:assetid: 87e4ae3b-2c12-4b50-92d8-db202198b29e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711085(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711085(v=AX.60)
 ms:contentKeyID: 49386495
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Settle open transactions** form to settle open transactions that are related to consolidated invoices after you have received payment from a customer. A customer consolidated invoice may include an amount from a letter of credit. You cannot delete a consolidated invoice after it has been settled. For more information, see [Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\)).
+Use the **Settle open transactions** form to settle open transactions that are related to consolidated invoices after you have received payment from a customer. A customer consolidated invoice may include an amount from a letter of credit. You cannot delete a consolidated invoice after it has been settled. For more information, see [Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Journals** \> **Payments** \> **Payment journal**.
 
@@ -59,13 +60,13 @@ Use the **Settle open transactions** form to settle open transactions that are r
 
 [(JPN) Mark sales invoices for consolidation and calculate due dates](jpn-mark-sales-invoices-for-consolidation-and-calculate-due-dates.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
-[(JPN) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj711060\(v=ax.60\))
+[(JPN) Customers (modified form)](https://technet.microsoft.com/library/jj711060\(v=ax.60\))
 
-[Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
+[Export letter of credit/import collection (form)](https://technet.microsoft.com/library/hh208689\(v=ax.60\))
 
   
 

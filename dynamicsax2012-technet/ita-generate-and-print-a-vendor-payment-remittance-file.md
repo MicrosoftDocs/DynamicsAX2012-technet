@@ -2,8 +2,9 @@
 title: (ITA) Generate and print a vendor payment remittance file
 TOCTitle: (ITA) Generate and print a vendor payment remittance file
 ms:assetid: ed151652-b4a8-47e9-8cec-32e9da1b9c6a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227498(v=AX.60)
 ms:contentKeyID: 36059899
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Before you can generate a vendor payment remittance file with the default value 
 
 3.  In the **Name** field, select the journal name.
 
-4.  Click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\)).
+4.  Click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\)).
 
 5.  In the **Account type** and **Account** fields, select **Vendor** and the vendor account number.
 
@@ -57,7 +58,7 @@ Before you can generate a vendor payment remittance file with the default value 
 
 2.  Press CTRL+N to create a new journal.
 
-3.  In the **Name** field, select the journal name and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+3.  In the **Name** field, select the journal name and then click **Lines** to open the **Journal voucher** form. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 4.  Press CTRL+N to create a new line.
 
@@ -67,11 +68,11 @@ Before you can generate a vendor payment remittance file with the default value 
 
 7.  In the **Document date** field, enter the date when the document was created.
 
-8.  Click **Functions** \> **Settlement** to open the **Settle open transactions** form and mark the transactions for settlement. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+8.  Click **Functions** \> **Settlement** to open the **Settle open transactions** form and mark the transactions for settlement. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 9.  Close the form to save your changes.
 
-10. In the **Journal voucher** form, click **Functions** \> **Generate payments** to open the **Generate payments** form. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\)).
+10. In the **Journal voucher** form, click **Functions** \> **Generate payments** to open the **Generate payments** form. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\)).
 
 11. In the **Method of payment** field, select the payment method.
 

@@ -2,8 +2,9 @@
 title: Install Reporting Services extensions for Microsoft Dynamics AX
 TOCTitle: Install Reporting Services extensions
 ms:assetid: 00a2c290-14b7-4084-bf48-2b22368b7c8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751340(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751340(v=AX.60)
 ms:contentKeyID: 35132523
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

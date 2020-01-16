@@ -1,9 +1,10 @@
-﻿---
+---
 title: IServicesV1.InfoCodes Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: InfoCodes Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV1.InfoCodes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv1.infocodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv1.infocodes(v=AX.60)
 ms:contentKeyID: 47344482
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

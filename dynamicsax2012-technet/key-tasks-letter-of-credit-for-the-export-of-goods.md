@@ -2,8 +2,9 @@
 title: 'Key tasks: Letter of credit for the export of goods'
 TOCTitle: 'Key tasks: Letter of credit for the export of goods'
 ms:assetid: 38f64566-5d72-4891-85cf-e237c72fed41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242208(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242208(v=AX.60)
 ms:contentKeyID: 36056628
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -107,7 +108,7 @@ After you have created a letter of credit sales order, you can enter the specifi
     
     –or–
     
-    Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. Click the **Manage** tab, and then click **Letter of credit**. For more information, see [Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\)).
+    Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. Click the **Manage** tab, and then click **Letter of credit**. For more information, see [Export letter of credit/import collection (form)](https://technet.microsoft.com/library/hh208689\(v=ax.60\)).
 
 2.  In the **Bank document number** field, enter the document number specified by the bank.
 
@@ -235,7 +236,7 @@ Back to top
 
 ## Find form help
 
-[Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
+[Export letter of credit/import collection (form)](https://technet.microsoft.com/library/hh208689\(v=ax.60\))
 
 ## Find related tasks
 

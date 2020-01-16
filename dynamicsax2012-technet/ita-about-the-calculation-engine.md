@@ -2,8 +2,9 @@
 title: (ITA) About the calculation engine
 TOCTitle: (ITA) About the calculation engine
 ms:assetid: 8abe97a3-49ca-46f6-84d6-a7685b33bf70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498244(v=AX.60)
 ms:contentKeyID: 36058469
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
