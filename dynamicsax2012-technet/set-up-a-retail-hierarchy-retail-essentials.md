@@ -2,8 +2,9 @@
 title: Set up a retail hierarchy (Retail essentials)
 TOCTitle: Set up a retail hierarchy (Retail essentials)
 ms:assetid: 3960030d-6a17-463f-bd67-2ba139e79fce
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859559(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859559(v=AX.60)
 ms:contentKeyID: 63820133
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
@@ -42,7 +43,7 @@ Before you can add products and product attributes to the retail product hierarc
     
       - Otherwise, on the **Category attributes** FastTab, click **Add** to assign attributes to the category.
 
-5.  On the **Commodity codes** FastTab, add subcategories from a file that contains imported commodity codes. For more information about how to import commodity codes, see [Import categories (form)](https://technet.microsoft.com/en-us/library/hh242810\(v=ax.60\)).
+5.  On the **Commodity codes** FastTab, add subcategories from a file that contains imported commodity codes. For more information about how to import commodity codes, see [Import categories (form)](https://technet.microsoft.com/library/hh242810\(v=ax.60\)).
 
 6.  After you finish setting up the category hierarchy, click **Close** to save the category hierarchy and return to the **Category hierarchies** list page.
 
@@ -68,7 +69,7 @@ Before you can add products and product attributes to the retail product hierarc
 
 10. In the **Category hierarchy** field, select the category hierarchy to assign to the selected category hierarchy type.
 
-For more information about the fields in the **Category hierarchy** form, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+For more information about the fields in the **Category hierarchy** form, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## Maintain the retail product hierarchy
 
@@ -92,7 +93,7 @@ After you create the structure of the retail product hierarchy, you can assign p
 
 9.  On the **Category attribute values** FastTab, view values for the category attributes.
     
-    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## Maintain a retail supplemental hierarchy
 
@@ -112,7 +113,7 @@ Use supplemental hierarchies to categorize a subset of products for a specific p
 
 7.  On the **Category attribute values** FastTab, view values for the category attributes.
     
-    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## New or changed for Microsoft Dynamics AX 2012 R2
 
@@ -166,15 +167,15 @@ If you change a category in a navigation category hierarchy that is assigned to 
 
 [About retail hierarchies](about-retail-hierarchies.md)
 
-[Retail product hierarchy (form)](https://technet.microsoft.com/en-us/library/hh597208\(v=ax.60\))
+[Retail product hierarchy (form)](https://technet.microsoft.com/library/hh597208\(v=ax.60\))
 
-[Supplemental retail hierarchies (form)](https://technet.microsoft.com/en-us/library/hh597337\(v=ax.60\))
+[Supplemental retail hierarchies (form)](https://technet.microsoft.com/library/hh597337\(v=ax.60\))
 
 [Set up a retail vendor hierarchy](set-up-a-retail-vendor-hierarchy.md)
 
 [Set up retail attribute groups](set-up-retail-attribute-groups.md)
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
 [Set up an online store](set-up-an-online-store.md)
 

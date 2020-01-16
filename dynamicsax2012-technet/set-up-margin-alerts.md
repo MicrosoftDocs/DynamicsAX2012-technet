@@ -2,8 +2,9 @@
 title: Set up margin alerts
 TOCTitle: Set up margin alerts
 ms:assetid: cbf9d14b-8003-4589-9c5c-5ef45184af9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497828(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497828(v=AX.60)
 ms:contentKeyID: 62504015
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up royalty agreements
 TOCTitle: Set up royalty agreements
 ms:assetid: f1c78500-9640-4e23-b136-13513454d4a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497851(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497851(v=AX.60)
 ms:contentKeyID: 62286787
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Setting up and maintaining formulas
 TOCTitle: Setting up and maintaining formulas
 ms:assetid: cb05d6cb-f61a-42df-9ea3-ea4493e81636
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242853(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242853(v=AX.60)
 ms:contentKeyID: 36059341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

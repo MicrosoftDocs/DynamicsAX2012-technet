@@ -2,8 +2,9 @@
 title: Security Development Tool User Guide
 TOCTitle: Security Development Tool User Guide
 ms:assetid: 98a9369e-8f9a-495a-b4c5-71b24574b5cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh859729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh859729(v=AX.60)
 ms:contentKeyID: 45692866
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

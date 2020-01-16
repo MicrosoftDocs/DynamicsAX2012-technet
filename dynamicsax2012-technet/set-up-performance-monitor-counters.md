@@ -2,8 +2,9 @@
 title: Set up Performance Monitor counters
 TOCTitle: Set up Performance Monitor counters
 ms:assetid: 909bc83a-c26b-4fc9-ae44-38a9cb20db3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834416(v=AX.60)
 ms:contentKeyID: 39555385
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

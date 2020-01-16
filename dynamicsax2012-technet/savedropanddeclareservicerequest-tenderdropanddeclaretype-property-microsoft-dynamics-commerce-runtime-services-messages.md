@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveDropAndDeclareServiceRequest.TenderDropAndDeclareType Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: TenderDropAndDeclareType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveDropAndDeclareServiceRequest.TenderDropAndDeclareType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.savedropanddeclareservicerequest.tenderdropanddeclaretype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savedropanddeclareservicerequest.tenderdropanddeclaretype(v=AX.60)
 ms:contentKeyID: 62211140
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

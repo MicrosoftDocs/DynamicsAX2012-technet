@@ -2,8 +2,9 @@
 title: Set up a mix-and-match discount
 TOCTitle: Set up a mix-and-match discount
 ms:assetid: fe8ca38a-2536-4e40-94d5-5cacc031c8af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597304(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597304(v=AX.60)
 ms:contentKeyID: 39519393
+author: Khairunj
 ms.date: 08/12/2015
 mtps_version: v=AX.60
 audience: Application User

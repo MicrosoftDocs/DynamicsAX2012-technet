@@ -2,8 +2,9 @@
 title: Set up system parameters
 TOCTitle: Set up system parameters
 ms:assetid: bb9fc1ee-5f33-4094-9a8f-20eadd15ebd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731914(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731914(v=AX.60)
 ms:contentKeyID: 35132840
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ If you open the form from the initialization checklist or the partition initiali
 
 2.  Click **File store**, and then select the option for file storage:
     
-      - **Directory** – Select a shared network location for file storage. For detailed information about the purposes of the file storage location, see [Set up general system parameters (form)](https://technet.microsoft.com/en-us/library/hh209515\(v=ax.60\)).
+      - **Directory** – Select a shared network location for file storage. For detailed information about the purposes of the file storage location, see [Set up general system parameters (form)](https://technet.microsoft.com/library/hh209515\(v=ax.60\)).
 
 ## Set up number sequences
 

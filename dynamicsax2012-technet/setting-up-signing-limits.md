@@ -2,8 +2,9 @@
 title: Setting up signing limits
 TOCTitle: Setting up signing limits
 ms:assetid: 0012cb41-14a9-49a7-ad4b-e488517c324a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242088(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242088(v=AX.60)
 ms:contentKeyID: 36055911
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

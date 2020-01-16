@@ -2,8 +2,9 @@
 title: Set up prerequisites to report quality order results for a potency item
 TOCTitle: Set up prerequisites to report quality order results for a potency item
 ms:assetid: 7b7c956a-9722-433d-b894-da753bd3906e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838739(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838739(v=AX.60)
 ms:contentKeyID: 50120622
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use this procedure to set up prerequisites to report quality order results for a
 
 1.  Click **Inventory management** \> **Setup** \> **Quality control** \> **Test groups**.
 
-2.  Select a test group, and then click the **General** tab in the lower pane. For more information, see [(PM) Test groups (form)](https://technet.microsoft.com/en-us/library/hh328633\(v=ax.60\)).
+2.  Select a test group, and then click the **General** tab in the lower pane. For more information, see [(PM) Test groups (form)](https://technet.microsoft.com/library/hh328633\(v=ax.60\)).
 
 3.  Select the **Update inventory batch attribute** check box to update inventory batch attributes with test result values.
 
@@ -43,7 +44,7 @@ Use this procedure to set up prerequisites to report quality order results for a
 
 ## See also
 
-[(PM) Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/hh352320\(v=ax.60\))
+[(PM) Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/hh352320\(v=ax.60\))
 
   
 

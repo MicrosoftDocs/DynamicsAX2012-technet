@@ -2,8 +2,9 @@
 title: Set up sales tax override groups (Retail essentials)
 TOCTitle: Set up sales tax override groups (Retail essentials)
 ms:assetid: d463dee3-2671-4a8d-a839-28cf9be7903a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736958(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736958(v=AX.60)
 ms:contentKeyID: 62200434
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

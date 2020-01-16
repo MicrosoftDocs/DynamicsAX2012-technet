@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreOperationsManager.TransferShift Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: TransferShift Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.StoreOperationsManager.TransferShift(Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.storeoperationsmanager.transfershift(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.storeoperationsmanager.transfershift(v=AX.60)
 ms:contentKeyID: 65319727
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

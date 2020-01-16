@@ -2,8 +2,9 @@
 title: Set up catalog source codes
 TOCTitle: Set up catalog source codes
 ms:assetid: f8bcf272-fa88-47c0-a018-5fc9138c74f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497858(v=AX.60)
 ms:contentKeyID: 62200188
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

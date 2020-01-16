@@ -2,8 +2,9 @@
 title: Set up posting profiles for the letter of guarantee
 TOCTitle: Set up posting profiles for the letter of guarantee
 ms:assetid: b37d27cc-4be8-4bd5-94b6-7c7e613f9bf3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242749(v=AX.60)
 ms:contentKeyID: 36059068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ You can use the **Bank documents posting profile** form to set up a posting prof
 
 ## See also
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
 [Set up letter of guarantee cancellation reasons and purpose code types](set-up-letter-of-guarantee-cancellation-reasons-and-purpose-code-types.md)
 

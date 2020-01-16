@@ -2,8 +2,9 @@
 title: Set up master plans to include requisitions
 TOCTitle: Set up master plans to include requisitions
 ms:assetid: 749bfc46-86d6-488d-a46d-fc2743933314
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683228(v=AX.60)
 ms:contentKeyID: 49684851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ In master plans, you can also enter the number of days in the past when demand f
 
 [About purchase requisitions](about-purchase-requisitions.md)
 
-[Master plans (form)](https://technet.microsoft.com/en-us/library/aa591284\(v=ax.60\))
+[Master plans (form)](https://technet.microsoft.com/library/aa591284\(v=ax.60\))
 
   
 

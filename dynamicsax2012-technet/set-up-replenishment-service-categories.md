@@ -2,8 +2,9 @@
 title: Set up replenishment service categories
 TOCTitle: Set up replenishment service categories
 ms:assetid: 963937be-a19a-4543-9662-57f1fcf76c70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597176(v=AX.60)
 ms:contentKeyID: 39519237
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ The service category can be set up to provide information about the availability
 
 3.  In the **Service category** field, type an ID number. Then, in the **Description** field, type a description.
 
-4.  Enter additional information about delivery dates, replenishment rules, or cross-docking warehouses. For more information, see [Service categories (form)](https://technet.microsoft.com/en-us/library/hh597287\(v=ax.60\)).
+4.  Enter additional information about delivery dates, replenishment rules, or cross-docking warehouses. For more information, see [Service categories (form)](https://technet.microsoft.com/library/hh597287\(v=ax.60\)).
 
 ## See also
 

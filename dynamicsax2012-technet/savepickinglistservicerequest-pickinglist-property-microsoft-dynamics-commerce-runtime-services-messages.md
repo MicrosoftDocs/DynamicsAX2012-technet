@@ -1,9 +1,10 @@
-﻿---
+---
 title: SavePickingListServiceRequest.PickingList Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: PickingList Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SavePickingListServiceRequest.PickingList
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.savepickinglistservicerequest.pickinglist(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savepickinglistservicerequest.pickinglist(v=AX.60)
 ms:contentKeyID: 62212233
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

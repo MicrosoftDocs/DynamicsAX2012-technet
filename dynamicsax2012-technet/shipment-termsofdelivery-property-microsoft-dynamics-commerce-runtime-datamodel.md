@@ -1,9 +1,10 @@
-﻿---
+---
 title: Shipment.TermsOfDelivery Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TermsOfDelivery Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.TermsOfDelivery
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.termsofdelivery(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.termsofdelivery(v=AX.60)
 ms:contentKeyID: 49852408
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property String^ TermsOfDelivery {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The terms of delivery.  
 
 ## See Also

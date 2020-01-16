@@ -2,8 +2,9 @@
 title: Set up table links
 TOCTitle: Set up table links
 ms:assetid: b803b6aa-4485-4da0-9cc5-eaf8bf5ec741
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ679932(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ679932(v=AX.60)
 ms:contentKeyID: 49557914
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

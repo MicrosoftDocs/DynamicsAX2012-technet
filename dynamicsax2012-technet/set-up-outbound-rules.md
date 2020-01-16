@@ -2,8 +2,9 @@
 title: Set up outbound rules
 TOCTitle: Set up outbound rules
 ms:assetid: 96f519f6-a496-420a-b4a8-926314e87854
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232237(v=AX.60)
 ms:contentKeyID: 36058666
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

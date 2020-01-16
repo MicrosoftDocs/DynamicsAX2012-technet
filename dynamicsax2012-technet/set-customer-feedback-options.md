@@ -2,8 +2,9 @@
 title: Set customer feedback options
 TOCTitle: Set customer feedback options
 ms:assetid: 8be897fb-08bb-44af-aa29-abce88b8297c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309750(v=AX.60)
 ms:contentKeyID: 35132716
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

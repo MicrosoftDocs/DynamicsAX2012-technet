@@ -2,8 +2,9 @@
 title: Set up aging period definitions
 TOCTitle: Set up aging period definitions
 ms:assetid: 990bf1fb-d845-45c6-b9bf-377fab250ca6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209419(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209419(v=AX.60)
 ms:contentKeyID: 36058685
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,11 +28,11 @@ In Accounts receivable, aging period definitions are also used to define custome
 
 2.  Enter a name for the aging period definition.
 
-3.  On the **Periods** FastTab, create aging periods. For more information, see [Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\)).
+3.  On the **Periods** FastTab, create aging periods. For more information, see [Aging period definitions (form)](https://technet.microsoft.com/library/aa634713\(v=ax.60\)).
 
 ## See also
 
-[Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\))
+[Aging period definitions (form)](https://technet.microsoft.com/library/aa634713\(v=ax.60\))
 
 [Create an aging snapshot](create-an-aging-snapshot.md)
 

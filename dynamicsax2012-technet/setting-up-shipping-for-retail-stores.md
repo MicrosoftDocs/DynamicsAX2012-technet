@@ -2,8 +2,9 @@
 title: Setting up shipping for retail stores
 TOCTitle: Setting up shipping for retail stores
 ms:assetid: d64f84d2-06fb-477c-a285-7d32317bacc5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720768(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720768(v=AX.60)
 ms:contentKeyID: 62231570
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User

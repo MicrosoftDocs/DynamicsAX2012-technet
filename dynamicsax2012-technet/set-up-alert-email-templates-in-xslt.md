@@ -2,8 +2,9 @@
 title: Set up alert email templates in XSLT
 TOCTitle: Set up alert email templates in XSLT
 ms:assetid: e1ae2408-f19f-40b8-b998-69380058ba9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570089(v=AX.60)
 ms:contentKeyID: 46687568
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Email templates can be created by using Extensible Stylesheet Language Transform
 
 [About setting up alert email templates](about-setting-up-alert-email-templates.md)
 
-[Syntax of XSLT template for alert emails](https://technet.microsoft.com/en-us/library/aa570097\(v=ax.60\))
+[Syntax of XSLT template for alert emails](https://technet.microsoft.com/library/aa570097\(v=ax.60\))
 
 [Set up alert email templates in HTML](set-up-alert-email-templates-in-html.md)
 

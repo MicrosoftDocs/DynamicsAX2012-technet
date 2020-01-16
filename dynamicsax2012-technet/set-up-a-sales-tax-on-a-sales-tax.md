@@ -2,8 +2,9 @@
 title: Set up a sales tax on a sales tax
 TOCTitle: Set up a sales tax on a sales tax
 ms:assetid: 5722a578-9930-4f79-a55d-0df5b0aced59
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa549055(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa549055(v=AX.60)
 ms:contentKeyID: 39519141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ To set up a sales tax on a sales tax, you must create a sales tax code and add i
 
 2.  Click **New** to create a sales tax code.
 
-3.  Enter information in the required fields. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+3.  Enter information in the required fields. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
 4.  On the **Calculation** FastTab, in the **Origin** field, select **Percentage of sales tax**.
 
@@ -67,7 +68,7 @@ Total sales tax = 2.50 + 0.25 = 2.75
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

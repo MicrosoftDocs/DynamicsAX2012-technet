@@ -2,8 +2,9 @@
 title: Setting up screen layouts (Retail essentials)
 TOCTitle: Setting up screen layouts (Retail essentials)
 ms:assetid: fd02c4d9-b11b-47b4-9d84-6aaf09962fdf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736984(v=AX.60)
 ms:contentKeyID: 62200461
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Sign a document electronically
 TOCTitle: Sign a document electronically
 ms:assetid: c8a0fd22-2ae4-4aa9-aa72-b575f2a1d0f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362075(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362075(v=AX.60)
 ms:contentKeyID: 36059320
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

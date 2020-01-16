@@ -1,9 +1,10 @@
-﻿---
+---
 title: Services and AIF architecture and planning
 TOCTitle: Services and AIF architecture and planning
 ms:assetid: 3ad11df7-36ef-4877-888d-b501070cc2ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731781(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731781(v=AX.60)
 ms:contentKeyID: 35132608
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

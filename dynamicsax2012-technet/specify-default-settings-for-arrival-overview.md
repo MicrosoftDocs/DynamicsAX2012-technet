@@ -2,8 +2,9 @@
 title: Specify default settings for arrival overview
 TOCTitle: Specify default settings for arrival overview
 ms:assetid: bf1616c4-9756-40de-9838-80119c24d2d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213625(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213625(v=AX.60)
 ms:contentKeyID: 36059254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ A few example customizations are included. In the **Setup name** field in the **
     
       - Transaction types display – Under **Transaction types shown**, select the transaction types to show in the list of receipts.
 
-For more information about the options in the form, see [Arrival overview (form)](https://technet.microsoft.com/en-us/library/hh227654\(v=ax.60\)).
+For more information about the options in the form, see [Arrival overview (form)](https://technet.microsoft.com/library/hh227654\(v=ax.60\)).
 
 Settings in **Setup** tab and **Range** settings on the **Overview** tab are saved as default settings under **Options used** when you close the form. To save the settings under a different name, click the **Modify...** button on the **Setup** tab, and then click **Save**.
 

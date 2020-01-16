@@ -2,8 +2,9 @@
 title: Set up a channel profile
 TOCTitle: Set up a channel profile
 ms:assetid: 4ef00ad9-9da2-4d21-b3e1-637f77cab208
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677402(v=AX.60)
 ms:contentKeyID: 49384182
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ A channel profile contains properties that must be defined for a retail channel,
 
 ## See also
 
-[Channel profiles (form)](https://technet.microsoft.com/en-us/library/jj677439\(v=ax.60\))
+[Channel profiles (form)](https://technet.microsoft.com/library/jj677439\(v=ax.60\))
 
   
 

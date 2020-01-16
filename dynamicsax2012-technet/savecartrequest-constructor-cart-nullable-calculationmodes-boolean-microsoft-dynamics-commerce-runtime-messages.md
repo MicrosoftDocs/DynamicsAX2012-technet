@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveCartRequest Constructor (Cart, Nullable(CalculationModes), Boolean) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: SaveCartRequest Constructor (Cart, Nullable(CalculationModes), Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCartRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes},System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.savecartrequest.savecartrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savecartrequest.savecartrequest(v=AX.60)
 ms:contentKeyID: 62210225
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -62,12 +63,12 @@ SaveCartRequest(
 <!-- end list -->
 
   - calculationModes  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[CalculationModes](calculationmodes-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - isGiftCardOperation  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

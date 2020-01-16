@@ -2,8 +2,9 @@
 title: Schedule Retail data distribution
 TOCTitle: Schedule Retail data distribution
 ms:assetid: 461c33c1-dbb4-401f-bebe-f2d97cb944c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ679915(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ679915(v=AX.60)
 ms:contentKeyID: 49557897
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

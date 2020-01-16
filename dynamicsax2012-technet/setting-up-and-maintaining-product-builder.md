@@ -2,8 +2,9 @@
 title: Setting up and  maintaining product builder
 TOCTitle: Setting up and  maintaining product builder
 ms:assetid: 93d31139-7edb-4f0c-8a35-06a860dae856
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209385(v=AX.60)
 ms:contentKeyID: 36058588
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

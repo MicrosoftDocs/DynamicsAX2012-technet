@@ -2,8 +2,9 @@
 title: Setting up recruitment information
 TOCTitle: Setting up recruitment information
 ms:assetid: 5d2d3c96-325b-4164-9753-1ae73b200972
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242515(v=AX.60)
 ms:contentKeyID: 37072054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

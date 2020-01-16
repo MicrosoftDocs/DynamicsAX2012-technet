@@ -2,8 +2,9 @@
 title: Set up billing codes (Public sector)
 TOCTitle: Set up billing codes (Public sector)
 ms:assetid: 3db65013-1f98-4653-b222-6fdc19f71b63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208523(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208523(v=AX.60)
 ms:contentKeyID: 36056270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 A billing code is a set of default values that are applied automatically to free text invoice lines where the billing code is selected. The departments in your organization can use billing codes for a defined type of service or charge. For example, a waste management department might bill certain customers for new containers. You can use the **Billing codes** form to specify the default values for billing charges that your organization uses regularly.
 
-You can associate billing codes with posting definitions on the **Accounts receivable** tab of the **Transaction posting definitions** form. When a billing code is used on an invoice line, the posting definition that is associated with the billing code is used for posting the transaction to the ledger. For more information, see [Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\)).
+You can associate billing codes with posting definitions on the **Accounts receivable** tab of the **Transaction posting definitions** form. When a billing code is used on an invoice line, the posting definition that is associated with the billing code is used for posting the transaction to the ledger. For more information, see [Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\)).
 
 You cannot delete a billing code after it has been used on a free text invoice line.
 
@@ -89,11 +90,11 @@ You cannot delete a billing code after it has been used on a free text invoice l
 
 
 
-14. If you want to assign one or more **Billing code custom fields** to this billing code, click **Add** on the **Custom fields** tab. For more information, see [Billing code custom fields (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208512\(v=ax.60\)).
+14. If you want to assign one or more **Billing code custom fields** to this billing code, click **Add** on the **Custom fields** tab. For more information, see [Billing code custom fields (form) (Public sector)](https://technet.microsoft.com/library/hh208512\(v=ax.60\)).
 
-15. Optional: On the **Project** tab, select the project and category that will be entered on the **Free text invoice** form for the lines that use the selected billing code. The **Project** tab is available only if **Display project-related fields on free text invoices** is selected on the **Accounts receivable parameters** form. For more information, see [Billing codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208543\(v=ax.60\)).
+15. Optional: On the **Project** tab, select the project and category that will be entered on the **Free text invoice** form for the lines that use the selected billing code. The **Project** tab is available only if **Display project-related fields on free text invoices** is selected on the **Accounts receivable parameters** form. For more information, see [Billing codes (form) (Public sector)](https://technet.microsoft.com/library/hh208543\(v=ax.60\)).
 
-16. If you want to create a new version of this billing code for a specific date range, click **New version**. For more information, see [Billing codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208543\(v=ax.60\)).
+16. If you want to create a new version of this billing code for a specific date range, click **New version**. For more information, see [Billing codes (form) (Public sector)](https://technet.microsoft.com/library/hh208543\(v=ax.60\)).
 
 ## Create billing code versions
 

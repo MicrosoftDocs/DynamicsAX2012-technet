@@ -2,8 +2,9 @@
 title: Single-server deployment
 TOCTitle: Single-server deployment
 ms:assetid: 6c755b0b-b348-44c8-9d90-6cded39ea2dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309706(v=AX.60)
 ms:contentKeyID: 39555367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

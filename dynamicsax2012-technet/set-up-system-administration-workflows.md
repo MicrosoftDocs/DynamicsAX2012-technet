@@ -2,8 +2,9 @@
 title: Set up System administration workflows
 TOCTitle: Set up System administration workflows
 ms:assetid: 70323721-966b-42e5-99c3-c14463482fd5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242645(v=AX.60)
 ms:contentKeyID: 36058054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

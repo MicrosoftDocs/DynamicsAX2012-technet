@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceUtilityBase.GetCurrentCartType Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: GetCurrentCartType Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceUtilityBase.GetCurrentCartType(System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.serviceutilitybase.getcurrentcarttype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.serviceutilitybase.getcurrentcarttype(v=AX.60)
 ms:contentKeyID: 65317665
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual CartType GetCurrentCartType(
 #### Parameters
 
   - isCheckoutSession  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

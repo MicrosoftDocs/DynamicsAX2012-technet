@@ -2,8 +2,9 @@
 title: Set up general warehouse parameters
 TOCTitle: Set up general warehouse parameters
 ms:assetid: 5e70fa76-2aeb-4272-8861-eb9d8c313166
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553165(v=AX.60)
 ms:contentKeyID: 62200076
+author: Khairunj
 ms.date: 02/17/2015
 mtps_version: v=AX.60
 f1_keywords:

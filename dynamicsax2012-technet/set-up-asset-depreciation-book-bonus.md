@@ -2,8 +2,9 @@
 title: Set up asset depreciation book bonus
 TOCTitle: Set up asset depreciation book bonus
 ms:assetid: 310fe3e9-de3b-4184-9f70-6d55d46dd346
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570044(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570044(v=AX.60)
 ms:contentKeyID: 36056326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ You can use the **Depreciation book special depreciation allowance** form to ent
 
 ## See also
 
-[Depreciation book bonus depreciation (form)](https://technet.microsoft.com/en-us/library/aa584809\(v=ax.60\))
+[Depreciation book bonus depreciation (form)](https://technet.microsoft.com/library/aa584809\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Setting up and maintaining cost accounting
 TOCTitle: Setting up and maintaining cost accounting
 ms:assetid: 81f9c7bf-d7b4-49b1-a718-1a8f2d7a528c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571553(v=AX.60)
 ms:contentKeyID: 36058358
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

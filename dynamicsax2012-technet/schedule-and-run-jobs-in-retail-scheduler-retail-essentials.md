@@ -2,8 +2,9 @@
 title: Schedule and run jobs in Retail Scheduler (Retail essentials)
 TOCTitle: Schedule and run jobs in Retail Scheduler (Retail essentials)
 ms:assetid: a71c9229-3fa8-41b5-b1ed-9534426f81c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736928(v=AX.60)
 ms:contentKeyID: 62200401
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

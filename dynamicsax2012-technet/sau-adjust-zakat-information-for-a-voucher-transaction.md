@@ -2,8 +2,9 @@
 title: (SAU) Adjust Zakat information for a voucher transaction
 TOCTitle: (SAU) Adjust Zakat information for a voucher transaction
 ms:assetid: cc534529-9c22-43c2-8864-0505f019978b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242901(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242901(v=AX.60)
 ms:contentKeyID: 36059450
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,11 +46,11 @@ Before you close out a fiscal year, you can review the Zakat reports generated d
 
 [(SAU) Generate Zakat reports](sau-generate-zakat-reports.md)
 
-[Voucher transactions (form)](https://technet.microsoft.com/en-us/library/aa583215\(v=ax.60\))
+[Voucher transactions (form)](https://technet.microsoft.com/library/aa583215\(v=ax.60\))
 
 [(SAU) Enter Zakat information for journal transactions](sau-enter-zakat-information-for-journal-transactions.md)
 
-[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
+[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/library/hh242233\(v=ax.60\))
 
   
 

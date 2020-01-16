@@ -1,9 +1,10 @@
-﻿---
+---
 title: SearchArea.IsUnbounded Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsUnbounded Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SearchArea.IsUnbounded
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.searcharea.isunbounded(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.searcharea.isunbounded(v=AX.60)
 ms:contentKeyID: 62205758
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property bool IsUnbounded {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true the search area is unbounded; otherwise, false.  
 
 ## See Also

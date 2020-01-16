@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteConfiguration.Validate Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: Validate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteConfiguration.Validate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqliteconfiguration.validate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqliteconfiguration.validate(v=AX.60)
 ms:contentKeyID: 65320645
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

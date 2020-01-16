@@ -2,8 +2,9 @@
 title: Set up users to sign documents electronically
 TOCTitle: Set up users to sign documents electronically
 ms:assetid: 4d1aff77-e1c9-40ca-b862-d7c30e1eb15d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309673(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309673(v=AX.60)
 ms:contentKeyID: 36057025
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

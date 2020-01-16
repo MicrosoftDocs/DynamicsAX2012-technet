@@ -2,8 +2,9 @@
 title: Setting up manufacturing execution
 TOCTitle: Setting up manufacturing execution
 ms:assetid: 691a2403-2f6c-4080-aa48-6ff426297a94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571167(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571167(v=AX.60)
 ms:contentKeyID: 36057964
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

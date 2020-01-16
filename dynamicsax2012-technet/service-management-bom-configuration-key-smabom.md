@@ -2,8 +2,9 @@
 title: Service Management - BOM configuration key (SMABom)
 TOCTitle: Service Management - BOM configuration key (SMABom)
 ms:assetid: f3828eb3-9d44-4b26-aa2d-818b14bbd597
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa600234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa600234(v=AX.60)
 ms:contentKeyID: 36997781
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Template BOMs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600253(v=ax.60)">Template BOMs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600253(v=ax.60)">Template BOMs (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +82,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

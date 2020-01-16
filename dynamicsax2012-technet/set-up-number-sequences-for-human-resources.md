@@ -2,8 +2,9 @@
 title: Set up number sequences for Human resources
 TOCTitle: Set up number sequences for Human resources
 ms:assetid: 8c083f02-3c79-401f-8835-7f2dab6c0588
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209346(v=AX.60)
 ms:contentKeyID: 36058475
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

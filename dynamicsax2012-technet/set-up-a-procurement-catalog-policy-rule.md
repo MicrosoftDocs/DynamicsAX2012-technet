@@ -2,8 +2,9 @@
 title: Set up a procurement catalog policy rule
 TOCTitle: Set up a procurement catalog policy rule
 ms:assetid: d00cc5a8-1aad-4e06-95e4-71f1be38b548
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242915(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242915(v=AX.60)
 ms:contentKeyID: 36059483
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the following procedure to set up a catalog policy rule to apply to users wh
 
 [Key tasks: Create purchasing policies](key-tasks-create-purchasing-policies.md)
 
-[Catalog policy rule (form)](https://technet.microsoft.com/en-us/library/hh242247\(v=ax.60\))
+[Catalog policy rule (form)](https://technet.microsoft.com/library/hh242247\(v=ax.60\))
 
 [Key tasks: Create procurement catalogs](key-tasks-create-procurement-catalogs.md)
 

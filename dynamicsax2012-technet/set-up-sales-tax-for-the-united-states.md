@@ -2,8 +2,9 @@
 title: Set up sales tax for the United States
 TOCTitle: Set up sales tax for the United States
 ms:assetid: 77fe630e-dd16-473c-a0c0-9ce0779553eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550046(v=AX.60)
 ms:contentKeyID: 36058217
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ The following steps describe how to set up sales for the United States.
 
 2.  If your organization is located in the United States, open the **General ledger parameters** form. (Click **General ledger** \> **Setup** \> **General ledger parameters**.) Click **Sales tax**, and then select the **Apply U.S. taxation rules** check box.
     
-    For more information, see [(USA) Applying U.S. sales tax and use tax rules](usa-applying-u-s-sales-tax-and-use-tax-rules.md) and [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\)).
+    For more information, see [(USA) Applying U.S. sales tax and use tax rules](usa-applying-u-s-sales-tax-and-use-tax-rules.md) and [General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\)).
 
 3.  Complete the following sales tax setup activities:
     

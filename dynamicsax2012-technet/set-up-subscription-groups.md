@@ -2,8 +2,9 @@
 title: Set up subscription groups
 TOCTitle: Set up subscription groups
 ms:assetid: 8d40cdfe-3325-4e8e-afda-e382fc54fc3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498343(v=AX.60)
 ms:contentKeyID: 36058492
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Subscription groups (form)](https://technet.microsoft.com/en-us/library/aa553150\(v=ax.60\))
+[Subscription groups (form)](https://technet.microsoft.com/library/aa553150\(v=ax.60\))
 
 [About subscription groups](about-subscription-groups.md)
 

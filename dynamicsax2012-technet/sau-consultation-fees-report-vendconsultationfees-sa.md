@@ -2,8 +2,9 @@
 title: (SAU) Consultation fees report (VendConsultationFees_SA)
 TOCTitle: (SAU) Consultation fees report (VendConsultationFees_SA)
 ms:assetid: 59cd60b3-a3a9-4f47-804a-f95e6e06d1e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352252(v=AX.60)
 ms:contentKeyID: 36687878
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

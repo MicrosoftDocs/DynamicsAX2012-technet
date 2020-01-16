@@ -2,8 +2,9 @@
 title: Set up update of sales order lines
 TOCTitle: Set up update of sales order lines
 ms:assetid: 52f49ffa-2a7f-4273-bd07-930339161daa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548923(v=AX.60)
 ms:contentKeyID: 36057292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

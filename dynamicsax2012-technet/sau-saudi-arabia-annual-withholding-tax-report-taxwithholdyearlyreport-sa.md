@@ -2,8 +2,9 @@
 title: (SAU) Saudi Arabia annual withholding tax report (TaxWithholdYearlyReport_SA)
 TOCTitle: (SAU) Saudi Arabia annual withholding tax report (TaxWithholdYearlyReport_SA)
 ms:assetid: 5779e1b5-9b82-4c66-a857-49b5d961be74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352250(v=AX.60)
 ms:contentKeyID: 36687876
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

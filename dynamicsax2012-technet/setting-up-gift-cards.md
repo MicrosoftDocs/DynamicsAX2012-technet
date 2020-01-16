@@ -2,8 +2,9 @@
 title: Setting up gift cards
 TOCTitle: Setting up gift cards
 ms:assetid: fd4677f0-db59-43e0-99c4-bb99b5bd040e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597300(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597300(v=AX.60)
 ms:contentKeyID: 39519389
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

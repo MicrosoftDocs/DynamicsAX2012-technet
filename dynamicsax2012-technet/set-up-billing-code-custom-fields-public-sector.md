@@ -2,8 +2,9 @@
 title: Set up billing code custom fields (Public sector)
 TOCTitle: Set up billing code custom fields (Public sector)
 ms:assetid: 1644b031-3278-4b05-89e1-4becb5119ad4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208513(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208513(v=AX.60)
 ms:contentKeyID: 36056255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

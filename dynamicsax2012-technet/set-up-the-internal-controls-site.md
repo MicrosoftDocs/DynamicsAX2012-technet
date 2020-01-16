@@ -2,8 +2,9 @@
 title: Set up the Internal controls site
 TOCTitle: Set up the Internal controls site
 ms:assetid: 37391592-8984-4a22-b21f-429d64f8cf69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271496(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271496(v=AX.60)
 ms:contentKeyID: 36384128
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

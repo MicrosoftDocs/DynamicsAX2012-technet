@@ -2,8 +2,9 @@
 title: Setting up and maintaining Travel and expense
 TOCTitle: Setting up and maintaining Travel and expense
 ms:assetid: 5c14f46e-5914-4a39-a8de-f50e969e69a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242506(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242506(v=AX.60)
 ms:contentKeyID: 36057568
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

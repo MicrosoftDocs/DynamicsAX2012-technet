@@ -2,8 +2,9 @@
 title: Set up Accounts payable workflows
 TOCTitle: Set up Accounts payable workflows
 ms:assetid: 5fbf73a4-d3ec-433a-943d-c7529fd5d782
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242526(v=AX.60)
 ms:contentKeyID: 36057598
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -359,7 +360,7 @@ You can assign a workflow element to the following groups of participants.
 
 ## See also
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
 [Key tasks: Vendor invoice policies](key-tasks-vendor-invoice-policies.md)
 

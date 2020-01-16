@@ -2,8 +2,9 @@
 title: Specify an inventory model for inventory close
 TOCTitle: Specify an inventory model for inventory close
 ms:assetid: eb48d918-f99c-4623-9ae4-6fa4c990dadb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243250(v=AX.60)
 ms:contentKeyID: 36059868
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up hardware profiles
 TOCTitle: Set up hardware profiles
 ms:assetid: b635525a-0fde-477f-a122-a6a149038f67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597217(v=AX.60)
 ms:contentKeyID: 39519289
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -55,7 +56,7 @@ A hardware profile contains information about the hardware that is connected to 
         
 
         > [!WARNING]
-        > <P>You must set the base unit of measure for a product to a unit of weight. For more information about how to set up the base unit of measure for a product, see <A href="https://technet.microsoft.com/en-us/library/hh209233(v=ax.60)">Units (form)</A>.</P>
+        > <P>You must set the base unit of measure for a product to a unit of weight. For more information about how to set up the base unit of measure for a product, see <A href="https://technet.microsoft.com/library/hh209233(v=ax.60)">Units (form)</A>.</P>
 
     
       - **Keylock** – Specify the settings for your keylock. The keylock settings specify whether an OPOS keylock or a logon dialog box controls access to the register.
@@ -86,7 +87,7 @@ A hardware profile contains information about the hardware that is connected to 
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
-[POS hardware profile (form)](https://technet.microsoft.com/en-us/library/hh580636\(v=ax.60\))
+[POS hardware profile (form)](https://technet.microsoft.com/library/hh580636\(v=ax.60\))
 
   
 

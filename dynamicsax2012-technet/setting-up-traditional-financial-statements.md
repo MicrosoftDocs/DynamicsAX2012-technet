@@ -2,8 +2,9 @@
 title: Setting up traditional financial statements
 TOCTitle: Setting up traditional financial statements
 ms:assetid: bcaa0900-8eca-4299-9386-5436d5af906d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213603(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213603(v=AX.60)
 ms:contentKeyID: 36059138
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

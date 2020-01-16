@@ -2,8 +2,9 @@
 title: Set up ledger posting groups for sales tax
 TOCTitle: Set up ledger posting groups for sales tax
 ms:assetid: d3235eac-961a-4412-9b28-75eae8105278
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551052(v=AX.60)
 ms:contentKeyID: 36059508
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Set up the sales tax ledger posting groups to fit the needs of the organization.
 
 5.  On the **General** tab, select the ledger accounts that are used to record various types of sales taxes.
 
-Depending on whether the **Apply U.S. taxation rules** check box is selected in the **Sales tax** area of the **General ledger parameters** form, various fields for ledger posting groups are available. For more information about these fields, see [Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\)).
+Depending on whether the **Apply U.S. taxation rules** check box is selected in the **Sales tax** area of the **General ledger parameters** form, various fields for ledger posting groups are available. For more information about these fields, see [Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\)).
 
 If the **Apply U.S. taxation rules** check box is selected, the following fields are available:
 
@@ -59,7 +60,7 @@ If the **Apply U.S. taxation rules** check box is not selected, the following fi
 
 ## See also
 
-[Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
+[Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\))
 
   
 

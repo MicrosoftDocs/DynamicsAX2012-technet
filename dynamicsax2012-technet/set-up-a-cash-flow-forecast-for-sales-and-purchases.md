@@ -2,8 +2,9 @@
 title: Set up a cash flow forecast for sales and purchases
 TOCTitle: Set up a cash flow forecast for sales and purchases
 ms:assetid: acaf3c6d-e030-4d18-975a-7bd31be9c21a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498576(v=AX.60)
 ms:contentKeyID: 36058921
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

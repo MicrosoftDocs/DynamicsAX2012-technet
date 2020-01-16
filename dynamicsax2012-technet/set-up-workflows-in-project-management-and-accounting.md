@@ -2,8 +2,9 @@
 title: Set up workflows in Project management and accounting
 TOCTitle: Set up workflows in Project management and accounting
 ms:assetid: 76435fe5-560c-4190-bab6-317471ddcc6c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209244(v=AX.60)
 ms:contentKeyID: 36058186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

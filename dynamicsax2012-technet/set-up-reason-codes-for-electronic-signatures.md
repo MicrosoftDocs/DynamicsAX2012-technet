@@ -2,8 +2,9 @@
 title: Set up reason codes for electronic signatures
 TOCTitle: Set up reason codes for electronic signatures
 ms:assetid: 151a02bb-e63a-4935-a182-f405aabde5c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309599(v=AX.60)
 ms:contentKeyID: 36056058
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreOperationsManager.SuspendShift Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: SuspendShift Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.StoreOperationsManager.SuspendShift(System.String,System.Int64,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.storeoperationsmanager.suspendshift(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.storeoperationsmanager.suspendshift(v=AX.60)
 ms:contentKeyID: 65317953
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,17 +60,17 @@ Shift^ SuspendShift(
 #### Parameters
 
   - terminalId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - shiftId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - transactionId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

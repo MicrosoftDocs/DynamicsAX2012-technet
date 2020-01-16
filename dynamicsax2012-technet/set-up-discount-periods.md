@@ -2,8 +2,9 @@
 title: Set up discount periods
 TOCTitle: Set up discount periods
 ms:assetid: 49db3819-d47f-4a60-a494-8616ee224a5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580630(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580630(v=AX.60)
 ms:contentKeyID: 39519121
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

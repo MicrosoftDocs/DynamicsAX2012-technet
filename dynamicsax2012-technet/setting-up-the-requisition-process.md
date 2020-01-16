@@ -2,8 +2,9 @@
 title: Setting up the requisition process
 TOCTitle: Setting up the requisition process
 ms:assetid: 7b51b2f5-e443-4299-8275-496d130d91b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209264(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209264(v=AX.60)
 ms:contentKeyID: 36058256
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

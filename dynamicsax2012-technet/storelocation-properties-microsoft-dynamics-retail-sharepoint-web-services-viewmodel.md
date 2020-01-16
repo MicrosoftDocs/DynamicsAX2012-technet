@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreLocation Properties (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: StoreLocation Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.StoreLocation
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.storelocation_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.storelocation_properties(v=AX.60)
 ms:contentKeyID: 62203583
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

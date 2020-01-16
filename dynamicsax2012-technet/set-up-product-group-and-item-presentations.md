@@ -2,8 +2,9 @@
 title: Set up product group and item presentations
 TOCTitle: Set up product group and item presentations
 ms:assetid: 4dd2d889-6626-4fda-8b11-41cdc02e9d9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497121(v=AX.60)
 ms:contentKeyID: 44080981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

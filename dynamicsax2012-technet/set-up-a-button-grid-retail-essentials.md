@@ -2,8 +2,9 @@
 title: Set up a button grid (Retail essentials)
 TOCTitle: Set up a button grid (Retail essentials)
 ms:assetid: d0e4ab2f-0916-489c-8b98-03ce7532409a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736956(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736956(v=AX.60)
 ms:contentKeyID: 62200433
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

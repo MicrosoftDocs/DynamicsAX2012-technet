@@ -2,8 +2,9 @@
 title: Setting up Retail POS (Retail essentials)
 TOCTitle: Setting up Retail POS (Retail essentials)
 ms:assetid: 4701931d-cdf9-4503-9d93-0197d2cdf218
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716083(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716083(v=AX.60)
 ms:contentKeyID: 62200463
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

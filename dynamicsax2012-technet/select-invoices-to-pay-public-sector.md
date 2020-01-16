@@ -2,8 +2,9 @@
 title: Select invoices to pay (Public sector)
 TOCTitle: Select invoices to pay (Public sector)
 ms:assetid: 24467991-2607-4cd8-8057-60c520a48816
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208515(v=AX.60)
 ms:contentKeyID: 36056261
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

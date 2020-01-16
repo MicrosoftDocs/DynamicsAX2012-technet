@@ -2,8 +2,9 @@
 title: Set up collections
 TOCTitle: Set up collections
 ms:assetid: c3c9dcda-9cca-4a80-bab2-032615dbc36e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242837(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242837(v=AX.60)
 ms:contentKeyID: 36059289
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,13 +82,13 @@ Set up an aging period definition, which defines the columns that appear on the 
 
 2.  Enter a name for the aging period definition.
 
-3.  On the **Periods** FastTab, create aging periods. For more information, see [Aging period definitions (form)](https://technet.microsoft.com/en-us/library/aa634713\(v=ax.60\)).
+3.  On the **Periods** FastTab, create aging periods. For more information, see [Aging period definitions (form)](https://technet.microsoft.com/library/aa634713\(v=ax.60\)).
 
 4.  Close the form.
 
 ## Create an aging snapshot
 
-Create aging snapshot records for all customers or for the customers in a customer pool. Aging snapshot information is shown on the **Collections** list page and in the **Collections** form. You must create an aging snapshot before you can use the list page. The list page shows information only for customers for whom an aging snapshot has been created. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/en-us/library/hh242719\(v=ax.60\)).
+Create aging snapshot records for all customers or for the customers in a customer pool. Aging snapshot information is shown on the **Collections** list page and in the **Collections** form. You must create an aging snapshot before you can use the list page. The list page shows information only for customers for whom an aging snapshot has been created. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/library/hh242719\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Periodic** \> **Collections** \> **Customer aging snapshot**.
 
@@ -97,7 +98,7 @@ Create aging snapshot records for all customers or for the customers in a custom
 
 4.  Select the type of date in the transaction records to use to assign transactions to aging periods.
 
-5.  Select a date to base the aging snapshot calculations on. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/en-us/library/hh242719\(v=ax.60\)).
+5.  Select a date to base the aging snapshot calculations on. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/library/hh242719\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -113,7 +114,7 @@ Create aging snapshot records for all customers or for the customers in a custom
 
 ## Optional: Set up customer pools
 
-You can set up customer pools to represent groups of customers. You can use customer pools as filters for the customer information that is displayed on collections list pages, in the **Collections** form, or when you create aging snapshots. For more information, see [Customer pools (form)](https://technet.microsoft.com/en-us/library/hh227560\(v=ax.60\)).
+You can set up customer pools to represent groups of customers. You can use customer pools as filters for the customer information that is displayed on collections list pages, in the **Collections** form, or when you create aging snapshots. For more information, see [Customer pools (form)](https://technet.microsoft.com/library/hh227560\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Setup** \> **Collections** \> **Customer pools**.
 
@@ -173,7 +174,7 @@ If you will organize your collections work by using cases, set up a case categor
 
 5.  On the **Activities** FastTab, specify options for a default activity, a default follow-up activity, or both.
 
-6.  Optional: On the **General** FastTab, enter additional information about the case category. For more information, see [Case categories (form)](https://technet.microsoft.com/en-us/library/hh209319\(v=ax.60\)).
+6.  Optional: On the **General** FastTab, enter additional information about the case category. For more information, see [Case categories (form)](https://technet.microsoft.com/library/hh209319\(v=ax.60\)).
 
 7.  Close the form.
 
@@ -183,7 +184,7 @@ Set up journal names to use when transactions are processed in the **Collections
 
 1.  Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**.
 
-2.  Create three journal names that have the following properties. Click **New** to create each journal name. For more information, see [Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\)).
+2.  Create three journal names that have the following properties. Click **New** to create each journal name. For more information, see [Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\)).
     
     <table>
     <colgroup>
@@ -231,7 +232,7 @@ Set up a default reason code to use when transactions are written off in the **C
 
 ## Set up a folder for email attachments and create email templates
 
-If you will send email messages that have Microsoft Excel attachments by using the **Collections** form, set up a folder for email attachments. You can also create email templates. The folder for email attachments is required, but the email templates are optional. For more information about email templates and variables, see [E-mail templates (form)](https://technet.microsoft.com/en-us/library/aa577102\(v=ax.60\)).
+If you will send email messages that have Microsoft Excel attachments by using the **Collections** form, set up a folder for email attachments. You can also create email templates. The folder for email attachments is required, but the email templates are optional. For more information about email templates and variables, see [E-mail templates (form)](https://technet.microsoft.com/library/aa577102\(v=ax.60\)).
 
 1.  Click **System administration** \> **Setup** \> **System** \> **E-mail parameters**.
 
@@ -315,7 +316,7 @@ If multiple people in your organization do collections work, you can set up coll
 
 8.  Optional: Repeat steps 6 and 7 for additional collections agents.
 
-9.  Optional: In the **Collections agent** form, assign one or more customer pools to the collections agents. For more information, see [Collections agents (form)](https://technet.microsoft.com/en-us/library/hh209479\(v=ax.60\)).
+9.  Optional: In the **Collections agent** form, assign one or more customer pools to the collections agents. For more information, see [Collections agents (form)](https://technet.microsoft.com/library/hh209479\(v=ax.60\)).
 
 10. Close the form.
 

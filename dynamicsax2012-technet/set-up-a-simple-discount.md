@@ -2,8 +2,9 @@
 title: Set up a simple discount
 TOCTitle: Set up a simple discount
 ms:assetid: 3d5f92e9-4445-499b-8f38-3ce947f8fb86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497740(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497740(v=AX.60)
 ms:contentKeyID: 62200056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

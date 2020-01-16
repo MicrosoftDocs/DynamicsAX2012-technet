@@ -2,8 +2,9 @@
 title: Set up update of purchase order lines
 TOCTitle: Set up update of purchase order lines
 ms:assetid: df8ccf54-80ce-4c61-b3be-d176a80c74f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551285(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551285(v=AX.60)
 ms:contentKeyID: 36059699
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can set up your parameters to make sure that purchase order lines are update
 
 ## See also
 
-[Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\))
+[Procurement and sourcing parameters (form)](https://technet.microsoft.com/library/hh208706\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Set up staff members
 TOCTitle: Set up staff members
 ms:assetid: 764a2b67-5542-4b0a-acd9-b987be0602cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597131(v=AX.60)
 ms:contentKeyID: 39519185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -92,7 +93,7 @@ A position is an individual instance of a job. You assign each worker to a posit
     
     You must assign the worker to a position. Otherwise, the worker does not have appropriate access to the POS system.
 
-10. Enter any other appropriate information in the **Profile**, **Employment**, **Absence**, **Compensation**, **Payroll**, and **Competencies and development** sections. For more information, see [Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\)).
+10. Enter any other appropriate information in the **Profile**, **Employment**, **Absence**, **Compensation**, **Payroll**, and **Competencies and development** sections. For more information, see [Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\)).
     
     For general information about how to set up a worker in Microsoft Dynamics AX, see [Key tasks: Workers](key-tasks-workers.md).
 
@@ -102,11 +103,11 @@ A position is an individual instance of a job. You assign each worker to a posit
 
 [Set up permissions and operations](set-up-permissions-and-operations.md)
 
-[Job (form)](https://technet.microsoft.com/en-us/library/hh209557\(v=ax.60\))
+[Job (form)](https://technet.microsoft.com/library/hh209557\(v=ax.60\))
 
-[Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\))
+[Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\))
 
-[Worker (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597277\(v=ax.60\))
+[Worker (form) (Retail)](https://technet.microsoft.com/library/hh597277\(v=ax.60\))
 
   
 

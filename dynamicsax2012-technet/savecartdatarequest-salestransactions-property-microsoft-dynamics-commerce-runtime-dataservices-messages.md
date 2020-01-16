@@ -1,9 +1,10 @@
-﻿---
+---
 title: SaveCartDataRequest.SalesTransactions Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: SalesTransactions Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SaveCartDataRequest.SalesTransactions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.savecartdatarequest.salestransactions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.savecartdatarequest.salestransactions(v=AX.60)
 ms:contentKeyID: 65321985
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property IEnumerable<SalesTransaction^>^ SalesTransactions {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [IEnumerable\<T\>](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\)).  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)).  
 
 ## See Also
 

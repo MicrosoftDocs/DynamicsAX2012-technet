@@ -2,8 +2,9 @@
 title: Setting up and maintaining batch attributes
 TOCTitle: Setting up and maintaining batch attributes
 ms:assetid: 9f028992-c7be-4db8-8ccd-c09c43b0dc8f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209443(v=AX.60)
 ms:contentKeyID: 36058755
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

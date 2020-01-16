@@ -2,8 +2,9 @@
 title: SQL Server High Availability best practices
 TOCTitle: SQL Server High Availability best practices
 ms:assetid: d175810d-6d0d-49a3-a889-0bd545c325a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ244575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ244575(v=AX.60)
 ms:contentKeyID: 48538676
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

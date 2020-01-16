@@ -2,8 +2,9 @@
 title: SEPA direct debit overview
 TOCTitle: SEPA direct debit overview
 ms:assetid: 0815eaa6-1e9b-4fd8-9921-819431357e3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268411(v=AX.60)
 ms:contentKeyID: 54916949
+author: Khairunj
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 f1_keywords:

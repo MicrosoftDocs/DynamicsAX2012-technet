@@ -2,8 +2,9 @@
 title: Settle a postdated check for a vendor
 TOCTitle: Settle a postdated check for a vendor
 ms:assetid: c720938a-31cb-426e-a309-bcabcee3b819
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242847(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242847(v=AX.60)
 ms:contentKeyID: 36059311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ Use the **Vendor postdated checks** form to settle postdated checks received fro
 
 ## See also
 
-[Vendor postdated checks (form)](https://technet.microsoft.com/en-us/library/hh242868\(v=ax.60\))
+[Vendor postdated checks (form)](https://technet.microsoft.com/library/hh242868\(v=ax.60\))
 
   
 

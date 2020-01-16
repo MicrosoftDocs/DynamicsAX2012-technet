@@ -2,8 +2,9 @@
 title: Sites Services functionality configuration key (SitesSvcSitesService)
 TOCTitle: Sites Services functionality configuration key (SitesSvcSitesService)
 ms:assetid: 0cd4976c-443a-40e1-ab9b-1334d33b1087
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467542(v=AX.60)
 ms:contentKeyID: 36991689
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -45,27 +46,27 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Configuration checklist</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209481(v=ax.60)">(USA) Configuration checklist - Sites Services (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209481(v=ax.60)">(USA) Configuration checklist - Sites Services (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Available solutions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209376(v=ax.60)">(USA) Available solutions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209376(v=ax.60)">(USA) Available solutions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Company web address</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209248(v=ax.60)">(USA) Company web address (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209248(v=ax.60)">(USA) Company web address (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Exceptions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587119(v=ax.60)">AIF exceptions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587119(v=ax.60)">AIF exceptions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Operation log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242211(v=ax.60)">(USA) Operation log (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242211(v=ax.60)">(USA) Operation log (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Online service account</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209568(v=ax.60)">(USA) Online service account (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209568(v=ax.60)">(USA) Online service account (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +104,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

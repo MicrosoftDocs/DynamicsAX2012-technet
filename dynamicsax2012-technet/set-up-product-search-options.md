@@ -2,8 +2,9 @@
 title: Set up product search options
 TOCTitle: Set up product search options
 ms:assetid: c61118c1-e2c0-4dbd-a3d3-f2da7e031364
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497825(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497825(v=AX.60)
 ms:contentKeyID: 62200155
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,7 +78,7 @@ To set up search criteria for products, follow these steps.
 
 8.  In the **Search parameters** form, set the options as you require. For example, enter information about the number of search results to return, and specify whether search terms can be partially matched.
 
-9.  Optional: In the product details for an individual product, you can associate a search term with the product. For more information, see [Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\)).
+9.  Optional: In the product details for an individual product, you can associate a search term with the product. For more information, see [Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\)).
 
 ## Technical information for system administrators
 

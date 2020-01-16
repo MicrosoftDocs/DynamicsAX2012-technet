@@ -2,8 +2,9 @@
 title: Set up payment types for vendor methods of payment
 TOCTitle: Set up payment types for vendor methods of payment
 ms:assetid: 602d3c50-1935-48dd-a891-289a0499ed37
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231512(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231512(v=AX.60)
 ms:contentKeyID: 36057611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can assign a payment type to a payment method at any time. However, payments
 
 ## See also
 
-[Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
+[Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\))
 
   
 

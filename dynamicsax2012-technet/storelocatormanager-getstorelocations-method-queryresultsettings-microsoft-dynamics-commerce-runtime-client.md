@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreLocatorManager.GetStoreLocations Method (QueryResultSettings) (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetStoreLocations Method (QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.StoreLocatorManager.GetStoreLocations(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.storelocatormanager.getstorelocations(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.storelocatormanager.getstorelocations(v=AX.60)
 ms:contentKeyID: 65319514
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -52,7 +53,7 @@ ReadOnlyCollection<OrgUnitLocation^>^ GetStoreLocations(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[OrgUnitLocation](orgunitlocation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[OrgUnitLocation](orgunitlocation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

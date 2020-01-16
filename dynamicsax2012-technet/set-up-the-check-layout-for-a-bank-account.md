@@ -2,8 +2,9 @@
 title: Set up the check layout for a bank account
 TOCTitle: Set up the check layout for a bank account
 ms:assetid: 23e4e430-0135-431c-9c8e-18181169f3fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230993(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230993(v=AX.60)
 ms:contentKeyID: 36676375
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ This topic explains how to specify the position of a default check format on a p
 
 ## See also
 
-[Check layout (form)](https://technet.microsoft.com/en-us/library/aa576973\(v=ax.60\))
+[Check layout (form)](https://technet.microsoft.com/library/aa576973\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Save  a workflow
 TOCTitle: Save  a workflow
 ms:assetid: d09c870c-9642-4659-9ed8-d19101dd9bf3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202108(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202108(v=AX.60)
 ms:contentKeyID: 35949362
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

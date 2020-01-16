@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartDataLevel Enumeration (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: ShoppingCartDataLevel Enumeration
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCartDataLevel
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shoppingcartdatalevel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shoppingcartdatalevel(v=AX.60)
 ms:contentKeyID: 62206065
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

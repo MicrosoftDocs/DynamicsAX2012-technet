@@ -2,8 +2,9 @@
 title: Specify absence information for a worker
 TOCTitle: Specify absence information for a worker
 ms:assetid: 716fe8d7-f7a2-4add-a80a-27b6ae14e4c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450756(v=AX.60)
 ms:contentKeyID: 36966728
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,11 +50,11 @@ For each day of the week, enter the number of working hours that the worker is e
 
 [Manage absence in Human resources](manage-absence-in-human-resources.md)
 
-[Absence setup (form)](https://technet.microsoft.com/en-us/library/aa583231\(v=ax.60\))
+[Absence setup (form)](https://technet.microsoft.com/library/aa583231\(v=ax.60\))
 
-[Request future absences (form)](https://technet.microsoft.com/en-us/library/aa556621\(v=ax.60\))
+[Request future absences (form)](https://technet.microsoft.com/library/aa556621\(v=ax.60\))
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
   
 

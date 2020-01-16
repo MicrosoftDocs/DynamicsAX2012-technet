@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesOrderSearchCriteria.SearchType Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SearchType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrderSearchCriteria.SearchType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesordersearchcriteria.searchtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesordersearchcriteria.searchtype(v=AX.60)
 ms:contentKeyID: 65316787
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

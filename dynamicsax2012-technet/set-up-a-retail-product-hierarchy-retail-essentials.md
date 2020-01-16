@@ -2,8 +2,9 @@
 title: Set up a retail product hierarchy (Retail essentials)
 TOCTitle: Set up a retail product hierarchy (Retail essentials)
 ms:assetid: ce122d50-a117-4d51-a218-a20f9255a5e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736953(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736953(v=AX.60)
 ms:contentKeyID: 62200430
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Before you can add products and product attributes to the retail product hierarc
 
 7.  After you finish setting up the category hierarchy, click **Close** to save the category hierarchy and return to the **Supplemental retail hierarchies** list page.
 
-For more information about the fields in the **Supplemental retail hierarchy** form, see [Supplemental retail hierarchies (form)](https://technet.microsoft.com/en-us/library/hh597337\(v=ax.60\)).
+For more information about the fields in the **Supplemental retail hierarchy** form, see [Supplemental retail hierarchies (form)](https://technet.microsoft.com/library/hh597337\(v=ax.60\)).
 
 ## Maintain the retail product hierarchy
 
@@ -61,7 +62,7 @@ After you create the structure of a retail product hierarchy, you can assign pro
 
 9.  On the **Category attribute values** FastTab, view values for the category attributes.
     
-    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## Maintain a supplemental retail hierarchy
 
@@ -83,7 +84,7 @@ To modify a supplemental retail hierarchy, follow these steps:
 
 7.  On the **Category attribute values** FastTab, view values for the category attributes.
     
-    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+    You add category attributes in the **Category hierarchy** form. For more information, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## See also
 

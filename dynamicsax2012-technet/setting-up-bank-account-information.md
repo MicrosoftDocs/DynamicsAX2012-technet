@@ -2,8 +2,9 @@
 title: Setting up bank account information
 TOCTitle: Setting up bank account information
 ms:assetid: 041cb41d-d978-4729-b5a5-5263000bd80d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230658(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230658(v=AX.60)
 ms:contentKeyID: 36055942
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

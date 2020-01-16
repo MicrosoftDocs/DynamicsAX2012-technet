@@ -2,8 +2,9 @@
 title: Shared Currencies and Exchange Rates (White paper)
 TOCTitle: Shared Currencies and Exchange Rates
 ms:assetid: 31395615-b0ba-49ba-aa3d-8b613371a169
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272861(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272861(v=AX.60)
 ms:contentKeyID: 36584385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

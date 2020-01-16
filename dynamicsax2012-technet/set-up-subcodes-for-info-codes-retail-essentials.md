@@ -2,8 +2,9 @@
 title: Set up subcodes for info codes (Retail essentials)
 TOCTitle: Set up subcodes for info codes (Retail essentials)
 ms:assetid: 87c57731-9467-4746-9e1e-b3502f17512c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736911(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736911(v=AX.60)
 ms:contentKeyID: 62200392
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

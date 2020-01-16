@@ -2,8 +2,9 @@
 title: Set up a minimum/maximum key
 TOCTitle: Set up a minimum/maximum key
 ms:assetid: d9f71886-d730-400f-9b64-847d7de7fe2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551208(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551208(v=AX.60)
 ms:contentKeyID: 36941360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,7 +84,7 @@ You want to set up a minimum key that accounts for increased seasonal demand dur
 
 ## See also
 
-[Minimum/maximum keys (form)](https://technet.microsoft.com/en-us/library/aa633906\(v=ax.60\))
+[Minimum/maximum keys (form)](https://technet.microsoft.com/library/aa633906\(v=ax.60\))
 
   
 

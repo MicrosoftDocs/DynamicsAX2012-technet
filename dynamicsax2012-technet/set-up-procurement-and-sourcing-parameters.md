@@ -2,8 +2,9 @@
 title: Set up procurement and sourcing parameters
 TOCTitle: Set up procurement and sourcing parameters
 ms:assetid: 1a655389-e7bb-49ac-8c65-5f89474feb48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208453(v=AX.60)
 ms:contentKeyID: 36056119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,7 +62,7 @@ Most default values can be overridden at transaction time.
 
 [Set up requests for quotation](set-up-requests-for-quotation.md)
 
-[Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\))
+[Procurement and sourcing parameters (form)](https://technet.microsoft.com/library/hh208706\(v=ax.60\))
 
   
 

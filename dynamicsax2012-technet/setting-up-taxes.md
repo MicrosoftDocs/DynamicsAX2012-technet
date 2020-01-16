@@ -2,8 +2,9 @@
 title: Setting up taxes
 TOCTitle: Setting up taxes
 ms:assetid: 11338930-cd39-4326-b831-b14f574b9e31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580571(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580571(v=AX.60)
 ms:contentKeyID: 39519049
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

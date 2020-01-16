@@ -2,8 +2,9 @@
 title: Set up shipping charges for retail stores
 TOCTitle: Set up shipping charges for retail stores
 ms:assetid: e5370f22-6e5a-4fbb-a108-e68f5e082285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720770(v=AX.60)
 ms:contentKeyID: 62231567
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User

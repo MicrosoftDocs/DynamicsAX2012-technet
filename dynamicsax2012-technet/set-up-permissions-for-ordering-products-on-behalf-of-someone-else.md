@@ -2,8 +2,9 @@
 title: Set up permissions for ordering products on behalf of someone else
 TOCTitle: Set up permissions for ordering products on behalf of someone else
 ms:assetid: 0f0a0036-7331-470c-a8b8-c92e97c709f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242135(v=AX.60)
 ms:contentKeyID: 36056015
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,9 +81,9 @@ As an administrator of the purchasing process, you can grant permissions to work
 
 ## See also
 
-[Purchase requisition permissions (form)](https://technet.microsoft.com/en-us/library/hh242815\(v=ax.60\))
+[Purchase requisition permissions (form)](https://technet.microsoft.com/library/hh242815\(v=ax.60\))
 
-[Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh209453\(v=ax.60\))
+[Purchase requisitions (form)](https://technet.microsoft.com/library/hh209453\(v=ax.60\))
 
 [About purchase requisitions](about-purchase-requisitions.md)
 

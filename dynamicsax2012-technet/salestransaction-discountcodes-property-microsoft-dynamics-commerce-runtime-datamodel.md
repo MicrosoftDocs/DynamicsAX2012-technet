@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesTransaction.DiscountCodes Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: DiscountCodes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.DiscountCodes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction.discountcodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction.discountcodes(v=AX.60)
 ms:contentKeyID: 49850215
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property Collection<String^>^ DiscountCodes {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
-Returns [Collection\<T\>](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
+Returns [Collection\<T\>](https://technet.microsoft.com/library/ms132397\(v=ax.60\)).  
 
 ## See Also
 

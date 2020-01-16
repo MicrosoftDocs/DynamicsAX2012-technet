@@ -2,8 +2,9 @@
 title: Set up mobile device menus to display work or activities
 TOCTitle: Set up mobile device menus to display work or activities
 ms:assetid: a5c41be6-43c9-4e9c-8b98-12384e04191b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553188(v=AX.60)
 ms:contentKeyID: 62200129
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

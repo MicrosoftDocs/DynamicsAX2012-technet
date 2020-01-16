@@ -2,8 +2,9 @@
 title: Set up credit card authorizations
 TOCTitle: Set up credit card authorizations
 ms:assetid: fc467642-c6b1-47eb-8c4f-3db106e58046
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243306(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243306(v=AX.60)
 ms:contentKeyID: 36060090
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ You can set up credit card authorizations to be completed by the Payment Service
 
 8.  Optional: For added security, you can select the **Prompt for card verification value** check box. A three- or four-digit card verification value, also named a security code, is required for authorization. This card verification value is not stored in Microsoft Dynamics AX.
 
-9.  Click **Credit card types** and set up information for each type of credit card that you accept. For more information, see [Credit card types (form)](https://technet.microsoft.com/en-us/library/hh209565\(v=ax.60\)).
+9.  Click **Credit card types** and set up information for each type of credit card that you accept. For more information, see [Credit card types (form)](https://technet.microsoft.com/library/hh209565\(v=ax.60\)).
 
 10. Close the **Credit card types** form.
 
@@ -89,9 +90,9 @@ You can change the Payment Services for Microsoft Dynamics ERP account online, i
 
 [About credit card authorizations](about-credit-card-authorizations.md)
 
-[Credit card types (form)](https://technet.microsoft.com/en-us/library/hh209565\(v=ax.60\))
+[Credit card types (form)](https://technet.microsoft.com/library/hh209565\(v=ax.60\))
 
-[Payment services (form)](https://technet.microsoft.com/en-us/library/hh227622\(v=ax.60\))
+[Payment services (form)](https://technet.microsoft.com/library/hh227622\(v=ax.60\))
 
 [Process an authorization for a sales order](process-an-authorization-for-a-sales-order.md)
 

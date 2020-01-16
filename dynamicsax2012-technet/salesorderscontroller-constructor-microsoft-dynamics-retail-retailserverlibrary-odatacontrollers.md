@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesOrdersController Constructor  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: SalesOrdersController Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.SalesOrdersController.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.salesorderscontroller.salesorderscontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.salesorderscontroller.salesorderscontroller(v=AX.60)
 ms:contentKeyID: 62202738
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

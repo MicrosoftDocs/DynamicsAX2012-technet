@@ -2,8 +2,9 @@
 title: Setting up operations resources and production units
 TOCTitle: Setting up operations resources and production units
 ms:assetid: dcdf80e1-5bfd-40b7-bc33-7a1a779902e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243196(v=AX.60)
 ms:contentKeyID: 36059677
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

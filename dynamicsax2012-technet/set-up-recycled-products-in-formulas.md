@@ -2,8 +2,9 @@
 title: Set up recycled products in formulas
 TOCTitle: Set up recycled products in formulas
 ms:assetid: 6f96ebde-62bd-4151-bdbf-1df86c174f8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn762134(v=AX.60)
 ms:contentKeyID: 63378891
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 audience: Application User

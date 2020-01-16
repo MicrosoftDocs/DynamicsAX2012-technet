@@ -2,8 +2,9 @@
 title: Set up financial dimensions for integrating applications (Excel and Management Reporter)
 TOCTitle: Set up financial dimensions for integrating applications (Excel and Management Reporter)
 ms:assetid: aeb68efa-fdaa-47d3-8119-3139eab8d29d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507086(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507086(v=AX.60)
 ms:contentKeyID: 59623137
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p>Set up financial dimensions and financial dimension values. For more information, see the following topics:</p>
 <ul>
 <li><p><a href="create-a-financial-dimension.md">Create a financial dimension</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh242667(v=ax.60)">Financial dimension values (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh242667(v=ax.60)">Financial dimension values (form)</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -120,7 +121,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Financial dimensions (form)](https://technet.microsoft.com/en-us/library/hh209534\(v=ax.60\))
+[Financial dimensions (form)](https://technet.microsoft.com/library/hh209534\(v=ax.60\))
 
   
 

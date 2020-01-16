@@ -2,8 +2,9 @@
 title: Setting up retail stores (Retail essentials)
 TOCTitle: Setting up retail stores (Retail essentials)
 ms:assetid: 767d0c03-6293-4ddf-9730-9b6c91d22da5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736901(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736901(v=AX.60)
 ms:contentKeyID: 62200378
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

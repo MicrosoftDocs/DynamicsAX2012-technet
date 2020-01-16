@@ -1,9 +1,10 @@
-﻿---
+---
 title: SingleEntityDataServiceResponse(T) Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: SingleEntityDataServiceResponse(T) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SingleEntityDataServiceResponse`1.#ctor(`0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968708(v=AX.60)
 ms:contentKeyID: 65321829
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

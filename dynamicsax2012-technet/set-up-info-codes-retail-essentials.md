@@ -2,8 +2,9 @@
 title: Set up info codes (Retail essentials)
 TOCTitle: Set up info codes (Retail essentials)
 ms:assetid: 81cb357d-757a-466d-ae0c-dc9f2d7646d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736910(v=AX.60)
 ms:contentKeyID: 62200464
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

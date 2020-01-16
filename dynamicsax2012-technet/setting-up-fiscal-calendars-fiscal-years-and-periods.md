@@ -2,8 +2,9 @@
 title: Setting up fiscal calendars, fiscal years, and periods
 TOCTitle: Setting up fiscal calendars, fiscal years, and periods
 ms:assetid: 343eca45-0587-4224-a8e8-7325e48bdec1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242161(v=AX.60)
 ms:contentKeyID: 36056547
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

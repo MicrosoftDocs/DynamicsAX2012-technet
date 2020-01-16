@@ -2,8 +2,9 @@
 title: Security recommendations for using alerts
 TOCTitle: Security recommendations for using alerts
 ms:assetid: 9b54f4ed-9659-4fb4-a0a4-52e4736ede33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834421(v=AX.60)
 ms:contentKeyID: 46687560
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

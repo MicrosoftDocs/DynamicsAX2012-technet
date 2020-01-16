@@ -2,8 +2,9 @@
 title: Set up buttons (Retail essentials)
 TOCTitle: Set up buttons (Retail essentials)
 ms:assetid: 99a5f492-6b1d-4be8-adaf-c04f6b41e696
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736920(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736920(v=AX.60)
 ms:contentKeyID: 62200402
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

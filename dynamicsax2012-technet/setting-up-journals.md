@@ -2,8 +2,9 @@
 title: Setting up journals
 TOCTitle: Setting up journals
 ms:assetid: bf0442b9-ca74-4825-bd80-9cc49323f94c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498898(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498898(v=AX.60)
 ms:contentKeyID: 36059253
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

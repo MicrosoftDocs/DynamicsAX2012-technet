@@ -2,8 +2,9 @@
 title: Setting up bar codes
 TOCTitle: Setting up bar codes
 ms:assetid: 066bc6e9-412d-4a2c-87df-23cb34e04c0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580561(v=AX.60)
 ms:contentKeyID: 39519037
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up sellable days for a customer
 TOCTitle: Set up sellable days for a customer
 ms:assetid: 3d520b80-d319-44ab-a1d1-c94d0c4deb5c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352197(v=AX.60)
 ms:contentKeyID: 36687830
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ Use this procedure to set up the number of days that a customer defines as the s
 
 ## See also
 
-[Sellable days by customer (form)](https://technet.microsoft.com/en-us/library/hh328638\(v=ax.60\))
+[Sellable days by customer (form)](https://technet.microsoft.com/library/hh328638\(v=ax.60\))
 
   
 

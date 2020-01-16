@@ -2,8 +2,9 @@
 title: Ship outbound items with RFID
 TOCTitle: Ship outbound items with RFID
 ms:assetid: 168adf27-efa3-483e-9d04-a7ccf0bb2e88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569891(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569891(v=AX.60)
 ms:contentKeyID: 36056075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up posting definitions
 TOCTitle: Set up posting definitions
 ms:assetid: d0a60e04-9d31-4284-bfc9-f890b41c1708
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242920(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242920(v=AX.60)
 ms:contentKeyID: 36059490
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -102,11 +103,11 @@ After you create posting definitions, you need to assign them to transaction typ
 
 [Examples: Posting definitions](examples-posting-definitions.md)
 
-[Posting definitions (form)](https://technet.microsoft.com/en-us/library/hh227607\(v=ax.60\))
+[Posting definitions (form)](https://technet.microsoft.com/library/hh227607\(v=ax.60\))
 
 [Assign posting definitions to transaction posting types](assign-posting-definitions-to-transaction-posting-types.md)
 
-[Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\))
+[Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\))
 
 [Set up general budget reservation rules and reservation types (Public sector)](set-up-general-budget-reservation-rules-and-reservation-types-public-sector.md)
 

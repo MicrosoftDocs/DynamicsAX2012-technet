@@ -2,8 +2,9 @@
 title: Service delivery manager security role (SMAServiceDeliveryManager)
 TOCTitle: Service delivery manager security role (SMAServiceDeliveryManager)
 ms:assetid: 07f00cf4-c4f2-4233-bc11-b69cfd87ed43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh544038(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh544038(v=AX.60)
 ms:contentKeyID: 37823119
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

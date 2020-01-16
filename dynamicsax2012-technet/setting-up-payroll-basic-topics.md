@@ -2,8 +2,9 @@
 title: 'Setting up payroll: Basic topics'
 TOCTitle: 'Setting up payroll: Basic topics'
 ms:assetid: c6e4e88a-6f34-4853-aecc-b2d3b4ed6dee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677361(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677361(v=AX.60)
 ms:contentKeyID: 49384136
+author: Khairunj
 ms.date: 12/12/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="even">
 <td><p>Configuration tasks</p></td>
-<td><p>All fields on the <strong>Payroll parameters</strong> form must be evaluated and set according to the requirements of your organization. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></td>
+<td><p>All fields on the <strong>Payroll parameters</strong> form must be evaluated and set according to the requirements of your organization. For more information, see <a href="https://technet.microsoft.com/library/jj677433(v=ax.60)">Payroll parameters (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Country/region</p></td>
@@ -148,7 +149,7 @@ Time off for sickness or vacation is typically managed through benefit accrual p
 
   - To set up benefit accrual plans, follow these steps:
     
-    1.  Click **Payroll** \> **Setup** \> **Parameters** \> **Payroll parameters**. In the **Default service date basis** field, select the date to use to determine a worker’s months of service so that the correct rule from a benefit accrual plan is used. (In versions of Microsoft Dynamics AX prior to AX 2012 R3, this field is the **Default accrual date basis** field.) For more information, see [Payroll parameters (form)](https://technet.microsoft.com/en-us/library/jj677433\(v=ax.60\)).
+    1.  Click **Payroll** \> **Setup** \> **Parameters** \> **Payroll parameters**. In the **Default service date basis** field, select the date to use to determine a worker’s months of service so that the correct rule from a benefit accrual plan is used. (In versions of Microsoft Dynamics AX prior to AX 2012 R3, this field is the **Default accrual date basis** field.) For more information, see [Payroll parameters (form)](https://technet.microsoft.com/library/jj677433\(v=ax.60\)).
     
     2.  Go to [Benefit accrual plan tasks](benefit-accrual-plan-tasks.md), and then follow these steps:
         
@@ -194,7 +195,7 @@ To set up benefits and mandatory deductions, follow these steps:
         
           - The **Arrear threshold** value prevents the calculations for arrears from entering an infinite loop. The amount under the threshold amount is not placed in arrears and is not recovered. Zero is not a valid amount.
         
-        For more information about these controls, see [Payroll parameters (form)](https://technet.microsoft.com/en-us/library/jj677433\(v=ax.60\)).
+        For more information about these controls, see [Payroll parameters (form)](https://technet.microsoft.com/library/jj677433\(v=ax.60\)).
 
 2.  To create the benefits that your organization offers, see [Benefit setup tasks](benefit-setup-tasks.md) and follow these steps:
     

@@ -2,8 +2,9 @@
 title: (SAU) Provisions and reservations report (LedgerProvisions_SA)
 TOCTitle: (SAU) Provisions and reservations report (LedgerProvisions_SA)
 ms:assetid: 2230af1a-1502-4194-8804-7b263710370d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh371725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh371725(v=AX.60)
 ms:contentKeyID: 36814938
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

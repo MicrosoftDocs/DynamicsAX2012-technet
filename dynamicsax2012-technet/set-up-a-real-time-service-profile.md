@@ -2,8 +2,9 @@
 title: Set up a Real-time Service profile
 TOCTitle: Set up a Real-time Service profile
 ms:assetid: 4abdd0b8-813d-4216-8bae-0b66de66e5d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580631(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580631(v=AX.60)
 ms:contentKeyID: 39519122
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -129,7 +130,7 @@ For more information about how to set up a POS register, see [Set up registers](
 
 ## See also
 
-[Commerce Data Exchange: Real-time Service profile (form)](https://technet.microsoft.com/en-us/library/hh597331\(v=ax.60\))
+[Commerce Data Exchange: Real-time Service profile (form)](https://technet.microsoft.com/library/hh597331\(v=ax.60\))
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
@@ -137,9 +138,9 @@ For more information about how to set up a POS register, see [Set up registers](
 
 [Setting up retail stores](setting-up-retail-stores.md)
 
-[Online store (form)](https://technet.microsoft.com/en-us/library/jj713630\(v=ax.60\))
+[Online store (form)](https://technet.microsoft.com/library/jj713630\(v=ax.60\))
 
-[POS registers (form)](https://technet.microsoft.com/en-us/library/hh597141\(v=ax.60\))
+[POS registers (form)](https://technet.microsoft.com/library/hh597141\(v=ax.60\))
 
   
 

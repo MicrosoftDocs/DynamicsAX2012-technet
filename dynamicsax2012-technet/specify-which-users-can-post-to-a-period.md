@@ -2,8 +2,9 @@
 title: Specify which users can post to a period
 TOCTitle: Specify which users can post to a period
 ms:assetid: af2c490b-b01b-47f8-9b18-664d9ce5ed7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242712(v=AX.60)
 ms:contentKeyID: 36058950
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ You can specify which user groups can post to a period by using the **Ledger cal
 
 [About fiscal calendars, fiscal years, and periods](about-fiscal-calendars-fiscal-years-and-periods.md)
 
-[Ledger calendar (form)](https://technet.microsoft.com/en-us/library/hh242506\(v=ax.60\))
+[Ledger calendar (form)](https://technet.microsoft.com/library/hh242506\(v=ax.60\))
 
   
 

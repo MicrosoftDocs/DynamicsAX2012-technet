@@ -1,9 +1,10 @@
-﻿---
+---
 title: SortColumn.IsDescending Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsDescending Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SortColumn.IsDescending
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.sortcolumn.isdescending(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.sortcolumn.isdescending(v=AX.60)
 ms:contentKeyID: 65318975
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property bool IsDescending {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true, the column is to be sorted in descending order. Otherwise, ascending order.  
 
 ## See Also

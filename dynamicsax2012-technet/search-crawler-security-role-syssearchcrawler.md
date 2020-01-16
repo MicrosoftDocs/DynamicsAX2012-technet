@@ -2,8 +2,9 @@
 title: Search crawler security role (SysSearchCrawler)
 TOCTitle: Search crawler security role (SysSearchCrawler)
 ms:assetid: 4be1a5c0-1e4e-40fb-a635-105844b2dffa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527713(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527713(v=AX.60)
 ms:contentKeyID: 37831918
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

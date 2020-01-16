@@ -1,9 +1,10 @@
-﻿---
+---
 title: SerializableObject Properties (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: SerializableObject Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializableObject
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializableobject_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializableobject_properties(v=AX.60)
 ms:contentKeyID: 49827851
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

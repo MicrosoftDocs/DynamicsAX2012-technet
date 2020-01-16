@@ -2,8 +2,9 @@
 title: Set up a file format for a method of payment for customers
 TOCTitle: Set up a file format for a method of payment for customers
 ms:assetid: 87f124b7-e685-4957-b971-d55e74c89315
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571588(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571588(v=AX.60)
 ms:contentKeyID: 36058435
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ If you and your bank agree to share information about customer payments by using
 
 3.  In the **Method of payment** field, enter a unique identifier for the payment method, and in the **Description** field, enter a description.
 
-4.  Enter appropriate values in the **Period**, **Grace period**, and **Payment status** fields, and in other fields, if appropriate. For information about each field, see [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+4.  Enter appropriate values in the **Period**, **Grace period**, and **Payment status** fields, and in other fields, if appropriate. For information about each field, see [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
 5.  To open the **File formats for methods of payment** form, click the **File formats** FastTab and then click **Setup**.
 

@@ -2,8 +2,9 @@
 title: Set up course instructors
 TOCTitle: Set up course instructors
 ms:assetid: f13aad8d-7ffa-4961-9c25-2bddc89cb798
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551591(v=AX.60)
 ms:contentKeyID: 50173424
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ Before you can assign an instructor to a course, you must set up a worker, appli
 
 [Key tasks: Courses](key-tasks-courses.md)
 
-[Course locations (form)](https://technet.microsoft.com/en-us/library/aa616795\(v=ax.60\))
+[Course locations (form)](https://technet.microsoft.com/library/aa616795\(v=ax.60\))
 
   
 

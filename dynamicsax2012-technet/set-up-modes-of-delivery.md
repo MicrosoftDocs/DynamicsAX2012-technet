@@ -2,8 +2,9 @@
 title: Set up modes of delivery
 TOCTitle: Set up modes of delivery
 ms:assetid: f7a4cf07-30f7-4755-b0b8-d9e4ea24b2bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728719(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728719(v=AX.60)
 ms:contentKeyID: 49556624
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User

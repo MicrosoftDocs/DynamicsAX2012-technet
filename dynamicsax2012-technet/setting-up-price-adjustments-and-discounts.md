@@ -2,8 +2,9 @@
 title: Setting up price adjustments and discounts
 TOCTitle: Setting up price adjustments and discounts
 ms:assetid: 65c84924-1242-4626-b591-6047ec239112
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597114(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597114(v=AX.60)
 ms:contentKeyID: 39519162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up Procurement and sourcing workflows
 TOCTitle: Set up Procurement and sourcing workflows
 ms:assetid: e8a8595c-859a-4549-93a1-015f3086d0b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227472(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227472(v=AX.60)
 ms:contentKeyID: 36059837
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

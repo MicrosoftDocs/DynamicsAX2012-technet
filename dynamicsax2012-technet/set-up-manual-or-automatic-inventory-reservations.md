@@ -2,8 +2,9 @@
 title: Set up manual or automatic inventory reservations
 TOCTitle: Set up manual or automatic inventory reservations
 ms:assetid: eeb096bf-9891-4df4-9cec-646fa3cb974c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551553(v=AX.60)
 ms:contentKeyID: 36059912
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

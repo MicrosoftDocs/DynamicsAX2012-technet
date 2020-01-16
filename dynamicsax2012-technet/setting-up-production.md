@@ -2,8 +2,9 @@
 title: Setting up production
 TOCTitle: Setting up production
 ms:assetid: bdc6981a-6e9d-4ed9-bcaf-fb2d4d398ce2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213620(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213620(v=AX.60)
 ms:contentKeyID: 36059160
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Setting SysEntryPointAttribute for Services
 TOCTitle: Setting SysEntryPointAttribute for Services
 ms:assetid: 89f733b4-936c-4673-86d0-f6b64c7708f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801193(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801193(v=AX.60)
 ms:contentKeyID: 43976725
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -13,9 +14,9 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-The [SysEntryPointAttribute](https://technet.microsoft.com/en-us/library/gg958657\(v=ax.60\)) indicates what authorization checks are performed for a method that is called on the server. This attribute must be set for all service operations. For more information about how to set attributes on X++ methods, see [Syntax for Attribute Classes](https://technet.microsoft.com/en-us/library/gg844185\(v=ax.60\)).
+The [SysEntryPointAttribute](https://technet.microsoft.com/library/gg958657\(v=ax.60\)) indicates what authorization checks are performed for a method that is called on the server. This attribute must be set for all service operations. For more information about how to set attributes on X++ methods, see [Syntax for Attribute Classes](https://technet.microsoft.com/library/gg844185\(v=ax.60\)).
 
-The AIF Document Service Wizard automatically decorates service operations with \[SysEntryPointAttribute(true)\]. When you develop custom services you must use the [SysEntryPointAttribute](https://technet.microsoft.com/en-us/library/gg958657\(v=ax.60\)) to decorate each service operation.
+The AIF Document Service Wizard automatically decorates service operations with \[SysEntryPointAttribute(true)\]. When you develop custom services you must use the [SysEntryPointAttribute](https://technet.microsoft.com/library/gg958657\(v=ax.60\)) to decorate each service operation.
 
 ## SysEntryPointAttribute Settings
 
@@ -57,7 +58,7 @@ The following example shows the SysEntryPointAttribute set to true on the create
 
 ## See also
 
-[Attributes on X++ Types and Methods](https://technet.microsoft.com/en-us/library/gg846588\(v=ax.60\))
+[Attributes on X++ Types and Methods](https://technet.microsoft.com/library/gg846588\(v=ax.60\))
 
-[AOSAuthorization Property on Tables](https://technet.microsoft.com/en-us/library/bb278259\(v=ax.60\))
+[AOSAuthorization Property on Tables](https://technet.microsoft.com/library/bb278259\(v=ax.60\))
 

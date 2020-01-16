@@ -2,8 +2,9 @@
 title: 'Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods'
 TOCTitle: 'Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods'
 ms:assetid: 2c04c15c-6355-4f4b-b7fb-9a73c547b232
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545517(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545517(v=AX.60)
 ms:contentKeyID: 37832497
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Fabrikam sells goods to customer 4032. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days, and also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+Fabrikam sells goods to customer 4032. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days, and also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Three invoices that have a total balance of 3,000.00
 
@@ -468,7 +469,7 @@ If Arnie wants the payment amount to be only 1,485.00, he clicks **No**, and the
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md)
 

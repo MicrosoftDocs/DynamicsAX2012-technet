@@ -2,8 +2,9 @@
 title: Services Overview for Commerce Runtime
 TOCTitle: Services Overview
 ms:assetid: 29a419a4-e921-4379-b199-84238856839e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916617(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916617(v=AX.60)
 ms:contentKeyID: 50934007
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -23,7 +24,7 @@ Services are loaded in the order in which they are listed in the configuration f
 
 ## IService interface
 
-The [IService](https://technet.microsoft.com/en-us/library/jj762665\(v=ax.60\)) interface is comprised of an execute method that takes a service request as input and returns a service response.
+The [IService](https://technet.microsoft.com/library/jj762665\(v=ax.60\)) interface is comprised of an execute method that takes a service request as input and returns a service response.
 
 The service request object contains the data that is needed to carry out an operation. To add new functionality to your store, implement a new message. Then create a service that can handle that message. For more information, see [Integrate a Service into the Commerce Runtime](integrate-a-service-into-the-commerce-runtime.md).
 
@@ -60,7 +61,7 @@ Microsoft Dynamics AX offers many services in the commerce runtime that support 
 <td><p>Maintains customer information.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj761835(v=ax.60)">DimensionService</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj761835(v=ax.60)">DimensionService</a></p></td>
 <td><p>Enables customers to find items in your store based on criteria like category or color.</p></td>
 </tr>
 <tr class="even">
@@ -72,7 +73,7 @@ Microsoft Dynamics AX offers many services in the commerce runtime that support 
 <td><p>Implements a program that rewards repeat customers.</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj760878(v=ax.60)">PaymentService</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj760878(v=ax.60)">PaymentService</a></p></td>
 <td><p>You can connect your online store to a payment service to provide credit card authorization and utilize pre-configured payment processing. You can also extend the payment service to add additional third party payment processors.</p></td>
 </tr>
 <tr class="odd">

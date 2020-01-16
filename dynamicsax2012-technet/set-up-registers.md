@@ -2,8 +2,9 @@
 title: Set up registers
 TOCTitle: Set up registers
 ms:assetid: 2d92630e-c1e5-4d61-8bcb-59616186b88a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580597(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580597(v=AX.60)
 ms:contentKeyID: 39519083
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ Use the following procedure to set up a terminal and assign profiles to it.
 
 7.  On the **General** FastTab, enter values in the remaining fields as appropriate.
 
-8.  In the **POS registers** form, enter values on the other FastTabs as appropriate. For more information, see [POS registers (form)](https://technet.microsoft.com/en-us/library/hh597141\(v=ax.60\)).
+8.  In the **POS registers** form, enter values on the other FastTabs as appropriate. For more information, see [POS registers (form)](https://technet.microsoft.com/library/hh597141\(v=ax.60\)).
 
 ## See also
 
