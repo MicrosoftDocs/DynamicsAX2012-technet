@@ -2,8 +2,9 @@
 title: Complete common tasks in the Call center by using the Customer service form
 TOCTitle: Complete common tasks in the Call center by using the Customer service form
 ms:assetid: 0ad1d19f-83e6-4cc7-bd88-6bc5a927d5dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497711(v=AX.60)
 ms:contentKeyID: 62490077
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:

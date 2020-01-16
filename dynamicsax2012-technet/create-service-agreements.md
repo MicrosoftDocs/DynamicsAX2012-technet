@@ -2,8 +2,9 @@
 title: Create service agreements
 TOCTitle: Create service agreements
 ms:assetid: a834770c-18d3-4f24-a012-2c0589fb1243
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550309(v=AX.60)
 ms:contentKeyID: 36058885
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ This topic describes how to use features in the **Service management** and the *
 
 1.  Click **Service management** \> **Common** \> **Service agreements** \> **Service agreements**.
 
-2.  Click the **Service agreement** button to create a new service-agreement line in the form header. Enter a description, select a reference to a project in the **Project ID** field, and fill in the rest of the fields and lines for the service agreement. For more information about completing the form, see [Service agreements (form)](https://technet.microsoft.com/en-us/library/aa617823\(v=ax.60\)).
+2.  Click the **Service agreement** button to create a new service-agreement line in the form header. Enter a description, select a reference to a project in the **Project ID** field, and fill in the rest of the fields and lines for the service agreement. For more information about completing the form, see [Service agreements (form)](https://technet.microsoft.com/library/aa617823\(v=ax.60\)).
 
 3.  Click the **Setup** tab and select **Service objects** or **Service tasks** to create service object relations or service task relations for the service agreement. The service objects and tasks that you have created relations for can be attached on the lines of the service agreement.
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerDataManager.ValidateAccountActivationRequest Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ValidateAccountActivationRequest Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CustomerDataManager.ValidateAccountActivationRequest(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.customerdatamanager.validateaccountactivationrequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.customerdatamanager.validateaccountactivationrequest(v=AX.60)
 ms:contentKeyID: 62209626
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,16 +58,16 @@ bool ValidateAccountActivationRequest(
 #### Parameters
 
   - email  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - activationToken  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if the request is valid; otherwise return false.  
 
 ## See Also

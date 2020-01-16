@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommunicationException Constructor (String, String, Object ) (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: CommunicationException Constructor (String, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.CommunicationException.#ctor(System.String,System.String,System.Object[])
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.communicationexception.communicationexception(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationexception.communicationexception(v=AX.60)
 ms:contentKeyID: 49831462
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,17 +58,17 @@ CommunicationException(
 #### Parameters
 
   - errorResourceId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - message  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - args  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\[\]  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\[\]  
 
 ## See Also
 

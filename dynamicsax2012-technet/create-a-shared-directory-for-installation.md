@@ -2,8 +2,9 @@
 title: Create a shared directory for installation
 TOCTitle: Create a shared directory for installation
 ms:assetid: de9ff8fa-63ba-48d1-a76a-68e39c273eda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362101(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362101(v=AX.60)
 ms:contentKeyID: 35133097
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

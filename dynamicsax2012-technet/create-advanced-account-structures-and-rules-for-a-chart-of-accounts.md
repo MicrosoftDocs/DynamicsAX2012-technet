@@ -2,8 +2,9 @@
 title: Create advanced account structures and rules for a chart of accounts
 TOCTitle: Create advanced account structures and rules for a chart of accounts
 ms:assetid: 020dc70a-9020-4cfe-82ad-861c74dc1e16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242096(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242096(v=AX.60)
 ms:contentKeyID: 36055924
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

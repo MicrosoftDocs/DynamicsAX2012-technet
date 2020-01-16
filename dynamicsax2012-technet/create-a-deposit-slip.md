@@ -2,8 +2,9 @@
 title: Create a deposit slip
 TOCTitle: Create a deposit slip
 ms:assetid: 05b7745d-61cb-492d-858f-f9b273e11077
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569716(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569716(v=AX.60)
 ms:contentKeyID: 36055956
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use deposit slips to deposit payments that were made in a journal into bank acco
 
 4.  Click the **Payment** tab in the **Journal voucher** form.
 
-5.  Select the bank transaction type that is set up for bank deposits. For more information, see [Bank transaction type (form)](https://technet.microsoft.com/en-us/library/aa619635\(v=ax.60\)).
+5.  Select the bank transaction type that is set up for bank deposits. For more information, see [Bank transaction type (form)](https://technet.microsoft.com/library/aa619635\(v=ax.60\)).
 
 6.  In the **Payment reference** field, enter a reference that pertains to the payment line.
 
@@ -40,7 +41,7 @@ Use deposit slips to deposit payments that were made in a journal into bank acco
     
 
     > [!NOTE]
-    > <P>Some organizations set up payment control parameters on methods of payment to make sure that all payment lines are entered on a deposit slip. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa499398(v=ax.60)">Methods of payment - customers (form)</A>.</P>
+    > <P>Some organizations set up payment control parameters on methods of payment to make sure that all payment lines are entered on a deposit slip. For more information, see <A href="https://technet.microsoft.com/library/aa499398(v=ax.60)">Methods of payment - customers (form)</A>.</P>
 
 
 

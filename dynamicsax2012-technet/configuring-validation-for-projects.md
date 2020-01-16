@@ -2,8 +2,9 @@
 title: Configuring validation for projects
 TOCTitle: Configuring validation for projects
 ms:assetid: d6f54085-177e-4135-a323-e923edc3ce11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499487(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499487(v=AX.60)
 ms:contentKeyID: 36059540
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

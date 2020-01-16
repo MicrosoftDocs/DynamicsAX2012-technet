@@ -2,8 +2,9 @@
 title: Course questionnaire result report (HcmCourseAttendeeCollectionResult)
 TOCTitle: Course questionnaire result report (HcmCourseAttendeeCollectionResult)
 ms:assetid: 41b454fc-9d2c-4665-9364-3cfc558dbeb5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841457(v=AX.60)
 ms:contentKeyID: 50411096
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

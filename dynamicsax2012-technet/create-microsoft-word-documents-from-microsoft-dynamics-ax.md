@@ -2,8 +2,9 @@
 title: Create Microsoft Word documents from Microsoft Dynamics AX
 TOCTitle: Create Microsoft Word documents from Microsoft Dynamics AX
 ms:assetid: 2fce99a8-6470-4568-bc92-60f0e650085c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781080(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781080(v=AX.60)
 ms:contentKeyID: 43894486
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Use the following procedure to create a Word document from a document in Microso
 
 4.  In the **Autoreport** form, on the top menu, click the **Export** button, and then click **Word**.
 
-5.  Select a location in which to save the file. Your system administrator can create a default folder in which you can save exported documents. For more information, see [Export document types (class form)](https://technet.microsoft.com/en-us/library/aa616371\(v=ax.60\)).
+5.  Select a location in which to save the file. Your system administrator can create a default folder in which you can save exported documents. For more information, see [Export document types (class form)](https://technet.microsoft.com/library/aa616371\(v=ax.60\)).
 
 6.  Enter a name for the file. In the **Save as type** field, select **Word**, and then click **Save**.
 

@@ -2,8 +2,9 @@
 title: Create shipments
 TOCTitle: Create shipments
 ms:assetid: 6be95629-b433-493e-9c7c-d9a11bd75197
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571193(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571193(v=AX.60)
 ms:contentKeyID: 36057995
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ Use this information to create a shipment.
 
 2.  Create a new shipment using the following mandatory fields: **Warehouse**, **Outbound dock**, and **Sequence ID**.
     
-    For more information, see [Shipments (form)](https://technet.microsoft.com/en-us/library/aa615744\(v=ax.60\)).
+    For more information, see [Shipments (form)](https://technet.microsoft.com/library/aa615744\(v=ax.60\)).
 
 3.  Click **Show lines** to open the **Shipment lines** form.
 
@@ -41,7 +42,7 @@ When the shipment has been created, reservations can be activated while the ship
 
 When a shipment has been created and is in process, you can add lines until the shipment has actually been sent.
 
-For more information, see [Shipments (form)](https://technet.microsoft.com/en-us/library/aa615744\(v=ax.60\)) and [Shipment lines (form)](https://technet.microsoft.com/en-us/library/aa557910\(v=ax.60\)).
+For more information, see [Shipments (form)](https://technet.microsoft.com/library/aa615744\(v=ax.60\)) and [Shipment lines (form)](https://technet.microsoft.com/library/aa557910\(v=ax.60\)).
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: Create a customer record
 TOCTitle: Create a customer record
 ms:assetid: cc18943e-c00c-49e6-8bd2-03be6481b6dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572674(v=AX.60)
 ms:contentKeyID: 36811430
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ You can create a customer record by using either the **Create new customer** for
 
 7.  Click **Customer account** to add more information to the customer record, or click **Customer account** to close the customer record. You can add more information to the record later.
     
-    If you select to save the information that you entered and open the customer record to add more details, see [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)) for more information.
+    If you select to save the information that you entered and open the customer record to add more details, see [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)) for more information.
 
 After you save the record, it is added to the global address book.
 

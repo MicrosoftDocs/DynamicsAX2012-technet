@@ -2,8 +2,9 @@
 title: Create an invoice for on-account transactions
 TOCTitle: Create an invoice for on-account transactions
 ms:assetid: 0d1c3e3b-4046-4204-8d93-c7c125d206b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569760(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569760(v=AX.60)
 ms:contentKeyID: 36056003
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,13 +77,13 @@ If the on-account invoice proposal is approved, the reviewer posts the invoice, 
 
 [Create on-account invoices for all projects](create-on-account-invoices-for-all-projects.md)
 
-[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/en-us/library/jj683235\(v=ax.60\))
+[Create invoice proposals for projects that have billing rules (form)](https://technet.microsoft.com/library/jj683235\(v=ax.60\))
 
 [Invoicing](invoicing.md)
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

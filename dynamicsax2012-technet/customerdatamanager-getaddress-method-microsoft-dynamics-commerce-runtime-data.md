@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerDataManager.GetAddress Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetAddress Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CustomerDataManager.GetAddress(System.Int64,System.Nullable{System.Int64},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.customerdatamanager.getaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.customerdatamanager.getaddress(v=AX.60)
 ms:contentKeyID: 65320519
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,12 +60,12 @@ Address^ GetAddress(
 #### Parameters
 
   - addressRecordId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - customerRecordId  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositeKeyEntityController(TEntity) Class (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: CompositeKeyEntityController(TEntity) Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController`1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716139(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716139(v=AX.60)
 ms:contentKeyID: 62202405
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ public ref class CompositeKeyEntityController abstract : public ODataController
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   ApiController  
     ODataController  
       Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController\<TEntity\>  

@@ -2,8 +2,9 @@
 title: Create, modify, and work with purchase order details
 TOCTitle: Create, modify, and work with purchase order details
 ms:assetid: b1805f63-987b-4518-91e1-bc7cf5159052
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232392(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232392(v=AX.60)
 ms:contentKeyID: 36058978
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

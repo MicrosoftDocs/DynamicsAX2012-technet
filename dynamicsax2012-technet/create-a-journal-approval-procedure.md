@@ -2,8 +2,9 @@
 title: Create a journal approval procedure
 TOCTitle: Create a journal approval procedure
 ms:assetid: b3484fb1-a5d9-4245-9405-a5cdd4b31aa1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571905(v=AX.60)
 ms:contentKeyID: 36811425
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -111,9 +112,9 @@ The following table shows the settings that you entered in the **Journal approva
 
 [About journal approval procedures](about-journal-approval-procedures.md)
 
-[Journal approval (form)](https://technet.microsoft.com/en-us/library/aa499141\(v=ax.60\))
+[Journal approval (form)](https://technet.microsoft.com/library/aa499141\(v=ax.60\))
 
-[Journal approval setup (form)](https://technet.microsoft.com/en-us/library/aa558425\(v=ax.60\))
+[Journal approval setup (form)](https://technet.microsoft.com/library/aa558425\(v=ax.60\))
 
   
 

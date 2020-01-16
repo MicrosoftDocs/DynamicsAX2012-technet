@@ -2,8 +2,9 @@
 title: Configure a project as a project template
 TOCTitle: Configure a project as a project template
 ms:assetid: 44331a68-ade9-40e3-9c59-05ecf2638033
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500663(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500663(v=AX.60)
 ms:contentKeyID: 37822142
+author: Khairunj
 ms.date: 09/12/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ This topic explains how to designate an existing project as a project template. 
 
 When you use the Project Copy Wizard, the structure of this project is available as a project template. However, not all components of the source project can be copied by using the wizard. For example, worker assignments and item requirements are not copied.
 
-For more information about the Project Copy Wizard and the types of data that you can copy to the new projects, see [Project copy wizard (form)](https://technet.microsoft.com/en-us/library/aa556743\(v=ax.60\)). For information about how to use the Project Copy Wizard to create a new project, see [Create a project](create-a-project.md).
+For more information about the Project Copy Wizard and the types of data that you can copy to the new projects, see [Project copy wizard (form)](https://technet.microsoft.com/library/aa556743\(v=ax.60\)). For information about how to use the Project Copy Wizard to create a new project, see [Create a project](create-a-project.md).
 
 To designate a project as a template, follow these steps:
 

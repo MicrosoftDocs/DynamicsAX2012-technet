@@ -2,8 +2,9 @@
 title: Create a project quotation
 TOCTitle: Create a project quotation
 ms:assetid: d1440fe5-cea8-486f-952a-5b5a02bf0215
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220756(v=AX.60)
 ms:contentKeyID: 36811431
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ Use the following procedures to create project quotations.
     
 
     > [!TIP]
-    > <P>For information about the fields on the FastTabs, see <A href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</A>. For information about how to use the <STRONG>Template</STRONG> FastTab, see the procedure “Create a quotation from a template” in this topic.</P>
+    > <P>For information about the fields on the FastTabs, see <A href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</A>. For information about how to use the <STRONG>Template</STRONG> FastTab, see the procedure “Create a quotation from a template” in this topic.</P>
 
 
 
@@ -71,7 +72,7 @@ Use the following procedures to create project quotations.
     
 
     > [!TIP]
-    > <P>For information about the fields on the FastTabs, see <A href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</A>. For information about how to use the <STRONG>Template</STRONG> FastTab, see the procedure “Create a quotation from a template” in this topic.</P>
+    > <P>For information about the fields on the FastTabs, see <A href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</A>. For information about how to use the <STRONG>Template</STRONG> FastTab, see the procedure “Create a quotation from a template” in this topic.</P>
 
 
 

@@ -2,8 +2,9 @@
 title: Create, update, or view an address record
 TOCTitle: Create, update, or view an address record
 ms:assetid: 7a6d913f-d7af-49b7-8000-acb5d14e4054
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271571(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271571(v=AX.60)
 ms:contentKeyID: 36384202
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

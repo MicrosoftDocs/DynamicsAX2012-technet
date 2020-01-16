@@ -2,8 +2,9 @@
 title: Create billing rules
 TOCTitle: Create billing rules
 ms:assetid: eb70b651-fd81-477d-b9c1-be881898a3af
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227487(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227487(v=AX.60)
 ms:contentKeyID: 36059872
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ For all types of billing rules, you can specify a retention percentage to deduct
 
 ## Prerequisites
 
-A system administrator must set up a number sequence, so that a billing rule identification number is automatically generated when you create a billing rule. For more information about how to set up number sequences, see [Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\)).
+A system administrator must set up a number sequence, so that a billing rule identification number is automatically generated when you create a billing rule. For more information about how to set up number sequences, see [Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\)).
 
 ## Create a Milestone billing rule
 
@@ -197,9 +198,9 @@ Use the following procedure to create a billing rule to invoice a customer for d
 
 [About billing rules](about-billing-rules.md)
 
-[Billing rules (form)](https://technet.microsoft.com/en-us/library/hh227642\(v=ax.60\))
+[Billing rules (form)](https://technet.microsoft.com/library/hh227642\(v=ax.60\))
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
   
 

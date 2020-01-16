@@ -1,9 +1,10 @@
-﻿---
+---
 title: ConcurrentDictionary(TKey, TValue) Properties (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ConcurrentDictionary(TKey, TValue) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn990746(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn990746(v=AX.60)
 ms:contentKeyID: 65321684
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

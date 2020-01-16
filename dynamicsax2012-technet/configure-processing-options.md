@@ -1,9 +1,10 @@
-﻿---
+---
 title: Configure processing options
 TOCTitle: Configure processing options
 ms:assetid: 414871d6-7b56-46ff-ba12-4a8984a19189
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202050(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202050(v=AX.60)
 ms:contentKeyID: 35949284
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

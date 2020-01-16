@@ -2,8 +2,9 @@
 title: Configure a conditional decision
 TOCTitle: Configure a conditional decision
 ms:assetid: 5b943175-4362-4f45-82f5-6ea86fbeda5b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731801(v=AX.60)
 ms:contentKeyID: 35132646
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

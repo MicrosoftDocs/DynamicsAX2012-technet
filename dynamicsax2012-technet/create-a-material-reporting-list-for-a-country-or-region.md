@@ -2,8 +2,9 @@
 title: Create a material reporting list for a country or region
 TOCTitle: Create a material reporting list for a country or region
 ms:assetid: c836418e-3cf0-405e-9ae5-d9a1234fa62b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352356(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352356(v=AX.60)
 ms:contentKeyID: 36687987
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ Use this procedure to create material reporting lists for countries and regions.
 
 ## See also
 
-[Material reporting lists (form)](https://technet.microsoft.com/en-us/library/hh328691\(v=ax.60\))
+[Material reporting lists (form)](https://technet.microsoft.com/library/hh328691\(v=ax.60\))
 
-[Reported regulated products (form)](https://technet.microsoft.com/en-us/library/hh328717\(v=ax.60\))
+[Reported regulated products (form)](https://technet.microsoft.com/library/hh328717\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Consolidate transactions
 TOCTitle: Consolidate transactions
 ms:assetid: 6f01d266-900a-4b0f-9e23-66b342fbe0d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231815(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231815(v=AX.60)
 ms:contentKeyID: 36058040
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

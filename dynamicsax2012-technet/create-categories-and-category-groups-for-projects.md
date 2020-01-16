@@ -2,8 +2,9 @@
 title: Create categories and category groups for projects
 TOCTitle: Create categories and category groups for projects
 ms:assetid: 9cedf673-f167-49ea-b2b6-87924d417cd9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571702(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571702(v=AX.60)
 ms:contentKeyID: 36811421
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ To create categories and category groups, you first create the category group, a
     
 
     > [!NOTE]
-    > <P>Only shared categories appear in this field. Shared categories are created in the <STRONG>Shared categories</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209532(v=ax.60)">Shared categories (form)</A>.</P>
+    > <P>Only shared categories appear in this field. Shared categories are created in the <STRONG>Shared categories</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh209532(v=ax.60)">Shared categories (form)</A>.</P>
 
 
 

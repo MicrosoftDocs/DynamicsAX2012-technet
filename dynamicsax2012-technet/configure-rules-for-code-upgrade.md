@@ -2,8 +2,9 @@
 title: Configure rules for code upgrade
 TOCTitle: Configure rules for code upgrade
 ms:assetid: 6bfc6138-20a0-4c58-b47d-5e235203f03f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677305(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677305(v=AX.60)
 ms:contentKeyID: 49384076
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -37,7 +38,7 @@ To import the set of code upgrade rules that is provided by Microsoft, complete 
     
       - **Rule category** – The rule’s membership in a top-level category in the **Manage code upgrade rules** form.
     
-    For more information about the **Code upgrade rules** form, see [Code upgrade rules (form)](https://technet.microsoft.com/en-us/library/jj677374\(v=ax.60\)).
+    For more information about the **Code upgrade rules** form, see [Code upgrade rules (form)](https://technet.microsoft.com/library/jj677374\(v=ax.60\)).
 
 If you now open the **Manage code upgrade rules** form, you can view a hierarchy of rule categories under the **Configure code upgrade rules** node. The default categories include the following categories:
 

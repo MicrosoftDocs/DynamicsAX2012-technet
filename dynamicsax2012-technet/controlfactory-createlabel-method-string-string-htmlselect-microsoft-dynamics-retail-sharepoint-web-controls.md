@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlFactory.CreateLabel Method (String, String, HtmlSelect) (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: CreateLabel Method (String, String, HtmlSelect)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateLabel(System.String,System.String,System.Web.UI.HtmlControls.HtmlSelect)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createlabel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createlabel(v=AX.60)
 ms:contentKeyID: 62204625
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -58,17 +59,17 @@ static HtmlLabel^ CreateLabel(
 #### Parameters
 
   - text  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - className  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - associatedControl  
-    Type: [System.Web.UI.HtmlControls.HtmlSelect](https://technet.microsoft.com/en-us/library/xf11z4ad\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlControls.HtmlSelect](https://technet.microsoft.com/library/xf11z4ad\(v=ax.60\))  
 
 #### Return Value
 

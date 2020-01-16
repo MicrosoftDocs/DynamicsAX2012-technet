@@ -2,8 +2,9 @@
 title: Create discussion types
 TOCTitle: Create discussion types
 ms:assetid: 00f08db5-9c05-43d6-95c5-a05778a99fb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242093(v=AX.60)
 ms:contentKeyID: 36055920
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ You must create discussion types that you can use to categorize discussions befo
 
 ## See also
 
-[Discussion types (form)](https://technet.microsoft.com/en-us/library/aa585488\(v=ax.60\))
+[Discussion types (form)](https://technet.microsoft.com/library/aa585488\(v=ax.60\))
 
-[Discussions (form)](https://technet.microsoft.com/en-us/library/aa587357\(v=ax.60\))
+[Discussions (form)](https://technet.microsoft.com/library/aa587357\(v=ax.60\))
 
   
 

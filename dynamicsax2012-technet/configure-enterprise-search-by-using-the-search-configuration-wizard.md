@@ -2,8 +2,9 @@
 title: Configure Enterprise Search by using the Search Configuration wizard
 TOCTitle: Configure Enterprise Search by using the Search Configuration wizard
 ms:assetid: e52f66f3-7ed0-4ad7-8fe3-f8db8b75c779
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732177(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732177(v=AX.60)
 ms:contentKeyID: 35133130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

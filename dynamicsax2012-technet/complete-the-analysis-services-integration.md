@@ -2,8 +2,9 @@
 title: Complete the Analysis Services integration
 TOCTitle: Complete the Analysis Services integration
 ms:assetid: 30576955-72a6-4a8e-9e95-e3767d6addfd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731771(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731771(v=AX.60)
 ms:contentKeyID: 35132596
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

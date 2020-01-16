@@ -2,8 +2,9 @@
 title: Create a purchase order
 TOCTitle: Create a purchase order
 ms:assetid: 713c05bd-fdcb-4d37-80ba-cdc09f7c782e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571317(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571317(v=AX.60)
 ms:contentKeyID: 37832507
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,7 +91,7 @@ Use this procedure to create a purchase order that has all the information that 
 
 [View the status of open purchase orders](view-the-status-of-open-purchase-orders.md)
 
-[Confirming PO codes (form) (Public sector)](https://technet.microsoft.com/en-us/library/hh208558\(v=ax.60\))
+[Confirming PO codes (form) (Public sector)](https://technet.microsoft.com/library/hh208558\(v=ax.60\))
 
 [Create a purchase inquiry](create-a-purchase-inquiry.md)
 

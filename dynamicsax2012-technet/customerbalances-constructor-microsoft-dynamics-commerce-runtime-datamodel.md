@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerBalances Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CustomerBalances Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CustomerBalances.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.customerbalances.customerbalances(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customerbalances.customerbalances(v=AX.60)
 ms:contentKeyID: 62207238
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Credit and collections operational efficiency report (CreditAndCollectionOperationalEfficiency)
 TOCTitle: Credit and collections operational efficiency report (CreditAndCollectionOperationalEfficiency)
 ms:assetid: 0ac12f99-b8df-46e1-b184-78e18f8474c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538440(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538440(v=AX.60)
 ms:contentKeyID: 39508862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

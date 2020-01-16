@@ -2,8 +2,9 @@
 title: Communicate plans
 TOCTitle: Communicate plans
 ms:assetid: e52e0935-c388-4d5c-93ab-13e5d46aee96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243223(v=AX.60)
 ms:contentKeyID: 36059787
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

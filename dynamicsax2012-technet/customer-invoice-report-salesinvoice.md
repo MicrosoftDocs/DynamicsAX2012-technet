@@ -2,8 +2,9 @@
 title: Customer invoice report (SalesInvoice)
 TOCTitle: Customer invoice report (SalesInvoice)
 ms:assetid: 347311cf-2989-42c2-a6ec-c29130df2345
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242607(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242607(v=AX.60)
 ms:contentKeyID: 36057965
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ The **Customer invoice report** displays customer invoice information. This incl
 
 There are several parameters that can be used to filter the data that is displayed on the report. For more information, see [Filter the data on a report](filter-the-data-on-a-report.md).
 
-For additional information about how to configure the filters for this report, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+For additional information about how to configure the filters for this report, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 ## How to work with reports
 
@@ -96,7 +97,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [Set up print management for a transaction](set-up-print-management-for-a-transaction.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

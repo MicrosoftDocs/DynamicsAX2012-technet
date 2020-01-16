@@ -2,8 +2,9 @@
 title: Create and use a reduction key
 TOCTitle: Create and use a reduction key
 ms:assetid: b29dcc9d-e77a-4efa-a8a1-1b36b04783c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498658(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498658(v=AX.60)
 ms:contentKeyID: 36059060
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ Use these procedures to create and use a reduction key:
 
 ## See also
 
-[Reduction keys (form)](https://technet.microsoft.com/en-us/library/aa553816\(v=ax.60\))
+[Reduction keys (form)](https://technet.microsoft.com/library/aa553816\(v=ax.60\))
 
 [Example: Use reduction keys](example-use-reduction-keys.md)
 

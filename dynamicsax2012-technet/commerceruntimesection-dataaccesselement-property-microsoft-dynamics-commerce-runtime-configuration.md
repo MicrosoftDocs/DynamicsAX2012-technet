@@ -1,9 +1,10 @@
-﻿---
+---
 title: CommerceRuntimeSection.DataAccessElement Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: DataAccessElement Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.CommerceRuntimeSection.DataAccessElement
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.dataaccesselement(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection.dataaccesselement(v=AX.60)
 ms:contentKeyID: 65323156
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ property NameValueConfigurationCollection^ DataAccessElement {
 
 #### Property Value
 
-Type: [System.Configuration.NameValueConfigurationCollection](https://technet.microsoft.com/en-us/library/ms134603\(v=ax.60\))  
+Type: [System.Configuration.NameValueConfigurationCollection](https://technet.microsoft.com/library/ms134603\(v=ax.60\))  
 
 ## See Also
 

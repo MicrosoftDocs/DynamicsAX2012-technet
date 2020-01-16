@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlFactory.CreateLabel Method (String, String, HtmlInputControl) (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: CreateLabel Method (String, String, HtmlInputControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateLabel(System.String,System.String,System.Web.UI.HtmlControls.HtmlInputControl)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createlabel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createlabel(v=AX.60)
 ms:contentKeyID: 62205034
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -58,17 +59,17 @@ static HtmlLabel^ CreateLabel(
 #### Parameters
 
   - text  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - className  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - associatedControl  
-    Type: [System.Web.UI.HtmlControls.HtmlInputControl](https://technet.microsoft.com/en-us/library/4zdce72t\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlControls.HtmlInputControl](https://technet.microsoft.com/library/4zdce72t\(v=ax.60\))  
 
 #### Return Value
 

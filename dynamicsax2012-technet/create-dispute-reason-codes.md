@@ -2,8 +2,9 @@
 title: Create dispute reason codes
 TOCTitle: Create dispute reason codes
 ms:assetid: 64f55592-8b32-4d3e-bea3-ac1f4bc1daea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242437(v=AX.60)
 ms:contentKeyID: 36057729
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

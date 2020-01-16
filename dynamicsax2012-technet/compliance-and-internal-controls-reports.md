@@ -2,8 +2,9 @@
 title: Compliance and internal controls reports
 TOCTitle: Compliance and internal controls reports
 ms:assetid: 428b485e-221e-4ded-96b2-242df0b3f287
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334477(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334477(v=AX.60)
 ms:contentKeyID: 36676462
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

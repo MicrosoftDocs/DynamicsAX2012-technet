@@ -2,8 +2,9 @@
 title: Create products by using a template
 TOCTitle: Create products by using a template
 ms:assetid: a57f805e-123a-4d9a-a330-026b2910a510
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597198(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597198(v=AX.60)
 ms:contentKeyID: 39519267
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

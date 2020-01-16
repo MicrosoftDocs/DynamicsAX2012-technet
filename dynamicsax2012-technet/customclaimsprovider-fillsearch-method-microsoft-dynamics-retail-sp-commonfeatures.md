@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.FillSearch Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: FillSearch Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillSearch(System.Uri,System.String[],System.String,System.String,System.Int32,Microsoft.SharePoint.WebControls.SPProviderHierarchyTree)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillsearch(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillsearch(v=AX.60)
 ms:contentKeyID: 62204488
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,27 +73,27 @@ virtual void FillSearch(
 #### Parameters
 
   - context  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 <!-- end list -->
 
   - entityTypes  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\[\]  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
   - searchPattern  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - hierarchyNodeID  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - maxCount  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -114,7 +115,7 @@ virtual void FillSearch(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
+<td><a href="https://technet.microsoft.com/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
 <td><p></p></td>
 </tr>
 </tbody>

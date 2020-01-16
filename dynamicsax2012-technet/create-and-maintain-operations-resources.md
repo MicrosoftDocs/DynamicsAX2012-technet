@@ -2,8 +2,9 @@
 title: Create and maintain operations resources
 TOCTitle: Create and maintain operations resources
 ms:assetid: fbe81833-27f0-4163-9ae2-278005a8a01d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499880(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499880(v=AX.60)
 ms:contentKeyID: 36060086
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Operations resources are resources used to complete the production process. Crea
 
 
 > [!NOTE]
-> <P>For complete information about the buttons on this form, see <A href="https://technet.microsoft.com/en-us/library/aa557962(v=ax.60)">Resources (form)</A>.</P>
+> <P>For complete information about the buttons on this form, see <A href="https://technet.microsoft.com/library/aa557962(v=ax.60)">Resources (form)</A>.</P>
 
 
 

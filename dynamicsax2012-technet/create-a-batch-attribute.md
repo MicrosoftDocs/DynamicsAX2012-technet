@@ -2,8 +2,9 @@
 title: Create a batch attribute
 TOCTitle: Create a batch attribute
 ms:assetid: 281555d7-5a21-4f97-91c8-e7d2255748b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352189(v=AX.60)
 ms:contentKeyID: 36687822
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,9 +45,9 @@ Use this procedure to create batch attributes. Batch attributes are characterist
 
 [About batch attributes](about-batch-attributes.md)
 
-[Attribute enumerate values (form)](https://technet.microsoft.com/en-us/library/hh208618\(v=ax.60\))
+[Attribute enumerate values (form)](https://technet.microsoft.com/library/hh208618\(v=ax.60\))
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
   
 

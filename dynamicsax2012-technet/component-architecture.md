@@ -2,8 +2,9 @@
 title: Component architecture
 TOCTitle: Component architecture
 ms:assetid: b54253be-c597-4cda-b5d0-51ecb5a44cee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362045(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362045(v=AX.60)
 ms:contentKeyID: 35132823
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

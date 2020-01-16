@@ -2,8 +2,9 @@
 title: Create, modify, and delete project quotation templates or template groups
 TOCTitle: Create, modify, and delete project quotation templates or template groups
 ms:assetid: cebd2664-f8f8-4924-9cc7-f4a2b22218fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220752(v=AX.60)
 ms:contentKeyID: 36059471
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -101,9 +102,9 @@ You can modify an existing project quotation template after it has been created 
 
 ## See also
 
-[Quotation template groups (form)](https://technet.microsoft.com/en-us/library/aa615258\(v=ax.60\))
+[Quotation template groups (form)](https://technet.microsoft.com/library/aa615258\(v=ax.60\))
 
-[Project quotation (form)](https://technet.microsoft.com/en-us/library/aa557295\(v=ax.60\))
+[Project quotation (form)](https://technet.microsoft.com/library/aa557295\(v=ax.60\))
 
   
 

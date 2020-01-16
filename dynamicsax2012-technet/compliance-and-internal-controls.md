@@ -2,8 +2,9 @@
 title: Compliance and internal controls
 TOCTitle: Compliance and internal controls
 ms:assetid: c444c03b-1240-436f-8345-2862cc30134e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242840(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242840(v=AX.60)
 ms:contentKeyID: 36059292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,22 +64,22 @@ The following process flow illustrates the Environmental sustainability dashboar
 <tr class="odd">
 <td><p><a href="convert-substance-flows.md">Convert substance flows</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242725(v=ax.60)">Emission simulator (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242725(v=ax.60)">Emission simulator (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="record-accidental-substance-flows.md">Record accidental substance flows</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242669(v=ax.60)">Substance flows (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242669(v=ax.60)">Substance flows (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-and-save-process-flow-queries.md">Create and save process flow queries</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242669(v=ax.60)">Substance flows (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242669(v=ax.60)">Substance flows (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="assign-a-worker-to-meters-or-process-references.md">Assign a worker to meters or process references</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227567(v=ax.60)">Meters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227567(v=ax.60)">Meters (form)</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: Configure site structure
 TOCTitle: Configure site structure
 ms:assetid: 361745b4-edcf-4b04-acef-74895127a5eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731775(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731775(v=AX.60)
 ms:contentKeyID: 35132601
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,7 +36,7 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 
 ## See also
 
-[Configure site structure (form)](https://technet.microsoft.com/en-us/library/hh202081\(v=ax.60\))
+[Configure site structure (form)](https://technet.microsoft.com/library/hh202081\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ControlFactory.CreateButton Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: CreateButton Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateButton(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createbutton(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createbutton(v=AX.60)
 ms:contentKeyID: 62206090
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ static HtmlButton^ CreateButton(
 #### Parameters
 
   - text  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - className  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Web.UI.HtmlControls.HtmlButton](https://technet.microsoft.com/en-us/library/9dy4xy15\(v=ax.60\))  
+Type: [System.Web.UI.HtmlControls.HtmlButton](https://technet.microsoft.com/library/9dy4xy15\(v=ax.60\))  
 A Button instance.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: Create a subcomponent for a component
 TOCTitle: Create a subcomponent for a component
 ms:assetid: 42427253-5e1f-4589-a02b-273ccddd9fa8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580618(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580618(v=AX.60)
 ms:contentKeyID: 39519105
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

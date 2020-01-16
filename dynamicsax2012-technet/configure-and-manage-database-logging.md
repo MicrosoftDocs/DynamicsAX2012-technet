@@ -2,8 +2,9 @@
 title: Configure and manage database logging
 TOCTitle: Configure and manage database logging
 ms:assetid: d87a39d4-7cb5-439a-995a-9bd30fb4ffa6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362089(v=AX.60)
 ms:contentKeyID: 35133059
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

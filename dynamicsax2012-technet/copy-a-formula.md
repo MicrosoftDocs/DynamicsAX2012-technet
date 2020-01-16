@@ -2,8 +2,9 @@
 title: Copy a formula
 TOCTitle: Copy a formula
 ms:assetid: d8523314-8b97-4a4d-b7b1-2910095cac57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328582(v=AX.60)
 ms:contentKeyID: 36688004
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,11 +40,11 @@ Use this procedure to copy a formula in the **Formula** form.
 
 ## See also
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula copying (form)](https://technet.microsoft.com/en-us/library/hh352338\(v=ax.60\))
+[Formula copying (form)](https://technet.microsoft.com/library/hh352338\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
   
 

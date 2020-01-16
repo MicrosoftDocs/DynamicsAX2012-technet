@@ -2,8 +2,9 @@
 title: Customer foreign currency revaluation simulation report (CustExchRateAdjSimulation)
 TOCTitle: Customer foreign currency revaluation simulation report (CustExchRateAdjSimulation)
 ms:assetid: b8a5e236-7d2f-49a6-813e-69c94064b139
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa556586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa556586(v=AX.60)
 ms:contentKeyID: 37832030
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -15,7 +16,7 @@ f1_keywords:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Use this report that to view the predicted effect of revaluing the amounts of transactions that use currencies other than the accounting currency. In the simulation, you can select values for the same parameters that are available for the revaluation: **Method**, **Considered date**, and **Date of rate**. For information about these fields, see [Customer foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa586009\(v=ax.60\)).
+Use this report that to view the predicted effect of revaluing the amounts of transactions that use currencies other than the accounting currency. In the simulation, you can select values for the same parameters that are available for the revaluation: **Method**, **Considered date**, and **Date of rate**. For information about these fields, see [Customer foreign currency revaluation (form)](https://technet.microsoft.com/library/aa586009\(v=ax.60\)).
 
 The report lists the open customer balances on the considered date in the customer currency and the accounting currency. The report also lists the open balance that would result if a foreign currency revaluation is run according to the criteria that is entered. The exchange rates that are used in the simulation are also listed.
 

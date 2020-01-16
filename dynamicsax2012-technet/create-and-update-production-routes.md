@@ -2,8 +2,9 @@
 title: Create and update production routes
 TOCTitle: Create and update production routes
 ms:assetid: 81608fc1-e252-4156-acf8-6c7fb568cc49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571551(v=AX.60)
 ms:contentKeyID: 37832513
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -87,7 +88,7 @@ You can set up route versions to accommodate variations in the production of an 
 
 [Create or update route operations](create-or-update-route-operations.md)
 
-[Routes (form)](https://technet.microsoft.com/en-us/library/aa548486\(v=ax.60\))
+[Routes (form)](https://technet.microsoft.com/library/aa548486\(v=ax.60\))
 
   
 

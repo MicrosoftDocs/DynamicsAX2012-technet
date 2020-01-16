@@ -2,8 +2,9 @@
 title: Create a cost accounting accrual scheme
 TOCTitle: Create a cost accounting accrual scheme
 ms:assetid: 21a5b215-784a-4a5c-b4fd-a3310b7f0465
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496790(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496790(v=AX.60)
 ms:contentKeyID: 36056167
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,13 +28,13 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Cost accounting accrual schemes (form)](https://technet.microsoft.com/en-us/library/aa576953\(v=ax.60\))
+[Cost accounting accrual schemes (form)](https://technet.microsoft.com/library/aa576953\(v=ax.60\))
 
-[Accrual (form)](https://technet.microsoft.com/en-us/library/aa498513\(v=ax.60\))
+[Accrual (form)](https://technet.microsoft.com/library/aa498513\(v=ax.60\))
 
 [Create cost accounting accrual transactions](create-cost-accounting-accrual-transactions.md)
 
-[Accrual schemes (form)](https://technet.microsoft.com/en-us/library/aa597492\(v=ax.60\))
+[Accrual schemes (form)](https://technet.microsoft.com/library/aa597492\(v=ax.60\))
 
   
 

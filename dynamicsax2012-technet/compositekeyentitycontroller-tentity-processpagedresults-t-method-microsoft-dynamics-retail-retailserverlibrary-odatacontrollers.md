@@ -1,9 +1,10 @@
-﻿---
+---
 title: CompositeKeyEntityController(TEntity).ProcessPagedResults(T) Method  (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: ProcessPagedResults(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController`1.ProcessPagedResults``1(Microsoft.Dynamics.Commerce.Runtime.PagedResult{``0},System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn684276(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn684276(v=AX.60)
 ms:contentKeyID: 62203416
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ void ProcessPagedResults(
 <!-- end list -->
 
   - pageSize  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

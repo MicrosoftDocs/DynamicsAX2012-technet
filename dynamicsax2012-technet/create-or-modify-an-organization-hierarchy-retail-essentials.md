@@ -2,8 +2,9 @@
 title: Create or modify an organization hierarchy (Retail essentials)
 TOCTitle: Create or modify an organization hierarchy (Retail essentials)
 ms:assetid: afdc1246-b1d8-4819-a4d4-d8aae9ca5f2e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736936(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736936(v=AX.60)
 ms:contentKeyID: 62200413
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

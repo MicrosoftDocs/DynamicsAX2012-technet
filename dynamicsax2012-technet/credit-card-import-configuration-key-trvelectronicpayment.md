@@ -2,8 +2,9 @@
 title: Credit card import configuration key (TrvElectronicPayment)
 TOCTitle: Credit card import configuration key (TrvElectronicPayment)
 ms:assetid: d8c52807-7d31-4456-aa12-f9688fdda452
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416695(v=AX.60)
 ms:contentKeyID: 36931856
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,19 +40,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Credit card transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242820(v=ax.60)">Credit card transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242820(v=ax.60)">Credit card transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Credit card category codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242702(v=ax.60)">Credit card category codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242702(v=ax.60)">Credit card category codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Credit card import from folder</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209601(v=ax.60)">Credit card import from folder (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209601(v=ax.60)">Credit card import from folder (class form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Open credit card transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242674(v=ax.60)">Open credit card transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242674(v=ax.60)">Open credit card transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Submit a dispute</strong></p></td>
@@ -63,11 +64,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Credit card disputes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227581(v=ax.60)">Disputed credit card transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227581(v=ax.60)">Disputed credit card transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Dispute reason codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209497(v=ax.60)">Dispute reason codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209497(v=ax.60)">Dispute reason codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Edit dispute</strong></p></td>
@@ -121,7 +122,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

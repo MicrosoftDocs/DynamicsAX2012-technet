@@ -2,8 +2,9 @@
 title: Configure personnel actions
 TOCTitle: Configure personnel actions
 ms:assetid: 5722ce62-09ce-48e6-8100-5eaba0aeb9d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527694(v=AX.60)
 ms:contentKeyID: 59626227
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -268,7 +269,7 @@ To create a personnel action type, follow these steps:
     
 
     > [!TIP]
-    > <P>All users are required to enter a compensation action regardless of whether personnel actions are enabled. When personnel actions are enabled, this requirement often becomes redundant because it is the same information that is supplied for the personnel action request. If this is the case for your organization, selecting a default fixed compensation action type can keep users from having to enter it two times. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh694711(v=ax.60)">Fixed compensation actions (form)</A>.</P>
+    > <P>All users are required to enter a compensation action regardless of whether personnel actions are enabled. When personnel actions are enabled, this requirement often becomes redundant because it is the same information that is supplied for the personnel action request. If this is the case for your organization, selecting a default fixed compensation action type can keep users from having to enter it two times. For more information, see <A href="https://technet.microsoft.com/library/hh694711(v=ax.60)">Fixed compensation actions (form)</A>.</P>
 
 
 
@@ -320,7 +321,7 @@ When users perform tasks that have personnel actions enabled, they are prompted 
 
 
 > [!TIP]
-> <P>There is only one type for all reason codes for personnel actions. Be sure to enter all the reason codes that you want to offer for both position- and worker-related personnel actions. For more information about how to create reason codes, see <A href="https://technet.microsoft.com/en-us/library/aa590446(v=ax.60)">Human Resources reason codes (form)</A>.</P>
+> <P>There is only one type for all reason codes for personnel actions. Be sure to enter all the reason codes that you want to offer for both position- and worker-related personnel actions. For more information about how to create reason codes, see <A href="https://technet.microsoft.com/library/aa590446(v=ax.60)">Human Resources reason codes (form)</A>.</P>
 
 
 
@@ -344,11 +345,11 @@ To set up a number sequence and associate it with personnel actions, follow thes
 
 ## Next step
 
-After you have set up and tested the items described in this topic, users can enter personnel action types and submit their requests to workflow, if it is required. For more information, see [Assign personnel actions to workers](https://technet.microsoft.com/en-us/library/dn479033\(v=ax.60\)).
+After you have set up and tested the items described in this topic, users can enter personnel action types and submit their requests to workflow, if it is required. For more information, see [Assign personnel actions to workers](https://technet.microsoft.com/library/dn479033\(v=ax.60\)).
 
 ## Related tasks
 
-[Assign personnel actions to workers](https://technet.microsoft.com/en-us/library/dn479033\(v=ax.60\))
+[Assign personnel actions to workers](https://technet.microsoft.com/library/dn479033\(v=ax.60\))
 
 [Personnel actions](personnel-actions.md)
 

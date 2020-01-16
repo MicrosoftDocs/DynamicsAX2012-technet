@@ -1,9 +1,10 @@
-﻿---
+---
 title: Configure troubleshooting options for integration ports
 TOCTitle: Configure troubleshooting options
 ms:assetid: 2a274dc4-5a0b-4973-9c19-24c7412b4f2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202045(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202045(v=AX.60)
 ms:contentKeyID: 35949277
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

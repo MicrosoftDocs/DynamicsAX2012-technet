@@ -2,8 +2,9 @@
 title: Create and save process flow queries
 TOCTitle: Create and save process flow queries
 ms:assetid: 2dcb7b6f-35a1-4ae2-af2a-38dd1b351493
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580598(v=AX.60)
 ms:contentKeyID: 39519084
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.FillClaimValueTypes Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: FillClaimValueTypes Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillClaimValueTypes(System.Collections.Generic.List{System.String})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillclaimvaluetypes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillclaimvaluetypes(v=AX.60)
 ms:contentKeyID: 62205818
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual void FillClaimValueTypes(
 #### Parameters
 
   - claimValueTypes  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 ## Exceptions
 
@@ -67,7 +68,7 @@ virtual void FillClaimValueTypes(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>claimValueTypes</p></td>
 </tr>
 </tbody>

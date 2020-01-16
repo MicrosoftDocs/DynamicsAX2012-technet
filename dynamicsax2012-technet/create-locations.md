@@ -2,8 +2,9 @@
 title: Create locations
 TOCTitle: Create locations
 ms:assetid: 6ef04b6d-0cb5-4bf6-b93d-cb3f090946d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571218(v=AX.60)
 ms:contentKeyID: 36058039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

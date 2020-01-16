@@ -2,8 +2,9 @@
 title: Create a project contract to invoice for percentage-of-completion projects
 TOCTitle: Create a project contract to invoice for percentage-of-completion projects
 ms:assetid: aad681d2-f7d7-40e4-bd16-1704c0a2c1fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242694(v=AX.60)
 ms:contentKeyID: 36058906
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -118,13 +119,13 @@ After you have created the percentage-of-completion contract and project, use th
 
 [Create billing rules](create-billing-rules.md)
 
-[Billing rules (form)](https://technet.microsoft.com/en-us/library/hh227642\(v=ax.60\))
+[Billing rules (form)](https://technet.microsoft.com/library/hh227642\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

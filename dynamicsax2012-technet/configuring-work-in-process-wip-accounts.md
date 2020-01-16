@@ -2,8 +2,9 @@
 title: Configuring work in process (WIP) accounts
 TOCTitle: Configuring work in process (WIP) accounts
 ms:assetid: 7370a74a-3c1a-4a19-9328-abe3862dae7d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209228(v=AX.60)
 ms:contentKeyID: 36058144
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

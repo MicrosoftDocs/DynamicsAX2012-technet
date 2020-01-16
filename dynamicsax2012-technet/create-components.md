@@ -2,8 +2,9 @@
 title: Create components
 TOCTitle: Create components
 ms:assetid: 365e4ce1-77da-4f63-a181-d1dcd6c32f3d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580608(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580608(v=AX.60)
 ms:contentKeyID: 39519094
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ A component is a generic element that can be assigned to a product configuration
 
 ## See also
 
-[Components (form)](https://technet.microsoft.com/en-us/library/hh227490\(v=ax.60\))
+[Components (form)](https://technet.microsoft.com/library/hh227490\(v=ax.60\))
 
 [Add an attribute to a component](add-an-attribute-to-a-component.md)
 

@@ -2,8 +2,9 @@
 title: Cube and KPI reference for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 TOCTitle: Cube and KPI reference for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack
 ms:assetid: 1dce9bcd-9a04-4ebe-84d4-0e8021486025
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710382(v=AX.60)
 ms:contentKeyID: 49384274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Create purchase orders manually from purchase requisitions
 TOCTitle: Create purchase orders manually from purchase requisitions
 ms:assetid: 95726644-14a6-4088-ad3a-e2054fe96046
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232214(v=AX.60)
 ms:contentKeyID: 36058621
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -123,9 +124,9 @@ All information on the purchase requisition lines is copied to the purchase orde
 
 ## See also
 
-[Release approved purchase requisition (form)](https://technet.microsoft.com/en-us/library/hh242658\(v=ax.60\))
+[Release approved purchase requisition (form)](https://technet.microsoft.com/library/hh242658\(v=ax.60\))
 
-[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/en-us/library/hh209698\(v=ax.60\))
+[Purchase order creation and demand consolidation rule (form)](https://technet.microsoft.com/library/hh209698\(v=ax.60\))
 
 [Set up rules for demand consolidation and for creating purchase orders](set-up-rules-for-demand-consolidation-and-for-creating-purchase-orders.md)
 

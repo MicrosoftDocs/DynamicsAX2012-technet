@@ -2,8 +2,9 @@
 title: Create or edit a sales order
 TOCTitle: Create or edit a sales order
 ms:assetid: 9c48ad87-66d4-43a2-945c-8f78de33035c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271608(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271608(v=AX.60)
 ms:contentKeyID: 36384240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Connect Microsoft Dynamics AX to the new Reporting Services instance
 TOCTitle: Connect Microsoft Dynamics AX to the new Reporting Services instance
 ms:assetid: de984127-106d-4811-80ee-e4a1178f1541
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389773(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389773(v=AX.60)
 ms:contentKeyID: 36899752
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Configure an AOS instance as a batch server
 TOCTitle: Configure an AOS instance as a batch server
 ms:assetid: 74687f8d-fd55-4a99-bea9-835655905fb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731831(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731831(v=AX.60)
 ms:contentKeyID: 35132680
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

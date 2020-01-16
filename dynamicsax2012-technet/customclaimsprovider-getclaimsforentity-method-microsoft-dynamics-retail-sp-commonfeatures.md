@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.GetClaimsForEntity Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: GetClaimsForEntity Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.GetClaimsForEntity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.getclaimsforentity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.getclaimsforentity(v=AX.60)
 ms:contentKeyID: 62205941
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

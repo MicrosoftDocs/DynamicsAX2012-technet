@@ -2,8 +2,9 @@
 title: Create purchase delivery schedules
 TOCTitle: Create purchase delivery schedules
 ms:assetid: 971baf1c-400b-4cfc-b35e-bd00f52f91ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209412(v=AX.60)
 ms:contentKeyID: 36058668
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -82,7 +83,7 @@ Use this procedure to create a delivery schedule that allows you to split up one
 
 [About delivery schedules](about-delivery-schedules.md)
 
-[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh227634\(v=ax.60\))
+[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/library/hh227634\(v=ax.60\))
 
 [Delete delivery schedules and delivery lines](delete-delivery-schedules-and-delivery-lines.md)
 

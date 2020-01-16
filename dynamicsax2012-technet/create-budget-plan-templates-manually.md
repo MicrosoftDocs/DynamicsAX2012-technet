@@ -2,8 +2,9 @@
 title: Create budget plan templates manually
 TOCTitle: Create budget plan templates manually
 ms:assetid: 897f68e4-799b-4e6c-a267-0415ce5c182f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677347(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677347(v=AX.60)
 ms:contentKeyID: 49384121
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -93,7 +94,7 @@ When you create worksheet templates, consider the following best practices:
     
 
     > [!NOTE]
-    > <P>A matrix field contains the values that you use to put related records into groups. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj677288(v=ax.60)">Using the Office Add-ins API</A>.</P>
+    > <P>A matrix field contains the values that you use to put related records into groups. For more information, see <A href="https://technet.microsoft.com/library/jj677288(v=ax.60)">Using the Office Add-ins API</A>.</P>
 
 
 

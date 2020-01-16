@@ -2,8 +2,9 @@
 title: Create and maintain product dimensions
 TOCTitle: Create and maintain product dimensions
 ms:assetid: 4777254f-329d-421d-aaf5-c0d30265b242
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496995(v=AX.60)
 ms:contentKeyID: 42518527
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ In the following example, a product master for which you can create small, mediu
 
 6.  Select or clear the **Active** check boxes for **Configuration**, **Size**, and **Color**, according to the dimensions to define for the dimension group.
 
-7.  Select or clear the **For purchase prices** and **For sales prices** check boxes, which are used for price search purposes. For more information, see [Product dimension groups (form)](https://technet.microsoft.com/en-us/library/hh227672\(v=ax.60\)).
+7.  Select or clear the **For purchase prices** and **For sales prices** check boxes, which are used for price search purposes. For more information, see [Product dimension groups (form)](https://technet.microsoft.com/library/hh227672\(v=ax.60\)).
     
 
     > [!TIP]

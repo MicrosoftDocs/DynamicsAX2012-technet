@@ -2,8 +2,9 @@
 title: Create subscription fee transactions
 TOCTitle: Create subscription fee transactions
 ms:assetid: 51e159f8-2a29-46f2-942f-1441864855dc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548916(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548916(v=AX.60)
 ms:contentKeyID: 36057274
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

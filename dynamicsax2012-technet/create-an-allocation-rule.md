@@ -2,8 +2,9 @@
 title: Create an allocation rule
 TOCTitle: Create an allocation rule
 ms:assetid: 96b6dbbf-d3a9-4bea-a549-7b625a6dc247
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ff395359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ff395359(v=AX.60)
 ms:contentKeyID: 36058639
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,11 +71,11 @@ Starting with cumulative update 7 for Microsoft Dynamics AX 2012 R2, you can als
 
 ## See also
 
-[Ledger allocation rule source (form)](https://technet.microsoft.com/en-us/library/ff395365\(v=ax.60\))
+[Ledger allocation rule source (form)](https://technet.microsoft.com/library/ff395365\(v=ax.60\))
 
-[Ledger allocation rule destination (form)](https://technet.microsoft.com/en-us/library/ff395369\(v=ax.60\))
+[Ledger allocation rule destination (form)](https://technet.microsoft.com/library/ff395369\(v=ax.60\))
 
-[Date intervals (form)](https://technet.microsoft.com/en-us/library/aa558459\(v=ax.60\))
+[Date intervals (form)](https://technet.microsoft.com/library/aa558459\(v=ax.60\))
 
   
 

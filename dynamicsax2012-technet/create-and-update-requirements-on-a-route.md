@@ -2,8 +2,9 @@
 title: Create and update requirements on a route
 TOCTitle: Create and update requirements on a route
 ms:assetid: fa560e4b-6970-4fb3-a415-ebbe431b2ca2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545539(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545539(v=AX.60)
 ms:contentKeyID: 37832552
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

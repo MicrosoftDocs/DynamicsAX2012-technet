@@ -2,8 +2,9 @@
 title: Configuring vendor payment settlements
 TOCTitle: Configuring vendor payment settlements
 ms:assetid: 6f630c56-6ab5-4337-b1de-aabb79ab30ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597121(v=AX.60)
 ms:contentKeyID: 39519171
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

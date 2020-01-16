@@ -2,8 +2,9 @@
 title: Configure a product model to use a distribution site
 TOCTitle: Configure a product model to use a distribution site
 ms:assetid: 85ee2eac-d6f3-4e5a-a8e5-5e3fe0975b3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213179(v=AX.60)
 ms:contentKeyID: 36676396
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ Use the **Product models** form to configure the product model.
 
 10. Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**.
     
-    Use the Simple view. For more information about views, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+    Use the Simple view. For more information about views, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 11. Click **Sales order** on the **Action Pane**.
 

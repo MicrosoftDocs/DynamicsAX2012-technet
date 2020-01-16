@@ -2,8 +2,9 @@
 title: Create and validate a quality order for a potency item
 TOCTitle: Create and validate a quality order for a potency item
 ms:assetid: 7ea865cc-afdb-4894-a656-db9e67115502
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838740(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838740(v=AX.60)
 ms:contentKeyID: 50120623
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use this procedure to report results of a quality order and update the inventory
 
 1.  Click **Inventory management** \> **Periodic** \> **Quality management** \> **Quality orders**.
 
-2.  Create a quality order. For more information, see [(PM) Quality orders (form)](https://technet.microsoft.com/en-us/library/hh328650\(v=ax.60\)).
+2.  Create a quality order. For more information, see [(PM) Quality orders (form)](https://technet.microsoft.com/library/hh328650\(v=ax.60\)).
 
 3.  In the **Reference type** field, select the type of reference for the quality order.
 

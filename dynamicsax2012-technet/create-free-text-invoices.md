@@ -2,8 +2,9 @@
 title: Create free text invoices
 TOCTitle: Create free text invoices
 ms:assetid: d2142085-c738-49cc-ad7b-dc1d0cff1fa4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242923(v=AX.60)
 ms:contentKeyID: 36059504
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

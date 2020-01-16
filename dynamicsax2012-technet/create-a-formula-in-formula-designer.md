@@ -2,8 +2,9 @@
 title: Create a formula in Formula designer
 TOCTitle: Create a formula in Formula designer
 ms:assetid: bbacd6d2-ff06-4b66-9716-dca2328bd6e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352342(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352342(v=AX.60)
 ms:contentKeyID: 36687973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,13 +50,13 @@ Use Formula designer to create a formula and a formula version.
 
 [About formulas](about-formulas.md)
 
-[Approve BOM or formula (class form)](https://technet.microsoft.com/en-us/library/hh227377\(v=ax.60\))
+[Approve BOM or formula (class form)](https://technet.microsoft.com/library/hh227377\(v=ax.60\))
 
-[(PM) Approve formula version (class form)](https://technet.microsoft.com/en-us/library/hh242740\(v=ax.60\))
+[(PM) Approve formula version (class form)](https://technet.microsoft.com/library/hh242740\(v=ax.60\))
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula designer (form)](https://technet.microsoft.com/en-us/library/hh242746\(v=ax.60\))
+[Formula designer (form)](https://technet.microsoft.com/library/hh242746\(v=ax.60\))
 
   
 

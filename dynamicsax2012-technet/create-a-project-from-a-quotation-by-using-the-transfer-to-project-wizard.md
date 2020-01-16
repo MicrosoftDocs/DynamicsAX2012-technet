@@ -2,8 +2,9 @@
 title: Create a project from a quotation by using the Transfer to Project wizard
 TOCTitle: Create a project from a quotation by using the Transfer to Project wizard
 ms:assetid: f5a1c888-20b9-4b86-91e6-eb9354445542
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn283930(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn283930(v=AX.60)
 ms:contentKeyID: 54923125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ This topic explains how to use the **Transfer to project** wizard in Microsoft D
 
 ## See also
 
-[Transfer quotation to project wizard](https://technet.microsoft.com/en-us/library/hh450758\(v=ax.60\))
+[Transfer quotation to project wizard](https://technet.microsoft.com/library/hh450758\(v=ax.60\))
 
   
 

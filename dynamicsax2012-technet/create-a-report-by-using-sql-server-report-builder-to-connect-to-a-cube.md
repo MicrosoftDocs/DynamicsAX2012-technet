@@ -2,8 +2,9 @@
 title: Create a report by using SQL Server Report Builder to connect to a cube
 TOCTitle: Create a report by using SQL Server Report Builder to connect to a cube
 ms:assetid: 0fe8ca70-c5af-4d3f-9019-27d769b80ba6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731902(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731902(v=AX.60)
 ms:contentKeyID: 35132819
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

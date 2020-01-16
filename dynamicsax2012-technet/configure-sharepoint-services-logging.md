@@ -2,8 +2,9 @@
 title: Configure SharePoint Services logging
 TOCTitle: Configure SharePoint Services logging
 ms:assetid: 4b492b9b-53bf-40c6-b2e7-9ca064d4d63d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731788(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731788(v=AX.60)
 ms:contentKeyID: 35132624
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

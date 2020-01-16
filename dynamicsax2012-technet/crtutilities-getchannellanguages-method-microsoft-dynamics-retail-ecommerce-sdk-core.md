@@ -1,9 +1,10 @@
-﻿---
+---
 title: CrtUtilities.GetChannelLanguages Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core)
 TOCTitle: GetChannelLanguages Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.CrtUtilities.GetChannelLanguages
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.crtutilities.getchannellanguages(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.crtutilities.getchannellanguages(v=AX.60)
 ms:contentKeyID: 65315797
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ static ReadOnlyCollection<ChannelLanguage^>^ GetChannelLanguages()
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<ChannelLanguage\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<ChannelLanguage\>  
 
 ## See Also
 

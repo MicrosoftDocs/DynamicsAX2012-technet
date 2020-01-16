@@ -2,8 +2,9 @@
 title: Specify the version of Integration Services that the Data Import/Export Framework uses
 TOCTitle: Specify the version of Integration Services that the Data Import/Export Framework uses
 ms:assetid: 42117635-a8e9-48a2-9ec7-175d30e8e07b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn878167(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn878167(v=AX.60)
 ms:contentKeyID: 63701236
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

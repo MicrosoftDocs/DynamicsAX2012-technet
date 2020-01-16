@@ -2,8 +2,9 @@
 title: Configure the retail assortments job
 TOCTitle: Configure the retail assortments job
 ms:assetid: 8691dc3a-483c-43aa-91c1-f96500314cdb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597159(v=AX.60)
 ms:contentKeyID: 39519216
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ The assortments scheduler is automatically run when an assortment is published. 
 
 ## See also
 
-[Retail assortments job (form)](https://technet.microsoft.com/en-us/library/hh597306\(v=ax.60\))
+[Retail assortments job (form)](https://technet.microsoft.com/library/hh597306\(v=ax.60\))
 
   
 

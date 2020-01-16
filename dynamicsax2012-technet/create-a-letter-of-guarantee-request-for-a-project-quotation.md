@@ -2,8 +2,9 @@
 title: Create a letter of guarantee request for a project quotation
 TOCTitle: Create a letter of guarantee request for a project quotation
 ms:assetid: f77cf344-7a9b-42ce-a5a9-179d96f927a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227549(v=AX.60)
 ms:contentKeyID: 36060033
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ You can request a letter of guarantee for a customer using the **Project quotati
 
 [Liquidate, extend, or cancel a letter of guarantee](liquidate-extend-or-cancel-a-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

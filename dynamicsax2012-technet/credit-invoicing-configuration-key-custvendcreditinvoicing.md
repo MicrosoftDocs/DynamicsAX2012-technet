@@ -2,8 +2,9 @@
 title: Credit invoicing configuration key (CustVendCreditInvoicing)
 TOCTitle: Credit invoicing configuration key (CustVendCreditInvoicing)
 ms:assetid: 18cf83e3-2063-4b4c-9487-10adf5c612c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572421(v=AX.60)
 ms:contentKeyID: 36997741
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,11 +54,11 @@ The following forms are affected when the feature is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Accounts payable parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596348(v=ax.60)">Accounts payable parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596348(v=ax.60)">Accounts payable parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572427(v=ax.60)">Vendor transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572427(v=ax.60)">Vendor transactions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -79,11 +80,11 @@ The following forms are affected when the feature is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Accounts receivable parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Customer transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634902(v=ax.60)">Customer transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634902(v=ax.60)">Customer transactions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +122,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

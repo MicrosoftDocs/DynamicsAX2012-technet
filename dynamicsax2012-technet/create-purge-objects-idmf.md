@@ -2,8 +2,9 @@
 title: Create purge objects (IDMF)
 TOCTitle: Create purge objects
 ms:assetid: 21829c60-8e2d-411a-ba7f-c7021dca0289
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389753(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389753(v=AX.60)
 ms:contentKeyID: 36899732
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

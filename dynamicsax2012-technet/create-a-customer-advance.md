@@ -2,8 +2,9 @@
 title: Create a customer advance
 TOCTitle: Create a customer advance
 ms:assetid: 22551e8f-229d-42a2-9371-1e32e3d71932
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208473(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208473(v=AX.60)
 ms:contentKeyID: 36056173
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ You can request an advance amount from a customer only if the project stage is *
 
 ## Set up a customer advance
 
-Use this procedure to enter a customer advance percentage that you can apply to budget lines for a project. The percentage and description appear on the selected budget lines in the **Customer advance** form. You can use the same percentage for all lines in the budget by creating a default advance setting for a project. For more information about how to set up a default value for customer advances, see [Customer advance (form)](https://technet.microsoft.com/en-us/library/hh242232\(v=ax.60\)).
+Use this procedure to enter a customer advance percentage that you can apply to budget lines for a project. The percentage and description appear on the selected budget lines in the **Customer advance** form. You can use the same percentage for all lines in the budget by creating a default advance setting for a project. For more information about how to set up a default value for customer advances, see [Customer advance (form)](https://technet.microsoft.com/library/hh242232\(v=ax.60\)).
 
 1.  Click **Project management and accounting** \> **Common** \> **Projects** \> **All projects**. On the **All projects** list page, on the **Action Pane**, on the **Project** tab, in the **New** group, click **Project** to create a new project. Or, select a project in the list.
 
@@ -59,9 +60,9 @@ The invoice for the customer advance is routed to workflow. If the invoice is ap
 
 ## See also
 
-[Customer advance (form)](https://technet.microsoft.com/en-us/library/hh242232\(v=ax.60\))
+[Customer advance (form)](https://technet.microsoft.com/library/hh242232\(v=ax.60\))
 
-[Update default values (form)](https://technet.microsoft.com/en-us/library/hh209610\(v=ax.60\))
+[Update default values (form)](https://technet.microsoft.com/library/hh209610\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Create accrual schemes
 TOCTitle: Create accrual schemes
 ms:assetid: 363b9469-bcee-4294-937f-80da1918d0ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570123(v=AX.60)
 ms:contentKeyID: 36810347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,7 +87,7 @@ The following steps describe how to create an accrual scheme. After you have cre
 
 ## See also
 
-[Ledger accruals (form)](https://technet.microsoft.com/en-us/library/aa574924\(v=ax.60\))
+[Ledger accruals (form)](https://technet.microsoft.com/library/aa574924\(v=ax.60\))
 
 [Create ledger accrual transactions](create-ledger-accrual-transactions.md)
 

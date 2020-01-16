@@ -2,8 +2,9 @@
 title: Create a letter of guarantee request for a sales quotation
 TOCTitle: Create a letter of guarantee request for a sales quotation
 ms:assetid: 218e1615-c3c7-4b7d-bd55-8547868c1221
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208472(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208472(v=AX.60)
 ms:contentKeyID: 36056166
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ You can request a letter of guarantee for a customer using the **Sales quotation
 
 [Increase or decrease the letter of guarantee value](increase-or-decrease-the-letter-of-guarantee-value.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
   
 

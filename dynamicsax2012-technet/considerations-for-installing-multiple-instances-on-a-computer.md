@@ -2,8 +2,9 @@
 title: Considerations for installing multiple instances on a computer
 TOCTitle: Considerations for installing multiple instances on a computer
 ms:assetid: a568fd5e-1f2d-4d58-932d-3ac6f5c1e851
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548643(v=AX.60)
 ms:contentKeyID: 35132796
+author: Khairunj
 ms.date: 08/14/2014
 mtps_version: v=AX.60
 ---

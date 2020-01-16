@@ -2,8 +2,9 @@
 title: Counting code
 TOCTitle: Counting code
 ms:assetid: 73f9ee17-5a7f-41e4-a3c2-658b8c0a1157
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa586380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa586380(v=AX.60)
 ms:contentKeyID: 36058150
+author: Khairunj
 ms.date: 03/20/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ This topic describes the counting code options that are available when you are c
 
 ## See also
 
-[Counting groups (form)](https://technet.microsoft.com/en-us/library/aa500813\(v=ax.60\))
+[Counting groups (form)](https://technet.microsoft.com/library/aa500813\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CreateHardwareStationTokenResponse Constructor (CreateHardwareStationTokenResult) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: CreateHardwareStationTokenResponse Constructor (CreateHardwareStationTokenResult)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.CreateHardwareStationTokenResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.CreateHardwareStationTokenResult)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.createhardwarestationtokenresponse.createhardwarestationtokenresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.createhardwarestationtokenresponse.createhardwarestationtokenresponse(v=AX.60)
 ms:contentKeyID: 65322191
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

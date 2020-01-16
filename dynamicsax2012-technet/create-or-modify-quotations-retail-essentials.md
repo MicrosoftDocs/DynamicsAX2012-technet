@@ -2,8 +2,9 @@
 title: Create or modify quotations (Retail essentials)
 TOCTitle: Create or modify quotations (Retail essentials)
 ms:assetid: 801a514d-3d5d-40e3-971d-3bb65dee6ec9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736909(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736909(v=AX.60)
 ms:contentKeyID: 62200393
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

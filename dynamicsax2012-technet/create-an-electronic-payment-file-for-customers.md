@@ -2,8 +2,9 @@
 title: Create an electronic payment file for customers
 TOCTitle: Create an electronic payment file for customers
 ms:assetid: dffcf26c-fcbc-4047-84ab-c03511f6ce26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243204(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243204(v=AX.60)
 ms:contentKeyID: 36971934
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Create and invoice an intercompany sales order for an external customer
 TOCTitle: Create and invoice an intercompany sales order for an external customer
 ms:assetid: 1f3c6ffb-82fc-4617-b5c0-bb2dc93839ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496780(v=AX.60)
 ms:contentKeyID: 43976705
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,7 +104,7 @@ Do these steps in legal entity B. This procedure corresponds to the box labeled 
 
 [Create and invoice an intercompany purchase order for internal use](create-and-invoice-an-intercompany-purchase-order-for-internal-use.md)
 
-[Intercompany setup (form)](https://technet.microsoft.com/en-us/library/hh781085\(v=ax.60\))
+[Intercompany setup (form)](https://technet.microsoft.com/library/hh781085\(v=ax.60\))
 
   
 

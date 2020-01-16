@@ -2,8 +2,9 @@
 title: Cost Distribution configuration key (COSCostDistribution)
 TOCTitle: Cost Distribution configuration key (COSCostDistribution)
 ms:assetid: c6209e52-54f2-4834-8bcb-33c0333ca90d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa590984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa590984(v=AX.60)
 ms:contentKeyID: 37072012
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,7 +78,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

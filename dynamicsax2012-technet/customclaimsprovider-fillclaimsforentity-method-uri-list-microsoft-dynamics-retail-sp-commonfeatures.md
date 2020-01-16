@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomClaimsProvider.FillClaimsForEntity Method (Uri, , List()) (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: FillClaimsForEntity Method (Uri, , List())
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillClaimsForEntity(System.Uri,Microsoft.SharePoint.Administration.Claims.SPClaim,System.Collections.Generic.List{Microsoft.SharePoint.Administration.Claims.SPClaim})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillclaimsforentity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillclaimsforentity(v=AX.60)
 ms:contentKeyID: 62204436
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,7 +58,7 @@ virtual void FillClaimsForEntity(
 #### Parameters
 
   - context  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -67,7 +68,7 @@ virtual void FillClaimsForEntity(
 <!-- end list -->
 
   - claims  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<SPClaim\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<SPClaim\>  
 
 ## Exceptions
 
@@ -84,7 +85,7 @@ virtual void FillClaimsForEntity(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>entity or claims</p></td>
 </tr>
 </tbody>

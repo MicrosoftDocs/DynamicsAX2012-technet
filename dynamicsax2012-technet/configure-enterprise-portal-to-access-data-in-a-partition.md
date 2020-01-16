@@ -2,8 +2,9 @@
 title: Configure Enterprise Portal to access data in a partition
 TOCTitle: Configure Enterprise Portal to access data in a partition
 ms:assetid: 53b2e382-28ee-46f5-a337-5d6f7894dabc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ670113(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ670113(v=AX.60)
 ms:contentKeyID: 49478231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

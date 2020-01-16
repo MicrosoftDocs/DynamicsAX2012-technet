@@ -2,8 +2,9 @@
 title: Create or modify a contact record
 TOCTitle: Create or modify a contact record
 ms:assetid: 61aa9a22-46ff-41bb-adec-9ccd93b34365
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271545(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271545(v=AX.60)
 ms:contentKeyID: 36384177
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

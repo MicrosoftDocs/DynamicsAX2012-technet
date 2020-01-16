@@ -1,9 +1,10 @@
-﻿---
+---
 title: Create a perspective for a cube
 TOCTitle: Create a perspective for a cube
 ms:assetid: b3207987-3f46-4000-8b86-b2c8d9f433f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc617589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc617589(v=AX.60)
 ms:contentKeyID: 28119569
+author: Khairunj
 ms.date: 12/19/2013
 mtps_version: v=AX.60
 ---

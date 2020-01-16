@@ -2,8 +2,9 @@
 title: Configure an Existing SQL Server Analysis Services Project
 TOCTitle: Configure an Existing SQL Server Analysis Services Project
 ms:assetid: ee0aa94f-28f9-4427-82c6-51a18e0939be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724140(v=AX.60)
 ms:contentKeyID: 35133500
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -83,13 +84,13 @@ You can create Key Performance Indicators (KPIs) in SQL Server Business Intellig
 
 
 
-Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/en-us/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
+Information is logged in the global log file path that is specified in the [Analysis servers form](https://technet.microsoft.com/library/hh597195\(v=ax.60\)). Log files are not generated if you do not specify the global log file path.
 
 ## See also
 
-[How to: Create and Apply a Configuration Key](https://technet.microsoft.com/en-us/library/aa893167\(v=ax.60\))
+[How to: Create and Apply a Configuration Key](https://technet.microsoft.com/library/aa893167\(v=ax.60\))
 
-[About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\))
+[About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\))
 
 [Configure application functionality](configure-application-functionality.md)
 

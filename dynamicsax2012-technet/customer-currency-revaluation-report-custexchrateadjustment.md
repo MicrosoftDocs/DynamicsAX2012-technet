@@ -2,8 +2,9 @@
 title: Customer currency revaluation report (CustExchRateAdjustment)
 TOCTitle: Customer currency revaluation report (CustExchRateAdjustment)
 ms:assetid: 87b853b4-3ea1-4fe9-a324-2422d3aa7d77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa598032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa598032(v=AX.60)
 ms:contentKeyID: 36956700
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Use this report to view and print the details of the foreign currency revaluatio
 
 
 > [!IMPORTANT]
-> <P>You can view and print this report only if you select the <STRONG>Print</STRONG> check box in the <STRONG>Foreign currency revaluation</STRONG> form immediately before you run the revaluation. The report is not saved in Microsoft Dynamics AX for later reference. You can always view the ledger and customer transactions that are created in a particular run of the revaluation. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa586009(v=ax.60)">Customer foreign currency revaluation (form)</A>.</P>
+> <P>You can view and print this report only if you select the <STRONG>Print</STRONG> check box in the <STRONG>Foreign currency revaluation</STRONG> form immediately before you run the revaluation. The report is not saved in Microsoft Dynamics AX for later reference. You can always view the ledger and customer transactions that are created in a particular run of the revaluation. For more information, see <A href="https://technet.microsoft.com/library/aa586009(v=ax.60)">Customer foreign currency revaluation (form)</A>.</P>
 
 
 

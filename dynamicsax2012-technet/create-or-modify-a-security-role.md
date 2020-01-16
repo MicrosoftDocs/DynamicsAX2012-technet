@@ -2,8 +2,9 @@
 title: Create or modify a security role
 TOCTitle: Create or modify a security role
 ms:assetid: 69f36fc7-9792-410f-9f75-5a3cb74ab97c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731823(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731823(v=AX.60)
 ms:contentKeyID: 35132671
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
