@@ -22,7 +22,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Some organizations do not use the user request process to manage vendor users' access to the Vendor portal in Enterprise Portal for Microsoft Dynamics AX. Instead, they rely on system administrators to perform the user management tasks manually. In these cases, the system administrator must create the vendor user, set up the vendor user profile, and assign user permissions.
 
-Microsoft Dynamics AX supports a number of authentication methods. However, if you are not using the user request process to manage vendor user access, you must use Active Directory Domain Services (AD DS) authentication. To use the AD DS authentication, you must create an AD DS user account for the vendor contact before you set them up in Microsoft Dynamics AX. Instructions for adding users to an AD DS group can be found on [Microsoft TechNet](http://technet.microsoft.com).
+Microsoft Dynamics AX supports a number of authentication methods. However, if you are not using the user request process to manage vendor user access, you must use Active Directory Domain Services (AD DS) authentication. To use the AD DS authentication, you must create an AD DS user account for the vendor contact before you set them up in Microsoft Dynamics AX. Instructions for adding users to an AD DS group can be found on [Microsoft TechNet](https://technet.microsoft.com).
 
 This topic outlines the steps that you must take to set up vendor users when you are not using the user request process to control user access to the Vendor portal.
 
