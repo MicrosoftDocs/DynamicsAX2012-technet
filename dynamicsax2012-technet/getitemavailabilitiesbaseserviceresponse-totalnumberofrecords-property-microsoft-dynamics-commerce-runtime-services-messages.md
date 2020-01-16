@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetItemAvailabilitiesBaseServiceResponse.TotalNumberOfRecords Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: TotalNumberOfRecords Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetItemAvailabilitiesBaseServiceResponse.TotalNumberOfRecords
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getitemavailabilitiesbaseserviceresponse.totalnumberofrecords(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getitemavailabilitiesbaseserviceresponse.totalnumberofrecords(v=AX.60)
 ms:contentKeyID: 62211621
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property int TotalNumberOfRecords {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The total number of records.  
 
 ## See Also

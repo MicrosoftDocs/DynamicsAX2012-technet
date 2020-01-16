@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCustomersServiceRequest Constructor (QueryResultSettings, Int64) (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetCustomersServiceRequest Constructor (QueryResultSettings, Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomersServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersservicerequest.getcustomersservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomersservicerequest.getcustomersservicerequest(v=AX.60)
 ms:contentKeyID: 65319957
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -56,7 +57,7 @@ GetCustomersServiceRequest(
 <!-- end list -->
 
   - recordId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

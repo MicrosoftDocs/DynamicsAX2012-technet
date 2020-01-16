@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetLoyaltyCardRewardPointsStatusTransactionServiceResponse.LoyaltyCards Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: LoyaltyCards Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetLoyaltyCardRewardPointsStatusTransactionServiceResponse.LoyaltyCards
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getloyaltycardrewardpointsstatustransactionserviceresponse.loyaltycards(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getloyaltycardrewardpointsstatustransactionserviceresponse.loyaltycards(v=AX.60)
 ms:contentKeyID: 65318980
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ReadOnlyCollection<LoyaltyCard^>^ LoyaltyCards {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[LoyaltyCard](loyaltycard-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[LoyaltyCard](loyaltycard-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

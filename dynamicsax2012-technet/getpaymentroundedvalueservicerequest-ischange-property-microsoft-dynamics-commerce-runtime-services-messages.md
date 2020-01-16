@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetPaymentRoundedValueServiceRequest.IsChange Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: IsChange Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetPaymentRoundedValueServiceRequest.IsChange
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getpaymentroundedvalueservicerequest.ischange(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getpaymentroundedvalueservicerequest.ischange(v=AX.60)
 ms:contentKeyID: 65316343
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property bool IsChange {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

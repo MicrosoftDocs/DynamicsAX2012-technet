@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetDeliveryPreferencesResponse Constructor (CartDeliveryPreferences) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetDeliveryPreferencesResponse Constructor (CartDeliveryPreferences)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeliveryPreferencesResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.CartDeliveryPreferences)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getdeliverypreferencesresponse.getdeliverypreferencesresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeliverypreferencesresponse.getdeliverypreferencesresponse(v=AX.60)
 ms:contentKeyID: 65321879
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

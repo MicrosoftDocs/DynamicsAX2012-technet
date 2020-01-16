@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCustomerBalanceResponse Constructor (CustomerBalances) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetCustomerBalanceResponse Constructor (CustomerBalances)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCustomerBalanceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.CustomerBalances)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getcustomerbalanceresponse.getcustomerbalanceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcustomerbalanceresponse.getcustomerbalanceresponse(v=AX.60)
 ms:contentKeyID: 62211478
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetPurchaseOrderResponse Constructor (IEnumerable(PurchaseOrder)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetPurchaseOrderResponse Constructor (IEnumerable(PurchaseOrder))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetPurchaseOrderResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.PurchaseOrder})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getpurchaseorderresponse.getpurchaseorderresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getpurchaseorderresponse.getpurchaseorderresponse(v=AX.60)
 ms:contentKeyID: 62209529
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetPurchaseOrderResponse(
 #### Parameters
 
   - purchaseOrders  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[PurchaseOrder](purchaseorder-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[PurchaseOrder](purchaseorder-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

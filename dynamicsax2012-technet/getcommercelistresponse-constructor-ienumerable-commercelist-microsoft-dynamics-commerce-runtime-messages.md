@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetCommerceListResponse Constructor (IEnumerable(CommerceList)) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: GetCommerceListResponse Constructor (IEnumerable(CommerceList))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCommerceListResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceList})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.getcommercelistresponse.getcommercelistresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcommercelistresponse.getcommercelistresponse(v=AX.60)
 ms:contentKeyID: 62208482
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetCommerceListResponse(
 #### Parameters
 
   - clists  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[CommerceList](commercelist-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[CommerceList](commercelist-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

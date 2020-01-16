@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetDistrictServiceResponse Constructor (IEnumerable(DistrictInfo)) (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetDistrictServiceResponse Constructor (IEnumerable(DistrictInfo))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDistrictServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DistrictInfo})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getdistrictserviceresponse.getdistrictserviceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getdistrictserviceresponse.getdistrictserviceresponse(v=AX.60)
 ms:contentKeyID: 62214281
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ GetDistrictServiceResponse(
 #### Parameters
 
   - districts  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[DistrictInfo](districtinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[DistrictInfo](districtinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

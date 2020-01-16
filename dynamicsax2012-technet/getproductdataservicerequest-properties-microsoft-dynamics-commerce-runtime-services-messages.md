@@ -1,9 +1,10 @@
-﻿---
+---
 title: GetProductDataServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: GetProductDataServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductDataServiceRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.getproductdataservicerequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getproductdataservicerequest_properties(v=AX.60)
 ms:contentKeyID: 65320979
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
