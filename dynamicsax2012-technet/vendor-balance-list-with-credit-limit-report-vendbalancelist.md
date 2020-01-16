@@ -2,8 +2,9 @@
 title: Vendor balance list with credit limit report (VendBalanceList)
 TOCTitle: Vendor balance list with credit limit report (VendBalanceList)
 ms:assetid: aa47b4b2-0ed0-4109-acef-f4ba321b11fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589252(v=AX.60)
 ms:contentKeyID: 36676490
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -109,7 +110,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

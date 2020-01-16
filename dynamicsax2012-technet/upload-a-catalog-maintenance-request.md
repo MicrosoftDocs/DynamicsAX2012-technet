@@ -2,8 +2,9 @@
 title: Upload a catalog maintenance request
 TOCTitle: Upload a catalog maintenance request
 ms:assetid: 9e2803cb-db76-4b20-a4bc-b386146fbc94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271612(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271612(v=AX.60)
 ms:contentKeyID: 36384244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

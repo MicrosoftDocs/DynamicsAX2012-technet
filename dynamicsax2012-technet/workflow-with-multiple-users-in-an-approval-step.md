@@ -2,8 +2,9 @@
 title: Workflow with multiple users in an approval step
 TOCTitle: Workflow with multiple users in an approval step
 ms:assetid: a1254679-38db-4325-90d9-838790d0978c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731883(v=AX.60)
 ms:contentKeyID: 35132791
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Work planner
 TOCTitle: Work planner
 ms:assetid: 24de2968-0555-4bff-9363-ba117a2fee0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580586(v=AX.60)
 ms:contentKeyID: 39519069
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

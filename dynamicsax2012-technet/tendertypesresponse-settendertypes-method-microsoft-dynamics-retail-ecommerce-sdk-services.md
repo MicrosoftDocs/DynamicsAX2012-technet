@@ -1,9 +1,10 @@
-﻿---
+---
 title: TenderTypesResponse.SetTenderTypes Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: SetTenderTypes Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.TenderTypesResponse.SetTenderTypes(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.TenderType})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.tendertypesresponse.settendertypes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.tendertypesresponse.settendertypes(v=AX.60)
 ms:contentKeyID: 65315920
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ void SetTenderTypes(
 #### Parameters
 
   - tenderTypes  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[TenderType](tendertype-enumeration-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[TenderType](tendertype-enumeration-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 ## See Also
 

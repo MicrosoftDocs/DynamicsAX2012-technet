@@ -2,8 +2,9 @@
 title: Troubleshooting Report Definition Issues
 TOCTitle: Troubleshooting Report Definition Issues
 ms:assetid: 06ff38d9-ca23-4e8f-8b06-fad378f8ef56
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731894(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731894(v=AX.60)
 ms:contentKeyID: 35132812
+author: Khairunj
 ms.date: 01/09/2015
 mtps_version: v=AX.60
 ---
@@ -145,7 +146,7 @@ The following table provides guidance to help you determine the cause of your re
 </tr>
 <tr class="even">
 <td><p>When you debug a C# data method, the SQL Server Reporting Services server crashes.</p></td>
-<td><p>This is a known issue if you are debugging a C# data method on a machine that is running a 64 bit operating system. To work around this issue, open Visual Studio 2008, load the C# file, set the break point, and then attach to the Reporting Services process. For more information, see <a href="https://technet.microsoft.com/en-us/library/gg889265(v=ax.60)">Debugging Managed Code in Microsoft Dynamics AX</a>.</p></td>
+<td><p>This is a known issue if you are debugging a C# data method on a machine that is running a 64 bit operating system. To work around this issue, open Visual Studio 2008, load the C# file, set the break point, and then attach to the Reporting Services process. For more information, see <a href="https://technet.microsoft.com/library/gg889265(v=ax.60)">Debugging Managed Code in Microsoft Dynamics AX</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Reports that run for more than ten minutes time out. For example:</p>

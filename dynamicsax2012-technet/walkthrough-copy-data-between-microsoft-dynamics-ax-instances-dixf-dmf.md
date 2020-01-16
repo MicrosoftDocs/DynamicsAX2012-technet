@@ -2,8 +2,9 @@
 title: Copy data between Dynamics AX instances
 TOCTitle: Copy data between Dynamics AX instances
 ms:assetid: 10c0a510-b770-4710-aac2-14b26a9f2065
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144987(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn144987(v=AX.60)
 ms:contentKeyID: 52249879
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

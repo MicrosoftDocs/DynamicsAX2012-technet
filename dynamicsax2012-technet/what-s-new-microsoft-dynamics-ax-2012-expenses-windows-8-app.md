@@ -2,8 +2,9 @@
 title: "What's new: Microsoft Dynamics AX 2012 Expenses  Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Expenses  Windows 8 App
 ms:assetid: fe3f970f-514d-41c9-a393-b311d59b50de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527267(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527267(v=AX.60)
 ms:contentKeyID: 59623395
+author: Khairunj
 ms.date: 03/03/2017
 mtps_version: v=AX.60
 ---

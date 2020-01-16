@@ -2,8 +2,9 @@
 title: "What's new: Accounts payable features"
 TOCTitle: Accounts payable features
 ms:assetid: aaa4e957-c34c-4f42-8b2f-3a1441aef71a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527209(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527209(v=AX.60)
 ms:contentKeyID: 59623338
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
@@ -122,12 +123,12 @@ We have changed and added functionality in the [Accounts payable](accounts-payab
 </tr>
 <tr class="odd">
 <td><p>Improved forms for creating and posting invoices</p></td>
-<td><p>The forms for creating and posting invoices are easier to understand and use, and you can now enter all the required information in one form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209644(v=ax.60)">Vendor invoice (form)</a>.</p></td>
+<td><p>The forms for creating and posting invoices are easier to understand and use, and you can now enter all the required information in one form. For more information, see <a href="https://technet.microsoft.com/library/hh209644(v=ax.60)">Vendor invoice (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Verify the receipt of W-9 forms from vendors.</p></td>
 <td><p>Before you post a document, you can verify whether a vendor has provided a W-9 form. If the vendor has not provided a W-9 form, you can hold the document while you wait for the form from the vendor.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa596348(v=ax.60)">Accounts payable parameters (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa596348(v=ax.60)">Accounts payable parameters (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Advance payments on vendor invoices</p></td>
@@ -142,11 +143,11 @@ We have changed and added functionality in the [Accounts payable](accounts-payab
 <tr class="odd">
 <td><p>Add open purchase orders and purchase order lines to an invoice.</p></td>
 <td><p>You can use the <strong>Retrieve purchase orders</strong> form to create one invoice for selected purchase orders and purchase order lines. In a list in the <strong>Retrieve purchase orders</strong> form, you can select the open purchase orders and lines to combine on the same invoice.</p>
-<p>For more information, see <a href="key-tasks-vendor-invoices.md">Key tasks: Vendor invoices</a> and <a href="https://technet.microsoft.com/en-us/library/hh209504(v=ax.60)">Retrieve purchase orders (form)</a>.</p></td>
+<p>For more information, see <a href="key-tasks-vendor-invoices.md">Key tasks: Vendor invoices</a> and <a href="https://technet.microsoft.com/library/hh209504(v=ax.60)">Retrieve purchase orders (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Improved forms for creating and posting invoices, purchase orders, receipt lists, and packing slips</p></td>
-<td><p>The forms for creating and posting invoices, purchase orders, receipt lists, and packing slips are easier to understand and use. For each document type, you can now enter all the required information in one form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209644(v=ax.60)">Vendor invoice (form)</a> and <a href="https://technet.microsoft.com/en-us/library/aa587152(v=ax.60)">Purchase posting (form)</a>.</p></td>
+<td><p>The forms for creating and posting invoices, purchase orders, receipt lists, and packing slips are easier to understand and use. For each document type, you can now enter all the required information in one form. For more information, see <a href="https://technet.microsoft.com/library/hh209644(v=ax.60)">Vendor invoice (form)</a> and <a href="https://technet.microsoft.com/library/aa587152(v=ax.60)">Purchase posting (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Create payment invoice groups, and pay a group of invoices by using the same payment.</p></td>
@@ -176,7 +177,7 @@ We have changed and added functionality in the [Accounts payable](accounts-payab
 <tr class="even">
 <td><p>Create a confirming purchase order for unplanned vendor purchases (Public sector).</p></td>
 <td><p>In an emergency or special circumstance, you can create an order that circumvents the usual purchasing process. For example, you can authorize an order that has only a purchase order number instead of a printed purchase order document. You can use the <strong>Confirming PO code</strong> field to track these unplanned purchases.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh208558(v=ax.60)">Confirming PO codes (form) (Public sector)</a></p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh208558(v=ax.60)">Confirming PO codes (form) (Public sector)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Select among multiple remittance addresses.</p></td>

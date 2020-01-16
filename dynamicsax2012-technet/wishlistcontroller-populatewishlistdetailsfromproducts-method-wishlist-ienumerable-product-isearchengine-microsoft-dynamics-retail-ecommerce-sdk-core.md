@@ -1,9 +1,10 @@
-﻿---
+---
 title: WishListController.PopulateWishListDetailsFromProducts Method (WishList, IEnumerable(Product), ISearchEngine) (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers)
 TOCTitle: PopulateWishListDetailsFromProducts Method (WishList, IEnumerable(Product), ISearchEngine)
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.WishListController.PopulateWishListDetailsFromProducts(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.WishList,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.Product},Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.wishlistcontroller.populatewishlistdetailsfromproducts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.wishlistcontroller.populatewishlistdetailsfromproducts(v=AX.60)
 ms:contentKeyID: 65316831
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -60,7 +61,7 @@ virtual void PopulateWishListDetailsFromProducts(
 <!-- end list -->
 
   - products  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<Product\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<Product\>  
 
 <!-- end list -->
 

@@ -2,8 +2,9 @@
 title: Transfer opening balances to a new fiscal year
 TOCTitle: Transfer opening balances to a new fiscal year
 ms:assetid: 941394d6-11e0-436d-ad53-b8061ae8e163
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498391(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498391(v=AX.60)
 ms:contentKeyID: 36941347
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -82,9 +83,9 @@ Use the **Opening transactions** form to transfer opening balances for each acco
 
 ## See also
 
-[Opening transactions (form)](https://technet.microsoft.com/en-us/library/aa572506\(v=ax.60\))
+[Opening transactions (form)](https://technet.microsoft.com/library/aa572506\(v=ax.60\))
 
-[Main accounts - chart of accounts (form)](https://technet.microsoft.com/en-us/library/hh209695\(v=ax.60\))
+[Main accounts - chart of accounts (form)](https://technet.microsoft.com/library/hh209695\(v=ax.60\))
 
   
 

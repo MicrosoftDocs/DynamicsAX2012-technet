@@ -2,8 +2,9 @@
 title: Updating payroll data for time and attendance
 TOCTitle: Updating payroll data for time and attendance
 ms:assetid: e2566b6a-c217-4b8d-9c79-18717fd7a142
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551371(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551371(v=AX.60)
 ms:contentKeyID: 36059719
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

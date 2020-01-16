@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Exposing an X++ Class as a Data Contract'
 TOCTitle: 'Walkthrough: Exposing an X++ Class as a Data Contract'
 ms:assetid: 239bbd12-076c-4fe0-9f67-cd5feef90c71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg844225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg844225(v=AX.60)
 ms:contentKeyID: 35241594
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

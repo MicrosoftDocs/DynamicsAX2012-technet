@@ -2,8 +2,9 @@
 title: (THA, SAU, GBR, IRL) Set up a withholding tax authority
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax authority
 ms:assetid: 9802d265-2a26-4025-afb4-7dd427d872bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209414(v=AX.60)
 ms:contentKeyID: 36058673
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ You can create a withholding tax authority, and then attach the authority to a w
 
 ## See also
 
-[(THA, SAU, GBR, IRL) Withholding tax settlement periods (form)](https://technet.microsoft.com/en-us/library/hh209377\(v=ax.60\))
+[(THA, SAU, GBR, IRL) Withholding tax settlement periods (form)](https://technet.microsoft.com/library/hh209377\(v=ax.60\))
 
   
 

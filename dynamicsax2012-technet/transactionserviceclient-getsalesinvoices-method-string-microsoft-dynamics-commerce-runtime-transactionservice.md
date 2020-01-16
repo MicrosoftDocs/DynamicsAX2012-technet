@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceClient.GetSalesInvoices Method (String) (Microsoft.Dynamics.Commerce.Runtime.TransactionService)
 TOCTitle: GetSalesInvoices Method (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.GetSalesInvoices(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.getsalesinvoices(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.getsalesinvoices(v=AX.60)
 ms:contentKeyID: 62205543
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -50,11 +51,11 @@ ReadOnlyCollection<Object^>^ GetSalesInvoices(
 #### Parameters
 
   - customerAccountNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>  
 The collection results from the transaction service call.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: Vendor base data report (VendBaseData)
 TOCTitle: Vendor base data report (VendBaseData)
 ms:assetid: d188f5f8-7682-4847-9c28-ee3fb35e4c2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa599417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa599417(v=AX.60)
 ms:contentKeyID: 39508892
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

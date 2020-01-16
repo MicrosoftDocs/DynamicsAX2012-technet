@@ -2,8 +2,9 @@
 title: Synchronize a new table or field with retail databases
 TOCTitle: Synchronize a new table or field with retail databases
 ms:assetid: 690885db-8cb6-43e2-aed6-fcaa72d5735d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn282391(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn282391(v=AX.60)
 ms:contentKeyID: 54906854
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

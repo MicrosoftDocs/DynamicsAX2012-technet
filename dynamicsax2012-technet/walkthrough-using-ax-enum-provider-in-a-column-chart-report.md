@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Using AX Enum Provider in a Column Chart Report'
 TOCTitle: 'Walkthrough: Using AX Enum Provider in a Column Chart Report'
 ms:assetid: 5e5b6325-f634-4831-b509-040144c9444a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc554854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc554854(v=AX.60)
 ms:contentKeyID: 28119364
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -381,7 +382,7 @@ During design, you can switch between several related chart types. First, you wi
 
 3.  In Model Editor, right-click the **AutoDesign1** node, and then click **Preview** to view the report. Specify a transaction type for the parameter, like **Customer**, and then click the **Report** tab to view the report.
 
-You can use the additional properties to control the look of the report. For more information, see [Working with Data Regions](working-with-data-regions.md). The line chart report that has a report parameter based on an enumeration can now be accessed from a Microsoft Dynamics AX [menu item](how-to-create-a-menu-item-for-a-report.md) or [Enterprise Portal](https://technet.microsoft.com/en-us/library/cc571238\(v=ax.60\)).
+You can use the additional properties to control the look of the report. For more information, see [Working with Data Regions](working-with-data-regions.md). The line chart report that has a report parameter based on an enumeration can now be accessed from a Microsoft Dynamics AX [menu item](how-to-create-a-menu-item-for-a-report.md) or [Enterprise Portal](https://technet.microsoft.com/library/cc571238\(v=ax.60\)).
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: "What's new: Role-based security"
 TOCTitle: Role-based security
 ms:assetid: 5b14294e-bc25-4e06-9759-e75e876fba4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527126(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527126(v=AX.60)
 ms:contentKeyID: 59623255
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -121,7 +122,7 @@ The system administrator and the developer each manage parts of the new security
 <td><p>Use improved data security filters.</p></td>
 <td><p>When data filters were created through the record-level security feature, the fields that the filters were based on had to be in the same table as the data that was filtered.</p></td>
 <td><p>A user can create data security policies based on data that is contained in a different table.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg847361(v=ax.60)">Security Policies in the AOT for Data Records</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/gg847361(v=ax.60)">Security Policies in the AOT for Data Records</a>.</p></td>
 <td><p>Data security controls are improved.</p></td>
 </tr>
 <tr class="even">
@@ -215,18 +216,18 @@ Role-based security has mechanisms that help secure both columns and rows in tab
 <p>Either the system administrator or the developer can assign a privilege to a user role. All users who are assigned to the role gain that privilege.</p></td>
 <td><p>The new security system takes less work to maintain as your business evolves. Security constructs can be reused more easily.</p>
 <p>Data that the user does not have permissions to see is never sent from Microsoft Dynamics AX Application Object Server (AOS) to the client. Appropriate security does not rely on forms for enforcement.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg841928(v=ax.60)">Automatic Inference of Permissions in AOT Security</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg841928(v=ax.60)">Automatic Inference of Permissions in AOT Security</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Implement security policies for table records.</p></td>
-<td><p>The <a href="https://technet.microsoft.com/en-us/library/aa879172(v=ax.60)">record level security (RLS)</a> feature was used to filter access to table records. RLS security constructs applied only in individual tables.</p>
+<td><p>The <a href="https://technet.microsoft.com/library/aa879172(v=ax.60)">record level security (RLS)</a> feature was used to filter access to table records. RLS security constructs applied only in individual tables.</p>
 <p>RLS was applied only if the developer explicitly called RLS to enforce security. Therefore, security enforcement could be accidentally omitted.</p></td>
 <td><p>Security policies for table rows behave like a where clause in SQL. A security policy is based on a query under the <strong>Queries</strong> node in the AOT. The details of the policy are specified under the <strong>Data Sources</strong> &gt; <strong>Ranges</strong> node. Therefore, foreign key relations between tables can be part of a security policy.</p>
 <p>Security policies are assigned to user roles.</p></td>
 <td><p>Security policies can restrict access to table rows, based on foreign key relationships between tables. One security policy can replace several RLS specifications.</p>
 <p>After a security policy is created in the AOT and assigned to a user role, the system automatically enforces the policy. Therefore, developers do not have to add calls to a security system in their code.</p>
 <p>The RLS feature will be removed from a future version of the product.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg847361(v=ax.60)">Security Policies in the AOT for Data Records</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg847361(v=ax.60)">Security Policies in the AOT for Data Records</a>.</p></td>
 </tr>
 </tbody>
 </table>

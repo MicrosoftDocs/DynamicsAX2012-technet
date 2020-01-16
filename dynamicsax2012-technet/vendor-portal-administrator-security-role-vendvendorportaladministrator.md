@@ -2,8 +2,9 @@
 title: Vendor portal administrator security role (VendVendorPortalAdministrator)
 TOCTitle: Vendor portal administrator security role (VendVendorPortalAdministrator)
 ms:assetid: 0548f644-2d08-4a51-a869-e38b4e40e236
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh544037(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh544037(v=AX.60)
 ms:contentKeyID: 37823118
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

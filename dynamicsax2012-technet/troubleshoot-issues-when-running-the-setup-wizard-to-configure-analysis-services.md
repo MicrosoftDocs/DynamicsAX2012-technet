@@ -2,8 +2,9 @@
 title: Troubleshoot issues when running the Setup wizard to configure Analysis Services
 TOCTitle: Troubleshoot issues when running the Setup wizard to configure Analysis Services
 ms:assetid: d3e32164-d488-4729-b9d5-67778e6f824b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724129(v=AX.60)
 ms:contentKeyID: 35133489
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

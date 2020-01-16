@@ -2,8 +2,9 @@
 title: Virtual company accounts in Microsoft Dynamics AX
 TOCTitle: Virtual company accounts in Microsoft Dynamics AX
 ms:assetid: 8b4f6374-8ef5-49aa-942a-50d354a192d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834413(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834413(v=AX.60)
 ms:contentKeyID: 35132715
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

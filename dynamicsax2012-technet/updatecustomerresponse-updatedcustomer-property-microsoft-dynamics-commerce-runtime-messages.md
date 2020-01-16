@@ -1,9 +1,10 @@
-﻿---
+---
 title: UpdateCustomerResponse.UpdatedCustomer Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: UpdatedCustomer Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateCustomerResponse.UpdatedCustomer
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.updatecustomerresponse.updatedcustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.updatecustomerresponse.updatedcustomer(v=AX.60)
 ms:contentKeyID: 49854397
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

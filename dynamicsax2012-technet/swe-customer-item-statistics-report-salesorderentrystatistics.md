@@ -2,8 +2,9 @@
 title: (SWE) Customer/item statistics report (SalesOrderEntryStatistics)
 TOCTitle: (SWE) Customer/item statistics report (SalesOrderEntryStatistics)
 ms:assetid: 652e686e-1f6b-478a-a5e9-16476d3bd155
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433500(v=AX.60)
 ms:contentKeyID: 36941267
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

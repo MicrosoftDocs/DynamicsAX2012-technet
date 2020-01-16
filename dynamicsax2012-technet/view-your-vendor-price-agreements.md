@@ -2,8 +2,9 @@
 title: View your vendor price agreements
 TOCTitle: View your vendor price agreements
 ms:assetid: 38070a12-5d5d-4afb-bc3b-3b2cbf791b5b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271498(v=AX.60)
 ms:contentKeyID: 36384130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Update a rebate agreement
 TOCTitle: Update a rebate agreement
 ms:assetid: 9f491076-a03a-41a7-8f79-daea19c8a77e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352311(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352311(v=AX.60)
 ms:contentKeyID: 36687940
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ Use this procedure to make changes to a rebate agreement for a customer.
 
 [Create a customer rebate agreement](create-a-customer-rebate-agreement.md)
 
-[Rebate agreements (form)](https://technet.microsoft.com/en-us/library/hh328681\(v=ax.60\))
+[Rebate agreements (form)](https://technet.microsoft.com/library/hh328681\(v=ax.60\))
 
   
 

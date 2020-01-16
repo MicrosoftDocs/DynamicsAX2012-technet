@@ -2,8 +2,9 @@
 title: "What's new: Country/region specific features"
 TOCTitle: Country/region specific features
 ms:assetid: 5485f39a-746a-4dfe-b0da-0d303b83ee27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507137(v=AX.60)
 ms:contentKeyID: 59623243
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

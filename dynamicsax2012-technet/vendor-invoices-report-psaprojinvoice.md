@@ -2,8 +2,9 @@
 title: Vendor invoices report (PSAProjInvoice)
 TOCTitle: Vendor invoices report (PSAProjInvoice)
 ms:assetid: 68916f4e-7045-466c-9b9c-76eb6308955b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334489(v=AX.60)
 ms:contentKeyID: 36676476
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -143,7 +144,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/en-us/library/hh227358\(v=ax.60\))
+[Vendor invoices with pay when paid (form)](https://technet.microsoft.com/library/hh227358\(v=ax.60\))
 
   
 

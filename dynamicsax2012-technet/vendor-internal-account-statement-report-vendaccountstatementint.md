@@ -2,8 +2,9 @@
 title: Vendor internal account statement report (VendAccountStatementInt)
 TOCTitle: Vendor internal account statement report (VendAccountStatementInt)
 ms:assetid: 909ee5c2-5cb0-4fe3-814d-7bb0aba187ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220729(v=AX.60)
 ms:contentKeyID: 37832021
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -153,7 +154,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Internal account statement report (CustAccountStatementInt)](https://technet.microsoft.com/en-us/library/aa550734\(v=ax.60\))
+[Internal account statement report (CustAccountStatementInt)](https://technet.microsoft.com/library/aa550734\(v=ax.60\))
 
   
 

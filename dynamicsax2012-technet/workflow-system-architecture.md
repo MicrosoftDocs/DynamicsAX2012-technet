@@ -2,8 +2,9 @@
 title: Workflow system architecture
 TOCTitle: Workflow system architecture
 ms:assetid: 36794bf3-0d67-4221-8fa1-d6e8549f79e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309641(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309641(v=AX.60)
 ms:contentKeyID: 35132602
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ The X++ workflow runtime consists of:
 
   - A message queue
 
-The messaging batch job or the workflow runtime API can invoke the application code, if it is required. The X++ workflow runtime is compiled into the Common Intermediate Language (CIL) of the .NET Framework. For more information, see [X++ Compiled to .NET CIL](https://technet.microsoft.com/en-us/library/gg839855\(v=ax.60\)).
+The messaging batch job or the workflow runtime API can invoke the application code, if it is required. The X++ workflow runtime is compiled into the Common Intermediate Language (CIL) of the .NET Framework. For more information, see [X++ Compiled to .NET CIL](https://technet.microsoft.com/library/gg839855\(v=ax.60\)).
 
 The managed workflow runtime consists of the Windows Workflow Foundation and Microsoft Dynamics AX extensions.
 
@@ -37,7 +38,7 @@ The following figure illustrates the high-level architecture of the workflow inf
 
 Users can use the workflow forms and controls in the Microsoft Dynamics AX client and in Enterprise Portal for Microsoft Dynamics AX to participate in business processes.
 
-Developers can create workflows for objects that they have added to Microsoft Dynamics AX. For more information, see [Implementing Workflow for Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/cc585061\(v=ax.60\)).
+Developers can create workflows for objects that they have added to Microsoft Dynamics AX. For more information, see [Implementing Workflow for Microsoft Dynamics AX](https://technet.microsoft.com/library/cc585061\(v=ax.60\)).
 
 The following table describes the workflow steps that occur when a user submits an expense report to the workflow system for approval.
 

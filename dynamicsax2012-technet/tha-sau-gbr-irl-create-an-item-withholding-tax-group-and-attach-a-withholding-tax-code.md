@@ -2,8 +2,9 @@
 title: (THA, SAU, GBR, IRL) Create an item withholding tax group and attach a withholding tax code
 TOCTitle: (THA, SAU, GBR, IRL) Create an item withholding tax group and attach a withholding tax code
 ms:assetid: 867a8f50-68c6-4585-a045-2ffef953d5be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209327(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209327(v=AX.60)
 ms:contentKeyID: 36058416
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ Use the **Item withholding tax groups** form to create an item withholding tax g
 
 ## See also
 
-[(THA, SAU, GBR, IRL) Item withholding tax groups (form)](https://technet.microsoft.com/en-us/library/hh242862\(v=ax.60\))
+[(THA, SAU, GBR, IRL) Item withholding tax groups (form)](https://technet.microsoft.com/library/hh242862\(v=ax.60\))
 
   
 

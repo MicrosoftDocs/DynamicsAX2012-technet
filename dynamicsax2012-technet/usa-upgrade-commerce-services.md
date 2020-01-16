@@ -2,8 +2,9 @@
 title: (USA) Upgrade Commerce Services
 TOCTitle: (USA) Upgrade Commerce Services
 ms:assetid: dd03ba99-2c42-4679-9b17-b138580ce636
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696881(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh696881(v=AX.60)
 ms:contentKeyID: 42517341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

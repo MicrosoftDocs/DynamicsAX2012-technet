@@ -2,8 +2,9 @@
 title: Total expenses by period chart report (LedgerTotalExpensesByPeriod)
 TOCTitle: Total expenses by period chart report (LedgerTotalExpensesByPeriod)
 ms:assetid: 93b4f3ab-3d50-480a-b316-92ee6b2a5ba9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692469(v=AX.60)
 ms:contentKeyID: 41702366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

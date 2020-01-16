@@ -2,8 +2,9 @@
 title: Win/Lose analysis report (smmPipelineWinAnalysis)
 TOCTitle: Win/Lose analysis report (smmPipelineWinAnalysis)
 ms:assetid: 0ace7e97-ca65-4b19-91f0-c340d4b300a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412240(v=AX.60)
 ms:contentKeyID: 36916349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

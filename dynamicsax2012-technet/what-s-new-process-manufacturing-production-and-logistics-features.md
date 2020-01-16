@@ -2,8 +2,9 @@
 title: "What's new: Process manufacturing production and logistics features"
 TOCTitle: Process manufacturing production and logistics features
 ms:assetid: a2089acd-4b87-46c8-9e51-41bf16296fd4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527207(v=AX.60)
 ms:contentKeyID: 59623336
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

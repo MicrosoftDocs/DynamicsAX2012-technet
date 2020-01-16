@@ -2,8 +2,9 @@
 title: "What's new: Enterprise Portal and Role Centers"
 TOCTitle: Enterprise Portal and Role Centers
 ms:assetid: 5c03420d-c79e-461c-b3ce-a2651973f01e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507141(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507141(v=AX.60)
 ms:contentKeyID: 59623244
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -33,7 +34,7 @@ For more information, see [Hardware and software requirements](hardware-and-soft
 
 **Search**: Enterprise Portal search is provided by a product-wide feature of Microsoft Dynamics AX that is named Enterprise Search. Enterprise Search lets users search through data, metadata, and documents that are attached to records. Users can search for common nouns, such as “customer” and “cash flow report.” Users can also search for specific data, such as a customer name, product ID, or telephone number. For more information, see [Enterprise Search](enterprise-search.md).
 
-**User controls**: If you created user controls for Enterprise Portal pages in Microsoft Dynamics AX 2009, you must update those controls for Enterprise Portal pages in Microsoft Dynamics AX 2012. For more information, see [User Control Changes](https://technet.microsoft.com/en-us/library/hh272129\(v=ax.60\)). For information about how to upgrade existing Enterprise Portal integrations, see [Converting Enterprise Portal Content](https://technet.microsoft.com/en-us/library/cc551034\(v=ax.60\)).
+**User controls**: If you created user controls for Enterprise Portal pages in Microsoft Dynamics AX 2009, you must update those controls for Enterprise Portal pages in Microsoft Dynamics AX 2012. For more information, see [User Control Changes](https://technet.microsoft.com/library/hh272129\(v=ax.60\)). For information about how to upgrade existing Enterprise Portal integrations, see [Converting Enterprise Portal Content](https://technet.microsoft.com/library/cc551034\(v=ax.60\)).
 
 ## Comparison with AX 2009
 
@@ -103,19 +104,19 @@ AX 2012 includes changes to the following areas:
 <td><p>Stay on the current task page when you complete actions.</p></td>
 <td><p>When a user clicked an action on a task page, a new Enterprise Portal page opened. The user had to click the <strong>Back</strong> button to return to the task page.</p></td>
 <td><p>Modal dialog boxes open separate forms when users click an action on a task page. After the users have finished entering data and close the form, they are returned to the original task page, and the data is updated.</p></td>
-<td><p>Because of navigation changes, users can complete tasks without undue confusion. Context is preserved when a user performs a task. For more information, see <a href="task-pages.md">Task pages</a>. For information about how to develop task pages, see <a href="https://technet.microsoft.com/en-us/library/aa846824(v=ax.60)">How to: Create Web Menu Items</a>.</p></td>
+<td><p>Because of navigation changes, users can complete tasks without undue confusion. Context is preserved when a user performs a task. For more information, see <a href="task-pages.md">Task pages</a>. For information about how to develop task pages, see <a href="https://technet.microsoft.com/library/aa846824(v=ax.60)">How to: Create Web Menu Items</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enterprise Portal has new user control components.</p></td>
 <td><p>The user control components for Enterprise Portal pages limited the layout possibilities.</p></td>
 <td><p>New user control components, such as AXColumn and AxMultiColumn, enable more flexible layouts.</p></td>
-<td><p>The improved visual appearance of pages in Enterprise Portal improves user productivity. For developer information about how to work with user controls, see <a href="https://technet.microsoft.com/en-us/library/hh272129(v=ax.60)">User Control Changes</a>.</p></td>
+<td><p>The improved visual appearance of pages in Enterprise Portal improves user productivity. For developer information about how to work with user controls, see <a href="https://technet.microsoft.com/library/hh272129(v=ax.60)">User Control Changes</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enterprise Portal can use optimized lookups.</p></td>
 <td><p>Lookups loaded data when they were displayed.</p></td>
 <td><p>Lookups can be configured to load data when the page loads.</p></td>
-<td><p>The user experience is improved, because users do not have to wait for the lookup to load. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc567382(v=ax.60)">AxLookup</a>.</p></td>
+<td><p>The user experience is improved, because users do not have to wait for the lookup to load. For more information, see <a href="https://technet.microsoft.com/library/cc567382(v=ax.60)">AxLookup</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +150,7 @@ AX 2012 includes changes to the following areas:
 <td><p>You have more options for deploying changes to a web server.</p></td>
 <td><p>Administrators had to manually deploy changes by clicking various objects in the Microsoft Dynamics AX Application Object Tree (AOT). Additionally, administrators could not deploy changes from the AOT on a 32-bit client to a 64-bit Windows server.</p></td>
 <td><p>Administrators can deploy changes to a web server by using the AxUpdatePortal utility or the Microsoft Dynamics AX client. Administrators can also deploy changes from a remote client computer to the web server.</p></td>
-<td><p>The administration experience is more efficient. For more information, see, <a href="deploy-updates-to-enterprise-portal.md">Deploy updates to Enterprise Portal</a>, <a href="https://technet.microsoft.com/en-us/library/dd261467(v=ax.60)">AxUpdatePortal Utility</a>, and <a href="checklist-deploy-enterprise-portal-changes-to-a-different-server.md">Checklist: Deploy Enterprise Portal changes to a different server</a>.</p></td>
+<td><p>The administration experience is more efficient. For more information, see, <a href="deploy-updates-to-enterprise-portal.md">Deploy updates to Enterprise Portal</a>, <a href="https://technet.microsoft.com/library/dd261467(v=ax.60)">AxUpdatePortal Utility</a>, and <a href="checklist-deploy-enterprise-portal-changes-to-a-different-server.md">Checklist: Deploy Enterprise Portal changes to a different server</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>More options for authenticating users</p></td>
@@ -183,19 +184,19 @@ AX 2012 includes changes to the following areas:
 <td><p>Enterprise Portal supports tables that are structured into a table hierarchy.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>In Enterprise Portal, you can use tables that are structured in a hierarchy.</p></td>
-<td><p>The database structure can be more efficient. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh330283(v=ax.60)">Table Inheritance</a>.</p></td>
+<td><p>The database structure can be more efficient. For more information, see <a href="https://technet.microsoft.com/library/hh330283(v=ax.60)">Table Inheritance</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enterprise Portal supports tables that use surrogate keys.</p></td>
 <td><p>Tables typically displayed the key values.</p></td>
 <td><p>Tables can have surrogate keys that are not displayed to the user.</p></td>
-<td><p>The user interface is more user-friendly. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh330357(v=ax.60)">Surrogate Keys</a>.</p></td>
+<td><p>The user interface is more user-friendly. For more information, see <a href="https://technet.microsoft.com/library/hh330357(v=ax.60)">Surrogate Keys</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Create list pages that can be used in Enterprise Portal.</p></td>
 <td><p>Separate list pages were created for Enterprise Portal.</p></td>
 <td><p>A list page can be created and used in both the Microsoft Dynamics AX client and Enterprise Portal.</p></td>
-<td><p>Less development time is required to create lists. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc519455(v=ax.60)">List Page Reference</a>.</p></td>
+<td><p>Less development time is required to create lists. For more information, see <a href="https://technet.microsoft.com/library/cc519455(v=ax.60)">List Page Reference</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enterprise Portal uses Microsoft Dynamics AX services to access data and metadata.</p></td>
@@ -207,13 +208,13 @@ AX 2012 includes changes to the following areas:
 <td><p>Code for Enterprise Portal can use the new proxy implementation.</p></td>
 <td><p>Proxies were limited to Enterprise Portal and were not easy to set up.</p></td>
 <td><p>Proxies can be used not only in Enterprise Portal but throughout Microsoft Dynamics AX.</p></td>
-<td><p>Proxies are easier to set up and use. Proxies enable Enterprise Portal code to access Microsoft Dynamics AX resources, such as X++ classes. For more information, see <a href="https://technet.microsoft.com/en-us/library/cc568275(v=ax.60)">Proxies</a>.</p></td>
+<td><p>Proxies are easier to set up and use. Proxies enable Enterprise Portal code to access Microsoft Dynamics AX resources, such as X++ classes. For more information, see <a href="https://technet.microsoft.com/library/cc568275(v=ax.60)">Proxies</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>You can use the cross-reference tool in the MorphX integrated development environment (IDE) to see how resources for Enterprise Portal are used.</p></td>
 <td><p>The cross-reference tool did not support Enterprise Portal resources.</p></td>
 <td><p>The cross-reference tool supports Enterprise Portal resources.</p></td>
-<td><p>It is now easier to see how resources are used in Enterprise Portal. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa626961(v=ax.60)">Cross-reference Tool</a>.</p></td>
+<td><p>It is now easier to see how resources are used in Enterprise Portal. For more information, see <a href="https://technet.microsoft.com/library/aa626961(v=ax.60)">Cross-reference Tool</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -227,7 +228,7 @@ AX 2012 includes changes to the following areas:
 
 [Deploy Enterprise Portal and Role Centers](deploy-enterprise-portal-and-role-centers.md)
 
-[Enterprise Portal Development Overview](https://technet.microsoft.com/en-us/library/cc618471\(v=ax.60\))
+[Enterprise Portal Development Overview](https://technet.microsoft.com/library/cc618471\(v=ax.60\))
 
   
 

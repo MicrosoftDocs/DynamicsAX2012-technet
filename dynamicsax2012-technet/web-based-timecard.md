@@ -2,8 +2,9 @@
 title: Web-based timecard
 TOCTitle: Web-based timecard
 ms:assetid: 931dd617-6ae2-45ed-9ed0-1bfdb066c5de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498386(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498386(v=AX.60)
 ms:contentKeyID: 36384228
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

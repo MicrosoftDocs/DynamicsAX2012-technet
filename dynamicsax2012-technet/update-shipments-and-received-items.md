@@ -2,8 +2,9 @@
 title: Update shipments and received items
 TOCTitle: Update shipments and received items
 ms:assetid: 6b793682-4c33-4049-a442-2ce6f6df40b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571185(v=AX.60)
 ms:contentKeyID: 36057991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

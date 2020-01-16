@@ -2,8 +2,9 @@
 title: Update a trade agreement with new commodity pricing
 TOCTitle: Update a trade agreement with new commodity pricing
 ms:assetid: 1f76d8db-5177-4121-907d-0438e42dfc53
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208465(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208465(v=AX.60)
 ms:contentKeyID: 36056153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,11 +48,11 @@ Use this procedure to update pricing information for commodity pricing items tha
 
 [About commodity pricing](about-commodity-pricing.md)
 
-[Price/discount agreement journals (form)](https://technet.microsoft.com/en-us/library/aa556469\(v=ax.60\))
+[Price/discount agreement journals (form)](https://technet.microsoft.com/library/aa556469\(v=ax.60\))
 
-[Price margin update (form)](https://technet.microsoft.com/en-us/library/hh227659\(v=ax.60\))
+[Price margin update (form)](https://technet.microsoft.com/library/hh227659\(v=ax.60\))
 
-[Price margin update-lines (form)](https://technet.microsoft.com/en-us/library/hh242671\(v=ax.60\))
+[Price margin update-lines (form)](https://technet.microsoft.com/library/hh242671\(v=ax.60\))
 
   
 

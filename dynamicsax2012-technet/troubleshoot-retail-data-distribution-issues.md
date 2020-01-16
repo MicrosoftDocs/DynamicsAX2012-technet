@@ -2,8 +2,9 @@
 title: Troubleshoot Retail data distribution issues
 TOCTitle: Troubleshoot Retail data distribution issues
 ms:assetid: bf240e99-fffc-43ab-b34b-085925c97214
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ878426(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ878426(v=AX.60)
 ms:contentKeyID: 50632071
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

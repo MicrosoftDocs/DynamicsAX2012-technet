@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Report with Parameters'
 TOCTitle: 'Walkthrough: Creating a Report with Parameters'
 ms:assetid: b98016f4-544a-452d-9a05-ce46577a5eec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc636713(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc636713(v=AX.60)
 ms:contentKeyID: 28119573
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

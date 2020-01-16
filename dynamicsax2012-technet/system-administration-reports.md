@@ -2,8 +2,9 @@
 title: System administration reports
 TOCTitle: System administration reports
 ms:assetid: e2902495-b0de-4643-badf-ff5c15334ff3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334503(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334503(v=AX.60)
 ms:contentKeyID: 36676492
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

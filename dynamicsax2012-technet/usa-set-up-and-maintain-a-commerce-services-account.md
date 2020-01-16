@@ -2,8 +2,9 @@
 title: (USA) Set up and maintain a Commerce Services account
 TOCTitle: (USA) Set up and maintain a Commerce Services account
 ms:assetid: e179f303-8323-4ab7-a4a8-44db651f462f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227422(v=AX.60)
 ms:contentKeyID: 36059708
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowFoundationConfiguration.LoadType Method  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation)
 TOCTitle: LoadType Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowFoundationConfiguration.LoadType(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowfoundationconfiguration.loadtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowfoundationconfiguration.loadtype(v=AX.60)
 ms:contentKeyID: 62213772
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,16 +52,16 @@ static Type^ LoadType(
 #### Parameters
 
   - typeName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 The type with the specified name.  
 
 ## Remarks
 
-Throws [ConfigurationErrorsException](https://technet.microsoft.com/en-us/library/ms134182\(v=ax.60\)) if type not found.
+Throws [ConfigurationErrorsException](https://technet.microsoft.com/library/ms134182\(v=ax.60\)) if type not found.
 
 ## See Also
 

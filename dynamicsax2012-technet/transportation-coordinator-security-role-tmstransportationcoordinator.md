@@ -2,8 +2,9 @@
 title: Transportation coordinator security role (TMSTransportationCoordinator)
 TOCTitle: Transportation coordinator security role (TMSTransportationCoordinator)
 ms:assetid: 7b80a122-350f-439a-8d40-0d7c4fc9a2f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn743812(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn743812(v=AX.60)
 ms:contentKeyID: 62279205
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

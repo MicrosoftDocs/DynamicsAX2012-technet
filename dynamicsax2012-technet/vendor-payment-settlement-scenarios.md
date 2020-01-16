@@ -2,8 +2,9 @@
 title: Vendor payment settlement scenarios
 TOCTitle: Vendor payment settlement scenarios
 ms:assetid: 432305f6-eee5-4540-9caa-59c90e8e5f30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580619(v=AX.60)
 ms:contentKeyID: 39519106
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: STSFormBasedAuthWebConfigUpdatingJob.Execute Method  (Microsoft.Dynamics.Retail.SP.CommonFeatures)
 TOCTitle: Execute Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSFormBasedAuthWebConfigUpdatingJob.Execute(System.Guid)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigupdatingjob.execute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigupdatingjob.execute(v=AX.60)
 ms:contentKeyID: 62206682
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ virtual void Execute(
 #### Parameters
 
   - targetInstanceId  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 ## See Also
 

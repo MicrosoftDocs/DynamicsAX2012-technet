@@ -1,9 +1,10 @@
-﻿---
+---
 title: UnitOfMeasureConversionExtension Methods (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: UnitOfMeasureConversionExtension Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.UnitOfMeasureConversionExtension
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.unitofmeasureconversionextension_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.unitofmeasureconversionextension_methods(v=AX.60)
 ms:contentKeyID: 49834849
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

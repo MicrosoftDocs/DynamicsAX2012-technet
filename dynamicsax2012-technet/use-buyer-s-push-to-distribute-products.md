@@ -2,8 +2,9 @@
 title: Use buyer's push to distribute products
 TOCTitle: Use buyer's push to distribute products
 ms:assetid: b692cb8a-8026-45d3-abd3-cea51437778c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597218(v=AX.60)
 ms:contentKeyID: 39519290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

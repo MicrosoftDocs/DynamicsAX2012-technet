@@ -2,8 +2,9 @@
 title: "What's new: Cash and bank management features"
 TOCTitle: Cash and bank management features
 ms:assetid: ee85aafd-243b-4863-8e64-1a5f7eb8ae05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527256(v=AX.60)
 ms:contentKeyID: 59623384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

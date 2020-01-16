@@ -2,8 +2,9 @@
 title: Users license code (SysUsers)
 TOCTitle: Users license code (SysUsers)
 ms:assetid: affc99c3-1d36-4628-91b2-790f3aa2fe2e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416686(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416686(v=AX.60)
 ms:contentKeyID: 36931847
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -63,7 +64,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

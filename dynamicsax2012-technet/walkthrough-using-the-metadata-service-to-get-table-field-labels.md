@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Using the Metadata Service to Get Table Field Labels'
 TOCTitle: 'Walkthrough: Using the Metadata Service to Get Table Field Labels'
 ms:assetid: f1951083-4bb0-4c17-a783-d44eab36fb87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg848138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg848138(v=AX.60)
 ms:contentKeyID: 35253368
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -120,7 +121,7 @@ Now we will write the code that calls the metadata service and returns the metad
     …
     ```
     
-    Notice that the code calls the GetLabelMetadataForLanguageById method and takes a parameter that specifies a language. This method can be used for localization code because it enables you to return a label in a specific language. You can retrieve the language values by calling the [GetLanguages](https://technet.microsoft.com/en-us/library/hh188013\(v=ax.60\)) method.
+    Notice that the code calls the GetLabelMetadataForLanguageById method and takes a parameter that specifies a language. This method can be used for localization code because it enables you to return a label in a specific language. You can retrieve the language values by calling the [GetLanguages](https://technet.microsoft.com/library/hh188013\(v=ax.60\)) method.
     
 
     > [!TIP]
@@ -136,7 +137,7 @@ Now we will write the code that calls the metadata service and returns the metad
 
 ## Next Steps
 
-The [TableMetadata](https://technet.microsoft.com/en-us/library/hh130058\(v=ax.60\)) class contains all the methods and properties for a single table. If you are working with other objects such as queries, you can access the data through the corresponding metadata object, for example, the [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class.
+The [TableMetadata](https://technet.microsoft.com/library/hh130058\(v=ax.60\)) class contains all the methods and properties for a single table. If you are working with other objects such as queries, you can access the data through the corresponding metadata object, for example, the [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class.
 
 ## See also
 

@@ -2,8 +2,9 @@
 title: Worker resource scheduling
 TOCTitle: Worker resource scheduling
 ms:assetid: 3f8d1c12-8932-4ada-893d-e6c542f661d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn783210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn783210(v=AX.60)
 ms:contentKeyID: 62835103
+author: Khairunj
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -102,7 +103,7 @@ To understand how to choose system-wide and individual worker options that must 
 <tr class="odd">
 <td><p>Set up resource scheduling options for all projects.</p></td>
 <td><p>Select the working calendar that will be used as the default for the projects you manage and specify how closely workers’ skills and availability must match your search requirements before they are shown in available worker lists.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599440(v=ax.60)">Project management and accounting parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599440(v=ax.60)">Project management and accounting parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Set up worker attributes.</p></td>
@@ -118,7 +119,7 @@ To understand how to choose system-wide and individual worker options that must 
 <td><p>Set up basic project scheduling details.</p></td>
 <td><p>Before you can begin assigning workers to a project, certain types of project information must be specified first in the <strong>Projects</strong> form.</p>
 <p>In versions of Microsoft Dynamics AX 2012 earlier than cumulative update 7 for Microsoft Dynamics AX 2012 R2, this information is specified on the <strong>Scheduling and resource assignment</strong> FastTab. In cumulative update 7 for Microsoft Dynamics AX 2012 R2 and later versions, this information is specified on the <strong>Project team and scheduling</strong> FastTab.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585245(v=ax.60)">Projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585245(v=ax.60)">Projects (form)</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: View and fix upgrade readiness issues
 TOCTitle: View and fix upgrade readiness issues
 ms:assetid: 67d602e1-7f0b-41f7-831a-5c6686bdd1b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202065(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202065(v=AX.60)
 ms:contentKeyID: 35949306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

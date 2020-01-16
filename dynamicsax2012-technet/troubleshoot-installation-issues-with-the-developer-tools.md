@@ -2,8 +2,9 @@
 title: Troubleshoot installation issues with the developer tools
 TOCTitle: Troubleshoot installation issues with the developer tools
 ms:assetid: 0374a349-062b-4ae5-8edb-359013038f99
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575185(v=AX.60)
 ms:contentKeyID: 39555310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

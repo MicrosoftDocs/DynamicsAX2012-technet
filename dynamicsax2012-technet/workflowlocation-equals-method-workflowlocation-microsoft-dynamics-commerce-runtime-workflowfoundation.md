@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowLocation.Equals Method (WorkflowLocation) (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation)
 TOCTitle: Equals Method (WorkflowLocation)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowLocation.Equals(Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowLocation)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowlocation.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowlocation.equals(v=AX.60)
 ms:contentKeyID: 62213541
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,12 +55,12 @@ virtual bool Equals(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 A value indicating whether the specified [WorkflowLocation](workflowlocation-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) is equal to this instance; otherwise, false.  
 
 #### Implements
 
-[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/en-us/library/ms131190\(v=ax.60\))  
+[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/library/ms131190\(v=ax.60\))  
 
 ## See Also
 

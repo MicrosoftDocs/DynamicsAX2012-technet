@@ -2,8 +2,9 @@
 title: View sales orders and totals
 TOCTitle: View sales orders and totals
 ms:assetid: 2ff9f12b-b86a-4ce3-ba6c-daed8236caee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271489(v=AX.60)
 ms:contentKeyID: 36384121
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

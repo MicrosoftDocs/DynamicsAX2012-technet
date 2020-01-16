@@ -1,9 +1,10 @@
-﻿---
+---
 title: SubmitOrder.OnInit Method  (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: OnInit Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.SubmitOrder.OnInit(System.EventArgs)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.submitorder.oninit(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.submitorder.oninit(v=AX.60)
 ms:contentKeyID: 62207132
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual void OnInit(
 #### Parameters
 
   - e  
-    Type: [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\))  
+    Type: [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\))  
 
 ## See Also
 

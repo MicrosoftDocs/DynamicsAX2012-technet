@@ -2,8 +2,9 @@
 title: Test products and quality management overview
 TOCTitle: Test products and quality management overview
 ms:assetid: dd5d926c-750e-4ecd-9776-61fe7864b0e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243198(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243198(v=AX.60)
 ms:contentKeyID: 36059682
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

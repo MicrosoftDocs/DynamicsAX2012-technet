@@ -2,8 +2,9 @@
 title: 'Virtual company scenarios: CRM'
 TOCTitle: 'Virtual company scenarios: CRM'
 ms:assetid: 20281b2c-1def-44f6-bfc7-5e73e8452961
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ556270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ556270(v=AX.60)
 ms:contentKeyID: 49089836
+author: Khairunj
 ms.date: 05/30/2014
 mtps_version: v=AX.60
 ---

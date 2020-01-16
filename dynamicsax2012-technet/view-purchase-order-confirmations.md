@@ -2,8 +2,9 @@
 title: View purchase order confirmations
 TOCTitle: View purchase order confirmations
 ms:assetid: 4fbe7438-9315-4d78-87e7-fec1d28c05fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271527(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271527(v=AX.60)
 ms:contentKeyID: 36384159
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: W
 TOCTitle: W
 ms:assetid: DynamicsAXGlossary.W
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.w(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.w(v=AX.60)
 ms:contentKeyID: 36058027
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---

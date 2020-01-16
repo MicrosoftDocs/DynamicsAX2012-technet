@@ -2,8 +2,9 @@
 title: View the inventory close log
 TOCTitle: View the inventory close log
 ms:assetid: c8f7cd6d-9293-47b0-8a83-94a7ed906743
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213651(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213651(v=AX.60)
 ms:contentKeyID: 36059324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

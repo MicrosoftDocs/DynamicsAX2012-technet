@@ -1,9 +1,10 @@
-﻿---
+---
 title: TillLayoutDataManager.ConvertToTillLayout Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ConvertToTillLayout Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.TillLayoutDataManager.ConvertToTillLayout(Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataSet,System.TimeSpan)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.tilllayoutdatamanager.converttotilllayout(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.tilllayoutdatamanager.converttotilllayout(v=AX.60)
 ms:contentKeyID: 65317862
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ static TillLayout^ ConvertToTillLayout(
 <!-- end list -->
 
   - timeZoneOffset  
-    Type: [System.TimeSpan](https://technet.microsoft.com/en-us/library/269ew577\(v=ax.60\))  
+    Type: [System.TimeSpan](https://technet.microsoft.com/library/269ew577\(v=ax.60\))  
 
 #### Return Value
 

@@ -2,8 +2,9 @@
 title: Upgrade domains
 TOCTitle: Upgrade domains
 ms:assetid: d39a7913-2f90-4afc-8305-8b0b79b92d16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575251(v=AX.60)
 ms:contentKeyID: 39555414
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

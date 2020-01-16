@@ -2,8 +2,9 @@
 title: View customer invoice lines for a sales agreement
 TOCTitle: View customer invoice lines for a sales agreement
 ms:assetid: 4b7c6fe8-cee1-45b2-b9ad-1952593ecfe6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580632(v=AX.60)
 ms:contentKeyID: 39519123
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ You can view all customer invoice lines for a sales agreement, or you can view o
 
 ## See also
 
-[Customer invoice lines – Sales agreements (form)](https://technet.microsoft.com/en-us/library/hh209298\(v=ax.60\))
+[Customer invoice lines – Sales agreements (form)](https://technet.microsoft.com/library/hh209298\(v=ax.60\))
 
-[Sales agreements (form)](https://technet.microsoft.com/en-us/library/hh209567\(v=ax.60\))
+[Sales agreements (form)](https://technet.microsoft.com/library/hh209567\(v=ax.60\))
 
   
 

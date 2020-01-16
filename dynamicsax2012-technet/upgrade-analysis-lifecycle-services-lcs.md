@@ -2,8 +2,9 @@
 title: Upgrade analysis (Lifecycle Services, LCS)
 TOCTitle: Upgrade analysis
 ms:assetid: 3820d1f3-5e89-450d-ade5-0717c278419e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268611(v=AX.60)
 ms:contentKeyID: 54918839
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

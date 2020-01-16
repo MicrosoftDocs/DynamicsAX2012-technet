@@ -2,8 +2,9 @@
 title: "What's new: Sales tax processing"
 TOCTitle: Sales tax processing
 ms:assetid: d25a2392-a067-4109-a6c8-c9b286f50c09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527247(v=AX.60)
 ms:contentKeyID: 59623375
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for the Czech Republic (CZE)"
 TOCTitle: Country-specific features for the Czech Republic
 ms:assetid: 393c1121-39d4-4690-ae8e-ceff75b5af77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507099(v=AX.60)
 ms:contentKeyID: 59623189
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -48,7 +49,7 @@ For more information about specific features for the Czech Republic, see [TechNe
 <tr class="even">
 <td><p>Additional VAT information can be included on tax transactions.</p></td>
 <td><p>Additional information about the VAT register date can now be included on tax transactions. When you generate the <strong>Sales tax reconciliation</strong> report, this additional information is included.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677580(v=ax.60)">(CZE) Sales tax groups (modified form)</a> and <a href="cze-sales-tax-report.md">(CZE) Sales tax (report)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677580(v=ax.60)">(CZE) Sales tax groups (modified form)</a> and <a href="cze-sales-tax-report.md">(CZE) Sales tax (report)</a>.</p></td>
 </tr>
 </tbody>
 </table>

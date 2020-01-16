@@ -2,8 +2,9 @@
 title: Subscription workflow overview
 TOCTitle: Subscription workflow overview
 ms:assetid: e865b03b-44c7-4850-8bef-87a7d494ab90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573199(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573199(v=AX.60)
 ms:contentKeyID: 36059832
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

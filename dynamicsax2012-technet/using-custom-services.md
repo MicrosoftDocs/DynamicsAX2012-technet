@@ -1,9 +1,10 @@
-﻿---
+---
 title: Using Custom Services
 TOCTitle: Using Custom Services
 ms:assetid: cb5d0f7e-1d47-4d9f-9842-050f42aca224
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh509052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh509052(v=AX.60)
 ms:contentKeyID: 37046471
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -15,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
  In Microsoft Dynamics AX, you can create custom services to expose X++ functionality to external clients. Any existing X++ code can be exposed as a custom service simply by adding an attribute. Microsoft Dynamics AX provides standard attributes that can be set on the data contract class and its members to automatically serialize and de-serialize data that is sent and received across a network connection. Many predefined types, such as collections and tables, are also supported.
 
-Use custom services when the schema for the entity can be written as a simple data contract class with relevant data member attributes set. If tables and relationships are used in a data contract, you must write code for any more complex feature, such as dimensions. X++ data contract serialization and deserialization is specified through the [DataContractAttribute](https://technet.microsoft.com/en-us/library/gg732039\(v=ax.60\)) and the [DataMemberAttribute](https://technet.microsoft.com/en-us/library/gg732046\(v=ax.60\)) attributes. For more information, see [Using Data Contracts in X++](using-data-contracts-in-x.md). Use the [AifCollectionTypeAttribute](https://technet.microsoft.com/en-us/library/gg738025\(v=ax.60\)) attribute to define the serialization/deserialization of any X++ collection type that is used as a data member, or as a return value from or parameter to a service operation.
+Use custom services when the schema for the entity can be written as a simple data contract class with relevant data member attributes set. If tables and relationships are used in a data contract, you must write code for any more complex feature, such as dimensions. X++ data contract serialization and deserialization is specified through the [DataContractAttribute](https://technet.microsoft.com/library/gg732039\(v=ax.60\)) and the [DataMemberAttribute](https://technet.microsoft.com/library/gg732046\(v=ax.60\)) attributes. For more information, see [Using Data Contracts in X++](using-data-contracts-in-x.md). Use the [AifCollectionTypeAttribute](https://technet.microsoft.com/library/gg738025\(v=ax.60\)) attribute to define the serialization/deserialization of any X++ collection type that is used as a data member, or as a return value from or parameter to a service operation.
 
 You can use all the functionality of transforms and pipelines for data processing with custom services. For more information, see [Messages and transforms in AIF](messages-and-transforms-in-aif.md).
 
@@ -29,7 +30,7 @@ You must set the SysEntryPointAttribute attribute to define authorization for al
 
 ## Using the AifCollectionTypeAttribute
 
-You must specify the [AifCollectionTypeAttribute](https://technet.microsoft.com/en-us/library/gg738025\(v=ax.60\)) attribute if you use an X++ collection as a parameter to or as a return value from a service operation.
+You must specify the [AifCollectionTypeAttribute](https://technet.microsoft.com/library/gg738025\(v=ax.60\)) attribute if you use an X++ collection as a parameter to or as a return value from a service operation.
 
 The following example shows the X++ collection FMIncCarContract that is used as a return value for a service operation.
 
@@ -53,7 +54,7 @@ The following example shows the X++ collection FMIncCarContract that is used as 
          return result;
        }
 
-The following example shows the class FMIncCarContract used in the service operation in the previous example. The [DataContractAttribute](https://technet.microsoft.com/en-us/library/gg732039\(v=ax.60\)) attribute is used to define serialization of the class as a data contract.
+The following example shows the class FMIncCarContract used in the service operation in the previous example. The [DataContractAttribute](https://technet.microsoft.com/library/gg732039\(v=ax.60\)) attribute is used to define serialization of the class as a data contract.
 
     [DataContractAttribute]
     Public class FMIncCarContract
@@ -70,7 +71,7 @@ The following example shows the class FMIncCarContract used in the service opera
        FMVehicleStatus _Status;
     }
 
-The following example shows the data member VIN used in the service operation in the previous example. The [DataMemberAttribute](https://technet.microsoft.com/en-us/library/gg732046\(v=ax.60\)) attribute is used to define serialization of the accessor method as a data member.
+The following example shows the data member VIN used in the service operation in the previous example. The [DataMemberAttribute](https://technet.microsoft.com/library/gg732046\(v=ax.60\)) attribute is used to define serialization of the accessor method as a data member.
 
     [DataMemberAttribute]
     Public str VIN(str vin = _VIN)

@@ -2,8 +2,9 @@
 title: Use Retail Modern POS in offline mode
 TOCTitle: Use Retail Modern POS in offline mode
 ms:assetid: 5aa3ede6-267c-4f3a-b1f8-86dac1b889bc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn879453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn879453(v=AX.60)
 ms:contentKeyID: 63810525
+author: Khairunj
 ms.date: 01/29/2019
 mtps_version: v=AX.60
 ---

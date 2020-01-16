@@ -2,8 +2,9 @@
 title: "What's new: Employees"
 TOCTitle: Employees
 ms:assetid: 375461dc-f3ea-4568-9be2-e34b1d821f16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507090(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507090(v=AX.60)
 ms:contentKeyID: 59623182
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

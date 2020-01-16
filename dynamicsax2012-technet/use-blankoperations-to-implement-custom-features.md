@@ -2,8 +2,9 @@
 title: Use BlankOperations to implement custom features
 TOCTitle: Use BlankOperations to implement custom features
 ms:assetid: 1ba88c7c-ba82-4d38-9b96-91f04bc06a83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937970(v=AX.60)
 ms:contentKeyID: 50950758
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (USA) Use logging for troubleshooting Sites Services
 TOCTitle: (USA) Use logging for troubleshooting Sites Services
 ms:assetid: f51e1c05-7306-4a46-be3d-00ce8548cff1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227539(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227539(v=AX.60)
 ms:contentKeyID: 36059998
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

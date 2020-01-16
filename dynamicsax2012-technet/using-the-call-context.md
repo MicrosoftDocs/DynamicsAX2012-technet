@@ -1,9 +1,10 @@
-﻿---
+---
 title: Using the Call Context
 TOCTitle: Using the Call Context
 ms:assetid: b905d5be-8d2b-4937-90a7-e90e77d5d43d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh582244(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh582244(v=AX.60)
 ms:contentKeyID: 39533580
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 dev_langs:

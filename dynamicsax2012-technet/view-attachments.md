@@ -2,8 +2,9 @@
 title: View attachments
 TOCTitle: View attachments
 ms:assetid: 22021c02-31aa-442d-969b-8256ea05b650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271474(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271474(v=AX.60)
 ms:contentKeyID: 36384106
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

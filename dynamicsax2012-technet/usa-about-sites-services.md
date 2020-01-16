@@ -2,8 +2,9 @@
 title: (USA) About Sites Services
 TOCTitle: (USA) About Sites Services
 ms:assetid: d7e97c33-1fa3-40e4-bda9-35a9877eef4c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227394(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227394(v=AX.60)
 ms:contentKeyID: 36059640
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: "What's new: User interface changes"
 TOCTitle: User interface changes
 ms:assetid: 43923309-d003-409b-aacd-fc17f389bd9a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507117(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507117(v=AX.60)
 ms:contentKeyID: 59623205
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Using the Microsoft Dynamics AX glossary
 TOCTitle: Using the Microsoft Dynamics AX glossary
 ms:assetid: 4be433a3-e857-423a-8e10-5644a6b4dc8d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg840394(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg840394(v=AX.60)
 ms:contentKeyID: 35243392
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

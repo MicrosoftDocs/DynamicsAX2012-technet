@@ -2,8 +2,9 @@
 title: Use DAT and DEF files to export and import data
 TOCTitle: Use DAT and DEF files to export and import data
 ms:assetid: 60607cb9-ab51-4e97-8935-48c4e5f15c41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731814(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731814(v=AX.60)
 ms:contentKeyID: 35132661
+author: Khairunj
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 ---
@@ -23,7 +24,7 @@ This section includes the following topics:
 
 [Export data to another instance of Microsoft Dynamics AX](export-data-to-another-instance-of-microsoft-dynamics-ax.md)
 
-[Walkthrough: Migrate data between environments](https://technet.microsoft.com/en-us/library/hh575248\(v=ax.60\))
+[Walkthrough: Migrate data between environments](https://technet.microsoft.com/library/hh575248\(v=ax.60\))
 
 [Import duplicate company data to use for testing](import-duplicate-company-data-to-use-for-testing.md)
 

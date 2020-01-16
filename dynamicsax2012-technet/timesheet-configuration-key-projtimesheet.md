@@ -2,8 +2,9 @@
 title: Timesheet configuration key (ProjTimesheet)
 TOCTitle: Timesheet configuration key (ProjTimesheet)
 ms:assetid: 08c58b85-83a9-4e6d-974e-4ccfd344db95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580486(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580486(v=AX.60)
 ms:contentKeyID: 39518949
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -41,31 +42,31 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Comments</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208812(v=ax.60)">Timesheet line comments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208812(v=ax.60)">Timesheet line comments (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Copy selected timesheet</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227610(v=ax.60)">New timesheet (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227610(v=ax.60)">New timesheet (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Create from favorites</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227610(v=ax.60)">New timesheet (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227610(v=ax.60)">New timesheet (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Delegates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227391(v=ax.60)">Delegate setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227391(v=ax.60)">Delegate setup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Favorites</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209717(v=ax.60)">Timesheet favorites (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209717(v=ax.60)">Timesheet favorites (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>My delegates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242734(v=ax.60)">My delegates (form) (Project timesheets)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242734(v=ax.60)">My delegates (form) (Project timesheets)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>My favorites</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209707(v=ax.60)">My favorites (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209707(v=ax.60)">My favorites (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Print timesheet</strong></p></td>
@@ -77,11 +78,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Timesheet details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208808(v=ax.60)">Edit timesheet (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208808(v=ax.60)">Edit timesheet (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Timesheet details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208808(v=ax.60)">Edit timesheet (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208808(v=ax.60)">Edit timesheet (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Timesheets for my review</strong></p></td>
@@ -127,7 +128,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

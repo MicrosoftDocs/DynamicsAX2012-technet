@@ -2,8 +2,9 @@
 title: View transaction adjustment history
 TOCTitle: View transaction adjustment history
 ms:assetid: aeff1bc8-ad8b-42a5-bbea-0bfb4394a7e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242711(v=AX.60)
 ms:contentKeyID: 36058948
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,15 +46,15 @@ By using the adjustment trace feature, you can view the adjustment history of a 
 
 [Configure settings for adjustment transactions](configure-settings-for-adjustment-transactions.md)
 
-[Hour transactions (form)](https://technet.microsoft.com/en-us/library/aa572825\(v=ax.60\))
+[Hour transactions (form)](https://technet.microsoft.com/library/aa572825\(v=ax.60\))
 
-[Expense transactions (form)](https://technet.microsoft.com/en-us/library/aa599188\(v=ax.60\))
+[Expense transactions (form)](https://technet.microsoft.com/library/aa599188\(v=ax.60\))
 
-[Item transactions (form)](https://technet.microsoft.com/en-us/library/aa599479\(v=ax.60\))
+[Item transactions (form)](https://technet.microsoft.com/library/aa599479\(v=ax.60\))
 
-[Fee transactions (form)](https://technet.microsoft.com/en-us/library/aa618753\(v=ax.60\))
+[Fee transactions (form)](https://technet.microsoft.com/library/aa618753\(v=ax.60\))
 
-[On-account transactions (form)](https://technet.microsoft.com/en-us/library/aa557380\(v=ax.60\))
+[On-account transactions (form)](https://technet.microsoft.com/library/aa557380\(v=ax.60\))
 
   
 

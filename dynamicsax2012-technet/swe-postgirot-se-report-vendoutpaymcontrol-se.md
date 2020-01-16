@@ -2,8 +2,9 @@
 title: (SWE) Postgirot (SE) report (VendOutPaymControl_SE)
 TOCTitle: (SWE) Postgirot (SE) report (VendOutPaymControl_SE)
 ms:assetid: 6cbfd1ae-2dbe-43e0-99b1-f0dda83b1b75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352256(v=AX.60)
 ms:contentKeyID: 36687882
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

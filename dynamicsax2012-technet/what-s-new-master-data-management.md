@@ -2,8 +2,9 @@
 title: "What's New: Master data management"
 TOCTitle: Master data management
 ms:assetid: 0f263eba-0631-4ca2-aff9-869d7c8f54c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600258(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600258(v=AX.60)
 ms:contentKeyID: 62200281
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 ---

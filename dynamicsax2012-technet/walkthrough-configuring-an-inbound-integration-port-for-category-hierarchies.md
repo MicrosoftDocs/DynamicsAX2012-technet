@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Configuring an inbound integration port for category hierarchies'
 TOCTitle: 'Walkthrough: Configuring an inbound integration port for category hierarchies'
 ms:assetid: 763d4fcf-46a4-4487-b409-963c2eadeed4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn454569(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn454569(v=AX.60)
 ms:contentKeyID: 57085674
+author: Khairunj
 ms.date: 09/24/2013
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ Use this procedure to set up the inbound port and to specify the location of the
     
     5.  Move the **EcoResCategoryImportService** service operation to the **Selected service operations** pane.
 
-8.  Optional: In the **Inbound ports** form, select security and troubleshooting settings for the inbound port. For more information about these settings, see [AIF inbound ports (form)](https://technet.microsoft.com/en-us/library/hh208821\(v=ax.60\)).
+8.  Optional: In the **Inbound ports** form, select security and troubleshooting settings for the inbound port. For more information about these settings, see [AIF inbound ports (form)](https://technet.microsoft.com/library/hh208821\(v=ax.60\)).
 
 9.  Click **Activate**.
 

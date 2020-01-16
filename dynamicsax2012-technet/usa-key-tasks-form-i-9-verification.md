@@ -2,8 +2,9 @@
 title: '(USA) Key tasks: Form I-9 verification'
 TOCTitle: '(USA) Key tasks: Form I-9 verification'
 ms:assetid: 73b31e1f-1a5e-417f-8276-757510fdab71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209229(v=AX.60)
 ms:contentKeyID: 36058146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -200,11 +201,11 @@ Back to top
 
 ## Find form help
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[I-9 document (form)](https://technet.microsoft.com/en-us/library/hh227380\(v=ax.60\))
+[I-9 document (form)](https://technet.microsoft.com/library/hh227380\(v=ax.60\))
 
-[I-9 document (form) - verification](https://technet.microsoft.com/en-us/library/hh242263\(v=ax.60\))
+[I-9 document (form) - verification](https://technet.microsoft.com/library/hh242263\(v=ax.60\))
 
 ## Find related tasks
 

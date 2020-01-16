@@ -2,8 +2,9 @@
 title: (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and attach a withholding tax code
 TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and attach a withholding tax code
 ms:assetid: 0606980d-fb52-4358-aeab-1e2589fc960d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242109(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242109(v=AX.60)
 ms:contentKeyID: 36055957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -95,7 +96,7 @@ When you collect withholding taxes on behalf of the government, you must settle 
 
 ## See also
 
-[(THA, SAU, GBR, IRL) Withholding tax settlement periods (form)](https://technet.microsoft.com/en-us/library/hh209377\(v=ax.60\))
+[(THA, SAU, GBR, IRL) Withholding tax settlement periods (form)](https://technet.microsoft.com/library/hh209377\(v=ax.60\))
 
 [(THA, SAU, GBR, IRL) Set up a withholding tax code](tha-sau-gbr-irl-set-up-a-withholding-tax-code.md)
 

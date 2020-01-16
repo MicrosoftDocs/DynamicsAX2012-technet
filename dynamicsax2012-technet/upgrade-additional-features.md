@@ -2,8 +2,9 @@
 title: Upgrade additional features
 TOCTitle: Upgrade additional features
 ms:assetid: 64da023a-a4ab-4451-830d-b91b309043a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731819(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731819(v=AX.60)
 ms:contentKeyID: 35132667
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

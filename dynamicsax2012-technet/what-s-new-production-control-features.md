@@ -2,8 +2,9 @@
 title: "What's new: Production control features"
 TOCTitle: Production control features
 ms:assetid: 91bc99f6-4530-4fa1-8617-96e767ad0e1d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527181(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527181(v=AX.60)
 ms:contentKeyID: 59623310
+author: Khairunj
 ms.date: 12/10/2014
 mtps_version: v=AX.60
 ---
@@ -119,7 +120,7 @@ We have changed and added functionality in the [Production control](production-c
 <td><p>Material date calculation for kanban jobs – Period-based versus job-based</p>
 <p>(Lean manufacturing)</p></td>
 <td><p>The material date calculation is based on the actual job schedule. When a job is sequenced in the schedule, the material date and time are recalculated based on the expected receipt date and time of the job. In Microsoft Dynamics AX 2012, the material date and time was always set to the start of the period, which caused dependent jobs to exceed their due date.</p>
-<p>For more information, see the topic titled <a href="https://technet.microsoft.com/en-us/library/hh597153(v=ax.60)">Kanban schedule board (form)</a>.</p></td>
+<p>For more information, see the topic titled <a href="https://technet.microsoft.com/library/hh597153(v=ax.60)">Kanban schedule board (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Explosion of scheduled withdrawal kanbans that have automatic firming</p>
@@ -131,7 +132,7 @@ We have changed and added functionality in the [Production control](production-c
 <p>(Lean manufacturing)</p></td>
 <td><p>You can now combine event kanbans together with CTP. The ability to move firmed orders based on CTP is limited to event kanbans, and occurs only when sales order lines are created. Further application of moving orders requires additional supply policies to ensure that planning is accurate.</p>
 <p>To support forward scheduling of kanban jobs based on futures dates, you can move planned kanban jobs to later periods. This capability is also useful in the kanban scheduling board, where the new <strong>Schedule from date</strong> function has been added. When you schedule jobs for a futures date, the jobs are added at the end of the planning period, and planned according to the capacity that is available on the date. As opposed to automatic planning, the schedule from date function enables you to schedule jobs past the planning fence that is defined in the production flow model.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh597153(v=ax.60)">Kanban schedule board (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh597153(v=ax.60)">Kanban schedule board (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -193,7 +194,7 @@ We have changed and added functionality in the [Production control](production-c
 <li><p>For kanbans that are generated for a fixed-quantity kanban rule, the invalid kanban that was generated may be deleted.</p></li>
 <li><p>If circulating cards are used, the connection between the kanban and a kanban card is reestablished.</p></li>
 </ul>
-<p>For more information, see the topic titled <a href="https://technet.microsoft.com/en-us/library/jj677366(v=ax.60)">Reverse empty handling unit (form)</a>.</p>
+<p>For more information, see the topic titled <a href="https://technet.microsoft.com/library/jj677366(v=ax.60)">Reverse empty handling unit (form)</a>.</p>
 <p><strong>Flush material on any activity</strong></p>
 <p>For production flows that consist of multiple process activities, you can assign picking activities for specific item and product dimensions to any of the activities. This also applies to activities that consume semi finished products. When kanbans are created, the Kanban board for process jobs displays the picking lines for each job, and material consumption is registered against the corresponding job. Forward-flushed material is registered when a job is prepared. Back-flushed material is registered when a job is completed.</p>
 <p></p>
@@ -228,7 +229,7 @@ We have changed and added functionality in the [Production control](production-c
 <p>For more information, see the following topics:</p>
 <ul>
 <li><p><a href="approve-time-and-attendance-registrations.md">Approve time and attendance registrations</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh209054(v=ax.60)">Worker (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh209054(v=ax.60)">Worker (form)</a></p></li>
 <li><p><a href="analyze-production-costs.md">Analyze production costs</a></p></li>
 </ul></td>
 </tr>
@@ -262,7 +263,7 @@ We have changed and added functionality in the [Production control](production-c
 <tr class="even">
 <td><p>Use the Period template to define schedules</p></td>
 <td><p>You can set up a new period template that filters and displays data in user-defined time buckets. The template can give structure to large volumes of data, such as sales orders and forecast plans, by grouping the data in a time frame. The period template is introduced to display the master scheduling requirements. You can also use the template to create any type of schedule, such as a production, purchase, sales, and final assembly schedule.</p>
-<p>For more information, see the topic titled <a href="https://technet.microsoft.com/en-us/library/hh209650(v=ax.60)">Period templates (form)</a>.</p></td>
+<p>For more information, see the topic titled <a href="https://technet.microsoft.com/library/hh209650(v=ax.60)">Period templates (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Inventory quantity is calculated automatically for catch weight items</p></td>

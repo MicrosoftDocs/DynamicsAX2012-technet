@@ -1,9 +1,10 @@
-﻿---
+---
 title: ValidateShippingAddressCarrierServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ValidateShippingAddressCarrierServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateShippingAddressCarrierServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.validateshippingaddresscarrierservicerequest.validateshippingaddresscarrierservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.validateshippingaddresscarrierservicerequest.validateshippingaddresscarrierservicerequest(v=AX.60)
 ms:contentKeyID: 65318939
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ ValidateShippingAddressCarrierServiceRequest(
 <!-- end list -->
 
   - suggestAddresses  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Worker/Item consumption (actual vs. budget) report (ProjConsumEmpl2Column)
 TOCTitle: Worker/Item consumption (actual vs. budget) report (ProjConsumEmpl2Column)
 ms:assetid: cffb8d72-54f6-4b50-a74d-5678b809ebe7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220753(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220753(v=AX.60)
 ms:contentKeyID: 37832032
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

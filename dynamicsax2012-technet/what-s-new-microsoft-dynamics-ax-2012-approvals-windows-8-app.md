@@ -2,8 +2,9 @@
 title: "What's New: Microsoft Dynamics AX 2012 Approvals Windows 8 App"
 TOCTitle: Microsoft Dynamics AX 2012 Approvals Windows 8 App
 ms:assetid: 406fc826-7e38-42d3-9f79-32d90731b001
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507103(v=AX.60)
 ms:contentKeyID: 59623193
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

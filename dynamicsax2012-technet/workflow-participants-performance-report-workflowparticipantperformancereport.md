@@ -2,8 +2,9 @@
 title: Workflow participants performance report (WorkflowParticipantPerformanceReport)
 TOCTitle: Workflow participants performance report (WorkflowParticipantPerformanceReport)
 ms:assetid: f4e765e0-6125-416d-88f7-0ea152fb943c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334506(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334506(v=AX.60)
 ms:contentKeyID: 36676496
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

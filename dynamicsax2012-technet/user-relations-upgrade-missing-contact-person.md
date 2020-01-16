@@ -2,8 +2,9 @@
 title: User relations upgrade missing contact person
 TOCTitle: User relations upgrade missing contact person
 ms:assetid: d780e943-8ef3-436e-8d69-4fac44961a31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732107(v=AX.60)
 ms:contentKeyID: 35133049
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

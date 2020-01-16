@@ -2,8 +2,9 @@
 title: User relations upgrade - invalid company users
 TOCTitle: User relations upgrade - invalid company users
 ms:assetid: 9c83c299-55c8-47b6-847a-5d39ab64c9b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731878(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731878(v=AX.60)
 ms:contentKeyID: 35132781
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

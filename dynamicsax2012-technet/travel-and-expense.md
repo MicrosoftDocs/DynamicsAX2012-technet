@@ -2,8 +2,9 @@
 title: Travel and expense
 TOCTitle: Travel and expense
 ms:assetid: 1563e8b2-8a7f-4697-bef8-d96045f9729b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242148(v=AX.60)
 ms:contentKeyID: 36056061
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,22 +52,22 @@ The following process flow illustrates the Travel and expense management busines
 <tr class="odd">
 <td><p><a href="about-travel-requisitions.md">About travel requisitions</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh433545(v=ax.60)">Travel requisition (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh433545(v=ax.60)">Travel requisition (list page)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="creating-expense-reports.md">Creating expense reports</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242887(v=ax.60)">Expense report (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242887(v=ax.60)">Expense report (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="about-travel-and-expense-workflow.md">About Travel and expense workflow</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242703(v=ax.60)">Cash advance (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242703(v=ax.60)">Cash advance (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209496(v=ax.60)">Expense tax recovery (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209496(v=ax.60)">Expense tax recovery (form)</a></p></td>
 </tr>
 </tbody>
 </table>

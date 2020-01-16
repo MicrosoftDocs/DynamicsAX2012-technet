@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCache.UtcRequiredPublicNonStaticProperties Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: UtcRequiredPublicNonStaticProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache.UtcRequiredPublicNonStaticProperties
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.utcrequiredpublicnonstaticproperties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.utcrequiredpublicnonstaticproperties(v=AX.60)
 ms:contentKeyID: 65320585
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # UtcRequiredPublicNonStaticProperties Property
 
-Gets the collection of public non-static [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)) properties of the entity that are required to be represented in UTC.
+Gets the collection of public non-static [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)) properties of the entity that are required to be represented in UTC.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)

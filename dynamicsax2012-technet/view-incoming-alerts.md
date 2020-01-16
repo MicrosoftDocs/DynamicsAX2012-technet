@@ -2,8 +2,9 @@
 title: View incoming alerts
 TOCTitle: View incoming alerts
 ms:assetid: 15167037-54db-4c77-8b48-8c5db3916b0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569790(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569790(v=AX.60)
 ms:contentKeyID: 46687536
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ The **Notification list** form provides an overview of your alerts. You can use 
 
 ## See also
 
-[Notification list (form)](https://technet.microsoft.com/en-us/library/aa591663\(v=ax.60\))
+[Notification list (form)](https://technet.microsoft.com/library/aa591663\(v=ax.60\))
 
   
 

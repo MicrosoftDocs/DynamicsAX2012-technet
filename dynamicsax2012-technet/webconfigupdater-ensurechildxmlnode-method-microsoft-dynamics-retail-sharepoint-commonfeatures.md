@@ -1,9 +1,10 @@
-﻿---
+---
 title: WebConfigUpdater.EnsureChildXmlNode Method  (Microsoft.Dynamics.Retail.SharePoint.CommonFeatures)
 TOCTitle: EnsureChildXmlNode Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.WebConfigUpdater.EnsureChildXmlNode(System.Xml.XmlDocument,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.ensurechildxmlnode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.ensurechildxmlnode(v=AX.60)
 ms:contentKeyID: 62205855
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,21 +61,21 @@ XmlNode^ EnsureChildXmlNode(
 #### Parameters
 
   - xmlDoc  
-    Type: [System.Xml.XmlDocument](https://technet.microsoft.com/en-us/library/6kza7w4k\(v=ax.60\))  
+    Type: [System.Xml.XmlDocument](https://technet.microsoft.com/library/6kza7w4k\(v=ax.60\))  
 
 <!-- end list -->
 
   - parentXPath  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - childName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Xml.XmlNode](https://technet.microsoft.com/en-us/library/bxz4hfh3\(v=ax.60\))  
+Type: [System.Xml.XmlNode](https://technet.microsoft.com/library/bxz4hfh3\(v=ax.60\))  
 The specified child node.  
 
 ## Exceptions
@@ -92,7 +93,7 @@ The specified child node.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>xmlDoc</p></td>
 </tr>
 </tbody>

@@ -2,8 +2,9 @@
 title: Worker hour utilization - efficiency rate report (ProjEfficiencyUtilEmpl)
 TOCTitle: Worker hour utilization - efficiency rate report (ProjEfficiencyUtilEmpl)
 ms:assetid: 76ea4f5d-41f0-4e39-bff8-30946aedd0f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500170(v=AX.60)
 ms:contentKeyID: 37820219
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

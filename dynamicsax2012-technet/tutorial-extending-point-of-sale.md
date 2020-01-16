@@ -2,8 +2,9 @@
 title: 'Tutorial: Extending Point of Sale'
 TOCTitle: 'Tutorial: Extending Point of Sale'
 ms:assetid: 2af5a6f9-9f15-4f06-9e03-3c69b462211c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937974(v=AX.60)
 ms:contentKeyID: 50950760
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

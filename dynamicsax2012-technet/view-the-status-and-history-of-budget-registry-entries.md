@@ -2,8 +2,9 @@
 title: View the status and history of budget registry entries
 TOCTitle: View the status and history of budget registry entries
 ms:assetid: 5795c149-a2a0-4ff9-bba7-9e5c68615745
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208970(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208970(v=AX.60)
 ms:contentKeyID: 36057333
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The **Budget register entry status** field displays either **Draft** or **Comple
 
 If budget control is turned on, view the icons that identify the result of budget checking. A red X indicates that the budget check failed, a yellow triangle indicates that the budget check passed with warnings, and a green check mark indicates that the budget check passed.
 
-For more information, see [Create budget register entries](create-budget-register-entries.md) and [Budget registry entry (form)](https://technet.microsoft.com/en-us/library/hh227354\(v=ax.60\)).
+For more information, see [Create budget register entries](create-budget-register-entries.md) and [Budget registry entry (form)](https://technet.microsoft.com/library/hh227354\(v=ax.60\)).
 
 ## View budget control statistics
 
@@ -51,7 +52,7 @@ You can view the budget balances for a budget cycle and budget model from the **
 
 3.  For additional details, select a line in the grid and then click one of the following buttons: **Actual expenditures**, **Revised budget**, **Encumbrances**, or **Pre-encumbrances**.
 
-For more information, see [Budget control statistics (form)](https://technet.microsoft.com/en-us/library/hh242457\(v=ax.60\)).
+For more information, see [Budget control statistics (form)](https://technet.microsoft.com/library/hh242457\(v=ax.60\)).
 
 ## View actual versus budget amounts in an inquiry
 
@@ -67,7 +68,7 @@ The budget amounts that are displayed in the **Ledger - actual vs. budget inquir
 
 5.  Click **Update totals**.
 
-For more information, see [Ledger - Actual vs. budgeted inquiry (form)](https://technet.microsoft.com/en-us/library/hh209598\(v=ax.60\)).
+For more information, see [Ledger - Actual vs. budgeted inquiry (form)](https://technet.microsoft.com/library/hh209598\(v=ax.60\)).
 
 
 > [!NOTE]

@@ -2,8 +2,9 @@
 title: Top customers by YTD sales report (CustTopCustomersbyYTDSales)
 TOCTitle: Top customers by YTD sales report (CustTopCustomersbyYTDSales)
 ms:assetid: 49c47bb1-e14a-413a-81a2-692543c01140
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389751(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389751(v=AX.60)
 ms:contentKeyID: 36899730
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

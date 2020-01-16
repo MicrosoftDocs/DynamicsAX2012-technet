@@ -2,8 +2,9 @@
 title: Worker payroll allocation (2 periods) report (ProjPayrollEmpl2Prd)
 TOCTitle: Worker payroll allocation (2 periods) report (ProjPayrollEmpl2Prd)
 ms:assetid: e56d68a6-8eac-4239-9052-fb17fa072d42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb220766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb220766(v=AX.60)
 ms:contentKeyID: 37832038
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

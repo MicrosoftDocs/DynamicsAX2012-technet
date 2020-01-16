@@ -2,8 +2,9 @@
 title: Work cycle and work period tasks
 TOCTitle: Work cycle and work period tasks
 ms:assetid: 168f59ee-d724-4f28-b74a-1497f4f25ca4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876704(v=AX.60)
 ms:contentKeyID: 63385347
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

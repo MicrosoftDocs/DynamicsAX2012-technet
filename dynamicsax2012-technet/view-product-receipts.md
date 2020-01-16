@@ -2,8 +2,9 @@
 title: View product receipts
 TOCTitle: View product receipts
 ms:assetid: 3e38c55a-076e-452c-8ca9-977860455544
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271509(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271509(v=AX.60)
 ms:contentKeyID: 36384141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

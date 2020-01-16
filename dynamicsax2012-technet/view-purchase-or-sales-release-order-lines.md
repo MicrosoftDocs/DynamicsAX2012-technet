@@ -2,8 +2,9 @@
 title: View purchase or sales release order lines
 TOCTitle: View purchase or sales release order lines
 ms:assetid: c103a7ba-8b7b-4673-a935-93a00e90681d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550674(v=AX.60)
 ms:contentKeyID: 42517337
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ You can choose to view either all purchase or sales release order lines for a pu
 
 ## See also
 
-[Purchase release order lines (form)](https://technet.microsoft.com/en-us/library/aa617487\(v=ax.60\))
+[Purchase release order lines (form)](https://technet.microsoft.com/library/aa617487\(v=ax.60\))
 
-[Sales release order lines (form)](https://technet.microsoft.com/en-us/library/aa634845\(v=ax.60\))
+[Sales release order lines (form)](https://technet.microsoft.com/library/aa634845\(v=ax.60\))
 
 [About purchase agreements](about-purchase-agreements.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxableItem.TaxLines Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TaxLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxableItem.TaxLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.taxableitem.taxlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxableitem.taxlines(v=AX.60)
 ms:contentKeyID: 49837909
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property Collection<TaxLine^>^ TaxLines {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[TaxLine](taxline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [Collection\<T\>](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[TaxLine](taxline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [Collection\<T\>](https://technet.microsoft.com/library/ms132397\(v=ax.60\)).  
 
 ## See Also
 

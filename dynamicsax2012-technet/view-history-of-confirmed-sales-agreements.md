@@ -2,8 +2,9 @@
 title: View history of confirmed sales agreements
 TOCTitle: View history of confirmed sales agreements
 ms:assetid: d0793004-6fb7-4c6c-a93f-39e9079f2cf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597251(v=AX.60)
 ms:contentKeyID: 39519329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ If a sales agreement is changed, you must confirm the sales agreement. After you
 
 ## See also
 
-[Sales agreement confirmations (form)](https://technet.microsoft.com/en-us/library/hh597275\(v=ax.60\))
+[Sales agreement confirmations (form)](https://technet.microsoft.com/library/hh597275\(v=ax.60\))
 
-[Sales agreements (form)](https://technet.microsoft.com/en-us/library/hh209567\(v=ax.60\))
+[Sales agreements (form)](https://technet.microsoft.com/library/hh209567\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Update a customer TMA group
 TOCTitle: Update a customer TMA group
 ms:assetid: 7aa8b732-f4f1-4b0e-96c6-41810567868b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352215(v=AX.60)
 ms:contentKeyID: 36687850
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Use this procedure to update the description for a customer Trade and Merchandis
 
 [Create a customer TMA group](create-a-customer-tma-group.md)
 
-[Customer TMA groups (form)](https://technet.microsoft.com/en-us/library/hh328723\(v=ax.60\))
+[Customer TMA groups (form)](https://technet.microsoft.com/library/hh328723\(v=ax.60\))
 
   
 

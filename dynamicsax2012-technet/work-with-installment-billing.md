@@ -2,8 +2,9 @@
 title: Work with installment billing
 TOCTitle: Work with installment billing
 ms:assetid: 38775079-c8da-4a98-98e6-057d01e6cef7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497738(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497738(v=AX.60)
 ms:contentKeyID: 62200054
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 ## 1\. Set up a payment schedule
 
-First, set up a payment schedule in **Accounts receivable**. The payment schedule specifies the number of payment installments and the amount that the customer pays per installment. For more information, see [Payment schedules (form)](https://technet.microsoft.com/en-us/library/aa572068\(v=ax.60\)).
+First, set up a payment schedule in **Accounts receivable**. The payment schedule specifies the number of payment installments and the amount that the customer pays per installment. For more information, see [Payment schedules (form)](https://technet.microsoft.com/library/aa572068\(v=ax.60\)).
 
 ## 2\. Add the payment schedule to a call center catalog
 
@@ -264,7 +265,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[Payment schedules (form)](https://technet.microsoft.com/en-us/library/aa572068\(v=ax.60\))
+[Payment schedules (form)](https://technet.microsoft.com/library/aa572068\(v=ax.60\))
 
   
 

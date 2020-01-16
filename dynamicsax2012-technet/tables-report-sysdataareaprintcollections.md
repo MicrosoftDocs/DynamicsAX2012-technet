@@ -2,8 +2,9 @@
 title: Tables report (SysDataAreaPrintCollections)
 TOCTitle: Tables report (SysDataAreaPrintCollections)
 ms:assetid: 0a763144-2a35-4c12-b87e-9d87fda47288
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335131(v=AX.60)
 ms:contentKeyID: 36687340
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

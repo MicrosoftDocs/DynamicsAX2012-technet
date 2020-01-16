@@ -2,8 +2,9 @@
 title: 'Virtual company scenarios: Retail'
 TOCTitle: 'Virtual company scenarios: Retail'
 ms:assetid: 6643c91f-47e3-43e7-8074-abb169f29da6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916615(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916615(v=AX.60)
 ms:contentKeyID: 50934000
+author: Khairunj
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 ---

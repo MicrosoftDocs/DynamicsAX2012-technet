@@ -1,9 +1,10 @@
-﻿---
+---
 title: "What's New: Visual Studio Tools for Developers in Microsoft Dynamics AX 2012"
 TOCTitle: Visual Studio Tools for Developers
 ms:assetid: ae392160-88e1-415f-a676-c7b5e7c7db23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg863931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg863931(v=AX.60)
 ms:contentKeyID: 35249729
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -68,7 +69,7 @@ New features have been added to the tools for modeling business application elem
 <li><p>View X++ code</p></li>
 </ul></td>
 <td><p>Enables you to see all objects in the model store from the Visual Studio IDE.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/cc637855(v=ax.60)">Application Explorer</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/cc637855(v=ax.60)">Application Explorer</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +104,7 @@ New features have been added to the tools for modeling business application elem
 <li><p>You can build managed code projects in Visual Studio and they are automatically deployed if configured to do so.</p></li>
 </ul></td>
 <td><p>Developing code that integrates with Microsoft Dynamics AX is now possible in Visual Studio. The full development and deployment scenario is supported for managed code.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889157(v=ax.60)">Visual Studio Development for Microsoft Dynamics AX</a></p>
+<td><p><a href="https://technet.microsoft.com/library/gg889157(v=ax.60)">Visual Studio Development for Microsoft Dynamics AX</a></p>
 <p><a href="http://go.microsoft.com/fwlink/?linkid=206389">Getting Started with Visual Studio</a></p></td>
 </tr>
 </tbody>
@@ -135,8 +136,8 @@ New features have been added to the tools for modeling business application elem
 <td><p>Feature not available.</p></td>
 <td><p>When you add an X++ class or table to a project by using the Application Explorer, a proxy for that class is created internally by the system. After the proxy is created, that type is then available as a strong type and features like IntelliSense are available.</p></td>
 <td><p>You can easily add X++ objects to your Visual Studio project and write managed code that accesses those objects.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889157(v=ax.60)">Visual Studio Development for Microsoft Dynamics AX</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg889200(v=ax.60)">Walkthrough: Adding an X++ Object to a Visual Studio Project</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889157(v=ax.60)">Visual Studio Development for Microsoft Dynamics AX</a></p>
+<p><a href="https://technet.microsoft.com/library/gg889200(v=ax.60)">Walkthrough: Adding an X++ Object to a Visual Studio Project</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -167,14 +168,14 @@ New features have been added to the tools for modeling business application elem
 <td><p>Feature not available.</p></td>
 <td><p>The event handler subscribes to the X++ event and can be called before the method begins or after the method completes. You can handle events raised only by a class in the <strong>Classes</strong> node in the AOT.</p></td>
 <td><p>You can now create event handlers in managed code as well as X++. This means you can write .NET code to handle class events.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889181(v=ax.60)">Walkthrough: Creating an Event Handler in Visual Studio</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889181(v=ax.60)">Walkthrough: Creating an Event Handler in Visual Studio</a></p></td>
 </tr>
 <tr class="even">
 <td><p>You can create a managed code event handler for an X++ delegate.</p></td>
 <td><p>Feature not available.</p></td>
 <td><p>The event handler subscribes to the X++ delegate, and the code runs when the delegate fires.</p></td>
 <td><p>You can now create event handlers in managed code as well as X++. This means you can write .NET code to handle delegate events.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889181(v=ax.60)">Walkthrough: Creating an Event Handler in Visual Studio</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889181(v=ax.60)">Walkthrough: Creating an Event Handler in Visual Studio</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -205,7 +206,7 @@ New features have been added to the tools for modeling business application elem
 <td><p>Feature not available.</p></td>
 <td><p>Managed code assemblies are automatically deployed to the location that you specify: client, server, Reporting Services or Enterprise Portal. You can specify where the assembly is deployed by setting project properties in Visual Studio. After you deploy an assembly, you can then see the managed code classes via IntelliSense and call the managed code from X++.</p></td>
 <td><p>Deployment happens automatically to the locations you specify.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889192(v=ax.60)">Deploying Managed Code</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889192(v=ax.60)">Deploying Managed Code</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -232,12 +233,12 @@ New features have been added to the tools for modeling business application elem
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>The <a href="https://technet.microsoft.com/en-us/library/aa626961(v=ax.60)">Cross-reference Tool</a> in Microsoft Dynamics AX lets you see the relationships between elements and now supports managed code that that has been added to the model store.</p></td>
+<td><p>The <a href="https://technet.microsoft.com/library/aa626961(v=ax.60)">Cross-reference Tool</a> in Microsoft Dynamics AX lets you see the relationships between elements and now supports managed code that that has been added to the model store.</p></td>
 <td><p>Feature not available.</p></td>
 <td><p>In order to see cross-references for a Visual Studio project, you must first add the project to the model store by using the Application Explorer. After you add a project to the model store, the project and its cross-reference information are updated every time you build the project.</p></td>
 <td><p>Managed code is now supported by the Cross-reference Tool in MorphX. This means you can see the same cross-reference information for both X++ and managed code. For example, when you access the Cross-reference Tool from a report, you can see what the report data source.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889138(v=ax.60)">Cross-References and Visual Studio Projects</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg889239(v=ax.60)">Walkthrough: Using the Cross-Reference Tool with Visual Studio Projects</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889138(v=ax.60)">Cross-References and Visual Studio Projects</a></p>
+<p><a href="https://technet.microsoft.com/library/gg889239(v=ax.60)">Walkthrough: Using the Cross-Reference Tool with Visual Studio Projects</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -273,7 +274,7 @@ New features have been added to the tools for modeling business application elem
 </ul></td>
 <td><p>The code upgrade tools that are included with Microsoft Dynamics AX support managed code development. Therefore, the same code upgrade process can be used for code whether it originates in MorphX or in Visual Studio.</p>
 <p>These tools are used to detect and resolve code conflicts when upgrading to a new version of Microsoft Dynamics AX, installing customizations, or installing new modules developed by a VAR or partner.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg889224(v=ax.60)">Upgrade Support for Managed Code</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg889224(v=ax.60)">Upgrade Support for Managed Code</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -281,9 +282,9 @@ New features have been added to the tools for modeling business application elem
 
 ## See also
 
-[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/en-us/library/gg845327\(v=ax.60\))
+[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/library/gg845327\(v=ax.60\))
 
-[Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/en-us/library/gg889157\(v=ax.60\))
+[Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/library/gg889157\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

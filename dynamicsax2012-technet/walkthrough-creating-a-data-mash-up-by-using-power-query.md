@@ -2,8 +2,9 @@
 title: 'Walkthrough: Creating a data mash-up by using Power Query'
 TOCTitle: 'Walkthrough: Creating a data mash-up by using Power Query'
 ms:assetid: 31955256-2478-45f2-a48a-474c0a3fb7ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn768211(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn768211(v=AX.60)
 ms:contentKeyID: 62497508
+author: Khairunj
 ms.date: 04/01/2015
 mtps_version: v=AX.60
 ---

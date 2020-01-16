@@ -2,8 +2,9 @@
 title: System parameters
 TOCTitle: System parameters
 ms:assetid: 619adbfc-0a8e-4cef-ab8d-72ce78fddb03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731815(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731815(v=AX.60)
 ms:contentKeyID: 35132662
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

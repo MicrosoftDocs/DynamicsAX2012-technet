@@ -2,8 +2,9 @@
 title: Workflow with multiple users in a task
 TOCTitle: Workflow with multiple users in a task
 ms:assetid: 1a433b99-2c30-44e9-817b-8f9d6554e106
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751359(v=AX.60)
 ms:contentKeyID: 35132565
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

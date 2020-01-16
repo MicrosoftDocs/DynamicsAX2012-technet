@@ -2,8 +2,9 @@
 title: Update the milestone status for on-account transactions for milestone billing rules
 TOCTitle: Update the milestone status for on-account transactions for milestone billing rules
 ms:assetid: c384ea2e-c2f3-4742-9bef-3ed3498031d3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn776174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn776174(v=AX.60)
 ms:contentKeyID: 62632261
+author: Khairunj
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,9 +34,9 @@ This topic explains how to mark an on-account transaction that is associated wit
 
 ## See also
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Contract status (form)](https://technet.microsoft.com/en-us/library/hh242811\(v=ax.60\))
+[Contract status (form)](https://technet.microsoft.com/library/hh242811\(v=ax.60\))
 
   
 

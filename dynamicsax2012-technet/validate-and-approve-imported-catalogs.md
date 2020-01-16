@@ -2,8 +2,9 @@
 title: Validate and approve imported catalogs
 TOCTitle: Validate and approve imported catalogs
 ms:assetid: 3d5c278c-5176-4462-832a-79e0b313192d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242238(v=AX.60)
 ms:contentKeyID: 36056679
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,13 +72,13 @@ Use this procedure to review the product details for products that are included 
 
 [Import a catalog from a vendor](import-a-catalog-from-a-vendor.md)
 
-[Update catalog (form)](https://technet.microsoft.com/en-us/library/hh209525\(v=ax.60\))
+[Update catalog (form)](https://technet.microsoft.com/library/hh209525\(v=ax.60\))
 
-[Release products to legal entity (form)](https://technet.microsoft.com/en-us/library/hh208803\(v=ax.60\))
+[Release products to legal entity (form)](https://technet.microsoft.com/library/hh208803\(v=ax.60\))
 
-[Catalog approval page (form)](https://technet.microsoft.com/en-us/library/hh209505\(v=ax.60\))
+[Catalog approval page (form)](https://technet.microsoft.com/library/hh209505\(v=ax.60\))
 
-[Event log (form)](https://technet.microsoft.com/en-us/library/hh227443\(v=ax.60\))
+[Event log (form)](https://technet.microsoft.com/library/hh227443\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Calling the User Session Service'
 TOCTitle: 'Walkthrough: Calling the User Session Service'
 ms:assetid: f72707ae-a02a-44f3-8146-da3e0b9f50da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg865119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg865119(v=AX.60)
 ms:contentKeyID: 35253634
+author: Khairunj
 ms.date: 07/15/2013
 mtps_version: v=AX.60
 dev_langs:

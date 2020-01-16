@@ -1,9 +1,10 @@
-﻿---
+---
 title: TimeZoneExtensions.GetTimeSpan Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetTimeSpan Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneExtensions.GetTimeSpan(System.Collections.Generic.List{Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneInterval},System.DateTime)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.timezoneextensions.gettimespan(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.timezoneextensions.gettimespan(v=AX.60)
 ms:contentKeyID: 65322759
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,21 +58,21 @@ static TimeSpan GetTimeSpan(
 #### Parameters
 
   - timezoneRecords  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 <!-- end list -->
 
   - dateTime  
-    Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+    Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.TimeSpan](https://technet.microsoft.com/en-us/library/269ew577\(v=ax.60\))  
+Type: [System.TimeSpan](https://technet.microsoft.com/library/269ew577\(v=ax.60\))  
 The time zone offset.  
 
 #### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>. When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[TimeZoneInterval](timezoneinterval-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>. When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
 
 ## See Also
 

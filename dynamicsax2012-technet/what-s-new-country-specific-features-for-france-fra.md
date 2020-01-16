@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for France (FRA)"
 TOCTitle: Country-specific features for France
 ms:assetid: f7d70f5b-2c50-4964-9c68-e836b2c55d8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527268(v=AX.60)
 ms:contentKeyID: 59623396
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

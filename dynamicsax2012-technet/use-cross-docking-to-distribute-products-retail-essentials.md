@@ -2,8 +2,9 @@
 title: Use cross docking to distribute products (Retail essentials)
 TOCTitle: Use cross docking to distribute products (Retail essentials)
 ms:assetid: b495a47d-7f05-4509-ab1f-3a627a5af34a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736937(v=AX.60)
 ms:contentKeyID: 62200414
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: The architecture of the Microsoft Dynamics ERP RapidStart Connector
 TOCTitle: The architecture of the Microsoft Dynamics ERP RapidStart Connector
 ms:assetid: 64656e31-00e5-4d3e-a6d0-32d3f796ec69
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn221770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn221770(v=AX.60)
 ms:contentKeyID: 54161564
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

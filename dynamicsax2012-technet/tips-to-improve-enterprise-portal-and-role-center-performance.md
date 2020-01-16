@@ -2,8 +2,9 @@
 title: Tips to improve Enterprise Portal and Role Center performance
 TOCTitle: Tips to improve Enterprise Portal and Role Center performance
 ms:assetid: 9706f027-2356-4f1e-817d-030421234f3d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677308(v=AX.60)
 ms:contentKeyID: 49384079
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

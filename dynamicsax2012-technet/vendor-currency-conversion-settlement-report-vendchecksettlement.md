@@ -2,8 +2,9 @@
 title: Vendor currency conversion settlement report (VendCheckSettlement)
 TOCTitle: Vendor currency conversion settlement report (VendCheckSettlement)
 ms:assetid: ffcb5233-ace2-4ccc-b2a8-b533fb20dbaf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa601020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa601020(v=AX.60)
 ms:contentKeyID: 36676499
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Upgrade AIF code
 TOCTitle: Upgrade AIF code
 ms:assetid: a74f5ffd-cb0e-4610-b351-095fb181ca40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731887(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731887(v=AX.60)
 ms:contentKeyID: 35132798
+author: Khairunj
 ms.date: 05/05/2014
 mtps_version: v=AX.60
 f1_keywords:

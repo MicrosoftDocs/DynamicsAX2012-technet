@@ -2,8 +2,9 @@
 title: Vendor ratings configuration key (VendReview)
 TOCTitle: Vendor ratings configuration key (VendReview)
 ms:assetid: a8fa8106-2f87-4deb-9166-18a19e4bc0b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433467(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433467(v=AX.60)
 ms:contentKeyID: 36941223
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -39,19 +40,19 @@ Microsoft Dynamics AX client
 <tbody>
 <tr class="odd">
 <td><p><strong>Add vendor evaluation criterion groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242726(v=ax.60)">Add vendor evaluation criterion groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242726(v=ax.60)">Add vendor evaluation criterion groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Rating on vendor evaluation criteria</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242562(v=ax.60)">Rating on vendor evaluation criteria (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242562(v=ax.60)">Rating on vendor evaluation criteria (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Vendor evaluation criteria</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209715(v=ax.60)">Vendor evaluation criteria (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209715(v=ax.60)">Vendor evaluation criteria (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor evaluation criterion groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242894(v=ax.60)">Vendor evaluation criterion group (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242894(v=ax.60)">Vendor evaluation criterion group (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +112,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

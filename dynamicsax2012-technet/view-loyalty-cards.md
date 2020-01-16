@@ -2,8 +2,9 @@
 title: View loyalty cards
 TOCTitle: View loyalty cards
 ms:assetid: 84ee9a55-8fa9-40d5-9961-ca377090d570
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597149(v=AX.60)
 ms:contentKeyID: 39519205
+author: Khairunj
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ To view information about loyalty cards, follow these steps:
 
 [About setting up loyalty programs](about-setting-up-loyalty-programs.md)
 
-[Loyalty cards (form)](https://technet.microsoft.com/en-us/library/hh597314\(v=ax.60\))
+[Loyalty cards (form)](https://technet.microsoft.com/library/hh597314\(v=ax.60\))
 
   
 

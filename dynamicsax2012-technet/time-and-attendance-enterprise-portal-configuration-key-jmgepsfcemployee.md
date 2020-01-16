@@ -2,8 +2,9 @@
 title: Time and attendance Enterprise Portal configuration key (JmgEPSFCEmployee)
 TOCTitle: Time and attendance Enterprise Portal configuration key (JmgEPSFCEmployee)
 ms:assetid: 50884156-723f-4813-a619-9d90c6f05a88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576516(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576516(v=AX.60)
 ms:contentKeyID: 37831973
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Electronic timecard</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583217(v=ax.60)">Electronic timecard (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583217(v=ax.60)">Electronic timecard (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +78,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

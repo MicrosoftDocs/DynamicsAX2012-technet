@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Malaysia (MYS)"
 TOCTitle: Country-specific features for Malaysia
 ms:assetid: d6e046cf-e785-43fd-a57e-a3ae1a566579
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876695(v=AX.60)
 ms:contentKeyID: 63384771
+author: Khairunj
 ms.date: 11/20/2014
 mtps_version: v=AX.60
 ---

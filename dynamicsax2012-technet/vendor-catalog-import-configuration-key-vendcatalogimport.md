@@ -2,8 +2,9 @@
 title: Vendor catalog import configuration key (VendCatalogImport)
 TOCTitle: Vendor catalog import configuration key (VendCatalogImport)
 ms:assetid: 632cc73f-fbe6-4231-88ff-4313d0d435de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433458(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433458(v=AX.60)
 ms:contentKeyID: 36941211
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -39,23 +40,23 @@ Microsoft Dynamics AX client
 <tbody>
 <tr class="odd">
 <td><p><strong>Vendor catalog import parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227602(v=ax.60)">Vendor catalog import parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227602(v=ax.60)">Vendor catalog import parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Update catalog</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209525(v=ax.60)">Update catalog (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209525(v=ax.60)">Update catalog (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Catalog approval page</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209505(v=ax.60)">Catalog approval page (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209505(v=ax.60)">Catalog approval page (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Release approved products</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208803(v=ax.60)">Release products to legal entity (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208803(v=ax.60)">Release products to legal entity (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Event log</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227443(v=ax.60)">Event log (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227443(v=ax.60)">Event log (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +116,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

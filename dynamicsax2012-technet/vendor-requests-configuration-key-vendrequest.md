@@ -2,8 +2,9 @@
 title: Vendor requests configuration key (VendRequest)
 TOCTitle: Vendor requests configuration key (VendRequest)
 ms:assetid: e6c918bc-e56f-4c24-a661-eaf2c86eae89
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433474(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433474(v=AX.60)
 ms:contentKeyID: 36941233
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -39,39 +40,39 @@ Microsoft Dynamics AX client
 <tbody>
 <tr class="odd">
 <td><p><strong>Vendor request configurations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209430(v=ax.60)">Vendor request configurations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209430(v=ax.60)">Vendor request configurations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor requests</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242710(v=ax.60)">Vendor requests (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242710(v=ax.60)">Vendor requests (list page)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>New vendor request</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242728(v=ax.60)">New vendor request (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242728(v=ax.60)">New vendor request (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Prospective vendor profile</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227357(v=ax.60)">Prospective vendor profile (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227357(v=ax.60)">Prospective vendor profile (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Add vendor to another legal entity</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209684(v=ax.60)">Add vendor to legal entities (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209684(v=ax.60)">Add vendor to legal entities (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Disallowed vendors</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh433536(v=ax.60)">Disallowed vendors (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh433536(v=ax.60)">Disallowed vendors (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Embargoed countries/regions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209402(v=ax.60)">Embargo country/region (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209402(v=ax.60)">Embargo country/region (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Vendor category request</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227509(v=ax.60)">Vendor category request (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227509(v=ax.60)">Vendor category request (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>New status change request</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227558(v=ax.60)">New status change request (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227558(v=ax.60)">New status change request (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -139,7 +140,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

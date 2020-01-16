@@ -2,8 +2,9 @@
 title: View open sales order lines and backorder lines
 TOCTitle: View open sales order lines and backorder lines
 ms:assetid: 26be14d8-1e28-401b-98e8-bb376e0f420c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271478(v=AX.60)
 ms:contentKeyID: 36384110
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

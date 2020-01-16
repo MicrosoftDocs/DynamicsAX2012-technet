@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Exchanging documents by using the HTTP adapter'
 TOCTitle: 'Walkthrough: Exchanging documents by using the HTTP adapter'
 ms:assetid: 416206cc-cdac-47be-9897-4096dd387616
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496418(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496418(v=AX.60)
 ms:contentKeyID: 37071995
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

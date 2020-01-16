@@ -1,9 +1,10 @@
-﻿---
+---
 title: TenderDropAndDeclareTableSchema Methods (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: TenderDropAndDeclareTableSchema Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.TenderDropAndDeclareTableSchema
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.tenderdropanddeclaretableschema_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.tenderdropanddeclaretableschema_methods(v=AX.60)
 ms:contentKeyID: 65319980
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

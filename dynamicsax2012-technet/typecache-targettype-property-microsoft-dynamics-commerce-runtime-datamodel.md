@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCache.TargetType Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TargetType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache.TargetType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.targettype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.targettype(v=AX.60)
 ms:contentKeyID: 65320569
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Type^ TargetType {
 
 #### Property Value
 
-Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
-Returns [Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\)).  
+Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
+Returns [Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: View posted statements
 TOCTitle: View posted statements
 ms:assetid: 353d8ff8-749a-49c5-9aa8-842b680bee3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580606(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580606(v=AX.60)
 ms:contentKeyID: 39519092
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

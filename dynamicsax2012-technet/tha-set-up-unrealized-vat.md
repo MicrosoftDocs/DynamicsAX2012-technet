@@ -2,8 +2,9 @@
 title: (THA) Set up unrealized VAT
 TOCTitle: (THA) Set up unrealized VAT
 ms:assetid: b63fc313-0769-46ee-8115-245c66704566
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232430(v=AX.60)
 ms:contentKeyID: 36059090
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ Use this procedure to set up a sales tax code, sales tax group, item sales tax g
 
 ## See also
 
-[(THA) Sales tax exchange rate adjustments (form)](https://technet.microsoft.com/en-us/library/hh227551\(v=ax.60\))
+[(THA) Sales tax exchange rate adjustments (form)](https://technet.microsoft.com/library/hh227551\(v=ax.60\))
 
   
 

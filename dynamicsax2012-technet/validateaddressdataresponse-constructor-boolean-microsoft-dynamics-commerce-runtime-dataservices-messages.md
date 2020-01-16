@@ -1,9 +1,10 @@
-﻿---
+---
 title: ValidateAddressDataResponse Constructor (Boolean) (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: ValidateAddressDataResponse Constructor (Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ValidateAddressDataResponse.#ctor(System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.validateaddressdataresponse.validateaddressdataresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.validateaddressdataresponse.validateaddressdataresponse(v=AX.60)
 ms:contentKeyID: 65315533
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ ValidateAddressDataResponse(
 #### Parameters
 
   - isAddressValid  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

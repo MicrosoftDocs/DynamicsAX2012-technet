@@ -2,8 +2,9 @@
 title: (USA) U S sales tax report (TaxReport_US)
 TOCTitle: (USA) U S sales tax report (TaxReport_US)
 ms:assetid: e0be2235-3f0a-4ecc-b7fb-bdbbdf0e7420
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh524745(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh524745(v=AX.60)
 ms:contentKeyID: 37072041
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -91,7 +92,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\))
+[Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\))
 
   
 
