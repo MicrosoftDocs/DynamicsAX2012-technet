@@ -2,8 +2,9 @@
 title: Protest a bill of exchange
 TOCTitle: Protest a bill of exchange
 ms:assetid: b983dd16-a00d-427a-a40f-0c1c4045b8f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498849(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498849(v=AX.60)
 ms:contentKeyID: 37822157
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -83,7 +84,7 @@ A bill of exchange that has been closed cannot be protested.
     
 
     > [!NOTE]
-    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -93,11 +94,11 @@ A bill of exchange that has been closed cannot be protested.
 
 [Remit a bill of exchange](remit-a-bill-of-exchange.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Bills of exchange statistics (form)](https://technet.microsoft.com/en-us/library/aa572115\(v=ax.60\))
+[Bills of exchange statistics (form)](https://technet.microsoft.com/library/aa572115\(v=ax.60\))
 
-[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
+[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/library/aa553272\(v=ax.60\))
 
   
 

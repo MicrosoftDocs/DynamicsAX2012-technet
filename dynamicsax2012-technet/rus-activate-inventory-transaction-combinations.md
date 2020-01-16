@@ -2,8 +2,9 @@
 title: (RUS) Activate inventory transaction combinations
 TOCTitle: (RUS) Activate inventory transaction combinations
 ms:assetid: 38467b16-ac3e-4850-8bcc-7edcf0005367
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665284(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665284(v=AX.60)
 ms:contentKeyID: 49387373
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can activate the combinations of inventory transactions for all inventory pr
 
 ## See also
 
-[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/en-us/library/jj733228\(v=ax.60\))
+[(RUS) Activate transaction combinations (modified form)](https://technet.microsoft.com/library/jj733228\(v=ax.60\))
 
   
 

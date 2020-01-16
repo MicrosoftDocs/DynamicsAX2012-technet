@@ -2,8 +2,9 @@
 title: (RUS) Procurement and sourcing
 TOCTitle: (RUS) Procurement and sourcing
 ms:assetid: d12b276b-001e-414e-ae28-23e066b8f953
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711645(v=AX.60)
 ms:contentKeyID: 49387969
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

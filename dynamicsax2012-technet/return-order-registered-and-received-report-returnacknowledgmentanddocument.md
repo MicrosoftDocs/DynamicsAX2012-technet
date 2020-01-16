@@ -2,8 +2,9 @@
 title: Return order registered and received report (ReturnAcknowledgmentAndDocument)
 TOCTitle: Return order registered and received report (ReturnAcknowledgmentAndDocument)
 ms:assetid: 8e6c158b-d88a-46b2-89ee-78dea7c5b0e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227436(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227436(v=AX.60)
 ms:contentKeyID: 36059739
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -116,7 +117,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Return orders (form)](https://technet.microsoft.com/en-us/library/hh803010\(v=ax.60\))
+[Return orders (form)](https://technet.microsoft.com/library/hh803010\(v=ax.60\))
 
   
 

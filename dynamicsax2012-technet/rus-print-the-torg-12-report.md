@@ -2,8 +2,9 @@
 title: (RUS) Print the TORG-12 report
 TOCTitle: (RUS) Print the TORG-12 report
 ms:assetid: ae130706-e027-4778-aa35-0d99c10305b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711509(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711509(v=AX.60)
 ms:contentKeyID: 49387833
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,9 +38,9 @@ You can generate the TORG-12 report by using the **Posting invoice** form.
 
 ## See also
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
-[(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj711658\(v=ax.60\))
+[(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj711658\(v=ax.60\))
 
   
 

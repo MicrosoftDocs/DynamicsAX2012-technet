@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailPublishingJobSettings Properties (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: RetailPublishingJobSettings Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJobSettings
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings_properties(v=AX.60)
 ms:contentKeyID: 65316130
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

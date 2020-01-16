@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailPublishingJobSettings Class (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: RetailPublishingJobSettings Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJobSettings
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings(v=AX.60)
 ms:contentKeyID: 65316765
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ public ref class RetailPublishingJobSettings : public SPPersistedObject
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   SPAutoSerializingObject  
     SPPersistedObject  
       Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJobSettings  

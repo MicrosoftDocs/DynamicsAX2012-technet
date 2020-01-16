@@ -2,8 +2,9 @@
 title: (RUS) Reverse a ledger journal of amount difference transactions
 TOCTitle: (RUS) Reverse a ledger journal of amount difference transactions
 ms:assetid: ee00a188-a56a-4cec-9e1e-adc8e505f78a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923611(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923611(v=AX.60)
 ms:contentKeyID: 53382727
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Use the **Journals** form to reverse a ledger journal of amount difference trans
 
 [(RUS) Create a ledger journal of amount difference transactions](rus-create-a-ledger-journal-of-amount-difference-transactions.md)
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
   
 

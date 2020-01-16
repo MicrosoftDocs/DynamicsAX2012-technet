@@ -2,8 +2,9 @@
 title: Register, update, and delete alternative project quotations
 TOCTitle: Register, update, and delete alternative project quotations
 ms:assetid: 7d874dbb-a9ef-4436-8580-e59e77ea4c8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb176092(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb176092(v=AX.60)
 ms:contentKeyID: 36058307
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,9 +71,9 @@ When you delete a link to the current quotation, the quotation itself will not b
 
 [Generate and manage project quotations](generate-and-manage-project-quotations.md)
 
-[Alternative quotations (form)](https://technet.microsoft.com/en-us/library/aa550641\(v=ax.60\))
+[Alternative quotations (form)](https://technet.microsoft.com/library/aa550641\(v=ax.60\))
 
-[Delete quotations (form)](https://technet.microsoft.com/en-us/library/aa556468\(v=ax.60\))
+[Delete quotations (form)](https://technet.microsoft.com/library/aa556468\(v=ax.60\))
 
   
 

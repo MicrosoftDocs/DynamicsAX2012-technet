@@ -2,8 +2,9 @@
 title: Release sales orders for picking
 TOCTitle: Release sales orders for picking
 ms:assetid: 42d580f1-5fb7-42f3-ab84-b414ddfdd47f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496962(v=AX.60)
 ms:contentKeyID: 36056875
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

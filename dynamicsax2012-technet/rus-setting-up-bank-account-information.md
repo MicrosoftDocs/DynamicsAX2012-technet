@@ -2,8 +2,9 @@
 title: (RUS) Setting up bank account information
 TOCTitle: (RUS) Setting up bank account information
 ms:assetid: eae723e3-dcc1-4988-8f02-96b36f3991ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711729(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711729(v=AX.60)
 ms:contentKeyID: 49388051
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

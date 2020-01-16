@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailPublishingJob.CreatePublishingDomain Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: CreatePublishingDomain Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJob.CreatePublishingDomain
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.createpublishingdomain(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.createpublishingdomain(v=AX.60)
 ms:contentKeyID: 65317447
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ AppDomain^ CreatePublishingDomain()
 
 #### Return Value
 
-Type: [System.AppDomain](https://technet.microsoft.com/en-us/library/w124b5fa\(v=ax.60\))  
+Type: [System.AppDomain](https://technet.microsoft.com/library/w124b5fa\(v=ax.60\))  
 
 ## See Also
 

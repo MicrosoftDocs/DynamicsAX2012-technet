@@ -2,8 +2,9 @@
 title: Quality control clerk security role (InventQualityControlClerk)
 TOCTitle: Quality control clerk security role (InventQualityControlClerk)
 ms:assetid: e2f51ef5-6674-409d-ada5-904865468b6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527145(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527145(v=AX.60)
 ms:contentKeyID: 37823196
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

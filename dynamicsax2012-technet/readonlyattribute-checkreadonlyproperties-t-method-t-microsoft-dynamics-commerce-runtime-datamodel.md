@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReadOnlyAttribute.CheckReadOnlyProperties(T) Method (T) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CheckReadOnlyProperties(T) Method (T)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReadOnlyAttribute.CheckReadOnlyProperties``1(``0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn696780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn696780(v=AX.60)
 ms:contentKeyID: 62208168
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -60,7 +61,7 @@ static Collection<DataValidationFailure^>^ CheckReadOnlyProperties(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
 A collection of data validation failures of type DataValidationErrors.PropertyUpdateNotAllowed in case there are differences in the values between newEntity and existingEntity.  
 
 ## See Also

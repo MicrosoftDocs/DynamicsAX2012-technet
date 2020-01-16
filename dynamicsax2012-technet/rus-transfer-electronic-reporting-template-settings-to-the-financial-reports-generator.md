@@ -2,8 +2,9 @@
 title: (RUS) Transfer electronic reporting template settings to the Financial reports generator
 TOCTitle: (RUS) Transfer electronic reporting template settings to the Financial reports generator
 ms:assetid: eb3d1c15-8a47-4e76-8c71-0f352260cded
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923610(v=AX.60)
 ms:contentKeyID: 52075449
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ Use the following procedure to transfer the settings for the electronic report t
 
 [(EEUR) Set up the financial reports generator](eeur-set-up-the-financial-reports-generator.md)
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Report (form)](https://technet.microsoft.com/en-us/library/jj853247\(v=ax.60\))
+[(RUS) Report (form)](https://technet.microsoft.com/library/jj853247\(v=ax.60\))
 
   
 

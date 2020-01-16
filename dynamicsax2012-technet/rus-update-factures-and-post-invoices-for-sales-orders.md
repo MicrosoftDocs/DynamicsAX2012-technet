@@ -2,8 +2,9 @@
 title: (RUS) Update factures and post invoices for sales orders
 TOCTitle: (RUS) Update factures and post invoices for sales orders
 ms:assetid: b9edf944-bc8f-4df6-a84f-eceb9ae4759a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733273(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733273(v=AX.60)
 ms:contentKeyID: 49685241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,9 +48,9 @@ You can post sales order invoices that are based on packing slips that include d
 
 ## See also
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Query Service Security
 TOCTitle: Query Service Security
 ms:assetid: 797fe421-73e1-4759-a582-aaf11b0422b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg862440(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg862440(v=AX.60)
 ms:contentKeyID: 35246051
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -48,7 +49,7 @@ The user’s security access determines the query behavior or the data that is r
 <tr class="odd">
 <td><p>User does not have access to a field returned by a query data source.</p></td>
 <td><p>The field is returned in the dataset but the field value is DbNull.</p>
-<p>For more information about data that the AOS withholds from the current user, see <a href="https://technet.microsoft.com/en-us/library/gg840968(v=ax.60)">Finding All Fields the AOS can Trim</a>.</p></td>
+<p>For more information about data that the AOS withholds from the current user, see <a href="https://technet.microsoft.com/library/gg840968(v=ax.60)">Finding All Fields the AOS can Trim</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>User does not have access to a field that is used in a query data source relation (join), order by, group by, data source range, or query filter.</p></td>

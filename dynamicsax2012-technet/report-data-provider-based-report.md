@@ -2,8 +2,9 @@
 title: " Report Data Provider-based report"
 TOCTitle: " Report Data Provider-based report"
 ms:assetid: DynamicsAXGlossary.1367555
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1367555(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1367555(v=AX.60)
 ms:contentKeyID: 36056561
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

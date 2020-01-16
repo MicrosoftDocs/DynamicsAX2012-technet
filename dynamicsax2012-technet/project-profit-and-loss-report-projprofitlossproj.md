@@ -2,8 +2,9 @@
 title: Project profit and loss report (ProjProfitLossProj)
 TOCTitle: Project profit and loss report (ProjProfitLossProj)
 ms:assetid: 2c60843b-6b17-493a-8d1e-5e7b1282727a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500816(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500816(v=AX.60)
 ms:contentKeyID: 36966693
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

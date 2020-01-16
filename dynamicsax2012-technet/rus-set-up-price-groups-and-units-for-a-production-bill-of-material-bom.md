@@ -2,8 +2,9 @@
 title: (RUS) Set up price groups and units for a production bill of material (BOM)
 TOCTitle: (RUS) Set up price groups and units for a production bill of material (BOM)
 ms:assetid: 4d212b16-73c2-4560-9aea-a3aff0ba27fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665364(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665364(v=AX.60)
 ms:contentKeyID: 49387453
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use the following procedures to define parameters that are used to calculate car
 
 ## Set up a price group for a production order
 
-Use the **Production orders** form to set up the price group and currency for a production order. For more information, see [Production orders (form)](https://technet.microsoft.com/en-us/library/aa617966\(v=ax.60\)).
+Use the **Production orders** form to set up the price group and currency for a production order. For more information, see [Production orders (form)](https://technet.microsoft.com/library/aa617966\(v=ax.60\)).
 
 1.  Click **Production control** \> **Common** \> **Production orders** \> **All production orders**.
 
@@ -33,7 +34,7 @@ Use the **Production orders** form to set up the price group and currency for a 
 
 ## Set up a unit price for a production BOM
 
-Use the **BOM** form to set up the unit price for a production bill of materials (BOM). For more information, see [Production BOM (form)](https://technet.microsoft.com/en-us/library/aa556713\(v=ax.60\)).
+Use the **BOM** form to set up the unit price for a production bill of materials (BOM). For more information, see [Production BOM (form)](https://technet.microsoft.com/library/aa556713\(v=ax.60\)).
 
 1.  Click **Production control** \> **Common** \> **Production orders** \> **All production orders**.
 

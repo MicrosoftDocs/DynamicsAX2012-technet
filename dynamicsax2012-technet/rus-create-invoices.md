@@ -2,8 +2,9 @@
 title: (RUS) Create invoices
 TOCTitle: (RUS) Create invoices
 ms:assetid: f8b696ba-f4c2-4082-9754-15a542ffd642
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678643(v=AX.60)
 ms:contentKeyID: 49388125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

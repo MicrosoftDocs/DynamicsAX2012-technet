@@ -1,9 +1,10 @@
-﻿---
+---
 title: Sales Order Document Service
 TOCTitle: Sales Order Document Service
 ms:assetid: 753b1a89-0689-48a5-8eb8-484b56c7d18b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc967401(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc967401(v=AX.60)
 ms:contentKeyID: 35245957
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -133,7 +134,7 @@ The following objects are associated with the sales order service.
 <tbody>
 <tr class="odd">
 <td><p>Service class</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg841238(v=ax.60)">SalesSalesOrderService Class</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg841238(v=ax.60)">SalesSalesOrderService Class</a></p></td>
 </tr>
 <tr class="even">
 <td><p>External service name</p></td>
@@ -141,15 +142,15 @@ The following objects are associated with the sales order service.
 </tr>
 <tr class="odd">
 <td><p>Axd &lt;Document&gt; class</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg837236(v=ax.60)">AxdSalesOrder Class</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg837236(v=ax.60)">AxdSalesOrder Class</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Ax &lt;Table&gt; classes</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg919878(v=ax.60)">AxSalesTable Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg903928(v=ax.60)">AxSalesLine Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg846010(v=ax.60)">AxInventDim Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg836142(v=ax.60)">AxDocuRef Class</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/gg887599(v=ax.60)">AxMarkupTrans Class</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg919878(v=ax.60)">AxSalesTable Class</a></p>
+<p><a href="https://technet.microsoft.com/library/gg903928(v=ax.60)">AxSalesLine Class</a></p>
+<p><a href="https://technet.microsoft.com/library/gg846010(v=ax.60)">AxInventDim Class</a></p>
+<p><a href="https://technet.microsoft.com/library/gg836142(v=ax.60)">AxDocuRef Class</a></p>
+<p><a href="https://technet.microsoft.com/library/gg887599(v=ax.60)">AxMarkupTrans Class</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Query</p></td>

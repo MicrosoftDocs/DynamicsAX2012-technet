@@ -2,8 +2,9 @@
 title: (RUS) Setting up Accounts receivable registers
 TOCTitle: (RUS) Setting up Accounts receivable registers
 ms:assetid: e5c59019-3f07-4015-a611-bd4feeae3fc5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711711(v=AX.60)
 ms:contentKeyID: 49388034
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Correct a product receipt and print the receipt statement report
 TOCTitle: (RUS) Correct a product receipt and print the receipt statement report
 ms:assetid: 7095a360-4178-41f1-8cae-70723a9fdbf2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733238(v=AX.60)
 ms:contentKeyID: 49685205
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -82,7 +83,7 @@ Use the **Product receipt correction** form to correct and post a product receip
 
 [(RUS) About product receipt corrections](rus-about-product-receipt-corrections.md)
 
-[(RUS) Product receipt correction (modified form)](https://technet.microsoft.com/en-us/library/jj733510\(v=ax.60\))
+[(RUS) Product receipt correction (modified form)](https://technet.microsoft.com/library/jj733510\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Project cash flow report (ProjCashFlowProject)
 TOCTitle: Project cash flow report (ProjCashFlowProject)
 ms:assetid: ab4fc7c9-8f2a-4acf-90cb-438865de3012
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500172(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500172(v=AX.60)
 ms:contentKeyID: 37820226
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

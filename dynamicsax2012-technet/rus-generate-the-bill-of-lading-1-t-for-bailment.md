@@ -2,8 +2,9 @@
 title: (RUS) Generate the Bill of lading (1-T) for bailment
 TOCTitle: (RUS) Generate the Bill of lading (1-T) for bailment
 ms:assetid: ac2e93b4-8a4c-46ea-97df-83917de0e8a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733269(v=AX.60)
 ms:contentKeyID: 49685236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ You can generate the 1-T report when you ship a transfer order for bailment. The
 
 ## See also
 
-[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj733191\(v=ax.60\))
+[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj733191\(v=ax.60\))
 
-[Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\))
+[Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\))
 
   
 

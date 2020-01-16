@@ -2,8 +2,9 @@
 title: Revalue foreign currency amounts for customers
 TOCTitle: Revalue foreign currency amounts for customers
 ms:assetid: 0d1236ed-0891-49bc-84ed-203635743390
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242130(v=AX.60)
 ms:contentKeyID: 36056002
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

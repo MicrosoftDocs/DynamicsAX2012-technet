@@ -2,8 +2,9 @@
 title: Resources for Microsoft Dynamics AX 2012
 TOCTitle: Resources for Microsoft Dynamics AX 2012
 ms:assetid: 46d9d2f4-5b16-4e6f-980a-b44c3f3d1f19
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272863(v=AX.60)
 ms:contentKeyID: 36584387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

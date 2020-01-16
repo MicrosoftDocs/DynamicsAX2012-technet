@@ -2,8 +2,9 @@
 title: (RUS) Setting up and maintaining units of measure
 TOCTitle: (RUS) Setting up and maintaining units of measure
 ms:assetid: 929531eb-1aea-4697-816e-2424517508b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678484(v=AX.60)
 ms:contentKeyID: 49387713
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

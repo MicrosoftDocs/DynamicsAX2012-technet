@@ -2,8 +2,9 @@
 title: (RUS) Insurance report (RAssetInsurance)
 TOCTitle: (RUS) Insurance report (RAssetInsurance)
 ms:assetid: 1ba6ef48-0c12-4c6f-bda1-acbe0cbec395
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ955216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ955216(v=AX.60)
 ms:contentKeyID: 51831849
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -121,7 +122,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj923580\(v=ax.60\))
+[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/library/jj923580\(v=ax.60\))
 
   
 

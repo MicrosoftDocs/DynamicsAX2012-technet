@@ -2,8 +2,9 @@
 title: (RUS) FA movement report (RAssetMoveSum)
 TOCTitle: (RUS) FA movement report (RAssetMoveSum)
 ms:assetid: f3fecdd2-5dd3-4f3c-b82e-b772199e2cac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992746(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992746(v=AX.60)
 ms:contentKeyID: 51739432
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -121,7 +122,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/en-us/library/jj853189\(v=ax.60\))
+[(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/library/jj853189\(v=ax.60\))
 
   
 

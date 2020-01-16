@@ -2,8 +2,9 @@
 title: (RUS) Approve the register
 TOCTitle: (RUS) Approve the register
 ms:assetid: 35916e88-bd55-4347-8cc1-f54fcaedef61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665274(v=AX.60)
 ms:contentKeyID: 49387363
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ You can approve the register after the calculation is complete and you have veri
 
 ## See also
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

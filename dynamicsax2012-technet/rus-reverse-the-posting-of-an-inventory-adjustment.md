@@ -2,8 +2,9 @@
 title: (RUS) Reverse the posting of an inventory adjustment
 TOCTitle: (RUS) Reverse the posting of an inventory adjustment
 ms:assetid: 7e5a23ee-fa2d-4010-be74-8444e15a972b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678401(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678401(v=AX.60)
 ms:contentKeyID: 49387631
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

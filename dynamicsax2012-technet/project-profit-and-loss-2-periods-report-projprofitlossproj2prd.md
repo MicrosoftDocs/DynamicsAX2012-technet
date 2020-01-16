@@ -2,8 +2,9 @@
 title: Project profit and loss (2 periods) report (ProjProfitLossProj2Prd)
 TOCTitle: Project profit and loss (2 periods) report (ProjProfitLossProj2Prd)
 ms:assetid: 10fe06e7-8777-4bb8-94aa-d126fddb1bda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb147527(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb147527(v=AX.60)
 ms:contentKeyID: 36966689
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Adjust the cost price in reporting currency by on-hand adjustment
 TOCTitle: (RUS) Adjust the cost price in reporting currency by on-hand adjustment
 ms:assetid: 23033383-4874-4373-a045-cfa979b770fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733187(v=AX.60)
 ms:contentKeyID: 49685155
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,13 +21,13 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-After you run the inventory closing process, you can adjust the inventory cost price for the remaining inventory items. The adjustment amount is assigned to all open receipts. You can perform adjustments of on-hand inventory only after the inventory closing process is run. You can view the adjusted amounts in the **Adjustment (cur.)** field in the **Transactions** form. For more information, see [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\)).
+After you run the inventory closing process, you can adjust the inventory cost price for the remaining inventory items. The adjustment amount is assigned to all open receipts. You can perform adjustments of on-hand inventory only after the inventory closing process is run. You can view the adjusted amounts in the **Adjustment (cur.)** field in the **Transactions** form. For more information, see [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/library/jj733410\(v=ax.60\)).
 
 1.  Click **Inventory management** \> **Periodic** \> **Close and adjustment in currency**.
 
 2.  Select a line that has a transaction type of **Closing accounts**, and then click **Adjustment** \> **On-hand**.
 
-3.  Click **Select**, and then select the inventory dimensions to copy to adjust on-hand inventory. For more information, see [Select on-hand inventory (class form)](https://technet.microsoft.com/en-us/library/aa585980\(v=ax.60\)).
+3.  Click **Select**, and then select the inventory dimensions to copy to adjust on-hand inventory. For more information, see [Select on-hand inventory (class form)](https://technet.microsoft.com/library/aa585980\(v=ax.60\)).
 
 4.  Click **OK**. The inventory lines that are selected for adjustment are displayed in the **On-hand** form, together with the specified inventory dimensions.
     

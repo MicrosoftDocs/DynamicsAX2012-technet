@@ -2,8 +2,9 @@
 title: (RUS) Generate an account activity report
 TOCTitle: (RUS) Generate an account activity report
 ms:assetid: 26e2e68e-c65c-4b21-bc9a-cafadd0d52a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665214(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665214(v=AX.60)
 ms:contentKeyID: 49387304
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -101,7 +102,7 @@ The turnover sheet with correspondence is a basic component of the accounting re
 
 ## See also
 
-[(RUS) Turnover sheet with correspondence (form)](https://technet.microsoft.com/en-us/library/jj665416\(v=ax.60\))
+[(RUS) Turnover sheet with correspondence (form)](https://technet.microsoft.com/library/jj665416\(v=ax.60\))
 
   
 

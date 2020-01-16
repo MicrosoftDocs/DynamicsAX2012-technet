@@ -2,8 +2,9 @@
 title: Project contracts report (ProjListInvoiceTable)
 TOCTitle: Project contracts report (ProjListInvoiceTable)
 ms:assetid: 6bee8b68-033f-4703-b3a3-40a0e313eee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa615032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa615032(v=AX.60)
 ms:contentKeyID: 37820215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

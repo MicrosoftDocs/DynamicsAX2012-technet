@@ -2,8 +2,9 @@
 title: (RUS) Calculate the fixed asset and intangible asset sale register
 TOCTitle: (RUS) Calculate the fixed asset and intangible asset sale register
 ms:assetid: f987a264-d6b5-46b3-90ad-f4aa5e35b924
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678647(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678647(v=AX.60)
 ms:contentKeyID: 49388129
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) About the transfer and maintenance of electronic documents
 TOCTitle: (RUS) About the transfer and maintenance of electronic documents
 ms:assetid: dd38e1c5-fecd-4906-adde-a2c6113eff02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735281(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735281(v=AX.60)
 ms:contentKeyID: 49693282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

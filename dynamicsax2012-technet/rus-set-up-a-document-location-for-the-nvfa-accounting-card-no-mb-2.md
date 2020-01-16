@@ -2,8 +2,9 @@
 title: (RUS) Set up a document location for the NVFA accounting card (No. MB-2)
 TOCTitle: (RUS) Set up a document location for the NVFA accounting card (No. MB-2)
 ms:assetid: 58f8a0d3-e482-4954-b87e-e338224e966d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839667(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839667(v=AX.60)
 ms:contentKeyID: 50396813
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the **Fixed asset parameters** form to set up the document location for the 
 
 ## See also
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
   
 

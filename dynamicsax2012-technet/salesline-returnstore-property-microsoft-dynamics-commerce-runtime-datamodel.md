@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesLine.ReturnStore Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ReturnStore Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine.ReturnStore
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.returnstore(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.returnstore(v=AX.60)
 ms:contentKeyID: 62213912
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property String^ ReturnStore {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The store number.  
 
 ## See Also

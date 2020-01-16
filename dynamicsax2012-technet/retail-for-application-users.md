@@ -2,8 +2,9 @@
 title: Retail for application users
 TOCTitle: Retail for application users
 ms:assetid: fc996ae0-4ef9-4321-805c-dc2e49c095d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597299(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597299(v=AX.60)
 ms:contentKeyID: 39519387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,94 +87,94 @@ The following process flow illustrates the business process for **Retail**.
 <tbody>
 <tr class="odd">
 <td><p><a href="configuring-parameters-and-initial-settings.md">Configuring parameters and initial settings</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597194(v=ax.60)">Retail parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597194(v=ax.60)">Retail parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-retail-channels.md">Setting up retail channels</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580646(v=ax.60)">Stores (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj713630(v=ax.60)">Online store (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj728732(v=ax.60)">Online marketplace (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580646(v=ax.60)">Stores (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj713630(v=ax.60)">Online store (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/jj728732(v=ax.60)">Online marketplace (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-payment-methods-retail.md">Setting up payment methods (Retail)</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597294(v=ax.60)">Payment methods (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597294(v=ax.60)">Payment methods (form) (Retail)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-taxes.md">Setting up taxes</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597168(v=ax.60)">Sales tax override group (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597168(v=ax.60)">Sales tax override group (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-functionality-profiles.md">Setting up functionality profiles</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597181(v=ax.60)">POS functionality profile (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597181(v=ax.60)">POS functionality profile (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-retail-products.md">Setting up retail products</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-retail-product-catalogs.md">Setting up retail product catalogs</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728740(v=ax.60)">Attribute groups (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728740(v=ax.60)">Attribute groups (form) (Retail)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-bar-codes.md">Setting up bar codes</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580637(v=ax.60)">Item–bar code (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580637(v=ax.60)">Item–bar code (form) (Retail)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-loyalty-programs.md">Setting up loyalty programs</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580612(v=ax.60)">Loyalty schemes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580612(v=ax.60)">Loyalty schemes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-shipping-for-online-stores.md">Setting up shipping for online stores</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619881(v=ax.60)">Modes of delivery (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619881(v=ax.60)">Modes of delivery (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa582856(v=ax.60)">Auto charges (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-retail-pos.md">Setting up Retail POS</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597141(v=ax.60)">POS registers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597141(v=ax.60)">POS registers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-info-codes.md">Setting up info codes</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580638(v=ax.60)">Info codes (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580638(v=ax.60)">Info codes (form) (Retail)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-price-adjustments-and-discounts.md">Setting up price adjustments and discounts</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597227(v=ax.60)">Price adjustments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597227(v=ax.60)">Price adjustments (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-competitors.md">Setting up competitors</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597346(v=ax.60)">Competitors (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597346(v=ax.60)">Competitors (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="setting-up-prices-using-price-groups.md">Setting up prices using price groups</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580635(v=ax.60)">Retail price groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580635(v=ax.60)">Retail price groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="setting-up-email-receipts.md">Setting up email receipts</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597228(v=ax.60)">Receipt formats (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597228(v=ax.60)">Receipt formats (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-and-post-statements-overview.md">Create and post statements overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597288(v=ax.60)">Statements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597288(v=ax.60)">Statements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-and-print-labels-overview.md">Create and print labels overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597343(v=ax.60)">Shelf label printing (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597343(v=ax.60)">Shelf label printing (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="import-vendor-products-overview.md">Import vendor products overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="manage-retail-product-catalogs-overview.md">Manage retail product catalogs overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj728723(v=ax.60)">Catalogs (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj728723(v=ax.60)">Catalogs (form) (Retail)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="replenish-inventory-overview.md">Replenish inventory overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597340(v=ax.60)">Replenishment rules (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597340(v=ax.60)">Replenishment rules (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="manage-store-inventory-overview.md">Manage store inventory overview</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597323(v=ax.60)">Buyer's push (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597323(v=ax.60)">Buyer's push (form)</a></p></td>
 </tr>
 </tbody>
 </table>

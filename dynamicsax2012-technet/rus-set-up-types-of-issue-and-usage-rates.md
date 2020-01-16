@@ -2,8 +2,9 @@
 title: (RUS) Set up types of issue and usage rates
 TOCTitle: (RUS) Set up types of issue and usage rates
 ms:assetid: c882934a-0ebb-45f9-a86c-5349fbdedb02
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853229(v=AX.60)
 ms:contentKeyID: 50396509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,9 +38,9 @@ Use the **Types of issue and usage rates** form to define the types of issue and
 
 ## See also
 
-[(RUS) Issue and usage rates (form)](https://technet.microsoft.com/en-us/library/jj853215\(v=ax.60\))
+[(RUS) Issue and usage rates (form)](https://technet.microsoft.com/library/jj853215\(v=ax.60\))
 
-[(RUS) Types of issue and usage rates (form)](https://technet.microsoft.com/en-us/library/jj923590\(v=ax.60\))
+[(RUS) Types of issue and usage rates (form)](https://technet.microsoft.com/library/jj923590\(v=ax.60\))
 
 [(RUS) Set up issue and usage rates for items](rus-set-up-issue-and-usage-rates-for-items.md)
 

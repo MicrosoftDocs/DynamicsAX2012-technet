@@ -2,8 +2,9 @@
 title: (RUS) Set up tax accounting for sales on shipment
 TOCTitle: (RUS) Set up tax accounting for sales on shipment
 ms:assetid: 5f05d12f-d88e-4a46-9c7d-c3d9c579233a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665435(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665435(v=AX.60)
 ms:contentKeyID: 49387523
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
 [(RUS) Post taxes in a sales order](rus-post-taxes-in-a-sales-order.md)
 

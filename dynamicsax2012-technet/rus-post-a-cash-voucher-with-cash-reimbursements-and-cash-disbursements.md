@@ -2,8 +2,9 @@
 title: (RUS) Post a cash voucher with cash reimbursements and cash disbursements
 TOCTitle: (RUS) Post a cash voucher with cash reimbursements and cash disbursements
 ms:assetid: 834c0a66-7960-48d7-9f07-23094c5c6e15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678435(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678435(v=AX.60)
 ms:contentKeyID: 49387666
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -131,7 +132,7 @@ You can reject the confirmed cash vouchers as needed. Rejected vouchers are disp
 
 ## See also
 
-[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj711566\(v=ax.60\))
+[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj711566\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Remit a bill of exchange
 TOCTitle: Remit a bill of exchange
 ms:assetid: d0a6553f-9413-46f4-b963-14e8016ddc94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551009(v=AX.60)
 ms:contentKeyID: 36966740
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -121,7 +122,7 @@ Use this procedure to generate a remittance file to collect the amount that is d
     
 
     > [!NOTE]
-    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -133,11 +134,11 @@ Use this procedure to generate a remittance file to collect the amount that is d
 
 [Redraw a bill of exchange](redraw-a-bill-of-exchange.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa582684\(v=ax.60\))
+[Bill of exchange journal (form)](https://technet.microsoft.com/library/aa582684\(v=ax.60\))
 
-[Bills of exchange statistics (form)](https://technet.microsoft.com/en-us/library/aa572115\(v=ax.60\))
+[Bills of exchange statistics (form)](https://technet.microsoft.com/library/aa572115\(v=ax.60\))
 
   
 

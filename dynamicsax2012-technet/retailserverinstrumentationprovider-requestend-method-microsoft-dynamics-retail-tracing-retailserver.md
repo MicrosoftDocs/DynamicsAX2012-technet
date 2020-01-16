@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailServerInstrumentationProvider.RequestEnd Method  (Microsoft.Dynamics.Retail.Tracing.RetailServer)
 TOCTitle: RequestEnd Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Tracing.RetailServer.RetailServerInstrumentationProvider.RequestEnd(System.String,System.String,System.String,System.Guid)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.tracing.retailserver.retailserverinstrumentationprovider.requestend(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.tracing.retailserver.retailserverinstrumentationprovider.requestend(v=AX.60)
 ms:contentKeyID: 62203831
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,22 +64,22 @@ static void RequestEnd(
 #### Parameters
 
   - message  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - method  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - status  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - correlationId  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 ## See Also
 

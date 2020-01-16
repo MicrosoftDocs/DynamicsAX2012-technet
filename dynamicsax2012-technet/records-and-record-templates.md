@@ -2,8 +2,9 @@
 title: Records and record templates
 TOCTitle: Records and record templates
 ms:assetid: d5a00219-d227-421b-9007-bc881cb2b8b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499378(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499378(v=AX.60)
 ms:contentKeyID: 36059529
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

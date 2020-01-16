@@ -2,8 +2,9 @@
 title: Sales manager security role (TradeSalesManager)
 TOCTitle: Sales manager security role (TradeSalesManager)
 ms:assetid: 508f38b3-936b-491b-8059-0dcd22a677da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527088(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527088(v=AX.60)
 ms:contentKeyID: 37823140
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (RUS) Set up the debt interval in Accounts receivable
 TOCTitle: (RUS) Set up the debt interval in Accounts receivable
 ms:assetid: b6455be7-73cc-4f3a-b30d-f247c44d11db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711537(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711537(v=AX.60)
 ms:contentKeyID: 49387862
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ In the **Debt interval** form, you can specify the lines for adding the bad debt
 
 ## See also
 
-[(RUS) Debt interval (form)](https://technet.microsoft.com/en-us/library/jj853236\(v=ax.60\))
+[(RUS) Debt interval (form)](https://technet.microsoft.com/library/jj853236\(v=ax.60\))
 
   
 

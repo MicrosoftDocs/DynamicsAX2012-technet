@@ -2,8 +2,9 @@
 title: Sales by worker report (RetailSalesByStaff)
 TOCTitle: Sales by worker report (RetailSalesByStaff)
 ms:assetid: 11ff5501-9551-4873-bf55-f883e6e044df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697603(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697603(v=AX.60)
 ms:contentKeyID: 42518404
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

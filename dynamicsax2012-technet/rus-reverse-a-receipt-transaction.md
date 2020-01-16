@@ -2,8 +2,9 @@
 title: (RUS) Reverse a receipt transaction
 TOCTitle: (RUS) Reverse a receipt transaction
 ms:assetid: 3129b911-eac3-40da-87e0-38577f18c051
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665254(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665254(v=AX.60)
 ms:contentKeyID: 49387344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,9 +41,9 @@ Deferrals that are created after the fixed asset is disposed of are reversed whe
 
 ## See also
 
-[(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
+[(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\))
 
-[(RUS) Deferrals transactions (form)](https://technet.microsoft.com/en-us/library/jj678472\(v=ax.60\))
+[(RUS) Deferrals transactions (form)](https://technet.microsoft.com/library/jj678472\(v=ax.60\))
 
   
 

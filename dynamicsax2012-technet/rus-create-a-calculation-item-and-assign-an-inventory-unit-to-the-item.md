@@ -2,8 +2,9 @@
 title: (RUS) Create a calculation item and assign an inventory unit to the item
 TOCTitle: (RUS) Create a calculation item and assign an inventory unit to the item
 ms:assetid: a09b6968-9fa0-472d-8d2b-17ab71ef665b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733262(v=AX.60)
 ms:contentKeyID: 49685229
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can create a calculation item, assign an inventory unit to the item, and set up the price and free storage days for the item. You can calculate the storage service amount for items by using the calculation item and the inventory unit that is assigned to the item. You must select the owner, inventory profile, and batch number dimensions in the dimension group that is assigned to the calculation item and the item that is in storage. For more information, see [Dimensions display (form)](https://technet.microsoft.com/en-us/library/aa556972\(v=ax.60\)).
+You can create a calculation item, assign an inventory unit to the item, and set up the price and free storage days for the item. You can calculate the storage service amount for items by using the calculation item and the inventory unit that is assigned to the item. You must select the owner, inventory profile, and batch number dimensions in the dimension group that is assigned to the calculation item and the item that is in storage. For more information, see [Dimensions display (form)](https://technet.microsoft.com/library/aa556972\(v=ax.60\)).
 
 1.  Click **Product information management** \> **Common** \> **Released products**.
 
@@ -39,9 +40,9 @@ You can create a calculation item, assign an inventory unit to the item, and set
 
 8.  Click the **Manage costs** FastTab, and then, in the **Unit** field, select the inventory unit for the calculation of the storage service amount.
 
-9.  On the **Sell** tab, in the **Trade agreements** action group, click **Create trade agreements** to create a price/discount agreement journal. For more information, see [Price/discount agreement journals (form)](https://technet.microsoft.com/en-us/library/aa556469\(v=ax.60\)).
+9.  On the **Sell** tab, in the **Trade agreements** action group, click **Create trade agreements** to create a price/discount agreement journal. For more information, see [Price/discount agreement journals (form)](https://technet.microsoft.com/library/aa556469\(v=ax.60\)).
 
-10. In the **Price/discount agreement journals** form, click **Lines** to create the trade agreement lines. For more information, see [Journal lines, price/discount agreement (form)](https://technet.microsoft.com/en-us/library/aa553463\(v=ax.60\)).
+10. In the **Price/discount agreement journals** form, click **Lines** to create the trade agreement lines. For more information, see [Journal lines, price/discount agreement (form)](https://technet.microsoft.com/library/aa553463\(v=ax.60\)).
 
 11. In the **Relation** field, select **Price (sales)**.
 
@@ -55,7 +56,7 @@ You can create a calculation item, assign an inventory unit to the item, and set
 
 ## See also
 
-[Release products (form)](https://technet.microsoft.com/en-us/library/hh227553\(v=ax.60\))
+[Release products (form)](https://technet.microsoft.com/library/hh227553\(v=ax.60\))
 
 [(RUS) Set up tracking dimensions for an inventory owner](rus-set-up-tracking-dimensions-for-an-inventory-owner.md)
 

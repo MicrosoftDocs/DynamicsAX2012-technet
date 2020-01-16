@@ -2,8 +2,9 @@
 title: (RUS) Create a BOM production order based on an inventory profile
 TOCTitle: (RUS) Create a BOM production order based on an inventory profile
 ms:assetid: e25e80ef-eb2b-4eac-8f79-6c3154885c03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711712(v=AX.60)
 ms:contentKeyID: 49388035
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ When you create a new bill of materials (BOM) production order for an item, the 
 
 <!-- end list -->
 
-1.  Click **Production control** \> **Common** \> **Production orders** \> **All production orders**. Create a new production order. For more information, see [Create production order (form)](https://technet.microsoft.com/en-us/library/aa497150\(v=ax.60\)).
+1.  Click **Production control** \> **Common** \> **Production orders** \> **All production orders**. Create a new production order. For more information, see [Create production order (form)](https://technet.microsoft.com/library/aa497150\(v=ax.60\)).
 
 2.  Select a production order, and then, on the **Action Pane**, click **Production details** \> **BOM** to manage a BOM production order.
 
@@ -35,7 +36,7 @@ When you create a new bill of materials (BOM) production order for an item, the 
 
 ## See also
 
-[(RUS) Production orders (modified form)](https://technet.microsoft.com/en-us/library/jj733275\(v=ax.60\))
+[(RUS) Production orders (modified form)](https://technet.microsoft.com/library/jj733275\(v=ax.60\))
 
 [(RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM](rus-specify-an-inventory-profile-in-sales-and-purchase-order-lines-when-exploding-a-bom.md)
 

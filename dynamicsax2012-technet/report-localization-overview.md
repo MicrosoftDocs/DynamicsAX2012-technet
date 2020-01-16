@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Localization Overview
 TOCTitle: Report Localization Overview
 ms:assetid: fbd98161-7d23-423c-8a75-2fc7aaf83b6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc642770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc642770(v=AX.60)
 ms:contentKeyID: 28119625
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ This topic provides information on labels and previewing a localized Microsoft D
 
 ## Labels
 
-You can use labels for localizable text. Labels are created in the [Label Editor](https://technet.microsoft.com/en-us/library/aa617477\(v=ax.60\)). Labels are used on reports similarly to how they are used on forms. The style is slightly different to comply with the way that SQL Server Report Services references in the report definitions.
+You can use labels for localizable text. Labels are created in the [Label Editor](https://technet.microsoft.com/library/aa617477\(v=ax.60\)). Labels are used on reports similarly to how they are used on forms. The style is slightly different to comply with the way that SQL Server Report Services references in the report definitions.
 
 As you design your reports, you can create expressions that identify which labels to use. For example, the expression =Labels\!@SYS12345 indicates that a label with the Label ID of @SYS12345 is to be used. For more information about how to create expressions, see [Edit Expression Overview](edit-expression-overview.md).
 
@@ -33,7 +34,7 @@ Use the Label Editor to find, edit, and create labels. To open the label editor:
 
   - In a Microsoft Dynamics AX Development Workspace, click **Tools** \> **Label** \> **Label editor**.
 
-Labels can be single words, phrases, or sentences; sentence fragments should not be used because they cannot easily be translated. Labels can be up to 2000 characters long. For additional guidelines about how to create labels, see [Best Practices for Labels](https://technet.microsoft.com/en-us/library/aa586081\(v=ax.60\)) and [HelpText Guidelines](https://technet.microsoft.com/en-us/library/aa884538\(v=ax.60\)).
+Labels can be single words, phrases, or sentences; sentence fragments should not be used because they cannot easily be translated. Labels can be up to 2000 characters long. For additional guidelines about how to create labels, see [Best Practices for Labels](https://technet.microsoft.com/library/aa586081\(v=ax.60\)) and [HelpText Guidelines](https://technet.microsoft.com/library/aa884538\(v=ax.60\)).
 
 ### Using Labels in Column Headings
 

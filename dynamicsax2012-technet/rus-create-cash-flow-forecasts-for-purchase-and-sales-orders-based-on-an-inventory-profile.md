@@ -2,8 +2,9 @@
 title: (RUS) Create cash flow forecasts for purchase and sales orders based on an inventory profile
 TOCTitle: (RUS) Create cash flow forecasts for purchase and sales orders based on an inventory profile
 ms:assetid: 147a0f7f-fec6-4251-81a2-f1fab7c25a3f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711412(v=AX.60)
 ms:contentKeyID: 49387231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ You can create cash flow forecasts for sales orders and purchase orders. The gen
 
 ## See also
 
-[(RUS) Cash flow forecasts (modified form)](https://technet.microsoft.com/en-us/library/jj733264\(v=ax.60\))
+[(RUS) Cash flow forecasts (modified form)](https://technet.microsoft.com/library/jj733264\(v=ax.60\))
 
   
 

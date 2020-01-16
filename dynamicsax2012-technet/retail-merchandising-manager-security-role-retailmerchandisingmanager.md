@@ -2,8 +2,9 @@
 title: Retail merchandising manager security role (RetailMerchandisingManager)
 TOCTitle: Retail merchandising manager security role (RetailMerchandisingManager)
 ms:assetid: f81b7fdc-270f-45b3-b34c-dea5ef342f75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh848743(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh848743(v=AX.60)
 ms:contentKeyID: 45430236
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

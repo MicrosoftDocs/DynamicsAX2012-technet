@@ -2,8 +2,9 @@
 title: Run an estimation
 TOCTitle: Run an estimation
 ms:assetid: 181f2ffb-aa08-4244-b400-8724c7a75125
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569905(v=AX.60)
 ms:contentKeyID: 36056093
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Estimation is the first of the update jobs in the production life cycle. For mor
 
 2.  Click **Select**.
 
-3.  Use the query function to select the production order to estimate. For more information about querying for production orders, see the [Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\)).
+3.  Use the query function to select the production order to estimate. For more information about querying for production orders, see the [Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\)).
 
 4.  Click **OK**.
 

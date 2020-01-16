@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequiredProductProperties.Items Property  ()
 TOCTitle: Items Property
 ms:assetid: P:RequiredProductProperties.Items
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/requiredproductproperties.items(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/requiredproductproperties.items(v=AX.60)
 ms:contentKeyID: 65318590
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

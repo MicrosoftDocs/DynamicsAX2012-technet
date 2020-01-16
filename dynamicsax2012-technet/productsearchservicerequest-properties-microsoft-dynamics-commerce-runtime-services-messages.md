@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductSearchServiceRequest Properties (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: ProductSearchServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ProductSearchServiceRequest
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.productsearchservicerequest_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.productsearchservicerequest_properties(v=AX.60)
 ms:contentKeyID: 65322491
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

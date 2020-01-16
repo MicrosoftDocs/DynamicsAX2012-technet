@@ -2,8 +2,9 @@
 title: (RUS) Set up a file name requisite type
 TOCTitle: (RUS) Set up a file name requisite type
 ms:assetid: e0392116-ad0a-4d90-8d0e-b167ad66af58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710631(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710631(v=AX.60)
 ms:contentKeyID: 49385028
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ Use the **Fixed requisites** form to set up a file name requisite type for repor
 
 ## See also
 
-[(RUS) Fixed requisites (form)](https://technet.microsoft.com/en-us/library/jj710680\(v=ax.60\))
+[(RUS) Fixed requisites (form)](https://technet.microsoft.com/library/jj710680\(v=ax.60\))
 
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 

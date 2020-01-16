@@ -2,8 +2,9 @@
 title: (RUS) Set up a division for a company and associate it with a vendor
 TOCTitle: (RUS) Set up a division for a company and associate it with a vendor
 ms:assetid: 17f3af71-dfb7-45ab-ad27-b1926f272982
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711434(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711434(v=AX.60)
 ms:contentKeyID: 49387252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use the **Separate divisions** form to create a company division, and then assoc
 
 ## See also
 
-[(RUS) Separate divisions (form)](https://technet.microsoft.com/en-us/library/jj711726\(v=ax.60\))
+[(RUS) Separate divisions (form)](https://technet.microsoft.com/library/jj711726\(v=ax.60\))
 
   
 

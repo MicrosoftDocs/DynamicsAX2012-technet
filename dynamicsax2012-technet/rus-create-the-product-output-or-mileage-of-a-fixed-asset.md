@@ -2,8 +2,9 @@
 title: (RUS) Create the product output or mileage of a fixed asset
 TOCTitle: (RUS) Create the product output or mileage of a fixed asset
 ms:assetid: b680b283-ad2b-4855-bc4f-2b0705d51488
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711543(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711543(v=AX.60)
 ms:contentKeyID: 49387869
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use the **Product output/mileage** form to create product output or mileage for 
 
 ## See also
 
-[(RUS) Product output/mileage (form)](https://technet.microsoft.com/en-us/library/jj733513\(v=ax.60\))
+[(RUS) Product output/mileage (form)](https://technet.microsoft.com/library/jj733513\(v=ax.60\))
 
   
 

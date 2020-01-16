@@ -2,8 +2,9 @@
 title: (RUS) Set up the terms of payment
 TOCTitle: (RUS) Set up the terms of payment
 ms:assetid: f16cd2d3-5454-44ad-b5de-a70ef6392a05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678594(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678594(v=AX.60)
 ms:contentKeyID: 49388076
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

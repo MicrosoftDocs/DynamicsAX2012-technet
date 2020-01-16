@@ -2,8 +2,9 @@
 title: (RUS) Create and link an amount difference facture to an original purchase invoice
 TOCTitle: (RUS) Create and link an amount difference facture to an original purchase invoice
 ms:assetid: 6978f1d9-ce6d-4129-9e5c-5e81ac483228
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853190(v=AX.60)
 ms:contentKeyID: 50396471
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ Use the following procedures to create and link an amount difference facture to 
 
 3.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**.
 
-4.  Create a journal, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)).
+4.  Create a journal, and then enter the required details. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)) and [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)).
 
 5.  Click **Lines** to open the **Journal voucher** form.
 
@@ -73,9 +74,9 @@ Use the following procedures to create and link an amount difference facture to 
 
 [(RUS) Create and link an amount difference facture to an original sales invoice](rus-create-and-link-an-amount-difference-facture-to-an-original-sales-invoice.md)
 
-[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj733511\(v=ax.60\))
+[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj733511\(v=ax.60\))
 
-[(RUS) Vendor invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj733211\(v=ax.60\))
+[(RUS) Vendor invoice journal (modified form)](https://technet.microsoft.com/library/jj733211\(v=ax.60\))
 
   
 

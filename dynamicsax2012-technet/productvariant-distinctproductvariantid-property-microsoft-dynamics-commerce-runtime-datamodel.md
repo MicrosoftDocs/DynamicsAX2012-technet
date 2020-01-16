@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductVariant.DistinctProductVariantId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: DistinctProductVariantId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant.DistinctProductVariantId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.distinctproductvariantid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.distinctproductvariantid(v=AX.60)
 ms:contentKeyID: 62204408
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,8 +64,8 @@ property long long DistinctProductVariantId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
-Returns [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)).  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
+Returns [Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)).  
 
 ## Remarks
 

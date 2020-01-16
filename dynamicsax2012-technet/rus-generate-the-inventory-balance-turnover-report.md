@@ -2,8 +2,9 @@
 title: (RUS) Generate the inventory balance turnover report
 TOCTitle: (RUS) Generate the inventory balance turnover report
 ms:assetid: c627af2e-4f93-4b4b-8e28-4dea032af299
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126127(v=AX.60)
 ms:contentKeyID: 52075431
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ Use the **Inventory balance turnover** form to generate the inventory balance tu
 
   - **Dimension**
 
-You can also group the transactions by inventory turnover dimension. In the **Inventory and warehouse management parameters** form, in the **General** area, in the **Inventory turnover dimension** field, select the inventory turnover dimension that to use to group the transactions. In the **Inventory dimensions** area, you can select the inventory dimensions (**Inventory profile**, **Warehouse**, and **Site**) to want to work with, and to display for the journal lines. For more information, see [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\)). The total amount for each item is calculated and displayed in the report as a total amount of inventory transactions and inventory transaction adjustments for the period, for each inventory dimension.
+You can also group the transactions by inventory turnover dimension. In the **Inventory and warehouse management parameters** form, in the **General** area, in the **Inventory turnover dimension** field, select the inventory turnover dimension that to use to group the transactions. In the **Inventory dimensions** area, you can select the inventory dimensions (**Inventory profile**, **Warehouse**, and **Site**) to want to work with, and to display for the journal lines. For more information, see [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\)). The total amount for each item is calculated and displayed in the report as a total amount of inventory transactions and inventory transaction adjustments for the period, for each inventory dimension.
 
 ## Generate the inventory balance turnover report
 

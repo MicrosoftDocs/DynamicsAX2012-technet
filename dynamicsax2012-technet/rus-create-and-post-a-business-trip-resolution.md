@@ -2,8 +2,9 @@
 title: (RUS) Create and post a business trip resolution
 TOCTitle: (RUS) Create and post a business trip resolution
 ms:assetid: d2f97f7e-c100-401e-99b1-7b51530f0397
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn457781(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn457781(v=AX.60)
 ms:contentKeyID: 58984546
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

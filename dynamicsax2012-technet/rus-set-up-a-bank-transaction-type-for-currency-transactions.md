@@ -2,8 +2,9 @@
 title: (RUS) Set up a bank transaction type for currency transactions
 TOCTitle: (RUS) Set up a bank transaction type for currency transactions
 ms:assetid: 86bff35b-b068-495c-bd43-86fcb72d6829
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856172(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856172(v=AX.60)
 ms:contentKeyID: 50407011
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Bank transaction types** form to set up a bank transaction type for currency sale, purchase, and transfer transactions.
 
-1.  Click **Cash and bank management** \> **Setup** \> **Bank transaction types**. For more information, see [Bank transaction type (form)](https://technet.microsoft.com/en-us/library/aa619635\(v=ax.60\)).
+1.  Click **Cash and bank management** \> **Setup** \> **Bank transaction types**. For more information, see [Bank transaction type (form)](https://technet.microsoft.com/library/aa619635\(v=ax.60\)).
 
 2.  Press CTRL+N to create a new bank transaction type. For more information, see [(RUS) Set up the bank operation type](rus-set-up-the-bank-operation-type.md).
 
@@ -41,7 +42,7 @@ Use the **Bank transaction types** form to set up a bank transaction type for cu
 
 [(RUS) Set up a bank for currency transactions](rus-set-up-a-bank-for-currency-transactions.md)
 
-[(RUS) Bank transaction type (modified form)](https://technet.microsoft.com/en-us/library/jj856166\(v=ax.60\))
+[(RUS) Bank transaction type (modified form)](https://technet.microsoft.com/library/jj856166\(v=ax.60\))
 
 [(RUS) Set up a method of payment for currency transactions](rus-set-up-a-method-of-payment-for-currency-transactions.md)
 

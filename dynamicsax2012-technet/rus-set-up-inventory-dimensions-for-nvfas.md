@@ -2,8 +2,9 @@
 title: (RUS) Set up inventory dimensions for NVFAs
 TOCTitle: (RUS) Set up inventory dimensions for NVFAs
 ms:assetid: 499128df-e418-4afb-809e-a539ffc85c00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911373(v=AX.60)
 ms:contentKeyID: 52075377
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use this procedure to set up inventory dimensions for not valuable fixed assets 
 
 ## See also
 
-[Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
+[Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\))
 
 [(RUS) Set up item details for NVFAs](rus-set-up-item-details-for-nvfas.md)
 

@@ -2,8 +2,9 @@
 title: Sales orders and fulfillment rates in Warehouse management
 TOCTitle: Sales orders and fulfillment rates in Warehouse management
 ms:assetid: 2a2e70a4-e472-4a36-8c2d-c8ba56e13e18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn887220(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn887220(v=AX.60)
 ms:contentKeyID: 63378889
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 audience: Application User

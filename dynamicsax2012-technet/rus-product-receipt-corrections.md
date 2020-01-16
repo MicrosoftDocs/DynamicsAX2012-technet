@@ -2,8 +2,9 @@
 title: (RUS) Product receipt corrections
 TOCTitle: (RUS) Product receipt corrections
 ms:assetid: 85054d3c-a67f-44fc-afd5-f43b2efaa926
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733250(v=AX.60)
 ms:contentKeyID: 49685218
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

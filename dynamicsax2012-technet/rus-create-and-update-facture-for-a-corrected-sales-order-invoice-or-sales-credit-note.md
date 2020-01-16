@@ -2,8 +2,9 @@
 title: (RUS) Create and update facture for a corrected sales order invoice or sales credit note
 TOCTitle: (RUS) Create and update facture for a corrected sales order invoice or sales credit note
 ms:assetid: 3e0a6604-c400-4480-bff6-e27e9e923592
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665309(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665309(v=AX.60)
 ms:contentKeyID: 49387398
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

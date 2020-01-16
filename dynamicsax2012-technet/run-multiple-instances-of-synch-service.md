@@ -2,8 +2,9 @@
 title: Run multiple instances of Synch Service
 TOCTitle: Run multiple instances of Synch Service
 ms:assetid: 07c47aa8-3be8-4b63-b2d6-5d942b03a8be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ679906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ679906(v=AX.60)
 ms:contentKeyID: 49557889
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

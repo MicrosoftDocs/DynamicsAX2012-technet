@@ -2,8 +2,9 @@
 title: (RUS) Calculate the cost of WIP and finished goods
 TOCTitle: (RUS) Calculate the cost of WIP and finished goods
 ms:assetid: cbfa7c61-ffd4-4f93-96c1-333823a9241a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711610(v=AX.60)
 ms:contentKeyID: 49387934
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Use the **End** form to calculate the cost of work in progress (WIP) and finishe
 
 ## See also
 
-[(RUS) End (modified form)](https://technet.microsoft.com/en-us/library/jj678573\(v=ax.60\))
+[(RUS) End (modified form)](https://technet.microsoft.com/library/jj678573\(v=ax.60\))
 
   
 

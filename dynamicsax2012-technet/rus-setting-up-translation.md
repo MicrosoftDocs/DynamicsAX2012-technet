@@ -2,8 +2,9 @@
 title: (RUS) Setting up translation
 TOCTitle: (RUS) Setting up translation
 ms:assetid: 8f959b87-c3a0-4b6b-ae43-e374dbe3eb4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678478(v=AX.60)
 ms:contentKeyID: 49387707
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

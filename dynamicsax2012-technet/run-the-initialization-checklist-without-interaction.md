@@ -2,8 +2,9 @@
 title: Run the initialization checklist without interaction
 TOCTitle: Run the initialization checklist without interaction
 ms:assetid: 29b0bd8e-a046-4fe5-b1f3-87c16d988d2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355044(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355044(v=AX.60)
 ms:contentKeyID: 35132587
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Complete the following procedure to run the initialization checklist without use
     
       - Each checklist item to be run along with the appropriate attributes.
         
-        The XML file syntax is described in the documentation for the **SysAutoRun** class. For more information, see [SysAutoRun](https://technet.microsoft.com/en-us/library/gg922801\(v=ax.60\)).
+        The XML file syntax is described in the documentation for the **SysAutoRun** class. For more information, see [SysAutoRun](https://technet.microsoft.com/library/gg922801\(v=ax.60\)).
 
 3.  Open a command prompt and type the following:
     

@@ -2,8 +2,9 @@
 title: (RUS) Calculate assessed tax registers
 TOCTitle: (RUS) Calculate assessed tax registers
 ms:assetid: 4ded2990-bc43-4c87-a1dd-f3a7fe021987
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665370(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665370(v=AX.60)
 ms:contentKeyID: 49387458
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,9 +70,9 @@ When you create the journal for a year in the assessed tax register, the total o
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Set up the calculation of assessed tax](rus-set-up-the-calculation-of-assessed-tax.md)
 

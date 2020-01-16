@@ -2,8 +2,9 @@
 title: (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation)
 TOCTitle: (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation)
 ms:assetid: b711062f-d0a7-4438-9c48-2cda35933192
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992745(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992745(v=AX.60)
 ms:contentKeyID: 51739431
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -139,7 +140,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [(RUS) Calculate or reverse depreciation using the tax group non-linear depreciation method](rus-calculate-or-reverse-depreciation-using-the-tax-group-non-linear-depreciation-method.md)
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
 [(RUS) Set up fixed asset value models](rus-set-up-fixed-asset-value-models.md)
 

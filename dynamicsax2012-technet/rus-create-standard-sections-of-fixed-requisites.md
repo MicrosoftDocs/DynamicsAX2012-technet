@@ -2,8 +2,9 @@
 title: (RUS) Create standard sections of fixed requisites
 TOCTitle: (RUS) Create standard sections of fixed requisites
 ms:assetid: 27701d28-9b1b-4839-a242-b42b36094a0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677489(v=AX.60)
 ms:contentKeyID: 49384793
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ Standard sections contain a set of fixed requisites that are used to set up seve
 
 ## See also
 
-[(RUS) Standard sections (form)](https://technet.microsoft.com/en-us/library/jj710696\(v=ax.60\))
+[(RUS) Standard sections (form)](https://technet.microsoft.com/library/jj710696\(v=ax.60\))
 
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Managing ledger transactions
 TOCTitle: (RUS) Managing ledger transactions
 ms:assetid: be5beebc-8013-44ab-9987-fd168b8dbad6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711564(v=AX.60)
 ms:contentKeyID: 49387887
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

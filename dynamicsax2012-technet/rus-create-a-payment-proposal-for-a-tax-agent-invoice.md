@@ -2,8 +2,9 @@
 title: (RUS) Create a payment proposal for a tax agent invoice
 TOCTitle: (RUS) Create a payment proposal for a tax agent invoice
 ms:assetid: 84c98b3f-55bb-4b67-a809-d156879bad79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678437(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678437(v=AX.60)
 ms:contentKeyID: 49387667
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ You can use the **Vendor payment proposal** form to create payment proposals tha
 
 5.  Click **Payment proposal** \> **Create payment proposal** to open the **Vendor payment proposal** form.
 
-6.  In the **Proposal type** field, select the type of payment proposal to create. You can create the proposal by due date, cash discount date, or both due date and cash discount date. For more information, see [Vendor payment proposal (class form)](https://technet.microsoft.com/en-us/library/aa554537\(v=ax.60\)).
+6.  In the **Proposal type** field, select the type of payment proposal to create. You can create the proposal by due date, cash discount date, or both due date and cash discount date. For more information, see [Vendor payment proposal (class form)](https://technet.microsoft.com/library/aa554537\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -57,13 +58,13 @@ You can use the **Vendor payment proposal** form to create payment proposals tha
 
 11. Click **Functions** \> **Settlement** to open the **Settle open transactions** form.
 
-12. Select open vendor transactions, and mark them for settlement. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+12. Select open vendor transactions, and mark them for settlement. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 13. Close the form.
 
 14. Click **Functions** \> **Generate payments** to open the **Generate payments** form.
 
-15. Select the payment method or the export format, depending on the method of payment on the journal line. Then select the bank account to draw the payment from, and enter the required information. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\)).
+15. Select the payment method or the export format, depending on the method of payment on the journal line. Then select the bank account to draw the payment from, and enter the required information. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\)).
 
 16. Click **OK**.
 
@@ -79,11 +80,11 @@ You can use the **Vendor payment proposal** form to create payment proposals tha
 
 ## See also
 
-[(RUS) Periodic reverse (form)](https://technet.microsoft.com/en-us/library/jj678637\(v=ax.60\))
+[(RUS) Periodic reverse (form)](https://technet.microsoft.com/library/jj678637\(v=ax.60\))
 
-[(RUS) Transactions on settlement (form)](https://technet.microsoft.com/en-us/library/jj678413\(v=ax.60\))
+[(RUS) Transactions on settlement (form)](https://technet.microsoft.com/library/jj678413\(v=ax.60\))
 
-[(RUS) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj853227\(v=ax.60\))
+[(RUS) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj853227\(v=ax.60\))
 
 [(RUS) Set up the tax agent transactions](rus-set-up-the-tax-agent-transactions.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up an Inv-19 collation statement
 TOCTitle: (RUS) Set up an Inv-19 collation statement
 ms:assetid: 87ee9cfe-607f-4f24-bff8-3878f544c5f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678450(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678450(v=AX.60)
 ms:contentKeyID: 49387679
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

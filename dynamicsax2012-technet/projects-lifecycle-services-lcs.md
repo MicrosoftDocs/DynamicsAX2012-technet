@@ -2,8 +2,9 @@
 title: Projects (Lifecycle Services, LCS)
 TOCTitle: Projects
 ms:assetid: 4113466a-62cd-42c1-91d3-f29bd05711c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268627(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268627(v=AX.60)
 ms:contentKeyID: 54918855
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

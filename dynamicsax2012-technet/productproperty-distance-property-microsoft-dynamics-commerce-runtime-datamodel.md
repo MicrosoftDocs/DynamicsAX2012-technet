@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductProperty.Distance Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Distance Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductProperty.Distance
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.distance(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.distance(v=AX.60)
 ms:contentKeyID: 65319035
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ property int Distance {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

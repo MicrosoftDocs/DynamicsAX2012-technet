@@ -2,8 +2,9 @@
 title: (RUS) Post sales orders
 TOCTitle: (RUS) Post sales orders
 ms:assetid: ce04bbf1-a63d-4ab9-97a9-9c2e9fb3e116
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711618(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711618(v=AX.60)
 ms:contentKeyID: 49387942
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Set up posting profiles for accounting vouchers
 TOCTitle: (RUS) Set up posting profiles for accounting vouchers
 ms:assetid: fb18ed81-c0a3-4178-a760-b0209e0c957d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678654(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678654(v=AX.60)
 ms:contentKeyID: 49388136
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ You can set up the following posting profiles for an account of operations:
 
 ## See also
 
-[(RUS) Advance holders (form)](https://technet.microsoft.com/en-us/library/jj665294\(v=ax.60\))
+[(RUS) Advance holders (form)](https://technet.microsoft.com/library/jj665294\(v=ax.60\))
 
   
 

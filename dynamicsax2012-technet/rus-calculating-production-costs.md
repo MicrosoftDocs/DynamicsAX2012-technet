@@ -2,8 +2,9 @@
 title: (RUS) Calculating production costs
 TOCTitle: (RUS) Calculating production costs
 ms:assetid: 23c7012c-1d00-4bc1-90d4-f59a645eb5f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711474(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711474(v=AX.60)
 ms:contentKeyID: 49387291
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

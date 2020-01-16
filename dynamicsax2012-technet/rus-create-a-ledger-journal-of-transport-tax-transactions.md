@@ -2,8 +2,9 @@
 title: (RUS) Create a ledger journal of transport tax transactions
 TOCTitle: (RUS) Create a ledger journal of transport tax transactions
 ms:assetid: 6c5a48a8-435a-4639-88be-aafed325c837
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678341(v=AX.60)
 ms:contentKeyID: 49387571
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,11 +43,11 @@ For more information, see [(RUS) Set up the calculation of transport tax](rus-se
 
 ## See also
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Reverse a ledger journal of transport tax transactions](rus-reverse-a-ledger-journal-of-transport-tax-transactions.md)
 

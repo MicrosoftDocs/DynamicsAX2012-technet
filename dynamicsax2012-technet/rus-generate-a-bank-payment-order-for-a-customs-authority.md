@@ -2,8 +2,9 @@
 title: (RUS) Generate a bank payment order for a customs authority
 TOCTitle: (RUS) Generate a bank payment order for a customs authority
 ms:assetid: 88ad391d-d0fd-469c-ab11-0598d4550f2a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678448(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678448(v=AX.60)
 ms:contentKeyID: 49387677
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ Use the **Journal voucher** form to generate a bank payment order that includes 
 
 [Create journal descriptions](create-journal-descriptions.md)
 
-[Journal descriptions (form)](https://technet.microsoft.com/en-us/library/aa587702\(v=ax.60\))
+[Journal descriptions (form)](https://technet.microsoft.com/library/aa587702\(v=ax.60\))
 
   
 

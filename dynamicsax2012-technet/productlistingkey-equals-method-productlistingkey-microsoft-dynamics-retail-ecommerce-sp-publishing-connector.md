@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductListingKey.Equals Method (ProductListingKey) (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: Equals Method (ProductListingKey)
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.Equals(Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.equals(v=AX.60)
 ms:contentKeyID: 65318569
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -52,11 +53,11 @@ virtual bool Equals(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Implements
 
-[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/en-us/library/ms131190\(v=ax.60\))  
+[IEquatable\<T\>.Equals(T)](https://technet.microsoft.com/library/ms131190\(v=ax.60\))  
 
 ## See Also
 

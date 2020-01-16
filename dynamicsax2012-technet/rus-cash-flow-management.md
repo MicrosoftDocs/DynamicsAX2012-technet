@@ -2,8 +2,9 @@
 title: (RUS) Cash flow management
 TOCTitle: (RUS) Cash flow management
 ms:assetid: ef8cce87-635c-477b-b744-e29c16745f39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt282498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt282498(v=AX.60)
 ms:contentKeyID: 67234753
+author: Khairunj
 ms.date: 07/27/2015
 mtps_version: v=AX.60
 audience: Application User

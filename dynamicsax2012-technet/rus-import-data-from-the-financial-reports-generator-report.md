@@ -2,8 +2,9 @@
 title: (RUS) Import data from the Financial reports generator report
 TOCTitle: (RUS) Import data from the Financial reports generator report
 ms:assetid: 62641a57-ad64-4f6d-8762-03364c460c78
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677548(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677548(v=AX.60)
 ms:contentKeyID: 49384852
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,11 +70,11 @@ You can import report data from a file, from the Financial reports generator (FR
 
 ## See also
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
-[(RUS) Versions (form)](https://technet.microsoft.com/en-us/library/jj710762\(v=ax.60\))
+[(RUS) Versions (form)](https://technet.microsoft.com/library/jj710762\(v=ax.60\))
 
-[(RUS) Load version (form)](https://technet.microsoft.com/en-us/library/jj710716\(v=ax.60\))
+[(RUS) Load version (form)](https://technet.microsoft.com/library/jj710716\(v=ax.60\))
 
   
 

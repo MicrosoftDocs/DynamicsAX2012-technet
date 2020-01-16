@@ -2,8 +2,9 @@
 title: Qualify or disqualify a lead
 TOCTitle: Qualify or disqualify a lead
 ms:assetid: d5b75ddc-af66-4e2b-9d2c-6469ade1744f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213700(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213700(v=AX.60)
 ms:contentKeyID: 36059530
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

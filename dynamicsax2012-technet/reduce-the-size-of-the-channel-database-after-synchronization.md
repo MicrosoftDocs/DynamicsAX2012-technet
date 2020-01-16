@@ -2,8 +2,9 @@
 title: Reduce the size of the channel database after synchronization
 TOCTitle: Reduce the size of the channel database after synchronization
 ms:assetid: cac181bb-1a67-4f31-a56c-5f02f514d0ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt807869(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt807869(v=AX.60)
 ms:contentKeyID: 74436958
+author: Khairunj
 ms.date: 04/04/2017
 mtps_version: v=AX.60
 ---

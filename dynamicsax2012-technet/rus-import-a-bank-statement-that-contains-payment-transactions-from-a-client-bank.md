@@ -2,8 +2,9 @@
 title: (RUS) Import a bank statement that contains payment transactions from a client bank
 TOCTitle: (RUS) Import a bank statement that contains payment transactions from a client bank
 ms:assetid: 20baa84e-5dcc-439a-98b4-a74fa3147c08
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711461(v=AX.60)
 ms:contentKeyID: 49387278
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -28,7 +29,7 @@ Use the **Import from client-bank** form to import a bank statement that contain
 
 ## See also
 
-[(RUS) Imported bank statement (form)](https://technet.microsoft.com/en-us/library/jj733281\(v=ax.60\))
+[(RUS) Imported bank statement (form)](https://technet.microsoft.com/library/jj733281\(v=ax.60\))
 
   
 

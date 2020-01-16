@@ -2,8 +2,9 @@
 title: (RUS) Post and print an invoice for payment for a free text invoice
 TOCTitle: (RUS) Post and print an invoice for payment for a free text invoice
 ms:assetid: 012c9ca3-2098-4d05-90a0-8689878dd35c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711339(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711339(v=AX.60)
 ms:contentKeyID: 49387157
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -88,9 +89,9 @@ With the Invoice for payment for free text invoices function, you can use the **
 
 ## See also
 
-[(RUS) Posting invoice for payment (form)](https://technet.microsoft.com/en-us/library/jj665307\(v=ax.60\))
+[(RUS) Posting invoice for payment (form)](https://technet.microsoft.com/library/jj665307\(v=ax.60\))
 
-[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/en-us/library/jj733219\(v=ax.60\))
+[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/library/jj733219\(v=ax.60\))
 
   
 

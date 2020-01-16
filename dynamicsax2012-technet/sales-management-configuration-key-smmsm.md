@@ -2,8 +2,9 @@
 title: Sales management configuration key (SmmSM)
 TOCTitle: Sales management configuration key (SmmSM)
 ms:assetid: 31ceffc6-6f58-43d8-9053-f1e36a5295ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa501325(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa501325(v=AX.60)
 ms:contentKeyID: 36931822
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,39 +46,39 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Query administration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586035(v=ax.60)">Query administration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586035(v=ax.60)">Query administration (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Management statistics</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582715(v=ax.60)">Management statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582715(v=ax.60)">Management statistics (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Data editor</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634726(v=ax.60)">Management statistics data editor (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634726(v=ax.60)">Management statistics data editor (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Queries</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619744(v=ax.60)">Management statistics queries (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619744(v=ax.60)">Management statistics queries (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales target</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582129(v=ax.60)">Sales target (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582129(v=ax.60)">Sales target (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Period view</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa552697(v=ax.60)">Periodic sales target (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa552697(v=ax.60)">Periodic sales target (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales unit/team</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500594(v=ax.60)">Sales unit/team (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500594(v=ax.60)">Sales unit/team (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales unit designer</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598317(v=ax.60)">Sales unit designer (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598317(v=ax.60)">Sales unit designer (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Responsibility assignment</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227388(v=ax.60)">Sales unit responsibility</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227388(v=ax.60)">Sales unit responsibility</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +116,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

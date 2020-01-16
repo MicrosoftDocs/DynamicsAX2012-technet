@@ -2,8 +2,9 @@
 title: (RUS) Set up a register to calculate the depreciation bonus recovery
 TOCTitle: (RUS) Set up a register to calculate the depreciation bonus recovery
 ms:assetid: 53afc360-d66e-40a5-a96c-50ffc9f7109d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839664(v=AX.60)
 ms:contentKeyID: 50396811
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Use this procedure to set up a register to calculate the depreciation bonus reco
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate the fixed asset depreciation register](rus-calculate-the-fixed-asset-depreciation-register.md)
 

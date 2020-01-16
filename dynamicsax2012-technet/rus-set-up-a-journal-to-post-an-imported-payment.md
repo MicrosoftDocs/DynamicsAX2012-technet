@@ -2,8 +2,9 @@
 title: (RUS) Set up a journal to post an imported payment
 TOCTitle: (RUS) Set up a journal to post an imported payment
 ms:assetid: eacd238a-7242-45a2-b2d3-4d943f520444
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711736(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711736(v=AX.60)
 ms:contentKeyID: 49388060
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,9 +28,9 @@ Use the **Cash and bank management parameters** form to set up a journal that yo
 
 ## See also
 
-[Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
+[Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\))
 
-[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj711566\(v=ax.60\))
+[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj711566\(v=ax.60\))
 
 [(RUS) Assign an exchange format to a bank account](rus-assign-an-exchange-format-to-a-bank-account.md)
 

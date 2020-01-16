@@ -2,8 +2,9 @@
 title: (RUS) Reverse a fixed asset acquisition transaction
 TOCTitle: (RUS) Reverse a fixed asset acquisition transaction
 ms:assetid: bcaa74e4-cfb5-466b-8dab-cb0697828d66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711556(v=AX.60)
 ms:contentKeyID: 49387879
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

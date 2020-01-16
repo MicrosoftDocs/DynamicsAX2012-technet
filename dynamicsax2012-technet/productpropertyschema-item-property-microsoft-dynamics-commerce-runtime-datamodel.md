@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductPropertySchema.Item Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Item Property
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertySchema.Item
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertyschema.item(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertyschema.item(v=AX.60)
 ms:contentKeyID: 65322157
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,8 +30,8 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/9tee9ht2(v=ax.60)">Item[TKey]</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/xfhwa508(v=ax.60)">Dictionary</a>&lt;<a href="https://technet.microsoft.com/en-us/library/s1wwdcbf(v=ax.60)">String</a>, <a href="https://technet.microsoft.com/en-us/library/td2s409d(v=ax.60)">Int32</a>&gt;.)</td>
+<td><a href="https://technet.microsoft.com/library/9tee9ht2(v=ax.60)">Item[TKey]</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/xfhwa508(v=ax.60)">Dictionary</a>&lt;<a href="https://technet.microsoft.com/library/s1wwdcbf(v=ax.60)">String</a>, <a href="https://technet.microsoft.com/library/td2s409d(v=ax.60)">Int32</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

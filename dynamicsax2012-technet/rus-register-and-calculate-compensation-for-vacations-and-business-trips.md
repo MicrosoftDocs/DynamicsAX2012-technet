@@ -2,8 +2,9 @@
 title: (RUS) Register and calculate compensation for vacations and business trips
 TOCTitle: (RUS) Register and calculate compensation for vacations and business trips
 ms:assetid: c530ebaf-bab5-4c91-9a63-aacebf7de1aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn781410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn781410(v=AX.60)
 ms:contentKeyID: 62807375
+author: Khairunj
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 f1_keywords:

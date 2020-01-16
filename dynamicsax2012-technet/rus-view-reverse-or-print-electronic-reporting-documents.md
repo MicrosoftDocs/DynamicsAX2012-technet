@@ -2,8 +2,9 @@
 title: (RUS) View, reverse, or print electronic reporting documents
 TOCTitle: (RUS) View, reverse, or print electronic reporting documents
 ms:assetid: 1d2218f9-f295-4784-b735-a7b213e9229a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677473(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677473(v=AX.60)
 ms:contentKeyID: 49384777
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,11 +69,11 @@ Use the **Version** form to view, reverse, or print an electronic reporting docu
 
 [(RUS) Update an electronic reporting document](rus-update-an-electronic-reporting-document.md)
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
-[(RUS) Version (form)](https://technet.microsoft.com/en-us/library/jj710759\(v=ax.60\))
+[(RUS) Version (form)](https://technet.microsoft.com/library/jj710759\(v=ax.60\))
 
-[(RUS) Versions (form)](https://technet.microsoft.com/en-us/library/jj710762\(v=ax.60\))
+[(RUS) Versions (form)](https://technet.microsoft.com/library/jj710762\(v=ax.60\))
 
   
 

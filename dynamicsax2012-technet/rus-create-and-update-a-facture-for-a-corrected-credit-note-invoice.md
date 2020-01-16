@@ -2,8 +2,9 @@
 title: (RUS) Create and update a facture for a corrected credit note invoice
 TOCTitle: (RUS) Create and update a facture for a corrected credit note invoice
 ms:assetid: 7d0f18a2-fc31-4e04-a4af-2ac658b5264e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678396(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678396(v=AX.60)
 ms:contentKeyID: 49387626
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -113,9 +114,9 @@ In some cases, you must use corrective credit notes and invoices to clarify VAT 
 
 ## See also
 
-[(RUS) Update facture (form)](https://technet.microsoft.com/en-us/library/jj889412\(v=ax.60\))
+[(RUS) Update facture (form)](https://technet.microsoft.com/library/jj889412\(v=ax.60\))
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
   
 

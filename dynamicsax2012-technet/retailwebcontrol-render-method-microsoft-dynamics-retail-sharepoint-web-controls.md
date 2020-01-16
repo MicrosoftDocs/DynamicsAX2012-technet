@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailWebControl.Render Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: Render Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.RetailWebControl.Render(System.Web.UI.HtmlTextWriter)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.retailwebcontrol.render(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.retailwebcontrol.render(v=AX.60)
 ms:contentKeyID: 62202391
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ virtual void Render(
 #### Parameters
 
   - writer  
-    Type: [System.Web.UI.HtmlTextWriter](https://technet.microsoft.com/en-us/library/bt7b938d\(v=ax.60\))  
+    Type: [System.Web.UI.HtmlTextWriter](https://technet.microsoft.com/library/bt7b938d\(v=ax.60\))  
 
 ## See Also
 

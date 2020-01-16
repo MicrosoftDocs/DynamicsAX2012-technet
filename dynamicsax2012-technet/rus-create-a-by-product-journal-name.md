@@ -2,8 +2,9 @@
 title: (RUS) Create a by-product journal name
 TOCTitle: (RUS) Create a by-product journal name
 ms:assetid: a63a5bd7-6ea9-48d2-8ef7-72d0199d5d07
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678570(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678570(v=AX.60)
 ms:contentKeyID: 49387798
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use the **Production journal names** form to create journal names to record actu
 
 ## See also
 
-[Production journal names (form)](https://technet.microsoft.com/en-us/library/aa600923\(v=ax.60\))
+[Production journal names (form)](https://technet.microsoft.com/library/aa600923\(v=ax.60\))
 
   
 

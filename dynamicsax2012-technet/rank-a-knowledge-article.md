@@ -2,8 +2,9 @@
 title: Rank a knowledge article
 TOCTitle: Rank a knowledge article
 ms:assetid: 5fa1dcb2-b627-4ea9-b514-7a1914d534b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209135(v=AX.60)
 ms:contentKeyID: 36057596
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

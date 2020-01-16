@@ -2,8 +2,9 @@
 title: Purchase cube (PurchCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Purchase cube (PurchCube)
 ms:assetid: 5a95613f-8337-455f-bd44-04bfc4bf94e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710389(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710389(v=AX.60)
 ms:contentKeyID: 49384281
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

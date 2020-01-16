@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesLine.ReturnChannelId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ReturnChannelId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine.ReturnChannelId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.returnchannelid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.returnchannelid(v=AX.60)
 ms:contentKeyID: 62202835
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ property long long ReturnChannelId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 The channel identifier.  
 
 ## See Also

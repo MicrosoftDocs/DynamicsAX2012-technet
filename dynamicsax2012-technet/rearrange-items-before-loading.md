@@ -2,8 +2,9 @@
 title: Rearrange items before loading
 TOCTitle: Rearrange items before loading
 ms:assetid: 2bb1f989-501d-468d-beab-8fd9a0162a67
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231015(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231015(v=AX.60)
 ms:contentKeyID: 36056247
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ You can rearrange or move items that have been picked and delivered to the stagi
 
 ## See also
 
-[Shipment staging (form)](https://technet.microsoft.com/en-us/library/hh242497\(v=ax.60\))
+[Shipment staging (form)](https://technet.microsoft.com/library/hh242497\(v=ax.60\))
 
 [Set up shipment staging overviews](set-up-shipment-staging-overviews.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Create and post a sales order for bailment
 TOCTitle: (RUS) Create and post a sales order for bailment
 ms:assetid: b345fe7f-8012-4f9f-b2d9-1fa6f0b4f4ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711530(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711530(v=AX.60)
 ms:contentKeyID: 49387856
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ You can create and post a sales order when you return items from storage. Taxes 
 
 [(RUS) Post sales orders](rus-post-sales-orders.md)
 
-[(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
+[(RUS) Sales orders (modified form)](https://technet.microsoft.com/library/jj733272\(v=ax.60\))
 
   
 

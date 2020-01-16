@@ -2,8 +2,9 @@
 title: (RUS) Adjust counteragent transactions in accounts payable
 TOCTitle: (RUS) Adjust counteragent transactions in accounts payable
 ms:assetid: 9c91a0e5-7078-4c46-9e31-ac164eccbae7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678535(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678535(v=AX.60)
 ms:contentKeyID: 49387763
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -87,7 +88,7 @@ Use the **Act of adjustment (vendors)** form to generate the act of adjustment r
 
 ## See also
 
-[(RUS) Act of adjustment (vendors) (form)](https://technet.microsoft.com/en-us/library/jj711488\(v=ax.60\))
+[(RUS) Act of adjustment (vendors) (form)](https://technet.microsoft.com/library/jj711488\(v=ax.60\))
 
   
 

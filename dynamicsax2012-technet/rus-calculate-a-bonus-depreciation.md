@@ -2,8 +2,9 @@
 title: (RUS) Calculate a bonus depreciation
 TOCTitle: (RUS) Calculate a bonus depreciation
 ms:assetid: cda89f12-01d8-46d2-9463-6a672cc6327a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923591(v=AX.60)
 ms:contentKeyID: 52075436
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,13 +36,13 @@ The depreciation bonus is an additional depreciation amount that is assessed dur
 
 ## See also
 
-[(RUS) Value models (modified form)](https://technet.microsoft.com/en-us/library/jj923586\(v=ax.60\))
+[(RUS) Value models (modified form)](https://technet.microsoft.com/library/jj923586\(v=ax.60\))
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
-[(RUS) FA transactions (form)](https://technet.microsoft.com/en-us/library/jj911230\(v=ax.60\))
+[(RUS) FA transactions (form)](https://technet.microsoft.com/library/jj911230\(v=ax.60\))
 
-[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj923580\(v=ax.60\))
+[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/library/jj923580\(v=ax.60\))
 
 [(RUS) Calculate or reverse fixed asset depreciation](rus-calculate-or-reverse-fixed-asset-depreciation.md)
 

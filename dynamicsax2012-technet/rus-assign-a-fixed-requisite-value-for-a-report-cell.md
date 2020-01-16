@@ -2,8 +2,9 @@
 title: (RUS) Assign a fixed requisite value for a report cell
 TOCTitle: (RUS) Assign a fixed requisite value for a report cell
 ms:assetid: 4353384c-e6e0-4ebd-95cc-f6ea8b776ef3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923411(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923411(v=AX.60)
 ms:contentKeyID: 52075370
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,11 +57,11 @@ Use the **Field setup** form to create a report cell that has a line type of **F
 
 [(EEUR) Create report cell operations](eeur-create-report-cell-operations.md)
 
-[(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\))
+[(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\))
 
-[(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
+[(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\))
 
-[(RUS) Functions (form)](https://technet.microsoft.com/en-us/library/jj710703\(v=ax.60\))
+[(RUS) Functions (form)](https://technet.microsoft.com/library/jj710703\(v=ax.60\))
 
   
 

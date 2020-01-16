@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductList.DeletedContent Property  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement)
 TOCTitle: DeletedContent Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductList.DeletedContent
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.productlist.deletedcontent(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.productlist.deletedcontent(v=AX.60)
 ms:contentKeyID: 65316909
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property IDictionary<ProductListingKey^, ProductListing^>^ DeletedContent {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[ProductListingKey](productlistingkey-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md), [ProductListing](productlisting-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector-catalogmanagement.md)\>  
+Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[ProductListingKey](productlistingkey-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md), [ProductListing](productlisting-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector-catalogmanagement.md)\>  
 
 ## See Also
 

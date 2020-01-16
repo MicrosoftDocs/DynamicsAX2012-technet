@@ -1,9 +1,10 @@
-﻿---
+---
 title: Request.Validate Method  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: Validate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.Request.Validate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.request.validate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.request.validate(v=AX.60)
 ms:contentKeyID: 65315742
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,7 +43,7 @@ virtual IEnumerable<DataValidationFailure^>^ Validate()
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md)\>  
 
 ## See Also
 

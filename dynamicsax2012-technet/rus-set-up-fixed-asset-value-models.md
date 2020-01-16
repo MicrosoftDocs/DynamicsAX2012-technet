@@ -2,8 +2,9 @@
 title: (RUS) Set up fixed asset value models
 TOCTitle: (RUS) Set up fixed asset value models
 ms:assetid: 536b5ec5-ff98-4c24-ae43-75ef880796d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911379(v=AX.60)
 ms:contentKeyID: 51784209
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,11 +54,11 @@ Use this procedure to set up value models for fixed assets.
 
 11. In the **Transaction type** field, select the type of transaction that the derived model is associated with.
 
-12. Click **Depreciation groups** to define depreciation groups for the value model. For more information, see [(RUS) Depreciation groups (form)](https://technet.microsoft.com/en-us/library/jj678328\(v=ax.60\)).
+12. Click **Depreciation groups** to define depreciation groups for the value model. For more information, see [(RUS) Depreciation groups (form)](https://technet.microsoft.com/library/jj678328\(v=ax.60\)).
 
 ## See also
 
-[(RUS) Value models (modified form)](https://technet.microsoft.com/en-us/library/jj923586\(v=ax.60\))
+[(RUS) Value models (modified form)](https://technet.microsoft.com/library/jj923586\(v=ax.60\))
 
   
 

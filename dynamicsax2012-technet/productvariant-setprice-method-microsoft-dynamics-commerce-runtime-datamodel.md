@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductVariant.SetPrice Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SetPrice Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant.SetPrice(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPrice)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.setprice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.setprice(v=AX.60)
 ms:contentKeyID: 65322553
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Manage VAT transactions in Accounts receivable
 TOCTitle: (RUS) Manage VAT transactions in Accounts receivable
 ms:assetid: 6f68785f-c018-49c1-bcaf-c94e52341f42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678348(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678348(v=AX.60)
 ms:contentKeyID: 49387578
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

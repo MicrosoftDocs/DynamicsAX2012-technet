@@ -2,8 +2,9 @@
 title: (RUS) Update an electronic reporting document
 TOCTitle: (RUS) Update an electronic reporting document
 ms:assetid: 4de79954-bf47-46b9-9160-ca327e13a1b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677523(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677523(v=AX.60)
 ms:contentKeyID: 49384827
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,9 +48,9 @@ Use the **Version** form to update an electronic reporting document after you im
 
 ## See also
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
-[(RUS) Version (form)](https://technet.microsoft.com/en-us/library/jj710759\(v=ax.60\))
+[(RUS) Version (form)](https://technet.microsoft.com/library/jj710759\(v=ax.60\))
 
   
 

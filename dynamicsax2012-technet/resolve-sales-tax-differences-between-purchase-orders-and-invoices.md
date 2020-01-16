@@ -2,8 +2,9 @@
 title: Resolve sales tax differences between purchase orders and invoices
 TOCTitle: Resolve sales tax differences between purchase orders and invoices
 ms:assetid: 8a9bc094-482e-493d-addd-74418aa12693
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292600(v=AX.60)
 ms:contentKeyID: 36655938
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -119,11 +120,11 @@ The sales tax codes for the purchase order and the vendor invoice might differ. 
 
 [Revise the sales tax amount on a transaction before posting](revise-the-sales-tax-amount-on-a-transaction-before-posting.md)
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Temporary sales tax transactions (form)](https://technet.microsoft.com/en-us/library/aa591455\(v=ax.60\))
+[Temporary sales tax transactions (form)](https://technet.microsoft.com/library/aa591455\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

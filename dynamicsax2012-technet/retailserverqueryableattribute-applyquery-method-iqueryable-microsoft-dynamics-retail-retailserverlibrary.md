@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailServerQueryableAttribute.ApplyQuery Method (IQueryable, ) (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: ApplyQuery Method (IQueryable, )
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.RetailServerQueryableAttribute.ApplyQuery(System.Linq.IQueryable,System.Web.Http.OData.Query.ODataQueryOptions)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.retailserverqueryableattribute.applyquery(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.retailserverqueryableattribute.applyquery(v=AX.60)
 ms:contentKeyID: 62202209
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 dev_langs:
@@ -57,7 +58,7 @@ virtual IQueryable^ ApplyQuery(
 #### Parameters
 
   - queryable  
-    Type: [System.Linq.IQueryable](https://technet.microsoft.com/en-us/library/bb495796\(v=ax.60\))  
+    Type: [System.Linq.IQueryable](https://technet.microsoft.com/library/bb495796\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -66,7 +67,7 @@ virtual IQueryable^ ApplyQuery(
 
 #### Return Value
 
-Type: [System.Linq.IQueryable](https://technet.microsoft.com/en-us/library/bb495796\(v=ax.60\))  
+Type: [System.Linq.IQueryable](https://technet.microsoft.com/library/bb495796\(v=ax.60\))  
 Well formed query.  
 
 ## See Also

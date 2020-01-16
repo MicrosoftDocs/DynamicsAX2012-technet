@@ -2,8 +2,9 @@
 title: Project prices report (ProjPriceList)
 TOCTitle: Project prices report (ProjPriceList)
 ms:assetid: 882240d3-7198-42cc-ac79-cd01a3b4f6ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa598065(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa598065(v=AX.60)
 ms:contentKeyID: 37832018
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -149,13 +150,13 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Sales price - Subscription (form)](https://technet.microsoft.com/en-us/library/aa583956\(v=ax.60\))
+[Sales price - Subscription (form)](https://technet.microsoft.com/library/aa583956\(v=ax.60\))
 
-[Sales price - fee (form)](https://technet.microsoft.com/en-us/library/aa575091\(v=ax.60\))
+[Sales price - fee (form)](https://technet.microsoft.com/library/aa575091\(v=ax.60\))
 
-[Sales price - expenses (form)](https://technet.microsoft.com/en-us/library/aa599787\(v=ax.60\))
+[Sales price - expenses (form)](https://technet.microsoft.com/library/aa599787\(v=ax.60\))
 
-[Sales price - hour (form)](https://technet.microsoft.com/en-us/library/aa634053\(v=ax.60\))
+[Sales price - hour (form)](https://technet.microsoft.com/library/aa634053\(v=ax.60\))
 
   
 

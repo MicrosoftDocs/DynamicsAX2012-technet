@@ -2,8 +2,9 @@
 title: (RUS) Create and post a transfer order that has transportation invoice and job ticket details
 TOCTitle: (RUS) Create and post a transfer order that has transportation invoice and job ticket details
 ms:assetid: 2b351001-9efa-4d31-9a38-6196cde1938d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665233(v=AX.60)
 ms:contentKeyID: 49387322
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -58,7 +59,7 @@ Use the following procedure to create and post a transfer order that includes th
 
 ## See also
 
-[Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
+[Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up address information for a party, customer, vendor, worker, or  legal entity
 TOCTitle: (RUS) Set up address information for a party, customer, vendor, worker, or  legal entity
 ms:assetid: 8be84c8a-8758-4d12-9ed7-9e0e1b92e637
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735280(v=AX.60)
 ms:contentKeyID: 49693281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,11 +72,11 @@ In the Russian Federation, regions, states, counties, cities, districts, and str
 
 ## See also
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
   
 

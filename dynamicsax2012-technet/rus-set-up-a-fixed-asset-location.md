@@ -2,8 +2,9 @@
 title: (RUS) Set up a fixed asset location
 TOCTitle: (RUS) Set up a fixed asset location
 ms:assetid: 8002a829-c7b8-43a2-9108-091fbec1ee1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678412(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678412(v=AX.60)
 ms:contentKeyID: 49387642
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ You must define the location of the fixed asset before you acquire the fixed ass
 
 ## See also
 
-[(RUS) FA location (form)](https://technet.microsoft.com/en-us/library/jj733271\(v=ax.60\))
+[(RUS) FA location (form)](https://technet.microsoft.com/library/jj733271\(v=ax.60\))
 
   
 

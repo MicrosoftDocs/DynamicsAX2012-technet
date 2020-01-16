@@ -2,8 +2,9 @@
 title: (RUS) Set up the refund payment method control
 TOCTitle: (RUS) Set up the refund payment method control
 ms:assetid: 863fb5e7-b643-4ffe-9b52-6342474e7670
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn621056(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn621056(v=AX.60)
 ms:contentKeyID: 62200271
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ To perform this task, follow these steps:
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Permission groups**.
 
-2.  Click **New** or press CTRL+N to create a permission group. For more information, see [(RUS) Set up permission groups to regulate the return of sold items](rus-set-up-permission-groups-to-regulate-the-return-of-sold-items.md) and [Permission groups (form)](https://technet.microsoft.com/en-us/library/hh597270\(v=ax.60\)).
+2.  Click **New** or press CTRL+N to create a permission group. For more information, see [(RUS) Set up permission groups to regulate the return of sold items](rus-set-up-permission-groups-to-regulate-the-return-of-sold-items.md) and [Permission groups (form)](https://technet.microsoft.com/library/hh597270\(v=ax.60\)).
 
 3.  On the **Permissions** FastTab, select the **Allow refunds using different methods** check box to allow the return of items using payment methods other than the one that was used in the original transaction.
 

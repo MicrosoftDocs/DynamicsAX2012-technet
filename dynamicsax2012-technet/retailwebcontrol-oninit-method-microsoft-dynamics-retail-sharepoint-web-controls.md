@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailWebControl.OnInit Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: OnInit Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.RetailWebControl.OnInit(System.EventArgs)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.retailwebcontrol.oninit(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.retailwebcontrol.oninit(v=AX.60)
 ms:contentKeyID: 62204238
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # OnInit Method
 
-Raises the [Init](https://technet.microsoft.com/en-us/library/ddx12zse\(v=ax.60\)) event.
+Raises the [Init](https://technet.microsoft.com/library/ddx12zse\(v=ax.60\)) event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Controls (in Microsoft.Dynamics.Retail.SP.Web.Controls.dll)
@@ -50,7 +51,7 @@ virtual void OnInit(
 #### Parameters
 
   - e  
-    Type: [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\))  
+    Type: [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\))  
 
 ## See Also
 

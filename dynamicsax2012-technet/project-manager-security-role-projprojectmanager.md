@@ -2,8 +2,9 @@
 title: Project manager security role (ProjProjectManager)
 TOCTitle: Project manager security role (ProjProjectManager)
 ms:assetid: bc81d5f8-1a14-4798-89e7-7dbfb20254ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527132(v=AX.60)
 ms:contentKeyID: 37823183
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

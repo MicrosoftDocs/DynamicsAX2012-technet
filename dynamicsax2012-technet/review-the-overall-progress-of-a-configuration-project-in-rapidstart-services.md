@@ -2,8 +2,9 @@
 title: Review the overall progress of a configuration project in RapidStart Services
 TOCTitle: Review the overall progress of a configuration project in RapidStart Services
 ms:assetid: d5818601-93c4-42b8-9f3c-5431a5408425
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194011(v=AX.60)
 ms:contentKeyID: 52348260
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

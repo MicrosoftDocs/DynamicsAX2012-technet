@@ -2,8 +2,9 @@
 title: (RUS) Create a ledger journal of tax difference transactions
 TOCTitle: (RUS) Create a ledger journal of tax difference transactions
 ms:assetid: 51bb9b74-3888-4ee5-880d-b78134c2e1fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911378(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911378(v=AX.60)
 ms:contentKeyID: 52075382
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ The following criteria must be met before you can create a journal for tax diffe
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Journal header (modified form)](https://technet.microsoft.com/en-us/library/jj911370\(v=ax.60\))
+[(RUS) Journal header (modified form)](https://technet.microsoft.com/library/jj911370\(v=ax.60\))
 
-[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
+[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj923603\(v=ax.60\))
 
   
 

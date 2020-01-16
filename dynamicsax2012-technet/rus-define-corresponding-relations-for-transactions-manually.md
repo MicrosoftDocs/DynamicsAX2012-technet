@@ -2,8 +2,9 @@
 title: (RUS) Define corresponding relations for transactions manually
 TOCTitle: (RUS) Define corresponding relations for transactions manually
 ms:assetid: bdffab7d-3070-4835-b632-77e736d70c39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711560(v=AX.60)
 ms:contentKeyID: 49387884
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ Use the manual transaction correspondence function to define a relationship betw
 
 ## See also
 
-[(RUS) Manual correspondence (form)](https://technet.microsoft.com/en-us/library/jj733174\(v=ax.60\))
+[(RUS) Manual correspondence (form)](https://technet.microsoft.com/library/jj733174\(v=ax.60\))
 
   
 

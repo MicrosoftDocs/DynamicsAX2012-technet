@@ -2,8 +2,9 @@
 title: (RUS) Process a VAT payable on payment for factures for a free text invoice
 TOCTitle: (RUS) Process a VAT payable on payment for factures for a free text invoice
 ms:assetid: 34b32b24-2330-45e4-a42b-20f61d129435
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665268(v=AX.60)
 ms:contentKeyID: 49387357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

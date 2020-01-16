@@ -2,8 +2,9 @@
 title: (RUS) Manage purchase requisitions and orders
 TOCTitle: (RUS) Manage purchase requisitions and orders
 ms:assetid: 3ae6a289-60db-452b-98a4-46232c3a8dd0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665296(v=AX.60)
 ms:contentKeyID: 49387385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

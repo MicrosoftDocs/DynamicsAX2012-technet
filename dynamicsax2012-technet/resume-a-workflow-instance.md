@@ -2,8 +2,9 @@
 title: Resume a workflow instance
 TOCTitle: Resume a workflow instance
 ms:assetid: afd4bcc9-f3ad-4d4e-9f56-2f6b87b52e3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362040(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362040(v=AX.60)
 ms:contentKeyID: 39508881
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Create an outgoing or incoming payment
 TOCTitle: (RUS) Create an outgoing or incoming payment
 ms:assetid: 63c340e6-60f9-4a63-bc27-0771c275cc35
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665451(v=AX.60)
 ms:contentKeyID: 49387537
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can use electronic exchange file formats to export payments to a client bank, and to import payments and bank account statements from a client bank. Payments include outgoing and incoming payments between Microsoft Dynamics AX and a client bank. When the data exchange files are received from a client bank, you can export outgoing payments to the client bank or import incoming payments to Microsoft Dynamics AX. Use the **Journal voucher** form to create an outgoing or incoming payment. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)) and [Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\)).
+You can use electronic exchange file formats to export payments to a client bank, and to import payments and bank account statements from a client bank. Payments include outgoing and incoming payments between Microsoft Dynamics AX and a client bank. When the data exchange files are received from a client bank, you can export outgoing payments to the client bank or import incoming payments to Microsoft Dynamics AX. Use the **Journal voucher** form to create an outgoing or incoming payment. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)) and [Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Journals** \> **Payments** \> **Payment journal**.
     
@@ -50,7 +51,7 @@ You can use electronic exchange file formats to export payments to a client bank
 
 ## See also
 
-[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj733511\(v=ax.60\))
+[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj733511\(v=ax.60\))
 
 [(RUS) Export a payment or cancel a payment exported to a client bank](rus-export-a-payment-or-cancel-a-payment-exported-to-a-client-bank.md)
 

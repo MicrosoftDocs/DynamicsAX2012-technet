@@ -2,8 +2,9 @@
 title: (RUS) Setting up goods flow registers
 TOCTitle: (RUS) Setting up goods flow registers
 ms:assetid: 6cdd2e3b-f055-456e-b215-50f623999553
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839673(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839673(v=AX.60)
 ms:contentKeyID: 50396819
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

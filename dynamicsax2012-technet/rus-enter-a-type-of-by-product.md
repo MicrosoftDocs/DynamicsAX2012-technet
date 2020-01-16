@@ -2,8 +2,9 @@
 title: (RUS) Enter a type of by-product
 TOCTitle: (RUS) Enter a type of by-product
 ms:assetid: 0a389e30-50ec-4321-a573-973aa46eb7e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711376(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711376(v=AX.60)
 ms:contentKeyID: 49387194
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Use the **Kinds of by-product** form to enter a type of by-product. You also spe
 
 ## See also
 
-[(RUS) Kinds of by-product (form)](https://technet.microsoft.com/en-us/library/jj711686\(v=ax.60\))
+[(RUS) Kinds of by-product (form)](https://technet.microsoft.com/library/jj711686\(v=ax.60\))
 
   
 

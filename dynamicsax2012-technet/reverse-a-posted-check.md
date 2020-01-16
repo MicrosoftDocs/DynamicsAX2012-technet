@@ -2,8 +2,9 @@
 title: Reverse a posted check
 TOCTitle: Reverse a posted check
 ms:assetid: e3727e47-80cf-493a-add4-4c5d8e912ea6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243217(v=AX.60)
 ms:contentKeyID: 36059722
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -148,9 +149,9 @@ If the check that was reversed was issued for a customer payment, the following 
 
 ## See also
 
-[Check reversals lines (form)](https://technet.microsoft.com/en-us/library/hh209241\(v=ax.60\))
+[Check reversals lines (form)](https://technet.microsoft.com/library/hh209241\(v=ax.60\))
 
-[Payment reversals (form)](https://technet.microsoft.com/en-us/library/hh208702\(v=ax.60\))
+[Payment reversals (form)](https://technet.microsoft.com/library/hh208702\(v=ax.60\))
 
 [Delete a check](delete-a-check.md)
 

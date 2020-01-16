@@ -2,8 +2,9 @@
 title: (RUS) Set up dynamic sections for electronic reporting
 TOCTitle: (RUS) Set up dynamic sections for electronic reporting
 ms:assetid: 03dd6e59-4f02-4fc6-b8bb-84d80f8ea369
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664159(v=AX.60)
 ms:contentKeyID: 49384741
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -84,9 +85,9 @@ You must set up a parent section before you can set up a child dynamic section f
 
 ## See also
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 

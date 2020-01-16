@@ -2,8 +2,9 @@
 title: (RUS) Working with Fixed assets
 TOCTitle: (RUS) Working with Fixed assets
 ms:assetid: dba34650-09ae-448c-9c4b-22fe51afccfa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711682(v=AX.60)
 ms:contentKeyID: 49388005
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

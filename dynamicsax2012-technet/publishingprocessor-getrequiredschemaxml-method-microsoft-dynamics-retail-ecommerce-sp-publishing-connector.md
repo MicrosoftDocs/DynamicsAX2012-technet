@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingProcessor.GetRequiredSchemaXml Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: GetRequiredSchemaXml Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.GetRequiredSchemaXml
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.getrequiredschemaxml(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.getrequiredschemaxml(v=AX.60)
 ms:contentKeyID: 65317719
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

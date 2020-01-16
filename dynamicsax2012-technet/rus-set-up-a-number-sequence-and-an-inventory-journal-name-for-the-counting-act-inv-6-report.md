@@ -2,8 +2,9 @@
 title: (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report
 TOCTitle: (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report
 ms:assetid: a5783822-9b27-4662-abdb-cbe7bafb3775
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678566(v=AX.60)
 ms:contentKeyID: 49387794
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,9 +16,9 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use this procedure to set up a number sequence and an inventory journal name for the Counting act INV-6 report. You can use the **Inventory and warehouse management parameters** form to set up a number sequence for the Counting act INV-6 report. For more information, see [(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\)).
+Use this procedure to set up a number sequence and an inventory journal name for the Counting act INV-6 report. You can use the **Inventory and warehouse management parameters** form to set up a number sequence for the Counting act INV-6 report. For more information, see [(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\)).
 
-You can use the **Journal names, inventory** form to create a new inventory journal name and to set up the Counting act INV-6 report for the inventory journal name. For more information, see [Journal names, Inventory (form)](https://technet.microsoft.com/en-us/library/aa552692\(v=ax.60\)).
+You can use the **Journal names, inventory** form to create a new inventory journal name and to set up the Counting act INV-6 report for the inventory journal name. For more information, see [Journal names, Inventory (form)](https://technet.microsoft.com/library/aa552692\(v=ax.60\)).
 
 1.  Click **Inventory management** \> **Setup** \> **Inventory and warehouse management parameters**.
 
@@ -47,7 +48,7 @@ You can use the **Journal names, inventory** form to create a new inventory jour
 
 [(RUS) Set up an inventory profile for a transferable item](rus-set-up-an-inventory-profile-for-a-transferable-item.md)
 
-[(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\))
+[(RUS) Inventory profiles (form)](https://technet.microsoft.com/library/jj733188\(v=ax.60\))
 
   
 

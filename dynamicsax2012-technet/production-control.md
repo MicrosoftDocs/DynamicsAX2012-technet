@@ -2,8 +2,9 @@
 title: Production control
 TOCTitle: Production control
 ms:assetid: 30324175-7d56-4845-b422-1b34a60eda7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208549(v=AX.60)
 ms:contentKeyID: 36056308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,23 +71,23 @@ You can register production feedback by using manufacturing execution.
 <tbody>
 <tr class="odd">
 <td><p><a href="set-up-production-control-parameters.md">Set up production control parameters</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa498700(v=ax.60)">Production control parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa498700(v=ax.60)">Production control parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="run-job-scheduling.md">Run job scheduling</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584348(v=ax.60)">Production - Job scheduling (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584348(v=ax.60)">Production - Job scheduling (class form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="release-production-orders.md">Release production orders</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617966(v=ax.60)">Production orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617966(v=ax.60)">Production orders (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="report-production-orders-as-finished.md">Report production orders as finished</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600184(v=ax.60)">Production - Report as finished (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600184(v=ax.60)">Production - Report as finished (class form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="run-end-production.md">Run end production</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582905(v=ax.60)">Production - End (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582905(v=ax.60)">Production - End (class form)</a></p></td>
 </tr>
 </tbody>
 </table>

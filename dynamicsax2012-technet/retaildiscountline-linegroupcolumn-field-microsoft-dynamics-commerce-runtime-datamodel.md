@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailDiscountLine.LineGroupColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: LineGroupColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailDiscountLine.LineGroupColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.retaildiscountline.linegroupcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retaildiscountline.linegroupcolumn(v=AX.60)
 ms:contentKeyID: 62212539
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

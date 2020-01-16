@@ -2,8 +2,9 @@
 title: Sales analysis report (SalesAnalysis)
 TOCTitle: Sales analysis report (SalesAnalysis)
 ms:assetid: d1bff7b4-393c-4841-8322-f6726a6a475c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh394886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh394886(v=AX.60)
 ms:contentKeyID: 36916369
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

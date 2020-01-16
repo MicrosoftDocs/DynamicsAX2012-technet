@@ -2,8 +2,9 @@
 title: (RUS) Setting up Accounts payable registers
 TOCTitle: (RUS) Setting up Accounts payable registers
 ms:assetid: b94fd1eb-7c81-48a5-9d3f-6c9bde27a395
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711551(v=AX.60)
 ms:contentKeyID: 49387875
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

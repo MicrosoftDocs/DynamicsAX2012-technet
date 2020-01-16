@@ -2,8 +2,9 @@
 title: (RUS) Retrieve, enter, and validate orders
 TOCTitle: (RUS) Retrieve, enter, and validate orders
 ms:assetid: b0e19f2b-148d-4530-bf36-af8ddeeceeed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711524(v=AX.60)
 ms:contentKeyID: 49387849
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

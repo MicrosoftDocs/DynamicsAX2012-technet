@@ -2,8 +2,9 @@
 title: (RUS) Setting up tax on fixed assets
 TOCTitle: (RUS) Setting up tax on fixed assets
 ms:assetid: 97c5a9c8-247d-4cfb-abb8-58d192d58a60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678504(v=AX.60)
 ms:contentKeyID: 49387733
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

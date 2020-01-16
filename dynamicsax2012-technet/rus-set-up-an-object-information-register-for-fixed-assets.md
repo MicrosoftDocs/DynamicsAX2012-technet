@@ -2,8 +2,9 @@
 title: (RUS) Set up an object information register for fixed assets
 TOCTitle: (RUS) Set up an object information register for fixed assets
 ms:assetid: 2acd9f2d-1c50-4626-992f-05eaafaf950b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665228(v=AX.60)
 ms:contentKeyID: 49387317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,9 +62,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Expense code setup (form)](https://technet.microsoft.com/en-us/library/jj839690\(v=ax.60\))
+[(RUS) Expense code setup (form)](https://technet.microsoft.com/library/jj839690\(v=ax.60\))
 
   
 

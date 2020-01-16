@@ -2,8 +2,9 @@
 title: (RUS) VAT operation types for export transactions
 TOCTitle: (RUS) VAT operation types for export transactions
 ms:assetid: 81b10659-c750-420a-b795-8b77bd891234
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678422(v=AX.60)
 ms:contentKeyID: 49387651
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

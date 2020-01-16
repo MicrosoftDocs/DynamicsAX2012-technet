@@ -2,8 +2,9 @@
 title: (RUS) Inventory overview
 TOCTitle: (RUS) Inventory overview
 ms:assetid: d306c04e-87ce-4582-8bda-775de10f89c2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711636(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711636(v=AX.60)
 ms:contentKeyID: 49387960
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Project I license code (Project1)
 TOCTitle: Project I license code (Project1)
 ms:assetid: 7feb96ac-269a-44dc-8b09-6af49b1f8a37
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580490(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580490(v=AX.60)
 ms:contentKeyID: 39518961
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -57,7 +58,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

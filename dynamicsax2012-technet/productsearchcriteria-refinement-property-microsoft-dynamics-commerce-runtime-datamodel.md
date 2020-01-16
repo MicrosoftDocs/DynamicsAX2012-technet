@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductSearchCriteria.Refinement Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Refinement Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria.Refinement
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productsearchcriteria.refinement(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productsearchcriteria.refinement(v=AX.60)
 ms:contentKeyID: 62210128
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property IList<ProductRefinerValue^>^ Refinement {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[ProductRefinerValue](productrefinervalue-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [IList\<T\>](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\)).  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[ProductRefinerValue](productrefinervalue-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [IList\<T\>](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\)).  
 
 ## See Also
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReportDataSet.OnDeserializing Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: OnDeserializing Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReportDataSet.OnDeserializing(System.Runtime.Serialization.StreamingContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reportdataset.ondeserializing(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reportdataset.ondeserializing(v=AX.60)
 ms:contentKeyID: 65319744
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ void OnDeserializing(
 #### Parameters
 
   - context  
-    Type: [System.Runtime.Serialization.StreamingContext](https://technet.microsoft.com/en-us/library/t16abws5\(v=ax.60\))  
+    Type: [System.Runtime.Serialization.StreamingContext](https://technet.microsoft.com/library/t16abws5\(v=ax.60\))  
 
 ## See Also
 

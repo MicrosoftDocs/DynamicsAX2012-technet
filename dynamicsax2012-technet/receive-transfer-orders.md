@@ -2,8 +2,9 @@
 title: Receive transfer orders
 TOCTitle: Receive transfer orders
 ms:assetid: 762c568b-cc0e-409a-9237-875173e4be55
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550034(v=AX.60)
 ms:contentKeyID: 36931874
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

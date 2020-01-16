@@ -2,8 +2,9 @@
 title: Sales orders overview
 TOCTitle: Sales orders overview
 ms:assetid: ed199d93-bc2b-4dd9-b64a-3e96c109d245
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551537(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551537(v=AX.60)
 ms:contentKeyID: 36059900
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

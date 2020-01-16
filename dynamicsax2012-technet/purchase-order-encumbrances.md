@@ -2,8 +2,9 @@
 title: Purchase order encumbrances
 TOCTitle: Purchase order encumbrances
 ms:assetid: ce933361-bdf1-4cd8-be71-1b903bdc1758
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242910(v=AX.60)
 ms:contentKeyID: 36059470
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

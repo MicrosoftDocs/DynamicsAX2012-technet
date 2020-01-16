@@ -2,8 +2,9 @@
 title: Receiving products
 TOCTitle: Receiving products
 ms:assetid: b5cb41c8-8e85-4957-8489-8afe420ccff8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232426(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232426(v=AX.60)
 ms:contentKeyID: 36059083
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

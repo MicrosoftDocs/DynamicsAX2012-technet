@@ -2,8 +2,9 @@
 title: (RUS) Create, verify, and print a corrective or revised facture
 TOCTitle: (RUS) Create, verify, and print a corrective or revised facture
 ms:assetid: c40dddc1-3316-496b-acfc-b7483b45f76a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923587(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923587(v=AX.60)
 ms:contentKeyID: 52075430
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Use the following procedures to create, verify, and print a corrective or revise
 
 ## Create a corrective or revised facture for a purchase order
 
-1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**. Double-click a purchase order. To create a new purchase order, on the **Action Pane**, on the **Purchase order** tab, in the **New** group, click **Purchase order**. For more information, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)).
+1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**. Double-click a purchase order. To create a new purchase order, on the **Action Pane**, on the **Purchase order** tab, in the **New** group, click **Purchase order**. For more information, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)).
 
 2.  On the **Invoice** tab, click **Facture** to open the **Update facture** form.
 
@@ -53,7 +54,7 @@ Use the following procedures to create, verify, and print a corrective or revise
 
 ## Create a corrective or revised facture for a sales order
 
-1.  Click **Accounts receivable** \> **Common** \> **Sales orders** \> **All sales orders**. To open an existing sales order, double-click the sales order. To create a new sales order, on the **Action Pane**, on the **Sales order** tab, click **Sales order**. For more information, see [Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\)).
+1.  Click **Accounts receivable** \> **Common** \> **Sales orders** \> **All sales orders**. To open an existing sales order, double-click the sales order. To create a new sales order, on the **Action Pane**, on the **Sales order** tab, click **Sales order**. For more information, see [Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\)).
 
 2.  Click **Invoice**, and then click **Facture** to open the **Update facture** form.
 
@@ -141,7 +142,7 @@ Use the following procedures to create, verify, and print a corrective or revise
 
 ## See also
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
 [(RUS) Set up parameters to create corrective and revised factures](rus-set-up-parameters-to-create-corrective-and-revised-factures.md)
 

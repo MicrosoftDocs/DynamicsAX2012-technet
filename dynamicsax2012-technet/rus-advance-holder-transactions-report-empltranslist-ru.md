@@ -2,8 +2,9 @@
 title: (RUS) Advance holder transactions report (EmplTransList_RU)
 TOCTitle: (RUS) Advance holder transactions report (EmplTransList_RU)
 ms:assetid: d646f8e4-9c91-4ec1-aa9b-8277dd885671
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945855(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945855(v=AX.60)
 ms:contentKeyID: 51543175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -115,9 +116,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(EEUR) Balance (form)](https://technet.microsoft.com/en-us/library/jj910984\(v=ax.60\))
+[(EEUR) Balance (form)](https://technet.microsoft.com/library/jj910984\(v=ax.60\))
 
-[(RUS) Advance holder transactions (form)](https://technet.microsoft.com/en-us/library/jj733234\(v=ax.60\))
+[(RUS) Advance holder transactions (form)](https://technet.microsoft.com/library/jj733234\(v=ax.60\))
 
   
 

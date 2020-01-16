@@ -2,8 +2,9 @@
 title: Register item receipts with an item arrival journal
 TOCTitle: Register item receipts with an item arrival journal
 ms:assetid: 625347b5-95b8-4e2f-924c-53dc4a288c04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571129(v=AX.60)
 ms:contentKeyID: 36057669
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,11 +25,11 @@ This topic applies to features in the **Inventory management** module. It does n
 
 You can register receipt of items in two ways: manually or using input transports.
 
-To register items manually, use the **Registration** form. For more information, see [Inventory registration (form)](https://technet.microsoft.com/en-us/library/aa615731\(v=ax.60\)).
+To register items manually, use the **Registration** form. For more information, see [Inventory registration (form)](https://technet.microsoft.com/library/aa615731\(v=ax.60\)).
 
 To create input transports automatically, use item arrival journals. An item arrival journal can be created as part of arrival management using the **Arrival overview** form or manually from the **Location journal** form.
 
-For more information, see [Arrival overview (form)](https://technet.microsoft.com/en-us/library/hh227654\(v=ax.60\)) and [Location journal (form)](https://technet.microsoft.com/en-us/library/aa584822\(v=ax.60\)).
+For more information, see [Arrival overview (form)](https://technet.microsoft.com/library/hh227654\(v=ax.60\)) and [Location journal (form)](https://technet.microsoft.com/library/aa584822\(v=ax.60\)).
 
 ## Item arrival through item arrival journal
 

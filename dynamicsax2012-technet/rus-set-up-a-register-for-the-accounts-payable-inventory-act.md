@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for the accounts payable inventory act
 TOCTitle: (RUS) Set up a register for the accounts payable inventory act
 ms:assetid: e8d62bf4-e7e0-4a52-8a14-970b475679aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711732(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711732(v=AX.60)
 ms:contentKeyID: 49388055
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,9 +62,9 @@ The register entries reflect all of the taxpayer's accounts payable transactions
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Debt interval (form)](https://technet.microsoft.com/en-us/library/jj853236\(v=ax.60\))
+[(RUS) Debt interval (form)](https://technet.microsoft.com/library/jj853236\(v=ax.60\))
 
 [(RUS) Calculate the accounts payable movement register](rus-calculate-the-accounts-payable-movement-register.md)
 

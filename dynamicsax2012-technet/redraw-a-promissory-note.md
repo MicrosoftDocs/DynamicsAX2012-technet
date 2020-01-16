@@ -2,8 +2,9 @@
 title: Redraw a promissory note
 TOCTitle: Redraw a promissory note
 ms:assetid: d271c356-9af6-4d29-b459-b249bdd71559
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551040(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551040(v=AX.60)
 ms:contentKeyID: 36966741
+author: Khairunj
 ms.date: 06/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -50,7 +51,7 @@ You can use the **Redraw promissory note journal** form to redraw a promissory n
     
 
     > [!NOTE]
-    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -60,9 +61,9 @@ You can use the **Redraw promissory note journal** form to redraw a promissory n
 
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Promissory note statistics (form)](https://technet.microsoft.com/en-us/library/aa550186\(v=ax.60\))
+[Promissory note statistics (form)](https://technet.microsoft.com/library/aa550186\(v=ax.60\))
 
 [About payment types](about-payment-types.md)
 

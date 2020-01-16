@@ -2,8 +2,9 @@
 title: Project timesheet user security role (ProjTimesheetUser)
 TOCTitle: Project timesheet user security role (ProjTimesheetUser)
 ms:assetid: 73c31f86-46f7-4e67-aa79-009c47eba08d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527102(v=AX.60)
 ms:contentKeyID: 37823154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

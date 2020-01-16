@@ -2,8 +2,9 @@
 title: (RUS) About NVFAs, working clothes, and special rigging accounting
 TOCTitle: (RUS) About NVFAs, working clothes, and special rigging accounting
 ms:assetid: 153f7a97-f807-4a9f-a246-0b07efa43ab8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853158(v=AX.60)
 ms:contentKeyID: 50396438
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

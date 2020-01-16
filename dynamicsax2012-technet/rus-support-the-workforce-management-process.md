@@ -2,8 +2,9 @@
 title: (RUS) Support the workforce management process
 TOCTitle: (RUS) Support the workforce management process
 ms:assetid: e699ac0d-728b-4e20-b785-d004911883cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn502639(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn502639(v=AX.60)
 ms:contentKeyID: 59361494
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Methods (MorphX Reporting Tools)
 TOCTitle: Report Methods
 ms:assetid: ae286ec1-a332-4f1c-86bc-25368207a9e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa854897(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa854897(v=AX.60)
 ms:contentKeyID: 35290319
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

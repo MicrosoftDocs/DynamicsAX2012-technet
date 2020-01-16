@@ -1,9 +1,10 @@
-﻿---
+---
 title: RefinerType Enumeration (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: RefinerType Enumeration
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.RefinerType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.refinertype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.refinertype(v=AX.60)
 ms:contentKeyID: 65321440
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

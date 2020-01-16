@@ -2,8 +2,9 @@
 title: (RUS) Settle a sales transaction manually
 TOCTitle: (RUS) Settle a sales transaction manually
 ms:assetid: 3a4b3690-20ac-49e6-81ae-99b5674e446a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665295(v=AX.60)
 ms:contentKeyID: 49387384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

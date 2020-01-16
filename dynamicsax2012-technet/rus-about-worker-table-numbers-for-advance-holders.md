@@ -2,8 +2,9 @@
 title: (RUS) About worker table numbers for advance holders
 TOCTitle: (RUS) About worker table numbers for advance holders
 ms:assetid: 355f9943-f1cc-4aa2-8732-b3b06bbc26df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839659(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839659(v=AX.60)
 ms:contentKeyID: 50396806
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,11 +26,11 @@ Transactions for these workers can be posted by using advance holder accounts. T
 
 ## See also
 
-[(RUS) Advance holders (form)](https://technet.microsoft.com/en-us/library/jj665294\(v=ax.60\))
+[(RUS) Advance holders (form)](https://technet.microsoft.com/library/jj665294\(v=ax.60\))
 
-[(RUS) Create new worker (modified form)](https://technet.microsoft.com/en-us/library/jj733249\(v=ax.60\))
+[(RUS) Create new worker (modified form)](https://technet.microsoft.com/library/jj733249\(v=ax.60\))
 
-[(RUS) Transaction settlements (form)](https://technet.microsoft.com/en-us/library/jj711614\(v=ax.60\))
+[(RUS) Transaction settlements (form)](https://technet.microsoft.com/library/jj711614\(v=ax.60\))
 
   
 

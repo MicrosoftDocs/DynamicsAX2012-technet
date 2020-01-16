@@ -2,8 +2,9 @@
 title: Reset vendor batch details
 TOCTitle: Reset vendor batch details
 ms:assetid: 3072e4e5-7f08-4d0e-9d29-5d14e84eb204
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208553(v=AX.60)
 ms:contentKeyID: 36056312
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,9 +30,9 @@ Use this procedure to reset vendor-specific details for an inventory batch.
 
 ## See also
 
-[(PM) Batches (form)](https://technet.microsoft.com/en-us/library/hh209252\(v=ax.60\))
+[(PM) Batches (form)](https://technet.microsoft.com/library/hh209252\(v=ax.60\))
 
-[Reset vendor batch details (form)](https://technet.microsoft.com/en-us/library/hh328605\(v=ax.60\))
+[Reset vendor batch details (form)](https://technet.microsoft.com/library/hh328605\(v=ax.60\))
 
   
 

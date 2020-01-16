@@ -2,8 +2,9 @@
 title: (RUS) Set up budget revenue codes for fixed asset taxes
 TOCTitle: (RUS) Set up budget revenue codes for fixed asset taxes
 ms:assetid: 23b9091b-41e2-4917-b8ab-1bca394d21b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711473(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711473(v=AX.60)
 ms:contentKeyID: 49387289
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Budget revenue classification (form)](https://technet.microsoft.com/en-us/library/jj665363\(v=ax.60\))
+[(RUS) Budget revenue classification (form)](https://technet.microsoft.com/library/jj665363\(v=ax.60\))
 
   
 

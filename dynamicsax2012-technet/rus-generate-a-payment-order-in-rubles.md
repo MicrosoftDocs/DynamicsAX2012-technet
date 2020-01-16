@@ -2,8 +2,9 @@
 title: (RUS) Generate a payment order in rubles
 TOCTitle: (RUS) Generate a payment order in rubles
 ms:assetid: 01e8e5b6-4079-4cd5-b6ad-12db3cb93d74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711346(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711346(v=AX.60)
 ms:contentKeyID: 49387164
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -122,9 +123,9 @@ Generated payment orders are available in the **Registry of payment orders** for
 
 ## See also
 
-[(RUS) Methods of payment (modified form)](https://technet.microsoft.com/en-us/library/jj665379\(v=ax.60\))
+[(RUS) Methods of payment (modified form)](https://technet.microsoft.com/library/jj665379\(v=ax.60\))
 
-[(RUS) Registry of payment orders (form)](https://technet.microsoft.com/en-us/library/jj711545\(v=ax.60\))
+[(RUS) Registry of payment orders (form)](https://technet.microsoft.com/library/jj711545\(v=ax.60\))
 
   
 

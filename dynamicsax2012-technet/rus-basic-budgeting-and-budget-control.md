@@ -2,8 +2,9 @@
 title: (RUS) Basic budgeting and budget control
 TOCTitle: (RUS) Basic budgeting and budget control
 ms:assetid: dfa26032-7604-4130-baf5-dfc1c37ca5a9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711689(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711689(v=AX.60)
 ms:contentKeyID: 49388012
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

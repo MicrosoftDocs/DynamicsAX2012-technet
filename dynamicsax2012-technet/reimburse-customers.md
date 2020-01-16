@@ -2,8 +2,9 @@
 title: Reimburse customers
 TOCTitle: Reimburse customers
 ms:assetid: c05a5881-84f4-4227-8a41-7c6b9bbd4206
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498997(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498997(v=AX.60)
 ms:contentKeyID: 36059262
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -76,11 +77,11 @@ In Accounts payable, create a payment for the vendor invoices that were created 
 
 ## See also
 
-[Collections (form)](https://technet.microsoft.com/en-us/library/hh209726\(v=ax.60\))
+[Collections (form)](https://technet.microsoft.com/library/hh209726\(v=ax.60\))
 
-[Reimbursement (class form)](https://technet.microsoft.com/en-us/library/aa553712\(v=ax.60\))
+[Reimbursement (class form)](https://technet.microsoft.com/library/aa553712\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
   
 

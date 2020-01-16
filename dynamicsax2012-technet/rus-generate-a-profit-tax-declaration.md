@@ -2,8 +2,9 @@
 title: (RUS) Generate a profit tax declaration
 TOCTitle: (RUS) Generate a profit tax declaration
 ms:assetid: 44b884cb-7f51-4f11-9255-18f0baae88cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665328(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665328(v=AX.60)
 ms:contentKeyID: 49387417
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

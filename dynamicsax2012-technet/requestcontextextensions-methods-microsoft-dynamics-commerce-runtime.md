@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestContextExtensions Methods (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: RequestContextExtensions Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.RequestContextExtensions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requestcontextextensions_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontextextensions_methods(v=AX.60)
 ms:contentKeyID: 65322835
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -26,7 +27,7 @@ The [RequestContextExtensions](requestcontextextensions-class-microsoft-dynamics
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
 <td><a href="requestcontextextensions-convertdatetimetochanneldate-method-microsoft-dynamics-commerce-runtime.md">ConvertDateTimeToChannelDate</a></td>
-<td>Gets a <a href="https://technet.microsoft.com/en-us/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).</td>
+<td>Gets a <a href="https://technet.microsoft.com/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
@@ -61,7 +62,7 @@ The [RequestContextExtensions](requestcontextextensions-class-microsoft-dynamics
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
 <td><a href="requestcontextextensions-getnowinchanneltimezone-method-microsoft-dynamics-commerce-runtime.md">GetNowInChannelTimeZone</a></td>
-<td>Gets a <a href="https://technet.microsoft.com/en-us/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).</td>
+<td>Gets a <a href="https://technet.microsoft.com/library/bb341783(v=ax.60)">DateTimeOffset</a> object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>

@@ -2,8 +2,9 @@
 title: (RUS) Calculate registers
 TOCTitle: (RUS) Calculate registers
 ms:assetid: eedba38f-fb1c-4f38-b38b-58cf64025947
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678588(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678588(v=AX.60)
 ms:contentKeyID: 49388070
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -81,11 +82,11 @@ Before you can calculate the **Calculation of constant tax differences** registe
 
 ## See also
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

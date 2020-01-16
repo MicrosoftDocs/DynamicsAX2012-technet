@@ -2,8 +2,9 @@
 title: (RUS) Calculate the intangible asset depreciation register
 TOCTitle: (RUS) Calculate the intangible asset depreciation register
 ms:assetid: 7ca690ed-74d1-4966-9f5d-0fdc80bb5c31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678391(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678391(v=AX.60)
 ms:contentKeyID: 49387620
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

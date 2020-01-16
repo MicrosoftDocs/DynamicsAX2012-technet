@@ -2,8 +2,9 @@
 title: (RUS) Manual depreciation
 TOCTitle: (RUS) Manual depreciation
 ms:assetid: a63b11a8-51e8-492a-a96a-cb79f70ed51e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678576(v=AX.60)
 ms:contentKeyID: 49387803
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ This method is based on a manual definition of the depreciation percentage level
 
 ## See also
 
-[(RUS) Depreciation methods (form)](https://technet.microsoft.com/en-us/library/jj856184\(v=ax.60\))
+[(RUS) Depreciation methods (form)](https://technet.microsoft.com/library/jj856184\(v=ax.60\))
 
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 

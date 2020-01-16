@@ -2,8 +2,9 @@
 title: (RUS) Set up VAT deduction parameters for deferrals
 TOCTitle: (RUS) Set up VAT deduction parameters for deferrals
 ms:assetid: 65e0d79e-3782-49ff-8b86-334e593a61a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665459(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665459(v=AX.60)
 ms:contentKeyID: 49387546
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,17 +22,17 @@ VAT deductions are calculated in proportion to deferral amounts that have been w
 
 Before you set up VAT deduction parameters for deferrals, and to process incoming VAT for deferral amounts, complete the following tasks:
 
-  - Set up sales tax settlement periods and sales tax codes. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+  - Set up sales tax settlement periods and sales tax codes. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
-  - Set up the sales tax groups and item sales tax groups. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)) and [Item sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa615960\(v=ax.60\)).
+  - Set up the sales tax groups and item sales tax groups. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)) and [Item sales tax groups (form)](https://technet.microsoft.com/library/aa615960\(v=ax.60\)).
 
   - Set up the expense and income codes.
 
 You must also complete the following tasks to calculate VAT deduction for deferrals:
 
-  - Set up writing off methods and posting profiles for deferrals. For more information, see [(RUS) Writing off methods (form)](https://technet.microsoft.com/en-us/library/jj711659\(v=ax.60\)) and [(RUS) Deferrals posting profiles (form)](https://technet.microsoft.com/en-us/library/jj665468\(v=ax.60\)).
+  - Set up writing off methods and posting profiles for deferrals. For more information, see [(RUS) Writing off methods (form)](https://technet.microsoft.com/library/jj711659\(v=ax.60\)) and [(RUS) Deferrals posting profiles (form)](https://technet.microsoft.com/library/jj665468\(v=ax.60\)).
 
-  - Create deferral models and specify write-off method details. For more information, see [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\)).
+  - Create deferral models and specify write-off method details. For more information, see [(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\)).
 
   - Generate a deferrals write-off ratio. For more information, see [(RUS) Generate a deferrals write-off ratio](rus-generate-a-deferrals-write-off-ratio.md).
 
@@ -43,7 +44,7 @@ You must also complete the following tasks to calculate VAT deduction for deferr
 
 ## Set up accounts payable parameters for deferrals
 
-Use the **Accounts payable parameters** form to set up the grouping parameter for deferrals. For more information, see [Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\)).
+Use the **Accounts payable parameters** form to set up the grouping parameter for deferrals. For more information, see [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Setup** \> **Accounts payable parameters**.
 
@@ -75,7 +76,7 @@ Use the **General ledger parameters** form to specify the VAT deduction method f
 
 ## Set up a deferrals group
 
-Use the **Deferrals groups** form to create groups for deferrals and specify the VAT deduction method for each group. Before creating a deferrals group, you must create write-off methods and deferrals models. For more information, see [(RUS) Writing off methods (form)](https://technet.microsoft.com/en-us/library/jj711659\(v=ax.60\)) and [(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\)).
+Use the **Deferrals groups** form to create groups for deferrals and specify the VAT deduction method for each group. Before creating a deferrals group, you must create write-off methods and deferrals models. For more information, see [(RUS) Writing off methods (form)](https://technet.microsoft.com/library/jj711659\(v=ax.60\)) and [(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Deferrals** \> **Deferrals groups**.
 

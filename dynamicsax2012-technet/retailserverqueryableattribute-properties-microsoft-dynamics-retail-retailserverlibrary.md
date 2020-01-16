@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailServerQueryableAttribute Properties (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: RetailServerQueryableAttribute Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.RetailServerLibrary.RetailServerQueryableAttribute
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.retailserverqueryableattribute_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.retailserverqueryableattribute_properties(v=AX.60)
 ms:contentKeyID: 62202237
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---
@@ -100,8 +101,8 @@ The [RetailServerQueryableAttribute](retailserverqueryableattribute-class-micros
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/sa1bf03e(v=ax.60)">TypeId</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e8kc3626(v=ax.60)">Attribute</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/sa1bf03e(v=ax.60)">TypeId</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e8kc3626(v=ax.60)">Attribute</a>.)</td>
 </tr>
 </tbody>
 </table>

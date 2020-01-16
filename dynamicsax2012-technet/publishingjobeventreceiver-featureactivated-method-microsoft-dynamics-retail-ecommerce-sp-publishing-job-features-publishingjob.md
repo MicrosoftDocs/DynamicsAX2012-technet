@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingJobEventReceiver.FeatureActivated Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.Features.PublishingJob)
 TOCTitle: FeatureActivated Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.Features.PublishingJob.PublishingJobEventReceiver.FeatureActivated(Microsoft.SharePoint.SPFeatureReceiverProperties)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.job.features.publishingjob.publishingjobeventreceiver.featureactivated(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.job.features.publishingjob.publishingjobeventreceiver.featureactivated(v=AX.60)
 ms:contentKeyID: 65318170
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

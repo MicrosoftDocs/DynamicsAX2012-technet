@@ -2,8 +2,9 @@
 title: Resolve invoice totals invoice matching discrepancies
 TOCTitle: Resolve invoice totals invoice matching discrepancies
 ms:assetid: 812b85c2-b2b9-462f-a16a-5bb699ab840f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292599(v=AX.60)
 ms:contentKeyID: 36655936
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,11 +68,11 @@ After you have identified the discrepancy, you might have to contact the vendor 
 
 [Record the receipt of vendor invoices and match against received quantities](record-the-receipt-of-vendor-invoices-and-match-against-received-quantities.md)
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Invoice totals matching details (form)](https://technet.microsoft.com/en-us/library/hh209476\(v=ax.60\))
+[Invoice totals matching details (form)](https://technet.microsoft.com/library/hh209476\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

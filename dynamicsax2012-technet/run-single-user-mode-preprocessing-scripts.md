@@ -2,8 +2,9 @@
 title: Run single-user mode preprocessing scripts
 TOCTitle: Run single-user mode preprocessing scripts
 ms:assetid: 70619580-7926-45af-92c9-d91bd3c26b6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731829(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731829(v=AX.60)
 ms:contentKeyID: 35132678
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ Complete the following steps to run the single-user mode preprocessing scripts a
 
 ## See also
 
-[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/en-us/library/hh202100\(v=ax.60\))
+[Upgrade preprocessing scripts (form)](https://technet.microsoft.com/library/hh202100\(v=ax.60\))
 
   
 

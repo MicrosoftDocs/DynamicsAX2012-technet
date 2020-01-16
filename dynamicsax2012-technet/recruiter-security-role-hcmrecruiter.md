@@ -2,8 +2,9 @@
 title: Recruiter security role (HcmRecruiter)
 TOCTitle: Recruiter security role (HcmRecruiter)
 ms:assetid: d09d6e24-aad7-4677-b6f0-1a310dd04707
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527137(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527137(v=AX.60)
 ms:contentKeyID: 37823188
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

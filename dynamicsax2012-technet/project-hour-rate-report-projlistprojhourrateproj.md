@@ -2,8 +2,9 @@
 title: Project hour rate report (ProjListProjHourRateProj)
 TOCTitle: Project hour rate report (ProjListProjHourRateProj)
 ms:assetid: 4eaed20b-4e00-4a82-a0eb-b683d563740a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa582321(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa582321(v=AX.60)
 ms:contentKeyID: 37832001
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

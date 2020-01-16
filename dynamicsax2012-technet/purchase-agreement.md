@@ -2,8 +2,9 @@
 title: " purchase agreement"
 TOCTitle: " purchase agreement"
 ms:assetid: DynamicsAXGlossary.1367999
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1367999(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1367999(v=AX.60)
 ms:contentKeyID: 36056564
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ A source document that documents an agreement between two or more parties based 
 
 [discount](discount.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [price](price.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Create and ship a transfer order to receive an item from storage
 TOCTitle: (RUS) Create and ship a transfer order to receive an item from storage
 ms:assetid: 3389a5a4-cfa2-43a8-a263-3bed17e38938
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853168(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853168(v=AX.60)
 ms:contentKeyID: 50396448
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,11 +68,11 @@ Use the **Transfer orders** form to create a transfer order. You can use the tra
 
 ## See also
 
-[Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
+[Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\))
 
-[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj733409\(v=ax.60\))
+[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/library/jj733409\(v=ax.60\))
 
-[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj733191\(v=ax.60\))
+[(RUS) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj733191\(v=ax.60\))
 
 [About transfer orders](about-transfer-orders.md)
 

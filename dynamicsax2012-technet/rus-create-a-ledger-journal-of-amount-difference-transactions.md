@@ -2,8 +2,9 @@
 title: (RUS) Create a ledger journal of amount difference transactions
 TOCTitle: (RUS) Create a ledger journal of amount difference transactions
 ms:assetid: 4c4743b6-2b6c-4816-a58f-b244d2e0ff76
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665357(v=AX.60)
 ms:contentKeyID: 49387445
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ Before you can create a ledger journal of amount difference transactions, you mu
 
 ## See also
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

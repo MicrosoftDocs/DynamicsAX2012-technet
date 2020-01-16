@@ -2,8 +2,9 @@
 title: Redraw a bill of exchange
 TOCTitle: Redraw a bill of exchange
 ms:assetid: 0c93b46e-b565-4c62-a10f-24bd5d713c54
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569757(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569757(v=AX.60)
 ms:contentKeyID: 36966695
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ When the journal is posted, the bill of exchange summary account is debited and 
 
 
 > [!NOTE]
-> <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+> <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -57,9 +58,9 @@ When the journal is posted, the bill of exchange summary account is debited and 
 
 [Settle a bill of exchange](settle-a-bill-of-exchange.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Bills of exchange statistics (form)](https://technet.microsoft.com/en-us/library/aa572115\(v=ax.60\))
+[Bills of exchange statistics (form)](https://technet.microsoft.com/library/aa572115\(v=ax.60\))
 
   
 

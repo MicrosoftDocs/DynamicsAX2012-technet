@@ -2,8 +2,9 @@
 title: Run report as finished for a batch order
 TOCTitle: Run report as finished for a batch order
 ms:assetid: f3425a99-9517-41c0-85f7-5ce94d0cb0ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328613(v=AX.60)
 ms:contentKeyID: 36688045
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,7 +87,7 @@ You can post route card and picking list journals when you report batch order pr
 
 ## See also
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
   
 

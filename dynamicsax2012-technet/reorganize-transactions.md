@@ -2,8 +2,9 @@
 title: Reorganize transactions
 TOCTitle: Reorganize transactions
 ms:assetid: 07d75286-c2ff-42c7-ad12-f91141d83fd3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569727(v=AX.60)
 ms:contentKeyID: 36966679
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -101,9 +102,9 @@ This information describes how to reorganize customer transactions that are in a
 
 [Settle transactions with payments](settle-transactions-with-payments.md)
 
-[Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+[Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
   
 

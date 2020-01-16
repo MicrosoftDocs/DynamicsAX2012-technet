@@ -2,8 +2,9 @@
 title: (RUS) Assign an item to a TN VED code
 TOCTitle: (RUS) Assign an item to a TN VED code
 ms:assetid: 312a2c30-49e3-43c0-8378-8ea4b906eea9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853166(v=AX.60)
 ms:contentKeyID: 50396447
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,11 +44,11 @@ Use the **Item relation with TN VED** form to assign an item to a Commodities Cl
 
 ## See also
 
-[(RUS) Item relation with TN VED (form)](https://technet.microsoft.com/en-us/library/jj711419\(v=ax.60\))
+[(RUS) Item relation with TN VED (form)](https://technet.microsoft.com/library/jj711419\(v=ax.60\))
 
 [(RUS) Create a TN VED code and relate it to indicative prices for customs](rus-create-a-tn-ved-code-and-relate-it-to-indicative-prices-for-customs.md)
 
-[(RUS) TN VED codes (form)](https://technet.microsoft.com/en-us/library/jj711428\(v=ax.60\))
+[(RUS) TN VED codes (form)](https://technet.microsoft.com/library/jj711428\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Deferrals transaction listing report (RDeferralsTransactionListing)
 TOCTitle: (RUS) Deferrals transaction listing report (RDeferralsTransactionListing)
 ms:assetid: 3957b6e0-9c8b-4825-a3df-b28eb063075b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126097(v=AX.60)
 ms:contentKeyID: 52075232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -135,9 +136,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 [(RUS) Set up a deferrals model](rus-set-up-a-deferrals-model.md)
 
-[(RUS) Deferrals (form)](https://technet.microsoft.com/en-us/library/jj923560\(v=ax.60\))
+[(RUS) Deferrals (form)](https://technet.microsoft.com/library/jj923560\(v=ax.60\))
 
-[(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
+[(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\))
 
   
 

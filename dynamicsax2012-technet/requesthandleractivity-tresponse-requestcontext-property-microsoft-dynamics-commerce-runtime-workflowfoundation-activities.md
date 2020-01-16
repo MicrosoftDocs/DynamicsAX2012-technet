@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestHandlerActivity(TResponse).RequestContext Property  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: RequestContext Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.RequestHandlerActivity`1.RequestContext
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn990518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn990518(v=AX.60)
 ms:contentKeyID: 65321458
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Calculate the accounts receivable movement register
 TOCTitle: (RUS) Calculate the accounts receivable movement register
 ms:assetid: d35d54e2-98be-4771-a527-8bb0ae696c61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711639(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711639(v=AX.60)
 ms:contentKeyID: 49387963
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,17 +68,17 @@ You must set up the **Accounts receivable movement** register in the **Tax regis
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Register lines (form)](https://technet.microsoft.com/en-us/library/jj943751\(v=ax.60\))
+[(RUS) Register lines (form)](https://technet.microsoft.com/library/jj943751\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 
 [(RUS) Recalculate registers](rus-recalculate-registers.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

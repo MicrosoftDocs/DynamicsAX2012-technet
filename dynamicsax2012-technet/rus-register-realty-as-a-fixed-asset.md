@@ -2,8 +2,9 @@
 title: (RUS) Register realty as a fixed asset
 TOCTitle: (RUS) Register realty as a fixed asset
 ms:assetid: be56e27a-2063-4d61-8030-eb89311f1b08
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711568(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711568(v=AX.60)
 ms:contentKeyID: 49387892
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

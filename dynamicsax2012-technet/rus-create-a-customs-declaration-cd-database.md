@@ -2,8 +2,9 @@
 title: (RUS) Create a customs declaration (CD) database
 TOCTitle: (RUS) Create a customs declaration (CD) database
 ms:assetid: c2cbf485-e860-4f11-b9ca-890394a7f432
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711576(v=AX.60)
 ms:contentKeyID: 49387901
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

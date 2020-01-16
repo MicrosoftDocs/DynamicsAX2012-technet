@@ -2,8 +2,9 @@
 title: Public sector license code (PublicSector)
 TOCTitle: Public sector license code (PublicSector)
 ms:assetid: b24518c1-2354-440f-a7f8-6e64ea31369b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450736(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450736(v=AX.60)
 ms:contentKeyID: 36966672
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

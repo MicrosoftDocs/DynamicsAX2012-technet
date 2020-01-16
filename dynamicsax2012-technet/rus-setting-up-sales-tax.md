@@ -2,8 +2,9 @@
 title: (RUS) Setting up sales tax
 TOCTitle: (RUS) Setting up sales tax
 ms:assetid: ae0f8ad3-1233-4f2a-b91b-f3290fa5c68f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711514(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711514(v=AX.60)
 ms:contentKeyID: 49387839
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

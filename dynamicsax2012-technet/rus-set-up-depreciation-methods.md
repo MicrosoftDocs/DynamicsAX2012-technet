@@ -2,8 +2,9 @@
 title: (RUS) Set up depreciation methods
 TOCTitle: (RUS) Set up depreciation methods
 ms:assetid: 3cf09a99-3539-4e35-baaf-501b6d6e0d12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853175(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853175(v=AX.60)
 ms:contentKeyID: 50396456
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ Depreciation methods are used to define the rules for calculating depreciation. 
 
 ## See also
 
-[(RUS) Depreciation methods (form)](https://technet.microsoft.com/en-us/library/jj856184\(v=ax.60\))
+[(RUS) Depreciation methods (form)](https://technet.microsoft.com/library/jj856184\(v=ax.60\))
 
 [(RUS) Linear and non-linear depreciation methods](rus-linear-and-non-linear-depreciation-methods.md)
 

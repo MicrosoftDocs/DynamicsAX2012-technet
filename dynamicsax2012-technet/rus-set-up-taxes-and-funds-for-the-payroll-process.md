@@ -2,8 +2,9 @@
 title: (RUS) Set up taxes and funds for the payroll process
 TOCTitle: (RUS) Set up taxes and funds for the payroll process
 ms:assetid: 2eb6cb1d-69ae-4eb7-bee3-d48d778a5b09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435983(v=AX.60)
 ms:contentKeyID: 56732184
+author: Khairunj
 ms.date: 07/04/2014
 mtps_version: v=AX.60
 f1_keywords:

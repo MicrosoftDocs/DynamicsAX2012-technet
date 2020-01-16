@@ -2,8 +2,9 @@
 title: Sales orders and bills of materials
 TOCTitle: Sales orders and bills of materials
 ms:assetid: cf4561be-e313-4055-afa1-bdff4b4ef7ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213677(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213677(v=AX.60)
 ms:contentKeyID: 36059475
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

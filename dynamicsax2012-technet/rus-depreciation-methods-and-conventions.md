@@ -2,8 +2,9 @@
 title: (RUS) Depreciation methods and conventions
 TOCTitle: (RUS) Depreciation methods and conventions
 ms:assetid: 478668a0-9678-4c9a-9114-38c49a69c3de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665343(v=AX.60)
 ms:contentKeyID: 49387431
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

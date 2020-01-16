@@ -2,8 +2,9 @@
 title: Request for quotation reply follow-up report (PurchRFQReplyFollowUp)
 TOCTitle: Request for quotation reply follow-up report (PurchRFQReplyFollowUp)
 ms:assetid: 64bfa479-c6f9-48bd-96d2-658af2138070
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433499(v=AX.60)
 ms:contentKeyID: 36941266
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -119,7 +120,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Request for quotation follow-up (form)](https://technet.microsoft.com/en-us/library/hh227392\(v=ax.60\))
+[Request for quotation follow-up (form)](https://technet.microsoft.com/library/hh227392\(v=ax.60\))
 
 [Follow up on requests for quotation and replies](follow-up-on-requests-for-quotation-and-replies.md)
 

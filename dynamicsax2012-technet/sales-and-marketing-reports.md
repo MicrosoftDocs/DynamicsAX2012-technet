@@ -2,8 +2,9 @@
 title: Sales and marketing reports
 TOCTitle: Sales and marketing reports
 ms:assetid: a06501ab-2541-4f5a-b3ad-68133253b198
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334498(v=AX.60)
 ms:contentKeyID: 36676486
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

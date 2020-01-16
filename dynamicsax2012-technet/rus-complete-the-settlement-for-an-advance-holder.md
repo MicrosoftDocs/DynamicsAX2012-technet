@@ -2,8 +2,9 @@
 title: (RUS) Complete the settlement for an advance holder
 TOCTitle: (RUS) Complete the settlement for an advance holder
 ms:assetid: d06201ec-9290-45b9-9832-3c3be736d735
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711641(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711641(v=AX.60)
 ms:contentKeyID: 49387965
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,13 +81,13 @@ Use this procedure to cancel a periodic settlement for advance holder transactio
 
 ## See also
 
-[(RUS) Periodic reverse (form)](https://technet.microsoft.com/en-us/library/jj678637\(v=ax.60\))
+[(RUS) Periodic reverse (form)](https://technet.microsoft.com/library/jj678637\(v=ax.60\))
 
-[(RUS) Advance holders (form)](https://technet.microsoft.com/en-us/library/jj665294\(v=ax.60\))
+[(RUS) Advance holders (form)](https://technet.microsoft.com/library/jj665294\(v=ax.60\))
 
-[(RUS) Transaction settlements (form)](https://technet.microsoft.com/en-us/library/jj711614\(v=ax.60\))
+[(RUS) Transaction settlements (form)](https://technet.microsoft.com/library/jj711614\(v=ax.60\))
 
-[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
+[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj923609\(v=ax.60\))
 
   
 

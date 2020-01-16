@@ -2,8 +2,9 @@
 title: (RUS) Register an advance payment from a customer
 TOCTitle: (RUS) Register an advance payment from a customer
 ms:assetid: 78046714-b31c-4c71-ad73-6c35d50c72ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678376(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678376(v=AX.60)
 ms:contentKeyID: 49387606
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

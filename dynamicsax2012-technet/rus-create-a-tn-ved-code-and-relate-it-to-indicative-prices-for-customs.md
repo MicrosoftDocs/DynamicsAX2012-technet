@@ -2,8 +2,9 @@
 title: (RUS) Create a TN VED code and relate it to indicative prices for customs
 TOCTitle: (RUS) Create a TN VED code and relate it to indicative prices for customs
 ms:assetid: 994f5b96-865c-4be8-825c-7e7cd4228c88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678520(v=AX.60)
 ms:contentKeyID: 49387749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,9 +61,9 @@ Use the **TN VED codes** form to create a Commodities Classification Code of the
 
 [(RUS) Assign a TN VED code to a customs payment](rus-assign-a-tn-ved-code-to-a-customs-payment.md)
 
-[(RUS) TN VED codes (form)](https://technet.microsoft.com/en-us/library/jj711428\(v=ax.60\))
+[(RUS) TN VED codes (form)](https://technet.microsoft.com/library/jj711428\(v=ax.60\))
 
-[(RUS) Indicative prices of TN VED (form)](https://technet.microsoft.com/en-us/library/jj711361\(v=ax.60\))
+[(RUS) Indicative prices of TN VED (form)](https://technet.microsoft.com/library/jj711361\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Record the receipt of vendor invoices and match against received quantities
 TOCTitle: Record the receipt of vendor invoices and match against received quantities
 ms:assetid: 10264492-71c9-41f9-a940-239c0cdc530a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230921(v=AX.60)
 ms:contentKeyID: 36655924
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,7 +72,7 @@ Use the **Vendor invoice** form to enter invoice information. If necessary, you 
     
     2.  Select an invoice line for which a warning icon is displayed.
     
-    3.  Review the information in the form and make any necessary corrections. For more information, see [Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\)).
+    3.  Review the information in the form and make any necessary corrections. For more information, see [Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\)).
     
     4.  Repeat steps b and c for the remaining invoice lines in the form.
     
@@ -103,9 +104,9 @@ You can match vendor invoices to product receipts for multiple invoices at the s
 
 ## See also
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
 [Set up Accounts payable invoice matching](set-up-accounts-payable-invoice-matching.md)
 

@@ -2,8 +2,9 @@
 title: Run the checklist items without user interaction
 TOCTitle: Run the checklist items without user interaction
 ms:assetid: f1513ca7-deb3-4e76-83fc-527b1eb73117
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497052(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497052(v=AX.60)
 ms:contentKeyID: 35133239
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

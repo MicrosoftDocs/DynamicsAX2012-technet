@@ -2,8 +2,9 @@
 title: Restructure database schema for inherited tables
 TOCTitle: Restructure database schema for inherited tables
 ms:assetid: 9dc458c1-c403-4605-b9e9-9bb4666830c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735270(v=AX.60)
 ms:contentKeyID: 49693271
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

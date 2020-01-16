@@ -2,8 +2,9 @@
 title: (RUS) About Correspondence
 TOCTitle: (RUS) About Correspondence
 ms:assetid: 9a9f73ab-4f91-4867-8cc2-e5e1b899e9ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923566(v=AX.60)
 ms:contentKeyID: 52075413
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,7 +84,7 @@ If non-corresponding accounts already exist before the account correspondence me
 
 ## See also
 
-[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
+[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj923603\(v=ax.60\))
 
   
 

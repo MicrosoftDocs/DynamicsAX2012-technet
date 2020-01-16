@@ -2,8 +2,9 @@
 title: Run inventory recalculation
 TOCTitle: Run inventory recalculation
 ms:assetid: 27c08fd7-f997-4ebb-93e8-04c93f84f1f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231004(v=AX.60)
 ms:contentKeyID: 36056214
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ To recalculate the inventory and match item issues with receipts in order to det
 
 ## See also
 
-[Recalculate inventory (form)](https://technet.microsoft.com/en-us/library/aa600651\(v=ax.60\))
+[Recalculate inventory (form)](https://technet.microsoft.com/library/aa600651\(v=ax.60\))
 
 [Pause inventory recalculation](pause-inventory-recalculation.md)
 

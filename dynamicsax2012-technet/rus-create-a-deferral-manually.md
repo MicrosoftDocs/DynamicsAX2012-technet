@@ -2,8 +2,9 @@
 title: (RUS) Create a deferral manually
 TOCTitle: (RUS) Create a deferral manually
 ms:assetid: 305e22f5-46a4-461b-9398-fb14d698c7a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665249(v=AX.60)
 ms:contentKeyID: 49387338
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Use the **Deferrals** form to manually create a deferral. You must also specify 
 
 ## See also
 
-[(RUS) Deferrals models (form)](https://technet.microsoft.com/en-us/library/jj678655\(v=ax.60\))
+[(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\))
 
   
 

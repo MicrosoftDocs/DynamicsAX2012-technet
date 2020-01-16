@@ -2,8 +2,9 @@
 title: (RUS) Calculate or reverse fixed asset depreciation
 TOCTitle: (RUS) Calculate or reverse fixed asset depreciation
 ms:assetid: e8a7f904-27d8-4973-92f7-6d4d5f03e9b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711730(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711730(v=AX.60)
 ms:contentKeyID: 49388053
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
