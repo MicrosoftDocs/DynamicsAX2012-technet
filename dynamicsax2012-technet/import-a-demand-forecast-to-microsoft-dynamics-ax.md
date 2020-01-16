@@ -2,8 +2,9 @@
 title: Import a demand forecast to Microsoft Dynamics AX
 TOCTitle: Import a demand forecast to Microsoft Dynamics AX
 ms:assetid: f8dd92bc-41ec-414d-bf41-ae505f71f0cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497859(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497859(v=AX.60)
 ms:contentKeyID: 62200189
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDeliveryModeV1.DeliveryType Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: DeliveryType Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IDeliveryModeV1.DeliveryType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ideliverymodev1.deliverytype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ideliverymodev1.deliverytype(v=AX.60)
 ms:contentKeyID: 47129230
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property int DeliveryType {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-The [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)) value.  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+The [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)) value.  
 
 ## See Also
 

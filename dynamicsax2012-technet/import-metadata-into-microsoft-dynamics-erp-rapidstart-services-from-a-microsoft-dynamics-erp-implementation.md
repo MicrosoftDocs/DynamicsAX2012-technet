@@ -2,8 +2,9 @@
 title: Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation
 TOCTitle: Import metadata into Microsoft Dynamics ERP RapidStart Services from a Microsoft Dynamics ERP implementation
 ms:assetid: 1e45e047-158d-4318-9cf4-f4395735a91c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413225(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413225(v=AX.60)
 ms:contentKeyID: 36918916
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

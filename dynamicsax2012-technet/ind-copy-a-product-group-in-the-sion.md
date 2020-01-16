@@ -2,8 +2,9 @@
 title: (IND) Copy a product group in the SION
 TOCTitle: (IND) Copy a product group in the SION
 ms:assetid: 55ddba81-eb2d-422a-9fe8-41ee889686db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677827(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677827(v=AX.60)
 ms:contentKeyID: 49385791
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,13 +36,13 @@ You can assign a product group to your organization’s Standard Input Output No
 
 ## See also
 
-[(IND) Copy product group (form)](https://technet.microsoft.com/en-us/library/jj677997\(v=ax.60\))
+[(IND) Copy product group (form)](https://technet.microsoft.com/library/jj677997\(v=ax.60\))
 
 [(IND) Set up the SION](ind-set-up-the-sion.md)
 
 [(IND) Set up the SION items](ind-set-up-the-sion-items.md)
 
-[(IND) SION (form)](https://technet.microsoft.com/en-us/library/jj710966\(v=ax.60\))
+[(IND) SION (form)](https://technet.microsoft.com/library/jj710966\(v=ax.60\))
 
   
 

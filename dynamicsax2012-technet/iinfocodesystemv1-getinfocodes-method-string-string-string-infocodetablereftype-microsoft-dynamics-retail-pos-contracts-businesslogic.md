@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodeSystemV1.GetInfocodes Method (String, String, String, InfoCodeTableRefType) (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: GetInfocodes Method (String, String, String, InfoCodeTableRefType)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IInfoCodeSystemV1.GetInfocodes(System.String,System.String,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeTableRefType)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iinfocodesystemv1.getinfocodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iinfocodesystemv1.getinfocodes(v=AX.60)
 ms:contentKeyID: 47128860
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -62,17 +63,17 @@ array<IInfoCodeLineItem^>^ GetInfocodes(
 #### Parameters
 
   - refRelation  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - refRelation2  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - refRelation3  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

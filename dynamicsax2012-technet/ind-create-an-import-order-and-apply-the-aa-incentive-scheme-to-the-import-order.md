@@ -2,8 +2,9 @@
 title: (IND) Create an import order and apply the AA incentive scheme to the import order
 TOCTitle: (IND) Create an import order and apply the AA incentive scheme to the import order
 ms:assetid: 3a08c5de-f850-4690-bcb1-c8f611abc00b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664624(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664624(v=AX.60)
 ms:contentKeyID: 49385701
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

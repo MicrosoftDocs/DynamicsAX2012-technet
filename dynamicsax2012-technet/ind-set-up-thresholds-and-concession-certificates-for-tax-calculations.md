@@ -2,8 +2,9 @@
 title: (IND) Set up thresholds and concession certificates for tax calculations
 TOCTitle: (IND) Set up thresholds and concession certificates for tax calculations
 ms:assetid: 36b6d073-903e-41fc-90fd-5a0882bf72b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527712(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527712(v=AX.60)
 ms:contentKeyID: 59626285
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -341,7 +342,7 @@ To set up a tax concession certificate for a customer or vendor, follow these st
 
 You have finished setting up tax thresholds and tax concession certificates for India. To set up withholding tax groups, and to create and post transactions that use thresholds, perform the following tasks:
 
-1.  Set up a withholding tax group that contains the withholding tax codes to which you assigned thresholds and threshold values. For more information about how to set up a withholding tax group, see [(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj677874\(v=ax.60\)).
+1.  Set up a withholding tax group that contains the withholding tax codes to which you assigned thresholds and threshold values. For more information about how to set up a withholding tax group, see [(IND) Withholding tax groups (modified form)](https://technet.microsoft.com/library/jj677874\(v=ax.60\)).
 
 2.  Create and post transactions that use the withholding tax group for the withholding tax codes to which you assigned thresholds and threshold values. For more information about how to create and post transactions, see [Calculate and post withholding tax](calculate-and-post-withholding-tax.md) and [Enter a vendor payment that is subject to withholding tax](enter-a-vendor-payment-that-is-subject-to-withholding-tax.md).
 
@@ -349,11 +350,11 @@ You have finished setting up tax thresholds and tax concession certificates for 
 
 [(IND) Define withholding tax information for vendors](ind-define-withholding-tax-information-for-vendors.md)
 
-[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/en-us/library/jj678017\(v=ax.60\))
+[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/library/jj678017\(v=ax.60\))
 
-[(IND) Withholding tax components (form)](https://technet.microsoft.com/en-us/library/jj664790\(v=ax.60\))
+[(IND) Withholding tax components (form)](https://technet.microsoft.com/library/jj664790\(v=ax.60\))
 
-[(IND) Withholding tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664629\(v=ax.60\))
+[(IND) Withholding tax codes (modified form)](https://technet.microsoft.com/library/jj664629\(v=ax.60\))
 
 [Withholding tax transactions report (TaxWithholdTrans)](withholding-tax-transactions-report-taxwithholdtrans.md)
 

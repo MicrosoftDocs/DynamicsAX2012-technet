@@ -2,8 +2,9 @@
 title: (IND) Set up excise tariff codes
 TOCTitle: (IND) Set up excise tariff codes
 ms:assetid: 790b87f2-3986-472d-9aa9-2b51204a2544
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677919(v=AX.60)
 ms:contentKeyID: 49385878
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Excise tariff codes** form to define excise tariff codes. The excisabl
 
 ## See also
 
-[(IND) Excise tariff codes (form)](https://technet.microsoft.com/en-us/library/jj710976\(v=ax.60\))
+[(IND) Excise tariff codes (form)](https://technet.microsoft.com/library/jj710976\(v=ax.60\))
 
   
 

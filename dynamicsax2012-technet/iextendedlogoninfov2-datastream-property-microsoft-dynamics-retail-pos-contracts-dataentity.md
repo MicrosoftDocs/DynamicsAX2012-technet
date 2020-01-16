@@ -1,9 +1,10 @@
-﻿---
+---
 title: IExtendedLogOnInfoV2.DataStream Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: DataStream Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IExtendedLogOnInfoV2.DataStream
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iextendedlogoninfov2.datastream(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iextendedlogoninfov2.datastream(v=AX.60)
 ms:contentKeyID: 62205006
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property Object^ DataStream {
 
 #### Property Value
 
-Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-Returns [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\)).  
+Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+Returns [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\)).  
 
 ## See Also
 

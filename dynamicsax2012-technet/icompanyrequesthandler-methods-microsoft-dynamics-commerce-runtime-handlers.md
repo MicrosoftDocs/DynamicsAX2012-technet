@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICompanyRequestHandler Methods (Microsoft.Dynamics.Commerce.Runtime.Handlers)
 TOCTitle: ICompanyRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Handlers.ICompanyRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.handlers.icompanyrequesthandler_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.handlers.icompanyrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65322614
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (IND) Approve an EPCG license
 TOCTitle: (IND) Approve an EPCG license
 ms:assetid: 86e7c671-61d3-4225-998a-776b32637398
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677989(v=AX.60)
 ms:contentKeyID: 49385952
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,7 +76,7 @@ The EPCG license is approved only under the following conditions:
 
 [(IND) Create a primary EPCG license](ind-create-a-primary-epcg-license.md)
 
-[(IND) Approval EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj710885\(v=ax.60\))
+[(IND) Approval EPCG schemes (form)](https://technet.microsoft.com/library/jj710885\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IFiscalPrinterV1.PrePayment Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: PrePayment Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IFiscalPrinterV1.PrePayment(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,System.Object,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv1.prepayment(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv1.prepayment(v=AX.60)
 ms:contentKeyID: 62205791
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,12 +74,12 @@ void PrePayment(
 <!-- end list -->
 
   - posOperation  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 <!-- end list -->
 
   - tenderId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

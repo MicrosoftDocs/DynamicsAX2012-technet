@@ -2,8 +2,9 @@
 title: (IND) EXIM Duty Drawback (DBK) incentive scheme transactions
 TOCTitle: (IND) EXIM Duty Drawback (DBK) incentive scheme transactions
 ms:assetid: 91195c3c-9532-4a20-a8a9-1375070080c0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678054(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678054(v=AX.60)
 ms:contentKeyID: 49386015
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

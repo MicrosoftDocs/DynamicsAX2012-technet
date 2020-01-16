@@ -2,8 +2,9 @@
 title: (IND) Maintain excise transactions for Accounts receivable
 TOCTitle: (IND) Maintain excise transactions for Accounts receivable
 ms:assetid: 33b2b229-f5ed-4628-a49c-69e88b417b48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664604(v=AX.60)
 ms:contentKeyID: 49385681
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

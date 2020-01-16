@@ -2,8 +2,9 @@
 title: (IND) Set up an assessable value for customs
 TOCTitle: (IND) Set up an assessable value for customs
 ms:assetid: ce0376ea-77f6-4282-b1c5-6f8d96d59215
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664923(v=AX.60)
 ms:contentKeyID: 49386252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,9 +64,9 @@ The **Assessable value** form is available only for import orders. For an order 
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Assessable value (form)](https://technet.microsoft.com/en-us/library/jj664952\(v=ax.60\))
+[(IND) Assessable value (form)](https://technet.microsoft.com/library/jj664952\(v=ax.60\))
 
   
 

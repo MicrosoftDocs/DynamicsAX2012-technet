@@ -2,8 +2,9 @@
 title: (IND) Post transaction reversals for purchase orders
 TOCTitle: (IND) Post transaction reversals for purchase orders
 ms:assetid: 021152e6-b3f1-4ed5-8e6c-503a9f4baeee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664431(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664431(v=AX.60)
 ms:contentKeyID: 49385521
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,13 +44,13 @@ When the credit note is posted, the vendor account is debited, and the inventory
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664580\(v=ax.60\))
+[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/library/jj664580\(v=ax.60\))
 
-[(IND) Chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj677830\(v=ax.60\))
+[(IND) Chart of accounts (modified form)](https://technet.microsoft.com/library/jj677830\(v=ax.60\))
 
-[(IND) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj664890\(v=ax.60\))
+[(IND) Vendors (modified form)](https://technet.microsoft.com/library/jj664890\(v=ax.60\))
 
   
 

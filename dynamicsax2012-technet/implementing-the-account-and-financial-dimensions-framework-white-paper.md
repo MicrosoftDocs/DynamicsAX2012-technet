@@ -2,8 +2,9 @@
 title: Implementing the Account and Financial Dimensions Framework (White paper)
 TOCTitle: Implementing the Account and Financial Dimensions Framework
 ms:assetid: 1cd4e613-d7f6-47d5-a38c-48bccdaa674a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272858(v=AX.60)
 ms:contentKeyID: 36584382
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

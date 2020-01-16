@@ -2,8 +2,9 @@
 title: (IND) Retail
 TOCTitle: (IND) Retail
 ms:assetid: 7d081db9-c9eb-4943-bab9-09592d0a4815
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313246(v=AX.60)
 ms:contentKeyID: 54964142
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

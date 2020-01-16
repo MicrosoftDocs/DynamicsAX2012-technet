@@ -2,8 +2,9 @@
 title: (IND) Post invoice transactions for excisable goods using a Purchase subscription
 TOCTitle: (IND) Post invoice transactions for excisable goods using a Purchase subscription
 ms:assetid: 33eccebc-cefd-4fbb-b4bb-290203a2294a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664600(v=AX.60)
 ms:contentKeyID: 49385677
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -114,11 +115,11 @@ An excise duty of INR 1,242.63 is calculated. When the purchase order is posted,
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Claim percentage (form)](https://technet.microsoft.com/en-us/library/jj710873\(v=ax.60\))
+[(IND) Claim percentage (form)](https://technet.microsoft.com/library/jj710873\(v=ax.60\))
 
-[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\))
+[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\))
 
   
 

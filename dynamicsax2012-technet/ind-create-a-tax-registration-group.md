@@ -2,8 +2,9 @@
 title: (IND) Create a tax registration group
 TOCTitle: (IND) Create a tax registration group
 ms:assetid: 01c516a8-8c97-4d04-9054-2e80ae0dbe4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664429(v=AX.60)
 ms:contentKeyID: 49385517
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -62,9 +63,9 @@ A tax registration group includes tax registration numbers of different tax type
 
 ## See also
 
-[(IND) Tax registration group (form)](https://technet.microsoft.com/en-us/library/jj664453\(v=ax.60\))
+[(IND) Tax registration group (form)](https://technet.microsoft.com/library/jj664453\(v=ax.60\))
 
-[(IND) Sales tax payment (modified form)](https://technet.microsoft.com/en-us/library/jj664427\(v=ax.60\))
+[(IND) Sales tax payment (modified form)](https://technet.microsoft.com/library/jj664427\(v=ax.60\))
 
   
 

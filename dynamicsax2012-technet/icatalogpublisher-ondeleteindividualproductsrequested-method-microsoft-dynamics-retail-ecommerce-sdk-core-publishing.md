@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICatalogPublisher.OnDeleteIndividualProductsRequested Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: OnDeleteIndividualProductsRequested Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ICatalogPublisher.OnDeleteIndividualProductsRequested(System.Collections.Generic.IList{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ListingIdentity})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.ondeleteindividualproductsrequested(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.ondeleteindividualproductsrequested(v=AX.60)
 ms:contentKeyID: 65316326
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ void OnDeleteIndividualProductsRequested(
 #### Parameters
 
   - ids  
-    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[ListingIdentity](listingidentity-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md)\>  
+    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[ListingIdentity](listingidentity-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md)\>  
 
 ## See Also
 

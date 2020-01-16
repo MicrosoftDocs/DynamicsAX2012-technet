@@ -2,8 +2,9 @@
 title: (IND) Post purchase transactions of excise using Invoice register form
 TOCTitle: (IND) Post purchase transactions of excise using Invoice register form
 ms:assetid: e68288bf-3fb5-44f2-9ab2-0fcdb58b4ec5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710891(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710891(v=AX.60)
 ms:contentKeyID: 49386304
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -117,11 +118,11 @@ You can post purchase transactions with excise details using the **Invoice regis
 
 ## See also
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Claim percentage (form)](https://technet.microsoft.com/en-us/library/jj710873\(v=ax.60\))
+[(IND) Claim percentage (form)](https://technet.microsoft.com/library/jj710873\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
   
 

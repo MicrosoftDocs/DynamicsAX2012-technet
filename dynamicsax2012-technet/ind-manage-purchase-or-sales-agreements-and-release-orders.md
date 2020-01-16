@@ -2,8 +2,9 @@
 title: (IND) Manage purchase or sales agreements and release orders
 TOCTitle: (IND) Manage purchase or sales agreements and release orders
 ms:assetid: b28fb6fc-9e73-4407-ac43-a45a46e45e11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664786(v=AX.60)
 ms:contentKeyID: 49386111
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

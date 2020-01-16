@@ -2,8 +2,9 @@
 title: (IND) Purchasing overview
 TOCTitle: (IND) Purchasing overview
 ms:assetid: 162d58ee-6023-4ccf-8187-822befb29568
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664508(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664508(v=AX.60)
 ms:contentKeyID: 49385589
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

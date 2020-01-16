@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDiscountTriggerV1.PreLineDiscountPercent Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PreLineDiscountPercent Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IDiscountTriggerV1.PreLineDiscountPercent(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.idiscounttriggerv1.prelinediscountpercent(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.idiscounttriggerv1.prelinediscountpercent(v=AX.60)
 ms:contentKeyID: 47129202
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ void PreLineDiscountPercent(
 <!-- end list -->
 
   - LineId  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

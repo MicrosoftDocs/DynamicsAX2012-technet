@@ -2,8 +2,9 @@
 title: (IND) Create EXIM authorization schemes for confirmed sales orders
 TOCTitle: (IND) Create EXIM authorization schemes for confirmed sales orders
 ms:assetid: 1e6d00e3-54b0-4eae-a499-cd37c32f461a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664542(v=AX.60)
 ms:contentKeyID: 49385621
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -119,7 +120,7 @@ You can create export-import (EXIM) authorization schemes for confirmed sales or
     
 
     > [!NOTE]
-    > <P>The <STRONG>Quantity</STRONG> field is updated after the units are converted. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209285(v=ax.60)">Unit conversions (form)</A>.</P>
+    > <P>The <STRONG>Quantity</STRONG> field is updated after the units are converted. For more information, see <A href="https://technet.microsoft.com/library/hh209285(v=ax.60)">Unit conversions (form)</A>.</P>
 
 
 

@@ -2,8 +2,9 @@
 title: (IND) Post received orders for transactions
 TOCTitle: (IND) Post received orders for transactions
 ms:assetid: 280d1b91-f460-41ab-830a-15753c622c74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664579(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664579(v=AX.60)
 ms:contentKeyID: 49385656
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: India
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can post transactions for orders that are received from a receiving warehouse in the **Transfer orders** form. For more information, see [(IND) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj677831\(v=ax.60\)).
+You can post transactions for orders that are received from a receiving warehouse in the **Transfer orders** form. For more information, see [(IND) Transfer orders (modified form)](https://technet.microsoft.com/library/jj677831\(v=ax.60\)).
 
 1.  Click **Inventory management** \> **Periodic** \> **Transfer orders**.
 
@@ -31,7 +32,7 @@ You can post transactions for orders that are received from a receiving warehous
 
 4.  On the **Receive now** tab, in the **Receive now** field, enter the quantity of the items that are received.
 
-5.  Click **Posting** \> **Receive** to open the **Receive** form. For more information, see [(IND) Receive (modified form)](https://technet.microsoft.com/en-us/library/jj664949\(v=ax.60\)).
+5.  Click **Posting** \> **Receive** to open the **Receive** form. For more information, see [(IND) Receive (modified form)](https://technet.microsoft.com/library/jj664949\(v=ax.60\)).
 
 6.  On the **Overview** tab, select the **Edit lines** check box. The item lines that are updated in the **Receive now** field in the **Transfer orders** form are displayed on the **Lines** tab.
 
@@ -53,7 +54,7 @@ You can post transactions for orders that are received from a receiving warehous
 
 [(IND) Create and post shipment orders for transactions](ind-create-and-post-shipment-orders-for-transactions.md)
 
-[(IND) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj917355\(v=ax.60\))
+[(IND) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj917355\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Set up a reverse charge percentage
 TOCTitle: (IND) Set up a reverse charge percentage
 ms:assetid: de59884a-db33-4eda-9337-e6df6973361e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304995(v=AX.60)
 ms:contentKeyID: 54900003
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ Use the following procedure to specify the reverse charge percentage for an item
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Item sales tax groups**.
 
-2.  Select or create an item sales tax group. For more information, see [(IND) Create item sales tax groups](ind-create-item-sales-tax-groups.md) and [(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\)).
+2.  Select or create an item sales tax group. For more information, see [(IND) Create item sales tax groups](ind-create-item-sales-tax-groups.md) and [(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\)).
 
 3.  In the **Accounting basis** field, select **Point of taxation basis** as the accounting basis on which to calculate the service tax.
 

@@ -2,8 +2,9 @@
 title: (IND) Set up warehouse parameters
 TOCTitle: (IND) Set up warehouse parameters
 ms:assetid: b9dd04df-f0b3-400a-8fa3-eb431bdd6207
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664812(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664812(v=AX.60)
 ms:contentKeyID: 49386141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ To set up a warehouse parameter, you must:
 
 ## See also
 
-[(IND) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664669\(v=ax.60\))
+[(IND) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj664669\(v=ax.60\))
 
   
 

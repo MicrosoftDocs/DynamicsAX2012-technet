@@ -2,8 +2,9 @@
 title: (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme
 TOCTitle: (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme
 ms:assetid: 8ed1c678-3a6a-4446-b8c4-9d9b01b54a9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678032(v=AX.60)
 ms:contentKeyID: 49385993
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,13 +53,13 @@ Use the **General ledger parameters** form to activate the Export-Import (EXIM) 
 
 [(IND) About EXIM duty drawback (DBK) incentive schemes](ind-about-exim-duty-drawback-dbk-incentive-schemes.md)
 
-[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
+[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/library/jj677946\(v=ax.60\))
 
-[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
-[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
+[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/library/jj677946\(v=ax.60\))
 
   
 

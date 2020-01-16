@@ -2,8 +2,9 @@
 title: (IND) Calculate TCS on invoices using the Free text invoice form
 TOCTitle: (IND) Calculate TCS on invoices using the Free text invoice form
 ms:assetid: 88c279a9-12e4-440d-b2e8-1fd9a3b11968
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678022(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678022(v=AX.60)
 ms:contentKeyID: 49385983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ If you attach a cash discount to an invoice, TCS is calculated before calculatin
 
 ## See also
 
-[(IND) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj664875\(v=ax.60\))
+[(IND) Free text invoice (modified form)](https://technet.microsoft.com/library/jj664875\(v=ax.60\))
 
 [(IND) Maintain sales tax transactions for Accounts receivable](ind-maintain-sales-tax-transactions-for-accounts-receivable.md)
 

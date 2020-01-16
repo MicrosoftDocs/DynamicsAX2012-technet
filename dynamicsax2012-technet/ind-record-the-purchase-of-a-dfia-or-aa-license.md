@@ -2,8 +2,9 @@
 title: (IND) Record the purchase of a DFIA or AA license
 TOCTitle: (IND) Record the purchase of a DFIA or AA license
 ms:assetid: ccf57c51-db58-4c64-922a-b7967f7019cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664919(v=AX.60)
 ms:contentKeyID: 49386247
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -141,17 +142,17 @@ Use this procedure to record a Duty Free Import Authorization (DFIA) that was pu
 
 ## See also
 
-[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/en-us/library/jj664625\(v=ax.60\))
+[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/library/jj664625\(v=ax.60\))
 
-[(IND) Authorization purchase details (form)](https://technet.microsoft.com/en-us/library/jj664499\(v=ax.60\))
+[(IND) Authorization purchase details (form)](https://technet.microsoft.com/library/jj664499\(v=ax.60\))
 
-[(IND) Importable items (form)](https://technet.microsoft.com/en-us/library/jj664640\(v=ax.60\))
+[(IND) Importable items (form)](https://technet.microsoft.com/library/jj664640\(v=ax.60\))
 
-[(IND) Posted tax information (form)](https://technet.microsoft.com/en-us/library/jj664909\(v=ax.60\))
+[(IND) Posted tax information (form)](https://technet.microsoft.com/library/jj664909\(v=ax.60\))
 
-[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
+[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/library/jj677946\(v=ax.60\))
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
   
 

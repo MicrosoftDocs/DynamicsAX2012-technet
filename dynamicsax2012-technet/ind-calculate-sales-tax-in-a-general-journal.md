@@ -2,8 +2,9 @@
 title: (IND) Calculate sales tax in a general journal
 TOCTitle: (IND) Calculate sales tax in a general journal
 ms:assetid: 9e4a27c0-29f8-4b54-8c4c-a8609d58469c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664733(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664733(v=AX.60)
 ms:contentKeyID: 49386064
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,11 +64,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
   
 

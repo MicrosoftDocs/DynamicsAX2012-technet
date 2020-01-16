@@ -1,9 +1,10 @@
-﻿---
+---
 title: ILoyaltyV1.UpdateLoyaltyPoints Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: UpdateLoyaltyPoints Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILoyaltyV1.UpdateLoyaltyPoints(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iloyaltyv1.updateloyaltypoints(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iloyaltyv1.updateloyaltypoints(v=AX.60)
 ms:contentKeyID: 47344279
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ void UpdateLoyaltyPoints(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>Throws exception if retailTransaction is null.</p></td>
 </tr>
 </tbody>

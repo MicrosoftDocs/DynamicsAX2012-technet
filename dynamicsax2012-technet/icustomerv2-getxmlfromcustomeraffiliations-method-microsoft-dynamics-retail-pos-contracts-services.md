@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerV2.GetXmlFromCustomerAffiliations Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetXmlFromCustomerAffiliations Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomerV2.GetXmlFromCustomerAffiliations(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomer)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv2.getxmlfromcustomeraffiliations(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv2.getxmlfromcustomeraffiliations(v=AX.60)
 ms:contentKeyID: 62202336
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ String^ GetXmlFromCustomerAffiliations(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 An xml string.  
 
 ## See Also

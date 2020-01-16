@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDatabaseResult.GetValue Method (Int32, Type) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetValue Method (Int32, Type)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult.GetValue(System.Int32,System.Type)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.idatabaseresult.getvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatabaseresult.getvalue(v=AX.60)
 ms:contentKeyID: 65319253
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -54,16 +55,16 @@ Object^ GetValue(
 #### Parameters
 
   - index  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 
   - valueType  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 The field value read.  
 
 ## See Also

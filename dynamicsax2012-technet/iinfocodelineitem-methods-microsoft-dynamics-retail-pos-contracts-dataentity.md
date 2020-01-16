@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodeLineItem Methods (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IInfoCodeLineItem Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IInfoCodeLineItem
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitem_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitem_methods(v=AX.60)
 ms:contentKeyID: 62205436
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

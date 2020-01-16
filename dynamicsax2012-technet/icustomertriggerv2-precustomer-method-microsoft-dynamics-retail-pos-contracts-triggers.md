@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerTriggerV2.PreCustomer Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PreCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ICustomerTriggerV2.PreCustomer(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.icustomertriggerv2.precustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.icustomertriggerv2.precustomer(v=AX.60)
 ms:contentKeyID: 49843094
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

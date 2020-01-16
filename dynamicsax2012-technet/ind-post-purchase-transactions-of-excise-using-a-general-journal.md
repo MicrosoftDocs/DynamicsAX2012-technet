@@ -2,8 +2,9 @@
 title: (IND) Post purchase transactions of excise using a general journal
 TOCTitle: (IND) Post purchase transactions of excise using a general journal
 ms:assetid: 7bf559d8-0910-4956-982b-b0cd4be2c2dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677931(v=AX.60)
 ms:contentKeyID: 49385894
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Import AOD files into the new model store
 TOCTitle: Import AOD files into the new model store
 ms:assetid: af8b370a-d6a9-4973-b260-32f07e49a0e9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731899(v=AX.60)
 ms:contentKeyID: 35132816
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Create item sales tax groups
 TOCTitle: (IND) Create item sales tax groups
 ms:assetid: 18bdeb64-374c-4c06-80ec-c6536d3badd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664518(v=AX.60)
 ms:contentKeyID: 49385597
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,9 +66,9 @@ To use the formula designer, add arguments to the **Arguments available** grid o
 
 ## See also
 
-[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\))
+[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
   
 

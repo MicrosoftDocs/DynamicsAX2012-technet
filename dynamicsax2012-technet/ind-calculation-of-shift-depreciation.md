@@ -2,8 +2,9 @@
 title: (IND) Calculation of shift depreciation
 TOCTitle: (IND) Calculation of shift depreciation
 ms:assetid: 4065068b-a73b-4f1f-ba7a-569fe2586249
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664641(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664641(v=AX.60)
 ms:contentKeyID: 49385718
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

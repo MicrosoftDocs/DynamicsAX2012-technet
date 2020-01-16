@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDiscountItem Properties (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IDiscountItem Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IDiscountItem
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.idiscountitem_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.idiscountitem_properties(v=AX.60)
 ms:contentKeyID: 49822945
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

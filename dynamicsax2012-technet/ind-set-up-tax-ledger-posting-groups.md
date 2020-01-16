@@ -2,8 +2,9 @@
 title: (IND) Set up tax ledger posting groups
 TOCTitle: (IND) Set up tax ledger posting groups
 ms:assetid: 493b22e1-45ff-4013-a5d1-fe6eaddb158a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664676(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664676(v=AX.60)
 ms:contentKeyID: 49385749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,9 +54,9 @@ To track indirect taxes by incentive scheme, create a tax ledger posting group f
 
 ## See also
 
-[(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
+[(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\))
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
 [(IND) Create tax ledger posting groups and attach an STC number](ind-create-tax-ledger-posting-groups-and-attach-an-stc-number.md)
 

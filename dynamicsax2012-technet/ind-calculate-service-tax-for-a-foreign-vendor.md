@@ -2,8 +2,9 @@
 title: (IND) Calculate service tax for a foreign vendor
 TOCTitle: (IND) Calculate service tax for a foreign vendor
 ms:assetid: 597175e2-8e99-4e21-98cc-0c073257fd9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677834(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677834(v=AX.60)
 ms:contentKeyID: 49385799
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

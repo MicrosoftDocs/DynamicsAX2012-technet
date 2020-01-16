@@ -2,8 +2,9 @@
 title: (IND) Create tax journals for VAT
 TOCTitle: (IND) Create tax journals for VAT
 ms:assetid: 7cc96857-f2a5-4235-9163-1cda540fb296
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677962(v=AX.60)
 ms:contentKeyID: 49385924
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,9 +58,9 @@ You can create tax journals to transfer the opening balances to ledger accounts 
 
 [(IND) Create a tax journal for service tax](ind-create-a-tax-journal-for-service-tax.md)
 
-[(IND) Tax journal ( form)](https://technet.microsoft.com/en-us/library/jj664732\(v=ax.60\))
+[(IND) Tax journal ( form)](https://technet.microsoft.com/library/jj664732\(v=ax.60\))
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Redeem an EPCG license
 TOCTitle: (IND) Redeem an EPCG license
 ms:assetid: 9c1b5acc-5657-469f-ba28-38540d72d100
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664725(v=AX.60)
 ms:contentKeyID: 49386056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ In the **EXIM EPCG Schemes** list, the status of the EPCG license is **Redeemed*
 
 [(IND) Revalidate an EPCG license for domestic purchasing](ind-revalidate-an-epcg-license-for-domestic-purchasing.md)
 
-[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
+[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/library/jj677817\(v=ax.60\))
 
   
 

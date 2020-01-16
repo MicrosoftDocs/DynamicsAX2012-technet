@@ -2,8 +2,9 @@
 title: (IND) Calculate service tax for a purchase order
 TOCTitle: (IND) Calculate service tax for a purchase order
 ms:assetid: e83a922e-d0bc-4d60-87c6-d35d39f4e2b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710917(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710917(v=AX.60)
 ms:contentKeyID: 49386329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,11 +67,11 @@ Use the **Purchase order** form to calculate the service tax for a vendor. You c
 
 [(IND) Calculate service tax for purchase order credit note transactions](ind-calculate-service-tax-for-purchase-order-credit-note-transactions.md)
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
 [(IND) About accounting distributions and subledger journals](ind-about-accounting-distributions-and-subledger-journals.md)
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

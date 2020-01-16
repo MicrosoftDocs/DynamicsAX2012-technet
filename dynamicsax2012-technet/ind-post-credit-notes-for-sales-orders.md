@@ -2,8 +2,9 @@
 title: (IND) Post credit notes for sales orders
 TOCTitle: (IND) Post credit notes for sales orders
 ms:assetid: 6458b538-a785-4c8c-9179-539bc4835694
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677873(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677873(v=AX.60)
 ms:contentKeyID: 49385837
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,11 +44,11 @@ When the credit note is posted, the customer account is credited, and the invent
 
 ## See also
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
-[(IND) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj678004\(v=ax.60\))
+[(IND) Customers (modified form)](https://technet.microsoft.com/library/jj678004\(v=ax.60\))
 
-[(IND) Sales posting (modified form)](https://technet.microsoft.com/en-us/library/jj678044\(v=ax.60\))
+[(IND) Sales posting (modified form)](https://technet.microsoft.com/library/jj678044\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Create and post a sales return order for a not inventoried item
 TOCTitle: (IND) Create and post a sales return order for a not inventoried item
 ms:assetid: c01ca6d3-1445-4aec-9ea5-b8bce85b414e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664861(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664861(v=AX.60)
 ms:contentKeyID: 49386190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ Information about indirect taxes must be specified for a purchase order line bef
 
 7.  On the **Action Pane**, on the **Pick and pack** tab, click **Packing slip**.
 
-8.  In the **Packing slip posting** form, specify the parameters to post and print the documents that are related to the sales order. For more information about this form, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+8.  In the **Packing slip posting** form, specify the parameters to post and print the documents that are related to the sales order. For more information about this form, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 9.  Click **OK** to post the packing slip.
 

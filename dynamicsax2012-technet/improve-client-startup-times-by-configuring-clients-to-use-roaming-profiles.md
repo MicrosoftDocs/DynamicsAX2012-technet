@@ -2,8 +2,9 @@
 title: Improve client startup times by configuring clients to use roaming profiles
 TOCTitle: Improve client startup times by configuring clients to use roaming profiles
 ms:assetid: 56f7b7b2-dbfc-4a08-b262-43f85fbd792f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479031(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479031(v=AX.60)
 ms:contentKeyID: 59632399
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ILoyaltyCardDataV1.TenderTypeString Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: TenderTypeString Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILoyaltyCardDataV1.TenderTypeString
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iloyaltycarddatav1.tendertypestring(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iloyaltycarddatav1.tendertypestring(v=AX.60)
 ms:contentKeyID: 62202778
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,8 +54,8 @@ property String^ TenderTypeString {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## See Also
 

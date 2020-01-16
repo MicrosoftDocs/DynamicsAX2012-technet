@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodesV2.ProcessInfoCode Method (IPosTransaction, ISaleLineItem, Decimal, Decimal, String, String, String, InfoCodeTableRefType, String, IInfoCodeLineItem, InfoCodeType) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: ProcessInfoCode Method (IPosTransaction, ISaleLineItem, Decimal, Decimal, String, String, String, InfoCodeTableRefType, String, IInfoCodeLineItem, InfoCodeType)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IInfoCodesV2.ProcessInfoCode(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItem,System.Decimal,System.Decimal,System.String,System.String,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeTableRefType,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IInfoCodeLineItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeType)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodesv2.processinfocode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodesv2.processinfocode(v=AX.60)
 ms:contentKeyID: 62201893
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -102,27 +103,27 @@ bool ProcessInfoCode(
 <!-- end list -->
 
   - quantity  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - amount  
-    Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+    Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 
 <!-- end list -->
 
   - refRelation  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - refRelation2  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - refRelation3  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -132,7 +133,7 @@ bool ProcessInfoCode(
 <!-- end list -->
 
   - linkedInfoCodeId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -146,7 +147,7 @@ bool ProcessInfoCode(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

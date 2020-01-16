@@ -2,8 +2,9 @@
 title: (IND) Post an opening balance in an excise register using inventory journal
 TOCTitle: (IND) Post an opening balance in an excise register using inventory journal
 ms:assetid: 959f3508-4bfb-4849-b007-def4ad27ae2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664703(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664703(v=AX.60)
 ms:contentKeyID: 49386033
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,9 +68,9 @@ When the movement journal is posted, the RG23A Part I register is updated with t
 
 ## See also
 
-[(IND) RG23A item details (form)](https://technet.microsoft.com/en-us/library/jj664747\(v=ax.60\))
+[(IND) RG23A item details (form)](https://technet.microsoft.com/library/jj664747\(v=ax.60\))
 
-[(IND) RG23D details (form)](https://technet.microsoft.com/en-us/library/jj677843\(v=ax.60\))
+[(IND) RG23D details (form)](https://technet.microsoft.com/library/jj677843\(v=ax.60\))
 
 [(IND) Inquiries for RG23A registers](ind-inquiries-for-rg23a-registers.md)
 

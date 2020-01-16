@@ -2,8 +2,9 @@
 title: (IND) Pay for product or service overview
 TOCTitle: (IND) Pay for product or service overview
 ms:assetid: c13a4a4c-c6a1-43fe-b101-e69ee81fa5e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664868(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664868(v=AX.60)
 ms:contentKeyID: 49386198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (IND) Calculate reverse charges on service tax
 TOCTitle: (IND) Calculate reverse charges on service tax
 ms:assetid: ce73c410-ffc8-479c-9f6f-97c1dd03b627
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn304996(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn304996(v=AX.60)
 ms:contentKeyID: 54900004
+author: Khairunj
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ol>
-<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> pane, in the <strong>Apply India taxes</strong> field group, select the <strong>Service tax</strong> check box. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
+<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> pane, in the <strong>Apply India taxes</strong> field group, select the <strong>Service tax</strong> check box. For more information, see <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
 <li><p>In the <strong>Service tax</strong> field group, in the <strong>Accounting basis</strong> field, select <strong>Point of taxation basis only</strong>.</p></li>
 </ol></td>
 </tr>
@@ -72,11 +73,11 @@ The following table shows the prerequisites that must be in place before you sta
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**.
 
-2.  Create a purchase order, and then create purchase order lines. For more information, see [Create a purchase order](create-a-purchase-order.md) and [(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\)).
+2.  Create a purchase order, and then create purchase order lines. For more information, see [Create a purchase order](create-a-purchase-order.md) and [(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\)).
 
 3.  In the **Purchase order** form, on the **Purchase order lines** FastTab, enter the quantity and the purchase price of the items.
 
-4.  On the **Line details** FastTab, on the **Setup** tab, select the sales tax group and item sales tax group for the service tax. For more information, see [(IND) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj664688\(v=ax.60\)) and [(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\)).
+4.  On the **Line details** FastTab, on the **Setup** tab, select the sales tax group and item sales tax group for the service tax. For more information, see [(IND) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj664688\(v=ax.60\)) and [(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\)).
 
 5.  On the **Tax information** tab, modify the details as required.
     
@@ -88,7 +89,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 6.  On the **Action Pane**, on the **Purchase** tab, click **Confirm** to confirm the purchase order.
 
-7.  On the **Action Pane**, on the **Invoice** tab, click **Invoice** to open the **Vendor invoice** form, where you can generate an invoice for the purchase order. For more information, see [(IND) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj664905\(v=ax.60\)).
+7.  On the **Action Pane**, on the **Invoice** tab, click **Invoice** to open the **Vendor invoice** form, where you can generate an invoice for the purchase order. For more information, see [(IND) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj664905\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -104,9 +105,9 @@ The following table shows the prerequisites that must be in place before you sta
 
 
 
-9.  Create and post the journal to settle the invoice in the **Payment journal** and **Journal voucher** forms. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)), [(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664794\(v=ax.60\)), and [(IND) Calculate service tax using a vendor payment journal](ind-calculate-service-tax-using-a-vendor-payment-journal.md).
+9.  Create and post the journal to settle the invoice in the **Payment journal** and **Journal voucher** forms. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)), [(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj664794\(v=ax.60\)), and [(IND) Calculate service tax using a vendor payment journal](ind-calculate-service-tax-using-a-vendor-payment-journal.md).
 
-10. In the **Sales tax payments** form, complete the sales tax payment process. For more information, see [(IND) Calculate sales tax settlements](ind-calculate-sales-tax-settlements.md) and [(IND) Sales tax payments (modified form)](https://technet.microsoft.com/en-us/library/jj677884\(v=ax.60\)).
+10. In the **Sales tax payments** form, complete the sales tax payment process. For more information, see [(IND) Calculate sales tax settlements](ind-calculate-sales-tax-settlements.md) and [(IND) Sales tax payments (modified form)](https://technet.microsoft.com/library/jj677884\(v=ax.60\)).
 
 11. Create and post the journal to pay the service tax to the tax authority by using the **Payment journal** and **Journal voucher** forms.
 

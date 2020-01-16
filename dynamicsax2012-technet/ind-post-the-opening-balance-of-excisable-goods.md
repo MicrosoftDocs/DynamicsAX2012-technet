@@ -2,8 +2,9 @@
 title: (IND) Post the opening balance of excisable goods
 TOCTitle: (IND) Post the opening balance of excisable goods
 ms:assetid: c553648e-5231-4759-a396-5bf5837e2fea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664863(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664863(v=AX.60)
 ms:contentKeyID: 49386193
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the movement journal to post the opening balance of the quantity of excisabl
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa598740(v=ax.60)">Journal lines, Inventory movement (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa598740(v=ax.60)">Journal lines, Inventory movement (form)</A>.</P>
 
 
 
@@ -69,9 +70,9 @@ Use the movement journal to post the opening balance of the quantity of excisabl
 
 ## See also
 
-[(IND) RG23A tax details (form)](https://technet.microsoft.com/en-us/library/jj678015\(v=ax.60\))
+[(IND) RG23A tax details (form)](https://technet.microsoft.com/library/jj678015\(v=ax.60\))
 
-[(IND) RG23C tax details (form)](https://technet.microsoft.com/en-us/library/jj677926\(v=ax.60\))
+[(IND) RG23C tax details (form)](https://technet.microsoft.com/library/jj677926\(v=ax.60\))
 
   
 

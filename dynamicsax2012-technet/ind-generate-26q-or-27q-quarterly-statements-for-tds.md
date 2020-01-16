@@ -2,8 +2,9 @@
 title: (IND) Generate 26Q or 27Q quarterly statements for TDS
 TOCTitle: (IND) Generate 26Q or 27Q quarterly statements for TDS
 ms:assetid: 05b0a41e-c523-4677-ad86-3c7b4cd4a97d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664451(v=AX.60)
 ms:contentKeyID: 49385531
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ The following prerequisites are required to generate Form 26Q statements:
 
   - In the **Withholding tax codes** form, set up the reporting codes for the withholding tax components that are used for the TDS transactions that are posted for the period.
 
-  - Enter the challan details for all TDS transactions that are posted for the period. For more information, see [(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\)).
+  - Enter the challan details for all TDS transactions that are posted for the period. For more information, see [(IND) Challan information (form)](https://technet.microsoft.com/library/jj677847\(v=ax.60\)).
 
 ## To generate 26Q or 27Q quarterly statements
 
@@ -93,9 +94,9 @@ The following prerequisites are required to generate Form 26Q statements:
 
 ## See also
 
-[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/en-us/library/jj678017\(v=ax.60\))
+[(IND) Withholding tax component groups (form)](https://technet.microsoft.com/library/jj678017\(v=ax.60\))
 
-[(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/en-us/library/jj664934\(v=ax.60\))
+[(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/library/jj664934\(v=ax.60\))
 
   
 

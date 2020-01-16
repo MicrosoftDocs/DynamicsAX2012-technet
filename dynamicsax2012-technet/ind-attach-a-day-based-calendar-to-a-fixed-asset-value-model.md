@@ -2,8 +2,9 @@
 title: (IND) Attach a day-based calendar to a fixed asset value model
 TOCTitle: (IND) Attach a day-based calendar to a fixed asset value model
 ms:assetid: 230c0285-83a7-42be-a2e0-157614d0a234
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664563(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664563(v=AX.60)
 ms:contentKeyID: 49385640
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

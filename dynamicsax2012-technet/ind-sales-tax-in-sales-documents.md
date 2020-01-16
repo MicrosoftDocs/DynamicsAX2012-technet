@@ -2,8 +2,9 @@
 title: (IND) Sales tax in sales documents
 TOCTitle: (IND) Sales tax in sales documents
 ms:assetid: c931c78a-06a1-4b2f-80e6-5732634bebdf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664876(v=AX.60)
 ms:contentKeyID: 49386206
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

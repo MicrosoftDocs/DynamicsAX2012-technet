@@ -2,8 +2,9 @@
 title: (IND) Extend the export obligation period for an EPCG license
 TOCTitle: (IND) Extend the export obligation period for an EPCG license
 ms:assetid: 28b07b54-32ce-494e-8305-4a4c9654e172
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664575(v=AX.60)
 ms:contentKeyID: 49385653
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

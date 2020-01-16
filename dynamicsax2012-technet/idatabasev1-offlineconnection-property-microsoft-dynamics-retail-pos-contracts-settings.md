@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDatabaseV1.OfflineConnection Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Settings)
 TOCTitle: OfflineConnection Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Settings.IDatabaseV1.OfflineConnection
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.settings.idatabasev1.offlineconnection(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.settings.idatabasev1.offlineconnection(v=AX.60)
 ms:contentKeyID: 47129185
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property SqlConnection^ OfflineConnection {
 
 #### Property Value
 
-Type: [System.Data.SqlClient.SqlConnection](https://technet.microsoft.com/en-us/library/sd2728ad\(v=ax.60\))  
-The [System.Data.SqlClient.SqlConnection](https://technet.microsoft.com/en-us/library/sd2728ad\(v=ax.60\)) value.  
+Type: [System.Data.SqlClient.SqlConnection](https://technet.microsoft.com/library/sd2728ad\(v=ax.60\))  
+The [System.Data.SqlClient.SqlConnection](https://technet.microsoft.com/library/sd2728ad\(v=ax.60\)) value.  
 
 ## Remarks
 

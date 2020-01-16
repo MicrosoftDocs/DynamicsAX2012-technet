@@ -2,8 +2,9 @@
 title: (IND) Post service tax in purchase transactions by using the Invoice approval journal form
 TOCTitle: (IND) Post service tax in purchase transactions by using the Invoice approval journal form
 ms:assetid: 0325e79f-eac0-46b1-975b-58f7c9a3f548
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664438(v=AX.60)
 ms:contentKeyID: 49385527
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,7 +75,7 @@ Use the **Invoice approval journal** form to create and post a journal to post s
 
 [(IND) Calculate service tax in an Invoice journal form](ind-calculate-service-tax-in-an-invoice-journal-form.md)
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

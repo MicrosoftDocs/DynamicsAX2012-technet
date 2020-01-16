@@ -2,8 +2,9 @@
 title: Include cumulative updates and hotfixes in a new installation (slipstreaming)
 TOCTitle: Include cumulative updates and hotfixes in a new installation (slipstreaming)
 ms:assetid: bda5bb5d-78a2-491d-b2e4-713f1ef08a20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378076(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378076(v=AX.60)
 ms:contentKeyID: 36870659
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

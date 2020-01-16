@@ -2,8 +2,9 @@
 title: (IND) Calculate service tax in an Invoice journal form
 TOCTitle: (IND) Calculate service tax in an Invoice journal form
 ms:assetid: e8a6a871-4911-43e9-8be6-31641204d914
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710919(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710919(v=AX.60)
 ms:contentKeyID: 49386331
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,7 +23,7 @@ Use the **Invoice journal** form to calculate service tax for vendors. You can s
 
 1.  Click **Accounts payable** \> **Journals** \> **Invoices** \> **Invoice journal**.
 
-2.  Press CTRL+N to create a journal, and then enter the journal details. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [(IND) Invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj677950\(v=ax.60\)).
+2.  Press CTRL+N to create a journal, and then enter the journal details. For more information, see [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md) and [(IND) Invoice journal (modified form)](https://technet.microsoft.com/library/jj677950\(v=ax.60\)).
 
 3.  Click **Lines** to open the **Journal voucher** form.
 
@@ -80,15 +81,15 @@ Use the **Invoice journal** form to calculate service tax for vendors. You can s
 
 ## See also
 
-[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/en-us/library/jj664595\(v=ax.60\))
+[(IND) Invoice pool excl. posting (modified form)](https://technet.microsoft.com/library/jj664595\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
 [(IND) Calculate sales tax using the Invoice journal lines form](ind-calculate-sales-tax-using-the-invoice-journal-lines-form.md)
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

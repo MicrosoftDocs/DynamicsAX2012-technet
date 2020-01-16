@@ -2,8 +2,9 @@
 title: (IND) Accounts payable
 TOCTitle: (IND) Accounts payable
 ms:assetid: c96faff9-3f59-463e-a76d-9f4488496425
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664906(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664906(v=AX.60)
 ms:contentKeyID: 49386234
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

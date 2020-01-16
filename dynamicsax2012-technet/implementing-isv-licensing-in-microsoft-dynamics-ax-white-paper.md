@@ -2,8 +2,9 @@
 title: Implementing ISV licensing in Microsoft Dynamics AX (White paper)
 TOCTitle: Implementing ISV licensing in Microsoft Dynamics AX
 ms:assetid: 9268d961-85f8-44ea-8471-d6336e1e1ba2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh457010(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh457010(v=AX.60)
 ms:contentKeyID: 37008246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

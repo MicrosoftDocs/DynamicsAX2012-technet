@@ -2,8 +2,9 @@
 title: (IND) Create a primary EPCG license
 TOCTitle: (IND) Create a primary EPCG license
 ms:assetid: 538a841e-a3e3-4511-9e24-36bf38c31061
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677815(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677815(v=AX.60)
 ms:contentKeyID: 49385779
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ Use the **EXIM EPCG Schemes** form to create a primary Export Promotion Capital 
 
 [(IND) Merge EPCG licenses](ind-merge-epcg-licenses.md)
 
-[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
+[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/library/jj677817\(v=ax.60\))
 
   
 

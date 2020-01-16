@@ -2,8 +2,9 @@
 title: (IND) Set up EXIM ports
 TOCTitle: (IND) Set up EXIM ports
 ms:assetid: d96db641-4d7c-439e-b034-f00e24ae6066
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664931(v=AX.60)
 ms:contentKeyID: 49386260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Set up the export and import (EXIM) port authorities that you reference in expor
 
 4.  In the **Bank account** field, select the company bank account that is registered with the port authority.
     
-    For more information about how to set up a bank account, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+    For more information about how to set up a bank account, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 5.  In the **Registration number** field, enter the registration number that the port authority issued for the bank account.
 
@@ -49,7 +50,7 @@ Set up the export and import (EXIM) port authorities that you reference in expor
 
 ## See also
 
-[(IND) EXIM ports (form)](https://technet.microsoft.com/en-us/library/jj677922\(v=ax.60\))
+[(IND) EXIM ports (form)](https://technet.microsoft.com/library/jj677922\(v=ax.60\))
 
   
 

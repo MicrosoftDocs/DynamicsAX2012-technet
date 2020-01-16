@@ -2,8 +2,9 @@
 title: (IND) Calculate and post taxes for a customer order
 TOCTitle: (IND) Calculate and post taxes for a customer order
 ms:assetid: a453d52b-adc3-4b1c-b773-5ee97a229940
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268484(v=AX.60)
 ms:contentKeyID: 54917023
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ Use the following procedure to calculate and post taxes for a retail customer or
 
 4.  Create a charges transaction. For more information, see [View store transactions](view-store-transactions.md).
 
-5.  On the **Tax information** tab, in the **Location** field, select the location of the legal entity. The **Address** field is updated with the address information in the **Legal entities** form. The **STC number** field is updated with information from the **Manage tax information** form. For more information, see [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\)) and [(IND) Manage tax information (form)](https://technet.microsoft.com/en-us/library/jj664802\(v=ax.60\)).
+5.  On the **Tax information** tab, in the **Location** field, select the location of the legal entity. The **Address** field is updated with the address information in the **Legal entities** form. The **STC number** field is updated with information from the **Manage tax information** form. For more information, see [Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\)) and [(IND) Manage tax information (form)](https://technet.microsoft.com/library/jj664802\(v=ax.60\)).
 
 6.  In the **Tax information** field, select the tax information for the legal entity, and then close the form.
 

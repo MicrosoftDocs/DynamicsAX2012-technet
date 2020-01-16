@@ -2,8 +2,9 @@
 title: (IND) Post challan and update PLA information for excise duty
 TOCTitle: (IND) Post challan and update PLA information for excise duty
 ms:assetid: 67996478-eb68-4910-9832-edda403e0e96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677886(v=AX.60)
 ms:contentKeyID: 49385851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -141,15 +142,15 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\))
+[(IND) Challan information (form)](https://technet.microsoft.com/library/jj677847\(v=ax.60\))
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
 [(IND) Set up excise tax components](ind-set-up-excise-tax-components.md)
 
 [(IND) Set up excise settlement periods](ind-set-up-excise-settlement-periods.md)
 
-[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664794\(v=ax.60\))
+[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj664794\(v=ax.60\))
 
   
 

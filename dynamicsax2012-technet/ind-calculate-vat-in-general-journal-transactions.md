@@ -2,8 +2,9 @@
 title: (IND) Calculate VAT in general journal transactions
 TOCTitle: (IND) Calculate VAT in general journal transactions
 ms:assetid: 61e6809f-27cb-4b7c-aade-fafb5f2ccd75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677858(v=AX.60)
 ms:contentKeyID: 49385824
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -109,7 +110,7 @@ The item tax group is VAT at 10 percent, and the tax rate is 10 percent. When th
 
 ## See also
 
-[(IND) Deferment schedule (form)](https://technet.microsoft.com/en-us/library/jj664609\(v=ax.60\))
+[(IND) Deferment schedule (form)](https://technet.microsoft.com/library/jj664609\(v=ax.60\))
 
   
 

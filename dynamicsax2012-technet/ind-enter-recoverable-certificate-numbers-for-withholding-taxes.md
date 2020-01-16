@@ -2,8 +2,9 @@
 title: (IND) Enter recoverable certificate numbers for withholding taxes
 TOCTitle: (IND) Enter recoverable certificate numbers for withholding taxes
 ms:assetid: 003bdb19-67cc-4f06-8979-be02b6886fba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664424(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664424(v=AX.60)
 ms:contentKeyID: 49385512
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: India
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the following procedure to enter information about certificate numbers and dates for Tax Collected at Source (TCS) and Tax Deducted at Source (TDS) certificates that are received for a specific vendor, customer, or ledger. You can update the certificate numbers and dates that are recorded for withholding tax transactions in this form by using the **Update certificate** form. See [(IND) Update certificate (form)](https://technet.microsoft.com/en-us/library/jj664755\(v=ax.60\)).
+Use the following procedure to enter information about certificate numbers and dates for Tax Collected at Source (TCS) and Tax Deducted at Source (TDS) certificates that are received for a specific vendor, customer, or ledger. You can update the certificate numbers and dates that are recorded for withholding tax transactions in this form by using the **Update certificate** form. See [(IND) Update certificate (form)](https://technet.microsoft.com/library/jj664755\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Withholding tax** \> **India** \> **Recoverable certificates**.
 
@@ -37,9 +38,9 @@ Use the following procedure to enter information about certificate numbers and d
 
 ## See also
 
-[(IND) Certificate transactions (form)](https://technet.microsoft.com/en-us/library/jj664769\(v=ax.60\))
+[(IND) Certificate transactions (form)](https://technet.microsoft.com/library/jj664769\(v=ax.60\))
 
-[(IND) Update certificate (form)](https://technet.microsoft.com/en-us/library/jj664755\(v=ax.60\))
+[(IND) Update certificate (form)](https://technet.microsoft.com/library/jj664755\(v=ax.60\))
 
   
 

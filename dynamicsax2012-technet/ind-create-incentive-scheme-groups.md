@@ -2,8 +2,9 @@
 title: (IND) Create incentive scheme groups
 TOCTitle: (IND) Create incentive scheme groups
 ms:assetid: 27d303a2-e17b-49f7-bdae-6b91ea24854a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664572(v=AX.60)
 ms:contentKeyID: 49385650
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,9 +69,9 @@ The incentive scheme group can be attached to an import order in the **Purchase 
 
 [(IND) Set up tax codes for incentive scheme groups](ind-set-up-tax-codes-for-incentive-scheme-groups.md)
 
-[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/en-us/library/jj664715\(v=ax.60\))
+[(IND) Incentive scheme groups (form)](https://technet.microsoft.com/library/jj664715\(v=ax.60\))
 
-[(IND) Tax codes for incentive schemes (form)](https://technet.microsoft.com/en-us/library/jj664578\(v=ax.60\))
+[(IND) Tax codes for incentive schemes (form)](https://technet.microsoft.com/library/jj664578\(v=ax.60\))
 
   
 

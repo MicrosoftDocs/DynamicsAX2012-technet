@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDialogV1.PriceCheck Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: PriceCheck Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.PriceCheck(System.Boolean,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,System.String@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.pricecheck(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.pricecheck(v=AX.60)
 ms:contentKeyID: 47343829
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ DialogResult PriceCheck(
 #### Parameters
 
   - useScanner  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -70,11 +71,11 @@ DialogResult PriceCheck(
 <!-- end list -->
 
   - inputText  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/en-us/library/5ahe29t9\(v=ax.60\))  
+Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/library/5ahe29t9\(v=ax.60\))  
 One of the DialogResult values.  
 
 ## See Also

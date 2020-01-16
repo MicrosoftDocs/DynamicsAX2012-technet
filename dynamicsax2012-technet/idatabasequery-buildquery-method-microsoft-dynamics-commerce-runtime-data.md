@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDatabaseQuery.BuildQuery Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: BuildQuery Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQuery.BuildQuery(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQueryBuilder)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.idatabasequery.buildquery(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatabasequery.buildquery(v=AX.60)
 ms:contentKeyID: 65319385
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ String^ BuildQuery(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 A string representing the command to be executed against the database.  
 
 ## See Also

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICurrencyV1.GetExchangeRate Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetExchangeRate Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICurrencyV1.GetExchangeRate(System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icurrencyv1.getexchangerate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icurrencyv1.getexchangerate(v=AX.60)
 ms:contentKeyID: 47344178
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ Decimal GetExchangeRate(
 #### Parameters
 
   - fromCurrency  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - toCurrency  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The exchange rate returned is divided by 100 and must be multiplied.  
 
 ## See Also

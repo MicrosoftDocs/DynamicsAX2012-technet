@@ -2,8 +2,9 @@
 title: (IND) Revalue assets overview
 TOCTitle: (IND) Revalue assets overview
 ms:assetid: c66b2426-c3c6-4c91-9bd9-a53b706192bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664867(v=AX.60)
 ms:contentKeyID: 49386197
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

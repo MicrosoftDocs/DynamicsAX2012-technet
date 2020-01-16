@@ -2,8 +2,9 @@
 title: (IND) Post bills of entry for import orders
 TOCTitle: (IND) Post bills of entry for import orders
 ms:assetid: cc4613d7-fd2a-4f94-8f4d-8fe26f91d78d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733171(v=AX.60)
 ms:contentKeyID: 49685139
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,13 +60,13 @@ You can use the **Bill of entry** form to post a bill of entry and attach the bi
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Bill of entry number (form)](https://technet.microsoft.com/en-us/library/jj664729\(v=ax.60\))
+[(IND) Bill of entry number (form)](https://technet.microsoft.com/library/jj664729\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Import invoice number (form)](https://technet.microsoft.com/en-us/library/jj677885\(v=ax.60\))
+[(IND) Import invoice number (form)](https://technet.microsoft.com/library/jj677885\(v=ax.60\))
 
   
 

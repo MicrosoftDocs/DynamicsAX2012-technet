@@ -2,8 +2,9 @@
 title: (IND) Set up the SION items
 TOCTitle: (IND) Set up the SION items
 ms:assetid: 7aaaaad3-d2cc-473d-9d3c-893db81850e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677954(v=AX.60)
 ms:contentKeyID: 49385917
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ As part of setting up Standard Input Output Norms (SION), you can assign input i
 
 Input items are added to a bill of materials (BOM) for a finished product. By default, when you assign a BOM to the SION, all the items that you include in the BOM are displayed in the SION items list. You can add or delete BOM items in the SION items list after you assign the BOM to the SION.
 
-When the quantity of input items under an Advance Authorization (AA) incentive scheme is determined from the quantity of a SION input item, the importable items are related items. For example, an exporter manufactures item A as a finished product from imported raw materials B and C. For every unit of item B, the exporter imports two units of item C. In the SION, item B is the input item and item C is the related item. For more information, see [(IND) Related items (form)](https://technet.microsoft.com/en-us/library/jj664922\(v=ax.60\)).
+When the quantity of input items under an Advance Authorization (AA) incentive scheme is determined from the quantity of a SION input item, the importable items are related items. For example, an exporter manufactures item A as a finished product from imported raw materials B and C. For every unit of item B, the exporter imports two units of item C. In the SION, item B is the input item and item C is the related item. For more information, see [(IND) Related items (form)](https://technet.microsoft.com/library/jj664922\(v=ax.60\)).
 
 Use this procedure to select the input goods that are used for a finished product.
 
@@ -90,11 +91,11 @@ Use this procedure to select the input goods that are used for a finished produc
 
 [(IND) Setting up SION in Inventory management](ind-setting-up-sion-in-inventory-management.md)
 
-[(IND) SION (form)](https://technet.microsoft.com/en-us/library/jj710966\(v=ax.60\))
+[(IND) SION (form)](https://technet.microsoft.com/library/jj710966\(v=ax.60\))
 
-[(IND) SION items (form)](https://technet.microsoft.com/en-us/library/jj664548\(v=ax.60\))
+[(IND) SION items (form)](https://technet.microsoft.com/library/jj664548\(v=ax.60\))
 
-[(IND) Related items (form)](https://technet.microsoft.com/en-us/library/jj664922\(v=ax.60\))
+[(IND) Related items (form)](https://technet.microsoft.com/library/jj664922\(v=ax.60\))
 
   
 

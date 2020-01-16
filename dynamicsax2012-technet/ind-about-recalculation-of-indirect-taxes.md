@@ -2,8 +2,9 @@
 title: (IND) About recalculation of indirect taxes
 TOCTitle: (IND) About recalculation of indirect taxes
 ms:assetid: c3d8058e-a09f-4d9a-b20b-df4b2abf3e95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730998(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730998(v=AX.60)
 ms:contentKeyID: 49675240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

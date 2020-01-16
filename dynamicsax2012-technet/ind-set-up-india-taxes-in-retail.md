@@ -2,8 +2,9 @@
 title: (IND) Set up India taxes in Retail
 TOCTitle: (IND) Set up India taxes in Retail
 ms:assetid: 2dc8eee8-20cf-49ab-84c3-70f0d434ab24
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268482(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268482(v=AX.60)
 ms:contentKeyID: 54917021
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

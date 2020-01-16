@@ -2,8 +2,9 @@
 title: (IND) Post purchase transactions of excise using general and payment journals
 TOCTitle: (IND) Post purchase transactions of excise using general and payment journals
 ms:assetid: f6db237e-6162-4256-9879-534819780328
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710964(v=AX.60)
 ms:contentKeyID: 49386376
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -113,13 +114,13 @@ To update the excise register on the date the invoice is posted, you must select
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
   
 

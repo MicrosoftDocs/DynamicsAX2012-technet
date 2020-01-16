@@ -2,8 +2,9 @@
 title: (IND) Merge Advance authorization (AA) licenses
 TOCTitle: (IND) Merge Advance authorization (AA) licenses
 ms:assetid: 489e95b5-79e5-4db7-b04b-32d5800e462c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664668(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664668(v=AX.60)
 ms:contentKeyID: 49385742
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ When multiple authorizations are merged, the following actions occur:
 
 ## See also
 
-[(IND) Merge licenses (form)](https://technet.microsoft.com/en-us/library/jj677912\(v=ax.60\))
+[(IND) Merge licenses (form)](https://technet.microsoft.com/library/jj677912\(v=ax.60\))
 
 [(IND) Create an export order and apply the AA incentive scheme to the export order](ind-create-an-export-order-and-apply-the-aa-incentive-scheme-to-the-export-order.md)
 

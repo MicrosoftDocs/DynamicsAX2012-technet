@@ -2,8 +2,9 @@
 title: (IND) Post service tax in purchase transactions by using the General journal form
 TOCTitle: (IND) Post service tax in purchase transactions by using the General journal form
 ms:assetid: ab3f66a3-dca9-413c-8a42-b446ba96f493
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664759(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664759(v=AX.60)
 ms:contentKeyID: 49386089
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,13 +75,13 @@ Use the **General journal** form to create and post a journal to post service ta
 
 ## See also
 
-[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj678053\(v=ax.60\))
+[(IND) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj678053\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) About the EXIM Export Promotion Capital Goods (EPCG) incentive scheme
 TOCTitle: (IND) About the EXIM Export Promotion Capital Goods (EPCG) incentive scheme
 ms:assetid: 25688887-6026-4d34-9eb0-d1e22aa97726
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664566(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664566(v=AX.60)
 ms:contentKeyID: 49385644
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

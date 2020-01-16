@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodes Methods (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: IInfoCodes Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IInfoCodes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodes_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodes_methods(v=AX.60)
 ms:contentKeyID: 47344464
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

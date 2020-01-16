@@ -2,8 +2,9 @@
 title: Import a product file from a vendor
 TOCTitle: Import a product file from a vendor
 ms:assetid: c3ea6a29-24e0-43d3-90dd-80d5bd4271bd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597236(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597236(v=AX.60)
 ms:contentKeyID: 39519310
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -94,11 +95,11 @@ For more information about how to review and approve imported product data by us
 
 [About importing products from a vendor](about-importing-products-from-a-vendor.md)
 
-[Vendor catalogs (list page)](https://technet.microsoft.com/en-us/library/hh227480\(v=ax.60\))
+[Vendor catalogs (list page)](https://technet.microsoft.com/library/hh227480\(v=ax.60\))
 
-[Update catalog (form)](https://technet.microsoft.com/en-us/library/hh209525\(v=ax.60\))
+[Update catalog (form)](https://technet.microsoft.com/library/hh209525\(v=ax.60\))
 
-[Catalog approval page (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597317\(v=ax.60\))
+[Catalog approval page (form) (Retail)](https://technet.microsoft.com/library/hh597317\(v=ax.60\))
 
   
 

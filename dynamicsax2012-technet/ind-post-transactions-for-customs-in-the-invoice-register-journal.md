@@ -2,8 +2,9 @@
 title: (IND) Post transactions for customs in the Invoice register journal
 TOCTitle: (IND) Post transactions for customs in the Invoice register journal
 ms:assetid: 8c71a79e-f0f2-40e0-ac6b-1f9b0e136767
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678014(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678014(v=AX.60)
 ms:contentKeyID: 49385974
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,11 +44,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Journal voucher - Invoice register (modified form)](https://technet.microsoft.com/en-us/library/jj664527\(v=ax.60\))
+[(IND) Journal voucher - Invoice register (modified form)](https://technet.microsoft.com/library/jj664527\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
   
 

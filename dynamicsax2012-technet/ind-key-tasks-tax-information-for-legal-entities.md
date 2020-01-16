@@ -2,8 +2,9 @@
 title: '(IND) Key tasks: Tax information for legal entities'
 TOCTitle: '(IND) Key tasks: Tax information for legal entities'
 ms:assetid: b89741a5-f117-442c-8c5a-21038822e9f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664813(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664813(v=AX.60)
 ms:contentKeyID: 49386145
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -117,7 +118,7 @@ Some legal entities have multiple addresses associated with them and require dif
 
 6.  Select the **Primary** check box if the tax information that you are entering is the primary tax information for the selected address.
 
-7.  Enter or select the tax information in the remaining fields. For more information, see [(IND) Manage tax information (form)](https://technet.microsoft.com/en-us/library/jj664802\(v=ax.60\)).
+7.  Enter or select the tax information in the remaining fields. For more information, see [(IND) Manage tax information (form)](https://technet.microsoft.com/library/jj664802\(v=ax.60\)).
 
 ### Specify the large taxpayer unit (LTU) code for a legal entity in Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2
 
@@ -163,7 +164,7 @@ Back to top
     
       - **Ward number**
     
-    For descriptions of these fields, see [(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\)).
+    For descriptions of these fields, see [(IND) Legal entities (modified form)](https://technet.microsoft.com/library/jj664569\(v=ax.60\)).
 
 Back to top
 
@@ -215,17 +216,17 @@ Back to top
     
       - **State code**
     
-    For descriptions of these fields, see [(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\)).
+    For descriptions of these fields, see [(IND) Legal entities (modified form)](https://technet.microsoft.com/library/jj664569\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\))
+[(IND) Legal entities (modified form)](https://technet.microsoft.com/library/jj664569\(v=ax.60\))
 
-[(IND) Manage addresses (modified form)](https://technet.microsoft.com/en-us/library/jj664593\(v=ax.60\))
+[(IND) Manage addresses (modified form)](https://technet.microsoft.com/library/jj664593\(v=ax.60\))
 
-[(IND) Manage tax information (form)](https://technet.microsoft.com/en-us/library/jj664802\(v=ax.60\))
+[(IND) Manage tax information (form)](https://technet.microsoft.com/library/jj664802\(v=ax.60\))
 
 ## Find related tasks
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IItemTriggerV1.PrePriceOverride Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: PrePriceOverride Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IItemTriggerV1.PrePriceOverride(Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResult,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.iitemtriggerv1.prepriceoverride(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.iitemtriggerv1.prepriceoverride(v=AX.60)
 ms:contentKeyID: 47129010
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,7 +79,7 @@ void PrePriceOverride(
 <!-- end list -->
 
   - lineId  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

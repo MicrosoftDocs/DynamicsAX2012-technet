@@ -2,8 +2,9 @@
 title: Identify the posting search sequence
 TOCTitle: Identify the posting search sequence
 ms:assetid: e0012f69-4902-41e9-b960-977a4a3c1f10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551302(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551302(v=AX.60)
 ms:contentKeyID: 36059702
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

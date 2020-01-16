@@ -2,8 +2,9 @@
 title: (IND) Define a formula to calculate customs duty
 TOCTitle: (IND) Define a formula to calculate customs duty
 ms:assetid: 85691546-e2d7-463c-9acc-c6ad1a2c0185
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677982(v=AX.60)
 ms:contentKeyID: 49385946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -175,9 +176,9 @@ E-CESS and SHE-CESS is calculated on the basis of the surcharge amount and the l
 
 [(IND) Attach tax codes to item tax groups for customs](ind-attach-tax-codes-to-item-tax-groups-for-customs.md)
 
-[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\))
+[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
   
 

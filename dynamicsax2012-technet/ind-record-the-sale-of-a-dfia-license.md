@@ -2,8 +2,9 @@
 title: (IND) Record the sale of a DFIA license
 TOCTitle: (IND) Record the sale of a DFIA license
 ms:assetid: b2f861bf-b296-426f-b517-72be9164acda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664789(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664789(v=AX.60)
 ms:contentKeyID: 49386119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -104,15 +105,15 @@ To view information about the license that was sold, follow these steps:
 
 ## See also
 
-[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/en-us/library/jj664625\(v=ax.60\))
+[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/library/jj664625\(v=ax.60\))
 
-[(IND) Authorization sale details (form)](https://technet.microsoft.com/en-us/library/jj677924\(v=ax.60\))
+[(IND) Authorization sale details (form)](https://technet.microsoft.com/library/jj677924\(v=ax.60\))
 
-[(IND) Sale items details (form)](https://technet.microsoft.com/en-us/library/jj710923\(v=ax.60\))
+[(IND) Sale items details (form)](https://technet.microsoft.com/library/jj710923\(v=ax.60\))
 
-[(IND) Posted tax information (form)](https://technet.microsoft.com/en-us/library/jj664909\(v=ax.60\))
+[(IND) Posted tax information (form)](https://technet.microsoft.com/library/jj664909\(v=ax.60\))
 
-[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/en-us/library/jj664632\(v=ax.60\))
+[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/library/jj664632\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Define the formula to calculate sales tax
 TOCTitle: (IND) Define the formula to calculate sales tax
 ms:assetid: 535ce6d4-95c8-4bd9-802e-5a78fbfcc507
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677819(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677819(v=AX.60)
 ms:contentKeyID: 49385782
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,9 +76,9 @@ You must define the formula to calculate sales tax for the item sales tax group.
 
 ## See also
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj710918\(v=ax.60\))
+[(IND) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj710918\(v=ax.60\))
 
   
 

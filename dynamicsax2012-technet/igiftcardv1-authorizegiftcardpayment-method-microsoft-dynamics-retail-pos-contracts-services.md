@@ -1,9 +1,10 @@
-﻿---
+---
 title: IGiftCardV1.AuthorizeGiftCardPayment Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: AuthorizeGiftCardPayment Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IGiftCardV1.AuthorizeGiftCardPayment(System.Boolean@,System.String@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICardInfo,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITender)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.igiftcardv1.authorizegiftcardpayment(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.igiftcardv1.authorizegiftcardpayment(v=AX.60)
 ms:contentKeyID: 47344135
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,12 +69,12 @@ void AuthorizeGiftCardPayment(
 #### Parameters
 
   - valid  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - comment  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

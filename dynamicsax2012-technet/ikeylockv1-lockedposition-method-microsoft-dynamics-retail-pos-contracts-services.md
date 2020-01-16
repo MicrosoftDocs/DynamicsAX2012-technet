@@ -1,9 +1,10 @@
-﻿---
+---
 title: IKeyLockV1.LockedPosition Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: LockedPosition Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IKeyLockV1.LockedPosition
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ikeylockv1.lockedposition(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ikeylockv1.lockedposition(v=AX.60)
 ms:contentKeyID: 47343849
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ bool LockedPosition()
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if locked position; otherwise, false.  
 
 ## See Also

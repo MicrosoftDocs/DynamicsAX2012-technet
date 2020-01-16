@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICompositionLoader.GetRequestHandlers Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: GetRequestHandlers Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ICompositionLoader.GetRequestHandlers(System.Type)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.icompositionloader.getrequesthandlers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.icompositionloader.getrequesthandlers(v=AX.60)
 ms:contentKeyID: 65319207
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ IEnumerable<IRequestHandler^>^ GetRequestHandlers(
 #### Parameters
 
   - requestType  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[IRequestHandler](irequesthandler-interface-microsoft-dynamics-commerce-runtime-workflow.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[IRequestHandler](irequesthandler-interface-microsoft-dynamics-commerce-runtime-workflow.md)\>  
 The matching request handlers.  
 
 ## See Also

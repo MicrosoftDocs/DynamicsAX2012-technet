@@ -2,8 +2,9 @@
 title: (IND) About accounting codes for services
 TOCTitle: (IND) About accounting codes for services
 ms:assetid: f3653dee-5ddd-4ac3-8f3a-3c334d182edf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn344876(v=AX.60)
 ms:contentKeyID: 56117709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

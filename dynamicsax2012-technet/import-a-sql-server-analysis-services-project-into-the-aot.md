@@ -2,8 +2,9 @@
 title: Import a SQL Server Analysis Services Project into the AOT
 TOCTitle: Import a SQL Server Analysis Services Project into the AOT
 ms:assetid: ee6b90ca-d735-4670-9504-26f4b54466b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn754850(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn754850(v=AX.60)
 ms:contentKeyID: 62504010
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 ---

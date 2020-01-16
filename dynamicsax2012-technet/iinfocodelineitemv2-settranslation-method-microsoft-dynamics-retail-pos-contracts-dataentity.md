@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodeLineItemV2.SetTranslation Method  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: SetTranslation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IInfoCodeLineItemV2.SetTranslation(System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IInfocodeLineItemTranslation)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitemv2.settranslation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iinfocodelineitemv2.settranslation(v=AX.60)
 ms:contentKeyID: 62205582
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ void SetTranslation(
 #### Parameters
 
   - languageId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

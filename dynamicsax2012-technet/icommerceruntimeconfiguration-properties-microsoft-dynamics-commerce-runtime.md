@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICommerceRuntimeConfiguration Properties (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: ICommerceRuntimeConfiguration Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.ICommerceRuntimeConfiguration
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.icommerceruntimeconfiguration_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.icommerceruntimeconfiguration_properties(v=AX.60)
 ms:contentKeyID: 65319896
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

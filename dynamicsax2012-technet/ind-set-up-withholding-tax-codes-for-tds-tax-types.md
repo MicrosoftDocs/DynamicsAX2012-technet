@@ -2,8 +2,9 @@
 title: (IND) Set up withholding tax codes for TDS tax types
 TOCTitle: (IND) Set up withholding tax codes for TDS tax types
 ms:assetid: 59f2fac8-33c1-49e2-8cb8-7b9b460a65cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677837(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677837(v=AX.60)
 ms:contentKeyID: 49385801
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,13 +62,13 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[Withholding tax codes (form)](https://technet.microsoft.com/en-us/library/aa585361\(v=ax.60\))
+[Withholding tax codes (form)](https://technet.microsoft.com/library/aa585361\(v=ax.60\))
 
-[Withholding tax values (form)](https://technet.microsoft.com/en-us/library/aa615586\(v=ax.60\))
+[Withholding tax values (form)](https://technet.microsoft.com/library/aa615586\(v=ax.60\))
 
-[Withholding tax limits (form)](https://technet.microsoft.com/en-us/library/aa592034\(v=ax.60\))
+[Withholding tax limits (form)](https://technet.microsoft.com/library/aa592034\(v=ax.60\))
 
-[(IND) Withholding tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664629\(v=ax.60\))
+[(IND) Withholding tax codes (modified form)](https://technet.microsoft.com/library/jj664629\(v=ax.60\))
 
 [(IND) Setting up Tax Deducted at Source (TDS)](ind-setting-up-tax-deducted-at-source-tds.md)
 

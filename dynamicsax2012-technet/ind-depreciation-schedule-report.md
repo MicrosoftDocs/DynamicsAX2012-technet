@@ -2,8 +2,9 @@
 title: (IND) Depreciation schedule (report)
 TOCTitle: (IND) Depreciation schedule (report)
 ms:assetid: 89ab836a-f464-4fbe-a273-fa4de1f6daae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Xx187159(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Xx187159(v=AX.60)
 ms:contentKeyID: 52055986
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

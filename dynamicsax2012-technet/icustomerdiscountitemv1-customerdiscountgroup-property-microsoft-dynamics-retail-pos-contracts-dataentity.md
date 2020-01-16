@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerDiscountItemV1.CustomerDiscountGroup Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: CustomerDiscountGroup Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerDiscountItemV1.CustomerDiscountGroup
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerdiscountitemv1.customerdiscountgroup(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerdiscountitemv1.customerdiscountgroup(v=AX.60)
 ms:contentKeyID: 49829188
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ property String^ CustomerDiscountGroup {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## See Also
 

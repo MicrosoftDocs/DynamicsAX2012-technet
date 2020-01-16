@@ -2,8 +2,9 @@
 title: (IND) Calculate excise payment
 TOCTitle: (IND) Calculate excise payment
 ms:assetid: d25eeb65-3710-4b7b-aa18-db5b4f1ff409
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664941(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664941(v=AX.60)
 ms:contentKeyID: 49386270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can adjust the tax amounts according to the setoff rule in the **Tax adjustment** form. Select only the excise-related voucher transactions to consider for the settlement process for that period in the **Transactions** form.
 
-The adjusted tax amount is the amount that is left after setting off the amounts among the various tax components according to the setoff rule. For more information, see [(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\)).
+The adjusted tax amount is the amount that is left after setting off the amounts among the various tax components according to the setoff rule. For more information, see [(IND) Tax setoff rule (form)](https://technet.microsoft.com/library/jj677818\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -91,7 +92,7 @@ The adjusted tax amount is the amount that is left after setting off the amounts
 
 [(IND) Excise registers inquiries](ind-excise-registers-inquiries.md)
 
-[(IND) Tax adjustment (form)](https://technet.microsoft.com/en-us/library/jj664843\(v=ax.60\))
+[(IND) Tax adjustment (form)](https://technet.microsoft.com/library/jj664843\(v=ax.60\))
 
   
 

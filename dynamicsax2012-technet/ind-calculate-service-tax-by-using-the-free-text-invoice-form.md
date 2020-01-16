@@ -2,8 +2,9 @@
 title: (IND) Calculate service tax by using the Free text invoice form
 TOCTitle: (IND) Calculate service tax by using the Free text invoice form
 ms:assetid: 1efe9daf-48df-45bf-9fe8-e7a864bf0a30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664541(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664541(v=AX.60)
 ms:contentKeyID: 49385620
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,9 +48,9 @@ Use the **Free text invoice** form to create and post a free text invoice for wh
 
 ## See also
 
-[(IND) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj664875\(v=ax.60\))
+[(IND) Free text invoice (modified form)](https://technet.microsoft.com/library/jj664875\(v=ax.60\))
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

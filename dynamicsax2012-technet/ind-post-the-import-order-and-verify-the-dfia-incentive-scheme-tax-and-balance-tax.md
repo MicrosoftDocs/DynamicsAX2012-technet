@@ -2,8 +2,9 @@
 title: (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax
 TOCTitle: (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax
 ms:assetid: 95a39f52-22c4-4b58-99c6-a4ecd59ae991
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678051(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678051(v=AX.60)
 ms:contentKeyID: 49386013
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

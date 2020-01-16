@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerV3.AddressBooks Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: AddressBooks Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerV3.AddressBooks
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerv3.addressbooks(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerv3.addressbooks(v=AX.60)
 ms:contentKeyID: 62202351
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ICollection<IAddressBookPartyData^>^ AddressBooks {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[IAddressBookPartyData](iaddressbookpartydata-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[IAddressBookPartyData](iaddressbookpartydata-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
 The address books.  
 
 ## See Also

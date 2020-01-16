@@ -2,8 +2,9 @@
 title: (IND) Create credit notes in sales orders for service tax transactions
 TOCTitle: (IND) Create credit notes in sales orders for service tax transactions
 ms:assetid: 325f4b6b-4276-43d6-bb69-745816876cff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664596(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664596(v=AX.60)
 ms:contentKeyID: 49385673
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ When a customer returns sold goods using a credit note, the service tax amount t
 
 ## See also
 
-[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj664849\(v=ax.60\))
+[(IND) Copy sales orders (modified form)](https://technet.microsoft.com/library/jj664849\(v=ax.60\))
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Set up tax codes for VAT
 TOCTitle: (IND) Set up tax codes for VAT
 ms:assetid: 9e09d9ce-b539-47b7-9b0d-99d102434020
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664708(v=AX.60)
 ms:contentKeyID: 49386039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,9 +66,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664855\(v=ax.60\))
+[(IND) Values of sales tax codes (modified form)](https://technet.microsoft.com/library/jj664855\(v=ax.60\))
 
-[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj664864\(v=ax.60\))
+[(IND) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj664864\(v=ax.60\))
 
   
 

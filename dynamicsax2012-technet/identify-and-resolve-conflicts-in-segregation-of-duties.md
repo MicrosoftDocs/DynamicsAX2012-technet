@@ -2,8 +2,9 @@
 title: Identify and resolve conflicts in segregation of duties
 TOCTitle: Identify and resolve conflicts in segregation of duties
 ms:assetid: 32a27e09-8db1-4dba-91ef-e5804360a66d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh556858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh556858(v=AX.60)
 ms:contentKeyID: 39509588
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

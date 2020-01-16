@@ -2,8 +2,9 @@
 title: (IND) Create tax ledger posting groups for a customs tax type
 TOCTitle: (IND) Create tax ledger posting groups for a customs tax type
 ms:assetid: 4b783ff9-3600-47b3-beb6-760fc6b8d004
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664678(v=AX.60)
 ms:contentKeyID: 49385751
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -77,7 +78,7 @@ You can attach the tax ledger posting groups that are set up for customs tax typ
 
 ## See also
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
 [(IND) Create tax codes for customs](ind-create-tax-codes-for-customs.md)
 

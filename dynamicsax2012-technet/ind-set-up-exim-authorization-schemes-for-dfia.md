@@ -2,8 +2,9 @@
 title: (IND) Set up EXIM authorization schemes for DFIA
 TOCTitle: (IND) Set up EXIM authorization schemes for DFIA
 ms:assetid: 567b574c-4f40-4e4b-8557-1cd0de57109e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677824(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677824(v=AX.60)
 ms:contentKeyID: 49385787
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,9 +77,9 @@ After you enable the Duty Free Import Authorization (DFIA) incentive scheme and 
 
 ## See also
 
-[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/en-us/library/jj664625\(v=ax.60\))
+[(IND) EXIM Authorization schemes (form)](https://technet.microsoft.com/library/jj664625\(v=ax.60\))
 
-[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/en-us/library/jj677946\(v=ax.60\))
+[(IND) Incentive scheme parameters (form)](https://technet.microsoft.com/library/jj677946\(v=ax.60\))
 
   
 

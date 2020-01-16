@@ -2,8 +2,9 @@
 title: (IND) Procurement and sourcing
 TOCTitle: (IND) Procurement and sourcing
 ms:assetid: 18df0b99-9598-4957-8c0e-d180363cdfcb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664521(v=AX.60)
 ms:contentKeyID: 49385600
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

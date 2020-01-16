@@ -2,8 +2,9 @@
 title: (IND) Set up accounts for posting tax adjustments
 TOCTitle: (IND) Set up accounts for posting tax adjustments
 ms:assetid: 92afc928-3bfa-4112-8d5d-07396bf6b27a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678059(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678059(v=AX.60)
 ms:contentKeyID: 49386020
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ When you run the tax settlement process, the tax amounts that are adjusted are p
 
 ## See also
 
-[(IND) System accounts (modified form)](https://technet.microsoft.com/en-us/library/jj664740\(v=ax.60\))
+[(IND) System accounts (modified form)](https://technet.microsoft.com/library/jj664740\(v=ax.60\))
 
-[(IND) Chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj677830\(v=ax.60\))
+[(IND) Chart of accounts (modified form)](https://technet.microsoft.com/library/jj677830\(v=ax.60\))
 
   
 

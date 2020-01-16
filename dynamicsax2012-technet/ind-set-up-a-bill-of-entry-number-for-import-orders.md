@@ -2,8 +2,9 @@
 title: (IND) Set up a bill of entry number for import orders
 TOCTitle: (IND) Set up a bill of entry number for import orders
 ms:assetid: 78683235-a969-4e90-abed-5ebdabc403f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677940(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677940(v=AX.60)
 ms:contentKeyID: 49385904
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the **Bill of entry number** form to set up the bill of entry number that th
 
 [(IND) Post bills of entry for import orders](ind-post-bills-of-entry-for-import-orders.md)
 
-[(IND) Bill of entry number (form)](https://technet.microsoft.com/en-us/library/jj664729\(v=ax.60\))
+[(IND) Bill of entry number (form)](https://technet.microsoft.com/library/jj664729\(v=ax.60\))
 
   
 
