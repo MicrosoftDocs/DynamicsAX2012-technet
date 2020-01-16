@@ -2,8 +2,9 @@
 title: (RUS) Set up a payment registration journal
 TOCTitle: (RUS) Set up a payment registration journal
 ms:assetid: cbb1be25-6e06-4db8-95f4-7934cf495b09
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711621(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711621(v=AX.60)
 ms:contentKeyID: 49387945
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

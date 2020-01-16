@@ -2,8 +2,9 @@
 title: (RUS) Creating customs journals
 TOCTitle: (RUS) Creating customs journals
 ms:assetid: d1071b71-9570-46ef-af2d-764d3cc20dfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733286(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733286(v=AX.60)
 ms:contentKeyID: 49685253
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailTransactionTableSchema.CustomerIdColumn Field (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: CustomerIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.CustomerIdColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.customeridcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.customeridcolumn(v=AX.60)
 ms:contentKeyID: 65318341
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Sales tax codes report (TaxTable)
 TOCTitle: Sales tax codes report (TaxTable)
 ms:assetid: 1b56d28e-b9e6-4f49-9425-9f55920e38e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572653(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572653(v=AX.60)
 ms:contentKeyID: 37820205
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

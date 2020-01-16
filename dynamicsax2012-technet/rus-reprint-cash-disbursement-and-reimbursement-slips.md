@@ -2,8 +2,9 @@
 title: (RUS) Reprint cash disbursement and reimbursement slips
 TOCTitle: (RUS) Reprint cash disbursement and reimbursement slips
 ms:assetid: cf36efe3-1b7d-471a-b3dc-fd17c2fb94f4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711624(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711624(v=AX.60)
 ms:contentKeyID: 49387947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Cash transaction (form)](https://technet.microsoft.com/en-us/library/jj678547\(v=ax.60\))
+[(RUS) Cash transaction (form)](https://technet.microsoft.com/library/jj678547\(v=ax.60\))
 
 [(RUS) Register reimbursement or disbursement slips](rus-register-reimbursement-or-disbursement-slips.md)
 

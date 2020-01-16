@@ -2,8 +2,9 @@
 title: (RUS) Changes to company bank accounts
 TOCTitle: (RUS) Changes to company bank accounts
 ms:assetid: 12d801f0-f8af-4b77-92fd-2a88b155edc5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711404(v=AX.60)
 ms:contentKeyID: 49387222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

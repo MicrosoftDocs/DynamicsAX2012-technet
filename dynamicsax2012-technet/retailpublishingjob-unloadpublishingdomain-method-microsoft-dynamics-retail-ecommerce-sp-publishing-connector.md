@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailPublishingJob.UnloadPublishingDomain Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: UnloadPublishingDomain Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJob.UnloadPublishingDomain(System.AppDomain)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.unloadpublishingdomain(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.unloadpublishingdomain(v=AX.60)
 ms:contentKeyID: 65318352
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ void UnloadPublishingDomain(
 #### Parameters
 
   - appDomain  
-    Type: [System.AppDomain](https://technet.microsoft.com/en-us/library/w124b5fa\(v=ax.60\))  
+    Type: [System.AppDomain](https://technet.microsoft.com/library/w124b5fa\(v=ax.60\))  
 
 ## See Also
 

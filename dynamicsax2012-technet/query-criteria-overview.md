@@ -1,9 +1,10 @@
-﻿---
+---
 title: Query Criteria Overview
 TOCTitle: Query Criteria Overview
 ms:assetid: fd2ed539-a9e7-4a6c-af2d-1fa05b5aa12e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa892862(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa892862(v=AX.60)
 ms:contentKeyID: 35254205
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -170,7 +171,7 @@ The following table shows all the operators that are recognized as valid \<Opera
 
 
 > [!NOTE]
-> <P>The Range operator cannot be used to query hidden or locked ranges for a data source or field. For more information about the status property on a query range, see <A href="https://technet.microsoft.com/en-us/library/aa842737(v=ax.60)">Query Properties</A>.</P>
+> <P>The Range operator cannot be used to query hidden or locked ranges for a data source or field. For more information about the status property on a query range, see <A href="https://technet.microsoft.com/library/aa842737(v=ax.60)">Query Properties</A>.</P>
 
 
 

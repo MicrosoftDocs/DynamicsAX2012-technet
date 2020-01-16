@@ -2,8 +2,9 @@
 title: (RUS) Set up tax rates
 TOCTitle: (RUS) Set up tax rates
 ms:assetid: ffc9eece-c934-467d-8f31-0e48ea4a897c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678660(v=AX.60)
 ms:contentKeyID: 49388142
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,7 +56,7 @@ Tax rates are used in calculating a register line, and these rates are set up in
 
 ## See also
 
-[(RUS) Rates (form)](https://technet.microsoft.com/en-us/library/jj856179\(v=ax.60\))
+[(RUS) Rates (form)](https://technet.microsoft.com/library/jj856179\(v=ax.60\))
 
   
 

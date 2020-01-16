@@ -2,8 +2,9 @@
 title: (RUS) Adjust data in registers manually
 TOCTitle: (RUS) Adjust data in registers manually
 ms:assetid: 0637b76a-fcb7-4911-aeca-1e561dd6c417
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711357(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711357(v=AX.60)
 ms:contentKeyID: 49387175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ You can manually add, edit, or delete the calculated register lines.
 
 [(RUS) Approve the register](rus-approve-the-register.md)
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Create a tax register journal](rus-create-a-tax-register-journal.md)
 

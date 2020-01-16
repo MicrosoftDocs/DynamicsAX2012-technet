@@ -2,8 +2,9 @@
 title: (RUS) Factor depreciation method
 TOCTitle: (RUS) Factor depreciation method
 ms:assetid: 291efbcd-0ca1-47bb-ba3f-d28e5d5b8401
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665223(v=AX.60)
 ms:contentKeyID: 49387312
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ For the non-linear method, enter the cutoff percentage value in the **Factor** f
 
 ## See also
 
-[(RUS) Depreciation methods (form)](https://technet.microsoft.com/en-us/library/jj856184\(v=ax.60\))
+[(RUS) Depreciation methods (form)](https://technet.microsoft.com/library/jj856184\(v=ax.60\))
 
 [(RUS) Set up depreciation methods](rus-set-up-depreciation-methods.md)
 

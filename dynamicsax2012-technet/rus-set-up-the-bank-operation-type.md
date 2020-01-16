@@ -2,8 +2,9 @@
 title: (RUS) Set up the bank operation type
 TOCTitle: (RUS) Set up the bank operation type
 ms:assetid: 72df6dc0-7998-4fd2-b7d2-29a9ea7980a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678361(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678361(v=AX.60)
 ms:contentKeyID: 49387591
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Set up a vendor as a foreign counteragent
 TOCTitle: (RUS) Set up a vendor as a foreign counteragent
 ms:assetid: 2b17e5c0-e3e2-40df-b9ad-c54da8f1b072
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665232(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665232(v=AX.60)
 ms:contentKeyID: 49387321
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

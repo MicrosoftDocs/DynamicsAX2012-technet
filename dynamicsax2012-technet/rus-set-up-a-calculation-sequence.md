@@ -2,8 +2,9 @@
 title: (RUS) Set up a calculation sequence
 TOCTitle: (RUS) Set up a calculation sequence
 ms:assetid: 4e128f6f-deda-424b-803f-cd7cb0ff6b6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665371(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665371(v=AX.60)
 ms:contentKeyID: 49387459
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -129,7 +130,7 @@ A calculation sequence is a set of counters that performs a sequence of mathemat
 
 ## See also
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductL2CacheDataStoreAccessor.GetProductsByIds Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetProductsByIds Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.GetProductsByIds(System.Collections.Generic.IList{System.Int64},Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria,System.Collections.Generic.List{System.Int64}@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.getproductsbyids(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.getproductsbyids(v=AX.60)
 ms:contentKeyID: 65315675
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ virtual ProductSearchResult^ GetProductsByIds(
 #### Parameters
 
   - productIds  
-    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -69,7 +70,7 @@ virtual ProductSearchResult^ GetProductsByIds(
 <!-- end list -->
 
   - missed  
-    Type: [System.Collections.Generic.List](https://technet.microsoft.com/en-us/library/6sh2ey19\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.List](https://technet.microsoft.com/library/6sh2ey19\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 #### Return Value
 

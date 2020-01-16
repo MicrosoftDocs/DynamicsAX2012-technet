@@ -2,8 +2,9 @@
 title: Project hour utilization - billable rate report (ProjBillUtilProject)
 TOCTitle: Project hour utilization - billable rate report (ProjBillUtilProject)
 ms:assetid: 3533dbd8-5c6e-424e-bf31-053b8a4ed72f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527783(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527783(v=AX.60)
 ms:contentKeyID: 37831993
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

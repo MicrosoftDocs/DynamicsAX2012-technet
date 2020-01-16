@@ -2,8 +2,9 @@
 title: Receipts list report (PurchReceiptsList)
 TOCTitle: Receipts list report (PurchReceiptsList)
 ms:assetid: fc994af5-0816-47de-a74c-dbb17b01ded4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227660(v=AX.60)
 ms:contentKeyID: 36060883
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

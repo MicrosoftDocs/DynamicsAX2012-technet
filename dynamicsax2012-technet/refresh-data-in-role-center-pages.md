@@ -2,8 +2,9 @@
 title: Refresh data in Role center pages
 TOCTitle: Refresh data in Role center pages
 ms:assetid: f77e4a84-dd6d-446d-8884-0ad1b80ff5f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227550(v=AX.60)
 ms:contentKeyID: 36060035
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Create an assessed tax declaration
 TOCTitle: (RUS) Create an assessed tax declaration
 ms:assetid: 09c73f3b-db8f-4e69-bf0e-285345d4df1c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711371(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711371(v=AX.60)
 ms:contentKeyID: 49387190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -89,7 +90,7 @@ Use this procedure to create an assessed tax declaration. An assessed tax declar
 
 ## See also
 
-[(RUS) Print assessed tax declaration (form)](https://technet.microsoft.com/en-us/library/jj711475\(v=ax.60\))
+[(RUS) Print assessed tax declaration (form)](https://technet.microsoft.com/library/jj711475\(v=ax.60\))
 
 [(RUS) Create a ledger journal of assessed tax transactions](rus-create-a-ledger-journal-of-assessed-tax-transactions.md)
 

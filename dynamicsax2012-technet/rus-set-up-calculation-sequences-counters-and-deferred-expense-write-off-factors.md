@@ -2,8 +2,9 @@
 title: (RUS) Set up calculation sequences, counters, and deferred expense write-off factors
 TOCTitle: (RUS) Set up calculation sequences, counters, and deferred expense write-off factors
 ms:assetid: 2ac680a6-36ad-40e7-93d3-b889b8fcbecc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665229(v=AX.60)
 ms:contentKeyID: 49387318
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -117,9 +118,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
-[(RUS) Writing off methods (form)](https://technet.microsoft.com/en-us/library/jj711659\(v=ax.60\))
+[(RUS) Writing off methods (form)](https://technet.microsoft.com/library/jj711659\(v=ax.60\))
 
   
 

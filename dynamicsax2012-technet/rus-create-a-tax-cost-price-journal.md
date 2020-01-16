@@ -2,8 +2,9 @@
 title: (RUS) Create a tax cost price journal
 TOCTitle: (RUS) Create a tax cost price journal
 ms:assetid: 85f4fc5f-39c0-41a5-84b1-ebd759514232
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923553(v=AX.60)
 ms:contentKeyID: 52075401
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ You can create a tax cost price journal for work in process (WIP) and finished p
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
   
 

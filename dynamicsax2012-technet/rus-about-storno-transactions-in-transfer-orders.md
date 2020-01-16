@@ -2,8 +2,9 @@
 title: (RUS) About storno transactions in transfer orders
 TOCTitle: (RUS) About storno transactions in transfer orders
 ms:assetid: cc0acb26-e121-4ba9-9d64-e21d1183b381
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711623(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711623(v=AX.60)
 ms:contentKeyID: 49387948
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

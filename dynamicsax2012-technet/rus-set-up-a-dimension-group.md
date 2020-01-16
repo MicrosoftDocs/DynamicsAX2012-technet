@@ -2,8 +2,9 @@
 title: (RUS) Set up a dimension group
 TOCTitle: (RUS) Set up a dimension group
 ms:assetid: 7b63fc27-8289-497b-ba2e-8216b9bf584d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923547(v=AX.60)
 ms:contentKeyID: 52075395
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ You can set up a dimension group for each translation group. You can use the **D
 
 ## See also
 
-[(RUS) Dimension groups (form)](https://technet.microsoft.com/en-us/library/jj681876\(v=ax.60\))
+[(RUS) Dimension groups (form)](https://technet.microsoft.com/library/jj681876\(v=ax.60\))
 
   
 

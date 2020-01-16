@@ -2,8 +2,9 @@
 title: Resource assignments report (PSAResourceAssignments)
 TOCTitle: Resource assignments report (PSAResourceAssignments)
 ms:assetid: d898a75a-679f-4222-b102-fa365a3d98a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334502(v=AX.60)
 ms:contentKeyID: 36676491
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

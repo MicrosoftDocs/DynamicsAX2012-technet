@@ -2,8 +2,9 @@
 title: (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction
 TOCTitle: (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction
 ms:assetid: 6a0dd9cd-51cc-4013-ac05-1ead85102723
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716019(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716019(v=AX.60)
 ms:contentKeyID: 62200267
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use the following procedure to verify the details of a disbursement slip that is
 
 2.  In the **Statement journal** form, select a statement to view the details for, and then click **Inquiries** \> **Cash payment journal**.
 
-3.  In the **Slip journal** form, select a cash journal to view the details for, and then click **Lines** to open the **Journal voucher** form. For more information, see [(RUS) Journal voucher (form)](https://technet.microsoft.com/en-us/library/jj923409\(v=ax.60\)) and [(RUS) Journal voucher - Slip journal (form)](https://technet.microsoft.com/en-us/library/jj852151\(v=ax.60\)).
+3.  In the **Slip journal** form, select a cash journal to view the details for, and then click **Lines** to open the **Journal voucher** form. For more information, see [(RUS) Journal voucher (form)](https://technet.microsoft.com/library/jj923409\(v=ax.60\)) and [(RUS) Journal voucher - Slip journal (form)](https://technet.microsoft.com/library/jj852151\(v=ax.60\)).
 
 4.  Verify the details in the following fields on the **Cash order** tab:
     

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PropertyInfoExtensions Class (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: PropertyInfoExtensions Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions(v=AX.60)
 ms:contentKeyID: 62214113
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # PropertyInfoExtensions Class
 
-Encapsulates functionaltiy used to extend the [PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)) type.
+Encapsulates functionaltiy used to extend the [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
@@ -42,7 +43,7 @@ public ref class PropertyInfoExtensions abstract sealed
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions  
 
 ## Thread Safety

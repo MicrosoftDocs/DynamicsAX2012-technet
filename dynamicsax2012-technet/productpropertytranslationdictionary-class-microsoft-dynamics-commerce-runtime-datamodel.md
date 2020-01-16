@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductPropertyTranslationDictionary Class (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ProductPropertyTranslationDictionary Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertyTranslationDictionary
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertytranslationdictionary(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertytranslationdictionary(v=AX.60)
 ms:contentKeyID: 62209445
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ public ref class ProductPropertyTranslationDictionary sealed : public Dictionary
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [ProductPropertyDictionary](productpropertydictionary-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [ProductPropertyDictionary](productpropertydictionary-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
     Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertyTranslationDictionary  
 
 ## Thread Safety

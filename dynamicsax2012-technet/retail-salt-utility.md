@@ -2,8 +2,9 @@
 title: Retail Salt Utility
 TOCTitle: Retail Salt Utility
 ms:assetid: 6221bd2e-0dc1-4c10-80bb-be6f7f5ba1fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859553(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859553(v=AX.60)
 ms:contentKeyID: 63817136
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

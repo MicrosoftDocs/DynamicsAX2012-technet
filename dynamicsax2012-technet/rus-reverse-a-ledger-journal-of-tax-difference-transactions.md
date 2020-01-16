@@ -2,8 +2,9 @@
 title: (RUS) Reverse a ledger journal of tax difference transactions
 TOCTitle: (RUS) Reverse a ledger journal of tax difference transactions
 ms:assetid: c280bfc2-d447-4e61-a2bd-f5d85f408f22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839688(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839688(v=AX.60)
 ms:contentKeyID: 50396834
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Use the **Journals** form to reverse a ledger journal of tax difference transact
 
 [(RUS) Create a ledger journal of tax difference transactions](rus-create-a-ledger-journal-of-tax-difference-transactions.md)
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
   
 

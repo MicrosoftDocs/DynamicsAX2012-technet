@@ -2,8 +2,9 @@
 title: (RUS) Set up a manual schedule for deferred expenses
 TOCTitle: (RUS) Set up a manual schedule for deferred expenses
 ms:assetid: 70154b8c-84ec-48a6-9b7a-b1c7609a22b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678355(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678355(v=AX.60)
 ms:contentKeyID: 49387585
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -50,7 +51,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Manual schedules (form)](https://technet.microsoft.com/en-us/library/jj839694\(v=ax.60\))
+[(RUS) Manual schedules (form)](https://technet.microsoft.com/library/jj839694\(v=ax.60\))
 
   
 

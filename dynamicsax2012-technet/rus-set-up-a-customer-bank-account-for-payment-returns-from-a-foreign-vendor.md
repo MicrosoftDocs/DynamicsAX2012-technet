@@ -2,8 +2,9 @@
 title: (RUS) Set up a customer bank account for payment returns from a foreign vendor
 TOCTitle: (RUS) Set up a customer bank account for payment returns from a foreign vendor
 ms:assetid: ec4cdea3-9f52-4e25-885d-7104cbe35681
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711740(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711740(v=AX.60)
 ms:contentKeyID: 49388063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ For transactions that involve payment returns to a foreign customer, you can set
 
 ## See also
 
-[Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
+[Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\))
 
   
 

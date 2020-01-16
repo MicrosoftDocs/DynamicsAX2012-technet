@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory owner for bailment
 TOCTitle: (RUS) Set up an inventory owner for bailment
 ms:assetid: 8c2551e1-0edd-4ca4-af55-f3558e435ac1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733255(v=AX.60)
 ms:contentKeyID: 49685222
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Inventory owner** form to set up an inventory owner, or bailor, for the bailment process. A vendor, or bailee, can store items that belong to multiple owners. Therefore, you must set up an inventory owner for a vendor. You can set up an identification number for an inventory owner by using the **Accounts payable parameters** form or the **Inventory and warehouse management parameters** form. For more information, see [Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\)) and [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\)).
+Use the **Inventory owner** form to set up an inventory owner, or bailor, for the bailment process. A vendor, or bailee, can store items that belong to multiple owners. Therefore, you must set up an inventory owner for a vendor. You can set up an identification number for an inventory owner by using the **Accounts payable parameters** form or the **Inventory and warehouse management parameters** form. For more information, see [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)) and [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\)).
 
 1.  Click **Procurement and sourcing** \> **Setup** \> **Procurement and sourcing parameters**.
 
@@ -49,9 +50,9 @@ Use the **Inventory owner** form to set up an inventory owner, or bailor, for th
 
 ## See also
 
-[Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\))
+[Procurement and sourcing parameters (form)](https://technet.microsoft.com/library/hh208706\(v=ax.60\))
 
-[(RUS) Inventory owner (form)](https://technet.microsoft.com/en-us/library/jj678549\(v=ax.60\))
+[(RUS) Inventory owner (form)](https://technet.microsoft.com/library/jj678549\(v=ax.60\))
 
   
 

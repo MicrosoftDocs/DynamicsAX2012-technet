@@ -2,8 +2,9 @@
 title: Purchase delivery schedules
 TOCTitle: Purchase delivery schedules
 ms:assetid: 83c2c46c-284e-4f99-a92a-051d80263f34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209316(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209316(v=AX.60)
 ms:contentKeyID: 36058380
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

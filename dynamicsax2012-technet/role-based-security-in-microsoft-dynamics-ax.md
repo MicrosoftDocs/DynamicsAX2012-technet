@@ -2,8 +2,9 @@
 title: Role-based security in Microsoft Dynamics AX
 TOCTitle: Role-based security in Microsoft Dynamics AX
 ms:assetid: 498dde2e-9881-4281-a3f1-ac3753f5794a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731787(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731787(v=AX.60)
 ms:contentKeyID: 35132622
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

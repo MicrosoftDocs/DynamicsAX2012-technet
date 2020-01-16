@@ -2,8 +2,9 @@
 title: (RUS) Receive a group of fixed assets from another company
 TOCTitle: (RUS) Receive a group of fixed assets from another company
 ms:assetid: dd224f6b-5ca3-428a-86a3-098bc4066710
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711675(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711675(v=AX.60)
 ms:contentKeyID: 49387998
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

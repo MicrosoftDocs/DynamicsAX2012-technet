@@ -2,8 +2,9 @@
 title: (RUS) Adjust a cost price using the adjustment wizard
 TOCTitle: (RUS) Adjust a cost price using the adjustment wizard
 ms:assetid: dfb9f2a7-77b2-4cad-b7a4-5111ed786982
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126130(v=AX.60)
 ms:contentKeyID: 52075441
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,7 +62,7 @@ You can use this wizard to create and run cost price adjustments for on-hand tra
 
 ## See also
 
-[(RUS) Closing and adjustment (form)](https://technet.microsoft.com/en-us/library/jj711629\(v=ax.60\))
+[(RUS) Closing and adjustment (form)](https://technet.microsoft.com/library/jj711629\(v=ax.60\))
 
 [(RUS) Adjust the cost price from the ledger account](rus-adjust-the-cost-price-from-the-ledger-account.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) About transportation invoices and job tickets that are based on bills of lading
 TOCTitle: (RUS) About transportation invoices and job tickets that are based on bills of lading
 ms:assetid: bf499453-f221-4050-a88a-99dcb6d3f2fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711575(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711575(v=AX.60)
 ms:contentKeyID: 49387899
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

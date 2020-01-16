@@ -2,8 +2,9 @@
 title: Report a BOM as finished
 TOCTitle: Report a BOM as finished
 ms:assetid: 158f940f-5414-4344-ac57-32310d90f17c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569796(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569796(v=AX.60)
 ms:contentKeyID: 36056063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ You can report a BOM as finished from the following locations:
 
 ## See also
 
-[Report BOM as finished (class form)](https://technet.microsoft.com/en-us/library/aa500110\(v=ax.60\))
+[Report BOM as finished (class form)](https://technet.microsoft.com/library/aa500110\(v=ax.60\))
 
   
 

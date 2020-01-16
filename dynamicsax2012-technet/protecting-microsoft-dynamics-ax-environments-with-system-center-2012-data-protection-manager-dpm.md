@@ -2,8 +2,9 @@
 title: Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM)
 TOCTitle: Protecting Microsoft Dynamics AX environments with DPM
 ms:assetid: 0c68fed3-93b5-4738-b45c-2c249ea99ce6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527684(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527684(v=AX.60)
 ms:contentKeyID: 59626217
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (RUS) Set up purchase and sales agreement classifications
 TOCTitle: (RUS) Set up purchase and sales agreement classifications
 ms:assetid: 56e5feaf-5a7f-43ee-8540-aa338d3f7c5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853183(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853183(v=AX.60)
 ms:contentKeyID: 50396464
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,11 +61,11 @@ When you create a new purchase agreement or sales agreement, you must select the
 
 ## See also
 
-[(RUS) Agreement classification (modified form)](https://technet.microsoft.com/en-us/library/jj665407\(v=ax.60\))
+[(RUS) Agreement classification (modified form)](https://technet.microsoft.com/library/jj665407\(v=ax.60\))
 
-[(RUS) Purchase agreements (modified form)](https://technet.microsoft.com/en-us/library/jj853154\(v=ax.60\))
+[(RUS) Purchase agreements (modified form)](https://technet.microsoft.com/library/jj853154\(v=ax.60\))
 
-[(RUS) Sales agreements (modified form)](https://technet.microsoft.com/en-us/library/jj853228\(v=ax.60\))
+[(RUS) Sales agreements (modified form)](https://technet.microsoft.com/library/jj853228\(v=ax.60\))
 
 [(RUS) About Russian purchase and sales agreements](rus-about-russian-purchase-and-sales-agreements.md)
 

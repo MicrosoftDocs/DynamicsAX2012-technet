@@ -2,8 +2,9 @@
 title: (RUS) Inventory and warehouse management
 TOCTitle: (RUS) Inventory and warehouse management
 ms:assetid: 11c1c044-9add-4656-94d9-77e36273f99a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711403(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711403(v=AX.60)
 ms:contentKeyID: 49387220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

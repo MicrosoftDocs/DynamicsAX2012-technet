@@ -1,9 +1,10 @@
-﻿---
+---
 title: Publish-AXAnalysisProject
 TOCTitle: Publish-AXAnalysisProject
 ms:assetid: 2CEB024B-4EFD-4FB6-80C8-33F0446BF0F0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720246(v=AX.60)
 ms:contentKeyID: 49720036
+author: Khairunj
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

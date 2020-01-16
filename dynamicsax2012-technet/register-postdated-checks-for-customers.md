@@ -2,8 +2,9 @@
 title: Register postdated checks for customers
 TOCTitle: Register postdated checks for customers
 ms:assetid: f3847b57-6b24-4712-9db5-b6b59a4f768d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227528(v=AX.60)
 ms:contentKeyID: 36059978
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

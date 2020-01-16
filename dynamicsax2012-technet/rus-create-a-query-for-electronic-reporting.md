@@ -2,8 +2,9 @@
 title: (RUS) Create a query for electronic reporting
 TOCTitle: (RUS) Create a query for electronic reporting
 ms:assetid: 5683cf1f-cad1-4e11-8ded-eac9ce26c4a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677535(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677535(v=AX.60)
 ms:contentKeyID: 49384839
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,11 +64,11 @@ Use the following procedure to create a query for electronic reporting.
 
 ## See also
 
-[(RUS) Queries (form)](https://technet.microsoft.com/en-us/library/jj710734\(v=ax.60\))
+[(RUS) Queries (form)](https://technet.microsoft.com/library/jj710734\(v=ax.60\))
 
-[(RUS) Create query (form)](https://technet.microsoft.com/en-us/library/jj710690\(v=ax.60\))
+[(RUS) Create query (form)](https://technet.microsoft.com/library/jj710690\(v=ax.60\))
 
-[(RUS) Fixed requisites (form)](https://technet.microsoft.com/en-us/library/jj710680\(v=ax.60\))
+[(RUS) Fixed requisites (form)](https://technet.microsoft.com/library/jj710680\(v=ax.60\))
 
   
 

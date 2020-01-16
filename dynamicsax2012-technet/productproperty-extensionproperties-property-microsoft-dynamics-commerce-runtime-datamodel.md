@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductProperty.ExtensionProperties Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ExtensionProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductProperty.ExtensionProperties
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.extensionproperties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.extensionproperties(v=AX.60)
 ms:contentKeyID: 65318063
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ virtual property ICollection<CommerceProperty^>^ ExtensionProperties {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[CommerceProperty](commerceproperty-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[CommerceProperty](commerceproperty-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

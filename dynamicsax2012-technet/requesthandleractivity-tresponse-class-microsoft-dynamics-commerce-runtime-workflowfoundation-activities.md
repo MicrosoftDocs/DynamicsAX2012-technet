@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestHandlerActivity(TResponse) Class (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: RequestHandlerActivity(TResponse) Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.RequestHandlerActivity`1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn966901(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn966901(v=AX.60)
 ms:contentKeyID: 65317763
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ public ref class RequestHandlerActivity sealed : public CodeActivity<TResponse>
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   Activity  
     ActivityWithResult  
       Activity\<TResponse\>  

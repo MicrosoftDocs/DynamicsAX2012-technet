@@ -2,8 +2,9 @@
 title: (RUS) Create a customs journal line
 TOCTitle: (RUS) Create a customs journal line
 ms:assetid: 980703d7-eb8b-4358-8462-d56b39abb013
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917356(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ917356(v=AX.60)
 ms:contentKeyID: 50952845
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ The quantity of units that is selected for common items cannot exceed the quanti
 
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
-[(RUS) Create customs journal (form)](https://technet.microsoft.com/en-us/library/jj853226\(v=ax.60\))
+[(RUS) Create customs journal (form)](https://technet.microsoft.com/library/jj853226\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PropertyColumnPair Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: PropertyColumnPair Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PropertyColumnPair.#ctor(System.Reflection.PropertyInfo,Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations.ColumnAttribute)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.propertycolumnpair.propertycolumnpair(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.propertycolumnpair.propertycolumnpair(v=AX.60)
 ms:contentKeyID: 65318015
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ PropertyColumnPair(
 #### Parameters
 
   - property  
-    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\))  
+    Type: [System.Reflection.PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\))  
 
 <!-- end list -->
 

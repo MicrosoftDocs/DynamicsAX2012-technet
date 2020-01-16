@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReportConfiguration.IsUserBasedReport Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsUserBasedReport Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReportConfiguration.IsUserBasedReport
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reportconfiguration.isuserbasedreport(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reportconfiguration.isuserbasedreport(v=AX.60)
 ms:contentKeyID: 62211977
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property bool IsUserBasedReport {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 The bool indicating if it is a user based report.  
 
 ## See Also

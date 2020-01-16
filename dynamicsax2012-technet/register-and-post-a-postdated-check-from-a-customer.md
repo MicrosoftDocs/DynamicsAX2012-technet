@@ -2,8 +2,9 @@
 title: Register and post a postdated check from a customer
 TOCTitle: Register and post a postdated check from a customer
 ms:assetid: 539c21ed-e0ca-4a51-aac5-1ad4145efa6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208953(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208953(v=AX.60)
 ms:contentKeyID: 36057299
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,7 +69,7 @@ You can view the posted postdated checks in the **Customer postdated checks** fo
 
 [Settle a postdated check from a customer](settle-a-postdated-check-from-a-customer.md)
 
-[Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
+[Customer postdated checks (form)](https://technet.microsoft.com/library/hh227493\(v=ax.60\))
 
   
 

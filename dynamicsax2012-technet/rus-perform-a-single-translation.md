@@ -2,8 +2,9 @@
 title: (RUS) Perform a single translation
 TOCTitle: (RUS) Perform a single translation
 ms:assetid: fbd7b8f5-8fb3-4c02-b9f6-004953b2c58f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923615(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923615(v=AX.60)
 ms:contentKeyID: 52075457
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,9 +52,9 @@ You can initiate a translation session to save the information for a translation
 
 ## See also
 
-[(RUS) Translation sessions (form)](https://technet.microsoft.com/en-us/library/jj852138\(v=ax.60\))
+[(RUS) Translation sessions (form)](https://technet.microsoft.com/library/jj852138\(v=ax.60\))
 
-[(RUS) Translation wizard (form)](https://technet.microsoft.com/en-us/library/jj733514\(v=ax.60\))
+[(RUS) Translation wizard (form)](https://technet.microsoft.com/library/jj733514\(v=ax.60\))
 
   
 

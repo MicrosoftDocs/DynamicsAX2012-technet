@@ -2,8 +2,9 @@
 title: (RUS) Set up a number sequence group for cash management
 TOCTitle: (RUS) Set up a number sequence group for cash management
 ms:assetid: e415ee4b-0740-4a1a-b5ef-209680c9fba0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711706(v=AX.60)
 ms:contentKeyID: 49388029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ You can assign number sequence groups to ensure that documents and vouchers in d
 
 [(RUS) Set up a cash account](rus-set-up-a-cash-account.md)
 
-[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj711566\(v=ax.60\))
+[(RUS) Cash and bank management parameters (modified form)](https://technet.microsoft.com/library/jj711566\(v=ax.60\))
 
   
 

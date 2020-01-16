@@ -2,8 +2,9 @@
 title: (RUS) Generate a facture for a purchase order
 TOCTitle: (RUS) Generate a facture for a purchase order
 ms:assetid: 42a73c18-86db-4378-855d-0c31fbdbccbb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665323(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665323(v=AX.60)
 ms:contentKeyID: 49387412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

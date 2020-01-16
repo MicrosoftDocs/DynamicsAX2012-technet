@@ -2,8 +2,9 @@
 title: Retail cube (RetailCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Retail cube (RetailCube)
 ms:assetid: 00ac6d6e-dc7d-4045-a7df-8cbe07ad1a30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710379(v=AX.60)
 ms:contentKeyID: 49384272
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

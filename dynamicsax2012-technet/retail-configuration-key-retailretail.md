@@ -2,8 +2,9 @@
 title: Retail configuration key (RetailRetail)
 TOCTitle: Retail configuration key (RetailRetail)
 ms:assetid: 97af6243-7d23-48be-bfa4-3846d9d1e436
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697601(v=AX.60)
 ms:contentKeyID: 42518402
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -45,39 +46,39 @@ This configuration key controls the availability of many of the forms in the **R
 <tbody>
 <tr class="odd">
 <td><p><strong>Released products by category</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580615(v=ax.60)">Released product details (form) (Retail)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Assortments</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597112(v=ax.60)">Assortments (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597112(v=ax.60)">Assortments (list page)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Retail sales</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597344(v=ax.60)">Retail sales (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597344(v=ax.60)">Retail sales (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Permission groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597270(v=ax.60)">Permission groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597270(v=ax.60)">Permission groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Discount</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580641(v=ax.60)">Discounts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580641(v=ax.60)">Discounts (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Price adjustment</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597227(v=ax.60)">Price adjustments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597227(v=ax.60)">Price adjustments (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>POS registers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597141(v=ax.60)">POS registers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597141(v=ax.60)">POS registers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Images</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597229(v=ax.60)">Images (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597229(v=ax.60)">Images (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Vendor's product numbers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597108(v=ax.60)">External product descriptions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597108(v=ax.60)">External product descriptions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -123,7 +124,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

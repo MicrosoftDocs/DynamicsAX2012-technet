@@ -1,9 +1,10 @@
-﻿---
+---
 title: Query Service
 TOCTitle: Query Service
 ms:assetid: e38c417e-475e-4c5f-8c4c-7c73bb80241a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg847959(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg847959(v=AX.60)
 ms:contentKeyID: 35253152
+author: Khairunj
 ms.date: 11/13/2013
 mtps_version: v=AX.60
 dev_langs:
@@ -31,15 +32,15 @@ The query service runs the query that you specify and returns the data in a data
 
   - Static query – A query that is already defined in the Application Object Tree (AOT) under the **Queries** node. When you call the query service by using a static query, you pass in the query name as a string. For more information, see [Walkthrough: Calling the Query Service with a Static Query](walkthrough-calling-the-query-service-with-a-static-query.md).
 
-  - User-defined query – A query that is defined by using the [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class. For more information about the query metadata classes, see [Metadata Service Class Diagrams](metadata-service-class-diagrams.md).
+  - User-defined query – A query that is defined by using the [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class. For more information about the query metadata classes, see [Metadata Service Class Diagrams](metadata-service-class-diagrams.md).
 
-  - Dynamic query – A query that is defined in an X++ class that extends the [AifQueryBuilder](https://technet.microsoft.com/en-us/library/gg769877\(v=ax.60\)) class. All query logic is contained in the query builder class. Use a dynamic query when:
+  - Dynamic query – A query that is defined in an X++ class that extends the [AifQueryBuilder](https://technet.microsoft.com/library/gg769877\(v=ax.60\)) class. All query logic is contained in the query builder class. Use a dynamic query when:
     
       - You want to use the query service to call a complex query that cannot be created using a static query or a user-defined query.
     
       - You want full control over the query behavior and results.
     
-    When you use the query service to call a static or user-defined query, the query service handles the details of how the query is run, for example, the dataset name is defaulted to the name of the query. If you use the [AifQueryBuilder](https://technet.microsoft.com/en-us/library/gg769877\(v=ax.60\)) class, you can specify the dataset name in the getDataSetName method.
+    When you use the query service to call a static or user-defined query, the query service handles the details of how the query is run, for example, the dataset name is defaulted to the name of the query. If you use the [AifQueryBuilder](https://technet.microsoft.com/library/gg769877\(v=ax.60\)) class, you can specify the dataset name in the getDataSetName method.
 
 ## Static Query
 
@@ -60,11 +61,11 @@ The results of the query are returned in a dataset object. The DataSet.DataSetNa
 
 ## User-Defined Query
 
-To use the query service to call a user-defined query, you first create a query using the [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class and other metadata classes such as the [QueryDataSourceMetadata](https://technet.microsoft.com/en-us/library/hh130664\(v=ax.60\)) class, the [QueryRelationMetadata](https://technet.microsoft.com/en-us/library/hh130249\(v=ax.60\)) class, and the [QueryFieldMetadata](https://technet.microsoft.com/en-us/library/hh188130\(v=ax.60\)) class. Then you call the QueryServiceClient.ExecuteQuery method and pass in the query object. The signature of the ExecuteQuery method is:
+To use the query service to call a user-defined query, you first create a query using the [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class and other metadata classes such as the [QueryDataSourceMetadata](https://technet.microsoft.com/library/hh130664\(v=ax.60\)) class, the [QueryRelationMetadata](https://technet.microsoft.com/library/hh130249\(v=ax.60\)) class, and the [QueryFieldMetadata](https://technet.microsoft.com/library/hh188130\(v=ax.60\)) class. Then you call the QueryServiceClient.ExecuteQuery method and pass in the query object. The signature of the ExecuteQuery method is:
 
 DataSet QueryServiceClient.ExecuteQuery(QueryMetadata queryMetadata, ref Paging paging)
 
-Creating a query to pass into the query service is a similar process to creating a query in the AOT. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)). For each query, you specify the query name and type. Then you define the query data sources and any relations between the data sources.
+Creating a query to pass into the query service is a similar process to creating a query in the AOT. For more information, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)). For each query, you specify the query name and type. Then you define the query data sources and any relations between the data sources.
 
 The following code example shows the code to call the ExecuteQuery method:
 
@@ -103,7 +104,7 @@ The query results are returned in a System.DataSet object. For more information,
 
 ## Dynamic Query
 
-To use the query service to call a dynamic query, you first create a query in X++ by creating a class that extends the [AifQueryBuilder](https://technet.microsoft.com/en-us/library/gg769877\(v=ax.60\)) class. Then you call the QueryServiceClient.ExecuteDynamicQuery method and pass in the name of the X++ query class and any query arguments. Query arguments are passed to the query builder class using a class that extends the [AifQueryBuilderArgs](https://technet.microsoft.com/en-us/library/gg769894\(v=ax.60\)) class. The signature of the ExecuteDynamicQuery method is:
+To use the query service to call a dynamic query, you first create a query in X++ by creating a class that extends the [AifQueryBuilder](https://technet.microsoft.com/library/gg769877\(v=ax.60\)) class. Then you call the QueryServiceClient.ExecuteDynamicQuery method and pass in the name of the X++ query class and any query arguments. Query arguments are passed to the query builder class using a class that extends the [AifQueryBuilderArgs](https://technet.microsoft.com/library/gg769894\(v=ax.60\)) class. The signature of the ExecuteDynamicQuery method is:
 
 DataSet QueryServiceClient.ExecuteDyanmicQuery(string queryBuilderName, QueryBuilderArgs queryBuilderArgs, ref Paging paging)
 

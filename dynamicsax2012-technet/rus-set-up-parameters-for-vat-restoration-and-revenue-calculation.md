@@ -2,8 +2,9 @@
 title: (RUS) Set up parameters for VAT restoration and revenue calculation
 TOCTitle: (RUS) Set up parameters for VAT restoration and revenue calculation
 ms:assetid: a7239720-96f9-45a0-905c-9c1e4224460b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678574(v=AX.60)
 ms:contentKeyID: 49387801
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

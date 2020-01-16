@@ -2,8 +2,9 @@
 title: (RUS) Set up calculation sequences and counters
 TOCTitle: (RUS) Set up calculation sequences and counters
 ms:assetid: 36be22ba-236f-4b14-99f3-b9bc4c92bad8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665279(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665279(v=AX.60)
 ms:contentKeyID: 49387368
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ ms.search.region: Russia
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Standard expenses sequence** and **Counter setup** forms to create calculation sequences that are used to create deferrals for vendor invoices. For more information, see [(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+Use the **Standard expenses sequence** and **Counter setup** forms to create calculation sequences that are used to create deferrals for vendor invoices. For more information, see [(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
 Before you can set up the calculation sequence and counters, you must set up expense codes in the **Expense and income codes** form.
 

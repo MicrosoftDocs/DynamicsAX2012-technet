@@ -2,8 +2,9 @@
 title: (RUS) Reverse a ledger journal of land tax transactions
 TOCTitle: (RUS) Reverse a ledger journal of land tax transactions
 ms:assetid: 89b958df-2bc1-4639-ad62-0d95ac5d0875
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678453(v=AX.60)
 ms:contentKeyID: 49387681
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,9 +39,9 @@ Use this procedure to reverse a ledger journal of land tax transactions.
 
 [(RUS) Create a ledger journal of land tax transactions](rus-create-a-ledger-journal-of-land-tax-transactions.md)
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

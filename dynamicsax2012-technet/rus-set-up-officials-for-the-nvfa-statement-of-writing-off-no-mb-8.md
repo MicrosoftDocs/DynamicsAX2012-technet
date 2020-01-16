@@ -2,8 +2,9 @@
 title: (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8)
 TOCTitle: (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8)
 ms:assetid: 07d4e83b-6c18-4785-ad18-1e547f5a938a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853155(v=AX.60)
 ms:contentKeyID: 50396435
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

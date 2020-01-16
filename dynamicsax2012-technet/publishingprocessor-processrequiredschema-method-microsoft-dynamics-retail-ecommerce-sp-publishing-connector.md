@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingProcessor.ProcessRequiredSchema Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: ProcessRequiredSchema Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.ProcessRequiredSchema(System.Uri)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.processrequiredschema(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.processrequiredschema(v=AX.60)
 ms:contentKeyID: 65317418
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ static void ProcessRequiredSchema(
 #### Parameters
 
   - productCatalogSiteCollectionUrl  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 ## See Also
 

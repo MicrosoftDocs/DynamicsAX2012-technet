@@ -2,8 +2,9 @@
 title: (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX
 TOCTitle: (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX
 ms:assetid: 0130aa5a-d725-45a8-83f3-f0f11b82b98b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716015(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716015(v=AX.60)
 ms:contentKeyID: 62200258
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

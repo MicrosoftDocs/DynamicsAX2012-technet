@@ -2,8 +2,9 @@
 title: (RUS) Register an NVFA using the Not valuable FAs form
 TOCTitle: (RUS) Register an NVFA using the Not valuable FAs form
 ms:assetid: 8b0e66ce-da4e-4d6a-b1e9-3a84ffad4d77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923556(v=AX.60)
 ms:contentKeyID: 52075403
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ Use this procedure to register a not valuable fixed asset (NVFA) by using the **
 
 ## See also
 
-[(RUS) Not valuable FAs (form)](https://technet.microsoft.com/en-us/library/jj911484\(v=ax.60\))
+[(RUS) Not valuable FAs (form)](https://technet.microsoft.com/library/jj911484\(v=ax.60\))
 
   
 

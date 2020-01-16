@@ -2,8 +2,9 @@
 title: Revise and submit a project budget
 TOCTitle: Revise and submit a project budget
 ms:assetid: 18b22ef8-a364-4a8d-a96c-a602d63ff0d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208445(v=AX.60)
 ms:contentKeyID: 36056102
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,11 +54,11 @@ You can revise a project budget as many times as necessary. The sum total of all
 
 [Allocate a project budget or budget revision across periods](allocate-a-project-budget-or-budget-revision-across-periods.md)
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
-[Project budget balances (form)](https://technet.microsoft.com/en-us/library/hh209310\(v=ax.60\))
+[Project budget balances (form)](https://technet.microsoft.com/library/hh209310\(v=ax.60\))
 
-[Project budget allocation (form)](https://technet.microsoft.com/en-us/library/hh242461\(v=ax.60\))
+[Project budget allocation (form)](https://technet.microsoft.com/library/hh242461\(v=ax.60\))
 
   
 

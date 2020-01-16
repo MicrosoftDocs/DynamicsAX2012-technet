@@ -2,8 +2,9 @@
 title: (RUS) Settle partial payments for customers
 TOCTitle: (RUS) Settle partial payments for customers
 ms:assetid: f8e48625-cf7d-45f6-9a0a-7ebbb849241e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ735282(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ735282(v=AX.60)
 ms:contentKeyID: 49693283
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use this procedure to settle partial payment transactions for a customer. You ca
 
 [Key tasks: Customer payments and settlements](key-tasks-customer-payments-and-settlements.md)
 
-[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\))
+[Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\))
 
   
 

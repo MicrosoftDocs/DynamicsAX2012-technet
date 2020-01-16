@@ -2,8 +2,9 @@
 title: Sales and marketing
 TOCTitle: Sales and marketing
 ms:assetid: f3c9707a-0c2b-4bd8-9b04-9aace9f04ede
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227532(v=AX.60)
 ms:contentKeyID: 36059982
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,27 +69,27 @@ The following process flow illustrates the business process for Sales and market
 <tr class="odd">
 <td><p><a href="create-or-update-a-prospect-record.md">Create or update a prospect record</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617498(v=ax.60)">Sales and marketing parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617498(v=ax.60)">Sales and marketing parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="qualify-or-disqualify-a-lead.md">Qualify or disqualify a lead</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553090(v=ax.60)">Prospects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553090(v=ax.60)">Prospects (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-campaigns.md">Create campaigns</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-an-activity.md">Create an activity</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209653(v=ax.60)">Opportunities (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209653(v=ax.60)">Opportunities (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590606(v=ax.60)">Customers (form)</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: (RUS) FA list report (RAssetListing)
 TOCTitle: (RUS) FA list report (RAssetListing)
 ms:assetid: 20e423f0-fef7-4705-a326-8151ec65268c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992749(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992749(v=AX.60)
 ms:contentKeyID: 51739436
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -121,7 +122,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
   
 

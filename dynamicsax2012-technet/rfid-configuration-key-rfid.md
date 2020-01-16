@@ -2,8 +2,9 @@
 title: RFID configuration key (RFID)
 TOCTitle: RFID configuration key (RFID)
 ms:assetid: 67b93e5c-c58b-48bc-bb5f-5626e30a90b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585479(v=AX.60)
 ms:contentKeyID: 36941212
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>RFID manager</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa592217(v=ax.60)">RFID manager (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa592217(v=ax.60)">RFID manager (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>RFID mapping</strong></p></td>
@@ -59,15 +60,15 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>RFID servers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa591815(v=ax.60)">RFID Servers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa591815(v=ax.60)">RFID Servers (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Synchronization</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583517(v=ax.60)">RFID synchronization parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583517(v=ax.60)">RFID synchronization parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>RFID tag lookup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa592192(v=ax.60)">RFID tag lookup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa592192(v=ax.60)">RFID tag lookup (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>RFID transactions</strong></p></td>
@@ -117,7 +118,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Adjust counteragent transactions in accounts receivable
 TOCTitle: (RUS) Adjust counteragent transactions in accounts receivable
 ms:assetid: 4355c1a1-d8d2-4d60-8172-1ada2ba2c929
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665322(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665322(v=AX.60)
 ms:contentKeyID: 49387411
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -91,7 +92,7 @@ Click **Accounts receivable** \> **Inquiries** \> **Act of adjustment**. Use the
 
 [(RUS) Settle sales transactions periodically](rus-settle-sales-transactions-periodically.md)
 
-[(RUS) Act of adjustment (customers) (form)](https://technet.microsoft.com/en-us/library/jj711728\(v=ax.60\))
+[(RUS) Act of adjustment (customers) (form)](https://technet.microsoft.com/library/jj711728\(v=ax.60\))
 
   
 

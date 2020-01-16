@@ -2,8 +2,9 @@
 title: Sales quotation configuration key (SalesQuotation)
 TOCTitle: Sales quotation configuration key (SalesQuotation)
 ms:assetid: 2049f786-4eda-4670-a9af-ab12a13dcf06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499661(v=AX.60)
 ms:contentKeyID: 36997745
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Quotation template groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -90,12 +91,12 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>Sales quotation</strong></p>
 <p><strong>Sales quotation details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557026(v=ax.60)">Sales quotation (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328742(v=ax.60)">(PM) Sales quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557026(v=ax.60)">Sales quotation (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328742(v=ax.60)">(PM) Sales quotation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Quotation template groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>New sales quotations</strong></p>
@@ -151,7 +152,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Reserve inventory manually for a sales order
 TOCTitle: Reserve inventory manually for a sales order
 ms:assetid: b34ab742-b096-41a0-a3c8-da9383432954
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571910(v=AX.60)
 ms:contentKeyID: 44081029
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Create and update a facture for a corrected free text invoice
 TOCTitle: (RUS) Create and update a facture for a corrected free text invoice
 ms:assetid: e3f84a24-f897-4e48-a8f0-3551ffcf17da
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711704(v=AX.60)
 ms:contentKeyID: 49388027
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,7 +101,7 @@ Use this procedure to create and update a facture for a corrected free text invo
 
 ## See also
 
-[(RUS) Sales book lines (form)](https://technet.microsoft.com/en-us/library/jj911234\(v=ax.60\))
+[(RUS) Sales book lines (form)](https://technet.microsoft.com/library/jj911234\(v=ax.60\))
 
 [(RUS) Create and update facture for a corrected sales order invoice or sales credit note](rus-create-and-update-facture-for-a-corrected-sales-order-invoice-or-sales-credit-note.md)
 

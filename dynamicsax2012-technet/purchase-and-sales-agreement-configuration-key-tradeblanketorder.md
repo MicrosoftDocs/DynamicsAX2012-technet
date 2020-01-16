@@ -2,8 +2,9 @@
 title: Purchase and sales agreement configuration key (TradeBlanketOrder)
 TOCTitle: Purchase and sales agreement configuration key (TradeBlanketOrder)
 ms:assetid: 5d232494-f2d0-4bf9-abce-65f53d1f0e18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa584152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa584152(v=AX.60)
 ms:contentKeyID: 36997753
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,18 +40,18 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Purchase agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh352239(v=ax.60)">(PM) Purchase agreements (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh352239(v=ax.60)">(PM) Purchase agreements (list page)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Purchase agreement confirmations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545530(v=ax.60)">Purchase agreement confirmations (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328642(v=ax.60)">(PM) Purchase agreement confirmation history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545530(v=ax.60)">Purchase agreement confirmations (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328642(v=ax.60)">(PM) Purchase agreement confirmation history (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Invoice journal lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227614(v=ax.60)">Vendor invoice lines – Purchase agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227614(v=ax.60)">Vendor invoice lines – Purchase agreements (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -72,31 +73,31 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Agreement classification translation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209115(v=ax.60)">Agreement classification translation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209115(v=ax.60)">Agreement classification translation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Purchase agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh352239(v=ax.60)">(PM) Purchase agreements (list page)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209550(v=ax.60)">Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328634(v=ax.60)">(PM) Purchase agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh352239(v=ax.60)">(PM) Purchase agreements (list page)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Invoice journal lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227614(v=ax.60)">Vendor invoice lines – Purchase agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227614(v=ax.60)">Vendor invoice lines – Purchase agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Purchase agreement classifications</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh802986(v=ax.60)">Agreement classification (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh802986(v=ax.60)">Agreement classification (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Purchase agreement confirmations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545530(v=ax.60)">Purchase agreement confirmations (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328642(v=ax.60)">(PM) Purchase agreement confirmation history (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545530(v=ax.60)">Purchase agreement confirmations (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328642(v=ax.60)">(PM) Purchase agreement confirmation history (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Attached Agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545533(v=ax.60)">Attached agreement (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328757(v=ax.60)">(PM) Attached agreement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545533(v=ax.60)">Attached agreement (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328757(v=ax.60)">(PM) Attached agreement (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Vendor reference</strong></p></td>
@@ -126,30 +127,30 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Sales agreement classifications</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh802986(v=ax.60)">Agreement classification (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh802986(v=ax.60)">Agreement classification (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sales agreement classification translations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209115(v=ax.60)">Agreement classification translation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209115(v=ax.60)">Agreement classification translation (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales agreements</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209567(v=ax.60)">Sales agreements (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328665(v=ax.60)">(PM) Sales agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209567(v=ax.60)">Sales agreements (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328665(v=ax.60)">(PM) Sales agreements (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Attached Agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh545533(v=ax.60)">Attached agreement (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328757(v=ax.60)">(PM) Attached agreement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh545533(v=ax.60)">Attached agreement (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328757(v=ax.60)">(PM) Attached agreement (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales agreement confirmations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597275(v=ax.60)">Sales agreement confirmations (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328608(v=ax.60)">(PM) Sales agreement confirmations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597275(v=ax.60)">Sales agreement confirmations (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328608(v=ax.60)">(PM) Sales agreement confirmations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Invoice journal lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209298(v=ax.60)">Customer invoice lines – Sales agreements (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209298(v=ax.60)">Customer invoice lines – Sales agreements (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Agreement lines</strong></p></td>
@@ -208,7 +209,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

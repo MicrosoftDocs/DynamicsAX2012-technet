@@ -2,8 +2,9 @@
 title: Project estimates report (ProjEstimateList)
 TOCTitle: Project estimates report (ProjEstimateList)
 ms:assetid: a583c476-3097-4de5-8bff-b8b5030f38ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa617971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa617971(v=AX.60)
 ms:contentKeyID: 37832026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

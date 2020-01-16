@@ -2,8 +2,9 @@
 title: (RUS) Reverse a ledger journal of transport tax transactions
 TOCTitle: (RUS) Reverse a ledger journal of transport tax transactions
 ms:assetid: 5d56eece-cb36-450e-aebe-6318dec1f825
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665425(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665425(v=AX.60)
 ms:contentKeyID: 49387513
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,11 +36,11 @@ Use this procedure to reverse a ledger journal of transport tax transactions.
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Journal header (modified form)](https://technet.microsoft.com/en-us/library/jj911370\(v=ax.60\))
+[(RUS) Journal header (modified form)](https://technet.microsoft.com/library/jj911370\(v=ax.60\))
 
   
 

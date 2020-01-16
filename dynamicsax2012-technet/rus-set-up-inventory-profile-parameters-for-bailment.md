@@ -2,8 +2,9 @@
 title: (RUS) Set up inventory profile parameters for bailment
 TOCTitle: (RUS) Set up inventory profile parameters for bailment
 ms:assetid: f232777f-9408-46df-96df-2863ef3f356a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733405(v=AX.60)
 ms:contentKeyID: 49685272
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ You can set up an inventory profile and parameters for an item that is stored in
 
 ## See also
 
-[(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\))
+[(RUS) Inventory profiles (form)](https://technet.microsoft.com/library/jj733188\(v=ax.60\))
 
   
 

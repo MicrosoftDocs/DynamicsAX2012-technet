@@ -2,8 +2,9 @@
 title: (RUS) Setting up expense and revenue codes
 TOCTitle: (RUS) Setting up expense and revenue codes
 ms:assetid: fe6b2c14-5f01-4afd-8cca-6d8004290c75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678664(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678664(v=AX.60)
 ms:contentKeyID: 49388146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ The following topics provide information about setting up expense and revenue co
 
 [(RUS) Expense and revenue codes](rus-expense-and-revenue-codes.md)
 
-[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
+[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/library/jj665243\(v=ax.60\))
 
 [(RUS) Set up the ledger accounts for expense and income codes](rus-set-up-the-ledger-accounts-for-expense-and-income-codes.md)
 

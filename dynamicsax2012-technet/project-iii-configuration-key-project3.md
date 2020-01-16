@@ -2,8 +2,9 @@
 title: Project III configuration key (Project3)
 TOCTitle: Project III configuration key (Project3)
 ms:assetid: a8d066a7-db59-4787-b32c-918cbf94f924
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500160(v=AX.60)
 ms:contentKeyID: 37820191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -76,7 +77,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

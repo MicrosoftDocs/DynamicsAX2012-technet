@@ -2,8 +2,9 @@
 title: (RUS) Calculate transport tax and generate a transport tax declaration
 TOCTitle: (RUS) Calculate transport tax and generate a transport tax declaration
 ms:assetid: 47080df1-cf5b-4c04-9673-e27cecb415d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665340(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665340(v=AX.60)
 ms:contentKeyID: 49387428
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,9 +40,9 @@ Use the **Print transport tax declaration** form to generate a declaration of tr
 
 ## See also
 
-[(RUS) Print transport tax declaration (form)](https://technet.microsoft.com/en-us/library/jj711516\(v=ax.60\))
+[(RUS) Print transport tax declaration (form)](https://technet.microsoft.com/library/jj711516\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
 [(RUS) Create a transport tax declaration](rus-create-a-transport-tax-declaration.md)
 

@@ -2,8 +2,9 @@
 title: Report programming model for Microsoft Dynamics AX 2012 (White paper)
 TOCTitle: Report programming model for Microsoft Dynamics AX 2012
 ms:assetid: 65344936-730b-411b-9f77-031709f54da4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500190(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500190(v=AX.60)
 ms:contentKeyID: 37820257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

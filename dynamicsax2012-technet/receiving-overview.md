@@ -2,8 +2,9 @@
 title: Receiving overview
 TOCTitle: Receiving overview
 ms:assetid: 161f0b4e-703c-4a80-9706-9aa43b76ddea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230954(v=AX.60)
 ms:contentKeyID: 36056068
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

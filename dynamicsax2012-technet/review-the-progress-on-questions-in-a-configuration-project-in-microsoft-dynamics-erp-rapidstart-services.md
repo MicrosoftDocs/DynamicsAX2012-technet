@@ -2,8 +2,9 @@
 title: Review the progress on questions in a configuration project in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Review the progress on questions in a configuration project in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f1ad010c-9807-47df-98ae-1dc876d55daf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194015(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194015(v=AX.60)
 ms:contentKeyID: 52348267
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

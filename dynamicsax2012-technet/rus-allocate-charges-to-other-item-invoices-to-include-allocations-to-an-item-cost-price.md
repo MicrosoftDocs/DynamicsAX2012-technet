@@ -2,8 +2,9 @@
 title: (RUS) Allocate charges to other item invoices to include allocations to an item cost price
 TOCTitle: (RUS) Allocate charges to other item invoices to include allocations to an item cost price
 ms:assetid: 2f75fa31-ac2f-46f0-8b9f-9d7650ba78b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733195(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733195(v=AX.60)
 ms:contentKeyID: 49685163
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can allocate charges that are incurred from one vendor invoice to the cost o
 
 ## See also
 
-[Vendor invoice journal (form)](https://technet.microsoft.com/en-us/library/aa587621\(v=ax.60\))
+[Vendor invoice journal (form)](https://technet.microsoft.com/library/aa587621\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Maintain advance holder transactions
 TOCTitle: (RUS) Maintain advance holder transactions
 ms:assetid: a241e7f2-e5cd-4791-84c7-db8e4f25d629
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678558(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678558(v=AX.60)
 ms:contentKeyID: 49387785
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

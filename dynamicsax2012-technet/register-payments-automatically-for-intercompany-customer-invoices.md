@@ -2,8 +2,9 @@
 title: Register payments automatically for intercompany customer invoices
 TOCTitle: Register payments automatically for intercompany customer invoices
 ms:assetid: 64e094d2-c0fb-4741-a653-07aa89c9d31c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571143(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571143(v=AX.60)
 ms:contentKeyID: 36057725
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

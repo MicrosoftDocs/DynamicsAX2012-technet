@@ -2,8 +2,9 @@
 title: (RUS) Define parameters for export operations
 TOCTitle: (RUS) Define parameters for export operations
 ms:assetid: a026e494-c77b-4433-936f-7619d7f2c50b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678546(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678546(v=AX.60)
 ms:contentKeyID: 49387775
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,13 +51,13 @@ You must set up the parameters for export transactions in the **Accounts receiva
 
 7.  In the **Tax code for domestic market** field, select the sales tax code that is used for internal market operations.
 
-8.  In the **VAT operation code** field, select the operation code that is used to collect the document package that confirms the VAT declaration. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+8.  In the **VAT operation code** field, select the operation code that is used to collect the document package that confirms the VAT declaration. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
 9.  Close the form.
 
 10. Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax groups**.
 
-11. Press CTRL+N to create a sales tax group, and then enter the necessary information. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)).
+11. Press CTRL+N to create a sales tax group, and then enter the necessary information. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)).
 
 12. On the **Setup** tab, in the **Sales tax code** field, select the sales tax code that you created in steps 1 through 8.
 
@@ -64,7 +65,7 @@ You must set up the parameters for export transactions in the **Accounts receiva
 
 14. Click **General ledger** \> **Setup** \> **Sales tax** \> **Item sales tax groups**.
 
-15. Press CTRL+N to create an item sales tax group, and then enter the necessary information. For more information, see [Item sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa615960\(v=ax.60\)).
+15. Press CTRL+N to create an item sales tax group, and then enter the necessary information. For more information, see [Item sales tax groups (form)](https://technet.microsoft.com/library/aa615960\(v=ax.60\)).
 
 16. On the **Setup** tab, in the **Sales tax code** field, select the sales tax code that you created in steps 1 through 8.
 
@@ -90,9 +91,9 @@ You must set up the parameters for export transactions in the **Accounts receiva
 
 [(RUS) Perform an outgoing VAT processing transaction](rus-perform-an-outgoing-vat-processing-transaction.md)
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
-[(RUS) Sales tax settlement periods (modified form)](https://technet.microsoft.com/en-us/library/jj711340\(v=ax.60\))
+[(RUS) Sales tax settlement periods (modified form)](https://technet.microsoft.com/library/jj711340\(v=ax.60\))
 
   
 

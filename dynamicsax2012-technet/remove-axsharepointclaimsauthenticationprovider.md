@@ -1,9 +1,10 @@
-﻿---
+---
 title: Remove-AXSharepointClaimsAuthenticationProvider
 TOCTitle: Remove-AXSharepointClaimsAuthenticationProvider
 ms:assetid: C23DBDF4-2AAD-4DFD-B6B5-9E27EAD9F9BE
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720283(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720283(v=AX.60)
 ms:contentKeyID: 49720072
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

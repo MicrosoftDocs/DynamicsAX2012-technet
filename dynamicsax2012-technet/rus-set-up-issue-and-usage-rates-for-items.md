@@ -2,8 +2,9 @@
 title: (RUS) Set up issue and usage rates for items
 TOCTitle: (RUS) Set up issue and usage rates for items
 ms:assetid: ea9cf8fb-dfc8-4f93-ae15-47c16bfe43f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853243(v=AX.60)
 ms:contentKeyID: 50396523
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,7 +56,7 @@ Use the **Issue and usage rates** form to define the types of issue and usage ra
 
 ## See also
 
-[(RUS) Issue and usage rates (form)](https://technet.microsoft.com/en-us/library/jj853215\(v=ax.60\))
+[(RUS) Issue and usage rates (form)](https://technet.microsoft.com/library/jj853215\(v=ax.60\))
 
   
 

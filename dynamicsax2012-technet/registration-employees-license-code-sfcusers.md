@@ -2,8 +2,9 @@
 title: Registration employees license code (SFCUsers)
 TOCTitle: Registration employees license code (SFCUsers)
 ms:assetid: 9c8c1f81-156e-48df-8049-ee6c053ae9a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456316(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456316(v=AX.60)
 ms:contentKeyID: 36997762
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

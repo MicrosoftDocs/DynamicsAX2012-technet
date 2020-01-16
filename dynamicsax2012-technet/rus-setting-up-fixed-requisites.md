@@ -2,8 +2,9 @@
 title: (RUS) Setting up fixed requisites
 TOCTitle: (RUS) Setting up fixed requisites
 ms:assetid: ad91d129-058f-4c41-b201-7349ad06361e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677652(v=AX.60)
 ms:contentKeyID: 49384955
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

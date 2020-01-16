@@ -2,8 +2,9 @@
 title: (RUS) Allocate a charges code during inventory adjustment
 TOCTitle: (RUS) Allocate a charges code during inventory adjustment
 ms:assetid: 2c0aa624-43fd-4336-bd3a-e7ff8be05f53
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923269(v=AX.60)
 ms:contentKeyID: 52075361
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use the following procedures to allocate a charge code during inventory adjustme
 
 ## Allocate a charge code during inventory adjustment in the Adjustment of on-hand inventory form
 
-1.  Click **Inventory management** \> **Periodic** \> **Closing and adjustment**. Click **Adjustment** \> **On-hand** to open the **On-hand** form. For more information, see [(RUS) Adjustment of on-hand inventory (modified form)](https://technet.microsoft.com/en-us/library/jj923554\(v=ax.60\)).
+1.  Click **Inventory management** \> **Periodic** \> **Closing and adjustment**. Click **Adjustment** \> **On-hand** to open the **On-hand** form. For more information, see [(RUS) Adjustment of on-hand inventory (modified form)](https://technet.microsoft.com/library/jj923554\(v=ax.60\)).
 
 2.  In the **Charges code** field, select a charge code.
     
@@ -51,7 +52,7 @@ Use the following procedures to allocate a charge code during inventory adjustme
 
 1.  Click **Inventory management** \> **Periodic** \> **Closing and adjustment**. Click **Adjustment** \> **Wizard** to open the **Wizard for cost value adjustment of inventory transactions or entire on-hand inventory** form.
     
-    You can allocate a charge code for inventory adjustment by using the cost adjustment wizard. For more information, see [(RUS) Wizard for cost value adjustment of inventory transactions or entire on-hand inventory (form)](https://technet.microsoft.com/en-us/library/jj733512\(v=ax.60\)).
+    You can allocate a charge code for inventory adjustment by using the cost adjustment wizard. For more information, see [(RUS) Wizard for cost value adjustment of inventory transactions or entire on-hand inventory (form)](https://technet.microsoft.com/library/jj733512\(v=ax.60\)).
 
 2.  Run the wizard to complete the adjustment process.
 
@@ -75,7 +76,7 @@ Use the following procedures to allocate a charge code during inventory adjustme
 
 2.  In the **Purchase order** form, select an item, and then enter purchase order line details to allocate the charges. For more information, see [(RUS) Create and post a vendor invoice to allocate charges](rus-create-and-post-a-vendor-invoice-to-allocate-charges.md).
 
-3.  On the **Purchase** tab, click **Allocate charges** to allocate the charges for the selected lines on a purchase order invoice. For more information, see [Allocate charges (form)](https://technet.microsoft.com/en-us/library/hh697725\(v=ax.60\)) and [Adjust charges on vendor invoices](adjust-charges-on-vendor-invoices.md).
+3.  On the **Purchase** tab, click **Allocate charges** to allocate the charges for the selected lines on a purchase order invoice. For more information, see [Allocate charges (form)](https://technet.microsoft.com/library/hh697725\(v=ax.60\)) and [Adjust charges on vendor invoices](adjust-charges-on-vendor-invoices.md).
 
 4.  Click **Confirm**, and then, on the **Invoice** tab, click **Invoice** to post the vendor invoice.
 
@@ -87,13 +88,13 @@ Use the following procedures to allocate a charge code during inventory adjustme
 
 8.  On the **Results of allocation** page, in the **Charges code** field, select the charge code.
 
-9.  In the **Amount for allocation** field, enter the charge amount to adjust when posting. For more information, see [(RUS) Wizard for cost value adjustment of inventory transactions or entire on-hand inventory (form)](https://technet.microsoft.com/en-us/library/jj733512\(v=ax.60\)).
+9.  In the **Amount for allocation** field, enter the charge amount to adjust when posting. For more information, see [(RUS) Wizard for cost value adjustment of inventory transactions or entire on-hand inventory (form)](https://technet.microsoft.com/library/jj733512\(v=ax.60\)).
 
-10. Click **Next** to complete the closing and adjustment in the reporting currency. You can allocate the charges by using the **Adjust transactions in currency** form. In this form, select the line for correction, and then click **Adjustment** \> **Charges code** to allocate the charges. For more information, see [(RUS) Adjust transactions (modified form)](https://technet.microsoft.com/en-us/library/jj923588\(v=ax.60\)).
+10. Click **Next** to complete the closing and adjustment in the reporting currency. You can allocate the charges by using the **Adjust transactions in currency** form. In this form, select the line for correction, and then click **Adjustment** \> **Charges code** to allocate the charges. For more information, see [(RUS) Adjust transactions (modified form)](https://technet.microsoft.com/library/jj923588\(v=ax.60\)).
     
 
     > [!NOTE]
-    > <P>You can also allocate the charges by using the <STRONG>On-hand</STRONG> form. In this form, select the line for correction, and then click <STRONG>Adjustment</STRONG> &gt; <STRONG>Charges code</STRONG> to allocate the charges. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj923554(v=ax.60)">(RUS) Adjustment of on-hand inventory (modified form)</A>.</P>
+    > <P>You can also allocate the charges by using the <STRONG>On-hand</STRONG> form. In this form, select the line for correction, and then click <STRONG>Adjustment</STRONG> &gt; <STRONG>Charges code</STRONG> to allocate the charges. For more information, see <A href="https://technet.microsoft.com/library/jj923554(v=ax.60)">(RUS) Adjustment of on-hand inventory (modified form)</A>.</P>
 
 
 

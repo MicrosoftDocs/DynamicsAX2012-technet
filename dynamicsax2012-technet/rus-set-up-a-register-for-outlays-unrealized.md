@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for outlays - unrealized
 TOCTitle: (RUS) Set up a register for outlays - unrealized
 ms:assetid: 96a00073-b7a3-46db-99bf-ada834969989
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839678(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839678(v=AX.60)
 ms:contentKeyID: 50396824
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ The **Outlays - Unrealized** register is used to calculate unrealized expenses t
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

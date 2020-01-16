@@ -2,8 +2,9 @@
 title: Propose depreciation for fixed assets
 TOCTitle: Propose depreciation for fixed assets
 ms:assetid: a05a6286-41e5-41b6-b42b-19631ac5f938
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn479034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn479034(v=AX.60)
 ms:contentKeyID: 59632402
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

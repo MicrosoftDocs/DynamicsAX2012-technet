@@ -2,8 +2,9 @@
 title: (RUS) Calculate transport tax registers
 TOCTitle: (RUS) Calculate transport tax registers
 ms:assetid: ca6df6a7-e649-4366-b4bd-3c1ded4344c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711613(v=AX.60)
 ms:contentKeyID: 49387937
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,9 +66,9 @@ When you create a journal in the transport tax register for the accounting year,
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
 [(RUS) Set up the calculation of transport tax](rus-set-up-the-calculation-of-transport-tax.md)
 

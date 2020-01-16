@@ -2,8 +2,9 @@
 title: Remove a batch order from a consolidated batch order
 TOCTitle: Remove a batch order from a consolidated batch order
 ms:assetid: f8b32cca-23db-4a60-b32c-407ba504af0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328614(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328614(v=AX.60)
 ms:contentKeyID: 36688046
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ Use this procedure to remove a batch order from a consolidated batch order. This
 
 [About consolidated batch orders](about-consolidated-batch-orders.md)
 
-[Batch order (form)](https://technet.microsoft.com/en-us/library/hh352323\(v=ax.60\))
+[Batch order (form)](https://technet.microsoft.com/library/hh352323\(v=ax.60\))
 
-[Consolidated batch orders (form)](https://technet.microsoft.com/en-us/library/hh328731\(v=ax.60\))
+[Consolidated batch orders (form)](https://technet.microsoft.com/library/hh328731\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Review a submitted project budget or budget revision
 TOCTitle: Review a submitted project budget or budget revision
 ms:assetid: 992bf02f-d37d-4564-aa74-abc2939c31b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209421(v=AX.60)
 ms:contentKeyID: 36058689
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,13 +67,13 @@ In Project management and accounting, you must be assigned as an approver to app
 
 ## See also
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
-[Project budget revision (form)](https://technet.microsoft.com/en-us/library/hh209690\(v=ax.60\))
+[Project budget revision (form)](https://technet.microsoft.com/library/hh209690\(v=ax.60\))
 
-[Project budget revisions (form)](https://technet.microsoft.com/en-us/library/hh227371\(v=ax.60\))
+[Project budget revisions (form)](https://technet.microsoft.com/library/hh227371\(v=ax.60\))
 
 [About project budgets](about-project-budgets.md)
 

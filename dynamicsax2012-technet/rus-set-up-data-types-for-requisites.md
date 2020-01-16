@@ -2,8 +2,9 @@
 title: (RUS) Set up data types for requisites
 TOCTitle: (RUS) Set up data types for requisites
 ms:assetid: c315aa00-5493-43a7-a96f-56fc4585c442
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677691(v=AX.60)
 ms:contentKeyID: 49384991
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -258,9 +259,9 @@ Use the following procedure to set up data types for requisites that are used in
 
 ## See also
 
-[(RUS) Extended data types (form)](https://technet.microsoft.com/en-us/library/jj710678\(v=ax.60\))
+[(RUS) Extended data types (form)](https://technet.microsoft.com/library/jj710678\(v=ax.60\))
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up additional tax register parameters
 TOCTitle: (RUS) Set up additional tax register parameters
 ms:assetid: 46766658-a7c2-40bf-b050-6296bb659a81
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665338(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665338(v=AX.60)
 ms:contentKeyID: 49387426
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,11 +30,11 @@ You can set up additional parameters for tax registers if you want to calculate 
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Debt interval (form)](https://technet.microsoft.com/en-us/library/jj853236\(v=ax.60\))
+[(RUS) Debt interval (form)](https://technet.microsoft.com/library/jj853236\(v=ax.60\))
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
   
 

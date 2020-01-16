@@ -2,8 +2,9 @@
 title: (RUS) Set up officials for the Counting act INV-6 report
 TOCTitle: (RUS) Set up officials for the Counting act INV-6 report
 ms:assetid: 8e53cb1c-7df1-420e-a50e-9671be5eb07d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678469(v=AX.60)
 ms:contentKeyID: 49387698
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

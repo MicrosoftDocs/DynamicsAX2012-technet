@@ -2,8 +2,9 @@
 title: Sales tax transactions report (TaxTrans)
 TOCTitle: Sales tax transactions report (TaxTrans)
 ms:assetid: e40104bb-3cd3-4450-a00d-ae09d9255cb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa558298(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa558298(v=AX.60)
 ms:contentKeyID: 37820236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

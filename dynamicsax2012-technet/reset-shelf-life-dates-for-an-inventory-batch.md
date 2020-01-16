@@ -2,8 +2,9 @@
 title: Reset shelf life dates for an inventory batch
 TOCTitle: Reset shelf life dates for an inventory batch
 ms:assetid: ba1f65ac-8124-4686-a12f-d4a517b41ac8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352341(v=AX.60)
 ms:contentKeyID: 36687971
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ Use this procedure to reset the shelf life date for an inventory batch. The shel
 
 ## See also
 
-[Shelf life as of date (form)](https://technet.microsoft.com/en-us/library/hh227671\(v=ax.60\))
+[Shelf life as of date (form)](https://technet.microsoft.com/library/hh227671\(v=ax.60\))
 
   
 

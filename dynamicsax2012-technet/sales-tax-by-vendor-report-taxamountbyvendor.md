@@ -2,8 +2,9 @@
 title: Sales tax by vendor report (TaxAmountByVendor)
 TOCTitle: Sales tax by vendor report (TaxAmountByVendor)
 ms:assetid: 67657bd1-4a9a-48ee-82ab-9c8922e474de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa577276(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa577276(v=AX.60)
 ms:contentKeyID: 36931898
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Project on-account (actual vs. budget) report (ProjOnAccProj2Column)
 TOCTitle: Project on-account (actual vs. budget) report (ProjOnAccProj2Column)
 ms:assetid: 64986327-db95-4056-803a-3b68087424cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb147556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb147556(v=AX.60)
 ms:contentKeyID: 37820214
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

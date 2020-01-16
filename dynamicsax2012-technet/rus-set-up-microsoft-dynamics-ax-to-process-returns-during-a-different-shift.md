@@ -2,8 +2,9 @@
 title: (RUS) Set up Microsoft Dynamics AX to process returns during a different shift
 TOCTitle: (RUS) Set up Microsoft Dynamics AX to process returns during a different shift
 ms:assetid: f7c543b8-a605-41a1-b2df-b50cdfa0cffe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716025(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716025(v=AX.60)
 ms:contentKeyID: 62200279
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

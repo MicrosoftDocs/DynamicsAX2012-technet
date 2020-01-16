@@ -2,8 +2,9 @@
 title: (RUS) Create a working clothes or special rigging issue journal
 TOCTitle: (RUS) Create a working clothes or special rigging issue journal
 ms:assetid: 0dba9c82-1c83-401d-9620-6a77a92554f6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911233(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911233(v=AX.60)
 ms:contentKeyID: 52075348
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -104,9 +105,9 @@ To reverse the issue of the working clothes or special rigging item, in the **Wo
 
 ## See also
 
-[(RUS) Working clothes/Special rigging/NVFA issue journal (form)](https://technet.microsoft.com/en-us/library/jj911489\(v=ax.60\))
+[(RUS) Working clothes/Special rigging/NVFA issue journal (form)](https://technet.microsoft.com/library/jj911489\(v=ax.60\))
 
-[(RUS) Working clothes/Special rigging/NVFA issue journal lines (form)](https://technet.microsoft.com/en-us/library/jj923266\(v=ax.60\))
+[(RUS) Working clothes/Special rigging/NVFA issue journal lines (form)](https://technet.microsoft.com/library/jj923266\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Reserve a specific worker for a project
 TOCTitle: Reserve a specific worker for a project
 ms:assetid: 5cf0c51f-50fc-466f-91ba-bf7eb695fcd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn532263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn532263(v=AX.60)
 ms:contentKeyID: 59930614
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -88,7 +89,7 @@ The method of reserving workers that is described in this topic is an alternativ
 
 [About resource management for projects](about-resource-management-for-projects.md)
 
-[View booking details (form)](https://technet.microsoft.com/en-us/library/dn532267\(v=ax.60\))
+[View booking details (form)](https://technet.microsoft.com/library/dn532267\(v=ax.60\))
 
   
 

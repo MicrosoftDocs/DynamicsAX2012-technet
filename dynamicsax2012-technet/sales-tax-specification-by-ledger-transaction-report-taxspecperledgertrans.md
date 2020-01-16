@@ -2,8 +2,9 @@
 title: Sales tax specification by ledger transaction report (TaxSpecPerLedgerTrans)
 TOCTitle: Sales tax specification by ledger transaction report (TaxSpecPerLedgerTrans)
 ms:assetid: 7581786b-1afa-41a9-953b-84195c314fc7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa596988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa596988(v=AX.60)
 ms:contentKeyID: 43894480
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

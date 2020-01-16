@@ -2,8 +2,9 @@
 title: (RUS) Transfer multiple assets using the Fixed asset transfer journal
 TOCTitle: (RUS) Transfer multiple assets using the Fixed asset transfer journal
 ms:assetid: 97903a5e-629a-4095-824c-0b822d4cd0ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678509(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678509(v=AX.60)
 ms:contentKeyID: 49387738
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) FA transfer (form)](https://technet.microsoft.com/en-us/library/jj853193\(v=ax.60\))
+[(RUS) FA transfer (form)](https://technet.microsoft.com/library/jj853193\(v=ax.60\))
 
   
 

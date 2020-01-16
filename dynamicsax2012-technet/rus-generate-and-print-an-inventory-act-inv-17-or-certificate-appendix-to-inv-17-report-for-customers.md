@@ -2,8 +2,9 @@
 title: (RUS) Generate and print an Inventory act (INV-17) or Certificate (Appendix to INV-17) report for customers
 TOCTitle: (RUS) Generate and print an Inventory act (INV-17) or Certificate (Appendix to INV-17) report for customers
 ms:assetid: f8f96e8d-b58a-45b4-a363-3411f73619e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678645(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678645(v=AX.60)
 ms:contentKeyID: 49388127
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ Before you create and generate the inventory act report, you must set up the deb
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/jj841092(v=ax.60)">(RUS) Account receivable counting lines (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/jj841092(v=ax.60)">(RUS) Account receivable counting lines (form)</A>.</P>
 
 
 
@@ -99,21 +100,21 @@ Before you create and generate the inventory act report, you must set up the deb
 
 ## See also
 
-[(RUS) Counting act (form)](https://technet.microsoft.com/en-us/library/jj665262\(v=ax.60\))
+[(RUS) Counting act (form)](https://technet.microsoft.com/library/jj665262\(v=ax.60\))
 
-[(RUS) Account receivable counting lines (form)](https://technet.microsoft.com/en-us/library/jj841092\(v=ax.60\))
+[(RUS) Account receivable counting lines (form)](https://technet.microsoft.com/library/jj841092\(v=ax.60\))
 
-[(RUS) Print counting act (form)](https://technet.microsoft.com/en-us/library/jj839668\(v=ax.60\))
+[(RUS) Print counting act (form)](https://technet.microsoft.com/library/jj839668\(v=ax.60\))
 
-[(RUS) Debt interval (form)](https://technet.microsoft.com/en-us/library/jj853236\(v=ax.60\))
+[(RUS) Debt interval (form)](https://technet.microsoft.com/library/jj853236\(v=ax.60\))
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Register lines (form)](https://technet.microsoft.com/en-us/library/jj943751\(v=ax.60\))
+[(RUS) Register lines (form)](https://technet.microsoft.com/library/jj943751\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up restrictions on item returns
 TOCTitle: (RUS) Set up restrictions on item returns
 ms:assetid: 129de8fa-74d3-4287-8085-48df3ce6ad07
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn530769(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn530769(v=AX.60)
 ms:contentKeyID: 59683047
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,7 +101,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 7.  Press CTRL+N to create a worksheet.
 
-8.  Add products to the worksheet, and then click **OK**. For more information, see [Mass update worksheet (form)](https://technet.microsoft.com/en-us/library/hh597155\(v=ax.60\)).
+8.  Add products to the worksheet, and then click **OK**. For more information, see [Mass update worksheet (form)](https://technet.microsoft.com/library/hh597155\(v=ax.60\)).
 
 9.  Select a product that you want to update, and then select the **Disallow item return** check box.
 
@@ -120,7 +121,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 [View retail sales](view-retail-sales.md)
 
-[POS position permissions (form)](https://technet.microsoft.com/en-us/library/hh597327\(v=ax.60\))
+[POS position permissions (form)](https://technet.microsoft.com/library/hh597327\(v=ax.60\))
 
   
 

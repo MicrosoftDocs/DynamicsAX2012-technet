@@ -2,8 +2,9 @@
 title: (RUS) Configure requisite code formats
 TOCTitle: (RUS) Configure requisite code formats
 ms:assetid: e43bcf9b-d8c0-4280-8f5e-57dbad4434ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ913265(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ913265(v=AX.60)
 ms:contentKeyID: 52075450
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,11 +69,11 @@ Use the following procedure to configure requisite code formats.
 
 ## See also
 
-[(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
+[(RUS) Format of requisites (form)](https://technet.microsoft.com/library/jj710737\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
   
 

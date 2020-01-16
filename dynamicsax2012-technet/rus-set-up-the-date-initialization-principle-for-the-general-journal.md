@@ -2,8 +2,9 @@
 title: (RUS) Set up the date initialization principle for the general journal
 TOCTitle: (RUS) Set up the date initialization principle for the general journal
 ms:assetid: a931a0b0-15c6-4ea7-96b0-74db158cf84f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678581(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678581(v=AX.60)
 ms:contentKeyID: 49387809
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ Use the **Journal names** form to set up the **Principle of date initialization*
 
 1.  Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**.
 
-2.  Create a new journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+2.  Create a new journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 3.  Click the **General** FastTab.
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingProcessor.PublishingPortalSiteCollectionUris Property  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: PublishingPortalSiteCollectionUris Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingProcessor.PublishingPortalSiteCollectionUris
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.publishingportalsitecollectionuris(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingprocessor.publishingportalsitecollectionuris(v=AX.60)
 ms:contentKeyID: 65316705
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property IEnumerable<Uri^>^ PublishingPortalSiteCollectionUris {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))\>  
 
 ## See Also
 

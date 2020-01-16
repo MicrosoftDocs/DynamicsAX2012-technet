@@ -2,8 +2,9 @@
 title: Profit tax totals cube (RTax25Registers) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Profit tax totals cube (RTax25Registers)
 ms:assetid: 46f413df-d652-46cc-a865-c1c8136d5770
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916230(v=AX.60)
 ms:contentKeyID: 50877511
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

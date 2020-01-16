@@ -2,8 +2,9 @@
 title: (RUS) Settle inventory transactions for restored VAT
 TOCTitle: (RUS) Settle inventory transactions for restored VAT
 ms:assetid: 1fc96973-800c-40e9-9d9d-aab199f20039
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711458(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711458(v=AX.60)
 ms:contentKeyID: 49387275
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

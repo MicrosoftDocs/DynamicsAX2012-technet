@@ -2,8 +2,9 @@
 title: (RUS) Set up calculation parameters for currency exchange in tax accounting
 TOCTitle: (RUS) Set up calculation parameters for currency exchange in tax accounting
 ms:assetid: 9d812638-4788-4ad3-90c8-dc8d9d1414f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ879296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ879296(v=AX.60)
 ms:contentKeyID: 50639115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,11 +66,11 @@ Use the **Currency revaluation accounts** form to set up calculation parameters 
 
 ## See also
 
-[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj710686\(v=ax.60\))
+[(EEUR) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj710686\(v=ax.60\))
 
 [(RUS) About tax liabilities and asset calculation registers](rus-about-tax-liabilities-and-asset-calculation-registers.md)
 
-[(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/en-us/library/jj852149\(v=ax.60\))
+[(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/library/jj852149\(v=ax.60\))
 
   
 

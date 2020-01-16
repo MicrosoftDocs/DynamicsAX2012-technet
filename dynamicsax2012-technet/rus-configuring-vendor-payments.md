@@ -2,8 +2,9 @@
 title: (RUS) Configuring vendor payments
 TOCTitle: (RUS) Configuring vendor payments
 ms:assetid: ab37284d-3745-419a-9d6c-0066ff5c311d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711497(v=AX.60)
 ms:contentKeyID: 49387822
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

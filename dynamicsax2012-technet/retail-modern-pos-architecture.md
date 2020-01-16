@@ -2,8 +2,9 @@
 title: Retail Modern POS architecture
 TOCTitle: Retail Modern POS architecture
 ms:assetid: cb89a6b8-0c34-46d7-88dc-ce6c87898060
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741454(v=AX.60)
 ms:contentKeyID: 62219731
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

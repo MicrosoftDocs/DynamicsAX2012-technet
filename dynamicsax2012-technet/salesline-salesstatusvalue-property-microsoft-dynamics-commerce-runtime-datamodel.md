@@ -1,9 +1,10 @@
-﻿---
+---
 title: SalesLine.SalesStatusValue Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SalesStatusValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine.SalesStatusValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.salesstatusvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesline.salesstatusvalue(v=AX.60)
 ms:contentKeyID: 65320400
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property int SalesStatusValue {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

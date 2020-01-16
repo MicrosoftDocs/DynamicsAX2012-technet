@@ -2,8 +2,9 @@
 title: (RUS) Set up credit correction for transfer orders
 TOCTitle: (RUS) Set up credit correction for transfer orders
 ms:assetid: 780c6785-8eb2-4160-aa1d-4c86aa4134ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678378(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678378(v=AX.60)
 ms:contentKeyID: 49387608
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,11 +35,11 @@ You can use the **Inventory and warehouse management parameters** form to activa
 
 ## See also
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
-[Transfer orders (form)](https://technet.microsoft.com/en-us/library/aa634530\(v=ax.60\))
+[Transfer orders (form)](https://technet.microsoft.com/library/aa634530\(v=ax.60\))
 
-[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj733409\(v=ax.60\))
+[(RUS) Transfer orders (modified form)](https://technet.microsoft.com/library/jj733409\(v=ax.60\))
 
   
 

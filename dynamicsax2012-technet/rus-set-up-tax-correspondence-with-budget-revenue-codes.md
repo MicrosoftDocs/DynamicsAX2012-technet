@@ -2,8 +2,9 @@
 title: (RUS) Set up tax correspondence with budget revenue codes
 TOCTitle: (RUS) Set up tax correspondence with budget revenue codes
 ms:assetid: fc9e3db0-a467-42b1-a593-8c633aad9ccb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678661(v=AX.60)
 ms:contentKeyID: 49388143
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,9 +58,9 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Sales tax relations (form)](https://technet.microsoft.com/en-us/library/jj856164\(v=ax.60\))
+[(RUS) Sales tax relations (form)](https://technet.microsoft.com/library/jj856164\(v=ax.60\))
 
-[(RUS) Assessed tax (form)](https://technet.microsoft.com/en-us/library/jj856180\(v=ax.60\))
+[(RUS) Assessed tax (form)](https://technet.microsoft.com/library/jj856180\(v=ax.60\))
 
   
 

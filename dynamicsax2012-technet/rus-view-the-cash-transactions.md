@@ -2,8 +2,9 @@
 title: (RUS) View the cash transactions
 TOCTitle: (RUS) View the cash transactions
 ms:assetid: 21aff2e6-8065-43cd-aa41-08f8e72f8777
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711463(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711463(v=AX.60)
 ms:contentKeyID: 49387280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,9 +54,9 @@ You can view all types of cash transactions and cash accounting movements by usi
 
 ## See also
 
-[(RUS) Cash transaction (form)](https://technet.microsoft.com/en-us/library/jj678547\(v=ax.60\))
+[(RUS) Cash transaction (form)](https://technet.microsoft.com/library/jj678547\(v=ax.60\))
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

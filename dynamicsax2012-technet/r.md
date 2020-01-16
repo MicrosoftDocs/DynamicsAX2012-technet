@@ -2,8 +2,9 @@
 title: R
 TOCTitle: R
 ms:assetid: DynamicsAXGlossary.R
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.r(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.r(v=AX.60)
 ms:contentKeyID: 36058020
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---

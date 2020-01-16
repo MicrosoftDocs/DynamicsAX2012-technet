@@ -2,8 +2,9 @@
 title: Review and approve timesheets
 TOCTitle: Review and approve timesheets
 ms:assetid: 3708cbc7-c85c-4e55-b330-bcef74529caa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242200(v=AX.60)
 ms:contentKeyID: 36056600
+author: Khairunj
 ms.date: 07/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -117,7 +118,7 @@ Depending on your version of Microsoft Dynamics AX, complete one of the followin
 
 [Preview, update and manually post approved timesheets](post-timesheet-hours-and-view-distributions.md)
 
-[New timesheet (form)](https://technet.microsoft.com/en-us/library/hh227610\(v=ax.60\))
+[New timesheet (form)](https://technet.microsoft.com/library/hh227610\(v=ax.60\))
 
   
 

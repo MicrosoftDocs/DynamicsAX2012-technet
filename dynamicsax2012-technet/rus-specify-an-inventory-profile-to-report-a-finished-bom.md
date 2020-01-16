@@ -2,8 +2,9 @@
 title: (RUS) Specify an inventory profile to report a finished BOM
 TOCTitle: (RUS) Specify an inventory profile to report a finished BOM
 ms:assetid: b9c817e7-95c3-4dde-8cbf-302ef70d8a71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711547(v=AX.60)
 ms:contentKeyID: 49387872
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,11 +40,11 @@ When you create a bill of materials (BOM) journal to report a BOM as finished, t
 
 ## See also
 
-[(RUS) Report BOM as finished (modified form)](https://technet.microsoft.com/en-us/library/jj733179\(v=ax.60\))
+[(RUS) Report BOM as finished (modified form)](https://technet.microsoft.com/library/jj733179\(v=ax.60\))
 
 [Report a BOM as finished](report-a-bom-as-finished.md)
 
-[(RUS) BOM line (modified form)](https://technet.microsoft.com/en-us/library/jj711372\(v=ax.60\))
+[(RUS) BOM line (modified form)](https://technet.microsoft.com/library/jj711372\(v=ax.60\))
 
   
 

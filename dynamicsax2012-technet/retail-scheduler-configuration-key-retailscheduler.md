@@ -2,8 +2,9 @@
 title: Retail scheduler configuration key (RetailScheduler)
 TOCTitle: Retail scheduler configuration key (RetailScheduler)
 ms:assetid: 0d334d0f-fbfc-4f7c-9236-c11eeb75be58
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697598(v=AX.60)
 ms:contentKeyID: 42518397
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---
@@ -44,7 +45,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>AOS profiles</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597290(v=ax.60)">AOS profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597290(v=ax.60)">AOS profiles (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Channel data group</strong></p>
@@ -59,26 +60,26 @@ The following forms are available when the configuration key is enabled.
 <tr class="even">
 <td><p><strong>Commerce Data Exchange: Synch Service message tree</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672161(v=ax.60)">Commerce Data Exchange: Synch Service message tree (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672161(v=ax.60)">Commerce Data Exchange: Synch Service message tree (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Commerce Data Exchange: Synch Service messages</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672165(v=ax.60)">Commerce Data Exchange: Synch Service messages (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672165(v=ax.60)">Commerce Data Exchange: Synch Service messages (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Commerce Data Exchange: Synch Service profiles</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597328(v=ax.60)">Commerce Data Exchange: Synch Service profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597328(v=ax.60)">Commerce Data Exchange: Synch Service profiles (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Commerce Data Exchange: Synch Service upload options</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597138(v=ax.60)">Commerce Data Exchange: Synch Service upload options (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597138(v=ax.60)">Commerce Data Exchange: Synch Service upload options (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Database profiles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597261(v=ax.60)">Database profiles (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597261(v=ax.60)">Database profiles (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Distribution schedule</strong></p></td>
@@ -92,7 +93,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>From table filters</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597308(v=ax.60)">Filter on action creations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597308(v=ax.60)">Filter on action creations (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Retail channel schema</strong></p></td>
@@ -102,33 +103,33 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>Preactions</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672160(v=ax.60)">Preactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672160(v=ax.60)">Preactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Retail scheduler parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Scheduler job</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672166(v=ax.60)">Scheduler job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672166(v=ax.60)">Scheduler job (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Scheduler log</strong></p>
 <p>This form is not available in AX 2012 R3.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh672167(v=ax.60)">Scheduler log (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh672167(v=ax.60)">Scheduler log (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Scheduler subjobs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597422(v=ax.60)">Scheduler subjobs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597422(v=ax.60)">Scheduler subjobs (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Table distribution</strong></p>
 <p>In AX 2012 R3, this form is available only if you are using a previous version of Retail POS.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh580622(v=ax.60)">Table distribution (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh580622(v=ax.60)">Table distribution (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transfer field list</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597422(v=ax.60)">Scheduler subjobs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597422(v=ax.60)">Scheduler subjobs (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Working folders</strong></p>
@@ -178,7 +179,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

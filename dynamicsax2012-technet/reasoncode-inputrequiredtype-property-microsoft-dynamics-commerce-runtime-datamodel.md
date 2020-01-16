@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReasonCode.InputRequiredType Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: InputRequiredType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCode.InputRequiredType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncode.inputrequiredtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncode.inputrequiredtype(v=AX.60)
 ms:contentKeyID: 65316972
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

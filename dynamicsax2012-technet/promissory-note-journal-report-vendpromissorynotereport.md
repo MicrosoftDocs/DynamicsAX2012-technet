@@ -2,8 +2,9 @@
 title: Promissory note journal report (VendPromissoryNoteReport)
 TOCTitle: Promissory note journal report (VendPromissoryNoteReport)
 ms:assetid: ede350ed-7684-46a5-8542-82cf5dc2e5ae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538465(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538465(v=AX.60)
 ms:contentKeyID: 39508894
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

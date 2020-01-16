@@ -2,8 +2,9 @@
 title: (RUS) Creating an invoice that is not related to a purchase order
 TOCTitle: (RUS) Creating an invoice that is not related to a purchase order
 ms:assetid: 589b5f73-1a02-4dbc-aeab-8e7f381389c9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665406(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665406(v=AX.60)
 ms:contentKeyID: 49387494
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ The following are examples of vendor invoices that are not related to a purchase
 
 ## See also
 
-[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj733265\(v=ax.60\))
+[(RUS) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj733265\(v=ax.60\))
 
   
 

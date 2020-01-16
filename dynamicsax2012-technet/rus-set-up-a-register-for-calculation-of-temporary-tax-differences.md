@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for calculation of temporary tax differences
 TOCTitle: (RUS) Set up a register for calculation of temporary tax differences
 ms:assetid: e382f500-b1b8-4a26-8363-f6eec55f2c18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839692(v=AX.60)
 ms:contentKeyID: 50396838
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ Temporary tax differences can occur if expenses or revenues generate a profit in
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

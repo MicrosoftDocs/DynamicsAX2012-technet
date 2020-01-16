@@ -2,8 +2,9 @@
 title: (RUS) Issue and post a customs cargo declaration for import or export operations
 TOCTitle: (RUS) Issue and post a customs cargo declaration for import or export operations
 ms:assetid: f1087bae-e61b-44dc-9a27-5080e8deedd6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733404(v=AX.60)
 ms:contentKeyID: 49685271
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The status of a journal is changed to **Posted** after a GTD is posted. The corr
 
 [(RUS) Set up the terms of delivery for customs clearance of items](rus-set-up-the-terms-of-delivery-for-customs-clearance-of-items.md)
 
-[(RUS) Terms of delivery (modified form)](https://technet.microsoft.com/en-us/library/jj733176\(v=ax.60\))
+[(RUS) Terms of delivery (modified form)](https://technet.microsoft.com/library/jj733176\(v=ax.60\))
 
   
 

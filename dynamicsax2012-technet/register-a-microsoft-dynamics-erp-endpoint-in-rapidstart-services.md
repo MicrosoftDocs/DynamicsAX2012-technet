@@ -2,8 +2,9 @@
 title: Register a Microsoft Dynamics ERP endpoint in RapidStart Services
 TOCTitle: Register a Microsoft Dynamics ERP endpoint in RapidStart Services
 ms:assetid: 134785ae-0d65-4641-a67d-6df2f5550d6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193985(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193985(v=AX.60)
 ms:contentKeyID: 52348240
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

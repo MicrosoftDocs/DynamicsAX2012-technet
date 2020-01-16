@@ -2,8 +2,9 @@
 title: (RUS) Post a purchase invoice for payment
 TOCTitle: (RUS) Post a purchase invoice for payment
 ms:assetid: 546d7cd3-62d1-4822-b0e9-cef200427abb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665393(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665393(v=AX.60)
 ms:contentKeyID: 49387481
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,13 +54,13 @@ Use the **Posting invoice for payment** form to post a purchase invoice for paym
 
 ## See also
 
-[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/en-us/library/jj733219\(v=ax.60\))
+[(RUS) Journal of invoices for payment (form)](https://technet.microsoft.com/library/jj733219\(v=ax.60\))
 
-[Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
+[Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\))
 
 [Create a purchase order](create-a-purchase-order.md)
 
-[Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
+[Purchase posting (form)](https://technet.microsoft.com/library/aa587152\(v=ax.60\))
 
   
 

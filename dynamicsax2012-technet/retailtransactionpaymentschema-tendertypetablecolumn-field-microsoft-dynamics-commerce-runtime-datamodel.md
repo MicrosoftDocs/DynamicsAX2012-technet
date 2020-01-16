@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailTransactionPaymentSchema.TenderTypeTableColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: TenderTypeTableColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.TenderTypeTableColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.tendertypetablecolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.tendertypetablecolumn(v=AX.60)
 ms:contentKeyID: 65322221
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

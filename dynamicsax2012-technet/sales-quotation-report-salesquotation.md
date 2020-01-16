@@ -2,8 +2,9 @@
 title: Sales quotation report (SalesQuotation)
 TOCTitle: Sales quotation report (SalesQuotation)
 ms:assetid: 6462d251-635d-4c5a-b641-42985c0d78df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242722(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242722(v=AX.60)
 ms:contentKeyID: 36058985
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ You can use the **Sales quotation** report to print the sales quotation business
 
 There are several parameters that can be used to filter the data that is displayed on the report. For more information, see [Filter the data on a report](filter-the-data-on-a-report.md).
 
-For additional information about how to configure the filters for this report, see [Send quotation (class form)](https://technet.microsoft.com/en-us/library/aa589556\(v=ax.60\)).
+For additional information about how to configure the filters for this report, see [Send quotation (class form)](https://technet.microsoft.com/library/aa589556\(v=ax.60\)).
 
 ## How to work with reports
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up a warehouse to calculate customs payments
 TOCTitle: (RUS) Set up a warehouse to calculate customs payments
 ms:assetid: 82fc18c7-805f-4152-a796-bf1192ce3c65
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678428(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678428(v=AX.60)
 ms:contentKeyID: 49387658
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Reporting architecture
 TOCTitle: Reporting architecture
 ms:assetid: 93229fa6-e507-47a9-8a8b-1d2cb28f4bfe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd361996(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd361996(v=AX.60)
 ms:contentKeyID: 35132767
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductManager.GetActiveProductPrice Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetActiveProductPrice Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetActiveProductPrice
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.productmanager.getactiveproductprice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getactiveproductprice(v=AX.60)
 ms:contentKeyID: 62211491
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Project quotation configuration key (ProjQuotation)
 TOCTitle: Project quotation configuration key (ProjQuotation)
 ms:assetid: 2cd928cb-5c55-4922-84cc-c7fe1515ae77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500883(v=AX.60)
 ms:contentKeyID: 42517314
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,23 +56,23 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Project quotation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Project quotation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Project quotation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Project quotation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Project quotation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Project quotations</strong></p></td>
@@ -79,19 +80,19 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Quotation template groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa615258(v=ax.60)">Quotation template groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Transfer quotation lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582259(v=ax.60)">Transfer quotation lines to forecast (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582259(v=ax.60)">Transfer quotation lines to forecast (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transfer quotation lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582259(v=ax.60)">Transfer quotation lines to forecast (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582259(v=ax.60)">Transfer quotation lines to forecast (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Transfer to project</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh450758(v=ax.60)">Transfer quotation to project wizard</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh450758(v=ax.60)">Transfer quotation to project wizard</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +130,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

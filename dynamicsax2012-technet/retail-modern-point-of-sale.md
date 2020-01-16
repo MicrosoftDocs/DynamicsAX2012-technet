@@ -2,8 +2,9 @@
 title: Retail Modern Point of Sale
 TOCTitle: Retail Modern Point of Sale
 ms:assetid: a670f147-1648-4077-9c39-dc032079f8bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741450(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741450(v=AX.60)
 ms:contentKeyID: 62219728
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -202,7 +203,7 @@ The Retail SDK includes apps for various clients. You can customize those apps t
 </tr>
 <tr class="even">
 <td><p>Customize Commerce Data Exchange: Real-time Service</p></td>
-<td><p>Commerce Data Exchange: Real-time Service is a Windows Communication Foundation (WCF) service that uses .NET Business Connector to enable retail clients to communicate with Microsoft Dynamics AX in real time. You can customize Real-time Service by adding extension methods to the <a href="https://technet.microsoft.com/en-us/library/hh813763(v=ax.60)">RetailTransactionServiceEx</a> class.</p></td>
+<td><p>Commerce Data Exchange: Real-time Service is a Windows Communication Foundation (WCF) service that uses .NET Business Connector to enable retail clients to communicate with Microsoft Dynamics AX in real time. You can customize Real-time Service by adding extension methods to the <a href="https://technet.microsoft.com/library/hh813763(v=ax.60)">RetailTransactionServiceEx</a> class.</p></td>
 <td><p><a href="extend-the-commerce-data-exchange-real-time-service.md">Extend the Commerce Data Exchange: Real-time Service</a></p></td>
 </tr>
 <tr class="odd">
@@ -424,7 +425,7 @@ The following tables describe the configuration tasks that you must complete in 
 <p>To process credit card transactions at retail point-of-sale (POS) registers, you can also set up payment services.</p></td>
 <td><p><a href="setting-up-payment-methods-retail.md">Setting up payment methods (Retail)</a></p>
 <p><a href="set-up-payment-services.md">Set up Payment Services</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/jj683232(v=ax.60)">Set up payment connector</a> (optional)</p></td>
+<p><a href="https://technet.microsoft.com/library/jj683232(v=ax.60)">Set up payment connector</a> (optional)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Set up sales tax groups</p></td>

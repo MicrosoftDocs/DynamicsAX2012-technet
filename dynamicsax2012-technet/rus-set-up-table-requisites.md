@@ -2,8 +2,9 @@
 title: (RUS) Set up table requisites
 TOCTitle: (RUS) Set up table requisites
 ms:assetid: 9cca460d-82e7-4fa2-ba11-baa866b1ddb8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677625(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677625(v=AX.60)
 ms:contentKeyID: 49384928
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ Every report template contains several tables that have requisites in the table 
 
 10. Select the lines that have column types of **Description** and **Value**, and then repeat steps 8 and 9 for each line.
 
-11. In the **Data type** and **Extended data type** fields, select the data type of the column and the extended data type to verify the value of the requisite that is imported. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\)).
+11. In the **Data type** and **Extended data type** fields, select the data type of the column and the extended data type to verify the value of the requisite that is imported. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\)).
 
 12. Create as many lines of the **Value** column type as there are value columns in the table. To arrange the lines in the correct order, select a line, and then click **Up** to move the line one position up, or click **Down** to move the line one position down.
     
@@ -66,7 +67,7 @@ Every report template contains several tables that have requisites in the table 
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
 [(RUS) Set up conditional cell type requisites](rus-set-up-conditional-cell-type-requisites.md)
 

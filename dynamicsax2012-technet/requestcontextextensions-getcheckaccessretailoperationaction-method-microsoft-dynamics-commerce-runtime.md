@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestContextExtensions.GetCheckAccessRetailOperationAction Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: GetCheckAccessRetailOperationAction Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.RequestContextExtensions.GetCheckAccessRetailOperationAction(Microsoft.Dynamics.Commerce.Runtime.RequestContext)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.getcheckaccessretailoperationaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.getcheckaccessretailoperationaction(v=AX.60)
 ms:contentKeyID: 65319185
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ static Action<RetailOperation>^ GetCheckAccessRetailOperationAction(
 
 #### Return Value
 
-Type: [System.Action](https://technet.microsoft.com/en-us/library/018hxwa8\(v=ax.60\))\<[RetailOperation](retailoperation-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Instance of [Action](https://technet.microsoft.com/en-us/library/bb534741\(v=ax.60\)) from the parameter cache.  
+Type: [System.Action](https://technet.microsoft.com/library/018hxwa8\(v=ax.60\))\<[RetailOperation](retailoperation-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Instance of [Action](https://technet.microsoft.com/library/bb534741\(v=ax.60\)) from the parameter cache.  
 
 #### Usage Note
 

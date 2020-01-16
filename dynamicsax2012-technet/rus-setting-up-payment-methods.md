@@ -2,8 +2,9 @@
 title: (RUS) Setting up payment methods
 TOCTitle: (RUS) Setting up payment methods
 ms:assetid: 477b4abe-1285-402a-8ac9-667c8995c5e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665341(v=AX.60)
 ms:contentKeyID: 49387430
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

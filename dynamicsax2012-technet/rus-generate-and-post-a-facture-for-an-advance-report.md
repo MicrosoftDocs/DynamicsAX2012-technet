@@ -2,8 +2,9 @@
 title: (RUS) Generate and post a facture for an advance report
 TOCTitle: (RUS) Generate and post a facture for an advance report
 ms:assetid: 4c4b562b-9012-439d-a305-e483c2f26cf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665359(v=AX.60)
 ms:contentKeyID: 49387447
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,7 +64,7 @@ The Generate facture by expense account function can be used to reflect VAT in t
 
 [(RUS) Generate advance report lines using the Copy from expenses function](rus-generate-advance-report-lines-using-the-copy-from-expenses-function.md)
 
-[(RUS) Advance reports (form)](https://technet.microsoft.com/en-us/library/jj733237\(v=ax.60\))
+[(RUS) Advance reports (form)](https://technet.microsoft.com/library/jj733237\(v=ax.60\))
 
   
 

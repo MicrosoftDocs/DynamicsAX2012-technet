@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductL2CacheDataStoreAccessor.PutItem(T) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PutItem(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.PutItem``1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn718089(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn718089(v=AX.60)
 ms:contentKeyID: 62212707
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

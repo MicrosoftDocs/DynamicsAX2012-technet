@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductRefiner.Source Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Source Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductRefiner.Source
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productrefiner.source(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productrefiner.source(v=AX.60)
 ms:contentKeyID: 65319446
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

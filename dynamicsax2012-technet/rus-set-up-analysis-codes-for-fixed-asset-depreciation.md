@@ -2,8 +2,9 @@
 title: (RUS) Set up analysis codes for fixed asset depreciation
 TOCTitle: (RUS) Set up analysis codes for fixed asset depreciation
 ms:assetid: 925aa424-2fac-4389-96dc-2f3cdab23d7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678483(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678483(v=AX.60)
 ms:contentKeyID: 49387712
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ Analysis codes are defined for use in calculating the depreciation accrual for a
 
 ## See also
 
-[(RUS) Analysis codes (form)](https://technet.microsoft.com/en-us/library/jj852147\(v=ax.60\))
+[(RUS) Analysis codes (form)](https://technet.microsoft.com/library/jj852147\(v=ax.60\))
 
   
 

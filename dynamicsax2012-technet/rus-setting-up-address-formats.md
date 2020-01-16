@@ -2,8 +2,9 @@
 title: (RUS) Setting up address formats
 TOCTitle: (RUS) Setting up address formats
 ms:assetid: 06261fb9-603a-433d-adb9-ee03518ed0b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711358(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711358(v=AX.60)
 ms:contentKeyID: 49387178
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

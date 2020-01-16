@@ -2,8 +2,9 @@
 title: Review electronic signatures
 TOCTitle: Review electronic signatures
 ms:assetid: 5cfc2b61-76cb-448e-8e74-4c93198d3eef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309689(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309689(v=AX.60)
 ms:contentKeyID: 36057575
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

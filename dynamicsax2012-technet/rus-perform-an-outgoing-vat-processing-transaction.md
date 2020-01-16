@@ -2,8 +2,9 @@
 title: (RUS) Perform an outgoing VAT processing transaction
 TOCTitle: (RUS) Perform an outgoing VAT processing transaction
 ms:assetid: f0127d0c-88fc-4d87-bfd7-698a2c49fbc0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856121(v=AX.60)
 ms:contentKeyID: 50406419
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -87,7 +88,7 @@ You can define the parameters for outgoing value-added tax (VAT) processing oper
 
 
 
-10. Click **Accounts receivable** \> **Periodic** \> **Sales book** \> **VAT processing log**. You can view the processing and canceling operations for outgoing VAT. For more information, see [(RUS) VAT processing log (form)](https://technet.microsoft.com/en-us/library/jj923606\(v=ax.60\)).
+10. Click **Accounts receivable** \> **Periodic** \> **Sales book** \> **VAT processing log**. You can view the processing and canceling operations for outgoing VAT. For more information, see [(RUS) VAT processing log (form)](https://technet.microsoft.com/library/jj923606\(v=ax.60\)).
 
 11. Click **Accounts receivable** \> **Periodic** \> **Sales book** \> **Sales books journal**.
 
@@ -97,7 +98,7 @@ You can define the parameters for outgoing value-added tax (VAT) processing oper
 
 ## See also
 
-[(RUS) Sales books journal (form)](https://technet.microsoft.com/en-us/library/jj853161\(v=ax.60\))
+[(RUS) Sales books journal (form)](https://technet.microsoft.com/library/jj853161\(v=ax.60\))
 
   
 

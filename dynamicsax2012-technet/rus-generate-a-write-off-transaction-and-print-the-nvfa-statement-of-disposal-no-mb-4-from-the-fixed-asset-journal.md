@@ -2,8 +2,9 @@
 title: (RUS) Generate a write-off transaction and print the NVFA statement of disposal (No. MB-4) from the fixed asset journal
 TOCTitle: (RUS) Generate a write-off transaction and print the NVFA statement of disposal (No. MB-4) from the fixed asset journal
 ms:assetid: e4b50246-41af-4409-af15-43daed730dd2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923602(v=AX.60)
 ms:contentKeyID: 52075444
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,7 +91,7 @@ You can generate and print the **NVFA Statement of disposal (No. MB-4)** report 
 
 ## See also
 
-[(RUS) Journal voucher (form)](https://technet.microsoft.com/en-us/library/jj923409\(v=ax.60\))
+[(RUS) Journal voucher (form)](https://technet.microsoft.com/library/jj923409\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Temporarily inactivate and reactivate a fixed asset
 TOCTitle: (RUS) Temporarily inactivate and reactivate a fixed asset
 ms:assetid: 4b46c72c-e223-4a38-a6aa-17ddb33ed67c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665354(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665354(v=AX.60)
 ms:contentKeyID: 49387442
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -89,7 +90,7 @@ If a fixed asset is closed down or inactive for more than three months, or if re
 
 ## See also
 
-[(RUS) Depreciation groups (form)](https://technet.microsoft.com/en-us/library/jj678328\(v=ax.60\))
+[(RUS) Depreciation groups (form)](https://technet.microsoft.com/library/jj678328\(v=ax.60\))
 
   
 

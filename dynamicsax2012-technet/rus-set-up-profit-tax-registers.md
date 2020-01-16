@@ -2,8 +2,9 @@
 title: (RUS) Set up profit tax registers
 TOCTitle: (RUS) Set up profit tax registers
 ms:assetid: 65f43c14-cc80-48dc-9a8a-8e8ec81c3609
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911486(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911486(v=AX.60)
 ms:contentKeyID: 52075389
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The accounting rules that are used to group objects for tax purposes differ from
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
   
 

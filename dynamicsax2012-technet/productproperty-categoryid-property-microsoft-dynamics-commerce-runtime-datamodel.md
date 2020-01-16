@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductProperty.CategoryId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CategoryId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductProperty.CategoryId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.categoryid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productproperty.categoryid(v=AX.60)
 ms:contentKeyID: 65321360
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,7 +54,7 @@ property long long CategoryId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

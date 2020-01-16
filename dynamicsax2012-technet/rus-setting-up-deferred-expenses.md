@@ -2,8 +2,9 @@
 title: (RUS) Setting up deferred expenses
 TOCTitle: (RUS) Setting up deferred expenses
 ms:assetid: 71677920-6279-4886-942a-6e4d3f4603ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678354(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678354(v=AX.60)
 ms:contentKeyID: 49387584
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

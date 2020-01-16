@@ -2,8 +2,9 @@
 title: Question analysis report (KMQuestionAnalyze)
 TOCTitle: Question analysis report (KMQuestionAnalyze)
 ms:assetid: 318d6f80-7ec9-422e-8bf9-151c71282da1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa501288(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa501288(v=AX.60)
 ms:contentKeyID: 39508870
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

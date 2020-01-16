@@ -2,8 +2,9 @@
 title: (RUS) Create a register using the wizard
 TOCTitle: (RUS) Create a register using the wizard
 ms:assetid: d3905c9a-179c-4715-8d09-2227ed7f1872
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711652(v=AX.60)
 ms:contentKeyID: 49387976
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use the register creation wizard to create registers manually. The value of thes
 
 ## See also
 
-[(RUS) Tax register creation wizard (form)](https://technet.microsoft.com/en-us/library/jj839675\(v=ax.60\))
+[(RUS) Tax register creation wizard (form)](https://technet.microsoft.com/library/jj839675\(v=ax.60\))
 
 [(RUS) Set up the numbering sequence for the tax register journal](rus-set-up-the-numbering-sequence-for-the-tax-register-journal.md)
 

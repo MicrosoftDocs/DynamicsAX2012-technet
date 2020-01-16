@@ -2,8 +2,9 @@
 title: (RUS) Post and print a reverse transaction for a purchase order credit note
 TOCTitle: (RUS) Post and print a reverse transaction for a purchase order credit note
 ms:assetid: f07df8df-ebc3-46e9-82da-725dad573364
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678592(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678592(v=AX.60)
 ms:contentKeyID: 49388074
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

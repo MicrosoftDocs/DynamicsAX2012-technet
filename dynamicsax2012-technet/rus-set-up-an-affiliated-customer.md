@@ -2,8 +2,9 @@
 title: (RUS) Set up an affiliated customer
 TOCTitle: (RUS) Set up an affiliated customer
 ms:assetid: 931ea1b1-d76e-4a15-b5a4-f1ff7c471389
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn306812(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn306812(v=AX.60)
 ms:contentKeyID: 54925757
+author: Khairunj
 ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Use the **Customers** form to affiliate a customer with an intercompany. If you 
 
 ## See also
 
-[(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
+[(RUS) Customers (modified form)](https://technet.microsoft.com/library/jj853212\(v=ax.60\))
 
   
 

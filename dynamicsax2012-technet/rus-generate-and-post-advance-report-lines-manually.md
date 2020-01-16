@@ -2,8 +2,9 @@
 title: (RUS) Generate and post advance report lines manually
 TOCTitle: (RUS) Generate and post advance report lines manually
 ms:assetid: aeb4ce89-eb4d-4d00-b4b3-6e068d6b9c9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711513(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711513(v=AX.60)
 ms:contentKeyID: 49387838
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ You can distribute the expense amount between different ledger dimensions. You c
 
 [(RUS) Generate an expense account line using the Copy from sources function](rus-generate-an-expense-account-line-using-the-copy-from-sources-function.md)
 
-[(RUS) Advance reports (form)](https://technet.microsoft.com/en-us/library/jj733237\(v=ax.60\))
+[(RUS) Advance reports (form)](https://technet.microsoft.com/library/jj733237\(v=ax.60\))
 
   
 

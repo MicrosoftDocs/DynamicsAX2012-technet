@@ -2,8 +2,9 @@
 title: (RUS) Create and post a sales order based on an inventory profile
 TOCTitle: (RUS) Create and post a sales order based on an inventory profile
 ms:assetid: 41a81e96-8532-40b0-b6e8-f5b1fac40826
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733207(v=AX.60)
 ms:contentKeyID: 49685175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,11 +54,11 @@ Use the **Sales order** form to post a packing slip, invoice, and facture for a 
 
 15. Click **Invoice** \> **Facture** to open the **Update facture** form.
 
-16. Select the factures to update, and then click **OK** to update the facture for the sales order. You can view the updated kind of activity in the **Invoice journal** and **Facture journal** forms. For more information, see [(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj711658\(v=ax.60\)) [(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+16. Select the factures to update, and then click **OK** to update the facture for the sales order. You can view the updated kind of activity in the **Invoice journal** and **Facture journal** forms. For more information, see [(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj711658\(v=ax.60\)) [(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
 ## See also
 
-[(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
+[(RUS) Sales orders (modified form)](https://technet.microsoft.com/library/jj733272\(v=ax.60\))
 
 [(RUS) Update factures and post invoices for sales orders](rus-update-factures-and-post-invoices-for-sales-orders.md)
 

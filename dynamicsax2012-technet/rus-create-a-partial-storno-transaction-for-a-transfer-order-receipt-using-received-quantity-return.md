@@ -2,8 +2,9 @@
 title: (RUS) Create a partial storno transaction for a transfer order receipt using received quantity return
 TOCTitle: (RUS) Create a partial storno transaction for a transfer order receipt using received quantity return
 ms:assetid: e992b44b-72b7-4f91-8016-897b6fca7af4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711723(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711723(v=AX.60)
 ms:contentKeyID: 49388046
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ You can create a partial storno transaction by specifying a negative receipt qua
     
 
     > [!NOTE]
-    > <P>For more information about transfer order receipts, see <A href="https://technet.microsoft.com/en-us/library/aa634530(v=ax.60)">Transfer orders (form)</A>, <A href="set-up-transfer-order-lines.md">Set up transfer order lines</A>, and <A href="receive-transfer-orders.md">Receive transfer orders</A>.</P>
+    > <P>For more information about transfer order receipts, see <A href="https://technet.microsoft.com/library/aa634530(v=ax.60)">Transfer orders (form)</A>, <A href="set-up-transfer-order-lines.md">Set up transfer order lines</A>, and <A href="receive-transfer-orders.md">Receive transfer orders</A>.</P>
 
 
 
@@ -72,17 +73,17 @@ You can create a partial storno transaction by specifying a negative receipt qua
 
 [(RUS) Generate a storno transaction for a transfer order receipt with scrap quantity](rus-generate-a-storno-transaction-for-a-transfer-order-receipt-with-scrap-quantity.md)
 
-[Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\))
+[Receive (form)](https://technet.microsoft.com/library/aa552649\(v=ax.60\))
 
-[(RUS) Receive (modified form)](https://technet.microsoft.com/en-us/library/jj678418\(v=ax.60\))
+[(RUS) Receive (modified form)](https://technet.microsoft.com/library/jj678418\(v=ax.60\))
 
-[Transfer order history (form)](https://technet.microsoft.com/en-us/library/aa575833\(v=ax.60\))
+[Transfer order history (form)](https://technet.microsoft.com/library/aa575833\(v=ax.60\))
 
-[(RUS) Transfer order history (modified form)](https://technet.microsoft.com/en-us/library/jj856120\(v=ax.60\))
+[(RUS) Transfer order history (modified form)](https://technet.microsoft.com/library/jj856120\(v=ax.60\))
 
-[Inventory transactions (form)](https://technet.microsoft.com/en-us/library/aa584374\(v=ax.60\))
+[Inventory transactions (form)](https://technet.microsoft.com/library/aa584374\(v=ax.60\))
 
-[(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\))
+[(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/library/jj733410\(v=ax.60\))
 
   
 

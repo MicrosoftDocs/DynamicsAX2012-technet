@@ -2,8 +2,9 @@
 title: " quantity variance"
 TOCTitle: " quantity variance"
 ms:assetid: DynamicsAXGlossary.1468438
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1468438(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1468438(v=AX.60)
 ms:contentKeyID: 36057174
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ f1_keywords:
 
 [quantity variance](quantity-variance.md)
 
-[variance](https://technet.microsoft.com/en-us/library/hh208895\(v=ax.60\))
+[variance](https://technet.microsoft.com/library/hh208895\(v=ax.60\))
 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 

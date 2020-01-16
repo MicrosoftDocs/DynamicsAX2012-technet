@@ -2,8 +2,9 @@
 title: (RUS) Import or export templates and related data
 TOCTitle: (RUS) Import or export templates and related data
 ms:assetid: 98326465-0e8d-4f7d-9774-9b0df9913ee6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677621(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677621(v=AX.60)
 ms:contentKeyID: 49384923
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,11 +84,11 @@ You can use the **Import templates settings** and **Export templates settings** 
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Export templates settings (form)](https://technet.microsoft.com/en-us/library/jj710788\(v=ax.60\))
+[(RUS) Export templates settings (form)](https://technet.microsoft.com/library/jj710788\(v=ax.60\))
 
-[(RUS) Import templates settings (form)](https://technet.microsoft.com/en-us/library/jj710704\(v=ax.60\))
+[(RUS) Import templates settings (form)](https://technet.microsoft.com/library/jj710704\(v=ax.60\))
 
   
 

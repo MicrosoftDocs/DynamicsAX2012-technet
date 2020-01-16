@@ -2,8 +2,9 @@
 title: RFID tagging configuration key (RFIDTagging)
 TOCTitle: RFID tagging configuration key (RFIDTagging)
 ms:assetid: 354946f3-ca78-445e-afd8-22bcf5c87d16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa574930(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa574930(v=AX.60)
 ms:contentKeyID: 36941201
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

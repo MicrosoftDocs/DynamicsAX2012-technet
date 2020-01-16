@@ -1,9 +1,10 @@
-﻿---
+---
 title: Reporting Project Overview
 TOCTitle: Reporting Project Overview
 ms:assetid: e3bc01b5-3b27-4909-a667-b11ddb40cc72
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc622374(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc622374(v=AX.60)
 ms:contentKeyID: 28119604
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 f1_keywords:
@@ -95,7 +96,7 @@ Reporting projects created in Visual Studio are stored in granular and customiza
 
 ### Version Control
 
-Version control is available for application projects from either the AOT or Visual Studio. For more information, see [Version Control System](https://technet.microsoft.com/en-us/library/aa639568\(v=ax.60\)).
+Version control is available for application projects from either the AOT or Visual Studio. For more information, see [Version Control System](https://technet.microsoft.com/library/aa639568\(v=ax.60\)).
 
 ## Deploy a Reporting Project
 
@@ -213,5 +214,5 @@ There are several model elements that are used to define a report in a model. Th
 
 [How to: Build a Reporting Project](how-to-build-a-reporting-project.md)
 
-[Adding a Visual Studio Project to the AOT](https://technet.microsoft.com/en-us/library/gg889206\(v=ax.60\))
+[Adding a Visual Studio Project to the AOT](https://technet.microsoft.com/library/gg889206\(v=ax.60\))
 

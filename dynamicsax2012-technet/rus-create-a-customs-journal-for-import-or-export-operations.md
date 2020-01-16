@@ -2,8 +2,9 @@
 title: (RUS) Create a customs journal for import or export operations
 TOCTitle: (RUS) Create a customs journal for import or export operations
 ms:assetid: 4e051c03-6306-4d1b-b027-01d6e40ac17e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911377(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911377(v=AX.60)
 ms:contentKeyID: 52075381
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -72,7 +73,7 @@ Use the **Customs journal** form to create a customs journal for import or expor
 
 [(RUS) Issue and post a customs cargo declaration for import or export operations](rus-issue-and-post-a-customs-cargo-declaration-for-import-or-export-operations.md)
 
-[(RUS) Create customs journal (form)](https://technet.microsoft.com/en-us/library/jj853226\(v=ax.60\))
+[(RUS) Create customs journal (form)](https://technet.microsoft.com/library/jj853226\(v=ax.60\))
 
   
 

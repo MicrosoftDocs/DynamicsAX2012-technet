@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Images Overview
 TOCTitle: Report Images Overview
 ms:assetid: e34f12e3-9dba-41bc-90e9-d8b81acb0300
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc622140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc622140(v=AX.60)
 ms:contentKeyID: 28119603
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

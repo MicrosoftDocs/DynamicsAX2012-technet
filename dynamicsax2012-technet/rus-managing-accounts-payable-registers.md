@@ -2,8 +2,9 @@
 title: (RUS) Managing accounts payable registers
 TOCTitle: (RUS) Managing accounts payable registers
 ms:assetid: cc1d10c5-cddf-45f0-b215-0e2341891cff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711612(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711612(v=AX.60)
 ms:contentKeyID: 49387936
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

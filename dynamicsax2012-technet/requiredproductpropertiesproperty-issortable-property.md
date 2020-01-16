@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequiredProductPropertiesProperty.IsSortable Property  ()
 TOCTitle: IsSortable Property
 ms:assetid: P:RequiredProductPropertiesProperty.IsSortable
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/requiredproductpropertiesproperty.issortable(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/requiredproductpropertiesproperty.issortable(v=AX.60)
 ms:contentKeyID: 65318524
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ property String^ IsSortable {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

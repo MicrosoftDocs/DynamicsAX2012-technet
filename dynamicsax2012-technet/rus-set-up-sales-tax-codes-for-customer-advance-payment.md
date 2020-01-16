@@ -2,8 +2,9 @@
 title: (RUS) Set up sales tax codes for customer advance payment
 TOCTitle: (RUS) Set up sales tax codes for customer advance payment
 ms:assetid: 4cc66b56-774e-45e3-80fc-658fd28925ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665362(v=AX.60)
 ms:contentKeyID: 49387450
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The sales tax codes are grouped into sales tax groups (TG) and item sales tax gr
     
 
     > [!NOTE]
-    > <P>For more information, <A href="https://technet.microsoft.com/en-us/library/aa553257(v=ax.60)">Sales tax codes (form)</A> and <A href="create-various-kinds-of-sales-tax-codes.md">Create various kinds of sales tax codes</A>.</P>
+    > <P>For more information, <A href="https://technet.microsoft.com/library/aa553257(v=ax.60)">Sales tax codes (form)</A> and <A href="create-various-kinds-of-sales-tax-codes.md">Create various kinds of sales tax codes</A>.</P>
 
 
 

@@ -2,8 +2,9 @@
 title: (RUS) Setting up and maintaining Fixed assets
 TOCTitle: (RUS) Setting up and maintaining Fixed assets
 ms:assetid: 3c5bf022-c011-4564-bee1-bfcf431319b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665302(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665302(v=AX.60)
 ms:contentKeyID: 49387391
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

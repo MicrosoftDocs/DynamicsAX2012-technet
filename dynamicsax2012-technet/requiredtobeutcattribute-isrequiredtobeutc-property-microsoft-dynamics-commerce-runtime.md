@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequiredToBeUtcAttribute.IsRequiredToBeUtc Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IsRequiredToBeUtc Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.RequiredToBeUtcAttribute.IsRequiredToBeUtc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.requiredtobeutcattribute.isrequiredtobeutc(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requiredtobeutcattribute.isrequiredtobeutc(v=AX.60)
 ms:contentKeyID: 62208892
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ property bool IsRequiredToBeUtc {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 True if \[is required to be UTC\]; otherwise, false.  
 
 ## See Also

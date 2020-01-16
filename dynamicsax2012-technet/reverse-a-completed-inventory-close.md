@@ -2,8 +2,9 @@
 title: Reverse a completed inventory close
 TOCTitle: Reverse a completed inventory close
 ms:assetid: 9282e2a5-a0e3-46b4-8bee-01053dcc28f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232180(v=AX.60)
 ms:contentKeyID: 36058575
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ After you finish making adjustments, you can run inventory close again for the p
 
 [About inventory close and the general ledger](about-inventory-close-and-the-general-ledger.md)
 
-[Cancellation - Initialize (form)](https://technet.microsoft.com/en-us/library/hh227515\(v=ax.60\))
+[Cancellation - Initialize (form)](https://technet.microsoft.com/library/hh227515\(v=ax.60\))
 
   
 

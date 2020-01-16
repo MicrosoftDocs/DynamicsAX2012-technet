@@ -2,8 +2,9 @@
 title: (RUS) Set up and generate an electronic document for an alcohol declaration
 TOCTitle: (RUS) Set up and generate an electronic document for an alcohol declaration
 ms:assetid: 9cf6a920-bbf9-4260-a859-72f15743c3c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn494961(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn494961(v=AX.60)
 ms:contentKeyID: 60513660
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -118,7 +119,7 @@ To generate the electronic document, follow these steps.
 
 1.  Click **General ledger** \> **Reports** \> **External** \> **Electronic documents list**.
 
-2.  Click **New** to create an electronic document, and enter the required details. For more information, see [(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\)).
+2.  Click **New** to create an electronic document, and enter the required details. For more information, see [(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\)).
 
 3.  Click **Load** \> **Data**.
 

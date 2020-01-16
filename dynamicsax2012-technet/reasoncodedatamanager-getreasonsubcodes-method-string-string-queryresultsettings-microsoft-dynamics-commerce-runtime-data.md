@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReasonCodeDataManager.GetReasonSubCodes Method (String, String, QueryResultSettings) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetReasonSubCodes Method (String, String, QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ReasonCodeDataManager.GetReasonSubCodes(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.reasoncodedatamanager.getreasonsubcodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.reasoncodedatamanager.getreasonsubcodes(v=AX.60)
 ms:contentKeyID: 65322428
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -57,12 +58,12 @@ ReadOnlyCollection<ReasonSubCode^>^ GetReasonSubCodes(
 #### Parameters
 
   - reasonCodeId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - reasonSubCodeId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -71,7 +72,7 @@ ReadOnlyCollection<ReasonSubCode^>^ GetReasonSubCodes(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ReasonSubCode](reasonsubcode-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ReasonSubCode](reasonsubcode-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

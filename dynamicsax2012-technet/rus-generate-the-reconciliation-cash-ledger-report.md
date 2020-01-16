@@ -2,8 +2,9 @@
 title: (RUS) Generate the reconciliation cash/ledger report
 TOCTitle: (RUS) Generate the reconciliation cash/ledger report
 ms:assetid: fc923f00-4702-443f-8af9-c69b901e6677
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678649(v=AX.60)
 ms:contentKeyID: 49388131
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ The reconciliation cash/ledger report generates details of cash transactions and
 
 ## See also
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

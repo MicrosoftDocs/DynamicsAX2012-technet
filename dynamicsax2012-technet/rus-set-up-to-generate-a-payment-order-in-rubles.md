@@ -2,8 +2,9 @@
 title: (RUS) Set up to generate a payment order in rubles
 TOCTitle: (RUS) Set up to generate a payment order in rubles
 ms:assetid: 66ede3e0-5a82-456c-a877-fb298240a31a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665466(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665466(v=AX.60)
 ms:contentKeyID: 49387553
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,11 +48,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Bank accounts (modified form)](https://technet.microsoft.com/en-us/library/jj923612\(v=ax.60\))
+[(RUS) Bank accounts (modified form)](https://technet.microsoft.com/library/jj923612\(v=ax.60\))
 
 [(RUS) Generate a payment order in rubles](rus-generate-a-payment-order-in-rubles.md)
 
-[(RUS) Methods of payment (modified form)](https://technet.microsoft.com/en-us/library/jj665379\(v=ax.60\))
+[(RUS) Methods of payment (modified form)](https://technet.microsoft.com/library/jj665379\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Receipt.Printers Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Printers Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Receipt.Printers
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.receipt.printers(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.receipt.printers(v=AX.60)
 ms:contentKeyID: 62214388
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property ICollection<Printer^>^ Printers {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[Printer](printer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
-Returns [ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)).  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[Printer](printer-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Returns [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).  
 
 ## See Also
 

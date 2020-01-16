@@ -2,8 +2,9 @@
 title: (RUS) Set up translation parameters
 TOCTitle: (RUS) Set up translation parameters
 ms:assetid: 02de276e-8f32-4828-8630-fe9d0403cd9c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856165(v=AX.60)
 ms:contentKeyID: 50407004
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
+[(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj923603\(v=ax.60\))
 
   
 

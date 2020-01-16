@@ -2,8 +2,9 @@
 title: (RUS) About tax accounting
 TOCTitle: (RUS) About tax accounting
 ms:assetid: 2fb4f71e-3963-46d1-aeca-f7e4a946f748
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126120(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126120(v=AX.60)
 ms:contentKeyID: 52075362
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

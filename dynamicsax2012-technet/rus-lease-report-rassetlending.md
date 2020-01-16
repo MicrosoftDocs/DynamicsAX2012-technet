@@ -2,8 +2,9 @@
 title: (RUS) Lease report (RAssetLending)
 TOCTitle: (RUS) Lease report (RAssetLending)
 ms:assetid: f45b043a-cc08-4ba3-a56c-00e152430356
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ992747(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ992747(v=AX.60)
 ms:contentKeyID: 51739434
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -107,9 +108,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
-[(RUS) FA on loan (form)](https://technet.microsoft.com/en-us/library/jj665390\(v=ax.60\))
+[(RUS) FA on loan (form)](https://technet.microsoft.com/library/jj665390\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Sales and marketing cube (smmSalesMarketingCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Sales and marketing cube (smmSalesMarketingCube)
 ms:assetid: 1e93656f-ee61-4b52-a0c5-c6000b73b1e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710384(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710384(v=AX.60)
 ms:contentKeyID: 49384276
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

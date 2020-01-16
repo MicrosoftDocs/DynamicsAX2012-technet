@@ -2,8 +2,9 @@
 title: (RUS) Cash transactions report (RCashTransList)
 TOCTitle: (RUS) Cash transactions report (RCashTransList)
 ms:assetid: dec27e39-9b21-45ae-ab2c-250f780423a0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945856(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945856(v=AX.60)
 ms:contentKeyID: 51543176
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -113,9 +114,9 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(EEUR) Cash transactions (form)](https://technet.microsoft.com/en-us/library/jj710778\(v=ax.60\))
+[(EEUR) Cash transactions (form)](https://technet.microsoft.com/library/jj710778\(v=ax.60\))
 
-[(EEUR) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj710760\(v=ax.60\))
+[(EEUR) Cash accounts (form)](https://technet.microsoft.com/library/jj710760\(v=ax.60\))
 
   
 

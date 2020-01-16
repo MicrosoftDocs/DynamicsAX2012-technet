@@ -2,8 +2,9 @@
 title: (RUS) Setting up deferred expense account registers
 TOCTitle: (RUS) Setting up deferred expense account registers
 ms:assetid: 0b007e3c-ba87-4926-92a7-d2e4b435231d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711377(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711377(v=AX.60)
 ms:contentKeyID: 49387195
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

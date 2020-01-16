@@ -2,8 +2,9 @@
 title: (RUS) Set up a sales register for fixed assets and intangible assets
 TOCTitle: (RUS) Set up a sales register for fixed assets and intangible assets
 ms:assetid: 44ea0eac-f938-4032-a0c1-0f902f9cf33f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665329(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665329(v=AX.60)
 ms:contentKeyID: 49387419
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -69,7 +70,7 @@ The **FA/IA sale** register is calculated on the basis of data from the followin
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate the fixed asset and intangible asset sale register](rus-calculate-the-fixed-asset-and-intangible-asset-sale-register.md)
 

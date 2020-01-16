@@ -2,8 +2,9 @@
 title: (RUS) Post taxes in a sales order
 TOCTitle: (RUS) Post taxes in a sales order
 ms:assetid: 5ca7f69f-a180-46cb-af4d-e7f77f035afc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665422(v=AX.60)
 ms:contentKeyID: 49387510
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

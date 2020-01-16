@@ -2,8 +2,9 @@
 title: (RUS) Set up competency information for workers and employees
 TOCTitle: (RUS) Set up competency information for workers and employees
 ms:assetid: 9b2ebb09-42b1-4215-8344-f8329c4a9abd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn745531(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn745531(v=AX.60)
 ms:contentKeyID: 62336124
+author: Khairunj
 ms.date: 05/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You can set up the following competency information for workers and employees:
 
   - Evaluation result codes, violation codes, and privilege codes that are used to record the competency information for employees based on their positions.
 
-When you create a worker record in the Human resources module, and then hire the worker as an employee in the Payroll (Russia) module, you can copy the skill related information of the worker that is defined in the Human resources module to the Payroll (Russia) module. For more information, see [Competency - Skills (form)](https://technet.microsoft.com/en-us/library/aa616428\(v=ax.60\)).
+When you create a worker record in the Human resources module, and then hire the worker as an employee in the Payroll (Russia) module, you can copy the skill related information of the worker that is defined in the Human resources module to the Payroll (Russia) module. For more information, see [Competency - Skills (form)](https://technet.microsoft.com/library/aa616428\(v=ax.60\)).
 
 Follow the steps in this topic to set up competency information for workers and employees in the Payroll (Russia) module.
 

@@ -2,8 +2,9 @@
 title: (RUS) Update a facture for several purchase orders
 TOCTitle: (RUS) Update a facture for several purchase orders
 ms:assetid: 7a86a84c-cccf-4d1e-b425-df92a6d138b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678381(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678381(v=AX.60)
 ms:contentKeyID: 49387611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,9 +66,9 @@ In general, only one invoice is included in each facture. However, sometimes it 
 
 ## See also
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
-[(RUS) Update facture (form)](https://technet.microsoft.com/en-us/library/jj889412\(v=ax.60\))
+[(RUS) Update facture (form)](https://technet.microsoft.com/library/jj889412\(v=ax.60\))
 
   
 

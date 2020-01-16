@@ -2,8 +2,9 @@
 title: (RUS) Create and post a payment journal for an exchanged currency
 TOCTitle: (RUS) Create and post a payment journal for an exchanged currency
 ms:assetid: b7e97c74-bbda-49c1-b24c-08468bec1c3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856176(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856176(v=AX.60)
 ms:contentKeyID: 50407015
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ After you have sent a payment to the bank and received a bank statement, you can
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**. Click **Lines** to open the **Journal voucher** form.
 
-2.  Press CTRL+N to create a new payment journal line, and then enter the required fields. For more information, see [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)).
+2.  Press CTRL+N to create a new payment journal line, and then enter the required fields. For more information, see [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)).
 
 3.  In the **Account** field, select the vendor account number.
 
@@ -45,7 +46,7 @@ After you have sent a payment to the bank and received a bank statement, you can
 
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
-[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj733511\(v=ax.60\))
+[(RUS) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj733511\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Allocate the distribution of a fixed asset
 TOCTitle: (RUS) Allocate the distribution of a fixed asset
 ms:assetid: bb54465a-ffdd-40c7-a6a5-5c226c5d8175
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711554(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711554(v=AX.60)
 ms:contentKeyID: 49387880
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ Use the **Fixed assets** form to allocate the distribution of an asset based on 
 
 ## See also
 
-[(RUS) Distribution (form)](https://technet.microsoft.com/en-us/library/jj678526\(v=ax.60\))
+[(RUS) Distribution (form)](https://technet.microsoft.com/library/jj678526\(v=ax.60\))
 
 [(RUS) Allocate dispersed fixed assets](rus-allocate-dispersed-fixed-assets.md)
 

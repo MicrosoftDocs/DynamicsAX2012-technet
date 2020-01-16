@@ -2,8 +2,9 @@
 title: (RUS) Set up WIP and FP estimates for a tax accounting register
 TOCTitle: (RUS) Set up WIP and FP estimates for a tax accounting register
 ms:assetid: f414511a-2afd-47ea-87d9-958d700a1b54
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923613(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923613(v=AX.60)
 ms:contentKeyID: 52075452
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ You can set up the estimates for work in process (WIP) and finished products (FP
 
 1.  Click **General ledger** \> **Setup** \> **Profit tax** \> **Registers**.
 
-2.  Create a new tax register. For more information, see [(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\)).
+2.  Create a new tax register. For more information, see [(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\)).
 
 3.  In the **Register type** field, select **WIP and FP estimation in tax accounting**.
 
@@ -31,13 +32,13 @@ You can set up the estimates for work in process (WIP) and finished products (FP
 
 7.  Click **Expense codes** to open the **Expense code setup** form.
 
-8.  In the **Expense code setup** form, create a new line, and then enter the required details. For more information, see [(RUS) Expense code setup (form)](https://technet.microsoft.com/en-us/library/jj839690\(v=ax.60\)).
+8.  In the **Expense code setup** form, create a new line, and then enter the required details. For more information, see [(RUS) Expense code setup (form)](https://technet.microsoft.com/library/jj839690\(v=ax.60\)).
 
 ## See also
 
 [(RUS) Set up account interval groups](rus-set-up-account-interval-groups.md)
 
-[(RUS) Register tree (form)](https://technet.microsoft.com/en-us/library/jj665403\(v=ax.60\))
+[(RUS) Register tree (form)](https://technet.microsoft.com/library/jj665403\(v=ax.60\))
 
   
 

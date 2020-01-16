@@ -2,8 +2,9 @@
 title: Project hour utilization - efficiency rate report (ProjUtilizationEfficiency)
 TOCTitle: Project hour utilization - efficiency rate report (ProjUtilizationEfficiency)
 ms:assetid: 34c0eac9-9e8d-45e5-9c7d-30e97c01f315
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527782(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527782(v=AX.60)
 ms:contentKeyID: 37831992
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

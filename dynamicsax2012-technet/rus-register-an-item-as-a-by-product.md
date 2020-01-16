@@ -2,8 +2,9 @@
 title: (RUS) Register an item as a by-product
 TOCTitle: (RUS) Register an item as a by-product
 ms:assetid: 919736c4-39e5-494c-9689-a9657ee2c5d0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678479(v=AX.60)
 ms:contentKeyID: 49387708
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use the **By-product** form to register an item that is generated as a by-produc
 
 ## See also
 
-[(RUS) By-product (form)](https://technet.microsoft.com/en-us/library/jj711526\(v=ax.60\))
+[(RUS) By-product (form)](https://technet.microsoft.com/library/jj711526\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Setting up and maintaining Accounts receivable
 TOCTitle: (RUS) Setting up and maintaining Accounts receivable
 ms:assetid: 30cbf333-688a-4817-b4c8-0d51b08bd26a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665252(v=AX.60)
 ms:contentKeyID: 49387341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

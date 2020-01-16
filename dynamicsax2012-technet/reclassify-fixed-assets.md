@@ -2,8 +2,9 @@
 title: Reclassify fixed assets
 TOCTitle: Reclassify fixed assets
 ms:assetid: c2196535-0094-4823-94a1-341daff7cc89
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550705(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550705(v=AX.60)
 ms:contentKeyID: 36059277
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ To reclassify a fixed asset, you must transfer it to a new fixed asset group or 
 
 ## See also
 
-[Reclassification (form)](https://technet.microsoft.com/en-us/library/aa573066\(v=ax.60\))
+[Reclassification (form)](https://technet.microsoft.com/library/aa573066\(v=ax.60\))
 
   
 

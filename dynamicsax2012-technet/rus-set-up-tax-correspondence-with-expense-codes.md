@@ -2,8 +2,9 @@
 title: (RUS) Set up tax correspondence with expense codes
 TOCTitle: (RUS) Set up tax correspondence with expense codes
 ms:assetid: 1b7bc0a3-80b4-4628-8354-2dc871010687
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839652(v=AX.60)
 ms:contentKeyID: 50396799
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ Use the **Sales tax relations** form to set up the correspondence between sales 
 
 ## See also
 
-[(RUS) Sales tax relations (form)](https://technet.microsoft.com/en-us/library/jj856164\(v=ax.60\))
+[(RUS) Sales tax relations (form)](https://technet.microsoft.com/library/jj856164\(v=ax.60\))
 
   
 

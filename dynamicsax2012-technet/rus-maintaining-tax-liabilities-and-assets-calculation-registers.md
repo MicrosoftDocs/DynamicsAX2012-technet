@@ -2,8 +2,9 @@
 title: (RUS) Maintaining tax liabilities and assets calculation registers
 TOCTitle: (RUS) Maintaining tax liabilities and assets calculation registers
 ms:assetid: 7dc475ed-fb22-4ffc-962b-c3c987250446
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839674(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839674(v=AX.60)
 ms:contentKeyID: 50396820
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
