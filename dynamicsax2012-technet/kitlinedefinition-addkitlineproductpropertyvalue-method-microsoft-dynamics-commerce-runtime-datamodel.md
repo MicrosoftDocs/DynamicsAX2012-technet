@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitLineDefinition.AddKitLineProductPropertyValue Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: AddKitLineProductPropertyValue Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineDefinition.AddKitLineProductPropertyValue(System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineProductProperty)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.kitlinedefinition.addkitlineproductpropertyvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlinedefinition.addkitlineproductpropertyvalue(v=AX.60)
 ms:contentKeyID: 65322887
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ void AddKitLineProductPropertyValue(
 #### Parameters
 
   - kitLineProductId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 

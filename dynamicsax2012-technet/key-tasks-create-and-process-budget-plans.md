@@ -2,8 +2,9 @@
 title: 'Key tasks: Create and process budget plans'
 TOCTitle: 'Key tasks: Create and process budget plans'
 ms:assetid: 8f829874-e5fd-44a0-beb4-c420726b8f5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677349(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677349(v=AX.60)
 ms:contentKeyID: 49384123
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -211,7 +212,7 @@ Back to top
 
 ## Add forecast positions to budget plan lines
 
-You can select specific forecast positions to add budget amounts for personnel to the budget plan lines. These budget amounts include salary, benefits, and counts of full-time equivalents (FTEs). For information about the budgets for forecast positions, see [Key tasks: Forecast positions](https://technet.microsoft.com/en-us/library/jj729760\(v=ax.60\)). For information about how to automatically generate a budget plan from all forecast positions, see [Generate budget plan from forecast positions (form)](https://technet.microsoft.com/en-us/library/jj677428\(v=ax.60\)).
+You can select specific forecast positions to add budget amounts for personnel to the budget plan lines. These budget amounts include salary, benefits, and counts of full-time equivalents (FTEs). For information about the budgets for forecast positions, see [Key tasks: Forecast positions](https://technet.microsoft.com/library/jj729760\(v=ax.60\)). For information about how to automatically generate a budget plan from all forecast positions, see [Generate budget plan from forecast positions (form)](https://technet.microsoft.com/library/jj677428\(v=ax.60\)).
 
 1.  Click **Budgeting** \> **Common** \> **Budget plans** \> **All budget plans**. On the **Action Pane**, in the **New** group, click **Budget plan**.
 
@@ -264,11 +265,11 @@ Back to top
 
 ## Find form help
 
-[Budget plan (form)](https://technet.microsoft.com/en-us/library/jj677376\(v=ax.60\))
+[Budget plan (form)](https://technet.microsoft.com/library/jj677376\(v=ax.60\))
 
-[Budget planning process (form)](https://technet.microsoft.com/en-us/library/jj677441\(v=ax.60\))
+[Budget planning process (form)](https://technet.microsoft.com/library/jj677441\(v=ax.60\))
 
-[Budget planning configuration (form)](https://technet.microsoft.com/en-us/library/jj677418\(v=ax.60\))
+[Budget planning configuration (form)](https://technet.microsoft.com/library/jj677418\(v=ax.60\))
 
 ## Find related tasks
 

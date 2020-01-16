@@ -2,8 +2,9 @@
 title: Install and configure Windows AppFabric for Enterprise Portal
 TOCTitle: Install and configure Windows AppFabric for Enterprise Portal
 ms:assetid: b9a24873-27cb-456e-893e-b79ee90512f7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn473937(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn473937(v=AX.60)
 ms:contentKeyID: 59371890
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

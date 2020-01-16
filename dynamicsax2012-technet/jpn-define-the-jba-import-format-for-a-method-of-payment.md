@@ -2,8 +2,9 @@
 title: (JPN) Define the JBA import format for a method of payment
 TOCTitle: (JPN) Define the JBA import format for a method of payment
 ms:assetid: 2a1ceffa-5ef7-4cca-9e4a-30fb9da92fac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711024(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711024(v=AX.60)
 ms:contentKeyID: 49386435
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (IND) VAT in sales documents
 TOCTitle: (IND) VAT in sales documents
 ms:assetid: 0c9ff669-1a6e-45de-b044-12438d363e0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664478(v=AX.60)
 ms:contentKeyID: 49385557
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

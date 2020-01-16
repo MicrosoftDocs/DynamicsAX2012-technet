@@ -2,8 +2,9 @@
 title: Intercompany goods in transit totals report (InterCompanyGoodsInTransitTotals)
 TOCTitle: Intercompany goods in transit totals report (InterCompanyGoodsInTransitTotals)
 ms:assetid: 8525b0a9-c307-4a48-8ffa-25b742f83c2e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227356(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227356(v=AX.60)
 ms:contentKeyID: 36059555
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

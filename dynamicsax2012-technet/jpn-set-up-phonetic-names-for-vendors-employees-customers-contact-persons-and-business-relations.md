@@ -2,8 +2,9 @@
 title: (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations
 TOCTitle: (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations
 ms:assetid: 62e52eab-c0f8-42c0-8463-648f34f03093
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711064(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711064(v=AX.60)
 ms:contentKeyID: 49386475
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,15 +72,15 @@ Use the following procedures to set up phonetic names, or Kana names, for vendor
 
 ## See also
 
-[(JPN) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj711083\(v=ax.60\))
+[(JPN) Vendors (modified form)](https://technet.microsoft.com/library/jj711083\(v=ax.60\))
 
-[(JPN) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj711060\(v=ax.60\))
+[(JPN) Customers (modified form)](https://technet.microsoft.com/library/jj711060\(v=ax.60\))
 
-[(JPN) Worker (modified form)](https://technet.microsoft.com/en-us/library/jj711224\(v=ax.60\))
+[(JPN) Worker (modified form)](https://technet.microsoft.com/library/jj711224\(v=ax.60\))
 
-[(JPN) Contacts (modified form)](https://technet.microsoft.com/en-us/library/jj711012\(v=ax.60\))
+[(JPN) Contacts (modified form)](https://technet.microsoft.com/library/jj711012\(v=ax.60\))
 
-[Competitors (form)](https://technet.microsoft.com/en-us/library/hh597346\(v=ax.60\))
+[Competitors (form)](https://technet.microsoft.com/library/hh597346\(v=ax.60\))
 
   
 

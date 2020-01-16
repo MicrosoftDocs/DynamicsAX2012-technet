@@ -2,8 +2,9 @@
 title: Inventory adjustments
 TOCTitle: Inventory adjustments
 ms:assetid: 18395fd3-f23e-453b-b79f-159795729c7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230964(v=AX.60)
 ms:contentKeyID: 36056095
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

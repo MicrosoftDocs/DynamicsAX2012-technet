@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage vendor payment retention for projects'
 TOCTitle: 'Key tasks: Manage vendor payment retention for projects'
 ms:assetid: b84c57d9-256b-4a54-b223-c6afcdb10970
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh351823(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh351823(v=AX.60)
 ms:contentKeyID: 36676406
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,9 +130,9 @@ Back to top
 
 ## Find form help
 
-[Vendor retention terms (form)](https://technet.microsoft.com/en-us/library/hh227442\(v=ax.60\))
+[Vendor retention terms (form)](https://technet.microsoft.com/library/hh227442\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
 ## Find related tasks
 

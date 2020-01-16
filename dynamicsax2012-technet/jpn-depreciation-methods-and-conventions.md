@@ -2,8 +2,9 @@
 title: (JPN) Depreciation methods and conventions
 TOCTitle: (JPN) Depreciation methods and conventions
 ms:assetid: fc0bc808-c5db-4efb-b0dd-dc9406ea245c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn408632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn408632(v=AX.60)
 ms:contentKeyID: 56309738
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

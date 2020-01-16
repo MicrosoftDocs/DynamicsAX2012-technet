@@ -2,8 +2,9 @@
 title: Label report (RetailLabel)
 TOCTitle: Label report (RetailLabel)
 ms:assetid: c94af841-cc97-434e-af83-60e485f11c87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697695(v=AX.60)
 ms:contentKeyID: 42518523
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -1,9 +1,10 @@
-﻿---
+---
 title: KitMapper.GetKitComponentImageData Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Mappers)
 TOCTitle: GetKitComponentImageData Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Mappers.KitMapper.GetKitComponentImageData(System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.Product,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.mappers.kitmapper.getkitcomponentimagedata(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.mappers.kitmapper.getkitcomponentimagedata(v=AX.60)
 ms:contentKeyID: 65316747
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ virtual ImageInfo^ GetKitComponentImageData(
 #### Parameters
 
   - kitComponentProductId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 

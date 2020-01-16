@@ -2,8 +2,9 @@
 title: Lean manufacturing license code (LeanManufacturing)
 TOCTitle: Lean manufacturing license code (LeanManufacturing)
 ms:assetid: 23c502ac-47b9-4956-b4ba-ea9eb2514b44
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500661(v=AX.60)
 ms:contentKeyID: 37822134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -65,7 +66,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: Insert a Route node
 TOCTitle: Insert a Route node
 ms:assetid: f4e6c1fd-d93c-49b6-907c-feec179d8a9f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551643(v=AX.60)
 ms:contentKeyID: 36059996
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,11 +40,11 @@ The Route node is useful for adding individual route operations to a product mod
     
       - **Variable** - You can type the name of one of the product model’s variables into the route operation field. During item configuration, this field will then be completed with the value of the selected variable.
 
-7.  Complete the remainder of the fields on the **Routes** form. For their descriptions, see the [Create and update routes (form)](https://technet.microsoft.com/en-us/library/aa590442\(v=ax.60\)).
+7.  Complete the remainder of the fields on the **Routes** form. For their descriptions, see the [Create and update routes (form)](https://technet.microsoft.com/library/aa590442\(v=ax.60\)).
 
 ## See also
 
-[Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
+[Product models (form)](https://technet.microsoft.com/library/aa572853\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemWarehouse.GetHashCode Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GetHashCode Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemWarehouse.GetHashCode
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.itemwarehouse.gethashcode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemwarehouse.gethashcode(v=AX.60)
 ms:contentKeyID: 49837902
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ virtual int GetHashCode() override
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 A hash code for this instance, suitable for use in hashing algorithms and data structures like a hash table.  
 
 ## See Also

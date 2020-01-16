@@ -2,8 +2,9 @@
 title: 'Key tasks: Vendor invoices'
 TOCTitle: 'Key tasks: Vendor invoices'
 ms:assetid: 62f9fc46-4028-4358-99b1-c8a8cf008884
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209199(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209199(v=AX.60)
 ms:contentKeyID: 36057680
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -130,7 +131,7 @@ You can create vendor invoices that are not associated with any purchase orders.
 
 4.  Enter the invoice number.
 
-5.  In the **Lines** grid, click **Add line** and enter information about the line. If you enter an item number, lines that are not for a purchase order must have a product type of **Item** or **Service**, and must not be stocked. For more information, see [Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\)).
+5.  In the **Lines** grid, click **Add line** and enter information about the line. If you enter an item number, lines that are not for a purchase order must have a product type of **Item** or **Service**, and must not be stocked. For more information, see [Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\)).
 
 6.  To view or specify additional information about the line, click the **Line details** FastTab and enter the information.
 
@@ -288,13 +289,13 @@ Back to top
 
 ## Find form help
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
-[Purchase posting (form)](https://technet.microsoft.com/en-us/library/aa587152\(v=ax.60\))
+[Purchase posting (form)](https://technet.microsoft.com/library/aa587152\(v=ax.60\))
 
-[Match product receipts to invoice (form)](https://technet.microsoft.com/en-us/library/hh209552\(v=ax.60\))
+[Match product receipts to invoice (form)](https://technet.microsoft.com/library/hh209552\(v=ax.60\))
 
-[Select product receipt - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh597253\(v=ax.60\))
+[Select product receipt - Purchase order (form)](https://technet.microsoft.com/library/hh597253\(v=ax.60\))
 
 ## Find related tasks
 

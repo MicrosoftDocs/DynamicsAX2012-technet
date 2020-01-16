@@ -2,8 +2,9 @@
 title: (IND) Setting up service tax
 TOCTitle: (IND) Setting up service tax
 ms:assetid: 8df20103-652e-43f4-8595-3dd8dd6f1b62
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678020(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678020(v=AX.60)
 ms:contentKeyID: 49385981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

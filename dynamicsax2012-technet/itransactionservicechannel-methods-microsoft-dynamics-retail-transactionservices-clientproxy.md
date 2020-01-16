@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITransactionServiceChannel Methods (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: ITransactionServiceChannel Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionServiceChannel
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.itransactionservicechannel_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.itransactionservicechannel_methods(v=AX.60)
 ms:contentKeyID: 49827238
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,8 +26,8 @@ The [ITransactionServiceChannel](itransactionservicechannel-interface-microsoft-
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms195515(v=ax.60)">Abort</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms195515(v=ax.60)">Abort</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
@@ -35,8 +36,8 @@ The [ITransactionServiceChannel](itransactionservicechannel-interface-microsoft-
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/aa344674(v=ax.60)">BeginDisplayInitializationUI</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/aa344674(v=ax.60)">BeginDisplayInitializationUI</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
@@ -50,33 +51,33 @@ The [ITransactionServiceChannel](itransactionservicechannel-interface-microsoft-
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/aa344675(v=ax.60)">DisplayInitializationUI</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/aa344675(v=ax.60)">DisplayInitializationUI</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/es4s3w1d(v=ax.60)">Dispose</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/es4s3w1d(v=ax.60)">Dispose</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms195522(v=ax.60)">EndClose</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms195522(v=ax.60)">EndClose</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/aa344676(v=ax.60)">EndDisplayInitializationUI</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/aa344676(v=ax.60)">EndDisplayInitializationUI</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms586684(v=ax.60)">IClientChannel</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms195523(v=ax.60)">EndOpen</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms195523(v=ax.60)">EndOpen</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms406008(v=ax.60)">ICommunicationObject</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/ms576215(v=ax.60)">GetProperty&lt;T&gt;</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/ms405873(v=ax.60)">IChannel</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/ms576215(v=ax.60)">GetProperty&lt;T&gt;</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/ms405873(v=ax.60)">IChannel</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

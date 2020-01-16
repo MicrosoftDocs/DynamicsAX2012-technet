@@ -2,8 +2,9 @@
 title: Install multiple Microsoft Dynamics AX Retail online stores
 TOCTitle: Install multiple online stores
 ms:assetid: eaaf0114-934b-4644-8d77-16e39cace6d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720296(v=AX.60)
 ms:contentKeyID: 62221437
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

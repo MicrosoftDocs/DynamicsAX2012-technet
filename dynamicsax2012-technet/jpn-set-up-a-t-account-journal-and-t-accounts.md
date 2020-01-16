@@ -2,8 +2,9 @@
 title: (JPN) Set up a T-account journal and T-accounts
 TOCTitle: (JPN) Set up a T-account journal and T-accounts
 ms:assetid: 019f4fff-944b-41a4-b84e-4ffa40820a10
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710995(v=AX.60)
 ms:contentKeyID: 49386408
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,9 +74,9 @@ You can enter transaction credit and debit amounts in a T-account journal. A deb
 
 ## See also
 
-[(JPN) T-account journal voucher (form)](https://technet.microsoft.com/en-us/library/jj711040\(v=ax.60\))
+[(JPN) T-account journal voucher (form)](https://technet.microsoft.com/library/jj711040\(v=ax.60\))
 
-[(JPN) Journal voucher - General journal (modified form)](https://technet.microsoft.com/en-us/library/jj711027\(v=ax.60\))
+[(JPN) Journal voucher - General journal (modified form)](https://technet.microsoft.com/library/jj711027\(v=ax.60\))
 
   
 

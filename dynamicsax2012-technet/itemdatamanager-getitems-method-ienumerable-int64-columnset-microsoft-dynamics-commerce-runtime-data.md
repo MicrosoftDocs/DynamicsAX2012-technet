@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemDataManager.GetItems Method (IEnumerable(Int64), ColumnSet) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetItems Method (IEnumerable(Int64), ColumnSet)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ItemDataManager.GetItems(System.Collections.Generic.IEnumerable{System.Int64},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.itemdatamanager.getitems(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.itemdatamanager.getitems(v=AX.60)
 ms:contentKeyID: 49820186
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -55,7 +56,7 @@ virtual ReadOnlyCollection<Item^>^ GetItems(
 #### Parameters
 
   - productIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 <!-- end list -->
 
@@ -64,7 +65,7 @@ virtual ReadOnlyCollection<Item^>^ GetItems(
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Item](item-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Item](item-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The collection of items or an empty list if no matching record could be found.  
 
 #### Implements

@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up a production flow'
 TOCTitle: 'Key tasks: Set up a production flow'
 ms:assetid: b2a13b52-ed32-42b9-b5ec-6c9ec57d3c71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527161(v=AX.60)
 ms:contentKeyID: 37823212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -223,33 +224,33 @@ Back to top
 
 ## Find form help
 
-[Sites (form)](https://technet.microsoft.com/en-us/library/hh242661\(v=ax.60\))
+[Sites (form)](https://technet.microsoft.com/library/hh242661\(v=ax.60\))
 
-[Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\))
+[Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\))
 
-[Inventory locations (form)](https://technet.microsoft.com/en-us/library/aa589646\(v=ax.60\))
+[Inventory locations (form)](https://technet.microsoft.com/library/aa589646\(v=ax.60\))
 
-[Resource groups (form)](https://technet.microsoft.com/en-us/library/hh227450\(v=ax.60\))
+[Resource groups (form)](https://technet.microsoft.com/library/hh227450\(v=ax.60\))
 
-[Working times (form)](https://technet.microsoft.com/en-us/library/aa553844\(v=ax.60\))
+[Working times (form)](https://technet.microsoft.com/library/aa553844\(v=ax.60\))
 
-[Production flow model (form)](https://technet.microsoft.com/en-us/library/hh209069\(v=ax.60\))
+[Production flow model (form)](https://technet.microsoft.com/library/hh209069\(v=ax.60\))
 
-[Production flows (form)](https://technet.microsoft.com/en-us/library/hh208997\(v=ax.60\))
+[Production flows (form)](https://technet.microsoft.com/library/hh208997\(v=ax.60\))
 
-[Production flow version details (form)](https://technet.microsoft.com/en-us/library/hh209606\(v=ax.60\))
+[Production flow version details (form)](https://technet.microsoft.com/library/hh209606\(v=ax.60\))
 
-[Create new plan activity (form)](https://technet.microsoft.com/en-us/library/hh227522\(v=ax.60\))
+[Create new plan activity (form)](https://technet.microsoft.com/library/hh227522\(v=ax.60\))
 
-[Production flow activities (form)](https://technet.microsoft.com/en-us/library/hh208824\(v=ax.60\))
+[Production flow activities (form)](https://technet.microsoft.com/library/hh208824\(v=ax.60\))
 
-[Create activity relation (form)](https://technet.microsoft.com/en-us/library/hh209655\(v=ax.60\))
+[Create activity relation (form)](https://technet.microsoft.com/library/hh209655\(v=ax.60\))
 
-[Validate production flow (class form)](https://technet.microsoft.com/en-us/library/hh209251\(v=ax.60\))
+[Validate production flow (class form)](https://technet.microsoft.com/library/hh209251\(v=ax.60\))
 
-[Activate production flow (class form)](https://technet.microsoft.com/en-us/library/hh208818\(v=ax.60\))
+[Activate production flow (class form)](https://technet.microsoft.com/library/hh208818\(v=ax.60\))
 
-[Deactivate production flow (class form)](https://technet.microsoft.com/en-us/library/hh227595\(v=ax.60\))
+[Deactivate production flow (class form)](https://technet.microsoft.com/library/hh227595\(v=ax.60\))
 
 ## Find related tasks
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITaxableItem.TaxLines Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: TaxLines Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxableItem.TaxLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.itaxableitem.taxlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.itaxableitem.taxlines(v=AX.60)
 ms:contentKeyID: 47129047
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property ICollection<ITaxItem^>^ TaxLines {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<[ITaxItem](itaxitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
-The [System.Collections.Generic.ICollection\<T\>](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\)) value.  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<[ITaxItem](itaxitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md)\>  
+The [System.Collections.Generic.ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)) value.  
 
 ## Remarks
 

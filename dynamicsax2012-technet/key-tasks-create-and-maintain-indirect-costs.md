@@ -2,8 +2,9 @@
 title: 'Key tasks: Create and maintain indirect costs'
 TOCTitle: 'Key tasks: Create and maintain indirect costs'
 ms:assetid: d9649c64-1c6e-4912-b361-3919675f9646
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227398(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227398(v=AX.60)
 ms:contentKeyID: 36059650
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,7 +71,7 @@ Use this procedure to set up a project category that defines how indirect costs 
 
 4.  On the **Project** FastTab, select the **Indirect cost component** check box to use this project category for indirect cost components.
 
-For more information about how to set up project categories, see [About project category groups](about-project-category-groups.md). For more information about the **Project categories** form, see [Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\)).
+For more information about how to set up project categories, see [About project category groups](about-project-category-groups.md). For more information about the **Project categories** form, see [Project categories (form)](https://technet.microsoft.com/library/aa582118\(v=ax.60\)).
 
 Back to top
 
@@ -96,7 +97,7 @@ Use this procedure to create an indirect cost component and associate it with a 
 
 6.  You can now set up indirect cost component groups.
 
-For more information about how to set up indirect cost components, see [Indirect cost component (form)](https://technet.microsoft.com/en-us/library/hh208810\(v=ax.60\)).
+For more information about how to set up indirect cost components, see [Indirect cost component (form)](https://technet.microsoft.com/library/hh208810\(v=ax.60\)).
 
 Back to top
 
@@ -114,7 +115,7 @@ Use this procedure to create indirect cost component groups to which you can ass
 
 5.  You can now assign indirect cost components to the group.
 
-For more information about how to set up indirect cost component groups, see [Indirect cost component groups (form)](https://technet.microsoft.com/en-us/library/hh209621\(v=ax.60\)).
+For more information about how to set up indirect cost component groups, see [Indirect cost component groups (form)](https://technet.microsoft.com/library/hh209621\(v=ax.60\)).
 
 Back to top
 
@@ -146,7 +147,7 @@ After you create an indirect cost component group, you can assign indirect cost 
 
 10. Optionally, you can create indirect cost compounding rules.
 
-For more information about how to assign indirect cost components to a group, see [Indirect cost component group assignment rules (form)](https://technet.microsoft.com/en-us/library/hh227451\(v=ax.60\)).
+For more information about how to assign indirect cost components to a group, see [Indirect cost component group assignment rules (form)](https://technet.microsoft.com/library/hh227451\(v=ax.60\)).
 
 Back to top
 
@@ -190,7 +191,7 @@ For each rate type, you define the basis of the percentage calculation method as
 
 4.  Continue to select available indirect cost components until you complete the compounding rule. If you want to remove an indirect cost component from the list of selected components, select the indirect cost component, and then click **Remove**.
 
-For more information about how to create compounding rules for indirect cost components, see [Compounding rules - Cost (form)](https://technet.microsoft.com/en-us/library/hh227384\(v=ax.60\)), [Compounding rules - Revenue (form)](https://technet.microsoft.com/en-us/library/hh209617\(v=ax.60\)), and [Compounding rules - Invoice (form)](https://technet.microsoft.com/en-us/library/hh242812\(v=ax.60\)).
+For more information about how to create compounding rules for indirect cost components, see [Compounding rules - Cost (form)](https://technet.microsoft.com/library/hh227384\(v=ax.60\)), [Compounding rules - Revenue (form)](https://technet.microsoft.com/library/hh209617\(v=ax.60\)), and [Compounding rules - Invoice (form)](https://technet.microsoft.com/library/hh242812\(v=ax.60\)).
 
 Back to top
 
@@ -218,21 +219,21 @@ The hours posted by the worker that you select in the **Indirect cost component 
 
 9.  Select the indirect cost component group to use to calculate indirect costs for the project contract.
 
-For more information about how to assign indirect cost components groups to a project contract, see [Indirect cost component group assignment rules (form)](https://technet.microsoft.com/en-us/library/hh227451\(v=ax.60\)).
+For more information about how to assign indirect cost components groups to a project contract, see [Indirect cost component group assignment rules (form)](https://technet.microsoft.com/library/hh227451\(v=ax.60\)).
 
 Back to top
 
 ## Find form help
 
-[Indirect cost component (form)](https://technet.microsoft.com/en-us/library/hh208810\(v=ax.60\))
+[Indirect cost component (form)](https://technet.microsoft.com/library/hh208810\(v=ax.60\))
 
-[Indirect cost component groups (form)](https://technet.microsoft.com/en-us/library/hh209621\(v=ax.60\))
+[Indirect cost component groups (form)](https://technet.microsoft.com/library/hh209621\(v=ax.60\))
 
-[Indirect component transaction (form)](https://technet.microsoft.com/en-us/library/hh209467\(v=ax.60\))
+[Indirect component transaction (form)](https://technet.microsoft.com/library/hh209467\(v=ax.60\))
 
-[Assigned indirect cost components (form)](https://technet.microsoft.com/en-us/library/hh209589\(v=ax.60\))
+[Assigned indirect cost components (form)](https://technet.microsoft.com/library/hh209589\(v=ax.60\))
 
-[Indirect cost component group assignment rules (form)](https://technet.microsoft.com/en-us/library/hh227451\(v=ax.60\))
+[Indirect cost component group assignment rules (form)](https://technet.microsoft.com/library/hh227451\(v=ax.60\))
 
   
 

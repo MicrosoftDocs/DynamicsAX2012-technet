@@ -1,9 +1,10 @@
-﻿---
+---
 title: LineTaxResult.HasExempt Property  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: HasExempt Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.LineTaxResult.HasExempt
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.linetaxresult.hasexempt(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.linetaxresult.hasexempt(v=AX.60)
 ms:contentKeyID: 49856609
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property bool HasExempt {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 If true this line tax result is exempt; otherwise, false.  
 
 ## See Also

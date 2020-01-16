@@ -2,8 +2,9 @@
 title: Install Warehouse Mobile Devices Portal
 TOCTitle: Install Warehouse Mobile Devices Portal
 ms:assetid: 217803ec-a153-4ec4-ac90-0f1c5c3ccb4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741429(v=AX.60)
 ms:contentKeyID: 62219713
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

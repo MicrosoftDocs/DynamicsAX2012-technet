@@ -2,8 +2,9 @@
 title: Install the Microsoft Dynamics AX client
 TOCTitle: Install the Microsoft Dynamics AX client
 ms:assetid: ea887acb-7579-4680-b990-5b8a2dff4617
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362118(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362118(v=AX.60)
 ms:contentKeyID: 35133189
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

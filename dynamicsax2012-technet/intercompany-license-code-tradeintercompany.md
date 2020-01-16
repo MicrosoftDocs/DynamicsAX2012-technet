@@ -2,8 +2,9 @@
 title: Intercompany license code (TradeInterCompany)
 TOCTitle: Intercompany license code (TradeInterCompany)
 ms:assetid: b2c171a6-9889-4a17-ba9b-2d46d8d42f51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467561(v=AX.60)
 ms:contentKeyID: 36991707
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -55,7 +56,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

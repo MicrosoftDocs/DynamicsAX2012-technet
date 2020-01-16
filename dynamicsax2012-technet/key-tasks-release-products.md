@@ -2,8 +2,9 @@
 title: 'Key tasks: Release products'
 TOCTitle: 'Key tasks: Release products'
 ms:assetid: 2f55f42e-1c5a-4bfe-b7f0-288ff18cca6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208544(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208544(v=AX.60)
 ms:contentKeyID: 36056298
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -215,11 +216,11 @@ Back to top
 
 ## Find form help
 
-[Release products (form)](https://technet.microsoft.com/en-us/library/hh227553\(v=ax.60\))
+[Release products (form)](https://technet.microsoft.com/library/hh227553\(v=ax.60\))
 
-[Open product releases (form)](https://technet.microsoft.com/en-us/library/hh209696\(v=ax.60\))
+[Open product releases (form)](https://technet.microsoft.com/library/hh209696\(v=ax.60\))
 
-[Add products to release (form)](https://technet.microsoft.com/en-us/library/hh242469\(v=ax.60\))
+[Add products to release (form)](https://technet.microsoft.com/library/hh242469\(v=ax.60\))
 
   
 

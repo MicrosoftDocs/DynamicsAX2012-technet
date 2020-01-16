@@ -2,8 +2,9 @@
 title: Install retail components
 TOCTitle: Install retail components
 ms:assetid: 92192174-9c68-4cb7-9bc7-3b9fad20851d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh575234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh575234(v=AX.60)
 ms:contentKeyID: 39555387
+author: Khairunj
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 ---

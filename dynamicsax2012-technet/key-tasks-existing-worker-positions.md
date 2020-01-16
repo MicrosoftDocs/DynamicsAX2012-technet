@@ -2,8 +2,9 @@
 title: 'Key tasks: Existing worker positions'
 TOCTitle: 'Key tasks: Existing worker positions'
 ms:assetid: 9cc83f70-ea9f-49b0-ace7-84c9a0ae161b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729756(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729756(v=AX.60)
 ms:contentKeyID: 49564922
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -225,9 +226,9 @@ Back to top
 
 ## Find form help
 
-[Position hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh242466\(v=ax.60\))
+[Position hierarchy types (form)](https://technet.microsoft.com/library/hh242466\(v=ax.60\))
 
-[Position type (form)](https://technet.microsoft.com/en-us/library/hh209577\(v=ax.60\))
+[Position type (form)](https://technet.microsoft.com/library/hh209577\(v=ax.60\))
 
 ## Find related tasks
 

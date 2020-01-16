@@ -2,8 +2,9 @@
 title: Learn about templates in RapidStart Services
 TOCTitle: Learn about templates in RapidStart Services
 ms:assetid: 6264ab73-3dd0-42b8-b6c2-32d2f0001f20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413235(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413235(v=AX.60)
 ms:contentKeyID: 36918926
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

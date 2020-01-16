@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPaymentTriggerV3 Interface (Microsoft.Dynamics.Retail.Pos.Contracts.Triggers)
 TOCTitle: IPaymentTriggerV3 Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPaymentTriggerV3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.triggers.ipaymenttriggerv3(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.ipaymenttriggerv3(v=AX.60)
 ms:contentKeyID: 62202542
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

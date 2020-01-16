@@ -2,8 +2,9 @@
 title: (JPN) Set up depreciation and depreciation methods
 TOCTitle: (JPN) Set up depreciation and depreciation methods
 ms:assetid: c8935f79-f46d-4fae-8ec4-851833bf349d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn408184(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn408184(v=AX.60)
 ms:contentKeyID: 56285049
+author: Khairunj
 ms.date: 12/03/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,13 +68,13 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
 <li><p>Ensure that you have set up basic fixed asset parameters, such as a default value model, reason codes, and number sequences, by using the <strong>Fixed assets parameters</strong> form. For more information, see <a href="set-up-fixed-assets-parameters.md">Set up Fixed assets parameters</a>.</p></li>
-<li><p>Define a fixed asset group by using the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
+<li><p>Define a fixed asset group by using the <strong>Fixed asset groups</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa573347(v=ax.60)">Fixed asset groups (form)</a>.</p></li>
 <li><p>Ensure that you have created a fixed asset record. For more information, see <a href="create-a-fixed-asset.md">Create a fixed asset</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>Depreciation setup task</strong></p></td>
-<td><p>Set up a depreciation book by using the <strong>Depreciation books</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa572416(v=ax.60)">Depreciation books (form)</a>.</p></td>
+<td><p>Set up a depreciation book by using the <strong>Depreciation books</strong> form. For more information, see <a href="https://technet.microsoft.com/library/aa572416(v=ax.60)">Depreciation books (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -245,9 +246,9 @@ To set up the depreciation profile, follow these steps:
 
 
 
-After you set up the depreciation profile, you can create a value model by using the **Value models** form, and assign the depreciation profile to the value model. For more information, see [Set up value models](set-up-value-models.md) and [Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\)).
+After you set up the depreciation profile, you can create a value model by using the **Value models** form, and assign the depreciation profile to the value model. For more information, see [Set up value models](set-up-value-models.md) and [Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\)).
 
-You can also assign the depreciation profile to a depreciation book by using the **Depreciation books** form. For more information, see [Depreciation books (form)](https://technet.microsoft.com/en-us/library/aa572416\(v=ax.60\)).
+You can also assign the depreciation profile to a depreciation book by using the **Depreciation books** form. For more information, see [Depreciation books (form)](https://technet.microsoft.com/library/aa572416\(v=ax.60\)).
 
 ## 6\. Set up allowable limits for accumulated depreciation
 

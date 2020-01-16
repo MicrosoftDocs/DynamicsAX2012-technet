@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemInfo.Discounts Property  (Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder)
 TOCTitle: Discounts Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder.ItemInfo.Discounts
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.customerorder.iteminfo.discounts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerorder.iteminfo.discounts(v=AX.60)
 ms:contentKeyID: 62213269
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Collection<DiscountInfo^>^ Discounts {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[DiscountInfo](discountinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md)\>  
-Returns [Collection\<T\>](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[DiscountInfo](discountinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md)\>  
+Returns [Collection\<T\>](https://technet.microsoft.com/library/ms132397\(v=ax.60\)).  
 
 ## See Also
 

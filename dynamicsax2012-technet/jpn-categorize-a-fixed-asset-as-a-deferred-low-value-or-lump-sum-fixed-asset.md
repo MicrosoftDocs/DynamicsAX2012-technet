@@ -2,8 +2,9 @@
 title: (JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset
 TOCTitle: (JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset
 ms:assetid: 2d7e57e3-9db5-4dbf-bb38-3f5ac6019544
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716011(v=AX.60)
 ms:contentKeyID: 62200254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

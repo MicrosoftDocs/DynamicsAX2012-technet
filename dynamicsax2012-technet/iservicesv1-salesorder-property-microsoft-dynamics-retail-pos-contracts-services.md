@@ -1,9 +1,10 @@
-﻿---
+---
 title: IServicesV1.SalesOrder Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: SalesOrder Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV1.SalesOrder
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv1.salesorder(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv1.salesorder(v=AX.60)
 ms:contentKeyID: 47344060
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

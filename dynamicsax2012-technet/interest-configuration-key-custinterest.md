@@ -2,8 +2,9 @@
 title: Interest configuration key (CustInterest)
 TOCTitle: Interest configuration key (CustInterest)
 ms:assetid: 2526ae53-9dfd-498b-8c96-5e1c87dfce6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467543(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467543(v=AX.60)
 ms:contentKeyID: 36991690
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,19 +38,19 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Interest</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa574050(v=ax.60)">Interest setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa574050(v=ax.60)">Interest setup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Interest journal</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583721(v=ax.60)">Interest journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583721(v=ax.60)">Interest journal (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Interest note</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa549918(v=ax.60)">Interest note (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa549918(v=ax.60)">Interest note (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Interest range</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209667(v=ax.60)">Customer interest range (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209667(v=ax.60)">Customer interest range (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +114,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

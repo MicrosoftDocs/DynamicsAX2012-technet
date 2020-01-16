@@ -1,9 +1,10 @@
-﻿---
+---
 title: LineDeliveryPreferenceTypeRecord.SalesLineId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: SalesLineId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDeliveryPreferenceTypeRecord.SalesLineId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.linedeliverypreferencetyperecord.saleslineid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.linedeliverypreferencetyperecord.saleslineid(v=AX.60)
 ms:contentKeyID: 65320244
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,8 +56,8 @@ property String^ SalesLineId {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
-Returns [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)).  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
+Returns [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)).  
 
 ## See Also
 

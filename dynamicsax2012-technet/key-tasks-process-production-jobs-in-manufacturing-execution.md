@@ -2,8 +2,9 @@
 title: 'Key tasks: Process production jobs in Manufacturing execution'
 TOCTitle: 'Key tasks: Process production jobs in Manufacturing execution'
 ms:assetid: 7fbe1c7f-d6eb-4faa-aa28-9f12c158b91a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209297(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209297(v=AX.60)
 ms:contentKeyID: 36058334
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -401,17 +402,17 @@ Back to top
 
 ## Find form help
 
-[Change feedback (form)](https://technet.microsoft.com/en-us/library/aa585926\(v=ax.60\))
+[Change feedback (form)](https://technet.microsoft.com/library/aa585926\(v=ax.60\))
 
-[Edit job list (form)](https://technet.microsoft.com/en-us/library/hh209583\(v=ax.60\))
+[Edit job list (form)](https://technet.microsoft.com/library/hh209583\(v=ax.60\))
 
-[Document groups (form)](https://technet.microsoft.com/en-us/library/hh227635\(v=ax.60\))
+[Document groups (form)](https://technet.microsoft.com/library/hh227635\(v=ax.60\))
 
-[Select resource and action (form)](https://technet.microsoft.com/en-us/library/hh242202\(v=ax.60\))
+[Select resource and action (form)](https://technet.microsoft.com/library/hh242202\(v=ax.60\))
 
-[Document handling (form)](https://technet.microsoft.com/en-us/library/aa616432\(v=ax.60\))
+[Document handling (form)](https://technet.microsoft.com/library/aa616432\(v=ax.60\))
 
-[Attendance (form)](https://technet.microsoft.com/en-us/library/aa585011\(v=ax.60\))
+[Attendance (form)](https://technet.microsoft.com/library/aa585011\(v=ax.60\))
 
 ## Find related tasks
 

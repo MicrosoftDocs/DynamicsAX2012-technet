@@ -2,8 +2,9 @@
 title: Intrastat transactions report (IntrastatList)
 TOCTitle: Intrastat transactions report (IntrastatList)
 ms:assetid: 4c3cea89-3999-4daa-80fa-56782acdea3e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576461(v=AX.60)
 ms:contentKeyID: 37831999
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

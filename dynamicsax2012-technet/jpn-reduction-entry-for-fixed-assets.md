@@ -2,8 +2,9 @@
 title: (JPN) Reduction entry for fixed assets
 TOCTitle: (JPN) Reduction entry for fixed assets
 ms:assetid: 24566bcf-b8e7-433f-805e-02756f08d989
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn518218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn518218(v=AX.60)
 ms:contentKeyID: 60434949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

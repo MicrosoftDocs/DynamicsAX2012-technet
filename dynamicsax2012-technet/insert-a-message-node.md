@@ -2,8 +2,9 @@
 title: Insert a Message node
 TOCTitle: Insert a Message node
 ms:assetid: 4a61d4c8-7db7-49cb-9f7d-856ba7ca8e01
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497010(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497010(v=AX.60)
 ms:contentKeyID: 36056966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ The **Message node** can be used whenever you must inform the user about somethi
 
 ## See also
 
-[Product models (form)](https://technet.microsoft.com/en-us/library/aa572853\(v=ax.60\))
+[Product models (form)](https://technet.microsoft.com/library/aa572853\(v=ax.60\))
 
   
 

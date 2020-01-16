@@ -1,9 +1,10 @@
-﻿---
+---
 title: Integrating and Customizing Reports
 TOCTitle: Integrating and Customizing Reports
 ms:assetid: 38d18be3-fbf3-428a-b76a-1521d6532fa8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc587084(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc587084(v=AX.60)
 ms:contentKeyID: 28119343
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

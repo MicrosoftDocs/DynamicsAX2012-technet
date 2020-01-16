@@ -2,8 +2,9 @@
 title: Inventory value cube (InventValueCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Inventory value cube (InventValueCube)
 ms:assetid: 4d369d42-3086-4e6b-b837-cb26f64dba72
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710385(v=AX.60)
 ms:contentKeyID: 49384279
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

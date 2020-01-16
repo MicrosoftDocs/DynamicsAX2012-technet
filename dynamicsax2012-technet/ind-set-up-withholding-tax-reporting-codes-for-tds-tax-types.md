@@ -2,8 +2,9 @@
 title: (IND) Set up withholding tax reporting codes for TDS tax types
 TOCTitle: (IND) Set up withholding tax reporting codes for TDS tax types
 ms:assetid: 116d218c-c15b-4a68-aba4-a4eff0c19b76
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664494(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664494(v=AX.60)
 ms:contentKeyID: 49385573
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The withholding tax reporting codes are used to generate Form 26Q and Form 27Q s
 
 ## See also
 
-[(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/en-us/library/jj664934\(v=ax.60\))
+[(IND) Withholding tax reporting codes (form)](https://technet.microsoft.com/library/jj664934\(v=ax.60\))
 
   
 

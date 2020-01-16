@@ -2,8 +2,9 @@
 title: Integrate a Service into the Commerce Runtime
 TOCTitle: Integrate a Service into the Commerce Runtime
 ms:assetid: abd7fca1-a4d8-42bf-8a50-a974e8f2828b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916619(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916619(v=AX.60)
 ms:contentKeyID: 50934009
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -21,7 +22,7 @@ A service handles any number of service messages. A service message is the combi
 
 ### To create a request object
 
-1.  Create a class that inherits from the [ServiceRequest](https://technet.microsoft.com/en-us/library/jj760475\(v=ax.60\)) class.
+1.  Create a class that inherits from the [ServiceRequest](https://technet.microsoft.com/library/jj760475\(v=ax.60\)) class.
     
 
     > [!NOTE]
@@ -35,13 +36,13 @@ A service handles any number of service messages. A service message is the combi
 
 ### To create a response object
 
-1.  Create an object that inherits from the [ServiceResponse](https://technet.microsoft.com/en-us/library/jj762670\(v=ax.60\)) class.
+1.  Create an object that inherits from the [ServiceResponse](https://technet.microsoft.com/library/jj762670\(v=ax.60\)) class.
 
 2.  Implement code to perform your desired functionality. Typically, this would be a get or set operation.
 
 ### To create a service object
 
-1.  Create an object that implements the [IService](https://technet.microsoft.com/en-us/library/jj762665\(v=ax.60\)) interface.
+1.  Create an object that implements the [IService](https://technet.microsoft.com/library/jj762665\(v=ax.60\)) interface.
 
 2.  Implement an execute method that takes a request object and returns a class that is a service response.
 

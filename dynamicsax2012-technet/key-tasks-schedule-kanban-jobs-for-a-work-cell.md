@@ -2,8 +2,9 @@
 title: 'Key tasks: Schedule kanban jobs for a work cell'
 TOCTitle: 'Key tasks: Schedule kanban jobs for a work cell'
 ms:assetid: 465ea32f-4041-4ebb-8963-ba0b505e2e61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh802996(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh802996(v=AX.60)
 ms:contentKeyID: 44080971
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -230,9 +231,9 @@ Back to top
 
 ## Find form help
 
-[Kanban schedule board (form)](https://technet.microsoft.com/en-us/library/hh597153\(v=ax.60\))
+[Kanban schedule board (form)](https://technet.microsoft.com/library/hh597153\(v=ax.60\))
 
-[Revert kanban job status (form)](https://technet.microsoft.com/en-us/library/hh692491\(v=ax.60\))
+[Revert kanban job status (form)](https://technet.microsoft.com/library/hh692491\(v=ax.60\))
 
   
 

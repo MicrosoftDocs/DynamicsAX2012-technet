@@ -2,8 +2,9 @@
 title: (JPN) Configure for bill of exchange upgrade
 TOCTitle: (JPN) Configure for bill of exchange upgrade
 ms:assetid: 4cb380d8-be1e-4c21-8838-da0d6feaf934
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714191(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714191(v=AX.60)
 ms:contentKeyID: 49651300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -53,7 +54,7 @@ Click the **Configure for bill of exchange upgrade** task to open the **Configur
 
 ## See also
 
-[(JPN) Configure for bill of exchange upgrade (form)](https://technet.microsoft.com/en-us/library/jj713625\(v=ax.60\))
+[(JPN) Configure for bill of exchange upgrade (form)](https://technet.microsoft.com/library/jj713625\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Learn about question groups and questions in RapidStart Services
 TOCTitle: Learn about question groups and questions in RapidStart Services
 ms:assetid: e4f51b2a-5c3f-4175-bdf6-7de7fef0f9ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413253(v=AX.60)
 ms:contentKeyID: 36918944
+author: Khairunj
 ms.date: 09/23/2015
 mtps_version: v=AX.60
 f1_keywords:

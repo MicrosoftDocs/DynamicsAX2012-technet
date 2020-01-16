@@ -2,8 +2,9 @@
 title: (JPN) Equally divided depreciation method
 TOCTitle: (JPN) Equally divided depreciation method
 ms:assetid: 9c3d1da8-41b6-4cd2-9bd0-8427b17b9358
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716012(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716012(v=AX.60)
 ms:contentKeyID: 62200255
+author: Khairunj
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:

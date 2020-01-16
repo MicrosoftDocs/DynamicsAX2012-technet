@@ -2,8 +2,9 @@
 title: (JPN) Set up a consolidated invoice for a customer
 TOCTitle: (JPN) Set up a consolidated invoice for a customer
 ms:assetid: a612d01c-12c4-4d62-be8d-0ed4bfe28fb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711218(v=AX.60)
 ms:contentKeyID: 49386529
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Japan
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can consolidate multiple sales orders into one invoice, based on a consolidation date that you specify in the **Customers** form. For more information, see [(JPN) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj711060\(v=ax.60\)).
+You can consolidate multiple sales orders into one invoice, based on a consolidation date that you specify in the **Customers** form. For more information, see [(JPN) Customers (modified form)](https://technet.microsoft.com/library/jj711060\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Setup** \> **Accounts receivable parameters**.
 
@@ -47,7 +48,7 @@ You can consolidate multiple sales orders into one invoice, based on a consolida
 
 [(JPN) About consolidating invoices](jpn-about-consolidating-invoices.md)
 
-[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664964\(v=ax.60\))
+[(JPN) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj664964\(v=ax.60\))
 
   
 

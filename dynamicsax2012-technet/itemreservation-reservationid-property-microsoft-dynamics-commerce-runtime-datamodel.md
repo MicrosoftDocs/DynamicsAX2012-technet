@@ -1,9 +1,10 @@
-﻿---
+---
 title: ItemReservation.ReservationId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ReservationId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemReservation.ReservationId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.itemreservation.reservationid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemreservation.reservationid(v=AX.60)
 ms:contentKeyID: 49846679
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property Guid ReservationId {
 
 #### Property Value
 
-Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 The reservation identifier.  
 
 ## See Also

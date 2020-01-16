@@ -2,8 +2,9 @@
 title: Install and configure Search prerequisites
 TOCTitle: Install and configure Search prerequisites
 ms:assetid: f4c8a8af-43a1-4203-9d32-196ebf050bb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ133958(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ133958(v=AX.60)
 ms:contentKeyID: 47290825
+author: Khairunj
 ms.date: 05/19/2014
 mtps_version: v=AX.60
 ---

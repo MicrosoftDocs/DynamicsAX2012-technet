@@ -2,8 +2,9 @@
 title: (IND) TDS and TCS electronic file formats
 TOCTitle: (IND) TDS and TCS electronic file formats
 ms:assetid: 11a5e4ab-fcf7-4628-9f61-3e305996da7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664495(v=AX.60)
 ms:contentKeyID: 49385574
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

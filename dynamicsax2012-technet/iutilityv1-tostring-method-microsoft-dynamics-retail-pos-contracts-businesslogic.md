@@ -1,9 +1,10 @@
-﻿---
+---
 title: IUtilityV1.ToString Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: ToString Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV1.ToString
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv1.tostring(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv1.tostring(v=AX.60)
 ms:contentKeyID: 47129357
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

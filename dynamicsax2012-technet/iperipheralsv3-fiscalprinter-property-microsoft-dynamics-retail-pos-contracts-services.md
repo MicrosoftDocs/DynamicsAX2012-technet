@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPeripheralsV3.FiscalPrinter Property  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: FiscalPrinter Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPeripheralsV3.FiscalPrinter
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralsv3.fiscalprinter(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralsv3.fiscalprinter(v=AX.60)
 ms:contentKeyID: 62205595
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Verify the import details for an import purchase order
 TOCTitle: (IND) Verify the import details for an import purchase order
 ms:assetid: 53eaa34f-769e-4d33-8d3a-4b76756bbe1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677821(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677821(v=AX.60)
 ms:contentKeyID: 49385784
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,9 +45,9 @@ For information about how to create an import purchase order and attach an AA in
 
 [(IND) Create an import order and apply the AA incentive scheme to the import order](ind-create-an-import-order-and-apply-the-aa-incentive-scheme-to-the-import-order.md)
 
-[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/en-us/library/jj664632\(v=ax.60\))
+[(IND) Import details - AA/DFIA (form)](https://technet.microsoft.com/library/jj664632\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
   
 

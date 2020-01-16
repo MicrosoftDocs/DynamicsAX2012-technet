@@ -2,8 +2,9 @@
 title: 'Key tasks: Letter of credit or import collection for the import of items'
 TOCTitle: 'Key tasks: Letter of credit or import collection for the import of items'
 ms:assetid: 022dec01-5141-4a3f-8936-43b12f7acef1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242097(v=AX.60)
 ms:contentKeyID: 36055925
+author: Khairunj
 ms.date: 05/21/2016
 mtps_version: v=AX.60
 audience: Application User
@@ -201,7 +202,7 @@ A letter of credit is associated with a purchase order to process vendor transac
     
     \-or-
     
-    In the **Purchase order** form, click the **Manage** tab, and then click **Letter of credit / import collection**. For more information, see [Letter of credit / import collection (form)](https://technet.microsoft.com/en-us/library/hh209538\(v=ax.60\)).
+    In the **Purchase order** form, click the **Manage** tab, and then click **Letter of credit / import collection**. For more information, see [Letter of credit / import collection (form)](https://technet.microsoft.com/library/hh209538\(v=ax.60\)).
 
 6.  Click the **General** FastTab, and in the **Bank account** field, select the bank that assigns the letter of credit. In the **Bank document number** field, enter the document number specified by the bank.
 
@@ -348,7 +349,7 @@ Back to top
 
 ## Find related tasks
 
-[Letter of credit / import collection (form)](https://technet.microsoft.com/en-us/library/hh209538\(v=ax.60\))
+[Letter of credit / import collection (form)](https://technet.microsoft.com/library/hh209538\(v=ax.60\))
 
 [About letters of credit and import collections](about-letters-of-credit-and-import-collections.md)
 

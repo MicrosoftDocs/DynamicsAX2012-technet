@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISaleLineItemV1.ReturnLineId Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: ReturnLineId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItemV1.ReturnLineId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.isalelineitemv1.returnlineid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.isalelineitemv1.returnlineid(v=AX.60)
 ms:contentKeyID: 49824866
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ property int ReturnLineId {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
-Returns [Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\)).  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
+Returns [Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Introduction to Process manufacturing production and logistics
 TOCTitle: Introduction to Process manufacturing production and logistics
 ms:assetid: 036fc3d3-f728-4ae4-82b7-f77adfe796d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682087(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682087(v=AX.60)
 ms:contentKeyID: 49655574
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

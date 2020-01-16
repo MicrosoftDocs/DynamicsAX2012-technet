@@ -2,8 +2,9 @@
 title: Loyalty programs
 TOCTitle: Loyalty programs
 ms:assetid: 86ba1cec-4b39-42bb-a971-45b5f2ae37dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn804648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn804648(v=AX.60)
 ms:contentKeyID: 62959180
+author: Khairunj
 ms.date: 05/20/2015
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISignatureCaptureInfoV1.Points Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: Points Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISignatureCaptureInfoV1.Points
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.isignaturecaptureinfov1.points(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.isignaturecaptureinfov1.points(v=AX.60)
 ms:contentKeyID: 49842725
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ property ReadOnlyCollection<Point>^ Points {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[Point](https://technet.microsoft.com/en-us/library/bk9hwzbw\(v=ax.60\))\>  
-Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\)).  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[Point](https://technet.microsoft.com/library/bk9hwzbw\(v=ax.60\))\>  
+Returns [ReadOnlyCollection\<T\>](https://technet.microsoft.com/library/ms132474\(v=ax.60\)).  
 
 ## See Also
 

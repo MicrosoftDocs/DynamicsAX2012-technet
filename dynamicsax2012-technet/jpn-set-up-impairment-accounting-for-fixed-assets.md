@@ -2,8 +2,9 @@
 title: (JPN) Set up impairment accounting for fixed assets
 TOCTitle: (JPN) Set up impairment accounting for fixed assets
 ms:assetid: c88ab5ee-6e1e-4813-95d8-812fcc4d444b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn532268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn532268(v=AX.60)
 ms:contentKeyID: 59930767
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -133,7 +134,7 @@ To perform this task, follow these steps:
 
 4.  In the **Undiscounted cash flow** field, enter the undiscounted cash flow, or in the **Recoverable amount** field, enter the recoverable amount. The **Line number** field is automatically updated with the next line number in the sequence. You can only modify or delete the line that has the highest line number.
 
-You can click **Attachments** in the **Update impairment indicators** form to open the **Fixed asset number** form, where you can attach a document to the impairment indicator. For more information, see [Document handling (form)](https://technet.microsoft.com/en-us/library/aa616432\(v=ax.60\)).
+You can click **Attachments** in the **Update impairment indicators** form to open the **Fixed asset number** form, where you can attach a document to the impairment indicator. For more information, see [Document handling (form)](https://technet.microsoft.com/library/aa616432\(v=ax.60\)).
 
 ## 3\. Update impairment indicators for multiple fixed assets
 

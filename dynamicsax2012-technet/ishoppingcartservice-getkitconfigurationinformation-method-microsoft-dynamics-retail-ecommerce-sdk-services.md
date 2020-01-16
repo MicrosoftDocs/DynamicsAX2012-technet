@@ -1,9 +1,10 @@
-﻿---
+---
 title: IShoppingCartService.GetKitConfigurationInformation Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: GetKitConfigurationInformation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.IShoppingCartService.GetKitConfigurationInformation(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.KitLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.ishoppingcartservice.getkitconfigurationinformation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.ishoppingcartservice.getkitconfigurationinformation(v=AX.60)
 ms:contentKeyID: 65315949
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,17 +62,17 @@ KitConfigurationResponse^ GetKitConfigurationInformation(
 #### Parameters
 
   - kitProductMasterIdentifier  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - catalogId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - kitLines  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[KitLine](kitline-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[KitLine](kitline-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md)\>  
 
 #### Return Value
 

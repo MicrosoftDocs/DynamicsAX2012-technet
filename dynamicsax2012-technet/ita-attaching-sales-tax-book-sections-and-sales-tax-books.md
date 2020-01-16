@@ -2,8 +2,9 @@
 title: (ITA) Attaching sales tax book sections and sales tax books
 TOCTitle: (ITA) Attaching sales tax book sections and sales tax books
 ms:assetid: 993ba587-7380-4b87-a7dd-1473c1adec95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209422(v=AX.60)
 ms:contentKeyID: 36058691
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ When you create a sales tax book section, a default sales tax book will be attac
 
 ## See also
 
-[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/en-us/library/aa600627\(v=ax.60\))
+[(ITA) Italian sales tax book sections (form)](https://technet.microsoft.com/library/aa600627\(v=ax.60\))
 
   
 

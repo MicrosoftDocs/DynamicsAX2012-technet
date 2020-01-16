@@ -2,8 +2,9 @@
 title: 'Key tasks: Workers'
 TOCTitle: 'Key tasks: Workers'
 ms:assetid: dd673ce0-e287-4c1b-b6cd-f7c57a144392
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227410(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227410(v=AX.60)
 ms:contentKeyID: 36059683
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -238,17 +239,17 @@ Back to top
 
 ## Find form help
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
-[Position assignments (form)](https://technet.microsoft.com/en-us/library/hh450759\(v=ax.60\))
+[Position assignments (form)](https://technet.microsoft.com/library/hh450759\(v=ax.60\))
 
-[Transfer worker (form)](https://technet.microsoft.com/en-us/library/hh335182\(v=ax.60\))
+[Transfer worker (form)](https://technet.microsoft.com/library/hh335182\(v=ax.60\))
 
-[Organization hierarchies (form)](https://technet.microsoft.com/en-us/library/hh209427\(v=ax.60\))
+[Organization hierarchies (form)](https://technet.microsoft.com/library/hh209427\(v=ax.60\))
 
-[Employment history (form)](https://technet.microsoft.com/en-us/library/hh781091\(v=ax.60\))
+[Employment history (form)](https://technet.microsoft.com/library/hh781091\(v=ax.60\))
 
-[Absence history (form)](https://technet.microsoft.com/en-us/library/aa582545\(v=ax.60\))
+[Absence history (form)](https://technet.microsoft.com/library/aa582545\(v=ax.60\))
 
 ## Find related tasks
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPosTransactionV2.EndDateTime Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: EndDateTime Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransactionV2.EndDateTime
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipostransactionv2.enddatetime(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipostransactionv2.enddatetime(v=AX.60)
 ms:contentKeyID: 49838592
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,8 +47,8 @@ property DateTime EndDateTime {
 
 #### Property Value
 
-Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
-Returns [DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\)).  
+Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
+Returns [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)).  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Install multiple AOS instances
 TOCTitle: Install multiple AOS instances
 ms:assetid: 9522d7e0-7bac-492e-a8b3-63d97676ecfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355067(v=AX.60)
 ms:contentKeyID: 35132772
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

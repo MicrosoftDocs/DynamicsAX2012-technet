@@ -2,8 +2,9 @@
 title: Leads configuration key (SmmLead)
 TOCTitle: Leads configuration key (SmmLead)
 ms:assetid: 3c54c1e3-5deb-4f26-bd97-197cfef1adf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416659(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416659(v=AX.60)
 ms:contentKeyID: 36931825
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,11 +46,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Lead details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Lead types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209651(v=ax.60)">Type (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209651(v=ax.60)">Type (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Lead</strong></p></td>
@@ -57,7 +58,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Leads</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>My active leads</strong></p></td>
@@ -69,15 +70,15 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>New leads</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242477(v=ax.60)">Leads (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Priority</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208811(v=ax.60)">Priority (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208811(v=ax.60)">Priority (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Rating</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209588(v=ax.60)">Rating (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209588(v=ax.60)">Rating (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -122,7 +123,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

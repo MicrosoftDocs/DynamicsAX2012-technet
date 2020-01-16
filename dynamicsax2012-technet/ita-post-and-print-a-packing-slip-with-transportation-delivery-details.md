@@ -2,8 +2,9 @@
 title: (ITA) Post and print a packing slip with transportation delivery details
 TOCTitle: (ITA) Post and print a packing slip with transportation delivery details
 ms:assetid: d2074768-636d-4f9d-8e11-f7db7609ef23
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242922(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242922(v=AX.60)
 ms:contentKeyID: 36059503
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ If the details of the contractor, loader, owner, and compiler are not set in the
 
 1.  Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**.
 
-2.  Select an open sales order, and then click **Pick and pack** \> **Packing slip** to open the **Packing slip posting** form. For more information, see [Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\)).
+2.  Select an open sales order, and then click **Pick and pack** \> **Packing slip** to open the **Packing slip posting** form. For more information, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).
 
 3.  On the **Parameters** tab, in the **Quantity** field, select **All**.
 
@@ -87,11 +88,11 @@ If the details of the contractor, loader, owner, and compiler are not set in the
 
 ## See also
 
-[Form setup (form)](https://technet.microsoft.com/en-us/library/aa589956\(v=ax.60\))
+[Form setup (form)](https://technet.microsoft.com/library/aa589956\(v=ax.60\))
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Sales posting (form)](https://technet.microsoft.com/en-us/library/aa550287\(v=ax.60\))
+[Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\))
 
   
 

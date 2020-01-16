@@ -2,8 +2,9 @@
 title: 'Key tasks: Audit policies'
 TOCTitle: 'Key tasks: Audit policies'
 ms:assetid: 6f34aced-dcd8-43ab-9d0f-763f8c5e2b7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242643(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242643(v=AX.60)
 ms:contentKeyID: 36058043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -85,9 +86,9 @@ Policy rule types define the document and query parameters that are used when yo
 
 3.  Enter a name and a brief description of the policy rule type.
 
-4.  In the **Query name** field, select the default Application Object Tree (AOT) query to use as the starting point for developing policy rules for this policy rule type. The query indicates the source document that the policy rule type is defined for. For more information about query names, see [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\)).
+4.  In the **Query name** field, select the default Application Object Tree (AOT) query to use as the starting point for developing policy rules for this policy rule type. The query indicates the source document that the policy rule type is defined for. For more information about query names, see [Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\)).
 
-5.  In the **Query type** field, select the type of database query that users can build when they create audit policy rules by using this policy rule type. For more information about query types, see [Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\)).
+5.  In the **Query type** field, select the type of database query that users can build when they create audit policy rules by using this policy rule type. For more information about query types, see [Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\)).
 
 6.  In the **Document date reference** field, select the field in the source document that identifies the date to use when documents are selected for audit.
 
@@ -107,7 +108,7 @@ Before you can define an audit policy, you must create the policy rule types tha
 
 4.  On the **Action Pane**, click **Additional options**, and then follow these steps:
     
-    1.  Enter the starting date and ending date of the document selection date range. This range determines which version of a policy rule to use, based on the effective dates of the policy rule. It also determines which organization nodes were associated with the policy during that date range. For more information, see [Additional options (form)](https://technet.microsoft.com/en-us/library/hh227519\(v=ax.60\)).
+    1.  Enter the starting date and ending date of the document selection date range. This range determines which version of a policy rule to use, based on the effective dates of the policy rule. It also determines which organization nodes were associated with the policy during that date range. For more information, see [Additional options (form)](https://technet.microsoft.com/library/hh227519\(v=ax.60\)).
     
     2.  Each audit policy is run in batch mode. To verify or change the parameters for the batch job, click the **Batch** button.
     
@@ -236,17 +237,17 @@ Back to top
 
 ## Find form help
 
-[Additional options (form)](https://technet.microsoft.com/en-us/library/hh227519\(v=ax.60\))
+[Additional options (form)](https://technet.microsoft.com/library/hh227519\(v=ax.60\))
 
-[Audit policies (list page)](https://technet.microsoft.com/en-us/library/hh208610\(v=ax.60\))
+[Audit policies (list page)](https://technet.microsoft.com/library/hh208610\(v=ax.60\))
 
-[Audit policy (form)](https://technet.microsoft.com/en-us/library/hh242790\(v=ax.60\))
+[Audit policy (form)](https://technet.microsoft.com/library/hh242790\(v=ax.60\))
 
-[Audit policy rule (form)](https://technet.microsoft.com/en-us/library/hh209490\(v=ax.60\))
+[Audit policy rule (form)](https://technet.microsoft.com/library/hh209490\(v=ax.60\))
 
-[Policy rule type (form)](https://technet.microsoft.com/en-us/library/hh208562\(v=ax.60\))
+[Policy rule type (form)](https://technet.microsoft.com/library/hh208562\(v=ax.60\))
 
-[Policy parameters (form)](https://technet.microsoft.com/en-us/library/hh209114\(v=ax.60\))
+[Policy parameters (form)](https://technet.microsoft.com/library/hh209114\(v=ax.60\))
 
 ## Find related tasks
 

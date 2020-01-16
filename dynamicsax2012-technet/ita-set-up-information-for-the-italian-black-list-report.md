@@ -2,8 +2,9 @@
 title: (ITA) Set up information for the "Italian black list" report
 TOCTitle: (ITA) Set up information for the "Italian black list" report
 ms:assetid: 889bc090-e652-4bf7-8108-d8d604953641
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209341(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209341(v=AX.60)
 ms:contentKeyID: 36058452
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -165,17 +166,17 @@ Use the **Sales tax codes** form to set up the type of tax to be calculated for 
 
 [(ITA) Generate the "Italian black list" report for taxable transactions](ita-generate-the-italian-black-list-report-for-taxable-transactions.md)
 
-[Foreign trade parameters (form)](https://technet.microsoft.com/en-us/library/aa620385\(v=ax.60\))
+[Foreign trade parameters (form)](https://technet.microsoft.com/library/aa620385\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
-[Address setup (form)](https://technet.microsoft.com/en-us/library/hh209301\(v=ax.60\))
+[Address setup (form)](https://technet.microsoft.com/library/hh209301\(v=ax.60\))
 
   
 

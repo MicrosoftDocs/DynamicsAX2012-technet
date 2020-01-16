@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPinPadInfoV1.EventArgs Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: EventArgs Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPinPadInfoV1.EventArgs
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipinpadinfov1.eventargs(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ipinpadinfov1.eventargs(v=AX.60)
 ms:contentKeyID: 47128988
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ property EventArgs^ EventArgs {
 
 #### Property Value
 
-Type: [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\))  
-The [System.EventArgs](https://technet.microsoft.com/en-us/library/118wxtk3\(v=ax.60\)) value.  
+Type: [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\))  
+The [System.EventArgs](https://technet.microsoft.com/library/118wxtk3\(v=ax.60\)) value.  
 
 ## See Also
 

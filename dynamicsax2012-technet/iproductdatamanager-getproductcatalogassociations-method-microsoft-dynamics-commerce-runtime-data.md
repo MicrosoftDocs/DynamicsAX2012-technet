@@ -1,9 +1,10 @@
-﻿---
+---
 title: IProductDataManager.GetProductCatalogAssociations Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetProductCatalogAssociations Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IProductDataManager.GetProductCatalogAssociations(System.Collections.Generic.IEnumerable{System.Int64})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.iproductdatamanager.getproductcatalogassociations(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.iproductdatamanager.getproductcatalogassociations(v=AX.60)
 ms:contentKeyID: 62204398
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ ReadOnlyCollection<ProductCatalogAssociation^>^ GetProductCatalogAssociations(
 #### Parameters
 
   - productIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[ProductCatalogAssociation](productcatalogassociation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[ProductCatalogAssociation](productcatalogassociation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The collection of product to catalog associations.  
 
 ## See Also

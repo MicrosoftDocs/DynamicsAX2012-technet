@@ -2,8 +2,9 @@
 title: Invoice specification report (CustInvoiceSpec)
 TOCTitle: Invoice specification report (CustInvoiceSpec)
 ms:assetid: e6bf0647-4ba9-4beb-b330-735d7f88cbcc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa558453(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa558453(v=AX.60)
 ms:contentKeyID: 37832039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

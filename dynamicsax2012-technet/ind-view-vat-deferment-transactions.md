@@ -2,8 +2,9 @@
 title: (IND) View VAT deferment transactions
 TOCTitle: (IND) View VAT deferment transactions
 ms:assetid: 20f6f7ee-4b31-483c-88bb-f488398bc4c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664547(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664547(v=AX.60)
 ms:contentKeyID: 49385626
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ You can view value added tax (VAT) deferment transactions separately for a Tax I
 
 8.  Click **Modify...** to edit, save, or delete the current query.
 
-9.  Click **OK** and open the **VAT deferment balance** form, where you can view the information based on the details entered in the **VAT deferment inquiry** form. For more information, see [(IND) VAT deferment balance (form)](https://technet.microsoft.com/en-us/library/jj664626\(v=ax.60\)).
+9.  Click **OK** and open the **VAT deferment balance** form, where you can view the information based on the details entered in the **VAT deferment inquiry** form. For more information, see [(IND) VAT deferment balance (form)](https://technet.microsoft.com/library/jj664626\(v=ax.60\)).
 
 10. Click **Voucher** in the **VAT deferment balance** form to view the ledger transactions for the deferment amount that has been transferred from the deferred account to the recoverable account.
 
@@ -53,7 +54,7 @@ You can view value added tax (VAT) deferment transactions separately for a Tax I
 
 12. Click the **Overview** tab and view the VAT deferment transaction details.
 
-13. In the **VAT deferment transactions** form, click **Deferment installment** to open the **Deferment installment** form, where you can view the updated deferment installment for the selected line. For more information, see [(IND) Deferment installment (form)](https://technet.microsoft.com/en-us/library/jj710942\(v=ax.60\)).
+13. In the **VAT deferment transactions** form, click **Deferment installment** to open the **Deferment installment** form, where you can view the updated deferment installment for the selected line. For more information, see [(IND) Deferment installment (form)](https://technet.microsoft.com/library/jj710942\(v=ax.60\)).
 
 ## See also
 

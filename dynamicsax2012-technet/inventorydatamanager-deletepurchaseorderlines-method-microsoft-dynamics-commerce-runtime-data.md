@@ -1,9 +1,10 @@
-﻿---
+---
 title: InventoryDataManager.DeletePurchaseOrderLines Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: DeletePurchaseOrderLines Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.InventoryDataManager.DeletePurchaseOrderLines(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.inventorydatamanager.deletepurchaseorderlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.inventorydatamanager.deletepurchaseorderlines(v=AX.60)
 ms:contentKeyID: 62209803
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ int DeletePurchaseOrderLines(
 #### Parameters
 
   - orderId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The collection of transfer order lines.  
 
 ## See Also

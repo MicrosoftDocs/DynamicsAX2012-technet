@@ -2,8 +2,9 @@
 title: Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Learn about documentation resources to help you use Microsoft Dynamics ERP RapidStart Services
 ms:assetid: cc0904ba-4faa-4e9a-9d07-b733e2f63a82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194009(v=AX.60)
 ms:contentKeyID: 52348257
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

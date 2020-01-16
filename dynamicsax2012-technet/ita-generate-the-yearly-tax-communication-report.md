@@ -2,8 +2,9 @@
 title: (ITA) Generate the Yearly tax communication report
 TOCTitle: (ITA) Generate the Yearly tax communication report
 ms:assetid: fc8f7904-27cd-4e96-957b-d57963e2dc11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433549(v=AX.60)
 ms:contentKeyID: 36941369
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ You must complete the following setup procedures to generate and export the Year
 
 ## Set up the company fiscal code and tax registration number
 
-Use the **Legal entities** form to set up the fiscal code and tax registration number for a legal entity. For more information, see [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\)).
+Use the **Legal entities** form to set up the fiscal code and tax registration number for a legal entity. For more information, see [Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\)).
 
 1.  Click **Organization administration** \> **Setup** \> **Organization** \> **Legal entities**.
 
@@ -51,11 +52,11 @@ Use the **Legal entities** form to set up the fiscal code and tax registration n
 
 ## Set up an Italian sales tax book
 
-Use the **Italian sales tax books** form to set up information to include sales and purchase transactions in the Yearly tax communication report. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/en-us/library/aa620738\(v=ax.60\)). You must also set up number sequences for the sales tax books. After you assign the number sequences, they remain linked to the sales tax purpose for which they were set up. When you post the transactions, the voucher numbers are ordered sequentially by the posting date, and the sales tax transactions that have the same number sequence code are posted in sequence.
+Use the **Italian sales tax books** form to set up information to include sales and purchase transactions in the Yearly tax communication report. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/library/aa620738\(v=ax.60\)). You must also set up number sequences for the sales tax books. After you assign the number sequences, they remain linked to the sales tax purpose for which they were set up. When you post the transactions, the voucher numbers are ordered sequentially by the posting date, and the sales tax transactions that have the same number sequence code are posted in sequence.
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **External** \> **Italian sales tax books**.
 
-2.  Create an Italian sales tax book. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/en-us/library/aa620738\(v=ax.60\)).
+2.  Create an Italian sales tax book. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/library/aa620738\(v=ax.60\)).
 
 3.  In the **ATECOFIN Code** field, enter the tax code for sales tax reporting.
 
@@ -65,7 +66,7 @@ Use the **Italian sales tax books** form to set up information to include sales 
 
 ## Set up VAT codes for the Yearly tax communication report
 
-Use the **Yearly tax communication setup** form to set up VAT codes for the capital goods that are sold and purchased. For more information, see [(ITA) Yearly tax communication (form)](https://technet.microsoft.com/en-us/library/hh242665\(v=ax.60\)).
+Use the **Yearly tax communication setup** form to set up VAT codes for the capital goods that are sold and purchased. For more information, see [(ITA) Yearly tax communication (form)](https://technet.microsoft.com/library/hh242665\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **External** \> **Yearly tax communication setup**.
 
@@ -75,7 +76,7 @@ Use the **Yearly tax communication setup** form to set up VAT codes for the capi
 
 ## Generate and export the Yearly tax communication report
 
-Use the **Yearly tax communication** form to generate the Yearly tax communication report and export the information to an ASCII file that is sent to the tax authorities. For more information, see [(ITA) Yearly tax communication (form)](https://technet.microsoft.com/en-us/library/hh242665\(v=ax.60\)). The report and ASCII file include details of the amounts of purchases and sales of capital goods. The fiscal code and tax registration number specified in the **Legal entities** form are also included in the report and ASCII file.
+Use the **Yearly tax communication** form to generate the Yearly tax communication report and export the information to an ASCII file that is sent to the tax authorities. For more information, see [(ITA) Yearly tax communication (form)](https://technet.microsoft.com/library/hh242665\(v=ax.60\)). The report and ASCII file include details of the amounts of purchases and sales of capital goods. The fiscal code and tax registration number specified in the **Legal entities** form are also included in the report and ASCII file.
 
 1.  Click **General ledger** \> **Reports** \> **External** \> **Yearly tax communication**.
 
@@ -107,7 +108,7 @@ Use the **Yearly tax communication** form to generate the Yearly tax communicati
 
 ## See also
 
-[(ITA) Yearly tax communication details (form)](https://technet.microsoft.com/en-us/library/hh433551\(v=ax.60\))
+[(ITA) Yearly tax communication details (form)](https://technet.microsoft.com/library/hh433551\(v=ax.60\))
 
   
 

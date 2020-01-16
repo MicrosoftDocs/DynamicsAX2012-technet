@@ -1,9 +1,10 @@
-﻿---
+---
 title: IssueOrAddToGiftCardResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: IssueOrAddToGiftCardResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.IssueOrAddToGiftCardResponse.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.issueoraddtogiftcardresponse.issueoraddtogiftcardresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.issueoraddtogiftcardresponse.issueoraddtogiftcardresponse(v=AX.60)
 ms:contentKeyID: 62209400
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

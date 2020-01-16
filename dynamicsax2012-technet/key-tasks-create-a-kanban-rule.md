@@ -2,8 +2,9 @@
 title: 'Key tasks: Create a kanban rule'
 TOCTitle: 'Key tasks: Create a kanban rule'
 ms:assetid: 774c0011-d9ad-425f-a5a9-1fb22a8a9018
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh850371(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh850371(v=AX.60)
 ms:contentKeyID: 45442190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Before you can create and configure a kanban rule, configure the following maste
 
   - For manufacturing kanban rules, configure products so that they use standard cost.
 
-  - For kanban rules that replenish product families, configure item allocation keys for items and product dimensions. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/en-us/library/aa590322\(v=ax.60\)) and [Item allocation lines (form)](https://technet.microsoft.com/en-us/library/aa583062\(v=ax.60\)).
+  - For kanban rules that replenish product families, configure item allocation keys for items and product dimensions. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/library/aa590322\(v=ax.60\)) and [Item allocation lines (form)](https://technet.microsoft.com/library/aa583062\(v=ax.60\)).
 
 ## What do you want to do?
 
@@ -79,7 +80,7 @@ Use this procedure to create a kanban rule and define the basic settings for the
 
 5.  In the **First plan activity** field, select the first activity for the rule. When kanban jobs are generated, they are based on the settings that are configured for the activity.
 
-6.  For rules of the **Manufacturing** type only, select the **Multiple activities** check box to configure more than one activity. Then, in the **Last plan activity** field, select the last activity. In the **Choose kanban flows** form that opens, select a kanban flow to assign to the rule. For more information, see [Choose kanban flows (form)](https://technet.microsoft.com/en-us/library/hh227439\(v=ax.60\)).
+6.  For rules of the **Manufacturing** type only, select the **Multiple activities** check box to configure more than one activity. Then, in the **Last plan activity** field, select the last activity. In the **Choose kanban flows** form that opens, select a kanban flow to assign to the rule. For more information, see [Choose kanban flows (form)](https://technet.microsoft.com/library/hh227439\(v=ax.60\)).
 
 Back to top
 
@@ -109,7 +110,7 @@ Back to top
     
 
     > [!NOTE]
-    > <P>The calculation of quantities for fixed quantity kanbans can be based on either actual demand or historical consumption. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh527163(v=ax.60)">Kanban quantity calculation policies (form)</A> and <A href="https://technet.microsoft.com/en-us/library/hh597101(v=ax.60)">Kanban quantity calculation (form)</A>.</P>
+    > <P>The calculation of quantities for fixed quantity kanbans can be based on either actual demand or historical consumption. For more information, see <A href="https://technet.microsoft.com/library/hh527163(v=ax.60)">Kanban quantity calculation policies (form)</A> and <A href="https://technet.microsoft.com/library/hh597101(v=ax.60)">Kanban quantity calculation (form)</A>.</P>
 
 
 
@@ -187,7 +188,7 @@ Back to top
 
 ## Find form help
 
-[Kanban rules (form)](https://technet.microsoft.com/en-us/library/hh227370\(v=ax.60\))
+[Kanban rules (form)](https://technet.microsoft.com/library/hh227370\(v=ax.60\))
 
   
 

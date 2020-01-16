@@ -2,8 +2,9 @@
 title: (IND) View posted item details for an RG23A register
 TOCTitle: (IND) View posted item details for an RG23A register
 ms:assetid: 350236c0-4da4-44b1-b98b-172ac4abd49f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664605(v=AX.60)
 ms:contentKeyID: 49385682
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ The item details for the excise transactions posted for the RG23A register are d
 
 [(IND) View posted item details for an RG23C register](ind-view-posted-item-details-for-an-rg23c-register.md)
 
-[(IND) Excise register inquiry (form)](https://technet.microsoft.com/en-us/library/jj710979\(v=ax.60\))
+[(IND) Excise register inquiry (form)](https://technet.microsoft.com/library/jj710979\(v=ax.60\))
 
-[(IND) RG23A item details (form)](https://technet.microsoft.com/en-us/library/jj664747\(v=ax.60\))
+[(IND) RG23A item details (form)](https://technet.microsoft.com/library/jj664747\(v=ax.60\))
 
   
 

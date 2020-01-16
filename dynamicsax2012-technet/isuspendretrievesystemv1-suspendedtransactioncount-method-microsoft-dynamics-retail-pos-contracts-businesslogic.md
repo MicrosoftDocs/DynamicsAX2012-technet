@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISuspendRetrieveSystemV1.SuspendedTransactionCount Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: SuspendedTransactionCount Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ISuspendRetrieveSystemV1.SuspendedTransactionCount
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.isuspendretrievesystemv1.suspendedtransactioncount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.isuspendretrievesystemv1.suspendedtransactioncount(v=AX.60)
 ms:contentKeyID: 62205426
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ int SuspendedTransactionCount()
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The amount of suspended transaction  
 
 ## See Also

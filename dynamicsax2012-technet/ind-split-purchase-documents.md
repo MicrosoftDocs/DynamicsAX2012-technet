@@ -2,8 +2,9 @@
 title: (IND) Split purchase documents
 TOCTitle: (IND) Split purchase documents
 ms:assetid: 87b4a04d-fdb4-402e-bf8a-c9fa2f11ef33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678018(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678018(v=AX.60)
 ms:contentKeyID: 49385979
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,9 +28,9 @@ You can also select the **Product receipt** check box to split product receipts 
 
 ## See also
 
-[(IND) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj664793\(v=ax.60\))
+[(IND) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj664793\(v=ax.60\))
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
 [(IND) Split sales documents](ind-split-sales-documents.md)
 

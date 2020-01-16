@@ -2,8 +2,9 @@
 title: 'Key tasks: Compensation plans'
 TOCTitle: 'Key tasks: Compensation plans'
 ms:assetid: 8136620d-1758-4068-9348-2fd62273fc60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781095(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781095(v=AX.60)
 ms:contentKeyID: 43894507
+author: Khairunj
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -124,13 +125,13 @@ Use this procedure if you do not use a compensation system that is external to M
         
 
         > [!TIP]
-        > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/hh803022(v=ax.60)">Compensation structure (form)</A>.</P>
+        > <P>For more information, see <A href="https://technet.microsoft.com/library/hh803022(v=ax.60)">Compensation structure (form)</A>.</P>
 
 
 
 13. Click the **General** tab in the **Fixed compensation plans** form, and select a control point in the **Control point** field. The control point is the target pay rate for a job that is covered by the current plan and comes from the reference point setup.
 
-14. Enter information in the remaining fields, as needed. For more information, see [Fixed compensation plans (form)](https://technet.microsoft.com/en-us/library/hh242871\(v=ax.60\)).
+14. Enter information in the remaining fields, as needed. For more information, see [Fixed compensation plans (form)](https://technet.microsoft.com/library/hh242871\(v=ax.60\)).
 
 ## Create a fixed compensation structure using the Compensation grid form
 
@@ -156,7 +157,7 @@ If your company uses external compensation systems, you can use the **Compensati
 
 7.  Enter the effective and expiration dates for the structure.
 
-8.  Click **Compensation structure** to open the **Compensation structure** form, where you can modify the wage range guidelines for the structure. For more information, see [Compensation structure (form)](https://technet.microsoft.com/en-us/library/hh803022\(v=ax.60\)).
+8.  Click **Compensation structure** to open the **Compensation structure** form, where you can modify the wage range guidelines for the structure. For more information, see [Compensation structure (form)](https://technet.microsoft.com/library/hh803022\(v=ax.60\)).
 
 Back to top
 
@@ -322,7 +323,7 @@ Back to top
     
       - **Point-in-time** – Uses compensation information that is active at a specific point in time only.
 
-19. Optional: To base the award on the overall performance of a specific department, enter information on the **Leverage** tab. For descriptions of the fields on the **Leverage** tab, see [Variable compensation plans (form)](https://technet.microsoft.com/en-us/library/hh803020\(v=ax.60\)).
+19. Optional: To base the award on the overall performance of a specific department, enter information on the **Leverage** tab. For descriptions of the fields on the **Leverage** tab, see [Variable compensation plans (form)](https://technet.microsoft.com/library/hh803020\(v=ax.60\)).
 
 Back to top
 
@@ -432,7 +433,7 @@ Back to top
 
 
 
-11. Select the **Enable recommendation** check box to enable recommendations. For more information, see [Recommendation (form)](https://technet.microsoft.com/en-us/library/hh802985\(v=ax.60\)).
+11. Select the **Enable recommendation** check box to enable recommendations. For more information, see [Recommendation (form)](https://technet.microsoft.com/library/hh802985\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -442,7 +443,7 @@ Back to top
 
 12. Click the **General** tab in the lower part of the form to enter additional information.
     
-    You can indicate whether the result of the previous fixed compensation action in the process event should be used in the calculation or whether the original basis should be used. You can also indicate the amount of the general increase. For **Step** plans, you can enter the number of steps that the pay is increased. For more information about the fields on this form, see [Setup process event (form)](https://technet.microsoft.com/en-us/library/hh209544\(v=ax.60\)).
+    You can indicate whether the result of the previous fixed compensation action in the process event should be used in the calculation or whether the original basis should be used. You can also indicate the amount of the general increase. For **Step** plans, you can enter the number of steps that the pay is increased. For more information about the fields on this form, see [Setup process event (form)](https://technet.microsoft.com/library/hh209544\(v=ax.60\)).
 
 13. Close the **Set up process event** form.
 
@@ -536,21 +537,21 @@ Back to top
 
 ## Find form help
 
-[Fixed compensation plans (form)](https://technet.microsoft.com/en-us/library/hh242871\(v=ax.60\))
+[Fixed compensation plans (form)](https://technet.microsoft.com/library/hh242871\(v=ax.60\))
 
-[Employee fixed compensation (form)](https://technet.microsoft.com/en-us/library/hh697729\(v=ax.60\))
+[Employee fixed compensation (form)](https://technet.microsoft.com/library/hh697729\(v=ax.60\))
 
-[Change compensation (form)](https://technet.microsoft.com/en-us/library/hh781087\(v=ax.60\))
+[Change compensation (form)](https://technet.microsoft.com/library/hh781087\(v=ax.60\))
 
-[Variable compensation plans (form)](https://technet.microsoft.com/en-us/library/hh803020\(v=ax.60\))
+[Variable compensation plans (form)](https://technet.microsoft.com/library/hh803020\(v=ax.60\))
 
-[Employee variable compensation enrollment (form)](https://technet.microsoft.com/en-us/library/hh697697\(v=ax.60\))
+[Employee variable compensation enrollment (form)](https://technet.microsoft.com/library/hh697697\(v=ax.60\))
 
-[Eligibility rules (form)](https://technet.microsoft.com/en-us/library/hh597167\(v=ax.60\))
+[Eligibility rules (form)](https://technet.microsoft.com/library/hh597167\(v=ax.60\))
 
-[Eligibility levels (form)](https://technet.microsoft.com/en-us/library/hh597347\(v=ax.60\))
+[Eligibility levels (form)](https://technet.microsoft.com/library/hh597347\(v=ax.60\))
 
-[Compensation grids (form)](https://technet.microsoft.com/en-us/library/hh694712\(v=ax.60\))
+[Compensation grids (form)](https://technet.microsoft.com/library/hh694712\(v=ax.60\))
 
 ## Find related tasks
 

@@ -2,8 +2,9 @@
 title: (IND) View posted tax details for an RG23C register
 TOCTitle: (IND) View posted tax details for an RG23C register
 ms:assetid: faf759f5-2f0e-45ff-9243-96c38633244e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710982(v=AX.60)
 ms:contentKeyID: 49386394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ The tax details for the posted excise transactions and for posted sales order wi
 
 [(IND) View posted item details for an RG23C register](ind-view-posted-item-details-for-an-rg23c-register.md)
 
-[(IND) Excise register inquiry (form)](https://technet.microsoft.com/en-us/library/jj710979\(v=ax.60\))
+[(IND) Excise register inquiry (form)](https://technet.microsoft.com/library/jj710979\(v=ax.60\))
 
-[(IND) RG23A item details (form)](https://technet.microsoft.com/en-us/library/jj664747\(v=ax.60\))
+[(IND) RG23A item details (form)](https://technet.microsoft.com/library/jj664747\(v=ax.60\))
 
   
 

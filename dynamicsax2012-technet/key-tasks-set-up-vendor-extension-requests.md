@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up vendor extension requests'
 TOCTitle: 'Key tasks: Set up vendor extension requests'
 ms:assetid: e73c2b14-d8cb-491b-ae1e-b74db0319f05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227460(v=AX.60)
 ms:contentKeyID: 36059812
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,7 +101,7 @@ Back to top
 
 ## Find form help
 
-[Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\))
+[Vendor request configurations (form)](https://technet.microsoft.com/library/hh209430\(v=ax.60\))
 
   
 

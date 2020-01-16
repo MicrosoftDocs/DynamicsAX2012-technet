@@ -1,9 +1,10 @@
-﻿---
+---
 title: ISalesOrderV1.CalculateShippingBalanceToAuthorize Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: CalculateShippingBalanceToAuthorize Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1.CalculateShippingBalanceToAuthorize(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerOrderTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv1.calculateshippingbalancetoauthorize(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv1.calculateshippingbalancetoauthorize(v=AX.60)
 ms:contentKeyID: 47344277
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ Decimal CalculateShippingBalanceToAuthorize(
 
 #### Return Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 Returns remaining balance to authorize for shipping.  
 
 ## See Also

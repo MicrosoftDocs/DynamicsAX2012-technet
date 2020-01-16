@@ -2,8 +2,9 @@
 title: Ledger transaction list report (LedgerTransListAccount)
 TOCTitle: Ledger transaction list report (LedgerTransListAccount)
 ms:assetid: 1bf8d065-bbee-4765-8e80-912171ced1c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572864(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572864(v=AX.60)
 ms:contentKeyID: 36057111
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

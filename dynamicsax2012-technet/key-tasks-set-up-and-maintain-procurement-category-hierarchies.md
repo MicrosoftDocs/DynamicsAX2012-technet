@@ -2,8 +2,9 @@
 title: 'Key tasks: Set up and maintain procurement category hierarchies'
 TOCTitle: 'Key tasks: Set up and maintain procurement category hierarchies'
 ms:assetid: 590d8f83-2345-473d-bc3b-92eeacdee69e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208974(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208974(v=AX.60)
 ms:contentKeyID: 36057346
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Use a procurement category hierarchy to classify products that your organization purchases for its own use. You can set policies for ordering from categories in the hierarchy, create attributes for categories, and assign vendors as preferred suppliers in a procurement category. Only one active procurement category hierarchy can be defined for an organization.
 
-There are several standard industry classification systems for reporting procurement activities to government agencies or industry organizations. Some of the more common examples are UNSPSC, NAICS, eCl@ss, and NIGP. Your system administrator can import all or part of an external classification system into Microsoft Dynamics AX. You can also manually create categories. For more information about how to import commodity codes into a category hierarchy, see [Import categories (form)](https://technet.microsoft.com/en-us/library/hh242810\(v=ax.60\)).
+There are several standard industry classification systems for reporting procurement activities to government agencies or industry organizations. Some of the more common examples are UNSPSC, NAICS, eCl@ss, and NIGP. Your system administrator can import all or part of an external classification system into Microsoft Dynamics AX. You can also manually create categories. For more information about how to import commodity codes into a category hierarchy, see [Import categories (form)](https://technet.microsoft.com/library/hh242810\(v=ax.60\)).
 
 ## What do you want to do?
 
@@ -69,9 +70,9 @@ Click these links to find more information about the concepts that are discussed
 
 2.  In the **Create a category hierarchy** form, enter a name and an optional description of the procurement category hierarchy, and then click **Create**.
 
-3.  In the **Category hierarchy** form, create a new category hierarchy. For more information about how to set up a category hierarchy, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+3.  In the **Category hierarchy** form, create a new category hierarchy. For more information about how to set up a category hierarchy, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
-4.  Assign the category hierarchy to the **Procurement category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\)).
+4.  Assign the category hierarchy to the **Procurement category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\)).
 
 After you create a category hierarchy, you can assign category attributes, commodity codes, category pages, and project categories to the parent category and subcategories. For more information, see [Key tasks: Set up a category hierarchy](key-tasks-set-up-a-category-hierarchy.md).
 
@@ -81,7 +82,7 @@ Back to top
 
 Use this procedure to assign product attributes to categories. All products in a category have the same product attributes. When you assign products to the category, you set up the values for product attributes. Product attributes are displayed in the Employee services portal in Enterprise Portal for Microsoft Dynamics AX.
 
-For example, you assign the product attributes **Installation** and **Warranty** to a category. You set up the product attributes as **Required**. You assign the product **Computer** to the category, and set the value for both **Installation** and **Warranty** to **Yes**. When an employee orders a computer from the category, the employee sees that installation and warranty are included in the price of the laptop. For more information about product attributes, see [Product attributes (form)](https://technet.microsoft.com/en-us/library/hh242306\(v=ax.60\)).
+For example, you assign the product attributes **Installation** and **Warranty** to a category. You set up the product attributes as **Required**. You assign the product **Computer** to the category, and set the value for both **Installation** and **Warranty** to **Yes**. When an employee orders a computer from the category, the employee sees that installation and warranty are included in the price of the laptop. For more information about product attributes, see [Product attributes (form)](https://technet.microsoft.com/library/hh242306\(v=ax.60\)).
 
 1.  Click **Procurement and sourcing** \> **Setup** \> **Categories** \> **Procurement categories**.
 
@@ -127,11 +128,11 @@ In the Employee services portal in Enterprise Portal, an employee can request to
 
 4.  To delete a selected vendor from the category, on the **Vendors** FastTab, click **Remove**.
 
-5.  Click **Evaluation** to open the **Rating on vendor evaluation criteria** form, where you can rate a vendor’s performance in the selected category. For more information, see [Rating on vendor evaluation criteria (form)](https://technet.microsoft.com/en-us/library/hh242562\(v=ax.60\)).
+5.  Click **Evaluation** to open the **Rating on vendor evaluation criteria** form, where you can rate a vendor’s performance in the selected category. For more information, see [Rating on vendor evaluation criteria (form)](https://technet.microsoft.com/library/hh242562\(v=ax.60\)).
     
 
     > [!NOTE]
-    > <P>Before you can evaluate a vendor, you must create vendor evaluation criterion groups and criteria, and then assign an evaluation criterion group to the category. For more information about how to set up and rate a vendor, see <A href="https://technet.microsoft.com/en-us/library/hh242832(v=ax.60)">Key tasks: Set up vendor ratings for categories</A>.</P>
+    > <P>Before you can evaluate a vendor, you must create vendor evaluation criterion groups and criteria, and then assign an evaluation criterion group to the category. For more information about how to set up and rate a vendor, see <A href="https://technet.microsoft.com/library/hh242832(v=ax.60)">Key tasks: Set up vendor ratings for categories</A>.</P>
 
 
 
@@ -143,7 +144,7 @@ Back to top
 
 ## Set up questionnaires for a procurement category
 
-Use this procedure to assign a questionnaire to a procurement category. You can use questionnaires to understand a new vendor’s business and products, and to determine the vendor’s ability to provide products in a procurement category. When a vendor requests to do business in a procurement category, you can require the vendor to complete a questionnaire for that category. For more information about how to create a vendor questionnaire, see [Add questionnaire (form)](https://technet.microsoft.com/en-us/library/hh242743\(v=ax.60\)).
+Use this procedure to assign a questionnaire to a procurement category. You can use questionnaires to understand a new vendor’s business and products, and to determine the vendor’s ability to provide products in a procurement category. When a vendor requests to do business in a procurement category, you can require the vendor to complete a questionnaire for that category. For more information about how to create a vendor questionnaire, see [Add questionnaire (form)](https://technet.microsoft.com/library/hh242743\(v=ax.60\)).
 
 1.  Click **Procurement and sourcing** \> **Setup** \> **Categories** \> **Procurement categories**.
 
@@ -187,19 +188,19 @@ Back to top
 
 ## Find form help
 
-[Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\))
+[Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\))
 
-[Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\))
+[Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\))
 
-[Procurement categories (form)](https://technet.microsoft.com/en-us/library/hh227365\(v=ax.60\))
+[Procurement categories (form)](https://technet.microsoft.com/library/hh227365\(v=ax.60\))
 
-[Vendor evaluation criterion group (form)](https://technet.microsoft.com/en-us/library/hh242894\(v=ax.60\))
+[Vendor evaluation criterion group (form)](https://technet.microsoft.com/library/hh242894\(v=ax.60\))
 
-[Vendor evaluation criteria (form)](https://technet.microsoft.com/en-us/library/hh209715\(v=ax.60\))
+[Vendor evaluation criteria (form)](https://technet.microsoft.com/library/hh209715\(v=ax.60\))
 
-[Add vendor evaluation criterion groups (form)](https://technet.microsoft.com/en-us/library/hh242726\(v=ax.60\))
+[Add vendor evaluation criterion groups (form)](https://technet.microsoft.com/library/hh242726\(v=ax.60\))
 
-[Add questionnaire (form)](https://technet.microsoft.com/en-us/library/hh242743\(v=ax.60\))
+[Add questionnaire (form)](https://technet.microsoft.com/library/hh242743\(v=ax.60\))
 
 ## Find related tasks
 

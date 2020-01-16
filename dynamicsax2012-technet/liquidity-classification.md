@@ -2,8 +2,9 @@
 title: " liquidity classification"
 TOCTitle: " liquidity classification"
 ms:assetid: DynamicsAXGlossary.1496383
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1496383(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1496383(v=AX.60)
 ms:contentKeyID: 36057261
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -20,7 +21,7 @@ A systematic organization of time intervals that predict the liquidity of a part
 
 [liquidity](liquidity.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IPeriodicDiscount Methods (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IPeriodicDiscount Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPeriodicDiscount
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iperiodicdiscount_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iperiodicdiscount_methods(v=AX.60)
 ms:contentKeyID: 49854879
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,8 +26,8 @@ The [IPeriodicDiscount](iperiodicdiscount-interface-microsoft-dynamics-retail-po
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/es4s3w1d(v=ax.60)">Dispose</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/es4s3w1d(v=ax.60)">Dispose</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/aax125c9(v=ax.60)">IDisposable</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

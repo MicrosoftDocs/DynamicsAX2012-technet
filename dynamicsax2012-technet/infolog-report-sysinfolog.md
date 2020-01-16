@@ -2,8 +2,9 @@
 title: Infolog report (SysInfoLog)
 TOCTitle: Infolog report (SysInfoLog)
 ms:assetid: 61aad186-afb1-45f0-bfa4-4598d55039a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801189(v=AX.60)
 ms:contentKeyID: 43976708
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,7 +76,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Infolog (form)](https://technet.microsoft.com/en-us/library/aa673799\(v=ax.60\))
+[Infolog (form)](https://technet.microsoft.com/library/aa673799\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (JPN) Setting up and maintaining Accounts receivable
 TOCTitle: (JPN) Setting up and maintaining Accounts receivable
 ms:assetid: 6920e72c-ab79-427f-8ff5-2848c86f1170
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711067(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711067(v=AX.60)
 ms:contentKeyID: 49386478
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

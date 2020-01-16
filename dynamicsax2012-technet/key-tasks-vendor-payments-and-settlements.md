@@ -2,8 +2,9 @@
 title: 'Key tasks: Vendor payments and settlements'
 TOCTitle: 'Key tasks: Vendor payments and settlements'
 ms:assetid: c5d99b1a-bb20-416a-8ea1-4b7b7d4bc8e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242843(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242843(v=AX.60)
 ms:contentKeyID: 36059305
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -94,7 +95,7 @@ Use this procedure when you know which invoices to pay, but you do not know the 
     
 
     > [!NOTE]
-    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be able to post only journals that you create. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you cannot post and you receive a message that mentions posting restrictions, you might be able to post only journals that you create. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -142,9 +143,9 @@ Back to top
 
 ## Find form help
 
-[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\))
+[Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\))
 
-[Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\))
+[Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\))
 
 ## Find related tasks
 

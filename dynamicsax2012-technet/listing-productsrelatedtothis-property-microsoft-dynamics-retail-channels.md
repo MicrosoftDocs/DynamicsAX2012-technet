@@ -1,9 +1,10 @@
-﻿---
+---
 title: Listing.ProductsRelatedToThis Property  (Microsoft.Dynamics.Retail.Channels)
 TOCTitle: ProductsRelatedToThis Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Channels.Listing.ProductsRelatedToThis
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.channels.listing.productsrelatedtothis(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.productsrelatedtothis(v=AX.60)
 ms:contentKeyID: 65317531
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property ICollection<RelatedProduct^>^ ProductsRelatedToThis {
 
 #### Property Value
 
-Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/en-us/library/92t2ye13\(v=ax.60\))\<RelatedProduct\>  
+Type: [System.Collections.Generic.ICollection](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\))\<RelatedProduct\>  
 
 ## See Also
 

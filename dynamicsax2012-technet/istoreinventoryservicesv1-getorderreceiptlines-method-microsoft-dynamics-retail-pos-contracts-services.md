@@ -1,9 +1,10 @@
-﻿---
+---
 title: IStoreInventoryServicesV1.GetOrderReceiptLines Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetOrderReceiptLines Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServicesV1.GetOrderReceiptLines(System.String,Microsoft.Dynamics.Retail.Pos.Contracts.Services.PRCountingType)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.getorderreceiptlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.istoreinventoryservicesv1.getorderreceiptlines(v=AX.60)
 ms:contentKeyID: 47343979
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ IList<IPRDocumentLine^>^ GetOrderReceiptLines(
 #### Parameters
 
   - orderNumber  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -65,7 +66,7 @@ IList<IPRDocumentLine^>^ GetOrderReceiptLines(
 
 #### Return Value
 
-Type: [System.Collections.Generic.IList](https://technet.microsoft.com/en-us/library/5y536ey6\(v=ax.60\))\<[IPRDocumentLine](iprdocumentline-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
+Type: [System.Collections.Generic.IList](https://technet.microsoft.com/library/5y536ey6\(v=ax.60\))\<[IPRDocumentLine](iprdocumentline-interface-microsoft-dynamics-retail-pos-contracts-services.md)\>  
 Returns an order document that has a list of receipt document lines.  
 
 ## See Also

@@ -2,8 +2,9 @@
 title: (ITA) Set up information for Model 770 reporting
 TOCTitle: (ITA) Set up information for Model 770 reporting
 ms:assetid: 7787a3d9-06c8-46ce-a5c2-f08e79dcbc2d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh856770(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh856770(v=AX.60)
 ms:contentKeyID: 45688018
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -22,17 +23,17 @@ The Model 770 report is an annual report that provides information about the tax
 
 Complete the following tasks before you generate a Model 770 report and export it as an ASCII file:
 
-  - Set up a withholding tax code, withholding tax group, withholding tax limit, and withholding tax value. For more information, see [Withholding tax configuration key (LedgerBasicWithholdingTax)](withholding-tax-configuration-key-ledgerbasicwithholdingtax.md), [Withholding tax codes (form)](https://technet.microsoft.com/en-us/library/aa585361\(v=ax.60\)), [Withholding tax groups (form)](https://technet.microsoft.com/en-us/library/aa591973\(v=ax.60\)), [Withholding tax limits (form)](https://technet.microsoft.com/en-us/library/aa592034\(v=ax.60\)), and [Withholding tax values (form)](https://technet.microsoft.com/en-us/library/aa615586\(v=ax.60\)).
+  - Set up a withholding tax code, withholding tax group, withholding tax limit, and withholding tax value. For more information, see [Withholding tax configuration key (LedgerBasicWithholdingTax)](withholding-tax-configuration-key-ledgerbasicwithholdingtax.md), [Withholding tax codes (form)](https://technet.microsoft.com/library/aa585361\(v=ax.60\)), [Withholding tax groups (form)](https://technet.microsoft.com/library/aa591973\(v=ax.60\)), [Withholding tax limits (form)](https://technet.microsoft.com/library/aa592034\(v=ax.60\)), and [Withholding tax values (form)](https://technet.microsoft.com/library/aa615586\(v=ax.60\)).
 
   - Set up withholding tax for a vendor. For more information, see [(Global, AUS, ITA) Set up withholding tax for a vendor](global-aus-ita-set-up-withholding-tax-for-a-vendor.md).
 
-  - Pay a vendor invoice and withhold taxes from the payment. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/en-us/library/aa599011\(v=ax.60\)) and [About payment types](about-payment-types.md).
+  - Pay a vendor invoice and withhold taxes from the payment. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)) and [About payment types](about-payment-types.md).
 
-  - Set up an Italian sales tax book. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/en-us/library/aa620738\(v=ax.60\)).
+  - Set up an Italian sales tax book. For more information, see [(ITA) Italian sales tax books (form)](https://technet.microsoft.com/library/aa620738\(v=ax.60\)).
 
 ## Set up address information for a self-employed vendor or contractor
 
-Use the **Address setup** form to set up the country code, state and region code, and county and municipality codes for a self-employed vendor or contractor to include in a Model 770 report. You must set up address information for all self-employed vendors and contractors for whom you withhold taxes from payments. For more information, see [Address setup (form)](https://technet.microsoft.com/en-us/library/hh209301\(v=ax.60\)).For information about the address codes, see the Italian government’s instructions for the Model 770 report published on the [Italian Revenue Agency](http://www.agenziaentrate.gov.it/wps/wcm/connect/nsilib/nsi/strumenti/modelli/modelli+di+dichiarazione+2010/770_2010+semplificato/) website.
+Use the **Address setup** form to set up the country code, state and region code, and county and municipality codes for a self-employed vendor or contractor to include in a Model 770 report. You must set up address information for all self-employed vendors and contractors for whom you withhold taxes from payments. For more information, see [Address setup (form)](https://technet.microsoft.com/library/hh209301\(v=ax.60\)).For information about the address codes, see the Italian government’s instructions for the Model 770 report published on the [Italian Revenue Agency](http://www.agenziaentrate.gov.it/wps/wcm/connect/nsilib/nsi/strumenti/modelli/modelli+di+dichiarazione+2010/770_2010+semplificato/) website.
 
 1.  Click **Organization administration** \> **Setup** \> **Addresses** \> **Address setup**.
 
@@ -58,7 +59,7 @@ Use the **Address setup** form to set up the country code, state and region code
 
 ## Set up the birth county and heir status for a self-employed vendor
 
-Use the **Vendors** form to set up information about a self-employed vendor’s birth county and status as an heir to the company. For more information, see [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).You can use the tax exempt number defined on the **Invoice and delivery** FastTab in the **Vendors** form to determine if the vendor is an individual or company. If the vendor has a tax exempt number, the vendor is considered a company; otherwise, the vendor is considered an individual. You can set up the birth county and heir status only for vendors who are considered individuals. The birth county, heir status, and fiscal code of the vendor are included in the Model 770 report.
+Use the **Vendors** form to set up information about a self-employed vendor’s birth county and status as an heir to the company. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).You can use the tax exempt number defined on the **Invoice and delivery** FastTab in the **Vendors** form to determine if the vendor is an individual or company. If the vendor has a tax exempt number, the vendor is considered a company; otherwise, the vendor is considered an individual. You can set up the birth county and heir status only for vendors who are considered individuals. The birth county, heir status, and fiscal code of the vendor are included in the Model 770 report.
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**.
 
@@ -80,7 +81,7 @@ Use the **Vendors** form to set up information about a self-employed vendor’s 
 
 ## Set up a fiscal code for the legal entity
 
-Use the **Legal entities** form to set up the fiscal code for your legal entity. You can use the fiscal code for tax declarations. The fiscal code is included in the Model 770 report to allow the Italian government to identify your legal entity. For more information, see [Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\)).
+Use the **Legal entities** form to set up the fiscal code for your legal entity. You can use the fiscal code for tax declarations. The fiscal code is included in the Model 770 report to allow the Italian government to identify your legal entity. For more information, see [Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\)).
 
 1.  Click **Organization administration** \> **Setup** \> **Organization** \> **Legal entities**.
 
@@ -90,7 +91,7 @@ Use the **Legal entities** form to set up the fiscal code for your legal entity.
 
 ## Set up a number sequence for the Model 770 report
 
-Use the **General ledger parameters** form to set up a number sequence for the Model 770 report.For more information,see[General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\))
+Use the **General ledger parameters** form to set up a number sequence for the Model 770 report.For more information,see[General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\))
 
 1.  Click **General ledger** \> **Setup** \> **General ledger parameters**.
 

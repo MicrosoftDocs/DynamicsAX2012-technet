@@ -1,9 +1,10 @@
-﻿---
+---
 title: ListingIdentity.Equals Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: Equals Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ListingIdentity.Equals
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.listingidentity.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.listingidentity.equals(v=AX.60)
 ms:contentKeyID: 65316000
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ dev_langs:
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="listingidentity-equals-method-object-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md">Equals(Object)</a></td>
-<td>(Overrides <a href="https://technet.microsoft.com/en-us/library/bsc2ak47(v=ax.60)">Object.Equals(Object)</a>.)</td>
+<td>(Overrides <a href="https://technet.microsoft.com/library/bsc2ak47(v=ax.60)">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

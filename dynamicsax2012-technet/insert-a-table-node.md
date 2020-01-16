@@ -2,8 +2,9 @@
 title: Insert a Table node
 TOCTitle: Insert a Table node
 ms:assetid: 74e8f411-9a75-4970-87cb-d5f7ce619780
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550024(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550024(v=AX.60)
 ms:contentKeyID: 36058159
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

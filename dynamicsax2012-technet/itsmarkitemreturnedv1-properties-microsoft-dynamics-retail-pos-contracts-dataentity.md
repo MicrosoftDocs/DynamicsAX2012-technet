@@ -1,9 +1,10 @@
-﻿---
+---
 title: ITSMarkItemReturnedV1 Properties (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: ITSMarkItemReturnedV1 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITSMarkItemReturnedV1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.itsmarkitemreturnedv1_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.itsmarkitemreturnedv1_properties(v=AX.60)
 ms:contentKeyID: 47128262
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

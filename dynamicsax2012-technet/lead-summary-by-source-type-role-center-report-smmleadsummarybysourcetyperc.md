@@ -2,8 +2,9 @@
 title: Lead summary by source type Role Center report (smmLeadSummaryBySourceTypeRC)
 TOCTitle: Lead summary by source type Role Center report (smmLeadSummaryBySourceTypeRC)
 ms:assetid: 04045db4-508b-4fa7-b494-e1e6971011e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404029(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404029(v=AX.60)
 ms:contentKeyID: 36956679
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

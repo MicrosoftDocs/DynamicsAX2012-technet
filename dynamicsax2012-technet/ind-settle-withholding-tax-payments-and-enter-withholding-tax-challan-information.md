@@ -2,8 +2,9 @@
 title: (IND) Settle withholding tax payments and enter withholding tax challan information
 TOCTitle: (IND) Settle withholding tax payments and enter withholding tax challan information
 ms:assetid: b6e8a9dd-c69e-43ea-b1fb-890193a12acf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664827(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664827(v=AX.60)
 ms:contentKeyID: 49386158
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -118,7 +119,7 @@ Before you can generate quarterly statements for TDS and TCS, you must enter cha
     
 
     > [!NOTE]
-    > <P>You can set up bank accounts for the TDS or TCS authority vendor in the <STRONG>Vendor bank accounts</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa589805(v=ax.60)">Vendor bank accounts (form)</A>.</P>
+    > <P>You can set up bank accounts for the TDS or TCS authority vendor in the <STRONG>Vendor bank accounts</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/aa589805(v=ax.60)">Vendor bank accounts (form)</A>.</P>
 
 
 
@@ -128,9 +129,9 @@ Before you can generate quarterly statements for TDS and TCS, you must enter cha
 
 ## See also
 
-[(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
+[(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\))
 
-[(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\))
+[(IND) Challan information (form)](https://technet.microsoft.com/library/jj677847\(v=ax.60\))
 
   
 

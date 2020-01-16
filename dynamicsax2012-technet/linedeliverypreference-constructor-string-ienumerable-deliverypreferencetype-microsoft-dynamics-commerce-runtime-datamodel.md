@@ -1,9 +1,10 @@
-﻿---
+---
 title: LineDeliveryPreference Constructor (String, IEnumerable(DeliveryPreferenceType)) (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: LineDeliveryPreference Constructor (String, IEnumerable(DeliveryPreferenceType))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDeliveryPreference.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryPreferenceType})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.linedeliverypreference.linedeliverypreference(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.linedeliverypreference.linedeliverypreference(v=AX.60)
 ms:contentKeyID: 65320614
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -53,12 +54,12 @@ LineDeliveryPreference(
 #### Parameters
 
   - lineId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - deliveryPreferences  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[DeliveryPreferenceType](deliverypreferencetype-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[DeliveryPreferenceType](deliverypreferencetype-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

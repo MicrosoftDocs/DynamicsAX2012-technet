@@ -1,9 +1,10 @@
-﻿---
+---
 title: Login.Email Field (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: Email Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login.Email
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.login.email(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.login.email(v=AX.60)
 ms:contentKeyID: 62207339
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

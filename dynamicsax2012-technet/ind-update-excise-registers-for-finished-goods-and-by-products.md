@@ -2,8 +2,9 @@
 title: (IND) Update excise registers for finished goods and by-products
 TOCTitle: (IND) Update excise registers for finished goods and by-products
 ms:assetid: cd5753b1-df36-4348-9ee9-032b0fcfc417
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn857500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn857500(v=AX.60)
 ms:contentKeyID: 63396903
+author: Khairunj
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,8 +57,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ol>
-<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and the <strong>Customs</strong> check box. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
-<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
+<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and the <strong>Customs</strong> check box. For more information, see <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
+<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
 <li><p>Select the <strong>DSA</strong> check box to update the DSA register for product transactions. The <strong>Excise record type</strong> is set to <strong>None</strong> to enable the <strong>DSA</strong> check box.</p></li>
 <li><p>In the <strong>Tax reporting code</strong> form, create reporting codes for an excise invoice. For more information, see <a href="ind-set-up-tax-registration-numbers.md">(IND) Set up tax registration numbers</a>.</p></li>
 </ol></td>
@@ -74,7 +75,7 @@ To update excise registers and DSA, follow these steps:
 
 1.  Click **Production control** \> **Common** \> **Production orders** \> **All production orders**. Create a production order.
 
-2.  On the **Tax information** FastTab, in the **Excise** field group, select the **DSA** check box and specify the excise tariff code. For more information, see [Create production order (form)](https://technet.microsoft.com/en-us/library/aa497150\(v=ax.60\)).
+2.  On the **Tax information** FastTab, in the **Excise** field group, select the **DSA** check box and specify the excise tariff code. For more information, see [Create production order (form)](https://technet.microsoft.com/library/aa497150\(v=ax.60\)).
 
 3.  On the **Action pane**, in the **Process** field group, click **Estimate** to run an estimate of how much a production order will consume in material and capacity costs. For more information, see [Run an estimation](run-an-estimation.md).
 
@@ -102,7 +103,7 @@ To update the RG23 Part I excise register, follow these steps:
 
 3.  In the **Excise record type** field, select the excise register to update the excise registers.
 
-4.  Post the movement journal. For more information, see [Journal lines, Inventory movement (form)](https://technet.microsoft.com/en-us/library/aa598740\(v=ax.60\)).
+4.  Post the movement journal. For more information, see [Journal lines, Inventory movement (form)](https://technet.microsoft.com/library/aa598740\(v=ax.60\)).
 
 5.  Click **General ledger** \> **Inquiries** \> **Tax** \> **India posted tax** \> **Excise** \> **Excise register**.
 
@@ -120,7 +121,7 @@ To update the DSA register, follow these steps:
 
 3.  In the **Excise record type** field, select **None**, and then select the **DSA** check box to update the quantity of damaged or exported goods in the DSA register.
 
-4.  Post the movement journal. For more information, see [Journal lines, Inventory movement (form)](https://technet.microsoft.com/en-us/library/aa598740\(v=ax.60\)).
+4.  Post the movement journal. For more information, see [Journal lines, Inventory movement (form)](https://technet.microsoft.com/library/aa598740\(v=ax.60\)).
 
 5.  Click **General ledger** \> **Inquiries** \> **Tax** \> **India posted tax** \> **Excise** \> **Excise register**.
 

@@ -2,8 +2,9 @@
 title: " intercompany master scheduling"
 TOCTitle: " intercompany master scheduling"
 ms:assetid: DynamicsAXGlossary.253206
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.253206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.253206(v=AX.60)
 ms:contentKeyID: 36057895
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

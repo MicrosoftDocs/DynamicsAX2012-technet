@@ -1,9 +1,10 @@
-﻿---
+---
 title: IRetailTransactionV4 Properties (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IRetailTransactionV4 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransactionV4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iretailtransactionv4_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iretailtransactionv4_properties(v=AX.60)
 ms:contentKeyID: 62204110
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

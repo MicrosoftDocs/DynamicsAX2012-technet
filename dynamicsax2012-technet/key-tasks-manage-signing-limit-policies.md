@@ -2,8 +2,9 @@
 title: 'Key tasks: Manage signing-limit policies'
 TOCTitle: 'Key tasks: Manage signing-limit policies'
 ms:assetid: b21300ed-94aa-4894-967b-8344e6ec1f50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242748(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242748(v=AX.60)
 ms:contentKeyID: 36059057
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -142,7 +143,7 @@ Assign a base currency to the signing limit rule. This allows an organization to
 
 
 > [!NOTE]
-> <P>The base currency that you define for the signing limit rule may not be the primary currency for the worker who requests the signing limit. To use a limit currency that differs from the primary currency that is defined for the worker, exchange rates must be set up in your system. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209477(v=ax.60)">Currency exchange rates (form)</A>.</P>
+> <P>The base currency that you define for the signing limit rule may not be the primary currency for the worker who requests the signing limit. To use a limit currency that differs from the primary currency that is defined for the worker, exchange rates must be set up in your system. For more information, see <A href="https://technet.microsoft.com/library/hh209477(v=ax.60)">Currency exchange rates (form)</A>.</P>
 
 
 
@@ -162,13 +163,13 @@ Back to top
 
 ## Find form help
 
-[Signing limit parameters (form)](https://technet.microsoft.com/en-us/library/hh209378\(v=ax.60\))
+[Signing limit parameters (form)](https://technet.microsoft.com/library/hh209378\(v=ax.60\))
 
-[Limit currency rule details (form)](https://technet.microsoft.com/en-us/library/hh242800\(v=ax.60\))
+[Limit currency rule details (form)](https://technet.microsoft.com/library/hh242800\(v=ax.60\))
 
-[Limit agreement rule details (form)](https://technet.microsoft.com/en-us/library/hh208981\(v=ax.60\))
+[Limit agreement rule details (form)](https://technet.microsoft.com/library/hh208981\(v=ax.60\))
 
-[Signing limit policy (form)](https://technet.microsoft.com/en-us/library/hh242788\(v=ax.60\))
+[Signing limit policy (form)](https://technet.microsoft.com/library/hh242788\(v=ax.60\))
 
 ## Find related tasks
 
