@@ -2,8 +2,9 @@
 title: Working with Procurement and sourcing
 TOCTitle: Working with Procurement and sourcing
 ms:assetid: 6a9d11c8-da56-4800-acaf-a1b43b96bb4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242609(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242609(v=AX.60)
 ms:contentKeyID: 36057981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

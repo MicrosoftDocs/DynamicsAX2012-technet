@@ -2,8 +2,9 @@
 title: Working with Environmental sustainability
 TOCTitle: Working with Environmental sustainability
 ms:assetid: aab4a300-7e08-4805-8b7c-8bb13ed7fb8f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242693(v=AX.60)
 ms:contentKeyID: 36058904
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

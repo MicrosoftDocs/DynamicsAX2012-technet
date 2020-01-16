@@ -1,9 +1,10 @@
-﻿---
+---
 title: Working with Analysis Services Projects
 TOCTitle: Working with Analysis Services Projects
 ms:assetid: e76fff2d-ec98-4e2c-819c-0b16ad1924f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc640918(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc640918(v=AX.60)
 ms:contentKeyID: 28119607
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Microsoft Dynamics AX glossary
 TOCTitle: Microsoft Dynamics AX glossary
 ms:assetid: bad19471-57d0-4da3-a604-7f450d0bc690
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208626(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208626(v=AX.60)
 ms:contentKeyID: 36056441
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

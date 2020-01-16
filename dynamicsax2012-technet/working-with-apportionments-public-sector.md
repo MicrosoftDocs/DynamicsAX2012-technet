@@ -2,8 +2,9 @@
 title: Working with apportionments (Public sector)
 TOCTitle: Working with apportionments (Public sector)
 ms:assetid: 3547bafa-c213-468b-8d8c-9486bc6aaa12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208521(v=AX.60)
 ms:contentKeyID: 36056266
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

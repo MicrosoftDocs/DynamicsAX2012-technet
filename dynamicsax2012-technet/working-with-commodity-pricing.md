@@ -2,8 +2,9 @@
 title: Working with commodity pricing
 TOCTitle: Working with commodity pricing
 ms:assetid: 2f20aad2-fb78-4d43-abda-176b4602249d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208542(v=AX.60)
 ms:contentKeyID: 36056294
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

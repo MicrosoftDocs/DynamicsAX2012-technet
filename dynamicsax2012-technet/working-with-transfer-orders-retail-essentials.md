@@ -2,8 +2,9 @@
 title: Working with transfer orders (Retail essentials)
 TOCTitle: Working with transfer orders (Retail essentials)
 ms:assetid: c94a1435-a9ec-4703-a38c-4f509bd5e09b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn859568(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn859568(v=AX.60)
 ms:contentKeyID: 63820142
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

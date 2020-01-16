@@ -2,8 +2,9 @@
 title: Working with expense reports
 TOCTitle: Working with expense reports
 ms:assetid: ed59f677-3473-4775-8ad5-b9b47a2fedca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299217(v=AX.60)
 ms:contentKeyID: 36384324
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

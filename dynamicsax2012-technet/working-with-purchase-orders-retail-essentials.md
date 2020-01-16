@@ -2,8 +2,9 @@
 title: Working with purchase orders (Retail essentials)
 TOCTitle: Working with purchase orders (Retail essentials)
 ms:assetid: d52094cb-311e-48ce-a716-d87247443c39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736961(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736961(v=AX.60)
 ms:contentKeyID: 62200438
+author: Khairunj
 ms.date: 01/14/2015
 mtps_version: v=AX.60
 f1_keywords:

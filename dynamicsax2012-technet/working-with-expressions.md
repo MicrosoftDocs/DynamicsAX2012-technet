@@ -1,9 +1,10 @@
-﻿---
+---
 title: Working with Expressions
 TOCTitle: Working with Expressions
 ms:assetid: 71b3b52f-fbb4-4b80-af09-fb09332dd8f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh535216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh535216(v=AX.60)
 ms:contentKeyID: 39092157
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

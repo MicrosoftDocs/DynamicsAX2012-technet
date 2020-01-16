@@ -2,8 +2,9 @@
 title: Working with batch attribute groups
 TOCTitle: Working with batch attribute groups
 ms:assetid: 4c08702a-1927-4ee9-91fd-192af534500b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208737(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208737(v=AX.60)
 ms:contentKeyID: 36057009
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
