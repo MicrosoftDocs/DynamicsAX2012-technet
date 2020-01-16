@@ -2,8 +2,9 @@
 title: About line property setup
 TOCTitle: About line property setup
 ms:assetid: 1c2df840-ed06-47e4-8f81-b57f29ad9c64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569935(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569935(v=AX.60)
 ms:contentKeyID: 42517317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,9 +54,9 @@ To see how the default line property is set up, run the **Line property setup** 
 
 [Set up a line property](set-up-a-line-property.md)
 
-[Project/group line properties (form)](https://technet.microsoft.com/en-us/library/aa598358\(v=ax.60\))
+[Project/group line properties (form)](https://technet.microsoft.com/library/aa598358\(v=ax.60\))
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
   
 

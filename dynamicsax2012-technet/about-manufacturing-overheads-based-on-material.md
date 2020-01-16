@@ -2,8 +2,9 @@
 title: About manufacturing overheads based on material
 TOCTitle: About manufacturing overheads based on material
 ms:assetid: 76f5a55c-dff0-4f7a-9f84-e16b9330eb66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212982(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212982(v=AX.60)
 ms:contentKeyID: 36058200
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

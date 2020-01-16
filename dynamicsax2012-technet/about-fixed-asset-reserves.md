@@ -2,8 +2,9 @@
 title: About fixed asset reserves
 TOCTitle: About fixed asset reserves
 ms:assetid: f7e28b14-0617-4650-acf3-9b1037f59f5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499813(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499813(v=AX.60)
 ms:contentKeyID: 36060043
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

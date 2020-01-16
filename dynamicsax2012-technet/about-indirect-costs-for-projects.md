@@ -2,8 +2,9 @@
 title: About indirect costs for projects
 TOCTitle: About indirect costs for projects
 ms:assetid: 42172540-49e0-4067-89de-b55131b68579
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242374(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242374(v=AX.60)
 ms:contentKeyID: 36056867
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,15 +75,15 @@ You want to set up two indirect costs for a project, and you want to calculate a
 
 [Key tasks: Create and maintain indirect costs](key-tasks-create-and-maintain-indirect-costs.md)
 
-[Indirect cost component (form)](https://technet.microsoft.com/en-us/library/hh208810\(v=ax.60\))
+[Indirect cost component (form)](https://technet.microsoft.com/library/hh208810\(v=ax.60\))
 
-[Indirect cost component groups (form)](https://technet.microsoft.com/en-us/library/hh209621\(v=ax.60\))
+[Indirect cost component groups (form)](https://technet.microsoft.com/library/hh209621\(v=ax.60\))
 
-[Assigned indirect cost components (form)](https://technet.microsoft.com/en-us/library/hh209589\(v=ax.60\))
+[Assigned indirect cost components (form)](https://technet.microsoft.com/library/hh209589\(v=ax.60\))
 
-[Indirect cost component group assignment rules (form)](https://technet.microsoft.com/en-us/library/hh227451\(v=ax.60\))
+[Indirect cost component group assignment rules (form)](https://technet.microsoft.com/library/hh227451\(v=ax.60\))
 
-[Indirect component transaction (form)](https://technet.microsoft.com/en-us/library/hh209467\(v=ax.60\))
+[Indirect component transaction (form)](https://technet.microsoft.com/library/hh209467\(v=ax.60\))
 
   
 

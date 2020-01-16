@@ -2,8 +2,9 @@
 title: About registration for manufacturing execution
 TOCTitle: About registration for manufacturing execution
 ms:assetid: 2a9370c0-8164-4b83-894e-aa2dd08fcb18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208500(v=AX.60)
 ms:contentKeyID: 36056238
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About departments, jobs, and positions
 TOCTitle: About departments, jobs, and positions
 ms:assetid: 3d68cfa2-c80c-486e-ade9-251a3aaf8e74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242239(v=AX.60)
 ms:contentKeyID: 36056680
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -283,13 +284,13 @@ You can modify the information mentioned in the previous table for a position or
 
 [Key tasks: New worker positions](key-tasks-new-worker-positions.md)
 
-[Operating units (form)](https://technet.microsoft.com/en-us/library/hh208817\(v=ax.60\))
+[Operating units (form)](https://technet.microsoft.com/library/hh208817\(v=ax.60\))
 
-[Job (form)](https://technet.microsoft.com/en-us/library/hh209557\(v=ax.60\))
+[Job (form)](https://technet.microsoft.com/library/hh209557\(v=ax.60\))
 
-[Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\))
+[Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\))
 
-[Position hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh242466\(v=ax.60\))
+[Position hierarchy types (form)](https://technet.microsoft.com/library/hh242466\(v=ax.60\))
 
   
 

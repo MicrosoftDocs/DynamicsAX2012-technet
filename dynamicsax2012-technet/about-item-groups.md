@@ -2,8 +2,9 @@
 title: About item groups
 TOCTitle: About item groups
 ms:assetid: cf09aa0e-02f1-42c0-81f8-08fe6f123ec3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572815(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572815(v=AX.60)
 ms:contentKeyID: 45437262
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ The setup of main accounts is used to allocate the ledger transactions for recei
 
 ## See also
 
-[Item posting (form)](https://technet.microsoft.com/en-us/library/aa589971\(v=ax.60\))
+[Item posting (form)](https://technet.microsoft.com/library/aa589971\(v=ax.60\))
 
 [About fixed assets integration](about-fixed-assets-integration.md)
 

@@ -2,8 +2,9 @@
 title: About retail hierarchies
 TOCTitle: About retail hierarchies
 ms:assetid: 772b0031-3ab4-4f4a-a0f5-4b06a304b2ef
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597132(v=AX.60)
 ms:contentKeyID: 39519186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -82,9 +83,9 @@ For more information about how to set up an online store, see [Set up an online 
 
 [Set up a retail hierarchy](set-up-a-retail-hierarchy.md)
 
-[Retail product hierarchy (form)](https://technet.microsoft.com/en-us/library/hh597208\(v=ax.60\))
+[Retail product hierarchy (form)](https://technet.microsoft.com/library/hh597208\(v=ax.60\))
 
-[Supplemental retail hierarchies (form)](https://technet.microsoft.com/en-us/library/hh597337\(v=ax.60\))
+[Supplemental retail hierarchies (form)](https://technet.microsoft.com/library/hh597337\(v=ax.60\))
 
 [Set up a retail vendor hierarchy](set-up-a-retail-vendor-hierarchy.md)
 

@@ -2,8 +2,9 @@
 title: About monitoring the progress of a project
 TOCTitle: About monitoring the progress of a project
 ms:assetid: 0de1451a-2414-4bad-b029-fadc28000dea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh694706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh694706(v=AX.60)
 ms:contentKeyID: 42117748
+author: Khairunj
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,31 +37,31 @@ Project statements that are associated with a worker or project contract can be 
 
 You can view general information about the profit and loss structure of the projects and information about accrued revenue and WIP account balances. You can also view consumption details, invoicing totals to date, and details about the rates for hours that have been posted to revenue and cost accounts.
 
-For more information, see [Project statements (form)](https://technet.microsoft.com/en-us/library/aa552521\(v=ax.60\)).
+For more information, see [Project statements (form)](https://technet.microsoft.com/library/aa552521\(v=ax.60\)).
 
 ## Invoice control
 
-Use invoice control to calculate and view posted transaction amounts. You can identify which transactions have been invoiced, which transactions remain to be invoiced, and which of those that remain to be invoiced will cause the original quotation amount to be exceeded. For more information, see [Invoice control (form)](https://technet.microsoft.com/en-us/library/aa618760\(v=ax.60\)).
+Use invoice control to calculate and view posted transaction amounts. You can identify which transactions have been invoiced, which transactions remain to be invoiced, and which of those that remain to be invoiced will cause the original quotation amount to be exceeded. For more information, see [Invoice control (form)](https://technet.microsoft.com/library/aa618760\(v=ax.60\)).
 
 ## Project budget balances
 
-Compare the budgeted revenue and costs for a project with the actual revenue and costs to date for a project. For more information, see [Project budget balances (form)](https://technet.microsoft.com/en-us/library/hh209310\(v=ax.60\)).
+Compare the budgeted revenue and costs for a project with the actual revenue and costs to date for a project. For more information, see [Project budget balances (form)](https://technet.microsoft.com/library/hh209310\(v=ax.60\)).
 
 ## Hour utilization
 
-View the hour utilization rate for the project team members who are assigned to a project. You can calculate the hour utilization based on a team member’s billable or efficiency rate on either budgeted hours or the actual hours spent working on a project. For more information, see [Utilization hours (form)](https://technet.microsoft.com/en-us/library/hh208657\(v=ax.60\)).
+View the hour utilization rate for the project team members who are assigned to a project. You can calculate the hour utilization based on a team member’s billable or efficiency rate on either budgeted hours or the actual hours spent working on a project. For more information, see [Utilization hours (form)](https://technet.microsoft.com/library/hh208657\(v=ax.60\)).
 
 ## Cash flow
 
-Compare the calculated cash flow for a project with the actual cash flow. You can view all cash flow details for a project, or focus only on certain aspects of the project. For example, you can include specific transaction types, specific dates on which payments for the project were made, and payments that you expect to receive. For more information, see [Cash flow (form)](https://technet.microsoft.com/en-us/library/hh242606\(v=ax.60\)).
+Compare the calculated cash flow for a project with the actual cash flow. You can view all cash flow details for a project, or focus only on certain aspects of the project. For example, you can include specific transaction types, specific dates on which payments for the project were made, and payments that you expect to receive. For more information, see [Cash flow (form)](https://technet.microsoft.com/library/hh242606\(v=ax.60\)).
 
 ## Cost control
 
-Calculate and view the cost of one or more projects. You can view all cost details for a project, or focus only on certain aspects of the project. For example, you can view remaining costs on the project and the difference between the actual costs and the budgeted costs of individual cost lines. For more information, see [Cost control (form)](https://technet.microsoft.com/en-us/library/hh242864\(v=ax.60\)).
+Calculate and view the cost of one or more projects. You can view all cost details for a project, or focus only on certain aspects of the project. For example, you can view remaining costs on the project and the difference between the actual costs and the budgeted costs of individual cost lines. For more information, see [Cost control (form)](https://technet.microsoft.com/library/hh242864\(v=ax.60\)).
 
 ## Committed cost
 
-View detailed information about the costs that your organization has committed to incur for a project. For more information, see [Committed costs (form)](https://technet.microsoft.com/en-us/library/hh209516\(v=ax.60\)).
+View detailed information about the costs that your organization has committed to incur for a project. For more information, see [Committed costs (form)](https://technet.microsoft.com/library/hh209516\(v=ax.60\)).
 
 ## Estimated and actual revenue and costs in a WBS in AX 2012 R3 and CU7 or later for AX 2012 R2
 

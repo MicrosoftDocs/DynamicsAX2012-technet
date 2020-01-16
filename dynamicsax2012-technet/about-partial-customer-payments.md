@@ -2,8 +2,9 @@
 title: About partial customer payments
 TOCTitle: About partial customer payments
 ms:assetid: b770f7d4-a82f-4182-b747-b457f65e5100
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242758(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242758(v=AX.60)
 ms:contentKeyID: 36059103
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -83,11 +84,11 @@ For example, an invoice is posted for 1,000.00. If you receive a payment of 990.
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\))
+[Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\))
 
-[Customer payment proposal - Edit (form)](https://technet.microsoft.com/en-us/library/aa554074\(v=ax.60\))
+[Customer payment proposal - Edit (form)](https://technet.microsoft.com/library/aa554074\(v=ax.60\))
 
   
 

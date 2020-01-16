@@ -2,8 +2,9 @@
 title: About creating purchase orders for projects
 TOCTitle: About creating purchase orders for projects
 ms:assetid: 663ccbbb-1739-4113-9a58-2449ae66d813
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571150(v=AX.60)
 ms:contentKeyID: 36057751
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,9 +87,9 @@ The line property that is attached to a purchase order line for an item determin
 
 [Create an invoice for a time and material project](create-an-invoice-for-a-time-and-material-project.md)
 
-[Create purchase order (form)](https://technet.microsoft.com/en-us/library/aa570189\(v=ax.60\))
+[Create purchase order (form)](https://technet.microsoft.com/library/aa570189\(v=ax.60\))
 
-[Create purchase order or direct delivery from sales (form)](https://technet.microsoft.com/en-us/library/aa557923\(v=ax.60\))
+[Create purchase order or direct delivery from sales (form)](https://technet.microsoft.com/library/aa557923\(v=ax.60\))
 
   
 

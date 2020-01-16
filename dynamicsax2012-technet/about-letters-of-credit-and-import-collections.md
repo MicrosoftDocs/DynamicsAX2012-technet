@@ -2,8 +2,9 @@
 title: About letters of credit and import collections
 TOCTitle: About letters of credit and import collections
 ms:assetid: 54049327-2d82-4ef7-99b4-20498d454872
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208954(v=AX.60)
 ms:contentKeyID: 36057302
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,9 +48,9 @@ An import collection ensures payment to the seller when the buyer collects the s
 
 [Key tasks: Letter of credit for the export of goods](key-tasks-letter-of-credit-for-the-export-of-goods.md)
 
-[Export letter of credit/import collection (form)](https://technet.microsoft.com/en-us/library/hh208689\(v=ax.60\))
+[Export letter of credit/import collection (form)](https://technet.microsoft.com/library/hh208689\(v=ax.60\))
 
-[Letter of credit / import collection (form)](https://technet.microsoft.com/en-us/library/hh209538\(v=ax.60\))
+[Letter of credit / import collection (form)](https://technet.microsoft.com/library/hh209538\(v=ax.60\))
 
   
 

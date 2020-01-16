@@ -2,8 +2,9 @@
 title: About payment types
 TOCTitle: About payment types
 ms:assetid: 601ca7c0-813f-4d3c-ae8d-28db307081e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242528(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242528(v=AX.60)
 ms:contentKeyID: 36966726
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ For the **Electronic payment** payment type, validation occurs when you generate
 
 [Specify when a vendor bank account is active](specify-when-a-vendor-bank-account-is-active.md)
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
   
 

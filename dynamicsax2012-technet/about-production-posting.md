@@ -2,8 +2,9 @@
 title: About production posting
 TOCTitle: About production posting
 ms:assetid: 0e39ce5a-c10e-4674-b338-71c3e1f75af8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496407(v=AX.60)
 ms:contentKeyID: 36056008
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

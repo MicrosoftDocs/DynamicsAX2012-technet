@@ -2,8 +2,9 @@
 title: About setting up a project budget
 TOCTitle: About setting up a project budget
 ms:assetid: 65de3d2b-a3fd-4e67-bd0f-85107e65dd04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242454(v=AX.60)
 ms:contentKeyID: 36057749
+author: Khairunj
 ms.date: 09/21/2015
 mtps_version: v=AX.60
 f1_keywords:

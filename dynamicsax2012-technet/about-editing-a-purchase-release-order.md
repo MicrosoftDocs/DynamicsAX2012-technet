@@ -2,8 +2,9 @@
 title: About editing a purchase release order
 TOCTitle: About editing a purchase release order
 ms:assetid: 73caae6e-9d1d-4d1d-8bbc-dae06162bc03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209231(v=AX.60)
 ms:contentKeyID: 36058148
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

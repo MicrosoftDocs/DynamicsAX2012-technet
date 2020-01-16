@@ -2,8 +2,9 @@
 title: About manufactured items that are treated as purchased items
 TOCTitle: About manufactured items that are treated as purchased items
 ms:assetid: b746cb6e-aea1-41e5-b292-0bc3e6aed14a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232436(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232436(v=AX.60)
 ms:contentKeyID: 36059101
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About editing a sales release order
 TOCTitle: About editing a sales release order
 ms:assetid: f990f1a3-149a-461e-bdd5-33c1ce0b24b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227564(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227564(v=AX.60)
 ms:contentKeyID: 36060058
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

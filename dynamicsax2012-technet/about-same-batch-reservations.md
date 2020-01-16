@@ -2,8 +2,9 @@
 title: About same batch reservations
 TOCTitle: About same batch reservations
 ms:assetid: ea7616bc-06b4-40c1-844c-df5de4417865
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227481(v=AX.60)
 ms:contentKeyID: 36059854
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,13 +44,13 @@ To determine the available quantity of physical inventory, **Process manufacturi
 
 ## See also
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
-[Same batch reservation conflict (form)](https://technet.microsoft.com/en-us/library/hh328606\(v=ax.60\))
+[Same batch reservation conflict (form)](https://technet.microsoft.com/library/hh328606\(v=ax.60\))
 
-[Storage dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209317\(v=ax.60\))
+[Storage dimension groups (form)](https://technet.microsoft.com/library/hh209317\(v=ax.60\))
 
-[Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
+[Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\))
 
   
 

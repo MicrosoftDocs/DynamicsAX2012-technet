@@ -2,8 +2,9 @@
 title: About financial reason codes
 TOCTitle: About financial reason codes
 ms:assetid: 750939e7-3e09-4f55-8d61-31605e5cad28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212968(v=AX.60)
 ms:contentKeyID: 36058161
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,11 +48,11 @@ Both financial reason codes and return reason codes are used in Accounts receiva
 
 ## See also
 
-[Reason for asset changes (form)](https://technet.microsoft.com/en-us/library/hh208987\(v=ax.60\))
+[Reason for asset changes (form)](https://technet.microsoft.com/library/hh208987\(v=ax.60\))
 
-[Fixed asset changes history (form)](https://technet.microsoft.com/en-us/library/hh209392\(v=ax.60\))
+[Fixed asset changes history (form)](https://technet.microsoft.com/library/hh209392\(v=ax.60\))
 
-[Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\))
+[Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\))
 
 [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md)
 

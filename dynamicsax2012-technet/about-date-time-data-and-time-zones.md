@@ -2,8 +2,9 @@
 title: About date/time data and time zones
 TOCTitle: About date/time data and time zones
 ms:assetid: 117fdb0b-03aa-4a97-ba84-953451830d38
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230928(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230928(v=AX.60)
 ms:contentKeyID: 36056032
+author: Khairunj
 ms.date: 06/10/2016
 mtps_version: v=AX.60
 f1_keywords:

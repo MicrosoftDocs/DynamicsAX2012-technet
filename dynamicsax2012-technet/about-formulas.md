@@ -2,8 +2,9 @@
 title: About formulas
 TOCTitle: About formulas
 ms:assetid: 142186e7-2e23-4630-9853-7a404f24e257
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352182(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352182(v=AX.60)
 ms:contentKeyID: 36687815
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,13 +54,13 @@ Step consumption eliminates the requirement to enter a quantity on the **Formula
 
 [About line types](about-line-types.md)
 
-[Formula (form)](https://technet.microsoft.com/en-us/library/hh328668\(v=ax.60\))
+[Formula (form)](https://technet.microsoft.com/library/hh328668\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
-[Formula version (form)](https://technet.microsoft.com/en-us/library/hh352348\(v=ax.60\))
+[Formula version (form)](https://technet.microsoft.com/library/hh352348\(v=ax.60\))
 
-[Production control parameters (form)](https://technet.microsoft.com/en-us/library/aa498700\(v=ax.60\))
+[Production control parameters (form)](https://technet.microsoft.com/library/aa498700\(v=ax.60\))
 
   
 

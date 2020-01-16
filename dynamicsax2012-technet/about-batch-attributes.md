@@ -2,8 +2,9 @@
 title: About batch attributes
 TOCTitle: About batch attributes
 ms:assetid: 77968237-ca41-490c-8eca-e64ce57f310f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209250(v=AX.60)
 ms:contentKeyID: 36058213
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,21 +54,21 @@ You can access this form from a sales order line to search for and reserve inven
 
 ## See also
 
-[Batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209255\(v=ax.60\))
+[Batch attributes (form)](https://technet.microsoft.com/library/hh209255\(v=ax.60\))
 
-[Batch attribute groups (form)](https://technet.microsoft.com/en-us/library/hh209431\(v=ax.60\))
+[Batch attribute groups (form)](https://technet.microsoft.com/library/hh209431\(v=ax.60\))
 
-[Batch reservation (form)](https://technet.microsoft.com/en-us/library/hh208645\(v=ax.60\))
+[Batch reservation (form)](https://technet.microsoft.com/library/hh208645\(v=ax.60\))
 
-[Customer specific (form)](https://technet.microsoft.com/en-us/library/hh209393\(v=ax.60\))
+[Customer specific (form)](https://technet.microsoft.com/library/hh209393\(v=ax.60\))
 
-[Inventory batch attributes (form)](https://technet.microsoft.com/en-us/library/hh209284\(v=ax.60\))
+[Inventory batch attributes (form)](https://technet.microsoft.com/library/hh209284\(v=ax.60\))
 
-[Product specific (form)](https://technet.microsoft.com/en-us/library/hh227369\(v=ax.60\))
+[Product specific (form)](https://technet.microsoft.com/library/hh227369\(v=ax.60\))
 
-[Production journal lines, picking list (form)](https://technet.microsoft.com/en-us/library/aa616001\(v=ax.60\))
+[Production journal lines, picking list (form)](https://technet.microsoft.com/library/aa616001\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

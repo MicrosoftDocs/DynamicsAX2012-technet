@@ -2,8 +2,9 @@
 title: About default values
 TOCTitle: About default values
 ms:assetid: fee03f30-840c-4df0-b6c8-a39567ee67f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573451(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573451(v=AX.60)
 ms:contentKeyID: 36676422
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The customer and item combination can be set up through two kinds of groups: ite
 
 ## See also
 
-[Default values (form)](https://technet.microsoft.com/en-us/library/aa583319\(v=ax.60\))
+[Default values (form)](https://technet.microsoft.com/library/aa583319\(v=ax.60\))
 
   
 

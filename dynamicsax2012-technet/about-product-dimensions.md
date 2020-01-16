@@ -2,8 +2,9 @@
 title: About product dimensions
 TOCTitle: About product dimensions
 ms:assetid: d5f35982-32f0-40a9-a6e1-4d5505d79be2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499382(v=AX.60)
 ms:contentKeyID: 36059532
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About posted hour costs
 TOCTitle: About posted hour costs
 ms:assetid: da3b9716-ea4b-4940-bbe1-4bfc0b9c62cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa619858(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa619858(v=AX.60)
 ms:contentKeyID: 36059660
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,11 +65,11 @@ The following table lists where posted hour costs are debited and credited in th
 
 [About WIP cost value accounts](about-wip-cost-value-accounts.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Post costs (form)](https://technet.microsoft.com/en-us/library/aa583560\(v=ax.60\))
+[Post costs (form)](https://technet.microsoft.com/library/aa583560\(v=ax.60\))
 
-[Hour transactions (form)](https://technet.microsoft.com/en-us/library/aa572825\(v=ax.60\))
+[Hour transactions (form)](https://technet.microsoft.com/library/aa572825\(v=ax.60\))
 
   
 

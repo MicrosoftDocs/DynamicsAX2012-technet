@@ -2,8 +2,9 @@
 title: About credit notes
 TOCTitle: About credit notes
 ms:assetid: b16addba-6caa-485d-ac39-012d3837d06c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242718(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242718(v=AX.60)
 ms:contentKeyID: 36058976
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ The procedure for crediting sales orders is different than the procedure for cre
 
 [Credit invoiced amounts in projects](credit-invoiced-amounts-in-projects.md)
 
-[Select for credit note (form)](https://technet.microsoft.com/en-us/library/aa550205\(v=ax.60\))
+[Select for credit note (form)](https://technet.microsoft.com/library/aa550205\(v=ax.60\))
 
   
 

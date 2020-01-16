@@ -2,8 +2,9 @@
 title: About requests for quotation
 TOCTitle: About requests for quotation
 ms:assetid: 773eee02-844c-4421-b265-b3b91a8ff33e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212988(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212988(v=AX.60)
 ms:contentKeyID: 36058207
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About cost templates
 TOCTitle: About cost templates
 ms:assetid: bcdeaa27-bdca-4a06-b751-42a556ee329f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498870(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498870(v=AX.60)
 ms:contentKeyID: 36059143
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -99,11 +100,11 @@ Deciding which approach to take to create a cost template can depend on several 
 
 [Create a cost template](create-a-cost-template.md)
 
-[Cost template (form)](https://technet.microsoft.com/en-us/library/aa616683\(v=ax.60\))
+[Cost template (form)](https://technet.microsoft.com/library/aa616683\(v=ax.60\))
 
 [Configuring category groups, categories, and cost templates](configuring-category-groups-categories-and-cost-templates.md)
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
 [Attach a project to an estimate](attach-a-project-to-an-estimate.md)
 

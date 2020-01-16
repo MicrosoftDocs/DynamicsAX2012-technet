@@ -2,8 +2,9 @@
 title: About fixed asset acquisitions
 TOCTitle: About fixed asset acquisitions
 ms:assetid: e7c186f8-eb1c-4833-80e3-d1f00bd4f54a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573194(v=AX.60)
 ms:contentKeyID: 36059820
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ For acquisitions posted using the **Inventory to fixed assets** journal in Gener
 
 [Set up fixed asset posting profiles](set-up-fixed-asset-posting-profiles.md)
 
-[Fixed asset posting profiles (form)](https://technet.microsoft.com/en-us/library/aa571467\(v=ax.60\))
+[Fixed asset posting profiles (form)](https://technet.microsoft.com/library/aa571467\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About Enterprise Portal Help
 TOCTitle: About Enterprise Portal Help
 ms:assetid: 4b54f899-1db2-44ea-92c4-2d15b87ea03a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208727(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208727(v=AX.60)
 ms:contentKeyID: 36056996
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

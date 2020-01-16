@@ -2,8 +2,9 @@
 title: About lot inheritance
 TOCTitle: About lot inheritance
 ms:assetid: 638df47d-a194-40c1-9aba-d91274b3a5aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838738(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838738(v=AX.60)
 ms:contentKeyID: 50120621
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,15 +36,15 @@ After you define shelf life ingredients and define and activate batch attributes
 
 ## See also
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
-[Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
+[Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\))
 
-[(PM) Item model groups (form)](https://technet.microsoft.com/en-us/library/hh328695\(v=ax.60\))
+[(PM) Item model groups (form)](https://technet.microsoft.com/library/hh328695\(v=ax.60\))
 
-[Formula line (form)](https://technet.microsoft.com/en-us/library/hh352331\(v=ax.60\))
+[Formula line (form)](https://technet.microsoft.com/library/hh352331\(v=ax.60\))
 
-[(PM) Batch attribute selection (form)](https://technet.microsoft.com/en-us/library/jj838761\(v=ax.60\))
+[(PM) Batch attribute selection (form)](https://technet.microsoft.com/library/jj838761\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About courses
 TOCTitle: About courses
 ms:assetid: df219e6d-ef10-41b7-922e-bcea26dd1554
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551281(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551281(v=AX.60)
 ms:contentKeyID: 49384140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -158,7 +159,7 @@ You can generate absence transactions when a course participant is confirmed in 
 
 [Key tasks: Courses](key-tasks-courses.md)
 
-[Course types (form)](https://technet.microsoft.com/en-us/library/aa618160\(v=ax.60\))
+[Course types (form)](https://technet.microsoft.com/library/aa618160\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About online stores
 TOCTitle: About online stores
 ms:assetid: 9006ff23-01a0-4aea-a7f6-8543ee7db676
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682097(v=AX.60)
 ms:contentKeyID: 49655584
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

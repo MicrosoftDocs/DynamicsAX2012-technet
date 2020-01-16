@@ -2,8 +2,9 @@
 title: About backorders
 TOCTitle: About backorders
 ms:assetid: 4cd568f0-9095-4b05-be70-92fd37376102
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497022(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497022(v=AX.60)
 ms:contentKeyID: 42518540
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,11 +56,11 @@ The overview is also useful for prioritization when products arrive from vendors
 
 ## See also
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Released products (list page)](https://technet.microsoft.com/en-us/library/hh597154\(v=ax.60\))
+[Released products (list page)](https://technet.microsoft.com/library/hh597154\(v=ax.60\))
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
   
 

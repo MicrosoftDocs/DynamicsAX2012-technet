@@ -2,8 +2,9 @@
 title: About depreciation
 TOCTitle: About depreciation
 ms:assetid: c18a10c4-fdf5-4122-ab67-9c3754e1594b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550702(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550702(v=AX.60)
 ms:contentKeyID: 36676410
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ Special allowance depreciation is entered as a percentage or a fixed amount. Whe
 
 ## Depreciation calendars
 
-Each depreciation book must have a fiscal calendar that is used when you depreciate fixed assets. You must also select a fiscal calendar for a value model when the associated depreciation method has a fiscal depreciation year, and you use a depreciation method. For more information, see [Depreciation books setup (form)](https://technet.microsoft.com/en-us/library/aa597721\(v=ax.60\)) and [Value models setup (form)](https://technet.microsoft.com/en-us/library/aa582567\(v=ax.60\)).
+Each depreciation book must have a fiscal calendar that is used when you depreciate fixed assets. You must also select a fiscal calendar for a value model when the associated depreciation method has a fiscal depreciation year, and you use a depreciation method. For more information, see [Depreciation books setup (form)](https://technet.microsoft.com/library/aa597721\(v=ax.60\)) and [Value models setup (form)](https://technet.microsoft.com/library/aa582567\(v=ax.60\)).
 
 You can create shared calendars using the **Fiscal calendars** form. (Click **General ledger** \> **Setup** \> **Fiscal calendars**.) For more information, see [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md).
 
@@ -53,7 +54,7 @@ You can create shared calendars using the **Fiscal calendars** form. (Click **Ge
 
 [Depreciation methods and conventions](depreciation-methods-and-conventions.md)
 
-[Fiscal calendars (form)](https://technet.microsoft.com/en-us/library/hh209283\(v=ax.60\))
+[Fiscal calendars (form)](https://technet.microsoft.com/library/hh209283\(v=ax.60\))
 
   
 

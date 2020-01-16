@@ -2,8 +2,9 @@
 title: About Form I-9 verification
 TOCTitle: About Form I-9 verification
 ms:assetid: 9e5dae3a-f25c-4b03-8a9e-5325be4f4987
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213380(v=AX.60)
 ms:contentKeyID: 36058753
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

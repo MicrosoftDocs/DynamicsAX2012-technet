@@ -2,8 +2,9 @@
 title: About fixed asset determination rules
 TOCTitle: About fixed asset determination rules
 ms:assetid: 05380afd-8f66-4b8e-9f71-d39457a507b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242106(v=AX.60)
 ms:contentKeyID: 36055949
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,7 +39,7 @@ Create qualifier questions to help classify a purchase of a fixed asset into the
 
   - Set up fixed asset groups for legal entities. For information about fixed asset groups, see [Set up fixed asset groups](set-up-fixed-asset-groups.md).
 
-  - If the currency of a legal entity differs from the organization’s currency, you must create a currency conversion rate before you can associate a legal entity rule with an organization-wide fixed asset identifier. For more information about currency conversion rates, see the [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+  - If the currency of a legal entity differs from the organization’s currency, you must create a currency conversion rate before you can associate a legal entity rule with an organization-wide fixed asset identifier. For more information about currency conversion rates, see the [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 ## Example
 

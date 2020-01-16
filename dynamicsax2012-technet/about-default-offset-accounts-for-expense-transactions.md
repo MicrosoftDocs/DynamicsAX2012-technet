@@ -2,8 +2,9 @@
 title: About default offset accounts for expense transactions
 TOCTitle: About default offset accounts for expense transactions
 ms:assetid: 8c464cec-e47f-48c0-8042-b3fa71cfe5ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209348(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209348(v=AX.60)
 ms:contentKeyID: 36058479
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ You set up offset accounts for projects, categories, and workers. When the syste
 
 [About expense-related cost price fields](about-expense-related-cost-price-fields.md)
 
-[Default offset account for expenses (form)](https://technet.microsoft.com/en-us/library/aa616251\(v=ax.60\))
+[Default offset account for expenses (form)](https://technet.microsoft.com/library/aa616251\(v=ax.60\))
 
   
 

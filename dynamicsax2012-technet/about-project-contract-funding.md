@@ -2,8 +2,9 @@
 title: About project contract funding
 TOCTitle: About project contract funding
 ms:assetid: 23d5abea-c4b6-431e-853a-dd010d34c524
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208479(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208479(v=AX.60)
 ms:contentKeyID: 36056185
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ To determine which tax group to associate with a transaction, Microsoft Dynamics
 
 [Set up funding rules for a project contract](set-up-funding-rules-for-a-project-contract.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
   
 

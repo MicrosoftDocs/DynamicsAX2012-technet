@@ -2,8 +2,9 @@
 title: About operation scheduling options
 TOCTitle: About operation scheduling options
 ms:assetid: 6b8eec93-f1bc-446d-a798-6b2abbbb119e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571187(v=AX.60)
 ms:contentKeyID: 36057992
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,13 +64,13 @@ If a production order has one or more subproductions, you might want to schedule
 
 ## Resource parameter
 
-  - **Efficiency percentage** – You can set up an efficiency percentage when you create a resource. An efficiency percentage reduces or increases the throughput of the resource and therefore the time that is reserved for the resource. The lead time for the operations that use the resource is also increased or decreased accordingly. For more information, see the **Efficiency percentage** field description in [Resources (form)](https://technet.microsoft.com/en-us/library/aa557962\(v=ax.60\)).
+  - **Efficiency percentage** – You can set up an efficiency percentage when you create a resource. An efficiency percentage reduces or increases the throughput of the resource and therefore the time that is reserved for the resource. The lead time for the operations that use the resource is also increased or decreased accordingly. For more information, see the **Efficiency percentage** field description in [Resources (form)](https://technet.microsoft.com/library/aa557962\(v=ax.60\)).
 
 ## See also
 
-[Production - Operations scheduling (class form)](https://technet.microsoft.com/en-us/library/aa571353\(v=ax.60\))
+[Production - Operations scheduling (class form)](https://technet.microsoft.com/library/aa571353\(v=ax.60\))
 
-[Resources (form)](https://technet.microsoft.com/en-us/library/aa557962\(v=ax.60\))
+[Resources (form)](https://technet.microsoft.com/library/aa557962\(v=ax.60\))
 
 [Create and maintain operations resources](create-and-maintain-operations-resources.md)
 

@@ -2,8 +2,9 @@
 title: 'About Commerce Data Exchange: Async Server (Retail essentials)'
 TOCTitle: 'About Commerce Data Exchange: Async Server (Retail essentials)'
 ms:assetid: 0a4fbee9-18b6-4243-824e-a3433e38e0e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716040(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716040(v=AX.60)
 ms:contentKeyID: 62200302
+author: Khairunj
 ms.date: 04/22/2015
 mtps_version: v=AX.60
 f1_keywords:

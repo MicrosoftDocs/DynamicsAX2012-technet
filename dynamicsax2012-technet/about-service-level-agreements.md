@@ -2,8 +2,9 @@
 title: About service level agreements
 TOCTitle: About service level agreements
 ms:assetid: 05290d56-0616-4517-aa20-ec6bc86258d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230663(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230663(v=AX.60)
 ms:contentKeyID: 37832489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

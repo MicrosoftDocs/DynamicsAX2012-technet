@@ -2,8 +2,9 @@
 title: About billing rules
 TOCTitle: About billing rules
 ms:assetid: e90dbf41-0708-4ac4-a0cc-d8a41a1fb610
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227474(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227474(v=AX.60)
 ms:contentKeyID: 36059842
+author: Khairunj
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -124,7 +125,7 @@ If fees are taxable to a customer, and you select a sales tax group in the proje
 
 
 > [!NOTE]
-> <P>Sales tax must be enabled for U.S. taxation rules. For more information about how to set up sales tax, see <A href="https://technet.microsoft.com/en-us/library/aa557286(v=ax.60)">General ledger parameters (form)</A>.</P>
+> <P>Sales tax must be enabled for U.S. taxation rules. For more information about how to set up sales tax, see <A href="https://technet.microsoft.com/library/aa557286(v=ax.60)">General ledger parameters (form)</A>.</P>
 
 
 
@@ -146,15 +147,15 @@ During the first month, a total of 800 hours are recorded by the consultants on 
 
 ## See also
 
-[Billing rules (form)](https://technet.microsoft.com/en-us/library/hh227642\(v=ax.60\))
+[Billing rules (form)](https://technet.microsoft.com/library/hh227642\(v=ax.60\))
 
 [Create billing rules](create-billing-rules.md)
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
 [About project budgets and forecasts](about-project-budgets-and-forecasts.md)
 

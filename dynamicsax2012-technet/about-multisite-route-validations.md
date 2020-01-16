@@ -2,8 +2,9 @@
 title: About multisite - route validations
 TOCTitle: About multisite - route validations
 ms:assetid: 6a75211a-3326-4588-b409-315c9db9d1e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231586(v=AX.60)
 ms:contentKeyID: 36931873
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
