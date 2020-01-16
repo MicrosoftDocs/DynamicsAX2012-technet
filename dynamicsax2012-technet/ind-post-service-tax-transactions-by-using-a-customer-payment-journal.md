@@ -2,8 +2,9 @@
 title: (IND) Post service tax transactions by using a customer payment journal
 TOCTitle: (IND) Post service tax transactions by using a customer payment journal
 ms:assetid: 868ef98b-c0b4-4a8f-b80d-c6934c217c1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678011(v=AX.60)
 ms:contentKeyID: 49385972
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,11 +60,11 @@ Use the **Payment journal** form to create and post service tax transactions tha
 
 ## See also
 
-[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664751\(v=ax.60\))
+[(IND) Journal voucher - Customer payment journal (modified form)](https://technet.microsoft.com/library/jj664751\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

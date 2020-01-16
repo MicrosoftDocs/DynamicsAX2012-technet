@@ -2,8 +2,9 @@
 title: (IND) Set up payment schedules with TCS allocation
 TOCTitle: (IND) Set up payment schedules with TCS allocation
 ms:assetid: 3c359be5-3c7a-4643-87c8-baa833e3a8cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664636(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664636(v=AX.60)
 ms:contentKeyID: 49385713
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

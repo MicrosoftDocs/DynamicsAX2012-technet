@@ -2,8 +2,9 @@
 title: (IND) Set up excise tax components
 TOCTitle: (IND) Set up excise tax components
 ms:assetid: 42176eeb-14a2-4ab0-9a33-13973a269c19
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664647(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664647(v=AX.60)
 ms:contentKeyID: 49385724
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,11 +68,11 @@ You must also define tax setoff, which will offset the amounts of the various co
 
 ## See also
 
-[(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
+[(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\))
 
-[(IND) Claim percentage (form)](https://technet.microsoft.com/en-us/library/jj710873\(v=ax.60\))
+[(IND) Claim percentage (form)](https://technet.microsoft.com/library/jj710873\(v=ax.60\))
 
-[(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\))
+[(IND) Tax setoff rule (form)](https://technet.microsoft.com/library/jj677818\(v=ax.60\))
 
   
 

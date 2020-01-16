@@ -2,8 +2,9 @@
 title: (IND) Reverse charges for a service receiver and a service provider
 TOCTitle: (IND) Reverse charges for a service receiver and a service provider
 ms:assetid: a700561b-3bd4-400b-8e26-b21268a42001
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn282397(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn282397(v=AX.60)
 ms:contentKeyID: 54906860
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

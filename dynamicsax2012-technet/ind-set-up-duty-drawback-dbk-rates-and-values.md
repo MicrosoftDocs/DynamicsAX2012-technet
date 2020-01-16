@@ -2,8 +2,9 @@
 title: (IND) Set up duty drawback (DBK) rates and values
 TOCTitle: (IND) Set up duty drawback (DBK) rates and values
 ms:assetid: 08cbb79a-c114-4217-8a06-6b9b912095f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664461(v=AX.60)
 ms:contentKeyID: 49385540
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -102,9 +103,9 @@ You must create a product group before you can create duty drawback rates and va
 
 [(IND) About EXIM duty drawback (DBK) incentive schemes](ind-about-exim-duty-drawback-dbk-incentive-schemes.md)
 
-[(IND) Duty drawback rates (form)](https://technet.microsoft.com/en-us/library/jj710927\(v=ax.60\))
+[(IND) Duty drawback rates (form)](https://technet.microsoft.com/library/jj710927\(v=ax.60\))
 
-[(IND) Duty drawback values (form)](https://technet.microsoft.com/en-us/library/jj664528\(v=ax.60\))
+[(IND) Duty drawback values (form)](https://technet.microsoft.com/library/jj664528\(v=ax.60\))
 
   
 

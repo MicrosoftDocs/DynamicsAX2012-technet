@@ -2,8 +2,9 @@
 title: (IND) Attach an import invoice number and post the order
 TOCTitle: (IND) Attach an import invoice number and post the order
 ms:assetid: 2c5ce66f-fee6-4c7d-924a-7c5bde68cc48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664584(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664584(v=AX.60)
 ms:contentKeyID: 49385662
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ When you update the **Invoice registration** form, the **Document status** field
 
 [(IND) Post bills of entry for import orders](ind-post-bills-of-entry-for-import-orders.md)
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
   
 

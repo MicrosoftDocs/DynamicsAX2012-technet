@@ -2,8 +2,9 @@
 title: (IND) Set up asset group depreciation for depreciation books
 TOCTitle: (IND) Set up asset group depreciation for depreciation books
 ms:assetid: 9ce7b204-d548-4b04-bd99-0ef59c624376
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664704(v=AX.60)
 ms:contentKeyID: 49386035
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ You also can define the asset group depreciation for depreciation books by using
 
 ## See also
 
-[(IND) Asset depreciation book (modified form)](https://technet.microsoft.com/en-us/library/jj677835\(v=ax.60\))
+[(IND) Asset depreciation book (modified form)](https://technet.microsoft.com/library/jj677835\(v=ax.60\))
 
-[(IND) Depreciation books (modified form)](https://technet.microsoft.com/en-us/library/jj677965\(v=ax.60\))
+[(IND) Depreciation books (modified form)](https://technet.microsoft.com/library/jj677965\(v=ax.60\))
 
   
 

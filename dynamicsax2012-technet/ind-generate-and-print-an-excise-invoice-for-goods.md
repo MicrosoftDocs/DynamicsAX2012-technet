@@ -2,8 +2,9 @@
 title: (IND) Generate and print an excise invoice for goods
 TOCTitle: (IND) Generate and print an excise invoice for goods
 ms:assetid: aeb44b01-e5ca-4f1f-ac75-72e8cbef4133
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876578(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876578(v=AX.60)
 ms:contentKeyID: 63378994
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,9 +54,9 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ol>
-<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and <strong>Customs</strong> checkbox. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
-<li><p>In the <strong>Exchange rate types</strong> form, set up the exchange rate types to be used for the tax calculation. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh242857(v=ax.60)">Exchange rate types (form)</a>.</p></li>
-<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
+<li><p>In the <strong>General ledger parameters</strong> form, in the <strong>Sales tax</strong> area, in the <strong>Apply India taxes</strong> field group, select the <strong>Excise</strong> check box and <strong>Customs</strong> checkbox. For more information, see <a href="https://technet.microsoft.com/library/jj677901(v=ax.60)">(IND) General ledger parameters (modified form)</a>.</p></li>
+<li><p>In the <strong>Exchange rate types</strong> form, set up the exchange rate types to be used for the tax calculation. For more information, see <a href="https://technet.microsoft.com/library/hh242857(v=ax.60)">Exchange rate types (form)</a>.</p></li>
+<li><p>In the <strong>Released product details</strong> form, on the <strong>General</strong> FastTab in the <strong>Excise</strong> field group, select the <strong>Excise record type</strong> for the product. For more information, see <a href="https://technet.microsoft.com/library/aa615563(v=ax.60)">Released product details (form)</a>.</p></li>
 <li><p>In the <strong>Enterprise tax registration numbers</strong> form, specify <strong>Excise</strong> for the <strong>Tax type</strong>, <strong>Company</strong> as the <strong>Registration number type</strong>, and the number sequence code for the <strong>Excise invoice</strong>.</p></li>
 <li><p>In the <strong>Tax reporting code</strong> form, create reporting codes for an excise invoice. For more information, see <a href="ind-set-up-tax-registration-numbers.md">(IND) Set up tax registration numbers</a>.</p></li>
 <li><p>In the <strong>Inventory and warehouse management parameters</strong> form, in the <strong>Stock transfer</strong> field group, select the <strong>Activate stock transfer</strong> check box.</p></li>

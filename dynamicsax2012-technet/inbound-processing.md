@@ -2,8 +2,9 @@
 title: Inbound processing
 TOCTitle: Inbound processing
 ms:assetid: c0cd8a47-ee44-4bfb-9905-25247e2fcbb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553196(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553196(v=AX.60)
 ms:contentKeyID: 62200150
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

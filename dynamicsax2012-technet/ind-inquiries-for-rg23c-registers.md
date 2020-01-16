@@ -2,8 +2,9 @@
 title: (IND) Inquiries for RG23C registers
 TOCTitle: (IND) Inquiries for RG23C registers
 ms:assetid: 644a9043-8cef-4df8-80f6-5d30e68b989b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677867(v=AX.60)
 ms:contentKeyID: 49385831
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

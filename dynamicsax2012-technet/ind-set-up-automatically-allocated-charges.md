@@ -2,8 +2,9 @@
 title: (IND) Set up automatically allocated charges
 TOCTitle: (IND) Set up automatically allocated charges
 ms:assetid: 5ac63ed7-a386-4344-800c-aad42a731b28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677838(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677838(v=AX.60)
 ms:contentKeyID: 49385802
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

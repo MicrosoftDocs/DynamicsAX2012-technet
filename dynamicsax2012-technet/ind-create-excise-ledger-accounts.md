@@ -2,8 +2,9 @@
 title: (IND) Create excise ledger accounts
 TOCTitle: (IND) Create excise ledger accounts
 ms:assetid: ab2dee26-3033-42a5-beea-ce1085552203
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664780(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664780(v=AX.60)
 ms:contentKeyID: 49386097
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

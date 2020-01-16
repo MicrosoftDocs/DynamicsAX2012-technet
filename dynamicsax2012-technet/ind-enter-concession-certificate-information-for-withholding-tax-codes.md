@@ -2,8 +2,9 @@
 title: (IND) Enter concession certificate information for withholding tax codes
 TOCTitle: (IND) Enter concession certificate information for withholding tax codes
 ms:assetid: 3b9170dd-858f-45c4-9aeb-84f83f6f53f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664637(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664637(v=AX.60)
 ms:contentKeyID: 49385714
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,9 +38,9 @@ Use the following procedure to record information about concession certificate n
 
 ## See also
 
-[(IND) Withholding tax concessions (form)](https://technet.microsoft.com/en-us/library/jj664953\(v=ax.60\))
+[(IND) Withholding tax concessions (form)](https://technet.microsoft.com/library/jj664953\(v=ax.60\))
 
-[(IND) Certificates (form)](https://technet.microsoft.com/en-us/library/jj678024\(v=ax.60\))
+[(IND) Certificates (form)](https://technet.microsoft.com/library/jj678024\(v=ax.60\))
 
   
 

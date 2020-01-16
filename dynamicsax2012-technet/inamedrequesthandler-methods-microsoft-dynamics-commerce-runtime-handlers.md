@@ -1,9 +1,10 @@
-﻿---
+---
 title: INamedRequestHandler Methods (Microsoft.Dynamics.Commerce.Runtime.Handlers)
 TOCTitle: INamedRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Handlers.INamedRequestHandler
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.handlers.inamedrequesthandler_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.handlers.inamedrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65320544
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

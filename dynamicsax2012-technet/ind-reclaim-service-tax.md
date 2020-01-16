@@ -2,8 +2,9 @@
 title: (IND) Reclaim service tax
 TOCTitle: (IND) Reclaim service tax
 ms:assetid: 4e430b4f-631b-40f8-8d42-c25b6ccdb285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664686(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664686(v=AX.60)
 ms:contentKeyID: 49385759
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,9 +50,9 @@ You can view transactions where service tax is calculated in the **Point of taxa
 
 ## See also
 
-[(IND) Vendor transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664503\(v=ax.60\))
+[(IND) Vendor transactions (modified form)](https://technet.microsoft.com/library/jj664503\(v=ax.60\))
 
-[(IND) Open vendor transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664856\(v=ax.60\))
+[(IND) Open vendor transactions (modified form)](https://technet.microsoft.com/library/jj664856\(v=ax.60\))
 
 [(IND) Reverse service tax](ind-reverse-service-tax.md)
 

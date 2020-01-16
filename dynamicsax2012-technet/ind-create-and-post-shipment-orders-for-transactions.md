@@ -2,8 +2,9 @@
 title: (IND) Create and post shipment orders for transactions
 TOCTitle: (IND) Create and post shipment orders for transactions
 ms:assetid: 02900c5f-b2a0-4cf8-84df-51009dc71adf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664436(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664436(v=AX.60)
 ms:contentKeyID: 49385524
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Use the following procedures to create and post a stock transfer order.
 
 
 > [!NOTE]
-> <P>The tax registration numbers are defined only for the company addresses. If the warehouses for the company are treated as separate taxable entities with separate tax registration numbers, you must set up the addresses for the warehouses in the <STRONG>Legal entities</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj664569(v=ax.60)">(IND) Legal entities (modified form)</A>.</P>
+> <P>The tax registration numbers are defined only for the company addresses. If the warehouses for the company are treated as separate taxable entities with separate tax registration numbers, you must set up the addresses for the warehouses in the <STRONG>Legal entities</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/jj664569(v=ax.60)">(IND) Legal entities (modified form)</A>.</P>
 
 
 
@@ -29,7 +30,7 @@ Use the following procedures to create and post a stock transfer order.
 
 1.  Click **Inventory management** \> **Periodic** \> **Transfer orders**.
 
-2.  Press CTRL+N to create a transfer order. For more information, see [(IND) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj677831\(v=ax.60\)).
+2.  Press CTRL+N to create a transfer order. For more information, see [(IND) Transfer orders (modified form)](https://technet.microsoft.com/library/jj677831\(v=ax.60\)).
     
     The transfer number for the transaction is displayed in the **Transfer number** field, and the status is set to **Created** in the **Transfer status** field.
 
@@ -145,7 +146,7 @@ Use the following procedures to create and post a stock transfer order.
 
 20. Click **Setup** \> **VAT retention** to open the **Temporary VAT retention** form to view the calculated VAT retention amount for the transactions.
 
-21. Click **Posting** \> **Ship transfer order** to open the **Shipment** form. For more information, see [(IND) Transfer order shipment (modified form)](https://technet.microsoft.com/en-us/library/jj917355\(v=ax.60\)).
+21. Click **Posting** \> **Ship transfer order** to open the **Shipment** form. For more information, see [(IND) Transfer order shipment (modified form)](https://technet.microsoft.com/library/jj917355\(v=ax.60\)).
 
 22. Select the **Edit lines** check box to edit the lines before posting and updating. The item lines that the **Ship now** field is updated for in the **Transfer orders** form are displayed on the **Lines** tab in the lower pane.
 
@@ -155,7 +156,7 @@ Use the following procedures to create and post a stock transfer order.
 
 [(IND) Post received orders for transactions](ind-post-received-orders-for-transactions.md)
 
-[(IND) Receive (modified form)](https://technet.microsoft.com/en-us/library/jj664949\(v=ax.60\))
+[(IND) Receive (modified form)](https://technet.microsoft.com/library/jj664949\(v=ax.60\))
 
   
 

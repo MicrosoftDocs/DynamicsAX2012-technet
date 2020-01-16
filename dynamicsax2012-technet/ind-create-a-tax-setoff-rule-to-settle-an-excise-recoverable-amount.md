@@ -2,8 +2,9 @@
 title: (IND) Create a tax setoff rule to settle an excise recoverable amount
 TOCTitle: (IND) Create a tax setoff rule to settle an excise recoverable amount
 ms:assetid: 16a357bd-7ebf-43df-b956-5bf56b7cff7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn344872(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn344872(v=AX.60)
 ms:contentKeyID: 56117708
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,9 +39,9 @@ Use the **Tax setoff rule** form to create a tax setoff rule to settle excise re
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **India** \> **Tax components**.
 
-2.  Create a tax component for excise tax. For more information, see [(IND) Set up excise tax components](ind-set-up-excise-tax-components.md) and [(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\)).
+2.  Create a tax component for excise tax. For more information, see [(IND) Set up excise tax components](ind-set-up-excise-tax-components.md) and [(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\)).
 
-3.  Click **Tax setoff rule** to open the **Tax setoff rule** form, where you can create or update the tax setoff rule for the tax components. For more information, see [(IND) Tax setoff rule (form)](https://technet.microsoft.com/en-us/library/jj677818\(v=ax.60\)).
+3.  Click **Tax setoff rule** to open the **Tax setoff rule** form, where you can create or update the tax setoff rule for the tax components. For more information, see [(IND) Tax setoff rule (form)](https://technet.microsoft.com/library/jj677818\(v=ax.60\)).
 
 4.  In the **Setoff component** field, select the tax component for service tax.
 

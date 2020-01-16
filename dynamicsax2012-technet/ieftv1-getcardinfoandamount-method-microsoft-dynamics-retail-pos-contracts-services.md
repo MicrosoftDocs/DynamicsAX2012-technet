@@ -1,9 +1,10 @@
-﻿---
+---
 title: IEFTV1.GetCardInfoAndAmount Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: GetCardInfoAndAmount Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IEFTV1.GetCardInfoAndAmount(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICardInfo@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ieftv1.getcardinfoandamount(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ieftv1.getcardinfoandamount(v=AX.60)
 ms:contentKeyID: 47344345
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ bool GetCardInfoAndAmount(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if the system should continue with the authorization process; otherwise, false.  
 
 ## See Also

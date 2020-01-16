@@ -2,8 +2,9 @@
 title: (IND) Set up miscellaneous charges for sales orders
 TOCTitle: (IND) Set up miscellaneous charges for sales orders
 ms:assetid: b7fb2e01-f04e-4f0d-b6de-2d211968e4db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664832(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664832(v=AX.60)
 ms:contentKeyID: 49386162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ The following procedure shows how to set up miscellaneous charges for sales orde
 
 ## See also
 
-[(IND) Auto charges (modified form)](https://technet.microsoft.com/en-us/library/jj664811\(v=ax.60\))
+[(IND) Auto charges (modified form)](https://technet.microsoft.com/library/jj664811\(v=ax.60\))
 
   
 

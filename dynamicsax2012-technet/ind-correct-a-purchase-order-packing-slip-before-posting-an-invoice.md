@@ -2,8 +2,9 @@
 title: (IND) Correct a purchase order packing slip before posting an invoice
 TOCTitle: (IND) Correct a purchase order packing slip before posting an invoice
 ms:assetid: 98a03250-84bb-4800-b71e-5af81c39e917
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664711(v=AX.60)
 ms:contentKeyID: 49386042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

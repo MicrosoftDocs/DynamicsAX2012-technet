@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerSystemV3.ResetCustomerTaxGroup Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: ResetCustomerTaxGroup Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ICustomerSystemV3.ResetCustomerTaxGroup(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv3.resetcustomertaxgroup(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv3.resetcustomertaxgroup(v=AX.60)
 ms:contentKeyID: 62205585
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,7 +68,7 @@ void ResetCustomerTaxGroup(
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>Thrown when RetailTransaction is NULL</p></td>
 </tr>
 </tbody>

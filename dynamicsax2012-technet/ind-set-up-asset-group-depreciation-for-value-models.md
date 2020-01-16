@@ -2,8 +2,9 @@
 title: (IND) Set up asset group depreciation for value models
 TOCTitle: (IND) Set up asset group depreciation for value models
 ms:assetid: 001579f0-1b41-4c21-b4bf-315924b493ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664421(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664421(v=AX.60)
 ms:contentKeyID: 49385511
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,7 +80,7 @@ You can also define the asset group depreciation for value models by using the *
 
 [(IND) Attach fixed asset numbers to fixed asset groups and value models](ind-attach-fixed-asset-numbers-to-fixed-asset-groups-and-value-models.md)
 
-[(IND) Fixed asset group/ Value model (modified form)](https://technet.microsoft.com/en-us/library/jj664616\(v=ax.60\))
+[(IND) Fixed asset group/ Value model (modified form)](https://technet.microsoft.com/library/jj664616\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Import and reconcile using advance bank reconciliation
 TOCTitle: Import and reconcile using advance bank reconciliation
 ms:assetid: 5615a135-0cbb-45de-a2e0-07ddcc4ebd4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729753(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729753(v=AX.60)
 ms:contentKeyID: 49564919
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ In Microsoft Dynamics AX, you can import electronic bank statements and automati
 
 3.  Click the **Number sequences** link, and then select a number sequence for **Reconcile ID**, **Statement ID**, and **Download ID**.
     
-    For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
+    For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\))
 
 4.  Click **Cash and bank management** \> **Setup** \> **Bank reconciliation** \> **Bank statement format**.
 
@@ -41,7 +42,7 @@ In Microsoft Dynamics AX, you can import electronic bank statements and automati
 
 7.  Click **Cash and bank management** \> **Common** \> **Bank accounts**. Select a bank account. On the **Action Pane**, click **Edit**. On the **Reconciliation** FastTab, select the **Advanced bank reconciliation** check box.
     
-    For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+    For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 8.  In the **Bank accounts** form, click **Bank statements**
     
@@ -53,7 +54,7 @@ In Microsoft Dynamics AX, you can import electronic bank statements and automati
 
 9.  In the **Bank statements** form, click **Import statement** to open the **Import bank statements** form.
     
-    For more information, see [Import bank statements (form)](https://technet.microsoft.com/en-us/library/jj729765\(v=ax.60\)).
+    For more information, see [Import bank statements (form)](https://technet.microsoft.com/library/jj729765\(v=ax.60\)).
 
 10. After the bank statement is imported, click **Validate** to validate the bank statement.
     
@@ -67,7 +68,7 @@ In Microsoft Dynamics AX, you can import electronic bank statements and automati
 
 12. To distribute a bank statement line to more than one account, you can select the line and then click **Distribute amounts** to open the **Accounting distributions** form.
     
-    For more information, see [Accounting distributions (form)](https://technet.microsoft.com/en-us/library/hh209296\(v=ax.60\)).
+    For more information, see [Accounting distributions (form)](https://technet.microsoft.com/library/hh209296\(v=ax.60\)).
 
 ## Reconcile a bank statement using advanced bank reconciliation
 
@@ -115,7 +116,7 @@ After an electronic bank statement has been imported and validated in the **Bank
     
     To run the matching rules during the import process, select the **Reconcile after import** check box in the **Bank accounts** form. If you select this check box, the bank statement will be imported and validated, a new bank reconciliation journal will be created, and the selected matching rule set will be run.
     
-    For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+    For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 11. When you have finished matching up bank documents lines and bank statement lines, click **Reconcile** to post the bank reconciliation.
 

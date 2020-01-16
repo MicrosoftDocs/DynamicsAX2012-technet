@@ -2,8 +2,9 @@
 title: Identify and assign qualified workers to projects
 TOCTitle: Identify and assign qualified workers to projects
 ms:assetid: 3c42ed1d-14d4-4129-b6b8-feb2c384f43e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242230(v=AX.60)
 ms:contentKeyID: 36056661
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 f1_keywords:

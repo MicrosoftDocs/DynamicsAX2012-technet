@@ -2,8 +2,9 @@
 title: (IND) Enter the authorization approval details for DFIA
 TOCTitle: (IND) Enter the authorization approval details for DFIA
 ms:assetid: de12cc62-5cad-4cdf-98c9-26121af7136f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710887(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710887(v=AX.60)
 ms:contentKeyID: 49386300
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ After the customs authority approves your application for a Duty Free Import Aut
 
 ## See also
 
-[(IND) Authorization approval details (form)](https://technet.microsoft.com/en-us/library/jj677814\(v=ax.60\))
+[(IND) Authorization approval details (form)](https://technet.microsoft.com/library/jj677814\(v=ax.60\))
 
 [(IND) Set up EXIM authorization schemes for DFIA](ind-set-up-exim-authorization-schemes-for-dfia.md)
 

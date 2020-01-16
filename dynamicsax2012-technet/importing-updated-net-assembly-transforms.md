@@ -1,9 +1,10 @@
-﻿---
+---
 title: Importing Updated .NET Assembly Transforms
 TOCTitle: Importing Updated .NET Assembly Transforms
 ms:assetid: 5055c786-f9f9-4720-970d-ace4219332fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg861992(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg861992(v=AX.60)
 ms:contentKeyID: 35244192
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

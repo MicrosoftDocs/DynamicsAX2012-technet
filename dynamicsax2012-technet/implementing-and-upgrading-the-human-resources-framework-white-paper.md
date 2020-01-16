@@ -2,8 +2,9 @@
 title: Implementing and Upgrading the Human Resources Framework (White paper)
 TOCTitle: Implementing and Upgrading the Human Resources Framework
 ms:assetid: 8cc1d1c0-9e9e-44bb-a3a4-7eb140ffb285
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272872(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272872(v=AX.60)
 ms:contentKeyID: 36584396
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (IND) Create, post, and print a sales invoice that has a VAT commodity code
 TOCTitle: (IND) Create, post, and print a sales invoice that has a VAT commodity code
 ms:assetid: 33f3e42e-bcb7-4ba4-a6cd-7d620bfb7338
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664608(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664608(v=AX.60)
 ms:contentKeyID: 49385685
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,9 +42,9 @@ When you create a sales order, you can assign commodity codes for value-added ta
 
 ## See also
 
-[(IND) VAT commodity codes (form)](https://technet.microsoft.com/en-us/library/jj664797\(v=ax.60\))
+[(IND) VAT commodity codes (form)](https://technet.microsoft.com/library/jj664797\(v=ax.60\))
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
   
 

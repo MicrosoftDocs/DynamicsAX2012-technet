@@ -1,9 +1,10 @@
-﻿---
+---
 title: IFiscalPrinterV1.ProcessCardPayment Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: ProcessCardPayment Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IFiscalPrinterV1.ProcessCardPayment(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IEFTInfo,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv1.processcardpayment(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv1.processcardpayment(v=AX.60)
 ms:contentKeyID: 62204843
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

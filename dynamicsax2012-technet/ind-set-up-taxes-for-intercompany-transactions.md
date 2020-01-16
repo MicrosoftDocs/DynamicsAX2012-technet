@@ -2,8 +2,9 @@
 title: (IND) Set up taxes for intercompany transactions
 TOCTitle: (IND) Set up taxes for intercompany transactions
 ms:assetid: 4a99d713-cddc-4590-862c-bb8a473788ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664682(v=AX.60)
 ms:contentKeyID: 49385756
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ In the **General ledger parameters** form, on the **Direct taxes** tab, **the Ap
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
 [(IND) Calculate TCS on intercompany transactions](ind-calculate-tcs-on-intercompany-transactions.md)
 

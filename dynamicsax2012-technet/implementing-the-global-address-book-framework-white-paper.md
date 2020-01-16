@@ -2,8 +2,9 @@
 title: Implementing the Global Address Book Framework (White paper)
 TOCTitle: Implementing the Global Address Book Framework
 ms:assetid: 6398a369-8f3b-4d97-bb03-2ce7b3f8dc44
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272867(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272867(v=AX.60)
 ms:contentKeyID: 36584391
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

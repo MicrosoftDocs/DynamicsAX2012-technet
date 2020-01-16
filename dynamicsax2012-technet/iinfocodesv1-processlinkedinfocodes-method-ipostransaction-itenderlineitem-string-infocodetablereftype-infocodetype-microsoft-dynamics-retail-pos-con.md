@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodesV1.ProcessLinkedInfoCodes Method (IPosTransaction, ITenderLineItem, String, InfoCodeTableRefType, InfoCodeType) (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: ProcessLinkedInfoCodes Method (IPosTransaction, ITenderLineItem, String, InfoCodeTableRefType, InfoCodeType)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IInfoCodesV1.ProcessLinkedInfoCodes(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITenderLineItem,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeTableRefType,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeType)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodesv1.processlinkedinfocodes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iinfocodesv1.processlinkedinfocodes(v=AX.60)
 ms:contentKeyID: 47343970
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -76,7 +77,7 @@ void ProcessLinkedInfoCodes(
 <!-- end list -->
 
   - storeId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

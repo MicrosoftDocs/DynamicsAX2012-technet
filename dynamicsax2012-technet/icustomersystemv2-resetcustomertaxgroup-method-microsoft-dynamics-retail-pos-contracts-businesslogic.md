@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerSystemV2.ResetCustomerTaxGroup Method  (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: ResetCustomerTaxGroup Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ICustomerSystemV2.ResetCustomerTaxGroup(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxableItem,System.Boolean)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv2.resetcustomertaxgroup(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.icustomersystemv2.resetcustomertaxgroup(v=AX.60)
 ms:contentKeyID: 50496859
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ void ResetCustomerTaxGroup(
 <!-- end list -->
 
   - applyLineShippingAddress  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (IND) About customer payments
 TOCTitle: (IND) About customer payments
 ms:assetid: 5347cd29-b5bb-4dcd-af46-3d8f08f6d63c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664700(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664700(v=AX.60)
 ms:contentKeyID: 49385774
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ When you process a customer payment, you can use the **Mark invoice lines** form
 
 **Amount to settle** = **Line amount** + **TCS**
 
-For more information, see [Mark invoice lines (form)](https://technet.microsoft.com/en-us/library/hh227459\(v=ax.60\)).
+For more information, see [Mark invoice lines (form)](https://technet.microsoft.com/library/hh227459\(v=ax.60\)).
 
 ## See also
 

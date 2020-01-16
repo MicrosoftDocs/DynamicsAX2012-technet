@@ -2,8 +2,9 @@
 title: (IND) Calculate sales tax settlements
 TOCTitle: (IND) Calculate sales tax settlements
 ms:assetid: 20095e8f-ea77-4b78-9ff4-c387ffb5af49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664545(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664545(v=AX.60)
 ms:contentKeyID: 49385624
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -106,11 +107,11 @@ Before you submit a tax settlement to the tax authorities for a financial year, 
 
 ## See also
 
-[(IND) Tax adjustment (form)](https://technet.microsoft.com/en-us/library/jj664843\(v=ax.60\))
+[(IND) Tax adjustment (form)](https://technet.microsoft.com/library/jj664843\(v=ax.60\))
 
-[(IND) Transactions (form)](https://technet.microsoft.com/en-us/library/jj664764\(v=ax.60\))
+[(IND) Transactions (form)](https://technet.microsoft.com/library/jj664764\(v=ax.60\))
 
-[(IND) Sales tax payment (modified form)](https://technet.microsoft.com/en-us/library/jj664427\(v=ax.60\))
+[(IND) Sales tax payment (modified form)](https://technet.microsoft.com/library/jj664427\(v=ax.60\))
 
   
 

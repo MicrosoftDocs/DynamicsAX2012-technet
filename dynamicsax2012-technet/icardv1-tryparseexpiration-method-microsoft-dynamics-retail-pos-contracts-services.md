@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICardV1.TryParseExpiration Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: TryParseExpiration Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICardV1.TryParseExpiration(System.String,System.DateTime@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.icardv1.tryparseexpiration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icardv1.tryparseexpiration(v=AX.60)
 ms:contentKeyID: 47344212
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,16 +57,16 @@ bool TryParseExpiration(
 #### Parameters
 
   - expirationDateString  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - expirationDate  
-    Type: [System.DateTime](https://technet.microsoft.com/en-us/library/03ybds8y\(v=ax.60\))  
+    Type: [System.DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if conversion successful; otherwise, false.  
 
 ## See Also

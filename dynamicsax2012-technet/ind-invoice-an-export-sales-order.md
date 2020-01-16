@@ -2,8 +2,9 @@
 title: (IND) Invoice an export sales order
 TOCTitle: (IND) Invoice an export sales order
 ms:assetid: e5ff7862-3c4a-4c09-8f4b-caf7687cf7a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710889(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710889(v=AX.60)
 ms:contentKeyID: 49386302
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ You can update the financial entries for the items and the customer account when
 
 [(IND) Post receipt lists, product receipts and purchase order invoices](ind-post-receipt-lists-product-receipts-and-purchase-order-invoices.md)
 
-[(IND) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj677998\(v=ax.60\))
+[(IND) Sales orders (modified form)](https://technet.microsoft.com/library/jj677998\(v=ax.60\))
 
   
 

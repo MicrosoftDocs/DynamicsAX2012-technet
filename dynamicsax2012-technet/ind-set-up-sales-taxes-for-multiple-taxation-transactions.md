@@ -2,8 +2,9 @@
 title: (IND) Set up sales taxes for multiple taxation transactions
 TOCTitle: (IND) Set up sales taxes for multiple taxation transactions
 ms:assetid: 8dcb33c1-89b4-4b86-99f3-e86bd2e08a68
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678042(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678042(v=AX.60)
 ms:contentKeyID: 49386003
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -161,11 +162,11 @@ Therefore, the total tax is 1,425.60.
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
-[(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\))
+[(IND) Legal entities (modified form)](https://technet.microsoft.com/library/jj664569\(v=ax.60\))
 
-[(IND) Manage tax information (form)](https://technet.microsoft.com/en-us/library/jj664802\(v=ax.60\))
+[(IND) Manage tax information (form)](https://technet.microsoft.com/library/jj664802\(v=ax.60\))
 
   
 

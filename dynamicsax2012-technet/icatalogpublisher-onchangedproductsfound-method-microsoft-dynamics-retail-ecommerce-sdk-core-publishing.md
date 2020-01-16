@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICatalogPublisher.OnChangedProductsFound Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: OnChangedProductsFound Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ICatalogPublisher.OnChangedProductsFound(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangedProductsSearchResult,System.Int32,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.onchangedproductsfound(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.onchangedproductsfound(v=AX.60)
 ms:contentKeyID: 65317411
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,12 +63,12 @@ void OnChangedProductsFound(
 <!-- end list -->
 
   - pageNumberInCatalog  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 <!-- end list -->
 
   - catalogId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: (IND) Define sales tax authorities for vendors
 TOCTitle: (IND) Define sales tax authorities for vendors
 ms:assetid: ccd611c6-d5bb-45a6-9268-fa0d1488f115
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664886(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664886(v=AX.60)
 ms:contentKeyID: 49386216
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

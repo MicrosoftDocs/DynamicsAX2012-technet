@@ -1,9 +1,10 @@
-﻿---
+---
 title: IItemV1.CostModel Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: CostModel Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IItemV1.CostModel
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.iitemv1.costmodel(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iitemv1.costmodel(v=AX.60)
 ms:contentKeyID: 49821255
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property int CostModel {
 
 #### Property Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 The cost model.  
 
 ## See Also

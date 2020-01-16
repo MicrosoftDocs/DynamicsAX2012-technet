@@ -2,8 +2,9 @@
 title: (IND) Create purchase credit notes for excisable goods
 TOCTitle: (IND) Create purchase credit notes for excisable goods
 ms:assetid: 41f16c4a-5cda-49f0-91fc-a4e8fa46b41c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664648(v=AX.60)
 ms:contentKeyID: 49385725
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,9 +48,9 @@ When you return the purchased goods to your vendor by using a credit note, the e
 
 ## See also
 
-[(IND) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664798\(v=ax.60\))
+[(IND) Purchase orders (modified form)](https://technet.microsoft.com/library/jj664798\(v=ax.60\))
 
-[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj664580\(v=ax.60\))
+[(IND) Copy purchase orders (modified form)](https://technet.microsoft.com/library/jj664580\(v=ax.60\))
 
   
 

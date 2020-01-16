@@ -2,8 +2,9 @@
 title: (IND) About setting up service tax settlements
 TOCTitle: (IND) About setting up service tax settlements
 ms:assetid: b1e5718b-d265-4b7e-b178-fab2142b77c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664783(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664783(v=AX.60)
 ms:contentKeyID: 49386103
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,9 +32,9 @@ When you post transactions in the **Journal voucher** form, the tax amounts are 
 
 ## See also
 
-[(IND) Service tax inquiry (form)](https://technet.microsoft.com/en-us/library/jj664526\(v=ax.60\))
+[(IND) Service tax inquiry (form)](https://technet.microsoft.com/library/jj664526\(v=ax.60\))
 
-[(IND) Tax components (form)](https://technet.microsoft.com/en-us/library/jj664734\(v=ax.60\))
+[(IND) Tax components (form)](https://technet.microsoft.com/library/jj664734\(v=ax.60\))
 
   
 

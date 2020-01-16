@@ -2,8 +2,9 @@
 title: Import a catalog from a vendor
 TOCTitle: Import a catalog from a vendor
 ms:assetid: b94877f5-d2da-4ada-b641-9850f3d30dfd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242762(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242762(v=AX.60)
 ms:contentKeyID: 36059115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -173,9 +174,9 @@ After the products in the CMR file are reviewed and approved, you can release th
 
 [Validate and approve imported catalogs](validate-and-approve-imported-catalogs.md)
 
-[Release products to legal entity (form)](https://technet.microsoft.com/en-us/library/hh208803\(v=ax.60\))
+[Release products to legal entity (form)](https://technet.microsoft.com/library/hh208803\(v=ax.60\))
 
-[Event log (form)](https://technet.microsoft.com/en-us/library/hh227443\(v=ax.60\))
+[Event log (form)](https://technet.microsoft.com/library/hh227443\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Set up automatically allocated charges for customers in Accounts receivable
 TOCTitle: (IND) Set up automatically allocated charges for customers in Accounts receivable
 ms:assetid: c37889bf-244b-499a-a7ed-1a2966a65bb8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664884(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664884(v=AX.60)
 ms:contentKeyID: 49386217
+author: Khairunj
 ms.date: 09/19/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -72,7 +73,7 @@ You can define automatically allocated charges for a specific customer or charge
 
 [(IND) Set up automatically allocated charges for a charges code, vendor, and item combination in transactions](ind-set-up-automatically-allocated-charges-for-a-charges-code-vendor-and-item-combination-in-transactions.md)
 
-[(IND) Auto charges (modified form)](https://technet.microsoft.com/en-us/library/jj664811\(v=ax.60\))
+[(IND) Auto charges (modified form)](https://technet.microsoft.com/library/jj664811\(v=ax.60\))
 
   
 

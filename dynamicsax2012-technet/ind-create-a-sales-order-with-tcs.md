@@ -2,8 +2,9 @@
 title: (IND) Create a sales order with TCS
 TOCTitle: (IND) Create a sales order with TCS
 ms:assetid: 371805f5-0af8-434a-9a7c-43aeb1e8b4fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664618(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664618(v=AX.60)
 ms:contentKeyID: 49385695
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

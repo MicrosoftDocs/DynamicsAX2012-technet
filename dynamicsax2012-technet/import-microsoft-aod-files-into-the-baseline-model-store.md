@@ -2,8 +2,9 @@
 title: Import Microsoft AOD files into the baseline model store
 TOCTitle: Import Microsoft AOD files into the baseline model store
 ms:assetid: 1d84cd11-89e3-4c55-aa9e-9145600ea298
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg188981(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg188981(v=AX.60)
 ms:contentKeyID: 35410561
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (IND) Calculate service tax using a vendor payment journal
 TOCTitle: (IND) Calculate service tax using a vendor payment journal
 ms:assetid: 794e811a-1648-49d1-a997-05f97af1d254
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677923(v=AX.60)
 ms:contentKeyID: 49385872
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,13 +81,13 @@ Use the **Payment journal** form to calculate the service tax for a vendor. You 
 
 ## See also
 
-[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj664794\(v=ax.60\))
+[(IND) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj664794\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Service codes (form)](https://technet.microsoft.com/en-us/library/jj664830\(v=ax.60\))
+[(IND) Service codes (form)](https://technet.microsoft.com/library/jj664830\(v=ax.60\))
 
   
 

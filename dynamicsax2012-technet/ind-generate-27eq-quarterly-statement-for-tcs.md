@@ -2,8 +2,9 @@
 title: (IND) Generate 27EQ quarterly statement for TCS
 TOCTitle: (IND) Generate 27EQ quarterly statement for TCS
 ms:assetid: 0504f685-72ef-442f-aa34-8a7a0acec57e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664439(v=AX.60)
 ms:contentKeyID: 49385529
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ The collectors of tax at source can use the 27EQ statement to report Tax Collect
 
   - In the **Withholding tax codes** form, set up the reporting codes for the withholding tax components that are used for the TCS transactions posted for the period.
 
-  - Enter the challan details for all TCS transactions that are posted for the period. For more information, see [(IND) Challan information (form)](https://technet.microsoft.com/en-us/library/jj677847\(v=ax.60\)).
+  - Enter the challan details for all TCS transactions that are posted for the period. For more information, see [(IND) Challan information (form)](https://technet.microsoft.com/library/jj677847\(v=ax.60\)).
 
 ## Generate the 27EQ quarterly statement
 
@@ -61,7 +62,7 @@ The collectors of tax at source can use the 27EQ statement to report Tax Collect
 
 [(IND) Setting up Tax Collected at Source (TCS)](ind-setting-up-tax-collected-at-source-tcs.md)
 
-[(IND) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj664569\(v=ax.60\))
+[(IND) Legal entities (modified form)](https://technet.microsoft.com/library/jj664569\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (IND) Cancel a bill of entry
 TOCTitle: (IND) Cancel a bill of entry
 ms:assetid: cd0c6f81-2a6a-4db0-a9f9-5e0a20e364cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664885(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664885(v=AX.60)
 ms:contentKeyID: 49386214
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

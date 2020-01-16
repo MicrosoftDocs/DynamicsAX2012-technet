@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICheckoutService.GetAllDeliveryMethods Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GetAllDeliveryMethods Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ICheckoutService.GetAllDeliveryMethods
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.icheckoutservice.getalldeliverymethods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.icheckoutservice.getalldeliverymethods(v=AX.60)
 ms:contentKeyID: 62204865
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

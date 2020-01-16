@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICardInfoV1.CardType Property  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: CardType Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICardInfoV1.CardType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icardinfov1.cardtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icardinfov1.cardtype(v=AX.60)
 ms:contentKeyID: 47128214
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

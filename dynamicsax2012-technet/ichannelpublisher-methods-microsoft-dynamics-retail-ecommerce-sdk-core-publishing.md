@@ -1,9 +1,10 @@
-﻿---
+---
 title: IChannelPublisher Methods (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing)
 TOCTitle: IChannelPublisher Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.IChannelPublisher
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.ichannelpublisher_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.ichannelpublisher_methods(v=AX.60)
 ms:contentKeyID: 65317764
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

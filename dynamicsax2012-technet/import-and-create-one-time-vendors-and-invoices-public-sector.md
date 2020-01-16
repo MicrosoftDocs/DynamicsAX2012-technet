@@ -2,8 +2,9 @@
 title: Import and create one-time vendors and invoices (Public sector)
 TOCTitle: Import and create one-time vendors and invoices (Public sector)
 ms:assetid: 5ed26477-32df-4a8d-9e37-aa851c8287df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn762313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn762313(v=AX.60)
 ms:contentKeyID: 63384521
+author: Khairunj
 ms.date: 04/01/2019
 mtps_version: v=AX.60
 f1_keywords:

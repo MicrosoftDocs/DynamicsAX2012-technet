@@ -2,8 +2,9 @@
 title: (IND) Inventory overview
 TOCTitle: (IND) Inventory overview
 ms:assetid: 09c1fbb6-3b2b-4378-bd7e-4e40bd5b406f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664460(v=AX.60)
 ms:contentKeyID: 49385538
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

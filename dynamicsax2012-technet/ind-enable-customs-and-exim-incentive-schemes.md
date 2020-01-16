@@ -2,8 +2,9 @@
 title: (IND) Enable customs and EXIM incentive schemes
 TOCTitle: (IND) Enable customs and EXIM incentive schemes
 ms:assetid: 92fcbbf0-c466-4f28-951f-78e1c955c3b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678061(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678061(v=AX.60)
 ms:contentKeyID: 49386022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ The **Incentive schemes** button is now available on the **General** FastTab.
 
 ## See also
 
-[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677901\(v=ax.60\))
+[(IND) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj677901\(v=ax.60\))
 
 [(IND) Setting up the EXIM Advance Authorization (AA) incentive scheme](ind-setting-up-the-exim-advance-authorization-aa-incentive-scheme.md)
 

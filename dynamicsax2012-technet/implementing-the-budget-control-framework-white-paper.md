@@ -2,8 +2,9 @@
 title: Implementing the Budget Control Framework (White paper)
 TOCTitle: Implementing the Budget Control Framework
 ms:assetid: 4c6c08e5-7303-4aba-b51d-baf0b9d9daf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272864(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272864(v=AX.60)
 ms:contentKeyID: 36584388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

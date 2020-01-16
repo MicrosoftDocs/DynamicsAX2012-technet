@@ -2,8 +2,9 @@
 title: (IND) Calculate TCS on intercompany transactions
 TOCTitle: (IND) Calculate TCS on intercompany transactions
 ms:assetid: 6c840ed2-295c-494e-aeba-479a9b297dec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677898(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677898(v=AX.60)
 ms:contentKeyID: 49385861
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

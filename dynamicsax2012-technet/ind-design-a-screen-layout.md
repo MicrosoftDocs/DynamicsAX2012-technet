@@ -2,8 +2,9 @@
 title: (IND) Design a screen layout
 TOCTitle: (IND) Design a screen layout
 ms:assetid: 9b59412a-e095-43d4-ba98-67d351b51221
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn308520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn308520(v=AX.60)
 ms:contentKeyID: 54971746
+author: Khairunj
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ ms.search.region: India
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Screen layouts** form to set up a layout to include and display the taxes that are calculated on customer order cancellation charges. For more information about how to design a screen layout, see [Screen layouts (form)](https://technet.microsoft.com/en-us/library/hh597310\(v=ax.60\)).
+Use the **Screen layouts** form to set up a layout to include and display the taxes that are calculated on customer order cancellation charges. For more information about how to design a screen layout, see [Screen layouts (form)](https://technet.microsoft.com/library/hh597310\(v=ax.60\)).
 
 
 > [!NOTE]

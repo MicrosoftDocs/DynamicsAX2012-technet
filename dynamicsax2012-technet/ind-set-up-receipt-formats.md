@@ -2,8 +2,9 @@
 title: (IND) Set up receipt formats
 TOCTitle: (IND) Set up receipt formats
 ms:assetid: b4fbba60-23d0-4290-ba26-cf8016a38995
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn308521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn308521(v=AX.60)
 ms:contentKeyID: 54971747
+author: Khairunj
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,7 +19,7 @@ ms.search.region: India
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Use the **Receipt format designer** form to set up a receipt format to include the taxes that are calculated on customer order cancellation charges. You can also use the receipt format to include the total cancellation charges. For more information, see [Receipt formats (form)](https://technet.microsoft.com/en-us/library/hh597228\(v=ax.60\)).
+Use the **Receipt format designer** form to set up a receipt format to include the taxes that are calculated on customer order cancellation charges. You can also use the receipt format to include the total cancellation charges. For more information, see [Receipt formats (form)](https://technet.microsoft.com/library/hh597228\(v=ax.60\)).
 
 
 > [!NOTE]

@@ -2,8 +2,9 @@
 title: (IND) Process closing transactions overview
 TOCTitle: (IND) Process closing transactions overview
 ms:assetid: 02609796-e157-4472-b901-8e3977f864fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664434(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664434(v=AX.60)
 ms:contentKeyID: 49385522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

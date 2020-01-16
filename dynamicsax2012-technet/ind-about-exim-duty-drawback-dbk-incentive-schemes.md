@@ -2,8 +2,9 @@
 title: (IND) About EXIM duty drawback (DBK) incentive schemes
 TOCTitle: (IND) About EXIM duty drawback (DBK) incentive schemes
 ms:assetid: 8c0c6201-6e45-47aa-a3b1-0c3bdd543b22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678028(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678028(v=AX.60)
 ms:contentKeyID: 49385989
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -140,9 +141,9 @@ Allowed drawback = 0 (zero)
 
 [(IND) Apply for duty drawback (DBK) for an export order](ind-apply-for-duty-drawback-dbk-for-an-export-order.md)
 
-[(IND) Duty drawback (form)](https://technet.microsoft.com/en-us/library/jj664713\(v=ax.60\))
+[(IND) Duty drawback (form)](https://technet.microsoft.com/library/jj664713\(v=ax.60\))
 
-[(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/en-us/library/jj678025\(v=ax.60\))
+[(IND) Total Duty Drawback amount (form)](https://technet.microsoft.com/library/jj678025\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IDialogV1.TenderDeclaration Method  (Microsoft.Dynamics.Retail.Pos.Contracts.Services)
 TOCTitle: TenderDeclaration Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.TenderDeclaration(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.tenderdeclaration(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.tenderdeclaration(v=AX.60)
 ms:contentKeyID: 47343949
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ DialogResult TenderDeclaration(
 
 #### Return Value
 
-Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/en-us/library/5ahe29t9\(v=ax.60\))  
+Type: [System.Windows.Forms.DialogResult](https://technet.microsoft.com/library/5ahe29t9\(v=ax.60\))  
 One of the DialogResult values.  
 
 ## See Also

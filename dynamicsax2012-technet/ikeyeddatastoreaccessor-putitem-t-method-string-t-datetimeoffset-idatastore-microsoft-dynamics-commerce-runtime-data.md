@@ -1,9 +1,10 @@
-﻿---
+---
 title: IKeyedDataStoreAccessor.PutItem(T) Method (String, T, DateTimeOffset, IDataStore) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: PutItem(T) Method (String, T, DateTimeOffset, IDataStore)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IKeyedDataStoreAccessor.PutItem``1(System.String,``0,System.DateTimeOffset,Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988905(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988905(v=AX.60)
 ms:contentKeyID: 65318355
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -64,7 +65,7 @@ void PutItem(
 #### Parameters
 
   - key  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -74,7 +75,7 @@ void PutItem(
 <!-- end list -->
 
   - absoluteExpiration  
-    Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
+    Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
 
 <!-- end list -->
 

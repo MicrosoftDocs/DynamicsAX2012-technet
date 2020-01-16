@@ -2,8 +2,9 @@
 title: (IND) Set up posting profiles for stock transfer
 TOCTitle: (IND) Set up posting profiles for stock transfer
 ms:assetid: 7d455eef-ce03-46de-8c29-f9ebc97646b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677967(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677967(v=AX.60)
 ms:contentKeyID: 49385930
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Use the **Posting** form to set up ledger account numbers for the automatic ledg
 
 
 > [!NOTE]
-> <P>Before you set up a posting profile for stock transfer transactions, you must select the <STRONG>Activate stock transfer</STRONG> check box in the <STRONG>Inventory and warehouse management parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj664669(v=ax.60)">(IND) Inventory and warehouse management parameters (modified form)</A>.</P>
+> <P>Before you set up a posting profile for stock transfer transactions, you must select the <STRONG>Activate stock transfer</STRONG> check box in the <STRONG>Inventory and warehouse management parameters</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/jj664669(v=ax.60)">(IND) Inventory and warehouse management parameters (modified form)</A>.</P>
 
 
 
@@ -63,9 +64,9 @@ Use the **Posting** form to set up ledger account numbers for the automatic ledg
 
 ## See also
 
-[(IND) Purchase posting (modified form)](https://technet.microsoft.com/en-us/library/jj664475\(v=ax.60\))
+[(IND) Purchase posting (modified form)](https://technet.microsoft.com/library/jj664475\(v=ax.60\))
 
-[(IND) Posting (modified form)](https://technet.microsoft.com/en-us/library/jj664940\(v=ax.60\))
+[(IND) Posting (modified form)](https://technet.microsoft.com/library/jj664940\(v=ax.60\))
 
   
 

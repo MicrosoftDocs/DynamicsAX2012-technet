@@ -1,9 +1,10 @@
-﻿---
+---
 title: IKeyedDataStoreAccessor.InitializeDataStores Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: InitializeDataStores Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IKeyedDataStoreAccessor.InitializeDataStores
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ikeyeddatastoreaccessor.initializedatastores(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ikeyeddatastoreaccessor.initializedatastores(v=AX.60)
 ms:contentKeyID: 65319925
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ Lazy<Dictionary<DataStoreType, IDataStore^>^>^ InitializeDataStores()
 
 #### Return Value
 
-Type: Lazy\<[Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[DataStoreType](datastoretype-enumeration-microsoft-dynamics-commerce-runtime-data.md), [IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md)\>\>  
+Type: Lazy\<[Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[DataStoreType](datastoretype-enumeration-microsoft-dynamics-commerce-runtime-data.md), [IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md)\>\>  
 
 ## See Also
 

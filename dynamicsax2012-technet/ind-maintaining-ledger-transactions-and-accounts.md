@@ -2,8 +2,9 @@
 title: (IND) Maintaining ledger transactions and accounts
 TOCTitle: (IND) Maintaining ledger transactions and accounts
 ms:assetid: 98c58833-74e1-42dd-a5c1-6acb54ce09fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678057(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678057(v=AX.60)
 ms:contentKeyID: 49386018
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

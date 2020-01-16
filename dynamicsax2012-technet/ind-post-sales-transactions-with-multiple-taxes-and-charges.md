@@ -2,8 +2,9 @@
 title: (IND) Post sales transactions with multiple taxes and charges
 TOCTitle: (IND) Post sales transactions with multiple taxes and charges
 ms:assetid: 77d34a86-b7c3-4baf-8672-1508c88723e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677916(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677916(v=AX.60)
 ms:contentKeyID: 49385870
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -113,9 +114,9 @@ When the sales order is posted, the payable accounts of the tax components are c
 
 ## See also
 
-[(IND) Formula designer (form)](https://technet.microsoft.com/en-us/library/jj677983\(v=ax.60\))
+[(IND) Formula designer (form)](https://technet.microsoft.com/library/jj677983\(v=ax.60\))
 
-[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/en-us/library/jj664487\(v=ax.60\))
+[(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\))
 
   
 

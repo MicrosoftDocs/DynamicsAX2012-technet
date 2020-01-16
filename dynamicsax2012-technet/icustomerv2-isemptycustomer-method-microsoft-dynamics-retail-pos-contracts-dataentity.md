@@ -1,9 +1,10 @@
-﻿---
+---
 title: ICustomerV2.IsEmptyCustomer Method  (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IsEmptyCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerV2.IsEmptyCustomer
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerv2.isemptycustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomerv2.isemptycustomer(v=AX.60)
 ms:contentKeyID: 49843058
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ bool IsEmptyCustomer()
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if default customer from ctor  
 
 ## See Also

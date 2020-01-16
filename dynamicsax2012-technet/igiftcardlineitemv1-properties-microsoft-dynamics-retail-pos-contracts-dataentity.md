@@ -1,9 +1,10 @@
-﻿---
+---
 title: IGiftCardLineItemV1 Properties (Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity)
 TOCTitle: IGiftCardLineItemV1 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IGiftCardLineItemV1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.dataentity.igiftcardlineitemv1_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.igiftcardlineitemv1_properties(v=AX.60)
 ms:contentKeyID: 49851393
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

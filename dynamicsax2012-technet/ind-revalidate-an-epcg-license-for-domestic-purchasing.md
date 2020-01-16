@@ -2,8 +2,9 @@
 title: (IND) Revalidate an EPCG license for domestic purchasing
 TOCTitle: (IND) Revalidate an EPCG license for domestic purchasing
 ms:assetid: 4f063203-c9e1-40b1-97dd-809c61cf8c4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664691(v=AX.60)
 ms:contentKeyID: 49385765
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,9 +61,9 @@ In the **EXIM EPCG Schemes** form, on the **Lines** FastTab, the status for the 
 
 [(IND) Attach an EPCG incentive scheme to an import order](ind-attach-an-epcg-incentive-scheme-to-an-import-order.md)
 
-[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/en-us/library/jj677817\(v=ax.60\))
+[(IND) EXIM EPCG schemes (form)](https://technet.microsoft.com/library/jj677817\(v=ax.60\))
 
-[(IND) Revalidation details (form)](https://technet.microsoft.com/en-us/library/jj710940\(v=ax.60\))
+[(IND) Revalidation details (form)](https://technet.microsoft.com/library/jj710940\(v=ax.60\))
 
   
 

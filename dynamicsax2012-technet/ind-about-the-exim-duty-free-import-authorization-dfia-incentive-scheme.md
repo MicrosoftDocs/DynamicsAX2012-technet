@@ -2,8 +2,9 @@
 title: (IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 TOCTitle: (IND) About the EXIM Duty Free Import Authorization (DFIA) incentive scheme
 ms:assetid: bc9854d1-a94f-459a-934e-fa45c29bd1a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664824(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664824(v=AX.60)
 ms:contentKeyID: 49386154
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

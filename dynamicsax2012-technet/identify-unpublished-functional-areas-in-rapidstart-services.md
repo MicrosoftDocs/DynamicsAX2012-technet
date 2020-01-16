@@ -2,8 +2,9 @@
 title: Identify unpublished functional areas in RapidStart Services
 TOCTitle: Identify unpublished functional areas in RapidStart Services
 ms:assetid: b713b495-b5c8-43b0-b020-9cf480742d75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn292560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn292560(v=AX.60)
 ms:contentKeyID: 55119961
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 ---

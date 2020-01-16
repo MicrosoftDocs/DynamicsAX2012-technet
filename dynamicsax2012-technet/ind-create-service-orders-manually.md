@@ -2,8 +2,9 @@
 title: (IND) Create service orders manually
 TOCTitle: (IND) Create service orders manually
 ms:assetid: e8cd47e7-ce2e-4939-9d6c-5351e51e9fad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710921(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710921(v=AX.60)
 ms:contentKeyID: 49386333
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ You can also use automated processes to create service orders. For more informat
 
 2.  In the **Create service orders** form, on the **General** tab, select the starting and ending dates for the order.
 
-3.  Enter the applicable information in the remaining fields, and then click **OK**. For more information about how to complete the information in the form, see [Create service orders (class form)](https://technet.microsoft.com/en-us/library/aa553901\(v=ax.60\)).
+3.  Enter the applicable information in the remaining fields, and then click **OK**. For more information about how to complete the information in the form, see [Create service orders (class form)](https://technet.microsoft.com/library/aa553901\(v=ax.60\)).
 
 4.  In the **Service orders** form, in the **Line view**, on the **General** FastTab, in the **Service agreement** field, you can select a service agreement for the service order.
 
@@ -57,11 +58,11 @@ You can also use automated processes to create service orders. For more informat
 
 
 
-6.  Complete the information in the remaining fields for the sales order. For more information, see [(IND) Service orders (modified form)](https://technet.microsoft.com/en-us/library/jj678027\(v=ax.60\)).
+6.  Complete the information in the remaining fields for the sales order. For more information, see [(IND) Service orders (modified form)](https://technet.microsoft.com/library/jj678027\(v=ax.60\)).
 
 ## See also
 
-[Service orders (form)](https://technet.microsoft.com/en-us/library/aa554361\(v=ax.60\))
+[Service orders (form)](https://technet.microsoft.com/library/aa554361\(v=ax.60\))
 
 [Create service orders automatically](create-service-orders-automatically.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: IKeyedDataStoreAccessor Methods (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: IKeyedDataStoreAccessor Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.IKeyedDataStoreAccessor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.ikeyeddatastoreaccessor_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ikeyeddatastoreaccessor_methods(v=AX.60)
 ms:contentKeyID: 62212013
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

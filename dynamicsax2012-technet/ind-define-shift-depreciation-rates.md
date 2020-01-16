@@ -2,8 +2,9 @@
 title: (IND) Define shift depreciation rates
 TOCTitle: (IND) Define shift depreciation rates
 ms:assetid: e8c1329b-a17e-41e5-9dc8-d98cc9135a73
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710897(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710897(v=AX.60)
 ms:contentKeyID: 49386309
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

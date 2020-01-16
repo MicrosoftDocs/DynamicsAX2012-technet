@@ -1,9 +1,10 @@
-﻿---
+---
 title: IInfoCodeSystemV1 Methods (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic)
 TOCTitle: IInfoCodeSystemV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IInfoCodeSystemV1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iinfocodesystemv1_methods(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iinfocodesystemv1_methods(v=AX.60)
 ms:contentKeyID: 47129049
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

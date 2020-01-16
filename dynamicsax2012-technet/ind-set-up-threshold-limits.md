@@ -2,8 +2,9 @@
 title: (IND) Set up threshold limits
 TOCTitle: (IND) Set up threshold limits
 ms:assetid: 817d5e6c-bc8c-4232-b7c4-49cbef58ff9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527716(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527716(v=AX.60)
 ms:contentKeyID: 59626289
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

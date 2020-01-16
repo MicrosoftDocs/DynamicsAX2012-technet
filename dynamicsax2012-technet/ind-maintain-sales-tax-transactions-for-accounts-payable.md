@@ -2,8 +2,9 @@
 title: (IND) Maintain sales tax transactions for Accounts payable
 TOCTitle: (IND) Maintain sales tax transactions for Accounts payable
 ms:assetid: 96f80a8c-4ac4-43f3-b48a-f50ca5a0acd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664706(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664706(v=AX.60)
 ms:contentKeyID: 49386036
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

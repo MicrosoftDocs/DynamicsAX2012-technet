@@ -2,8 +2,9 @@
 title: (IND) Process purchase orders at year end
 TOCTitle: (IND) Process purchase orders at year end
 ms:assetid: ad13bc32-e4b1-497e-97bf-3ce2dcf52164
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664767(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664767(v=AX.60)
 ms:contentKeyID: 49386106
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

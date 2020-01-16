@@ -2,8 +2,9 @@
 title: (IND) Define ledger posting groups for tax components
 TOCTitle: (IND) Define ledger posting groups for tax components
 ms:assetid: 33327460-c7bf-41d0-8de4-468767a335ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664603(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664603(v=AX.60)
 ms:contentKeyID: 49385680
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ You can create a ledger posting group and attach tax components to the group. Yo
 
 ## See also
 
-[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/en-us/library/jj664546\(v=ax.60\))
+[(IND) Tax ledger posting groups (form)](https://technet.microsoft.com/library/jj664546\(v=ax.60\))
 
   
 
