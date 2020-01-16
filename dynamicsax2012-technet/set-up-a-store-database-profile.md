@@ -2,8 +2,9 @@
 title: Set up a store database profile
 TOCTitle: Set up a store database profile
 ms:assetid: 1f059b04-1ef8-4d5f-83ae-fb458fee7938
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677385(v=AX.60)
 ms:contentKeyID: 49384165
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

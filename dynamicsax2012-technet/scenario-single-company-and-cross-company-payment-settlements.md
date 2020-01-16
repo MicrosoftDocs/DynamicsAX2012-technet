@@ -2,8 +2,9 @@
 title: 'Scenario: Single-company and cross-company payment settlements'
 TOCTitle: 'Scenario: Single-company and cross-company payment settlements'
 ms:assetid: 6effec68-65ad-4fba-b682-dc930b45ef26
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231813(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231813(v=AX.60)
 ms:contentKeyID: 36655931
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

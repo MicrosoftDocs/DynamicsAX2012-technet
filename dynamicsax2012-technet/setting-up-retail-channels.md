@@ -2,8 +2,9 @@
 title: Setting up retail channels
 TOCTitle: Setting up retail channels
 ms:assetid: b5ba22ac-9d5e-44d9-887c-f9a810bdc120
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728704(v=AX.60)
 ms:contentKeyID: 49556609
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreCatalogsLayout Class (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront)
 TOCTitle: StoreCatalogsLayout Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.StoreCatalogsLayout
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.storecatalogslayout(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.storecatalogslayout(v=AX.60)
 ms:contentKeyID: 62206244
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,10 +45,10 @@ public ref class StoreCatalogsLayout : public RetailLayoutPage
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Web.UI.Control](https://technet.microsoft.com/en-us/library/983zwx2h\(v=ax.60\))  
-    [System.Web.UI.TemplateControl](https://technet.microsoft.com/en-us/library/2174ac61\(v=ax.60\))  
-      [System.Web.UI.Page](https://technet.microsoft.com/en-us/library/dfbt9et1\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Web.UI.Control](https://technet.microsoft.com/library/983zwx2h\(v=ax.60\))  
+    [System.Web.UI.TemplateControl](https://technet.microsoft.com/library/2174ac61\(v=ax.60\))  
+      [System.Web.UI.Page](https://technet.microsoft.com/library/dfbt9et1\(v=ax.60\))  
         DeltaPage  
           WebPartPage  
             PublishingCachablePage  

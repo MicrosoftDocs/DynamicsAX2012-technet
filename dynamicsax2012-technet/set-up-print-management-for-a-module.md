@@ -2,8 +2,9 @@
 title: Set up print management for a module
 TOCTitle: Set up print management for a module
 ms:assetid: 4522e64a-8235-4a6b-bb1b-30d9ed6e035b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309660(v=AX.60)
 ms:contentKeyID: 36056890
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,7 +81,7 @@ This procedure explains how to specify conditional settings, which are applied b
 
 
 
-If you will be emailing the documents to a group of email addresses that have the same business purpose or worker title, you must set up the purposes or titles before you specify the settings. For more information, see [Address purpose (form)](https://technet.microsoft.com/en-us/library/hh242741\(v=ax.60\)).
+If you will be emailing the documents to a group of email addresses that have the same business purpose or worker title, you must set up the purposes or titles before you specify the settings. For more information, see [Address purpose (form)](https://technet.microsoft.com/library/hh242741\(v=ax.60\)).
 
 You set up purposes in the **Address and contact information purpose** form. Click **Organization administration** \> **Setup** \> **Global address book** \> **Address and contact information purpose**. You assign purposes in the **Customers** or **Vendors** form, on the **Contact information** FastTab, in the **Purpose** field.
 
@@ -138,7 +139,7 @@ You assign worker titles in the **Worker** form, in the **Title** field. Click *
 
 ## See also
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [Set up print management for a customer or vendor](set-up-print-management-for-a-customer-or-vendor.md)
 
@@ -150,7 +151,7 @@ You assign worker titles in the **Worker** form, in the **Title** field. Click *
 
 [About print management processing](about-print-management-processing.md)
 
-[Inquiry (form)](https://technet.microsoft.com/en-us/library/aa575929\(v=ax.60\))
+[Inquiry (form)](https://technet.microsoft.com/library/aa575929\(v=ax.60\))
 
 [Advanced filtering and query options](advanced-filtering-and-query-options.md)
 

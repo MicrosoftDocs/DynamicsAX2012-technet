@@ -2,8 +2,9 @@
 title: (SAU) Generate Zakat reports
 TOCTitle: (SAU) Generate Zakat reports
 ms:assetid: fafe62f6-d079-4215-9fad-4cb5c3400216
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227570(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227570(v=AX.60)
 ms:contentKeyID: 36060075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ At the beginning of the new fiscal year, companies must generate the primary Zak
 
 [(SAU) About Zakat reporting](sau-about-zakat-reporting.md)
 
-[(SAU) Zakat reports (form)](https://technet.microsoft.com/en-us/library/hh208785\(v=ax.60\))
+[(SAU) Zakat reports (form)](https://technet.microsoft.com/library/hh208785\(v=ax.60\))
 
   
 

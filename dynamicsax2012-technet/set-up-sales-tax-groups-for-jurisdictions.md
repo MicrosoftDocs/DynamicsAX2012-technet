@@ -2,8 +2,9 @@
 title: Set up sales tax groups for jurisdictions
 TOCTitle: Set up sales tax groups for jurisdictions
 ms:assetid: d15ceae1-662d-4336-b70d-c94cfb43a22f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551024(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551024(v=AX.60)
 ms:contentKeyID: 36059496
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ The following steps describe how to set up sales tax groups for sales tax jurisd
     
 
     > [!NOTE]
-    > <P>For more information about this field and the other fields in the <STRONG>Sales tax groups</STRONG> form, see <A href="https://technet.microsoft.com/en-us/library/aa498345(v=ax.60)">Sales tax groups (form)</A>.</P>
+    > <P>For more information about this field and the other fields in the <STRONG>Sales tax groups</STRONG> form, see <A href="https://technet.microsoft.com/library/aa498345(v=ax.60)">Sales tax groups (form)</A>.</P>
 
 
 

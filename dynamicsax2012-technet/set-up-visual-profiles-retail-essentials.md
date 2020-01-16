@@ -2,8 +2,9 @@
 title: Set up visual profiles (Retail essentials)
 TOCTitle: Set up visual profiles (Retail essentials)
 ms:assetid: a80bdcba-1d57-4578-b343-bf39eebc0f2d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736931(v=AX.60)
 ms:contentKeyID: 62200408
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

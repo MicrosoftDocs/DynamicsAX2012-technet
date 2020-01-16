@@ -2,8 +2,9 @@
 title: Set up an item allocation key
 TOCTitle: Set up an item allocation key
 ms:assetid: 34b605ec-f5aa-4a78-aed8-9704bd95910d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570118(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570118(v=AX.60)
 ms:contentKeyID: 36676383
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,9 +42,9 @@ Use this procedure to create an item allocation key and to create item allocatio
 
 ## See also
 
-[Item allocation keys (form)](https://technet.microsoft.com/en-us/library/aa590322\(v=ax.60\))
+[Item allocation keys (form)](https://technet.microsoft.com/library/aa590322\(v=ax.60\))
 
-[Item allocation lines (form)](https://technet.microsoft.com/en-us/library/aa583062\(v=ax.60\))
+[Item allocation lines (form)](https://technet.microsoft.com/library/aa583062\(v=ax.60\))
 
   
 

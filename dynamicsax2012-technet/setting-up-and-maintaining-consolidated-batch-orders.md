@@ -2,8 +2,9 @@
 title: Setting up and maintaining consolidated batch orders
 TOCTitle: Setting up and maintaining consolidated batch orders
 ms:assetid: 7eeeed94-4538-4e58-9220-f279aaa9ef68
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352261(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352261(v=AX.60)
 ms:contentKeyID: 36687887
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

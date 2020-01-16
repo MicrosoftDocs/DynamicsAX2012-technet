@@ -2,8 +2,9 @@
 title: Set up functionality profiles (Retail essentials)
 TOCTitle: Set up functionality profiles (Retail essentials)
 ms:assetid: 6dc377d8-a0f6-40fe-a884-dac0d2497de2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736887(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736887(v=AX.60)
 ms:contentKeyID: 62200365
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

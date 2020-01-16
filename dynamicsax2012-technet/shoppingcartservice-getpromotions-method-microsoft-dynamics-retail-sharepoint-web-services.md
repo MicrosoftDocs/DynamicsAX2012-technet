@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartService.GetPromotions Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GetPromotions Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ShoppingCartService.GetPromotions(System.Boolean,Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCartDataLevel)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.shoppingcartservice.getpromotions(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.shoppingcartservice.getpromotions(v=AX.60)
 ms:contentKeyID: 62203158
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ virtual ShoppingCartResponse^ GetPromotions(
 #### Parameters
 
   - useSecureToken  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 

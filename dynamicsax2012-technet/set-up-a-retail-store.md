@@ -2,8 +2,9 @@
 title: Set up a retail store
 TOCTitle: Set up a retail store
 ms:assetid: e0748d3a-08a2-41e3-91e0-be1e1935f112
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597262(v=AX.60)
 ms:contentKeyID: 39519342
+author: Khairunj
 ms.date: 09/05/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ When you set up your retail store, you select the warehouse that corresponds to 
 
 4.  Enter other information that is required for the warehouse.
     
-    For more information about the fields in the **Warehouses** form, see [Warehouses (form)](https://technet.microsoft.com/en-us/library/aa620570\(v=ax.60\)).
+    For more information about the fields in the **Warehouses** form, see [Warehouses (form)](https://technet.microsoft.com/library/aa620570\(v=ax.60\)).
 
 ## Set up a retail store
 
@@ -122,7 +123,7 @@ Use this procedure to set up a retail store.
     
       - Select the closing method that is used for the store.
     
-      - In the **Batch options** section, select the options that are used when the statements are generated. For more information about each option, see [Stores (form)](https://technet.microsoft.com/en-us/library/hh580646\(v=ax.60\)).
+      - In the **Batch options** section, select the options that are used when the statements are generated. For more information about each option, see [Stores (form)](https://technet.microsoft.com/library/hh580646\(v=ax.60\)).
 
 13. On the **Miscellaneous** FastTab, select options for the store such as store hours, label printing options, and training mode settings.
 

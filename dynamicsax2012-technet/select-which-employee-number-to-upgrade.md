@@ -2,8 +2,9 @@
 title: Select which employee number to upgrade
 TOCTitle: Select which employee number to upgrade
 ms:assetid: 6eb262c8-9c53-44c7-919a-e9100c1c1256
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg188983(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg188983(v=AX.60)
 ms:contentKeyID: 35410563
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -33,9 +34,9 @@ If you are upgrading to Microsoft Dynamics AX 2012 R2 or AX 2012 R3, you must id
 
 ## See also
 
-[Select which employee number to upgrade (form)](https://technet.microsoft.com/en-us/library/hh202069\(v=ax.60\))
+[Select which employee number to upgrade (form)](https://technet.microsoft.com/library/hh202069\(v=ax.60\))
 
-[Data loss for discarded EmplIds (form)](https://technet.microsoft.com/en-us/library/hh202102\(v=ax.60\))
+[Data loss for discarded EmplIds (form)](https://technet.microsoft.com/library/hh202102\(v=ax.60\))
 
   
 

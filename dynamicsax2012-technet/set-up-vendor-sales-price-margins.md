@@ -2,8 +2,9 @@
 title: Set up vendor sales price margins
 TOCTitle: Set up vendor sales price margins
 ms:assetid: bc92aa6b-8b56-4a47-91b8-a6a67355a6ac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597224(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597224(v=AX.60)
 ms:contentKeyID: 39519295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ The vendor sales price margin contains a formula that converts the vendor's sugg
 
 [Import vendor products overview](import-vendor-products-overview.md)
 
-[Vendor sales price margin setup (form)](https://technet.microsoft.com/en-us/library/hh580650\(v=ax.60\))
+[Vendor sales price margin setup (form)](https://technet.microsoft.com/library/hh580650\(v=ax.60\))
 
   
 

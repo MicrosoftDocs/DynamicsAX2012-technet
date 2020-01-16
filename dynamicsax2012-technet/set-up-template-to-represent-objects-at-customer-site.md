@@ -2,8 +2,9 @@
 title: Set up template to represent objects at customer site
 TOCTitle: Set up template to represent objects at customer site
 ms:assetid: 12fcd81b-f49a-4541-99cb-4bb096d3a7a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496592(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496592(v=AX.60)
 ms:contentKeyID: 36056042
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

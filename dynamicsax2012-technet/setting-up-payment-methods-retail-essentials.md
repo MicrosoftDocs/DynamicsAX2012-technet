@@ -2,8 +2,9 @@
 title: Setting up payment methods (Retail essentials)
 TOCTitle: Setting up payment methods (Retail essentials)
 ms:assetid: b4010989-518d-4764-b053-684f0c7b670c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736934(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736934(v=AX.60)
 ms:contentKeyID: 62200410
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

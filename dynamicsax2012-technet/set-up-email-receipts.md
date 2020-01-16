@@ -2,8 +2,9 @@
 title: Set up email receipts
 TOCTitle: Set up email receipts
 ms:assetid: 68aa9c96-368d-4c1c-b8d0-80063dd8f3fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597117(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597117(v=AX.60)
 ms:contentKeyID: 39519166
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,9 +80,9 @@ Set up default customer receipt options that can be used for customers who are n
 
 ## See also
 
-[Retail parameters (form)](https://technet.microsoft.com/en-us/library/hh597194\(v=ax.60\))
+[Retail parameters (form)](https://technet.microsoft.com/library/hh597194\(v=ax.60\))
 
-[Customers (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597207\(v=ax.60\))
+[Customers (form) (Retail)](https://technet.microsoft.com/library/hh597207\(v=ax.60\))
 
   
 

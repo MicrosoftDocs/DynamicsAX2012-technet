@@ -2,8 +2,9 @@
 title: Set up freight reconciliation parameters
 TOCTitle: Set up freight reconciliation parameters
 ms:assetid: c1345cb5-f568-4810-92d8-b651edfecdde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553197(v=AX.60)
 ms:contentKeyID: 62200151
+author: Khairunj
 ms.date: 11/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up prerequisites for quality orders
 TOCTitle: Set up prerequisites for quality orders
 ms:assetid: 4056385d-8703-49d5-b72d-f1292f2fb8a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231353(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231353(v=AX.60)
 ms:contentKeyID: 42518513
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

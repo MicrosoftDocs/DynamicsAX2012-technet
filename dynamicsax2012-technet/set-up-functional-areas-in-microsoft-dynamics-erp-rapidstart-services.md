@@ -2,8 +2,9 @@
 title: Set up functional areas in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Set up functional areas in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 1e681221-a694-4e75-91d2-e8b9ba78bbf6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413226(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413226(v=AX.60)
 ms:contentKeyID: 36918917
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

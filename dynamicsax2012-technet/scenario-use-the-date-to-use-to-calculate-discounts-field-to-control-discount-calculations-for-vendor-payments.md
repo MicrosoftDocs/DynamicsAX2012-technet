@@ -2,8 +2,9 @@
 title: 'Scenario: Use the "Date to use to calculate discounts" field to control discount calculations for vendor payments'
 TOCTitle: 'Scenario: Use the "Date to use to calculate discounts" field to control discount calculations for vendor payments'
 ms:assetid: 8d2245f5-495c-491b-b70a-602d2fb5cbb1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597164(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597164(v=AX.60)
 ms:contentKeyID: 39519221
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-You can take a cash discount that is based on a date other than the transaction date of the payment. You can do this by using the **Date to use for calculating discounts** field in the **Settle open transactions** form. This field is available only if you open the form from a list page, or from a form that opens when you double-click a record on a list page. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/en-us/library/aa619609\(v=ax.60\)).
+You can take a cash discount that is based on a date other than the transaction date of the payment. You can do this by using the **Date to use for calculating discounts** field in the **Settle open transactions** form. This field is available only if you open the form from a list page, or from a form that opens when you double-click a record on a list page. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).
 
 On June 28, April creates an invoice for 2,000.00 for vendor 3052. The invoice has a cash discount of 1 percent if the invoice is paid in 14 days.
 

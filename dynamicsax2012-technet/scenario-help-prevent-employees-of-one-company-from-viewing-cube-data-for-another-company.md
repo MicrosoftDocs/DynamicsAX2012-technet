@@ -2,8 +2,9 @@
 title: 'Scenario: Help prevent employees of one company from viewing cube data for another company'
 TOCTitle: 'Scenario: Help prevent employees of one company from viewing cube data for another company'
 ms:assetid: c06c0fb0-d9ee-4bc5-9f40-470e42468bae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ129501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ129501(v=AX.60)
 ms:contentKeyID: 46661155
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

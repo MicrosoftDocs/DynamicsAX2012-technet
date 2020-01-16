@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceHelper.Execute Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel)
 TOCTitle: Execute Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.ServiceHelper.Execute(Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ServiceResponse,Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.ServiceExecutionHandler)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.servicehelper.execute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.servicehelper.execute(v=AX.60)
 ms:contentKeyID: 62202068
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

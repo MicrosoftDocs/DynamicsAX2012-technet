@@ -2,8 +2,9 @@
 title: Setting up budget control
 TOCTitle: Setting up budget control
 ms:assetid: c0788e41-cf3e-4e1a-992a-9687d0cdd096
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242828(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242828(v=AX.60)
 ms:contentKeyID: 36059266
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

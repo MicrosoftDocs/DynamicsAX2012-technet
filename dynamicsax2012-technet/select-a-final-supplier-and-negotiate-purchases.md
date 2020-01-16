@@ -2,8 +2,9 @@
 title: Select a final supplier and negotiate purchases
 TOCTitle: Select a final supplier and negotiate purchases
 ms:assetid: df44fdff-f8d3-4d46-a18f-e2db4e990441
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243201(v=AX.60)
 ms:contentKeyID: 36059696
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

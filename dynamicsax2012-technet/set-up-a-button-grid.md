@@ -2,8 +2,9 @@
 title: Set up a button grid
 TOCTitle: Set up a button grid
 ms:assetid: 83a6931a-99de-42b2-8db1-6dc477614f84
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597148(v=AX.60)
 ms:contentKeyID: 39519204
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

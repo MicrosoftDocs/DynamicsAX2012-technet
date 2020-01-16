@@ -2,8 +2,9 @@
 title: Set up substance flows between processes
 TOCTitle: Set up substance flows between processes
 ms:assetid: 37ca8d37-6aec-4582-bdef-666beea6762c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242204(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242204(v=AX.60)
 ms:contentKeyID: 36056611
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ You can set up a substance flow between a source process and a destination proce
 
 4.  Select a substance or a substance category.
 
-5.  In the **Scope** field, select the scope for the substance or substance category. You can select a different scope for each substance or substance category coming from a source process. For more information about **Scope**, see [Environmental process references (form)](https://technet.microsoft.com/en-us/library/hh209500\(v=ax.60\)).
+5.  In the **Scope** field, select the scope for the substance or substance category. You can select a different scope for each substance or substance category coming from a source process. For more information about **Scope**, see [Environmental process references (form)](https://technet.microsoft.com/library/hh209500\(v=ax.60\)).
 
 6.  Enter the frequency and the time interval for entering substance flow data in the **Frequency** and **Entry interval** fields.
     
@@ -39,7 +40,7 @@ You can set up a substance flow between a source process and a destination proce
 
 ## See also
 
-[Environmental process references (form)](https://technet.microsoft.com/en-us/library/hh209500\(v=ax.60\))
+[Environmental process references (form)](https://technet.microsoft.com/library/hh209500\(v=ax.60\))
 
 [Set up substances for environmental tracking](set-up-substances-for-environmental-tracking.md)
 

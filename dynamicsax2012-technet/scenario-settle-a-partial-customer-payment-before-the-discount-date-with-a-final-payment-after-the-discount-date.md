@@ -2,8 +2,9 @@
 title: 'Scenario: Settle a partial customer payment before the discount date with a final payment after the discount date'
 TOCTitle: 'Scenario: Settle a partial customer payment before the discount date with a final payment after the discount date'
 ms:assetid: de9b60bb-4530-442b-9a76-b054b3d9fd1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh545534(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh545534(v=AX.60)
 ms:contentKeyID: 37832539
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Fabrikam sells goods to customer 4027. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. Fabrikam also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\)).
+Fabrikam sells goods to customer 4027. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days. Invoices must be paid in 30 days. Fabrikam also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).
 
 ## Invoice for 1,000.00 on June 25
 
@@ -360,7 +361,7 @@ Discount information is shown at the bottom of the **Settle open transactions** 
 </table>
 
 
-Arnie changes the value in the **Use cash discount** field back to **Normal**, because he is not letting this customer take the remaining discount of 7.00. For information about the **Use cash discount** field, see [Settle open transactions - customer (form)](https://technet.microsoft.com/en-us/library/aa558602\(v=ax.60\)).
+Arnie changes the value in the **Use cash discount** field back to **Normal**, because he is not letting this customer take the remaining discount of 7.00. For information about the **Use cash discount** field, see [Settle open transactions - customer (form)](https://technet.microsoft.com/library/aa558602\(v=ax.60\)).
 
 Arnie then posts the payment. When Arnie opens the **Customer transactions** form, he sees that the invoice has a balance of 0.00. He also sees that there are two payments. One payment is for 297.00 and has a 3.00 discount, and the other payment is for 700.00.
 
@@ -434,7 +435,7 @@ Arnie then posts the payment. When Arnie opens the **Customer transactions** for
 
 ## See also
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
 [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md)
 

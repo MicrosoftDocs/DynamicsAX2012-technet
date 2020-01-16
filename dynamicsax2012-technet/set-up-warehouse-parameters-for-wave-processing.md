@@ -2,8 +2,9 @@
 title: Set up warehouse parameters for wave processing
 TOCTitle: Set up warehouse parameters for wave processing
 ms:assetid: 927e4216-abef-4be7-b8cb-138f6b646342
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553180(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553180(v=AX.60)
 ms:contentKeyID: 62200119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

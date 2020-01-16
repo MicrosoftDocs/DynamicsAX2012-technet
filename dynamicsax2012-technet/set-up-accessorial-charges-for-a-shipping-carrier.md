@@ -2,8 +2,9 @@
 title: Set up accessorial charges for a shipping carrier
 TOCTitle: Set up accessorial charges for a shipping carrier
 ms:assetid: 7252004c-5ce2-4e10-a366-1f6c30326dd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553170(v=AX.60)
 ms:contentKeyID: 62200093
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

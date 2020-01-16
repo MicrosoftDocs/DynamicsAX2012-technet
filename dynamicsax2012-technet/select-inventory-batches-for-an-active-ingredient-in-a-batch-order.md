@@ -2,8 +2,9 @@
 title: Select inventory batches for an active ingredient in a batch order
 TOCTitle: Select inventory batches for an active ingredient in a batch order
 ms:assetid: 14b055b1-6f66-41ec-b6c7-a7d4033c572d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838723(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838723(v=AX.60)
 ms:contentKeyID: 50120606
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,9 +38,9 @@ Use this procedure to select inventory batches for the active ingredients in a b
 
 ## See also
 
-[Batch balancing (form)](https://technet.microsoft.com/en-us/library/jj838768\(v=ax.60\))
+[Batch balancing (form)](https://technet.microsoft.com/library/jj838768\(v=ax.60\))
 
-[(PM) Production orders (form)](https://technet.microsoft.com/en-us/library/jj838764\(v=ax.60\))
+[(PM) Production orders (form)](https://technet.microsoft.com/library/jj838764\(v=ax.60\))
 
 [Define an active ingredient in a formula line](define-an-active-ingredient-in-a-formula-line.md)
 

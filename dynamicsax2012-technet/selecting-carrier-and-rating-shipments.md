@@ -2,8 +2,9 @@
 title: Selecting carrier and rating shipments
 TOCTitle: Selecting carrier and rating shipments
 ms:assetid: 31f2417b-c963-4280-a217-b6c513313e0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231034(v=AX.60)
 ms:contentKeyID: 36056351
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

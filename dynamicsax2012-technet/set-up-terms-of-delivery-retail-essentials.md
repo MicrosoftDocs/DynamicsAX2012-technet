@@ -2,8 +2,9 @@
 title: Set up terms of delivery (Retail essentials)
 TOCTitle: Set up terms of delivery (Retail essentials)
 ms:assetid: 0acebaa8-3467-4674-9159-6cf7a43b73b9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716041(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716041(v=AX.60)
 ms:contentKeyID: 62200304
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
@@ -33,7 +34,7 @@ To set up terms of delivery, follow these steps:
 
 ## See also
 
-[Terms of delivery (form)](https://technet.microsoft.com/en-us/library/aa575567\(v=ax.60\))
+[Terms of delivery (form)](https://technet.microsoft.com/library/aa575567\(v=ax.60\))
 
   
 

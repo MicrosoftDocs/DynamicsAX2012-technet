@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteTableSchema Constructor  (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: SqliteTableSchema Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteTableSchema.#ctor(System.String,System.Collections.Generic.IDictionary{System.String,Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteTableColumn})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitetableschema.sqlitetableschema(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitetableschema.sqlitetableschema(v=AX.60)
 ms:contentKeyID: 65321972
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,12 +56,12 @@ SqliteTableSchema(
 #### Parameters
 
   - tableName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - columnsByColumnName  
-    Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [SqliteTableColumn](sqlitetablecolumn-class-microsoft-dynamics-commerce-runtime-data-sqlite.md)\>  
+    Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [SqliteTableColumn](sqlitetablecolumn-class-microsoft-dynamics-commerce-runtime-data-sqlite.md)\>  
 
 ## See Also
 

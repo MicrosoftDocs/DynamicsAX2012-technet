@@ -2,8 +2,9 @@
 title: Set up Accounts payable invoice matching
 TOCTitle: Set up Accounts payable invoice matching
 ms:assetid: eead4cc7-9836-4324-8a91-3d14945925de
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243265(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243265(v=AX.60)
 ms:contentKeyID: 36059911
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,7 +75,7 @@ Before you begin, make sure that the **Invoice matching** configuration key is s
     
     2.  To allow a different level of matching to be applied for an item, vendor, vendor and item combination, or purchase order line, select a value in the **Allow matching policy override** field.
         
-        For information about how to override the legal entity line matching policy for a specific vendor, item, or vendor and item combination, see [Matching policy (form)](https://technet.microsoft.com/en-us/library/hh209508\(v=ax.60\)). For information about how to override the legal entity line matching policy for a specific purchase order, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)).
+        For information about how to override the legal entity line matching policy for a specific vendor, item, or vendor and item combination, see [Matching policy (form)](https://technet.microsoft.com/library/hh209508\(v=ax.60\)). For information about how to override the legal entity line matching policy for a specific purchase order, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)).
     
     3.  In the **Display unit price match icon** field, select when an icon is displayed if a discrepancy for invoice matching exceeds the tolerance for the net unit price. The icon can be displayed when a positive discrepancy exceeds the tolerance, or when either a positive or a negative discrepancy exceeds the tolerance.
         
@@ -324,19 +325,19 @@ For example, you can set up the following records for price tolerance percentage
 
 [Resolve net unit price invoice matching discrepancies](resolve-net-unit-price-invoice-matching-discrepancies.md)
 
-[Accounts payable parameters (form)](https://technet.microsoft.com/en-us/library/aa596348\(v=ax.60\))
+[Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\))
 
-[Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\))
+[Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\))
 
-[Item price tolerance groups (form)](https://technet.microsoft.com/en-us/library/hh209702\(v=ax.60\))
+[Item price tolerance groups (form)](https://technet.microsoft.com/library/hh209702\(v=ax.60\))
 
-[Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
+[Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Vendor price tolerance groups (form)](https://technet.microsoft.com/en-us/library/hh242256\(v=ax.60\))
+[Vendor price tolerance groups (form)](https://technet.microsoft.com/library/hh242256\(v=ax.60\))
 
-[Price tolerances (form)](https://technet.microsoft.com/en-us/library/hh209247\(v=ax.60\))
+[Price tolerances (form)](https://technet.microsoft.com/library/hh209247\(v=ax.60\))
 
 [About invoice matching and intercompany purchase orders](about-invoice-matching-and-intercompany-purchase-orders.md)
 

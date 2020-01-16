@@ -2,8 +2,9 @@
 title: Set up customer and vendor payment retention for projects
 TOCTitle: Set up customer and vendor payment retention for projects
 ms:assetid: 045acca0-b432-40a0-aa83-b9c261f608bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ682086(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ682086(v=AX.60)
 ms:contentKeyID: 49655573
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

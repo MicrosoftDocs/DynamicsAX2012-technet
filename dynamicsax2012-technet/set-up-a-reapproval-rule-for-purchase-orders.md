@@ -2,8 +2,9 @@
 title: Set up a reapproval rule for purchase orders
 TOCTitle: Set up a reapproval rule for purchase orders
 ms:assetid: 8b28192a-2525-417d-8611-350a0c2ba2fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ683229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ683229(v=AX.60)
 ms:contentKeyID: 49684852
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,9 +76,9 @@ For more information about how to set up workflows in Procurement and sourcing, 
 
 ## See also
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[Re-approval rule for purchase orders (form)](https://technet.microsoft.com/en-us/library/jj680083\(v=ax.60\))
+[Re-approval rule for purchase orders (form)](https://technet.microsoft.com/library/jj680083\(v=ax.60\))
 
 [About purchasing policies](about-purchasing-policies.md)
 

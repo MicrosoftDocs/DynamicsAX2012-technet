@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteTableColumn.ManagedType Property  (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: ManagedType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteTableColumn.ManagedType
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitetablecolumn.managedtype(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitetablecolumn.managedtype(v=AX.60)
 ms:contentKeyID: 65319151
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,8 +50,8 @@ property Type^ ManagedType {
 
 #### Property Value
 
-Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
-Returns [Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\)).  
+Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
+Returns [Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\)).  
 
 ## See Also
 

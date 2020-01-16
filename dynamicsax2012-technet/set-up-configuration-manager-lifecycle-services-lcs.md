@@ -2,8 +2,9 @@
 title: Set up Configuration manager (Lifecycle Services, LCS)
 TOCTitle: Set up Configuration manager
 ms:assetid: 7cd6c10a-c3cd-447b-ae5f-7acfbc38614a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn798968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn798968(v=AX.60)
 ms:contentKeyID: 62803583
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

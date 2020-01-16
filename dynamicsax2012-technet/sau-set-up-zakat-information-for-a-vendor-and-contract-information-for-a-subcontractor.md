@@ -2,8 +2,9 @@
 title: (SAU) Set up Zakat information for a vendor and contract information for a subcontractor
 TOCTitle: (SAU) Set up Zakat information for a vendor and contract information for a subcontractor
 ms:assetid: 8083de75-ff8e-446e-b856-7aa9dea5e9fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209303(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209303(v=AX.60)
 ms:contentKeyID: 36058344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,9 +61,9 @@ You can add Zakat information to your records for new and existing vendors. If a
 
 ## See also
 
-[(SAU) Contracts - vendor details (form)](https://technet.microsoft.com/en-us/library/hh209486\(v=ax.60\))
+[(SAU) Contracts - vendor details (form)](https://technet.microsoft.com/library/hh209486\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
 [(SAU) Set up company information for Zakat reporting](sau-set-up-company-information-for-zakat-reporting.md)
 

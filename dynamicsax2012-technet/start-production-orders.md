@@ -2,8 +2,9 @@
 title: Start production orders
 TOCTitle: Start production orders
 ms:assetid: dc15f69c-9403-41f1-acd5-0db91cae9b52
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551259(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551259(v=AX.60)
 ms:contentKeyID: 36059673
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use this procedure to start production of the items in the selected production o
 
 ## See also
 
-[Production - Start (class form)](https://technet.microsoft.com/en-us/library/aa586028\(v=ax.60\))
+[Production - Start (class form)](https://technet.microsoft.com/library/aa586028\(v=ax.60\))
 
   
 

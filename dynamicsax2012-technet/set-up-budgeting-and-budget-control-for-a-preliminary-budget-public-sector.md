@@ -2,8 +2,9 @@
 title: Set up budgeting and budget control for a preliminary budget (Public sector)
 TOCTitle: Set up budgeting and budget control for a preliminary budget (Public sector)
 ms:assetid: 3b0504aa-52f3-4003-9ff5-be06a21939b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208522(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208522(v=AX.60)
 ms:contentKeyID: 36056268
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

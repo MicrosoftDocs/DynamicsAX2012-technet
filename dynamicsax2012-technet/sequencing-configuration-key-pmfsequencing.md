@@ -2,8 +2,9 @@
 title: Sequencing configuration key (PMFSequencing)
 TOCTitle: Sequencing configuration key (PMFSequencing)
 ms:assetid: ca6bf0b0-f3ac-4792-98a8-f648ab39990a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn782849(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn782849(v=AX.60)
 ms:contentKeyID: 62817389
+author: Khairunj
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---
@@ -37,33 +38,33 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Route</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550121(v=ax.60)">Route (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/aa550121(v=ax.60)">Route (form)</a></p>
 <p><a href="create-a-production-route-for-a-product.md">Create a production route for a product</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sequenced planned orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838772(v=ax.60)">Sequenced planned orders (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838772(v=ax.60)">Sequenced planned orders (form)</a></p>
 <p><a href="sequence-planned-batch-orders.md">Sequence planned batch orders</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sequence group</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838755(v=ax.60)">Sequence group (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838755(v=ax.60)">Sequence group (form)</a></p>
 <p><a href="set-up-sequence-groups.md">Set up sequence groups</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sequence item</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838760(v=ax.60)">Sequence item (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838760(v=ax.60)">Sequence item (form)</a></p>
 <p><a href="assign-sequence-values-to-an-item.md">Assign sequence values to an item</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sequence</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838758(v=ax.60)">Sequences (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/jj838758(v=ax.60)">Sequences (form)</a></p>
 <p><a href="set-up-product-sequences.md">Set up product sequences</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Sequence</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj838770(v=ax.60)">(PM) Capacity reservations on resources or resource groups (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa600753(v=ax.60)">Capacity reservations on resources or resource groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj838770(v=ax.60)">(PM) Capacity reservations on resources or resource groups (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa600753(v=ax.60)">Capacity reservations on resources or resource groups (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +102,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

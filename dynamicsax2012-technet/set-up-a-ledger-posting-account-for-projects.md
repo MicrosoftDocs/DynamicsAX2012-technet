@@ -2,8 +2,9 @@
 title: Set up a ledger posting account for projects
 TOCTitle: Set up a ledger posting account for projects
 ms:assetid: 34f7545b-edcb-4285-bddb-c7c037c126a5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450754(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450754(v=AX.60)
 ms:contentKeyID: 36966712
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -28,7 +29,7 @@ You can specify the ledger accounts to which to post each type of project transa
 
   - Specify both a funding source and a category for transaction lines that you create for an individual project or a project group.
 
-  - In Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2, assign a sales tax group to a main account. This process helps you to track transactions that are subject to a specific sales tax rate, and then report the total amount of transactions for the sales tax rate to a tax authority. For more information about how to assign a sales tax group to a main account for projects, see [Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\)).
+  - In Microsoft Dynamics AX 2012 R3 or cumulative update 6 or later for AX 2012 R2, assign a sales tax group to a main account. This process helps you to track transactions that are subject to a specific sales tax rate, and then report the total amount of transactions for the sales tax rate to a tax authority. For more information about how to assign a sales tax group to a main account for projects, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).
 
 Complete the following procedure to set up a posting account:
 
@@ -64,9 +65,9 @@ Complete the following procedure to set up a posting account:
 
 ## See also
 
-[Ledger posting setup (form)](https://technet.microsoft.com/en-us/library/aa599270\(v=ax.60\))
+[Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\))
 
-[Ledger posting groups (form)](https://technet.microsoft.com/en-us/library/aa598801\(v=ax.60\))
+[Ledger posting groups (form)](https://technet.microsoft.com/library/aa598801\(v=ax.60\))
 
 [Set up ledger posting groups for sales tax](set-up-ledger-posting-groups-for-sales-tax.md)
 

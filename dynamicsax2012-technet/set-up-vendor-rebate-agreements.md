@@ -2,8 +2,9 @@
 title: Set up vendor rebate agreements
 TOCTitle: Set up vendor rebate agreements
 ms:assetid: 8ac9f85e-cd6b-4a39-b806-0ab3e4b24fd0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497800(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497800(v=AX.60)
 ms:contentKeyID: 62200113
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

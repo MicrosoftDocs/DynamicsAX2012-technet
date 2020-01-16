@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqlTypeHelper.ConvertFromSystemDataSet Method  (Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer)
 TOCTitle: ConvertFromSystemDataSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer.SqlTypeHelper.ConvertFromSystemDataSet(System.Data.DataSet)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataaccess.sqlserver.sqltypehelper.convertfromsystemdataset(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataaccess.sqlserver.sqltypehelper.convertfromsystemdataset(v=AX.60)
 ms:contentKeyID: 65322087
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # ConvertFromSystemDataSet Method
 
-Converts a [DataSet](https://technet.microsoft.com/en-us/library/bwy42y0e\(v=ax.60\)) into a [DataSet](dataset-class-microsoft-dynamics-commerce-runtime-data-types.md).
+Converts a [DataSet](https://technet.microsoft.com/library/bwy42y0e\(v=ax.60\)) into a [DataSet](dataset-class-microsoft-dynamics-commerce-runtime-data-types.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer (in Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer.dll)
@@ -51,7 +52,7 @@ static DataSet^ ConvertFromSystemDataSet(
 #### Parameters
 
   - dataSet  
-    Type: [System.Data.DataSet](https://technet.microsoft.com/en-us/library/bwy42y0e\(v=ax.60\))  
+    Type: [System.Data.DataSet](https://technet.microsoft.com/library/bwy42y0e\(v=ax.60\))  
 
 #### Return Value
 

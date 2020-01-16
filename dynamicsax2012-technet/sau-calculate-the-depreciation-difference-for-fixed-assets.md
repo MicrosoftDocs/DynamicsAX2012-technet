@@ -2,8 +2,9 @@
 title: (SAU) Calculate the depreciation difference for fixed assets
 TOCTitle: (SAU) Calculate the depreciation difference for fixed assets
 ms:assetid: 82a2baf1-25a8-4055-839e-9d6bee6c3df4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209314(v=AX.60)
 ms:contentKeyID: 36058372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,11 +48,11 @@ Use this procedure to calculate the depreciation according to the books value an
 
 [Set up depreciation profiles](set-up-depreciation-profiles.md)
 
-[(SAU) Zakat assets group (form)](https://technet.microsoft.com/en-us/library/hh209579\(v=ax.60\))
+[(SAU) Zakat assets group (form)](https://technet.microsoft.com/library/hh209579\(v=ax.60\))
 
-[(SAU) Zakat item codes (form)](https://technet.microsoft.com/en-us/library/hh209664\(v=ax.60\))
+[(SAU) Zakat item codes (form)](https://technet.microsoft.com/library/hh209664\(v=ax.60\))
 
-[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
+[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/library/hh242233\(v=ax.60\))
 
   
 

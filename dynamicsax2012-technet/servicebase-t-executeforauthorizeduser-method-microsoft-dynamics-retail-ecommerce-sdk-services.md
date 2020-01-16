@@ -1,9 +1,10 @@
-﻿---
+---
 title: ServiceBase(T).ExecuteForAuthorizedUser Method  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: ExecuteForAuthorizedUser Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1.ExecuteForAuthorizedUser(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceResponse,System.Action{System.String})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn988288(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn988288(v=AX.60)
 ms:contentKeyID: 65317333
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ virtual void ExecuteForAuthorizedUser(
 <!-- end list -->
 
   - action  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/018hxwa8\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+    Type: [System.Action](https://technet.microsoft.com/library/018hxwa8\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
 
 ## See Also
 

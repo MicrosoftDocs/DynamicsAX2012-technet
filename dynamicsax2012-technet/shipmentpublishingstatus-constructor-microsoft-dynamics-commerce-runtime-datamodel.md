@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShipmentPublishingStatus Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ShipmentPublishingStatus Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ShipmentPublishingStatus.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.shipmentpublishingstatus.shipmentpublishingstatus(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipmentpublishingstatus.shipmentpublishingstatus(v=AX.60)
 ms:contentKeyID: 62207468
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

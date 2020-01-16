@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteDatabaseProvider.ExecuteScalar Method  (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: ExecuteScalar Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteDatabaseProvider.ExecuteScalar(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseConnection,Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQuery,System.Type)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.executescalar(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.executescalar(v=AX.60)
 ms:contentKeyID: 65320180
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,11 +72,11 @@ Object^ ExecuteScalar(
 <!-- end list -->
 
   - managedType  
-    Type: [System.Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))  
+    Type: [System.Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 The first column of the first row in the result set, or a null reference if the result set is empty.  
 
 ## See Also

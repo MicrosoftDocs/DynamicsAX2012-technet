@@ -2,8 +2,9 @@
 title: Security administrator security role (SysSecSecurityAdministrator)
 TOCTitle: Security administrator security role (SysSecSecurityAdministrator)
 ms:assetid: 68292c92-ad3d-4e94-9885-e189054e9b71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527101(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527101(v=AX.60)
 ms:contentKeyID: 37823153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

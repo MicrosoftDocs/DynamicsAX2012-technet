@@ -2,8 +2,9 @@
 title: Set up journal names
 TOCTitle: Set up journal names
 ms:assetid: 63ee9215-d1c0-4226-9340-87319b8ce1cd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571140(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571140(v=AX.60)
 ms:contentKeyID: 36057702
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

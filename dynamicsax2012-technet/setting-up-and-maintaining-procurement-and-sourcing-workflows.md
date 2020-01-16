@@ -2,8 +2,9 @@
 title: Setting up and maintaining procurement and sourcing workflows
 TOCTitle: Setting up and maintaining procurement and sourcing workflows
 ms:assetid: 5b643448-69b6-4c8f-9762-48191694e4d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209120(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209120(v=AX.60)
 ms:contentKeyID: 36057558
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

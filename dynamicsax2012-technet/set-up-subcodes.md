@@ -2,8 +2,9 @@
 title: Set up subcodes
 TOCTitle: Set up subcodes
 ms:assetid: 75cac481-bf0f-4032-a6e2-1492b46f90ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597130(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597130(v=AX.60)
 ms:contentKeyID: 39519184
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ You can create and modify subcodes. The actions that are triggered by a subcode 
 
 [Set up info codes](set-up-info-codes.md)
 
-[Information subcodes (form)](https://technet.microsoft.com/en-us/library/hh580645\(v=ax.60\))
+[Information subcodes (form)](https://technet.microsoft.com/library/hh580645\(v=ax.60\))
 
   
 

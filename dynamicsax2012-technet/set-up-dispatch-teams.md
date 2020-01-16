@@ -2,8 +2,9 @@
 title: Set up dispatch teams
 TOCTitle: Set up dispatch teams
 ms:assetid: 33123bdf-22f1-4805-ac25-a46a87462163
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231039(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231039(v=AX.60)
 ms:contentKeyID: 62629945
+author: Khairunj
 ms.date: 07/29/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ This topic describes how to create a dispatch team. After you create a dispatch 
 
 
 > [!NOTE]
-> <P>You can assign a worker to this dispatch team in the <STRONG>Worker</STRONG> form. For more information about how to assign a worker to a dispatch team, see <A href="https://technet.microsoft.com/en-us/library/dn776288(v=ax.60)">Dispatch workers (form)</A>.</P>
+> <P>You can assign a worker to this dispatch team in the <STRONG>Worker</STRONG> form. For more information about how to assign a worker to a dispatch team, see <A href="https://technet.microsoft.com/library/dn776288(v=ax.60)">Dispatch workers (form)</A>.</P>
 
 
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Shipment.CarrierName Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: CarrierName Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.CarrierName
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.carriername(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.carriername(v=AX.60)
 ms:contentKeyID: 62201813
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ property String^ CarrierName {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 The carrier name related to this shipment.  
 
 ## See Also

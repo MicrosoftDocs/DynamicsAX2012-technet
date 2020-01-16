@@ -1,9 +1,10 @@
-﻿---
+---
 title: SerializationHelper.DeserializeObjectFromXml(T) Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: DeserializeObjectFromXml(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.DeserializeObjectFromXml``1(System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ780257(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ780257(v=AX.60)
 ms:contentKeyID: 49839985
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -58,7 +59,7 @@ static T DeserializeObjectFromXml(
 #### Parameters
 
   - source  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 #### Return Value
 

@@ -2,8 +2,9 @@
 title: Set up payment methods for an organization
 TOCTitle: Set up payment methods for an organization
 ms:assetid: 9af04082-4ba5-4bbf-a5fb-940422b7655c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597188(v=AX.60)
 ms:contentKeyID: 39519253
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ Your business might accept payment in forms other than cash. If you accept payme
 
 [About payment methods](about-payment-methods.md)
 
-[Payment methods (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597294\(v=ax.60\))
+[Payment methods (form) (Retail)](https://technet.microsoft.com/library/hh597294\(v=ax.60\))
 
 [Create organization-wide card types and card numbers](create-organization-wide-card-types-and-card-numbers.md)
 

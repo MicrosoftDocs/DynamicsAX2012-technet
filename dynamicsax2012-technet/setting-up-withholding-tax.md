@@ -2,8 +2,9 @@
 title: Setting up withholding tax
 TOCTitle: Setting up withholding tax
 ms:assetid: a592e265-3d92-4f62-928f-e728fa103eec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213414(v=AX.60)
 ms:contentKeyID: 36058866
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

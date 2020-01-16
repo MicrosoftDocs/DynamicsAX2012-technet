@@ -2,8 +2,9 @@
 title: Set a goal
 TOCTitle: Set a goal
 ms:assetid: 97072f31-9f61-4ce2-a509-129f77f69125
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232239(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232239(v=AX.60)
 ms:contentKeyID: 43894510
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ You can set up goals for workers and then track the progress on the goals for ea
     
 
     > [!TIP]
-    > <P>Goal types are maintained in the <STRONG>Goal types</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh208815(v=ax.60)">Goal types (form)</A>.</P>
+    > <P>Goal types are maintained in the <STRONG>Goal types</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh208815(v=ax.60)">Goal types (form)</A>.</P>
 
 
 
@@ -35,7 +36,7 @@ You can set up goals for workers and then track the progress on the goals for ea
     
 
     > [!TIP]
-    > <P>Goal headings are maintained in the <STRONG>Goal headings</STRONG> form. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209487(v=ax.60)">Goal headings (form)</A>.</P>
+    > <P>Goal headings are maintained in the <STRONG>Goal headings</STRONG> form. For more information, see <A href="https://technet.microsoft.com/library/hh209487(v=ax.60)">Goal headings (form)</A>.</P>
 
 
 
@@ -55,7 +56,7 @@ You can set up goals for workers and then track the progress on the goals for ea
 
 ## See also
 
-[Goal details (form)](https://technet.microsoft.com/en-us/library/hh227645\(v=ax.60\))
+[Goal details (form)](https://technet.microsoft.com/library/hh227645\(v=ax.60\))
 
   
 

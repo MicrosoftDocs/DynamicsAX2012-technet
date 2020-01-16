@@ -2,8 +2,9 @@
 title: Set up cluster picking
 TOCTitle: Set up cluster picking
 ms:assetid: fa1c3d07-3652-4d5c-b0af-c6e3090064dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553213(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553213(v=AX.60)
 ms:contentKeyID: 62200191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up Microsoft Outlook or Exchange Server integration
 TOCTitle: Set up Microsoft Outlook or Exchange Server integration
 ms:assetid: 8a79817f-783a-4928-94d1-7299ac9579dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498242(v=AX.60)
 ms:contentKeyID: 36058466
+author: Khairunj
 ms.date: 12/10/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -94,9 +95,9 @@ Every user who wants to integrate Microsoft Dynamics AX and Microsoft Outlook mu
 
 ## See also
 
-[My contacts (form)](https://technet.microsoft.com/en-us/library/aa554281\(v=ax.60\))
+[My contacts (form)](https://technet.microsoft.com/library/aa554281\(v=ax.60\))
 
-[Select the Microsoft Outlook or Exchange Server items to synchronize (form)](https://technet.microsoft.com/en-us/library/aa598437\(v=ax.60\))
+[Select the Microsoft Outlook or Exchange Server items to synchronize (form)](https://technet.microsoft.com/library/aa598437\(v=ax.60\))
 
   
 

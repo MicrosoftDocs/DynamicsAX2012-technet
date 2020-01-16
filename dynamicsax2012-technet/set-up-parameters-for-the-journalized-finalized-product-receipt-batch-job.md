@@ -2,8 +2,9 @@
 title: Set up parameters for the Journalized finalized product receipt batch job
 TOCTitle: Set up parameters for the Journalized finalized product receipt batch job
 ms:assetid: a919e966-c271-4760-b2dd-547fab26a218
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841079(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841079(v=AX.60)
 ms:contentKeyID: 50406238
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

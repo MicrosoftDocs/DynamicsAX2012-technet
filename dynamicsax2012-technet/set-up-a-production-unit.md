@@ -2,8 +2,9 @@
 title: Set up a production unit
 TOCTitle: Set up a production unit
 ms:assetid: f489a832-4014-4d6a-ac42-e79897ed21bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243284(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243284(v=AX.60)
 ms:contentKeyID: 36059994
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ After you create a production unit and assign it to a resource group, you can fi
 
 ## See also
 
-[Production unit (form)](https://technet.microsoft.com/en-us/library/hh208601\(v=ax.60\))
+[Production unit (form)](https://technet.microsoft.com/library/hh208601\(v=ax.60\))
 
   
 

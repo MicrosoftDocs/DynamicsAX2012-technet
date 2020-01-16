@@ -2,8 +2,9 @@
 title: Setting up and maintaining items
 TOCTitle: Setting up and maintaining items
 ms:assetid: 6bbe90cf-7570-465b-80c8-4ea215497457
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231786(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231786(v=AX.60)
 ms:contentKeyID: 44431412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

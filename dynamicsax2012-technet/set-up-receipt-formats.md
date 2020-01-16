@@ -2,8 +2,9 @@
 title: Set up receipt formats
 TOCTitle: Set up receipt formats
 ms:assetid: 28b7d91d-efe5-4c3a-83ec-56ba365117c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580594(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580594(v=AX.60)
 ms:contentKeyID: 39519078
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -77,7 +78,7 @@ Use the form layout designer to graphically create the layout of the form docume
 
 [About setting up Retail POS](about-setting-up-retail-pos.md)
 
-[Receipt formats (form)](https://technet.microsoft.com/en-us/library/hh597228\(v=ax.60\))
+[Receipt formats (form)](https://technet.microsoft.com/library/hh597228\(v=ax.60\))
 
   
 

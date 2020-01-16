@@ -1,9 +1,10 @@
-﻿---
+---
 title: StockCountJournalsController Class (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: StockCountJournalsController Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.StockCountJournalsController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.stockcountjournalscontroller(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.stockcountjournalscontroller(v=AX.60)
 ms:contentKeyID: 62203636
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,11 +51,11 @@ public ref class StockCountJournalsController : public CommerceController<StockC
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   ApiController  
     ODataController  
-      EntitySetController\<StockCountJournal, [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
-        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<StockCountJournal, [String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\>  
+      EntitySetController\<StockCountJournal, [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
+        [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md)\<StockCountJournal, [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\>  
           Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.StockCountJournalsController  
 
 ## Thread Safety

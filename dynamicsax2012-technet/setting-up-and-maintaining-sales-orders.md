@@ -2,8 +2,9 @@
 title: Setting up and maintaining sales orders
 TOCTitle: Setting up and maintaining sales orders
 ms:assetid: edf89e3f-f3b4-4810-ae8b-c23c7f0a8eac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243261(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243261(v=AX.60)
 ms:contentKeyID: 36059906
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

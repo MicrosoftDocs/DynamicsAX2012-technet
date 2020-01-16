@@ -2,8 +2,9 @@
 title: Set up an item as a shelf life item
 TOCTitle: Set up an item as a shelf life item
 ms:assetid: 49ab1325-94ff-4439-95c0-d9f14954faf7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838734(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838734(v=AX.60)
 ms:contentKeyID: 50120617
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -48,11 +49,11 @@ Use this procedure to set up an item as a shelf life item. You can assign a shel
 
 ## See also
 
-[(PM) Released product details (form)](https://technet.microsoft.com/en-us/library/hh352306\(v=ax.60\))
+[(PM) Released product details (form)](https://technet.microsoft.com/library/hh352306\(v=ax.60\))
 
-[Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
+[Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\))
 
-[(PM) Item model groups (form)](https://technet.microsoft.com/en-us/library/hh328695\(v=ax.60\))
+[(PM) Item model groups (form)](https://technet.microsoft.com/library/hh328695\(v=ax.60\))
 
   
 

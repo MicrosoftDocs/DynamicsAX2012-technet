@@ -2,8 +2,9 @@
 title: Start or stop the AOS Windows service
 TOCTitle: Start or stop the AOS Windows service
 ms:assetid: f398772e-dc8a-4b5e-875b-29230b469b79
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570102(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570102(v=AX.60)
 ms:contentKeyID: 35949380
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

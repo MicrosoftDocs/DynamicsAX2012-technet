@@ -1,9 +1,10 @@
-﻿---
+---
 title: SecurityManager.CheckAccess Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: CheckAccess Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.SecurityManager.CheckAccess(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal,System.String[],Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation,System.Boolean,System.Object)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.securitymanager.checkaccess(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.securitymanager.checkaccess(v=AX.60)
 ms:contentKeyID: 62212958
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -74,7 +75,7 @@ void CheckAccess(
 <!-- end list -->
 
   - allowedRoles  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))\[\]  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))\[\]  
 
 <!-- end list -->
 
@@ -84,12 +85,12 @@ void CheckAccess(
 <!-- end list -->
 
   - deviceTokenRequired  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - actionContext  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 ## See Also
 

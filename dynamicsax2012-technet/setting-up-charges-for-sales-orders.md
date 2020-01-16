@@ -2,8 +2,9 @@
 title: Setting up charges for sales orders
 TOCTitle: Setting up charges for sales orders
 ms:assetid: 9d2b479f-db35-4773-aae3-5c8f7a8f704b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571707(v=AX.60)
 ms:contentKeyID: 36058743
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

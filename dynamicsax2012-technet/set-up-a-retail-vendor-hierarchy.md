@@ -2,8 +2,9 @@
 title: Set up a retail vendor hierarchy
 TOCTitle: Set up a retail vendor hierarchy
 ms:assetid: 742c505e-6f8e-419e-8f63-dbe822bb05a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597128(v=AX.60)
 ms:contentKeyID: 39519182
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,7 +60,7 @@ Use the following procedures to set up a retail vendor product hierarchy and ass
 
 10. In the **Category hierarchy** field, select the vendor category hierarchy that you created.
 
-For detailed information about the fields in the **Create a category hierarchy** form, see [Category hierarchy (form)](https://technet.microsoft.com/en-us/library/hh209524\(v=ax.60\)).
+For detailed information about the fields in the **Create a category hierarchy** form, see [Category hierarchy (form)](https://technet.microsoft.com/library/hh209524\(v=ax.60\)).
 
 ## Map a retail vendor product hierarchy to a vendor
 

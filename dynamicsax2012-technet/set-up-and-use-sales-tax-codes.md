@@ -2,8 +2,9 @@
 title: Set up and use sales tax codes
 TOCTitle: Set up and use sales tax codes
 ms:assetid: 188be966-db4f-49dc-98a7-6d72128415b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569910(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569910(v=AX.60)
 ms:contentKeyID: 36056100
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Transactions that are subject to sales taxes must be associated with both a sale
 
 3.  Optional: If your legal entity operates in the United States, you can set up sales tax jurisdictions in addition to sales tax codes, and attach sales tax jurisdictions to sales tax groups. Sales tax codes are attached to the sales tax group through the sales tax jurisdictions.
 
-4.  Optional: If you will receive sales tax information through a web service, map the sales tax codes that are used by vendors to the sales tax codes in Microsoft Dynamics AX. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+4.  Optional: If you will receive sales tax information through a web service, map the sales tax codes that are used by vendors to the sales tax codes in Microsoft Dynamics AX. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
 5.  Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax groups**. Add sales tax codes to the sales tax groups. For more information, see [Set up and use a sales tax group](set-up-and-use-a-sales-tax-group.md).
 

@@ -2,8 +2,9 @@
 title: Setting up and maintaining co-products and by-products
 TOCTitle: Setting up and maintaining co-products and by-products
 ms:assetid: 70b84dec-02e8-42f9-8efe-7a032d37d62a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242648(v=AX.60)
 ms:contentKeyID: 36058058
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

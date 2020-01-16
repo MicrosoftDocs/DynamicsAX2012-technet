@@ -1,9 +1,10 @@
-﻿---
+---
 title: Shipment.ShipmentLines Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ShipmentLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.ShipmentLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.shipmentlines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.shipmentlines(v=AX.60)
 ms:contentKeyID: 49853320
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,7 +55,7 @@ property Collection<ShipmentLine^>^ ShipmentLines {
 
 #### Property Value
 
-Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/en-us/library/ms132397\(v=ax.60\))\<[ShipmentLine](shipmentline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.Collection](https://technet.microsoft.com/library/ms132397\(v=ax.60\))\<[ShipmentLine](shipmentline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 The packing slip lines.  
 
 ## Remarks

@@ -2,8 +2,9 @@
 title: Set up address and contact information purposes
 TOCTitle: Set up address and contact information purposes
 ms:assetid: d2cc4e3f-cb49-45e9-9135-2b06c0590067
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731964(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731964(v=AX.60)
 ms:contentKeyID: 35132906
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

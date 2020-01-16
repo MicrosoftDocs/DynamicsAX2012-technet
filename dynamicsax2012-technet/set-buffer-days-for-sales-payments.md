@@ -2,8 +2,9 @@
 title: Set buffer days for sales payments
 TOCTitle: Set buffer days for sales payments
 ms:assetid: 0fe68c63-993c-4db5-86f9-3d7bae9b3cbc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242136(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242136(v=AX.60)
 ms:contentKeyID: 36056022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ The payment is due on April 4, 2010, which is March 31, 2010 + 4 days.
 
 [Specify the invoice frequency for an existing project contract](specify-the-invoice-frequency-for-an-existing-project-contract.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

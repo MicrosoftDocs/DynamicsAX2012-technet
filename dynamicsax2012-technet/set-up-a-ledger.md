@@ -2,8 +2,9 @@
 title: Set up a ledger
 TOCTitle: Set up a ledger
 ms:assetid: 89a050d9-71d8-4dfe-8ae5-b2f6d55a8cf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416704(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416704(v=AX.60)
 ms:contentKeyID: 36931875
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

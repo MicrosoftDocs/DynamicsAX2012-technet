@@ -2,8 +2,9 @@
 title: Select default profiles for Role Centers
 TOCTitle: Select default profiles for Role Centers
 ms:assetid: 9fa4004e-f227-4a79-9ab6-ab70f0dbd9a4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362016(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362016(v=AX.60)
 ms:contentKeyID: 35132786
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Set up card types and card numbers
 TOCTitle: Set up card types and card numbers
 ms:assetid: 8ba5b506-d984-4d70-93d9-93e33f6e43e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597162(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597162(v=AX.60)
 ms:contentKeyID: 39519219
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

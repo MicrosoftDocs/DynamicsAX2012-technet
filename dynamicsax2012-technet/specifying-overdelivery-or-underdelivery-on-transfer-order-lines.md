@@ -2,8 +2,9 @@
 title: Specifying overdelivery or underdelivery on transfer order lines
 TOCTitle: Specifying overdelivery or underdelivery on transfer order lines
 ms:assetid: 4b4dbe39-5db1-413e-9bc1-e6c0ac59b191
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352200(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352200(v=AX.60)
 ms:contentKeyID: 36687834
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

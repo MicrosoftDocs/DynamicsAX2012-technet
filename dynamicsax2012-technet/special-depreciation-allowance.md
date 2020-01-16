@@ -2,8 +2,9 @@
 title: " special depreciation allowance"
 TOCTitle: " special depreciation allowance"
 ms:assetid: DynamicsAXGlossary.1499662
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.1499662(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1499662(v=AX.60)
 ms:contentKeyID: 36057414
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

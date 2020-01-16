@@ -2,8 +2,9 @@
 title: Setting up screen layouts
 TOCTitle: Setting up screen layouts
 ms:assetid: 7f8117f0-8228-40f6-9046-97bf3ba277cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597146(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597146(v=AX.60)
 ms:contentKeyID: 39519202
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

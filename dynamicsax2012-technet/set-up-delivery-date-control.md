@@ -2,8 +2,9 @@
 title: Set up delivery date control
 TOCTitle: Set up delivery date control
 ms:assetid: ab9a588b-f524-4544-ab4b-51ada91a0a08
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498551(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498551(v=AX.60)
 ms:contentKeyID: 36058913
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Sort the data on a report
 TOCTitle: Sort the data on a report
 ms:assetid: fe8de4c1-14fa-4588-a9f9-1e850159d948
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751571(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751571(v=AX.60)
 ms:contentKeyID: 35133699
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

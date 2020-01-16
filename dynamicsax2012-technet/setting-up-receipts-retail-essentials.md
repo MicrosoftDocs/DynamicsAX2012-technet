@@ -2,8 +2,9 @@
 title: Setting up receipts (Retail essentials)
 TOCTitle: Setting up receipts (Retail essentials)
 ms:assetid: 92991e45-9c8e-4eb9-a66e-cbbb873188a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn774954(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn774954(v=AX.60)
 ms:contentKeyID: 62617672
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

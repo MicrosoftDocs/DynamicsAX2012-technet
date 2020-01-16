@@ -2,8 +2,9 @@
 title: Set up substance categories
 TOCTitle: Set up substance categories
 ms:assetid: 3c09debe-47fd-4406-a996-6c23049ce061
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242218(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242218(v=AX.60)
 ms:contentKeyID: 36056659
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Substance categories are groupings of similar substances that your organization 
 
 ## See also
 
-[Substance categories (form)](https://technet.microsoft.com/en-us/library/hh209474\(v=ax.60\))
+[Substance categories (form)](https://technet.microsoft.com/library/hh209474\(v=ax.60\))
 
 [Set up environmental parameters](set-up-environmental-parameters.md)
 

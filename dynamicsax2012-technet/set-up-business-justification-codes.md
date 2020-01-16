@@ -2,8 +2,9 @@
 title: Set up business justification codes
 TOCTitle: Set up business justification codes
 ms:assetid: a7652367-097e-4fa6-8ad8-ec2d0fc765d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242686(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242686(v=AX.60)
 ms:contentKeyID: 36058878
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ You can define business justification reason codes to classify and track certain
 
 ## See also
 
-[Business justifications (form)](https://technet.microsoft.com/en-us/library/hh242732\(v=ax.60\))
+[Business justifications (form)](https://technet.microsoft.com/library/hh242732\(v=ax.60\))
 
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 

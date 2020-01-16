@@ -2,8 +2,9 @@
 title: Set up loyalty payment methods
 TOCTitle: Set up loyalty payment methods
 ms:assetid: 27508649-aeeb-4256-bd49-0abec320918f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580590(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580590(v=AX.60)
 ms:contentKeyID: 39519073
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ To set up payment methods for loyalty schemes, follow these steps:
 
 [Configure stores to accept loyalty cards](configure-stores-to-accept-loyalty-cards.md)
 
-[Payment methods (form) (Retail)](https://technet.microsoft.com/en-us/library/hh597294\(v=ax.60\))
+[Payment methods (form) (Retail)](https://technet.microsoft.com/library/hh597294\(v=ax.60\))
 
   
 

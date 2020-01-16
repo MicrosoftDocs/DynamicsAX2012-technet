@@ -1,9 +1,10 @@
-﻿---
+---
 title: SecurityErrors.AuthorizationFailed Field (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: AuthorizationFailed Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.SecurityErrors.AuthorizationFailed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.securityerrors.authorizationfailed(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.securityerrors.authorizationfailed(v=AX.60)
 ms:contentKeyID: 49839936
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

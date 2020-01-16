@@ -2,8 +2,9 @@
 title: Set up commodity cost basis pricing for a pricing calculation
 TOCTitle: Set up commodity cost basis pricing for a pricing calculation
 ms:assetid: 5d63053c-a829-4a03-95bc-427ca25ace43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209124(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209124(v=AX.60)
 ms:contentKeyID: 36057577
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ Use this procedure to set up the cost basis for a pricing calculation.
     
       - Calculate the difference between the **New cost** and the **Previous cost** for the base item and the warehouse of the base item.
     
-      - Enter the difference in the **Price plus** field or the **Price plus percentage** field. The value in the **New cost** field is then calculated. For more information, see [Commodity pricing (form)](https://technet.microsoft.com/en-us/library/hh242855\(v=ax.60\)).
+      - Enter the difference in the **Price plus** field or the **Price plus percentage** field. The value in the **New cost** field is then calculated. For more information, see [Commodity pricing (form)](https://technet.microsoft.com/library/hh242855\(v=ax.60\)).
     
       - Enter the price multiplier used in the automatic calculation of the **New cost** in the **Price multiplier** field.
 
@@ -57,9 +58,9 @@ Use this procedure to set up the cost basis for a pricing calculation.
 
 [About commodity pricing](about-commodity-pricing.md)
 
-[Commodity pricing (form)](https://technet.microsoft.com/en-us/library/hh242855\(v=ax.60\))
+[Commodity pricing (form)](https://technet.microsoft.com/library/hh242855\(v=ax.60\))
 
-[Pricing calculation (form)](https://technet.microsoft.com/en-us/library/hh209660\(v=ax.60\))
+[Pricing calculation (form)](https://technet.microsoft.com/library/hh209660\(v=ax.60\))
 
   
 

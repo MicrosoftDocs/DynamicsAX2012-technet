@@ -2,8 +2,9 @@
 title: Set up packing duty taxes for packing materials
 TOCTitle: Set up packing duty taxes for packing materials
 ms:assetid: cdb60297-cf78-441f-8531-9ad66d90542a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn186221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn186221(v=AX.60)
 ms:contentKeyID: 52250231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -59,7 +60,7 @@ To set up sales tax information, you must create codes for the sales tax and the
 
 4.  In the **Unit** field, select the unit that the purchase duty is calculated for. This is also the unit that is used in the calculation of the amount per unit.
 
-5.  To define the amount of sales tax per unit, click **Values**. For more information, see [Values of sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa500790\(v=ax.60\)). Close the **Values** form when you have finished.
+5.  To define the amount of sales tax per unit, click **Values**. For more information, see [Values of sales tax codes (form)](https://technet.microsoft.com/library/aa500790\(v=ax.60\)). Close the **Values** form when you have finished.
 
 6.  Select the **Packing duty** check box.
 

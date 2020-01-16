@@ -2,8 +2,9 @@
 title: Set up pay periods for time registration workers
 TOCTitle: Set up pay periods for time registration workers
 ms:assetid: e8e163d8-a62f-4f7d-9192-7c004596d162
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa573402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa573402(v=AX.60)
 ms:contentKeyID: 43976730
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Set prices in a channel
 TOCTitle: Set prices in a channel
 ms:assetid: 49f7e8b2-682d-430e-b8cc-c0ee38210093
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497746(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497746(v=AX.60)
 ms:contentKeyID: 62200063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

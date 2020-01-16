@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqlServerDatabaseProvider.ExecuteStoredProcedure Method  (Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer)
 TOCTitle: ExecuteStoredProcedure Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer.SqlServerDatabaseProvider.ExecuteStoredProcedure(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseConnection,System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.Object}},System.Collections.Generic.IDictionary{System.String,System.Object},System.Action{Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult},System.Nullable{System.Int32}@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataaccess.sqlserver.sqlserverdatabaseprovider.executestoredprocedure(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataaccess.sqlserver.sqlserverdatabaseprovider.executestoredprocedure(v=AX.60)
 ms:contentKeyID: 65319738
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,27 +79,27 @@ virtual void ExecuteStoredProcedure(
 <!-- end list -->
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - parameters  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[KeyValuePair](https://technet.microsoft.com/en-us/library/5tbh8a42\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[KeyValuePair](https://technet.microsoft.com/library/5tbh8a42\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>\>  
 
 <!-- end list -->
 
   - outputParameters  
-    Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/en-us/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IDictionary](https://technet.microsoft.com/library/s4ys34ea\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>  
 
 <!-- end list -->
 
   - resultCallback  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/018hxwa8\(v=ax.60\))\<[IDatabaseResult](idatabaseresult-interface-microsoft-dynamics-commerce-runtime-data.md)\>  
+    Type: [System.Action](https://technet.microsoft.com/library/018hxwa8\(v=ax.60\))\<[IDatabaseResult](idatabaseresult-interface-microsoft-dynamics-commerce-runtime-data.md)\>  
 
 <!-- end list -->
 
   - storeProcedureResultValue  
-    Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))\>  
+    Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))\>  
 
 #### Implements
 

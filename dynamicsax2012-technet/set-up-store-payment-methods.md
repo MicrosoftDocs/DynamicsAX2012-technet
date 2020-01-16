@@ -2,8 +2,9 @@
 title: Set up store payment methods
 TOCTitle: Set up store payment methods
 ms:assetid: ed81e31e-e222-4398-b741-321ca28f2b98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597274(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597274(v=AX.60)
 ms:contentKeyID: 39519357
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ Retail POS uses only currencies for which an exchange rate conversion is configu
 
 
 
-For information about fields in the **Payment method** form, see [Payment method (form)](https://technet.microsoft.com/en-us/library/hh580626\(v=ax.60\)).
+For information about fields in the **Payment method** form, see [Payment method (form)](https://technet.microsoft.com/library/hh580626\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -132,7 +133,7 @@ For information about fields in the **Payment method** form, see [Payment method
 
 [Set up card payment methods for stores](set-up-card-payment-methods-for-stores.md)
 
-[Payment method (form)](https://technet.microsoft.com/en-us/library/hh580626\(v=ax.60\))
+[Payment method (form)](https://technet.microsoft.com/library/hh580626\(v=ax.60\))
 
 [Set up an online store](set-up-an-online-store.md)
 

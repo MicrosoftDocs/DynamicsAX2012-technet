@@ -2,8 +2,9 @@
 title: Set up the transport calendar
 TOCTitle: Set up the transport calendar
 ms:assetid: a120acec-5f6a-4a41-bda8-0a06a544442d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571810(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571810(v=AX.60)
 ms:contentKeyID: 36058774
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

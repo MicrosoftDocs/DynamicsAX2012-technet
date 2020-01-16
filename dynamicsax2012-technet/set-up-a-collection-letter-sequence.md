@@ -2,8 +2,9 @@
 title: Set up a collection letter sequence
 TOCTitle: Set up a collection letter sequence
 ms:assetid: bbb16492-3816-4e2d-be84-60f6aaba8132
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498861(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498861(v=AX.60)
 ms:contentKeyID: 36655948
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,7 +104,7 @@ This table illustrates the possible collection letter codes for sample collectio
 
 ## See also
 
-[Collection letter (form)](https://technet.microsoft.com/en-us/library/aa620428\(v=ax.60\))
+[Collection letter (form)](https://technet.microsoft.com/library/aa620428\(v=ax.60\))
 
 [Create collection letters](create-collection-letters.md)
 

@@ -2,8 +2,9 @@
 title: Set up items and services for not stocked trade
 TOCTitle: Set up items and services for not stocked trade
 ms:assetid: 64549ce7-0333-4090-a1e6-fa17755e0fbe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803002(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh803002(v=AX.60)
 ms:contentKeyID: 44080986
+author: Khairunj
 ms.date: 04/24/2017
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-If you do not want to track a product in inventory, but the product must still be expensed, you can set up the product so that it is not stocked. You set up products in the **Item model groups** form in Inventory management. For more information about item model groups, see [Item model groups (form)](https://technet.microsoft.com/en-us/library/aa577092\(v=ax.60\)).
+If you do not want to track a product in inventory, but the product must still be expensed, you can set up the product so that it is not stocked. You set up products in the **Item model groups** form in Inventory management. For more information about item model groups, see [Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\)).
 
 
 > [!NOTE]
@@ -42,7 +43,7 @@ If you do not want to track a product in inventory, but the product must still b
 
 [Key tasks: Release products](key-tasks-release-products.md)
 
-[Convert to products not stocked (form)](https://technet.microsoft.com/en-us/library/hh802990\(v=ax.60\))
+[Convert to products not stocked (form)](https://technet.microsoft.com/library/hh802990\(v=ax.60\))
 
 [Create an Item product model group](create-an-item-product-model-group.md)
 

@@ -2,8 +2,9 @@
 title: Set up workflows for travel and expense
 TOCTitle: Set up workflows for travel and expense
 ms:assetid: 2c7f5d0c-d2f9-4538-8fc3-e21f1a767363
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580596(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580596(v=AX.60)
 ms:contentKeyID: 39519082
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Setting up warehouses
 TOCTitle: Setting up warehouses
 ms:assetid: e3d901fb-0aaa-46a4-8ec3-ee32d0bbb9ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553207(v=AX.60)
 ms:contentKeyID: 62200174
+author: Khairunj
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

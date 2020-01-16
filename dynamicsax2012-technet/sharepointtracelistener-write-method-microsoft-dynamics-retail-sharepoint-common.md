@@ -1,9 +1,10 @@
-﻿---
+---
 title: SharePointTraceListener.Write Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: Write Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTraceListener.Write
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.write(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.write(v=AX.60)
 ms:contentKeyID: 62204423
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,23 +30,23 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/885f0f1d(v=ax.60)">Write(Object)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/885f0f1d(v=ax.60)">Write(Object)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="sharepointtracelistener-write-method-string-microsoft-dynamics-retail-sharepoint-common.md">Write(String)</a></td>
-<td>Writes the string to the listener. (Overrides <a href="https://technet.microsoft.com/en-us/library/fxzs3wwx(v=ax.60)">TraceListener.Write(String)</a>.)</td>
+<td>Writes the string to the listener. (Overrides <a href="https://technet.microsoft.com/library/fxzs3wwx(v=ax.60)">TraceListener.Write(String)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/sawdbchb(v=ax.60)">Write(String, String)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/sawdbchb(v=ax.60)">Write(String, String)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/zzbey6hz(v=ax.60)">Write(Object, String)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/zzbey6hz(v=ax.60)">Write(Object, String)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/hy72797k(v=ax.60)">TraceListener</a>.)</td>
 </tr>
 </tbody>
 </table>

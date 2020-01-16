@@ -2,8 +2,9 @@
 title: Set up procurement and sales category defaults for projects
 TOCTitle: Set up procurement and sales category defaults for projects
 ms:assetid: 07e1964b-1850-433d-aecb-eca62c9a8b0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781064(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781064(v=AX.60)
 ms:contentKeyID: 43894461
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Use the following procedure to set up a default project category for purchases f
 
 1.  Create a category hierarchy. For more information, see [Key tasks: Set up a category hierarchy](key-tasks-set-up-a-category-hierarchy.md).
 
-2.  Assign the category hierarchy to the **Procurement category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\)).
+2.  Assign the category hierarchy to the **Procurement category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -41,7 +42,7 @@ Use the following procedure to set up a default project category for a sales hie
 
 1.  Create a category hierarchy. For more information, see [Key tasks: Set up a category hierarchy](key-tasks-set-up-a-category-hierarchy.md).
 
-2.  Assign the category hierarchy to the **Sales category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/en-us/library/hh227389\(v=ax.60\)).
+2.  Assign the category hierarchy to the **Sales category hierarchy** type. For more information about category hierarchy types, see [Category hierarchy types (form)](https://technet.microsoft.com/library/hh227389\(v=ax.60\)).
     
 
     > [!NOTE]

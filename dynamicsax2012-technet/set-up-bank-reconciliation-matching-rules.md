@@ -2,8 +2,9 @@
 title: Set up bank reconciliation matching rules
 TOCTitle: Set up bank reconciliation matching rules
 ms:assetid: ebaf0bb3-0e99-4138-846a-872469aa093a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ729761(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ729761(v=AX.60)
 ms:contentKeyID: 49564927
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -102,9 +103,9 @@ Suppose that you want to create a reconciliation matching rule that will match p
 
 ## See also
 
-[Bank reconciliation worksheet (form)](https://technet.microsoft.com/en-us/library/jj729766\(v=ax.60\))
+[Bank reconciliation worksheet (form)](https://technet.microsoft.com/library/jj729766\(v=ax.60\))
 
-[Reconciliation matching rules (form)](https://technet.microsoft.com/en-us/library/jj729773\(v=ax.60\))
+[Reconciliation matching rules (form)](https://technet.microsoft.com/library/jj729773\(v=ax.60\))
 
   
 

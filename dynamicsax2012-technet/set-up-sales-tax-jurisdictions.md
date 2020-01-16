@@ -2,8 +2,9 @@
 title: Set up sales tax jurisdictions
 TOCTitle: Set up sales tax jurisdictions
 ms:assetid: 9435123a-e9ad-4bb6-a514-719f37972d00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498398(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498398(v=AX.60)
 ms:contentKeyID: 36058596
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use the **Sales tax jurisdictions** form to set up sales tax jurisdictions.
 
 [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md)
 
-[Sales tax jurisdictions (form)](https://technet.microsoft.com/en-us/library/aa582278\(v=ax.60\))
+[Sales tax jurisdictions (form)](https://technet.microsoft.com/library/aa582278\(v=ax.60\))
 
   
 

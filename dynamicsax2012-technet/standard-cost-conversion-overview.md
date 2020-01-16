@@ -2,8 +2,9 @@
 title: Standard cost conversion overview
 TOCTitle: Standard cost conversion overview
 ms:assetid: 2339941a-5a6c-4b3b-ae44-a16ac2f3b93f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230991(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230991(v=AX.60)
 ms:contentKeyID: 36056180
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

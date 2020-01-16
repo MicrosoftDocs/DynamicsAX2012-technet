@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartController.GetKitComponentVariants Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel)
 TOCTitle: GetKitComponentVariants Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.ShoppingCartController.GetKitComponentVariants(System.Int64,System.Int64,System.Int64,System.Int64,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.shoppingcartcontroller.getkitcomponentvariants(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.shoppingcartcontroller.getkitcomponentvariants(v=AX.60)
 ms:contentKeyID: 62207537
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,31 +70,31 @@ static IEnumerable<StorefrontListItem^>^ GetKitComponentVariants(
 #### Parameters
 
   - kitComponentProductId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - kitComponentParentId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - parentKitId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - kitComponentLineId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - catalogId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[StorefrontListItem](storefrontlistitem-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[StorefrontListItem](storefrontlistitem-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
 Returns a collection of kit component variants.  
 
 ## Exceptions
@@ -111,11 +112,11 @@ Returns a collection of kit component variants.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>kitComponentProductId or kitComponentParentId or parentKitId or kitComponentLineId or catalogId</p></td>
 </tr>
 <tr class="even">
-<td><a href="https://technet.microsoft.com/en-us/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
+<td><a href="https://technet.microsoft.com/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
 <td><p>No products are found for the given criteria.</p></td>
 </tr>
 </tbody>

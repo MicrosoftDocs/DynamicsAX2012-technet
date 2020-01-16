@@ -2,8 +2,9 @@
 title: Spend by procurement category report (VendSpendCategory)
 TOCTitle: Spend by procurement category report (VendSpendCategory)
 ms:assetid: 9d8e5d3a-6c8e-4850-b89e-c1ef1af5aa06
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500171(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500171(v=AX.60)
 ms:contentKeyID: 37820224
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

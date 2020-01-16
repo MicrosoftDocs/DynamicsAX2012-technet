@@ -2,8 +2,9 @@
 title: Setting up and maintaining potency management
 TOCTitle: Setting up and maintaining potency management
 ms:assetid: 4267afbb-9f8c-435c-8ab6-19aaab052df7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ838730(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ838730(v=AX.60)
 ms:contentKeyID: 50120613
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

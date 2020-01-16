@@ -2,8 +2,9 @@
 title: Set up permissions and operations
 TOCTitle: Set up permissions and operations
 ms:assetid: 99d0bf8d-f3e8-479e-8120-3ecf9d07b085
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597187(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597187(v=AX.60)
 ms:contentKeyID: 39519252
+author: Khairunj
 ms.date: 07/29/2015
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Setting up and maintaining product configurations
 TOCTitle: Setting up and maintaining product configurations
 ms:assetid: 962e8e37-e0cf-46e5-a717-6b9fbd56438a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh278334(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh278334(v=AX.60)
 ms:contentKeyID: 36207231
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

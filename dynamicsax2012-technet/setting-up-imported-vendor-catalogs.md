@@ -2,8 +2,9 @@
 title: Setting up imported vendor catalogs
 TOCTitle: Setting up imported vendor catalogs
 ms:assetid: 583776ef-c54c-4175-a3c1-a8d6d2d6c6e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208972(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208972(v=AX.60)
 ms:contentKeyID: 36057341
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

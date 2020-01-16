@@ -2,8 +2,9 @@
 title: (SAU) Enter a contract number for a subcontractor in a purchase order
 TOCTitle: (SAU) Enter a contract number for a subcontractor in a purchase order
 ms:assetid: d055e5a8-0363-4fac-9a9f-f44d9d21d4b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242916(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242916(v=AX.60)
 ms:contentKeyID: 36059486
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

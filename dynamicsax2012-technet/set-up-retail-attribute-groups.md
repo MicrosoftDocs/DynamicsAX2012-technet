@@ -2,8 +2,9 @@
 title: Set up retail attribute groups
 TOCTitle: Set up retail attribute groups
 ms:assetid: e3c85ed0-4930-4e50-9ab2-5b3fe9932b70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728713(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728713(v=AX.60)
 ms:contentKeyID: 49556618
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,9 +43,9 @@ You must define attributes before you can add them to an attribute group. For in
 
 ## See also
 
-[Attributes (form)](https://technet.microsoft.com/en-us/library/hh242817\(v=ax.60\))
+[Attributes (form)](https://technet.microsoft.com/library/hh242817\(v=ax.60\))
 
-[Attribute groups (form) (Retail)](https://technet.microsoft.com/en-us/library/jj728740\(v=ax.60\))
+[Attribute groups (form) (Retail)](https://technet.microsoft.com/library/jj728740\(v=ax.60\))
 
 [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md)
 

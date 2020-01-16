@@ -2,8 +2,9 @@
 title: Set up substance conversions
 TOCTitle: Set up substance conversions
 ms:assetid: aee08eb6-ce07-4cc4-97d1-e719c2fe30e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242709(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242709(v=AX.60)
 ms:contentKeyID: 36058946
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -117,7 +118,7 @@ A conversion output is the result of the substance conversion. Any outputs enter
 
 ## See also
 
-[Environmental conversion (form)](https://technet.microsoft.com/en-us/library/hh209652\(v=ax.60\))
+[Environmental conversion (form)](https://technet.microsoft.com/library/hh209652\(v=ax.60\))
 
 [Set up environmental processes](set-up-environmental-processes.md)
 

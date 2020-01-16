@@ -2,8 +2,9 @@
 title: Setting up retail stores
 TOCTitle: Setting up retail stores
 ms:assetid: 73470361-3e72-46e2-b4b3-4b31a3ba90eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597123(v=AX.60)
 ms:contentKeyID: 39519176
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

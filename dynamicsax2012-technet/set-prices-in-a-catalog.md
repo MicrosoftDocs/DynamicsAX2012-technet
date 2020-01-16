@@ -2,8 +2,9 @@
 title: Set prices in a catalog
 TOCTitle: Set prices in a catalog
 ms:assetid: 7aa79e99-7ad7-4bad-9be9-6577bdde0c61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497791(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497791(v=AX.60)
 ms:contentKeyID: 62200102
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

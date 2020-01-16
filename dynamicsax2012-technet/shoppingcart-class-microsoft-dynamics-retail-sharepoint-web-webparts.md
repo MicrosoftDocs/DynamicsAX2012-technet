@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCart Class (Microsoft.Dynamics.Retail.SharePoint.Web.WebParts)
 TOCTitle: ShoppingCart Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCart
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcart(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcart(v=AX.60)
 ms:contentKeyID: 62204447
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,12 +45,12 @@ public ref class ShoppingCart : public RetailWebPart
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Web.UI.Control](https://technet.microsoft.com/en-us/library/983zwx2h\(v=ax.60\))  
-    [System.Web.UI.WebControls.WebControl](https://technet.microsoft.com/en-us/library/k1x24e42\(v=ax.60\))  
-      [System.Web.UI.WebControls.Panel](https://technet.microsoft.com/en-us/library/x25wh2hz\(v=ax.60\))  
-        [System.Web.UI.WebControls.WebParts.Part](https://technet.microsoft.com/en-us/library/yb25w952\(v=ax.60\))  
-          [System.Web.UI.WebControls.WebParts.WebPart](https://technet.microsoft.com/en-us/library/h0t1fxe7\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Web.UI.Control](https://technet.microsoft.com/library/983zwx2h\(v=ax.60\))  
+    [System.Web.UI.WebControls.WebControl](https://technet.microsoft.com/library/k1x24e42\(v=ax.60\))  
+      [System.Web.UI.WebControls.Panel](https://technet.microsoft.com/library/x25wh2hz\(v=ax.60\))  
+        [System.Web.UI.WebControls.WebParts.Part](https://technet.microsoft.com/library/yb25w952\(v=ax.60\))  
+          [System.Web.UI.WebControls.WebParts.WebPart](https://technet.microsoft.com/library/h0t1fxe7\(v=ax.60\))  
             [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.RetailWebPart](retailwebpart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md)  
               Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCart  
 

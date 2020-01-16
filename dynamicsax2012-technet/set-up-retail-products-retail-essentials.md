@@ -2,8 +2,9 @@
 title: Set up retail products (Retail essentials)
 TOCTitle: Set up retail products (Retail essentials)
 ms:assetid: 21187749-cd62-4f3f-9f62-88155e4214ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716056(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716056(v=AX.60)
 ms:contentKeyID: 62200320
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

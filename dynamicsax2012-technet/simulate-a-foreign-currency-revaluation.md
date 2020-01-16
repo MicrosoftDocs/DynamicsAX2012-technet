@@ -2,8 +2,9 @@
 title: Simulate a foreign currency revaluation
 TOCTitle: Simulate a foreign currency revaluation
 ms:assetid: 1ea4a25d-4b40-4078-93cd-95c8b2e87504
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496778(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496778(v=AX.60)
 ms:contentKeyID: 36056148
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,11 +34,11 @@ Before you revalue foreign currencies, you can run a simulation of the foreign c
 
 ## See also
 
-[Customer foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa586009\(v=ax.60\))
+[Customer foreign currency revaluation (form)](https://technet.microsoft.com/library/aa586009\(v=ax.60\))
 
 [About foreign currency revaluations for open customer transactions](about-foreign-currency-revaluations-for-open-customer-transactions.md)
 
-[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/en-us/library/aa500833\(v=ax.60\))
+[Vendor foreign currency revaluation (form)](https://technet.microsoft.com/library/aa500833\(v=ax.60\))
 
 [About foreign currency revaluations for open vendor transactions](about-foreign-currency-revaluations-for-open-vendor-transactions.md)
 

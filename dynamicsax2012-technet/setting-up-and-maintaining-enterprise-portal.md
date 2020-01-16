@@ -2,8 +2,9 @@
 title: Setting up and maintaining Enterprise Portal
 TOCTitle: Setting up and maintaining Enterprise Portal
 ms:assetid: e3881a9b-834d-4b25-9b43-76ad8eab94ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg732161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg732161(v=AX.60)
 ms:contentKeyID: 35133108
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

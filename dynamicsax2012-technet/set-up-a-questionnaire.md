@@ -2,8 +2,9 @@
 title: Set up a questionnaire
 TOCTitle: Set up a questionnaire
 ms:assetid: 79dae5c2-07fe-4696-ba42-556ab86364c3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550062(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550062(v=AX.60)
 ms:contentKeyID: 37822147
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 5.  Enter additional information, as needed.
     
-    For more information, see [Questionnaires (form)](https://technet.microsoft.com/en-us/library/aa576998\(v=ax.60\)).
+    For more information, see [Questionnaires (form)](https://technet.microsoft.com/library/aa576998\(v=ax.60\)).
 
 ## Possible next steps
 

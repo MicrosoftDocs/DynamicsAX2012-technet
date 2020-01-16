@@ -2,8 +2,9 @@
 title: Set up electronic signatures
 TOCTitle: Set up electronic signatures
 ms:assetid: 02cde6b5-126c-41e6-9bb7-746d7b4ff93a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309573(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309573(v=AX.60)
 ms:contentKeyID: 36055935
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

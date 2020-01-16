@@ -2,8 +2,9 @@
 title: (SAU) Enter Zakat information for journal transactions
 TOCTitle: (SAU) Enter Zakat information for journal transactions
 ms:assetid: c5e76058-c46d-4b11-acfb-a4d2c21dbf43
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242844(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242844(v=AX.60)
 ms:contentKeyID: 36059306
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,9 +53,9 @@ You can use the **Journal voucher** form or other journals to enter Zakat inform
 
 [(SAU) Generate Zakat reports](sau-generate-zakat-reports.md)
 
-[(SAU) Zakat reports (form)](https://technet.microsoft.com/en-us/library/hh208785\(v=ax.60\))
+[(SAU) Zakat reports (form)](https://technet.microsoft.com/library/hh208785\(v=ax.60\))
 
-[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/en-us/library/hh242233\(v=ax.60\))
+[(SAU) Zakat assets and depreciation (form)](https://technet.microsoft.com/library/hh242233\(v=ax.60\))
 
   
 

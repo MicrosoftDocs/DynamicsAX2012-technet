@@ -2,8 +2,9 @@
 title: Set up project journal options
 TOCTitle: Set up project journal options
 ms:assetid: 311bf512-4188-4ed6-a658-65764fe8adaa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570046(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570046(v=AX.60)
 ms:contentKeyID: 36056329
+author: Khairunj
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ This topic describes how to set up options that control how journal entries that
 
 3.  Enter information in the fields on the **General** FastTab to specify your journal options.
     
-    For information about how to use the fields in the **Journal names** form to specify options for hour journals, fee journals, and beginning balance journals, see [Journal names (form) (Project)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\)).
+    For information about how to use the fields in the **Journal names** form to specify options for hour journals, fee journals, and beginning balance journals, see [Journal names (form) (Project)](https://technet.microsoft.com/library/aa617509\(v=ax.60\)).
 
 ## Expense journals
 
@@ -49,7 +50,7 @@ This topic describes how to set up options that control how journal entries that
 
 3.  Enter information in the fields on the **General** FastTab to specify your journal options.
     
-    For information about how to use the fields in the **Journal names** form to specify options for expense journals, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+    For information about how to use the fields in the **Journal names** form to specify options for expense journals, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 ## Item journals
 
@@ -59,7 +60,7 @@ This topic describes how to set up options that control how journal entries that
 
 3.  Enter information in the fields on the **General** FastTab and **Store inventory** FastTab to specify your journal options.
     
-    For information about how to use the fields in the **Journal names, inventory** form to specify options for item journals, see [Journal names, Inventory (form)](https://technet.microsoft.com/en-us/library/aa552692\(v=ax.60\)).
+    For information about how to use the fields in the **Journal names, inventory** form to specify options for item journals, see [Journal names, Inventory (form)](https://technet.microsoft.com/library/aa552692\(v=ax.60\)).
 
 ## See also
 

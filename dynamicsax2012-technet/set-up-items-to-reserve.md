@@ -2,8 +2,9 @@
 title: Set up items to reserve
 TOCTitle: Set up items to reserve
 ms:assetid: a8d60dd0-76c6-4f00-9816-37d0b189018a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550316(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550316(v=AX.60)
 ms:contentKeyID: 36687947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 ## See also
 
-[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
+[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\))
 
   
 

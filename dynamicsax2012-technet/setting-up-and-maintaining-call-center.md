@@ -2,8 +2,9 @@
 title: Setting up and maintaining Call center
 TOCTitle: Setting up and maintaining Call center
 ms:assetid: f9bbf2e5-95fa-4ad2-8916-bc40946eea34
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497860(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497860(v=AX.60)
 ms:contentKeyID: 62200190
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

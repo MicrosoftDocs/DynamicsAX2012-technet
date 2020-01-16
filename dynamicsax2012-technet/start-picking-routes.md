@@ -2,8 +2,9 @@
 title: Start picking routes
 TOCTitle: Start picking routes
 ms:assetid: ec54d28c-0c97-4fbf-9796-947750955a96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551526(v=AX.60)
 ms:contentKeyID: 36688040
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

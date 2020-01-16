@@ -2,8 +2,9 @@
 title: Set up charges on intercompany orders
 TOCTitle: Set up charges on intercompany orders
 ms:assetid: 3783acf2-10cc-45ba-a698-ca992a405487
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570131(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570131(v=AX.60)
 ms:contentKeyID: 36056608
+author: Khairunj
 ms.date: 07/08/2014
 mtps_version: v=AX.60
 audience: Application User

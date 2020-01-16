@@ -2,8 +2,9 @@
 title: Setting up retail product catalogs
 TOCTitle: Setting up retail product catalogs
 ms:assetid: 413dbca6-1d4d-48f7-a28e-200ef1232ed8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ728683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ728683(v=AX.60)
 ms:contentKeyID: 49556627
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

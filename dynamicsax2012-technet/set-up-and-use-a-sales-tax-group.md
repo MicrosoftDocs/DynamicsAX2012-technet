@@ -2,8 +2,9 @@
 title: Set up and use a sales tax group
 TOCTitle: Set up and use a sales tax group
 ms:assetid: 6e26615e-d473-4d7d-a9db-2c706d9a681f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571215(v=AX.60)
 ms:contentKeyID: 36058035
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -38,7 +39,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
     
     The description and the percentage or amount of the sales tax code are entered automatically.
 
-6.  If the sales tax code on the sales tax group is used for tax exemption, intra-community VAT, or use tax, select the appropriate check boxes. Select a value in the **Exempt code** field, if appropriate. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/en-us/library/aa498345\(v=ax.60\)).
+6.  If the sales tax code on the sales tax group is used for tax exemption, intra-community VAT, or use tax, select the appropriate check boxes. Select a value in the **Exempt code** field, if appropriate. For more information, see [Sales tax groups (form)](https://technet.microsoft.com/library/aa498345\(v=ax.60\)).
 
 7.  On the **Invoice and delivery** tab of the **Customers** form, select a sales tax group for each customer. This is the default sales tax group for transactions that involve the customer. You can change this value on individual transactions.
 

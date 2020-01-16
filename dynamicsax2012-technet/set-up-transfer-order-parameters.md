@@ -2,8 +2,9 @@
 title: Set up transfer order parameters
 TOCTitle: Set up transfer order parameters
 ms:assetid: 384333bb-782e-45c8-ae69-3a28a9b7981b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570138(v=AX.60)
 ms:contentKeyID: 44080968
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,9 +58,9 @@ Before you can use the **Transfer orders** form, you must set up the parameters 
 
 [About warehouses](about-warehouses.md)
 
-[Accounts receivable parameters (form)](https://technet.microsoft.com/en-us/library/aa576993\(v=ax.60\))
+[Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\))
 
-[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/en-us/library/aa587658\(v=ax.60\))
+[Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\))
 
   
 

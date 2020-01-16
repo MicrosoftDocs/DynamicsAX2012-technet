@@ -2,8 +2,9 @@
 title: Setting up benefit information
 TOCTitle: Setting up benefit information
 ms:assetid: 08b73ef2-887c-4c77-b658-346e242b77d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242118(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242118(v=AX.60)
 ms:contentKeyID: 36055974
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

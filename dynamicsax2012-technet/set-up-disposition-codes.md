@@ -2,8 +2,9 @@
 title: Set up disposition codes
 TOCTitle: Set up disposition codes
 ms:assetid: 00b04d16-132a-4780-a8e4-251189eec31e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230650(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230650(v=AX.60)
 ms:contentKeyID: 53874078
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,11 +42,11 @@ You can also set up a reason code to help explain why an item was returned. For 
 
 [About disposition codes and return reason codes](about-disposition-codes-and-return-reason-codes.md)
 
-[Disposition codes (form)](https://technet.microsoft.com/en-us/library/hh597113\(v=ax.60\))
+[Disposition codes (form)](https://technet.microsoft.com/library/hh597113\(v=ax.60\))
 
-[Auto charges (form)](https://technet.microsoft.com/en-us/library/aa582856\(v=ax.60\))
+[Auto charges (form)](https://technet.microsoft.com/library/aa582856\(v=ax.60\))
 
-[External codes (form)](https://technet.microsoft.com/en-us/library/aa583814\(v=ax.60\))
+[External codes (form)](https://technet.microsoft.com/library/aa583814\(v=ax.60\))
 
   
 

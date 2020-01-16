@@ -2,8 +2,9 @@
 title: Set up postdated checks
 TOCTitle: Set up postdated checks
 ms:assetid: 755e7cdc-9c15-403a-b565-af8552de0778
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209238(v=AX.60)
 ms:contentKeyID: 36058169
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -31,7 +32,7 @@ Complete the following tasks before you use postdated checks:
 
 ## Set up postdated checks parameters
 
-Use the **Cash and bank management parameters** form to set up postdated checks. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\)).
+Use the **Cash and bank management parameters** form to set up postdated checks. For more information, see [Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\)).
 
 1.  Click **Cash and bank management** \> **Setup** \> **Cash and bank management parameters**.
 
@@ -55,7 +56,7 @@ Use the **Cash and bank management parameters** form to set up postdated checks.
 
 ## Set up a method of payment for postdated checks
 
-Use the **Methods of payment - vendors** and **Methods of payment - customers** forms to set up a method of payment for postdated checks. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\)) and [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+Use the **Methods of payment - vendors** and **Methods of payment - customers** forms to set up a method of payment for postdated checks. For more information, see [Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\)) and [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Setup** \> **Payment** \> **Methods of payment**.
     

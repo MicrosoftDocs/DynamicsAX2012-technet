@@ -2,8 +2,9 @@
 title: Shipments configuration key (SalesShipments)
 TOCTitle: Shipments configuration key (SalesShipments)
 ms:assetid: 0f9d6e8e-fc6c-4876-b56b-99e3e5cb893b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498660(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498660(v=AX.60)
 ms:contentKeyID: 36997738
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,12 +40,12 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Shipping specification</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548450(v=ax.60)">Shipping line specification (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa584802(v=ax.60)">Shipping specification (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548450(v=ax.60)">Shipping line specification (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa584802(v=ax.60)">Shipping specification (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bill of lading</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587488(v=ax.60)">Bill of lading (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587488(v=ax.60)">Bill of lading (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -66,26 +67,26 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Carrier</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587948(v=ax.60)">Carrier (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587948(v=ax.60)">Carrier (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Package appearance</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596443(v=ax.60)">Package appearance (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596443(v=ax.60)">Package appearance (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shipping specification</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548450(v=ax.60)">Shipping line specification (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa584802(v=ax.60)">Shipping specification (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548450(v=ax.60)">Shipping line specification (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa584802(v=ax.60)">Shipping specification (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bill of lading items</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584588(v=ax.60)">Bill of lading items (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328587(v=ax.60)">(PM) Bill of lading items (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584588(v=ax.60)">Bill of lading items (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328587(v=ax.60)">(PM) Bill of lading items (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Bill of lading orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599438(v=ax.60)">Bill of lading orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328595(v=ax.60)">(PM) Bill of lading orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599438(v=ax.60)">Bill of lading orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328595(v=ax.60)">(PM) Bill of lading orders (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -123,7 +124,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

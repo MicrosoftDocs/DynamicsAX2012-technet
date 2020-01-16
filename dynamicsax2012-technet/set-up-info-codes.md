@@ -2,8 +2,9 @@
 title: Set up info codes
 TOCTitle: Set up info codes
 ms:assetid: 8635d420-09dd-47ae-b746-0d29a3bddfba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597158(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597158(v=AX.60)
 ms:contentKeyID: 39519215
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ To set up info codes, follow these steps:
 
 [Set up subcodes](set-up-subcodes.md)
 
-[Info codes (form) (Retail)](https://technet.microsoft.com/en-us/library/hh580638\(v=ax.60\))
+[Info codes (form) (Retail)](https://technet.microsoft.com/library/hh580638\(v=ax.60\))
 
 [Set up info code groups](set-up-info-code-groups.md)
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: SqliteDatabaseProvider.Configure Method (SqliteConfiguration) (Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite)
 TOCTitle: Configure Method (SqliteConfiguration)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteDatabaseProvider.Configure(Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteConfiguration)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.configure(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitedatabaseprovider.configure(v=AX.60)
 ms:contentKeyID: 65320839
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

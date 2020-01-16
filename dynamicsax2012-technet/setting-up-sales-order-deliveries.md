@@ -2,8 +2,9 @@
 title: Setting up sales order deliveries
 TOCTitle: Setting up sales order deliveries
 ms:assetid: 400badd1-c305-49e0-810b-a52f171eb0fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231351(v=AX.60)
 ms:contentKeyID: 36056712
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

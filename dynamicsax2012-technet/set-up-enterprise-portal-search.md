@@ -2,8 +2,9 @@
 title: Set up Enterprise Portal Search
 TOCTitle: Set up Enterprise Portal Search
 ms:assetid: 175c6575-6aeb-43d0-a154-b4eea4045f0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309605(v=AX.60)
 ms:contentKeyID: 35132559
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

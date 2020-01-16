@@ -2,8 +2,9 @@
 title: Setting up and maintaining basic budgeting and budget control (Public sector)
 TOCTitle: Setting up and maintaining basic budgeting and budget control (Public sector)
 ms:assetid: 054a0258-59e1-4247-97c6-04a531677b0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208498(v=AX.60)
 ms:contentKeyID: 36056235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

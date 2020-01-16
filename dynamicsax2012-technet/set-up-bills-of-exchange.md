@@ -2,8 +2,9 @@
 title: Set up bills of exchange
 TOCTitle: Set up bills of exchange
 ms:assetid: 422241fe-25d5-47d7-b361-0b8041ca4948
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496955(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496955(v=AX.60)
 ms:contentKeyID: 36056868
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Customer posting profiles** form to set up posting profiles to use wit
 
 3.  In the **Posting profile** and **Description** fields, enter an identifier, such as BOE, and a description for the posting profile, such as Bill of exchange.
 
-4.  Click the **Table restrictions** FastTab. Specify options for the settlement, interest, collection letter, and posting profile to use when closing the transaction. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\)).
+4.  Click the **Table restrictions** FastTab. Specify options for the settlement, interest, collection letter, and posting profile to use when closing the transaction. For more information, see [Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\)).
 
 5.  Click the **Setup** FastTab, and then in the **Account code** field, select whether to use this posting profile for a single customer account, for a group of customer accounts, or for all customer accounts. In the **Account/Group number** field, select the account number or group number, if necessary.
 
@@ -99,7 +100,7 @@ Create at least five journal names to use for bills of exchange. On the journal 
 
 1.  Click **General ledger** \> **Setup** \> **Journals** \> **Journal names**.
 
-2.  Create a new journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\)).
+2.  Create a new journal name. For more information, see [Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\)).
 
 3.  In the **Journal type** field, select one of the following options:
     
@@ -129,7 +130,7 @@ Create at least five journal names to use for bills of exchange. On the journal 
 
 Set up at least one method of payment for bills of exchange. If you do business with more than one bank, set up a method of payment that corresponds to the bill of exchange remittance format required for each bank.
 
-If you do business in more than one country/region, set up a method of payment for the bill of exchange export format that is used in each country/region. For more information, see [Country/region-specific topics for Microsoft Dynamics AX](country-region-specific-topics-for-microsoft-dynamics-ax.md) and [Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\)).
+If you do business in more than one country/region, set up a method of payment for the bill of exchange export format that is used in each country/region. For more information, see [Country/region-specific topics for Microsoft Dynamics AX](country-region-specific-topics-for-microsoft-dynamics-ax.md) and [Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\)).
 
 1.  Click **Accounts receivable** \> **Setup** \> **Payment** \> **Methods of payment**.
 
@@ -197,7 +198,7 @@ If you do business in more than one country/region, set up a method of payment f
 
 
 
-16. Click **Payment fee setup**, and then enter payment fees for the method of payment. The payment fees that you set up in this form are used as the default entries on the **Payment fee** tab when journal lines are created in a protest bill of exchange journal, remittance journal, or settle bill of exchange journal. For more information, see [Customer payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa557685\(v=ax.60\)).
+16. Click **Payment fee setup**, and then enter payment fees for the method of payment. The payment fees that you set up in this form are used as the default entries on the **Payment fee** tab when journal lines are created in a protest bill of exchange journal, remittance journal, or settle bill of exchange journal. For more information, see [Customer payment fee setup (form)](https://technet.microsoft.com/library/aa557685\(v=ax.60\)).
 
 17. Repeat steps 2 through 16 to set up additional methods of payment, if necessary.
 
@@ -209,9 +210,9 @@ A payment fee is a charge that is associated with the process of collecting paym
 
 1.  Click **Accounts receivable** \> **Setup** \> **Payment** \> **Payment fee**.
 
-2.  Create a new payment fee. For more information, see [Customer payment fee (form)](https://technet.microsoft.com/en-us/library/aa616532\(v=ax.60\)).
+2.  Create a new payment fee. For more information, see [Customer payment fee (form)](https://technet.microsoft.com/library/aa616532\(v=ax.60\)).
 
-3.  Click **Payment fee setup** to open the **Payment fee setup** form, and then enter information for the payment fee line. For more information, see [Customer payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa557685\(v=ax.60\)).
+3.  Click **Payment fee setup** to open the **Payment fee setup** form, and then enter information for the payment fee line. For more information, see [Customer payment fee setup (form)](https://technet.microsoft.com/library/aa557685\(v=ax.60\)).
 
 4.  Click the **General** tab, and then in the **Method of payment** field, select a method of payment to use for the payment fee. The method of payment for the payment fee may be different from the method of payment for the payment that the fee is based on.
 
@@ -233,7 +234,7 @@ You can set up remittance fees that are charged by a bank for each remittance fi
 
 1.  Click **Cash and bank management** \> **Common** \> **Bank accounts**.
 
-2.  Create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+2.  Create a new bank account. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
 3.  Click the **Negotiable instrument** FastTab.
 
@@ -251,7 +252,7 @@ Specify the document layout required for each bank account that you will generat
 
 2.  Select or create a bank account, and then enter the bank details.
 
-3.  Click the **Setup** tab, and then click **Bill of exchange** to open the **Bill of exchange layout** form and set up the layout. For more information, see [Bill of exchange layout (form)](https://technet.microsoft.com/en-us/library/aa600243\(v=ax.60\)).
+3.  Click the **Setup** tab, and then click **Bill of exchange** to open the **Bill of exchange layout** form and set up the layout. For more information, see [Bill of exchange layout (form)](https://technet.microsoft.com/library/aa600243\(v=ax.60\)).
 
 4.  Close the forms.
 
@@ -287,25 +288,25 @@ For each customer who has agreed to pay by using a bill of exchange, you can set
 
 [Redraw a bill of exchange](redraw-a-bill-of-exchange.md)
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
-[Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\))
+[Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\))
 
-[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/en-us/library/aa553272\(v=ax.60\))
+[Journal voucher - Bill of exchange journal (form)](https://technet.microsoft.com/library/aa553272\(v=ax.60\))
 
-[Bill of exchange layout (form)](https://technet.microsoft.com/en-us/library/aa600243\(v=ax.60\))
+[Bill of exchange layout (form)](https://technet.microsoft.com/library/aa600243\(v=ax.60\))
 
-[Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
+[Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\))
 
-[Methods of payment - customers (form)](https://technet.microsoft.com/en-us/library/aa499398\(v=ax.60\))
+[Methods of payment - customers (form)](https://technet.microsoft.com/library/aa499398\(v=ax.60\))
 
-[Customer payment fee (form)](https://technet.microsoft.com/en-us/library/aa616532\(v=ax.60\))
+[Customer payment fee (form)](https://technet.microsoft.com/library/aa616532\(v=ax.60\))
 
-[Customer payment fee setup (form)](https://technet.microsoft.com/en-us/library/aa557685\(v=ax.60\))
+[Customer payment fee setup (form)](https://technet.microsoft.com/library/aa557685\(v=ax.60\))
 
-[Customer posting profiles (form)](https://technet.microsoft.com/en-us/library/aa600572\(v=ax.60\))
+[Customer posting profiles (form)](https://technet.microsoft.com/library/aa600572\(v=ax.60\))
 
-[Payment step process (form)](https://technet.microsoft.com/en-us/library/aa616132\(v=ax.60\))
+[Payment step process (form)](https://technet.microsoft.com/library/aa616132\(v=ax.60\))
 
   
 

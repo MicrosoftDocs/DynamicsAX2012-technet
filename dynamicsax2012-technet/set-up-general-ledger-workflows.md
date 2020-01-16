@@ -2,8 +2,9 @@
 title: Set up General ledger workflows
 TOCTitle: Set up General ledger workflows
 ms:assetid: 31628671-2c99-40bc-96ad-a481d471acd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231032(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231032(v=AX.60)
 ms:contentKeyID: 36056336
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -138,7 +139,7 @@ To create a workflow, follow these steps.
 
 ## Calculated fields and expressions
 
-The following calculated fields and expressions are used with General ledger workflow journal approvals. For each configuration, you can set up conditions that include these calculated fields and expressions. For more information, see [Test workflow condition (form)](https://technet.microsoft.com/en-us/library/hh597214\(v=ax.60\)).
+The following calculated fields and expressions are used with General ledger workflow journal approvals. For each configuration, you can set up conditions that include these calculated fields and expressions. For more information, see [Test workflow condition (form)](https://technet.microsoft.com/library/hh597214\(v=ax.60\)).
 
 <table>
 <colgroup>
@@ -182,9 +183,9 @@ The following calculated fields and expressions are used with General ledger wor
 
 ## See also
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
   
 

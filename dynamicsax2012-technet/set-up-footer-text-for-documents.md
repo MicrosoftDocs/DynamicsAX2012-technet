@@ -2,8 +2,9 @@
 title: Set up footer text for documents
 TOCTitle: Set up footer text for documents
 ms:assetid: 52b79cb1-d877-483a-905f-5e80a6dd7a65
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309676(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309676(v=AX.60)
 ms:contentKeyID: 36057290
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,9 +57,9 @@ If you have to print a single line of identifying text at the bottom of source d
 
 ## See also
 
-[Footer text (form)](https://technet.microsoft.com/en-us/library/hh227611\(v=ax.60\))
+[Footer text (form)](https://technet.microsoft.com/library/hh227611\(v=ax.60\))
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
 [Set up print management for a module](set-up-print-management-for-a-module.md)
 

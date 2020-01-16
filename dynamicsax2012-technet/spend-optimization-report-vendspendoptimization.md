@@ -2,8 +2,9 @@
 title: Spend optimization report (VendSpendOptimization)
 TOCTitle: Spend optimization report (VendSpendOptimization)
 ms:assetid: 20b72973-88be-49f6-b933-43f98282d933
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500167(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500167(v=AX.60)
 ms:contentKeyID: 37820207
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

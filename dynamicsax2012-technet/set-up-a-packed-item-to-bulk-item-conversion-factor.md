@@ -2,8 +2,9 @@
 title: Set up a packed item to bulk item conversion factor
 TOCTitle: Set up a packed item to bulk item conversion factor
 ms:assetid: 5e3ebd06-4922-4090-ae4e-a53589b8d09d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352207(v=AX.60)
 ms:contentKeyID: 36687841
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,15 +46,15 @@ Use this procedure to set up the conversion factor for converting a packed item 
 
 [About consolidated batch orders](about-consolidated-batch-orders.md)
 
-[Bulk item conversion (form)](https://technet.microsoft.com/en-us/library/hh209242\(v=ax.60\))
+[Bulk item conversion (form)](https://technet.microsoft.com/library/hh209242\(v=ax.60\))
 
 [Create a consolidated batch order](create-a-consolidated-batch-order.md)
 
 [Firm a consolidated batch order](firm-a-consolidated-batch-order.md)
 
-[Released products (list page)](https://technet.microsoft.com/en-us/library/hh597154\(v=ax.60\))
+[Released products (list page)](https://technet.microsoft.com/library/hh597154\(v=ax.60\))
 
-[Unit conversions (form)](https://technet.microsoft.com/en-us/library/hh209285\(v=ax.60\))
+[Unit conversions (form)](https://technet.microsoft.com/library/hh209285\(v=ax.60\))
 
   
 

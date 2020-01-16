@@ -2,8 +2,9 @@
 title: Set up templates in Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Set up templates in Microsoft Dynamics ERP RapidStart Services
 ms:assetid: fd4a8715-a4d1-4911-b111-b0702628774d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh413256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh413256(v=AX.60)
 ms:contentKeyID: 36918947
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

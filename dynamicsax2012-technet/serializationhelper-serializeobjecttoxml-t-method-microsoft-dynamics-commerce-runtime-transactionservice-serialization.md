@@ -1,9 +1,10 @@
-﻿---
+---
 title: SerializationHelper.SerializeObjectToXml(T) Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: SerializeObjectToXml(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.SerializeObjectToXml``1(``0)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ807283(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ807283(v=AX.60)
 ms:contentKeyID: 49855220
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ static String^ SerializeObjectToXml(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 Target serialized in XML string.  
 
 ## See Also

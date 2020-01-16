@@ -2,8 +2,9 @@
 title: Set up Human resources workflows
 TOCTitle: Set up Human resources workflows
 ms:assetid: 177a7979-752a-4ff6-b0ef-9a1ea5324e1d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876703(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876703(v=AX.60)
 ms:contentKeyID: 63385346
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,9 +74,9 @@ The following table lists the types of workflows that you can create in Human re
 
 ## See also
 
-[Journal names (form) (Project)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form) (Project)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
 [Configure personnel actions](configure-personnel-actions.md)
 

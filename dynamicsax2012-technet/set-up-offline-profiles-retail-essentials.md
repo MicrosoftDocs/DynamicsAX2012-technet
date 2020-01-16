@@ -2,8 +2,9 @@
 title: Set up offline profiles (Retail essentials)
 TOCTitle: Set up offline profiles (Retail essentials)
 ms:assetid: d551e524-2b83-4dc2-a135-95a008406452
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736960(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736960(v=AX.60)
 ms:contentKeyID: 62200437
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

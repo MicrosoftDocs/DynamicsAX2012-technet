@@ -2,8 +2,9 @@
 title: (SAU) Letter of credit misc charges report (BankLCMiscChargeReport_SA)
 TOCTitle: (SAU) Letter of credit misc charges report (BankLCMiscChargeReport_SA)
 ms:assetid: 40cb2567-31b7-4b5d-a647-e24de57ebdb4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433489(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433489(v=AX.60)
 ms:contentKeyID: 36941250
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

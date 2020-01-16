@@ -2,8 +2,9 @@
 title: Set up a Retail topology to use with deployment tools
 TOCTitle: Set up a Retail topology to use with deployment tools
 ms:assetid: 5820dee2-ddaf-4a32-a891-94587706d3e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn858394(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn858394(v=AX.60)
 ms:contentKeyID: 63417188
+author: Khairunj
 ms.date: 11/09/2016
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Spend by top vendors and invoice classification report (VendSpendTopInvoice)
 TOCTitle: Spend by top vendors and invoice classification report (VendSpendTopInvoice)
 ms:assetid: 6972c1f4-fcaa-49c9-a1f9-e21f06e221fa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433501(v=AX.60)
 ms:contentKeyID: 36941268
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

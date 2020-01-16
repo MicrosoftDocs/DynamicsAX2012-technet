@@ -2,8 +2,9 @@
 title: Set up Fixed assets workflows
 TOCTitle: Set up Fixed assets workflows
 ms:assetid: f8d27156-2fa5-4c3b-851e-f74fbd4af240
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227561(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227561(v=AX.60)
 ms:contentKeyID: 36060051
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -105,7 +106,7 @@ To create a workflow, follow these steps.
 
 ## Calculated fields and expressions
 
-The following calculated fields and expressions are used with Fixed assets workflow journal approvals. For each configuration, you can set up conditions that include these calculated fields and expressions. For more information, see [Test workflow condition (form)](https://technet.microsoft.com/en-us/library/hh597214\(v=ax.60\)).
+The following calculated fields and expressions are used with Fixed assets workflow journal approvals. For each configuration, you can set up conditions that include these calculated fields and expressions. For more information, see [Test workflow condition (form)](https://technet.microsoft.com/library/hh597214\(v=ax.60\)).
 
 <table>
 <colgroup>
@@ -149,9 +150,9 @@ The following calculated fields and expressions are used with Fixed assets workf
 
 ## See also
 
-[Journal names (form)](https://technet.microsoft.com/en-us/library/aa617509\(v=ax.60\))
+[Journal names (form)](https://technet.microsoft.com/library/aa617509\(v=ax.60\))
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
   
 

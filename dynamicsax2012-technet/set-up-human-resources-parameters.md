@@ -2,8 +2,9 @@
 title: Set up human resources parameters
 TOCTitle: Set up human resources parameters
 ms:assetid: 12c9e324-d565-41f8-b4eb-6633e1db3c86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496591(v=AX.60)
 ms:contentKeyID: 36056041
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Click **Human resources** \> **Setup** \> **Parameters** \> **Human resources sh
 
 Use the **Human resources shared parameters** form to set up parameters to use for all your legal entities. Parameters are grouped into areas according to their functionality. In each area, you can set up the following parameters:
 
-1.  **Identification** – Select the identification types that represent the identification numbers listed in the following fields. The information for the following fields is maintained in the following form: [Identification type (form)](https://technet.microsoft.com/en-us/library/hh227646\(v=ax.60\)).
+1.  **Identification** – Select the identification types that represent the identification numbers listed in the following fields. The information for the following fields is maintained in the following form: [Identification type (form)](https://technet.microsoft.com/library/hh227646\(v=ax.60\)).
     
       - In the **SSN** field, select the identification type that represents the Social Security Number.
     
@@ -79,11 +80,11 @@ Use the **Human resources parameters** form to set up parameters that are specif
 
 ## See also
 
-[Human resource parameters (form)](https://technet.microsoft.com/en-us/library/aa596451\(v=ax.60\))
+[Human resource parameters (form)](https://technet.microsoft.com/library/aa596451\(v=ax.60\))
 
-[Human resources shared parameters (form)](https://technet.microsoft.com/en-us/library/hh209632\(v=ax.60\))
+[Human resources shared parameters (form)](https://technet.microsoft.com/library/hh209632\(v=ax.60\))
 
-[Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\))
+[Number sequences (list page)](https://technet.microsoft.com/library/aa600321\(v=ax.60\))
 
   
 

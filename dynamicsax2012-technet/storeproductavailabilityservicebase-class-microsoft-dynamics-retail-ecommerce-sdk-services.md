@@ -1,9 +1,10 @@
-﻿---
+---
 title: StoreProductAvailabilityServiceBase Class (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: StoreProductAvailabilityServiceBase Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.StoreProductAvailabilityServiceBase
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.storeproductavailabilityservicebase(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.storeproductavailabilityservicebase(v=AX.60)
 ms:contentKeyID: 65316469
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ public ref class StoreProductAvailabilityServiceBase abstract : public ServiceBa
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
   [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase](servicebase-t-class-microsoft-dynamics-retail-ecommerce-sdk-services.md)\<[StoreProductAvailabilityController](storeproductavailabilitycontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md)\>  
     Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.StoreProductAvailabilityServiceBase  
 

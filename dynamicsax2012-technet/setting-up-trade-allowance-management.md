@@ -2,8 +2,9 @@
 title: Setting up Trade allowance management
 TOCTitle: Setting up Trade allowance management
 ms:assetid: 4b27b76b-33fb-4fea-8404-9c21725abb15
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497750(v=AX.60)
 ms:contentKeyID: 62200066
+author: Khairunj
 ms.date: 09/09/2014
 mtps_version: v=AX.60
 f1_keywords:

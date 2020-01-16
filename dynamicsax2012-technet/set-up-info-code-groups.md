@@ -2,8 +2,9 @@
 title: Set up info code groups
 TOCTitle: Set up info code groups
 ms:assetid: 579ec37c-c563-4481-a716-ef631fbba6d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn631652(v=AX.60)
 ms:contentKeyID: 62200072
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Set up substances for environmental tracking
 TOCTitle: Set up substances for environmental tracking
 ms:assetid: 848fcd7f-3a20-4c53-bd99-95a07841ad7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209320(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209320(v=AX.60)
 ms:contentKeyID: 36058392
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,7 +66,7 @@ A substance is any material or type of energy that enters, moves through, or lea
 
 ## See also
 
-[Substances (form)](https://technet.microsoft.com/en-us/library/hh227552\(v=ax.60\))
+[Substances (form)](https://technet.microsoft.com/library/hh227552\(v=ax.60\))
 
 [Set up environmental parameters](set-up-environmental-parameters.md)
 

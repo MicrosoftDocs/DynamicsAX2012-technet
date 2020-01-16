@@ -2,8 +2,9 @@
 title: Set up a review process for reversals and cancellations
 TOCTitle: Set up a review process for reversals and cancellations
 ms:assetid: b18358cd-b48b-48ab-b8cd-2d97a741963d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232393(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232393(v=AX.60)
 ms:contentKeyID: 36058979
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,19 +46,19 @@ You can also set up alerts, so that reviewers are notified when records are read
 
 ## See also
 
-[Cash and bank management parameters (form)](https://technet.microsoft.com/en-us/library/aa591289\(v=ax.60\))
+[Cash and bank management parameters (form)](https://technet.microsoft.com/library/aa591289\(v=ax.60\))
 
-[Journal names setup (form)](https://technet.microsoft.com/en-us/library/aa552517\(v=ax.60\))
+[Journal names setup (form)](https://technet.microsoft.com/library/aa552517\(v=ax.60\))
 
 [Reverse a posted check](reverse-a-posted-check.md)
 
 [Cancel a deposit slip payment](cancel-a-deposit-slip-payment.md)
 
-[Check reversals lines (form)](https://technet.microsoft.com/en-us/library/hh209241\(v=ax.60\))
+[Check reversals lines (form)](https://technet.microsoft.com/library/hh209241\(v=ax.60\))
 
-[Deposit slip payment cancellations lines (form)](https://technet.microsoft.com/en-us/library/hh242809\(v=ax.60\))
+[Deposit slip payment cancellations lines (form)](https://technet.microsoft.com/library/hh242809\(v=ax.60\))
 
-[Payment reversals (form)](https://technet.microsoft.com/en-us/library/hh208702\(v=ax.60\))
+[Payment reversals (form)](https://technet.microsoft.com/library/hh208702\(v=ax.60\))
 
   
 

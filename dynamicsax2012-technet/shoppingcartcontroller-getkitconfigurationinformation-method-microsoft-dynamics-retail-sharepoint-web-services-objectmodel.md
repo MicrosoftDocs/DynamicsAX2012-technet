@@ -1,9 +1,10 @@
-﻿---
+---
 title: ShoppingCartController.GetKitConfigurationInformation Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel)
 TOCTitle: GetKitConfigurationInformation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.ShoppingCartController.GetKitConfigurationInformation(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.KitLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.shoppingcartcontroller.getkitconfigurationinformation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.shoppingcartcontroller.getkitconfigurationinformation(v=AX.60)
 ms:contentKeyID: 62204077
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,17 +61,17 @@ static KitConfigurationInformation^ GetKitConfigurationInformation(
 #### Parameters
 
   - kitProductMasterIdentifier  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - catalogId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 <!-- end list -->
 
   - kitLines  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[KitLine](kitline-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[KitLine](kitline-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)\>  
 
 #### Return Value
 
@@ -92,7 +93,7 @@ Specific kit configuration information.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>kitLines</p>
 <p>-or-</p>
 <p>kitProductMasterIdentifier</p>
@@ -100,7 +101,7 @@ Specific kit configuration information.
 <p>catalogId</p></td>
 </tr>
 <tr class="even">
-<td><a href="https://technet.microsoft.com/en-us/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
+<td><a href="https://technet.microsoft.com/library/2asft85a(v=ax.60)">InvalidOperationException</a></td>
 <td><p>When no price is returned for the kit configuration variant.</p></td>
 </tr>
 </tbody>

@@ -2,8 +2,9 @@
 title: Set up requests for quotation
 TOCTitle: Set up requests for quotation
 ms:assetid: 49d82a07-6f3a-4ee5-977f-5ca7f17de204
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231403(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231403(v=AX.60)
 ms:contentKeyID: 36056947
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ Use this procedure to define default values for RFQs. The default values are cop
 
 2.  In the **Procurement and sourcing parameters** form, click **Request for quotation**.
 
-3.  In the **Set up default values for requests for quotations** area, specify default values for RFQs, such as purchase type, expiration date and time, delivery information, payment terms, and trade agreement journal. For more information about parameters, see [Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\)).
+3.  In the **Set up default values for requests for quotations** area, specify default values for RFQs, such as purchase type, expiration date and time, delivery information, payment terms, and trade agreement journal. For more information about parameters, see [Procurement and sourcing parameters (form)](https://technet.microsoft.com/library/hh208706\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -81,7 +82,7 @@ Use this procedure to define default values that you can assign to vendor replie
 
 ## Set up reason codes
 
-Use reason codes to explain why a bid was accepted or rejected. You set up reason codes in the [Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\)). For more information, see [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md).
+Use reason codes to explain why a bid was accepted or rejected. You set up reason codes in the [Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\)). For more information, see [Set up reason codes for financial modules](set-up-reason-codes-for-financial-modules.md).
 
 ## Define form setup for requests for quotation
 
@@ -93,7 +94,7 @@ Use this procedure to define the information that you want to display in documen
 
 
 > [!NOTE]
-> <P>Print management is available for RFQs. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209383(v=ax.60)">Print management setup (form)</A>.</P>
+> <P>Print management is available for RFQs. For more information, see <A href="https://technet.microsoft.com/library/hh209383(v=ax.60)">Print management setup (form)</A>.</P>
 
 
 
@@ -113,7 +114,7 @@ Use this procedure to set up a master plan so that it includes RFQs.
 
 3.  On the **General** FastTab, under **Setup**, select the **Include requests for quotations** check box.
 
-For more information about master plans, see [Master plans (form)](https://technet.microsoft.com/en-us/library/aa591284\(v=ax.60\)).
+For more information about master plans, see [Master plans (form)](https://technet.microsoft.com/library/aa591284\(v=ax.60\)).
 
 ## Set up results views in AX 2012 R3 CU8
 

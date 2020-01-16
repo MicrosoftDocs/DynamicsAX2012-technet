@@ -2,8 +2,9 @@
 title: Set up letter of guarantee cancellation reasons and purpose code types
 TOCTitle: Set up letter of guarantee cancellation reasons and purpose code types
 ms:assetid: 9ce4ecf5-be59-4615-8c21-d4e17144ee41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209439(v=AX.60)
 ms:contentKeyID: 36058740
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,11 +63,11 @@ You can set up a payment purpose or reason code to specify the objective of a le
 
 ## See also
 
-[Reasons (form)](https://technet.microsoft.com/en-us/library/hh209362\(v=ax.60\))
+[Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\))
 
-[Payment purpose codes (form)](https://technet.microsoft.com/en-us/library/aa587506\(v=ax.60\))
+[Payment purpose codes (form)](https://technet.microsoft.com/library/aa587506\(v=ax.60\))
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
 [Set up posting profiles for the letter of guarantee](set-up-posting-profiles-for-the-letter-of-guarantee.md)
 

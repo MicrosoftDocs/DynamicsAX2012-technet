@@ -2,8 +2,9 @@
 title: Set up purchase or sales agreement functionality
 TOCTitle: Set up purchase or sales agreement functionality
 ms:assetid: 32d8f14f-b654-405f-a439-ab394260751a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh802995(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh802995(v=AX.60)
 ms:contentKeyID: 44080967
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ Number sequences automatically assign identification numbers to purchase agreeme
         
 
         > [!NOTE]
-        > <P>To enable purchase agreement IDs or sales agreement IDs to be entered manually, select the <STRONG>Manual</STRONG> check box. For more information about the fields in this form, see <A href="https://technet.microsoft.com/en-us/library/aa600321(v=ax.60)">Number sequences (list page)</A>.</P>
+        > <P>To enable purchase agreement IDs or sales agreement IDs to be entered manually, select the <STRONG>Manual</STRONG> check box. For more information about the fields in this form, see <A href="https://technet.microsoft.com/library/aa600321(v=ax.60)">Number sequences (list page)</A>.</P>
 
     
     8.  On the **References** FastTab, click **Add**, and then select a module and an agreement ID.
@@ -135,13 +136,13 @@ Follow these steps to create agreement types.
 
 ## See also
 
-[Purchase agreements (form)](https://technet.microsoft.com/en-us/library/hh209550\(v=ax.60\))
+[Purchase agreements (form)](https://technet.microsoft.com/library/hh209550\(v=ax.60\))
 
-[Sales agreements (form)](https://technet.microsoft.com/en-us/library/hh209567\(v=ax.60\))
+[Sales agreements (form)](https://technet.microsoft.com/library/hh209567\(v=ax.60\))
 
-[Number sequences (list page)](https://technet.microsoft.com/en-us/library/aa600321\(v=ax.60\))
+[Number sequences (list page)](https://technet.microsoft.com/library/aa600321\(v=ax.60\))
 
-[Agreement classification (form)](https://technet.microsoft.com/en-us/library/hh802986\(v=ax.60\))
+[Agreement classification (form)](https://technet.microsoft.com/library/hh802986\(v=ax.60\))
 
 [Purchase and sales agreement configuration key (TradeBlanketOrder)](purchase-and-sales-agreement-configuration-key-tradeblanketorder.md)
 

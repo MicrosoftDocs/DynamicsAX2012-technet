@@ -2,8 +2,9 @@
 title: Sign up for a training course
 TOCTitle: Sign up for a training course
 ms:assetid: c7c6c66d-b729-4bbd-8cba-1564796c9271
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271648(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271648(v=AX.60)
 ms:contentKeyID: 36384280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

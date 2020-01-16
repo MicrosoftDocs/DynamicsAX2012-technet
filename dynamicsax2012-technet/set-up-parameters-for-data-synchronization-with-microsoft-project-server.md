@@ -2,8 +2,9 @@
 title: Set up parameters for data synchronization with Microsoft Project Server
 TOCTitle: Set up parameters for data synchronization with Microsoft Project Server
 ms:assetid: 3f2ed315-9ec3-4b62-8496-390275a45dbe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242251(v=AX.60)
 ms:contentKeyID: 36056700
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,15 +38,15 @@ The parameters that you set in the **Synchronization service parameters** form d
 
 ## See also
 
-[Synchronization service parameters (form)](https://technet.microsoft.com/en-us/library/hh209631\(v=ax.60\))
+[Synchronization service parameters (form)](https://technet.microsoft.com/library/hh209631\(v=ax.60\))
 
 [Configuring Microsoft Project Server integration](configuring-microsoft-project-server-integration.md)
 
 [About Microsoft Dynamics AX integration with Microsoft Project Server](about-microsoft-dynamics-ax-integration-with-microsoft-project-server.md)
 
-[Microsoft Project Server integration settings (form)](https://technet.microsoft.com/en-us/library/hh242729\(v=ax.60\))
+[Microsoft Project Server integration settings (form)](https://technet.microsoft.com/library/hh242729\(v=ax.60\))
 
-[Microsoft Project Server integration global settings (form)](https://technet.microsoft.com/en-us/library/hh209389\(v=ax.60\))
+[Microsoft Project Server integration global settings (form)](https://technet.microsoft.com/library/hh209389\(v=ax.60\))
 
   
 

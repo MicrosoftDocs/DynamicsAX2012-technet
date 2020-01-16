@@ -2,8 +2,9 @@
 title: Setting up bar codes (Retail essentials)
 TOCTitle: Setting up bar codes (Retail essentials)
 ms:assetid: ba52bc9a-6f60-49b7-83f7-d3c791ab0ad8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736939(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736939(v=AX.60)
 ms:contentKeyID: 62200416
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---
