@@ -2,8 +2,9 @@
 title: (CZE) Balance sheet report (LedgerBalanceSheet)
 TOCTitle: (CZE) Balance sheet report (LedgerBalanceSheet)
 ms:assetid: d4458adc-23e4-4ac4-8f36-7da6c044a50e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710617(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710617(v=AX.60)
 ms:contentKeyID: 49385014
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ When you generate this report, the following default parameters are displayed. Y
 <li><p><strong>1</strong> – The declared amounts are rounded to the nearest whole number based on the rounding method selected in the <strong>Rounding form</strong> field in the <strong>Balance sheet definition</strong> form.</p></li>
 <li><p><strong>1000</strong> – The declared amounts are rounded to the nearest thousands based on the rounding method selected in the <strong>Rounding form</strong> field in the <strong>Balance sheet definition</strong> form.</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj710630(v=ax.60)">(CZE) Balance sheet definition (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj710630(v=ax.60)">(CZE) Balance sheet definition (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Include opening balance</strong></p></td>

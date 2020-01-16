@@ -2,8 +2,9 @@
 title: Deploy updates to Enterprise Portal
 TOCTitle: Deploy updates to Enterprise Portal
 ms:assetid: d64915fb-0fe3-46c0-8ee9-15ee5368b62e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh538462(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh538462(v=AX.60)
 ms:contentKeyID: 39508891
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -21,7 +22,7 @@ The following procedures describe how to apply updates to an installation of Ent
 
 2.  Install the update on all Enterprise Portal servers.
 
-3.  Run the Enterprise Portal update utility, AXUpdatePortal.exe, on all Enterprise Portal web servers. The utility deploys web-related items from the Application Object Tree (AOT) to all Enterprise Portal sites on a web server. For more information, see [AxUpdatePortal Utility](https://technet.microsoft.com/en-us/library/dd261467\(v=ax.60\)).
+3.  Run the Enterprise Portal update utility, AXUpdatePortal.exe, on all Enterprise Portal web servers. The utility deploys web-related items from the Application Object Tree (AOT) to all Enterprise Portal sites on a web server. For more information, see [AxUpdatePortal Utility](https://technet.microsoft.com/library/dd261467\(v=ax.60\)).
     
     1.  Open a Command Prompt window.
     

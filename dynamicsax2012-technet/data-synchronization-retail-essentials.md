@@ -2,8 +2,9 @@
 title: Data synchronization (Retail essentials)
 TOCTitle: Data synchronization (Retail essentials)
 ms:assetid: bd4aee58-0ea4-43c2-846f-34454e3cab6f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736942(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736942(v=AX.60)
 ms:contentKeyID: 62200419
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

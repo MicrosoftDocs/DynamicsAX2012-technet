@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataModelExtensions.Clone(TKey, TValue) Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Clone(TKey, TValue) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.DataModelExtensions.Clone``2(System.Collections.Generic.Dictionary{``0,``1})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn966283(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn966283(v=AX.60)
 ms:contentKeyID: 65315471
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,15 +63,15 @@ static Dictionary<TKey, TValue>^ Clone(
 #### Parameters
 
   - originalDictionary  
-    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>  
+    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>  
 
 #### Return Value
 
-Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>  
+Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>  
 
 #### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>. When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<TKey, TValue\>. When you use instance method syntax to call this method, omit the first parameter. For more information, see b8020aae-374d-46a9-bcb7-8cc2390b93b6 or 175ce3ff-9bbf-4e64-8421-faeb81a0bb51.
 
 ## See Also
 

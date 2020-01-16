@@ -2,8 +2,9 @@
 title: Determine customer satisfaction level
 TOCTitle: Determine customer satisfaction level
 ms:assetid: 9b0857ca-4129-40e8-a6c3-0bc307ead719
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213356(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213356(v=AX.60)
 ms:contentKeyID: 36058709
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DemoService.GenerateServerError Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: GenerateServerError Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.DemoService.GenerateServerError
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.demoservice.generateservererror(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.demoservice.generateservererror(v=AX.60)
 ms:contentKeyID: 62206768
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,7 +67,7 @@ virtual void GenerateServerError() sealed
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
+<td><a href="https://technet.microsoft.com/library/6byb74h9(v=ax.60)">NotImplementedException</a></td>
 <td><p>Always thrown.</p></td>
 </tr>
 </tbody>

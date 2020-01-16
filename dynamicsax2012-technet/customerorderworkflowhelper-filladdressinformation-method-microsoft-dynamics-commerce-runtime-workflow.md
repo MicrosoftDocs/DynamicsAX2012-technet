@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerOrderWorkflowHelper.FillAddressInformation Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: FillAddressInformation Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper.FillAddressInformation(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Collections.Generic.Dictionary{System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.filladdressinformation(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.filladdressinformation(v=AX.60)
 ms:contentKeyID: 62210929
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,7 +79,7 @@ static void FillAddressInformation(
 <!-- end list -->
 
   - salesLineByLineId  
-    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/en-us/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\)), [SalesLine](salesline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+    Type: [System.Collections.Generic.Dictionary](https://technet.microsoft.com/library/xfhwa508\(v=ax.60\))\<[String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)), [SalesLine](salesline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## Remarks
 

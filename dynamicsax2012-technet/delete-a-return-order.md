@@ -2,8 +2,9 @@
 title: Delete a return order
 TOCTitle: Delete a return order
 ms:assetid: a38a0a99-78b5-4f18-9613-6e73f75669fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213406(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213406(v=AX.60)
 ms:contentKeyID: 36058811
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Delete return order** form to delete multiple return orders.
 
 ## See also
 
-[Delete return order (form)](https://technet.microsoft.com/en-us/library/hh597318\(v=ax.60\))
+[Delete return order (form)](https://technet.microsoft.com/library/hh597318\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Deploy language-specific versions of a report
 TOCTitle: Deploy language-specific versions of a report
 ms:assetid: f9282b61-5a9a-4309-a59e-02883445ab38
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496446(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496446(v=AX.60)
 ms:contentKeyID: 37072028
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

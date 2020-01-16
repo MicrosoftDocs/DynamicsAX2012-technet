@@ -2,8 +2,9 @@
 title: Deployment of reporting
 TOCTitle: Deployment
 ms:assetid: 6322c479-b7a0-48b4-957d-9de429c71426
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873262(v=AX.60)
 ms:contentKeyID: 28119368
+author: Khairunj
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

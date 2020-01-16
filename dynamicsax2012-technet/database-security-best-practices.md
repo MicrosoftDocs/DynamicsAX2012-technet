@@ -2,8 +2,9 @@
 title: Database security best practices
 TOCTitle: Database security best practices
 ms:assetid: 5673912e-3b7c-4ec8-a31f-da02d2727797
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn385338(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn385338(v=AX.60)
 ms:contentKeyID: 56554591
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -93,7 +94,7 @@ Enabling database encryption directly addresses the requirement to protect store
 
 ## Secure the database logs
 
-Database logs can contain sensitive data. By default, any database log that is created can be queried by any user who has access to the database. Users can query the log by using .NET Business Connector, X++, alerts, or direct access to the database. To protect data, restrict the permissions on the **sysdatabaselog** table. For detailed information, see [Table Properties](https://technet.microsoft.com/en-us/library/aa871620\(v=ax.60\)).
+Database logs can contain sensitive data. By default, any database log that is created can be queried by any user who has access to the database. Users can query the log by using .NET Business Connector, X++, alerts, or direct access to the database. To protect data, restrict the permissions on the **sysdatabaselog** table. For detailed information, see [Table Properties](https://technet.microsoft.com/library/aa871620\(v=ax.60\)).
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T).Item Property (Int32) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: Item Property (Int32)
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Item(System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn989422(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn989422(v=AX.60)
 ms:contentKeyID: 65319375
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -55,7 +56,7 @@ virtual property T Item[int index] {
 #### Parameters
 
   - index  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Property Value
 
@@ -64,7 +65,7 @@ The value corresponding to the index provided.
 
 #### Implements
 
-[IList\<T\>.Item\[Int32\]](https://technet.microsoft.com/en-us/library/ewthkb10\(v=ax.60\))  
+[IList\<T\>.Item\[Int32\]](https://technet.microsoft.com/library/ewthkb10\(v=ax.60\))  
 
 ## See Also
 

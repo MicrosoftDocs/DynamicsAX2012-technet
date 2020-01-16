@@ -2,8 +2,9 @@
 title: 'Deprecated: (RUS) Exchange rates import'
 TOCTitle: (RUS) Exchange rates import
 ms:assetid: 37c9fff1-3e3e-48e5-905c-827033220b46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507101(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507101(v=AX.60)
 ms:contentKeyID: 59623191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

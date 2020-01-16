@@ -2,8 +2,9 @@
 title: Define how trade allowance works in your organization
 TOCTitle: Define how trade allowance works in your organization
 ms:assetid: ebce4810-14d9-4d8e-bd16-66a84807aa0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn727066(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn727066(v=AX.60)
 ms:contentKeyID: 62381663
+author: Khairunj
 ms.date: 05/27/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Ledger post and Create remittance at operation type'
 TOCTitle: (BRA) Ledger post and Create remittance at operation type
 ms:assetid: b65276d1-fe66-4290-aad8-a9b35357a7c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527230(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527230(v=AX.60)
 ms:contentKeyID: 59623358
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

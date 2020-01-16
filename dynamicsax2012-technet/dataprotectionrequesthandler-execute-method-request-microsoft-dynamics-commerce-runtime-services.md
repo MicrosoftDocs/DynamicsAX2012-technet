@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataProtectionRequestHandler.Execute Method (Request) (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: Execute Method (Request)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.DataProtectionRequestHandler.Execute(Microsoft.Dynamics.Commerce.Runtime.Messages.Request)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.dataprotectionrequesthandler.execute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.dataprotectionrequesthandler.execute(v=AX.60)
 ms:contentKeyID: 65316888
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -76,11 +77,11 @@ The outgoing response message.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>The request is null.</p></td>
 </tr>
 <tr class="even">
-<td><a href="https://technet.microsoft.com/en-us/library/8a7a4e64(v=ax.60)">NotSupportedException</a></td>
+<td><a href="https://technet.microsoft.com/library/8a7a4e64(v=ax.60)">NotSupportedException</a></td>
 <td><p>The request type is not supported.</p></td>
 </tr>
 </tbody>

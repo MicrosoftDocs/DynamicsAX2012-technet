@@ -2,8 +2,9 @@
 title: 'Deprecated: Support for BOM item type BOM'
 TOCTitle: BOM item type BOM
 ms:assetid: 718e3957-b77a-4779-bd6d-81460fe6066b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527142(v=AX.60)
 ms:contentKeyID: 59623271
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

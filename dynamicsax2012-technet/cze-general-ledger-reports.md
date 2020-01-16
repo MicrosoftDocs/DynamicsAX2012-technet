@@ -2,8 +2,9 @@
 title: (CZE) General ledger reports
 TOCTitle: (CZE) General ledger reports
 ms:assetid: dbf0f768-0b32-4798-bdec-93d73bfca208
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710622(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710622(v=AX.60)
 ms:contentKeyID: 49385018
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

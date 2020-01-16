@@ -2,8 +2,9 @@
 title: Define budget exchange rates
 TOCTitle: Define budget exchange rates
 ms:assetid: 3f123515-140d-4e33-9daf-e297613dea7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242250(v=AX.60)
 ms:contentKeyID: 36056697
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -18,13 +19,13 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-You can define currency exchange rates between currency pairs for the **Budget** exchange rate type, which is already set up. For more information, see [Exchange rate types (form)](https://technet.microsoft.com/en-us/library/hh242857\(v=ax.60\)).
+You can define currency exchange rates between currency pairs for the **Budget** exchange rate type, which is already set up. For more information, see [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Currency** \> **Exchange rate types**.
 
 2.  Select the **Budget** exchange rate type and then click **Exchange rates** to open the **Currency exchange rates** form.
 
-3.  Click **New** and select values in the **From currency** and **To currency** fields. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/en-us/library/hh209477\(v=ax.60\)).
+3.  Click **New** and select values in the **From currency** and **To currency** fields. For more information, see [Currency exchange rates (form)](https://technet.microsoft.com/library/hh209477\(v=ax.60\)).
 
 4.  Enter the exchange rate. For example, type 130 to represent 130 USD for 100 EUR.
 

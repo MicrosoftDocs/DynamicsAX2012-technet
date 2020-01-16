@@ -2,8 +2,9 @@
 title: Debug code in a Retail online sample store
 TOCTitle: Debug code in a Retail online sample store
 ms:assetid: 3bc6eddc-6e74-46b6-bbe2-46318feb619b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720293(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720293(v=AX.60)
 ms:contentKeyID: 62221433
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

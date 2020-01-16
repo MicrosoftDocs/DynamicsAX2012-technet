@@ -1,9 +1,10 @@
-﻿---
+---
 title: DiscountCalculationMode Enumeration (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: DiscountCalculationMode Enumeration
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountCalculationMode
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.discountcalculationmode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.discountcalculationmode(v=AX.60)
 ms:contentKeyID: 62214076
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ dev_langs:
 
 Defines how the pricing calculation should act on the set of lines passed into it.
 
-This enumeration has a [FlagsAttribute](https://technet.microsoft.com/en-us/library/dk06fkbc\(v=ax.60\)) attribute that allows a bitwise combination of its member values.
+This enumeration has a [FlagsAttribute](https://technet.microsoft.com/library/dk06fkbc\(v=ax.60\)) attribute that allows a bitwise combination of its member values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)

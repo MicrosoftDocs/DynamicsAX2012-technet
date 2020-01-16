@@ -2,8 +2,9 @@
 title: (DNK) Set up recurring batch jobs
 TOCTitle: (DNK) Set up recurring batch jobs
 ms:assetid: 233bf405-9201-44ab-8509-ed61229f47e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208476(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208476(v=AX.60)
 ms:contentKeyID: 36056181
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,9 +35,9 @@ Use the **Recurrence** form to set up recurring batch jobs for Offentlig Informa
 
 ## See also
 
-[Batch job (form)](https://technet.microsoft.com/en-us/library/aa585684\(v=ax.60\))
+[Batch job (form)](https://technet.microsoft.com/library/aa585684\(v=ax.60\))
 
-[Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
+[Recurrence (form)](https://technet.microsoft.com/library/aa616143\(v=ax.60\))
 
   
 

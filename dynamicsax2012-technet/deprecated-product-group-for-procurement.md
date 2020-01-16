@@ -2,8 +2,9 @@
 title: 'Deprecated: Product group for procurement'
 TOCTitle: Product group for procurement
 ms:assetid: 3aa47e0f-09cc-4313-95bf-890738c56e0c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507104(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507104(v=AX.60)
 ms:contentKeyID: 59623194
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

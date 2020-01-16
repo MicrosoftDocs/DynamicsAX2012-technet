@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataValidationErrors.QuoteMustNotHaveDepositOverride Field (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: QuoteMustNotHaveDepositOverride Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.QuoteMustNotHaveDepositOverride
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.quotemustnothavedepositoverride(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.quotemustnothavedepositoverride(v=AX.60)
 ms:contentKeyID: 62208421
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

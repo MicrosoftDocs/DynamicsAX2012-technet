@@ -2,8 +2,9 @@
 title: 'Deprecated: Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools'
 TOCTitle: Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools
 ms:assetid: 7b8668dd-a915-4d8a-974d-d01f0e08d2a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527161(v=AX.60)
 ms:contentKeyID: 59623289
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009 and earlier versions, Reporting Tools and Microsof
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature is no longer available, and standard Visual Studio Tools can be used instead.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg889299(v=ax.60)">Visual Studio Integration</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/gg889299(v=ax.60)">Visual Studio Integration</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

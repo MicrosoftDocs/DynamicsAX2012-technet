@@ -2,8 +2,9 @@
 title: Customize your workspace
 TOCTitle: Customize your workspace
 ms:assetid: 024ffab2-2eef-4e61-a9e9-a7c5321721dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569693(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569693(v=AX.60)
 ms:contentKeyID: 36676364
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -90,9 +91,9 @@ The language selection applies to the following components:
 
 [Using favorites](using-favorites.md)
 
-[Personalization (form)](https://technet.microsoft.com/en-us/library/aa597239\(v=ax.60\))
+[Personalization (form)](https://technet.microsoft.com/library/aa597239\(v=ax.60\))
 
-[Options (form)](https://technet.microsoft.com/en-us/library/aa617424\(v=ax.60\))
+[Options (form)](https://technet.microsoft.com/library/aa617424\(v=ax.60\))
 
   
 

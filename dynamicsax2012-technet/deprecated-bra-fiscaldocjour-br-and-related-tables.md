@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) FiscalDocJour_BR and related tables'
 TOCTitle: (BRA) FiscalDocJour_BR and related tables
 ms:assetid: 4341c4d4-a9fd-4573-ad41-176f50fc79c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507114(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507114(v=AX.60)
 ms:contentKeyID: 59623203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

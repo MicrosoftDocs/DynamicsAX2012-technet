@@ -2,8 +2,9 @@
 title: Default country/region
 TOCTitle: Default country/region
 ms:assetid: 291a94dc-25db-49c2-babc-f8cba7bf3532
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg751373(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg751373(v=AX.60)
 ms:contentKeyID: 35132586
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

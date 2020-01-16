@@ -2,8 +2,9 @@
 title: (DNK) Post a project invoice with a payment slip
 TOCTitle: (DNK) Post a project invoice with a payment slip
 ms:assetid: 09983149-a1cf-46fb-87bd-83522d7e8cde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242122(v=AX.60)
 ms:contentKeyID: 36055980
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,7 +46,7 @@ You can post a project invoice with a payment slip attachment in a specified for
 
 [(DNK) Set up a payment slip format for customers](dnk-set-up-a-payment-slip-format-for-customers.md)
 
-[Post invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa620017\(v=ax.60\))
+[Post invoice proposals (form)](https://technet.microsoft.com/library/aa620017\(v=ax.60\))
 
   
 

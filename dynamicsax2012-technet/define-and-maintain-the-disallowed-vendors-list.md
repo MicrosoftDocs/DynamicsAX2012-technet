@@ -2,8 +2,9 @@
 title: Define and maintain the disallowed vendors list
 TOCTitle: Define and maintain the disallowed vendors list
 ms:assetid: 3ba21984-54eb-474a-8b21-e90729fed06b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433533(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433533(v=AX.60)
 ms:contentKeyID: 36941322
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -39,7 +40,7 @@ If a match is found, the vendor request is flagged to indicate to the reviewer t
 
 
 > [!NOTE]
-> <P>Before you can select a number sequence for disallowed vendors, you must define your number sequences in the <STRONG>Number sequences</STRONG> form. For more information about how to set up number sequences, see <A href="https://technet.microsoft.com/en-us/library/aa600321(v=ax.60)">Number sequences (list page)</A>. This topic explains how to set up number sequences, and how to set them up in specific modules.</P>
+> <P>Before you can select a number sequence for disallowed vendors, you must define your number sequences in the <STRONG>Number sequences</STRONG> form. For more information about how to set up number sequences, see <A href="https://technet.microsoft.com/library/aa600321(v=ax.60)">Number sequences (list page)</A>. This topic explains how to set up number sequences, and how to set them up in specific modules.</P>
 
 
 

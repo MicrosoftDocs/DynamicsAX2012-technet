@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataCacheAccessor.CalculateCollectionHash(T) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: CalculateCollectionHash(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataCacheAccessor.CalculateCollectionHash``1(System.Collections.Generic.IEnumerable{``0})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968520(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968520(v=AX.60)
 ms:contentKeyID: 65321135
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,11 +57,11 @@ static int CalculateCollectionHash(
 #### Parameters
 
   - ids  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<T\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<T\>  
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 Hash corresponding to this collection of identifiers.  
 
 ## See Also

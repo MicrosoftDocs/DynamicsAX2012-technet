@@ -2,8 +2,9 @@
 title: Delete forecast model transactions
 TOCTitle: Delete forecast model transactions
 ms:assetid: 78e619e1-3bb2-4ee9-8101-6d8a97adf7b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550056(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550056(v=AX.60)
 ms:contentKeyID: 36058232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ To delete a forecast, you must delete forecast transactions from the forecast mo
 
 [Copy forecast model transactions](copy-forecast-model-transactions.md)
 
-[Delete forecasts (class form)](https://technet.microsoft.com/en-us/library/aa615234\(v=ax.60\))
+[Delete forecasts (class form)](https://technet.microsoft.com/library/aa615234\(v=ax.60\))
 
   
 

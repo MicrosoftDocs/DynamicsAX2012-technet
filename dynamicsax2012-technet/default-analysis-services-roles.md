@@ -2,8 +2,9 @@
 title: Default Analysis Services roles
 TOCTitle: Default Analysis Services roles
 ms:assetid: 7a5d0d7d-d3fd-4379-a40f-0f89887aacd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh404117(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh404117(v=AX.60)
 ms:contentKeyID: 36956785
+author: Khairunj
 ms.date: 07/16/2014
 mtps_version: v=AX.60
 ---

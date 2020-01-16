@@ -2,8 +2,9 @@
 title: 'Deprecated: (BRA) Fiscal document type used for received fiscal documents'
 TOCTitle: (BRA) Fiscal document type used for received fiscal documents
 ms:assetid: e99cbf10-004f-46b7-bac3-d18e344c9e5f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527249(v=AX.60)
 ms:contentKeyID: 59623377
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

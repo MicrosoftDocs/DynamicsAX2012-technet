@@ -1,9 +1,10 @@
-﻿---
+---
 title: Document Schema Rules
 TOCTitle: Document Schema Rules
 ms:assetid: 38458b10-5803-4320-89cc-0db6076f0e41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa636469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa636469(v=AX.60)
 ms:contentKeyID: 35242832
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -100,7 +101,7 @@ The following table shows the conventions used by AIF when naming schema element
 <tr class="odd">
 <td><p>AxdEntityKey_</p></td>
 <td><p>Surrogate key</p></td>
-<td><p>A schema element is generated for each reference data source that is used by each data source in the query. The element has the form AxdEntityKey_&lt;DataSourceName_ReferenceDataSourceName&gt;. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh812105(v=ax.60)">Table Keys: Surrogate, Alternate, Replacement, Primary, and Foreign</a>.</p></td>
+<td><p>A schema element is generated for each reference data source that is used by each data source in the query. The element has the form AxdEntityKey_&lt;DataSourceName_ReferenceDataSourceName&gt;. For more information, see <a href="https://technet.microsoft.com/library/hh812105(v=ax.60)">Table Keys: Surrogate, Alternate, Replacement, Primary, and Foreign</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -206,7 +207,7 @@ AIF will accept an XML time value in this format. However, when it deserializes 
 
 ### Time Zone Values
 
-Some documents contain time zone elements. The schema time zone values correspond to the time zone values in the time zone system enum. For more information, see [Timezone Enumeration](https://technet.microsoft.com/en-us/library/gg848856\(v=ax.60\)) and [Time Zone Overview and Terminology](https://technet.microsoft.com/en-us/library/cc518263\(v=ax.60\)).
+Some documents contain time zone elements. The schema time zone values correspond to the time zone values in the time zone system enum. For more information, see [Timezone Enumeration](https://technet.microsoft.com/library/gg848856\(v=ax.60\)) and [Time Zone Overview and Terminology](https://technet.microsoft.com/library/cc518263\(v=ax.60\)).
 
 The valid time zone values are specified in the document schema as shown in the following XML.
 

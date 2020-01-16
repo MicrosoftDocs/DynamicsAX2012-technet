@@ -2,8 +2,9 @@
 title: Define sales prices for products
 TOCTitle: Define sales prices for products
 ms:assetid: 2d85dac8-5091-44c2-8b3f-a869390fb76d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh802994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh802994(v=AX.60)
 ms:contentKeyID: 44080966
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,7 +24,7 @@ By using trade agreements, you can specify price adjustments and discounts for o
 
 
 > [!NOTE]
-> <P>The search for sales prices and discounts must be enabled before you can use trade agreements. To enable the search for sales prices and discounts, select the relevant options in the <STRONG>Activate price/discount</STRONG> forms. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa575310(v=ax.60)">Activate sales price/discount (form)</A>.</P>
+> <P>The search for sales prices and discounts must be enabled before you can use trade agreements. To enable the search for sales prices and discounts, select the relevant options in the <STRONG>Activate price/discount</STRONG> forms. For more information, see <A href="https://technet.microsoft.com/library/aa575310(v=ax.60)">Activate sales price/discount (form)</A>.</P>
 
 
 
@@ -76,13 +77,13 @@ A trade agreement can be set up for specific inventory dimensions. When you ente
 
 ## See also
 
-[Activate sales price/discount (form)](https://technet.microsoft.com/en-us/library/aa575310\(v=ax.60\))
+[Activate sales price/discount (form)](https://technet.microsoft.com/library/aa575310\(v=ax.60\))
 
-[Product dimension groups (form)](https://technet.microsoft.com/en-us/library/hh227672\(v=ax.60\))
+[Product dimension groups (form)](https://technet.microsoft.com/library/hh227672\(v=ax.60\))
 
-[Storage dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209317\(v=ax.60\))
+[Storage dimension groups (form)](https://technet.microsoft.com/library/hh209317\(v=ax.60\))
 
-[Tracking dimension groups (form)](https://technet.microsoft.com/en-us/library/hh209465\(v=ax.60\))
+[Tracking dimension groups (form)](https://technet.microsoft.com/library/hh209465\(v=ax.60\))
 
   
 

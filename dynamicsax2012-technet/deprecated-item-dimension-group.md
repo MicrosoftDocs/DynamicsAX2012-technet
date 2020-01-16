@@ -2,8 +2,9 @@
 title: 'Deprecated: Item dimension group'
 TOCTitle: Item dimension group
 ms:assetid: 8c3ff3c0-abaf-4559-9bb5-9a29b729336c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527169(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527169(v=AX.60)
 ms:contentKeyID: 59623298
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: 'Deprecated: (EEUR) Eastern Europe Intrastat reports'
 TOCTitle: (EEUR) Eastern Europe Intrastat reports
 ms:assetid: 7c25af41-ef90-49e7-af22-55e42251dd2b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527149(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527149(v=AX.60)
 ms:contentKeyID: 59623278
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

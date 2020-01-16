@@ -2,8 +2,9 @@
 title: 'Deprecated: (RUS) Inventory balance turnover report'
 TOCTitle: (RUS) Inventory balance turnover report
 ms:assetid: e0e108fa-2f6d-4833-b70d-fae73a402b2c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527226(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527226(v=AX.60)
 ms:contentKeyID: 59623354
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

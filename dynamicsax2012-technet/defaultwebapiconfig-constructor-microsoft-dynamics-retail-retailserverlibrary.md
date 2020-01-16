@@ -1,9 +1,10 @@
-﻿---
+---
 title: DefaultWebApiConfig Constructor  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: DefaultWebApiConfig Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.DefaultWebApiConfig.#ctor
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.defaultwebapiconfig.defaultwebapiconfig(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.defaultwebapiconfig.defaultwebapiconfig(v=AX.60)
 ms:contentKeyID: 62202192
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataStoreManager.RegisterDataStoreAccessor Method (DataStoreType, Func(IDataStore, RequestContext, DataStoreAccessor), RequestContext, String) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: RegisterDataStoreAccessor Method (DataStoreType, Func(IDataStore, RequestContext, DataStoreAccessor), RequestContext, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreManager.RegisterDataStoreAccessor(Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreType,System.Func{Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore,Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreAccessor},Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.datastoremanager.registerdatastoreaccessor(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastoremanager.registerdatastoreaccessor(v=AX.60)
 ms:contentKeyID: 65320808
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -65,7 +66,7 @@ void RegisterDataStoreAccessor(
 <!-- end list -->
 
   - constructor  
-    Type: [System.Func](https://technet.microsoft.com/en-us/library/bb534647\(v=ax.60\))\<[IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md), [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md), [DataStoreAccessor](datastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md)\>  
+    Type: [System.Func](https://technet.microsoft.com/library/bb534647\(v=ax.60\))\<[IDataStore](idatastore-interface-microsoft-dynamics-commerce-runtime-data.md), [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md), [DataStoreAccessor](datastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md)\>  
 
 <!-- end list -->
 
@@ -75,7 +76,7 @@ void RegisterDataStoreAccessor(
 <!-- end list -->
 
   - providerName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

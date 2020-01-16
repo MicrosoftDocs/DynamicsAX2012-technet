@@ -1,9 +1,10 @@
-﻿---
+---
 title: DatabaseAccessor.ExecuteStoredProcedure(T1, T2, T3, T4, T5, T6, T7, T8) Method (String, ParameterSet, ParameterSet, Int32) (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ExecuteStoredProcedure(T1, T2, T3, T4, T5, T6, T7, T8) Method (String, ParameterSet, ParameterSet, Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``8(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,System.Int32@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn991009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn991009(v=AX.60)
 ms:contentKeyID: 65322197
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -109,7 +110,7 @@ Tuple<ReadOnlyCollection<T1>^, ReadOnlyCollection<T2>^, ReadOnlyCollection<T3>^,
 #### Parameters
 
   - procedureName  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -124,11 +125,11 @@ Tuple<ReadOnlyCollection<T1>^, ReadOnlyCollection<T2>^, ReadOnlyCollection<T3>^,
 <!-- end list -->
 
   - returnValue  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 #### Return Value
 
-Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T1\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T2\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T3\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T4\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T5\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T6\>, [ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T7\>, Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<T8\>\>\>  
+Type: Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T1\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T2\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T3\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T4\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T5\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T6\>, [ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T7\>, Tuple\<[ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<T8\>\>\>  
 
 ## See Also
 

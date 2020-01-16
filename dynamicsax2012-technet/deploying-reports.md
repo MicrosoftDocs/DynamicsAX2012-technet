@@ -1,9 +1,10 @@
-﻿---
+---
 title: Deploying Reports
 TOCTitle: Deploying Reports
 ms:assetid: 2011d94c-19b5-47c1-b76f-0f7b2d93b69a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh297077(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh297077(v=AX.60)
 ms:contentKeyID: 36287622
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: 'Deprecated: Transaction log'
 TOCTitle: Transaction log
 ms:assetid: 9574b24e-77cc-4c25-8fa2-73dee721d1c7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527185(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527185(v=AX.60)
 ms:contentKeyID: 59623314
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

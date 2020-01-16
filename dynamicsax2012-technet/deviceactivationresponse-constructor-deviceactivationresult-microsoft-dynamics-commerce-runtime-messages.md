@@ -1,9 +1,10 @@
-﻿---
+---
 title: DeviceActivationResponse Constructor (DeviceActivationResult) (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: DeviceActivationResponse Constructor (DeviceActivationResult)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.DeviceActivationResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceActivationResult)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.deviceactivationresponse.deviceactivationresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.deviceactivationresponse.deviceactivationresponse(v=AX.60)
 ms:contentKeyID: 65317915
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

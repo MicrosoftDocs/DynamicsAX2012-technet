@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerService.UpdateCustomer Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Services)
 TOCTitle: UpdateCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.CustomerService.UpdateCustomer(Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Customer)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.customerservice.updatecustomer(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.customerservice.updatecustomer(v=AX.60)
 ms:contentKeyID: 62205453
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

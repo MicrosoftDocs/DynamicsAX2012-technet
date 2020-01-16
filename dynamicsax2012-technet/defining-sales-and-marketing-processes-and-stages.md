@@ -2,8 +2,9 @@
 title: Defining Sales and marketing processes and stages
 TOCTitle: Defining Sales and marketing processes and stages
 ms:assetid: 9c027b01-f8d6-4886-8624-49fd7fd099fb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213365(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213365(v=AX.60)
 ms:contentKeyID: 36058723
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

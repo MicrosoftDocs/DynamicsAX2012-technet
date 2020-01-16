@@ -2,8 +2,9 @@
 title: 'Deprecated: (BEL) EU sales list transfer'
 TOCTitle: (BEL) EU sales list transfer
 ms:assetid: 7a0cba9c-35a6-46d7-96ff-2372d4a044f2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527151(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527151(v=AX.60)
 ms:contentKeyID: 59623280
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009, there are two European Union (EU) sales list tran
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>Yes. The feature has been removed in Microsoft Dynamics AX 2012 and replaced by the standard EU sales list transfer.</p>
-<p>For more information, see <a href="generate-the-eu-sales-list.md">Generate the EU sales list</a> and <a href="https://technet.microsoft.com/en-us/library/aa499405(v=ax.60)">Transfer transactions for EU sales list (form)</a>.</p></td>
+<p>For more information, see <a href="generate-the-eu-sales-list.md">Generate the EU sales list</a> and <a href="https://technet.microsoft.com/library/aa499405(v=ax.60)">Transfer transactions for EU sales list (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>

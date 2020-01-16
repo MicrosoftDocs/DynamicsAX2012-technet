@@ -2,8 +2,9 @@
 title: 'Deprecated: (LVA) Fixed asset tax report'
 TOCTitle: (LVA) Fixed asset tax report
 ms:assetid: b131e116-3163-4d1d-92c2-169a297e7d4b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527206(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527206(v=AX.60)
 ms:contentKeyID: 59623335
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

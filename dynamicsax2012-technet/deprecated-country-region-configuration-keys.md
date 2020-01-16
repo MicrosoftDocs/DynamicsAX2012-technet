@@ -2,8 +2,9 @@
 title: 'Deprecated: Country/region configuration keys'
 TOCTitle: Country/region configuration keys
 ms:assetid: 638100e3-2520-4a50-ae55-1ca74f496c33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527128(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527128(v=AX.60)
 ms:contentKeyID: 59623257
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

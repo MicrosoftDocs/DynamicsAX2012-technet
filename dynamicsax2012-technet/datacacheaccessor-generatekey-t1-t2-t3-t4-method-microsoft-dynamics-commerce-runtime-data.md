@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataCacheAccessor.GenerateKey(T1, T2, T3, T4) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GenerateKey(T1, T2, T3, T4) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataCacheAccessor.GenerateKey``4(System.String,``0,``1,``2,``3)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn969008(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn969008(v=AX.60)
 ms:contentKeyID: 65322370
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -86,7 +87,7 @@ virtual String^ GenerateKey(
 #### Parameters
 
   - callingFunction  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -110,7 +111,7 @@ virtual String^ GenerateKey(
 
 #### Return Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

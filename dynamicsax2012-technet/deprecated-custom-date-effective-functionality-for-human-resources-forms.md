@@ -2,8 +2,9 @@
 title: 'Deprecated: Custom date-effective functionality for Human resources forms'
 TOCTitle: Custom date-effective functionality for Human resources forms
 ms:assetid: fc517f7d-a2f2-4c3e-bee4-c4e29a435662
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527263(v=AX.60)
 ms:contentKeyID: 59623391
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

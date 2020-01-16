@@ -2,8 +2,9 @@
 title: Debug X++ Code for Retail
 TOCTitle: Debug X++ Code for Retail
 ms:assetid: b0b29edb-d132-4876-8b6d-551bb4929976
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126099(v=AX.60)
 ms:contentKeyID: 52075234
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Then you can set breakpoints in your X++ code and begin debugging.
 
 
 > [!WARNING]
-> <P>To debug code that runs on the server, you must also configure debugging on the AOS server. For more information, see <A href="https://technet.microsoft.com/en-us/library/bb190066(v=ax.60)">How to: Debug X++ Code Running in .NET Business Connector</A>.</P>
+> <P>To debug code that runs on the server, you must also configure debugging on the AOS server. For more information, see <A href="https://technet.microsoft.com/library/bb190066(v=ax.60)">How to: Debug X++ Code Running in .NET Business Connector</A>.</P>
 
 
 
@@ -83,9 +84,9 @@ Then you can set breakpoints in your X++ code and begin debugging.
 
 ## See also
 
-[Microsoft Dynamics AX Debugger](https://technet.microsoft.com/en-us/library/aa569668\(v=ax.60\))
+[Microsoft Dynamics AX Debugger](https://technet.microsoft.com/library/aa569668\(v=ax.60\))
 
-[How to: Debug X++ Code Running in .NET Business Connector](https://technet.microsoft.com/en-us/library/bb190066\(v=ax.60\))
+[How to: Debug X++ Code Running in .NET Business Connector](https://technet.microsoft.com/library/bb190066\(v=ax.60\))
 
   
 

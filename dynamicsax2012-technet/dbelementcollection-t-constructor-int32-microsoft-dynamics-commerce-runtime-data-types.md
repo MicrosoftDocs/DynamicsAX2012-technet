@@ -1,9 +1,10 @@
-﻿---
+---
 title: DbElementCollection(T) Constructor (Int32) (Microsoft.Dynamics.Commerce.Runtime.Data.Types)
 TOCTitle: DbElementCollection(T) Constructor (Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.#ctor(System.Int32)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn967924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn967924(v=AX.60)
 ms:contentKeyID: 65319783
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -48,7 +49,7 @@ DbElementCollection(
 #### Parameters
 
   - elementCollectionSize  
-    Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+    Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 
 ## See Also
 

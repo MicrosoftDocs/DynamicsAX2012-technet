@@ -1,9 +1,10 @@
-﻿---
+---
 title: DataManager.GetDataFromCache(TResult, TEntity) Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: GetDataFromCache(TResult, TEntity) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataManager.GetDataFromCache``2(System.Func{``0},System.Boolean@,System.Boolean@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968942(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968942(v=AX.60)
 ms:contentKeyID: 65322306
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,17 +72,17 @@ static TResult GetDataFromCache(
 #### Parameters
 
   - searchInCacheDelegate  
-    Type: [System.Func](https://technet.microsoft.com/en-us/library/bb534960\(v=ax.60\))\<TResult\>  
+    Type: [System.Func](https://technet.microsoft.com/library/bb534960\(v=ax.60\))\<TResult\>  
 
 <!-- end list -->
 
   - found  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - updateCache  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 #### Return Value
 

@@ -2,8 +2,9 @@
 title: 'Deprecated: Code Explorer Tool'
 TOCTitle: Code Explorer Tool
 ms:assetid: 0b92d358-2995-4475-a775-2b3a87488d20
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507125(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507125(v=AX.60)
 ms:contentKeyID: 59623214
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -32,7 +33,7 @@ In Microsoft Dynamics AX 2009, the Code Explorer lets users browse code and the 
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
 <td><p>The Code Explorer was based on a Help control that has been deprecated in Microsoft Dynamics AX 2012. Because of the overlap with the Application Hierarchy Tree and its replacement, the Code Explorer was not ported.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg864119(v=ax.60)">Type Hierarchy Browser and Type Hierarchy Context</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/gg864119(v=ax.60)">Type Hierarchy Browser and Type Hierarchy Context</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

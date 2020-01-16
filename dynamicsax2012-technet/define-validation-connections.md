@@ -2,8 +2,9 @@
 title: Define validation connections
 TOCTitle: Define validation connections
 ms:assetid: e3ec8fe1-e6cc-44a3-bb83-e019f620efb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551388(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551388(v=AX.60)
 ms:contentKeyID: 36059727
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,23 +81,23 @@ You can associate a worker and a project from either the **Worker** form or the 
 
 [About intercompany timesheets](about-intercompany-timesheets.md)
 
-[Project validation worker assignments (form)](https://technet.microsoft.com/en-us/library/aa583039\(v=ax.60\))
+[Project validation worker assignments (form)](https://technet.microsoft.com/library/aa583039\(v=ax.60\))
 
-[Project validation category assignments (form)](https://technet.microsoft.com/en-us/library/hh209635\(v=ax.60\))
+[Project validation category assignments (form)](https://technet.microsoft.com/library/hh209635\(v=ax.60\))
 
-[Worker validation project assignments (form)](https://technet.microsoft.com/en-us/library/aa615780\(v=ax.60\))
+[Worker validation project assignments (form)](https://technet.microsoft.com/library/aa615780\(v=ax.60\))
 
-[Worker validation category assignments (form)](https://technet.microsoft.com/en-us/library/hh242736\(v=ax.60\))
+[Worker validation category assignments (form)](https://technet.microsoft.com/library/hh242736\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
+[Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\))
 
-[Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\))
+[Project categories (form)](https://technet.microsoft.com/library/aa582118\(v=ax.60\))
 
-[Category validation project assignments (form)](https://technet.microsoft.com/en-us/library/aa620168\(v=ax.60\))
+[Category validation project assignments (form)](https://technet.microsoft.com/library/aa620168\(v=ax.60\))
 
-[Category validation worker assignments (form)](https://technet.microsoft.com/en-us/library/aa619209\(v=ax.60\))
+[Category validation worker assignments (form)](https://technet.microsoft.com/library/aa619209\(v=ax.60\))
 
   
 

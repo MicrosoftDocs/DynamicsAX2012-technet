@@ -2,8 +2,9 @@
 title: (CZE) Set up sales tax reporting
 TOCTitle: (CZE) Set up sales tax reporting
 ms:assetid: cc110308-4654-48bb-9c14-b5ff3adf1e0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856967(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856967(v=AX.60)
 ms:contentKeyID: 50411972
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ Before you report sales tax transactions for your organization, you can set up t
 
 **Prerequisites**
 
-  - Define parameters to use to calculate sales taxes. For example, define how to calculate tax on cash discounts, overpayments, and corrections. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/en-us/library/aa557286\(v=ax.60\)).
+  - Define parameters to use to calculate sales taxes. For example, define how to calculate tax on cash discounts, overpayments, and corrections. For more information, see [General ledger parameters (form)](https://technet.microsoft.com/library/aa557286\(v=ax.60\)).
 
   - Set up sales tax codes to use to calculate the taxes and duties that your organization is obligated to collect from customers and pay to tax authorities. For more information, see [Create various kinds of sales tax codes](create-various-kinds-of-sales-tax-codes.md) and [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md).
 
@@ -47,7 +48,7 @@ Before you report sales tax transactions for your organization, you can set up t
 
 4.  Optional: In the **Total calculation** field group, select one or more report lines to include on a total line on the sales tax report.
 
-5.  Enter the remaining information for the report lines and total calculation lines. For more information, see [(CZE) Sales tax reporting codes (modified form)](https://technet.microsoft.com/en-us/library/jj910971\(v=ax.60\)).
+5.  Enter the remaining information for the report lines and total calculation lines. For more information, see [(CZE) Sales tax reporting codes (modified form)](https://technet.microsoft.com/library/jj910971\(v=ax.60\)).
 
 ## Assign sales tax codes to report lines
 
@@ -59,7 +60,7 @@ Before you report sales tax transactions for your organization, you can set up t
 
 ## See also
 
-[Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\))
+[Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\))
 
   
 

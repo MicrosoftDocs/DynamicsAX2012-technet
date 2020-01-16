@@ -2,8 +2,9 @@
 title: Delegate work items (Enterprise Portal)
 TOCTitle: Delegate work items
 ms:assetid: 3be5dcac-3e90-40bf-bbd6-e35afc898c30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271504(v=AX.60)
 ms:contentKeyID: 36384136
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -1,9 +1,10 @@
-﻿---
+---
 title: CustomerOrderWorkflowHelper.PopulateSalesTransaction Method  (Microsoft.Dynamics.Commerce.Runtime.Workflow)
 TOCTitle: PopulateSalesTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper.PopulateSalesTransaction(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String,System.String)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.populatesalestransaction(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.populatesalestransaction(v=AX.60)
 ms:contentKeyID: 62211717
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -64,12 +65,12 @@ static void PopulateSalesTransaction(
 <!-- end list -->
 
   - cartId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - email  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

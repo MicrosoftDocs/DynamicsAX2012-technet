@@ -2,8 +2,9 @@
 title: (CZE) Create invoices
 TOCTitle: (CZE) Create invoices
 ms:assetid: 03546904-dc60-453e-8910-6237c9eb46eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ664157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ664157(v=AX.60)
 ms:contentKeyID: 49384740
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Demo files for the Data Import/Export Framework (DIXF)
 TOCTitle: Demo files for the Data Import/Export Framework (DIXF)
 ms:assetid: b13893c3-4b3b-4c8b-9ba3-30b9cc6f91d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ225593(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ225593(v=AX.60)
 ms:contentKeyID: 48457368
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

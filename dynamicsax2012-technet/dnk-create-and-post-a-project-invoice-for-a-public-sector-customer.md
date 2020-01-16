@@ -2,8 +2,9 @@
 title: (DNK) Create and post a project invoice for a public sector customer
 TOCTitle: (DNK) Create and post a project invoice for a public sector customer
 ms:assetid: 7cc09542-a13f-4607-87b7-306fb3c377f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213134(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213134(v=AX.60)
 ms:contentKeyID: 36058268
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,11 +82,11 @@ When the batch job is processed, invoices for customers who have an EAN number a
 
 [(DNK) Set up batch processing for OIOUBL electronic invoicing](dnk-set-up-batch-processing-for-oioubl-electronic-invoicing.md)
 
-[Funding source details (form)](https://technet.microsoft.com/en-us/library/hh209607\(v=ax.60\))
+[Funding source details (form)](https://technet.microsoft.com/library/hh209607\(v=ax.60\))
 
-[Project contracts (form)](https://technet.microsoft.com/en-us/library/aa586038\(v=ax.60\))
+[Project contracts (form)](https://technet.microsoft.com/library/aa586038\(v=ax.60\))
 
-[Invoice proposals (form)](https://technet.microsoft.com/en-us/library/aa615408\(v=ax.60\))
+[Invoice proposals (form)](https://technet.microsoft.com/library/aa615408\(v=ax.60\))
 
   
 

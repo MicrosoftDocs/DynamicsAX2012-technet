@@ -1,9 +1,10 @@
-﻿---
+---
 title: DateTimeOffsetExtensions.SqlMinValue Property  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: SqlMinValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DateTimeOffsetExtensions.SqlMinValue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datetimeoffsetextensions.sqlminvalue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datetimeoffsetextensions.sqlminvalue(v=AX.60)
 ms:contentKeyID: 62214557
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -16,7 +17,7 @@ dev_langs:
 
 # SqlMinValue Property
 
-Gets the minimum valid date value which can be stored in CRT database for a [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)) structure.
+Gets the minimum valid date value which can be stored in CRT database for a [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) structure.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
@@ -46,8 +47,8 @@ static property DateTimeOffset SqlMinValue {
 
 #### Property Value
 
-Type: [System.DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\))  
-Returns [DateTimeOffset](https://technet.microsoft.com/en-us/library/bb341783\(v=ax.60\)).  
+Type: [System.DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\))  
+Returns [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)).  
 
 ## See Also
 

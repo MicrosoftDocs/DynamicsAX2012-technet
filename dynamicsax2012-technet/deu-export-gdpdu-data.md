@@ -2,8 +2,9 @@
 title: (DEU) Export GDPdU data
 TOCTitle: (DEU) Export GDPdU data
 ms:assetid: a9e2b295-0ba6-43a0-b747-d3a5d0f8331c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa589213(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa589213(v=AX.60)
 ms:contentKeyID: 36058898
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,13 +52,13 @@ Use the data export wizard to export Grundsätze zum Datenzugriff und zur Prüfb
 
 ## See also
 
-[(DEU) Data export definition groups (form)](https://technet.microsoft.com/en-us/library/aa615425\(v=ax.60\))
+[(DEU) Data export definition groups (form)](https://technet.microsoft.com/library/aa615425\(v=ax.60\))
 
-[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/en-us/library/aa571461\(v=ax.60\))
+[(DEU, FRA) Data export tables (form)](https://technet.microsoft.com/library/aa571461\(v=ax.60\))
 
-[(DEU) Data export fields (form)](https://technet.microsoft.com/en-us/library/aa596357\(v=ax.60\))
+[(DEU) Data export fields (form)](https://technet.microsoft.com/library/aa596357\(v=ax.60\))
 
-[(DEU) Data export relations (form)](https://technet.microsoft.com/en-us/library/aa620743\(v=ax.60\))
+[(DEU) Data export relations (form)](https://technet.microsoft.com/library/aa620743\(v=ax.60\))
 
   
 

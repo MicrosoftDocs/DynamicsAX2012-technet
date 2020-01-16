@@ -2,8 +2,9 @@
 title: Define request for quotation replies
 TOCTitle: Define request for quotation replies
 ms:assetid: 356ed9ce-83c0-4a51-831e-ba9008bf0b91
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231091(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231091(v=AX.60)
 ms:contentKeyID: 36056558
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,7 +63,7 @@ Use this procedure to change a specific RFQ’s reply fields from the default se
 
 [Create a reply to a request for quotation](create-a-reply-to-a-request-for-quotation.md)
 
-[Default request for quotation reply fields (form)](https://technet.microsoft.com/en-us/library/hh227599\(v=ax.60\))
+[Default request for quotation reply fields (form)](https://technet.microsoft.com/library/hh227599\(v=ax.60\))
 
   
 

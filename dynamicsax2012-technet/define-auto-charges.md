@@ -2,8 +2,9 @@
 title: Define auto charges
 TOCTitle: Define auto charges
 ms:assetid: a249cab0-9405-4807-85f4-7473ddde3791
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571826(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571826(v=AX.60)
 ms:contentKeyID: 49684853
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -169,11 +170,11 @@ To assign a delivery fee to orders delivered by air using tiered charges:
 
 ## See also
 
-[Auto charges (form)](https://technet.microsoft.com/en-us/library/aa582856\(v=ax.60\))
+[Auto charges (form)](https://technet.microsoft.com/library/aa582856\(v=ax.60\))
 
-[Charges groups (form)](https://technet.microsoft.com/en-us/library/aa617452\(v=ax.60\))
+[Charges groups (form)](https://technet.microsoft.com/library/aa617452\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
 [About tiered charges on sales orders](about-tiered-charges-on-sales-orders.md)
 

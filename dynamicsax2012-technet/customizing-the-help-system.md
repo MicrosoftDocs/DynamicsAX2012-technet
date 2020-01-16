@@ -2,8 +2,9 @@
 title: Customizing the Help System
 TOCTitle: Customizing the Help System
 ms:assetid: bd340597-8ca9-4066-86d5-1c6deb07427d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg882382(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg882382(v=AX.60)
 ms:contentKeyID: 35257209
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -79,9 +80,9 @@ You can add entries to the table of contents that appears in the Help viewer. Yo
 
 
 
-To add a topic to the table of contents, you use XML to create an entry in a file that is named **TableofContents.xml**. If you have to remove your entry from the table of contents, delete that entry from the **TableofContents.xml** file. For more information about how to create an entry in the table of contents, see [How to: Create Table of Contents Entries](https://technet.microsoft.com/en-us/library/gg882385\(v=ax.60\)).
+To add a topic to the table of contents, you use XML to create an entry in a file that is named **TableofContents.xml**. If you have to remove your entry from the table of contents, delete that entry from the **TableofContents.xml** file. For more information about how to create an entry in the table of contents, see [How to: Create Table of Contents Entries](https://technet.microsoft.com/library/gg882385\(v=ax.60\)).
 
-The table of contents that appear in the Help viewer can include entries from more than one publisher. The table of contents entries that appear in the Help viewer are grouped by publisher. As a result, you cannot use your TableofContents.xml file to add, update, or modify the table of contents entries supplied by another publisher. To specify where the table of contents entries for each publisher appears in the Help viewer, use the list of publishers in the web.config file of the Help server. For more information about how to update the web.config file, see [How to: Add a Publisher to the Web.Config File](https://technet.microsoft.com/en-us/library/gg882378\(v=ax.60\)).
+The table of contents that appear in the Help viewer can include entries from more than one publisher. The table of contents entries that appear in the Help viewer are grouped by publisher. As a result, you cannot use your TableofContents.xml file to add, update, or modify the table of contents entries supplied by another publisher. To specify where the table of contents entries for each publisher appears in the Help viewer, use the list of publishers in the web.config file of the Help server. For more information about how to update the web.config file, see [How to: Add a Publisher to the Web.Config File](https://technet.microsoft.com/library/gg882378\(v=ax.60\)).
 
 ## Producing Custom Documentation
 
@@ -103,9 +104,9 @@ Authoring describes how you create new documentation for the Help system. Before
 
   - You have to determine whether you want your documentation to match the look of the existing Help documentation. To use the existing document styles, the HTML in your content element has to include several cascading style sheet, script, and image files. In addition, your HTML must use the styles defined in the cascading style sheet files.
 
-  - If you plan to add an entry to the table of contents, you should plan to create a table of contents XML file. For more information about how to create a table of contents entry, see [How to: Create Table of Contents Entries](https://technet.microsoft.com/en-us/library/gg882385\(v=ax.60\)).
+  - If you plan to add an entry to the table of contents, you should plan to create a table of contents XML file. For more information about how to create a table of contents entry, see [How to: Create Table of Contents Entries](https://technet.microsoft.com/library/gg882385\(v=ax.60\)).
 
-To simplify how you create documentation, the Help system includes a set of templates. The templates enable you to produce HTML or Microsoft Word documents that you can add to the Help server. For more information about how to create documents and modifying the table of contents, see [Authoring Help Documents](https://technet.microsoft.com/en-us/library/gg882301\(v=ax.60\)).
+To simplify how you create documentation, the Help system includes a set of templates. The templates enable you to produce HTML or Microsoft Word documents that you can add to the Help server. For more information about how to create documents and modifying the table of contents, see [Authoring Help Documents](https://technet.microsoft.com/library/gg882301\(v=ax.60\)).
 
 ## Publishing
 
@@ -113,19 +114,19 @@ Publishing describes how you add a content element or table of contents file to 
 
   - Identify the folder on the Help server where you put files. Each publisher should maintain a separate set of folders. If you do not have an existing folder, you might have to create a new folder for your documentation.
 
-  - Determine whether your logon identity has security permissions to add files to your target folder. If you first have to add a folder, make sure that you are permitted to create folders on the Help server. For more information about how to add folders, see [How to: Add Folders to the Help Server](https://technet.microsoft.com/en-us/library/gg882311\(v=ax.60\)).
+  - Determine whether your logon identity has security permissions to add files to your target folder. If you first have to add a folder, make sure that you are permitted to create folders on the Help server. For more information about how to add folders, see [How to: Add Folders to the Help Server](https://technet.microsoft.com/library/gg882311\(v=ax.60\)).
 
-  - Determine whether to add your publisher ID to the web.config file of the Help server. The list of publishers helps determine where your documentation appears in a list of search results and the table of contents. For more information about how to add a pulisher to the web.config file, see [How to: Add a Publisher to the Web.Config File](https://technet.microsoft.com/en-us/library/gg882378\(v=ax.60\)).
+  - Determine whether to add your publisher ID to the web.config file of the Help server. The list of publishers helps determine where your documentation appears in a list of search results and the table of contents. For more information about how to add a pulisher to the web.config file, see [How to: Add a Publisher to the Web.Config File](https://technet.microsoft.com/library/gg882378\(v=ax.60\)).
 
   - If you plan to create non-HTML content element, you have to include the HTML file that contains the document properties in the same folder as the document file.
 
-After you publish the file, your documentation will be available to the Help viewer of any client system that can access that Help server. For more information about publishing, see [Publishing Overview](https://technet.microsoft.com/en-us/library/gg882369\(v=ax.60\)).
+After you publish the file, your documentation will be available to the Help viewer of any client system that can access that Help server. For more information about publishing, see [Publishing Overview](https://technet.microsoft.com/library/gg882369\(v=ax.60\)).
 
 ## See also
 
 [Help System Components](help-system-components.md)
 
-[Context Sensitive Help](https://technet.microsoft.com/en-us/library/gg882389\(v=ax.60\))
+[Context Sensitive Help](https://technet.microsoft.com/library/gg882389\(v=ax.60\))
 
   
 

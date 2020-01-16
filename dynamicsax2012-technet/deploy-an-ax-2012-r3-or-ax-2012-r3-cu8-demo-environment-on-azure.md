@@ -2,8 +2,9 @@
 title: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment on Azure
 TOCTitle: Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment
 ms:assetid: 40e34d4d-8da9-4226-944d-9d06b0fc0ba4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741578(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741578(v=AX.60)
 ms:contentKeyID: 62226741
+author: Khairunj
 ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---

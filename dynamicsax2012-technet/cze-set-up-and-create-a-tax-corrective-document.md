@@ -2,8 +2,9 @@
 title: (CZE) Set up and create a tax corrective document
 TOCTitle: (CZE) Set up and create a tax corrective document
 ms:assetid: f4303358-404d-4996-b198-c6559c392b49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn494957(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn494957(v=AX.60)
 ms:contentKeyID: 60508155
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -80,8 +81,8 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p><strong>Related tasks</strong></p></td>
 <td><ul>
-<li><p>Create and post a sales order. For more information, see <a href="create-or-edit-a-sales-order.md">Create or edit a sales order</a> and <a href="https://technet.microsoft.com/en-us/library/jj714420(v=ax.60)">(CZE) Sales orders (modified form)</a>.</p></li>
-<li><p>Create and post a free text invoice. For more information, see <a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a> and <a href="https://technet.microsoft.com/en-us/library/jj677647(v=ax.60)">(CZE) Free text invoice (modified form)</a>.</p></li>
+<li><p>Create and post a sales order. For more information, see <a href="create-or-edit-a-sales-order.md">Create or edit a sales order</a> and <a href="https://technet.microsoft.com/library/jj714420(v=ax.60)">(CZE) Sales orders (modified form)</a>.</p></li>
+<li><p>Create and post a free text invoice. For more information, see <a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a> and <a href="https://technet.microsoft.com/library/jj677647(v=ax.60)">(CZE) Free text invoice (modified form)</a>.</p></li>
 <li><p>Create and post a project invoice. For more information, see <a href="create-an-invoice-for-a-time-and-material-project.md">Create an invoice for a time and material project</a>, <a href="create-an-invoice-for-a-fixed-price-project.md">Create an invoice for a fixed-price project</a>, and <a href="create-and-post-invoice-proposals.md">Create and post invoice proposals</a>.</p></li>
 </ul></td>
 </tr>
@@ -199,7 +200,7 @@ To create and post a credit note, follow these steps:
 
 2.  Double-click a project invoice to create the credit note for.
 
-3.  Create, adjust, and post a transaction by using an hour, expense, or fee journal. For more information, see [Journal lines for hours (form)](https://technet.microsoft.com/en-us/library/aa571787\(v=ax.60\)), [Expense journal (form)](https://technet.microsoft.com/en-us/library/aa600976\(v=ax.60\)), and [Journal lines for fees (form)](https://technet.microsoft.com/en-us/library/aa498986\(v=ax.60\)).
+3.  Create, adjust, and post a transaction by using an hour, expense, or fee journal. For more information, see [Journal lines for hours (form)](https://technet.microsoft.com/library/aa571787\(v=ax.60\)), [Expense journal (form)](https://technet.microsoft.com/library/aa600976\(v=ax.60\)), and [Journal lines for fees (form)](https://technet.microsoft.com/library/aa498986\(v=ax.60\)).
 
 4.  In the **Projects** form, on the **Manage** tab, click **Invoice journals**.
 
@@ -221,7 +222,7 @@ To create and post a credit note, follow these steps:
 
 You can create a credit note for a cash discount that you posted for a sales order, a free text invoice, or a project invoice. For more information about how to post a cash discount, see [Scenario: Cash discount handling for overpayments](scenario-cash-discount-handling-for-overpayments.md).
 
-You can use the **Payment journal** and **Journal voucher** forms to create and post a payment for the invoice that you posted for a cash discount. When you post the payment journal, the payment is posted, the cash discount is reversed, and AX 2012 R2 creates a credit note automatically. You can print the credit note from the **Invoice journal** form. For more information, see [Enter and settle customer payments in a payment journal](enter-and-settle-customer-payments-in-a-payment-journal.md), [Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\)), [Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/en-us/library/aa556141\(v=ax.60\)), and [(CZE) Customer invoice journal (modified form)](https://technet.microsoft.com/en-us/library/jj677569\(v=ax.60\)).
+You can use the **Payment journal** and **Journal voucher** forms to create and post a payment for the invoice that you posted for a cash discount. When you post the payment journal, the payment is posted, the cash discount is reversed, and AX 2012 R2 creates a credit note automatically. You can print the credit note from the **Invoice journal** form. For more information, see [Enter and settle customer payments in a payment journal](enter-and-settle-customer-payments-in-a-payment-journal.md), [Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\)), [Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\)), and [(CZE) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj677569\(v=ax.60\)).
 
 ## Related tasks
 
@@ -427,7 +428,7 @@ If you don't have access to the pages that are used to complete this task, conta
 
 ## See also
 
-[(CZE) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj838779\(v=ax.60\))
+[(CZE) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj838779\(v=ax.60\))
 
   
 

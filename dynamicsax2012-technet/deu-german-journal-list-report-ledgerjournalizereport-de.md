@@ -2,8 +2,9 @@
 title: (DEU) German journal list report (LedgerJournalizeReport_DE)
 TOCTitle: (DEU) German journal list report (LedgerJournalizeReport_DE)
 ms:assetid: 645ac71c-0a1b-4ddb-bdcf-50269767245b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352253(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352253(v=AX.60)
 ms:contentKeyID: 36687879
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

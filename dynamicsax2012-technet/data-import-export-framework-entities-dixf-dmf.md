@@ -2,8 +2,9 @@
 title: Data Import/Export Framework (DIXF) entities
 TOCTitle: Data Import/Export Framework (DIXF) entities
 ms:assetid: d243573f-e6b8-4b62-a38e-c27dd8840587
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507088(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507088(v=AX.60)
 ms:contentKeyID: 59623140
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 f1_keywords:

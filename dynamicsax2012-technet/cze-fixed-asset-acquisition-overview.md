@@ -2,8 +2,9 @@
 title: (CZE) Fixed asset acquisition overview
 TOCTitle: (CZE) Fixed asset acquisition overview
 ms:assetid: 4ba37615-f8cd-40a4-8b43-8ee9c55f462a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677519(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677519(v=AX.60)
 ms:contentKeyID: 49384823
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

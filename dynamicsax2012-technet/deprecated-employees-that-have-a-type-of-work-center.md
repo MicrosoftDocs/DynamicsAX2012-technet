@@ -2,8 +2,9 @@
 title: 'Deprecated: Employees that have a type of Work Center'
 TOCTitle: Employees that have a type of Work Center
 ms:assetid: 88cb873e-3baa-459e-b392-eaa85c28b39c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527155(v=AX.60)
 ms:contentKeyID: 59623284
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

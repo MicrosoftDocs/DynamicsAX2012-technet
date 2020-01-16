@@ -2,8 +2,9 @@
 title: Design custom content for Microsoft Dynamics ERP RapidStart Services
 TOCTitle: Design custom content for Microsoft Dynamics ERP RapidStart Services
 ms:assetid: a24f027a-05a2-4224-a7e2-6c4cb0271d30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194002(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194002(v=AX.60)
 ms:contentKeyID: 52348253
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

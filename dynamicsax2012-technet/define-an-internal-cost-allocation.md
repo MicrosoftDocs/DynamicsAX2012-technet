@@ -2,8 +2,9 @@
 title: Define an internal cost allocation
 TOCTitle: Define an internal cost allocation
 ms:assetid: fd3c0d2b-ea93-413d-acc5-5bdc85a0b53f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500114(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500114(v=AX.60)
 ms:contentKeyID: 36060104
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (DNK) Set up customer accounts for OIOUBL electronic invoicing
 TOCTitle: (DNK) Set up customer accounts for OIOUBL electronic invoicing
 ms:assetid: 3017257d-6843-4642-9f20-3a4497bfb48d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231027(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231027(v=AX.60)
 ms:contentKeyID: 36056303
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ Use the **Customers** form to specify the address and contact details for custom
 
 [(DNK) Set up AIF for OIOUBL electronic invoicing](dnk-set-up-aif-for-oioubl-electronic-invoicing.md)
 
-[Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\))
+[Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\))
 
   
 

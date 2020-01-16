@@ -2,8 +2,9 @@
 title: Design a screen layout
 TOCTitle: Design a screen layout
 ms:assetid: fd836a1e-ab35-4f05-b721-5d8e29d2d911
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597301(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597301(v=AX.60)
 ms:contentKeyID: 39519390
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

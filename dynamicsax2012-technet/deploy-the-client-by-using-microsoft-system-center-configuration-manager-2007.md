@@ -2,8 +2,9 @@
 title: Deploy the client by using Microsoft System Center Configuration Manager 2007
 TOCTitle: Deploy the client by using Microsoft System Center Configuration Manager 2007
 ms:assetid: d071ca02-2f1d-4de0-bd65-35e8cb7a7295
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh378077(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh378077(v=AX.60)
 ms:contentKeyID: 36870660
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

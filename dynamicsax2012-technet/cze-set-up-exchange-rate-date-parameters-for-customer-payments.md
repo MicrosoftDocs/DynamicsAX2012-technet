@@ -2,8 +2,9 @@
 title: (CZE) Set up exchange rate date parameters for customer payments
 TOCTitle: (CZE) Set up exchange rate date parameters for customer payments
 ms:assetid: 5820e301-dc83-4a20-a614-efa1bfd66cae
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677536(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677536(v=AX.60)
 ms:contentKeyID: 49384840
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,11 +44,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(CZE) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj677464\(v=ax.60\))
+[(CZE) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj677464\(v=ax.60\))
 
-[(CZE) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj677647\(v=ax.60\))
+[(CZE) Free text invoice (modified form)](https://technet.microsoft.com/library/jj677647\(v=ax.60\))
 
-[(CZE) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj714420\(v=ax.60\))
+[(CZE) Sales orders (modified form)](https://technet.microsoft.com/library/jj714420\(v=ax.60\))
 
   
 

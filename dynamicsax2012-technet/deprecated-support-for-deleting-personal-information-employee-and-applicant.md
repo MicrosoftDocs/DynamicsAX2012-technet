@@ -2,8 +2,9 @@
 title: 'Deprecated: Support for deleting personal information (employee and applicant)'
 TOCTitle: Support for deleting personal information (employee and applicant)
 ms:assetid: 9650ca27-3bbe-4385-816b-898f73e2eead
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527174(v=AX.60)
 ms:contentKeyID: 59623302
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

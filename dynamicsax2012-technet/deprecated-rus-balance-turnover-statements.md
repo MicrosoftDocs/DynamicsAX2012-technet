@@ -2,8 +2,9 @@
 title: 'Deprecated: (RUS) Balance turnover statements'
 TOCTitle: (RUS) Balance turnover statements
 ms:assetid: 80495bfd-3420-4e1c-bc00-2fae4bbbc4aa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527165(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527165(v=AX.60)
 ms:contentKeyID: 59623294
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

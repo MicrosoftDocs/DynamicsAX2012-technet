@@ -2,8 +2,9 @@
 title: 'Deprecated: Split layer functionality in the AOT'
 TOCTitle: Split layer functionality in the AOT
 ms:assetid: b44ce731-12b2-42a0-9380-d1d002cf21d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527201(v=AX.60)
 ms:contentKeyID: 59623330
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -36,7 +37,7 @@ In Microsoft Dynamics AX 2009, you can view multiple layers in the Microsoft Dyn
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
 <td><p>No. The feature is no longer available. For most of the known use cases, the Code Compare tool is a valid replacement and is easily accessed by pressing CTRL+G.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa849010(v=ax.60)">Compare Tool</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa849010(v=ax.60)">Compare Tool</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Modules affected</p></td>
