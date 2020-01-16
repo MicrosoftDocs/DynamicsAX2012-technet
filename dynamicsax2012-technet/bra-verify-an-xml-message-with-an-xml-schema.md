@@ -2,8 +2,9 @@
 title: (BRA) Verify an XML message with an XML schema
 TOCTitle: (BRA) Verify an XML message with an XML schema
 ms:assetid: 5102bd8e-4e7b-42ee-8ec9-813efb0a1315
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933516(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933516(v=AX.60)
 ms:contentKeyID: 50935129
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,11 +54,11 @@ You can also validate an XML message by using an XML schema when you post an ele
 
 ## See also
 
-[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710567\(v=ax.60\))
+[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/library/jj710567\(v=ax.60\))
 
-[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
+[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/library/jj933509\(v=ax.60\))
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
   
 

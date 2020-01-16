@@ -2,8 +2,9 @@
 title: (BEL) Belgian sales tax by customer report (TaxAmountByCustomer_BE)
 TOCTitle: (BEL) Belgian sales tax by customer report (TaxAmountByCustomer_BE)
 ms:assetid: 251ac803-ad91-4210-9ca5-7d922522fbde
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh544034(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh544034(v=AX.60)
 ms:contentKeyID: 37823115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Calculate statistics for a questionnaire
 TOCTitle: Calculate statistics for a questionnaire
 ms:assetid: c0d42175-866a-40f7-93c1-1d451e6ccc1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550673(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550673(v=AX.60)
 ms:contentKeyID: 41702388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ You can use questionnaire statistics to analyze results of a completed questionn
     
 
     > [!NOTE]
-    > <P>For details about each available option, see <A href="https://technet.microsoft.com/en-us/library/aa554500(v=ax.60)">Questionnaire statistics (form)</A>.</P>
+    > <P>For details about each available option, see <A href="https://technet.microsoft.com/library/aa554500(v=ax.60)">Questionnaire statistics (form)</A>.</P>
 
 
 

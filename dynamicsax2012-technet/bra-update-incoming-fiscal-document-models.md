@@ -2,8 +2,9 @@
 title: (BRA) Update incoming fiscal document models
 TOCTitle: (BRA) Update incoming fiscal document models
 ms:assetid: d2380f84-5093-4ffb-97ce-276f7b3378c6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714202(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714202(v=AX.60)
 ms:contentKeyID: 49651311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Use the following procedure to upgrade fiscal document models for incoming fisca
 
 ## See also
 
-[(BRA) Update incoming fiscal document models (form)](https://technet.microsoft.com/en-us/library/jj713628\(v=ax.60\))
+[(BRA) Update incoming fiscal document models (form)](https://technet.microsoft.com/library/jj713628\(v=ax.60\))
 
   
 

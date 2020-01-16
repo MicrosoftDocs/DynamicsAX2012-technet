@@ -2,8 +2,9 @@
 title: (BRA) Close books overview
 TOCTitle: (BRA) Close books overview
 ms:assetid: b2e7e3bf-a5c2-46a5-83ea-51e5810bc16f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710594(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710594(v=AX.60)
 ms:contentKeyID: 49384484
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

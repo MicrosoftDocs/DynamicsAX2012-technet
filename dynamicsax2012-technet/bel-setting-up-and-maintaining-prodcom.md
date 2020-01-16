@@ -2,8 +2,9 @@
 title: (BEL) Setting up and maintaining PRODCOM
 TOCTitle: (BEL) Setting up and maintaining PRODCOM
 ms:assetid: 6c7106dd-b8ac-4fbf-a05f-ba7bc647fd32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231795(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231795(v=AX.60)
 ms:contentKeyID: 36058002
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

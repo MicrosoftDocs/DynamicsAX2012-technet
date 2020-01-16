@@ -2,8 +2,9 @@
 title: (CAN) Set up GST/HST and post a purchase order with tax on acquisition details
 TOCTitle: (CAN) Set up GST/HST and post a purchase order with tax on acquisition details
 ms:assetid: 50e39cac-2c76-4790-8d3b-affa490b7260
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208915(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208915(v=AX.60)
 ms:contentKeyID: 36057244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -99,9 +100,9 @@ The details of the taxes paid on asset acquisition are recorded in the **Purchas
 
 [(CAN) Generate a GIFT file](can-generate-a-gift-file.md)
 
-[Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\))
+[Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\))
 
-[(CAN) Account identifiers (form)](https://technet.microsoft.com/en-us/library/hh242245\(v=ax.60\))
+[(CAN) Account identifiers (form)](https://technet.microsoft.com/library/hh242245\(v=ax.60\))
 
   
 

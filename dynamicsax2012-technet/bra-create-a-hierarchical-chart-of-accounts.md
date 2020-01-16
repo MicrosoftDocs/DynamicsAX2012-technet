@@ -2,8 +2,9 @@
 title: (BRA) Create a hierarchical chart of accounts
 TOCTitle: (BRA) Create a hierarchical chart of accounts
 ms:assetid: a378a6b4-897e-4feb-9870-19cecb8b837e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710578(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710578(v=AX.60)
 ms:contentKeyID: 49384470
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -107,9 +108,9 @@ Use the **Main accounts - chart of accounts: %1** form to create a hierarchy of 
 
 ## See also
 
-[(BRA) Chart of accounts report (LedgerCOAReport\_BR)](https://technet.microsoft.com/en-us/library/jj710460\(v=ax.60\))
+[(BRA) Chart of accounts report (LedgerCOAReport\_BR)](https://technet.microsoft.com/library/jj710460\(v=ax.60\))
 
-[(BRA) Main accounts - chart of accounts (modified form)](https://technet.microsoft.com/en-us/library/jj710470\(v=ax.60\))
+[(BRA) Main accounts - chart of accounts (modified form)](https://technet.microsoft.com/library/jj710470\(v=ax.60\))
 
   
 

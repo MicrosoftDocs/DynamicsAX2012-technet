@@ -2,8 +2,9 @@
 title: (BRA) Create and post a free text invoice that has charges for a fixed asset line
 TOCTitle: (BRA) Create and post a free text invoice that has charges for a fixed asset line
 ms:assetid: 6c0c4dde-193a-4672-b88c-955912b813a2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710532(v=AX.60)
 ms:contentKeyID: 49384423
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -79,9 +80,9 @@ You must set up charges before you can create and post a free text invoice with 
 
 ## See also
 
-[Free text invoice (form)](https://technet.microsoft.com/en-us/library/aa556897\(v=ax.60\))
+[Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\))
 
-[Charges transactions (form)](https://technet.microsoft.com/en-us/library/aa633876\(v=ax.60\))
+[Charges transactions (form)](https://technet.microsoft.com/library/aa633876\(v=ax.60\))
 
   
 

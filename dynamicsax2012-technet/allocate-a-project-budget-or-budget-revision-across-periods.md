@@ -2,8 +2,9 @@
 title: Allocate a project budget or budget revision across periods
 TOCTitle: Allocate a project budget or budget revision across periods
 ms:assetid: 23514010-cb07-41d3-8377-57efd09c2078
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208477(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208477(v=AX.60)
 ms:contentKeyID: 36056182
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,15 +74,15 @@ After a budget or budget revision has been allocated, you can review the allocat
 
 [About setting up a project budget](about-setting-up-a-project-budget.md)
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 
 [Revise and submit a project budget](revise-and-submit-a-project-budget.md)
 
-[Project budget allocation (form)](https://technet.microsoft.com/en-us/library/hh242461\(v=ax.60\))
+[Project budget allocation (form)](https://technet.microsoft.com/library/hh242461\(v=ax.60\))
 
-[Project budget revision allocation (form)](https://technet.microsoft.com/en-us/library/hh209623\(v=ax.60\))
+[Project budget revision allocation (form)](https://technet.microsoft.com/library/hh209623\(v=ax.60\))
 
   
 

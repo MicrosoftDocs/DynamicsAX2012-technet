@@ -2,8 +2,9 @@
 title: (BEL) Generate vendor payment files and upload them using CIS
 TOCTitle: (BEL) Generate vendor payment files and upload them using CIS
 ms:assetid: d885f830-a83b-4770-8be7-81897051e681
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227395(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227395(v=AX.60)
 ms:contentKeyID: 36059642
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

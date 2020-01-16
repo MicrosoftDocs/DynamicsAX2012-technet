@@ -2,8 +2,9 @@
 title: (BRA) Set up and calculate withholding tax, interest, and fines on payments
 TOCTitle: (BRA) Set up and calculate withholding tax, interest, and fines on payments
 ms:assetid: 752fc02b-5dce-443a-85ef-11d476dd3cc9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126103(v=AX.60)
 ms:contentKeyID: 52075254
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,13 +47,13 @@ Perform the following tasks to set up and post withholding tax, interest, and fi
 
 ## See also
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
-[(BRA) Vendors (modified form)](https://technet.microsoft.com/en-us/library/jj933505\(v=ax.60\))
+[(BRA) Vendors (modified form)](https://technet.microsoft.com/library/jj933505\(v=ax.60\))
 
-[Withholding tax groups (form)](https://technet.microsoft.com/en-us/library/aa591973\(v=ax.60\))
+[Withholding tax groups (form)](https://technet.microsoft.com/library/aa591973\(v=ax.60\))
 
-[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/en-us/library/dn126109\(v=ax.60\))
+[(BRA) Withholding tax codes (modified form)](https://technet.microsoft.com/library/dn126109\(v=ax.60\))
 
 [(BRA) Setting up standard text in accounting transactions](bra-setting-up-standard-text-in-accounting-transactions.md)
 

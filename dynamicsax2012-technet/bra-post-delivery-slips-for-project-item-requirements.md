@@ -2,8 +2,9 @@
 title: (BRA) Post delivery slips for project item requirements
 TOCTitle: (BRA) Post delivery slips for project item requirements
 ms:assetid: 875ec4ac-b492-40b7-8dde-bb6c0e3401d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ889432(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ889432(v=AX.60)
 ms:contentKeyID: 50637992
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

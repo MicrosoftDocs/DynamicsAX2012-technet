@@ -2,8 +2,9 @@
 title: Application Object Server planning and architecture
 TOCTitle: Application Object Server planning and architecture
 ms:assetid: 51b4ba3f-914a-4409-98b3-d2dd9f6f8438
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731795(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731795(v=AX.60)
 ms:contentKeyID: 35132637
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

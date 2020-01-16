@@ -2,8 +2,9 @@
 title: Assign lead records
 TOCTitle: Assign lead records
 ms:assetid: 399e2fc8-2d4a-4ca0-8c86-c0b9b2916cfc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231138(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231138(v=AX.60)
 ms:contentKeyID: 36056631
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

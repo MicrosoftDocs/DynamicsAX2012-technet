@@ -2,8 +2,9 @@
 title: Attach production instructions to kanban rules
 TOCTitle: Attach production instructions to kanban rules
 ms:assetid: e9c7cc4b-9c6a-405d-81f6-799714c18ade
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ730943(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ730943(v=AX.60)
 ms:contentKeyID: 49675119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,11 +56,11 @@ The following conditions must be set up before you can complete the procedure:
 
 ## See also
 
-[Kanban rules (form)](https://technet.microsoft.com/en-us/library/hh227370\(v=ax.60\))
+[Kanban rules (form)](https://technet.microsoft.com/library/hh227370\(v=ax.60\))
 
-[Kanban (form)](https://technet.microsoft.com/en-us/library/hh242799\(v=ax.60\))
+[Kanban (form)](https://technet.microsoft.com/library/hh242799\(v=ax.60\))
 
-[Kanban board for process jobs (form)](https://technet.microsoft.com/en-us/library/hh781101\(v=ax.60\))
+[Kanban board for process jobs (form)](https://technet.microsoft.com/library/hh781101\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Calculate worker distribution
 TOCTitle: Calculate worker distribution
 ms:assetid: 61b708ec-ff8b-4b03-8b81-689aca3c3b04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571127(v=AX.60)
 ms:contentKeyID: 44431311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ If you complete the above procedure, the results are displayed on the **Totals**
 
 ## See also
 
-[Worker distribution statistics (form)](https://technet.microsoft.com/en-us/library/aa500798\(v=ax.60\))
+[Worker distribution statistics (form)](https://technet.microsoft.com/library/aa500798\(v=ax.60\))
 
   
 

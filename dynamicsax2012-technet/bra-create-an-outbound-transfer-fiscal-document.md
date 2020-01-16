@@ -2,8 +2,9 @@
 title: (BRA) Create an outbound transfer fiscal document
 TOCTitle: (BRA) Create an outbound transfer fiscal document
 ms:assetid: 5918ea0c-7e09-4527-a6ff-f9d520a8e0fc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933519(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933519(v=AX.60)
 ms:contentKeyID: 50935133
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -73,7 +74,7 @@ You can transfer items between warehouses that are located at the same or differ
 
 8.  Click **Posting** \> **Ship transfer order**, and then in the **Ship transfer order** form, specify values in the following fields:
     
-    1.  In the **Update** field, select **All** to ship the remaining quantity of items for each line. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/en-us/library/aa577094\(v=ax.60\)).
+    1.  In the **Update** field, select **All** to ship the remaining quantity of items for each line. For more information, see [Transfer order shipment (form)](https://technet.microsoft.com/library/aa577094\(v=ax.60\)).
     
     2.  Select the **Edit lines** check box to update the transfer order lines based on the option that you selected in the **Update** field.
     
@@ -91,7 +92,7 @@ You can click **Inquiries** \> **Transfer order history** in the **Transfer orde
 
 [(BRA) Cancel a transfer fiscal document](bra-cancel-a-transfer-fiscal-document.md)
 
-[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
+[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/library/jj910973\(v=ax.60\))
 
 [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md)
 

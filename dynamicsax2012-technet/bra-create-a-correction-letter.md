@@ -2,8 +2,9 @@
 title: (BRA) Create a correction letter
 TOCTitle: (BRA) Create a correction letter
 ms:assetid: 164a7b5a-c140-4624-96e8-5cfe5b6a8890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ917351(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ917351(v=AX.60)
 ms:contentKeyID: 50952840
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,11 +38,11 @@ Use the following procedure to create an electronic correction letter to correct
 
 ## See also
 
-[(BRA) Correction letter (form)](https://technet.microsoft.com/en-us/library/jj917353\(v=ax.60\))
+[(BRA) Correction letter (form)](https://technet.microsoft.com/library/jj917353\(v=ax.60\))
 
-[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710567\(v=ax.60\))
+[(BRA) All fiscal documents (list page)](https://technet.microsoft.com/library/jj710567\(v=ax.60\))
 
-[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/en-us/library/jj933509\(v=ax.60\))
+[(BRA) NF-e federal parameters (form)](https://technet.microsoft.com/library/jj933509\(v=ax.60\))
 
 [(BRA) Set up NF-e federal parameters](bra-set-up-nf-e-federal-parameters.md)
 

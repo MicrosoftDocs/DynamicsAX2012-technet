@@ -2,8 +2,9 @@
 title: Budget plan cube (BudgetPlanCube) for Microsoft Dynamics AX 2012 R2 and R3
 TOCTitle: Budget plan cube (BudgetPlanCube)
 ms:assetid: 015155b3-1af0-402d-8b85-5ff1b394534a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710380(v=AX.60)
 ms:contentKeyID: 49384271
+author: Khairunj
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

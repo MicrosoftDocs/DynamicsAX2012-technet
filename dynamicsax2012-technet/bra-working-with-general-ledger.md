@@ -2,8 +2,9 @@
 title: (BRA) Working with General ledger
 TOCTitle: (BRA) Working with General ledger
 ms:assetid: 1197e8e2-79a2-49b5-b910-b98ce90de6f0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710416(v=AX.60)
 ms:contentKeyID: 49384308
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

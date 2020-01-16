@@ -2,8 +2,9 @@
 title: (BRA) Set up vendor posting profiles
 TOCTitle: (BRA) Set up vendor posting profiles
 ms:assetid: 8b3906c5-b101-4c2b-9941-073c4f8d041d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710560(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710560(v=AX.60)
 ms:contentKeyID: 49384450
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,9 +50,9 @@ Use the **Vendor posting profiles** form to specify an account to credit the Imp
 
 ## See also
 
-[Vendor posting profiles (form)](https://technet.microsoft.com/en-us/library/aa551972\(v=ax.60\))
+[Vendor posting profiles (form)](https://technet.microsoft.com/library/aa551972\(v=ax.60\))
 
-[(BRA) Vendor posting profiles (modified form)](https://technet.microsoft.com/en-us/library/jj710579\(v=ax.60\))
+[(BRA) Vendor posting profiles (modified form)](https://technet.microsoft.com/library/jj710579\(v=ax.60\))
 
   
 

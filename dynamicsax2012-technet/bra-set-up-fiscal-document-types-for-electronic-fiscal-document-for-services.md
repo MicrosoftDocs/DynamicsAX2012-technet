@@ -2,8 +2,9 @@
 title: (BRA) Set up fiscal document types for electronic fiscal document for services
 TOCTitle: (BRA) Set up fiscal document types for electronic fiscal document for services
 ms:assetid: 53576742-7bf4-421f-aa21-573399566bed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710502(v=AX.60)
 ms:contentKeyID: 49384393
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ Use this procedure to set up fiscal document types for the electronic fiscal doc
 
 [(BRA) About electronic fiscal document for services reporting for Sao Paulo](bra-about-electronic-fiscal-document-for-services-reporting-for-sao-paulo.md)
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
   
 

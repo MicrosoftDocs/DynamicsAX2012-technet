@@ -2,8 +2,9 @@
 title: (BRA) Calculate withholding tax for the purchase of services
 TOCTitle: (BRA) Calculate withholding tax for the purchase of services
 ms:assetid: a54b72ad-618c-4411-bbb5-59598fe9e77a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126107(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126107(v=AX.60)
 ms:contentKeyID: 52075265
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Use the following procedures to calculate the withholding tax transactions when 
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**. Create a payment journal, and then click **Lines** to open the **Journal voucher** form.
 
-2.  In the **Account** field, select the vendor account that is updated with the withholding tax for a service. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the vendor in the **Vendors** form. For more information, see [(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\)).
+2.  In the **Account** field, select the vendor account that is updated with the withholding tax for a service. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the vendor in the **Vendors** form. For more information, see [(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj933534\(v=ax.60\)).
 
 3.  Click **Functions** \> **Settlement**.
 
@@ -63,7 +64,7 @@ Use the following procedures to calculate the withholding tax transactions when 
 
 1.  Click **Accounts payable** \> **Journals** \> **Payments** \> **Payment journal**. Create a payment journal, and then click **Lines** to open the **Journal voucher** form.
 
-2.  In the **Account** field, select the vendor account that is updated with the withholding tax for a service. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the vendor in the **Vendors** form. For more information, see [(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\)).
+2.  In the **Account** field, select the vendor account that is updated with the withholding tax for a service. The **Withholding tax group** field is updated with the withholding tax group that is assigned to the vendor in the **Vendors** form. For more information, see [(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj933534\(v=ax.60\)).
 
 3.  Click **Functions** \> **Settlement**.
 

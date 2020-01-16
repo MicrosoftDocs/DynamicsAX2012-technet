@@ -2,8 +2,9 @@
 title: (BRA) Post an NF-e from a sales order
 TOCTitle: (BRA) Post an NF-e from a sales order
 ms:assetid: ec08de0b-5b9d-4f9a-bbfb-692a98b29248
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933536(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933536(v=AX.60)
 ms:contentKeyID: 50935150
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,7 +79,7 @@ Use the following procedure to post an NF-e from a sales order.
 
 [(BRA) Set up email parameters and email templates for an NF-e](bra-set-up-email-parameters-and-email-templates-for-an-nf-e.md)
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
 [(BRA) Print the DANFE in contingency mode](bra-print-the-danfe-in-contingency-mode.md)
 

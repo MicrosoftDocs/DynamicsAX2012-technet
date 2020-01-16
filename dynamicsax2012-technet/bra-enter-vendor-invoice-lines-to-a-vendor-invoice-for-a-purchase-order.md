@@ -2,8 +2,9 @@
 title: (BRA) Enter vendor invoice lines to a vendor invoice for a purchase order
 TOCTitle: (BRA) Enter vendor invoice lines to a vendor invoice for a purchase order
 ms:assetid: 329a9814-ff09-4205-8521-523bfefeb0a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910977(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910977(v=AX.60)
 ms:contentKeyID: 52075244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use this procedure to add invoice lines to a vendor invoice that is associated w
 
 7.  In the **Specie** field, select an invoice specie.
 
-8.  On the **Lines** FastTab, click **Add line** to create a new invoice line. Enter the required line details. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\)).
+8.  On the **Lines** FastTab, click **Add line** to create a new invoice line. Enter the required line details. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\)).
 
 9.  On the **Line details** FastTab, on the **Fiscal information** tab, in the **CFOP** field, select a Código Fiscal de Operações e Prestações (CFOP) code. You must specify a CFOP code for a purchase order, returned item, or item that has a product type of **Item**.
 
@@ -55,7 +56,7 @@ Use this procedure to add invoice lines to a vendor invoice that is associated w
 
 [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md)
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

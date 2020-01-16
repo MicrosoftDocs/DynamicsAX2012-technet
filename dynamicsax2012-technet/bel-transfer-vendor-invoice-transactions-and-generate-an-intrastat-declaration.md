@@ -2,8 +2,9 @@
 title: (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration
 TOCTitle: (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration
 ms:assetid: b73513e0-a939-49a6-94d7-c911d43e71e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242757(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242757(v=AX.60)
 ms:contentKeyID: 36059100
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ Before you can transfer vendor invoice transactions and generate an Intrastat de
 
 3.  Select the **Vendor invoice** check box and click **OK** to transfer the vendor invoice transactions to the **Intrastat** form.
 
-4.  In the **Intrastat** form, click **Output** \> **Diskette BE** to open the **Create Intrastat diskette in Belgian layout** form, and enter the required details. For more information, see [(BEL) Make diskette for Intrastat in Belgian layout (class form)](https://technet.microsoft.com/en-us/library/aa620219\(v=ax.60\)).
+4.  In the **Intrastat** form, click **Output** \> **Diskette BE** to open the **Create Intrastat diskette in Belgian layout** form, and enter the required details. For more information, see [(BEL) Make diskette for Intrastat in Belgian layout (class form)](https://technet.microsoft.com/library/aa620219\(v=ax.60\)).
 
 5.  Click **OK** to generate the Intrastat declaration.
     

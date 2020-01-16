@@ -2,8 +2,9 @@
 title: (BRA) Create a fiscal establishment
 TOCTitle: (BRA) Create a fiscal establishment
 ms:assetid: edce6412-e7ab-4214-8a27-4208ce18e1f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923400(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923400(v=AX.60)
 ms:contentKeyID: 52075285
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,13 +42,13 @@ Use this procedure to create one or more fiscal establishments for a legal entit
 
 [(BRA) About fiscal establishments](bra-about-fiscal-establishments.md)
 
-[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\))
+[(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\))
 
-[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/en-us/library/jj923398\(v=ax.60\))
+[(BRA) Fiscal establishment groups (form)](https://technet.microsoft.com/library/jj923398\(v=ax.60\))
 
 [(BRA) Create a fiscal establishment group](bra-create-a-fiscal-establishment-group.md)
 
-[(BRA) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj710585\(v=ax.60\))
+[(BRA) Legal entities (modified form)](https://technet.microsoft.com/library/jj710585\(v=ax.60\))
 
   
 

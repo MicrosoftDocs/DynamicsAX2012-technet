@@ -1,9 +1,10 @@
-﻿---
+---
 title: Application integration
 TOCTitle: Application integration
 ms:assetid: 9882a593-9cb8-45d9-aa40-0b4323deec71
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362007(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362007(v=AX.60)
 ms:contentKeyID: 35132776
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

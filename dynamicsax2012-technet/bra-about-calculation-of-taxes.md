@@ -2,8 +2,9 @@
 title: (BRA) About calculation of taxes
 TOCTitle: (BRA) About calculation of taxes
 ms:assetid: 8f5b0f9e-b0da-48d3-8a21-ae0ac49ef9b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ822918(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ822918(v=AX.60)
 ms:contentKeyID: 50117575
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -142,15 +143,15 @@ For a base transaction amount of BRL 1,000.00, tax rate of 18 percent, and tax r
 </table>
 
 
-For sales transactions with taxation codes that have a **1. with credit/debit** fiscal value, or item sales tax groups for which the **Without tax credit** check box is not selected: the actual sales tax amount is posted to the main accounts for which **Sales tax** and **Sales tax expense** are selected in the **Posting type** field in the **Accounts for automatic transactions** form. For more information, see [Accounts for automatic transactions (form)](https://technet.microsoft.com/en-us/library/aa548973\(v=ax.60\)).
+For sales transactions with taxation codes that have a **1. with credit/debit** fiscal value, or item sales tax groups for which the **Without tax credit** check box is not selected: the actual sales tax amount is posted to the main accounts for which **Sales tax** and **Sales tax expense** are selected in the **Posting type** field in the **Accounts for automatic transactions** form. For more information, see [Accounts for automatic transactions (form)](https://technet.microsoft.com/library/aa548973\(v=ax.60\)).
 
 For purchase transactions with taxation codes that have a **1. with credit/debit** fiscal value, or item sales tax groups for which the **Without tax credit** check box is not selected: the actual sales tax amount is posted to the main accounts for which **Sales tax** is selected in the **Posting type** field in the **Accounts for automatic transactions** form.
 
 ## See also
 
-[(BRA) Taxation code (form)](https://technet.microsoft.com/en-us/library/jj682104\(v=ax.60\))
+[(BRA) Taxation code (form)](https://technet.microsoft.com/library/jj682104\(v=ax.60\))
 
-[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/en-us/library/jj710417\(v=ax.60\))
+[(BRA) Posted sales tax (modified form)](https://technet.microsoft.com/library/jj710417\(v=ax.60\))
 
 [(BRA) Set up tax codes](bra-set-up-tax-codes.md)
 

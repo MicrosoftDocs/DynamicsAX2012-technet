@@ -2,8 +2,9 @@
 title: Analyze market share and competition
 TOCTitle: Analyze market share and competition
 ms:assetid: 3bc82285-1911-4858-b449-934077250a87
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231152(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231152(v=AX.60)
 ms:contentKeyID: 36056655
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

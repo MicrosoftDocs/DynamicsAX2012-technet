@@ -2,8 +2,9 @@
 title: Attach templates to service objects
 TOCTitle: Attach templates to service objects
 ms:assetid: 1aab2308-cbd2-4adf-8d65-7d69c2fe7bd3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569924(v=AX.60)
 ms:contentKeyID: 36056125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

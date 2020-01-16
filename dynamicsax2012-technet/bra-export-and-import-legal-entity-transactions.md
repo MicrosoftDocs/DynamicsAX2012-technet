@@ -2,8 +2,9 @@
 title: (BRA) Export and import legal entity transactions
 TOCTitle: (BRA) Export and import legal entity transactions
 ms:assetid: f30c7592-8a49-4bd9-8bd8-85f3acfc05ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663968(v=AX.60)
 ms:contentKeyID: 49384553
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ You can export transactions of a subsidiary legal entity to a .txt file and impo
 
 5.  Click the **Financial dimensions** tab, and then in the **Specification** field, select the type of data that is transferred to the **Financial dimension** field of the consolidated legal entity when the subsidiary legal entity transactions are transferred.
     
-    For example, if you select **Company accounts** as a financial dimension for the consolidated legal entity, you can identify the subsidiary origin of each transaction in the consolidated legal entity. However, the other dimension information is not transferred. For more information, see [Consolidate (form)](https://technet.microsoft.com/en-us/library/aa618539\(v=ax.60\)).
+    For example, if you select **Company accounts** as a financial dimension for the consolidated legal entity, you can identify the subsidiary origin of each transaction in the consolidated legal entity. However, the other dimension information is not transferred. For more information, see [Consolidate (form)](https://technet.microsoft.com/library/aa618539\(v=ax.60\)).
 
 6.  In the **Segment order** field, enter a number to indicate the order of dimensions in the consolidated legal entity. Enter **0** for the dimensions that have a specification of **None**.
     
@@ -76,7 +77,7 @@ You can export transactions of a subsidiary legal entity to a .txt file and impo
 
 ## See also
 
-[(BRA) Consolidate (modified form)](https://technet.microsoft.com/en-us/library/jj710487\(v=ax.60\))
+[(BRA) Consolidate (modified form)](https://technet.microsoft.com/library/jj710487\(v=ax.60\))
 
 [(BRA) Updates to consolidated legal entity transactions](bra-updates-to-consolidated-legal-entity-transactions.md)
 

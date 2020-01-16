@@ -2,8 +2,9 @@
 title: (BEL) Convert Intrastat to PRODCOM
 TOCTitle: (BEL) Convert Intrastat to PRODCOM
 ms:assetid: 80a2dedc-ef36-4d8c-b40a-cbffd1c991d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213148(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213148(v=AX.60)
 ms:contentKeyID: 36058349
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use the **Intrastat to PRODCOM conversion** form to assign PRODCOM codes to Intr
 
 [(BEL) Set up PRODCOM reporting](bel-set-up-prodcom-reporting.md)
 
-[(BEL) Intrastat to PRODCOM conversion (form)](https://technet.microsoft.com/en-us/library/aa556992\(v=ax.60\))
+[(BEL) Intrastat to PRODCOM conversion (form)](https://technet.microsoft.com/library/aa556992\(v=ax.60\))
 
   
 

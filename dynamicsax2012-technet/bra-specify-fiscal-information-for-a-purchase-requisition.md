@@ -2,8 +2,9 @@
 title: (BRA) Specify fiscal information for a purchase requisition
 TOCTitle: (BRA) Specify fiscal information for a purchase requisition
 ms:assetid: 20b5b793-2c1a-43cd-9733-76809119e3e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910966(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910966(v=AX.60)
 ms:contentKeyID: 52075241
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ You can specify the fiscal information for a purchase requisition by using the *
 
 ## See also
 
-[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/en-us/library/jj923406\(v=ax.60\))
+[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/library/jj923406\(v=ax.60\))
 
   
 

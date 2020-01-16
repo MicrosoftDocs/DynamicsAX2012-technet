@@ -2,8 +2,9 @@
 title: (BEL) Download bank statement files using CIS
 TOCTitle: (BEL) Download bank statement files using CIS
 ms:assetid: 6aba7bd5-3c4b-4d93-b4bc-f768bfc62d95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242610(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242610(v=AX.60)
 ms:contentKeyID: 36057983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,13 +43,13 @@ The processed bank statement file is now available in the **IBS transactions** f
 
   - Process status
 
-The downloaded bank statement files are in CODA format. You can use the **Bank statement** form to process them. For more information, see [Bank statement (form)](https://technet.microsoft.com/en-us/library/aa600290\(v=ax.60\)).
+The downloaded bank statement files are in CODA format. You can use the **Bank statement** form to process them. For more information, see [Bank statement (form)](https://technet.microsoft.com/library/aa600290\(v=ax.60\)).
 
 ## See also
 
 [(BEL) About CIS](bel-about-cis.md)
 
-[(BEL) CODA (form)](https://technet.microsoft.com/en-us/library/aa600713\(v=ax.60\))
+[(BEL) CODA (form)](https://technet.microsoft.com/library/aa600713\(v=ax.60\))
 
 [(BEL) Generate vendor payment files and upload them using CIS](bel-generate-vendor-payment-files-and-upload-them-using-cis.md)
 

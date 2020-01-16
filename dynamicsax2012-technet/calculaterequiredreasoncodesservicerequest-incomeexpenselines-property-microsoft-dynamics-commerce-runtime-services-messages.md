@@ -1,9 +1,10 @@
-﻿---
+---
 title: CalculateRequiredReasonCodesServiceRequest.IncomeExpenseLines Property  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: IncomeExpenseLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateRequiredReasonCodesServiceRequest.IncomeExpenseLines
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.calculaterequiredreasoncodesservicerequest.incomeexpenselines(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculaterequiredreasoncodesservicerequest.incomeexpenselines(v=AX.60)
 ms:contentKeyID: 65317343
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ property IEnumerable<IncomeExpenseLine^>^ IncomeExpenseLines {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[IncomeExpenseLine](incomeexpenseline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[IncomeExpenseLine](incomeexpenseline-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 
 ## See Also
 

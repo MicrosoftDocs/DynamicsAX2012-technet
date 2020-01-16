@@ -2,8 +2,9 @@
 title: (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction
 TOCTitle: (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction
 ms:assetid: ef4dd189-e5ec-41e4-bb0c-023efc30046d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn876576(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn876576(v=AX.60)
 ms:contentKeyID: 63378992
+author: Khairunj
 ms.date: 02/27/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ To complete this procedure, follow these steps:
 
 1.  Click **Organization administration** \> **Setup** \> **Brazil** \> **Fiscal establishments**.
 
-2.  Create a new fiscal establishment, and enter basic information about it. For more information, see [(BRA) Fiscal establishments (form)](https://technet.microsoft.com/en-us/library/jj933531\(v=ax.60\)).
+2.  Create a new fiscal establishment, and enter basic information about it. For more information, see [(BRA) Fiscal establishments (form)](https://technet.microsoft.com/library/jj933531\(v=ax.60\)).
 
 3.  Enter the tax identification number of the fiscal establishment in the **CNPJ/CPF** field.
 
@@ -63,11 +64,11 @@ Use this procedure to specify the end points for an NFC-e web service. The web s
 
 ## Specify NFC-e attributes for a POS register
 
-Use this procedure to set up attributes for a POS register to perform NFC-e operations. You can also configure a non-fiscal printer in the POS hardware profile form to print a the DANFE NFC-e without a fiscal printer. For more information, see [POS hardware profile (form)](https://technet.microsoft.com/en-us/library/hh580636\(v=ax.60\)).
+Use this procedure to set up attributes for a POS register to perform NFC-e operations. You can also configure a non-fiscal printer in the POS hardware profile form to print a the DANFE NFC-e without a fiscal printer. For more information, see [POS hardware profile (form)](https://technet.microsoft.com/library/hh580636\(v=ax.60\)).
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **POS registers**.
 
-2.  Create a new register or double-click an existing POS register. For more information, see [POS registers (form)](https://technet.microsoft.com/en-us/library/hh597141\(v=ax.60\)) and [Set up registers](set-up-registers.md).
+2.  Create a new register or double-click an existing POS register. For more information, see [POS registers (form)](https://technet.microsoft.com/library/hh597141\(v=ax.60\)) and [Set up registers](set-up-registers.md).
 
 3.  On the **Fiscal information** FastTab, in the **Fiscal operation mode** field, select **NFC-e**. You can select **Fiscal printer** to use the POS register only for fiscal printer operations.
 

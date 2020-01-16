@@ -2,8 +2,9 @@
 title: Approved vendor list configuration key (PdsAVL)
 TOCTitle: Approved vendor list configuration key (PdsAVL)
 ms:assetid: 13a234fe-d70a-468f-8c2f-cef4a68d14fd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496407(v=AX.60)
 ms:contentKeyID: 37071980
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,15 +41,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Approved vendor list expiration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328678(v=ax.60)">Approved vendor list expiration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328678(v=ax.60)">Approved vendor list expiration (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Approved vendor list by item</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328600(v=ax.60)">Approved vendor list by item (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328600(v=ax.60)">Approved vendor list by item (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Approved vendor list by vendor</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209580(v=ax.60)">Approved vendor list by vendor (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209580(v=ax.60)">Approved vendor list by vendor (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +71,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Approved vendors</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh328745(v=ax.60)">Approved vendor list (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh328745(v=ax.60)">Approved vendor list (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +109,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (CAN) Generate a GIFT file
 TOCTitle: (CAN) Generate a GIFT file
 ms:assetid: 3d3e3d01-3512-4637-b4ea-4c171c4bc551
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242237(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242237(v=AX.60)
 ms:contentKeyID: 36056677
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

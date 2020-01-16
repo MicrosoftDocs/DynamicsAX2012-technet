@@ -2,8 +2,9 @@
 title: Calculate and post withholding tax
 TOCTitle: Calculate and post withholding tax
 ms:assetid: c14fe151-bd4b-4e45-b0fa-db5daf534e0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550675(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550675(v=AX.60)
 ms:contentKeyID: 36059271
+author: Khairunj
 ms.date: 06/20/2014
 mtps_version: v=AX.60
 f1_keywords:

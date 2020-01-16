@@ -2,8 +2,9 @@
 title: Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector
 TOCTitle: Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector
 ms:assetid: 7280efd8-411e-4833-baf0-8f917aaf576c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn205241(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn205241(v=AX.60)
 ms:contentKeyID: 53910091
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

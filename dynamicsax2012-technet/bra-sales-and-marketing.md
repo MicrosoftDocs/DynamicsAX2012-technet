@@ -2,8 +2,9 @@
 title: (BRA) Sales and marketing
 TOCTitle: (BRA) Sales and marketing
 ms:assetid: 05717e94-33e2-4867-a9c0-67aa744ad7fe
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710405(v=AX.60)
 ms:contentKeyID: 49384297
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

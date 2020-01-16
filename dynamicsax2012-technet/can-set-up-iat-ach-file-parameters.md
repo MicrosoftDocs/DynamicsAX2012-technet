@@ -2,8 +2,9 @@
 title: (CAN) Set up IAT ACH file parameters
 TOCTitle: (CAN) Set up IAT ACH file parameters
 ms:assetid: 8884b9a0-aafc-4ebf-9746-10c7d5a24743
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242852(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242852(v=AX.60)
 ms:contentKeyID: 36058446
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -73,7 +74,7 @@ To comply with the National Automated Clearing House Association (NACHA) operati
 
 [Create an electronic payment file for customers](create-an-electronic-payment-file-for-customers.md)
 
-[Methods of payment - vendors (form)](https://technet.microsoft.com/en-us/library/aa618565\(v=ax.60\))
+[Methods of payment - vendors (form)](https://technet.microsoft.com/library/aa618565\(v=ax.60\))
 
   
 

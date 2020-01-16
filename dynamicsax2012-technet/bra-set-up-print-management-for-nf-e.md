@@ -2,8 +2,9 @@
 title: (BRA) Set up print management for NF-e
 TOCTitle: (BRA) Set up print management for NF-e
 ms:assetid: e68ab728-85de-4753-b6bb-9ce06bb9361e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn126110(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn126110(v=AX.60)
 ms:contentKeyID: 52075282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -191,7 +192,7 @@ You can also set up the **Fiscal establishment ID** field in the **Field** field
 
 [Set up print management for a customer or vendor](set-up-print-management-for-a-customer-or-vendor.md)
 
-[Print management setup (form)](https://technet.microsoft.com/en-us/library/hh209383\(v=ax.60\))
+[Print management setup (form)](https://technet.microsoft.com/library/hh209383\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (BRA) Set up approximate taxes for items and services
 TOCTitle: (BRA) Set up approximate taxes for items and services
 ms:assetid: 745d493e-74cd-4b1b-bc81-8d85f1cedd49
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527708(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527708(v=AX.60)
 ms:contentKeyID: 59626280
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,7 +101,7 @@ To set up approximate tax percentages for national and imported items, follow th
 
 1.  Click **Inventory management** \> **Setup** \> **Fiscal information** \> **Fiscal classification codes**.
 
-2.  Select or create a fiscal classification code. For more information, see [(BRA) Fiscal classification codes (form)](https://technet.microsoft.com/en-us/library/jj710531\(v=ax.60\)).
+2.  Select or create a fiscal classification code. For more information, see [(BRA) Fiscal classification codes (form)](https://technet.microsoft.com/library/jj710531\(v=ax.60\)).
 
 3.  In the **Approximate tax percentage for national products** field, enter the tax rate that is used to calculate the approximate tax amount for national items that have a taxation origin of 0 – **National, not related to codes 3 to 5**.
 
@@ -108,7 +109,7 @@ To set up approximate tax percentages for national and imported items, follow th
 
 5.  Click **Exception code** to open the **Exception codes** form.
 
-6.  Select or create an exception code. For more information, see [(BRA) Exception code (form)](https://technet.microsoft.com/en-us/library/jj910969\(v=ax.60\)).
+6.  Select or create an exception code. For more information, see [(BRA) Exception code (form)](https://technet.microsoft.com/library/jj910969\(v=ax.60\)).
 
 7.  In the **Approximate tax percentage for national products** field, enter the tax rate that is used to calculate the approximate tax amount for national items that have a taxation origin of 0 – **National, not related to codes 3 to 5**.
 
@@ -122,7 +123,7 @@ To perform this task, follow these steps:
 
 1.  Click **Product information management** \> **Common** \> **Released products**.
 
-2.  Select or create an item or service, and then on the **Action Pane**, click **Edit**. For more information, see [(BRA) Released product details (modified form)](https://technet.microsoft.com/en-us/library/jj923408\(v=ax.60\)), [(BRA) Set up taxation origin for items](bra-set-up-taxation-origin-for-items.md), and [(BRA) Set up fiscal information](bra-set-up-fiscal-information.md).
+2.  Select or create an item or service, and then on the **Action Pane**, click **Edit**. For more information, see [(BRA) Released product details (modified form)](https://technet.microsoft.com/library/jj923408\(v=ax.60\)), [(BRA) Set up taxation origin for items](bra-set-up-taxation-origin-for-items.md), and [(BRA) Set up fiscal information](bra-set-up-fiscal-information.md).
 
 3.  On the **Fiscal information** FastTab, in the **Approximate tax percentage** field, enter the tax rate that is used to calculate the approximate tax amount for the item or service.
 
@@ -150,7 +151,7 @@ You have finished setting up approximate tax calculations. Continue to create an
 
 [(BRA) Set up Brazilian parameters](bra-set-up-brazilian-parameters.md)
 
-[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
+[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/library/jj822920\(v=ax.60\))
 
 ## Technical information for system administrators
 

@@ -2,8 +2,9 @@
 title: Best practices white papers
 TOCTitle: Best practices white papers
 ms:assetid: 30f81953-709e-42b5-9b6b-c3e28eaf52e0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh272860(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh272860(v=AX.60)
 ms:contentKeyID: 36584384
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

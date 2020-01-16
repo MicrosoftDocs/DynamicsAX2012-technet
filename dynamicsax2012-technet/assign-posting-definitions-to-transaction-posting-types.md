@@ -2,8 +2,9 @@
 title: Assign posting definitions to transaction posting types
 TOCTitle: Assign posting definitions to transaction posting types
 ms:assetid: 7ec3a6a1-c082-4ff8-851a-ddc835db2e6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209293(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209293(v=AX.60)
 ms:contentKeyID: 36058321
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ After you create posting definitions, follow these steps to assign the posting d
 
 3.  Click **New**.
 
-4.  In each field, select the attributes to use with the posting definition for this transaction type. The specific fields that are available vary, depending on the tab that you clicked. For more information, see [Transaction posting definitions (form)](https://technet.microsoft.com/en-us/library/hh242550\(v=ax.60\)).
+4.  In each field, select the attributes to use with the posting definition for this transaction type. The specific fields that are available vary, depending on the tab that you clicked. For more information, see [Transaction posting definitions (form)](https://technet.microsoft.com/library/hh242550\(v=ax.60\)).
 
 5.  In the **Posting definition** field, select the posting definition to associate with the criteria that you selected.
 

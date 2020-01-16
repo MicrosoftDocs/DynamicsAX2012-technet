@@ -2,8 +2,9 @@
 title: Assign target completion dates to question groups in RapidStart Services
 TOCTitle: Assign target completion dates to question groups in RapidStart Services
 ms:assetid: a31ef049-7c2a-459e-ba6f-9278de219214
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn194005(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn194005(v=AX.60)
 ms:contentKeyID: 52348261
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

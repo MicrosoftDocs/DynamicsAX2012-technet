@@ -2,8 +2,9 @@
 title: (BRA) Pay for product or service overview
 TOCTitle: (BRA) Pay for product or service overview
 ms:assetid: 44ca8fbd-3358-427e-b59a-e38649e2666e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710477(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710477(v=AX.60)
 ms:contentKeyID: 49384368
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

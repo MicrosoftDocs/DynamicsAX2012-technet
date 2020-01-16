@@ -2,8 +2,9 @@
 title: (BEL) Create a vendor account with an enterprise number
 TOCTitle: (BEL) Create a vendor account with an enterprise number
 ms:assetid: 2a4a15db-6576-4947-8f5f-00fc1cba7f0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208495(v=AX.60)
 ms:contentKeyID: 36056232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -27,7 +28,7 @@ Use this procedure to create a vendor account and specify the enterprise number 
 
 1.  Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**.
 
-2.  Click **Vendor** to create a new vendor account. For more information, see [Create a vendor account](create-a-vendor-account.md) and [Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\)).
+2.  Click **Vendor** to create a new vendor account. For more information, see [Create a vendor account](create-a-vendor-account.md) and [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).
 
 3.  Click the **Addresses** FastTab, and then click **Add** to open the **Address** form.
 
@@ -47,9 +48,9 @@ Use this procedure to create a vendor account and specify the enterprise number 
 
 ## See also
 
-[Tax exempt numbers (form)](https://technet.microsoft.com/en-us/library/aa583706\(v=ax.60\))
+[Tax exempt numbers (form)](https://technet.microsoft.com/library/aa583706\(v=ax.60\))
 
-[Party (form)](https://technet.microsoft.com/en-us/library/hh209008\(v=ax.60\))
+[Party (form)](https://technet.microsoft.com/library/hh209008\(v=ax.60\))
 
 [(BEL) Create a customer account with an enterprise number](bel-create-a-customer-account-with-an-enterprise-number.md)
 

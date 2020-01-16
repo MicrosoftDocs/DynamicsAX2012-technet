@@ -2,8 +2,9 @@
 title: (BRA) Cancel a project invoice NF-e
 TOCTitle: (BRA) Cancel a project invoice NF-e
 ms:assetid: 8c4f7959-d414-44cb-a8ba-52530fd8d610
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933525(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933525(v=AX.60)
 ms:contentKeyID: 50935138
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ You can cancel the NF-e before you submit it to the Secretaria da Fazenda (SEFAZ
 
 [(BRA) Post an NF-e from a project invoice](bra-post-an-nf-e-from-a-project-invoice.md)
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

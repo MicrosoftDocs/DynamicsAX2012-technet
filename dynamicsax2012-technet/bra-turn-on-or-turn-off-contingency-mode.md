@@ -2,8 +2,9 @@
 title: (BRA) Turn on or turn off contingency mode
 TOCTitle: (BRA) Turn on or turn off contingency mode
 ms:assetid: 26590a7a-7da2-4880-b9f0-84e5db693bb0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933500(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933500(v=AX.60)
 ms:contentKeyID: 50935115
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -53,9 +54,9 @@ Use the following procedure to turn off contingency mode.
 
 ## See also
 
-[(BRA) Contingency mode (form)](https://technet.microsoft.com/en-us/library/jj933511\(v=ax.60\))
+[(BRA) Contingency mode (form)](https://technet.microsoft.com/library/jj933511\(v=ax.60\))
 
-[(BRA) Fiscal documents pending an update to contingency mode (list page)](https://technet.microsoft.com/en-us/library/jj937991\(v=ax.60\))
+[(BRA) Fiscal documents pending an update to contingency mode (list page)](https://technet.microsoft.com/library/jj937991\(v=ax.60\))
 
 [(BRA) About the NF-e process](bra-about-the-nf-e-process.md)
 

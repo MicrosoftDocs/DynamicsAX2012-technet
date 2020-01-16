@@ -2,8 +2,9 @@
 title: (BRA) About electronic fiscal document for services reporting for Sao Paulo
 TOCTitle: (BRA) About electronic fiscal document for services reporting for Sao Paulo
 ms:assetid: 0673877d-eeed-4622-ae0c-dac0181498f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710403(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710403(v=AX.60)
 ms:contentKeyID: 49384295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

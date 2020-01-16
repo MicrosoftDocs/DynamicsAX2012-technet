@@ -2,8 +2,9 @@
 title: Cancel a return order
 TOCTitle: Cancel a return order
 ms:assetid: bfcda55f-0a1f-4ada-b5f4-bfed2cbadbb3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213628(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213628(v=AX.60)
 ms:contentKeyID: 44081037
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

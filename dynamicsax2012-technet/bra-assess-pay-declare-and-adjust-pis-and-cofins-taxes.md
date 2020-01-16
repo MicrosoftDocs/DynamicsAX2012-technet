@@ -2,8 +2,9 @@
 title: (BRA) Assess, pay, declare and adjust PIS and COFINS taxes
 TOCTitle: (BRA) Assess, pay, declare and adjust PIS and COFINS taxes
 ms:assetid: 6a268b67-d768-4e38-a531-8bbdd0f7e70f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt267600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt267600(v=AX.60)
 ms:contentKeyID: 66250922
+author: Khairunj
 ms.date: 07/07/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -167,7 +168,7 @@ The following information describes how to complete closing procedures of tax as
 
 ## See also
 
-[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/en-us/library/jj822920\(v=ax.60\))
+[(BRA) Brazilian parameters (form)](https://technet.microsoft.com/library/jj822920\(v=ax.60\))
 
 [(BRA) About calculation of taxes](bra-about-calculation-of-taxes.md)
 

@@ -2,8 +2,9 @@
 title: (BRA) Create and post a project debit note
 TOCTitle: (BRA) Create and post a project debit note
 ms:assetid: ed956e1a-25bf-47dd-aaa0-891b864b9833
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916231(v=AX.60)
 ms:contentKeyID: 50877512
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -124,9 +125,9 @@ Before you create a debit note proposal, you must set up a fiscal document type 
 
 ## See also
 
-[(BRA) Project debit note proposals (list page)](https://technet.microsoft.com/en-us/library/jj923401\(v=ax.60\))
+[(BRA) Project debit note proposals (list page)](https://technet.microsoft.com/library/jj923401\(v=ax.60\))
 
-[(BRA) Debit note proposal (form)](https://technet.microsoft.com/en-us/library/jj923193\(v=ax.60\))
+[(BRA) Debit note proposal (form)](https://technet.microsoft.com/library/jj923193\(v=ax.60\))
 
 [(BRA) Cancel a project debit note](bra-cancel-a-project-debit-note.md)
 

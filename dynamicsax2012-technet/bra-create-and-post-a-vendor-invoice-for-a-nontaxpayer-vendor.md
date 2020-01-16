@@ -2,8 +2,9 @@
 title: (BRA) Create and post a vendor invoice for a nontaxpayer vendor
 TOCTitle: (BRA) Create and post a vendor invoice for a nontaxpayer vendor
 ms:assetid: 947dc508-f2fb-4cff-a3b6-b16a5f962e30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911296(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911296(v=AX.60)
 ms:contentKeyID: 52075258
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,13 +69,13 @@ Use the **Vendor invoice** form to post a vendor invoice for a nontaxpayer vendo
 
 6.  On the **Action Pane**, click **Add shipping specifications**, and then create a shipment specification.
 
-7.  Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/en-us/library/jj683240\(v=ax.60\)).
+7.  Enter values in the **Volume type**, **Volume quantity**, **Gross weight**, and **Net weight** fields. For more information, see [(BRA) Shipments (form)](https://technet.microsoft.com/library/jj683240\(v=ax.60\)).
 
 8.  Click **Header view**.
 
-9.  On the **Fiscal information** FastTab, in the **Operation type** field, select an operation type that you have created in the **Operation type** form. For more information, see [(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\)).
+9.  On the **Fiscal information** FastTab, in the **Operation type** field, select an operation type that you have created in the **Operation type** form. For more information, see [(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\)).
 
-10. In the **CFOP** field, select a Código Fiscal de Operações e Prestações (CFOP) code that you have created in the **CFOP codes** form. For more information, see [(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\)).
+10. In the **CFOP** field, select a Código Fiscal de Operações e Prestações (CFOP) code that you have created in the **CFOP codes** form. For more information, see [(BRA) CFOP codes (form)](https://technet.microsoft.com/library/jj933522\(v=ax.60\)).
 
 11. Select the **Use and consumption** check box to indicate that the purchase is for consumption.
 
@@ -94,9 +95,9 @@ Use the **Vendor invoice** form to post a vendor invoice for a nontaxpayer vendo
 
 ## See also
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
-[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\))
+[(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\))
 
 [(BRA) Create and post a purchase order](bra-create-and-post-a-purchase-order.md)
 

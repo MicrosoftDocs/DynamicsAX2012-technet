@@ -2,8 +2,9 @@
 title: (BRA) Post a payment with the Bordero method of payment and generate the Bordero report
 TOCTitle: (BRA) Post a payment with the Bordero method of payment and generate the Bordero report
 ms:assetid: 49128212-aae6-4c60-9f83-fe3decd4752f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ910997(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ910997(v=AX.60)
 ms:contentKeyID: 52075246
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -89,15 +90,15 @@ In the **Bordero** form, you can view the list of vendor payments that are gener
 
 [(BRA) Set up a number sequence for Bordero payments](bra-set-up-a-number-sequence-for-bordero-payments.md)
 
-[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/en-us/library/jj923217\(v=ax.60\))
+[(BRA) Methods of payment - vendors (modified form)](https://technet.microsoft.com/library/jj923217\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
-[(BRA) Bordero (form)](https://technet.microsoft.com/en-us/library/jj923356\(v=ax.60\))
+[(BRA) Bordero (form)](https://technet.microsoft.com/library/jj923356\(v=ax.60\))
 
 [(BRA) About check payments and Bordero payments](bra-about-check-payments-and-bordero-payments.md)
 
-[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/en-us/library/jj933534\(v=ax.60\))
+[(BRA) Journal voucher - Vendor payment journal (modified form)](https://technet.microsoft.com/library/jj933534\(v=ax.60\))
 
   
 

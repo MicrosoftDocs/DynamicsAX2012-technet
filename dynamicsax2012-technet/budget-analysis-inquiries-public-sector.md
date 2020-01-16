@@ -2,8 +2,9 @@
 title: Budget analysis inquiries (Public sector)
 TOCTitle: Budget analysis inquiries (Public sector)
 ms:assetid: a8102d21-014b-437f-a6d5-efb8b1fc7d85
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn715993(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn715993(v=AX.60)
 ms:contentKeyID: 62200218
+author: Khairunj
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -96,7 +97,7 @@ For more information, see [Create a financial dimension set](create-a-financial-
 
 Use the **Expense budget with carry-forwards** column set if you carry forward the budget for purchase orders that are open at year-end. This column set shows separate totals both for transactions that use active prior-year budget and transactions that use the new year’s budget. This makes it easy for you to monitor the budgeted, encumbered, and expended amounts that are related to transactions from the prior year.
 
-For more information about column sets, see [Budget analysis (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710370\(v=ax.60\)).
+For more information about column sets, see [Budget analysis (form) (Public sector)](https://technet.microsoft.com/library/jj710370\(v=ax.60\)).
 
 ## What should I do if the grids are empty even when I’ve selected all the values at the top of the form?
 
@@ -130,15 +131,15 @@ Tell us what question you would like to add to this topic. Send email to <adocs@
 
 ## See also
 
-[Budget analysis (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710370\(v=ax.60\))
+[Budget analysis (form) (Public sector)](https://technet.microsoft.com/library/jj710370\(v=ax.60\))
 
-[Budget analysis for revised budgets (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710369\(v=ax.60\))
+[Budget analysis for revised budgets (form) (Public sector)](https://technet.microsoft.com/library/jj710369\(v=ax.60\))
 
-[Budget analysis for pre-encumbrances (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710368\(v=ax.60\))
+[Budget analysis for pre-encumbrances (form) (Public sector)](https://technet.microsoft.com/library/jj710368\(v=ax.60\))
 
-[Budget analysis for actual expenditures (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710367\(v=ax.60\))
+[Budget analysis for actual expenditures (form) (Public sector)](https://technet.microsoft.com/library/jj710367\(v=ax.60\))
 
-[Budget analysis for encumbrances (form) (Public sector)](https://technet.microsoft.com/en-us/library/jj710366\(v=ax.60\))
+[Budget analysis for encumbrances (form) (Public sector)](https://technet.microsoft.com/library/jj710366\(v=ax.60\))
 
   
 

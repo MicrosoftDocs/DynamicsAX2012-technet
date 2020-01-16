@@ -2,8 +2,9 @@
 title: (BRA) About posting and printing fiscal document texts
 TOCTitle: (BRA) About posting and printing fiscal document texts
 ms:assetid: 771ac3e6-c84e-4606-9d0b-0265e7f7bf96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710537(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710537(v=AX.60)
 ms:contentKeyID: 49384428
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Follow these steps to post and print a fiscal document text on a fiscal document
 
 ## See also
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
 [(BRA) Attach fiscal document texts to a free text invoice](bra-attach-fiscal-document-texts-to-a-free-text-invoice.md)
 

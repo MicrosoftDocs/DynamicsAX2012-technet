@@ -2,8 +2,9 @@
 title: (BRA) Set up the CFOP matrix
 TOCTitle: (BRA) Set up the CFOP matrix
 ms:assetid: 527dea5a-464d-4d1f-9c9c-d8ab4d187ddc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933515(v=AX.60)
 ms:contentKeyID: 50935127
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -15,7 +16,7 @@ ms.search.region: Brazil
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-You can set up a Código Fiscal de Operações e Prestações (CFOP) matrix that determines the default CFOP code and the default CFOP group to use for different types of transactions and operations. You must create CFOP codes and CFOP groups before you create the CFOP matrix. For more information, see [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md) and [(BRA) CFOP groups (form)](https://technet.microsoft.com/en-us/library/jj923344\(v=ax.60\)).
+You can set up a Código Fiscal de Operações e Prestações (CFOP) matrix that determines the default CFOP code and the default CFOP group to use for different types of transactions and operations. You must create CFOP codes and CFOP groups before you create the CFOP matrix. For more information, see [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md) and [(BRA) CFOP groups (form)](https://technet.microsoft.com/library/jj923344\(v=ax.60\)).
 
 1.  Click **General ledger** \> **Setup** \> **Sales tax** \> **CFOP matrix**.
 
@@ -51,11 +52,11 @@ You can set up a Código Fiscal de Operações e Prestações (CFOP) matrix that
 
 ## See also
 
-[(BRA) CFOP codes (form)](https://technet.microsoft.com/en-us/library/jj933522\(v=ax.60\))
+[(BRA) CFOP codes (form)](https://technet.microsoft.com/library/jj933522\(v=ax.60\))
 
-[(BRA) CFOP matrix (form)](https://technet.microsoft.com/en-us/library/jj933496\(v=ax.60\))
+[(BRA) CFOP matrix (form)](https://technet.microsoft.com/library/jj933496\(v=ax.60\))
 
-[(BRA) Taxes matrix (form)](https://technet.microsoft.com/en-us/library/jj923368\(v=ax.60\))
+[(BRA) Taxes matrix (form)](https://technet.microsoft.com/library/jj923368\(v=ax.60\))
 
   
 

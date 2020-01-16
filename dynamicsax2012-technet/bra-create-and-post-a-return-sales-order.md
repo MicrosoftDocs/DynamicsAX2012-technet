@@ -2,8 +2,9 @@
 title: (BRA) Create and post a return sales order
 TOCTitle: (BRA) Create and post a return sales order
 ms:assetid: fcbf3402-3f51-4add-9b59-e2d07eb39d22
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ937997(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ937997(v=AX.60)
 ms:contentKeyID: 50950786
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -30,7 +31,7 @@ You must select the **Generate incoming fiscal document** check box for the cust
 
 1.  Click **Sales and marketing** \> **Common** \> **Return orders** \> **All return orders**.
 
-2.  Create a return order. For more information, see [Return orders (form)](https://technet.microsoft.com/en-us/library/hh803010\(v=ax.60\)).
+2.  Create a return order. For more information, see [Return orders (form)](https://technet.microsoft.com/library/hh803010\(v=ax.60\)).
 
 3.  Click **Inventory management** \> **Periodic** \> **Arrival overview**.
 
@@ -60,11 +61,11 @@ The on-hand quantity of the returned item is updated in the **On-hand** form.
 
 [(BRA) Create and post a sales order](bra-create-and-post-a-sales-order.md)
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
-[(BRA) Return order (form)](https://technet.microsoft.com/en-us/library/jj911254\(v=ax.60\))
+[(BRA) Return order (form)](https://technet.microsoft.com/library/jj911254\(v=ax.60\))
 
-[Arrival overview (form)](https://technet.microsoft.com/en-us/library/hh227654\(v=ax.60\))
+[Arrival overview (form)](https://technet.microsoft.com/library/hh227654\(v=ax.60\))
 
   
 

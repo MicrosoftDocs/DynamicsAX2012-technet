@@ -2,8 +2,9 @@
 title: (BRA) Set up the return of rented items and services used for industrialization
 TOCTitle: (BRA) Set up the return of rented items and services used for industrialization
 ms:assetid: 96bfbded-9536-4445-847c-e0b9a0e0aeac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863730(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863730(v=AX.60)
 ms:contentKeyID: 50396412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ Use this procedure to set up the operation type, sales tax codes, and item sales
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

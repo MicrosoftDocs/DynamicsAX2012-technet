@@ -2,8 +2,9 @@
 title: Budget planning configuration key (LedgerAdv2BudgetPlanning)
 TOCTitle: Budget planning configuration key (LedgerAdv2BudgetPlanning)
 ms:assetid: 3b715ff6-9f49-4d14-bbfd-690e712a7f21
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714215(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714215(v=AX.60)
 ms:contentKeyID: 49651324
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,55 +38,55 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Budget plan</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677376(v=ax.60)">Budget plan (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677376(v=ax.60)">Budget plan (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget plan proposed assets</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677435(v=ax.60)">Budget plan proposed assets (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677435(v=ax.60)">Budget plan proposed assets (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget plan proposed projects</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677384(v=ax.60)">Budget plan proposed projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677384(v=ax.60)">Budget plan proposed projects (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget planning configuration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget planning process</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677441(v=ax.60)">Budget planning process (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677441(v=ax.60)">Budget planning process (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Generate budget plan from budget plan</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677377(v=ax.60)">Generate budget plan from budget plan (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677377(v=ax.60)">Generate budget plan from budget plan (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Generate budget plan from fixed assets</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj710361(v=ax.60)">Generate budget plan from fixed assets (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj710361(v=ax.60)">Generate budget plan from fixed assets (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Generate budget plan from forecast positions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677428(v=ax.60)">Generate budget plan from forecast positions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677428(v=ax.60)">Generate budget plan from forecast positions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Generate budget plan from general ledger</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677392(v=ax.60)">Generate budget plan from general ledger (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677392(v=ax.60)">Generate budget plan from general ledger (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Generate budget register entry</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj710365(v=ax.60)">Generate budget register entry (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj710365(v=ax.60)">Generate budget register entry (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Select forecast positions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677436(v=ax.60)">Select forecast positions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677436(v=ax.60)">Select forecast positions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget plan hierarchy</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677406(v=ax.60)">View budget plan hierarchy (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677406(v=ax.60)">View budget plan hierarchy (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget planning process status</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/jj677449(v=ax.60)">View budget planning process status (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/jj677449(v=ax.60)">View budget planning process status (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -145,7 +146,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (BRA) Attach fiscal document texts to a fiscal document
 TOCTitle: (BRA) Attach fiscal document texts to a fiscal document
 ms:assetid: a3cee143-2f9b-43cc-b218-da5825832c40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710582(v=AX.60)
 ms:contentKeyID: 49384471
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -105,7 +106,7 @@ You must set up fiscal document source texts and document types for fiscal docum
 
 ## See also
 
-[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/en-us/library/jj663934\(v=ax.60\))
+[(BRA) Fiscal document source texts (form)](https://technet.microsoft.com/library/jj663934\(v=ax.60\))
 
   
 

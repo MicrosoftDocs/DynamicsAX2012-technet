@@ -2,8 +2,9 @@
 title: Allow debugging
 TOCTitle: Allow debugging
 ms:assetid: d25fadc8-e945-4814-abba-ec0c851aa547
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569630(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569630(v=AX.60)
 ms:contentKeyID: 35949364
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -21,13 +22,13 @@ This topic describes how to enable debugging on an instance of Microsoft Dynamic
 
 3.  On the **Application Object Server** tab, click **Enable breakpoints to debug X++ code running on this server**. When this option is enabled, clients can trace their interactions with the AOS instance.
 
-4.  Click **Enable global breakpoints**. When this option is enabled, clients can debug X++ code that is invoked by using Query Services. For more information about this option, see [Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/en-us/library/aa569635\(v=ax.60\)).
+4.  Click **Enable global breakpoints**. When this option is enabled, clients can debug X++ code that is invoked by using Query Services. For more information about this option, see [Microsoft Dynamics AX 2012 Server Configuration (form)](https://technet.microsoft.com/library/aa569635\(v=ax.60\)).
 
 5.  Click **OK**.
 
 ## See also
 
-[Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/en-us/library/gg860898\(v=ax.60\))
+[Debugging in Microsoft Dynamics AX 2012](https://technet.microsoft.com/library/gg860898\(v=ax.60\))
 
 [Enable debugging in Microsoft Dynamics AX clients](enable-debugging-in-microsoft-dynamics-ax-clients.md)
 

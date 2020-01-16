@@ -2,8 +2,9 @@
 title: (BRA) Set up a line property
 TOCTitle: (BRA) Set up a line property
 ms:assetid: 1cfaf228-f899-4ba5-a86a-e7e1eeca3c94
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853378(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853378(v=AX.60)
 ms:contentKeyID: 50396749
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,9 +52,9 @@ Use the **Project/group line properties** form to create a line property and to 
 
 ## See also
 
-[Project categories (form)](https://technet.microsoft.com/en-us/library/aa582118\(v=ax.60\))
+[Project categories (form)](https://technet.microsoft.com/library/aa582118\(v=ax.60\))
 
-[(BRA) Project/group line properties (modified form)](https://technet.microsoft.com/en-us/library/jj911306\(v=ax.60\))
+[(BRA) Project/group line properties (modified form)](https://technet.microsoft.com/library/jj911306\(v=ax.60\))
 
   
 

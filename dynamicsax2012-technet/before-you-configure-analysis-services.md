@@ -2,8 +2,9 @@
 title: Before you configure Analysis Services
 TOCTitle: Before you configure Analysis Services
 ms:assetid: 7c89294e-ba10-42a4-82c7-efe96d5bc1e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731841(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731841(v=AX.60)
 ms:contentKeyID: 35132693
+author: Khairunj
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

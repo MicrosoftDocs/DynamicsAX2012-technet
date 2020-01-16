@@ -2,8 +2,9 @@
 title: (BRA) Capitalize assets overview
 TOCTitle: (BRA) Capitalize assets overview
 ms:assetid: 1578fdfb-d280-4b37-8e19-ced16f359c33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710419(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710419(v=AX.60)
 ms:contentKeyID: 49384311
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

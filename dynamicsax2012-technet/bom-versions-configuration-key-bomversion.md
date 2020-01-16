@@ -2,8 +2,9 @@
 title: BOM Versions configuration key (BOMVersion)
 TOCTitle: BOM Versions configuration key (BOMVersion)
 ms:assetid: 6858a557-d8a3-477a-ad89-9bd8cbf7ec4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa585534(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa585534(v=AX.60)
 ms:contentKeyID: 36997755
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Bills of materials</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587282(v=ax.60)">BOM (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328668(v=ax.60)">Formula (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587282(v=ax.60)">BOM (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328668(v=ax.60)">Formula (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +98,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

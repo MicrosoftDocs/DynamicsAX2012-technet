@@ -2,8 +2,9 @@
 title: (BEL) Create an annual list as a simplified report and an .xml file
 TOCTitle: (BEL) Create an annual list as a simplified report and an .xml file
 ms:assetid: 44d26801-d2a6-4903-8d2a-e5ad7e7adae8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242379(v=AX.60)
 ms:contentKeyID: 36056889
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

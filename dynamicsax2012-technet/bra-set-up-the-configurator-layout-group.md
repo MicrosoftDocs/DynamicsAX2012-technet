@@ -2,8 +2,9 @@
 title: (BRA) Set up the configurator layout group
 TOCTitle: (BRA) Set up the configurator layout group
 ms:assetid: 4184d0b2-aa20-4b85-8be0-1c6b7158f8be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863723(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863723(v=AX.60)
 ms:contentKeyID: 50396406
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -264,11 +265,11 @@ Use the **Configurator layout groups** form to set up a configurator layout grou
 
 ## See also
 
-[(BRA) Configurator layout groups (form)](https://technet.microsoft.com/en-us/library/jj863736\(v=ax.60\))
+[(BRA) Configurator layout groups (form)](https://technet.microsoft.com/library/jj863736\(v=ax.60\))
 
-[(BRA) Configurator export utility (form)](https://technet.microsoft.com/en-us/library/jj863720\(v=ax.60\))
+[(BRA) Configurator export utility (form)](https://technet.microsoft.com/library/jj863720\(v=ax.60\))
 
-[(BRA) Edit layout (form)](https://technet.microsoft.com/en-us/library/jj853382\(v=ax.60\))
+[(BRA) Edit layout (form)](https://technet.microsoft.com/library/jj853382\(v=ax.60\))
 
   
 

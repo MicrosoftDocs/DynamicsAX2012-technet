@@ -2,8 +2,9 @@
 title: (BRA) Transfer a fixed asset between fiscal establishments
 TOCTitle: (BRA) Transfer a fixed asset between fiscal establishments
 ms:assetid: c5507b2b-5d30-4839-9879-a0142cdafa40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305883(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305883(v=AX.60)
 ms:contentKeyID: 54912980
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -95,7 +96,7 @@ To transfer a fixed asset between fiscal establishments, a free text invoice mus
 
 8.  On the **Action Pane**, click **Invoice** \> **Invoice**.
 
-9.  In the **Vendor invoice** form, enter values in the **Number**, **Invoice description**, and **Series** fields. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/en-us/library/jj898464\(v=ax.60\)).
+9.  In the **Vendor invoice** form, enter values in the **Number**, **Invoice description**, and **Series** fields. For more information, see [(BRA) Vendor invoice (modified form)](https://technet.microsoft.com/library/jj898464\(v=ax.60\)).
 
 10. Click **Post** \> **Post** to post the invoice.
 

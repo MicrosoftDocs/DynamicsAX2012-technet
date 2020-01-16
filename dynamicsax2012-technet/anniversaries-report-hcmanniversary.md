@@ -2,8 +2,9 @@
 title: Anniversaries report (HcmAnniversary)
 TOCTitle: Anniversaries report (HcmAnniversary)
 ms:assetid: be047eed-429e-4b6f-94db-570192e28af1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ994004(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ994004(v=AX.60)
 ms:contentKeyID: 51784126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

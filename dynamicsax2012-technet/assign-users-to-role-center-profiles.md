@@ -2,8 +2,9 @@
 title: Assign users to Role Center profiles
 TOCTitle: Assign users to Role Center profiles
 ms:assetid: dd7c7722-b2e2-4b7a-a268-a07ab5c7f4bb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362099(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362099(v=AX.60)
 ms:contentKeyID: 35133095
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

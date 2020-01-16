@@ -2,8 +2,9 @@
 title: (BRA) Set up the CFOP codes for transfer fiscal documents
 TOCTitle: (BRA) Set up the CFOP codes for transfer fiscal documents
 ms:assetid: 54067547-6dc9-427c-a0a1-575cab53ea31
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933518(v=AX.60)
 ms:contentKeyID: 50935130
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use the following procedure to map the Código Fiscal de Operações e Prestaç�
 
 ## See also
 
-[(BRA) CFOP mapping for transfer orders (form)](https://technet.microsoft.com/en-us/library/jj910974\(v=ax.60\))
+[(BRA) CFOP mapping for transfer orders (form)](https://technet.microsoft.com/library/jj910974\(v=ax.60\))
 
 [(BRA) About transfer orders](bra-about-transfer-orders.md)
 

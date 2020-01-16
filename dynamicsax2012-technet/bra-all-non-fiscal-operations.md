@@ -2,8 +2,9 @@
 title: (BRA) All non fiscal operations
 TOCTitle: (BRA) All non fiscal operations
 ms:assetid: 8ce32ee3-fe3c-4faf-b6a3-dd13443cd507
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600278(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600278(v=AX.60)
 ms:contentKeyID: 62200242
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ To set up sales tax groups for PIS and COFINS tax, follow these steps:
 
 2.  Click **New** to create a sales tax group for PIS and COFINS tax.
 
-3.  Enter the identifier and a description of the sales tax group. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa553257\(v=ax.60\)).
+3.  Enter the identifier and a description of the sales tax group. For more information, see [Sales tax codes (form)](https://technet.microsoft.com/library/aa553257\(v=ax.60\)).
 
 4.  On the **Setup** FastTab, in the **Sales tax code** field, select the sales tax code that represents PIS tax.
 

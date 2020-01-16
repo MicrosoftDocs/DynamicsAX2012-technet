@@ -2,8 +2,9 @@
 title: Assign question groups to business experts in RapidStart Services
 TOCTitle: Assign question groups to business experts in RapidStart Services
 ms:assetid: 160c780a-44e3-42b9-9ad7-62311be9fcb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn193987(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn193987(v=AX.60)
 ms:contentKeyID: 52348242
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

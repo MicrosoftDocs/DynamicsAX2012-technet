@@ -2,8 +2,9 @@
 title: (BRA) Receive an inbound transfer fiscal document
 TOCTitle: (BRA) Receive an inbound transfer fiscal document
 ms:assetid: 362fc005-9735-4134-aad5-fb0a0d08cc36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ933506(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ933506(v=AX.60)
 ms:contentKeyID: 50935119
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ You can click **Inquiries** \> **Transfer order history** in the **Transfer orde
 
 [(BRA) Cancel a transfer fiscal document](bra-cancel-a-transfer-fiscal-document.md)
 
-[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/en-us/library/jj910973\(v=ax.60\))
+[(BRA) Transfer orders (modified form)](https://technet.microsoft.com/library/jj910973\(v=ax.60\))
 
 [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md)
 
@@ -56,7 +57,7 @@ You can click **Inquiries** \> **Transfer order history** in the **Transfer orde
 
 [(BRA) Set up the CFOP matrix](bra-set-up-the-cfop-matrix.md)
 
-[Receive (form)](https://technet.microsoft.com/en-us/library/aa552649\(v=ax.60\))
+[Receive (form)](https://technet.microsoft.com/library/aa552649\(v=ax.60\))
 
   
 

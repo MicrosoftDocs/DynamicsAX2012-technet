@@ -2,8 +2,9 @@
 title: Apps for Microsoft Dynamics AX 2012
 TOCTitle: Apps for Microsoft Dynamics AX 2012
 ms:assetid: 955bce6c-d389-4bbf-8fa6-05fd3771da28
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn771605(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn771605(v=AX.60)
 ms:contentKeyID: 62551180
+author: Khairunj
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 ---

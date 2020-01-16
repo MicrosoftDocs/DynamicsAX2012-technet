@@ -2,8 +2,9 @@
 title: (AUT) Intrastat transactions report (IntrastatFormLetterAT)
 TOCTitle: (AUT) Intrastat transactions report (IntrastatFormLetterAT)
 ms:assetid: e07f804b-57e8-415f-aed5-8427dd6743c5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh371731(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh371731(v=AX.60)
 ms:contentKeyID: 36814945
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

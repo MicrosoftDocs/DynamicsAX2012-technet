@@ -2,8 +2,9 @@
 title: Budget funds available report (BudgetFundsAvailable)
 TOCTitle: Budget funds available report (BudgetFundsAvailable)
 ms:assetid: d40b0746-2a81-4ee1-8985-7df6b02d7fd8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335168(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335168(v=AX.60)
 ms:contentKeyID: 36687382
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,11 +43,11 @@ When you generate this report, the following default parameters are displayed. Y
 <tr class="odd">
 <td><p><strong>Financial dimension set</strong></p></td>
 <td><p>Select a financial dimension set for the report. These were defined in the <strong>Financial dimension sets</strong> form. A financial dimension set is a named group of accounts or dimensions that contains either account values for the account or dimension values for a single dimension. Examples include main accounts, departments, and cost centers, or combinations such as a cost center and main account, or a department and cost center.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa597282(v=ax.60)">Financial dimension sets (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget cycle time span</strong></p></td>
-<td><p>Select a budget cycle time span from those that are used by your organization. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a>.</p></td>
+<td><p>Select a budget cycle time span from those that are used by your organization. For more information, see <a href="https://technet.microsoft.com/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Include carry-forward</strong></p></td>
@@ -58,7 +59,7 @@ When you generate this report, the following default parameters are displayed. Y
 </tr>
 <tr class="odd">
 <td><p><strong>Budget cycle</strong></p></td>
-<td><p>If you selected <strong>Budget cycle</strong> in the <strong>Dates to include</strong> field group, select the name of a budget cycle. The report will include information for the dates that were set up for the selected budget cycle in the <strong>Budget cycle time spans</strong> form. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a>.</p></td>
+<td><p>If you selected <strong>Budget cycle</strong> in the <strong>Dates to include</strong> field group, select the name of a budget cycle. The report will include information for the dates that were set up for the selected budget cycle in the <strong>Budget cycle time spans</strong> form. For more information, see <a href="https://technet.microsoft.com/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>From date</strong></p></td>

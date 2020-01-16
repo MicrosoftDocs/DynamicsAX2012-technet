@@ -2,8 +2,9 @@
 title: (BRA) All PIS and COFINS fixed assets
 TOCTitle: (BRA) All PIS and COFINS fixed assets
 ms:assetid: 1348fc19-862f-48e5-93cf-27faccb8a4a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt297848(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt297848(v=AX.60)
 ms:contentKeyID: 66271896
+author: Khairunj
 ms.date: 07/08/2015
 mtps_version: v=AX.60
 audience: Application User
@@ -202,7 +203,7 @@ The PIS and COFINS credit appropriation is calculated in the PIS and COFINS tax 
 
 [(BRA) Create a new booking period](bra-create-a-new-booking-period.md)
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

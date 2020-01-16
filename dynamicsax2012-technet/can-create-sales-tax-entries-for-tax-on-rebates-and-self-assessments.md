@@ -2,8 +2,9 @@
 title: (CAN) Create sales tax entries for tax on rebates and self-assessments
 TOCTitle: (CAN) Create sales tax entries for tax on rebates and self-assessments
 ms:assetid: 00a38266-8f4c-4dc8-af78-02dc57790266
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242091(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242091(v=AX.60)
 ms:contentKeyID: 36055917
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -61,9 +62,9 @@ Entries for self-assessed taxes and rebates are recorded in the vendor invoice j
 
 [(CAN) Set up GST/HST and post a purchase order with tax on acquisition details](can-set-up-gst-hst-and-post-a-purchase-order-with-tax-on-acquisition-details.md)
 
-[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\))
+[Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\))
 
-[Journal voucher - Invoice register (form)](https://technet.microsoft.com/en-us/library/aa575517\(v=ax.60\))
+[Journal voucher - Invoice register (form)](https://technet.microsoft.com/library/aa575517\(v=ax.60\))
 
   
 

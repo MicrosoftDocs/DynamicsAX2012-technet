@@ -1,9 +1,10 @@
-﻿---
+---
 title: ButtonStyle.Green Field (Microsoft.Dynamics.Retail.SharePoint.Web.Controls)
 TOCTitle: Green Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ButtonStyle.Green
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.controls.buttonstyle.green(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.buttonstyle.green(v=AX.60)
 ms:contentKeyID: 62206568
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

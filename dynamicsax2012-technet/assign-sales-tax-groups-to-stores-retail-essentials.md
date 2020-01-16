@@ -2,8 +2,9 @@
 title: Assign sales tax groups to stores (Retail essentials)
 TOCTitle: Assign sales tax groups to stores (Retail essentials)
 ms:assetid: df3ff16d-2c48-495e-a84f-548f045b4c60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736968(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736968(v=AX.60)
 ms:contentKeyID: 62200445
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

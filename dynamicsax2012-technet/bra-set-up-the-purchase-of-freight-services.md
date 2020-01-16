@@ -2,8 +2,9 @@
 title: (BRA) Set up the purchase of freight services
 TOCTitle: (BRA) Set up the purchase of freight services
 ms:assetid: 4875187e-361d-46f9-91b3-6ebde3e56b5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863725(v=AX.60)
 ms:contentKeyID: 50396408
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,13 +55,13 @@ Some legal entities claim the Imposto sobre Circulação de Mercadorias e Servi�
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj682105\(v=ax.60\))
+[(BRA) Item sales tax groups (modified form)](https://technet.microsoft.com/library/jj682105\(v=ax.60\))
 
-[(BRA) Purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj911277\(v=ax.60\))
+[(BRA) Purchase order (modified form)](https://technet.microsoft.com/library/jj911277\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Bank statement report (BankAccountStatement)
 TOCTitle: Bank statement report (BankAccountStatement)
 ms:assetid: 268a2289-5074-486d-8905-4b78ac33f8e8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500343(v=AX.60)
 ms:contentKeyID: 36931894
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Apply overrides
 TOCTitle: Apply overrides
 ms:assetid: 972a780a-263c-4072-a571-a0c065a1c7d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn631657(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn631657(v=AX.60)
 ms:contentKeyID: 62504014
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 audience: Application User

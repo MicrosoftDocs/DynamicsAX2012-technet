@@ -1,9 +1,10 @@
-﻿---
+---
 title: AttributeBase.Group Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Group Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeBase.Group
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.attributebase.group(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributebase.group(v=AX.60)
 ms:contentKeyID: 49840976
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

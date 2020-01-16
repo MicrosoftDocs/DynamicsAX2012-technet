@@ -2,8 +2,9 @@
 title: " agreement"
 TOCTitle: " agreement"
 ms:assetid: DynamicsAXGlossary.690273
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.690273(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.690273(v=AX.60)
 ms:contentKeyID: 36057939
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ f1_keywords:
 
 [obligation](obligation.md)
 
-[party](https://technet.microsoft.com/en-us/library/hh208669\(v=ax.60\))
+[party](https://technet.microsoft.com/library/hh208669\(v=ax.60\))
 
 [purchase agreement](purchase-agreement.md)
 

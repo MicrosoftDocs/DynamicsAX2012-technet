@@ -2,8 +2,9 @@
 title: (BRA) SCAN contingency mode
 TOCTitle: (BRA) SCAN contingency mode
 ms:assetid: 0e956008-68bf-448c-bbf0-7c2e3d7a10c1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn269132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn269132(v=AX.60)
 ms:contentKeyID: 54920084
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

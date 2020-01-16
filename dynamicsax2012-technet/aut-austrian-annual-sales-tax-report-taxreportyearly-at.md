@@ -2,8 +2,9 @@
 title: (AUT) Austrian annual sales tax report (TaxReportYearly_AT)
 TOCTitle: (AUT) Austrian annual sales tax report (TaxReportYearly_AT)
 ms:assetid: 73036b06-c146-4623-ae8d-0e1f4c2f3cbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa596874(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa596874(v=AX.60)
 ms:contentKeyID: 36956697
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

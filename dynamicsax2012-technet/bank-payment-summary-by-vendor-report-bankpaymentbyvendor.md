@@ -2,8 +2,9 @@
 title: Bank payment summary by vendor report (BankPaymentByVendor)
 TOCTitle: Bank payment summary by vendor report (BankPaymentByVendor)
 ms:assetid: a5d18140-853e-44c9-a698-44610336d209
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa617984(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa617984(v=AX.60)
 ms:contentKeyID: 36931900
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

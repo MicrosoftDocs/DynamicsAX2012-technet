@@ -2,8 +2,9 @@
 title: (BRA) Set up adjustment codes for PIS and COFINS taxes
 TOCTitle: (BRA) Set up adjustment codes for PIS and COFINS taxes
 ms:assetid: 9f5fa725-dd22-4b08-a3ce-abc5a6aa97b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt267601(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt267601(v=AX.60)
 ms:contentKeyID: 66250921
+author: Khairunj
 ms.date: 07/07/2015
 mtps_version: v=AX.60
 audience: Application User

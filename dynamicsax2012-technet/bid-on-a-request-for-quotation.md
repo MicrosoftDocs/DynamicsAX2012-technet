@@ -2,8 +2,9 @@
 title: Bid on a request for quotation
 TOCTitle: Bid on a request for quotation
 ms:assetid: 26733b99-b082-421a-bb85-8255da608a81
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn518242(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn518242(v=AX.60)
 ms:contentKeyID: 62200021
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

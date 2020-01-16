@@ -2,8 +2,9 @@
 title: Block and unblock inventory items
 TOCTitle: Block and unblock inventory items
 ms:assetid: ca766554-5b65-4da5-8332-20279edf8125
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242851(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242851(v=AX.60)
 ms:contentKeyID: 36059333
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Analytics in Microsoft Dynamics AX
 TOCTitle: Analytics
 ms:assetid: 8f284ccb-628f-4e84-b82c-3e0c032ad80f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee873272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee873272(v=AX.60)
 ms:contentKeyID: 28119398
+author: Khairunj
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 ---

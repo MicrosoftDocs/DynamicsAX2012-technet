@@ -2,8 +2,9 @@
 title: (BRA) Set up parameters for SPED ECD text files
 TOCTitle: (BRA) Set up parameters for SPED ECD text files
 ms:assetid: 639d0f43-b73e-4c0a-ae69-c753511012a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600275(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600275(v=AX.60)
 ms:contentKeyID: 62200237
+author: Khairunj
 ms.date: 05/15/2015
 mtps_version: v=AX.60
 f1_keywords:

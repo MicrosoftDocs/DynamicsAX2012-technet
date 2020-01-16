@@ -2,8 +2,9 @@
 title: (BEL) Generate journal, sales tax, and purchase sales tax transaction reports
 TOCTitle: (BEL) Generate journal, sales tax, and purchase sales tax transaction reports
 ms:assetid: a15dca78-9159-4ec7-baba-84049d9bfc9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209454(v=AX.60)
 ms:contentKeyID: 36058783
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -21,7 +22,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 You must complete the following tasks before you generate journal, sales tax, and purchase sales tax transaction reports:
 
-  - Set up posting journals for sales, purchases, and journals. For more information, see [(BEL) Posting journals (form)](https://technet.microsoft.com/en-us/library/aa592268\(v=ax.60\)).
+  - Set up posting journals for sales, purchases, and journals. For more information, see [(BEL) Posting journals (form)](https://technet.microsoft.com/library/aa592268\(v=ax.60\)).
 
   - Set up sales tax codes. For more information, see [Set up and use sales tax codes](set-up-and-use-sales-tax-codes.md).
 
@@ -33,7 +34,7 @@ You must complete the following tasks before you generate journal, sales tax, an
 
   - Set up sales tax settlement periods. For more information, see [Set up a sales tax settlement period](set-up-a-sales-tax-settlement-period.md).
 
-  - Set up sales tax reporting codes. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/en-us/library/aa588316\(v=ax.60\)).
+  - Set up sales tax reporting codes. For more information, see [Sales tax reporting codes (form)](https://technet.microsoft.com/library/aa588316\(v=ax.60\)).
 
 ## Generate General ledger journal reports
 
@@ -97,7 +98,7 @@ In accordance with VAT 2010 regulation, the sales tax and purchase sales tax tra
 
 ## See also
 
-[(BEL) Posting journals (form)](https://technet.microsoft.com/en-us/library/aa592268\(v=ax.60\))
+[(BEL) Posting journals (form)](https://technet.microsoft.com/library/aa592268\(v=ax.60\))
 
   
 

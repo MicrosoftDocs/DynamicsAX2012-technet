@@ -2,8 +2,9 @@
 title: (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments
 TOCTitle: (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments
 ms:assetid: ddf2a07f-642b-44f9-b707-9a0b2cfdc48a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663953(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663953(v=AX.60)
 ms:contentKeyID: 49384540
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,13 +49,13 @@ You must specify a journal description before you post a journal. When you post 
 
 ## See also
 
-[Journal voucher - General journal (form)](https://technet.microsoft.com/en-us/library/aa591466\(v=ax.60\))
+[Journal voucher - General journal (form)](https://technet.microsoft.com/library/aa591466\(v=ax.60\))
 
 [(BRA) Set up a default description for withholding tax, interest, and fine payments](bra-set-up-a-default-description-for-withholding-tax-interest-and-fine-payments.md)
 
-[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/en-us/library/jj710413\(v=ax.60\))
+[(BRA) Day book report (LedgerJournalDayBookReport\_BR)](https://technet.microsoft.com/library/jj710413\(v=ax.60\))
 
-[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/en-us/library/jj710455\(v=ax.60\))
+[(BRA) Analytical ledger report (LedgerJournalAnalytReasonReport\_BR)](https://technet.microsoft.com/library/jj710455\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Array default values
 TOCTitle: Array default values
 ms:assetid: 179beef2-4a87-43fa-9132-2f6c8d97b63e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569902(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569902(v=AX.60)
 ms:contentKeyID: 36056086
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

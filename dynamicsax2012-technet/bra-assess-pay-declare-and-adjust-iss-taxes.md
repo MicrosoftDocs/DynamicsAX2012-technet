@@ -2,8 +2,9 @@
 title: (BRA) Assess, pay, declare, and adjust ISS taxes
 TOCTitle: (BRA) Assess, pay, declare, and adjust ISS taxes
 ms:assetid: 38f5ade8-12d4-463a-8b29-df7b7a0bbeb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn600272(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn600272(v=AX.60)
 ms:contentKeyID: 62200232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Budget control configuration key (LedgerAdv2BudgetCtrl)
 TOCTitle: Budget control configuration key (LedgerAdv2BudgetCtrl)
 ms:assetid: 193b3cce-c5e0-4bd8-8411-fa0a8cf29ef2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500147(v=AX.60)
 ms:contentKeyID: 37820177
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,39 +38,39 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Actual expenditures</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209403(v=ax.60)">Actual expenditures (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209403(v=ax.60)">Actual expenditures (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget check errors or warnings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209662(v=ax.60)">Budget check errors or warnings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209662(v=ax.60)">Budget check errors or warnings (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget control configuration</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242209(v=ax.60)">Budget control configuration (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242209(v=ax.60)">Budget control configuration (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget control statistics</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242457(v=ax.60)">Budget control statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242457(v=ax.60)">Budget control statistics (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget cycles</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227604(v=ax.60)">Budget cycle time spans (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Budget reservations for encumbrances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227540(v=ax.60)">Budget reservations for encumbrances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227540(v=ax.60)">Budget reservations for encumbrances (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Budget reservations for pre-encumbrances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242657(v=ax.60)">Budget reservations for pre-encumbrances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242657(v=ax.60)">Budget reservations for pre-encumbrances (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Revised budget</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209051(v=ax.60)">Revised budget (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209051(v=ax.60)">Revised budget (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>User group budget permissions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227531(v=ax.60)">User group budget permissions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227531(v=ax.60)">User group budget permissions (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +115,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

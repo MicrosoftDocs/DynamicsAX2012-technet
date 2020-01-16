@@ -2,8 +2,9 @@
 title: (BRA) About sales complementary fiscal documents
 TOCTitle: (BRA) About sales complementary fiscal documents
 ms:assetid: a4b50672-3a96-4eaa-9394-29e17ff43345
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710586(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710586(v=AX.60)
 ms:contentKeyID: 49384472
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

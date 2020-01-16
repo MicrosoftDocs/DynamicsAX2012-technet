@@ -2,8 +2,9 @@
 title: 'Business process: demand forecasting'
 TOCTitle: 'Business process: demand forecasting'
 ms:assetid: b697648d-244f-4873-9b32-669f62ea215b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497821(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497821(v=AX.60)
 ms:contentKeyID: 62200143
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -76,15 +77,15 @@ Use the information in the following table to create demand forecasts.
 
 The AX 2012 R3 demand forecasting features are fully integrated with Microsoft Dynamics AX and the existing forecast functionality. These features include:
 
-  - Item allocation keys. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/en-us/library/aa590322\(v=ax.60\)).
+  - Item allocation keys. For more information, see [Item allocation keys (form)](https://technet.microsoft.com/library/aa590322\(v=ax.60\)).
 
   - Intercompany planning groups. For more information, see [About intercompany master scheduling](about-intercompany-master-scheduling.md).
 
   - Master planning. For more information, see [Master planning](master-planning.md).
 
-  - Forecast models. For more information, see [Forecast models (form)](https://technet.microsoft.com/en-us/library/aa620573\(v=ax.60\)).
+  - Forecast models. For more information, see [Forecast models (form)](https://technet.microsoft.com/library/aa620573\(v=ax.60\)).
 
-  - Demand forecasts. For more information, see [Demand forecast (form)](https://technet.microsoft.com/en-us/library/aa499758\(v=ax.60\)).
+  - Demand forecasts. For more information, see [Demand forecast (form)](https://technet.microsoft.com/library/aa499758\(v=ax.60\)).
 
   
 

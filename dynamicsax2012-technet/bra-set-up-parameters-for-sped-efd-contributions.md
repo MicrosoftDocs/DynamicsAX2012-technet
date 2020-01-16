@@ -2,8 +2,9 @@
 title: (BRA) Set up parameters for SPED EFD - Contributions
 TOCTitle: (BRA) Set up parameters for SPED EFD - Contributions
 ms:assetid: 5b8642fb-4265-41b0-b9b9-1dad33b8bf6c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305869(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305869(v=AX.60)
 ms:contentKeyID: 54912992
+author: Khairunj
 ms.date: 07/08/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,7 +130,7 @@ The record is generated based on the tax transactions with the following criteri
 
 [(BRA) Set up and calculate tax on sales and purchases](bra-set-up-and-calculate-tax-on-sales-and-purchases.md)
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
 [(BRA) Set up Brazilian parameters](bra-set-up-brazilian-parameters.md)
 

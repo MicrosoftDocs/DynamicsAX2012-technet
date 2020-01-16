@@ -1,9 +1,10 @@
-﻿---
+---
 title: AuthenticateDevicePartialResponse.Device Property  (Microsoft.Dynamics.Commerce.Runtime.Messages)
 TOCTitle: Device Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.AuthenticateDevicePartialResponse.Device
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.messages.authenticatedevicepartialresponse.device(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.authenticatedevicepartialresponse.device(v=AX.60)
 ms:contentKeyID: 62211258
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

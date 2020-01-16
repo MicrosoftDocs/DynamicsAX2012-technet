@@ -1,9 +1,10 @@
-﻿---
+---
 title: BooleanResponse.IsTrue Property  (Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services)
 TOCTitle: IsTrue Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.BooleanResponse.IsTrue
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sdk.services.booleanresponse.istrue(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.booleanresponse.istrue(v=AX.60)
 ms:contentKeyID: 65316916
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property bool IsTrue {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Attach a project to an estimate
 TOCTitle: Attach a project to an estimate
 ms:assetid: c837b747-71fb-4447-aaa3-558c6b4d6cf5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550866(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550866(v=AX.60)
 ms:contentKeyID: 36059317
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -75,9 +76,9 @@ An Estimate project is used as a container to group together various control par
 
 [Change the Estimate project that a project is attached to](change-the-estimate-project-that-a-project-is-attached-to.md)
 
-[Estimate projects (form)](https://technet.microsoft.com/en-us/library/aa599196\(v=ax.60\))
+[Estimate projects (form)](https://technet.microsoft.com/library/aa599196\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

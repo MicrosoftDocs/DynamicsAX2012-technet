@@ -2,8 +2,9 @@
 title: (AUT) Generate electronic invoices in PEPPOL format
 TOCTitle: (AUT) Generate electronic invoices in PEPPOL format
 ms:assetid: c5ec92b9-056d-4a02-845f-918a2188127a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn776173(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn776173(v=AX.60)
 ms:contentKeyID: 62632260
+author: Khairunj
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,10 +50,10 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
 <li><p>Set up parameters to generate eInvoices in PEPPOL format. For more information, see <a href="aut-set-up-parameters-to-generate-electronic-invoices-in-peppol-format.md">(AUT) Set up parameters to generate electronic invoices in PEPPOL format</a>.</p></li>
-<li><p>Create a customer account, and then select the <strong>eInvoice</strong> check box on the <strong>Invoice and delivery</strong> FastTab to use eInvoicing for customer transactions. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa590606(v=ax.60)">Customers (form)</a>.</p></li>
-<li><p>Create a funding source that is associated with eInvoice parameters for a project contract in the <strong>Project contracts</strong> form. Select the <strong>Line-specific</strong> check box and enter the dimension account on the <strong>Other</strong> FastTab in the <strong>Funding source details</strong> form. For more information, see <a href="assign-funding-sources-to-a-project-contract.md">Assign funding sources to a project contract</a> and <a href="https://technet.microsoft.com/en-us/library/hh209607(v=ax.60)">Funding source details (form)</a>.</p></li>
-<li><p>Create a sales order. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
-<li><p>Create a free text invoice. For more information, see <a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a> and <a href="https://technet.microsoft.com/en-us/library/aa556897(v=ax.60)">Free text invoice (form)</a>.</p></li>
+<li><p>Create a customer account, and then select the <strong>eInvoice</strong> check box on the <strong>Invoice and delivery</strong> FastTab to use eInvoicing for customer transactions. For more information, see <a href="https://technet.microsoft.com/library/aa590606(v=ax.60)">Customers (form)</a>.</p></li>
+<li><p>Create a funding source that is associated with eInvoice parameters for a project contract in the <strong>Project contracts</strong> form. Select the <strong>Line-specific</strong> check box and enter the dimension account on the <strong>Other</strong> FastTab in the <strong>Funding source details</strong> form. For more information, see <a href="assign-funding-sources-to-a-project-contract.md">Assign funding sources to a project contract</a> and <a href="https://technet.microsoft.com/library/hh209607(v=ax.60)">Funding source details (form)</a>.</p></li>
+<li><p>Create a sales order. For more information, see <a href="https://technet.microsoft.com/library/aa585863(v=ax.60)">Sales orders (form)</a>.</p></li>
+<li><p>Create a free text invoice. For more information, see <a href="key-tasks-free-text-invoices.md">Key tasks: Free text invoices</a> and <a href="https://technet.microsoft.com/library/aa556897(v=ax.60)">Free text invoice (form)</a>.</p></li>
 <li><p>Create a project invoice proposal. For more information, see <a href="create-and-post-invoice-proposals.md">Create and post invoice proposals</a>.</p></li>
 </ul></td>
 </tr>

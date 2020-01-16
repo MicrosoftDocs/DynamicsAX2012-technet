@@ -2,8 +2,9 @@
 title: Benefit setup tasks
 TOCTitle: Benefit setup tasks
 ms:assetid: c3c38da5-8889-4271-88c3-ad9acbc1fb7b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677359(v=AX.60)
 ms:contentKeyID: 49384134
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -206,7 +207,7 @@ Repeat these steps to set up additional benefit types. When you have finished, y
 
 4.  On the **Tax rule** FastTab, select the pretax basis for the plan. The pretax basis determines the pattern of before-tax and after-tax treatment for payroll deductions and employer contributions.
     
-    In the rare case that no preset options are appropriate for your plan, select **Custom**, and then select a custom pretax method to specify the taxes that should not be deducted from the paychecks of employees who enroll in the plan. For more information, see [Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\)).
+    In the rare case that no preset options are appropriate for your plan, select **Custom**, and then select a custom pretax method to specify the taxes that should not be deducted from the paychecks of employees who enroll in the plan. For more information, see [Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\)).
     
 
     > [!WARNING]
@@ -629,7 +630,7 @@ After you have set up benefit elements by using the **Benefit elements** form, y
     
 
     > [!NOTE]
-    > <P>This FastTab might include settings only for deductions, only for contributions, or for both deductions and contributions, depending on how the <STRONG>Payroll impact</STRONG> field in the <STRONG>Benefit elements</STRONG> form is set for the benefit plan. If the <STRONG>Payroll impact</STRONG> field is set to <STRONG>None</STRONG>, this FastTab isn’t available. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
+    > <P>This FastTab might include settings only for deductions, only for contributions, or for both deductions and contributions, depending on how the <STRONG>Payroll impact</STRONG> field in the <STRONG>Benefit elements</STRONG> form is set for the benefit plan. If the <STRONG>Payroll impact</STRONG> field is set to <STRONG>None</STRONG>, this FastTab isn’t available. For more information, see <A href="https://technet.microsoft.com/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
     > <P>The values on this FastTab are used as the default values in the <STRONG>Maintain benefits</STRONG> form for each worker who is enrolled in the selected benefit.</P>
 
     
@@ -637,7 +638,7 @@ After you have set up benefit elements by using the **Benefit elements** form, y
     
       - **Basis** – The option to use together with the value in the **Amount or rate** field to determine the amount to deduct or contribute for the benefit. The amount is calculated only in the pay periods as determined by the payroll calculation frequency. Earnings are included in the calculation only when the earning code for the earnings is listed on the **Earning basis** FastTab and when the required parameters are set in the **Earning codes** form.
         
-        For more information about the basis options, see [Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\)).
+        For more information about the basis options, see [Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\)).
     
       - **Amount or rate** – The amount or rate to use together with the value in the **Basis** field to determine the amount to deduct or contribute for the benefit.
         
@@ -647,7 +648,7 @@ After you have set up benefit elements by using the **Benefit elements** form, y
         
           - If the basis for the deduction is **Productive hours**, **Earning hours**, **Regular hours**, or **Total hours**, enter the hourly rate for the payroll deduction or employer contribution.
         
-        For more information, see [Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\)).
+        For more information, see [Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\)).
         
         This field isn’t available when the payroll category that is assigned to the benefit type in the **Benefit elements** form is **Retirement**.
     
@@ -657,7 +658,7 @@ After you have set up benefit elements by using the **Benefit elements** form, y
 
 7.  On the **Earning basis** FastTab, enter the earning codes that can be included when deductions and contributions for this benefit are calculated.
     
-    If the **Payroll impact** field in the **Benefit elements** form is set to **None**, this FastTab isn’t available. For more information, see [Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\)).
+    If the **Payroll impact** field in the **Benefit elements** form is set to **None**, this FastTab isn’t available. For more information, see [Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\)).
     
     In addition to the earning codes entered here, the **Basis** setting on the **Payroll details** FastTab, in combination with the parameter settings in the **Earning codes** form, is also used to determine whether a specific earnings line is included in the calculation.
     
@@ -809,13 +810,13 @@ Back to top
 
 ## Find form help
 
-[Maintain versions (form)](https://technet.microsoft.com/en-us/library/jj729769\(v=ax.60\))
+[Maintain versions (form)](https://technet.microsoft.com/library/jj729769\(v=ax.60\))
 
-[Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\))
+[Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\))
 
-[Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\))
+[Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\))
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
 ## Find related tasks
 

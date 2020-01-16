@@ -2,8 +2,9 @@
 title: (BRA) Process items and services rented for industrialization purposes
 TOCTitle: (BRA) Process items and services rented for industrialization purposes
 ms:assetid: b17a1d53-a7ac-46f5-870a-59e9da4b29a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ863733(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ863733(v=AX.60)
 ms:contentKeyID: 50396416
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,11 +55,11 @@ You can create a sales order to record the items that are rented for industriali
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/en-us/library/jj663982\(v=ax.60\))
+[(BRA) Sales tax codes (modified form)](https://technet.microsoft.com/library/jj663982\(v=ax.60\))
 
-[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/en-us/library/jj663981\(v=ax.60\))
+[(BRA) Sales tax groups (modified form)](https://technet.microsoft.com/library/jj663981\(v=ax.60\))
 
   
 

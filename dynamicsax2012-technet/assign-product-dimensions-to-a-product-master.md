@@ -2,8 +2,9 @@
 title: Assign product dimensions to a product master
 TOCTitle: Assign product dimensions to a product master
 ms:assetid: fca8322c-a4e5-4f06-857f-8330aa319ad4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499899(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499899(v=AX.60)
 ms:contentKeyID: 39519388
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -19,7 +20,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Product dimensions are assigned to product masters. The product dimension group controls what product dimensions are available to assign to a product master. For more information about product dimension groups, see [Product dimension groups (form)](https://technet.microsoft.com/en-us/library/hh227672\(v=ax.60\)).
+Product dimensions are assigned to product masters. The product dimension group controls what product dimensions are available to assign to a product master. For more information about product dimension groups, see [Product dimension groups (form)](https://technet.microsoft.com/library/hh227672\(v=ax.60\)).
 
 ## Assign product dimensions to a product master
 

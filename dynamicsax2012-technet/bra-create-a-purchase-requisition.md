@@ -2,8 +2,9 @@
 title: (BRA) Create a purchase requisition
 TOCTitle: (BRA) Create a purchase requisition
 ms:assetid: b90f52ac-5826-493e-a4d7-eeecd279da96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923370(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923370(v=AX.60)
 ms:contentKeyID: 50877027
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,9 +46,9 @@ After you update the fiscal information for the purchase requisitions lines, you
 
 ## See also
 
-[Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh209453\(v=ax.60\))
+[Purchase requisitions (form)](https://technet.microsoft.com/library/hh209453\(v=ax.60\))
 
-[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/en-us/library/jj923406\(v=ax.60\))
+[(BRA) Purchase requisitions - lines (modified form)](https://technet.microsoft.com/library/jj923406\(v=ax.60\))
 
   
 

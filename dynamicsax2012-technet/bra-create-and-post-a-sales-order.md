@@ -2,8 +2,9 @@
 title: (BRA) Create and post a sales order
 TOCTitle: (BRA) Create and post a sales order
 ms:assetid: fea69605-a462-4041-8b29-e6da584c9f0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ822924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ822924(v=AX.60)
 ms:contentKeyID: 50117581
+author: Khairunj
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -81,23 +82,23 @@ When you post a sales order, a fiscal document is generated with the total amoun
     
 
     > [!NOTE]
-    > <P>You can use the <STRONG>Summary update for</STRONG> field on the <STRONG>Other</STRONG> tab in the <STRONG>Posting invoice</STRONG> form to summarize the customer invoices before posting the sales order. When you post a sales order, one fiscal document is created for every fiscal establishment, and the fiscal document is split based on the information that you set up for invoices in the <STRONG>Split based on</STRONG> field group on the <STRONG>Summary update</STRONG> FastTab in the <STRONG>Accounts receivable parameters</STRONG> form. Gift cards added to the sales order will not generate fiscal documents. For more information, see <A href="https://technet.microsoft.com/en-us/library/jj863738(v=ax.60)">(BRA) Accounts receivable parameters (modified form)</A>.</P>
+    > <P>You can use the <STRONG>Summary update for</STRONG> field on the <STRONG>Other</STRONG> tab in the <STRONG>Posting invoice</STRONG> form to summarize the customer invoices before posting the sales order. When you post a sales order, one fiscal document is created for every fiscal establishment, and the fiscal document is split based on the information that you set up for invoices in the <STRONG>Split based on</STRONG> field group on the <STRONG>Summary update</STRONG> FastTab in the <STRONG>Accounts receivable parameters</STRONG> form. Gift cards added to the sales order will not generate fiscal documents. For more information, see <A href="https://technet.microsoft.com/library/jj863738(v=ax.60)">(BRA) Accounts receivable parameters (modified form)</A>.</P>
 
 
 
 ## See also
 
-[(BRA) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj911252\(v=ax.60\))
+[(BRA) Sales orders (modified form)](https://technet.microsoft.com/library/jj911252\(v=ax.60\))
 
 [(BRA) Set up fiscal document types](bra-set-up-fiscal-document-types.md)
 
-[(BRA) Fiscal document types (form)](https://technet.microsoft.com/en-us/library/jj710551\(v=ax.60\))
+[(BRA) Fiscal document types (form)](https://technet.microsoft.com/library/jj710551\(v=ax.60\))
 
 [(BRA) Set up operation types](bra-set-up-operation-types.md)
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
-[Summary update sales and purchase orders](https://technet.microsoft.com/en-us/library/aa553732\(v=ax.60\))
+[Summary update sales and purchase orders](https://technet.microsoft.com/library/aa553732\(v=ax.60\))
 
   
 

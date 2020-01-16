@@ -2,8 +2,9 @@
 title: (BRA) Generate a trial balance report
 TOCTitle: (BRA) Generate a trial balance report
 ms:assetid: 4c24b07d-8d4b-420c-abc8-1f24f34c4361
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710493(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710493(v=AX.60)
 ms:contentKeyID: 49384385
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Use the Trial balance summary report to generate a trial balance report that lis
 
 1.  Click **General ledger** \> **Reports** \> **Transactions** \> **Trial balance summary**.
 
-2.  In the **Date interval** field, select a date interval code. For more information, see [Date intervals (form)](https://technet.microsoft.com/en-us/library/aa558459\(v=ax.60\)).
+2.  In the **Date interval** field, select a date interval code. For more information, see [Date intervals (form)](https://technet.microsoft.com/library/aa558459\(v=ax.60\)).
 
 3.  In the **From date** and **To date** fields, enter the starting and ending dates of the period that the report is generated for.
 
@@ -57,7 +58,7 @@ Use the Trial balance summary report to generate a trial balance report that lis
 
 ## See also
 
-[(BRA) Trial balance summary report (LedgerTrialBalance\_BR)](https://technet.microsoft.com/en-us/library/jj710466\(v=ax.60\))
+[(BRA) Trial balance summary report (LedgerTrialBalance\_BR)](https://technet.microsoft.com/library/jj710466\(v=ax.60\))
 
   
 

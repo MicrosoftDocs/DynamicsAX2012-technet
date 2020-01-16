@@ -2,8 +2,9 @@
 title: (BRA) About sales order enhancements
 TOCTitle: (BRA) About sales order enhancements
 ms:assetid: d6adad62-6e64-4c6e-b02c-baf92c44d15b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663946(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663946(v=AX.60)
 ms:contentKeyID: 49384535
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

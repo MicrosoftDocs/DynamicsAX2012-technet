@@ -2,8 +2,9 @@
 title: (BRA) Set up operation types
 TOCTitle: (BRA) Set up operation types
 ms:assetid: f93f0083-2c8f-4260-aab4-24aae3280076
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ822923(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ822923(v=AX.60)
 ms:contentKeyID: 50117582
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ You cannot modify an operation type that is attached to a posted sales or purcha
 
 ## See also
 
-[(BRA) Operation type (form)](https://technet.microsoft.com/en-us/library/jj822922\(v=ax.60\))
+[(BRA) Operation type (form)](https://technet.microsoft.com/library/jj822922\(v=ax.60\))
 
 [(BRA) Create and post a sales order](bra-create-and-post-a-sales-order.md)
 

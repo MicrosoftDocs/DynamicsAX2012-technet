@@ -2,8 +2,9 @@
 title: (BRA) Cancel a purchase complementary fiscal document
 TOCTitle: (BRA) Cancel a purchase complementary fiscal document
 ms:assetid: cdf7db1d-671f-47fb-8f00-f147acb4674e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663924(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663924(v=AX.60)
 ms:contentKeyID: 49384510
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,9 +70,9 @@ You can cancel an incorrect purchase complementary fiscal document and provide a
 
 [(BRA) About purchase complementary fiscal documents](bra-about-purchase-complementary-fiscal-documents.md)
 
-[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/en-us/library/jj710524\(v=ax.60\))
+[(BRA) All purchase complementary fiscal documents (list page)](https://technet.microsoft.com/library/jj710524\(v=ax.60\))
 
-[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/en-us/library/jj710577\(v=ax.60\))
+[(BRA) Purchase complementary fiscal document (form)](https://technet.microsoft.com/library/jj710577\(v=ax.60\))
 
   
 

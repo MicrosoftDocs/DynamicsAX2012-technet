@@ -2,8 +2,9 @@
 title: Before you begin
 TOCTitle: Before you begin
 ms:assetid: 2b399676-9044-4485-a382-8db5a38ccbbb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309632(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309632(v=AX.60)
 ms:contentKeyID: 35132589
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

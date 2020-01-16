@@ -2,8 +2,9 @@
 title: (BRA) Set up final user sales tax calculation
 TOCTitle: (BRA) Set up final user sales tax calculation
 ms:assetid: 45780bd5-cb52-4d4b-b433-58d6a8e29a8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710484(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710484(v=AX.60)
 ms:contentKeyID: 49384375
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,13 +48,13 @@ Suppose that the sale price is R$200, ICMS tax is 5 percent, IPI is 10 percent, 
 
 ## See also
 
-[(BRA) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj933537\(v=ax.60\))
+[(BRA) Customers (modified form)](https://technet.microsoft.com/library/jj933537\(v=ax.60\))
 
-[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj933514\(v=ax.60\))
+[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/library/jj933514\(v=ax.60\))
 
-[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/en-us/library/jj933514\(v=ax.60\))
+[(BRA) Free text invoice (modified form)](https://technet.microsoft.com/library/jj933514\(v=ax.60\))
 
-[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/en-us/library/jj923173\(v=ax.60\))
+[(BRA) Sales quotation (modified form)](https://technet.microsoft.com/library/jj923173\(v=ax.60\))
 
   
 

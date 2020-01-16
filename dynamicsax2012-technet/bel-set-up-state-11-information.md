@@ -2,8 +2,9 @@
 title: (BEL) Set up State 11 information
 TOCTitle: (BEL) Set up State 11 information
 ms:assetid: 29d593ef-05a0-4f55-ac7d-e9fbd0a1dc05
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231007(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231007(v=AX.60)
 ms:contentKeyID: 36056224
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

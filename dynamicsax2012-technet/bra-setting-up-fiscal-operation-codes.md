@@ -2,8 +2,9 @@
 title: (BRA) Setting up fiscal operation codes
 TOCTitle: (BRA) Setting up fiscal operation codes
 ms:assetid: 85546fa0-069e-407c-b2e6-1305ae691366
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710550(v=AX.60)
 ms:contentKeyID: 49384443
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

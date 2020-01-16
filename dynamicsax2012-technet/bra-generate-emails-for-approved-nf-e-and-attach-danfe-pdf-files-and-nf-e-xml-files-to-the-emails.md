@@ -2,8 +2,9 @@
 title: (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails
 TOCTitle: (BRA) Generate emails for approved NF-e and attach DANFE PDF files and NF-e XML files to the emails
 ms:assetid: b2fad424-f518-422d-a4d9-eb81881a37a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527711(v=AX.60)
 ms:contentKeyID: 59626282
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,7 +64,7 @@ Use this procedure to generate emails for approved electronic fiscal documents a
 
 
 
-9.  Run the email batch process to send the emails to the third-party customers or vendors. For more information, see [E-mail distributor batch (form)](https://technet.microsoft.com/en-us/library/bb147537\(v=ax.60\)) and [Batch processing overview](batch-processing-overview.md).
+9.  Run the email batch process to send the emails to the third-party customers or vendors. For more information, see [E-mail distributor batch (form)](https://technet.microsoft.com/library/bb147537\(v=ax.60\)) and [Batch processing overview](batch-processing-overview.md).
 
 You can check the status of the emails for approved electronic fiscal documents in the **NF-e email status** form. Click **Accounts receivable** \> **Periodic** \> **NF-e Federal** \> **NF-e email status**.
 

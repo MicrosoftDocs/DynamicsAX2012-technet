@@ -2,8 +2,9 @@
 title: (BRA) Set up ledger posting groups for sales tax
 TOCTitle: (BRA) Set up ledger posting groups for sales tax
 ms:assetid: e8058800-3745-4d48-8313-0450ee390023
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ663962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ663962(v=AX.60)
 ms:contentKeyID: 49384548
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ You can set up ledger accounts in the ledger posting groups that are used to pos
 
 ## See also
 
-[(BRA) Ledger posting groups (modified form)](https://technet.microsoft.com/en-us/library/jj710565\(v=ax.60\))
+[(BRA) Ledger posting groups (modified form)](https://technet.microsoft.com/library/jj710565\(v=ax.60\))
 
   
 

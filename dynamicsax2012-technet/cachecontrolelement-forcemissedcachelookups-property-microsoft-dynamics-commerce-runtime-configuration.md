@@ -1,9 +1,10 @@
-﻿---
+---
 title: CacheControlElement.ForceMissedCacheLookups Property  (Microsoft.Dynamics.Commerce.Runtime.Configuration)
 TOCTitle: ForceMissedCacheLookups Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Configuration.CacheControlElement.ForceMissedCacheLookups
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.configuration.cachecontrolelement.forcemissedcachelookups(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.cachecontrolelement.forcemissedcachelookups(v=AX.60)
 ms:contentKeyID: 62209061
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,8 +51,8 @@ virtual property bool ForceMissedCacheLookups {
 
 #### Property Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-Returns [Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\)).  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+Returns [Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\)).  
 
 #### Implements
 

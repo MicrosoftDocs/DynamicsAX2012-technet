@@ -2,8 +2,9 @@
 title: (BRA) Match a received NF-e XML document against a vendor invoice
 TOCTitle: (BRA) Match a received NF-e XML document against a vendor invoice
 ms:assetid: 9e48008f-a3f7-4884-bd19-78edfebc48f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn753711(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn753711(v=AX.60)
 ms:contentKeyID: 62485055
+author: Khairunj
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -77,7 +78,7 @@ The following table shows the prerequisites that must be in place before you sta
 <td><p><strong>Related setup tasks</strong></p></td>
 <td><ul>
 <li><p>Set up a fiscal establishment group. For more information, see <a href="bra-create-a-fiscal-establishment-group.md">(BRA) Create a fiscal establishment group</a>.</p></li>
-<li><p>Set up a fiscal establishment, and then set up the NF-e parameters for the fiscal establishment. For more information, see <a href="bra-create-a-fiscal-establishment.md">(BRA) Create a fiscal establishment</a>, <a href="https://technet.microsoft.com/en-us/library/jj933531(v=ax.60)">(BRA) Fiscal establishments (form)</a>, and <a href="bra-set-up-nf-e-parameters-for-a-fiscal-establishment.md">(BRA) Set up NF-e parameters for a fiscal establishment</a>.</p></li>
+<li><p>Set up a fiscal establishment, and then set up the NF-e parameters for the fiscal establishment. For more information, see <a href="bra-create-a-fiscal-establishment.md">(BRA) Create a fiscal establishment</a>, <a href="https://technet.microsoft.com/library/jj933531(v=ax.60)">(BRA) Fiscal establishments (form)</a>, and <a href="bra-set-up-nf-e-parameters-for-a-fiscal-establishment.md">(BRA) Set up NF-e parameters for a fiscal establishment</a>.</p></li>
 <li><p>Set up email accounts to import XML files and to import the NF-e XML files from emails. For more information, see <a href="bra-set-up-import-and-verify-nf-e-xml-documents-and-danfe-that-you-receive-in-emails.md">(BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails</a> and <a href="bra-import-and-verify-nf-e-xml-documents-and-danfe-that-you-receive-in-emails.md">(BRA) Import and verify NF-e XML documents and DANFE that you receive in emails</a>.</p></li>
 <li><p>Set up external item descriptions to allow the mapping of the vendor item code that is received in the NF-e XML to the item that is used in the vendor invoice. For more information, see <a href="modify-the-external-item-description.md">Modify the external item description</a>.</p></li>
 </ul></td>

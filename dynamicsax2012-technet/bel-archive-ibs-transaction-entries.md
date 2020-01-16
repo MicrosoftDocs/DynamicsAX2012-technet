@@ -2,8 +2,9 @@
 title: (BEL) Archive IBS transaction entries
 TOCTitle: (BEL) Archive IBS transaction entries
 ms:assetid: 0cda3238-32a8-40fe-9d24-eaee44b05abc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242129(v=AX.60)
 ms:contentKeyID: 36056000
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -38,9 +39,9 @@ The processed Isabel 6 transaction entries are moved to the **IBS archive** form
 
 [(BEL) About CIS](bel-about-cis.md)
 
-[(BEL) IBS transactions (form)](https://technet.microsoft.com/en-us/library/hh227606\(v=ax.60\))
+[(BEL) IBS transactions (form)](https://technet.microsoft.com/library/hh227606\(v=ax.60\))
 
-[(BEL) IBS parameters (form)](https://technet.microsoft.com/en-us/library/hh209077\(v=ax.60\))
+[(BEL) IBS parameters (form)](https://technet.microsoft.com/library/hh209077\(v=ax.60\))
 
   
 

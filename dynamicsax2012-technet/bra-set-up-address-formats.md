@@ -2,8 +2,9 @@
 title: (BRA) Set up address formats
 TOCTitle: (BRA) Set up address formats
 ms:assetid: b5b16507-1c9d-4bd9-8e4a-32b67b0a4069
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ710600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ710600(v=AX.60)
 ms:contentKeyID: 49384489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ You can specify the Banco Central do Brazil (BACEN) code that is used to identif
 
 ## See also
 
-[(BRA) Address setup (modified form)](https://technet.microsoft.com/en-us/library/jj710525\(v=ax.60\))
+[(BRA) Address setup (modified form)](https://technet.microsoft.com/library/jj710525\(v=ax.60\))
 
   
 

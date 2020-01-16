@@ -1,9 +1,10 @@
-﻿---
+---
 title: AuthenticationModule.Dispose Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: Dispose Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.Dispose
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.dispose(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.dispose(v=AX.60)
 ms:contentKeyID: 62201809
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ virtual void Dispose() sealed
 
 #### Implements
 
-[IHttpModule.Dispose()](https://technet.microsoft.com/en-us/library/wx5ahb15\(v=ax.60\))  
+[IHttpModule.Dispose()](https://technet.microsoft.com/library/wx5ahb15\(v=ax.60\))  
 
 ## See Also
 

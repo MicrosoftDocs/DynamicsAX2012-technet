@@ -2,8 +2,9 @@
 title: (BRA) Update document model in fiscal document type
 TOCTitle: (BRA) Update document model in fiscal document type
 ms:assetid: 2e946677-71a3-412e-a3f1-f8ebce990b7f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ714189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ714189(v=AX.60)
 ms:contentKeyID: 49651298
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Use the following procedure to upgrade fiscal document models in fiscal document
 
 ## See also
 
-[(BRA) Update document model in fiscal document type (form)](https://technet.microsoft.com/en-us/library/jj713624\(v=ax.60\))
+[(BRA) Update document model in fiscal document type (form)](https://technet.microsoft.com/library/jj713624\(v=ax.60\))
 
   
 

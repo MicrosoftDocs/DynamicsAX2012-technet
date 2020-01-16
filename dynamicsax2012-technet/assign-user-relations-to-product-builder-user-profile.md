@@ -2,8 +2,9 @@
 title: Assign user relations to Product builder user profile
 TOCTitle: Assign user relations to Product builder user profile
 ms:assetid: 00d09dc8-7a9c-44b2-84f0-3934385a56c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569684(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569684(v=AX.60)
 ms:contentKeyID: 36676363
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

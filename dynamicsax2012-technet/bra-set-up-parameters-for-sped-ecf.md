@@ -2,8 +2,9 @@
 title: (BRA) Set up parameters for SPED ECF
 TOCTitle: (BRA) Set up parameters for SPED ECF
 ms:assetid: 8768a598-9d53-4242-bce5-f9543b00fa00
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt504268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt504268(v=AX.60)
 ms:contentKeyID: 69938502
+author: Khairunj
 ms.date: 09/08/2015
 mtps_version: v=AX.60
 audience: Application User

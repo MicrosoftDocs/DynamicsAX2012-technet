@@ -2,8 +2,9 @@
 title: (BRA) Generate the SPED fiscal export file for a month
 TOCTitle: (BRA) Generate the SPED fiscal export file for a month
 ms:assetid: 1430d618-43e1-46d5-8a90-f7a6716ee425
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn305862(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn305862(v=AX.60)
 ms:contentKeyID: 54912960
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

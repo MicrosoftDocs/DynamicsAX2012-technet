@@ -2,8 +2,9 @@
 title: Business Intelligence Properties
 TOCTitle: Business Intelligence Properties
 ms:assetid: 08629d9b-f7c0-4091-8a8a-b5dd23fb1349
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc519277(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc519277(v=AX.60)
 ms:contentKeyID: 28119301
+author: Khairunj
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 ---
@@ -293,7 +294,7 @@ The view properties are the same as the table properties, except for the **IsLoo
 
 [Walkthrough: Creating a cube](walkthrough-creating-a-cube.md)
 
-[Properties of AOT Elements](https://technet.microsoft.com/en-us/library/gg731856\(v=ax.60\))
+[Properties of AOT Elements](https://technet.microsoft.com/library/gg731856\(v=ax.60\))
 
   
 
