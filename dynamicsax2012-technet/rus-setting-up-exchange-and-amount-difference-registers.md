@@ -2,8 +2,9 @@
 title: (RUS) Setting up exchange and amount difference registers
 TOCTitle: (RUS) Setting up exchange and amount difference registers
 ms:assetid: 228b4f7f-b368-4e09-973a-5199a704012b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853160(v=AX.60)
 ms:contentKeyID: 50396441
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

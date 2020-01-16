@@ -2,8 +2,9 @@
 title: Reversing entries configuration key (LedgerBasicReversingEntries)
 TOCTitle: Reversing entries configuration key (LedgerBasicReversingEntries)
 ms:assetid: 44ed9e5a-d40d-48af-abb2-9fdc5291e29f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh467549(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh467549(v=AX.60)
 ms:contentKeyID: 36991696
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -49,7 +50,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

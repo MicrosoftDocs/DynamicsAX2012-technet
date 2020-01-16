@@ -2,8 +2,9 @@
 title: (RUS) Create and post a sales order for delayed transfer of proprietary rights
 TOCTitle: (RUS) Create and post a sales order for delayed transfer of proprietary rights
 ms:assetid: 9ce587c2-8090-469e-a272-742f0064da66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856174(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856174(v=AX.60)
 ms:contentKeyID: 50407013
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,11 +38,11 @@ Use the **Sales order** form to create and post a sales order for the delayed tr
 
 ## See also
 
-[(RUS) Passing of property (form)](https://technet.microsoft.com/en-us/library/dn126128\(v=ax.60\))
+[(RUS) Passing of property (form)](https://technet.microsoft.com/library/dn126128\(v=ax.60\))
 
-[(RUS) Journal of passing of property (form)](https://technet.microsoft.com/en-us/library/dn126118\(v=ax.60\))
+[(RUS) Journal of passing of property (form)](https://technet.microsoft.com/library/dn126118\(v=ax.60\))
 
-[(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
+[(RUS) Sales orders (modified form)](https://technet.microsoft.com/library/jj733272\(v=ax.60\))
 
   
 

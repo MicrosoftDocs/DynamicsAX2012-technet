@@ -2,8 +2,9 @@
 title: (RUS) Set up the terms of delivery for customs clearance of items
 TOCTitle: (RUS) Set up the terms of delivery for customs clearance of items
 ms:assetid: 80b8355a-e6e5-457f-88c0-841cf58eb6ed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733247(v=AX.60)
 ms:contentKeyID: 49685214
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use the **Terms of delivery** form to set up the terms of delivery for the custo
 
 [(RUS) Assign a charges code to terms of delivery](rus-assign-a-charges-code-to-terms-of-delivery.md)
 
-[(RUS) Terms of delivery (modified form)](https://technet.microsoft.com/en-us/library/jj733176\(v=ax.60\))
+[(RUS) Terms of delivery (modified form)](https://technet.microsoft.com/library/jj733176\(v=ax.60\))
 
   
 

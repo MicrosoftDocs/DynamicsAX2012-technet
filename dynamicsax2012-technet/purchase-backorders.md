@@ -2,8 +2,9 @@
 title: Purchase backorders
 TOCTitle: Purchase backorders
 ms:assetid: f18084c4-2db8-45ad-874a-1b1bcb977723
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551598(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551598(v=AX.60)
 ms:contentKeyID: 36059947
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

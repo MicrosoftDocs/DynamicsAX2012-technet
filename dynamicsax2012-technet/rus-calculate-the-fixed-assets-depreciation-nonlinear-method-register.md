@@ -2,8 +2,9 @@
 title: (RUS) Calculate the fixed assets depreciation (nonlinear method) register
 TOCTitle: (RUS) Calculate the fixed assets depreciation (nonlinear method) register
 ms:assetid: 164e5615-c368-4443-828d-ad4e411dd4ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711426(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711426(v=AX.60)
 ms:contentKeyID: 49387244
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Set up the M4 cash receipt voucher
 TOCTitle: (RUS) Set up the M4 cash receipt voucher
 ms:assetid: a18f4e51-75c6-43cd-99d7-34b784350b1b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678552(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678552(v=AX.60)
 ms:contentKeyID: 49387781
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,9 +47,9 @@ The M-4 receipt voucher is the original document that is signed by the sender an
 
 ## See also
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
-[(RUS) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj711352\(v=ax.60\))
+[(RUS) Legal entities (modified form)](https://technet.microsoft.com/library/jj711352\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) About accounting distributions and subledger journals
 TOCTitle: (RUS) About accounting distributions and subledger journals
 ms:assetid: 15a7b973-3e2a-4d32-9562-f3ba6256739d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711417(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711417(v=AX.60)
 ms:contentKeyID: 49387235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

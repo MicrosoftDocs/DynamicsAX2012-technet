@@ -2,8 +2,9 @@
 title: (RUS) Transfer/lend assets overview
 TOCTitle: (RUS) Transfer/lend assets overview
 ms:assetid: 99eb0b90-b366-4f49-9439-6e2ca0ab0e9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678515(v=AX.60)
 ms:contentKeyID: 49387744
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

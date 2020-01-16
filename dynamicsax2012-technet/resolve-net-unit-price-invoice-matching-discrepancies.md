@@ -2,8 +2,9 @@
 title: Resolve net unit price invoice matching discrepancies
 TOCTitle: Resolve net unit price invoice matching discrepancies
 ms:assetid: 82852252-b348-436b-92fb-f26f3982337c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213157(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213157(v=AX.60)
 ms:contentKeyID: 36655937
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -103,11 +104,11 @@ If the **Receiving requirements** check box is selected for the inventory model 
 
 [Record the receipt of vendor invoices and match against received quantities](record-the-receipt-of-vendor-invoices-and-match-against-received-quantities.md)
 
-[Invoice matching details (form)](https://technet.microsoft.com/en-us/library/hh209713\(v=ax.60\))
+[Invoice matching details (form)](https://technet.microsoft.com/library/hh209713\(v=ax.60\))
 
-[Match product receipts to invoice (form)](https://technet.microsoft.com/en-us/library/hh209552\(v=ax.60\))
+[Match product receipts to invoice (form)](https://technet.microsoft.com/library/hh209552\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

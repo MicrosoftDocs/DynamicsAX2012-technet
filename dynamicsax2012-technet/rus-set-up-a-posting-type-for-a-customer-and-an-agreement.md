@@ -2,8 +2,9 @@
 title: (RUS) Set up a posting type for a customer and an agreement
 TOCTitle: (RUS) Set up a posting type for a customer and an agreement
 ms:assetid: 4a81f89c-854e-4fee-9dc2-fca98c081484
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856170(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856170(v=AX.60)
 ms:contentKeyID: 50407009
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Use the **Customer** form and the **Sales agreements** form to set up a posting 
 
 [(RUS) Set up purchase and sales agreement classifications](rus-set-up-purchase-and-sales-agreement-classifications.md)
 
-[(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
+[(RUS) Customers (modified form)](https://technet.microsoft.com/library/jj853212\(v=ax.60\))
 
   
 

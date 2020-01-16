@@ -2,8 +2,9 @@
 title: (RUS) Set up the calculation of assessed tax
 TOCTitle: (RUS) Set up the calculation of assessed tax
 ms:assetid: 6e281290-270f-453c-a39d-659f76404a5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678343(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678343(v=AX.60)
 ms:contentKeyID: 49387573
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ You must set up the assessed tax parameters in **General ledger** and **Fixed as
 
 6.  In the **Ledger posting group** field, select the ledger posting group.
 
-7.  Click **Values** to open the **Values** form. For more information, see [Values of sales tax codes (form)](https://technet.microsoft.com/en-us/library/aa500790\(v=ax.60\)).
+7.  Click **Values** to open the **Values** form. For more information, see [Values of sales tax codes (form)](https://technet.microsoft.com/library/aa500790\(v=ax.60\)).
 
 8.  In the **Value** field, enter the tax rate.
 
@@ -107,7 +108,7 @@ You must set up the assessed tax parameters in **General ledger** and **Fixed as
 
 5.  Click **Fixed assets** \> **Common** \> **Fixed assets** \> **Fixed assets**.
 
-6.  Create a new asset. For more information, see [Fixed assets (form)](https://technet.microsoft.com/en-us/library/aa620341\(v=ax.60\)).
+6.  Create a new asset. For more information, see [Fixed assets (form)](https://technet.microsoft.com/library/aa620341\(v=ax.60\)).
 
 7.  In the **FA group** field, select the asset group for the asset.
 
@@ -151,17 +152,17 @@ You must set up the assessed tax parameters in **General ledger** and **Fixed as
 
 ## See also
 
-[(RUS) Assessed tax (form)](https://technet.microsoft.com/en-us/library/jj856180\(v=ax.60\))
+[(RUS) Assessed tax (form)](https://technet.microsoft.com/library/jj856180\(v=ax.60\))
 
-[(RUS) Budget revenue classification (form)](https://technet.microsoft.com/en-us/library/jj665363\(v=ax.60\))
+[(RUS) Budget revenue classification (form)](https://technet.microsoft.com/library/jj665363\(v=ax.60\))
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
-[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj923580\(v=ax.60\))
+[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/library/jj923580\(v=ax.60\))
 
-[(EEUR) Ground area categories (form)](https://technet.microsoft.com/en-us/library/jj710742\(v=ax.60\))
+[(EEUR) Ground area categories (form)](https://technet.microsoft.com/library/jj710742\(v=ax.60\))
 
-[(RUS) Distribution (form)](https://technet.microsoft.com/en-us/library/jj678526\(v=ax.60\))
+[(RUS) Distribution (form)](https://technet.microsoft.com/library/jj678526\(v=ax.60\))
 
   
 

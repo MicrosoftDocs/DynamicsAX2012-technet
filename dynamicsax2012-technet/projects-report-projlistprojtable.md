@@ -2,8 +2,9 @@
 title: Projects report (ProjListProjTable)
 TOCTitle: Projects report (ProjListProjTable)
 ms:assetid: 3a3f46f5-5d99-4da5-aef3-7c8fad23d390
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa575069(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa575069(v=AX.60)
 ms:contentKeyID: 37831997
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -129,7 +130,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
   
 

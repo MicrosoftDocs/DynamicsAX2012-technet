@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductManager.EndReadChangedProducts Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: EndReadChangedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.EndReadChangedProducts(Microsoft.Dynamics.Commerce.Runtime.DataModel.ReadChangedProductsSession)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.productmanager.endreadchangedproducts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.endreadchangedproducts(v=AX.60)
 ms:contentKeyID: 62205944
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

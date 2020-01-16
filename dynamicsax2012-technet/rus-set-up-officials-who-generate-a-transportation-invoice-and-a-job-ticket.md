@@ -2,8 +2,9 @@
 title: (RUS) Set up officials who generate a transportation invoice and a job ticket
 TOCTitle: (RUS) Set up officials who generate a transportation invoice and a job ticket
 ms:assetid: 7a26496d-2d00-4266-ba86-0ff1639c0ec7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678380(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678380(v=AX.60)
 ms:contentKeyID: 49387610
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Set up a charges code by using a transit account
 TOCTitle: (RUS) Set up a charges code by using a transit account
 ms:assetid: 3cbb1874-bb92-43ae-9315-43d38fcbb8d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856168(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856168(v=AX.60)
 ms:contentKeyID: 50407007
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Assign a constant value for a cell in the Financial reports generator report
 TOCTitle: (RUS) Assign a constant value for a cell in the Financial reports generator report
 ms:assetid: da3412eb-82f8-4739-b2cc-3cb5540a9f4e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923597(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923597(v=AX.60)
 ms:contentKeyID: 52075443
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -103,11 +104,11 @@ Use the following procedure to assign a constant value for a cell.
 
 [(EEUR) Create report cell operations](eeur-create-report-cell-operations.md)
 
-[(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\))
+[(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\))
 
 [(EEUR) Create and copy report cells](eeur-create-and-copy-report-cells.md)
 
-[(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
+[(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\))
 
   
 

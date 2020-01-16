@@ -2,8 +2,9 @@
 title: (RUS) Transform a customer payment to a customer prepayment
 TOCTitle: (RUS) Transform a customer payment to a customer prepayment
 ms:assetid: a0ab41d3-02f4-4a6f-b6e1-03977762cfb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678542(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678542(v=AX.60)
 ms:contentKeyID: 49387772
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ If unsettled payment documents remain at the end of reporting period, the paymen
 
 ## See also
 
-[(RUS) Unsettled payments (form)](https://technet.microsoft.com/en-us/library/jj853162\(v=ax.60\))
+[(RUS) Unsettled payments (form)](https://technet.microsoft.com/library/jj853162\(v=ax.60\))
 
   
 

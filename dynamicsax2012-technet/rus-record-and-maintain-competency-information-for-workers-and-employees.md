@@ -2,8 +2,9 @@
 title: (RUS) Record and maintain competency information for workers and employees
 TOCTitle: (RUS) Record and maintain competency information for workers and employees
 ms:assetid: f872123c-2da2-4eed-b68e-c7a8e8efaa6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn744249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn744249(v=AX.60)
 ms:contentKeyID: 62286791
+author: Khairunj
 ms.date: 05/13/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -26,7 +27,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can hire a worker for a legal entity, and then assign the worker to a single position or to multiple positions. When you assign the worker to a position or positions, an employee identification code is assigned to the worker for the position or positions. For example, you hire worker W1, and then assign the worker to three positions, such as P1, P2, and P3. Three employee identification codes are assigned to the worker, such as E1, E2, and E3.
 
-When you create a worker record in the Human resources module, and then hire the worker as an employee in the Payroll (Russia) module, you can copy the skill related information that is defined in the Human resources module to the Payroll (Russia) module. For more information, see [Competency - Skills (form)](https://technet.microsoft.com/en-us/library/aa616428\(v=ax.60\)).
+When you create a worker record in the Human resources module, and then hire the worker as an employee in the Payroll (Russia) module, you can copy the skill related information that is defined in the Human resources module to the Payroll (Russia) module. For more information, see [Competency - Skills (form)](https://technet.microsoft.com/library/aa616428\(v=ax.60\)).
 
 You can record and maintain the following competency information for workers and employees:
 

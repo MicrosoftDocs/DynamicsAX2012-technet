@@ -2,8 +2,9 @@
 title: (RUS) Set up an RCOAD code for a company
 TOCTitle: (RUS) Set up an RCOAD code for a company
 ms:assetid: 721e691b-451e-488a-b7f1-d553d47b272e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678360(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678360(v=AX.60)
 ms:contentKeyID: 49387590
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use the **Legal entities** form to set up a Russian Classification of Objects of
 
 [Select or enter a new address for a party record](select-or-enter-a-new-address-for-a-party-record.md)
 
-[(RUS) Legal entities (modified form)](https://technet.microsoft.com/en-us/library/jj711352\(v=ax.60\))
+[(RUS) Legal entities (modified form)](https://technet.microsoft.com/library/jj711352\(v=ax.60\))
 
   
 

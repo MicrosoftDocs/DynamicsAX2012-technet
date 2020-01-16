@@ -2,8 +2,9 @@
 title: (RUS) Print a facture accounting journal
 TOCTitle: (RUS) Print a facture accounting journal
 ms:assetid: 2cf9c3b3-6d89-4c2f-b648-733431598650
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923270(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923270(v=AX.60)
 ms:contentKeyID: 52075360
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ Use this procedure to print a facture accounting journal.
 
 [(RUS) Create, verify, and print a corrective or revised facture](rus-create-verify-and-print-a-corrective-or-revised-facture.md)
 
-[(RUS) Facture journal (form)](https://technet.microsoft.com/en-us/library/jj923567\(v=ax.60\))
+[(RUS) Facture journal (form)](https://technet.microsoft.com/library/jj923567\(v=ax.60\))
 
   
 

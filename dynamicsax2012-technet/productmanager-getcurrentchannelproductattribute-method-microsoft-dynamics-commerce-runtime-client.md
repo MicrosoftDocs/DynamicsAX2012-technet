@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductManager.GetCurrentChannelProductAttribute Method  (Microsoft.Dynamics.Commerce.Runtime.Client)
 TOCTitle: GetCurrentChannelProductAttribute Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetCurrentChannelProductAttribute(System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.client.productmanager.getcurrentchannelproductattribute(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getcurrentchannelproductattribute(v=AX.60)
 ms:contentKeyID: 49853585
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ AttributeProduct^ GetCurrentChannelProductAttribute(
 #### Parameters
 
   - attributeId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 

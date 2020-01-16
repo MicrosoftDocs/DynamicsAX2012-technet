@@ -2,8 +2,9 @@
 title: (RUS) About tax liabilities and asset calculation registers
 TOCTitle: (RUS) About tax liabilities and asset calculation registers
 ms:assetid: 2980075e-9191-4075-a5a3-bcd2220e1aa6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839657(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839657(v=AX.60)
 ms:contentKeyID: 50396804
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Temporary tax differences occur if expenses or revenues generate an accounting p
 
 Based on the impact on taxable profit, temporary differences are classified as deductible or taxable. Therefore, a deferred tax on profit is created either as a deferred tax asset or a deferred tax duty.
 
-You can specify the grouping level for the tax difference transactions in the **General ledger parameters** form. For more information, see [(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923603\(v=ax.60\))
+You can specify the grouping level for the tax difference transactions in the **General ledger parameters** form. For more information, see [(RUS) General ledger parameters (modified form)](https://technet.microsoft.com/library/jj923603\(v=ax.60\))
 
 The constant tax and temporary tax difference amounts are displayed in the accounting records as follows:
 

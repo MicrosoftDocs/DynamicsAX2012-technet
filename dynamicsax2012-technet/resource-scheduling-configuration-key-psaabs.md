@@ -2,8 +2,9 @@
 title: Resource scheduling configuration key (PSAABS)
 TOCTitle: Resource scheduling configuration key (PSAABS)
 ms:assetid: 789a4146-b406-49d4-b89c-46af402c5442
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500155(v=AX.60)
 ms:contentKeyID: 37820186
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -35,15 +36,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Resource assignments</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242655(v=ax.60)">Resource assignments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242655(v=ax.60)">Resource assignments (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Schedule resources</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209507(v=ax.60)">Schedule resources (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209507(v=ax.60)">Schedule resources (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Resource assignment analysis - Department</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242796(v=ax.60)">Resource assignment analysis - Department (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/hh242796(v=ax.60)">Resource assignment analysis - Department (form)</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -54,7 +55,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Resource assignment analysis - Financial dimension</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227471(v=ax.60)">Resource assignment analysis - Financial dimension (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/hh227471(v=ax.60)">Resource assignment analysis - Financial dimension (form)</a></p>
 <div class="alert">
 
 > [!NOTE]
@@ -65,11 +66,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Resource assignment analysis - Project</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209116(v=ax.60)">Resource assignment analysis - Project (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209116(v=ax.60)">Resource assignment analysis - Project (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Resource assignment analysis - worker</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227569(v=ax.60)">Resource assignment analysis - worker (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227569(v=ax.60)">Resource assignment analysis - worker (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +108,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
 ## See also
 

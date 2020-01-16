@@ -2,8 +2,9 @@
 title: Sales performance by retail product category report (RetailSalesByRetailCategory)
 TOCTitle: Sales performance by retail product category report (RetailSalesByRetailCategory)
 ms:assetid: 218ae9af-21c2-4186-824c-5cf7a1bc59f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697604(v=AX.60)
 ms:contentKeyID: 42518405
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

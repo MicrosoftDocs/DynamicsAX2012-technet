@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailTransactionPaymentSchema.GiftCardIdColumn Field (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: GiftCardIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.GiftCardIdColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.giftcardidcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.giftcardidcolumn(v=AX.60)
 ms:contentKeyID: 65319039
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

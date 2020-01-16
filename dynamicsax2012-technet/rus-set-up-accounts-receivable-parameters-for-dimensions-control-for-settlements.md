@@ -2,8 +2,9 @@
 title: (RUS) Set up accounts receivable parameters for dimensions control for settlements
 TOCTitle: (RUS) Set up accounts receivable parameters for dimensions control for settlements
 ms:assetid: 4943489a-8958-4ef5-95e7-c07d53850fb7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665348(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665348(v=AX.60)
 ms:contentKeyID: 49387436
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -40,7 +41,7 @@ Use this procedure to set up accounts receivable parameters for dimensions contr
 
 [(RUS) Set up accounts payable parameters for dimensions control for settlements](rus-set-up-accounts-payable-parameters-for-dimensions-control-for-settlements.md)
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
   
 

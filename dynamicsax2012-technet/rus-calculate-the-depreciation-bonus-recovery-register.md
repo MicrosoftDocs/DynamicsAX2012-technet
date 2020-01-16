@@ -2,8 +2,9 @@
 title: (RUS) Calculate the depreciation bonus recovery register
 TOCTitle: (RUS) Calculate the depreciation bonus recovery register
 ms:assetid: a2adec1b-ad1e-4ce2-818d-62c00f510b0e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839680(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839680(v=AX.60)
 ms:contentKeyID: 50396826
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -70,9 +71,9 @@ In the **Register journal lines** form, on the **Overview** tab, select the **Ap
 
 [(RUS) Set up a register for incomes - current period](rus-set-up-a-register-for-incomes-current-period.md)
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
   
 

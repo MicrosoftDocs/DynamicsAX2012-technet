@@ -2,8 +2,9 @@
 title: Reporting Services configuration key (ReportingServices)
 TOCTitle: Reporting Services configuration key (ReportingServices)
 ms:assetid: 121754bd-4c2c-488a-9070-efab7c78b409
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572083(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572083(v=AX.60)
 ms:contentKeyID: 36941195
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,15 +40,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Analysis servers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597195(v=ax.60)">Analysis servers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597195(v=ax.60)">Analysis servers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Report deployment settings</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597341(v=ax.60)">Reports deployment settings (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597341(v=ax.60)">Reports deployment settings (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Report servers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548504(v=ax.60)">Report servers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548504(v=ax.60)">Report servers (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +86,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

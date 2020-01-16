@@ -2,8 +2,9 @@
 title: (RUS) Create and post deferrals by using the Proportional VAT refund method
 TOCTitle: (RUS) Create and post deferrals by using the Proportional VAT refund method
 ms:assetid: 58043f5c-74a6-497e-8fde-4e0a38b0b926
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665401(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665401(v=AX.60)
 ms:contentKeyID: 49387489
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Complete the following tasks before you process the incoming VAT for deferrals:
 
 ## Create and post a purchase order
 
-Use the **Purchase order** form to create and post a purchase order for the purchase of items. For more information, see [Purchase order (form)](https://technet.microsoft.com/en-us/library/aa557983\(v=ax.60\)) and [(RUS) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj733294\(v=ax.60\)).
+Use the **Purchase order** form to create and post a purchase order for the purchase of items. For more information, see [Purchase order (form)](https://technet.microsoft.com/library/aa557983\(v=ax.60\)) and [(RUS) Purchase orders (modified form)](https://technet.microsoft.com/library/jj733294\(v=ax.60\)).
 
 1.  Click **Accounts payable** \> **Common** \> **Purchase orders** \> **All purchase orders**.
 

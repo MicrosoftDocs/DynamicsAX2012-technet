@@ -2,8 +2,9 @@
 title: Reassign workers to stores after upgrade (Retail)
 TOCTitle: Reassign workers to stores after upgrade (Retail)
 ms:assetid: f88a79ef-e69d-4ff7-887e-63ba97344ae5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh803001(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh803001(v=AX.60)
 ms:contentKeyID: 44080983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

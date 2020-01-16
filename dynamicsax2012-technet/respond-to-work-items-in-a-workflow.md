@@ -2,8 +2,9 @@
 title: Respond to work items in a workflow
 TOCTitle: Respond to work items in a workflow
 ms:assetid: afdc4b98-5711-4abe-bd6c-2e9ab68fb900
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh202093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh202093(v=AX.60)
 ms:contentKeyID: 35949344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

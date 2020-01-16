@@ -2,8 +2,9 @@
 title: (RUS) Managing Accounts receivable registers
 TOCTitle: (RUS) Managing Accounts receivable registers
 ms:assetid: aa9c23fe-9e8c-4346-bb80-0eec31c79ae0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711495(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711495(v=AX.60)
 ms:contentKeyID: 49387820
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Record developments
 TOCTitle: Record developments
 ms:assetid: 604e381e-97e9-4436-972f-ab86ff781874
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571106(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571106(v=AX.60)
 ms:contentKeyID: 43894502
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ You can create developments to record events or new conditions that might affect
 
 [About recruitment projects](about-recruitment-projects.md)
 
-[Recruitment projects (form)](https://technet.microsoft.com/en-us/library/aa583986\(v=ax.60\))
+[Recruitment projects (form)](https://technet.microsoft.com/library/aa583986\(v=ax.60\))
 
   
 

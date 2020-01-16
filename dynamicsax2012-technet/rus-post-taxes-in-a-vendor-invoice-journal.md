@@ -2,8 +2,9 @@
 title: (RUS) Post taxes in a vendor invoice journal
 TOCTitle: (RUS) Post taxes in a vendor invoice journal
 ms:assetid: 38408108-211a-45a5-8c6c-5d9ad8292685
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665283(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665283(v=AX.60)
 ms:contentKeyID: 49387372
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Payments to foreign bank accounts
 TOCTitle: (RUS) Payments to foreign bank accounts
 ms:assetid: eba77033-3465-4489-be85-807d8814c44c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678587(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678587(v=AX.60)
 ms:contentKeyID: 49388069
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,11 +26,11 @@ For transactions that involve payment returns to a foreign customer, you can set
 
 You must complete the following tasks if you want to generate a payment order for payments to a foreign vendor bank account, or to send a payment return to a foreign customer bank account:
 
-  - Set up a bank account in the **Bank accounts** form. For more information, see [Bank accounts (form)](https://technet.microsoft.com/en-us/library/aa587660\(v=ax.60\)).
+  - Set up a bank account in the **Bank accounts** form. For more information, see [Bank accounts (form)](https://technet.microsoft.com/library/aa587660\(v=ax.60\)).
 
   - Set up a vendor account in the **Vendors** form.
 
-  - Set up a customer account in the **Customer** form. For more information, see[(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
+  - Set up a customer account in the **Customer** form. For more information, see[(RUS) Customers (modified form)](https://technet.microsoft.com/library/jj853212\(v=ax.60\))
 
   - Set up payment journals for a vendor account and a customer account in the **Ledger journal** form.
 

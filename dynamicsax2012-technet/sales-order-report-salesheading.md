@@ -2,8 +2,9 @@
 title: Sales order report (SalesHeading)
 TOCTitle: Sales order report (SalesHeading)
 ms:assetid: 4b6e4df8-6d90-4db1-96f7-9059810091b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa576308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa576308(v=AX.60)
 ms:contentKeyID: 36058504
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

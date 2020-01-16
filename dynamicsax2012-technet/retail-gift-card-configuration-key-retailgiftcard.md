@@ -2,8 +2,9 @@
 title: Retail gift card configuration key (RetailGiftCard)
 TOCTitle: Retail gift card configuration key (RetailGiftCard)
 ms:assetid: a4264181-24b8-43f4-8eda-74bd3142cc8f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh697602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh697602(v=AX.60)
 ms:contentKeyID: 42518403
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -81,7 +82,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

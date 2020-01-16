@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequestTypeCache.ValidationAttributes Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ValidationAttributes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.RequestTypeCache.ValidationAttributes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.requesttypecache.validationattributes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.requesttypecache.validationattributes(v=AX.60)
 ms:contentKeyID: 65318977
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,7 +48,7 @@ property IReadOnlyDictionary<PropertyInfo^, IEnumerable<ValidationAttribute^>^>^
 
 #### Property Value
 
-Type: IReadOnlyDictionary\<[PropertyInfo](https://technet.microsoft.com/en-us/library/8z852kf5\(v=ax.60\)), [IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[ValidationAttribute](validationattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md)\>\>  
+Type: IReadOnlyDictionary\<[PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)), [IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[ValidationAttribute](validationattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md)\>\>  
 Returns IReadOnlyDictionary.  
 
 ## See Also

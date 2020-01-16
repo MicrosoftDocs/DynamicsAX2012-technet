@@ -2,8 +2,9 @@
 title: (RUS) Manage customer settlements
 TOCTitle: (RUS) Manage customer settlements
 ms:assetid: 1ba6949e-b0f5-477f-974a-7dc0b47bfbcf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711447(v=AX.60)
 ms:contentKeyID: 49387263
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

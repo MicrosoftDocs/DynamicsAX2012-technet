@@ -2,8 +2,9 @@
 title: (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor)
 TOCTitle: (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor)
 ms:assetid: 8a90ab78-c2dc-445e-80ea-0de79412ad37
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945854(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945854(v=AX.60)
 ms:contentKeyID: 51543174
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -115,7 +116,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/en-us/library/jj853189\(v=ax.60\))
+[(RUS) Factors for deferrals writing off (form)](https://technet.microsoft.com/library/jj853189\(v=ax.60\))
 
   
 

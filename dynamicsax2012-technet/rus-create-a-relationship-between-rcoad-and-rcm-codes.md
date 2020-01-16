@@ -2,8 +2,9 @@
 title: (RUS) Create a relationship between RCOAD and RCM codes
 TOCTitle: (RUS) Create a relationship between RCOAD and RCM codes
 ms:assetid: d7184331-e996-4c0f-9678-37f95c9542cf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn788797(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn788797(v=AX.60)
 ms:contentKeyID: 62518195
+author: Khairunj
 ms.date: 06/27/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,9 +52,9 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Related setup tasks</p></td>
 <td><ul>
-<li><p>In the <strong>Manage addresses</strong> form, on the <strong>Tax registration</strong> FastTab, in the <strong>Registration number</strong> field, enter an RCOAD code for the vendor. For more information see <a href="https://technet.microsoft.com/en-us/library/jj733401(v=ax.60)">(RUS) Manage addresses (modified form)</a>.</p></li>
+<li><p>In the <strong>Manage addresses</strong> form, on the <strong>Tax registration</strong> FastTab, in the <strong>Registration number</strong> field, enter an RCOAD code for the vendor. For more information see <a href="https://technet.microsoft.com/library/jj733401(v=ax.60)">(RUS) Manage addresses (modified form)</a>.</p></li>
 <li><p>Set up a sales tax authority, a settlement period, a sales tax code, a sales tax relationship, and a budget revenue classification code. For more information, see <a href="rus-set-up-the-calculation-of-assessed-tax.md">(RUS) Set up the calculation of assessed tax</a>.</p></li>
-<li><p>Set up a territory code and specify a sales tax code in the <strong>Distribution</strong> form. For more information, see <a href="rus-set-up-a-location-code-and-an-rcoad-code-to-distribute-a-fixed-asset.md">(RUS) Set up a location code and an RCOAD code to distribute a fixed asset</a> and <a href="https://technet.microsoft.com/en-us/library/jj853238(v=ax.60)">(RUS) Distribution - tax reporting (form)</a>.</p></li>
+<li><p>Set up a territory code and specify a sales tax code in the <strong>Distribution</strong> form. For more information, see <a href="rus-set-up-a-location-code-and-an-rcoad-code-to-distribute-a-fixed-asset.md">(RUS) Set up a location code and an RCOAD code to distribute a fixed asset</a> and <a href="https://technet.microsoft.com/library/jj853238(v=ax.60)">(RUS) Distribution - tax reporting (form)</a>.</p></li>
 </ul></td>
 </tr>
 </tbody>

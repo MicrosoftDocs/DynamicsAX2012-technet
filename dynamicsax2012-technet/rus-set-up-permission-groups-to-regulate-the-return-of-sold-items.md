@@ -2,8 +2,9 @@
 title: (RUS) Set up permission groups to regulate the return of sold items
 TOCTitle: (RUS) Set up permission groups to regulate the return of sold items
 ms:assetid: 61010684-1800-46e5-9b23-73618850e86e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn530768(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn530768(v=AX.60)
 ms:contentKeyID: 59683048
+author: Khairunj
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -60,7 +61,7 @@ The following table shows the prerequisites that must be in place before you sta
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Permission groups**.
 
-2.  Click **New** to create a permission group, and then enter the required details. For more information, see [Permission groups (form)](https://technet.microsoft.com/en-us/library/hh597270\(v=ax.60\)).
+2.  Click **New** to create a permission group, and then enter the required details. For more information, see [Permission groups (form)](https://technet.microsoft.com/library/hh597270\(v=ax.60\)).
 
 3.  In the **POS permission group ID** and **Description** fields, enter a name and a description for the permission group.
 

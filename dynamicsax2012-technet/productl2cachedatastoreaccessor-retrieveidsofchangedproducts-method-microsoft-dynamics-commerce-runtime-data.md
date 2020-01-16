@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductL2CacheDataStoreAccessor.RetrieveIdsOfChangedProducts Method  (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: RetrieveIdsOfChangedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.RetrieveIdsOfChangedProducts(System.Guid)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.retrieveidsofchangedproducts(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.retrieveidsofchangedproducts(v=AX.60)
 ms:contentKeyID: 62204343
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ ReadOnlyCollection<CommerceEntityChangeTrackingInformation^>^ RetrieveIdsOfChang
 #### Parameters
 
   - sessionId  
-    Type: [System.Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))  
+    Type: [System.Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/en-us/library/ms132474\(v=ax.60\))\<[CommerceEntityChangeTrackingInformation](commerceentitychangetrackinginformation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
+Type: [System.Collections.ObjectModel.ReadOnlyCollection](https://technet.microsoft.com/library/ms132474\(v=ax.60\))\<[CommerceEntityChangeTrackingInformation](commerceentitychangetrackinginformation-class-microsoft-dynamics-commerce-runtime-datamodel.md)\>  
 Collection of changed product's IDs.  
 
 ## See Also

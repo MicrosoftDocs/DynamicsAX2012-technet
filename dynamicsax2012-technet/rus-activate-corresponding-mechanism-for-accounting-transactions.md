@@ -2,8 +2,9 @@
 title: (RUS) Activate corresponding mechanism for accounting transactions
 TOCTitle: (RUS) Activate corresponding mechanism for accounting transactions
 ms:assetid: 3572cf1e-06c9-4e85-ac0f-b7e1db035a90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665271(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665271(v=AX.60)
 ms:contentKeyID: 49387360
+author: Khairunj
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ The account correspondence mechanism allows you to create correspondence relatio
 
 ## See also
 
-[(RUS) Manual correspondence (form)](https://technet.microsoft.com/en-us/library/jj733174\(v=ax.60\))
+[(RUS) Manual correspondence (form)](https://technet.microsoft.com/library/jj733174\(v=ax.60\))
 
 [(RUS) Define corresponding relations for transactions manually](rus-define-corresponding-relations-for-transactions-manually.md)
 

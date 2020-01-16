@@ -2,8 +2,9 @@
 title: (RUS) Taxation, payroll accounting, and compensation payments
 TOCTitle: (RUS) Taxation, payroll accounting, and compensation payments
 ms:assetid: 40f2546a-f593-4855-b29e-f431fc073d7a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435950(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435950(v=AX.60)
 ms:contentKeyID: 56730921
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

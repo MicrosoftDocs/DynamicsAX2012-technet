@@ -2,8 +2,9 @@
 title: (RUS) Import the Russian address classifier KLADR
 TOCTitle: (RUS) Import the Russian address classifier KLADR
 ms:assetid: 41723630-f8e3-4e10-b644-86eadc76effd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839661(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839661(v=AX.60)
 ms:contentKeyID: 50396808
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ You can import the Russian address classifier (KLADR) together with the address 
 
 ## See also
 
-[(RUS) Import of data (form)](https://technet.microsoft.com/en-us/library/jj711541\(v=ax.60\))
+[(RUS) Import of data (form)](https://technet.microsoft.com/library/jj711541\(v=ax.60\))
 
   
 

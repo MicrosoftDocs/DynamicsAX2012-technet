@@ -2,8 +2,9 @@
 title: (RUS) Void an expense report
 TOCTitle: (RUS) Void an expense report
 ms:assetid: 7e11114b-dc8d-41f0-b72a-51a13e5faf2f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678399(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678399(v=AX.60)
 ms:contentKeyID: 49387629
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,9 +43,9 @@ You can void expense reports that have been posted, and for which the status of 
 
 ## See also
 
-[(RUS) Advance reports (form)](https://technet.microsoft.com/en-us/library/jj733237\(v=ax.60\))
+[(RUS) Advance reports (form)](https://technet.microsoft.com/library/jj733237\(v=ax.60\))
 
-[(RUS) Advance holder transactions (form)](https://technet.microsoft.com/en-us/library/jj733234\(v=ax.60\))
+[(RUS) Advance holder transactions (form)](https://technet.microsoft.com/library/jj733234\(v=ax.60\))
 
   
 

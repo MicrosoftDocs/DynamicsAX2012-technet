@@ -2,8 +2,9 @@
 title: (RUS) Create a document type code to export or import payments
 TOCTitle: (RUS) Create a document type code to export or import payments
 ms:assetid: 1f884b14-374d-45c6-a45c-50af459aff99
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711456(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711456(v=AX.60)
 ms:contentKeyID: 49387270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,7 +44,7 @@ Use the **Document type** form to create a code for a document type that you can
 
 ## See also
 
-[(RUS) Document type (form)](https://technet.microsoft.com/en-us/library/jj665436\(v=ax.60\))
+[(RUS) Document type (form)](https://technet.microsoft.com/library/jj665436\(v=ax.60\))
 
   
 

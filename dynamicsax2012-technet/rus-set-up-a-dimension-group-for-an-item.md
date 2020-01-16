@@ -2,8 +2,9 @@
 title: (RUS) Set up a dimension group for an item
 TOCTitle: (RUS) Set up a dimension group for an item
 ms:assetid: 37ff308d-efd6-4022-9462-f134bbf67f19
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733201(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733201(v=AX.60)
 ms:contentKeyID: 49685169
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,7 +46,7 @@ Use the **Assign dimension groups** form to set up a dimension group for an item
 
 ## See also
 
-[Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\))
+[Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Perform preliminary processing of an export facture
 TOCTitle: (RUS) Perform preliminary processing of an export facture
 ms:assetid: 5db7e8bf-b4e6-4aae-9ac9-cbc7f7931e16
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665430(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665430(v=AX.60)
 ms:contentKeyID: 49387518
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,9 +64,9 @@ You can perform preliminary processing of export factures by using the **Prelimi
 
 [(RUS) Perform an outgoing VAT processing transaction](rus-perform-an-outgoing-vat-processing-transaction.md)
 
-[(RUS) Preliminary processing of export factures (form)](https://technet.microsoft.com/en-us/library/jj678447\(v=ax.60\))
+[(RUS) Preliminary processing of export factures (form)](https://technet.microsoft.com/library/jj678447\(v=ax.60\))
 
-[(RUS) Cancellation of preliminary processing (form)](https://technet.microsoft.com/en-us/library/jj911483\(v=ax.60\))
+[(RUS) Cancellation of preliminary processing (form)](https://technet.microsoft.com/library/jj911483\(v=ax.60\))
 
   
 

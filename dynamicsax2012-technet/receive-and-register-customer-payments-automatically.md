@@ -2,8 +2,9 @@
 title: Receive and register customer payments automatically
 TOCTitle: Receive and register customer payments automatically
 ms:assetid: f2ddf99e-a514-4317-bfcb-74c8ba9e735c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243280(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243280(v=AX.60)
 ms:contentKeyID: 36059973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

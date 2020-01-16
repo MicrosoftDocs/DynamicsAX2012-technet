@@ -2,8 +2,9 @@
 title: (RUS) Close books overview
 TOCTitle: (RUS) Close books overview
 ms:assetid: 71e8a6db-4a19-4dd5-9ba3-2915b737145e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911531(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911531(v=AX.60)
 ms:contentKeyID: 52075392
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM
 TOCTitle: (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM
 ms:assetid: 9bfba623-6486-4ee4-a56d-82862b1d662d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678533(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678533(v=AX.60)
 ms:contentKeyID: 49387762
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,13 +48,13 @@ When you explode a bill of materials (BOM) on sales order lines or purchase orde
 
 ## See also
 
-[(RUS) Explode BOM lines in purchase order (modified form)](https://technet.microsoft.com/en-us/library/jj711365\(v=ax.60\))
+[(RUS) Explode BOM lines in purchase order (modified form)](https://technet.microsoft.com/library/jj711365\(v=ax.60\))
 
-[(RUS) Explode BOM lines in sales order (modified form)](https://technet.microsoft.com/en-us/library/jj678426\(v=ax.60\))
+[(RUS) Explode BOM lines in sales order (modified form)](https://technet.microsoft.com/library/jj678426\(v=ax.60\))
 
-[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/en-us/library/jj733294\(v=ax.60\))
+[(RUS) Purchase orders (modified form)](https://technet.microsoft.com/library/jj733294\(v=ax.60\))
 
-[(RUS) Sales orders (modified form)](https://technet.microsoft.com/en-us/library/jj733272\(v=ax.60\))
+[(RUS) Sales orders (modified form)](https://technet.microsoft.com/library/jj733272\(v=ax.60\))
 
   
 

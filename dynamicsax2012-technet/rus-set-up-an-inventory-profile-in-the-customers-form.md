@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory profile in the Customers form
 TOCTitle: (RUS) Set up an inventory profile in the Customers form
 ms:assetid: a8f43624-f4cc-4b42-a37b-d6bfb9cef1ad
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733268(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733268(v=AX.60)
 ms:contentKeyID: 49685235
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Customers** form to set up an inventory profile.
 
 ## See also
 
-[(RUS) Customers (modified form)](https://technet.microsoft.com/en-us/library/jj853212\(v=ax.60\))
+[(RUS) Customers (modified form)](https://technet.microsoft.com/library/jj853212\(v=ax.60\))
 
 [(RUS) Set up an inventory profile in the Vendors form](rus-set-up-an-inventory-profile-in-the-vendors-form.md)
 

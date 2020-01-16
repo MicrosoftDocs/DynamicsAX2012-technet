@@ -2,8 +2,9 @@
 title: (RUS) Assign a charges code to terms of delivery
 TOCTitle: (RUS) Assign a charges code to terms of delivery
 ms:assetid: 971c3f39-e5f2-4c29-ad24-1d12ff4f5973
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678498(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678498(v=AX.60)
 ms:contentKeyID: 49387727
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -32,7 +33,7 @@ Use the **Misc. charges relation with terms of delivery** form to assign a charg
 
 ## See also
 
-[(RUS) Misc. charge relation with terms of delivery (form)](https://technet.microsoft.com/en-us/library/jj665458\(v=ax.60\))
+[(RUS) Misc. charge relation with terms of delivery (form)](https://technet.microsoft.com/library/jj665458\(v=ax.60\))
 
   
 

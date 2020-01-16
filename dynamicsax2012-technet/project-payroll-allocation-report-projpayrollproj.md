@@ -2,8 +2,9 @@
 title: Project payroll allocation report (ProjPayrollProj)
 TOCTitle: Project payroll allocation report (ProjPayrollProj)
 ms:assetid: 90d2cdec-48e6-4bba-8661-d298d4578ddd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa616342(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa616342(v=AX.60)
 ms:contentKeyID: 37832022
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

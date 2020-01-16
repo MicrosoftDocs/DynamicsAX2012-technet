@@ -2,8 +2,9 @@
 title: RFP responses (Lifecycle Services, LCS)
 TOCTitle: RFP responses
 ms:assetid: 54408791-afbd-4fb7-9597-bce51b110d18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn530763(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn530763(v=AX.60)
 ms:contentKeyID: 59683042
+author: Khairunj
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

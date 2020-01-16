@@ -2,8 +2,9 @@
 title: (RUS) Set up an RCOAD code for a sales tax authority
 TOCTitle: (RUS) Set up an RCOAD code for a sales tax authority
 ms:assetid: 8d877c1a-af8b-493f-8ca1-2794d302f7eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678470(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678470(v=AX.60)
 ms:contentKeyID: 49387699
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ Use the **RCOAD codes** form to set up a Russian Classification of Objects and A
 
 [(RUS) Set up a fixed asset location](rus-set-up-a-fixed-asset-location.md)
 
-[(RUS) Sales tax authorities (modified form)](https://technet.microsoft.com/en-us/library/jj678415\(v=ax.60\))
+[(RUS) Sales tax authorities (modified form)](https://technet.microsoft.com/library/jj678415\(v=ax.60\))
 
   
 

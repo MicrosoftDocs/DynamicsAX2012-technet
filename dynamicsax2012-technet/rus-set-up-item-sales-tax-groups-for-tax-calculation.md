@@ -2,8 +2,9 @@
 title: (RUS) Set up item sales tax groups for tax calculation
 TOCTitle: (RUS) Set up item sales tax groups for tax calculation
 ms:assetid: a021e163-d375-4f61-ab62-9c64feb5c399
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678540(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678540(v=AX.60)
 ms:contentKeyID: 49387769
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

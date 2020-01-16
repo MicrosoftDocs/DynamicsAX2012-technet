@@ -2,8 +2,9 @@
 title: (RUS) Compare and verify document versions in the Electronic documents list directory
 TOCTitle: (RUS) Compare and verify document versions in the Electronic documents list directory
 ms:assetid: ce7af2ff-1313-4c80-8413-0431003c9b39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677804(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677804(v=AX.60)
 ms:contentKeyID: 49385004
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,11 +42,11 @@ Each document that is stored in the electronic documents list directory can have
 
 ## See also
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
-[(RUS) Version (form)](https://technet.microsoft.com/en-us/library/jj710759\(v=ax.60\))
+[(RUS) Version (form)](https://technet.microsoft.com/library/jj710759\(v=ax.60\))
 
-[(RUS) Select version (form)](https://technet.microsoft.com/en-us/library/jj710679\(v=ax.60\))
+[(RUS) Select version (form)](https://technet.microsoft.com/library/jj710679\(v=ax.60\))
 
 [(RUS) Update an electronic reporting document](rus-update-an-electronic-reporting-document.md)
 

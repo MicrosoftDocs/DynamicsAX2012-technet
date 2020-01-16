@@ -2,8 +2,9 @@
 title: (RUS) Allocate charges according to weight and volume of goods
 TOCTitle: (RUS) Allocate charges according to weight and volume of goods
 ms:assetid: 36911789-1d8c-4760-b20c-9b142d23d5ec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665278(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665278(v=AX.60)
 ms:contentKeyID: 49387367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,7 +47,7 @@ Use this procedure to allocate charges to purchase order lines according to the 
 
 ## See also
 
-[(RUS) Allocate charges (modified form)](https://technet.microsoft.com/en-us/library/jj665432\(v=ax.60\))
+[(RUS) Allocate charges (modified form)](https://technet.microsoft.com/library/jj665432\(v=ax.60\))
 
 [Create a purchase order](create-a-purchase-order.md)
 

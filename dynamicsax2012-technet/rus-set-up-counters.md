@@ -2,8 +2,9 @@
 title: (RUS) Set up counters
 TOCTitle: (RUS) Set up counters
 ms:assetid: fc564312-feb2-4447-aade-2ae83d53b441
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678659(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678659(v=AX.60)
 ms:contentKeyID: 49388141
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -67,11 +68,11 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Counter setup (form)](https://technet.microsoft.com/en-us/library/jj856173\(v=ax.60\))
+[(RUS) Counter setup (form)](https://technet.microsoft.com/library/jj856173\(v=ax.60\))
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
-[(RUS) Copy aisle (form)](https://technet.microsoft.com/en-us/library/jj711606\(v=ax.60\))
+[(RUS) Copy aisle (form)](https://technet.microsoft.com/library/jj711606\(v=ax.60\))
 
 [(RUS) Set up calculation sequences, counters, and deferred expense write-off factors](rus-set-up-calculation-sequences-counters-and-deferred-expense-write-off-factors.md)
 

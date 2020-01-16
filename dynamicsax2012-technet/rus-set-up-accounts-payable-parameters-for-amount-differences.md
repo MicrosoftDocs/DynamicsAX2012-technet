@@ -2,8 +2,9 @@
 title: (RUS) Set up accounts payable parameters for amount differences
 TOCTitle: (RUS) Set up accounts payable parameters for amount differences
 ms:assetid: c2bb785a-ba3c-4dcd-9ab3-1894fdf2d4dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711589(v=AX.60)
 ms:contentKeyID: 49387913
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

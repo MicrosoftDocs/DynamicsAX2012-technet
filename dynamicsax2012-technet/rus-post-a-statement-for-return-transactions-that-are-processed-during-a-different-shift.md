@@ -2,8 +2,9 @@
 title: (RUS) Post a statement for return transactions that are processed during a different shift
 TOCTitle: (RUS) Post a statement for return transactions that are processed during a different shift
 ms:assetid: 530b359c-4901-47fb-a242-fb72a776b860
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716018(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716018(v=AX.60)
 ms:contentKeyID: 62200264
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Retail hierarchy
 TOCTitle: Retail hierarchy
 ms:assetid: 1f46c7fa-f314-423d-a347-615375a050d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580582(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580582(v=AX.60)
 ms:contentKeyID: 39519063
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

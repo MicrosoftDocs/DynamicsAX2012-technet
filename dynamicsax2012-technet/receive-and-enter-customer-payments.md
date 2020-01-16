@@ -2,8 +2,9 @@
 title: Receive and enter customer payments
 TOCTitle: Receive and enter customer payments
 ms:assetid: ca18f661-799e-4c48-a1aa-3309b595b940
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213656(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213656(v=AX.60)
 ms:contentKeyID: 36059329
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

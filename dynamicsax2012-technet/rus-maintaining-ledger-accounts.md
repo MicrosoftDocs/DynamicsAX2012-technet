@@ -2,8 +2,9 @@
 title: (RUS) Maintaining ledger accounts
 TOCTitle: (RUS) Maintaining ledger accounts
 ms:assetid: 7c60e4e5-f5a4-4aef-96c1-1c1f5d356a70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678390(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678390(v=AX.60)
 ms:contentKeyID: 49387621
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

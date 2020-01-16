@@ -2,8 +2,9 @@
 title: Revise the sales tax amount on a transaction before posting
 TOCTitle: Revise the sales tax amount on a transaction before posting
 ms:assetid: 05933dc9-6d90-4139-97e4-802c2802f05f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569715(v=AX.60)
 ms:contentKeyID: 36055955
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -17,7 +18,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 You can change the calculated sales taxes for a journal line, purchase order line, vendor invoice line, sales order line, customer invoice line, or free text invoice line.
 
-1.  Open the **Temporary sales tax transactions** form. For more information, see [Temporary sales tax transactions (form)](https://technet.microsoft.com/en-us/library/aa591455\(v=ax.60\)).
+1.  Open the **Temporary sales tax transactions** form. For more information, see [Temporary sales tax transactions (form)](https://technet.microsoft.com/library/aa591455\(v=ax.60\)).
 
 2.  You can make two kinds of revisions:
     
@@ -41,7 +42,7 @@ You can change the calculated sales taxes for a journal line, purchase order lin
 
 ## See also
 
-[Temporary sales tax transactions (form)](https://technet.microsoft.com/en-us/library/aa591455\(v=ax.60\))
+[Temporary sales tax transactions (form)](https://technet.microsoft.com/library/aa591455\(v=ax.60\))
 
 [Resolve sales tax differences between purchase orders and invoices](resolve-sales-tax-differences-between-purchase-orders-and-invoices.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Fixed asset disposal
 TOCTitle: (RUS) Fixed asset disposal
 ms:assetid: 3b264589-94c1-409e-aa54-e41131a507ca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665298(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665298(v=AX.60)
 ms:contentKeyID: 49387387
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

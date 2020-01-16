@@ -2,8 +2,9 @@
 title: (RUS) Generate a deferrals write-off ratio
 TOCTitle: (RUS) Generate a deferrals write-off ratio
 ms:assetid: 0afc695c-f851-4ceb-996d-5be1b817906d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711379(v=AX.60)
 ms:contentKeyID: 49387198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -105,7 +106,7 @@ To generate a deferrals write-off voucher using the **Linear with factor** metho
 
 ## See also
 
-[(RUS) Writing off methods (form)](https://technet.microsoft.com/en-us/library/jj711659\(v=ax.60\))
+[(RUS) Writing off methods (form)](https://technet.microsoft.com/library/jj711659\(v=ax.60\))
 
   
 

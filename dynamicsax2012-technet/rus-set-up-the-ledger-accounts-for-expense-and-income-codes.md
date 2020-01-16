@@ -2,8 +2,9 @@
 title: (RUS) Set up the ledger accounts for expense and income codes
 TOCTitle: (RUS) Set up the ledger accounts for expense and income codes
 ms:assetid: dff72dd6-4ce3-48fc-a311-5dbe5396264f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711691(v=AX.60)
 ms:contentKeyID: 49388013
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,13 +52,13 @@ You can set up a ledger account for transaction data to be transferred into a sp
 
 ## See also
 
-[(RUS) Expense code and ledger relation (form)](https://technet.microsoft.com/en-us/library/jj839671\(v=ax.60\))
+[(RUS) Expense code and ledger relation (form)](https://technet.microsoft.com/library/jj839671\(v=ax.60\))
 
 [(RUS) Set up account interval groups](rus-set-up-account-interval-groups.md)
 
 [(RUS) Create expense and income codes](rus-create-expense-and-income-codes.md)
 
-[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
+[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/library/jj665243\(v=ax.60\))
 
   
 

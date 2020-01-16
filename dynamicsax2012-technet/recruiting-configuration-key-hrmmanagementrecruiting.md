@@ -2,8 +2,9 @@
 title: Recruiting configuration key (HRMManagementRecruiting)
 TOCTitle: Recruiting configuration key (HRMManagementRecruiting)
 ms:assetid: 0f1b07bf-88e2-4c53-8bdf-1f19a5404b9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433443(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433443(v=AX.60)
 ms:contentKeyID: 36941193
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,15 +38,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Applicant contact information</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589409(v=ax.60)">Applicant (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589409(v=ax.60)">Applicant (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Applicant interviews</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590448(v=ax.60)">Applicant interviews (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590448(v=ax.60)">Applicant interviews (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Applicants</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589409(v=ax.60)">Applicant (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589409(v=ax.60)">Applicant (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Applicants</strong></p></td>
@@ -53,27 +54,27 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Applicants</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa575996(v=ax.60)">People (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa575996(v=ax.60)">People (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Application basket</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa572466(v=ax.60)">Application basket (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa572466(v=ax.60)">Application basket (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Application bookmarks</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa573363(v=ax.60)">Application bookmarks (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa573363(v=ax.60)">Application bookmarks (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Application details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa584838(v=ax.60)">Application (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa584838(v=ax.60)">Application (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Application e-mail templates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616993(v=ax.60)">Application e-mail templates (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616993(v=ax.60)">Application e-mail templates (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Application statistics</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583572(v=ax.60)">Application statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583572(v=ax.60)">Application statistics (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Applications</strong></p></td>
@@ -81,31 +82,31 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Approve application basket records</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209685(v=ax.60)">Approve application basket records (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209685(v=ax.60)">Approve application basket records (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Developments</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618773(v=ax.60)">Developments (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618773(v=ax.60)">Developments (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Application routing</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598738(v=ax.60)">Application routing (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598738(v=ax.60)">Application routing (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Job ads</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585727(v=ax.60)">Job ads (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585727(v=ax.60)">Job ads (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Media types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa574700(v=ax.60)">Media types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa574700(v=ax.60)">Media types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Media</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa549890(v=ax.60)">Advertising media (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa549890(v=ax.60)">Advertising media (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Project media</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582336(v=ax.60)">Project media (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582336(v=ax.60)">Project media (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Open recruitment projects</strong></p></td>
@@ -113,7 +114,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Recruitment project</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583986(v=ax.60)">Recruitment projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583986(v=ax.60)">Recruitment projects (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Recruitment projects</strong></p></td>
@@ -201,7 +202,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReportZone.ReportRecordId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ReportRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReportZone.ReportRecordId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reportzone.reportrecordid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reportzone.reportrecordid(v=AX.60)
 ms:contentKeyID: 62213315
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,8 +58,8 @@ property long long ReportRecordId {
 
 #### Property Value
 
-Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
-Returns [Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\)).  
+Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
+Returns [Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\)).  
 
 ## See Also
 

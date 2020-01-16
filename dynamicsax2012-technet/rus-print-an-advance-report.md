@@ -2,8 +2,9 @@
 title: (RUS) Print an advance report
 TOCTitle: (RUS) Print an advance report
 ms:assetid: c8252711-e8e8-4fcd-8a28-3ec4ebdbeef6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853223(v=AX.60)
 ms:contentKeyID: 50396503
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to print an advance report. You can print an advance report a
 
 ## See also
 
-[(RUS) Advance reports (form)](https://technet.microsoft.com/en-us/library/jj733237\(v=ax.60\))
+[(RUS) Advance reports (form)](https://technet.microsoft.com/library/jj733237\(v=ax.60\))
 
   
 

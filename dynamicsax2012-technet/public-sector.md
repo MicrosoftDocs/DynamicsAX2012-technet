@@ -2,8 +2,9 @@
 title: Public sector
 TOCTitle: Public sector
 ms:assetid: 68ae031c-8648-4c5d-b381-59b203ac38b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208539(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208539(v=AX.60)
 ms:contentKeyID: 36056292
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -66,22 +67,22 @@ Business processes that are common to both the public and private sectors, such 
 <tr class="odd">
 <td><p><a href="fra-key-tasks-administer-purchase-agreements-public-sector.md">(FRA) Key tasks: Administer purchase agreements (Public sector)</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208583(v=ax.60)">Fund types (form) (Public sector)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208583(v=ax.60)">Fund types (form) (Public sector)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="fra-process-purchase-order-encumbrances-and-commitments-at-year-end-public-sector.md">(FRA) Process purchase order encumbrances and commitments at year end (Public sector)</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208514(v=ax.60)">Funds (form) (Public sector)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208514(v=ax.60)">Funds (form) (Public sector)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="generate-and-submit-vendor-payments-public-sector.md">Generate and submit vendor payments (Public sector)</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208496(v=ax.60)">Derived financial hierarchies (form) (Public sector)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208496(v=ax.60)">Derived financial hierarchies (form) (Public sector)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-and-reverse-a-preliminary-budget-public-sector.md">Create and reverse a preliminary budget (Public sector)</a></p></td>
 <td><p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208579(v=ax.60)">Advanced ledger entry (form) (Public sector)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208579(v=ax.60)">Advanced ledger entry (form) (Public sector)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="view-budget-activities-for-apportionments-public-sector.md">View budget activities for apportionments (Public Sector)</a></p></td>

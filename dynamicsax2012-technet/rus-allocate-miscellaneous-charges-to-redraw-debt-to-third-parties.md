@@ -2,8 +2,9 @@
 title: (RUS) Allocate miscellaneous charges to redraw debt to third parties
 TOCTitle: (RUS) Allocate miscellaneous charges to redraw debt to third parties
 ms:assetid: e336bb2f-2bb0-4329-be73-bf94ad0f01dd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853240(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853240(v=AX.60)
 ms:contentKeyID: 50396520
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

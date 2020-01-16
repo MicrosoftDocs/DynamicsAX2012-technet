@@ -2,8 +2,9 @@
 title: Request and issue the letter of guarantee
 TOCTitle: Request and issue the letter of guarantee
 ms:assetid: 81059259-109c-4340-a607-56a0a0b53829
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209308(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209308(v=AX.60)
 ms:contentKeyID: 36058355
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -126,7 +127,7 @@ Click **Project management and accounting** \> **Common** \> **Projects** \> **A
 
 [Liquidate, extend, or cancel a letter of guarantee](liquidate-extend-or-cancel-a-letter-of-guarantee.md)
 
-[Letter of guarantee (form)](https://technet.microsoft.com/en-us/library/hh227662\(v=ax.60\))
+[Letter of guarantee (form)](https://technet.microsoft.com/library/hh227662\(v=ax.60\))
 
 [Increase or decrease the letter of guarantee value](increase-or-decrease-the-letter-of-guarantee-value.md)
 

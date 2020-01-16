@@ -2,8 +2,9 @@
 title: Recruitment projects report (HcmRecruiting)
 TOCTitle: Recruitment projects report (HcmRecruiting)
 ms:assetid: 7e003f49-6f74-40ac-96bc-3625034a6209
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ870692(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ870692(v=AX.60)
 ms:contentKeyID: 50469198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

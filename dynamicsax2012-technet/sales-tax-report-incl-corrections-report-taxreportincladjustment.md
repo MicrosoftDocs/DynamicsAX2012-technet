@@ -2,8 +2,9 @@
 title: Sales tax report incl. corrections report (TaxReportInclAdjustment)
 TOCTitle: Sales tax report incl. corrections report (TaxReportInclAdjustment)
 ms:assetid: f50cd9ca-f501-497b-978d-06f6c3abf9e1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781086(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781086(v=AX.60)
 ms:contentKeyID: 43894494
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

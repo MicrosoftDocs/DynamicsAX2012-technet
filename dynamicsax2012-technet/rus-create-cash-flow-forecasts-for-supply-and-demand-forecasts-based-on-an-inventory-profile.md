@@ -2,8 +2,9 @@
 title: (RUS) Create cash flow forecasts for supply and demand forecasts based on an inventory profile
 TOCTitle: (RUS) Create cash flow forecasts for supply and demand forecasts based on an inventory profile
 ms:assetid: 02d65d1c-a0e1-49d5-884c-453253645ab3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711344(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711344(v=AX.60)
 ms:contentKeyID: 49387162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,9 +28,9 @@ You can create cash flow forecasts for supply and demand forecasts, based on an 
 
 ## See also
 
-[(RUS) Supply forecast (modified form)](https://technet.microsoft.com/en-us/library/jj711423\(v=ax.60\))
+[(RUS) Supply forecast (modified form)](https://technet.microsoft.com/library/jj711423\(v=ax.60\))
 
-[(RUS) Demand forecast (modified form)](https://technet.microsoft.com/en-us/library/jj665449\(v=ax.60\))
+[(RUS) Demand forecast (modified form)](https://technet.microsoft.com/library/jj665449\(v=ax.60\))
 
   
 

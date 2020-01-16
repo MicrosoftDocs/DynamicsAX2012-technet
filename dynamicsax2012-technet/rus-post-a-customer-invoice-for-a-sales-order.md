@@ -2,8 +2,9 @@
 title: (RUS) Post a customer invoice for a sales order
 TOCTitle: (RUS) Post a customer invoice for a sales order
 ms:assetid: 2aa35754-3433-4923-be6c-52ee16efbd8e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853163(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853163(v=AX.60)
 ms:contentKeyID: 50396444
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ You can generate and post a customer invoice for a sales order by using the **Po
 
 ## See also
 
-[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733289\(v=ax.60\))
+[(RUS) Accounts receivable parameters (modified form)](https://technet.microsoft.com/library/jj733289\(v=ax.60\))
 
   
 

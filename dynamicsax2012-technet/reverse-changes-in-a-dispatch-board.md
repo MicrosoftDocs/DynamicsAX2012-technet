@@ -2,8 +2,9 @@
 title: Reverse changes in a dispatch board
 TOCTitle: Reverse changes in a dispatch board
 ms:assetid: 382a13d1-53c4-41c1-942b-ce659eec9c42
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231124(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231124(v=AX.60)
 ms:contentKeyID: 62629944
+author: Khairunj
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ Use the following steps to reverse unsaved changes in a dispatch board:
 
 1.  Click **Service management** \> **Periodic** \> **Dispatch board**.
 
-2.  In the **Dispatch board** form, enter relevant information in the fields, and then click **OK**. For more information, see [Dispatch board (form)](https://technet.microsoft.com/en-us/library/hh242789\(v=ax.60\)).
+2.  In the **Dispatch board** form, enter relevant information in the fields, and then click **OK**. For more information, see [Dispatch board (form)](https://technet.microsoft.com/library/hh242789\(v=ax.60\)).
 
 3.  To reverse the most recent change that is not saved, click **Undo**.
 

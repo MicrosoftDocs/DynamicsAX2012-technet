@@ -2,8 +2,9 @@
 title: (RUS) Set up vacations, business trips, and incentives for the payroll process
 TOCTitle: (RUS) Set up vacations, business trips, and incentives for the payroll process
 ms:assetid: 9469075a-52ae-42dc-bfd0-a31388d2fa55
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435989(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435989(v=AX.60)
 ms:contentKeyID: 56732189
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

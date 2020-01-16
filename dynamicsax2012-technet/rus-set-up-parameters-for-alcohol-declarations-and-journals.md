@@ -2,8 +2,9 @@
 title: (RUS) Set up parameters for alcohol declarations and journals
 TOCTitle: (RUS) Set up parameters for alcohol declarations and journals
 ms:assetid: efe47d6c-54f2-4825-acfb-e083862e52b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn494962(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn494962(v=AX.60)
 ms:contentKeyID: 60513662
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -65,7 +66,7 @@ The following table shows the prerequisites that must be in place before you sta
 </tr>
 <tr class="odd">
 <td><p><strong>Related setup task</strong></p></td>
-<td><p>Set up a unit of measure and a unit conversion for alcohol. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj853235(v=ax.60)">(RUS) Units (modified form)</a> and <a href="https://technet.microsoft.com/en-us/library/hh209285(v=ax.60)">Unit conversions (form)</a>.</p></td>
+<td><p>Set up a unit of measure and a unit conversion for alcohol. For more information, see <a href="https://technet.microsoft.com/library/jj853235(v=ax.60)">(RUS) Units (modified form)</a> and <a href="https://technet.microsoft.com/library/hh209285(v=ax.60)">Unit conversions (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: (RUS) Global address books and address reference data
 TOCTitle: (RUS) Global address books and address reference data
 ms:assetid: 809738f6-b133-4e40-89b4-f16e24787005
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678414(v=AX.60)
 ms:contentKeyID: 49387643
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

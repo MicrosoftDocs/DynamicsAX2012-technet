@@ -2,8 +2,9 @@
 title: Project management and accounting
 TOCTitle: Project management and accounting
 ms:assetid: b5f7f21b-6376-47b4-a0bf-eb00c2887e9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242752(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242752(v=AX.60)
 ms:contentKeyID: 36059086
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -63,33 +64,33 @@ Project managers can view reports that provide project details and analyze proje
 <tbody>
 <tr class="odd">
 <td><p><a href="create-a-project-contract.md">Create a project contract</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599440(v=ax.60)">Project management and accounting parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599440(v=ax.60)">Project management and accounting parameters (form)</a></p></td>
 <td><p><a href="project-cash-flow-report-projcashflowproject.md">Project cash flow report (ProjCashFlowProject)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-a-project.md">Create a project</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557295(v=ax.60)">Project quotation (form)</a></p></td>
 <td><p><a href="project-profit-and-loss-report-projprofitlossproj.md">Project profit and loss report (ProjProfitLossProj)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-a-project-quotation.md">Create a project quotation</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599196(v=ax.60)">Estimate projects (form)</a></p></td>
 <td><p><a href="project-wip-report-projwipproj.md">Project WIP report (ProjWIPProj)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="manage-project-forecasts.md">Manage project forecasts</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586038(v=ax.60)">Project contracts (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586038(v=ax.60)">Project contracts (form)</a></p></td>
 <td><p><a href="category-hour-utilization-billable-rate-report-projbillutilcategory.md">Category hour utilization - billable rate report (ProjBillUtilCategory)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="create-and-submit-an-original-project-budget.md">Create and submit an original project budget</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa585245(v=ax.60)">Projects (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa585245(v=ax.60)">Projects (form)</a></p></td>
 <td><p><a href="worker-hour-utilization-billable-rate-report-projbillutilempl.md">Worker hour utilization - billable rate report (ProjBillUtilEmpl)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="create-and-post-invoice-proposals.md">Create and post invoice proposals</a></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa600958(v=ax.60)">Create invoice proposals (class form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa615408(v=ax.60)">Invoice proposals (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa600958(v=ax.60)">Create invoice proposals (class form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa615408(v=ax.60)">Invoice proposals (form)</a></p></td>
 <td><p></p></td>
 </tr>
 </tbody>

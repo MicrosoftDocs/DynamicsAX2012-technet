@@ -2,8 +2,9 @@
 title: (RUS) Set up composite cell type requisites
 TOCTitle: (RUS) Set up composite cell type requisites
 ms:assetid: 12330976-f99e-4933-b7d3-1c1dfb300cf4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677460(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677460(v=AX.60)
 ms:contentKeyID: 49384763
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ A composite requisite is a value that is generated from several cell groups that
 
 5.  In the **Requisite** and **Description** fields, enter a requisite code and a description for the requisite. The **Attribute** field is updated with the XML attribute name. You can change the name if a different name is required.
 
-6.  In the **Data type** and **Output type** fields, select the data type and output type of the requisite. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\)).
+6.  In the **Data type** and **Output type** fields, select the data type and output type of the requisite. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\)).
 
 7.  In the **Extended data type** field, select the extended data type to verify the value of the requisite that is imported.
 
@@ -57,9 +58,9 @@ After you create the lines, you can arrange them in the correct order. Select a 
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 

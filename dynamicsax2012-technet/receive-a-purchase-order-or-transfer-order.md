@@ -2,8 +2,9 @@
 title: Receive a purchase order or transfer order
 TOCTitle: Receive a purchase order or transfer order
 ms:assetid: 0cab3a42-089b-4c72-8933-c5dd967cee36
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352234(v=AX.60)
 ms:contentKeyID: 36687860
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

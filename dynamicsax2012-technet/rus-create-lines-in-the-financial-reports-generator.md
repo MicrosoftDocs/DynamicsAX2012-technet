@@ -2,8 +2,9 @@
 title: (RUS) Create lines in the Financial reports generator
 TOCTitle: (RUS) Create lines in the Financial reports generator
 ms:assetid: 062c7e61-0114-4339-a4eb-e016fd487471
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ911229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ911229(v=AX.60)
 ms:contentKeyID: 52075344
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,13 +36,13 @@ Use the **Document templates** form to create lines in the financial reports gen
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Create or update FRG lines (form)](https://technet.microsoft.com/en-us/library/jj911375\(v=ax.60\))
+[(RUS) Create or update FRG lines (form)](https://technet.microsoft.com/library/jj911375\(v=ax.60\))
 
-[(EEUR) Report (form)](https://technet.microsoft.com/en-us/library/jj911237\(v=ax.60\))
+[(EEUR) Report (form)](https://technet.microsoft.com/library/jj911237\(v=ax.60\))
 
-[(EEUR) Field setup (form)](https://technet.microsoft.com/en-us/library/jj910976\(v=ax.60\))
+[(EEUR) Field setup (form)](https://technet.microsoft.com/library/jj910976\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 

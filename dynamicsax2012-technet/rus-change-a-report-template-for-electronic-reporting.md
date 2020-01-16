@@ -2,8 +2,9 @@
 title: (RUS) Change a report template for electronic reporting
 TOCTitle: (RUS) Change a report template for electronic reporting
 ms:assetid: bf3b5a5b-a575-4920-b2f4-650499f1c496
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677683(v=AX.60)
 ms:contentKeyID: 49384984
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -46,11 +47,11 @@ Use the **Document templates** form to change a report template for electronic r
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Changes report (form)](https://technet.microsoft.com/en-us/library/jj923559\(v=ax.60\))
+[(RUS) Changes report (form)](https://technet.microsoft.com/library/jj923559\(v=ax.60\))
 
-[(RUS) Periods of formats application (form)](https://technet.microsoft.com/en-us/library/jj710684\(v=ax.60\))
+[(RUS) Periods of formats application (form)](https://technet.microsoft.com/library/jj710684\(v=ax.60\))
 
 [(RUS) Set up the periods of formats application directory](rus-set-up-the-periods-of-formats-application-directory.md)
 

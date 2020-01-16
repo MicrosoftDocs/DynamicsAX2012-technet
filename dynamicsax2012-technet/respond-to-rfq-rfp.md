@@ -2,8 +2,9 @@
 title: Respond to RFQ/RFP
 TOCTitle: Respond to RFQ/RFP
 ms:assetid: 93c2e0d2-25c3-4359-bbfe-025ebf66101c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232197(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232197(v=AX.60)
 ms:contentKeyID: 36058587
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

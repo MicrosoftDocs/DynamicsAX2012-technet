@@ -2,8 +2,9 @@
 title: Run inventory close
 TOCTitle: Run inventory close
 ms:assetid: a16d1e1d-139e-4d37-966b-8de222be51f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213391(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213391(v=AX.60)
 ms:contentKeyID: 36058784
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,7 +48,7 @@ After the inventory close has been completed, the results are reported in the **
 
 [Reverse a completed inventory close](reverse-a-completed-inventory-close.md)
 
-[Close inventory (form)](https://technet.microsoft.com/en-us/library/aa619451\(v=ax.60\))
+[Close inventory (form)](https://technet.microsoft.com/library/aa619451\(v=ax.60\))
 
   
 

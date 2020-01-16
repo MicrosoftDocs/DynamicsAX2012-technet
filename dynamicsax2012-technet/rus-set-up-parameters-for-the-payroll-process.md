@@ -2,8 +2,9 @@
 title: (RUS) Set up parameters for the payroll process
 TOCTitle: (RUS) Set up parameters for the payroll process
 ms:assetid: d3cf7add-5ac7-433d-8b92-226bb98f9459
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn435990(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn435990(v=AX.60)
 ms:contentKeyID: 56732190
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

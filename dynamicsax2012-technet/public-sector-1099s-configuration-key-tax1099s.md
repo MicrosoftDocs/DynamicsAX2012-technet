@@ -2,8 +2,9 @@
 title: Public sector 1099S configuration key (Tax1099S)
 TOCTitle: Public sector 1099S configuration key (Tax1099S)
 ms:assetid: 256f91ee-26da-460e-82fc-3cc396c11f92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh450726(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh450726(v=AX.60)
 ms:contentKeyID: 36966662
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -57,7 +58,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

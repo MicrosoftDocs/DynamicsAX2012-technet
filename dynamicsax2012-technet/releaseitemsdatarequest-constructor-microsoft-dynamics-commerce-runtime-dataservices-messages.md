@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReleaseItemsDataRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages)
 TOCTitle: ReleaseItemsDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseItemsDataRequest.#ctor(System.Collections.Generic.IEnumerable{System.Guid})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.messages.releaseitemsdatarequest.releaseitemsdatarequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.releaseitemsdatarequest.releaseitemsdatarequest(v=AX.60)
 ms:contentKeyID: 65319549
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ ReleaseItemsDataRequest(
 #### Parameters
 
   - reservationIds  
-    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Guid](https://technet.microsoft.com/en-us/library/cey1zx63\(v=ax.60\))\>  
+    Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Guid](https://technet.microsoft.com/library/cey1zx63\(v=ax.60\))\>  
 
 ## See Also
 

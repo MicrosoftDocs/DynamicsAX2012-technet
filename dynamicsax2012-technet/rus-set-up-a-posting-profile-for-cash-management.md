@@ -2,8 +2,9 @@
 title: (RUS) Set up a posting profile for cash management
 TOCTitle: (RUS) Set up a posting profile for cash management
 ms:assetid: 7e2d87cd-a228-4643-a554-4d233c773cec
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678402(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678402(v=AX.60)
 ms:contentKeyID: 49387632
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ The ledger posting profile defines cash management posting in ledger accounts. A
 
 ## See also
 
-[(RUS) Cash accounts (form)](https://technet.microsoft.com/en-us/library/jj665230\(v=ax.60\))
+[(RUS) Cash accounts (form)](https://technet.microsoft.com/library/jj665230\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Set up tax benefit codes
 TOCTitle: (RUS) Set up tax benefit codes
 ms:assetid: fb271879-9c9d-49f0-bab4-715fd790d2d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678644(v=AX.60)
 ms:contentKeyID: 49388126
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ You can create tax benefit codes for fixed assets and then enter a privilege val
 
 ## See also
 
-[(RUS) Assessed tax (form)](https://technet.microsoft.com/en-us/library/jj856180\(v=ax.60\))
+[(RUS) Assessed tax (form)](https://technet.microsoft.com/library/jj856180\(v=ax.60\))
 
   
 

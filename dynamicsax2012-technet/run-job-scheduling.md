@@ -2,8 +2,9 @@
 title: Run job scheduling
 TOCTitle: Run job scheduling
 ms:assetid: c44f11cd-4386-4868-806f-29c3370ad012
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550725(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550725(v=AX.60)
 ms:contentKeyID: 43976726
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -24,7 +25,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Job scheduling breaks each operation into individual jobs. These jobs are associated with the resources where the operation occurs, and are scheduled by using the optimal dates and times.
 
-If you specify resource groups, job scheduling uses the resource that has the shortest lead time. For more information, see [Production - Job scheduling (class form)](https://technet.microsoft.com/en-us/library/aa584348\(v=ax.60\)) and [Set up job scheduling (form)](https://technet.microsoft.com/en-us/library/aa553462\(v=ax.60\)).
+If you specify resource groups, job scheduling uses the resource that has the shortest lead time. For more information, see [Production - Job scheduling (class form)](https://technet.microsoft.com/library/aa584348\(v=ax.60\)) and [Set up job scheduling (form)](https://technet.microsoft.com/library/aa553462\(v=ax.60\)).
 
 1.  Click **Production control** \> **Periodic** \> **Scheduling** \> **Job scheduling**.
 

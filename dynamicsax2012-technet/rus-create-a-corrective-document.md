@@ -2,8 +2,9 @@
 title: (RUS) Create a corrective document
 TOCTitle: (RUS) Create a corrective document
 ms:assetid: 30280655-3038-4b29-832a-f52cee7b3762
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677497(v=AX.60)
 ms:contentKeyID: 49384801
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,9 +46,9 @@ You can create a corrective document to correct a document that is returned by t
 
 [(RUS) Export an electronic reporting document](rus-export-an-electronic-reporting-document.md)
 
-[(RUS) Documents (form)](https://technet.microsoft.com/en-us/library/jj852139\(v=ax.60\))
+[(RUS) Documents (form)](https://technet.microsoft.com/library/jj852139\(v=ax.60\))
 
-[(RUS) Create correction (form)](https://technet.microsoft.com/en-us/library/jj710782\(v=ax.60\))
+[(RUS) Create correction (form)](https://technet.microsoft.com/library/jj710782\(v=ax.60\))
 
 [(RUS) Import data from the Financial reports generator report](rus-import-data-from-the-financial-reports-generator-report.md)
 

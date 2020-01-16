@@ -2,8 +2,9 @@
 title: Report and track sales opportunities
 TOCTitle: Report and track sales opportunities
 ms:assetid: 14938402-aa17-42a2-b0ec-cf9577cb0755
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230948(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230948(v=AX.60)
 ms:contentKeyID: 36056055
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

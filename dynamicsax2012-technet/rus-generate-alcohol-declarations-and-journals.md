@@ -2,8 +2,9 @@
 title: (RUS) Generate alcohol declarations and journals
 TOCTitle: (RUS) Generate alcohol declarations and journals
 ms:assetid: 3993b5ae-f8d8-4ba1-8be9-7be1546eb72a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn494963(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn494963(v=AX.60)
 ms:contentKeyID: 60513661
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

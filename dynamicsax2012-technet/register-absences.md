@@ -2,8 +2,9 @@
 title: Register absences
 TOCTitle: Register absences
 ms:assetid: 5452a64b-ff46-4f87-a65c-dca5f5170c46
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548933(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548933(v=AX.60)
 ms:contentKeyID: 42117757
+author: Khairunj
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -105,19 +106,19 @@ Also, you can only register absences for the workers whom you are the absence ad
 
 When you record an absence request or an absence registration for multiple-day absences, instead of entering each absence separately, you can click **Create series** in any of the following forms to create the consecutive absences at the same time:
 
-  - [Register absences for multiple workers (form)](https://technet.microsoft.com/en-us/library/aa554509\(v=ax.60\))
+  - [Register absences for multiple workers (form)](https://technet.microsoft.com/library/aa554509\(v=ax.60\))
 
-  - [Request future absences (form)](https://technet.microsoft.com/en-us/library/aa556621\(v=ax.60\))
+  - [Request future absences (form)](https://technet.microsoft.com/library/aa556621\(v=ax.60\))
 
-  - [Absence registration (form)](https://technet.microsoft.com/en-us/library/aa585058\(v=ax.60\))
+  - [Absence registration (form)](https://technet.microsoft.com/library/aa585058\(v=ax.60\))
 
 ## See also
 
 [Manage absence in Human resources](manage-absence-in-human-resources.md)
 
-[Register absences for multiple workers (form)](https://technet.microsoft.com/en-us/library/aa554509\(v=ax.60\))
+[Register absences for multiple workers (form)](https://technet.microsoft.com/library/aa554509\(v=ax.60\))
 
-[Request future absences (form)](https://technet.microsoft.com/en-us/library/aa556621\(v=ax.60\))
+[Request future absences (form)](https://technet.microsoft.com/library/aa556621\(v=ax.60\))
 
   
 

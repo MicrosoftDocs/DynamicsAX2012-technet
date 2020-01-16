@@ -2,8 +2,9 @@
 title: (RUS) Dispose of deferrals vouchers
 TOCTitle: (RUS) Dispose of deferrals vouchers
 ms:assetid: 14fc4f68-8b8a-4c11-90fb-85108c03fa5d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711414(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711414(v=AX.60)
 ms:contentKeyID: 49387232
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa552517(v=ax.60)">Journal names setup (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa552517(v=ax.60)">Journal names setup (form)</A>.</P>
 
 
 
@@ -49,7 +50,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
     
 
     > [!NOTE]
-    > <P>For more information, see <A href="https://technet.microsoft.com/en-us/library/aa557917(v=ax.60)">Journal header (form)</A>.</P>
+    > <P>For more information, see <A href="https://technet.microsoft.com/library/aa557917(v=ax.60)">Journal header (form)</A>.</P>
 
 
 
@@ -103,7 +104,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Create new line (form)](https://technet.microsoft.com/en-us/library/jj678398\(v=ax.60\))
+[(RUS) Create new line (form)](https://technet.microsoft.com/library/jj678398\(v=ax.60\))
 
   
 

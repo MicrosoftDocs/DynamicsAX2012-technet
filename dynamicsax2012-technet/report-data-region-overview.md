@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Data Region Overview
 TOCTitle: Report Data Region Overview
 ms:assetid: 9e10aca4-354c-4834-ad0d-5ab49ffb2613
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc615429(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc615429(v=AX.60)
 ms:contentKeyID: 28119554
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

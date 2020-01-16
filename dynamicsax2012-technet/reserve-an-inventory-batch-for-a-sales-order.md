@@ -2,8 +2,9 @@
 title: Reserve an inventory batch for a sales order
 TOCTitle: Reserve an inventory batch for a sales order
 ms:assetid: 95e4aadd-42d4-4220-ae07-8f8e6f04dfd0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352305(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352305(v=AX.60)
 ms:contentKeyID: 36687933
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -40,9 +41,9 @@ Use this procedure to reserve on-hand inventory batches for a sales order. This 
 
 ## See also
 
-[Batch reservation (form)](https://technet.microsoft.com/en-us/library/hh208645\(v=ax.60\))
+[Batch reservation (form)](https://technet.microsoft.com/library/hh208645\(v=ax.60\))
 
-[Sales orders (form)](https://technet.microsoft.com/en-us/library/aa585863\(v=ax.60\))
+[Sales orders (form)](https://technet.microsoft.com/library/aa585863\(v=ax.60\))
 
   
 

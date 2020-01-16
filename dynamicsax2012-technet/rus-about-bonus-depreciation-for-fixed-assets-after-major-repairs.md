@@ -2,8 +2,9 @@
 title: (RUS) About bonus depreciation for fixed assets after major repairs
 TOCTitle: (RUS) About bonus depreciation for fixed assets after major repairs
 ms:assetid: 28b96178-b7ab-4c85-ba81-47ab89c47970
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923267(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923267(v=AX.60)
 ms:contentKeyID: 52075358
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReceiptItemInfo.FontStyle Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: FontStyle Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptItemInfo.FontStyle
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.receiptiteminfo.fontstyle(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.receiptiteminfo.fontstyle(v=AX.60)
 ms:contentKeyID: 62210812
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,7 +53,7 @@ property FontStyle FontStyle {
 #### Property Value
 
 Type: [Microsoft.Dynamics.Commerce.Runtime.DataModel.FontStyle](fontstyle-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md)  
-Returns [FontStyle](https://technet.microsoft.com/en-us/library/b0243572\(v=ax.60\)).  
+Returns [FontStyle](https://technet.microsoft.com/library/b0243572\(v=ax.60\)).  
 
 ## See Also
 

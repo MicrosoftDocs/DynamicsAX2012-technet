@@ -2,8 +2,9 @@
 title: (RUS) Setting up inventory profiles
 TOCTitle: (RUS) Setting up inventory profiles
 ms:assetid: a4515263-0c70-4458-ae2b-92c18f0aa35e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678565(v=AX.60)
 ms:contentKeyID: 49387793
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

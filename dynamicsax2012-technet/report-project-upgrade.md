@@ -1,9 +1,10 @@
-﻿---
+---
 title: Report Project Upgrade
 TOCTitle: Report Project Upgrade
 ms:assetid: b7a7535b-11c7-4ebb-8d88-172bb9577b32
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh292607(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh292607(v=AX.60)
 ms:contentKeyID: 36655946
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment
 TOCTitle: (RUS) Create profit or loss transactions for a currency conversion or transfer and exchange adjustment
 ms:assetid: 9a302a8e-29c6-49f0-bb32-bfc1b078e839
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923565(v=AX.60)
 ms:contentKeyID: 52075412
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -30,7 +31,7 @@ Use this procedure to create a profit or loss transaction for a currency convers
 
 1.  Click **Cash and bank management** \> **Setup** \> **Bank groups**.
 
-2.  Select a bank line, and then click **Functions** \> **Settle open transactions** to open the **Settle open transactions** form. For more information, see [Open vendor transactions (form)](https://technet.microsoft.com/en-us/library/aa551813\(v=ax.60\)).
+2.  Select a bank line, and then click **Functions** \> **Settle open transactions** to open the **Settle open transactions** form. For more information, see [Open vendor transactions (form)](https://technet.microsoft.com/library/aa551813\(v=ax.60\)).
 
 3.  In the **Settlement posting date** field, select the settlement posting date.
 
@@ -42,11 +43,11 @@ Use this procedure to create a profit or loss transaction for a currency convers
     
       - The conversion currency that is specified for the currency charge-off must match the currency that is specified for the currency-earned transaction.
     
-    Use the **Vendor transactions** form to verify the amount of the vendor transactions. For more information, see [Vendor transactions (form)](https://technet.microsoft.com/en-us/library/aa572427\(v=ax.60\)).
+    Use the **Vendor transactions** form to verify the amount of the vendor transactions. For more information, see [Vendor transactions (form)](https://technet.microsoft.com/library/aa572427\(v=ax.60\)).
 
 5.  Close the **Settle open transactions** form.
 
-6.  In the **Banks** form, click **Functions** \> **Closed transaction editing** to open the **Closed transaction editing in several currencies** form. You can view and reverse transactions that have been settled. For more information, see [Closed vendor transaction editing in several currencies (form)](https://technet.microsoft.com/en-us/library/aa556371\(v=ax.60\)).
+6.  In the **Banks** form, click **Functions** \> **Closed transaction editing** to open the **Closed transaction editing in several currencies** form. You can view and reverse transactions that have been settled. For more information, see [Closed vendor transaction editing in several currencies (form)](https://technet.microsoft.com/library/aa556371\(v=ax.60\)).
 
 7.  In the **Settlement reversal posting date** field, select the settlement reversal posting date for the transaction. Select the **Mark** check box for any transactions that must be reversed.
 
@@ -58,7 +59,7 @@ Use this procedure to create a profit or loss transaction for a currency convers
 
 [Reverse settlements](reverse-settlements.md)
 
-[(RUS) Banks (form)](https://technet.microsoft.com/en-us/library/jj856183\(v=ax.60\))
+[(RUS) Banks (form)](https://technet.microsoft.com/library/jj856183\(v=ax.60\))
 
   
 

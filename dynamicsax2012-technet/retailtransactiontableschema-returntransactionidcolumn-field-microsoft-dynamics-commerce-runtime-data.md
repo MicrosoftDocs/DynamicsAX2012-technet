@@ -1,9 +1,10 @@
-﻿---
+---
 title: RetailTransactionTableSchema.ReturnTransactionIdColumn Field (Microsoft.Dynamics.Commerce.Runtime.Data)
 TOCTitle: ReturnTransactionIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.ReturnTransactionIdColumn
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.returntransactionidcolumn(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.returntransactionidcolumn(v=AX.60)
 ms:contentKeyID: 65321662
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

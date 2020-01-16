@@ -2,8 +2,9 @@
 title: (RUS) Receiving products
 TOCTitle: (RUS) Receiving products
 ms:assetid: bb9b45ce-34ee-4fcc-be61-a5b773df3ddc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711550(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711550(v=AX.60)
 ms:contentKeyID: 49387876
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

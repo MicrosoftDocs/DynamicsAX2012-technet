@@ -2,8 +2,9 @@
 title: (RUS) Create and post a storno transfer journal by copying journals
 TOCTitle: (RUS) Create and post a storno transfer journal by copying journals
 ms:assetid: 05a1a672-1696-47cb-a930-dbf2861d97eb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711354(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711354(v=AX.60)
 ms:contentKeyID: 49387172
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -19,7 +20,7 @@ To reverse an entry for a transfer journal, you can use the **Copy** function.
 
 1.  Click **Inventory management** \> **Journals** \> **Item transactions** \> **Transfer**.
 
-2.  Create and post an inventory journal. For more information about inventory journals, see [Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\)).
+2.  Create and post an inventory journal. For more information about inventory journals, see [Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\)).
 
 3.  Select the posted journal to correct, and then click **Functions** \> **Copy** to open the **Copy lines to a new journal** form. The **Journal** field displays the journal number of the posted journal. You can modify the journal number, if a new number is required.
 
@@ -67,13 +68,13 @@ To reverse an entry for a transfer journal, you can use the **Copy** function.
 
 ## See also
 
-[Copy lines to a new journal (form)](https://technet.microsoft.com/en-us/library/aa498918\(v=ax.60\))
+[Copy lines to a new journal (form)](https://technet.microsoft.com/library/aa498918\(v=ax.60\))
 
-[(RUS) Copy lines to a new journal (modified form)](https://technet.microsoft.com/en-us/library/jj711455\(v=ax.60\))
+[(RUS) Copy lines to a new journal (modified form)](https://technet.microsoft.com/library/jj711455\(v=ax.60\))
 
-[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/en-us/library/aa587291\(v=ax.60\))
+[Journal lines, Inventory transfer (form)](https://technet.microsoft.com/library/aa587291\(v=ax.60\))
 
-[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/en-us/library/jj665257\(v=ax.60\))
+[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/library/jj665257\(v=ax.60\))
 
   
 

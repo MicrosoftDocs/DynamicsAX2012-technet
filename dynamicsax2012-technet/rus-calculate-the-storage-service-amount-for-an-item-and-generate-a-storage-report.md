@@ -2,8 +2,9 @@
 title: (RUS) Calculate the storage service amount for an item and generate a storage report
 TOCTitle: (RUS) Calculate the storage service amount for an item and generate a storage report
 ms:assetid: bbcd4309-9cb4-406e-9fa6-59e8ef0ca5f9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853219(v=AX.60)
 ms:contentKeyID: 50396500
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,13 +36,13 @@ Use the **Storage calculation operations** form to calculate the storage service
     
     In the **Storage calculation operations** form, on the **General** tab, the **Currency** field displays the currency code as defined by the International Organization for Standardization (ISO).
 
-7.  Click **Lines** to open the **Lines of storage calculation operation** form. You can delete the lines of operation. You can also run the procedure for calculating operations lines of storage again by using a different set of criteria. For more information, see [(RUS) Lines of storage calculation operation (form)](https://technet.microsoft.com/en-us/library/jj856119\(v=ax.60\)).
+7.  Click **Lines** to open the **Lines of storage calculation operation** form. You can delete the lines of operation. You can also run the procedure for calculating operations lines of storage again by using a different set of criteria. For more information, see [(RUS) Lines of storage calculation operation (form)](https://technet.microsoft.com/library/jj856119\(v=ax.60\)).
 
 8.  Click **Print** \> **Storage report** to generate the storage report. You can also create a storage transaction journal by using the **Operation of storage calculation** form.
 
 ## See also
 
-[(RUS) Storage calculation operations (form)](https://technet.microsoft.com/en-us/library/jj678512\(v=ax.60\))
+[(RUS) Storage calculation operations (form)](https://technet.microsoft.com/library/jj678512\(v=ax.60\))
 
   
 

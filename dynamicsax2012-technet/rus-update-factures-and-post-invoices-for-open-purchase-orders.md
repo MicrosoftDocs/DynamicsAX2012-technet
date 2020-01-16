@@ -2,8 +2,9 @@
 title: (RUS) Update factures and post invoices for open purchase orders
 TOCTitle: (RUS) Update factures and post invoices for open purchase orders
 ms:assetid: b0c84ded-ddc6-4327-ac23-8f18b6380455
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853217(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853217(v=AX.60)
 ms:contentKeyID: 50396499
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,9 +46,9 @@ You can post purchase order invoices that are based on packing slips that includ
 
 ## See also
 
-[Open vendor invoices (list page)](https://technet.microsoft.com/en-us/library/hh454986\(v=ax.60\))
+[Open vendor invoices (list page)](https://technet.microsoft.com/library/hh454986\(v=ax.60\))
 
-[Select product receipt - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh597253\(v=ax.60\))
+[Select product receipt - Purchase order (form)](https://technet.microsoft.com/library/hh597253\(v=ax.60\))
 
   
 

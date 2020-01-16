@@ -2,8 +2,9 @@
 title: Sales order deliveries
 TOCTitle: Sales order deliveries
 ms:assetid: 0753a429-b28a-42fb-a4af-0d920af922bf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569724(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569724(v=AX.60)
 ms:contentKeyID: 36055968
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

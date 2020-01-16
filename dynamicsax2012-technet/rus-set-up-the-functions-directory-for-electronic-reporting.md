@@ -2,8 +2,9 @@
 title: (RUS) Set up the functions directory for electronic reporting
 TOCTitle: (RUS) Set up the functions directory for electronic reporting
 ms:assetid: a4ea6b5e-f7da-4a85-a21d-2477417fff98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677638(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677638(v=AX.60)
 ms:contentKeyID: 49384941
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -106,7 +107,7 @@ Use the following procedure to set up the functions directory for electronic rep
 
 6.  On the **Type of transactions** tab, do the following:
     
-      - In the **Type of operation** field, select the type of operation. For more information, see [(RUS) Query function setup (form)](https://technet.microsoft.com/en-us/library/jj923571\(v=ax.60\)).
+      - In the **Type of operation** field, select the type of operation. For more information, see [(RUS) Query function setup (form)](https://technet.microsoft.com/library/jj923571\(v=ax.60\)).
     
       - In the **Balance type** field, select a balance type.
         
@@ -206,13 +207,13 @@ After you create the lines, you can arrange them in the correct order. Select a 
 
 ## See also
 
-[(RUS) Functions (form)](https://technet.microsoft.com/en-us/library/jj710703\(v=ax.60\))
+[(RUS) Functions (form)](https://technet.microsoft.com/library/jj710703\(v=ax.60\))
 
-[(RUS) Query function setup (form)](https://technet.microsoft.com/en-us/library/jj923571\(v=ax.60\))
+[(RUS) Query function setup (form)](https://technet.microsoft.com/library/jj923571\(v=ax.60\))
 
-[(EEUR) Account interval (form)](https://technet.microsoft.com/en-us/library/jj710790\(v=ax.60\))
+[(EEUR) Account interval (form)](https://technet.microsoft.com/library/jj710790\(v=ax.60\))
 
-[(EEUR) Query wizard (form)](https://technet.microsoft.com/en-us/library/jj710772\(v=ax.60\))
+[(EEUR) Query wizard (form)](https://technet.microsoft.com/library/jj710772\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Print customer acceptance reports
 TOCTitle: (RUS) Print customer acceptance reports
 ms:assetid: 13d2705e-4134-4cc3-bddd-7b1daa20aaed
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711408(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711408(v=AX.60)
 ms:contentKeyID: 49387226
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,9 +51,9 @@ Use this procedure to print customer acceptance reports.
 
 ## See also
 
-[Open customer invoices (list page)](https://technet.microsoft.com/en-us/library/hh454994\(v=ax.60\))
+[Open customer invoices (list page)](https://technet.microsoft.com/library/hh454994\(v=ax.60\))
 
-[Print customer invoice (form)](https://technet.microsoft.com/en-us/library/hh242517\(v=ax.60\))
+[Print customer invoice (form)](https://technet.microsoft.com/library/hh242517\(v=ax.60\))
 
   
 

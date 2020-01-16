@@ -2,8 +2,9 @@
 title: (RUS) Set up advance adjustment parameters for advance holders
 TOCTitle: (RUS) Set up advance adjustment parameters for advance holders
 ms:assetid: 8d87ae88-39cf-4e5d-a50d-a932b6aae78c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853204(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853204(v=AX.60)
 ms:contentKeyID: 50396485
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,7 +22,7 @@ When you settle advance payments and advance reports, the advance adjustment tra
 
 Complete the following tasks before you settle advances that are issued to an advance holder:
 
-1.  Set up an advance holder. For more information, see [(RUS) Set up the advance holder](rus-set-up-the-advance-holder.md) and [(RUS) Advance holders (form)](https://technet.microsoft.com/en-us/library/jj665294\(v=ax.60\)).
+1.  Set up an advance holder. For more information, see [(RUS) Set up the advance holder](rus-set-up-the-advance-holder.md) and [(RUS) Advance holders (form)](https://technet.microsoft.com/library/jj665294\(v=ax.60\)).
 
 2.  Set up general ledger parameters for exchange adjustment.
 
@@ -59,7 +60,7 @@ Use the following procedure to set up advance adjustment parameters for advance 
 
 ## See also
 
-[(RUS) Advance adjustment parameters (form)](https://technet.microsoft.com/en-us/library/jj853184\(v=ax.60\))
+[(RUS) Advance adjustment parameters (form)](https://technet.microsoft.com/library/jj853184\(v=ax.60\))
 
   
 

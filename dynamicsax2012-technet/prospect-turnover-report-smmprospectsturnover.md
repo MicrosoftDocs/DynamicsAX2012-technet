@@ -2,8 +2,9 @@
 title: Prospect turnover report (smmProspectsTurnover)
 TOCTitle: Prospect turnover report (smmProspectsTurnover)
 ms:assetid: eb060504-d349-4292-8875-acde6df6bf18
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa839530(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa839530(v=AX.60)
 ms:contentKeyID: 36916371
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

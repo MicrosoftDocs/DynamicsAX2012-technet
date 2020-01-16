@@ -2,8 +2,9 @@
 title: (RUS) Calculate assessed tax and generate an assessed tax declaration
 TOCTitle: (RUS) Calculate assessed tax and generate an assessed tax declaration
 ms:assetid: eee43154-913e-4e38-8a4c-6061baf6b778
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678599(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678599(v=AX.60)
 ms:contentKeyID: 49388081
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ Use the **Print assessed tax declaration** form to generate a declaration of ass
 
 ## See also
 
-[(RUS) Print assessed tax declaration (form)](https://technet.microsoft.com/en-us/library/jj711475\(v=ax.60\))
+[(RUS) Print assessed tax declaration (form)](https://technet.microsoft.com/library/jj711475\(v=ax.60\))
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
 [(RUS) Calculate assessed tax registers](rus-calculate-assessed-tax-registers.md)
 

@@ -2,8 +2,9 @@
 title: (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal
 TOCTitle: (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal
 ms:assetid: ae3d8f22-9789-4a19-a58e-cdf3387f42cc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923578(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923578(v=AX.60)
 ms:contentKeyID: 52075424
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,11 +72,11 @@ Use this procedure to print the not valuable fixed asset (NVFA) Statement of wri
 
 ## See also
 
-[(RUS) Special rigging (form)](https://technet.microsoft.com/en-us/library/jj923264\(v=ax.60\))
+[(RUS) Special rigging (form)](https://technet.microsoft.com/library/jj923264\(v=ax.60\))
 
-[(RUS) Working clothes (form)](https://technet.microsoft.com/en-us/library/jj923545\(v=ax.60\))
+[(RUS) Working clothes (form)](https://technet.microsoft.com/library/jj923545\(v=ax.60\))
 
-[(RUS) Not valuable FAs (form)](https://technet.microsoft.com/en-us/library/jj911484\(v=ax.60\))
+[(RUS) Not valuable FAs (form)](https://technet.microsoft.com/library/jj911484\(v=ax.60\))
 
   
 

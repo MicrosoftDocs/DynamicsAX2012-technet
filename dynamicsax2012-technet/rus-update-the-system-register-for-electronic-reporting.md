@@ -2,8 +2,9 @@
 title: (RUS) Update the system register for electronic reporting
 TOCTitle: (RUS) Update the system register for electronic reporting
 ms:assetid: 398e591d-6bf4-438b-8ab2-a877abe15182
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ894654(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ894654(v=AX.60)
 ms:contentKeyID: 52075366
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ Use the following procedure to update the system register on a computer that is 
 
 ## See also
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
   
 

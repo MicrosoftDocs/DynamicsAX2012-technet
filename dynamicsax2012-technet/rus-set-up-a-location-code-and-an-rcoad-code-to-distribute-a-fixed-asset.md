@@ -2,8 +2,9 @@
 title: (RUS) Set up a location code and an RCOAD code to distribute a fixed asset
 TOCTitle: (RUS) Set up a location code and an RCOAD code to distribute a fixed asset
 ms:assetid: 9a6b7f48-4783-4a1d-a729-07e86205ed8b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678524(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678524(v=AX.60)
 ms:contentKeyID: 49387753
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ Use the **Distribution** form to set up a location code and a Russian Classifica
 
 ## See also
 
-[(RUS) Distribution (form)](https://technet.microsoft.com/en-us/library/jj678526\(v=ax.60\))
+[(RUS) Distribution (form)](https://technet.microsoft.com/library/jj678526\(v=ax.60\))
 
   
 

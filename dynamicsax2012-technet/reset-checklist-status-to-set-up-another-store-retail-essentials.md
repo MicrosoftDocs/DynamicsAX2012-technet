@@ -2,8 +2,9 @@
 title: Reset checklist status to set up another store (Retail essentials)
 TOCTitle: Reset checklist status to set up another store (Retail essentials)
 ms:assetid: 9c603eb2-1a13-4ff1-b9c9-504f051034a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn736922(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn736922(v=AX.60)
 ms:contentKeyID: 62200395
+author: Khairunj
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

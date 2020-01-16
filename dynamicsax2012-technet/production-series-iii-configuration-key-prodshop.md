@@ -2,8 +2,9 @@
 title: Production Series III configuration key (ProdShop)
 TOCTitle: Production Series III configuration key (ProdShop)
 ms:assetid: c8081b18-4fe7-47d7-8f93-b0df06d8aef0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa618866(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa618866(v=AX.60)
 ms:contentKeyID: 37072013
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Jobs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556608(v=ax.60)">Planned production jobs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556608(v=ax.60)">Planned production jobs (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -67,38 +68,38 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Job scheduling</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553462(v=ax.60)">Set up job scheduling (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/aa584348(v=ax.60)">Production - Job scheduling (class form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553462(v=ax.60)">Set up job scheduling (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/aa584348(v=ax.60)">Production - Job scheduling (class form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Dispatching</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa552714(v=ax.60)">Dispatching (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa552714(v=ax.60)">Dispatching (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Job card</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599149(v=ax.60)">Production journal (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599149(v=ax.60)">Production journal (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Job list</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa548982(v=ax.60)">Job list (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa548982(v=ax.60)">Job list (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Job</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa597552(v=ax.60)">Production data on current job (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328646(v=ax.60)">(PM) Production data on current job (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa597552(v=ax.60)">Production data on current job (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328646(v=ax.60)">(PM) Production data on current job (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Jobs</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590083(v=ax.60)">Jobs (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328740(v=ax.60)">(PM) Jobs (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590083(v=ax.60)">Jobs (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328740(v=ax.60)">(PM) Jobs (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Properties</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634336(v=ax.60)">Properties (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634336(v=ax.60)">Properties (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Property value</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583514(v=ax.60)">Property value (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583514(v=ax.60)">Property value (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +137,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

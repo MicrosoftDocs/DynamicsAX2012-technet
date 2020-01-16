@@ -2,8 +2,9 @@
 title: Project accountant security role (ProjProjectAccountant)
 TOCTitle: Project accountant security role (ProjProjectAccountant)
 ms:assetid: dbc0a328-ff7c-4c2a-aa62-6f024a6c8f5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527142(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527142(v=AX.60)
 ms:contentKeyID: 37823193
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

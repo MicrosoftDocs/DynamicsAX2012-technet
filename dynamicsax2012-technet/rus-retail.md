@@ -2,8 +2,9 @@
 title: (RUS) Retail
 TOCTitle: (RUS) Retail
 ms:assetid: ddf63dae-9e92-4ec7-9e32-935468f67e66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313252(v=AX.60)
 ms:contentKeyID: 54964148
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

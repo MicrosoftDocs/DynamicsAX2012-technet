@@ -2,8 +2,9 @@
 title: (RUS) Set up the per diem expense rates
 TOCTitle: (RUS) Set up the per diem expense rates
 ms:assetid: 09d73782-fe32-49cc-bd73-0501fe669c9d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711374(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711374(v=AX.60)
 ms:contentKeyID: 49387193
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,7 +58,7 @@ Expense rates are used to generate an advance report for per diem expenses, and 
 
 ## See also
 
-[(RUS) Expense rates (form)](https://technet.microsoft.com/en-us/library/jj733231\(v=ax.60\))
+[(RUS) Expense rates (form)](https://technet.microsoft.com/library/jj733231\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Post recognized bank account payments
 TOCTitle: (RUS) Post recognized bank account payments
 ms:assetid: de8a57a6-04fb-46dd-92d9-4016a7291e5a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711694(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711694(v=AX.60)
 ms:contentKeyID: 49388017
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use the **Imported bank statement** form to post recognized payments for bank ac
 
 ## See also
 
-[(RUS) Imported bank statement (form)](https://technet.microsoft.com/en-us/library/jj733281\(v=ax.60\))
+[(RUS) Imported bank statement (form)](https://technet.microsoft.com/library/jj733281\(v=ax.60\))
 
   
 

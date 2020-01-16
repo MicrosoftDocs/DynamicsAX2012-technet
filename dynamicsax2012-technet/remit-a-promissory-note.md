@@ -2,8 +2,9 @@
 title: Remit a promissory note
 TOCTitle: Remit a promissory note
 ms:assetid: 2057a405-7686-4f53-b626-c9058303ed8a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496785(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496785(v=AX.60)
 ms:contentKeyID: 36966699
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ Use a remittance journal to generate a remittance file that you can send to your
     
 
     > [!NOTE]
-    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
+    > <P>If you receive a message that mentions posting restrictions, you might be set up to post only journals that you created. For more information, see <A href="https://technet.microsoft.com/library/hh227598(v=ax.60)">Posting restrictions (form)</A>.</P>
 
 
 
@@ -61,9 +62,9 @@ Use a remittance journal to generate a remittance file that you can send to your
 
 [Create and validate journals and journal lines](create-and-validate-journals-and-journal-lines.md)
 
-[Journal header (form)](https://technet.microsoft.com/en-us/library/aa557917\(v=ax.60\))
+[Journal header (form)](https://technet.microsoft.com/library/aa557917\(v=ax.60\))
 
-[Promissory note statistics (form)](https://technet.microsoft.com/en-us/library/aa550186\(v=ax.60\))
+[Promissory note statistics (form)](https://technet.microsoft.com/library/aa550186\(v=ax.60\))
 
 [About payment types](about-payment-types.md)
 

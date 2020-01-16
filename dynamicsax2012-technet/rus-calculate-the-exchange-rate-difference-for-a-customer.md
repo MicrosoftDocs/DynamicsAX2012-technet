@@ -2,8 +2,9 @@
 title: (RUS) Calculate the exchange rate difference for a customer
 TOCTitle: (RUS) Calculate the exchange rate difference for a customer
 ms:assetid: 2ca61316-701e-47c7-a0ba-c1592b7a50d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665234(v=AX.60)
 ms:contentKeyID: 49387323
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

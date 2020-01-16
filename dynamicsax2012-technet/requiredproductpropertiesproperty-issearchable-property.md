@@ -1,9 +1,10 @@
-﻿---
+---
 title: RequiredProductPropertiesProperty.IsSearchable Property  ()
 TOCTitle: IsSearchable Property
 ms:assetid: P:RequiredProductPropertiesProperty.IsSearchable
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/requiredproductpropertiesproperty.issearchable(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/requiredproductpropertiesproperty.issearchable(v=AX.60)
 ms:contentKeyID: 65318792
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ property String^ IsSearchable {
 
 #### Property Value
 
-Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 ## See Also
 

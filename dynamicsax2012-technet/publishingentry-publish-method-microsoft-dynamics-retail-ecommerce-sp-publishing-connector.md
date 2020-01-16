@@ -1,9 +1,10 @@
-﻿---
+---
 title: PublishingEntry.Publish Method  (Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector)
 TOCTitle: Publish Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingEntry.Publish(System.Configuration.Configuration)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingentry.publish(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingentry.publish(v=AX.60)
 ms:contentKeyID: 65318134
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,7 +49,7 @@ static void Publish(
 #### Parameters
 
   - appConfig  
-    Type: [System.Configuration.Configuration](https://technet.microsoft.com/en-us/library/s7kc101z\(v=ax.60\))  
+    Type: [System.Configuration.Configuration](https://technet.microsoft.com/library/s7kc101z\(v=ax.60\))  
 
 ## See Also
 

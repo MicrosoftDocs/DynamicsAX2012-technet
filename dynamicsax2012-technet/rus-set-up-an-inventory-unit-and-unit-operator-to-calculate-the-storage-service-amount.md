@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory unit and unit operator to calculate the storage service amount
 TOCTitle: (RUS) Set up an inventory unit and unit operator to calculate the storage service amount
 ms:assetid: 3618a5f5-dead-4ef0-82bd-062f9cb823b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733199(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733199(v=AX.60)
 ms:contentKeyID: 49685167
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -63,9 +64,9 @@ You can set up an inventory unit to calculate the storage service amount. You ca
 
 ## See also
 
-[Units (form)](https://technet.microsoft.com/en-us/library/hh209233\(v=ax.60\))
+[Units (form)](https://technet.microsoft.com/library/hh209233\(v=ax.60\))
 
-[(RUS) Unit operations (form)](https://technet.microsoft.com/en-us/library/jj665247\(v=ax.60\))
+[(RUS) Unit operations (form)](https://technet.microsoft.com/library/jj665247\(v=ax.60\))
 
 [(RUS) Create a calculation item and assign an inventory unit to the item](rus-create-a-calculation-item-and-assign-an-inventory-unit-to-the-item.md)
 

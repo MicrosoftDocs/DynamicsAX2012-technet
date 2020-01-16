@@ -2,8 +2,9 @@
 title: (RUS) Set up an inventory profile for a transferable item
 TOCTitle: (RUS) Set up an inventory profile for a transferable item
 ms:assetid: aaaa7a29-8fa7-4cb3-8fed-8e47ad4eca86
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ852150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ852150(v=AX.60)
 ms:contentKeyID: 50281236
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use this procedure to set up an inventory profile for items that are purchased b
 
 [(RUS) Set up officials for the Counting act INV-6 report](rus-set-up-officials-for-the-counting-act-inv-6-report.md)
 
-[(RUS) Inventory profiles (form)](https://technet.microsoft.com/en-us/library/jj733188\(v=ax.60\))
+[(RUS) Inventory profiles (form)](https://technet.microsoft.com/library/jj733188\(v=ax.60\))
 
   
 

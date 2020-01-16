@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReceiptItemInfo.Fill Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Fill Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptItemInfo.Fill
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.receiptiteminfo.fill(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.receiptiteminfo.fill(v=AX.60)
 ms:contentKeyID: 62201757
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,8 +52,8 @@ property wchar_t Fill {
 
 #### Property Value
 
-Type: [System.Char](https://technet.microsoft.com/en-us/library/k493b04s\(v=ax.60\))  
-Returns [Char](https://technet.microsoft.com/en-us/library/k493b04s\(v=ax.60\)).  
+Type: [System.Char](https://technet.microsoft.com/library/k493b04s\(v=ax.60\))  
+Returns [Char](https://technet.microsoft.com/library/k493b04s\(v=ax.60\)).  
 
 ## See Also
 

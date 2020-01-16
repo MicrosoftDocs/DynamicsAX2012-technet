@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProjectionDomainExtensions.IsRemoteLookup Method  (Microsoft.Dynamics.Commerce.Runtime)
 TOCTitle: IsRemoteLookup Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ProjectionDomainExtensions.IsRemoteLookup(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProjectionDomain,System.Int64)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.projectiondomainextensions.isremotelookup(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.projectiondomainextensions.isremotelookup(v=AX.60)
 ms:contentKeyID: 65319913
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,11 +63,11 @@ static bool IsRemoteLookup(
 <!-- end list -->
 
   - channelId  
-    Type: [System.Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))  
+    Type: [System.Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 A value indicating whether a remote lookup is required for this context.  
 
 #### Usage Note

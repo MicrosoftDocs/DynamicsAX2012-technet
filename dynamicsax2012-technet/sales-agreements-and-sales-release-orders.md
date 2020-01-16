@@ -2,8 +2,9 @@
 title: Sales agreements and sales release orders
 TOCTitle: Sales agreements and sales release orders
 ms:assetid: 4f848768-dd23-4f65-b9d3-260935ad4acc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497129(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497129(v=AX.60)
 ms:contentKeyID: 36057220
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

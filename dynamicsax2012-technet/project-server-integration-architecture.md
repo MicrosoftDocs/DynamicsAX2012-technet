@@ -2,8 +2,9 @@
 title: Project Server integration architecture
 TOCTitle: Project Server integration architecture
 ms:assetid: 1552d914-bf33-4597-9950-a848e6ef9f76
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309600(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309600(v=AX.60)
 ms:contentKeyID: 35132556
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

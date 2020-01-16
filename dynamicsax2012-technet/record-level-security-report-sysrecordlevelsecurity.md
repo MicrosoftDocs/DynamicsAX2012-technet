@@ -2,8 +2,9 @@
 title: Record level security report (SysRecordLevelSecurity)
 TOCTitle: Record level security report (SysRecordLevelSecurity)
 ms:assetid: 70bc6b81-4699-45a4-84a8-8b719a502e39
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh335155(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh335155(v=AX.60)
 ms:contentKeyID: 36687367
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

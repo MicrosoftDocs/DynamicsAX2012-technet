@@ -2,8 +2,9 @@
 title: Project invoice journals report (ProjInvoiceJournal)
 TOCTitle: Project invoice journals report (ProjInvoiceJournal)
 ms:assetid: fa44bed7-0484-42e4-8836-3e4e2fbb74e3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa600591(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa600591(v=AX.60)
 ms:contentKeyID: 37820240
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

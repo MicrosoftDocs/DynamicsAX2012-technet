@@ -2,8 +2,9 @@
 title: (RUS) Set up fixed asset module parameters
 TOCTitle: (RUS) Set up fixed asset module parameters
 ms:assetid: fbb5d08b-38f9-4077-8b05-58942c255c83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678657(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678657(v=AX.60)
 ms:contentKeyID: 49388140
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## See also
 
-[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/en-us/library/jj721462\(v=ax.60\))
+[(RUS) Fixed asset parameters (form)](https://technet.microsoft.com/library/jj721462\(v=ax.60\))
 
 [(RUS) Set up the calculation of assessed tax](rus-set-up-the-calculation-of-assessed-tax.md)
 

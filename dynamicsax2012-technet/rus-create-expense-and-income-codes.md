@@ -2,8 +2,9 @@
 title: (RUS) Create expense and income codes
 TOCTitle: (RUS) Create expense and income codes
 ms:assetid: d85d063f-1d86-4434-8d53-92aa77a00886
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923595(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923595(v=AX.60)
 ms:contentKeyID: 52075438
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -80,11 +81,11 @@ You can create expense or income codes in either the expense codes directory or 
 
 ## See also
 
-[(RUS) Expense and income codes (form)](https://technet.microsoft.com/en-us/library/jj923268\(v=ax.60\))
+[(RUS) Expense and income codes (form)](https://technet.microsoft.com/library/jj923268\(v=ax.60\))
 
 [(RUS) Set up account interval groups](rus-set-up-account-interval-groups.md)
 
-[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/en-us/library/jj665243\(v=ax.60\))
+[(RUS) Synchronize the directory of expense and income codes](https://technet.microsoft.com/library/jj665243\(v=ax.60\))
 
   
 

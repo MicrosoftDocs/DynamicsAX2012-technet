@@ -2,8 +2,9 @@
 title: Provide license information
 TOCTitle: Provide license information
 ms:assetid: 16e3bec8-88c8-4602-84dd-c2b0a9915a76
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496447(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496447(v=AX.60)
 ms:contentKeyID: 35132557
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: (RUS) Inventory FA list report (RAssetInventorySheet)
 TOCTitle: (RUS) Inventory FA list report (RAssetInventorySheet)
 ms:assetid: afb9b458-42da-497d-9318-4f7ad0df0262
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ955223(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ955223(v=AX.60)
 ms:contentKeyID: 51831854
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -123,7 +124,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 [(RUS) FA list report (RAssetListing)](rus-fa-list-report-rassetlisting.md)
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
   
 

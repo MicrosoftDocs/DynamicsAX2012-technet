@@ -2,8 +2,9 @@
 title: (RUS) Set up a value model for deferred expenses
 TOCTitle: (RUS) Set up a value model for deferred expenses
 ms:assetid: 0d8a5bdd-25fb-45ab-bd58-50a6a081f4ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711385(v=AX.60)
 ms:contentKeyID: 49387203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

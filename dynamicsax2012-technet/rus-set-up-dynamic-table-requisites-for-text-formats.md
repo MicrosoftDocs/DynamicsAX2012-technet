@@ -2,8 +2,9 @@
 title: (RUS) Set up dynamic table requisites for text formats
 TOCTitle: (RUS) Set up dynamic table requisites for text formats
 ms:assetid: 80d1f4ab-8a96-4c9e-92fb-1485b58b17d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677587(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677587(v=AX.60)
 ms:contentKeyID: 49384890
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ Use the **Requisites setup** form to set up dynamic table requisites.
 
 10. In the Excel worksheet in the lower pane of the form, select the first cell of the appropriate data column. In the right section of the form, click **Select**, and then click **Yes**.
 
-11. In the **Data type** field, select the data type of the column. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\)).
+11. In the **Data type** field, select the data type of the column. For more information, see [(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\)).
 
 12. In the **Extended data type** field, select the extended data type to verify the value of the requisite that is imported.
 
@@ -64,11 +65,11 @@ Use the **Requisites setup** form to set up dynamic table requisites.
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
-[(RUS) Format of requisites (form)](https://technet.microsoft.com/en-us/library/jj710737\(v=ax.60\))
+[(RUS) Format of requisites (form)](https://technet.microsoft.com/library/jj710737\(v=ax.60\))
 
   
 

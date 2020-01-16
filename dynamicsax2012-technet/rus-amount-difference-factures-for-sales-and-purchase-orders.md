@@ -2,8 +2,9 @@
 title: (RUS) Amount difference factures for sales and purchase orders
 TOCTitle: (RUS) Amount difference factures for sales and purchase orders
 ms:assetid: 65247235-0e3a-4b04-a306-c800069911d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853188(v=AX.60)
 ms:contentKeyID: 50396469
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

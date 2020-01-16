@@ -2,8 +2,9 @@
 title: (RUS) View CD data in purchase book lines
 TOCTitle: (RUS) View CD data in purchase book lines
 ms:assetid: dfc8e49e-d2ab-4d5e-87ee-91c977851c27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711703(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711703(v=AX.60)
 ms:contentKeyID: 49388026
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ You can view custom declaration (CD) data in purchase book lines only if you upd
 
 [(RUS) Generate a facture for a purchase order](rus-generate-a-facture-for-a-purchase-order.md)
 
-[(RUS) Purchase books journal (form)](https://technet.microsoft.com/en-us/library/jj853172\(v=ax.60\))
+[(RUS) Purchase books journal (form)](https://technet.microsoft.com/library/jj853172\(v=ax.60\))
 
-[(RUS) Purchase book lines (form)](https://technet.microsoft.com/en-us/library/jj923607\(v=ax.60\))
+[(RUS) Purchase book lines (form)](https://technet.microsoft.com/library/jj923607\(v=ax.60\))
 
   
 

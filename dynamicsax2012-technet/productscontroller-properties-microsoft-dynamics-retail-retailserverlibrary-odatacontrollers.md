@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProductsController Properties (Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers)
 TOCTitle: ProductsController Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.ProductsController
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.productscontroller_properties(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.productscontroller_properties(v=AX.60)
 ms:contentKeyID: 62201760
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---
@@ -41,12 +42,12 @@ The [ProductsController](productscontroller-class-microsoft-dynamics-retail-reta
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td>ODataPath</td>
-<td>(Inherited from EntitySetController&lt;Product, <a href="https://technet.microsoft.com/en-us/library/6yy583ek(v=ax.60)">Int64</a>&gt;.)</td>
+<td>(Inherited from EntitySetController&lt;Product, <a href="https://technet.microsoft.com/library/6yy583ek(v=ax.60)">Int64</a>&gt;.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td>QueryOptions</td>
-<td>(Inherited from EntitySetController&lt;Product, <a href="https://technet.microsoft.com/en-us/library/6yy583ek(v=ax.60)">Int64</a>&gt;.)</td>
+<td>(Inherited from EntitySetController&lt;Product, <a href="https://technet.microsoft.com/library/6yy583ek(v=ax.60)">Int64</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

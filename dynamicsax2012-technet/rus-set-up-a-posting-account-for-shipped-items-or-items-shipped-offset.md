@@ -2,8 +2,9 @@
 title: (RUS) Set up a posting account for shipped items or items shipped offset
 TOCTitle: (RUS) Set up a posting account for shipped items or items shipped offset
 ms:assetid: b556c7ef-8784-4d8b-8ddd-883c8d334890
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923583(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923583(v=AX.60)
 ms:contentKeyID: 52075427
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use the **Posting** form to set up a posting account for shipped items or items 
 
 ## See also
 
-[(RUS) Item posting (modified form)](https://technet.microsoft.com/en-us/library/jj733204\(v=ax.60\))
+[(RUS) Item posting (modified form)](https://technet.microsoft.com/library/jj733204\(v=ax.60\))
 
   
 

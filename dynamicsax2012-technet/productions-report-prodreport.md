@@ -2,8 +2,9 @@
 title: Productions report (ProdReport)
 TOCTitle: Productions report (ProdReport)
 ms:assetid: 5b79fb81-ba5b-4cf3-b066-604d5cdccc35
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209461(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209461(v=AX.60)
 ms:contentKeyID: 36058808
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

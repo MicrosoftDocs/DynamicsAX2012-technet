@@ -2,8 +2,9 @@
 title: Review the workflow status and history for a project budget
 TOCTitle: Review the workflow status and history for a project budget
 ms:assetid: f98406f0-2a46-4182-b423-d704e43a6ce6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227563(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227563(v=AX.60)
 ms:contentKeyID: 36060056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,17 +56,17 @@ After an original project budget or budget revision is submitted for approval, y
 
 [Create and submit an original project budget](create-and-submit-an-original-project-budget.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Projects (form)](https://technet.microsoft.com/en-us/library/aa585245\(v=ax.60\))
+[Projects (form)](https://technet.microsoft.com/library/aa585245\(v=ax.60\))
 
-[Project budget (form)](https://technet.microsoft.com/en-us/library/hh227438\(v=ax.60\))
+[Project budget (form)](https://technet.microsoft.com/library/hh227438\(v=ax.60\))
 
-[Workflow history (form)](https://technet.microsoft.com/en-us/library/hh597256\(v=ax.60\))
+[Workflow history (form)](https://technet.microsoft.com/library/hh597256\(v=ax.60\))
 
-[Project budget revision (form)](https://technet.microsoft.com/en-us/library/hh209690\(v=ax.60\))
+[Project budget revision (form)](https://technet.microsoft.com/library/hh209690\(v=ax.60\))
 
-[Project budget settings for user groups (form)](https://technet.microsoft.com/en-us/library/hh242598\(v=ax.60\))
+[Project budget settings for user groups (form)](https://technet.microsoft.com/library/hh242598\(v=ax.60\))
 
   
 

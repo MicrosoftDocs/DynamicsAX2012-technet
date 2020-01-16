@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for standard expenses rate for deferred periods
 TOCTitle: (RUS) Set up a register for standard expenses rate for deferred periods
 ms:assetid: 735ba5b7-8fc5-44a9-ac16-a0f577f0aa6b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678362(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678362(v=AX.60)
 ms:contentKeyID: 49387592
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -59,9 +60,9 @@ This register contains the results of norm calculations for the future period. T
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
 [(RUS) Calculate the standard expenses rate for deferred periods register](rus-calculate-the-standard-expenses-rate-for-deferred-periods-register.md)
 

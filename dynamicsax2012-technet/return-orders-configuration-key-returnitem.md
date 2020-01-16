@@ -2,8 +2,9 @@
 title: Return orders configuration key (ReturnItem)
 TOCTitle: Return orders configuration key (ReturnItem)
 ms:assetid: 85a8b2dd-8996-43dd-b4d7-07c5ea79d785
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456314(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456314(v=AX.60)
 ms:contentKeyID: 36997759
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,8 +38,8 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Return order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh803010(v=ax.60)">Return orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328762(v=ax.60)">(PM) Return orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh803010(v=ax.60)">Return orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328762(v=ax.60)">(PM) Return orders (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -82,20 +83,20 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Disposition codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597113(v=ax.60)">Disposition codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597113(v=ax.60)">Disposition codes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Return reason codes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227372(v=ax.60)">Return reason codes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227372(v=ax.60)">Return reason codes (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Return reason code groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209604(v=ax.60)">Return reason code groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209604(v=ax.60)">Return reason code groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Return order</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh803010(v=ax.60)">Return orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328762(v=ax.60)">(PM) Return orders (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh803010(v=ax.60)">Return orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328762(v=ax.60)">(PM) Return orders (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Replacement item</strong></p></td>
@@ -157,7 +158,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

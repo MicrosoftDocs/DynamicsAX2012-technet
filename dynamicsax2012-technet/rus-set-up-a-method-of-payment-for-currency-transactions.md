@@ -2,8 +2,9 @@
 title: (RUS) Set up a method of payment for currency transactions
 TOCTitle: (RUS) Set up a method of payment for currency transactions
 ms:assetid: c65bf8d9-10f7-4a3b-b267-19c4c6f8fce2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ856192(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ856192(v=AX.60)
 ms:contentKeyID: 50407075
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use the **Methods of payment - vendors** form to set up a method of payment for 
 
 ## See also
 
-[(RUS) Methods of payment - vendors (modified form)](https://technet.microsoft.com/en-us/library/jj711469\(v=ax.60\))
+[(RUS) Methods of payment - vendors (modified form)](https://technet.microsoft.com/library/jj711469\(v=ax.60\))
 
 [(RUS) Create and post a payment journal for an exchanged currency](rus-create-and-post-a-payment-journal-for-an-exchanged-currency.md)
 

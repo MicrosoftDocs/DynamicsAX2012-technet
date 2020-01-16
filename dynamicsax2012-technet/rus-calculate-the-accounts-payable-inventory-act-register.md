@@ -2,8 +2,9 @@
 title: (RUS) Calculate the accounts payable inventory act register
 TOCTitle: (RUS) Calculate the accounts payable inventory act register
 ms:assetid: 3c908b90-184d-416d-a29d-045742c309ff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665305(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665305(v=AX.60)
 ms:contentKeyID: 49387394
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -61,11 +62,11 @@ You must set up the **Accounts payable inventory act** register in the **Tax reg
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
-[(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\))
+[(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\))
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

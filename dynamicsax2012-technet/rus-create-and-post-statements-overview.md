@@ -2,8 +2,9 @@
 title: (RUS) Create and post statements overview
 TOCTitle: (RUS) Create and post statements overview
 ms:assetid: 5187b16b-44bc-4141-90c2-c669086e88c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716017(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716017(v=AX.60)
 ms:contentKeyID: 62200262
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: Project on-account (2 periods) report (ProjOnAccProj2Prd)
 TOCTitle: Project on-account (2 periods) report (ProjOnAccProj2Prd)
 ms:assetid: 6cd3773b-cdc2-406c-a564-c243b55de69b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa615093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa615093(v=AX.60)
 ms:contentKeyID: 37820216
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

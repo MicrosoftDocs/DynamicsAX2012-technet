@@ -2,8 +2,9 @@
 title: (RUS) Working with Sales and marketing
 TOCTitle: (RUS) Working with Sales and marketing
 ms:assetid: d51d63fe-a298-42f4-ac68-9bb2109d3a6d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711644(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711644(v=AX.60)
 ms:contentKeyID: 49387968
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

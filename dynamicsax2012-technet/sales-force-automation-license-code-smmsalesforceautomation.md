@@ -2,8 +2,9 @@
 title: Sales force automation license code (smmSalesForceAutomation)
 TOCTitle: Sales force automation license code (smmSalesForceAutomation)
 ms:assetid: f31ad846-de26-4cde-98c0-4f88a4073391
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416701(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416701(v=AX.60)
 ms:contentKeyID: 36931864
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -57,7 +58,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

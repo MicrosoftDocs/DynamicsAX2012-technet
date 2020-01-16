@@ -2,8 +2,9 @@
 title: (RUS) Create and post a transfer journal based on an inventory profile
 TOCTitle: (RUS) Create and post a transfer journal based on an inventory profile
 ms:assetid: 8eac47c0-9f57-4155-bdfe-316758697e75
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678471(v=AX.60)
 ms:contentKeyID: 49387700
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,7 +44,7 @@ Use the **Transfer** form to create and post a transfer journal based on the inv
 
 ## See also
 
-[Journal lines, Inventory movement (form)](https://technet.microsoft.com/en-us/library/aa598740\(v=ax.60\))
+[Journal lines, Inventory movement (form)](https://technet.microsoft.com/library/aa598740\(v=ax.60\))
 
   
 

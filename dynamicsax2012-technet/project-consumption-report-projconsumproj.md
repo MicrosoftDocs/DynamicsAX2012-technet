@@ -2,8 +2,9 @@
 title: Project consumption report (ProjConsumProj)
 TOCTitle: Project consumption report (ProjConsumProj)
 ms:assetid: 21458b7f-8055-4239-871e-48d1aa9f9c41
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Bb147533(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Bb147533(v=AX.60)
 ms:contentKeyID: 37831983
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

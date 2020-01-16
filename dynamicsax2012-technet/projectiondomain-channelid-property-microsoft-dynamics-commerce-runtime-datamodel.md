@@ -1,9 +1,10 @@
-﻿---
+---
 title: ProjectionDomain.ChannelId Property  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: ChannelId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProjectionDomain.ChannelId
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.projectiondomain.channelid(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.projectiondomain.channelid(v=AX.60)
 ms:contentKeyID: 62215097
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -54,8 +55,8 @@ property Nullable<long long> ChannelId {
 
 #### Property Value
 
-Type: [System.Nullable](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/en-us/library/6yy583ek\(v=ax.60\))\>  
-Returns [Nullable\<T\>](https://technet.microsoft.com/en-us/library/b3h38hb0\(v=ax.60\)).  
+Type: [System.Nullable](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\))\<[Int64](https://technet.microsoft.com/library/6yy583ek\(v=ax.60\))\>  
+Returns [Nullable\<T\>](https://technet.microsoft.com/library/b3h38hb0\(v=ax.60\)).  
 
 ## See Also
 

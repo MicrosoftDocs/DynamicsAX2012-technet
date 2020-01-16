@@ -2,8 +2,9 @@
 title: (RUS) Create and post an incentive resolution
 TOCTitle: (RUS) Create and post an incentive resolution
 ms:assetid: 98112b7e-35b7-4368-975d-7029706303d2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn452009(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn452009(v=AX.60)
 ms:contentKeyID: 56713179
+author: Khairunj
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

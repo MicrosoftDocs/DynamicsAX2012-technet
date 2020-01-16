@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for standard expenses rate for current period
 TOCTitle: (RUS) Set up a register for standard expenses rate for current period
 ms:assetid: 2fd9ecfe-7c93-41ee-a18a-c46c6840edb6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665246(v=AX.60)
 ms:contentKeyID: 49387335
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -55,9 +56,9 @@ The **Standard expenses rate for current period** register contains the results 
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
-[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/en-us/library/jj853198\(v=ax.60\))
+[(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))
 
 [(RUS) Calculate the standard expenses rate for the current period register](rus-calculate-the-standard-expenses-rate-for-the-current-period-register.md)
 

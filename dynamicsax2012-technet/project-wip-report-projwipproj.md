@@ -2,8 +2,9 @@
 title: Project WIP report (ProjWIPProj)
 TOCTitle: Project WIP report (ProjWIPProj)
 ms:assetid: e28f63fd-c560-487c-8a0c-9979aaf3e84c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa558212(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa558212(v=AX.60)
 ms:contentKeyID: 36966715
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

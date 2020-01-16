@@ -2,8 +2,9 @@
 title: Purchase requisition configuration key (PurchReq)
 TOCTitle: Purchase requisition configuration key (PurchReq)
 ms:assetid: 78088848-75e8-4934-9f9c-16e014665d73
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh433459(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh433459(v=AX.60)
 ms:contentKeyID: 36941213
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---
@@ -37,28 +38,28 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Purchase requisitions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227485(v=ax.60)">Purchase requisitions (list page)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh209354(v=ax.60)">Purchase requisitions - lines (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh208983(v=ax.60)">View purchase requisition version (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh208595(v=ax.60)">Vendor suggestions (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh227441(v=ax.60)">Purchase requisition consolidation (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh209543(v=ax.60)">Purchase requisition totals (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227485(v=ax.60)">Purchase requisitions (list page)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh209354(v=ax.60)">Purchase requisitions - lines (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh208983(v=ax.60)">View purchase requisition version (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh208595(v=ax.60)">Vendor suggestions (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh227441(v=ax.60)">Purchase requisition consolidation (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh209543(v=ax.60)">Purchase requisition totals (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Purchase requisition permissions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242815(v=ax.60)">Purchase requisition permissions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242815(v=ax.60)">Purchase requisition permissions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Business justifications</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242732(v=ax.60)">Business justifications (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242732(v=ax.60)">Business justifications (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Purchase requisition expenditure reviewers</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208667(v=ax.60)">Expenditure reviewers - Purchase requisitions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208667(v=ax.60)">Expenditure reviewers - Purchase requisitions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Release approved purchase requisitions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242658(v=ax.60)">Release approved purchase requisition (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242658(v=ax.60)">Release approved purchase requisition (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -104,7 +105,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Create and post a storno transfer journal
 TOCTitle: (RUS) Create and post a storno transfer journal
 ms:assetid: 76775a97-fb14-41d6-a470-4229559b74c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678369(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678369(v=AX.60)
 ms:contentKeyID: 49387599
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -21,13 +22,13 @@ You can use storno to reverse a journal transaction that is posted incorrectly.
 
 1.  Click **Inventory management** \> **Journals** \> **Item transactions** \> **Transfer**.
 
-2.  Create a new line, select the name of the journal to correct, and then click the **General** tab. For more information about inventory journals, see [Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\)).
+2.  Create a new line, select the name of the journal to correct, and then click the **General** tab. For more information about inventory journals, see [Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\)).
 
 3.  Select the **Storno** check box to reverse the journal transaction.
 
 4.  Click **Lines** to open the **Journal lines, inventory** form.
 
-5.  Create a new journal line, and enter the required details. For more information about inventory journals, see [Journal lines, Inventory transfer (form)](https://technet.microsoft.com/en-us/library/aa587291\(v=ax.60\)).
+5.  Create a new journal line, and enter the required details. For more information about inventory journals, see [Journal lines, Inventory transfer (form)](https://technet.microsoft.com/library/aa587291\(v=ax.60\)).
 
 6.  In the **Date** field, select the transaction date.
 
@@ -63,11 +64,11 @@ You can use storno to reverse a journal transaction that is posted incorrectly.
 
 [(RUS) Create and post a storno transfer journal by copying journals](rus-create-and-post-a-storno-transfer-journal-by-copying-journals.md)
 
-[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/en-us/library/jj665257\(v=ax.60\))
+[(RUS) Journal lines, Inventory transfer (modified form)](https://technet.microsoft.com/library/jj665257\(v=ax.60\))
 
-[Inventory transactions (form)](https://technet.microsoft.com/en-us/library/aa584374\(v=ax.60\))
+[Inventory transactions (form)](https://technet.microsoft.com/library/aa584374\(v=ax.60\))
 
-[(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/en-us/library/jj733410\(v=ax.60\))
+[(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/library/jj733410\(v=ax.60\))
 
   
 

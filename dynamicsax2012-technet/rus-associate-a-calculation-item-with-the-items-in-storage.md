@@ -2,8 +2,9 @@
 title: (RUS) Associate a calculation item with the items in storage
 TOCTitle: (RUS) Associate a calculation item with the items in storage
 ms:assetid: 60561e09-5884-4c39-a955-6cd77f7cab88
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ665440(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ665440(v=AX.60)
 ms:contentKeyID: 49387528
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -75,7 +76,7 @@ Use the **Storage calculation setup** form to associate a calculation item with 
 
 ## See also
 
-[(RUS) Storage calculation setup (form)](https://technet.microsoft.com/en-us/library/jj733408\(v=ax.60\))
+[(RUS) Storage calculation setup (form)](https://technet.microsoft.com/library/jj733408\(v=ax.60\))
 
   
 

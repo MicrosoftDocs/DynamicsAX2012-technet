@@ -2,8 +2,9 @@
 title: (RUS) Create and post an inventory journal for bailment
 TOCTitle: (RUS) Create and post an inventory journal for bailment
 ms:assetid: fdbe4172-ba0e-475d-88a9-50c431467c3a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ853246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ853246(v=AX.60)
 ms:contentKeyID: 50396526
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Use the **Counting** form to create and post an inventory counting journal for a
 
 5.  In the **Counting** form, in the **Name** field, select an inventory journal name.
 
-6.  Click **Lines** to open the **Journal lines, inventory** form and create journal lines. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/en-us/library/aa599389\(v=ax.60\)).
+6.  Click **Lines** to open the **Journal lines, inventory** form and create journal lines. For more information, see [Journal lines, Inventory count (form)](https://technet.microsoft.com/library/aa599389\(v=ax.60\)).
 
 7.  In the **Item number** field, select the item number of the item that is stored in the warehouse.
 

@@ -2,8 +2,9 @@
 title: (RUS) Create and post a write-off disassembly transaction for a fixed asset
 TOCTitle: (RUS) Create and post a write-off disassembly transaction for a fixed asset
 ms:assetid: 7b0b6f32-40cb-488c-9b68-6aa080c2b955
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678385(v=AX.60)
 ms:contentKeyID: 49387616
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

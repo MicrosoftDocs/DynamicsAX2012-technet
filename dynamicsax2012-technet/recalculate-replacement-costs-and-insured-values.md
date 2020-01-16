@@ -2,8 +2,9 @@
 title: Recalculate replacement costs and insured values
 TOCTitle: Recalculate replacement costs and insured values
 ms:assetid: a8624c7e-a616-479e-9d78-0b135aac0ca0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243062(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243062(v=AX.60)
 ms:contentKeyID: 39519270
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ To recalculate replacement costs and insured values for fixed assets, you must f
 
 [About recalculating replacement costs and insured values for fixed asset groups](about-recalculating-replacement-costs-and-insured-values-for-fixed-asset-groups.md)
 
-[Update replacement costs and insured values (form)](https://technet.microsoft.com/en-us/library/hh227488\(v=ax.60\))
+[Update replacement costs and insured values (form)](https://technet.microsoft.com/library/hh227488\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: (RUS) Import fixed requisites
 TOCTitle: (RUS) Import fixed requisites
 ms:assetid: d2904d81-c789-4271-869b-9f25511b8a3d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677810(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677810(v=AX.60)
 ms:contentKeyID: 49385010
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,9 +36,9 @@ To import fixed requisites, you must create a Microsoft Excel worksheet that con
 
 ## See also
 
-[(RUS) Requisites import (form)](https://technet.microsoft.com/en-us/library/jj710744\(v=ax.60\))
+[(RUS) Requisites import (form)](https://technet.microsoft.com/library/jj710744\(v=ax.60\))
 
-[(RUS) Fixed requisites (form)](https://technet.microsoft.com/en-us/library/jj710680\(v=ax.60\))
+[(RUS) Fixed requisites (form)](https://technet.microsoft.com/library/jj710680\(v=ax.60\))
 
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 

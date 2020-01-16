@@ -2,8 +2,9 @@
 title: (RUS) Set up inventory parameters
 TOCTitle: (RUS) Set up inventory parameters
 ms:assetid: 9b136448-a337-46e3-9cf4-ef92072d0e74
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678518(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678518(v=AX.60)
 ms:contentKeyID: 49387748
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -35,7 +36,7 @@ Use the **Inventory and warehouse management parameters** form to set up the par
 
 [(RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs](rus-set-up-inventory-parameters-to-create-storno-accounting-transactions-to-calculate-production-order-costs.md)
 
-[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/en-us/library/jj733200\(v=ax.60\))
+[(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\))
 
 [(RUS) Create and post a purchase order based on an inventory profile](rus-create-and-post-a-purchase-order-based-on-an-inventory-profile.md)
 

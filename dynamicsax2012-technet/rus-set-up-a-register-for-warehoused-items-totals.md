@@ -2,8 +2,9 @@
 title: (RUS) Set up a register for warehoused items (totals)
 TOCTitle: (RUS) Set up a register for warehoused items (totals)
 ms:assetid: 07d80067-9593-488b-91e3-1d1d8c00300c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839649(v=AX.60)
 ms:contentKeyID: 50396796
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ The **Warehoused items (totals)** register displays the total amount of each typ
 
 ## See also
 
-[(RUS) Tax registers (form)](https://technet.microsoft.com/en-us/library/jj853195\(v=ax.60\))
+[(RUS) Tax registers (form)](https://technet.microsoft.com/library/jj853195\(v=ax.60\))
 
 [(RUS) Calculate registers](rus-calculate-registers.md)
 

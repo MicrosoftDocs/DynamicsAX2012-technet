@@ -1,9 +1,10 @@
-﻿---
+---
 title: QueryResultSettings.WriteSerializedParameters Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: WriteSerializedParameters Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings.WriteSerializedParameters(System.Xml.XmlWriter)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.queryresultsettings.writeserializedparameters(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.queryresultsettings.writeserializedparameters(v=AX.60)
 ms:contentKeyID: 65321697
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ void WriteSerializedParameters(
 #### Parameters
 
   - writer  
-    Type: [System.Xml.XmlWriter](https://technet.microsoft.com/en-us/library/5y8188ze\(v=ax.60\))  
+    Type: [System.Xml.XmlWriter](https://technet.microsoft.com/library/5y8188ze\(v=ax.60\))  
 
 ## See Also
 

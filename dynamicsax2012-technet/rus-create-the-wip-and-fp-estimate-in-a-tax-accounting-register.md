@@ -2,8 +2,9 @@
 title: (RUS) Create the WIP and FP estimate in a tax accounting register
 TOCTitle: (RUS) Create the WIP and FP estimate in a tax accounting register
 ms:assetid: aef91a08-d6ce-4a9c-8c29-eb1dfe0c803c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923579(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923579(v=AX.60)
 ms:contentKeyID: 52075425
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -31,7 +32,7 @@ Use the **Tax register journal** form to create the estimate of work in process 
 
 7.  In the **Years** field, enter the year.
 
-8.  Click **Lines** to open the **Register journal lines** form and create register journal lines. For more information, see [(RUS) Register journal lines (form)](https://technet.microsoft.com/en-us/library/jj839663\(v=ax.60\)).
+8.  Click **Lines** to open the **Register journal lines** form and create register journal lines. For more information, see [(RUS) Register journal lines (form)](https://technet.microsoft.com/library/jj839663\(v=ax.60\)).
 
 9.  In the **Register journal generation.** dialog box, click **Yes** if a register journal is not created yet, or if the journal has no lines.
     
@@ -43,7 +44,7 @@ Use the **Tax register journal** form to create the estimate of work in process 
 
 ## See also
 
-[(RUS) Tax register journal (form)](https://technet.microsoft.com/en-us/library/jj856114\(v=ax.60\))
+[(RUS) Tax register journal (form)](https://technet.microsoft.com/library/jj856114\(v=ax.60\))
 
 [(RUS) Calculate and approve the WIP and FP estimate in a tax accounting register](rus-calculate-and-approve-the-wip-and-fp-estimate-in-a-tax-accounting-register.md)
 

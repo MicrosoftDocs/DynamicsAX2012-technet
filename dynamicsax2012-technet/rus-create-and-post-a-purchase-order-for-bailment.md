@@ -2,8 +2,9 @@
 title: (RUS) Create and post a purchase order for bailment
 TOCTitle: (RUS) Create and post a purchase order for bailment
 ms:assetid: c2812f01-09db-43f7-bea6-b002988d2c51
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711574(v=AX.60)
 ms:contentKeyID: 49387898
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ You can create and post a purchase order to receive items for storage. Taxes are
 
 ## See also
 
-[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
+[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj923609\(v=ax.60\))
 
 [(RUS) Create and post a sales order for bailment](rus-create-and-post-a-sales-order-for-bailment.md)
 

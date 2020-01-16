@@ -2,8 +2,9 @@
 title: (RUS) Print inventory journal report (InventJournalTrans)
 TOCTitle: (RUS) Print inventory journal report (InventJournalTrans)
 ms:assetid: 7a2d1480-5020-4f43-9287-150846b1f6e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn144859(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn144859(v=AX.60)
 ms:contentKeyID: 52225281
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -143,7 +144,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[Inventory journal (form)](https://technet.microsoft.com/en-us/library/aa558607\(v=ax.60\))
+[Inventory journal (form)](https://technet.microsoft.com/library/aa558607\(v=ax.60\))
 
   
 

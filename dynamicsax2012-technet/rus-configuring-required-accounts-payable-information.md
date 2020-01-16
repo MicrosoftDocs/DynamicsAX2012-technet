@@ -2,8 +2,9 @@
 title: (RUS) Configuring required Accounts payable information
 TOCTitle: (RUS) Configuring required Accounts payable information
 ms:assetid: 7d9eb57c-0ec0-4d91-9cc9-3283299e04d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678397(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678397(v=AX.60)
 ms:contentKeyID: 49387627
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

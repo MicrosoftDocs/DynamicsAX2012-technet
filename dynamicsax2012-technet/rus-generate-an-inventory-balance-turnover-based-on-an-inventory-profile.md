@@ -2,8 +2,9 @@
 title: (RUS) Generate an inventory balance turnover based on an inventory profile
 TOCTitle: (RUS) Generate an inventory balance turnover based on an inventory profile
 ms:assetid: 88ed7a29-06e3-475c-ae4a-61d33cc3935b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733252(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733252(v=AX.60)
 ms:contentKeyID: 49685219
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

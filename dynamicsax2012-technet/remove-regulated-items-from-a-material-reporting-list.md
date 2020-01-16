@@ -2,8 +2,9 @@
 title: Remove regulated items from a material reporting list
 TOCTitle: Remove regulated items from a material reporting list
 ms:assetid: e561b736-f07d-4a83-9136-4d61addc4372
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh328597(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh328597(v=AX.60)
 ms:contentKeyID: 36688023
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,11 +54,11 @@ Use this information to remove items from a material reporting list for a countr
 
 ## See also
 
-[Countries/regions that require item reporting (form)](https://technet.microsoft.com/en-us/library/hh328714\(v=ax.60\))
+[Countries/regions that require item reporting (form)](https://technet.microsoft.com/library/hh328714\(v=ax.60\))
 
-[Material reporting lists (form)](https://technet.microsoft.com/en-us/library/hh328691\(v=ax.60\))
+[Material reporting lists (form)](https://technet.microsoft.com/library/hh328691\(v=ax.60\))
 
-[Reported regulated products (form)](https://technet.microsoft.com/en-us/library/hh328717\(v=ax.60\))
+[Reported regulated products (form)](https://technet.microsoft.com/library/hh328717\(v=ax.60\))
 
   
 

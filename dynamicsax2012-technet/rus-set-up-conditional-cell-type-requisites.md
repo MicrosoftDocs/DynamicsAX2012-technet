@@ -2,8 +2,9 @@
 title: (RUS) Set up conditional cell type requisites
 TOCTitle: (RUS) Set up conditional cell type requisites
 ms:assetid: 743e537a-be2b-44b7-83c7-56b1f2f7b2d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677574(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677574(v=AX.60)
 ms:contentKeyID: 49384877
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -68,11 +69,11 @@ Use the **Requisites setup** form to set up **Cell** requisite types that use th
 
 ## See also
 
-[(RUS) Document templates (form)](https://technet.microsoft.com/en-us/library/jj923585\(v=ax.60\))
+[(RUS) Document templates (form)](https://technet.microsoft.com/library/jj923585\(v=ax.60\))
 
 [(RUS) Set up templates for electronic reporting](rus-set-up-templates-for-electronic-reporting.md)
 
-[(RUS) Requisites setup (form)](https://technet.microsoft.com/en-us/library/jj710719\(v=ax.60\))
+[(RUS) Requisites setup (form)](https://technet.microsoft.com/library/jj710719\(v=ax.60\))
 
   
 

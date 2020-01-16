@@ -2,8 +2,9 @@
 title: (RUS) Export a payment or cancel a payment exported to a client bank
 TOCTitle: (RUS) Export a payment or cancel a payment exported to a client bank
 ms:assetid: 874c531d-3ee4-414e-951f-836677f3bc63
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ678442(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ678442(v=AX.60)
 ms:contentKeyID: 49387672
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -57,9 +58,9 @@ You can use electronic exchange formats to export payments to a client bank, and
 
 ## See also
 
-[(RUS) Export of payments to client-bank (form)](https://technet.microsoft.com/en-us/library/jj678349\(v=ax.60\))
+[(RUS) Export of payments to client-bank (form)](https://technet.microsoft.com/library/jj678349\(v=ax.60\))
 
-[(RUS) Exported payments (form)](https://technet.microsoft.com/en-us/library/jj678336\(v=ax.60\))
+[(RUS) Exported payments (form)](https://technet.microsoft.com/library/jj678336\(v=ax.60\))
 
   
 

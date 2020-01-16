@@ -1,9 +1,10 @@
-﻿---
+---
 title: ReasonCodeLine.Equals Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: Equals Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeLine.Equals
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncodeline.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncodeline.equals(v=AX.60)
 ms:contentKeyID: 62208519
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -29,8 +30,8 @@ dev_langs:
 <tbody>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
-<td><a href="https://technet.microsoft.com/en-us/library/bsc2ak47(v=ax.60)">Equals(Object)</a></td>
-<td>(Inherited from <a href="https://technet.microsoft.com/en-us/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
+<td><a href="https://technet.microsoft.com/library/bsc2ak47(v=ax.60)">Equals(Object)</a></td>
+<td>(Inherited from <a href="https://technet.microsoft.com/library/e5kfa45b(v=ax.60)">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

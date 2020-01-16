@@ -2,8 +2,9 @@
 title: Queries
 TOCTitle: Queries
 ms:assetid: 402865ee-7d2e-4f9e-ad06-1fd3507b3975
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496946(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496946(v=AX.60)
 ms:contentKeyID: 36056714
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Post an update for a major refurbishment of a fixed asset
 TOCTitle: (RUS) Post an update for a major refurbishment of a fixed asset
 ms:assetid: f7b986da-0b64-48c3-bd3e-2e8cf05d4a04
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ923614(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ923614(v=AX.60)
 ms:contentKeyID: 52075455
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -96,9 +97,9 @@ You must complete the following tasks before you can post an update for a major 
 
 ## See also
 
-[(RUS) FA balances (form)](https://technet.microsoft.com/en-us/library/jj711559\(v=ax.60\))
+[(RUS) FA balances (form)](https://technet.microsoft.com/library/jj711559\(v=ax.60\))
 
-[(RUS) FA value models (form)](https://technet.microsoft.com/en-us/library/jj856113\(v=ax.60\))
+[(RUS) FA value models (form)](https://technet.microsoft.com/library/jj856113\(v=ax.60\))
 
   
 

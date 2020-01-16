@@ -2,8 +2,9 @@
 title: (RUS) Create and post a budget journal for a fixed asset acquisition
 TOCTitle: (RUS) Create and post a budget journal for a fixed asset acquisition
 ms:assetid: e1039dc7-40d9-427c-90f5-2541b2abff96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ711710(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ711710(v=AX.60)
 ms:contentKeyID: 49388033
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

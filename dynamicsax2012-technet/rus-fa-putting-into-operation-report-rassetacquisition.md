@@ -2,8 +2,9 @@
 title: (RUS) FA putting into operation report (RAssetAcquisition)
 TOCTitle: (RUS) FA putting into operation report (RAssetAcquisition)
 ms:assetid: 8e982f96-e06b-4af2-9a89-ad5f12679d61
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ955219(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ955219(v=AX.60)
 ms:contentKeyID: 51831851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -117,7 +118,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/en-us/library/jj923580\(v=ax.60\))
+[(RUS) Fixed assets (modified form)](https://technet.microsoft.com/library/jj923580\(v=ax.60\))
 
   
 

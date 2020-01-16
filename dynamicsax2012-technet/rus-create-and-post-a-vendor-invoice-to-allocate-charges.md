@@ -2,8 +2,9 @@
 title: (RUS) Create and post a vendor invoice to allocate charges
 TOCTitle: (RUS) Create and post a vendor invoice to allocate charges
 ms:assetid: 74e41753-4163-4de9-b6ad-d8be19bc6c0f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ841093(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ841093(v=AX.60)
 ms:contentKeyID: 50406252
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,9 +45,9 @@ Use this procedure to allocate charges to a vendor invoice that is not associate
 
 ## See also
 
-[Allocate charges (form)](https://technet.microsoft.com/en-us/library/hh697725\(v=ax.60\))
+[Allocate charges (form)](https://technet.microsoft.com/library/hh697725\(v=ax.60\))
 
-[Vendor invoice (form)](https://technet.microsoft.com/en-us/library/hh209644\(v=ax.60\))
+[Vendor invoice (form)](https://technet.microsoft.com/library/hh209644\(v=ax.60\))
 
   
 

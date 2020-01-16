@@ -2,8 +2,9 @@
 title: (RUS) Deferrals balances report (RDeferralsBalances)
 TOCTitle: (RUS) Deferrals balances report (RDeferralsBalances)
 ms:assetid: 810e70fa-1099-4656-ab50-c3b6fff52f98
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Xx187160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Xx187160(v=AX.60)
 ms:contentKeyID: 52055989
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

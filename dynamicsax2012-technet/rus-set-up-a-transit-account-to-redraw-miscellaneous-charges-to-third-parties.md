@@ -2,8 +2,9 @@
 title: (RUS) Set up a transit account to redraw miscellaneous charges to third parties
 TOCTitle: (RUS) Set up a transit account to redraw miscellaneous charges to third parties
 ms:assetid: 87986403-3908-4b77-888a-85d0728f4e50
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733251(v=AX.60)
 ms:contentKeyID: 49685217
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Use this procedure to set up a transit general ledger account that can be used t
 
 ## See also
 
-[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/en-us/library/jj923609\(v=ax.60\))
+[(RUS) Accounts payable parameters (modified form)](https://technet.microsoft.com/library/jj923609\(v=ax.60\))
 
 [(RUS) Set up a charges code](rus-set-up-a-charges-code.md)
 

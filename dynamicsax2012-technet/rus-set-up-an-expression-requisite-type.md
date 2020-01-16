@@ -2,8 +2,9 @@
 title: (RUS) Set up an expression requisite type
 TOCTitle: (RUS) Set up an expression requisite type
 ms:assetid: c642f32e-7d8e-487c-be91-fa82094b62a1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677695(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677695(v=AX.60)
 ms:contentKeyID: 49384994
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -48,9 +49,9 @@ Use the **Queries** and **Fixed requisites** forms to set up a requisite for the
 
 ## See also
 
-[(RUS) Queries (form)](https://technet.microsoft.com/en-us/library/jj710734\(v=ax.60\))
+[(RUS) Queries (form)](https://technet.microsoft.com/library/jj710734\(v=ax.60\))
 
-[(RUS) Fixed requisites (form)](https://technet.microsoft.com/en-us/library/jj710680\(v=ax.60\))
+[(RUS) Fixed requisites (form)](https://technet.microsoft.com/library/jj710680\(v=ax.60\))
 
 [(RUS) Set up a fixed requisite](rus-set-up-a-fixed-requisite.md)
 

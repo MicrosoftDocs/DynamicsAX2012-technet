@@ -2,8 +2,9 @@
 title: (RUS) About goods flow registers
 TOCTitle: (RUS) About goods flow registers
 ms:assetid: 647c475c-5210-4d2d-8777-cbc72921ea44
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ839670(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ839670(v=AX.60)
 ms:contentKeyID: 50396816
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: (RUS) Working with Retail
 TOCTitle: (RUS) Working with Retail
 ms:assetid: 2b07e5ab-2377-40e8-96bd-314441c7e7b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn313250(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn313250(v=AX.60)
 ms:contentKeyID: 54964146
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
