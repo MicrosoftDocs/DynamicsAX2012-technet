@@ -2,8 +2,9 @@
 title: About skills
 TOCTitle: About skills
 ms:assetid: 95741825-3544-4bf1-b593-774cb80b2c6e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498423(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498423(v=AX.60)
 ms:contentKeyID: 51020479
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ For example, you might track the following skills:
 
   - HTML – Ability to write HTML code.
 
-Before you can assign a skill to a person or a job, create a skill mapping search, or create a skill profile, you must enter information about the skills in the **Skills** form. For more information, see [Skills (form)](https://technet.microsoft.com/en-us/library/aa591940\(v=ax.60\)). For each skill, you can select a skill type and a rating model. Rating models help evaluate a person's actual level of skill, the level they should work to achieve, or the level of skill that is required for a job. For more information, see [Create a rating model](create-a-rating-model.md).
+Before you can assign a skill to a person or a job, create a skill mapping search, or create a skill profile, you must enter information about the skills in the **Skills** form. For more information, see [Skills (form)](https://technet.microsoft.com/library/aa591940\(v=ax.60\)). For each skill, you can select a skill type and a rating model. Rating models help evaluate a person's actual level of skill, the level they should work to achieve, or the level of skill that is required for a job. For more information, see [Create a rating model](create-a-rating-model.md).
 
 ## Specify job skills
 
@@ -37,7 +38,7 @@ When you enter information about a job, you can specify the skills that a person
 
 You can enter target skills or actual skills for workers, applicants, or contacts. A target skill is a skill that a person plans to achieve. An actual skill is a skill that a person currently has.
 
-For more information, see [Competency - Skills (form)](https://technet.microsoft.com/en-us/library/aa616428\(v=ax.60\)).
+For more information, see [Competency - Skills (form)](https://technet.microsoft.com/library/aa616428\(v=ax.60\)).
 
 ## Skill mapping searches
 
@@ -48,11 +49,11 @@ You can create a skill mapping search to find a worker, applicant, or contact pe
 > <P>Only workers, applicants, and contact persons who are selected to be included in skill mapping searches can be displayed in a skill mapping results list or included in a skill profile. To include a worker, applicant, or contact person in skill mapping searches, select either the <STRONG>Skill mapping</STRONG> check box or the <STRONG>Include in skill mapping</STRONG> check box in the following forms:</P>
 > <UL>
 > <LI>
-> <P><A href="https://technet.microsoft.com/en-us/library/hh209054(v=ax.60)">Worker (form)</A></P>
+> <P><A href="https://technet.microsoft.com/library/hh209054(v=ax.60)">Worker (form)</A></P>
 > <LI>
-> <P><A href="https://technet.microsoft.com/en-us/library/aa589409(v=ax.60)">Applicant (form)</A></P>
+> <P><A href="https://technet.microsoft.com/library/aa589409(v=ax.60)">Applicant (form)</A></P>
 > <LI>
-> <P><A href="https://technet.microsoft.com/en-us/library/aa574743(v=ax.60)">Contacts (form)</A></P></LI></UL>
+> <P><A href="https://technet.microsoft.com/library/aa574743(v=ax.60)">Contacts (form)</A></P></LI></UL>
 
 
 

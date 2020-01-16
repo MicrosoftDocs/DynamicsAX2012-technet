@@ -2,8 +2,9 @@
 title: Accounts receivable manager security role (CustInvoiceAccountsReceivableManager)
 TOCTitle: Accounts receivable manager security role (CustInvoiceAccountsReceivableManager)
 ms:assetid: 76627691-99ac-4403-ae1b-65a38c38cc48
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527103(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527103(v=AX.60)
 ms:contentKeyID: 37823155
+author: Khairunj
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

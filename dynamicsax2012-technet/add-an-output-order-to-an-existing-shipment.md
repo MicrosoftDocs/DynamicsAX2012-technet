@@ -2,8 +2,9 @@
 title: Add an output order to an existing shipment
 TOCTitle: Add an output order to an existing shipment
 ms:assetid: ee8ec27d-70e2-4023-b93a-22a22bbd98c8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243263(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243263(v=AX.60)
 ms:contentKeyID: 42518599
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,13 +34,13 @@ In situations where an order is received while a shipment to the customer is alr
 
 4.  In the **Output order** form, select the output orders to add to the shipment.
 
-For information about how to add output orders to a shipment automatically, see [Shipment templates (form)](https://technet.microsoft.com/en-us/library/aa634909\(v=ax.60\)).
+For information about how to add output orders to a shipment automatically, see [Shipment templates (form)](https://technet.microsoft.com/library/aa634909\(v=ax.60\)).
 
 ## See also
 
 [About output orders](about-output-orders.md)
 
-[Output orders (form)](https://technet.microsoft.com/en-us/library/aa635055\(v=ax.60\))
+[Output orders (form)](https://technet.microsoft.com/library/aa635055\(v=ax.60\))
 
   
 

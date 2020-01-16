@@ -2,8 +2,9 @@
 title: Add direct debit mandate information to a customer account
 TOCTitle: Add direct debit mandate information to a customer account
 ms:assetid: c2f241a3-1fc8-43b0-b3aa-89dd63c06163
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn268416(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn268416(v=AX.60)
 ms:contentKeyID: 54916954
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About visualization in product models
 TOCTitle: About visualization in product models
 ms:assetid: 72fa34e7-366d-4f00-9ee5-987c8e26a9e2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550012(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550012(v=AX.60)
 ms:contentKeyID: 36058133
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

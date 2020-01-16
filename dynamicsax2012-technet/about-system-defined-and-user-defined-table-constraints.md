@@ -2,8 +2,9 @@
 title: About system-defined and user-defined table constraints
 TOCTitle: About system-defined and user-defined table constraints
 ms:assetid: c0cca2bf-bb1d-4468-b2a0-cf5b8303e188
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597232(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597232(v=AX.60)
 ms:contentKeyID: 39519305
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

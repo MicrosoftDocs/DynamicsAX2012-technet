@@ -2,8 +2,9 @@
 title: About shipping documents
 TOCTitle: About shipping documents
 ms:assetid: bff50ca7-853b-4909-8829-b0f1dbb17b90
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498994(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498994(v=AX.60)
 ms:contentKeyID: 36059260
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

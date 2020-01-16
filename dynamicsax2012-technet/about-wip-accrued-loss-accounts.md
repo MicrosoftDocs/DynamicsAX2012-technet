@@ -2,8 +2,9 @@
 title: About WIP accrued loss accounts
 TOCTitle: About WIP accrued loss accounts
 ms:assetid: e3aebc21-dbb7-4d3e-9ad6-666ce4d83b7c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551379(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551379(v=AX.60)
 ms:contentKeyID: 36059725
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -120,7 +121,7 @@ In the **Project groups** form, on the **Estimate** FastTab, select the **Forese
 
 [About work in process (WIP) calculation](about-work-in-process-wip-calculation.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
   
 

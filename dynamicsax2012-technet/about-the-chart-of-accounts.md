@@ -2,8 +2,9 @@
 title: About the chart of accounts
 TOCTitle: About the chart of accounts
 ms:assetid: 3ef9f48f-f753-4fa0-b08c-849f498a3a9b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496941(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496941(v=AX.60)
 ms:contentKeyID: 36056696
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,9 +46,9 @@ Use the **Configure account structures** form to create account structures, whic
 
 [About main account types](about-main-account-types.md)
 
-[Chart of accounts (form)](https://technet.microsoft.com/en-us/library/aa618234\(v=ax.60\))
+[Chart of accounts (form)](https://technet.microsoft.com/library/aa618234\(v=ax.60\))
 
-[Configure account structures (form)](https://technet.microsoft.com/en-us/library/hh227362\(v=ax.60\))
+[Configure account structures (form)](https://technet.microsoft.com/library/hh227362\(v=ax.60\))
 
 [Link main accounts to main account categories](link-main-accounts-to-main-account-categories.md)
 

@@ -2,8 +2,9 @@
 title: About sum recalculations and posting of rounding differences
 TOCTitle: About sum recalculations and posting of rounding differences
 ms:assetid: 7d43c68a-3a5b-4df9-b96a-21c340754809
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571526(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571526(v=AX.60)
 ms:contentKeyID: 36058295
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

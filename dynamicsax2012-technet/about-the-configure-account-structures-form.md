@@ -2,8 +2,9 @@
 title: About the Configure account structures form
 TOCTitle: About the Configure account structures form
 ms:assetid: 621b68f2-20af-404d-8932-402959b0cb11
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209188(v=AX.60)
 ms:contentKeyID: 36057664
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -138,7 +139,7 @@ When you use multiple account structures, you can track information for specific
 
 ## See also
 
-[Configure account structures (form)](https://technet.microsoft.com/en-us/library/hh227362\(v=ax.60\))
+[Configure account structures (form)](https://technet.microsoft.com/library/hh227362\(v=ax.60\))
 
   
 

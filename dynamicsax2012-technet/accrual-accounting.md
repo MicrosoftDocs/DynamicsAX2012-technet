@@ -2,8 +2,9 @@
 title: " accrual accounting"
 TOCTitle: " accrual accounting"
 ms:assetid: DynamicsAXGlossary.234840
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/dynamicsaxglossary.234840(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.234840(v=AX.60)
 ms:contentKeyID: 36057849
+author: Khairunj
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

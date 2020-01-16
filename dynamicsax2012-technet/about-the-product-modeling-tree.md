@@ -2,8 +2,9 @@
 title: About the product modeling tree
 TOCTitle: About the product modeling tree
 ms:assetid: ba5f77ae-b327-45f6-8bc7-a9361ed56ffc
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498853(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498853(v=AX.60)
 ms:contentKeyID: 36059125
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

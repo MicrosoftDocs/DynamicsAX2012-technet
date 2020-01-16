@@ -2,8 +2,9 @@
 title: Add an attribute to a component
 TOCTitle: Add an attribute to a component
 ms:assetid: d3f0819a-9c58-464a-a936-a71725552457
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh597254(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh597254(v=AX.60)
 ms:contentKeyID: 39519332
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,7 +52,7 @@ Attributes are the values that you can select for a component when you configure
 
 ## See also
 
-[Attributes (form)](https://technet.microsoft.com/en-us/library/hh242817\(v=ax.60\))
+[Attributes (form)](https://technet.microsoft.com/library/hh242817\(v=ax.60\))
 
 [About product configuration models](about-product-configuration-models.md)
 
@@ -59,7 +60,7 @@ Attributes are the values that you can select for a component when you configure
 
 [Create components](create-components.md)
 
-[Components (form)](https://technet.microsoft.com/en-us/library/hh227490\(v=ax.60\))
+[Components (form)](https://technet.microsoft.com/library/hh227490\(v=ax.60\))
 
   
 

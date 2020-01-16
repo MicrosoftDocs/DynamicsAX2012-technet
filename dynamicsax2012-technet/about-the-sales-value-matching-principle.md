@@ -2,8 +2,9 @@
 title: About the sales value matching principle
 TOCTitle: About the sales value matching principle
 ms:assetid: 6cfbc581-b35f-4550-b1b8-6e6fb819cfe4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571207(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571207(v=AX.60)
 ms:contentKeyID: 36058017
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -87,11 +88,11 @@ Profit and loss.
 
 [Select accrued revenue for posting](select-accrued-revenue-for-posting.md)
 
-[Project groups (form)](https://technet.microsoft.com/en-us/library/aa590435\(v=ax.60\))
+[Project groups (form)](https://technet.microsoft.com/library/aa590435\(v=ax.60\))
 
-[Line properties (form)](https://technet.microsoft.com/en-us/library/aa590082\(v=ax.60\))
+[Line properties (form)](https://technet.microsoft.com/library/aa590082\(v=ax.60\))
 
-[Estimate (form)](https://technet.microsoft.com/en-us/library/aa590971\(v=ax.60\))
+[Estimate (form)](https://technet.microsoft.com/library/aa590971\(v=ax.60\))
 
   
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: Add or configure websites
 TOCTitle: Add or configure websites
 ms:assetid: 5b1f0280-ee34-45b7-a688-298f00163715
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh496419(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh496419(v=AX.60)
 ms:contentKeyID: 37071996
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

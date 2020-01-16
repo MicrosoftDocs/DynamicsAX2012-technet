@@ -2,8 +2,9 @@
 title: About system-generated quality orders
 TOCTitle: About system-generated quality orders
 ms:assetid: dcb92041-74b3-47f6-aada-19245f5c13d4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243194(v=AX.60)
 ms:contentKeyID: 44081053
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -114,7 +115,7 @@ The following table provides more information about how quality orders can be ge
 
 ## See also
 
-[Quality orders (form)](https://technet.microsoft.com/en-us/library/hh209521\(v=ax.60\))
+[Quality orders (form)](https://technet.microsoft.com/library/hh209521\(v=ax.60\))
 
 [About inventory blocking](about-inventory-blocking.md)
 

@@ -2,8 +2,9 @@
 title: About validation rule types
 TOCTitle: About validation rule types
 ms:assetid: b80a355c-55ab-4e91-84da-c10497a60b4d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa572249(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa572249(v=AX.60)
 ms:contentKeyID: 36059109
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

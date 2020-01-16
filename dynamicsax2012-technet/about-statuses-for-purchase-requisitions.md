@@ -2,8 +2,9 @@
 title: About statuses for purchase requisitions
 TOCTitle: About statuses for purchase requisitions
 ms:assetid: 47a8992a-64e5-434f-9fe8-98243745e196
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231397(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231397(v=AX.60)
 ms:contentKeyID: 36056915
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -165,11 +166,11 @@ In Microsoft Dynamics AX 2012 R2, requisition demand can now be fulfilled by a p
 
 [Key tasks: Create and submit a purchase requisition](key-tasks-create-and-submit-a-purchase-requisition.md)
 
-[Purchase requisitions (list page)](https://technet.microsoft.com/en-us/library/hh227485\(v=ax.60\))
+[Purchase requisitions (list page)](https://technet.microsoft.com/library/hh227485\(v=ax.60\))
 
-[Purchase requisitions (form)](https://technet.microsoft.com/en-us/library/hh209453\(v=ax.60\))
+[Purchase requisitions (form)](https://technet.microsoft.com/library/hh209453\(v=ax.60\))
 
-[Purchase requisitions - lines (form)](https://technet.microsoft.com/en-us/library/hh209354\(v=ax.60\))
+[Purchase requisitions - lines (form)](https://technet.microsoft.com/library/hh209354\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: Add a batch attribute group to an item for a customer
 TOCTitle: Add a batch attribute group to an item for a customer
 ms:assetid: ac7e416e-d0f1-4f88-ae0f-f357ec54e89e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242696(v=AX.60)
 ms:contentKeyID: 36058915
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -49,7 +50,7 @@ Use this procedure to add a batch attribute group to an item for a customer. Whe
 
 [About batch attributes](about-batch-attributes.md)
 
-[Customer specific (form)](https://technet.microsoft.com/en-us/library/hh209393\(v=ax.60\))
+[Customer specific (form)](https://technet.microsoft.com/library/hh209393\(v=ax.60\))
 
   
 

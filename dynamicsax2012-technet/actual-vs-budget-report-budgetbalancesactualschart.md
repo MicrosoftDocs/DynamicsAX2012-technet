@@ -2,8 +2,9 @@
 title: Actual vs. budget report (BudgetBalancesActualsChart)
 TOCTitle: Actual vs. budget report (BudgetBalancesActualsChart)
 ms:assetid: 4c77950a-6c53-4c09-914b-88de250dbbb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh801188(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh801188(v=AX.60)
 ms:contentKeyID: 43976706
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: About weighted average date
 TOCTitle: About weighted average date
 ms:assetid: a666ca8d-0044-49fe-9abd-c4b4444c8a5e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243048(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243048(v=AX.60)
 ms:contentKeyID: 36058872
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

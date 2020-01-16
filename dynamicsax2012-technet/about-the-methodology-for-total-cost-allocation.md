@@ -2,8 +2,9 @@
 title: About the methodology for total cost allocation
 TOCTitle: About the methodology for total cost allocation
 ms:assetid: 05a97501-8a5e-4cc3-b57b-f63bfbae21f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352179(v=AX.60)
 ms:contentKeyID: 36687810
+author: Khairunj
 ms.date: 04/10/2017
 mtps_version: v=AX.60
 audience: Application User
@@ -71,9 +72,9 @@ The **Burden** field in the **Co-products** form is an enumerator field and is o
 
 ## See also
 
-[Co-products (form)](https://technet.microsoft.com/en-us/library/hh328754\(v=ax.60\))
+[Co-products (form)](https://technet.microsoft.com/library/hh328754\(v=ax.60\))
 
-[Co-product cost allocation (form)](https://technet.microsoft.com/en-us/library/hh328679\(v=ax.60\))
+[Co-product cost allocation (form)](https://technet.microsoft.com/library/hh328679\(v=ax.60\))
 
   
 

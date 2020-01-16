@@ -2,8 +2,9 @@
 title: Add a BOM line to a component
 TOCTitle: Add a BOM line to a component
 ms:assetid: 1795d16b-aff4-4428-b66a-96b9f221b4b3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580577(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580577(v=AX.60)
 ms:contentKeyID: 39519057
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

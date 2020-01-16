@@ -2,8 +2,9 @@
 title: Add an Entity to Master Data Management
 TOCTitle: Add an Entity to Master Data Management
 ms:assetid: 689d14ed-f580-4d41-ac9c-08a880403c40
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720445(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720445(v=AX.60)
 ms:contentKeyID: 62224152
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ To add an existing entity to MDM, follow these steps.
     
     3.  Rename the query Mdm\<staging\_table\_name\>CTQuery.
 
-3.  Add the tables that the entity is based on as the data source for the change tracking query. You must add all the tables that the entity is based on as data sources for the query and create relationships between them. This allows MDM to monitor all of the related tables for changes. For instructions, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)).
+3.  Add the tables that the entity is based on as the data source for the change tracking query. You must add all the tables that the entity is based on as data sources for the query and create relationships between them. This allows MDM to monitor all of the related tables for changes. For instructions, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)).
     
 
     > [!NOTE]
@@ -109,7 +110,7 @@ To create a custom entity and add it to MDM, follow these steps.
     
     3.  Rename the query Mdm\<staging\_table\_name\>CTQuery.
 
-3.  Open a development workspace, and locate the change tracking query in the **Queries** node. Add the tables that the entity is based on as the data source for the change tracking query. You must add all the tables that the entity is based on as data sources for the query and create relationships between them. This allows MDM to monitor all of the related tables for changes. For instructions, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/en-us/library/bb314753\(v=ax.60\)).
+3.  Open a development workspace, and locate the change tracking query in the **Queries** node. Add the tables that the entity is based on as the data source for the change tracking query. You must add all the tables that the entity is based on as data sources for the query and create relationships between them. This allows MDM to monitor all of the related tables for changes. For instructions, see [How to: Create Queries by using the AOT](https://technet.microsoft.com/library/bb314753\(v=ax.60\)).
     
 
     > [!NOTE]

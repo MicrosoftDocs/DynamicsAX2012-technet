@@ -2,8 +2,9 @@
 title: About synchronization of charges
 TOCTitle: About synchronization of charges
 ms:assetid: 2165b497-93a8-4c20-ad1f-ab5d45546f4f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496788(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496788(v=AX.60)
 ms:contentKeyID: 36056165
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

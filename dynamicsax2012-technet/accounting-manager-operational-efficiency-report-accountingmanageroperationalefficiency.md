@@ -2,8 +2,9 @@
 title: Accounting manager operational efficiency report (AccountingManagerOperationalEfficiency)
 TOCTitle: Accounting manager operational efficiency report (AccountingManagerOperationalEfficiency)
 ms:assetid: d72fdd14-5b0d-4ffb-9df1-8cbcc5e632c4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh692481(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh692481(v=AX.60)
 ms:contentKeyID: 41702378
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

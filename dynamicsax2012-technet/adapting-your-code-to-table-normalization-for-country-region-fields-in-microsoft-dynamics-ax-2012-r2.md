@@ -2,8 +2,9 @@
 title: Adapting your code to table normalization for country/region fields in Microsoft Dynamics AX 2012 R2
 TOCTitle: Adapting your code to table normalization for country/region fields in Microsoft Dynamics AX 2012 R2
 ms:assetid: a384a96a-7043-4b5b-830b-ae8533dfacd1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ870682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ870682(v=AX.60)
 ms:contentKeyID: 50469187
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

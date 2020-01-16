@@ -1,9 +1,10 @@
-﻿---
+---
 title: AdditionalSignInOption Class (Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls)
 TOCTitle: AdditionalSignInOption Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.AdditionalSignInOption
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.additionalsigninoption(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.additionalsigninoption(v=AX.60)
 ms:contentKeyID: 62202613
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,10 +42,10 @@ public ref class AdditionalSignInOption : public BaseUserControl
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.Web.UI.Control](https://technet.microsoft.com/en-us/library/983zwx2h\(v=ax.60\))  
-    [System.Web.UI.TemplateControl](https://technet.microsoft.com/en-us/library/2174ac61\(v=ax.60\))  
-      [System.Web.UI.UserControl](https://technet.microsoft.com/en-us/library/cdhdhykx\(v=ax.60\))  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.Web.UI.Control](https://technet.microsoft.com/library/983zwx2h\(v=ax.60\))  
+    [System.Web.UI.TemplateControl](https://technet.microsoft.com/library/2174ac61\(v=ax.60\))  
+      [System.Web.UI.UserControl](https://technet.microsoft.com/library/cdhdhykx\(v=ax.60\))  
         [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.BaseUserControl](baseusercontrol-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md)  
           Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.AdditionalSignInOption  
 

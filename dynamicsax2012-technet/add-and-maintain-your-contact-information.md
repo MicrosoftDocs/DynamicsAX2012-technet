@@ -2,8 +2,9 @@
 title: Add and maintain your contact information
 TOCTitle: Add and maintain your contact information
 ms:assetid: 511231f4-f60c-4e09-a471-ee1113d4038c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271530(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271530(v=AX.60)
 ms:contentKeyID: 36384162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

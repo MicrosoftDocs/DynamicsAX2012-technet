@@ -2,8 +2,9 @@
 title: About shipment templates and priorities
 TOCTitle: About shipment templates and priorities
 ms:assetid: d9ecb9a1-e63d-451c-9940-c656fd19299b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213715(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213715(v=AX.60)
 ms:contentKeyID: 36059658
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ If no template is found, you can create a shipment manually in the **Shipments**
 
 ## See also
 
-[Shipment templates (form)](https://technet.microsoft.com/en-us/library/aa634909\(v=ax.60\))
+[Shipment templates (form)](https://technet.microsoft.com/library/aa634909\(v=ax.60\))
 
   
 

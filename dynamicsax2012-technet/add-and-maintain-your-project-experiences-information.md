@@ -2,8 +2,9 @@
 title: Add and maintain your project experiences information
 TOCTitle: Add and maintain your project experiences information
 ms:assetid: 5d1baad6-3f73-4875-9db0-71dd6b243152
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271543(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271543(v=AX.60)
 ms:contentKeyID: 36384175
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

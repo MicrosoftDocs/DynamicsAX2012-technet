@@ -1,9 +1,10 @@
-﻿---
+---
 title: Add-AXReportServerConfiguration
 TOCTitle: Add-AXReportServerConfiguration
 ms:assetid: 3FB599F0-6B86-4D0E-848B-D9C4E470AE30
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ720256(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ720256(v=AX.60)
 ms:contentKeyID: 49720048
+author: Khairunj
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

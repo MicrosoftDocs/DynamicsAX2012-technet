@@ -2,8 +2,9 @@
 title: Add and maintain your professional experience information
 TOCTitle: Add and maintain your professional experience information
 ms:assetid: ee3fff9c-095d-4c5e-af52-5b4b1ff5816f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299221(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299221(v=AX.60)
 ms:contentKeyID: 36384328
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

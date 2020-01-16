@@ -2,8 +2,9 @@
 title: Add comments to goals
 TOCTitle: Add comments to goals
 ms:assetid: 004b3cbc-9e4b-468f-9df7-0a4b43c0ad0d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg230649(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg230649(v=AX.60)
 ms:contentKeyID: 43894459
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

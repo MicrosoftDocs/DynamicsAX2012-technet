@@ -2,8 +2,9 @@
 title: Add and maintain your positions of trust
 TOCTitle: Add and maintain your positions of trust
 ms:assetid: 3af9f88d-4f7a-4732-955b-f33738ef0dac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271502(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271502(v=AX.60)
 ms:contentKeyID: 36384134
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

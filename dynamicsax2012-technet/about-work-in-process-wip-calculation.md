@@ -2,8 +2,9 @@
 title: About work in process (WIP) calculation
 TOCTitle: About work in process (WIP) calculation
 ms:assetid: ecc03d50-ae70-4079-a3b3-3fad31040d9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551530(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551530(v=AX.60)
 ms:contentKeyID: 42520742
+author: Khairunj
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

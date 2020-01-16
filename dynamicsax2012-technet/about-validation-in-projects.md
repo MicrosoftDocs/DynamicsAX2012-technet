@@ -2,8 +2,9 @@
 title: About validation in projects
 TOCTitle: About validation in projects
 ms:assetid: 89c6fab9-56cb-4cfb-b803-bc3f2ee24830
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498234(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498234(v=AX.60)
 ms:contentKeyID: 36966734
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -41,7 +42,7 @@ To use the validation feature, you must complete the following tasks:
     
       - **Mandatory** – A specified list of projects/categories, project/workers, and category/workers is shown. Only options that appear in the list can be selected.
 
-  - Define category and worker validation assignments for a selected project. For more information, see [Project validation worker assignments (form)](https://technet.microsoft.com/en-us/library/aa583039\(v=ax.60\)) and [Project validation category assignments (form)](https://technet.microsoft.com/en-us/library/hh209635\(v=ax.60\)).
+  - Define category and worker validation assignments for a selected project. For more information, see [Project validation worker assignments (form)](https://technet.microsoft.com/library/aa583039\(v=ax.60\)) and [Project validation category assignments (form)](https://technet.microsoft.com/library/hh209635\(v=ax.60\)).
 
 **Example**
 
@@ -61,11 +62,11 @@ In addition to the categories that are specified for the junior sales personnel 
 
 [Enable validation parameters](enable-validation-parameters.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
-[Project validation worker assignments (form)](https://technet.microsoft.com/en-us/library/aa583039\(v=ax.60\))
+[Project validation worker assignments (form)](https://technet.microsoft.com/library/aa583039\(v=ax.60\))
 
-[Project validation category assignments (form)](https://technet.microsoft.com/en-us/library/hh209635\(v=ax.60\))
+[Project validation category assignments (form)](https://technet.microsoft.com/library/hh209635\(v=ax.60\))
 
   
 

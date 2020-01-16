@@ -2,8 +2,9 @@
 title: About setting up profit calculation
 TOCTitle: About setting up profit calculation
 ms:assetid: 462757ec-3704-4c77-977d-7236745f01f3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh416703(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh416703(v=AX.60)
 ms:contentKeyID: 36931870
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -41,7 +42,7 @@ If you choose to calculate profit based on the gross margin ratio in the **Proje
 
 [About project statements](about-project-statements.md)
 
-[Project management and accounting parameters (form)](https://technet.microsoft.com/en-us/library/aa599440\(v=ax.60\))
+[Project management and accounting parameters (form)](https://technet.microsoft.com/library/aa599440\(v=ax.60\))
 
   
 

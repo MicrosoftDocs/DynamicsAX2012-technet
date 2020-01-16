@@ -2,8 +2,9 @@
 title: About setting up retail stores (Retail essentials)
 TOCTitle: About setting up retail stores (Retail essentials)
 ms:assetid: 9e8fd99f-92a1-498b-a6e7-a294fe15d2db
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn756359(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn756359(v=AX.60)
 ms:contentKeyID: 62524062
+author: Khairunj
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---
@@ -47,8 +48,8 @@ The following table shows the tasks that you must complete before you can set up
 </tr>
 <tr class="odd">
 <td><p>Enter information and select options to set up Retail essentials for your organization.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597194(v=ax.60)">Retail parameters (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597194(v=ax.60)">Retail parameters (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh597151(v=ax.60)">Retail scheduler parameters (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Set up the methods of payment that the store accepts.</p>

@@ -2,8 +2,9 @@
 title: Accounts payable payments clerk security role (PaymAccountsPayablePaymentsClerk)
 TOCTitle: Accounts payable payments clerk security role (PaymAccountsPayablePaymentsClerk)
 ms:assetid: e5e641ef-8b86-449a-bc1f-fd1029280fbf
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527147(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527147(v=AX.60)
 ms:contentKeyID: 37823198
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

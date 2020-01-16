@@ -2,8 +2,9 @@
 title: Add all batch attributes to an item for a customer
 TOCTitle: Add all batch attributes to an item for a customer
 ms:assetid: 6879d6ae-2aee-49be-85f9-6a0dc0453582
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242603(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242603(v=AX.60)
 ms:contentKeyID: 36057957
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -53,7 +54,7 @@ Use this procedure to add all batch attributes to an item for a customer.
 
 [About batch attributes](about-batch-attributes.md)
 
-[Customer specific (form)](https://technet.microsoft.com/en-us/library/hh209393\(v=ax.60\))
+[Customer specific (form)](https://technet.microsoft.com/library/hh209393\(v=ax.60\))
 
   
 

@@ -2,8 +2,9 @@
 title: About synchronization of disposition codes
 TOCTitle: About synchronization of disposition codes
 ms:assetid: b29861eb-be5c-478a-b105-8ed776829fca
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg232405(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg232405(v=AX.60)
 ms:contentKeyID: 36059059
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

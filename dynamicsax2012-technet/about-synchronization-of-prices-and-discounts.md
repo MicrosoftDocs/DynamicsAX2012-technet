@@ -2,8 +2,9 @@
 title: About synchronization of prices and discounts
 TOCTitle: About synchronization of prices and discounts
 ms:assetid: 4a280265-2c05-472b-929c-46a493a22f60
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa497008(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa497008(v=AX.60)
 ms:contentKeyID: 36056956
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

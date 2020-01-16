@@ -2,8 +2,9 @@
 title: About the Whole amount and Interval options for sales tax codes
 TOCTitle: About the Whole amount and Interval options for sales tax codes
 ms:assetid: 9c9e1646-c721-492a-ae75-cc31c8c488a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571696(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571696(v=AX.60)
 ms:contentKeyID: 39519255
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -49,7 +50,7 @@ If an amount falls outside the intervals that are defined by upper and lower lim
 
 
 > [!NOTE]
-> <P>To set up tax intervals for the sales tax code that you select in the <STRONG>Sales tax codes</STRONG> form, click <STRONG>Values</STRONG> in that form. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa500790(v=ax.60)">Values of sales tax codes (form)</A>.</P>
+> <P>To set up tax intervals for the sales tax code that you select in the <STRONG>Sales tax codes</STRONG> form, click <STRONG>Values</STRONG> in that form. For more information, see <A href="https://technet.microsoft.com/library/aa500790(v=ax.60)">Values of sales tax codes (form)</A>.</P>
 
 
 

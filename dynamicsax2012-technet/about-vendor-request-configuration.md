@@ -2,8 +2,9 @@
 title: About vendor request configuration
 TOCTitle: About vendor request configuration
 ms:assetid: 6114cc41-3f11-4297-85fe-4a148c0ec3e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209168(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209168(v=AX.60)
 ms:contentKeyID: 36057640
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -130,7 +131,7 @@ The following table defines the types of vendor requests that are available and 
 
 ## See also
 
-[Vendor request configurations (form)](https://technet.microsoft.com/en-us/library/hh209430\(v=ax.60\))
+[Vendor request configurations (form)](https://technet.microsoft.com/library/hh209430\(v=ax.60\))
 
 [Configuring Enterprise Portal for vendor requests](configuring-enterprise-portal-for-vendor-requests.md)
 
