@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Report Bound to a Report Data Provider Class (X++ Business Logic)'
 TOCTitle: 'Walkthrough: Creating a Report Bound to a Report Data Provider Class (X++ Business Logic)'
 ms:assetid: c9681e02-68cd-4be5-a6b0-cbc163070d1a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724119(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724119(v=AX.60)
 ms:contentKeyID: 35133478
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -65,7 +66,7 @@ Data for an RDP report is preprocessed and then stored in a temporary table. The
 
   - Use a TempDB temporary table for large datasets to improve performance.
 
-For more information, see [Temporary Tables and the TableType Property](https://technet.microsoft.com/en-us/library/gg863308\(v=ax.60\)). In this section you will create a temporary table to store the data for the report.
+For more information, see [Temporary Tables and the TableType Property](https://technet.microsoft.com/library/gg863308\(v=ax.60\)). In this section you will create a temporary table to store the data for the report.
 
 ### To create a temporary table
 

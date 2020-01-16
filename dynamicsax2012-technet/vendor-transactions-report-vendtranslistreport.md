@@ -2,8 +2,9 @@
 title: Vendor transactions report (VendTransListReport)
 TOCTitle: Vendor transactions report (VendTransListReport)
 ms:assetid: 38a30d16-2f8b-41e8-884d-aeada174c21f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa553670(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa553670(v=AX.60)
 ms:contentKeyID: 37831996
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

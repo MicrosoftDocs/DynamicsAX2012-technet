@@ -2,8 +2,9 @@
 title: The load architecture of Microsoft Dynamics ERP RapidStart Services
 TOCTitle: The load architecture of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: 81b0ac15-a16f-4a93-aaf3-cd4b5098598c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn221772(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn221772(v=AX.60)
 ms:contentKeyID: 54161569
+author: Khairunj
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

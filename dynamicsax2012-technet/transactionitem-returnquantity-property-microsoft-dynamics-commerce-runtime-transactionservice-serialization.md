@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionItem.ReturnQuantity Property  (Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization)
 TOCTitle: ReturnQuantity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.TransactionItem.ReturnQuantity
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.transactionitem.returnquantity(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.transactionitem.returnquantity(v=AX.60)
 ms:contentKeyID: 49849829
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property Decimal ReturnQuantity {
 
 #### Property Value
 
-Type: [System.Decimal](https://technet.microsoft.com/en-us/library/1k2e8atx\(v=ax.60\))  
+Type: [System.Decimal](https://technet.microsoft.com/library/1k2e8atx\(v=ax.60\))  
 The return quantity.  
 
 ## See Also

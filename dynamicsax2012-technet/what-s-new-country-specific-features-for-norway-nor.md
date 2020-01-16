@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Norway (NOR)"
 TOCTitle: Country-specific features for Norway
 ms:assetid: 6dd6738b-935d-4505-b84d-8bc8d347813f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527127(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527127(v=AX.60)
 ms:contentKeyID: 59623256
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

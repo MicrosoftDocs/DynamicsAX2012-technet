@@ -1,9 +1,10 @@
-﻿---
+---
 title: TradeAgreement.IsVariantExactMatch Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: IsVariantExactMatch Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TradeAgreement.IsVariantExactMatch(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.tradeagreement.isvariantexactmatch(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tradeagreement.isvariantexactmatch(v=AX.60)
 ms:contentKeyID: 62212375
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -56,7 +57,7 @@ bool IsVariantExactMatch(
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 A value indicating whether it's exact match for the variant.  
 
 ## See Also

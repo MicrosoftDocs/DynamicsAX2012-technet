@@ -2,8 +2,9 @@
 title: (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS
 TOCTitle: (SWE) Set up parameters for a control unit in Microsoft Dynamics AX for Retail POS
 ms:assetid: a1d8ca52-7052-4d19-b8f8-842e7882d3a8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn857499(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn857499(v=AX.60)
 ms:contentKeyID: 63396901
+author: Khairunj
 ms.date: 12/12/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -71,7 +72,7 @@ To set up a functionality profile, and then assign it to a store, follow these s
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Profiles** \> **Functionality profiles**.
 
-2.  Create a new functionality profile or select an existing functionality profile. For more information, see “Set up functionality profiles” in [Set up and assign functionality profiles](set-up-and-assign-functionality-profiles.md) and [POS functionality profile (form)](https://technet.microsoft.com/en-us/library/hh597181\(v=ax.60\)).
+2.  Create a new functionality profile or select an existing functionality profile. For more information, see “Set up functionality profiles” in [Set up and assign functionality profiles](set-up-and-assign-functionality-profiles.md) and [POS functionality profile (form)](https://technet.microsoft.com/library/hh597181\(v=ax.60\)).
 
 3.  On the **General** FastTab, in the **ISO** field, select the ISO code for Sweden.
 
@@ -115,7 +116,7 @@ Use **Receipt formats** form to set up the receipt formats for the printer at th
 
 1.  Click **Retail** \> **Setup** \> **POS** \> **Receipt formats**.
 
-2.  Click **New** to create a receipt format or select an existing receipt format from the left pane. Specify the parameters to set up the receipt format. For more information, see [Set up receipt formats](set-up-receipt-formats.md) and [Receipt formats (form)](https://technet.microsoft.com/en-us/library/hh597228\(v=ax.60\)).
+2.  Click **New** to create a receipt format or select an existing receipt format from the left pane. Specify the parameters to set up the receipt format. For more information, see [Set up receipt formats](set-up-receipt-formats.md) and [Receipt formats (form)](https://technet.microsoft.com/library/hh597228\(v=ax.60\)).
 
 3.  Click **Designer** to open the **Receipt format designer** form.
 
@@ -135,7 +136,7 @@ To initialize number sequences for the cash register’s transactions, follow th
 
 1.  Click **Retail** \> **Periodic** \> **Retail POS redeployment**.
 
-2.  Click **New** to create a new record for the store and register. For more information, see [Retail POS redeployment (form)](https://technet.microsoft.com/en-us/library/jj735277\(v=ax.60\)).
+2.  Click **New** to create a new record for the store and register. For more information, see [Retail POS redeployment (form)](https://technet.microsoft.com/library/jj735277\(v=ax.60\)).
 
 3.  Click **Edit POS counters**, and then modify the value in the **Receipt for training sale**, if required. You can also initialize the amount counters for **Grand sales** and **Grand return** fields on the **POS amount counter details** FastTab.
 

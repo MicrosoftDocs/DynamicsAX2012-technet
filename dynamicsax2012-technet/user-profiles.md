@@ -2,8 +2,9 @@
 title: User profiles
 TOCTitle: User profiles
 ms:assetid: 7f246e69-70e9-4fc8-8a49-a195451f9129
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571540(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571540(v=AX.60)
 ms:contentKeyID: 36676395
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

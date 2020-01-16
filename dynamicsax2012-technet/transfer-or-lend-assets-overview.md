@@ -2,8 +2,9 @@
 title: Transfer or lend assets overview
 TOCTitle: Transfer or lend assets overview
 ms:assetid: 3dba59ae-5b10-4f2e-ba60-80b00fc2be1e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231166(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231166(v=AX.60)
 ms:contentKeyID: 36056683
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

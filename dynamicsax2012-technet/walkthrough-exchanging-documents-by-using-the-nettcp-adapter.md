@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Exchanging documents by using the NetTcp adapter'
 TOCTitle: 'Walkthrough: Exchanging documents by using the NetTcp adapter'
 ms:assetid: 17efbc86-f582-4a07-8c7b-a028759956b0
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352231(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352231(v=AX.60)
 ms:contentKeyID: 36687856
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

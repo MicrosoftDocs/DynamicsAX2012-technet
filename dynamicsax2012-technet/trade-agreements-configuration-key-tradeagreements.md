@@ -2,8 +2,9 @@
 title: Trade agreements configuration key (TradeAgreements)
 TOCTitle: Trade agreements configuration key (TradeAgreements)
 ms:assetid: ec14a834-1be3-4022-abdd-05f31dec8d8c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa599795(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa599795(v=AX.60)
 ms:contentKeyID: 36997778
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Price details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576993(v=ax.60)">Accounts receivable parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +84,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Price details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh208706(v=ax.60)">Procurement and sourcing parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh208706(v=ax.60)">Procurement and sourcing parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -151,7 +152,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

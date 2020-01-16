@@ -2,8 +2,9 @@
 title: (THA) Withholding tax (Por Ngor Dor) report (TaxWithholdReportPND_TH)
 TOCTitle: (THA) Withholding tax (Por Ngor Dor) report (TaxWithholdReportPND_TH)
 ms:assetid: f016c4f5-2798-46a5-b28e-91c63482279c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352295(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352295(v=AX.60)
 ms:contentKeyID: 36687923
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -130,7 +131,7 @@ If you are a developer, you can learn more about where the data on a report come
 
 ## See also
 
-[(THA) Withholding tax report setup (form)](https://technet.microsoft.com/en-us/library/hh227536\(v=ax.60\))
+[(THA) Withholding tax report setup (form)](https://technet.microsoft.com/library/hh227536\(v=ax.60\))
 
   
 

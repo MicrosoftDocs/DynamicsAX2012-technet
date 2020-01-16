@@ -2,8 +2,9 @@
 title: Temporary group assignment
 TOCTitle: Temporary group assignment
 ms:assetid: 638ec4d4-8084-43f0-941c-f157e7b61596
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571135(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571135(v=AX.60)
 ms:contentKeyID: 36057685
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,7 +30,7 @@ In order to handle a situation where a worker is seconded to another team, it is
 
 ## See also
 
-[Temporary group assignment (form)](https://technet.microsoft.com/en-us/library/aa553475\(v=ax.60\))
+[Temporary group assignment (form)](https://technet.microsoft.com/library/aa553475\(v=ax.60\))
 
 [About registration groups for time and attendance](about-registration-groups-for-time-and-attendance.md)
 

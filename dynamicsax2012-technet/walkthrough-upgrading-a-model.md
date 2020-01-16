@@ -2,8 +2,9 @@
 title: 'Walkthrough: Upgrading a Model'
 TOCTitle: 'Walkthrough: Upgrading a Model'
 ms:assetid: b9ee10ac-8f86-4fcb-b50a-8683ecf79439
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh456302(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh456302(v=AX.60)
 ms:contentKeyID: 36997728
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

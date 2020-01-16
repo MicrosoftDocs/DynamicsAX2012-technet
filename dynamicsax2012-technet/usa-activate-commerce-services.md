@@ -2,8 +2,9 @@
 title: (USA) Activate Commerce Services
 TOCTitle: (USA) Activate Commerce Services
 ms:assetid: 5218e681-65f3-49de-b92c-681f3c18085b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh696876(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh696876(v=AX.60)
 ms:contentKeyID: 42517322
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

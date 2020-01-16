@@ -1,9 +1,10 @@
-﻿---
+---
 title: Troubleshoot Issues with Printing and Emailing Reports
 TOCTitle: Troubleshoot Issues with Printing and Emailing Reports
 ms:assetid: 58f3022d-37cf-4995-8443-573f7b8025d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn275971(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn275971(v=AX.60)
 ms:contentKeyID: 54628731
+author: Khairunj
 ms.date: 09/18/2013
 mtps_version: v=AX.60
 ---

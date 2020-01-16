@@ -2,8 +2,9 @@
 title: Worker/item actual transactions report (ProjListTransID)
 TOCTitle: Worker/item actual transactions report (ProjListTransID)
 ms:assetid: 2ba43acf-cb35-4d3b-bff9-9f2302bca095
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa552286(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa552286(v=AX.60)
 ms:contentKeyID: 37831987
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

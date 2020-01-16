@@ -1,9 +1,10 @@
-﻿---
+---
 title: UserLogOffServiceRequest Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: UserLogOffServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UserLogOffServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Device,System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.LogOnConfiguration)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.userlogoffservicerequest.userlogoffservicerequest(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.userlogoffservicerequest.userlogoffservicerequest(v=AX.60)
 ms:contentKeyID: 65319885
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -67,12 +68,12 @@ UserLogOffServiceRequest(
 <!-- end list -->
 
   - staffId  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
   - authenticationProvider  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 

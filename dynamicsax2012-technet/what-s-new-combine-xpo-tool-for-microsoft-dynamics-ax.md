@@ -2,8 +2,9 @@
 title: "What's new: Combine XPO Tool for Microsoft Dynamics AX"
 TOCTitle: Combine XPO Tool for Microsoft Dynamics AX
 ms:assetid: e7fd5c3c-151f-488f-94c1-d33292c5e864
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527262(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527262(v=AX.60)
 ms:contentKeyID: 59623390
+author: Khairunj
 ms.date: 10/29/2014
 mtps_version: v=AX.60
 ---
@@ -17,7 +18,7 @@ The Microsoft Dynamics AX 2012 Combine XPO Tool, is a command-line program that 
 
 As of AX 2012 R2, the Combine XPO Tool is available in the Microsoft Dynamics AX\\60\\Management Utilities folder. (The beta version of the tool is available on Microsoft Dynamics Lifecycle Services).
 
-Read the documentation: [Combine XPO Tool User Guide](https://technet.microsoft.com/en-us/library/jj225589\(v=ax.60\))
+Read the documentation: [Combine XPO Tool User Guide](https://technet.microsoft.com/library/jj225589\(v=ax.60\))
 
 ## November 2014 Update
 

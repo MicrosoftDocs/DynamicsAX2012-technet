@@ -2,8 +2,9 @@
 title: 'Walkthrough: Configuring an outbound integration port for payments'
 TOCTitle: 'Walkthrough: Configuring an outbound integration port for payments'
 ms:assetid: b2a8b438-981d-49ec-ab1a-5dbbde686a57
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh446522(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh446522(v=AX.60)
 ms:contentKeyID: 36956800
+author: Khairunj
 ms.date: 08/22/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -271,29 +272,29 @@ Before an electronic payment can be generated for a customer or a vendor, a user
 
   - [Specify when a vendor bank account is active](specify-when-a-vendor-bank-account-is-active.md)
 
-  - [Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
+  - [Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\))
 
-  - [Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+  - [Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
 A user can enter a vendor invoice, and then enter and settle a payment with the invoice. Then, the user can generate the payment. For information about how to create vendor invoices, see [Key tasks: Vendor invoices](key-tasks-vendor-invoices.md).
 
 ## See also
 
-[AIF outbound ports (form)](https://technet.microsoft.com/en-us/library/hh227495\(v=ax.60\))
+[AIF outbound ports (form)](https://technet.microsoft.com/library/hh227495\(v=ax.60\))
 
-[AIF outbound transforms (form)](https://technet.microsoft.com/en-us/library/hh208828\(v=ax.60\))
+[AIF outbound transforms (form)](https://technet.microsoft.com/library/hh208828\(v=ax.60\))
 
-[Batch job (form)](https://technet.microsoft.com/en-us/library/aa585684\(v=ax.60\))
+[Batch job (form)](https://technet.microsoft.com/library/aa585684\(v=ax.60\))
 
-[Generate payments - customer (class form)](https://technet.microsoft.com/en-us/library/aa554105\(v=ax.60\))
+[Generate payments - customer (class form)](https://technet.microsoft.com/library/aa554105\(v=ax.60\))
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
-[Outbound ports for electronic payments (form)](https://technet.microsoft.com/en-us/library/hh208616\(v=ax.60\))
+[Outbound ports for electronic payments (form)](https://technet.microsoft.com/library/hh208616\(v=ax.60\))
 
-[Payment processing data (form)](https://technet.microsoft.com/en-us/library/hh242773\(v=ax.60\))
+[Payment processing data (form)](https://technet.microsoft.com/library/hh242773\(v=ax.60\))
 
-[Recurrence (form)](https://technet.microsoft.com/en-us/library/aa616143\(v=ax.60\))
+[Recurrence (form)](https://technet.microsoft.com/library/aa616143\(v=ax.60\))
 
   
 

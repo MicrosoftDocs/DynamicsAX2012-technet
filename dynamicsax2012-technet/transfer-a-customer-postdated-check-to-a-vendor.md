@@ -2,8 +2,9 @@
 title: Transfer a customer postdated check to a vendor
 TOCTitle: Transfer a customer postdated check to a vendor
 ms:assetid: 6270c8b9-d1da-44b3-b5db-5fd9f7c73459
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209194(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209194(v=AX.60)
 ms:contentKeyID: 36057671
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ You can view a list of all of the postdated checks that are transferred to the v
 
 [Register and post a postdated check from a customer](register-and-post-a-postdated-check-from-a-customer.md)
 
-[Customer postdated checks (form)](https://technet.microsoft.com/en-us/library/hh227493\(v=ax.60\))
+[Customer postdated checks (form)](https://technet.microsoft.com/library/hh227493\(v=ax.60\))
 
   
 

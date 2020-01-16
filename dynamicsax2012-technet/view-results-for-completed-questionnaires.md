@@ -2,8 +2,9 @@
 title: View results for completed questionnaires
 TOCTitle: View results for completed questionnaires
 ms:assetid: f8931ebe-21c9-41d0-b98d-972df2d493b5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh299229(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh299229(v=AX.60)
 ms:contentKeyID: 36384335
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

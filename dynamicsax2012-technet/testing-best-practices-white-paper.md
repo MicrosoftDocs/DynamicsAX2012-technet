@@ -2,8 +2,9 @@
 title: Testing best practices (White paper)
 TOCTitle: Testing best practices
 ms:assetid: 36a45353-06a9-434f-8202-bdf25854fcac
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh500189(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh500189(v=AX.60)
 ms:contentKeyID: 37820256
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

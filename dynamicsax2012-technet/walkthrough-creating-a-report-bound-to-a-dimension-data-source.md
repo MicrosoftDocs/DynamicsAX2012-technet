@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Creating a Report Bound to a Dimension Data Source'
 TOCTitle: 'Walkthrough: Creating a Report Bound to a Dimension Data Source'
 ms:assetid: b692d6ad-bcad-41fa-a74f-2ab3bb7030f1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg724097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg724097(v=AX.60)
 ms:contentKeyID: 35133455
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
@@ -345,7 +346,7 @@ Next you can deploy the report, add the report to the AOT, and access it from a 
 
 
 > [!NOTE]
-> <P>To create a report that has a static report parameter using the dimension combination ID and the segmented entry control for an account number, you must create a custom report run UI. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh300646(v=ax.60)">Segmented Entry</A> and the <A href="report-programming-guide.md">Report Programming Guide</A>.</P>
+> <P>To create a report that has a static report parameter using the dimension combination ID and the segmented entry control for an account number, you must create a custom report run UI. For more information, see <A href="https://technet.microsoft.com/library/hh300646(v=ax.60)">Segmented Entry</A> and the <A href="report-programming-guide.md">Report Programming Guide</A>.</P>
 
 
 

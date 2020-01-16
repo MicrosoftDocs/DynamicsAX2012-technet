@@ -2,8 +2,9 @@
 title: (USA) Set up vendors for 1099 reporting
 TOCTitle: (USA) Set up vendors for 1099 reporting
 ms:assetid: ea66f8ce-1d0e-441a-a65c-90a4a3139f12
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa551492(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa551492(v=AX.60)
 ms:contentKeyID: 36059851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -79,9 +80,9 @@ Before you post vendor transactions, set up 1099 information for each vendor who
 
 [(USA) Form 1099 checklist](usa-form-1099-checklist.md)
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
-[Vendor transactions (form)](https://technet.microsoft.com/en-us/library/aa572427\(v=ax.60\))
+[Vendor transactions (form)](https://technet.microsoft.com/library/aa572427\(v=ax.60\))
 
   
 

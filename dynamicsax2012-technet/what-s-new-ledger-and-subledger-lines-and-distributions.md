@@ -2,8 +2,9 @@
 title: "What's new: Ledger and subledger lines and distributions"
 TOCTitle: Ledger and subledger lines and distributions
 ms:assetid: a7a697ad-25fc-4861-8830-fb756a92df96
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527213(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527213(v=AX.60)
 ms:contentKeyID: 59623342
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

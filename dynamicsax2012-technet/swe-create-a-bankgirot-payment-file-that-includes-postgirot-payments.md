@@ -2,8 +2,9 @@
 title: (SWE) Create a Bankgirot payment file that includes Postgirot payments
 TOCTitle: (SWE) Create a Bankgirot payment file that includes Postgirot payments
 ms:assetid: 8d1b3600-50a1-4ce5-a066-df323c5361f8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242879(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242879(v=AX.60)
 ms:contentKeyID: 36058488
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -51,9 +52,9 @@ In Sweden, vendor invoice payment files are sent to two payment clearing service
 
 ## See also
 
-[Bankgirot (SE) (form)](https://technet.microsoft.com/en-us/library/hh209643\(v=ax.60\))
+[Bankgirot (SE) (form)](https://technet.microsoft.com/library/hh209643\(v=ax.60\))
 
-[Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\))
+[Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\))
 
 [(SWE) Set up a method of payment for Bankgirot payments](swe-set-up-a-method-of-payment-for-bankgirot-payments.md)
 

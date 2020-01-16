@@ -2,8 +2,9 @@
 title: Telemarketing configuration key (SmmTM)
 TOCTitle: Telemarketing configuration key (SmmTM)
 ms:assetid: 2c32882d-dfe3-4e04-a587-16a1d1fb21e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500792(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500792(v=AX.60)
 ms:contentKeyID: 36931821
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -39,7 +40,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Call lists</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa498891(v=ax.60)">Call lists (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa498891(v=ax.60)">Call lists (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>All call lists</strong></p></td>
@@ -51,7 +52,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Responsibilities distribution</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa500570(v=ax.60)">Responsibilities distribution (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa500570(v=ax.60)">Responsibilities distribution (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Call list</strong></p></td>
@@ -59,15 +60,15 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Call list details</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa498891(v=ax.60)">Call lists (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa498891(v=ax.60)">Call lists (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Responsibilities</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588504(v=ax.60)">Call list responsibilities (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588504(v=ax.60)">Call list responsibilities (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Call list statistics</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583615(v=ax.60)">Call list statistics (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583615(v=ax.60)">Call list statistics (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Call distributions</strong></p></td>
@@ -75,7 +76,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Reason canceled</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587176(v=ax.60)">Reason canceled (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587176(v=ax.60)">Reason canceled (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Call properties</strong></p></td>
@@ -117,7 +118,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

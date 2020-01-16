@@ -2,8 +2,9 @@
 title: (SWE) Form SE report (IntrastatFormLetterSE)
 TOCTitle: (SWE) Form SE report (IntrastatFormLetterSE)
 ms:assetid: 3e8ed155-1cea-4213-bab0-fc6297e3cbaa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352246(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352246(v=AX.60)
 ms:contentKeyID: 36687872
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

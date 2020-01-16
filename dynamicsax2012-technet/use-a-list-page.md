@@ -2,8 +2,9 @@
 title: Use a list page
 TOCTitle: Use a list page
 ms:assetid: ed60c720-8331-41e7-9b48-b3a8fe2aa1d5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg243260(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg243260(v=AX.60)
 ms:contentKeyID: 36676416
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -37,7 +38,7 @@ For some records, you must open the record to complete tasks associated to that 
 
 ## Add columns to the list page grid
 
-Use the **Personalization** form to add columns to a list page. The columns that you select are added only to your view of the list page. Other users' list pages are not affected. For more information about personalizing forms, see [Personalization (form)](https://technet.microsoft.com/en-us/library/aa597239\(v=ax.60\)).
+Use the **Personalization** form to add columns to a list page. The columns that you select are added only to your view of the list page. Other users' list pages are not affected. For more information about personalizing forms, see [Personalization (form)](https://technet.microsoft.com/library/aa597239\(v=ax.60\)).
 
 1.  Display a list page.
 

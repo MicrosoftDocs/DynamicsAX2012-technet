@@ -2,8 +2,9 @@
 title: Translations of product-related information
 TOCTitle: Translations of product-related information
 ms:assetid: 32f7ca74-fc11-4b98-96a8-5b53316793d6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn497736(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn497736(v=AX.60)
 ms:contentKeyID: 62200053
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

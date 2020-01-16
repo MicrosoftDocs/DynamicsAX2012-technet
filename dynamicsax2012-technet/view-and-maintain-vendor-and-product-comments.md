@@ -2,8 +2,9 @@
 title: View and maintain vendor and product comments
 TOCTitle: View and maintain vendor and product comments
 ms:assetid: b3d4c4ca-87fa-460a-a28b-e4305f18b9b8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242750(v=AX.60)
 ms:contentKeyID: 36059073
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -45,9 +46,9 @@ Use this procedure to review comments that employees enter for products and vend
 
 ## See also
 
-[Procurement and sourcing parameters (form)](https://technet.microsoft.com/en-us/library/hh208706\(v=ax.60\))
+[Procurement and sourcing parameters (form)](https://technet.microsoft.com/library/hh208706\(v=ax.60\))
 
-[Manage comments (form)](https://technet.microsoft.com/en-us/library/hh227385\(v=ax.60\))
+[Manage comments (form)](https://technet.microsoft.com/library/hh227385\(v=ax.60\))
 
   
 

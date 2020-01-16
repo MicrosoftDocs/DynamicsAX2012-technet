@@ -1,9 +1,10 @@
-﻿---
+---
 title: TerminalDataRequestHandler.SupportedRequestTypes Property  (Microsoft.Dynamics.Commerce.Runtime.DataServices.Common)
 TOCTitle: SupportedRequestTypes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.TerminalDataRequestHandler.SupportedRequestTypes
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.dataservices.common.terminaldatarequesthandler.supportedrequesttypes(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.common.terminaldatarequesthandler.supportedrequesttypes(v=AX.60)
 ms:contentKeyID: 65321521
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -47,8 +48,8 @@ virtual property IEnumerable<Type^>^ SupportedRequestTypes {
 
 #### Property Value
 
-Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\))\<[Type](https://technet.microsoft.com/en-us/library/42892f65\(v=ax.60\))\>  
-Returns [IEnumerable\<T\>](https://technet.microsoft.com/en-us/library/9eekhta0\(v=ax.60\)).  
+Type: [System.Collections.Generic.IEnumerable](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\))\<[Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\))\>  
+Returns [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)).  
 
 #### Implements
 

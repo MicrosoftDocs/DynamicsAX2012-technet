@@ -2,8 +2,9 @@
 title: Table Permissions Framework reference
 TOCTitle: Table Permissions Framework reference
 ms:assetid: 65cd97c0-279a-4d94-887d-e6cc8545aa82
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309699(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309699(v=AX.60)
 ms:contentKeyID: 46331994
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

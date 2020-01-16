@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxLimitBase Enumeration (Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects)
 TOCTitle: TaxLimitBase Enumeration
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects.TaxLimitBase
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.pos.contracts.businessobjects.taxlimitbase(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businessobjects.taxlimitbase(v=AX.60)
 ms:contentKeyID: 47129343
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

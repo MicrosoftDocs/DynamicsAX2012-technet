@@ -2,8 +2,9 @@
 title: View details about your job
 TOCTitle: View details about your job
 ms:assetid: 421a8a37-aa09-441d-b689-fbab5b7cbcaa
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271515(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271515(v=AX.60)
 ms:contentKeyID: 36384147
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

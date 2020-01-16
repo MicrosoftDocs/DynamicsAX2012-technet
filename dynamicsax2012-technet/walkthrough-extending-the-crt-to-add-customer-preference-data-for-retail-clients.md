@@ -2,8 +2,9 @@
 title: 'Walkthrough: Extending the CRT to add customer preference data for Retail clients'
 TOCTitle: 'Walkthrough: Extending the CRT'
 ms:assetid: fba61df3-3537-4807-9a81-4c46840ecb35
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn720790(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn720790(v=AX.60)
 ms:contentKeyID: 62231591
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

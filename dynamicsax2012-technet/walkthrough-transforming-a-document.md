@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Transforming a document'
 TOCTitle: 'Walkthrough: Transforming a document'
 ms:assetid: 2fd2aa52-332b-4491-9de6-1503261f4c03
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352243(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352243(v=AX.60)
 ms:contentKeyID: 36687871
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

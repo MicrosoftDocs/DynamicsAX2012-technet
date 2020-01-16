@@ -2,8 +2,9 @@
 title: (USA) Enter request for work environment accommodations
 TOCTitle: (USA) Enter request for work environment accommodations
 ms:assetid: 5bc6a590-3b59-449c-83e1-a1630b6eddeb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242497(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242497(v=AX.60)
 ms:contentKeyID: 36057562
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -43,9 +44,9 @@ You can enter information about work environment accommodations that are request
 
 [(USA) Grant or deny an accommodation request](usa-grant-or-deny-an-accommodation-request.md)
 
-[Workers (form)](https://technet.microsoft.com/en-us/library/aa583961\(v=ax.60\))
+[Workers (form)](https://technet.microsoft.com/library/aa583961\(v=ax.60\))
 
-[Accommodations (form)](https://technet.microsoft.com/en-us/library/hh209584\(v=ax.60\))
+[Accommodations (form)](https://technet.microsoft.com/library/hh209584\(v=ax.60\))
 
   
 

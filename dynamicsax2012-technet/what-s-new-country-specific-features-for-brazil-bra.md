@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Brazil (BRA)"
 TOCTitle: Country-specific features for Brazil
 ms:assetid: a7489a4d-65f6-4600-9e82-b4a6daf0657f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn486931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn486931(v=AX.60)
 ms:contentKeyID: 59631346
+author: Khairunj
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
@@ -227,7 +228,7 @@ For more information about additional country-specific features that we added fo
 
 
 </div>
-<p>For more information, see <a href="bra-set-up-and-calculate-tax-on-sales-and-purchases.md">(BRA) Set up and calculate tax on sales and purchases</a> <a href="https://technet.microsoft.com/en-us/library/jj663982(v=ax.60)">(BRA) Sales tax codes (modified form)</a>.</p></td>
+<p>For more information, see <a href="bra-set-up-and-calculate-tax-on-sales-and-purchases.md">(BRA) Set up and calculate tax on sales and purchases</a> <a href="https://technet.microsoft.com/library/jj663982(v=ax.60)">(BRA) Sales tax codes (modified form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Updates to fiscal document types for Brazil</p></td>
@@ -577,7 +578,7 @@ For more information about additional country-specific features that we added fo
 <p>For more information, see the following topics:</p>
 <ul>
 <li><p><a href="bra-mex-set-up-general-ledger-to-reverse-and-update-opposite-sign-amounts.md">(BRA, MEX) Set up General ledger to reverse and update opposite sign amounts</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/aa557286(v=ax.60)">General ledger parameters (form)</a></p></li>
 </ul></td>
 </tr>
 </tbody>

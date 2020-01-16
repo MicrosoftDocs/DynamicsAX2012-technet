@@ -2,8 +2,9 @@
 title: Time zones and activities
 TOCTitle: Time zones and activities
 ms:assetid: 6afb2837-cdc4-4521-90dd-229a0a5c1bf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231782(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231782(v=AX.60)
 ms:contentKeyID: 36057985
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

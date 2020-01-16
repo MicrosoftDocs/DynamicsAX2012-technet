@@ -2,8 +2,9 @@
 title: Using Role centers
 TOCTitle: Using Role centers
 ms:assetid: ae4438d6-c276-48eb-a8e1-130e86bef6a6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242707(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242707(v=AX.60)
 ms:contentKeyID: 36058940
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

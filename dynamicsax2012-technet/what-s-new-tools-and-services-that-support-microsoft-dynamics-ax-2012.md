@@ -2,8 +2,9 @@
 title: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
 TOCTitle: "What's new: Tools and services that support Microsoft Dynamics AX 2012"
 ms:assetid: c9681f60-8cd3-4b4d-9c43-41f9cfe84e7e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527255(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527255(v=AX.60)
 ms:contentKeyID: 59623383
+author: Khairunj
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
@@ -38,7 +39,7 @@ There are a number of tools and services that support Microsoft Dynamics AX 2012
 <p>For more information, see</p>
 <ul>
 <li><p><a href="what-s-new-axbuild-exe-for-faster-x-compiles-on-aos.md">What's new: AxBuild.exe for faster X++ compiles on AOS</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/dn528954(v=ax.60)">AxBuild.exe for Parallel Compile on AOS of X++ to p-code</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/dn528954(v=ax.60)">AxBuild.exe for Parallel Compile on AOS of X++ to p-code</a></p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -58,7 +59,7 @@ There are a number of tools and services that support Microsoft Dynamics AX 2012
 <p>For more information, see:</p>
 <ul>
 <li><p><a href="what-s-new-combine-xpo-tool-for-microsoft-dynamics-ax.md">What's new: Combine XPO Tool for Microsoft Dynamics AX</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/jj225589(v=ax.60)">Combine XPO Tool User Guide</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/jj225589(v=ax.60)">Combine XPO Tool User Guide</a></p></li>
 </ul></td>
 </tr>
 <tr class="even">

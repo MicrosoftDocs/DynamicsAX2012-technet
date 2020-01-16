@@ -2,8 +2,9 @@
 title: (USA) Prerequisites for filing 1099 statements
 TOCTitle: (USA) Prerequisites for filing 1099 statements
 ms:assetid: 0c0771b8-82a0-412a-ada6-13233e0e3839
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569747(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569747(v=AX.60)
 ms:contentKeyID: 36055993
+author: Khairunj
 ms.date: 07/08/2016
 mtps_version: v=AX.60
 audience: Application User

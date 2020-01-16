@@ -2,8 +2,9 @@
 title: (SWE) Set up the method of payment for BG direct debit payments
 TOCTitle: (SWE) Set up the method of payment for BG direct debit payments
 ms:assetid: eee442b8-6878-4b87-a424-1d83e5fc8258
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227504(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227504(v=AX.60)
 ms:contentKeyID: 36059916
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

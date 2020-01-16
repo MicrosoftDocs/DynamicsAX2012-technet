@@ -2,8 +2,9 @@
 title: (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo
 TOCTitle: (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo
 ms:assetid: 69a4c2e3-151d-4178-99df-122d829a55d7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242608(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242608(v=AX.60)
 ms:contentKeyID: 36057971
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -25,7 +26,7 @@ Before generating a bank giro vendor payment file that contains vendor invoices 
 
   - Create, post, and transfer a credit note for a vendor through the invoice journal.
 
-  - Create and post a vendor invoice. For more information, see [Post invoices in an invoice journal](post-invoices-in-an-invoice-journal.md) and [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/en-us/library/aa616218\(v=ax.60\)).
+  - Create and post a vendor invoice. For more information, see [Post invoices in an invoice journal](post-invoices-in-an-invoice-journal.md) and [Journal voucher - Invoice journal (form)](https://technet.microsoft.com/library/aa616218\(v=ax.60\)).
 
 Use this procedure to generate and transfer a bank giro payment file.
 
@@ -63,7 +64,7 @@ Use this procedure to generate and transfer a bank giro payment file.
 
 14. Select the **Mark** check box for the credit memo line of the vendor credit invoice, and then repeat steps 9 through 12.
 
-15. In the **Journal voucher** form, click **Functions** \> **Generate payments** to open the **Generate payments** form, and then enter the required details. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/en-us/library/aa586980\(v=ax.60\)).
+15. In the **Journal voucher** form, click **Functions** \> **Generate payments** to open the **Generate payments** form, and then enter the required details. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\)).
 
 16. Click **OK**. The vendor payment file is created and ready for submittal to BGC.
     

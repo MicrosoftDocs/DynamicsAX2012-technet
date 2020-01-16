@@ -2,8 +2,9 @@
 title: "What's new: General ledger features"
 TOCTitle: General ledger features
 ms:assetid: 1162f17e-46b7-4b40-8fbe-7f6626e79634
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507123(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507123(v=AX.60)
 ms:contentKeyID: 59623212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -245,14 +246,14 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 <td><p>General ledger balances are no longer updated during the posting process. Instead, general ledger balances are updated whenever a process requires balances. For example, the general ledger balances are updated when you view the <strong>Trial balance</strong> list page. If you are using cubes that rely on updated general ledger balances, you must click the <strong>Update balances</strong> button in the <strong>Financial dimension sets</strong> form before you process cube data. To improve performance during balance calculations, you can schedule a batch to update balances more frequently, such as every two hours. When balances have to be calculated, only two hours’ worth of data has to be calculated.</p>
 <p>For more information, see the following topics:</p>
 <ul>
-<li><p><a href="https://technet.microsoft.com/en-us/library/aa597282(v=ax.60)">Financial dimension sets (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/aa597282(v=ax.60)">Financial dimension sets (form)</a></p></li>
 <li><p><a href="general-ledger-cube-ledgercube-for-microsoft-dynamics-ax-2012-r2-and-r3.md">General ledger cube (LedgerCube) for Microsoft Dynamics AX 2012 R2</a></p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>Language translations for the main account name and the financial dimension description</p></td>
 <td><p>You can enter a language translation for the main account name and the custom description of the financial dimension value.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -333,7 +334,7 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 </tr>
 <tr class="even">
 <td><p>More understandable posting messages for journal lines that have errors in the account combination</p></td>
-<td><p>In earlier releases, error and warning messages that are associated with posting processes were sometimes hard to understand. Now, the messages are grouped by voucher, so that it’s easier to determine which journal lines have errors in the account combination. Lines that have errors in the account combination are indicated by a visual indicator. You can also display only the lines that have errors. For more information, see <a href="https://technet.microsoft.com/en-us/library/aa591466(v=ax.60)">Journal voucher - General journal (form)</a>.</p></td>
+<td><p>In earlier releases, error and warning messages that are associated with posting processes were sometimes hard to understand. Now, the messages are grouped by voucher, so that it’s easier to determine which journal lines have errors in the account combination. Lines that have errors in the account combination are indicated by a visual indicator. You can also display only the lines that have errors. For more information, see <a href="https://technet.microsoft.com/library/aa591466(v=ax.60)">Journal voucher - General journal (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Delete an unposted journal that contains lines.</p></td>
@@ -341,12 +342,12 @@ We have changed and added functionality in the [General ledger](general-ledger.m
 </tr>
 <tr class="even">
 <td><p>View advanced rules for a main account.</p></td>
-<td><p>You can view the advanced rules that a main account is associated with. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
+<td><p>You can view the advanced rules that a main account is associated with. For more information, see <a href="https://technet.microsoft.com/library/hh209695(v=ax.60)">Main accounts - chart of accounts (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Easier dimension setup for Excel integration</p></td>
 <td><p>You can select financial dimensions that are displayed in Excel. Use the <strong>Financial dimensions used as document data sources</strong> form to select financial dimensions.</p>
-<p>For more information, see <a href="set-up-financial-dimensions-for-integrating-applications-excel-and-management-reporter.md">Set up financial dimensions for integrating applications (Excel and Management Reporter)</a> and <a href="https://technet.microsoft.com/en-us/library/hh242667(v=ax.60)">Financial dimension values (form)</a>.</p></td>
+<p>For more information, see <a href="set-up-financial-dimensions-for-integrating-applications-excel-and-management-reporter.md">Set up financial dimensions for integrating applications (Excel and Management Reporter)</a> and <a href="https://technet.microsoft.com/library/hh242667(v=ax.60)">Financial dimension values (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Display dimensions in a specified order in Management Reporter.</p></td>

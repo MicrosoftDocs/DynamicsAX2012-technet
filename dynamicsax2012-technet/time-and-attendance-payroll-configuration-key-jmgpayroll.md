@@ -2,8 +2,9 @@
 title: Time and attendance payroll configuration key (JmgPayroll)
 TOCTitle: Time and attendance payroll configuration key (JmgPayroll)
 ms:assetid: c5242cbc-381f-4bcc-890a-292ea0c44169
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa590801(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa590801(v=AX.60)
 ms:contentKeyID: 36993553
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -43,27 +44,27 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Count unit</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588182(v=ax.60)">Count unit (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588182(v=ax.60)">Count unit (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Manual premiums</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa620383(v=ax.60)">Manual premiums (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa620383(v=ax.60)">Manual premiums (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Override pay agreement</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa599422(v=ax.60)">Override pay agreement (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa599422(v=ax.60)">Override pay agreement (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pay agreement lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa589797(v=ax.60)">Pay agreement lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa589797(v=ax.60)">Pay agreement lines (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Pay items</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa574251(v=ax.60)">Pay items (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa574251(v=ax.60)">Pay items (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pay periods</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586707(v=ax.60)">Period types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586707(v=ax.60)">Period types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Payroll statistics</strong></p></td>
@@ -79,7 +80,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Rates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa588915(v=ax.60)">Rates (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa588915(v=ax.60)">Rates (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -101,15 +102,15 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Adjustment pay types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586940(v=ax.60)">Pay adjustment pay types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586940(v=ax.60)">Pay adjustment pay types (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Delimitation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh597315(v=ax.60)">Delimitation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh597315(v=ax.60)">Delimitation (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Overtime allocation</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa616248(v=ax.60)">Overtime allocation (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa616248(v=ax.60)">Overtime allocation (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Pay adjustment</strong></p></td>
@@ -121,23 +122,23 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Pay types</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa598661(v=ax.60)">Pay types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa598661(v=ax.60)">Pay types (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Piecework groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576694(v=ax.60)">Piecework workers (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576694(v=ax.60)">Piecework workers (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Premium lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa576197(v=ax.60)">Premium lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa576197(v=ax.60)">Premium lines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Setup</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582117(v=ax.60)">Payroll statistics setup (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582117(v=ax.60)">Payroll statistics setup (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Worker balances</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590945(v=ax.60)">Worker balances (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590945(v=ax.60)">Worker balances (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Worker rates</strong></p></td>
@@ -163,7 +164,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Pay periods</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa586707(v=ax.60)">Period types (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa586707(v=ax.60)">Period types (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +202,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

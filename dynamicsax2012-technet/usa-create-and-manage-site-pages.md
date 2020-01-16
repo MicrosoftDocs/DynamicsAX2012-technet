@@ -2,8 +2,9 @@
 title: (USA) Create and manage site pages
 TOCTitle: (USA) Create and manage site pages
 ms:assetid: 4865f28b-b6e5-4ee9-acda-11177a7561e4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242404(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242404(v=AX.60)
 ms:contentKeyID: 36056928
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

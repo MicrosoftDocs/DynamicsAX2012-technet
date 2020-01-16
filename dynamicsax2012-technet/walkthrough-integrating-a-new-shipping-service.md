@@ -2,8 +2,9 @@
 title: 'Walkthrough: Integrating a new Shipping Service'
 TOCTitle: 'Walkthrough: Integrating a new Shipping Service'
 ms:assetid: d807c6ed-f6d9-4b84-a06a-3cf9bb48766b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ916622(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ916622(v=AX.60)
 ms:contentKeyID: 50934012
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -25,7 +26,7 @@ Shipping functionality in the CRT is comprised of the shipping service and the s
 
 To integrate a new shipping service,
 
-1.  Create a shipping carrier class that inherits from the [Service](https://technet.microsoft.com/en-us/library/jj823840\(v=ax.60\)) abstract class and implements the [IShippingCarrierService](https://technet.microsoft.com/en-us/library/jj782080\(v=ax.60\)) interface.
+1.  Create a shipping carrier class that inherits from the [Service](https://technet.microsoft.com/library/jj823840\(v=ax.60\)) abstract class and implements the [IShippingCarrierService](https://technet.microsoft.com/library/jj782080\(v=ax.60\)) interface.
 
 2.  Create classes to encapsulate business logic for the shipping service.
 
@@ -35,7 +36,7 @@ To integrate a new shipping service,
 
 ## Creating a Shipping Carrier Class
 
-The shipping carrier adapter service provides an entry point for a CRT entity to communicate with an external shipping carrier. Both the shipping service and the shipping carrier adapter service can be replaced independently of each other, as long as the replacements implement IShippingService and IShippingCarrierService, respectively. In this section you create a class that inherits from the [Service](https://technet.microsoft.com/en-us/library/jj823840\(v=ax.60\)) class and implements the [IShippingCarrierService](https://technet.microsoft.com/en-us/library/jj782080\(v=ax.60\)) interface.
+The shipping carrier adapter service provides an entry point for a CRT entity to communicate with an external shipping carrier. Both the shipping service and the shipping carrier adapter service can be replaced independently of each other, as long as the replacements implement IShippingService and IShippingCarrierService, respectively. In this section you create a class that inherits from the [Service](https://technet.microsoft.com/library/jj823840\(v=ax.60\)) class and implements the [IShippingCarrierService](https://technet.microsoft.com/library/jj782080\(v=ax.60\)) interface.
 
 ### To create a class project
 
@@ -601,13 +602,13 @@ To configure the shipping adapter, you must:
 
 5.  Run the jobs and synchronize the tables to update the delivery mode mapping in the CRT database
 
-The shipping carrier account is set up in the [Carrier company](https://technet.microsoft.com/en-us/library/hh209693\(v=ax.60\)) form. For more information, see [Set up shipping carriers](set-up-shipping-carriers.md).
+The shipping carrier account is set up in the [Carrier company](https://technet.microsoft.com/library/hh209693\(v=ax.60\)) form. For more information, see [Set up shipping carriers](set-up-shipping-carriers.md).
 
-Each external shipping adapter in the CRT is uniquely identified by the **Name** property of the [IShippingCarrierService](https://technet.microsoft.com/en-us/library/jj782080\(v=ax.60\)) interface that is implemented by each shipping adapter. This information is reflected in Microsoft Dynamics AX in the RetailShipCarrierInterface table. To register a new shipping adapter in Microsoft Dynamics AX, add the name and description for the adapter in the RetailShipCarrierInterface table by using the AddRetailShippingCarrier job below.
+Each external shipping adapter in the CRT is uniquely identified by the **Name** property of the [IShippingCarrierService](https://technet.microsoft.com/library/jj782080\(v=ax.60\)) interface that is implemented by each shipping adapter. This information is reflected in Microsoft Dynamics AX in the RetailShipCarrierInterface table. To register a new shipping adapter in Microsoft Dynamics AX, add the name and description for the adapter in the RetailShipCarrierInterface table by using the AddRetailShippingCarrier job below.
 
-Use the [Carrier IDs](https://technet.microsoft.com/en-us/library/hh209608\(v=ax.60\)) form to map the shipping carrier account to the new shipping adapter. For more information, see [Set up shipping carriers](set-up-shipping-carriers.md).
+Use the [Carrier IDs](https://technet.microsoft.com/library/hh209608\(v=ax.60\)) form to map the shipping carrier account to the new shipping adapter. For more information, see [Set up shipping carriers](set-up-shipping-carriers.md).
 
-Use the [Modes of delivery](https://technet.microsoft.com/en-us/library/aa619881\(v=ax.60\)) form to map the deliver mode to a carrier ID. For more information, see [Set up modes of delivery](set-up-modes-of-delivery.md).
+Use the [Modes of delivery](https://technet.microsoft.com/library/aa619881\(v=ax.60\)) form to map the deliver mode to a carrier ID. For more information, see [Set up modes of delivery](set-up-modes-of-delivery.md).
 
 ### To create the shipping carrier account in Microsoft Dynamics AX
 
@@ -633,7 +634,7 @@ Use the [Modes of delivery](https://technet.microsoft.com/en-us/library/aa619881
 
 ### To create a unique identifier for the shipping adapter in Microsoft Dynamics AX
 
-  - Add the name of the shipping adapter to the [RetailShipCarrierInterface](https://technet.microsoft.com/en-us/library/jj781068\(v=ax.60\)) table by using the following job:
+  - Add the name of the shipping adapter to the [RetailShipCarrierInterface](https://technet.microsoft.com/library/jj781068\(v=ax.60\)) table by using the following job:
     
         static void AddRetailShippingCarrier(Args _args)
         {
@@ -697,11 +698,11 @@ Use the [Modes of delivery](https://technet.microsoft.com/en-us/library/aa619881
 
     > [!NOTE]
     > <P>The jobs will synchronize these tables:</P>
-    > <P><A href="https://technet.microsoft.com/en-us/library/jj781040(v=ax.60)">RetailShipCarrierAccountConfiguration</A></P>
-    > <P><A href="https://technet.microsoft.com/en-us/library/gg857952(v=ax.60)">ShipCarrierCompanyAccounts</A></P>
-    > <P><A href="https://technet.microsoft.com/en-us/library/jj781068(v=ax.60)">RetailShipCarrierInterface</A></P>
-    > <P><A href="https://technet.microsoft.com/en-us/library/gg873889(v=ax.60)">ShipCarrierTable</A></P>
-    > <P><A href="https://technet.microsoft.com/en-us/library/gg951962(v=ax.60)">DlvMode</A></P>
+    > <P><A href="https://technet.microsoft.com/library/jj781040(v=ax.60)">RetailShipCarrierAccountConfiguration</A></P>
+    > <P><A href="https://technet.microsoft.com/library/gg857952(v=ax.60)">ShipCarrierCompanyAccounts</A></P>
+    > <P><A href="https://technet.microsoft.com/library/jj781068(v=ax.60)">RetailShipCarrierInterface</A></P>
+    > <P><A href="https://technet.microsoft.com/library/gg873889(v=ax.60)">ShipCarrierTable</A></P>
+    > <P><A href="https://technet.microsoft.com/library/gg951962(v=ax.60)">DlvMode</A></P>
 
 
 

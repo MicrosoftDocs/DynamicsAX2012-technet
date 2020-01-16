@@ -2,8 +2,9 @@
 title: Troubleshoot general installation issues
 TOCTitle: Troubleshoot general installation issues
 ms:assetid: 86d9537d-2e35-40e6-9fff-2a0a208ccbdd
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Ee355063(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Ee355063(v=AX.60)
 ms:contentKeyID: 35132710
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

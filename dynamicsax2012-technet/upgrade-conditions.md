@@ -2,8 +2,9 @@
 title: Upgrade conditions
 TOCTitle: Upgrade conditions
 ms:assetid: f02c1d09-b396-41e1-ad6b-d949c8f55305
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ862337(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ862337(v=AX.60)
 ms:contentKeyID: 50181513
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -29,7 +30,7 @@ After you upgrade, you may have to modify conditions that are no longer valid. F
 
 ## See also
 
-[Modify invalid conditions (form)](https://technet.microsoft.com/en-us/library/jj862344\(v=ax.60\))
+[Modify invalid conditions (form)](https://technet.microsoft.com/library/jj862344\(v=ax.60\))
 
   
 

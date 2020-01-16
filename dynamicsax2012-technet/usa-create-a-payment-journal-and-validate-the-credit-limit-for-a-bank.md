@@ -2,8 +2,9 @@
 title: (USA) Create a payment journal and validate the credit limit for a bank
 TOCTitle: (USA) Create a payment journal and validate the credit limit for a bank
 ms:assetid: 40f77da9-f173-40c1-a9b5-76da05d71541
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242260(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242260(v=AX.60)
 ms:contentKeyID: 36056726
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -141,11 +142,11 @@ You can create a payment journal to record a fixed asset purchase, service purch
 
 ## See also
 
-[Legal entities (form)](https://technet.microsoft.com/en-us/library/hh242860\(v=ax.60\))
+[Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\))
 
-[Customer bank accounts (form)](https://technet.microsoft.com/en-us/library/aa575695\(v=ax.60\))
+[Customer bank accounts (form)](https://technet.microsoft.com/library/aa575695\(v=ax.60\))
 
-[Vendor bank accounts (form)](https://technet.microsoft.com/en-us/library/aa589805\(v=ax.60\))
+[Vendor bank accounts (form)](https://technet.microsoft.com/library/aa589805\(v=ax.60\))
 
   
 

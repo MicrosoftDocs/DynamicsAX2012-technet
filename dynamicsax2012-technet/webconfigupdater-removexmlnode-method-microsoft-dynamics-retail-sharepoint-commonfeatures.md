@@ -1,9 +1,10 @@
-﻿---
+---
 title: WebConfigUpdater.RemoveXmlNode Method  (Microsoft.Dynamics.Retail.SharePoint.CommonFeatures)
 TOCTitle: RemoveXmlNode Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.WebConfigUpdater.RemoveXmlNode(System.Xml.XmlNode)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.removexmlnode(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.webconfigupdater.removexmlnode(v=AX.60)
 ms:contentKeyID: 62204410
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -50,7 +51,7 @@ void RemoveXmlNode(
 #### Parameters
 
   - node  
-    Type: [System.Xml.XmlNode](https://technet.microsoft.com/en-us/library/bxz4hfh3\(v=ax.60\))  
+    Type: [System.Xml.XmlNode](https://technet.microsoft.com/library/bxz4hfh3\(v=ax.60\))  
 
 ## See Also
 

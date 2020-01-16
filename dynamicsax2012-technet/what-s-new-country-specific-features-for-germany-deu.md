@@ -2,8 +2,9 @@
 title: "What's new: Country-specific features for Germany (DEU)"
 TOCTitle: Country-specific features for Germany
 ms:assetid: d8ec2205-08ed-4975-b307-021b603d65ab
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527238(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527238(v=AX.60)
 ms:contentKeyID: 59623366
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

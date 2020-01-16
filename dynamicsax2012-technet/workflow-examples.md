@@ -2,8 +2,9 @@
 title: Workflow examples
 TOCTitle: Workflow examples
 ms:assetid: 301d45d3-b0e3-44d1-addb-02c5222ce61d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd309636(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd309636(v=AX.60)
 ms:contentKeyID: 35132595
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

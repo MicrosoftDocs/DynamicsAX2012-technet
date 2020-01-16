@@ -2,8 +2,9 @@
 title: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R3 cumulative update 9
 ms:assetid: 7b4e46ff-d16f-4c47-a226-b8761ad65f8f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Mt156976(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Mt156976(v=AX.60)
 ms:contentKeyID: 65883279
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

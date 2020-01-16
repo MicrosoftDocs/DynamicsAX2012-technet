@@ -2,8 +2,9 @@
 title: White papers for system administrators
 TOCTitle: White papers for system administrators
 ms:assetid: 7d45fd3c-9ea7-4c13-a60c-de9d252fce27
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg188985(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg188985(v=AX.60)
 ms:contentKeyID: 35410565
+author: Khairunj
 ms.date: 11/29/2016
 mtps_version: v=AX.60
 ---

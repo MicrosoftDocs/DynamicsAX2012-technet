@@ -2,8 +2,9 @@
 title: Work with time and attendance
 TOCTitle: Work with time and attendance
 ms:assetid: bd3a2eff-3747-4b40-a6bc-64d32c341b47
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg213612(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg213612(v=AX.60)
 ms:contentKeyID: 39519296
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -2,8 +2,9 @@
 title: View the agenda for a training course
 TOCTitle: View the agenda for a training course
 ms:assetid: 51cef4b3-3769-4975-8799-59d8a1c13e77
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271532(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271532(v=AX.60)
 ms:contentKeyID: 36384164
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

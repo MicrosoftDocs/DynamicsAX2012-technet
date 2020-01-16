@@ -2,8 +2,9 @@
 title: Warehouse Management II configuration key (WMSAdvanced)
 TOCTitle: Warehouse Management II configuration key (WMSAdvanced)
 ms:assetid: 009d2652-4f4d-4365-b057-aa2927fed6e7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548483(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548483(v=AX.60)
 ms:contentKeyID: 36941189
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -45,24 +46,24 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Blocking causes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa577108(v=ax.60)">Blocking cause (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa577108(v=ax.60)">Blocking cause (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Deliver picked items</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh803015(v=ax.60)">Deliver picked items (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh803015(v=ax.60)">Deliver picked items (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Forklift</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa590371(v=ax.60)">Forklift (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa590371(v=ax.60)">Forklift (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Output orders</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa635055(v=ax.60)">Output orders (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh352340(v=ax.60)">(PM) Output order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa635055(v=ax.60)">Output orders (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh352340(v=ax.60)">(PM) Output order (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa587481(v=ax.60)">Inventory order (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa587481(v=ax.60)">Inventory order (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Outbound rules</strong></p></td>
@@ -70,38 +71,38 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Picking routes</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa582503(v=ax.60)">Picking routes (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328618(v=ax.60)">(PM) Picking routes (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa582503(v=ax.60)">Picking routes (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328618(v=ax.60)">(PM) Picking routes (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Picking lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa617832(v=ax.60)">Picking line (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa617832(v=ax.60)">Picking line (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Approve line</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa551825(v=ax.60)">Approve line (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa551825(v=ax.60)">Approve line (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Shipment reservation combinations</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh209514(v=ax.60)">Shipment reservation combinations (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh209514(v=ax.60)">Shipment reservation combinations (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shipment reservation sequences</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh227537(v=ax.60)">Shipment reservation sequences (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh227537(v=ax.60)">Shipment reservation sequences (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Show lines</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557910(v=ax.60)">Shipment lines (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328622(v=ax.60)">(PM) Shipment lines (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557910(v=ax.60)">Shipment lines (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328622(v=ax.60)">(PM) Shipment lines (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Shipment staging</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/hh242497(v=ax.60)">Shipment staging (form)</a></p>
-<p><a href="https://technet.microsoft.com/en-us/library/hh328635(v=ax.60)">(PM) Shipment staging (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh242497(v=ax.60)">Shipment staging (form)</a></p>
+<p><a href="https://technet.microsoft.com/library/hh328635(v=ax.60)">(PM) Shipment staging (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Shipment templates</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa634909(v=ax.60)">Shipment templates (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa634909(v=ax.60)">Shipment templates (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Create shipment</strong></p></td>
@@ -109,7 +110,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Update store areas</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa550377(v=ax.60)">Store areas (form)</a></p>
+<td><p><a href="https://technet.microsoft.com/library/aa550377(v=ax.60)">Store areas (form)</a></p>
 <div class="alert">
 
 > [!TIP]
@@ -123,7 +124,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Store zones</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa596993(v=ax.60)">Store zones (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa596993(v=ax.60)">Store zones (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +169,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

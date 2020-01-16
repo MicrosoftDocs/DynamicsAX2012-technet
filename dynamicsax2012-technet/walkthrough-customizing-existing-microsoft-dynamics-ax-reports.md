@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Customizing Existing Microsoft Dynamics AX Reports'
 TOCTitle: 'Walkthrough: Customizing Existing Microsoft Dynamics AX Reports'
 ms:assetid: 1e383292-7dc2-49ba-b44a-23ad3b374b83
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc567629(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc567629(v=AX.60)
 ms:contentKeyID: 28119316
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -59,7 +60,7 @@ You will begin this walkthrough by viewing the report that you will customize in
 
 ## Changing the Development Layer in Microsoft Dynamics AX
 
-Before you customize a report project, be sure that you are working in the correct development layer. There are several layers that are used for making customizations in Microsoft Dynamics AX. For example, the supervisor or administrator of an end-user installation might want to make modifications that are generic to the company. Such modifications are saved in the CUS (CUStomer) layer. For this walkthrough, you will use the default **USR** layer. For more information, see [Layers](https://technet.microsoft.com/en-us/library/aa851164\(v=ax.60\)). The following steps describe how to change the layer if you have a valid access code with your license agreement.
+Before you customize a report project, be sure that you are working in the correct development layer. There are several layers that are used for making customizations in Microsoft Dynamics AX. For example, the supervisor or administrator of an end-user installation might want to make modifications that are generic to the company. Such modifications are saved in the CUS (CUStomer) layer. For this walkthrough, you will use the default **USR** layer. For more information, see [Layers](https://technet.microsoft.com/library/aa851164\(v=ax.60\)). The following steps describe how to change the layer if you have a valid access code with your license agreement.
 
 ### To change the development layer
 

@@ -2,8 +2,9 @@
 title: Update country/region codes
 TOCTitle: Update country/region codes
 ms:assetid: 368ea61f-7bab-4911-b0c9-71f3868b94ea
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg731776(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg731776(v=AX.60)
 ms:contentKeyID: 35132603
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Copy data between Dynamics AX companies
 TOCTitle: Copy data between Dynamics AX companies
 ms:assetid: 22da2080-7ef6-4a60-8917-e2cd5557c61e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn221768(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn221768(v=AX.60)
 ms:contentKeyID: 54161562
+author: Khairunj
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

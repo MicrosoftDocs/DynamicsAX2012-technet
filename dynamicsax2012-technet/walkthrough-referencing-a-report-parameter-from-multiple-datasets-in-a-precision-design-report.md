@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Referencing a Report Parameter from Multiple Datasets in a Precision Design Report'
 TOCTitle: 'Walkthrough: Referencing a Report Parameter from Multiple Datasets in a Precision Design Report'
 ms:assetid: fbb6d395-b72b-4c74-acda-842263d970ee
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc624720(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc624720(v=AX.60)
 ms:contentKeyID: 28119624
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Using answers and questions for questionnaire
 TOCTitle: Using answers and questions for questionnaire
 ms:assetid: 1ddbed0a-35f3-4c1a-9fb8-2f1b6f04a926
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496774(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496774(v=AX.60)
 ms:contentKeyID: 39519060
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

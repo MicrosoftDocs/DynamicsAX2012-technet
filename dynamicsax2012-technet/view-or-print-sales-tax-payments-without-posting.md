@@ -2,8 +2,9 @@
 title: View or print sales tax payments without posting
 TOCTitle: View or print sales tax payments without posting
 ms:assetid: a5b18942-16a1-4436-8cab-2fd67c4f3959
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa550269(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa550269(v=AX.60)
 ms:contentKeyID: 36676399
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -27,7 +28,7 @@ Follow these steps to view or print sales tax payments without posting them.
 
 ## See also
 
-[Sales tax payment (class form)](https://technet.microsoft.com/en-us/library/aa598539\(v=ax.60\))
+[Sales tax payment (class form)](https://technet.microsoft.com/library/aa598539\(v=ax.60\))
 
   
 

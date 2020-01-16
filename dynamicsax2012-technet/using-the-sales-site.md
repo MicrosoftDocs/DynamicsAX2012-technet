@@ -2,8 +2,9 @@
 title: Using the Sales site
 TOCTitle: Using the Sales site
 ms:assetid: 1d429a15-d741-4fb8-bc58-aa6a3037ea66
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271469(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271469(v=AX.60)
 ms:contentKeyID: 36384101
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

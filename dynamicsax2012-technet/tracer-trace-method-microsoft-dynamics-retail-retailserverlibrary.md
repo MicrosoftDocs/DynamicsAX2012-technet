@@ -1,9 +1,10 @@
-﻿---
+---
 title: Tracer.Trace Method  (Microsoft.Dynamics.Retail.RetailServerLibrary)
 TOCTitle: Trace Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.Tracer.Trace(System.Net.Http.HttpRequestMessage,System.String,System.Web.Http.Tracing.TraceLevel,System.Action{System.Web.Http.Tracing.TraceRecord})
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.retailserverlibrary.tracer.trace(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.tracer.trace(v=AX.60)
 ms:contentKeyID: 62202151
+author: Khairunj
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,7 +70,7 @@ virtual void Trace(
 <!-- end list -->
 
   - category  
-    Type: [System.String](https://technet.microsoft.com/en-us/library/s1wwdcbf\(v=ax.60\))  
+    Type: [System.String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\))  
 
 <!-- end list -->
 
@@ -79,7 +80,7 @@ virtual void Trace(
 <!-- end list -->
 
   - traceAction  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/018hxwa8\(v=ax.60\))\<TraceRecord\>  
+    Type: [System.Action](https://technet.microsoft.com/library/018hxwa8\(v=ax.60\))\<TraceRecord\>  
 
 #### Implements
 
@@ -100,7 +101,7 @@ ITraceWriterTrace(HttpRequestMessage, String, TraceLevel, Action\<TraceRecord\>)
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://technet.microsoft.com/en-us/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
+<td><a href="https://technet.microsoft.com/library/27426hcy(v=ax.60)">ArgumentNullException</a></td>
 <td><p>Exception will be thrown if incoming arguments are invalid.</p></td>
 </tr>
 </tbody>

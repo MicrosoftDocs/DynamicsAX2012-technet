@@ -1,9 +1,10 @@
-﻿---
+---
 title: Transaction.ShippingAddress Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
 TOCTitle: ShippingAddress Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Transaction.ShippingAddress
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.transaction.shippingaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.transaction.shippingaddress(v=AX.60)
 ms:contentKeyID: 62203012
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: View store transactions (Retail essentials)
 TOCTitle: View store transactions (Retail essentials)
 ms:assetid: 34b9b950-9088-409d-9220-d575a21afaf8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn716068(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn716068(v=AX.60)
 ms:contentKeyID: 62200324
+author: Khairunj
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---
@@ -33,7 +34,7 @@ This topic explains how to view a list of transactions for all statements for re
 
 ## See also
 
-[Retail store transactions (form)](https://technet.microsoft.com/en-us/library/hh597349\(v=ax.60\))
+[Retail store transactions (form)](https://technet.microsoft.com/library/hh597349\(v=ax.60\))
 
 [Schedule and run jobs in Retail Scheduler (Retail essentials)](schedule-and-run-jobs-in-retail-scheduler-retail-essentials.md)
 

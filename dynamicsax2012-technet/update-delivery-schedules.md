@@ -2,8 +2,9 @@
 title: Update delivery schedules
 TOCTitle: Update delivery schedules
 ms:assetid: 687b1bf8-f140-4c08-9f65-bf7be475a350
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242604(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242604(v=AX.60)
 ms:contentKeyID: 36057958
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -65,11 +66,11 @@ Use this procedure to make these adjustments in your delivery schedule:
 
 ## See also
 
-[Delivery schedule - Sales order (form)](https://technet.microsoft.com/en-us/library/hh209246\(v=ax.60\))
+[Delivery schedule - Sales order (form)](https://technet.microsoft.com/library/hh209246\(v=ax.60\))
 
-[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/en-us/library/hh209450\(v=ax.60\))
+[Delivery schedule - Sales quotation (form)](https://technet.microsoft.com/library/hh209450\(v=ax.60\))
 
-[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/en-us/library/hh227634\(v=ax.60\))
+[Delivery schedule - Purchase order (form)](https://technet.microsoft.com/library/hh227634\(v=ax.60\))
 
 [About delivery schedules](about-delivery-schedules.md)
 

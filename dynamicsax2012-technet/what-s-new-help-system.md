@@ -2,8 +2,9 @@
 title: "What's new: Help system"
 TOCTitle: Help system
 ms:assetid: f1462f27-baf5-4e53-a628-fff337eeafb2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527266(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527266(v=AX.60)
 ms:contentKeyID: 59623394
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -65,14 +66,14 @@ For information about how to install and configure the Help server, see [Deploym
 <td><p>You add or update documentation by putting files on the Help server.</p></td>
 <td><p>You can add or update documentation to reflect the requirements of your organization.</p>
 <p>You can also add ongoing updates from Microsoft and other publishers.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882334(v=ax.60)">Publishing Documentation to the Help System</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882334(v=ax.60)">Publishing Documentation to the Help System</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Distribute documentation updates to users.</p></td>
 <td><p>You had to install an updated .chm file on each client computer.</p></td>
 <td><p>Documentation updates are available to all client computers when the update is published on the Help server.</p></td>
 <td><p>You can make sure that all clients have access to the same documentation.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882324(v=ax.60)">How to: Publish a Help Document</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882324(v=ax.60)">How to: Publish a Help Document</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -121,35 +122,35 @@ You can customize Help content in the following ways.
 <td><p>Changes could be made to Help documentation, but the process was cumbersome. Often, you then had to recompile and replace .chm files.</p></td>
 <td><p>Users, system administrators, and developers can create documentation.</p></td>
 <td><p>You can customize the documentation to fit the requirements of your organization.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882390(v=ax.60)">Writing Documentation for the Help System</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882390(v=ax.60)">Writing Documentation for the Help System</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Use Microsoft Word to create documentation.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>You can use Word to create documentation.</p></td>
 <td><p>Anyone who has Word can create Help documentation.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882374(v=ax.60)">How to: Create a Help Document using a Template</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882374(v=ax.60)">How to: Create a Help Document using a Template</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Use HTML or text editors to create documentation.</p></td>
 <td><p>The feature was not available.</p></td>
 <td><p>You can use HTML to create documentation.</p></td>
 <td><p>You can use any HTML or text editor to produce documentation.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882374(v=ax.60)">How to: Create a Help Document using a Template</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882374(v=ax.60)">How to: Create a Help Document using a Template</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Use Microsoft Dynamics AX labels in documentation.</p></td>
 <td><p>Labels could be included, but you then had to recompile .chm files.</p></td>
 <td><p>You can insert labels from the client user interface into your HTML Help documentation.</p></td>
 <td><p>Your documentation matches what the user sees on the client.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882347(v=ax.60)">How to: Add Labels, Fields, and Menu Items to a Content Element</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882347(v=ax.60)">How to: Add Labels, Fields, and Menu Items to a Content Element</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Hide topics from other publishers.</p></td>
 <td><p>You could remove topics from a .chm file, but you then had to recompile and redistribute the file.</p></td>
 <td><p>When you add new Help documentation, you can also hide outdated documentation that was supplied by other publishers.</p></td>
 <td><p>The Help viewer always shows the most relevant Help documentation.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882313(v=ax.60)">How to: Replace Help Documentation</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882313(v=ax.60)">How to: Replace Help Documentation</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -182,14 +183,14 @@ Search capability on the Help server is enabled by Windows Search Service, which
 <td><p>Changes could be made, but you then had to recompile .chm files.</p></td>
 <td><p>You can add keywords that improve the ranking of your topic in a list of search results.</p></td>
 <td><p>Search results are more accurate and informative.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882301(v=ax.60)">Authoring Help Documents</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882301(v=ax.60)">Authoring Help Documents</a></p></td>
 </tr>
 <tr class="even">
 <td><p>View rich search results.</p></td>
 <td><p>Search results from the .chm files were presented as a list of topic titles.</p></td>
 <td><p>Search results contain topic titles, topic summaries, and links to additional sources of Help documentation.</p></td>
 <td><p>You can use the summaries to find the documentation that you require.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882357(v=ax.60)">Description Element</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882357(v=ax.60)">Description Element</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -225,14 +226,14 @@ The Microsoft Help that is included with Microsoft Dynamics AX is also published
 <td><p>The Help viewer automatically retrieves and displays documentation from all publishers.</p></td>
 <td><p>The Help viewer automatically includes documentation from Microsoft, partners, developers, and other publishers.</p>
 <p>For example, if you write an update to a procedure, your update can appear next to the Help documentation that Microsoft provides.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882369(v=ax.60)">Publishing Overview</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882369(v=ax.60)">Publishing Overview</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Add entries to the table of contents.</p></td>
 <td><p>Changes could be made, but you then had to recompile .chm files.</p></td>
 <td><p>Each publisher can add table of contents entries for new documentation.</p></td>
 <td><p>Your table of contents entries are added to the main table of contents that appears in the Help viewer.</p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/gg882385(v=ax.60)">How to: Create Table of Contents Entries</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/gg882385(v=ax.60)">How to: Create Table of Contents Entries</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,8 +2,9 @@
 title: Telephony integration configuration key (smmPhone)
 TOCTitle: Telephony integration configuration key (smmPhone)
 ms:assetid: ef1d5e0c-0eed-439a-8db5-7eac9799a51d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa620589(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa620589(v=AX.60)
 ms:contentKeyID: 36931863
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -37,7 +38,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Call dialog</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa556940(v=ax.60)">Phone call (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa556940(v=ax.60)">Phone call (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Calls</strong></p></td>
@@ -46,7 +47,7 @@ The following forms are available when the configuration key is enabled.
 <tr class="odd">
 <td><p><strong>Phone parameters</strong></p>
 <p></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa557760(v=ax.60)">Phone parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa557760(v=ax.60)">Phone parameters (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +85,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

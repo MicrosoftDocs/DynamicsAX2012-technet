@@ -2,8 +2,9 @@
 title: View expense reports
 TOCTitle: View expense reports
 ms:assetid: 4a1488d3-1d33-4404-aa81-5978d7d74ee1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271521(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271521(v=AX.60)
 ms:contentKeyID: 36384153
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

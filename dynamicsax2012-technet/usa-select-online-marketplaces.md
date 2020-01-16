@@ -2,8 +2,9 @@
 title: (USA) Select online marketplaces
 TOCTitle: (USA) Select online marketplaces
 ms:assetid: 174297af-4435-4dfa-a922-7fa18861f8b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242150(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242150(v=AX.60)
 ms:contentKeyID: 36056081
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

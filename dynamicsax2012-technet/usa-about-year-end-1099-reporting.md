@@ -2,8 +2,9 @@
 title: (USA) About year-end 1099 reporting
 TOCTitle: (USA) About year-end 1099 reporting
 ms:assetid: 56f8df2e-6a13-4967-9454-adf0316abaff
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg242471(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg242471(v=AX.60)
 ms:contentKeyID: 36057326
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -34,7 +35,7 @@ If you set up a 1099 vendor during the calendar year after you have already proc
 
 We recommend that you review IRS rule changes for the applicable tax year before you set up and process 1099 statements.
 
-When you are ready to process 1099 statements, use the **Tax 1099 summary** form (Click **Accounts payable** \> **Periodic** \> **Vendor settlement for 1099s**.) See [(USA) Vendor settlement for 1099s (form)](https://technet.microsoft.com/en-us/library/aa582697\(v=ax.60\)) for more information.
+When you are ready to process 1099 statements, use the **Tax 1099 summary** form (Click **Accounts payable** \> **Periodic** \> **Vendor settlement for 1099s**.) See [(USA) Vendor settlement for 1099s (form)](https://technet.microsoft.com/library/aa582697\(v=ax.60\)) for more information.
 
 ## Example of a typical year-end 1099 process
 
@@ -111,7 +112,7 @@ An OID is treated as taxable income for the owner of the debt obligation. The is
 
 [(USA) Set up vendors for 1099 reporting](usa-set-up-vendors-for-1099-reporting.md)
 
-[(USA) 1099 transmitter (form)](https://technet.microsoft.com/en-us/library/aa587975\(v=ax.60\))
+[(USA) 1099 transmitter (form)](https://technet.microsoft.com/library/aa587975\(v=ax.60\))
 
 [(USA) Post a vendor payment journal and generate a 1099 OID report](usa-post-a-vendor-payment-journal-and-generate-a-1099-oid-report.md)
 

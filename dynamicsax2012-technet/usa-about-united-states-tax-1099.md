@@ -2,8 +2,9 @@
 title: (USA) About United States tax 1099
 TOCTitle: (USA) About United States tax 1099
 ms:assetid: b1e5efd4-a7ff-42e7-9cc9-d375b52db351
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa498652(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa498652(v=AX.60)
 ms:contentKeyID: 36059056
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

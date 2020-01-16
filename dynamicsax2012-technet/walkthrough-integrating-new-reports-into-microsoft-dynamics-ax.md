@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Integrating New Reports into Microsoft Dynamics AX'
 TOCTitle: 'Walkthrough: Integrating New Reports into Microsoft Dynamics AX'
 ms:assetid: 7f194346-07a9-4aee-b602-2a4e4f5c5af6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Cc600454(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Cc600454(v=AX.60)
 ms:contentKeyID: 28119389
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
@@ -45,7 +46,7 @@ To complete this walkthrough, you will need:
 
 
 > [!NOTE]
-> <P>If you do not have a label file, use the label file wizard in Microsoft Dynamics AX to create a label file. For more information, see <A href="https://technet.microsoft.com/en-us/library/aa844896(v=ax.60)">How to: Create a Label File</A>.</P>
+> <P>If you do not have a label file, use the label file wizard in Microsoft Dynamics AX to create a label file. For more information, see <A href="https://technet.microsoft.com/library/aa844896(v=ax.60)">How to: Create a Label File</A>.</P>
 
 
 

@@ -2,8 +2,9 @@
 title: "What's new: Project management and accounting features"
 TOCTitle: Project management and accounting features
 ms:assetid: 7f974cb1-fe38-4a96-a931-568cc0676ce3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527160(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527160(v=AX.60)
 ms:contentKeyID: 59623290
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
@@ -34,9 +35,9 @@ We have changed and added functionality in the [Project management and accountin
 <td><p>You can now display the status of a project budget in purchase requisition forms, purchase order forms, and vendor invoice forms. Therefore, you can easily monitor the remaining available budget for projects. This change also supports budget control and the evaluation of proposed purchases during management review or workflow approval.</p>
 <p>For more information, see the following topics:</p>
 <ul>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh209453(v=ax.60)">Purchase requisitions (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/aa557983(v=ax.60)">Purchase order (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh209644(v=ax.60)">Vendor invoice (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh209453(v=ax.60)">Purchase requisitions (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/aa557983(v=ax.60)">Purchase order (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh209644(v=ax.60)">Vendor invoice (form)</a></p></li>
 <li><p><a href="create-a-purchase-order.md">Create a purchase order</a></p></li>
 </ul></td>
 </tr>
@@ -76,7 +77,7 @@ We have changed and added functionality in the [Project management and accountin
 <li><p>Revisions to a budget can be submitted for review and approval. For more information, see <a href="revise-and-submit-a-project-budget.md">Revise and submit a project budget</a>.</p></li>
 <li><p>Approval of a proposed budget revision causes an immediate change to the overall project budget. For more information, see <a href="review-a-submitted-project-budget-or-budget-revision.md">Review a submitted project budget or budget revision</a>.</p></li>
 <li><p>A history, or audit trail, of proposed, accepted, and rejected budget revisions is available for review. For more information, see <a href="review-the-workflow-status-and-history-for-a-project-budget.md">Review the workflow status and history for a project budget</a>.</p></li>
-<li><p>The <strong>Project budget balances</strong> form includes a detailed presentation of the project budget. For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209310(v=ax.60)">Project budget balances (form)</a>.</p></li>
+<li><p>The <strong>Project budget balances</strong> form includes a detailed presentation of the project budget. For more information, see <a href="https://technet.microsoft.com/library/hh209310(v=ax.60)">Project budget balances (form)</a>.</p></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -204,12 +205,12 @@ We have changed and added functionality in the [Project management and accountin
 <td><p>AX 2012 R2 introduces support for specifying a worker's hourly cost price on projects as an effective labor rate. The effective labor rate defines the hourly cost if the worker works all the hours in a work week. The cost price of the effective labor rate for a period is calculated by using the following formula:</p>
 <p>Effective labor rate price per hour * (Number of hours in the work week according to the worker's calendar / Number of hours registered in the week)</p>
 <p>The <strong>Project setup</strong> form now includes a <strong>Use effective labor rate</strong> check box. If this check box is selected, you can mark a worker's hourly price in the <strong>Cost price - hour</strong> form as an effective labor rate.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209540(v=ax.60)">Project setup (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209540(v=ax.60)">Project setup (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Select a value model for estimate eliminations</p></td>
 <td><p>For investment projects, in the <strong>Estimate</strong> form, you can now select the value model that is applied when the value from an estimate project is eliminated to a fixed asset.</p>
-<p>For more information, see <a href="about-maintaining-estimates.md">About maintaining estimates</a> and <a href="https://technet.microsoft.com/en-us/library/aa590971(v=ax.60)">Estimate (form)</a>.</p></td>
+<p>For more information, see <a href="about-maintaining-estimates.md">About maintaining estimates</a> and <a href="https://technet.microsoft.com/library/aa590971(v=ax.60)">Estimate (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enhancements to project invoice proposals and printing project documents</p></td>
@@ -290,7 +291,7 @@ We have changed and added functionality in the [Project management and accountin
 <tr class="odd">
 <td><p>Reverse an hour transaction for a project</p></td>
 <td><p>You can set up a reversing entry for hours that are posted to a project, and you can also specify the date on which the reversing entry is automatically posted. Previously, you could post a reversing entry only on the date on which you created the reversing entry.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa571787(v=ax.60)">Journal lines for hours (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa571787(v=ax.60)">Journal lines for hours (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Generate project budget revenue amounts from budget cost amounts for a project</p></td>
@@ -433,7 +434,7 @@ We have changed and added functionality in the [Project management and accountin
 <li><p><strong>Cost template</strong></p></li>
 <li><p><strong>Category</strong></p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh209310(v=ax.60)">Project budget balances (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/hh209310(v=ax.60)">Project budget balances (form)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Enhancements to tools for scheduling worker resources</p></td>
@@ -444,7 +445,7 @@ We have changed and added functionality in the [Project management and accountin
 <li><p>You can convert selected soft-booked hours to hard-booked hours directly from the project team.</p></li>
 <li><p>The concept of reserving workers has been renamed booking workers.</p></li>
 </ul>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/dn532267(v=ax.60)">View booking details (form)</a> and <a href="key-tasks-create-a-schedule-based-on-a-project-in-ax-2012-r3-or-ax-2012-r2-cu7.md">Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/dn532267(v=ax.60)">View booking details (form)</a> and <a href="key-tasks-create-a-schedule-based-on-a-project-in-ax-2012-r3-or-ax-2012-r2-cu7.md">Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Enhanced support for integrating projects between Microsoft Dynamics AX and Microsoft Project</p></td>

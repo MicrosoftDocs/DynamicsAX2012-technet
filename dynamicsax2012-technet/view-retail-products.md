@@ -2,8 +2,9 @@
 title: View retail products
 TOCTitle: View retail products
 ms:assetid: c8111d85-06e7-4c74-a9f2-92c2fc48c0b6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh672164(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh672164(v=AX.60)
 ms:contentKeyID: 40581162
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

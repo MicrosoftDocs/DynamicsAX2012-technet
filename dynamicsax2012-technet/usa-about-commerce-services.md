@@ -2,8 +2,9 @@
 title: (USA) About Commerce Services
 TOCTitle: (USA) About Commerce Services
 ms:assetid: b9ba131a-105a-417e-b792-151b68f4aa70
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242765(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242765(v=AX.60)
 ms:contentKeyID: 36059121
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

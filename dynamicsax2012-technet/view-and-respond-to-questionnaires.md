@@ -2,8 +2,9 @@
 title: View and respond to questionnaires
 TOCTitle: View and respond to questionnaires
 ms:assetid: cf79517e-ae09-4205-b73a-b193715ce4b7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271651(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271651(v=AX.60)
 ms:contentKeyID: 36384283
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

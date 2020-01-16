@@ -2,8 +2,9 @@
 title: Vendor/Item statistics report (PurchStatisticsVendItem)
 TOCTitle: Vendor/Item statistics report (PurchStatisticsVendItem)
 ms:assetid: f67bcf67-4415-4fd5-bede-9ac45c8bbbda
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh227637(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh227637(v=AX.60)
 ms:contentKeyID: 36060835
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

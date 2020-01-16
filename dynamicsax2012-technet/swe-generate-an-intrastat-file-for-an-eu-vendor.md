@@ -2,8 +2,9 @@
 title: (SWE) Generate an Intrastat file for an EU vendor
 TOCTitle: (SWE) Generate an Intrastat file for an EU vendor
 ms:assetid: d674986f-5738-4da7-8eef-2813b8c339cb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh242931(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh242931(v=AX.60)
 ms:contentKeyID: 36059534
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ Before generating the Intrastat file, complete the following tasks:
 
   - Set up Intrastat parameters to generate Intrastat transaction details and compression details.
 
-  - Create an item, and then specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Foreign trade parameters (form)](https://technet.microsoft.com/en-us/library/aa620385\(v=ax.60\)), [Compression of Intrastat (form)](https://technet.microsoft.com/en-us/library/aa584795\(v=ax.60\)), [Released product details (form)](https://technet.microsoft.com/en-us/library/aa615563\(v=ax.60\)), and [Create items](create-items.md).
+  - Create an item, and then specify the **Commodity**, **Additional units**, and **Net weight** fields for the Intrastat transaction. For more information, see [Foreign trade parameters (form)](https://technet.microsoft.com/library/aa620385\(v=ax.60\)), [Compression of Intrastat (form)](https://technet.microsoft.com/library/aa584795\(v=ax.60\)), [Released product details (form)](https://technet.microsoft.com/library/aa615563\(v=ax.60\)), and [Create items](create-items.md).
 
 ## Set up an EU vendor
 
@@ -59,7 +60,7 @@ To generate the Intrastat file, create and post a vendor invoice for the selecte
 
 1.  Click **Organization administration** \> **Periodic** \> **Foreign trade** \> **Intrastat**.
     
-    If any Intrastat transactions are present in the **Intrastat** form, select them and click **Delete**. For more information, see [About Intrastat](about-intrastat.md) and [Intrastat (form)](https://technet.microsoft.com/en-us/library/aa619055\(v=ax.60\)).
+    If any Intrastat transactions are present in the **Intrastat** form, select them and click **Delete**. For more information, see [About Intrastat](about-intrastat.md) and [Intrastat (form)](https://technet.microsoft.com/library/aa619055\(v=ax.60\)).
 
 2.  Click **Transfer SE** to open the **Dialog** form.
 
@@ -97,7 +98,7 @@ To generate the Intrastat file, create and post a vendor invoice for the selecte
 
 ## See also
 
-[(SWE) Make diskette for Intrastat in Swedish layout (class form)](https://technet.microsoft.com/en-us/library/hh242715\(v=ax.60\))
+[(SWE) Make diskette for Intrastat in Swedish layout (class form)](https://technet.microsoft.com/library/hh242715\(v=ax.60\))
 
 [(SWE) Generate an Intrastat file for an EU customer](swe-generate-an-intrastat-file-for-an-eu-customer.md)
 

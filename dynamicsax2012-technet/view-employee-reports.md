@@ -2,8 +2,9 @@
 title: View employee reports
 TOCTitle: View employee reports
 ms:assetid: 6ccfdb09-a3f9-441c-a4e0-3ed22e1ab3d9
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271556(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271556(v=AX.60)
 ms:contentKeyID: 36384187
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

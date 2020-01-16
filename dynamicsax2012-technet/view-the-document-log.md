@@ -1,9 +1,10 @@
-﻿---
+---
 title: View the document log
 TOCTitle: View the document log
 ms:assetid: ced56ad1-9f5e-46da-b0da-a4657fe5b3e6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa834439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa834439(v=AX.60)
 ms:contentKeyID: 35132888
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: Using favorites
 TOCTitle: Using favorites
 ms:assetid: 2de0ff35-3ded-405c-885a-77af6137b2d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa548439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa548439(v=AX.60)
 ms:contentKeyID: 36676379
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -87,9 +88,9 @@ In the Navigation Pane, right-click the group to rename or delete and select one
 
 ## See also
 
-[Organize favorites (form)](https://technet.microsoft.com/en-us/library/bb220769\(v=ax.60\))
+[Organize favorites (form)](https://technet.microsoft.com/library/bb220769\(v=ax.60\))
 
-[Create/Rename favorite group or folder (form)](https://technet.microsoft.com/en-us/library/aa575852\(v=ax.60\))
+[Create/Rename favorite group or folder (form)](https://technet.microsoft.com/library/aa575852\(v=ax.60\))
 
   
 

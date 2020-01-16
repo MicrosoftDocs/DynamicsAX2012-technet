@@ -2,8 +2,9 @@
 title: Use price simulations
 TOCTitle: Use price simulations
 ms:assetid: 143a2561-e91f-48f8-b3e5-3b61c75471b1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496607(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496607(v=AX.60)
 ms:contentKeyID: 36056053
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

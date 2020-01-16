@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Calling the Metadata Service'
 TOCTitle: 'Walkthrough: Calling the Metadata Service'
 ms:assetid: 01191d78-4386-42b7-a5ad-b1c5186398a3
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg839793(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg839793(v=AX.60)
 ms:contentKeyID: 35240056
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -159,7 +160,7 @@ Now we will write the code that calls the metadata service and returns the metad
 
 ## Next Steps
 
-The [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class contains all the methods and properties for a single query. If you are working with other objects such as tables, you can access the data through the corresponding metadata object, for example, the [QueryMetadata](https://technet.microsoft.com/en-us/library/hh151954\(v=ax.60\)) class. All of the metadata contracts are contained in the [Microsoft.Dynamics.AX.Framework.Services.Metadata.Contracts](https://technet.microsoft.com/en-us/library/hh187940\(v=ax.60\)) namespace.
+The [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class contains all the methods and properties for a single query. If you are working with other objects such as tables, you can access the data through the corresponding metadata object, for example, the [QueryMetadata](https://technet.microsoft.com/library/hh151954\(v=ax.60\)) class. All of the metadata contracts are contained in the [Microsoft.Dynamics.AX.Framework.Services.Metadata.Contracts](https://technet.microsoft.com/library/hh187940\(v=ax.60\)) namespace.
 
 ## See also
 

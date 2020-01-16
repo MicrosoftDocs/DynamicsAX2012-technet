@@ -2,8 +2,9 @@
 title: View budget activities for apportionments (Public Sector)
 TOCTitle: View budget activities for apportionments (Public Sector)
 ms:assetid: 50383c7d-bfe9-4a67-a6f6-77fb9534aa99
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208534(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208534(v=AX.60)
 ms:contentKeyID: 36056285
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

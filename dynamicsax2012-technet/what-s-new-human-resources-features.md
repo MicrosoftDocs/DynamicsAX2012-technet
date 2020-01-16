@@ -2,8 +2,9 @@
 title: "What's new: Human resources features"
 TOCTitle: Human resources features
 ms:assetid: 8977e864-f121-4031-9a75-a9af53fbe074
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527168(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527168(v=AX.60)
 ms:contentKeyID: 59623297
+author: Khairunj
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
@@ -136,12 +137,12 @@ We have changed and added functionality in the [Human resources](human-resources
 <tr class="odd">
 <td><p>Create a budget for filled or vacant positions.</p></td>
 <td><p>You can identify salary and benefits for each position. You can also create budget amounts by budget cycle, account, and dimension, and import your forecast data into the budget planning tool. You can complete these changes in a temporary environment, without affecting your live data. Alternatively, you can make the changes directly to your live data. In this case, the changes become effective immediately.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Worker education enhancements</p></td>
 <td><p>You can enter additional details about worker education in the <strong>Education</strong> form. For a completed degree, you can enter the credits that were completed and the credit basis, such as semester or quarter. For a degree that is in progress, you can enter the credits that have been earned and the credits that are required. You can also enter any additional notes that are related to the worker's education, and also enter a secondary emphasis, or minor, such as Business or Economics. This information can be viewed and entered on the Employee services site, and can appear on the <strong>Worker</strong> and <strong>Applicant resume</strong> reports.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/aa616828(v=ax.60)">Education (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/aa616828(v=ax.60)">Education (form)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>You can require that applicants and employees pass certain tests to obtain and hold certain positions.</p></td>
@@ -192,7 +193,7 @@ We have changed and added functionality in the [Human resources](human-resources
 <tr class="odd">
 <td><p>You can require that applicants and employees take or pass designated screenings.</p></td>
 <td><p>You can require that applicants and workers take or pass medical and drug screenings that are associated with a particular job. You can set up recurrence information for screenings that recur on a predetermined schedule, such as every year or every other year.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677379(v=ax.60)">Screening types (form)</a> and <a href="https://technet.microsoft.com/en-us/library/jj677391(v=ax.60)">Screenings (form)</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677379(v=ax.60)">Screening types (form)</a> and <a href="https://technet.microsoft.com/library/jj677391(v=ax.60)">Screenings (form)</a>.</p></td>
 </tr>
 </tbody>
 </table>

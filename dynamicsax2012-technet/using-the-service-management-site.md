@@ -2,8 +2,9 @@
 title: Using the Service management site
 TOCTitle: Using the Service management site
 ms:assetid: 7a8c4714-6434-43b7-8913-d774a90004b4
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271572(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271572(v=AX.60)
 ms:contentKeyID: 36384203
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

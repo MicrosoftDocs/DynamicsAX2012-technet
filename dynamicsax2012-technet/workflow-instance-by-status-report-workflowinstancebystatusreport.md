@@ -2,8 +2,9 @@
 title: Workflow instance by status report (WorkflowInstanceByStatusReport)
 TOCTitle: Workflow instance by status report (WorkflowInstanceByStatusReport)
 ms:assetid: 47de15b1-081e-4c29-89b9-dfd4c2acbf9e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh334478(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh334478(v=AX.60)
 ms:contentKeyID: 36676463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

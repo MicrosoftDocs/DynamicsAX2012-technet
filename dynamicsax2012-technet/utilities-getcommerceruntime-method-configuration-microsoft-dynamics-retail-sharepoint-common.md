@@ -1,9 +1,10 @@
-﻿---
+---
 title: Utilities.GetCommerceRuntime Method (Configuration) (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: GetCommerceRuntime Method (Configuration)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.GetCommerceRuntime(System.Configuration.Configuration)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.common.utilities.getcommerceruntime(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities.getcommerceruntime(v=AX.60)
 ms:contentKeyID: 62202587
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -49,7 +50,7 @@ static CommerceRuntime^ GetCommerceRuntime(
 #### Parameters
 
   - appConfiguration  
-    Type: [System.Configuration.Configuration](https://technet.microsoft.com/en-us/library/s7kc101z\(v=ax.60\))  
+    Type: [System.Configuration.Configuration](https://technet.microsoft.com/library/s7kc101z\(v=ax.60\))  
 
 #### Return Value
 

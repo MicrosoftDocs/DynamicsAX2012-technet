@@ -2,8 +2,9 @@
 title: "What's new: Compliance and internal controls features"
 TOCTitle: Compliance and internal controls features
 ms:assetid: dff297c8-2d29-405f-af69-c4a43a69c697
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527228(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527228(v=AX.60)
 ms:contentKeyID: 59623356
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -116,10 +117,10 @@ We have changed and added functionality in the [Compliance and internal controls
 <ul>
 <li><p><a href="about-audit-policy-rules.md">About audit policy rules</a></p></li>
 <li><p><a href="key-tasks-audit-policies.md">Key tasks: Audit policies</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh227519(v=ax.60)">Additional options (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh242790(v=ax.60)">Audit policy (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh209490(v=ax.60)">Audit policy rule (form)</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh208562(v=ax.60)">Policy rule type (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh227519(v=ax.60)">Additional options (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh242790(v=ax.60)">Audit policy (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh209490(v=ax.60)">Audit policy rule (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh208562(v=ax.60)">Policy rule type (form)</a></p></li>
 </ul></td>
 </tr>
 </tbody>

@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Using the Query Service to Query Date Effective Tables'
 TOCTitle: 'Walkthrough: Using the Query Service to Query Date Effective Tables'
 ms:assetid: 3398a45d-6f5a-4c71-9403-d1655b3b6484
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg844682(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg844682(v=AX.60)
 ms:contentKeyID: 35241996
+author: Khairunj
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:
@@ -15,7 +16,7 @@ dev_langs:
 
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This walkthrough shows you how to call the query service and retrieve data from tables that contain date effective fields. This support enables you to use the query service to build a query that returns data based on specific time periods. In this walkthrough, you use the metadata service to retrieve a static query from the Application Object Tree (AOT). Then you add a date range to the query and use the query service to issue the query. For more information about date effective fields in tables, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/en-us/library/gg861781\(v=ax.60\))
+This walkthrough shows you how to call the query service and retrieve data from tables that contain date effective fields. This support enables you to use the query service to build a query that returns data based on specific time periods. In this walkthrough, you use the metadata service to retrieve a static query from the Application Object Tree (AOT). Then you add a date range to the query and use the query service to issue the query. For more information about date effective fields in tables, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/library/gg861781\(v=ax.60\))
 
 This walkthrough illustrates the following tasks:
 
@@ -152,5 +153,5 @@ The following code example sets a date range on the query so that the only recor
 
 [Creating Query Service Test Data](creating-query-service-test-data.md)
 
-[Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/en-us/library/gg861781\(v=ax.60\))
+[Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/library/gg861781\(v=ax.60\))
 

@@ -1,9 +1,10 @@
-﻿---
+---
 title: "What's New: AOS and Database for Developers in Microsoft Dynamics AX 2012"
 TOCTitle: AOS and Database for Developers
 ms:assetid: 90301cc1-e1f6-492c-8d66-f51e4044e2ba
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg841655(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg841655(v=AX.60)
 ms:contentKeyID: 35247423
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
@@ -63,7 +64,7 @@ The following improvements were made in AOS:
 <td><p>You can set the <strong>ValidTimeStateFieldType</strong> property on a table to make it a valid time state table. The system then automatically adds the <strong>ValidFrom</strong> and <strong>ValidTo</strong> columns that track a date range in each row.</p>
 <p>The system ensures that the values in these date fields remain valid by automatically preventing overlap among date ranges, based on the primary key value. The X++ select statement has the validTimeState keyword, so that rows can be filtered by date or date range. The Query class has properties, such as ValidTimeStateDateTimeRange, that provide a filter by date range.</p></td>
 <td><p>The code that manages data relationships over date ranges is complex. Now, Microsoft Dynamics AX can manage these relationships for you.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg861781(v=ax.60)">Valid Time State Tables and Date Effective Data</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg861781(v=ax.60)">Valid Time State Tables and Date Effective Data</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +95,7 @@ The following improvements were made in AOS:
 <td><p>The feature was not supported.</p></td>
 <td><p>You can use the UnitOfWork class to safely manage the operation sequence and transaction integrity for row-by-row database deletes, inserts, and updates. First, register each SQL data modification call with the UnitOfWork object. Then, by using one method call, you instruct the object to run the data modification calls. The object calculates the correct sequence used to run the data modification calls.</p></td>
 <td><p>Application programmers who perform a set of data modification calls no longer have to track every detail of foreign key relationships. The UnitOfWork class helps enforce transaction integrity.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg846338(v=ax.60)">How to: Use the UnitOfWork Class to Manage Database Transactions</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg846338(v=ax.60)">How to: Use the UnitOfWork Class to Manage Database Transactions</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +127,7 @@ The following improvements were made in AOS:
 <td><p>Just as an X++ class could inherit from another X++ class in AX 2009, a table can inherit from another table in AX 2012. As in earlier releases, the Common table is still the base table of every table.</p>
 <p>A table that inherits from a base table is called a derived table. The terms parent table and child table describe foreign key relationships, not inheritance.</p></td>
 <td><p>Table inheritance can improve the design of data models and reuse of schema components.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg844024(v=ax.60)">Walkthrough: Creating Base and Derived Tables</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg844024(v=ax.60)">Walkthrough: Creating Base and Derived Tables</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -157,7 +158,7 @@ The following improvements were made in AOS:
 <td><p>The feature was not supported.</p></td>
 <td><p>A full text index has a separate entry for each significant word in a string field. The QueryRange class can enable an instance of the Query class to benefit from a full text index.</p></td>
 <td><p>This feature supports full text queries. Full text queries improve the performance of SQL statements that have a where clause condition that is directed at a word that is embedded in the middle of a string field.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg845129(v=ax.60)">How to: Create a Full Text Index</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg845129(v=ax.60)">How to: Create a Full Text Index</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -188,7 +189,7 @@ The following improvements were made in AOS:
 <td><p>Only temporary tables of the <strong>InMemory</strong> type were supported.</p></td>
 <td><p>In the properties for a table in the Microsoft Dynamics AX Application Object Tree (AOT), the <strong>TableType</strong> property is now an enum property. The enum value <strong>InMemory</strong> is the legacy type of a temporary table that is hosted in the client. The enum value <strong>TempDb</strong> is the new type of temporary table that is hosted in the TempDb database of the underlying Microsoft SQL Server. <strong>TempDB</strong> temporary tables can be joined with regular tables on the database tier. By joining <strong>TempDB</strong> temporary tables with regular tables, you can often improve performance and simplify the programming model.</p></td>
 <td><p><strong>TempDB</strong> temporary tables can be joined with regular tables on the database tier. By joining <strong>TempDB</strong> temporary tables with regular tables, you can often improve performance and simplify the programming model.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg845661(v=ax.60)">Temporary TempDB Tables</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg845661(v=ax.60)">Temporary TempDB Tables</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -219,7 +220,7 @@ The following improvements were made in AOS:
 <td><p>The feature was not supported.</p></td>
 <td><p>A computed column is the output of a computation that uses a regular column as input.</p></td>
 <td><p>By using a computed column, you can simplify application development. Various parts of the client code can all rely on the computed column that is processed by the server in one location.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg845841(v=ax.60)">Walkthrough: Add a Computed Column to a View</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg845841(v=ax.60)">Walkthrough: Add a Computed Column to a View</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -250,7 +251,7 @@ The following improvements were made in AOS:
 <td><p>The feature was not supported.</p></td>
 <td><p>You can use the new QueryFilter class to filter the result set from an outer join. The QueryFilter class can produce different results to those of the QueryBuildRange class in outer joins. The QueryFilter class filters later in the process for internal queries and can prevent rows that have null values from appearing in the result set.</p></td>
 <td><p>By filtering the result set from an outer join, you can reduce the number of rows that the database server must scan.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg881181(v=ax.60)">How to: Use the QueryFilter Class with Outer Joins</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg881181(v=ax.60)">How to: Use the QueryFilter Class with Outer Joins</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -281,7 +282,7 @@ The following improvements were made in AOS:
 <td><p>The feature was not supported.</p></td>
 <td><p>The AOT now has a <strong>Having</strong> node under <strong>Queries</strong> &gt; MyQuery &gt; <strong>Data Sources</strong>. This node corresponds to the having clause in standard SQL.</p></td>
 <td><p>In a query, you can now specify a filter condition for an aggregate value.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/hh745337(v=ax.60)">Walkthrough: Creating an AOT Query that has Group By and Having Nodes</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/hh745337(v=ax.60)">Walkthrough: Creating an AOT Query that has Group By and Having Nodes</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -313,7 +314,7 @@ The following improvements were made in AOS:
 <td><p>When you disable the configuration key for a table that is listed in the AOT, the corresponding table in the underlying database management system is not dropped. When you modify a configuration key to disable a table, you must decide whether you want to manually delete the data that is in the table.</p></td>
 <td><p>External programs and SQL Server cubes no longer fail when you disable a table. The programs and cubes can continue to read the data from the table, because they bypass AOS.</p>
 <p>You must decide whether you want external processes to continue to read from the disabled table.</p></td>
-<td><p>For more information, see <a href="https://technet.microsoft.com/en-us/library/gg845255(v=ax.60)">Effect of Disabling a Table or Column</a>.</p></td>
+<td><p>For more information, see <a href="https://technet.microsoft.com/library/gg845255(v=ax.60)">Effect of Disabling a Table or Column</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -321,7 +322,7 @@ The following improvements were made in AOS:
 
 ## See also
 
-[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/en-us/library/gg845327\(v=ax.60\))
+[What's New in Microsoft Dynamics AX 2012 for Developers](https://technet.microsoft.com/library/gg845327\(v=ax.60\))
 
   
 **Announcements:** New book: "Inside Microsoft Dynamics AX 2012 R3" now available. Get your copy at the [MS Press Store](https://www.microsoftpressstore.com/store/inside-microsoft-dynamics-ax-2012-r3-9780735685109).

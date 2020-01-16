@@ -2,8 +2,9 @@
 title: View the employee directory
 TOCTitle: View the employee directory
 ms:assetid: 8038d68f-a2cb-4d44-bb28-d93eb0866123
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271581(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271581(v=AX.60)
 ms:contentKeyID: 36384212
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

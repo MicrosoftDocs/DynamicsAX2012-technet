@@ -2,8 +2,9 @@
 title: Viewing Voucher Numbers and Journal Numbers when Summarizing Accounting Entries (White Paper)
 TOCTitle: Viewing Voucher Numbers and Journal Numbers when Summarizing Accounting Entries
 ms:assetid: cc4dcc5d-d58e-4a42-8a31-3918a8eab77c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ870683(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ870683(v=AX.60)
 ms:contentKeyID: 50469191
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

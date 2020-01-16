@@ -2,8 +2,9 @@
 title: Update a customer rebate group
 TOCTitle: Update a customer rebate group
 ms:assetid: 71d59ca6-a0e1-4c02-8f84-571820b3d1a7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352210(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352210(v=AX.60)
 ms:contentKeyID: 36687844
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,7 +34,7 @@ Use this procedure to update the description for a customer rebate group.
 
 [Create a customer rebate group](create-a-customer-rebate-group.md)
 
-[Customer rebate groups (form)](https://technet.microsoft.com/en-us/library/hh352361\(v=ax.60\))
+[Customer rebate groups (form)](https://technet.microsoft.com/library/hh352361\(v=ax.60\))
 
   
 

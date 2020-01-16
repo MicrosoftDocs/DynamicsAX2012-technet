@@ -2,8 +2,9 @@
 title: (USA) Set up issuing agencies
 TOCTitle: (USA) Set up issuing agencies
 ms:assetid: df1dccb6-6444-43e1-9e90-05acab901feb
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781105(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781105(v=AX.60)
 ms:contentKeyID: 43894522
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -33,9 +34,9 @@ Issuing agencies are government entities that are authorized to issue documents 
 
 [(USA) Set up Form I-9 document types](usa-set-up-form-i-9-document-types.md)
 
-[Form I-9 document types (form)](https://technet.microsoft.com/en-us/library/hh227352\(v=ax.60\))
+[Form I-9 document types (form)](https://technet.microsoft.com/library/hh227352\(v=ax.60\))
 
-[I-9 document (form)](https://technet.microsoft.com/en-us/library/hh227380\(v=ax.60\))
+[I-9 document (form)](https://technet.microsoft.com/library/hh227380\(v=ax.60\))
 
   
 

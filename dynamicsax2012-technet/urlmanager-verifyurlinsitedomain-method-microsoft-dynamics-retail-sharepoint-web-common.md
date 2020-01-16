@@ -1,9 +1,10 @@
-﻿---
+---
 title: UrlManager.VerifyUrlInSiteDomain Method  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: VerifyUrlInSiteDomain Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.UrlManager.VerifyUrlInSiteDomain(System.Uri)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.urlmanager.verifyurlinsitedomain(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.urlmanager.verifyurlinsitedomain(v=AX.60)
 ms:contentKeyID: 62206677
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,11 +52,11 @@ static bool VerifyUrlInSiteDomain(
 #### Parameters
 
   - url  
-    Type: [System.Uri](https://technet.microsoft.com/en-us/library/txt7706a\(v=ax.60\))  
+    Type: [System.Uri](https://technet.microsoft.com/library/txt7706a\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 true if the url is the same domain, false otherwise  
 
 ## See Also

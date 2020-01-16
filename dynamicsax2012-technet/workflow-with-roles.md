@@ -2,8 +2,9 @@
 title: Workflow with roles
 TOCTitle: Workflow with roles
 ms:assetid: fcd1a96d-b08d-4a07-a0b4-8b7ce0b0fff7
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg723987(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg723987(v=AX.60)
 ms:contentKeyID: 35133339
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

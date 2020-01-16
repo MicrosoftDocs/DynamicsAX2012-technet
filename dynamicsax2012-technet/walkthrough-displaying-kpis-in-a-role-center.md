@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Displaying KPIs in a Role Center'
 TOCTitle: 'Walkthrough: Displaying KPIs in a Role Center'
 ms:assetid: 96da7c16-ea81-4e5d-880d-adc10845aca5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd261507(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd261507(v=AX.60)
 ms:contentKeyID: 28119531
+author: Khairunj
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---

@@ -2,8 +2,9 @@
 title: View stage reason codes
 TOCTitle: View stage reason codes
 ms:assetid: 83a6e331-fda0-43dc-995b-9e48551f722a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa571565(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa571565(v=AX.60)
 ms:contentKeyID: 36058378
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -25,7 +26,7 @@ View and modify the list of stage reasons for a service order. Use stage reasons
 
 ## See also
 
-[Stage reasons (form)](https://technet.microsoft.com/en-us/library/aa582897\(v=ax.60\))
+[Stage reasons (form)](https://technet.microsoft.com/library/aa582897\(v=ax.60\))
 
   
 

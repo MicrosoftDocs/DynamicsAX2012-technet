@@ -2,8 +2,9 @@
 title: Worker and position payroll tasks
 TOCTitle: Worker and position payroll tasks
 ms:assetid: 36582f4f-279c-48a0-a8ce-158eb9b8aef6
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ677334(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ677334(v=AX.60)
 ms:contentKeyID: 49384108
+author: Khairunj
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -100,7 +101,7 @@ The following table shows the prerequisites that must be in place before you sta
 <tr class="odd">
 <td><p>Tasks</p></td>
 <td><ul>
-<li><p>Union agreements have been set up. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677427(v=ax.60)">Union agreements (form)</a>.</p></li>
+<li><p>Union agreements have been set up. For more information, see <a href="https://technet.microsoft.com/library/jj677427(v=ax.60)">Union agreements (form)</a>.</p></li>
 <li><p>Positions have been created. For more information, see <a href="key-tasks-new-worker-positions.md">Key tasks: New worker positions</a>.</p></li>
 <li><p>Employees are enrolled in a fixed compensation plan. For more information, see “Enroll an employee in a fixed compensation plan” in <a href="key-tasks-compensation-plans.md">Key tasks: Compensation plans</a>.</p></li>
 <li><p>Benefit eligibility policies have been created. For more information, see <a href="key-tasks-benefit-eligibility-policies.md">Key tasks: Benefit eligibility policies</a>.</p></li>
@@ -161,7 +162,7 @@ To add payroll details to a position, follow these steps:
     <div class="alert">
 
     > [!NOTE]
-    > <P>You can use the <STRONG>Worker</STRONG> form to assign default tax codes for each position. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209054(v=ax.60)">Worker (form)</A>.</P>
+    > <P>You can use the <STRONG>Worker</STRONG> form to assign default tax codes for each position. For more information, see <A href="https://technet.microsoft.com/library/hh209054(v=ax.60)">Worker (form)</A>.</P>
 
 
     </div></td>
@@ -420,7 +421,7 @@ Payroll information for a benefit isn’t available if the **Payroll impact** fi
 
 
 
-For more information about how to set up a benefit, see [Benefit setup tasks](benefit-setup-tasks.md). For more detailed information about the fields that are used in this task to set up a benefit for a worker, see [Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\)).
+For more information about how to set up a benefit, see [Benefit setup tasks](benefit-setup-tasks.md). For more detailed information about the fields that are used in this task to set up a benefit for a worker, see [Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\)).
 
 To set up payroll information for benefits, follow these steps:
 
@@ -432,7 +433,7 @@ To set up payroll information for benefits, follow these steps:
 
 4.  Enter this information:
     
-      - **Paid by** – The legal entity that pays for the selected benefit for this worker. This is usually the same legal entity that the worker is employed by and that pays for the worker position. For more information, see [Positions (form)](https://technet.microsoft.com/en-us/library/aa590982\(v=ax.60\)).
+      - **Paid by** – The legal entity that pays for the selected benefit for this worker. This is usually the same legal entity that the worker is employed by and that pays for the worker position. For more information, see [Positions (form)](https://technet.microsoft.com/library/aa590982\(v=ax.60\)).
     
       - **Position** – Leave this field blank, except when the total costs for the benefit must follow a specific position. Union dues are an example of a benefit that would be assigned to a position.
         
@@ -450,11 +451,11 @@ To set up payroll information for benefits, follow these steps:
         
         Your legal advisors should help you determine the correct deduction priority for all benefits.
         
-        The default value for this field is set up in the **Benefit elements** form. For more information about this field, see [Benefit elements (form)](https://technet.microsoft.com/en-us/library/hh209498\(v=ax.60\)).
+        The default value for this field is set up in the **Benefit elements** form. For more information about this field, see [Benefit elements (form)](https://technet.microsoft.com/library/hh209498\(v=ax.60\)).
     
       - **Rate source**, **Basis**, and **Deduction** – The basis option and the deduction amount are used together to calculate the amount of the payroll deduction for the benefit.
         
-        The default values for these fields are set up in the **Basis** and **Amount or rate** fields in the **Benefits** form. For information about how these fields interact, see [Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\)).
+        The default values for these fields are set up in the **Basis** and **Amount or rate** fields in the **Benefits** form. For information about how these fields interact, see [Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\)).
         
         The **Rate source** field determines whether these fields are changed to match the default values when the benefit rates are updated from the benefit.
         
@@ -470,7 +471,7 @@ To set up payroll information for benefits, follow these steps:
     
       - **Rate source**, **Basis**, and **Contribution** – The basis option and the contribution amount are used together to calculate the amount of the employer contribution for the benefit.
         
-        The default values for these fields are set up in the **Basis** and **Amount or rate** fields in the **Benefits** form. For information about how these fields interact, see [Benefits (form)](https://technet.microsoft.com/en-us/library/jj680907\(v=ax.60\)).
+        The default values for these fields are set up in the **Basis** and **Amount or rate** fields in the **Benefits** form. For information about how these fields interact, see [Benefits (form)](https://technet.microsoft.com/library/jj680907\(v=ax.60\)).
         
         The **Rate source** field determines whether these fields are changed to match the default values when the benefit rates are updated from the benefit.
         
@@ -503,7 +504,7 @@ To set up payroll information for benefits, follow these steps:
         
 
         > [!NOTE]
-        > <P>The limit period is based on the calendar. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
+        > <P>The limit period is based on the calendar. For more information, see <A href="https://technet.microsoft.com/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
 
 
 
@@ -522,7 +523,7 @@ To set up payroll information for benefits, follow these steps:
         
 
         > [!NOTE]
-        > <P>The limit period is based on the calendar. For more information, see <A href="https://technet.microsoft.com/en-us/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
+        > <P>The limit period is based on the calendar. For more information, see <A href="https://technet.microsoft.com/library/hh209498(v=ax.60)">Benefit elements (form)</A>.</P>
 
 
 
@@ -612,7 +613,7 @@ Back to top
 
 ## Find form help
 
-[Maintain benefits (form)](https://technet.microsoft.com/en-us/library/hh209235\(v=ax.60\))
+[Maintain benefits (form)](https://technet.microsoft.com/library/hh209235\(v=ax.60\))
 
 ## Find related tasks
 

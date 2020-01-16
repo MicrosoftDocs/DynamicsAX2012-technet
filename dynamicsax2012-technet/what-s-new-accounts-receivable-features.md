@@ -2,8 +2,9 @@
 title: "What's new: Accounts receivable features"
 TOCTitle: Accounts receivable features
 ms:assetid: 809645f2-1669-4ac7-96af-88df3ae69162
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527164(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527164(v=AX.60)
 ms:contentKeyID: 59623293
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -228,7 +229,7 @@ We have changed and added functionality in the [Accounts receivable](accounts-re
 <li><p><a href="set-up-print-management-for-a-customer-or-vendor.md">Set up print management for a customer or vendor</a></p></li>
 <li><p><a href="print-or-email-a-report.md">Print or email a report</a></p></li>
 <li><p><a href="print-or-email-a-report-during-off-peak-hours.md">Print or email a report during off-peak hours</a></p></li>
-<li><p><a href="https://technet.microsoft.com/en-us/library/hh597152(v=ax.60)">Print destination settings (form)</a></p></li>
+<li><p><a href="https://technet.microsoft.com/library/hh597152(v=ax.60)">Print destination settings (form)</a></p></li>
 </ul></td>
 </tr>
 </tbody>

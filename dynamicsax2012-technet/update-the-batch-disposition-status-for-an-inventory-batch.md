@@ -2,8 +2,9 @@
 title: Update the batch disposition status for an inventory batch
 TOCTitle: Update the batch disposition status for an inventory batch
 ms:assetid: 7aaa78f3-c2c6-4541-931e-715bcba8eece
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352216(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352216(v=AX.60)
 ms:contentKeyID: 36687851
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -35,7 +36,7 @@ Use this procedure to update the disposition status for one or multiple inventor
 
 ## See also
 
-[Update batch disposition status (form)](https://technet.microsoft.com/en-us/library/hh242875\(v=ax.60\))
+[Update batch disposition status (form)](https://technet.microsoft.com/library/hh242875\(v=ax.60\))
 
   
 

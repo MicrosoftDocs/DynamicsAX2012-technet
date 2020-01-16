@@ -1,9 +1,10 @@
-﻿---
+---
 title: TaxCodeProvider.TaxCodePriority Method  (Microsoft.Dynamics.Commerce.Runtime.Services)
 TOCTitle: TaxCodePriority Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeProvider.TaxCodePriority(Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.taxcodepriority(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeprovider.taxcodepriority(v=AX.60)
 ms:contentKeyID: 49849785
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -55,7 +56,7 @@ static int TaxCodePriority(
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 A value indicating the priority of the tax code.  
 
 ## See Also

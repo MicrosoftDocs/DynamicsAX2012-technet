@@ -2,8 +2,9 @@
 title: Vendor currency conversion reconciliation report (VendLedgerReconciliation)
 TOCTitle: Vendor currency conversion reconciliation report (VendLedgerReconciliation)
 ms:assetid: 7f030b45-8a2c-46a8-9335-37869341b847
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa615501(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa615501(v=AX.60)
 ms:contentKeyID: 36676482
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -2,8 +2,9 @@
 title: Unlimited Dimensions configuration key (COSOpenDimension)
 TOCTitle: Unlimited Dimensions configuration key (COSOpenDimension)
 ms:assetid: 1cfa2fe0-2058-4905-a20c-9db51d64832e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa499372(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa499372(v=AX.60)
 ms:contentKeyID: 37071981
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

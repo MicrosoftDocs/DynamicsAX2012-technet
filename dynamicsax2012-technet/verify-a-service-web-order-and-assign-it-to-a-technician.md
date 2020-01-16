@@ -2,8 +2,9 @@
 title: Verify a service Web order and assign it to a technician
 TOCTitle: Verify a service Web order and assign it to a technician
 ms:assetid: 4f76d052-0d8c-44e3-ba2f-4ba1e7e454f5
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg212757(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg212757(v=AX.60)
 ms:contentKeyID: 42517321
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

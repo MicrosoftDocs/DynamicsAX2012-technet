@@ -2,8 +2,9 @@
 title: Tune data access settings
 TOCTitle: Tune data access settings
 ms:assetid: f799430e-56b0-4b77-abdc-517820390dd2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569634(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569634(v=AX.60)
 ms:contentKeyID: 36584409
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -169,15 +170,15 @@ You can use the optimisticlock or pessimisticlock keywords in a SELECT statement
 
 For more information, see the following topics:
 
-  - [Best Practice Performance Optimizations: Database Design and Operations](https://technet.microsoft.com/en-us/library/aa854605\(v=ax.60\))
+  - [Best Practice Performance Optimizations: Database Design and Operations](https://technet.microsoft.com/library/aa854605\(v=ax.60\))
 
-  - [Transaction Integrity](https://technet.microsoft.com/en-us/library/aa622564\(v=ax.60\))
+  - [Transaction Integrity](https://technet.microsoft.com/library/aa622564\(v=ax.60\))
 
-  - [Exception Handling with try and catch Keywords](https://technet.microsoft.com/en-us/library/aa893385\(v=ax.60\))
+  - [Exception Handling with try and catch Keywords](https://technet.microsoft.com/library/aa893385\(v=ax.60\))
 
-  - [Select Statement Syntax](https://technet.microsoft.com/en-us/library/aa656402\(v=ax.60\))
+  - [Select Statement Syntax](https://technet.microsoft.com/library/aa656402\(v=ax.60\))
 
-  - [Table Properties](https://technet.microsoft.com/en-us/library/aa871620\(v=ax.60\))
+  - [Table Properties](https://technet.microsoft.com/library/aa871620\(v=ax.60\))
 
   
 

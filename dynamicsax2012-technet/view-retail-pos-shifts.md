@@ -2,8 +2,9 @@
 title: View Retail POS shifts
 TOCTitle: View Retail POS shifts
 ms:assetid: 31ad9d52-a837-4737-8a8d-f00d9ae3ad0a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh580602(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh580602(v=AX.60)
 ms:contentKeyID: 39519088
+author: Khairunj
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 audience: Application User

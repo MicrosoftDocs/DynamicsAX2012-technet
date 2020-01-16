@@ -2,8 +2,9 @@
 title: Use bar codes in warehouse operations
 TOCTitle: Use bar codes in warehouse operations
 ms:assetid: adbc48d2-6d6b-4ad1-8051-16fcbad113be
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn906144(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn906144(v=AX.60)
 ms:contentKeyID: 63972493
+author: Khairunj
 ms.date: 05/06/2015
 mtps_version: v=AX.60
 audience: Application User

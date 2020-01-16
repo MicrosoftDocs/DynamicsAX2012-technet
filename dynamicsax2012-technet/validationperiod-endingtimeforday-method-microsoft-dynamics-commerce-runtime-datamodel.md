@@ -1,9 +1,10 @@
-﻿---
+---
 title: ValidationPeriod.EndingTimeForDay Method  (Microsoft.Dynamics.Commerce.Runtime.DataModel)
 TOCTitle: EndingTimeForDay Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ValidationPeriod.EndingTimeForDay(System.DayOfWeek)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod.endingtimeforday(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod.endingtimeforday(v=AX.60)
 ms:contentKeyID: 49840384
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -52,11 +53,11 @@ int EndingTimeForDay(
 #### Parameters
 
   - day  
-    Type: [System.DayOfWeek](https://technet.microsoft.com/en-us/library/zh6aacza\(v=ax.60\))  
+    Type: [System.DayOfWeek](https://technet.microsoft.com/library/zh6aacza\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Int32](https://technet.microsoft.com/en-us/library/td2s409d\(v=ax.60\))  
+Type: [System.Int32](https://technet.microsoft.com/library/td2s409d\(v=ax.60\))  
 Ending time for the given day.  
 
 ## See Also

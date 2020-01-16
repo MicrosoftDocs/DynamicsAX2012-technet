@@ -2,8 +2,9 @@
 title: "What's new: Upgrade features"
 TOCTitle: Upgrade features
 ms:assetid: 1c3d473b-5615-44fd-b8b5-afc69780e543
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh271439(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh271439(v=AX.60)
 ms:contentKeyID: 36384072
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---
@@ -135,7 +136,7 @@ The code upgrade toolset for detecting and resolving conflicts between standard 
 
 Microsoft Dynamics AX 2012 R3 introduces two additional enhancements related to code upgrade.
 
-  - In the code upgrade tool, you can now elect to allow multiple versions of some methods to be merged automatically during upgrade. For information, see [Detect code upgrade conflicts (form)](https://technet.microsoft.com/en-us/library/hh272148\(v=ax.60\)).
+  - In the code upgrade tool, you can now elect to allow multiple versions of some methods to be merged automatically during upgrade. For information, see [Detect code upgrade conflicts (form)](https://technet.microsoft.com/library/hh272148\(v=ax.60\)).
 
   - The command-line tool AxBuild provides speedier code compilation than the standard AOT compilation utility. For information, see [Compile application](compile-application.md).
 

@@ -2,8 +2,9 @@
 title: View fixed asset change history
 TOCTitle: View fixed asset change history
 ms:assetid: 4ad73fa0-5458-4e61-a5cd-53236a6ca0b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Gg231407(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Gg231407(v=AX.60)
 ms:contentKeyID: 36056973
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -29,13 +30,13 @@ Use the **Fixed asset changes history** form to view changes that have been made
 
 ## See also
 
-[Fixed asset changes history (form)](https://technet.microsoft.com/en-us/library/hh209392\(v=ax.60\))
+[Fixed asset changes history (form)](https://technet.microsoft.com/library/hh209392\(v=ax.60\))
 
 [Setting up financial reason codes](setting-up-financial-reason-codes.md)
 
-[Value models (form)](https://technet.microsoft.com/en-us/library/aa590830\(v=ax.60\))
+[Value models (form)](https://technet.microsoft.com/library/aa590830\(v=ax.60\))
 
-[Depreciation books (form)](https://technet.microsoft.com/en-us/library/aa572416\(v=ax.60\))
+[Depreciation books (form)](https://technet.microsoft.com/library/aa572416\(v=ax.60\))
 
   
 

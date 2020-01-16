@@ -1,9 +1,10 @@
-﻿---
+---
 title: Utilities.ExecuteWithRetry Method  (Microsoft.Dynamics.Retail.SharePoint.Common)
 TOCTitle: ExecuteWithRetry Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.ExecuteWithRetry(System.Action,System.Func`2,System.Boolean,System.Exception)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn694247(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn694247(v=AX.60)
 ms:contentKeyID: 62204671
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -62,22 +63,22 @@ static void ExecuteWithRetry(
 #### Parameters
 
   - codeBlock  
-    Type: [System.Action](https://technet.microsoft.com/en-us/library/bb534741\(v=ax.60\))  
+    Type: [System.Action](https://technet.microsoft.com/library/bb534741\(v=ax.60\))  
 
 <!-- end list -->
 
   - retryTestCodeBlock  
-    Type: [System.Func\<T, TResult\>](https://technet.microsoft.com/en-us/library/bb549151\(v=ax.60\))  
+    Type: [System.Func\<T, TResult\>](https://technet.microsoft.com/library/bb549151\(v=ax.60\))  
 
 <!-- end list -->
 
   - numberOfMaxTries  
-    Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
+    Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
 
 <!-- end list -->
 
   - retryInterval  
-    Type: [System.Exception](https://technet.microsoft.com/en-us/library/c18k6c59\(v=ax.60\))  
+    Type: [System.Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\))  
 
 ## See Also
 

@@ -2,8 +2,9 @@
 title: Travel requisition summary report (TrvRequisitionSummary)
 TOCTitle: Travel requisition summary report (TrvRequisitionSummary)
 ms:assetid: 1f3c89ad-0ba5-4095-9ed5-0067ac9abd21
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh389750(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh389750(v=AX.60)
 ms:contentKeyID: 36899728
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

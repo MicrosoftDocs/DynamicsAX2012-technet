@@ -2,8 +2,9 @@
 title: Use alerts to monitor Microsoft Dynamics AX
 TOCTitle: Use alerts
 ms:assetid: f2cb2bc9-a909-4b3d-afe9-3fb1442cca95
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dd362122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dd362122(v=AX.60)
 ms:contentKeyID: 39555430
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

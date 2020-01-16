@@ -2,8 +2,9 @@
 title: Synchronization information report (SysSqlSyncInfo)
 TOCTitle: Synchronization information report (SysSqlSyncInfo)
 ms:assetid: a56f6a98-192e-4564-b747-712bd79381d1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh412251(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh412251(v=AX.60)
 ms:contentKeyID: 36916362
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

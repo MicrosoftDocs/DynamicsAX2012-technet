@@ -1,9 +1,10 @@
-﻿---
+---
 title: UserLogOnRenewalServiceResponse Constructor  (Microsoft.Dynamics.Commerce.Runtime.Services.Messages)
 TOCTitle: UserLogOnRenewalServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UserLogOnRenewalServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Employee)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.services.messages.userlogonrenewalserviceresponse.userlogonrenewalserviceresponse(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.userlogonrenewalserviceresponse.userlogonrenewalserviceresponse(v=AX.60)
 ms:contentKeyID: 62208299
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

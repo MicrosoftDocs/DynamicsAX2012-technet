@@ -1,9 +1,10 @@
-﻿---
+---
 title: 'Walkthrough: Exchanging documents by using the file system adapter'
 TOCTitle: 'Walkthrough: Exchanging documents by using the file system adapter'
 ms:assetid: c121bfd3-7833-4f55-9944-45506c10559a
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh352313(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh352313(v=AX.60)
 ms:contentKeyID: 36687942
+author: Khairunj
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

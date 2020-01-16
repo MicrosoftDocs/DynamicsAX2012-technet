@@ -2,8 +2,9 @@
 title: Terminate employment
 TOCTitle: Terminate employment
 ms:assetid: 3571972e-5a4c-4192-b6e4-81e363929208
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa570121(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa570121(v=AX.60)
 ms:contentKeyID: 36056562
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -78,7 +79,7 @@ This topic describes how to terminate employment for a worker. When you terminat
 
 [Add or modify an employment affiliation](add-or-modify-an-employment-affiliation.md)
 
-[Worker (form)](https://technet.microsoft.com/en-us/library/hh209054\(v=ax.60\))
+[Worker (form)](https://technet.microsoft.com/library/hh209054\(v=ax.60\))
 
   
 

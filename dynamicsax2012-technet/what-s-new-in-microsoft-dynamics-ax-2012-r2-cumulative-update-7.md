@@ -2,8 +2,9 @@
 title: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7
 TOCTitle: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7
 ms:assetid: 90107a4a-ad17-4412-bcf8-5fce739ccce2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527179(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527179(v=AX.60)
 ms:contentKeyID: 59623309
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

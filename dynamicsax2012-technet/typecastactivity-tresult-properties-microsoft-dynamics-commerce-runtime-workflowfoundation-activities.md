@@ -1,9 +1,10 @@
-﻿---
+---
 title: TypeCastActivity(TResult) Properties (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: TypeCastActivity(TResult) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.TypeCastActivity`1
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn968011(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn968011(v=AX.60)
 ms:contentKeyID: 65319868
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

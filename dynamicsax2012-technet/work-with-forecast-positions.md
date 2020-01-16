@@ -2,8 +2,9 @@
 title: Work with forecast positions
 TOCTitle: Work with forecast positions
 ms:assetid: 13c1aad0-9829-49f8-b9e8-baa4d534c85e
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527691(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527691(v=AX.60)
 ms:contentKeyID: 59626224
+author: Khairunj
 ms.date: 03/06/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -36,7 +37,7 @@ This topic explains how to add existing positions to a budget planning process a
 
 
 > [!NOTE]
-> <P>This topic includes information updated for Microsoft Dynamics AX 2012 R3 Cumulative Update 8 and the KB3043775 hotfix. If you are using a version of Microsoft Dynamics AX 2012 R2 earlier than cumulative update 7, see <A href="https://technet.microsoft.com/en-us/library/jj729760(v=ax.60)">Key tasks: Forecast positions</A>.</P>
+> <P>This topic includes information updated for Microsoft Dynamics AX 2012 R3 Cumulative Update 8 and the KB3043775 hotfix. If you are using a version of Microsoft Dynamics AX 2012 R2 earlier than cumulative update 7, see <A href="https://technet.microsoft.com/library/jj729760(v=ax.60)">Key tasks: Forecast positions</A>.</P>
 
 
 
@@ -105,8 +106,8 @@ Forecast positions are independent from Human resources positions so that they d
     <ol>
     <li><p>In the <strong>New</strong> group, select <strong>Forecast position</strong>.</p></li>
     <li><p>Click <strong>Add existing positions</strong>.</p></li>
-    <li><p>Select the budget planning process to assign the positions to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677441(v=ax.60)">Budget planning process (form)</a>.</p></li>
-    <li><p>Select the budget plan scenario to assign the position to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></li>
+    <li><p>Select the budget planning process to assign the positions to. For more information, see <a href="https://technet.microsoft.com/library/jj677441(v=ax.60)">Budget planning process (form)</a>.</p></li>
+    <li><p>Select the budget plan scenario to assign the position to. For more information, see <a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></li>
     <li><p>Optional: Select the <strong>Earnings budget cost element</strong> to use. If the worker does not have a fixed compensation plan assigned to them. This value is determined by the default annual amount from the budget cost setup.</p>
     <div class="alert">
 
@@ -141,8 +142,8 @@ Forecast positions are independent from Human resources positions so that they d
     <li><p>In the <strong>New</strong> group, select <strong>Forecast position</strong>.</p></li>
     <li><p>Click <strong>Create new forecast position</strong>.</p></li>
     <li><p>Select the job that is associated with the position. The job is used to set the default job description, job title, and full-time equivalent (FTE) employment factor for the forecast position.</p></li>
-    <li><p>Select the budget planning process to assign the position to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677441(v=ax.60)">Budget planning process (form)</a>.</p></li>
-    <li><p>Select the budget plan scenario to assign the position to. For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></li>
+    <li><p>Select the budget planning process to assign the position to. For more information, see <a href="https://technet.microsoft.com/library/jj677441(v=ax.60)">Budget planning process (form)</a>.</p></li>
+    <li><p>Select the budget plan scenario to assign the position to. For more information, see <a href="https://technet.microsoft.com/library/jj677418(v=ax.60)">Budget planning configuration (form)</a>.</p></li>
     <li><p>Enter or accept the default activation date for the position.</p></li>
     <li><p>Optional: If known, enter the position retirement date.</p></li>
     <li><p>Click <strong>Create positions</strong>. The <strong>Forecast position</strong> form appears.</p>
@@ -508,7 +509,7 @@ To update the position information for multiple forecast positions at the same t
 
 ## Next step
 
-The budget manager will generate a budget plan that has the forecast positions, or the budget plan preparer can select the forecast positions to include in the budget plan. For more information, see [Generate budget plan from forecast positions (form)](https://technet.microsoft.com/en-us/library/jj677428\(v=ax.60\)) or [Select forecast positions (form)](https://technet.microsoft.com/en-us/library/jj677436\(v=ax.60\)).
+The budget manager will generate a budget plan that has the forecast positions, or the budget plan preparer can select the forecast positions to include in the budget plan. For more information, see [Generate budget plan from forecast positions (form)](https://technet.microsoft.com/library/jj677428\(v=ax.60\)) or [Select forecast positions (form)](https://technet.microsoft.com/library/jj677436\(v=ax.60\)).
 
 ## Related tasks
 

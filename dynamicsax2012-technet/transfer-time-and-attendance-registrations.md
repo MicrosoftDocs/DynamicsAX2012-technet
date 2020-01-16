@@ -2,8 +2,9 @@
 title: Transfer time and attendance registrations
 TOCTitle: Transfer time and attendance registrations
 ms:assetid: 06eb0bfb-b85b-49bf-8be9-b6f2330faf64
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569720(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569720(v=AX.60)
 ms:contentKeyID: 39519039
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -44,7 +45,7 @@ If an approval workflow is set up to approve registrations based on a set of pre
 
 4.  Click **Update** and then **Transfer**.
 
-5.  Start the batch job. For more information, see [Transfer registrations (class form)](https://technet.microsoft.com/en-us/library/aa548840\(v=ax.60\)).
+5.  Start the batch job. For more information, see [Transfer registrations (class form)](https://technet.microsoft.com/library/aa548840\(v=ax.60\)).
 
 ## Transfer registrations for all workers in an approval group
 

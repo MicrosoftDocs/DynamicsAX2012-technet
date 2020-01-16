@@ -1,9 +1,10 @@
-﻿---
+---
 title: ThrowIfNull.ObjectToValidate Property  (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities)
 TOCTitle: ObjectToValidate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.ThrowIfNull.ObjectToValidate
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.throwifnull.objecttovalidate(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.throwifnull.objecttovalidate(v=AX.60)
 ms:contentKeyID: 65319092
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -51,7 +52,7 @@ property InArgument<Object^>^ ObjectToValidate {
 
 #### Property Value
 
-Type: InArgument\<[Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))\>  
+Type: InArgument\<[Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))\>  
 Returns InArgument.  
 
 ## See Also

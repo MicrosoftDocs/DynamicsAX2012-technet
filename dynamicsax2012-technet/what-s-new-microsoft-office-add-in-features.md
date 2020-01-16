@@ -2,8 +2,9 @@
 title: "What's new: Microsoft Office Add-in features"
 TOCTitle: Microsoft Office Add-in features
 ms:assetid: 30d87b6c-448c-4523-b020-63614776816d
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn507091(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn507091(v=AX.60)
 ms:contentKeyID: 59623184
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -15,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 We have changed and added functionality to the Office Add-ins for Microsoft Dynamics AX feature area for Microsoft Dynamics AX 2012. For more information, see the table that applies to your version of the product.
 
-For more information, see [Integrating Microsoft Dynamics AX with Microsoft Office](integrating-microsoft-dynamics-ax-with-microsoft-office.md) in the Microsoft Dynamics AX 2012 Technical Library on TechNet. For more information about the Office Add-ins API, see [Using the Office Add-ins API](https://technet.microsoft.com/en-us/library/jj677288\(v=ax.60\)) on MSDN.
+For more information, see [Integrating Microsoft Dynamics AX with Microsoft Office](integrating-microsoft-dynamics-ax-with-microsoft-office.md) in the Microsoft Dynamics AX 2012 Technical Library on TechNet. For more information about the Office Add-ins API, see [Using the Office Add-ins API](https://technet.microsoft.com/library/jj677288\(v=ax.60\)) on MSDN.
 
 ## What’s new in AX 2012
 
@@ -72,12 +73,12 @@ For more information, see [Integrating Microsoft Dynamics AX with Microsoft Offi
 <tr class="even">
 <td><p>Lock a template that is created by using the Office Add-ins.</p></td>
 <td><p>In budget planning scenarios, a partner or central administrator designs and deploys budget templates, and department leads or other personas fill in the numbers. To reduce the chance of error, the template designer can lock a template. This lock is not a security constraint. Template users can enter data into the locked template but cannot modify the template structure.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677287(v=ax.60)">How to: Use Office Add-ins to Lock an Excel Spreadsheet</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677287(v=ax.60)">How to: Use Office Add-ins to Lock an Excel Spreadsheet</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Filter a workbook.</p></td>
 <td><p>When you create a workbook by using the Office Add-ins, you can add filters to the data in the workbook. Users of the workbook can then view only the data that is selected in the filters. Additionally, you can add a <strong>readonly</strong> property to selected fields in the field list of the workbook.</p>
-<p>For more information, see <a href="https://technet.microsoft.com/en-us/library/jj677294(v=ax.60)">How to: Add an Office Add-in Filter to a Spreadsheet</a>.</p></td>
+<p>For more information, see <a href="https://technet.microsoft.com/library/jj677294(v=ax.60)">How to: Add an Office Add-in Filter to a Spreadsheet</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Localize data in the Office Add-ins.</p></td>

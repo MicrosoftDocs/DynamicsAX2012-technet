@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceClient Class (Microsoft.Dynamics.Retail.TransactionServices.ClientProxy)
 TOCTitle: TransactionServiceClient Class
 ms:assetid: T:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.TransactionServiceClient
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.transactionservices.clientproxy.transactionserviceclient(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.transactionserviceclient(v=AX.60)
 ms:contentKeyID: 49820804
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
@@ -42,8 +43,8 @@ public ref class TransactionServiceClient : public ClientBase<ITransactionServic
 
 ## Inheritance Hierarchy
 
-[System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
-  [System.ServiceModel.ClientBase](https://technet.microsoft.com/en-us/library/ms576141\(v=ax.60\))\<[ITransactionService](itransactionservice-interface-microsoft-dynamics-retail-transactionservices-clientproxy.md)\>  
+[System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
+  [System.ServiceModel.ClientBase](https://technet.microsoft.com/library/ms576141\(v=ax.60\))\<[ITransactionService](itransactionservice-interface-microsoft-dynamics-retail-transactionservices-clientproxy.md)\>  
     Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.TransactionServiceClient  
 
 ## Thread Safety

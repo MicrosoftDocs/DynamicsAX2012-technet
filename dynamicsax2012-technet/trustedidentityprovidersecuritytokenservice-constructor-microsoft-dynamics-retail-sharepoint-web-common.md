@@ -1,9 +1,10 @@
-﻿---
+---
 title: TrustedIdentityProviderSecurityTokenService Constructor  (Microsoft.Dynamics.Retail.SharePoint.Web.Common)
 TOCTitle: TrustedIdentityProviderSecurityTokenService Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Common.TrustedIdentityProviderSecurityTokenService.#ctor(Microsoft.IdentityModel.Configuration.SecurityTokenServiceConfiguration,Microsoft.IdentityModel.Claims.ClaimsIdentity)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.retail.sharepoint.web.common.trustedidentityprovidersecuritytokenservice.trustedidentityprovidersecuritytokenservice(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.trustedidentityprovidersecuritytokenservice.trustedidentityprovidersecuritytokenservice(v=AX.60)
 ms:contentKeyID: 62202707
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

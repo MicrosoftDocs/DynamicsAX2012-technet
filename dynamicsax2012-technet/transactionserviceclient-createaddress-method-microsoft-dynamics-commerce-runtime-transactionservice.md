@@ -1,9 +1,10 @@
-﻿---
+---
 title: TransactionServiceClient.CreateAddress Method  (Microsoft.Dynamics.Commerce.Runtime.TransactionService)
 TOCTitle: CreateAddress Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.CreateAddress(Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address@)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.createaddress(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.createaddress(v=AX.60)
 ms:contentKeyID: 62212929
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

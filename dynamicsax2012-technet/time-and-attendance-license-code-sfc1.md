@@ -2,8 +2,9 @@
 title: Time and attendance license code (SFC1)
 TOCTitle: Time and attendance license code (SFC1)
 ms:assetid: 6f19bed1-82a9-40c7-b3a8-64ba3e803a33
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh527766(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh527766(v=AX.60)
 ms:contentKeyID: 37831974
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -57,7 +58,7 @@ The following table provides more information about this license code:
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

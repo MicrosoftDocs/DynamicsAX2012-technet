@@ -2,8 +2,9 @@
 title: Subscription configuration key (SMASubscription)
 TOCTitle: Subscription configuration key (SMASubscription)
 ms:assetid: 2954b1a9-06f0-4a07-bc50-9016d1153b92
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa500585(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa500585(v=AX.60)
 ms:contentKeyID: 36993542
+author: Khairunj
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -69,23 +70,23 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Fee - subscription</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Fees</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Sales price - subscription</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Subscription fee transactions</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa618753(v=ax.60)">Fee transactions (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Subscription</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +108,7 @@ The following forms are available when the configuration key is enabled.
 <tbody>
 <tr class="odd">
 <td><p><strong>Accrual periods</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa573906(v=ax.60)">Subscription accrue period (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa573906(v=ax.60)">Subscription accrue period (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Active service subscriptions</strong></p></td>
@@ -119,7 +120,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Sales price - subscription</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Service subscription details</strong></p></td>
@@ -131,11 +132,11 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="odd">
 <td><p><strong>Subscription groups</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa553150(v=ax.60)">Subscription groups (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa553150(v=ax.60)">Subscription groups (form)</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Subscription parameters</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa619615(v=ax.60)">Subscription parameters (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa619615(v=ax.60)">Subscription parameters (form)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Subscription</strong></p></td>
@@ -143,7 +144,7 @@ The following forms are available when the configuration key is enabled.
 </tr>
 <tr class="even">
 <td><p><strong>Subscription</strong></p></td>
-<td><p><a href="https://technet.microsoft.com/en-us/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/aa583956(v=ax.60)">Sales price - Subscription (form)</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -188,7 +189,7 @@ The following table provides information about how this configuration key relate
 </table>
 
 
-For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/en-us/library/aa548653\(v=ax.60\)).
+For more information about how license codes and configuration keys work together, see [About license codes and configuration keys](https://technet.microsoft.com/library/aa548653\(v=ax.60\)).
 
   
 

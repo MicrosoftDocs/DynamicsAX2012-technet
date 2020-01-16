@@ -2,8 +2,9 @@
 title: View all items for an approved vendor
 TOCTitle: View all items for an approved vendor
 ms:assetid: 1f9cc7f0-33c8-4006-be2f-419687ba1026
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh208467(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh208467(v=AX.60)
 ms:contentKeyID: 36056155
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -47,9 +48,9 @@ To display a list of items for an approved vendor in **Procurement and sourcing*
 
 ## See also
 
-[Approved vendor list by vendor (form)](https://technet.microsoft.com/en-us/library/hh209580\(v=ax.60\))
+[Approved vendor list by vendor (form)](https://technet.microsoft.com/library/hh209580\(v=ax.60\))
 
-[Vendors (form)](https://technet.microsoft.com/en-us/library/aa592162\(v=ax.60\))
+[Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\))
 
   
 

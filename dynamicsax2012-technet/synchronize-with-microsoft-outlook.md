@@ -2,8 +2,9 @@
 title: Synchronize with Microsoft Outlook
 TOCTitle: Synchronize with Microsoft Outlook
 ms:assetid: 0ac7de3b-0de4-4542-9023-fd7035a0e76c
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa569740(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa569740(v=AX.60)
 ms:contentKeyID: 37822137
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

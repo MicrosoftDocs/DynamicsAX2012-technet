@@ -2,8 +2,9 @@
 title: 'Walkthrough: Creating an Analyze Data Button on a List Page'
 TOCTitle: 'Walkthrough: Creating an Analyze Data Button on a List Page'
 ms:assetid: f5ad431e-69e7-4c04-bd4a-7fef5aa9e09f
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ945385(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ945385(v=AX.60)
 ms:contentKeyID: 51442775
+author: Khairunj
 ms.date: 06/26/2015
 mtps_version: v=AX.60
 ---
@@ -144,11 +145,11 @@ You must add a data source to your SharePoint library to connect a Power View re
 
 ## Creating a Class
 
-You need a class that uses the Power View integration framework to get the URL of a Power View report designer with a cube. The [PowerViewReporting](https://technet.microsoft.com/en-us/library/jj772359\(v=ax.60\)) class generalizes this implementation and fulfills specific error handling requirements. If you use the PowerViewReporting class, be aware that the data source name and cube name must be an exact match, and you must pass the name of the cube as the first parameter on the action menu item in the next section. The following procedure demonstrates how to create your own class called MyPVClass.
+You need a class that uses the Power View integration framework to get the URL of a Power View report designer with a cube. The [PowerViewReporting](https://technet.microsoft.com/library/jj772359\(v=ax.60\)) class generalizes this implementation and fulfills specific error handling requirements. If you use the PowerViewReporting class, be aware that the data source name and cube name must be an exact match, and you must pass the name of the cube as the first parameter on the action menu item in the next section. The following procedure demonstrates how to create your own class called MyPVClass.
 
 ### To create a class
 
-1.  In the AOT, right-click **Classes**, and then click **New Class**. Name the class MyPVClass. For more information about classes, see [Classes in X++](https://technet.microsoft.com/en-us/library/aa868834\(v=ax.60\)).
+1.  In the AOT, right-click **Classes**, and then click **New Class**. Name the class MyPVClass. For more information about classes, see [Classes in X++](https://technet.microsoft.com/library/aa868834\(v=ax.60\)).
 
 2.  Right-click the class you created, point to **New**, and then click **Method**.
 

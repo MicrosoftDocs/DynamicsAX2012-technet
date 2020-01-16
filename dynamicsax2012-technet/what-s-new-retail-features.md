@@ -2,8 +2,9 @@
 title: "What's new: Retail features"
 TOCTitle: Retail features
 ms:assetid: 6e6b8efb-ba6d-4825-b938-502fc8fc7d0b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527132(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527132(v=AX.60)
 ms:contentKeyID: 59623261
+author: Khairunj
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---

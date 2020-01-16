@@ -2,8 +2,9 @@
 title: Warehouse management
 TOCTitle: Warehouse management
 ms:assetid: 42dd1ee6-cf87-46a5-b1b5-78bc4b4637df
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn553161(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn553161(v=AX.60)
 ms:contentKeyID: 62200059
+author: Khairunj
 ms.date: 05/19/2014
 mtps_version: v=AX.60
 audience: Application User

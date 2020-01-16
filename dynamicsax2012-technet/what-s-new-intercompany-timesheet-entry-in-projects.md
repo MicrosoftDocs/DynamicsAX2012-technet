@@ -2,8 +2,9 @@
 title: "What's new: Intercompany timesheet entry in projects"
 TOCTitle: Intercompany timesheet entry in projects
 ms:assetid: 2bf512d7-cf04-4784-a46d-61be57f059d8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn527122(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn527122(v=AX.60)
 ms:contentKeyID: 59623252
+author: Khairunj
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

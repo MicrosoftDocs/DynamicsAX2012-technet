@@ -1,9 +1,10 @@
-﻿---
+---
 title: WorkflowLocation.Equals Method (Object) (Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation)
 TOCTitle: Equals Method (Object)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowLocation.Equals(System.Object)
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowlocation.equals(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowlocation.equals(v=AX.60)
 ms:contentKeyID: 62214436
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
@@ -14,7 +15,7 @@ dev_langs:
 
 # Equals Method (Object)
 
-Determines whether the specified [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\)) is equal to this instance.
+Determines whether the specified [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\)) is equal to this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation (in Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.dll)
@@ -50,12 +51,12 @@ virtual bool Equals(
 #### Parameters
 
   - obj  
-    Type: [System.Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\))  
+    Type: [System.Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\))  
 
 #### Return Value
 
-Type: [System.Boolean](https://technet.microsoft.com/en-us/library/a28wyd50\(v=ax.60\))  
-A value indicating whether the specified [Object](https://technet.microsoft.com/en-us/library/e5kfa45b\(v=ax.60\)) is equal to this instance; otherwise, false.  
+Type: [System.Boolean](https://technet.microsoft.com/library/a28wyd50\(v=ax.60\))  
+A value indicating whether the specified [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\)) is equal to this instance; otherwise, false.  
 
 ## See Also
 

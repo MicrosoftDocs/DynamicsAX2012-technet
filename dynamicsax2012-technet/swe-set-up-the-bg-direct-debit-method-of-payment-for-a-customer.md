@@ -2,8 +2,9 @@
 title: (SWE) Set up the BG direct debit method of payment for a customer
 TOCTitle: (SWE) Set up the BG direct debit method of payment for a customer
 ms:assetid: 8c2dbb45-dc52-4dd3-a5f6-3b31fa8e8036
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh209347(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh209347(v=AX.60)
 ms:contentKeyID: 36058477
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -23,7 +24,7 @@ Use the **Customers** form to set up a Bank giro (BG) direct debit method of pay
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 
-2.  On the **General** tab, press CTRL+N or click **New** in the **Customer** action group to create a new customer details. You can also view details for the selected customer account. For more information, see [Create a customer record](create-a-customer-record.md) and [Customers (form)](https://technet.microsoft.com/en-us/library/aa590606\(v=ax.60\)).
+2.  On the **General** tab, press CTRL+N or click **New** in the **Customer** action group to create a new customer details. You can also view details for the selected customer account. For more information, see [Create a customer record](create-a-customer-record.md) and [Customers (form)](https://technet.microsoft.com/library/aa590606\(v=ax.60\)).
 
 3.  In the **Name** and **Customer group** fields, select the name of the customer and the group that the customer belongs to.
 
@@ -31,7 +32,7 @@ Use the **Customers** form to set up a Bank giro (BG) direct debit method of pay
 
 5.  Press CTRL+S to save the details and activate **New** on the **Address** tab.
 
-6.  On the **Address** tab, click **New**, and select Sweden as the primary address. For more information, see [Address setup (form)](https://technet.microsoft.com/en-us/library/hh209301\(v=ax.60\)).
+6.  On the **Address** tab, click **New**, and select Sweden as the primary address. For more information, see [Address setup (form)](https://technet.microsoft.com/library/hh209301\(v=ax.60\)).
 
 7.  Click the **Payment** tab.
 

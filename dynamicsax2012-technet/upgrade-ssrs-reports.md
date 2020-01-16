@@ -2,8 +2,9 @@
 title: Upgrade SSRS reports
 TOCTitle: Upgrade SSRS reports
 ms:assetid: fb2faa52-73ed-476a-9e09-4a6a6f3dc539
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/JJ733503(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/JJ733503(v=AX.60)
 ms:contentKeyID: 49685463
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

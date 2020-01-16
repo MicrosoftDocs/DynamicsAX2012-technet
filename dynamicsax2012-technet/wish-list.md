@@ -2,8 +2,9 @@
 title: Wish list
 TOCTitle: Wish list
 ms:assetid: adc0a086-c90d-4163-a33d-2d71998fe2b2
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Dn741452(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Dn741452(v=AX.60)
 ms:contentKeyID: 62219729
+author: Khairunj
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

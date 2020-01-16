@@ -2,8 +2,9 @@
 title: (USA) Set up Form I-9 document types
 TOCTitle: (USA) Set up Form I-9 document types
 ms:assetid: 91f22f4a-9cd2-4863-8acf-5cace8aff54b
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Hh781097(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Hh781097(v=AX.60)
 ms:contentKeyID: 43894509
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -23,7 +24,7 @@ Companies in the United States are required to document the eligibility of worke
 
 3.  Type a name for the document type for Form I-9.
 
-4.  Select the identification type for the document type. For more information about identification types, see [Identification type (form)](https://technet.microsoft.com/en-us/library/hh227646\(v=ax.60\)).
+4.  Select the identification type for the document type. For more information about identification types, see [Identification type (form)](https://technet.microsoft.com/library/hh227646\(v=ax.60\)).
 
 5.  Select the I-9 document list that you can use the document type for.
 
@@ -41,9 +42,9 @@ Companies in the United States are required to document the eligibility of worke
 
 [(USA) Key tasks: Form I-9 verification](usa-key-tasks-form-i-9-verification.md)
 
-[Form I-9 document types (form)](https://technet.microsoft.com/en-us/library/hh227352\(v=ax.60\))
+[Form I-9 document types (form)](https://technet.microsoft.com/library/hh227352\(v=ax.60\))
 
-[I-9 document (form)](https://technet.microsoft.com/en-us/library/hh227380\(v=ax.60\))
+[I-9 document (form)](https://technet.microsoft.com/library/hh227380\(v=ax.60\))
 
   
 

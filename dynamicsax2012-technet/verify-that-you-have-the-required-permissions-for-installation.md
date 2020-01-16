@@ -2,8 +2,9 @@
 title: Verify that you have the required permissions for installation
 TOCTitle: Verify that you have the required permissions for installation
 ms:assetid: 23fa1a7e-5fb1-4c2b-b3ad-ac90b7b8cce8
-ms:mtpsurl: https://technet.microsoft.com/en-us/library/Aa496457(v=AX.60)
+ms:mtpsurl: https://technet.microsoft.com/library/Aa496457(v=AX.60)
 ms:contentKeyID: 35132581
+author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
