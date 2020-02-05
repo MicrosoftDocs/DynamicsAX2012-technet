@@ -301,7 +301,7 @@ To create a location directive, follow these steps:
     </tr>
     <tr class="even">
     <td><p><strong>Match packing quantity</strong></p></td>
-    <td><p>This strategy is used to verify whether a pick location has the specified packing quantity.</p></td>
+    <td><p>This strategy will find a location which contains a license plate which has the exact quantity required. It cannot be used with locations which are not license plate controlled.</p></td>
     </tr>
     <tr class="odd">
     <td><p><strong>FEFO batch reservation</strong></p></td>
