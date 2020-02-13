@@ -26,7 +26,6 @@ You can define one or more packing units for an item, for a packing group of ite
 
 Based on the packing material code, you can specify a price for a specified period. The packing material fee is calculated based on this information.
 
-
 > [!NOTE]
 > <P>Even if your company does not pay packing material fees, you can use the functionality to calculate statistics for the weights of packing materials.</P>
 
