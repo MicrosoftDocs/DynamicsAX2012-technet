@@ -79,7 +79,6 @@ View or download a detailed poster of the update process.
 <tr class="odd">
 <td><p><strong>Microsoft Dynamics AX 2012 Update Process</strong></p>
 <img src="images/Hh335183.Updateprocessposter(AX.60).gif" title="Update process poster thumbnail" alt="Update process poster thumbnail" />
-<p><a href="https://go.microsoft.com/fwlink/?linkid=306777">Zoom in to the diagram at full detail by using Zoom.it from Microsoft</a></p>
 <p><a href="https://go.microsoft.com/fwlink/?linkid=306776">Downloadable PDF and Microsoft Visio versions</a></p></td>
 <td><p>This poster describes the types of updates, the recommended installation order, and the detailed update process for Microsoft Dynamics AX 2012. It also provides tips and tricks for managing updates.</p></td>
 </tr>
@@ -514,7 +513,7 @@ Depending on the version and solutions that you have installed, some or all of t
 
   - Solution version
 
-To determine the meaning of the version number that you are running, see the blog post [Overview of Microsoft Dynamics AX build numbers](https://blogs.msdn.com/b/axsupport/archive/2012/03/29/overview-of-ax-build-numbers.aspx).
+To determine the meaning of the version number that you are running, see the blog post [Overview of Microsoft Dynamics AX build numbers](https://cloudblogs.microsoft.com/dynamics365/no-audience/2012/03/29/overview-of-microsoft-dynamics-ax-build-numbers).
 
 ## When should I use the Impact Analysis Wizard (AXImpactAnalysis)?
 
