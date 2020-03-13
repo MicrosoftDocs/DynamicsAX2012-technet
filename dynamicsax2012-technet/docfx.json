@@ -57,6 +57,11 @@
                                          "uhfHeaderId": "MSDocsHeader-Dynamics365"
                                      },
                   "fileMetadata":  {
+                            "searchScope": {
+        "**.*": [
+          "Dynamics AX2012"
+        ]
+                            }
 
                                    },
                   "template":  [
