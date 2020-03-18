@@ -155,7 +155,7 @@ The relationship tree of an Archive Object can be very complex. In order to arch
 
    Using the metadata that is imported from the Microsoft Dynamics AX database, the exception parameters, and the Archive Object exception tables list, IDMF generates a hierarchical relationship tree. The relationship tree starts with the driver table, in level 0, and creates a hierarchy of parent-child relationships. Make sure that your Archive Object resembles the following screen shot. Do not save the Archive Object. 
 
-   ![IDMF Archive Object Expanded](./media/idmfarchiveobjectexpanded.png) 
+   ![IDMF Archive Object Expanded](idmfarchiveobjectexpanded.png) 
 
    The relationship tree in this Archive Object is five levels deep. Level 0, the topmost level, contains the driver table, **WMSOrder**. Level 1 contains the child entities of the driver table. Level 2 contains child entities of tables in level 1. The last level, level 4, contains the child entities of tables in level 3. This relationship tree is created based on the following data:
    -   The Microsoft Dynamics AX metadata. The discovery process uses the metadata to create a list of related tables that form the parent-child hierarchy based on the driver table.
