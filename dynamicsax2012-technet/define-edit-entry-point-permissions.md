@@ -2,7 +2,7 @@
 title: Define or edit entry point permissions
 TOCTitle: Define or edit entry point permissions
 ms:assetid: 
-ms:mtpsurl: https://technet.microsoft.com/library/Hh389753(v=AX.60)
+ms:mtpsurl: 
 ms:contentKeyID: 
 author: Khairunj
 ms.date: 01/20/2016
