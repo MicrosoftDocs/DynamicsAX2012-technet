@@ -6,7 +6,7 @@ ms:mtpsurl:
 ms:contentKeyID: 
 author: Khairunj
 ms.date: 01/20/2016
-mtps_version: v=AX.60
+mtps_version:
 ---
 
 # Define or edit entry point permissions
