@@ -8493,7 +8493,7 @@
           - name: Create purge objects
             href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-purge-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Create archive objects
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: create-archive-objects-idmf.md
           - name: Scheduling purge and analysis tasks
             href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/schedule-purge-analysis-tasks?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Viewing the status of purge or archive jobs
