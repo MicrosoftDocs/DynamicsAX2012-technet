@@ -73,7 +73,7 @@ All arguments are optional.
 To stop the tool, press Ctrl+C. The tool finishes the tables that it is currently working on and then closes.
 
 ## Overview of data export and import
-The Test Data Transfer Tool (beta) exports and imports three files for each Microsoft Dynamics AX table. If tables have dependencies in Microsoft Dynamics AX, these files support the capability of the tool to export and import the tables independently of related tables. The following diagram shows the export and import process. ![Process of exporting and importing data](./media/dataportprocess.jpg)
+The Test Data Transfer Tool (beta) exports and imports three files for each Microsoft Dynamics AX table. If tables have dependencies in Microsoft Dynamics AX, these files support the capability of the tool to export and import the tables independently of related tables. The following diagram shows the export and import process. ![Process of exporting and importing data](dataportprocess.jpg)
 ### Export and import process
 
 The following table describes the three types of files.
