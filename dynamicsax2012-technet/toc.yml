@@ -8491,7 +8491,7 @@
           - name: Configuration functionality in the IDMF workspace
             href: configuration-functionality-in-the-microsoft-dynamics-ax-intelligent-data-management-framework-workspace-idmf.md
           - name: Create purge objects
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/create-purge-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: create-purge-objects-idmf.md
           - name: Create archive objects
             href: create-archive-objects-idmf.md
           - name: Scheduling purge and analysis tasks
