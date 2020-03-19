@@ -8516,14 +8516,14 @@
       - name: Security Upgrade Advisor Tool User Guide
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/security-upgrade-advisor-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/test-data-transfer-tool-beta-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        href: test-data-transfer-tool-beta-2012.md
         items:
         - name: Install the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: install-test-data-transfer-tool-beta.md
         - name: Run the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/run-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: run-test-data-transfer-tool-beta.md
         - name: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/import-demo-data-ax-2012-r3-test-data-transfer-tool?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: import-demo-data-ax-2012-r3-test-data-transfer-tool.md
   - name: Resources for Microsoft Dynamics AX 2012
     href: resources-for-microsoft-dynamics-ax-2012.md
     items:
