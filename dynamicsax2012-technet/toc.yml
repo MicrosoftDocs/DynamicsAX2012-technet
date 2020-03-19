@@ -8519,7 +8519,7 @@
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/test-data-transfer-tool-beta-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Install the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: install-test-data-transfer-tool-beta.md
         - name: Run the Test Data Transfer Tool (beta) for Microsoft Dynamics AX
           href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/run-test-data-transfer-tool-beta?toc=/dynamicsax-2012/appuser-itpro/toc.json
         - name: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool
