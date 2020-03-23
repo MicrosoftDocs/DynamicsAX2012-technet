@@ -21,7 +21,7 @@ This section describes the controls in the main form.
 
 ### Main form
 
-![Security Development Tool Main form](./media/securitydevelopmenttoolmainform.png)
+![Security Development Tool Main form](securitydevelopmenttoolmainform.png)
 
 -   **Type** field – The type of security object: **Role**, **Duty**, or **Privilege**.
 -   **Name** field – The label of the selected security object.
@@ -32,18 +32,18 @@ When you select a menu item, web menu item, or service operation, the entry poin
 
 ### Menu access aggregation in tree view
 
-![Security Development Tool Menu Access Aggregation](./media/sdt_menuaggregatedaccesslevel.png) 
+![Security Development Tool Menu Access Aggregation](sdt_menuaggregatedaccesslevel.png) 
 
 When the level of access to a node in the tree view changes, the node is displayed in bold type. If the level of access to a menu item remains the same, but the level of access to a submenu item changes, the parent menu item is marked with an asterisk (\*). In the following figure, the level of access to **Accounts payable/Setup/Charges/Item charges groups** has been updated from **NoAccess** to **Edit**.
 
 ### Changed items
 
-![Security Development Tool Access Level Change](./media/sdtl_treeviewaccesslevelchange.png)
+![Security Development Tool Access Level Change](sdtl_treeviewaccesslevelchange.png)
 
 ## Shortcut menu options
 Use the shortcut menu to interact with entry points in the tree view. 
 
-![SecurityDevelopmentTool\_TreeContextMenu](./media/sdt_treecontextmenu.png)
+![SecurityDevelopmentTool\_TreeContextMenu](sdt_treecontextmenu.png)
 
 -   **Expand all children** – Expand all subtree items.
 -   **Open in current workspace** – Open the linked menu item in the current workspace.
@@ -60,7 +60,7 @@ Use the shortcut menu to interact with entry points in the tree view.
 ## List view
 This section describes the controls on the ribbon of the list view. The list view provides a list of all entry points for your Microsoft Dynamics AX environment. To bulk update the level of access to entry points, you can select multiple rows in the list view.
 
-![Security Development Tool List View](./media/sdt_listcontextmenu.png)
+![Security Development Tool List View](sdt_listcontextmenu.png)
 
 > [!NOTE]
 > When you select an entry point in the list, the entry point is not selected automatically in the tree view. Use the shortcut menu to interact with entry points in the list view. The options resemble the options that are available in the tree view.
