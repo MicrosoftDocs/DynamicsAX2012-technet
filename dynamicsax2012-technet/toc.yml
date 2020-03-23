@@ -8510,7 +8510,7 @@
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/overview-security-development-tool-user-interface?toc=/dynamicsax-2012/appuser-itpro/toc.json
         items:
         - name: Install the Security Development Tool
-          href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-security-development-tool?toc=/dynamicsax-2012/appuser-itpro/toc.json
+          href: install-security-development-tool.md
         - name: Define or edit entry point permissions
           href: define-edit-entry-point-permissions.md
       - name: Security Upgrade Advisor Tool User Guide
