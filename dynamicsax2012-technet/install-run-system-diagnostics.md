@@ -181,7 +181,7 @@ Two executable programs are installed: LCSDiagFXDiscovery.exe and LCSDiagFXColle
 ## Discover environments
 1.  Click **Start**, and then click **Microsoft Dynamics AX Lifecycle Services Diagnostic Service Discovery.**
 2.  In the **Environment Discovery** window, enter a name for the environment, the fully-qualified name of the SQL Server instance and database, and then click **Discover**.
-3.  At the bottom of the Window, click the **Test permissions** button ![Test permissions button for System diagnostics](./media/testpermissions.jpg) at the bottom of the page.
+3.  At the bottom of the Window, click the **Test permissions** button at the bottom of the page.
 4.  On the **Change destination folder** page, enter the location where you want to store the logs that were collected by the System diagnostics, and then click **Next**.
 
 ## Collect data
