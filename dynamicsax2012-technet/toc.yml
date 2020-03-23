@@ -8466,7 +8466,7 @@
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
       - name: Install and run System diagnostics (Lifecycle Services)
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/install-run-system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        href: install-run-system-diagnostics-lcs.md
     - name: Upgrade analysis
       href: upgrade-analysis-lifecycle-services-lcs.md
     - name: Updates
