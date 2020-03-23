@@ -8510,7 +8510,7 @@
         href: overview-security-development-tool-user-interface.md
         items:
         - name: Install the Security Development Tool
-          href: install-security-development-tool.md
+          href: install-security-dev-tool.md
         - name: Define or edit entry point permissions
           href: define-edit-entry-point-permissions.md
       - name: Security Upgrade Advisor Tool User Guide
