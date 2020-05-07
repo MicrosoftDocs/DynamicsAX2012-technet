@@ -85,7 +85,7 @@ Use this procedure to install Management Reporter. If you install other Microsof
 
 ## After you install Management Reporter
 
-After installation, you must open the Report Designer client and enter registration keys. After you have entered registration keys, additional configuration might be required before you can add report viewers or users. For information about how to configure Management Reporter, see the [Management Reporter Installation Guide](https://go.microsoft.com/fwlink/?linkid=325393) (PDF).
+After installation, you must open the Report Designer client and enter registration keys. After you have entered registration keys, additional configuration might be required before you can add report viewers or users. For information about how to configure Management Reporter, see the [Management Reporter Installation Guide](https://www.microsoft.com/en-us/download/details.aspx?id=5916).
 
 Management Reporter is available to Microsoft Dynamics AX users based on role membership in Microsoft Dynamics AX. For information about how Management Reporter integrates with Microsoft Dynamics AX, see the [Management Reporter Integration Guide for Microsoft Dynamics AX](https://go.microsoft.com/fwlink/?linkid=325395) (PDF).
 
