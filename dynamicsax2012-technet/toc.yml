@@ -8463,14 +8463,14 @@
     - name: RFP responses
       href: rfp-responses-lcs.md
     - name: System diagnostics
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: system-diagnostics-lifecycle-services-lcs.md 
       items:
       - name: Install and run System diagnostics (Lifecycle Services)
         href: install-run-system-diagnostics.md
     - name: Upgrade analysis
       href: upgrade-analysis-lifecycle-services-lcs.md
     - name: Updates
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: updates-for-microsoft-dynamics-ax-2012-r3-lifecycle-services-lcs.md
     - name: Usage profiler
       href: usage-profiler-lifecycle-services-lcs.md
     - name: Lifecycle Services Downloadable Tools
