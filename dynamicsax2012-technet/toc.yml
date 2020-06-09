@@ -8472,7 +8472,7 @@
     - name: Updates
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Usage profiler
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/usage-profiler-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: usage-profiler-lifecycle-services-lcs.md
     - name: Lifecycle Services Downloadable Tools
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource?toc=/dynamicsax-2012/appuser-itpro/toc.json
       items:
@@ -8497,9 +8497,9 @@
           - name: Scheduling purge and analysis tasks
             href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/schedule-purge-analysis-tasks?toc=/dynamicsax-2012/appuser-itpro/toc.json
           - name: Viewing the status of purge or archive jobs
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/view-status-purge-archive-jobs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: viewing-the-status-of-purge-or-archive-jobs-idmf.md
           - name: Working with purge objects and archive objects
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/work-with-purge-objects-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: working-with-purge-objects-and-archive-objects-idmf.md
           - name: Maintaining IDMF
             href: maintaining-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
           - name: Troubleshoot IDMF
