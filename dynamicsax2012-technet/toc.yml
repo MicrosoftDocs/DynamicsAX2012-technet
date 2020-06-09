@@ -8463,7 +8463,7 @@
     - name: RFP responses
       href: rfp-responses-lcs.md
     - name: System diagnostics
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: system-diagnostics-lifecycle-services-lcs.md 
       items:
       - name: Install and run System diagnostics (Lifecycle Services)
         href: install-run-system-diagnostics.md
