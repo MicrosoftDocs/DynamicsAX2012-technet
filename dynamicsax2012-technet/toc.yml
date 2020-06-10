@@ -8507,8 +8507,10 @@
       - name: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/performance-benchmark-software-development-toolkit-sdk-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Security Development Tool User Guide
-        href: overview-security-development-tool-user-interface.md
+        href: security-development-tool-user-guide.md
         items:
+        - name: Security Development Tool overview
+          href: overview-security-development-tool-user-interface.md
         - name: Install the Security Development Tool
           href: install-security-dev-tool.md
         - name: Define or edit entry point permissions
