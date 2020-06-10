@@ -8495,7 +8495,7 @@
           - name: Create archive objects
             href: create-archive-objects-idmf.md
           - name: Scheduling purge and analysis tasks
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/schedule-purge-analysis-tasks?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: scheduling-purge-and-analysis-tasks-idmf.md
           - name: Viewing the status of purge or archive jobs
             href: viewing-the-status-of-purge-or-archive-jobs-idmf.md
           - name: Working with purge objects and archive objects
