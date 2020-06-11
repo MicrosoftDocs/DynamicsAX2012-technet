@@ -8254,7 +8254,7 @@
     href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
     items:
     - name: Projects
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/projects-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: projects-lifecycle-services-lcs.md
       items:
       - name: Configure security
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configure-lcs-security?toc=/dynamicsax-2012/appuser-itpro/toc.json
