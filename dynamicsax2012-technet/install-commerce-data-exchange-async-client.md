@@ -261,7 +261,7 @@ After you configure the parameters in the sc-settings.xml file, you can run the 
     
     Example:
     
-    .\\DeployAsyncClient.ps1 -SettingsXmlFilePath “C:\\Program Files (x86)\\Microsoft Dynamics AX\\60\\CDX\\Async Client\\Tools\\sc-settings.xm” -TopologyXmlFilePath “C:\\Program Files (x86)\\Microsoft Dynamics AX\\60\\CDX\\Async Client\\Tools\\sc-topology.xml” -Credentials $Cred –Verbose $true
+    .\\DeployAsyncClient.ps1 -SettingsXmlFilePath “C:\\Program Files (x86)\\Microsoft Dynamics AX\\60\\CDX\\Async Client\\Tools\\sc-settings.xml” -TopologyXmlFilePath “C:\\Program Files (x86)\\Microsoft Dynamics AX\\60\\CDX\\Async Client\\Tools\\sc-topology.xml” -Credentials $Cred –Verbose $true
 
 ## After you install Async Client
 
