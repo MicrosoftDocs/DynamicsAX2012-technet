@@ -24,7 +24,7 @@ To create a queue, complete the following procedure.
 
 When you create a queue, you are automatically assigned as an administrator of the queue. Queue administrators can change the status of the queue, assign users to or unassign users from the queue, and specify the conditions under which the queue is used.
 
-1.  Click **Organization administration** \> **Setup** \> **Workflow** \> **Work item queues**.
+1.  Click **Organization administration > Workflow > Work item queues**. 
 
 2.  Click **New**.
 
