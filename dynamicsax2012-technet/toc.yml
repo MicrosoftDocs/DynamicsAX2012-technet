@@ -8474,7 +8474,7 @@
     - name: Updates
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Usage profiler
-      href: usage-profiler-lifecycle-services-lcs
+      href: usage-profiler-lifecycle-services-lcs.md
     - name: Lifecycle Services Downloadable Tools
       href: lifecycle-services-downloadable-tools-formerly-on-informationsource.md
       items:
