@@ -8474,9 +8474,9 @@
     - name: Updates
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Usage profiler
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/usage-profiler-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: usage-profiler-lifecycle-services-lcs
     - name: Lifecycle Services Downloadable Tools
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: lifecycle-services-downloadable-tools-formerly-on-informationsource.md
       items:
       - name: Code Upgrade Tool User Guide
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
