@@ -1,6 +1,6 @@
 ---
-title: Create tables
-TOCTitle: Create tables
+title: Create tables by using the Application Object Tree (AOT)
+TOCTitle: Create tables by using the Application Object Tree (AOT)
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
@@ -23,8 +23,8 @@ Table fields are based on a primitive data type or an extended data type. For mo
 2.  Right-click the **Tables** node, and then select **New Table**.
 3.  Right-click the table, and then click **Properties**.
 4.  Rename the table by modifying the **Name** property.
-5.  To specify the table as temporary, set the **Temporary** property to **Yes**. For more information, see [Table properties in the Application Object Tree (AOT)](table-properties.md).
-6.  Modify additional table properties, as needed. For more information, see [Table properties in the Application Object Tree (AOT)](table-properties.md).
+5.  To specify the table as temporary, set the **Temporary** property to **Yes**.
+6.  Modify additional table properties, as needed. 
 7.  To delete the table, right-click it, and then click **Delete**.
 
 ## Add Fields to a Table
