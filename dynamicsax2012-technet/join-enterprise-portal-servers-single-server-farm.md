@@ -26,20 +26,20 @@ The following image shows the process for joining EP servers into a single serve
 1.  Log on to EP-01 by using the Dynamics Installer User service account.
 2.  Start Microsoft SharePoint 2013 Central Administration.
 3.  Go to **System settings** &gt; **Configure alternate access mappings**.
-4.  Click **Add Internal URLs**. The following screen shot shows how to add a mapping for EP-02 on port 81, which is the port that the EP site is created on. Repeat this step for every EP server that is deployed by LCS.[![AddInternalURLs](./media/addinternalurls.png)](./media/addinternalurls.png)
+4.  Click **Add Internal URLs**. The following screen shot shows how to add a mapping for EP-02 on port 81, which is the port that the EP site is created on. Repeat this step for every EP server that is deployed by LCS.[![AddInternalURLs](addinternalurls.png)](addinternalurls.png)
 5.  Click **Edit Public URLs**, and enter appropriate values:
     -   **Default:** Use the load balancer URL + port 81.
     -   **Intranet:** Use EP-01 (the SharePoint server farm virtual machine) + port 81.
     -   **Internet:** Use the publicly registered URL + port 81.
 
-    [![EditPublicZoneURLs](./media/editpubliczoneurls.png)](./media/editpubliczoneurls.png)
+    [![EditPublicZoneURLs](editpubliczoneurls.png)](editpubliczoneurls.png)
 6.  Open Registry Editor (regedit), and create the following registry key:
     -   **Path:** HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro\\Lsa\\MSV1\_0
     -   **Key details, key value:** The load balancer name and the fully qualified name
 
-    [![EditMultiString](./media/editmultistring.png)](./media/editmultistring.png)
+    [![EditMultiString]editmultistring.png)](editmultistring.png)
 7.  Open a **Command Prompt** window, and get the IP address of the local machine by running the **ipconfig** command.
-8.  In Notepad, open the C:\\Windows\\System32\\drivers\\etc\\hosts file, and map the load balancer name to the local machine IP address. This mapping is used to test that the local EP server is working.[![NotePad](./media/notepad.png)](./media/notepad.png)
+8.  In Notepad, open the C:\\Windows\\System32\\drivers\\etc\\hosts file, and map the load balancer name to the local machine IP address. This mapping is used to test that the local EP server is working.[![NotePad](notepad.png)](notepad.png)
 9.  Repeat steps 6 through 8 on every EP server that is deployed by LCS.
 10. Log on to the EP-02 server by using the Dynamics Installer User service account.
 11. Go to the drive where the Dynamics installer is stored (this drive is most likely drive F). Right-click **Setup**, click **Run as administrator**, and then follow these steps:
@@ -53,7 +53,7 @@ The following image shows the process for joining EP servers into a single serve
     8.  Select the **Configure for Windows SharePoint Services** check box.
     9.  Select the **Restart IIS after installation is completed** check box, and then click **Next**.
 
-    [![Configure a Web site for EP](./media/configure-a-web-site-for-ep.png)](./media/configure-a-web-site-for-ep.png)
+    [![Configure a Web site for EP](configure-a-web-site-for-ep.png)](configure-a-web-site-for-ep.png)
 12. Click **Next** until the installation is completed.
 13. Repeat steps 10 through 12 on servers EP-03 through EP-0*N*. (You must re-install EP on every EP server, except the single server where the farm is configured. In our example, this server is EP-01.)
 14. Follow these steps on every EP server, EP-01 through EP-0*N*:
@@ -63,7 +63,7 @@ The following image shows the process for joining EP servers into a single serve
     4.  Double-click the binding to open the **Edit Site Binding** dialog box.
     5.   In the **Host name** field, enter the load balancer name.
 
-    [![Edit Site Binding](./media/edit-site-binding.png)](./media/edit-site-binding.png)
+    [![Edit Site Binding](edit-site-binding.png)](edit-site-binding.png)
 15. Follow these validation steps on every EP server:
     1.  In a **Command Prompt** window, run the **iisreset** command.
     2.  Start Internet Explorer, and go to **http://AzureILB01:81/sites/DynamicsAx**.
