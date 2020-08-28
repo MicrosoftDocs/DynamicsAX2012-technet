@@ -11,8 +11,6 @@ mtps_version: v=AX.60
 
 # Join Enterprise Portal servers into a single server farm
 
-[!include [banner](../../includes/banner.md)]
-
 This article explains how to join Enterprise Portal servers (for Microsoft Dynamics AX 2012) into a single server farm. 
 
 When Microsoft Dynamics Lifecycle Services (LCS) deploys Enterprise Portal (EP) servers, each EP server is deployed into its own server farm. The steps in this article show how to join all EP servers into a single server farm. The basic idea is to keep the server farm on one EP server and join all the other EP servers to that farm. The information in this article is based on the following assumptions:
@@ -22,7 +20,7 @@ When Microsoft Dynamics Lifecycle Services (LCS) deploys Enterprise Portal (EP) 
 -   You're using EP-01 as the single server farm, and all the other EP servers will join that farm.
 
 ## Overview
-The following image shows the process for joining EP servers into a single server farm. [![ProcessFlow\_ConfigureEPServersInFarm](./media/processflow_configureepserversinfarm.png)](./media/processflow_configureepserversinfarm.png)
+The following image shows the process for joining EP servers into a single server farm. [![ProcessFlow\_ConfigureEPServersInFarm](./media/processflow_configureepserversinfarm.png)](processflow_configureepserversinfarm.png)
 
 ## Put EP servers into a single server farm
 1.  Log on to EP-01 by using the Dynamics Installer User service account.
