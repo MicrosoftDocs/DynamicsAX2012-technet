@@ -37,7 +37,7 @@ The following image shows the process for joining EP servers into a single serve
     -   **Path:** HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Contro\\Lsa\\MSV1\_0
     -   **Key details, key value:** The load balancer name and the fully qualified name
 
-    [![EditMultiString]editmultistring.png)](editmultistring.png)
+    [![EditMultiString](editmultistring.png)](editmultistring.png)
 7.  Open a **Command Prompt** window, and get the IP address of the local machine by running the **ipconfig** command.
 8.  In Notepad, open the C:\\Windows\\System32\\drivers\\etc\\hosts file, and map the load balancer name to the local machine IP address. This mapping is used to test that the local EP server is working.[![NotePad](notepad.png)](notepad.png)
 9.  Repeat steps 6 through 8 on every EP server that is deployed by LCS.
