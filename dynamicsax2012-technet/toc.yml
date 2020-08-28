@@ -3916,6 +3916,8 @@
                 href: how-to-import-application-objects-by-using-the-aot.md
               - name: Move an Enterprise Portal deployment to a different server
                 href: move-an-enterprise-portal-deployment-to-a-different-server.md
+              - name: Join Enterprise Portal servers into a single server farm
+                href: join-enterprise-portal-servers-single-server-farm.md
             - name: Tips to improve Enterprise Portal and Role Center performance
               href: tips-to-improve-enterprise-portal-and-role-center-performance.md
         - name: Configure Role Centers
@@ -8472,9 +8474,9 @@
     - name: Updates
       href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Usage profiler
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/usage-profiler-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: usage-profiler-lifecycle-services-lcs.md
     - name: Lifecycle Services Downloadable Tools
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/lcs-downloadable-tools-formerly-informationsource?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: lifecycle-services-downloadable-tools-formerly-on-informationsource.md
       items:
       - name: Code Upgrade Tool User Guide
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
