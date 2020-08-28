@@ -20,7 +20,7 @@ When Microsoft Dynamics Lifecycle Services (LCS) deploys Enterprise Portal (EP) 
 -   You're using EP-01 as the single server farm, and all the other EP servers will join that farm.
 
 ## Overview
-The following image shows the process for joining EP servers into a single server farm. [![ProcessFlow\_ConfigureEPServersInFarm](./media/processflow_configureepserversinfarm.png)](processflow_configureepserversinfarm.png)
+The following image shows the process for joining EP servers into a single server farm. [![ProcessFlow\_ConfigureEPServersInFarm](processflow_configureepserversinfarm.png)](processflow_configureepserversinfarm.png)
 
 ## Put EP servers into a single server farm
 1.  Log on to EP-01 by using the Dynamics Installer User service account.
