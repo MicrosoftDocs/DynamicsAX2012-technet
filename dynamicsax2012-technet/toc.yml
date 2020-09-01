@@ -5436,6 +5436,8 @@
       href: table-and-table-group-reference.md
     - name: Table Permissions Framework reference
       href: table-permissions-framework-reference.md
+    - name: Table properties in the Application Object Tree (AOT)
+      href: table-properties.md
     - name: Report catalog
       href: report-catalog-for-microsoft-dynamics-ax.md
       items:
