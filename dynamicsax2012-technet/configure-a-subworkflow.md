@@ -40,7 +40,7 @@ To select the type of document that is processed by the subworkflow, you must se
 
 1.  In the left pane, click **Basic Settings**.
 
-2.  From the **Field** list, select the field that represents the association to the document. For more information, see [Tutorial: Configuring Subworkflows in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=317583) on [Colin Mitchell’s Dynamics AX 2012 blog](https://go.microsoft.com/fwlink/?linkid=317584).
+2.  From the **Field** list, select the field that represents the association to the document.
 
 ## Indicate whether the subworkflow must finish processing before the next element is executed
 
