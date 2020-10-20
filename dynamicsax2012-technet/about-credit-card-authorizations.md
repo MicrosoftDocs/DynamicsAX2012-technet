@@ -5,6 +5,7 @@ ms:assetid: 9656981e-9988-40ef-822b-57980706188f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232216(v=AX.60)
 ms:contentKeyID: 36058629
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

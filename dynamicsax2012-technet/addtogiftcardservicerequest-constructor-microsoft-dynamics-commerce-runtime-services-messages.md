@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AddTo
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.addtogiftcardservicerequest.addtogiftcardservicerequest(v=AX.60)
 ms:contentKeyID: 62211712
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

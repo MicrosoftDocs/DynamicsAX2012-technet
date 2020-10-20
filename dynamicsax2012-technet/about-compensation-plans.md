@@ -5,6 +5,7 @@ ms:assetid: e6327f6b-6b54-4f59-81b8-242bdda5d8d7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781107(v=AX.60)
 ms:contentKeyID: 43894524
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

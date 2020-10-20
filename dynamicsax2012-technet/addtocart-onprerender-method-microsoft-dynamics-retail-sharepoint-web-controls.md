@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddToCart.OnPreR
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addtocart.onprerender(v=AX.60)
 ms:contentKeyID: 62202636
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
