@@ -23,7 +23,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 This topic applies to features in the **Inventory management** module. It does not apply to features in the [Warehouse management](warehouse-management.md) module.
 
-The procedure to reverse inventory automatically for a sales order applies in two situations.
+The procedure to reserve inventory automatically for a sales order applies in two situations.
 
   - **Automatic** is selected in the **Reservation** field on the **General** tab on the **Accounts receivable parameters** form.
     
