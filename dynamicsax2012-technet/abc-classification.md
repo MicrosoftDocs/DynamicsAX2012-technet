@@ -29,7 +29,3 @@ A system for ranking discrete categories of items according to Pareto's 80/20 pr
 [item](item.md)
 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
-
-  
-
-
