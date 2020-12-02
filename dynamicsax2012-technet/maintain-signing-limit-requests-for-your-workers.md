@@ -5,7 +5,7 @@ ms:assetid: 7a9ec1b3-0ce5-4696-932c-50232d0f4a73
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271573(v=AX.60)
 ms:contentKeyID: 36384204
 author: Khairunj
-ms.date: 04/18/2014
+ms.date: 12/02/2020
 mtps_version: v=AX.60
 f1_keywords:
 - HRPEditMyReportsLimits
@@ -65,16 +65,6 @@ You can modify signing limits that you have already approved.
 2.  On the **Manage Signing Limit Requests** page, in the **My Reports Signing Limit** section, select an approved signing limit request.
 
 3.  On the **Edit My Reports Signing Limits** page, modify the signing limit, and then click **OK**.
-
-## Revoke a worker's signing limit
-
-You can revoke signing limits that you have already approved.
-
-1.  Click **Approvals** on the top link bar, and then click **Signing limits** on the Quick Launch.
-
-2.  On the **Manage Signing Limit Requests** page, in the **My Reports Signing Limit** section, select an approved signing limit request.
-
-3.  On the **Edit My Reports Signing Limits** page, enter your reason for revoking the signing limit, and then click **Revoke**.
 
 ## See also
 
