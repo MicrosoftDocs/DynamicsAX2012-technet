@@ -21,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 A signing limit defines the largest financial commitment that a worker is authorized to make on behalf of an employer. As a direct result of the worker's spending activity, and subsequent approval of the activity by the worker's manager, the organization may enter into a contractual relationship with a third party. For example, a purchase order may be issued to a vendor.
 
-Managers can accept, reject, or modify a worker's request for a signing limit. Managers can also reduce the amount of the signing limit for an individual worker, and revoke signing limits when appropriate.
+Managers can accept, reject, or modify a worker's request for a signing limit. Managers can also reduce the amount of the signing limit for an individual worker.
 
 ## Approve or reject a signing limit request
 
