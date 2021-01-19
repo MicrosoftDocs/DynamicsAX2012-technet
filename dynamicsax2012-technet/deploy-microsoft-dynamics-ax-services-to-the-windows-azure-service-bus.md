@@ -40,7 +40,7 @@ This topic describes the following steps which summarize the actions you must ta
 
 6.  Create an enhanced integration port that uses the Service Bus adapter.
 
-For a code sample that implements a mobile application that uses the Service Bus, see [Developing Secure Mobile Apps for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=393709%26clcid=0x409).
+For a code sample that implements a mobile application that uses the Service Bus, see [Developing Secure Mobile Apps for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=393709).
 
 ## Prerequisites
 
@@ -48,7 +48,7 @@ Verify that the following steps are completed before you begin to configure the 
 
   - Install Microsoft Dynamics AX web services on Internet Information Services (IIS). You must use IIS 7.5 or later versions. For more information, see Install web services on IIS.
 
-  - Install cumulative update 6 for Microsoft Dynamics AX 2012, or Microsoft Dynamics AX 2012 R3, or the [AIF Microsoft Azure Service Bus hotfix](https://go.microsoft.com/fwlink/?linkid=393710%26clcid=0x40).
+  - Install cumulative update 6 for Microsoft Dynamics AX 2012, or Microsoft Dynamics AX 2012 R3, or the [AIF Microsoft Azure Service Bus hotfix](https://go.microsoft.com/fwlink/?linkid=393710).
 
   - Configure a Microsoft Azure account. For more information, see [Microsoft Azure web site](https://go.microsoft.com/fwlink/?linkid=313634).
 
@@ -66,9 +66,9 @@ To configure authentication that MSDAX requires for clients that use the Service
 
 Use the information in the following articles to configure the AD FS.
 
-  - [Deploying Federation Servers](https://go.microsoft.com/fwlink/?linkid=393711%26clcid=0x409)
+  - [Deploying Federation Servers](https://go.microsoft.com/fwlink/?linkid=393711)
 
-  - [Configure a New Federation Server](https://go.microsoft.com/fwlink/?linkid=393712%26clcid=0x409)
+  - [Configure a New Federation Server](https://go.microsoft.com/fwlink/?linkid=393712)
 
 
 > [!IMPORTANT]
@@ -448,9 +448,9 @@ To publish your service and make it available on the Service Bus, create an enha
 
 [Service Bus Authentication and Authorization with the Access Control Service](https://msdn.microsoft.com/library/windowsazure/hh403962.aspx)
 
-[How to Use the Service Bus Relay Service](https://go.microsoft.com/fwlink/?linkid=393026%26clcid=0x409)
+[How to Use the Service Bus Relay Service](https://go.microsoft.com/fwlink/?linkid=393026)
 
-[Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333%26clcid=0x409)
+[Service Bus Overview](https://go.microsoft.com/fwlink/?linkid=302333)
 
   
 
