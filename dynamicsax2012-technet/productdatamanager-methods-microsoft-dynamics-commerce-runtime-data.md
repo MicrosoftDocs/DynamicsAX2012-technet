@@ -132,7 +132,7 @@ The [ProductDataManager](productdatamanager-class-microsoft-dynamics-commerce-ru
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="productdatamanager-verifyproductexistence-method-microsoft-dynamics-commerce-runtime-data.md">VerifyProductExistence</a></td>
-<td>Verifies existance of products by given composite IDs.</td>
+<td>Verifies existence of products by given composite IDs.</td>
 </tr>
 </tbody>
 </table>

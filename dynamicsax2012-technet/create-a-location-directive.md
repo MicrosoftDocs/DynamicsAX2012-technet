@@ -5,7 +5,7 @@ ms:assetid: fd0e708b-747e-4944-a5a8-f4174cabad6a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553215(v=AX.60)
 ms:contentKeyID: 62221427
 author: Khairunj
-ms.date: 04/07/2017
+ms.date: 02/06/2020
 mtps_version: v=AX.60
 f1_keywords:
 - count
@@ -301,7 +301,7 @@ To create a location directive, follow these steps:
     </tr>
     <tr class="even">
     <td><p><strong>Match packing quantity</strong></p></td>
-    <td><p>This strategy is used to verify whether a pick location has the specified packing quantity.</p></td>
+    <td><p>This strategy will find a location that contains a license plate that has the exact quantity required. It cannot be used with locations that are not license plate controlled.</p></td>
     </tr>
     <tr class="odd">
     <td><p><strong>FEFO batch reservation</strong></p></td>

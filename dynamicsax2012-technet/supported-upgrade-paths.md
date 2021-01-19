@@ -5,7 +5,7 @@ ms:assetid: db935f79-1199-4518-a588-9da4f4739cd1
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362093(v=AX.60)
 ms:contentKeyID: 35133088
 author: Khairunj
-ms.date: 05/02/2014
+ms.date: 12/02/2020
 mtps_version: v=AX.60
 ---
 
@@ -362,11 +362,7 @@ The following tables describe the supported methods for an upgrade to each targe
 </table>
 
 
-## Upgrading from a Microsoft Dynamics AX source system that uses an Oracle database
 
-You cannot use an Oracle database together with any version of AX 2012. If you are upgrading from an installation of Microsoft Dynamics AX that uses an Oracle database, you must first migrate your data to a Microsoft SQL Server database, and then upgrade to your preferred version of AX 2012.
-
-To migrate your data to a SQL Server database, use the Oracle to Microsoft SQL Server Data Migration Assistant for Microsoft Dynamics AX tool. You can download this tool and the *Oracle to Microsoft SQL Server Data Migration Assistant for Microsoft Dynamics AX Installation Guide* from [CustomerSource](https://mbs.microsoft.com/customersource/downloads/servicepacks/ax2009_oracletosql.htm).
 
   
 

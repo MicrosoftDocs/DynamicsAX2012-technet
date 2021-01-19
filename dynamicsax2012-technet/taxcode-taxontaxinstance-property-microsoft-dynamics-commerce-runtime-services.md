@@ -17,7 +17,7 @@ dev_langs:
 
 # TaxOnTaxInstance Property
 
-TaxCode instance refered by TaxOnTax property
+TaxCode instance referred by TaxOnTax property
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services (in Microsoft.Dynamics.Commerce.Runtime.Services.dll)

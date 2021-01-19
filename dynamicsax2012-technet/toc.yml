@@ -8258,12 +8258,12 @@
     href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/lcs-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
     items:
     - name: Projects
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/projects-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: projects-lifecycle-services-lcs.md
       items:
       - name: Configure security
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/configure-lcs-security?toc=/dynamicsax-2012/appuser-itpro/toc.json
     - name: Methodologies
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/methodologies-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: methodologies-lifecycle-services-lcs.md
     - name: Business process modeler
       href: business-process-modeler-lcs.md
       items:
@@ -8467,21 +8467,21 @@
     - name: RFP responses
       href: rfp-responses-lcs.md
     - name: System diagnostics
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/system-diagnostics-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: system-diagnostics-lifecycle-services-lcs.md 
       items:
       - name: Install and run System diagnostics (Lifecycle Services)
         href: install-run-system-diagnostics.md
     - name: Upgrade analysis
       href: upgrade-analysis-lifecycle-services-lcs.md
     - name: Updates
-      href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/update-2012-r3-lcs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      href: updates-for-microsoft-dynamics-ax-2012-r3-lifecycle-services-lcs.md
     - name: Usage profiler
       href: usage-profiler-lifecycle-services-lcs.md
     - name: Lifecycle Services Downloadable Tools
       href: lifecycle-services-downloadable-tools-formerly-on-informationsource.md
       items:
-      - name: Code Upgrade Tool User Guide
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/code-upgrade-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
+      - name: Code Upgrade Service user guide
+        href: code-upgrade-tool-user-guide.md
       - name: Intelligent Data Management Framework
         href: microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
         items:
@@ -8499,11 +8499,11 @@
           - name: Create archive objects
             href: create-archive-objects-idmf.md
           - name: Scheduling purge and analysis tasks
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/schedule-purge-analysis-tasks?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: scheduling-purge-and-analysis-tasks-idmf.md
           - name: Viewing the status of purge or archive jobs
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/view-status-purge-archive-jobs?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: viewing-the-status-of-purge-or-archive-jobs-idmf.md
           - name: Working with purge objects and archive objects
-            href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/work-with-purge-objects-archive-objects?toc=/dynamicsax-2012/appuser-itpro/toc.json
+            href: working-with-purge-objects-and-archive-objects-idmf.md
           - name: Maintaining IDMF
             href: maintaining-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf.md
           - name: Troubleshoot IDMF
@@ -8511,8 +8511,10 @@
       - name: Performance Benchmark Software Development Toolkit (SDK) for Microsoft Dynamics AX 2012
         href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/performance-benchmark-software-development-toolkit-sdk-2012?toc=/dynamicsax-2012/appuser-itpro/toc.json
       - name: Security Development Tool User Guide
-        href: overview-security-development-tool-user-interface.md
+        href: security-development-tool-user-guide.md
         items:
+        - name: Security Development Tool overview
+          href: overview-security-development-tool-user-interface.md
         - name: Install the Security Development Tool
           href: install-security-dev-tool.md
         - name: Define or edit entry point permissions
@@ -8520,7 +8522,7 @@
         - name: Record entry points in Enterprise Portal
           href: record-entry-points-enterprise-portal.md
       - name: Security Upgrade Advisor Tool User Guide
-        href: /dynamics365/unified-operations/dev-itpro/lifecycle-services/ax-2012/security-upgrade-advisor-tool-user-guide?toc=/dynamicsax-2012/appuser-itpro/toc.json
+        href: security-upgrade-advisor-tool-user-guide.md
       - name: Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012
         href: test-data-transfer-tool-beta-2012.md
         items:

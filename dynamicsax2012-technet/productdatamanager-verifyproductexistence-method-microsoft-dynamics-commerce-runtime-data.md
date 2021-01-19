@@ -17,7 +17,7 @@ dev_langs:
 
 # VerifyProductExistence Method
 
-Verifies existance of products by given composite IDs.
+Verifies existence of products by given composite IDs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)

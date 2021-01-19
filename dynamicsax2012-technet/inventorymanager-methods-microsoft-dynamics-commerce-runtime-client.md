@@ -37,7 +37,7 @@ The [InventoryManager](inventorymanager-class-microsoft-dynamics-commerce-runtim
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="inventorymanager-commitstockcountjournaltransactions-method-microsoft-dynamics-commerce-runtime-client.md">CommitStockCountJournalTransactions</a></td>
-<td>Commits the list of Stock journal transactions to AX. After successfull commit, all the journal and transactions are deleted from the RetailServer Db.</td>
+<td>Commits the list of Stock journal transactions to AX. After successful commit, all the journal and transactions are deleted from the RetailServer Db.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>

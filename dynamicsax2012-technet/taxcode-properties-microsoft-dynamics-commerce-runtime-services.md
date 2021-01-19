@@ -132,7 +132,7 @@ The [TaxCode](taxcode-class-microsoft-dynamics-commerce-runtime-services.md) typ
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="taxcode-taxontaxinstance-property-microsoft-dynamics-commerce-runtime-services.md">TaxOnTaxInstance</a></td>
-<td>TaxCode instance refered by TaxOnTax property</td>
+<td>TaxCode instance referred by TaxOnTax property</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

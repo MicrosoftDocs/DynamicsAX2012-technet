@@ -24,7 +24,7 @@ It requires the Model Store Upgrader tool that is available for download in KB 3
 
 4.  Run the UpdateModelElementOriginIds command:
     
-        ModelStoreUpgrader.exe UpdateModelElementOriginIds InputFilePath=DynamicsAX2012R3OriginIDs.txt ModelStoreServer=localhost ModelStoreDatabaseName=MicrosoftDynamicsAX_model
+        ModelStoreUpgrader.exe UpdateModelElementOriginIds --InputFilePath=DynamicsAX2012R3OriginIDs.txt --ModelStoreServer=localhost --ModelStoreDatabaseName=MicrosoftDynamicsAX_model
 
 5.  If you have a “DMF Labels” model in the SYP layer, remove it:
     
@@ -36,7 +36,7 @@ It requires the Model Store Upgrader tool that is available for download in KB 3
 
 8.  Run the FixElementIds command:
     
-        ModelStoreUpgrader.exe FixElementIds ModelStoreServer=localhost BaselineModelStoreDatabaseName=MicrosoftDynamicsAX_UpgradeR3Baseline ModelStoreDatabaseName=MicrosoftDynamicsAX_model
+        ModelStoreUpgrader.exe FixElementIds --ModelStoreServer=localhost --BaselineModelStoreDatabaseName=MicrosoftDynamicsAX_UpgradeR3Baseline --ModelStoreDatabaseName=MicrosoftDynamicsAX_model
 
 9.  Compile the application:
     

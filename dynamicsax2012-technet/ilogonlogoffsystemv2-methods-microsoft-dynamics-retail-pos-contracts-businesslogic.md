@@ -27,7 +27,7 @@ The [ILogonLogoffSystemV2](ilogonlogoffsystemv2-interface-microsoft-dynamics-ret
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="ilogonlogoffsystemv2-concludesuccessfullogon-method-microsoft-dynamics-retail-pos-contracts-businesslogic.md">ConcludeSuccessfulLogOn</a></td>
-<td>Conclude the successfull logon operation.</td>
+<td>Conclude the successful logon operation.</td>
 </tr>
 </tbody>
 </table>
