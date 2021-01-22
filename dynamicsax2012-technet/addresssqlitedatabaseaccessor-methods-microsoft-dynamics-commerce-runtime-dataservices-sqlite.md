@@ -5,6 +5,7 @@ ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.Ad
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.addresssqlitedatabaseaccessor_methods(v=AX.60)
 ms:contentKeyID: 65318451
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

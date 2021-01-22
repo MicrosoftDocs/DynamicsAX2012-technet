@@ -5,6 +5,7 @@ ms:assetid: b60ac48e-be2c-4882-a146-384c1223d88a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550485(v=AX.60)
 ms:contentKeyID: 36059087
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

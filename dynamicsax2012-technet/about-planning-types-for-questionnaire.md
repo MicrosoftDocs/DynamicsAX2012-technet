@@ -5,6 +5,7 @@ ms:assetid: cfa195f7-2008-484b-bcbb-a7687a32cbc9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597249(v=AX.60)
 ms:contentKeyID: 39519327
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

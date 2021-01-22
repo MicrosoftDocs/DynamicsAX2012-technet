@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlSer
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.auditlogsqlserverdatarequesthandler_properties(v=AX.60)
 ms:contentKeyID: 65319086
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -5,6 +5,7 @@ ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXValidat
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axvalidatorattributes_fields(v=AX.60)
 ms:contentKeyID: 62203651
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
