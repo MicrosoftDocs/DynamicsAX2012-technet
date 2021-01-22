@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ClaimsWeb
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.claimswebpart.claimswebpart.findcontrol(v=AX.60)
 ms:contentKeyID: 62205870
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

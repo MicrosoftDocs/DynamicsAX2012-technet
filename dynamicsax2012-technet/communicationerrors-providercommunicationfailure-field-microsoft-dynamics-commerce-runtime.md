@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.CommunicationErrors.ProviderCo
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationerrors.providercommunicationfailure(v=AX.60)
 ms:contentKeyID: 49836772
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

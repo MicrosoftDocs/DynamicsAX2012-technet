@@ -5,6 +5,7 @@ ms:assetid: 0941fc9a-4f4f-43da-822c-21795c6ec545
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305859(v=AX.60)
 ms:contentKeyID: 54912959
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

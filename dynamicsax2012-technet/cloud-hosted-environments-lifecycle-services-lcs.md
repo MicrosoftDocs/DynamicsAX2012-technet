@@ -4,6 +4,7 @@
 title: Cloud-hosted environments in Lifecycle Services (LCS)
 description: In Microsoft Dynamics Lifecycle Services, Cloud-hosted environments is a tool that you can use to deploy Microsoft Dynamics AX environments on Microsoft Azure.
 author: sericks007
+ms.author: daxcpft
 manager: AnnBe
 ms.date: 06/20/2017
 ms.topic: article
@@ -25,6 +26,7 @@ ms.assetid: 88d3758d-7d54-4c66-8b1a-f7a9ad8c825e
 ms.search.region: Global
 # ms.search.industry: 
 ms.author: sericks
+ms.author: daxcpft
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
 

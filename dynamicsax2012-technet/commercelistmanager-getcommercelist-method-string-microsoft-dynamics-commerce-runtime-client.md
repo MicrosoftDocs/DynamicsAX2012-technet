@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager.Get
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.commercelistmanager.getcommercelist(v=AX.60)
 ms:contentKeyID: 65319617
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntitySearch
 ms:mtpsurl: https://technet.microsoft.com/library/Dn739628(v=AX.60)
 ms:contentKeyID: 62212944
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

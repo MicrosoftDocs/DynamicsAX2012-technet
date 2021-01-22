@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRu
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjobbase_properties(v=AX.60)
 ms:contentKeyID: 62206981
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

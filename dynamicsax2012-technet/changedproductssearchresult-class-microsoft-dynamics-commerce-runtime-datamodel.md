@@ -5,6 +5,7 @@ ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangedProductsSearc
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.changedproductssearchresult(v=AX.60)
 ms:contentKeyID: 62209454
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

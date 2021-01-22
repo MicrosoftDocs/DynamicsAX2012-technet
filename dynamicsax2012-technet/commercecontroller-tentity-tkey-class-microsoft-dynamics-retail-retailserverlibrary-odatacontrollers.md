@@ -5,6 +5,7 @@ ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.Com
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737927(v=AX.60)
 ms:contentKeyID: 62203134
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.ConfigurationException.
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configurationexception.configurationexception(v=AX.60)
 ms:contentKeyID: 49854034
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

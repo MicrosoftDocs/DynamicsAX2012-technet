@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Configuration.Comme
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.commerceruntimesection_properties(v=AX.60)
 ms:contentKeyID: 49834249
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

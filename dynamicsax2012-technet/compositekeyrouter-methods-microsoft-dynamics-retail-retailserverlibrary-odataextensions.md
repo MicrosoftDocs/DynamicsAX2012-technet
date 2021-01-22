@@ -5,6 +5,7 @@ ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensi
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.compositekeyrouter_methods(v=AX.60)
 ms:contentKeyID: 62203086
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntim
 ms:mtpsurl: https://technet.microsoft.com/library/Dn684848(v=AX.60)
 ms:contentKeyID: 62204483
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: 42ba5e96-7ddb-44b0-a900-95e9a5422749
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231370(v=AX.60)
 ms:contentKeyID: 36056874
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

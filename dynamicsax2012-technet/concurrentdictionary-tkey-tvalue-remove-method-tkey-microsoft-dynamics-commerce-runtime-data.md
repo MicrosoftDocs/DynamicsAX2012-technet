@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Re
 ms:mtpsurl: https://technet.microsoft.com/library/Dn966515(v=AX.60)
 ms:contentKeyID: 65316463
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

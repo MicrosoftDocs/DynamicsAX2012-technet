@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.CurrencyDatabaseAc
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.currencydatabaseaccessor.executestoredprocedurescalar(v=AX.60)
 ms:contentKeyID: 65321837
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

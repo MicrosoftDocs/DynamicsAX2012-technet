@@ -5,6 +5,7 @@ ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.Organizatio
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.organizationid(v=AX.60)
 ms:contentKeyID: 62208864
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

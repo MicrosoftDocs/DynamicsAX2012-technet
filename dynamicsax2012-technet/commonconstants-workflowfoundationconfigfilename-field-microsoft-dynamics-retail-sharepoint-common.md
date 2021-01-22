@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.Workfl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.workflowfoundationconfigfilename(v=AX.60)
 ms:contentKeyID: 62207313
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

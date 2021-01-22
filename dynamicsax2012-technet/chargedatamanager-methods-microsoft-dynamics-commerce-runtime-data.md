@@ -5,6 +5,7 @@ ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.ChargeDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.chargedatamanager_methods(v=AX.60)
 ms:contentKeyID: 49826194
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

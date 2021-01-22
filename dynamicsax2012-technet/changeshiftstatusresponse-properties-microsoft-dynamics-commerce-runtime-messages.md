@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.ChangeShif
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.changeshiftstatusresponse_properties(v=AX.60)
 ms:contentKeyID: 62208846
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

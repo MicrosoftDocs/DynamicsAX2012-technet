@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.ChangeDatabaseConnect
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.changedatabaseconnectionrequesthandler.changedatabaseconnectionrequesthandler(v=AX.60)
 ms:contentKeyID: 65319500
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

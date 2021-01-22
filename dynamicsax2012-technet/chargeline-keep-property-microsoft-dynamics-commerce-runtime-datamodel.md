@@ -5,6 +5,7 @@ ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLine.Keep
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.chargeline.keep(v=AX.60)
 ms:contentKeyID: 62209815
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: ef15dc30-e1e3-4d70-8efb-53822768e66a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn879454(v=AX.60)
 ms:contentKeyID: 63810526
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

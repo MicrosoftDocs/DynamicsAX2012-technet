@@ -5,6 +5,7 @@ ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Common.CryptoUtilitie
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.cryptoutilities_methods(v=AX.60)
 ms:contentKeyID: 62204462
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

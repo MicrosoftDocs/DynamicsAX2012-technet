@@ -5,6 +5,7 @@ ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.ColumnSet`1.Count
 ms:mtpsurl: https://technet.microsoft.com/library/Dn684364(v=AX.60)
 ms:contentKeyID: 62203504
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

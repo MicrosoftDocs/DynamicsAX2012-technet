@@ -5,6 +5,7 @@ ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateShiftRe
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.createshiftrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62208356
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

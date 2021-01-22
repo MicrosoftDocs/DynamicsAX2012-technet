@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Custom
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.customer.customer(v=AX.60)
 ms:contentKeyID: 62203860
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: 85ee2eac-d6f3-4e5a-a8e5-5e3fe0975b3f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213179(v=AX.60)
 ms:contentKeyID: 36676396
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

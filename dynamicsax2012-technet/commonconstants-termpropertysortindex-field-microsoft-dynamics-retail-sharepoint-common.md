@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.TermPr
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.termpropertysortindex(v=AX.60)
 ms:contentKeyID: 62205231
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

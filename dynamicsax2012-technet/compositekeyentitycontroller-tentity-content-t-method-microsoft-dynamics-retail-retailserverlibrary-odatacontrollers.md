@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControll
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737521(v=AX.60)
 ms:contentKeyID: 62202233
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

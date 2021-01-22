@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Customer.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.customer.customer(v=AX.60)
 ms:contentKeyID: 62201818
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Control
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.baseusercontrol.loadcontrol(v=AX.60)
 ms:contentKeyID: 62203002
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

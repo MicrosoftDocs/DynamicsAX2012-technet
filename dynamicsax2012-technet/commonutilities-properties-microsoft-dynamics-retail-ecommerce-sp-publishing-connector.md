@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Conne
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonutilities_properties(v=AX.60)
 ms:contentKeyID: 65316301
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -5,6 +5,7 @@ ms:assetid: e8958690-fc93-48aa-8823-a1bb3e311659
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664144(v=AX.60)
 ms:contentKeyID: 49384726
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.KeyPub
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.keypublishingportalurl(v=AX.60)
 ms:contentKeyID: 62206995
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

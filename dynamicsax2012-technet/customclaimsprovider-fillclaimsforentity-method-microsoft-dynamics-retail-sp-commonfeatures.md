@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsPro
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillclaimsforentity(v=AX.60)
 ms:contentKeyID: 62203900
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

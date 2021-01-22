@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntim
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigremovaljob.update(v=AX.60)
 ms:contentKeyID: 62205486
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Con
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.confirmnumber_properties(v=AX.60)
 ms:contentKeyID: 62203330
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

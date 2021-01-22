@@ -5,6 +5,7 @@ ms:assetid: 09693372-fb05-480c-8190-2269dea29f41
 ms:mtpsurl: https://technet.microsoft.com/library/Hh544040(v=AX.60)
 ms:contentKeyID: 37823121
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

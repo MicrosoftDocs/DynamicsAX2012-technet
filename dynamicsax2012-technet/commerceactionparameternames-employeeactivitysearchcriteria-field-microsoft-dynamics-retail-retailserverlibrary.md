@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParame
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.employeeactivitysearchcriteria(v=AX.60)
 ms:contentKeyID: 62202169
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

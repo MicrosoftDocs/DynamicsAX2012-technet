@@ -5,6 +5,7 @@ ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal.Default
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.commerceprincipal.defaultchannelid(v=AX.60)
 ms:contentKeyID: 65318919
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

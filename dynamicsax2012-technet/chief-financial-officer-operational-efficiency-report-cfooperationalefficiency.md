@@ -5,6 +5,7 @@ ms:assetid: f01ee9bc-73b5-45f2-b306-b1953b91c6c0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692483(v=AX.60)
 ms:contentKeyID: 41702380
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

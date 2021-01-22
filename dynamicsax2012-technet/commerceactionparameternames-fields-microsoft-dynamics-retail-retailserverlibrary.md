@@ -5,6 +5,7 @@ ms:assetid: Fields.T:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActio
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames_fields(v=AX.60)
 ms:contentKeyID: 62202913
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---
