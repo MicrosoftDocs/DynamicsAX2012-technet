@@ -179,7 +179,3 @@ mtps_version: v=AX.60
 [available to promise](available-to-promise.md)
 
 [AVS](avs.md)
-
-  
-
-
