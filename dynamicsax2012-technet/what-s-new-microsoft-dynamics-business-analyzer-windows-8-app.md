@@ -71,7 +71,7 @@ To download Business Analyzer from the Windows Store, see [Microsoft Dynamics Bu
 
 For more information about Business Analyzer, see [Microsoft Dynamics Business Analyzer](https://technet.microsoft.com/library/dn508393\(v=ax.60\)).
 
-To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](https://go.microsoft.com/fwlink/?linkid=281929%26clcid=0x409).
+To configure your Microsoft Dynamics AX environment to use Business Analyzer, see [Configure the Microsoft Dynamics AX environment for companion apps](https://go.microsoft.com/fwlink/?linkid=281929).
 
   
 

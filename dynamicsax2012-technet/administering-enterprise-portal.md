@@ -27,7 +27,7 @@ The topic in this section includes information about administration options in E
 
 ## Help for Enterprise Portal administrators
 
-Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](https://go.microsoft.com/fwlink/?linkid=201018%26clcid=0x409).
+Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](https://go.microsoft.com/fwlink/?linkid=201018).
 
 ## Help for developers
 

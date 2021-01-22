@@ -31,7 +31,7 @@ The following list describes some of the actions that you can complete by using 
 
   - Save a configuration file for use in a broad deployment of clients.
 
-For large-scale deployments, we recommend that you deploy the utility on a network share. By deploying the configuration utility on a network share, you reduce administration overhead and enhance the security of your Microsoft Dynamics AX computing environment. To view the **Microsoft Dynamics AX 2012 Configuration** utility Help, open the utility, and then click the Help button or view the Help [here](https://go.microsoft.com/fwlink/?linkid=198342%26clcid=0x409) on Microsoft TechNet.
+For large-scale deployments, we recommend that you deploy the utility on a network share. By deploying the configuration utility on a network share, you reduce administration overhead and enhance the security of your Microsoft Dynamics AX computing environment. To view the **Microsoft Dynamics AX 2012 Configuration** utility Help, open the utility, and then click the Help button or view the Help [here](https://go.microsoft.com/fwlink/?linkid=198342) on Microsoft TechNet.
 
 ## See also
 

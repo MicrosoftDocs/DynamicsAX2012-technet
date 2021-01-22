@@ -95,7 +95,7 @@ In earlier versions of Microsoft Dynamics AX 2012: the XML declaration was omitt
 
 For example, in AX 2012 R3 if you do not specify a value for the omit-xml-declaration attribute, the default value No is used and the XML declaration is included in the output document.
 
-For more information about the XSLT elements, including the [xsl:output element](https://go.microsoft.com/fwlink/?linkid=393920%26clcid=0x409), see [XSLT Elements](https://go.microsoft.com/fwlink/?linkid=393918%26clcid=0x409).
+For more information about the XSLT elements, including the [xsl:output element](https://go.microsoft.com/fwlink/?linkid=393920), see [XSLT Elements](https://go.microsoft.com/fwlink/?linkid=393918).
 
 ## See also
 

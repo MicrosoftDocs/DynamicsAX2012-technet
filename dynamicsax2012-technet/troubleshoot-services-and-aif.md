@@ -27,7 +27,7 @@ When you expose a service by using the NetTcp adapter, you can consume the servi
       </uri>
     </configuration>
 
-For more information, see [\<idn\> Element (Uri Settings)](https://go.microsoft.com/fwlink/?linkid=394968%26clcid=0x409).
+For more information, see [\<idn\> Element (Uri Settings)](https://go.microsoft.com/fwlink/?linkid=394968).
 
 ## Warning message: An error occurred while creating AifWebsites entry –or– Error message: Cannot create a record in Web sites (AifWebsites)
 
