@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, M
 
 Sales tax processing in Microsoft Dynamics AX 2012 has been updated to help organizations comply with applicable tax laws in many countries/regions. These tax laws include the European Union’s 2010 regulations about value-added tax (VAT) for services. Reporting for the European Union (EU) sales list has been updated to comply with these changes. Tax rates can now have up to five decimal places. Changes to calculated taxes for selected source documents are now saved before the source document is journalized. Changes to calculated taxes for selected journals are now saved before the journal entries are posted.
 
-For more information about taxes in AX 2012, see the white papers [Implementing the Tax Framework for Microsoft Dynamics AX 2012](https://download.microsoft.com/download/7/c/d/7cdddc76-0e08-4240-8c51-ece6142255c9/implementing+the+tax+framework_ax2012.pdf) and [Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213133%26clcid=0x409).
+For more information about taxes in AX 2012, see the white papers [Implementing the Tax Framework for Microsoft Dynamics AX 2012](https://download.microsoft.com/download/7/c/d/7cdddc76-0e08-4240-8c51-ece6142255c9/implementing+the+tax+framework_ax2012.pdf) and [Implementing the Account and Financial Dimensions Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213133).
 
 ## Overview
 

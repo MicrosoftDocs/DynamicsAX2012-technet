@@ -74,7 +74,7 @@ To view a demand forecast, follow these steps:
 
 5.  In the **Forecast table** sheet, in the **PivotTable Field List**, specify how to filter and display the forecast data that is stored in the cube. For example, you can display only the forecasted quantities, or you can display both the forecasted quantities and the historical data. The historical data is displayed as actual demand.
 
-For more information about how to use PowerPivot tools, see [How to Use the SQL Server Data Mining Add-ins with PowerPivot for Excel](https://go.microsoft.com/fwlink/?linkid=335792%26clcid=0x409) and [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md).
+For more information about how to use PowerPivot tools, see [How to Use the SQL Server Data Mining Add-ins with PowerPivot for Excel](https://go.microsoft.com/fwlink/?linkid=335792) and [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md).
 
 ## Next step
 

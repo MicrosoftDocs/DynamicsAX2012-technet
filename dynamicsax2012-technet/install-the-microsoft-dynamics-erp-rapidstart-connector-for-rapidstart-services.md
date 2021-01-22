@@ -39,7 +39,7 @@ If you have installed Microsoft Dynamics AX 2012 Feature Pack or Microsoft Dynam
 
 1.  On the computer where the AOS instance is installed, download the current version of Microsoft Dynamics ERP RapidStart Connector from the following location:
     
-    [Microsoft Dynamics ERP RapidStart Connector](https://go.microsoft.com/fwlink/?linkid=286818%26clcid=0x409).
+    [Microsoft Dynamics ERP RapidStart Connector](https://go.microsoft.com/fwlink/?linkid=286818).
 
 2.  Run the installer package for Microsoft Dynamics ERP RapidStart Connector. Accept the terms in the license agreement, and select the file location for the installation.
 

@@ -40,7 +40,7 @@ Follow these steps to use SQL Server tools to restore a content database.
 
 3.  Restore the most recent differential database backup that occurred after the most recent full database backup. For more information, see [How to: Restore a differential backup](https://go.microsoft.com/fwlink/?linkid=216756).
 
-4.  Restore all backups of the transaction log that occurred after the most recent full or differential database backup. For more information, see [How to: Restore a transaction log backup](https://go.microsoft.com/fwlink/?linkid=216757%26clcid=0x409).
+4.  Restore all backups of the transaction log that occurred after the most recent full or differential database backup. For more information, see [How to: Restore a transaction log backup](https://go.microsoft.com/fwlink/?linkid=216757).
 
 ## See also
 

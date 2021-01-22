@@ -317,7 +317,7 @@ If you download a single update for AX 2012 R3 from Lifecycle Services, Customer
 
 To find an update, you can browse or search on CustomerSource, PartnerSource, or Lifecycle Services.
 
-We provide the following landing pages for hotfixes and cumulative updates on [AX 2012 R2 Hotfix landing page](https://go.microsoft.com/fwlink/?linkid=329036%26clcid=0x409) and [AX 2012 Hotfix landing page](https://go.microsoft.com/fwlink/?linkid=232954).
+We provide the following landing pages for hotfixes and cumulative updates on [AX 2012 R2 Hotfix landing page](https://go.microsoft.com/fwlink/?linkid=329036) and [AX 2012 Hotfix landing page](https://go.microsoft.com/fwlink/?linkid=232954).
 
 You can also use [Issue Search on Microsoft Dynamics Lifecycle Services](https://go.microsoft.com/fwlink/?linkid=306503), or search [CustomerSource](https://go.microsoft.com/fwlink/?linkid=210925) or [PartnerSource](https://go.microsoft.com/fwlink/?linkid=210926) for Knowledge Base (KB) articles, and for information about hotfixes and updates that have been released. On CustomerSource or PartnerSource, search for the term hotfix or cumulative update. If you do not find information about the specific issue that you are experiencing, you can try one of the following options:
 

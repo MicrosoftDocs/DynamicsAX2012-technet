@@ -48,7 +48,7 @@ The Business Intelligence infrastructure enables you to generate Unified Dimensi
 
 [Introduction to Cubes (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115081)
 
-[Measures and Measure Groups (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=208692%26clcid=0x409)
+[Measures and Measure Groups (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=208692)
 
 [Dimensions (SQL Server Books Online)](https://go.microsoft.com/fwlink/?linkid=115077)
 

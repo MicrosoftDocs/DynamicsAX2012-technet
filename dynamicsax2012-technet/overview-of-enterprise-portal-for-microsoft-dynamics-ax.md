@@ -164,7 +164,7 @@ The Connect Web part displays links to online resources, such as training, suppo
 
 Enterprise Portal includes the following module sites, where users can access data and participate in business processes. Click a link to learn more about the common tasks and the type of data that is available on each module site.
 
-  - [The Procurement site](https://go.microsoft.com/fwlink/?linkid=227603%26clcid=0x409)
+  - [The Procurement site](https://go.microsoft.com/fwlink/?linkid=227603)
 
   - [The Sales site](https://go.microsoft.com/fwlink/?linkid=227604)
 

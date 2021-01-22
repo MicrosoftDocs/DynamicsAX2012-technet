@@ -34,7 +34,7 @@ The **Upgrade validation results** form and the **Upgrade validation details** f
 
 4.  To fix an issue for a record, click the **Fix** button and then enter any information that is required in the form that opens.
     
-    If the **Fix** button is not available, you must either resolve the issue manually or write an upgrade script that resolves the issue. For information about scripts, see the white paper, [How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=212587%26clcid=0x409).
+    If the **Fix** button is not available, you must either resolve the issue manually or write an upgrade script that resolves the issue. For information about scripts, see the white paper, [How to Write Data Upgrade Scripts for Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=212587).
 
   
 

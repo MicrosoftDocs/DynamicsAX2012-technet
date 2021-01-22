@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 For more information about Microsoft Dynamics AX 2012 services and Application Integration Framework (AIF), see the following white paper:
 
-[Services in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=213141%26clcid=0x409)
+[Services in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=213141)
 
 For information about the latest developments in Microsoft Dynamics AX 2012 services and AIF, see the [AIF team blog on MSDN](https://go.microsoft.com/fwlink/?linkid=228832).
 
