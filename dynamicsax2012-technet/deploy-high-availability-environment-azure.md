@@ -5,7 +5,7 @@ title: Deploy high-availability environments on Azure
 description: This article explains how to deploy a high availability environment on Microsoft Azure. To deploy the environment, you'll use the Cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 author: kfend
 manager: AnnBe
-ms.date: 10/09/2019
+ms.date: 02/18/2021
 ms.topic: article
 ms.prod: dynamics-ax-2012 
 ms.service: 
@@ -246,15 +246,15 @@ Complete the following procedure to deploy a high availability environment on Az
     >
     > 1.  Get the name of your RDS Farm: This can be obtained from the RDS Farm Access link in LCS. In this case, it should be **RdsFarm0c0fa75**.
     >
-    >     [![MachineName](./media/machinename-300x165.png)](./media/machinename.png)
+    >     [![Get the name of your RDS Farm](machinename.png)](machinename.png)
     >
     > 2.  Get the IP of the Internal Load Balancer from the Cloud Service dashboard in Azure Portal. Inspect the RDS machine that has an internal IP next to port **3389**. In the below example, the Internal Load Balancer IP is 10.1.3.4.
     >
-    >     [![IP address](./media/ip-address-144x300.png)](./media/ip-address.png)
+    >     [![Get the IP of the Internal Load Balancer from the Cloud Service dashboard in Azure Portal](ip-address.png)](ip-address.png)
     >
     > 3.  Add the RDS Farm as a Computer in your AD, using the information obtained above.
     >
-    >     [![AddToAD](./media/addtoad-300x113.png)](./media/addtoad.png)
+    >     [![Add the RDS Farm as a Computer in your AD](addtoad.png)](addtoad.png)
     > 
     > Failure to do these steps results in the following error when going through RD Web Access: *Remote Desktop can't find the computer "`RdsFarm0c0fa75.contoso.com`". This might mean that " `RdsFarm0c0fa75.contoso.com`" does not belong to the specified network. Verify the computer name and domain that you are trying to connect to.*
 
