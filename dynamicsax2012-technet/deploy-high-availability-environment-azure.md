@@ -5,7 +5,7 @@ title: Deploy high-availability environments on Azure
 description: This article explains how to deploy a high availability environment on Microsoft Azure. To deploy the environment, you'll use the Cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 author: kfend
 manager: AnnBe
-ms.date: 10/09/2019
+ms.date: 02/18/2021
 ms.topic: article
 ms.prod: dynamics-ax-2012 
 ms.service: 
