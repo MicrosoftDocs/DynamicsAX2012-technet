@@ -1343,6 +1343,8 @@
             href: walkthrough-copy-data-between-microsoft-dynamics-ax-instances-dixf-dmf.md
           - name: Data import/export framework entities  (DIXF, DMF)
             href: data-import-export-framework-entities-dixf-dmf.md
+          - name: Quick import export
+            href: quick-import-export.md
         - name: Use DAT and DEF files to export and import data
           href: use-dat-and-def-files-to-export-and-import-data.md
           items:
