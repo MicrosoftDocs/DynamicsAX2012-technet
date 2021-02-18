@@ -14,9 +14,8 @@ mtps_version: v=AX.60
 
 You can record business process flows in Enterprise Portal for Microsoft Dynamics AX by using event traces. You can then view the business process flows in the Security Development Tool.
 
-| **Note**                                                                                                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| This is pre-release documentation of a preliminary nature and is subject to change at any time without notice. Microsoft cannot guarantee the accuracy of any information provided herein. |
+> [!Note]                                                                                                                                                                       
+> This is pre-release documentation of a preliminary nature and is subject to change at any time without notice. Microsoft cannot guarantee the accuracy of any information provided herein. |
 
 ## Collect event traces for Enterprise Portal entry points by using Windows Performance Monitor
 1.  On a computer that is running the instance of Enterprise Portal that you want to collect event traces from, open Windows Performance Monitor. In the navigation pane, under **Data Collector Sets**, right-click **User Defined**, select **New**, and then click **Data Collector Set**.
