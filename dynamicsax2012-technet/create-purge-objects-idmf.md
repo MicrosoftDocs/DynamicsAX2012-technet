@@ -14,7 +14,8 @@ mtps_version: v=AX.60
 Considerations for Purge Objects, driver tables, relations, and rules
 ---------------------------------------------------------------------
 
-**Note**: Before you use Purge Objects, you must have experience in the maintenance and administration of the Microsoft Dynamics AX application and database. IDMF lets you create a Purge Object that defines a hierarchical relationship tree among the Microsoft Dynamics AX application tables. You can then apply rules to selected records based on specific criteria. Records matching the selection criteria are deleted from the whole relationship tree in the Purge Object when a purge task runs. Improper use of this framework can cause unexpected results, database corruption, and application downtime requiring full database and application recovery. Exercise extreme caution, and thoroughly test your recycling strategy in a test environment before working in the production environment. Consider the following points when working with a Purge Object:
+> [!Note]
+> Before you use Purge Objects, you must have experience in the maintenance and administration of the Microsoft Dynamics AX application and database. IDMF lets you create a Purge Object that defines a hierarchical relationship tree among the Microsoft Dynamics AX application tables. You can then apply rules to selected records based on specific criteria. Records matching the selection criteria are deleted from the whole relationship tree in the Purge Object when a purge task runs. Improper use of this framework can cause unexpected results, database corruption, and application downtime requiring full database and application recovery. Exercise extreme caution, and thoroughly test your recycling strategy in a test environment before working in the production environment. Consider the following points when working with a Purge Object:
 
 -   Tables that store transient or intermediate data are usually good candidates for a Purge Object. You must validate the data dependency and application functionality before creating a Purge Object with such tables.
 -   Verify that the table you select as the driver table for a Purge Object is a header table, such as **SalesParmTable** or **SalesQuotationTable**. A good indication, although not always accurate, is that the **TableGroup** value for such a table is **WorkSheetHeader**, **Miscellaneous**, or **Transaction**.
@@ -36,9 +37,8 @@ Considerations for Purge Objects, driver tables, relations, and rules
 -   Make sure that the TableGroup property is set for all custom tables in Microsoft Dynamics AX, so that the discovery process can retrieve all related tables.
 -   Synchronize changes, such as adding, deleting, or updating a table in the Application Object Tree (AOT), or the data dictionary synchronization in the Microsoft Dynamics AX metadata with IDMF. Run the post-installation tasks to synchronize the metadata. For information, see the "Post-installation tasks" section in the [Data Management Framework Installation Guide](https://www.microsoft.com/download/details.aspx?id=16111).
 
-| **Caution**                                                                                                                                          |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Verify that any tables with a table group of type Transaction are part of the Purge Object only if it is acceptable to purge data from these tables. |
+> [!Caution]
+> Verify that any tables with a table group of type Transaction are part of the Purge Object only if it is acceptable to purge data from these tables. 
 
 ## Create a new Purge Object
 Follow these steps to create a new Purge Object:
@@ -161,9 +161,8 @@ This section provides a walkthrough for disabling relations in a table with mult
 6.  In the **Relations** node, right-click **InventCount**, and select **Disable relation**. Notice that the disabled relation appears in red. Right-click **InventCount**, and select **Enable relation**. Notice that the enabled relation appears in black. An excluded relation does not become part of the Purge Object. Multiple enabled relations form the "or" clause in the SQL statement that the Purge Object generates.
 7.  Do not save the purge template.
 
-    | **Caution**                                                                                                            |
-    |------------------------------------------------------------------------------------------------------------------------|
-    | Exercise care, and thoroughly test the excluded relations. An erroneous or incorrect exclusion causes data corruption. |
+    > [!Caution]                                                                                                       
+    > Exercise care, and thoroughly test the excluded relations. An erroneous or incorrect exclusion causes data corruption.
 
 ## Purge template/Purge Objects
 This command provides a list of purge templates and Purge Objects in your system. A purge template is a template that is included with IDMF with a predefined relationship tree. You can use a purge template as a starting point to create a Purge Object. You must review a purge template to make sure that it meets your requirements, and save it before you can use it in a purge task.
