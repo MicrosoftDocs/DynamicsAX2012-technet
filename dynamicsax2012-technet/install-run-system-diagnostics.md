@@ -58,25 +58,8 @@ To grant access to collect data from the Windows registry on a server that hosts
 5.  Click **Advanced Security Settings**, and then ensure that the permissions are inherited by the child objects.
 6.  Repeat for all AOS instances in each environment that you want to collect data from.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Important</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>As you are configuring rights in the registry, do not reduce account privileges that already exist. For more information about Advanced security settings, see:
-<ul>
-<li><a href="https://technet.microsoft.com/library/jj134043.aspx">Windows Server 2012 Access Control and Authorization Overview</a></li>
-<li><a href="https://technet.microsoft.com/library/cc730772.aspx">Windows Server 2008 R2 Advanced Security Settings Properties Page - Permissions Tab</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+> [[!Important]
+> As you are configuring rights in the registry, do not reduce account privileges that already exist. For more information about Advanced security settings, see [Windows Server 2012 Access Control and Authorization Overview](https://technet.microsoft.com/library/jj134043.aspx) and [Windows Server 2008 R2 Advanced Security Settings Properties Page - Permissions Tab](https://technet.microsoft.com/library/cc730772.aspx).
 
 #### Edit the Group Policy on the AOS
 
