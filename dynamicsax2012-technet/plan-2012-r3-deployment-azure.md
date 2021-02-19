@@ -105,7 +105,7 @@ The Azure management portal provides developers and IT professionals the ability
 -   Connect to virtual machines.
 -   Monitor the health and status of your AX 2012 R3 environment.
 
-After you purchase an Azure subscription, you can access the management portal by clicking [here](https://manage.windowsazure.com/?whr=live.com). The following image shows the management portal. [![PlanYouAXR3DeploymentonAzure1](./media/planyouaxr3deploymentonazure1.jpg)](./media/planyouaxr3deploymentonazure1.jpg)  
+After you purchase an Azure subscription, you can access the management portal by clicking [here](https://manage.windowsazure.com/?whr=live.com).
 
 ## Become familiar with the Azure VM agent
 The Azure VM Agent is now automatically deployed with every VM deployed via Lifecycle Services. The Azure VM Agent is used to install, configure, manage and run Azure Virtual Machine Extensions (VM Extensions). VM extensions can help you monitor and manage your VMs.
