@@ -5,7 +5,7 @@ ms:assetid:
 ms:mtpsurl: 
 ms:contentKeyID: 
 author: Khairunj
-ms.date: 10/05/2018
+ms.date: 02/19/2021
 mtps_version: v=AX.60
 ---
 
@@ -29,9 +29,8 @@ This section describes the permissions that are required for the service account
 
 -   The service account must be a domain account that is a user in Microsoft Dynamics AX and a member of the **BusinessConnector** role. We strongly recommend that, if possible, the account be the same account used for the .NET Business Connector proxy. For more information, see [Specify the .NET Business Connector proxy account](https://technet.microsoft.com/library/3e46dc0a-2ff4-4a06-ae61-041e52dcc774(AX.60).aspx) and [Assign users to security roles](https://technet.microsoft.com/library/214ee45b-5b99-4ea8-9454-f4297f68e38c(AX.60).aspx).
 
-    | **Note**                                                                                                                     |
-    |------------------------------------------------------------------------------------------------------------------------------|
-    | If you reuse the .NET Business connector proxy account, you must still add it as a member of the **BusinessConnector** role. |
+    > [!Note]
+    > If you reuse the .NET Business connector proxy account, you must still add it as a member of the **BusinessConnector** role.
 
 -   The service account must have read access to specific registry keys in the HKEY\_LOCAL\_MACHINE hive on all of the computers that run AOS instances and host Microsoft Dynamics AX business databases, so that the Lifecycle Services Diagnostic Service can discover environments and collect data.
 -   The service account must be a member of the **Event Log Readers** local group on each server in the environment, so that the Lifecycle Services Diagnostic Service can read the Windows event logs.
@@ -41,9 +40,8 @@ This section describes the permissions that are required for the service account
 
 On each server in your environment that hosts an AOS instance or Microsoft Dynamics AX SQL Server business database, you must grant read access to a registry key in the HKEY\_LOCAL\_MACHINE hive to the service account for the System diagnostics.
 
-| **Caution**                                                                                                                                                                                                                                                                                                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The following procedure includes editing the Windows Registry. Editing the registry incorrectly can cause serious problems that may require you to reinstall Windows. Microsoft cannot guarantee that problems resulting from incorrectly editing the registry can be solved. solved. You should make a backup copy of the registry files (System.dat and User.dat) before you edit the registry. |
+> [!Caution]
+> The following procedure includes editing the Windows Registry. Editing the registry incorrectly can cause serious problems that may require you to reinstall Windows. Microsoft cannot guarantee that problems resulting from incorrectly editing the registry can be solved. solved. You should make a backup copy of the registry files (System.dat and User.dat) before you edit the registry. 
 
 To grant access to collect data from the Windows registry on the server that hosts the SQL Server business database:
 1.  Click **Start**, click **Run**, type **regedit**, and then press **Enter**.
@@ -152,15 +150,13 @@ To install the on-premises component of System diagnostics, you must be a member
 3.  On the **Admin** page, download the compressed installer (**LCSDiagFX\_x64.zip.**).
 4.  Extract the installer to a computer that is running a Microsoft Dynamics AX client. The computer must have network access to all other servers in the environment, and must be running the .NET Business Connector if you are using the NET Business Connector proxy account as a service account.
 
-    | **Important**                                                                                                                                                                                                      |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | In a production environment, we recommend that you install the on-premises component on a computer that is running only a client, not on computers that are also running an AOS instance or a SQL Server instance. |
+    > [!Important]
+    > In a production environment, we recommend that you install the on-premises component on a computer that is running only a client, not on computers that are also running an AOS instance or a SQL Server instance.
 
 5.  Run **Setup.exe**.
 
-    | **Note**                           |
-    |------------------------------------|
-    | Do not run the .msi file directly. |
+    > [!Note]
+    > Do not run the .msi file directly.
 
 6.  Accept the license terms.
 7.  If you have an existing local X509 certificate, on the **Select the certificate type** page, click **Use existing**. If you do not have an X509 certificate, perform the following steps:
