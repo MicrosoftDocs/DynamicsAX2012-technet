@@ -51,9 +51,7 @@
                                          "ms.date":  "06/21/2018",
                                          "ms.prod":  "dynamicsax-2012",
                                          "ms.topic":  "conceptual",
-                                         "feedback_system": "GitHub",
-                                         "feedback_github_repo": "MicrosoftDocs/DynamicsAX2012-technet",
-                                         "feedback_product_url": "https://community.dynamics.com/ax",
+                                         "feedback_system": "none",
                                          "uhfHeaderId": "MSDocsHeader-Dynamics365"
                                      },
                   "fileMetadata":  {
