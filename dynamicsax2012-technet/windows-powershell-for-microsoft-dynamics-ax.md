@@ -4,7 +4,7 @@ TOCTitle: Windows PowerShell for Microsoft Dynamics AX
 ms:assetid: c9852f5b-0fee-4b80-8317-62f014187549
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556863(v=AX.60)
 ms:contentKeyID: 39509593
-author: Khairunj
+ms:author: Khairunj
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
@@ -18,15 +18,15 @@ The topics in this section provide information about how to use Windows PowerShe
 
 [Administering Microsoft Dynamics AX by using Windows PowerShell](administering-microsoft-dynamics-ax-by-using-windows-powershell.md)
 
-[General management cmdlets](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/general-management-cmdlets)
+[General management cmdlets](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/general-management-cmdlets)
 
-[Flexible authentication cmdlets](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/enterprise-portal-and-sharepoint-flexible-authentication-cmdlets)
+[Flexible authentication cmdlets](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/enterprise-portal-and-sharepoint-flexible-authentication-cmdlets)
 
-[Model and model store cmdlets](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/model-and-model-store-cmdlets)
+[Model and model store cmdlets](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/model-and-model-store-cmdlets)
 
-[Report server management cmdlets](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/report-server-management-cmdlets)
+[Report server management cmdlets](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/report-server-management-cmdlets)
 
-[User and role-based security cmdlets](https://docs.microsoft.com/en-us/dynamicsax-2012/appuser-itpro/user-and-role-based-security-cmdlets)
+[User and role-based security cmdlets](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/user-and-role-based-security-cmdlets)
 
   
 
