@@ -89,7 +89,7 @@ To use Azure, you must purchase a subscription. For information about subscripti
 
 If you already have an Azure subscription, note the following:
 
--   **To view the size of your subscription:** You can view the size of your subscription in the Azure management portal. To do so, log on to the [Azure management portal](https://manage.windowsazure.com/), and then click **Settings** &gt; **Usage**.
+-   **To view the size of your subscription:** You can view the size of your subscription in the Azure management portal. To do so, log on to the Azure management portal, and then click **Settings** &gt; **Usage**.
 -   **To increase the size of your subscription:** To increase the size of your subscription, you’ll need to create a support ticket with the Azure support team. To do so, go to the [Azure support options](https://azure.microsoft.com/support/options/) page, and then click **Get Support** to create the support ticket. When creating the support ticket, be sure to indicate that the ticket is for billing support.
 
 > [!NOTE]
