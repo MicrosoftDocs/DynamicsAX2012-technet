@@ -134,21 +134,9 @@ To obtain support for Microsoft Dynamics AX, use the resources listed in the fol
 <td>Ask the community</td>
 <td>Go to the <a href="https://go.microsoft.com/fwlink/?LinkId=221068">Microsoft Dynamics AX forum</a> page to get help with your questions from the Microsoft Dynamics AX community.</td>
 </tr>
-<tr class="even">
-<td>Use the Cloud-powered support tool</td>
-<td>In <a href="https://lifecycleservices.dynamics.com/en/">Microsoft Dynamics Lifecycle Services</a>, Cloud-powered support is a tool that helps you manage support incidents. Cloud-powered support lets you create a virtual machine in Azure that has the same hotfixes installed as your local environment. You can reproduce and record the incident on the virtual machine, and then submit the virtual machine to our support team. The support team follows up by investigating the incident and testing a fix on the virtual machine. If a fix is found, they send the virtual machine and the fix back to you for verification.</td>
-</tr>
 <tr class="odd">
 <td>Use the Issue search tool</td>
-<td>In <a href="https://lifecycleservices.dynamics.com/en/">Microsoft Dynamics Lifecycle Services</a>, Issue search is a search engine that you can use to quickly search for KB articles, hotfixes, and workarounds for reported issues in Microsoft Dynamics AX. You can see which reported issues are in the process of being fixed and see notifications when a hotfix is released for a specific functional area in Microsoft Dynamics AX. You can download released hotfixes, see which code objects are affected, and see the code changes introduced by the hotfix.</td>
-</tr>
-<tr class="even">
-<td>Enter a support ticket with the Microsoft Dynamics AX support team</td>
-<td>Go to the <a href="https://community.dynamics.com/ax/p/support.aspx">Support for Microsoft Dynamics AX</a> page to open a support ticket. The Microsoft Dynamics AX support team can help you resolve technical issues related to:
-<ul>
-<li>Errors when using Lifecycle Services</li>
-<li>Errors when using Microsoft Dynamics AX</li>
-</ul></td>
+<td>In <a href="https://lcs.dynamics.com/">Microsoft Dynamics Lifecycle Services</a>, Issue search is a search engine that you can use to quickly search for KB articles, hotfixes, and workarounds for reported issues in Microsoft Dynamics AX. You can see which reported issues are in the process of being fixed and see notifications when a hotfix is released for a specific functional area in Microsoft Dynamics AX. You can download released hotfixes, see which code objects are affected, and see the code changes introduced by the hotfix.</td>
 </tr>
 </tbody>
 </table>
