@@ -11,7 +11,7 @@ mtps_version: v=AX.60
 
 # Code Upgrade Service user guide
 
-The Code Upgrade Service has been deprecated. Use the Upgrade analysis tool. For more information, see [Upgrade analysis in Lifecycle Services (LCS)](upgrade-analysis-lcs.md).
+The Code Upgrade Service has been deprecated. Use the Upgrade analysis tool. For more information, see [Upgrade analysis in Lifecycle Services (LCS)](upgrade-analysis-lifecycle-services-lcs.md).
 
 [Go to Lifecycle Services](https://lcs.dynamics.com).
 
