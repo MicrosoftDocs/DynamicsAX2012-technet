@@ -36,7 +36,7 @@ ms.dyn365.ops.version: 2012
 
 Complete the following procedure to log on to a virtual machine in you AX 2012 R3 environment.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Open your project.
 3.  Click **Cloud-hosted environments**.
 4.  Select the environment that includes the virtual machine that you want to log on to.
