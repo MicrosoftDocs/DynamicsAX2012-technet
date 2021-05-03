@@ -105,8 +105,6 @@ The Azure management portal provides developers and IT professionals the ability
 -   Connect to virtual machines.
 -   Monitor the health and status of your AX 2012 R3 environment.
 
-After you purchase an Azure subscription, you can access the management portal by clicking [here](https://manage.windowsazure.com/?whr=live.com).
-
 ## Become familiar with the Azure VM agent
 The Azure VM Agent is now automatically deployed with every VM deployed via Lifecycle Services. The Azure VM Agent is used to install, configure, manage and run Azure Virtual Machine Extensions (VM Extensions). VM extensions can help you monitor and manage your VMs.
 
@@ -178,7 +176,7 @@ SQL Server best practices implemented by the deployment service include those re
 -   Enabled trace flags  -T1204, -T1222.
 
 ## Estimate costs and understand the Azure billing process
-To help estimate the cost of your AX 2012 R3 deployment on Azure, use the [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/). It’s also important to understand the Azure billing process before you deploy AX 2012 R3 on Azure. For an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period, see [Understand your bill](https://azure.microsoft.com/support/understand-your-bill/). 
+To help estimate the cost of your AX 2012 R3 deployment on Azure, use the [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/). It’s also important to understand the Azure billing process before you deploy AX 2012 R3 on Azure.
 
 > [!NOTE]
 > Keep in mind, you can shut down an AX 2012 R3 environment that has been deployed on Azure when it’s not in use. For example, you may want to shut down an environment on the weekends to reduce costs. When you shut down an environment, the environment still exists; however, the virtual machines in the environment are shut down. You won’t be charged for the virtual machines when they’re not running. For more information, see “How do I shut down an environment?” in the [Manage AX 2012 R3 deployments on Azure](manage-2012-r3-deployment-azure.md) article.
