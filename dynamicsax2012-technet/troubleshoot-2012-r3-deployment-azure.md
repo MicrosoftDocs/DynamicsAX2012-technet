@@ -70,10 +70,6 @@ Dynamics AX clients may crash upon first login after a restart or after a period
 2.  Click the **Status bar** option.
 3.  In the **Show status bar** field, select **None**.
 
-### Install kernel 6.3.3000.287 or later
-
-Kernels are cumulative and the most recent kernel can be found here: <https://blogs.msdn.microsoft.com/axsupport/2012/03/29/overview-of-microsoft-dynamics-ax-build-numbers/>
-
 ## How do I monitor for storage account throttling?
 To monitor storage account throttling, see [How to Monitor for Storage Account Throttling](https://blogs.msdn.microsoft.com/mast/2014/08/02/how-to-monitor-for-storage-account-throttling/). Alerts and notifications can be utilized to notify you when storage is being throttled. If this is happening, see the [Plan AX 2012 R3 deployments on Azure](plan-2012-r3-deployment-azure.md) topic for information about leveraging multiple Azure Connectors and/or LCS projects.
 
@@ -134,15 +130,6 @@ To obtain support for Microsoft Dynamics AX, use the resources listed in the fol
 <tr class="odd">
 <td><strong>Task</strong></td>
 <td><strong>More information</strong></td>
-</tr>
-<tr class="even">
-<td>Get assistance with Microsoft Dynamics AX licensing questions</td>
-<td>Contact Microsoft Dynamics Regional Operations Centers by clicking the following PartnerSource links:
-<ul>
-<li><a href="https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering">Pricing and ordering</a></li>
-<li><a href="https://mbs.microsoft.com/partnersource/northamerica/help/help/GlobalOperationsSupportPage">Operations support</a></li>
-</ul></td>
-</tr>
 <tr class="odd">
 <td>Ask the community</td>
 <td>Go to the <a href="https://go.microsoft.com/fwlink/?LinkId=221068">Microsoft Dynamics AX forum</a> page to get help with your questions from the Microsoft Dynamics AX community.</td>
