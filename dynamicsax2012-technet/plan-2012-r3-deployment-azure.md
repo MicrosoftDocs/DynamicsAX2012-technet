@@ -40,7 +40,7 @@ Deployments of AX 2012 R3 on Azure are supported by Microsoft in the following s
    - SQL is deployed in a High Availability topology (using SQL Clustering/Always On).
    - SQL best practices have been followed for deployment in Azure, using the [Performance best practices for SQL Server in Azure Virtual Machines](/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance). 
    - Best practices for SQL Server configuration for AX 2012 have been followed, as specified in [Configure SQL Server and storage settings (TechNet)](https://technet.microsoft.com/library/dd309734.aspx). 
-   - The System diagnostic tool is installed and best practices are followed, as specified in [System diagnostics in Lifecycle Services (LCS)](system-diagnostics-lcs.md) 
+   - The System diagnostic tool is installed and best practices are followed, as specified in [System diagnostics in Lifecycle Services (LCS)](system-diagnostics-lifecycle-services-lcs.md) 
 
 > [!NOTE]
 > If you have an issue in an unsupported AX 2012 R3 on Azure environment, and can reproduce the same issue in an AX 2012 R3 environment that was either deployed to Azure through LCS, or deployed locally, Microsoft can provide support.
