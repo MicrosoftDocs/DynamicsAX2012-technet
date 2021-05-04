@@ -40,7 +40,7 @@ Deployments of AX 2012 R3 on Azure are supported by Microsoft in the following s
    - SQL is deployed in a High Availability topology (using SQL Clustering/Always On).
    - SQL best practices have been followed for deployment in Azure, using the [Performance best practices for SQL Server in Azure Virtual Machines](/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-performance). 
    - Best practices for SQL Server configuration for AX 2012 have been followed, as specified in [Configure SQL Server and storage settings (TechNet)](https://technet.microsoft.com/library/dd309734.aspx). 
-   - The System diagnostic tool is installed and best practices are followed, as specified in [System diagnostics in Lifecycle Services (LCS)](system-diagnostics-lcs.md) 
+   - The System diagnostic tool is installed and best practices are followed, as specified in [System diagnostics in Lifecycle Services (LCS)](system-diagnostics-lifecycle-services-lcs.md) 
 
 > [!NOTE]
 > If you have an issue in an unsupported AX 2012 R3 on Azure environment, and can reproduce the same issue in an AX 2012 R3 environment that was either deployed to Azure through LCS, or deployed locally, Microsoft can provide support.
@@ -89,7 +89,7 @@ To use Azure, you must purchase a subscription. For information about subscripti
 
 If you already have an Azure subscription, note the following:
 
--   **To view the size of your subscription:** You can view the size of your subscription in the Azure management portal. To do so, log on to the [Azure management portal](https://manage.windowsazure.com/), and then click **Settings** &gt; **Usage**.
+-   **To view the size of your subscription:** You can view the size of your subscription in the Azure management portal. To do so, log on to the Azure management portal, and then click **Settings** &gt; **Usage**.
 -   **To increase the size of your subscription:** To increase the size of your subscription, you’ll need to create a support ticket with the Azure support team. To do so, go to the [Azure support options](https://azure.microsoft.com/support/options/) page, and then click **Get Support** to create the support ticket. When creating the support ticket, be sure to indicate that the ticket is for billing support.
 
 > [!NOTE]
@@ -104,8 +104,6 @@ The Azure management portal provides developers and IT professionals the ability
 -   Upload a management certificate. (The management certificate enables Lifecycle Services to deploy AX 2012 R3 environments on Azure on your behalf.)
 -   Connect to virtual machines.
 -   Monitor the health and status of your AX 2012 R3 environment.
-
-After you purchase an Azure subscription, you can access the management portal by clicking [here](https://manage.windowsazure.com/?whr=live.com).
 
 ## Become familiar with the Azure VM agent
 The Azure VM Agent is now automatically deployed with every VM deployed via Lifecycle Services. The Azure VM Agent is used to install, configure, manage and run Azure Virtual Machine Extensions (VM Extensions). VM extensions can help you monitor and manage your VMs.
@@ -178,7 +176,7 @@ SQL Server best practices implemented by the deployment service include those re
 -   Enabled trace flags  -T1204, -T1222.
 
 ## Estimate costs and understand the Azure billing process
-To help estimate the cost of your AX 2012 R3 deployment on Azure, use the [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/). It’s also important to understand the Azure billing process before you deploy AX 2012 R3 on Azure. For an overview of the Azure billing process, links to sample invoices, and information about how to download daily usage data for the current billing period, see [Understand your bill](https://azure.microsoft.com/support/understand-your-bill/). 
+To help estimate the cost of your AX 2012 R3 deployment on Azure, use the [Azure pricing calculator](https://azure.microsoft.com/pricing/calculator/). It’s also important to understand the Azure billing process before you deploy AX 2012 R3 on Azure.
 
 > [!NOTE]
 > Keep in mind, you can shut down an AX 2012 R3 environment that has been deployed on Azure when it’s not in use. For example, you may want to shut down an environment on the weekends to reduce costs. When you shut down an environment, the environment still exists; however, the virtual machines in the environment are shut down. You won’t be charged for the virtual machines when they’re not running. For more information, see “How do I shut down an environment?” in the [Manage AX 2012 R3 deployments on Azure](manage-2012-r3-deployment-azure.md) article.

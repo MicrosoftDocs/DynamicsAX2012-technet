@@ -44,7 +44,7 @@ Before you complete the procedures in this topic, make sure that the following p
 | Required tasks | [Plan AX 2012 R3 deployments on Azure](plan-2012-r3-deployment-azure.md) |
 
 ## 1. Log on to Lifecycle Services
-Microsoft Dynamics Lifecycle Services (LCS) provides a cloud-based collaborative workspace that customers and partners can use to manage Dynamics AX projects. You’ll use this website to deploy Dynamics AX on Azure. Lifecycle Services is available to customers and partners as part of their support plans. You can access it with your CustomerSource or PartnerSource credentials, for details see [Log on to Lifecycle Services](https://lcs.dynamics.com/en/).
+Microsoft Dynamics Lifecycle Services (LCS) provides a cloud-based collaborative workspace that customers and partners can use to manage Dynamics AX projects. You’ll use this website to deploy Dynamics AX on Azure. Lifecycle Services is available to customers and partners as part of their support plans. You can access it with your CustomerSource or PartnerSource credentials, for details see [Log on to Lifecycle Services](https://lcs.dynamics.com).
 
 ## 2. Create a project
 After you log in to LCS, open an existing project, or create a new project. Projects are the key organizer of your experience in LCS. The methodology associated with a project determines which phases and tasks are included in the project by default.
