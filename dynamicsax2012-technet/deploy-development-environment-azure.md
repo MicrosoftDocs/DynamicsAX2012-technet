@@ -78,13 +78,7 @@ The following sections provide information about how to configure the Azure virt
 
 ### Create a site-to-site VPN connection
 
-To enable corporate users to access resources on the virtual machines in the Azure virtual network, you’ll need to create a site-to-site VPN connection between the Azure virtual network and your on-premises, corporate network. For information about how to do this, see:
-
--   [Virtual network overview](https://msdn.microsoft.com/library/windowsazure/jj156007.aspx)
--   [Virtual network configuration tasks](https://msdn.microsoft.com/library/jj156206.aspx)
--   [Set up a simulated hybrid cloud environment for testing](https://azure.microsoft.com/documentation/articles/virtual-networks-setup-simulated-hybrid-cloud-environment-testing/)
--   [Site-to-site VPN in Azure virtual network using Windows Server 2012 Routing and Remote Access Service (RRAS)](https://msdn.microsoft.com/library/dn636917.aspx)
--   [Configure a virtual network gateway in the management portal](https://msdn.microsoft.com/library/azure/jj156210.aspx)
+To enable corporate users to access resources on the virtual machines in the Azure virtual network, you’ll need to create a site-to-site VPN connection between the Azure virtual network and your on-premises, corporate network. For information about how to do this, see the Azure documentation.
 
 ### Create an active directory in Azure
 
@@ -244,7 +238,7 @@ Complete the following procedure to deploy a development environment on Azure.
     <li>The <strong>Application subnet name</strong> field will display available options. If you are deploying to an AD that was previously deployed through Lifecycle Services, select the <em>APPNET</em> value.</li>
     <li>The Active Directory subnet must be entered and match the Active Directory subnet IP/Range found in the Azure management portal for the AD you desire to target.
     <ol>
-    <li>Log on to the <a href="https://manage.windowsazure.com/">Azure management portal</a>.</li>
+    <li>Log on to the Azure management portal.</li>
     <li>In the navigation pane on the left, click <strong>Networks</strong>.</li>
     <li>Click the name of the virtual network that you’re going to use.</li>
     <li>Click <strong>Configure</strong>. Details about the virtual network are listed on the page.</li>
@@ -405,10 +399,10 @@ The following table lists the default names of the domain accounts that are crea
 | <DomainName>AXServiceUser       | The account used to run the following services on AOS-<GUID> virtual machines: Microsoft Dynamics AX Data Import/Export Framework Service and Microsoft Dynamics ERP RapidStart Connector. The account is also used to run the following services on CLI-<GUID> virtual machines: Microsoft Dynamics AX for Retail Commerce Data Exchange Async Client. |
 
 > [!NOTE] 
-> The passwords are displayed on the Cloud-hosted environments page in [Lifecycle Services](https://lifecycleservices.dynamics.com/en/).
+> The passwords are displayed on the Cloud-hosted environments page in [Lifecycle Services](https://lcs.dynamics.com).
 
 ### Local administrator accounts
 
-Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the Cloud-hosted environments page in [Lifecycle Services](https://lifecycleservices.dynamics.com/en/).
+Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the Cloud-hosted environments page in [Lifecycle Services](https://lcs.dynamics.com).
 
 
