@@ -16,7 +16,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-This section of Help provides information about functionality and features in Microsoft Dynamics AX that are specific to Eastern Europe. Procedures or other Help topics for forms and reports that are specific to Easter Europe include (EEUR) in the topic title. Functionality for Eastern Europe is available only to legal entities whose primary address is in one of the following countries/regions:
+This section of Help provides information about functionality and features in Microsoft Dynamics AX that are specific to Eastern Europe. Procedures or other Help topics for forms and reports that are specific to Eastern Europe include (EEUR) in the topic title. Functionality for Eastern Europe is available only to legal entities whose primary address is in one of the following countries/regions:
 
   - Czech Republic
 

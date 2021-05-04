@@ -50,7 +50,7 @@ If you need to renew the trial license for Windows on the virtual machine in a d
 A command prompt window will be displayed briefly, and then the virtual machine will restart. The license is now good for 180 days. You can complete this procedure 3 times.
 
 ## How do I renew the Microsoft Dynamics AX license on a demo virtual machine?
-If you need to renew the license for Microsoft Dynamics AX on the virtual machine in a demo environment, please download the trial license files from [CustomerSource](https://mbs.microsoft.com/customersource/northamerica/AX/downloads/service-packs/AX2012DemoToolsMaterials#DemoVirtualMachineLicenses) or [MSDN](https://msdn.microsoft.com/subscriptions/securedownloads/hh442898). Then, follow the steps listed in [Provide license information](https://technet.microsoft.com/library/aa496447.aspx).
+If you need to renew the license for Microsoft Dynamics AX on the virtual machine in a demo environment, follow the steps listed in [Provide license information](https://technet.microsoft.com/library/aa496447.aspx).
 
 ## How do I activate Windows on the virtual machines in my non-demo environment?
 Windows is automatically activated on the virtual machines that are included with non-demo environments. However, the activation may take up to 4 days to complete. If you continue to see messages that prompt you to activate Windows after 4 days, contact the Azure support team. For information on how to contact the Azure support team, see the following section.
@@ -69,10 +69,6 @@ Dynamics AX clients may crash upon first login after a restart or after a period
 1.  In the Dynamics AX client, open the **Options** form (**File** &gt; **Tools** &gt; **Options**)
 2.  Click the **Status bar** option.
 3.  In the **Show status bar** field, select **None**.
-
-### Install kernel 6.3.3000.287 or later
-
-Kernels are cumulative and the most recent kernel can be found here: <https://blogs.msdn.microsoft.com/axsupport/2012/03/29/overview-of-microsoft-dynamics-ax-build-numbers/>
 
 ## How do I monitor for storage account throttling?
 To monitor storage account throttling, see [How to Monitor for Storage Account Throttling](https://blogs.msdn.microsoft.com/mast/2014/08/02/how-to-monitor-for-storage-account-throttling/). Alerts and notifications can be utilized to notify you when storage is being throttled. If this is happening, see the [Plan AX 2012 R3 deployments on Azure](plan-2012-r3-deployment-azure.md) topic for information about leveraging multiple Azure Connectors and/or LCS projects.
@@ -134,34 +130,13 @@ To obtain support for Microsoft Dynamics AX, use the resources listed in the fol
 <tr class="odd">
 <td><strong>Task</strong></td>
 <td><strong>More information</strong></td>
-</tr>
-<tr class="even">
-<td>Get assistance with Microsoft Dynamics AX licensing questions</td>
-<td>Contact Microsoft Dynamics Regional Operations Centers by clicking the following PartnerSource links:
-<ul>
-<li><a href="https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering">Pricing and ordering</a></li>
-<li><a href="https://mbs.microsoft.com/partnersource/northamerica/help/help/GlobalOperationsSupportPage">Operations support</a></li>
-</ul></td>
-</tr>
 <tr class="odd">
 <td>Ask the community</td>
 <td>Go to the <a href="https://go.microsoft.com/fwlink/?LinkId=221068">Microsoft Dynamics AX forum</a> page to get help with your questions from the Microsoft Dynamics AX community.</td>
 </tr>
-<tr class="even">
-<td>Use the Cloud-powered support tool</td>
-<td>In <a href="https://lifecycleservices.dynamics.com/en/">Microsoft Dynamics Lifecycle Services</a>, Cloud-powered support is a tool that helps you manage support incidents. Cloud-powered support lets you create a virtual machine in Azure that has the same hotfixes installed as your local environment. You can reproduce and record the incident on the virtual machine, and then submit the virtual machine to our support team. The support team follows up by investigating the incident and testing a fix on the virtual machine. If a fix is found, they send the virtual machine and the fix back to you for verification.</td>
-</tr>
 <tr class="odd">
 <td>Use the Issue search tool</td>
-<td>In <a href="https://lifecycleservices.dynamics.com/en/">Microsoft Dynamics Lifecycle Services</a>, Issue search is a search engine that you can use to quickly search for KB articles, hotfixes, and workarounds for reported issues in Microsoft Dynamics AX. You can see which reported issues are in the process of being fixed and see notifications when a hotfix is released for a specific functional area in Microsoft Dynamics AX. You can download released hotfixes, see which code objects are affected, and see the code changes introduced by the hotfix.</td>
-</tr>
-<tr class="even">
-<td>Enter a support ticket with the Microsoft Dynamics AX support team</td>
-<td>Go to the <a href="https://community.dynamics.com/ax/p/support.aspx">Support for Microsoft Dynamics AX</a> page to open a support ticket. The Microsoft Dynamics AX support team can help you resolve technical issues related to:
-<ul>
-<li>Errors when using Lifecycle Services</li>
-<li>Errors when using Microsoft Dynamics AX</li>
-</ul></td>
+<td>In <a href="https://lcs.dynamics.com/">Microsoft Dynamics Lifecycle Services</a>, Issue search is a search engine that you can use to quickly search for KB articles, hotfixes, and workarounds for reported issues in Microsoft Dynamics AX. You can see which reported issues are in the process of being fixed and see notifications when a hotfix is released for a specific functional area in Microsoft Dynamics AX. You can download released hotfixes, see which code objects are affected, and see the code changes introduced by the hotfix.</td>
 </tr>
 </tbody>
 </table>

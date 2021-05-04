@@ -5,7 +5,7 @@ title: Deploy test environments on Azure
 description: This topic provides information about how to deploy a test environment on Microsoft Azure.
 author: kfend
 manager: AnnBe
-ms.date: 10/26/2017
+ms.date: 02/18/2021
 ms.topic: article
 ms.prod: dynamics-ax-2012 
 ms.service: 
@@ -45,7 +45,7 @@ Before you complete the procedures in this article, make sure that the following
 
 
 ## 1. Log on to Lifecycle Services
-Microsoft Dynamics Lifecycle Services provides a cloud-based collaborative workspace that customers and partners can use to manage Microsoft Dynamics AX projects. You’ll use this website to deploy AX 2012 R3 on Azure. Lifecycle Services is available to customers and partners as part of their support plans. You can access it with your CustomerSource or PartnerSource credentials. [Log on to Lifecycle Services](https://lcs.dynamics.com/en/)
+Microsoft Dynamics Lifecycle Services provides a cloud-based collaborative workspace that customers and partners can use to manage Microsoft Dynamics AX projects. You’ll use this website to deploy AX 2012 R3 on Azure. Lifecycle Services is available to customers and partners as part of their support plans. You can access it with your CustomerSource or PartnerSource credentials. [Log on to Lifecycle Services](https://lcs.dynamics.com/)
 
 ## 2. Create a project
 After you log in to Lifecycle Services, open an existing project, or create a new project. Projects are the key organizer of your experience in Lifecycle Services. The methodology associated with a project determines which phases and tasks are included in the project by default.
@@ -234,15 +234,15 @@ Complete the following procedure to deploy a test environment on Azure.
   
     1.  Get the name of your RDS Farm: This can be obtained from the RDS Farm Access link in LCS. In this case, it should be **RdsFarm0c0fa75**.
 
-        [![MachineName](./media/machinename-300x165.png)](./media/machinename.png)
+        [![Get the name of your RDS Farm](machinename.png)](machinename.png)
 
     2.  Get the IP of the Internal Load Balancer from the Cloud Service dashboard in Azure Portal. Inspect the RDS machine that has an internal IP next to port **3389**. In the below example, the Internal Load Balancer IP is 10.1.3.4.
 
-        [![IP address](./media/ip-address-144x300.png)](./media/ip-address.png)
+        [![Get the IP of the Internal Load Balancer from the Cloud Service dashboard in Azure Portal](ip-address.png)](ip-address.png)
 
     3.  Add the RDS Farm as a Computer in your AD, using the information obtained above.
 
-        [![AddToAD](./media/addtoad-300x113.png)](./media/addtoad.png)
+        [![Add the RDS Farm as a Computer in your AD](addtoad.png)](addtoad.png)
 
     Failure to do these steps results in the following error when going through RD Web Access: *Remote Desktop can't find the computer "RdsFarm0c0fa75.contoso.com". This might mean that " RdsFarm0c0fa75.contoso.com" does not belong to the specified network. Verify the computer name and domain that you are trying to connect to.*
 11. To customize virtual network settings, click <strong>Customize virtual network</strong>. Then use the following table to enter information.

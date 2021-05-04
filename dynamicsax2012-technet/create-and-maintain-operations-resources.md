@@ -44,7 +44,7 @@ Operations resources are resources used to complete the production process. Crea
 
 6.  If you select the resource type **Vendor**, in the **Vendor** field on the **General** tab, select the vendor this resource represents. If not, leave this field blank.
 
-7.  If you are using the Human Resources module, and you want to select the resource type **Human resources**, you can then select the worker that this resource represents in the **Send list of products** field on the **General** tab.
+7.  If you are using the Human Resources module, and you want to select the resource type **Human resources**, you can then select the worker that this resource represents in the **Worker** field on the **General** tab.
 
 ## Set up general information for an existing operations resource
 
@@ -58,7 +58,7 @@ Operations resources are resources used to complete the production process. Crea
         
         If you selected some other resource type, leave this field blank.
     
-    2.  If you select the resource type **Human resources**, in the **Send list of products** field, select a worker from the list.
+    2.  If you select the resource type **Human resources**, in the **Worker** field, select a worker from the list.
         
         If you selected some other resource type, leave this field blank.
 

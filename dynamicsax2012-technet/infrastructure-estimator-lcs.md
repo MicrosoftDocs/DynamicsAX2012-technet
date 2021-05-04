@@ -62,12 +62,12 @@ Server roles represent the major components of the Microsoft Dynamics AX environ
 | Help server                   | Required if it is specified in the Deployment details questionnaire of the Usage profiler |
 
 ## Prerequisites
-If you want to create an infrastructure estimate for a production environment, you must first complete a usage profile. For more information, see [Usage profiler in Lifecycle Services (LCS)](usage-profiler-lcs.md). Estimates for development, test, and training environments do not require a completed usage profile.
+If you want to create an infrastructure estimate for a production environment, you must first complete a usage profile. For more information, see [Usage profiler in Lifecycle Services (LCS)](usage-profiler-lifecycle-services-lcs.md). Estimates for development, test, and training environments do not require a completed usage profile.
 
 ## Create an infrastructure estimate
 1.  [Go to Lifecycle Services](https://lcs.dynamics.com).
 2.  On the project home page, click the Infrastructure estimator tile.
-3.  If you need an estimate for a production environment and you haven’t yet completed a usage profile, click the Usage profiler button. For more information, see [Usage profiler in Lifecycle Services (LCS)](usage-profiler-lcs.md).
+3.  If you need an estimate for a production environment and you haven’t yet completed a usage profile, click the Usage profiler button. For more information, see [Usage profiler in Lifecycle Services (LCS)](usage-profiler-lifecycle-services-lcs.md).
 4.  Click New estimate.
 5.  Select the type of environment that you are creating an estimate for.
 6.  Enter a name for the estimate, and select whether the environment will be hosted on premises or in the cloud.
