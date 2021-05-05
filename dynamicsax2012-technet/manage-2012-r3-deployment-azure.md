@@ -59,7 +59,7 @@ If you want to change the size of a virtual machine, complete the following step
 ## How do I print from a virtual machine?
 You can print documents to a local printer when using a virtual machine. The following procedure explains how to connect the virtual machine to your local printer.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Open your project.
 3.  Click **Cloud-hosted environments**. The **Cloud-hosted environments** page is displayed.
 4.  Select an environment.
