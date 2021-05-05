@@ -48,7 +48,7 @@ Complete the following procedure to log on to a virtual machine in you AX 2012 R
 ## How do I change the size of a virtual machine?
 If you want to change the size of a virtual machine, complete the following steps:
 
-1.  Log on to the [Azure management portal](https://manage.windowsazure.com/).
+1.  Log on to the Azure management portal.
 2.  In the navigation pane on the left, click **Virtual Machines**. The **Virtual machines** page is displayed.
 3.  Identify the virtual machine that you want to change the size of by viewing the information in the **Location** column.
 4.  Click the name of the virtual machine. The **&lt;Machine name&gt;** page is displayed.
@@ -82,7 +82,7 @@ You can add (or remove) virtual machines to AX 2012 R3 environments that you’v
 > [!NOTE]
 > The functionality described in this section does not apply to demo environments or environments that were deployed before August 2014.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Open your project.
 3.  Click **Cloud-hosted environments**. The **Cloud-hosted environments** page is displayed.
 4.  Select the environment to which you want to add virtual machines.
@@ -100,7 +100,7 @@ The deployment may take a few hours to complete. When the deployment is done, th
 ## How do I shut down an environment?
 If you want to shut down an AX 2012 R3 environment that you’ve deployed on Azure, complete the following procedure. When you shut down an environment, the environment still exists; however, the virtual machines in the environment are not running. You won’t be charged for the virtual machines when they’re not running.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Select your project.
 3.  Click **Cloud-hosted environments**.
 4.  Select the environment that you want to shut down.
@@ -117,7 +117,7 @@ When the environment has been shut down, the Deployment Status column will displ
 ## How do I restart an environment?
 If you want to restart an AX 2012 R3 environment that has been shut down, complete the following procedure.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Select your project.
 3.  Click **Cloud-hosted environments**.
 4.  Select the environment that you want to restart. This environment will currently have a status of **Stopped** in the **Deployment Status** column.
@@ -147,12 +147,12 @@ To delete a Lifecycle Services project, including all of the Azure artifacts tha
 
 Complete the following procedure to identify the Azure storage account that is associated with the Lifecycle Services project that you want to delete. You won’t delete the storage account in this procedure, but you will identify the GUID of the storage account. This GUID will help you identify other, related Azure artifacts that need to be deleted.
 
-1. Log on to the [Azure management portal](https://manage.windowsazure.com/).
+1. Log on to the Azure management portal.
 2. In the navigation pane on the left, click **Virtual Machines**. The **Virtual machines** page is displayed.
 3. Use the information in the <strong>Name</strong> and <strong>Location</strong> columns to identify a virtual machine that is associated with an AX 2012 R3 environment in the project. There may be multiple virtual machines associated with the project; however, you just need to select one. 
 
     > [!NOTE]
-    > To make sure that you’ve identified an appropriate virtual machine, compare the name that you see on this page with the name of the virtual machine that is listed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lcs.dynamics.com/en/).
+    > To make sure that you’ve identified an appropriate virtual machine, compare the name that you see on this page with the name of the virtual machine that is listed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lcs.dynamics.com).
     
 4. Click the arrow next to the name of the virtual machine.
 5. Click **Dashboard** at the top of the page.
@@ -170,7 +170,7 @@ Complete the following procedure to delete image files. These image files were u
 > [!NOTE]
 > If AX 2012 R3 demo environments were the only type of environments deployed from this project, there may be no image files to delete.
 
-1.  Log on to the [Azure management portal](https://manage.windowsazure.com/).
+1.  Log on to the Azure management portal.
 2.  In the navigation pane on the left, click **Virtual Machines**. The **Virtual machines** page is displayed.
 3.  Click **Images** at the top of the page.
 4.  Sort the list of images by clicking on the **Name** column.
@@ -185,7 +185,7 @@ Complete the following procedure to delete image files. These image files were u
 
 There are several artifacts that get saved to the storage account associated with each Lifecycle Services project. The largest files are *copies* of the VHD files that were used to create the virtual machines for the AX 2012 R3 environments in the Lifecycle Services project. (These are copies of the VHD files that you deleted in the previous procedure.) You can’t delete a storage account if it contains any VHD files. Complete the following procedure to delete VHD files from the storage account.
 
-1.  Log on to the [Azure management portal](https://manage.windowsazure.com/).
+1.  Log on to the Azure management portal.
 2.  In the navigation pane on the left, click **Storage**. The **Storage** page is displayed.
 3.  Identify the storage account that is associated with your project by viewing the information in the **Name** column.
 4.  Click the arrow next to the name of the storage account.
@@ -201,7 +201,7 @@ There are several artifacts that get saved to the storage account associated wit
 
 Complete the following procedure to delete the storage account that is associated with your Lifecycle Services project.
 
-1.  Log on to the [Azure management portal](https://manage.windowsazure.com/).
+1.  Log on to the Azure management portal.
 2.  In the navigation pane on the left, click **Storage**. The **Storage** page is displayed.
 3.  Identify the storage account that is associated with your project by viewing the information in the **Name** column.
 4.  Select the row for the storage account by clicking in the **Status** field of the row.
@@ -221,7 +221,7 @@ Complete the following procedure to delete the management certificate that is as
 
 2.  Double-click the management certificate (.cer) file, and then click **Open**. The **Certificate** window is displayed.
 3.  On the **General** tab, note the name in the **Issued to** field. The certificate is issued to: **DynamicsDeployment\_&lt;GUID&gt;**
-4.  Log on to the [Azure management portal](https://manage.windowsazure.com/).
+4.  Log on to the Azure management portal.
 5.  In the navigation pane on the left, click **Settings**. The **Settings** page is displayed.
 6.  Click **Management Certificates** at the top of the page. A list of certificates is displayed.
 7.  Identify the management certificate that you want to delete by viewing the information in the **Name** column. The name on this page will match the name you identified in step 3.
@@ -231,7 +231,7 @@ Complete the following procedure to delete the management certificate that is as
 
 Complete the following procedure to delete the Lifecycle Services project.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Click **All projects**. The **Project** list page is displayed. 
 
     > [!NOTE]

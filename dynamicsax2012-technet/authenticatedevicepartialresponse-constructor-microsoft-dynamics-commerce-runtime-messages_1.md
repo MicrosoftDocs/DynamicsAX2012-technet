@@ -5,6 +5,7 @@ ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.AuthenticateDevicePar
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.authenticatedevicepartialresponse.authenticatedevicepartialresponse(v=AX.60)
 ms:contentKeyID: 62206241
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -44,7 +44,7 @@ MDM provides several standard features that you can use to tune your MDM impleme
 
 MDM uses the following components to provide functionality:
 
-  - [SQL Server Master Data Services](https://go.microsoft.com/fwlink/?linkid=393133%26clcid=0x409) acts as the central data store, and provides change tracking and conflict detection on the master data records.
+  - [SQL Server Master Data Services](https://go.microsoft.com/fwlink/?linkid=393133) acts as the central data store, and provides change tracking and conflict detection on the master data records.
 
   - The AX 2012 Data Import/Export Framework handles the import and export of updated records between each AX 2012 instance and SQL MDS by using Data Import/Export Framework entities. For more information about the Data Import/Export Framework, see [Data import/export framework user guide (DIXF, DMF)](data-import-export-framework-user-guide-dixf-dmf.md).
 

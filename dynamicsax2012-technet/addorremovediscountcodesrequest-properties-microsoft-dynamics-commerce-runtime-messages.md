@@ -5,6 +5,7 @@ ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.AddOrRemov
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.addorremovediscountcodesrequest_properties(v=AX.60)
 ms:contentKeyID: 65317098
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

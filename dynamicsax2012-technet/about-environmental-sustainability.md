@@ -5,6 +5,7 @@ ms:assetid: 4ee44720-a987-440c-99fe-3bb5914c316b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208774(v=AX.60)
 ms:contentKeyID: 36057061
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -33,7 +34,7 @@ The Environmental sustainability dashboard helps you determine your organization
 
   - Maintain your status as a preferred vendor for customers.
 
-You can use the reporting framework of the [Global Greenhouse Protocol (GHG)](https://go.microsoft.com/fwlink/?linkid=219185%26clcid=0x409) and the [Global Reporting Initiative (GRI)](https://go.microsoft.com/fwlink/?linkid=219186%26clcid=0x409) to help report on the acquisition and emission of multiple types of substances.
+You can use the reporting framework of the [Global Greenhouse Protocol (GHG)](https://go.microsoft.com/fwlink/?linkid=219185) and the [Global Reporting Initiative (GRI)](https://go.microsoft.com/fwlink/?linkid=219186) to help report on the acquisition and emission of multiple types of substances.
 
 The following process flow illustrates the business process for Environmental sustainability.
 

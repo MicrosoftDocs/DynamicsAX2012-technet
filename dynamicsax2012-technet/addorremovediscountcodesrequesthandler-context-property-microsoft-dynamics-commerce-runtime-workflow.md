@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.AddOrRemoveDis
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.addorremovediscountcodesrequesthandler.context(v=AX.60)
 ms:contentKeyID: 65320881
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

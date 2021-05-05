@@ -22,7 +22,7 @@ Before unsolicited vendors can sign up to be considered as potential vendors, th
 
   - Define one or more unsolicited vendor profiles by country/region.
 
-  - Set up the Unsolicited vendor portal. For information about how to set up the Unsolicited vendor portal, see [Checklists for deploying Enterprise Portal sites in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=218011%26clcid=0x409).
+  - Set up the Unsolicited vendor portal. For information about how to set up the Unsolicited vendor portal, see [Checklists for deploying Enterprise Portal sites in Microsoft Dynamics AX 2012](https://go.microsoft.com/fwlink/?linkid=218011).
 
 ## Configure the Signup page for unsolicited vendors
 

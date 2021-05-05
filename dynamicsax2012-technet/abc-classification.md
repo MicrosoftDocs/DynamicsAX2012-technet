@@ -5,6 +5,7 @@ ms:assetid: DynamicsAXGlossary.235256
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.235256(v=AX.60)
 ms:contentKeyID: 36057867
 author: Khairunj
+ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:
@@ -28,7 +29,3 @@ A system for ranking discrete categories of items according to Pareto's 80/20 pr
 [item](item.md)
 
 [Microsoft Dynamics AX glossary](glossary/microsoft-dynamics-ax-glossary.md)
-
-  
-
-

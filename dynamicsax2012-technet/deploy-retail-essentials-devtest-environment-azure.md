@@ -242,12 +242,7 @@ The following sections provide information about how to configure the Azure virt
 
 ### Create a site-to-site VPN connection
 
-To enable corporate users to access resources on the virtual machines in the Azure virtual network, you’ll need to create a site-to-site VPN connection between the Azure virtual network and your on-premises, corporate network. For information about how to do this, see:
-
--   [Virtual network overview](https://msdn.microsoft.com/library/windowsazure/jj156007.aspx)
--   [Virtual network configuration tasks](https://msdn.microsoft.com/library/jj156206.aspx)
--   [Site-to-site VPN in Azure virtual network using Windows Server 2012 Routing and Remote Access Service (RRAS)](https://msdn.microsoft.com/library/dn636917.aspx)
--   [Configure a virtual network gateway in the management portal](https://msdn.microsoft.com/library/azure/jj156210.aspx)
+To enable corporate users to access resources on the virtual machines in the Azure virtual network, you’ll need to create a site-to-site VPN connection between the Azure virtual network and your on-premises, corporate network. For information, see the Azure documentation.
 
 ### Create a domain trust
 
@@ -279,10 +274,10 @@ The following table lists the default names of the domain accounts that were cre
 | <DomainName>BCProxyUser         | The account used as the Business Connector proxy.                                                                     |
 
 > [!NOTE]
-> The passwords are displayed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lifecycleservices.dynamics.com/en/).
+> The passwords are displayed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lcs.dynamics.com).
 
 ### Local administrator accounts
 
-Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lifecycleservices.dynamics.com/en/).
+Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lcs.dynamics.com).
 
 

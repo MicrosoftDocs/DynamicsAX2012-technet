@@ -5,6 +5,7 @@ ms:assetid: 689d14ed-f580-4d41-ac9c-08a880403c40
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720445(v=AX.60)
 ms:contentKeyID: 62224152
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---
@@ -100,7 +101,7 @@ To add an existing entity to MDM, follow these steps.
 
 To create a custom entity and add it to MDM, follow these steps.
 
-1.  Create a custom Data Import/Export Framework entity for the table that contains the data to manage. For instructions, see the section of [Create a custom target entity for the Data Import/Export Framework](https://go.microsoft.com/fwlink/?linkid=394382%26clcid=0x409) that describe how to add an entity by using the data import/export wizard. When the wizard is completed, you are prompted one or more times to add a field to the current table, based on the EDT relation. Click **Yes** for each prompt.
+1.  Create a custom Data Import/Export Framework entity for the table that contains the data to manage. For instructions, see the section of [Create a custom target entity for the Data Import/Export Framework](https://go.microsoft.com/fwlink/?linkid=394382) that describe how to add an entity by using the data import/export wizard. When the wizard is completed, you are prompted one or more times to add a field to the current table, based on the EDT relation. Click **Yes** for each prompt.
 
 2.  In the **Project** form that opens for the new entity, add a change tracking query for the entity:
     

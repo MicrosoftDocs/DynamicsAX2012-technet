@@ -16,7 +16,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Featu
 
 This topic provides information that can help you troubleshoot issues that you may encounter when you deploy Microsoft Dynamics AX reports.
 
-For more information about how to troubleshoot Microsoft SQL Server Reporting Services reports, see [Troubleshooting Report Problems](https://go.microsoft.com/fwlink/?linkid=200936%26clcid=0x409) in the SQL Server documentation.
+For more information about how to troubleshoot Microsoft SQL Server Reporting Services reports, see [Troubleshooting Report Problems](https://go.microsoft.com/fwlink/?linkid=200936) in the SQL Server documentation.
 
 ## Why won’t my report deploy?
 

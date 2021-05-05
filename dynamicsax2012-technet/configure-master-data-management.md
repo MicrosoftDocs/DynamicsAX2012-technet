@@ -200,7 +200,7 @@ To filter data during a pull operation from the SQL MDS hub to an AX 2012 spoke,
 
 5.  Expand the database and then the **Views** folder. Then select the view that you just created in the SQL MDS web application. If you do not see this view, refresh the **Views** folder.
 
-6.  Right-click the view, and then click **Design**. Use the SQL Server query tools to modify the view until it returns the data set that you want. For more information about how to modify views, see [Modify Views](https://go.microsoft.com/fwlink/?linkid=394376%26clcid=0x409).
+6.  Right-click the view, and then click **Design**. Use the SQL Server query tools to modify the view until it returns the data set that you want. For more information about how to modify views, see [Modify Views](https://go.microsoft.com/fwlink/?linkid=394376).
 
 7.  Open a new query window, and run the command SELECT \* from \<View Name\>. Review the results to verify that your view returns the data that you expect.
 

@@ -174,7 +174,7 @@ Back to top
 
 ## Find related tasks
 
-[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](https://go.microsoft.com/fwlink/?linkid=268038%26clcid=0x409)
+[Microsoft Dynamics AX 2012 R2 – Resource scheduling in Project management and accounting](https://go.microsoft.com/fwlink/?linkid=268038)
 
 [Key tasks: Assign workers to projects based on availability](key-tasks-assign-workers-to-projects-based-on-availability.md)
 

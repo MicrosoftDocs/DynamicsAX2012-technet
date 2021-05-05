@@ -5,6 +5,7 @@ ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.AddressDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/JJ797466(v=AX.60)
 ms:contentKeyID: 49827736
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

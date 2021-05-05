@@ -5,6 +5,7 @@ ms:assetid: 178a6faa-1700-45a5-a29b-e411cfce4cfb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271459(v=AX.60)
 ms:contentKeyID: 36384091
 author: Khairunj
+ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User
@@ -26,7 +27,7 @@ The topic in this section includes information about administration options in E
 
 ## Help for Enterprise Portal administrators
 
-Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](https://go.microsoft.com/fwlink/?linkid=201018%26clcid=0x409).
+Information about how to setup, configure, maintain, and troubleshoot Enterprise Portal and Role Center is available on [TechNet](https://go.microsoft.com/fwlink/?linkid=201018).
 
 ## Help for developers
 

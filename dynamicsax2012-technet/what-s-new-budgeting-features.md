@@ -821,7 +821,7 @@ Budgeting and budget control has changed considerably since AX 2009. AX 2012 inc
 
 ## More information
 
-For more information about budgeting and budget control, see the white papers [Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213130%26clcid=0x409) and [Implementing Budgeting for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213129%26clcid=0x409).
+For more information about budgeting and budget control, see the white papers [Implementing the Budget Control Framework for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213130) and [Implementing Budgeting for Microsoft Dynamics AX 2012 Applications](https://go.microsoft.com/fwlink/?linkid=213129).
 
 ## More about budget planning in AX 2012 R2
 
@@ -1435,11 +1435,11 @@ This feature was not available in AX 2009. AX 2012 R2 includes the following maj
 
 For more detailed information about budget planning, see the following white papers:
 
-  - [Configuring budget planning for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272634%26clcid=0x409)
+  - [Configuring budget planning for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272634)
 
-  - [Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272873%26clcid=0x409)
+  - [Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272873)
 
-  - [Strategies for using the Budget planning analysis data cube in Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272948%26clcid=0x409)
+  - [Strategies for using the Budget planning analysis data cube in Microsoft Dynamics AX 2012 R2](https://go.microsoft.com/fwlink/?linkid=272948)
 
   
 

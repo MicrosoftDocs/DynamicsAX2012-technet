@@ -5,6 +5,7 @@ ms:assetid: 6be5dc9c-154d-487f-8037-0a2b1c55ff6e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg840969(v=AX.60)
 ms:contentKeyID: 35244796
 author: Khairunj
+ms.author: daxcpft
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---
@@ -94,7 +95,7 @@ In earlier versions of Microsoft Dynamics AX 2012: the XML declaration was omitt
 
 For example, in AX 2012 R3 if you do not specify a value for the omit-xml-declaration attribute, the default value No is used and the XML declaration is included in the output document.
 
-For more information about the XSLT elements, including the [xsl:output element](https://go.microsoft.com/fwlink/?linkid=393920%26clcid=0x409), see [XSLT Elements](https://go.microsoft.com/fwlink/?linkid=393918%26clcid=0x409).
+For more information about the XSLT elements, including the [xsl:output element](https://go.microsoft.com/fwlink/?linkid=393920), see [XSLT Elements](https://go.microsoft.com/fwlink/?linkid=393918).
 
 ## See also
 
