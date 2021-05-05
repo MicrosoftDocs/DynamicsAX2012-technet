@@ -59,7 +59,7 @@ If you want to change the size of a virtual machine, complete the following step
 ## How do I print from a virtual machine?
 You can print documents to a local printer when using a virtual machine. The following procedure explains how to connect the virtual machine to your local printer.
 
-1.  Log on to [Lifecycle Services](https://lcs.dynamics.com/en/).
+1.  Log on to [Lifecycle Services](https://lcs.dynamics.com).
 2.  Open your project.
 3.  Click **Cloud-hosted environments**. The **Cloud-hosted environments** page is displayed.
 4.  Select an environment.
@@ -247,5 +247,5 @@ Test and high availability environments utilize Azure Internal Load Balancer (IL
 If you want users to use Remote Desktop via tunneled access to the Azure Virtual Network, you will need to configure Remote Desktop Services (RDS) in your deployment to enable it. When RDS is deployed by using Lifecycle Services, an Azure Internal Load Balancer endpoint is created for the RDS Connection Broker VMs deployed.
 
 1.  The Azure Internal Load Balancer endpoint created by Lifecycle Services can be found in the details pane of the Cloud-Hosted Environments page in Lifecycle Services. Specifically, it is the endpoint domain specified by the link “RDS Farm Access”. It will appear like this: RDSFarm\#\#\#\#\#.domain.com
-2.  Obtain the IP address created for this domain by opening [https://manage.windowsazure.com](https://manage.windowsazure.com/) in a browser and logging into your subscription. Open **Cloud Services** and click the Cloud Service name associated with the RDS machines. Locate the RDS\* VM IP that is an internal IP (eg. 10.1.3.4) with port 3389. This is the IP of the Azure Internal Load Balancer associated with the RDSFarm\#\#\#.domain.com address.
+2.  Obtain the IP address created for this domain by opening the Azure portal in a browser and logging into your subscription. Open **Cloud Services** and click the Cloud Service name associated with the RDS machines. Locate the RDS\* VM IP that is an internal IP (eg. 10.1.3.4) with port 3389. This is the IP of the Azure Internal Load Balancer associated with the RDSFarm\#\#\#.domain.com address.
 3.  Set up the appropriate routing and DNS entries for your users on the corporate network to reach that domain name/IP/load balancer. Once that is done, the users will be able to use Remote Desktop access from the corporate network.
