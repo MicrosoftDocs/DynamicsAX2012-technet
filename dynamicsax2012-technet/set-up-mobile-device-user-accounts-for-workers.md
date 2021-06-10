@@ -36,7 +36,7 @@ This procedure describes how to set up a user account for a warehouse worker to 
 
 To set up a worker as a work user, follow these steps:
 
-1.  Click **Warehouse management** \> **Setup** \> **Work users** \> **Worker**.
+1.  Click **Warehouse management** \> **Setup** \> **Worker**.
 
 2.  In the **Worker** column, select the worker, or click **New** to create a new work user.
 
