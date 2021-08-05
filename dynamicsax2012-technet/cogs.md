@@ -13,7 +13,7 @@ f1_keywords:
 
 # COGS
 
-An accounting category used to sum the financial consequences of manufacturing products and carrying inventory.
+Cost of goods sold (COGS). An accounting category used to sum the financial consequences of manufacturing products and carrying inventory.
 
 ## See also
 
