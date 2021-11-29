@@ -14,6 +14,9 @@ dev_langs:
 # How to: Create a New Model from the Command Line 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create an empty model that has default properties. Alternatively, you can create an XML manifest file that specifies the properties of a model, and then create a model by using the manifest file.

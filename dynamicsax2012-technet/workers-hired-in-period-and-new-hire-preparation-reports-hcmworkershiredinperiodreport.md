@@ -14,6 +14,9 @@ f1_keywords:
 # Workers hired in period and New hire preparation reports (HcmWorkersHiredInPeriodReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are two versions of the report that you can use to create a list of recently hired workers: **Workers hired in period** and **New hire preparation**.

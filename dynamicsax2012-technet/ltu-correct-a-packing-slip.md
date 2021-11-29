@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Correct a packing slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If a packing slip document is incorrect, you must create a reverse transfer order, change the document status, and reset its dependence to the packing slip register.

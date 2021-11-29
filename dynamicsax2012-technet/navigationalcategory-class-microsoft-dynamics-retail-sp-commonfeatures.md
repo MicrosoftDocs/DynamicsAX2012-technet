@@ -17,6 +17,9 @@ dev_langs:
 
 # NavigationalCategory Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents Navigational Category.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

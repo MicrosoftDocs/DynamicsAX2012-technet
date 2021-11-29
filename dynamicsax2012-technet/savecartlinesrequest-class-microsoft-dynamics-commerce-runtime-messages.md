@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveCartLinesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the request for create, update, delete or void operations on the cart line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

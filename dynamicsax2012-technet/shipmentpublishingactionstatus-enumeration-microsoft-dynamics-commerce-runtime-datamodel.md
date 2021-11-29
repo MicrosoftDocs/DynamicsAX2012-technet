@@ -21,6 +21,9 @@ dev_langs:
 
 # ShipmentPublishingActionStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Possible publishing status for a shipment.
 
 This enumeration has a [FlagsAttribute](https://technet.microsoft.com/library/dk06fkbc\(v=ax.60\)) attribute that allows a bitwise combination of its member values.

@@ -17,6 +17,9 @@ dev_langs:
 
 # BuildExceptionTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Builds exception types.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

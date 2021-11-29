@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseProvider Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database provider that can perform database operations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

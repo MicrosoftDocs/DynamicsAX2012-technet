@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Aging analysis of receivable payment (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays a customer’s payment aging details, including prepayment and payments that were made during various periods.

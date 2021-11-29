@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplicationFramework Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the application framework.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

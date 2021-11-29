@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesLineId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales line identifier that the delivery preference type applies to.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

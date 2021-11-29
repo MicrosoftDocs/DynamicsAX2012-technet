@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enter parameters for Retail Scheduler (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail scheduler manages communications between Retail essentials and stores. Use the **Retail scheduler parameters** form to configure Retail scheduler. This topic explains how to set up the parameters for Retail scheduler.

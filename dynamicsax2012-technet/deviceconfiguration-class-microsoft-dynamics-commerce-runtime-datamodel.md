@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The device configuration entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeserializeObjectDataContractFromByteArray(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deserializes byte array into object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

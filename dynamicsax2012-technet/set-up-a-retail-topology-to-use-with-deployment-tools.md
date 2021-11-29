@@ -35,6 +35,9 @@ f1_keywords:
 # Set up a Retail topology to use with deployment tools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Before you can use deployment tools to mass deploy retail components, you must enter information about the topology of the retail environment in Microsoft Dynamics AX. You’ll also specify settings for each component that will be deployed.
 
 > [!NOTE]

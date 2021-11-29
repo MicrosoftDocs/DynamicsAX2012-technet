@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use Retail Modern POS in offline mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 A Retail Modern POS device will go offline if the system is temporarily down or if the channel database is unavailable. When the connection with the channel database is lost, the POS automatically switches to the offline database.
 
 If a data request does not succeed within the **Timeout interval** configured in the offline profile, Retail Modern POS will automatically switch to the offline database and continue the sales transaction.

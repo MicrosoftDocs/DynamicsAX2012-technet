@@ -23,6 +23,9 @@ ms.search.region: Global
 # About consolidated batch orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In process manufacturing, you use consolidated batch orders to group one or multiple batch orders that produce a bulk item and one or multiple packed items. A bulk item is a parent item, and a packed item is a child item. The packed items can be packaged in a single container or else in multiple containers that are considered as one unit. When you consolidate orders, you can view all of the related batch orders in a single form to help you determine any remaining work that must be completed.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create absence journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Absence journals contain absence registrations for a specific worker for a specific period of time. Before you can register an absence for a worker, you must create an absence journal for the worker.

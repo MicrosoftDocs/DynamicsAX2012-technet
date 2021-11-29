@@ -17,6 +17,9 @@ dev_langs:
 
 # NotAllLinesSaved Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that not all lines could be saved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

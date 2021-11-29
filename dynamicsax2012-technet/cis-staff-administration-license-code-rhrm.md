@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # CIS staff administration license code (RHRM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **CIS Staff administration** license code and all configuration keys for the license code have been deprecated in Microsoft Dynamics AX 2012.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # base
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A mathematical object that is the basis for a derivation, system, or formulation.
 
 ## See also

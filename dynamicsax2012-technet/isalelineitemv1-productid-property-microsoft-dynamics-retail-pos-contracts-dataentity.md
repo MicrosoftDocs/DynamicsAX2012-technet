@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 RecId for the EcoResProduct table
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

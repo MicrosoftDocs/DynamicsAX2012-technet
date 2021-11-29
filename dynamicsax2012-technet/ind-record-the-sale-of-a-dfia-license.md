@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Record the sale of a DFIA license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to record a Duty Free Import Authorization (DFIA) that was sold on the open market.

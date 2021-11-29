@@ -17,6 +17,9 @@ dev_langs:
 
 # VisaAuthCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The contract number used for Visa.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

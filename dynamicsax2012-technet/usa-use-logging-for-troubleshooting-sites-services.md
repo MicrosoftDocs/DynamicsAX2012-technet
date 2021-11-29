@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Use logging for troubleshooting Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can turn on operation logging when you want to troubleshoot problems with Sites Services for Microsoft Dynamics ERP. Logging creates a log file that lists all requests from Microsoft Dynamics AX to Sites Services. Enable logging for troubleshooting only, because logging adversely affects performance. Always turn logging off after troubleshooting.

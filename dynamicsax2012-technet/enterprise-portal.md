@@ -13,6 +13,9 @@ f1_keywords:
 
 # enterprise portal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A Web site that provides a single point of entry for internal and external users of an organization to access a wide variety of business information.
 
 ## See also

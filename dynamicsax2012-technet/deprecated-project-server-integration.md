@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Project Server integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Support for Microsoft Project Server integration is being deprecated in Microsoft Dynamics AX 2012 R3. This feature was released in earlier versions of Microsoft Dynamics AX to provide out-of-box integration between **Project management and accounting** in Microsoft Dynamics AX and Project Server.

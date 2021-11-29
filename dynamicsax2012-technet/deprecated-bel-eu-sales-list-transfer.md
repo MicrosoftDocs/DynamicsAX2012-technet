@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BEL) EU sales list transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, there are two European Union (EU) sales list transfers, the standard EU sales list transfer and a separate EU sales list transfer for Belgium. The second of these EU sales list transfers is a country/region-specific function that enables the transfer of information to the EU sales list form based on tax information.

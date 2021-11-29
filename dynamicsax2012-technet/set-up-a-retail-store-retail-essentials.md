@@ -16,6 +16,9 @@ f1_keywords:
 # Set up a retail store (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a retail store. In Retail essentials, a retail (brick-and-mortar) store is considered a type of warehouse. In the following procedure, you first create a warehouse and define it as a store. You then create a new store and assign the warehouse to it.

@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) About updates to fiscal document types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can specify the type of fiscal document that is used in sales and purchase transactions between fiscal establishments. The fiscal document type defines the number sequence, series, document model, specie, and layout of the fiscal documents.

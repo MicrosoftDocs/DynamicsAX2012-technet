@@ -17,6 +17,9 @@ ms.search.region: Global
 # Define budget cycles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Budget cycle time spans** form to specify the fiscal year or the number of periods for the budget cycles that are associated with the budget cycle time span. Budget cycle time spans are associated with fiscal calendars to determine the length of each budget cycle.

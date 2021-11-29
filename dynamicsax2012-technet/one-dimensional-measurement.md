@@ -13,6 +13,9 @@ f1_keywords:
 
 # one-dimensional measurement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A measurement with a single characterization of the magnitude or extent of the property of an object.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ConfirmNumber Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ConfirmNumber](confirmnumber-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Methods

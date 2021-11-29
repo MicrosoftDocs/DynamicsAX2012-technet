@@ -17,6 +17,9 @@ dev_langs:
 
 # PreCustomerClear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before a customer has been cleared from the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

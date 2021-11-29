@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a project contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using a project contract, you can invoice one or several projects at the same time. The project contract also helps make sure that a uniform invoicing procedure is applied for each subproject in a project structure. Each project that will be invoiced must be associated with a project contract. Settings for a project contract apply to all projects and subprojects that are associated with the project contract.

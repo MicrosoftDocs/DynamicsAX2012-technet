@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create goal headings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can set goals for workers, you must set up one or more goal headings. Use goal headings to categorize goals. For example, if you set yearly goals, the goal heading for a goal might be the year in which the person is to achieve the goal.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsStoreCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Whether or not a given TaxCode is in the Store Currency
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

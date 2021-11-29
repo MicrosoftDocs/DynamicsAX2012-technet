@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartMapper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartMapper](shoppingcartmapper-class-microsoft-dynamics-retail-ecommerce-sdk-core-mappers.md) type exposes the following members.
 
 ## Methods

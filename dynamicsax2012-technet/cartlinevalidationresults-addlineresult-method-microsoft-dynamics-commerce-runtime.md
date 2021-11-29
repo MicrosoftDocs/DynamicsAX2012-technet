@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLineResult Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a result for the given cart line index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

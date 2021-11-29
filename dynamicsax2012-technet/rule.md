@@ -13,6 +13,9 @@ f1_keywords:
 
 # rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A condition-action pair that prescribes the action taken when the condition is met.
 
 ## See also

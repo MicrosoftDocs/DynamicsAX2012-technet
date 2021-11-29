@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Calling an External Web Service from X++ 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Bing ™ Search service API to include search functionality in your Microsoft Dynamics AX application. You use the Application ID from Bing to create a service reference in a project in Visual Studio and then add the project to the AOT. Then you call the search service from X++ with a search string to view the search results. The example in this topic issues a search request and returns the results that are shown in an **Infolog** window.

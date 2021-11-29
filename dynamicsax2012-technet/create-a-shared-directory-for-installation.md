@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a shared directory for installation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you install Microsoft Dynamics AX and subsequent cumulative updates, we recommend that you create a shared directory on a file server. Then copy the contents of the Microsoft Dynamics AX DVD and the updates to this network location. Perform all installations from this network location instead of the DVD.

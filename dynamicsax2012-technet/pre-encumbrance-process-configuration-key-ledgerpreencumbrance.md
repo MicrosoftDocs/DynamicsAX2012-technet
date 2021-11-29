@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Pre-encumbrance process configuration key (LedgerPreEncumbrance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Pre-encumbrance process** configuration key controls access to the pre-encumbrance functions.

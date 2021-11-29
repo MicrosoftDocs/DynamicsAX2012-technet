@@ -22,6 +22,9 @@ ms.search.region: Global
 # Attach documents, notes, or URLs to records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Attachments** page to attach documents, notes, or URLs to records.

@@ -18,6 +18,9 @@ ms.search.region: Belgium
 # (BEL) Transfer vendor invoice transactions and generate an Intrastat declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can transfer vendor invoice transactions and generate an Intrastat declaration, you must create and post vendor invoices from invoice journals or invoice registers that contain Intrastat information for your vendors. For more information, see [(BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information](bel-create-and-post-a-vendor-invoice-journal-and-a-vendor-register-with-intrastat-information.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemInfo Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ItemInfo](iteminfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

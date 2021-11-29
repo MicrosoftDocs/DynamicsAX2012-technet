@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing the Tax Framework for Sales (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes common patterns for implementing sales tax. It includes descriptions of committed sales tax data model changes, tax API changes, and patterns for uncommitted sales taxes.

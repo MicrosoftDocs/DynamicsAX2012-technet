@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Create and export the Model 770 report as an ASCII file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Withholding tax - Model 770** form to generate the Model 770 report and export the information to an ASCII file to submit to the tax authorities. The Model 770 report is an annual report that provides information about the taxes that are withheld by a company when the company pays contractors and self-employed vendors. The name of the ASCII file must be \[company fiscal code\] 77S\[YY\].77s, where YY is the last two digits of the filing year.

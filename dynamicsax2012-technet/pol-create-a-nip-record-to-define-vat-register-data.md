@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create a NIP record to define VAT register data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The NIP table holds data about vendors or customers that you do business with only one time, and that do not have accounts with your legal entity. This data includes customer or vendor names, identification codes, addresses, and tax exempt numbers. For customers and vendors that you regularly do business with, this data is drawn from account records. You can use the data that is added to the NIP table when you have to post sales tax but do not know the vendor or customer account, or when the data in the value-added tax (VAT) register is different from the data that is assigned to the vendor or customer account.

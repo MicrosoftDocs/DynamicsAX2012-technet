@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About storno transactions in transfer orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a transfer order to ship items from the source warehouse and receive them at the destination warehouse.

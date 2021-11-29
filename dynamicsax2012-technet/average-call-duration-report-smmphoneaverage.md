@@ -15,6 +15,9 @@ f1_keywords:
 # Average call duration report (smmPhoneAverage) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the average telephone call length per day for inbound and outbound calls for a worker.

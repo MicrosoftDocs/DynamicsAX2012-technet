@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UseExistingShiftRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Properties
 
 <table>

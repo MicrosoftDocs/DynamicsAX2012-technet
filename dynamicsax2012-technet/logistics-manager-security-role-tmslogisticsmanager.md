@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Logistics manager security role (TMSLogisticsManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Logistics manager security role represents a user who sets up, maintains, and configures the network planning that is used in transportation management processes.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetFactorForQuantity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the factor for quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

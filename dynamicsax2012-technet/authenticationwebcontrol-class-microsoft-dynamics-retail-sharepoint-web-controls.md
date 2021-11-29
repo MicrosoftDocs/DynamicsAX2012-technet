@@ -18,6 +18,9 @@ dev_langs:
 
 # AuthenticationWebControl Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The base web control containing authentication logic for all Retail web controls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

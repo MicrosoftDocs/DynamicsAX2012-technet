@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Working with fiscal books for incoming and outgoing transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section describe how to create and prepare tax assessments for sales and purchases. They also describe how to pay, declare, and adjust taxes, and how to prepare monthly reports for tax authorities.

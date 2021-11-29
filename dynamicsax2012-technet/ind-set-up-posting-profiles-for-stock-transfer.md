@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up posting profiles for stock transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Posting** form to set up ledger account numbers for the automatic ledger transactions that are generated for receipt transactions and issue transactions in inventory. On the **Transfer order** tab, you can set up the account numbers for posting the items or item groups.

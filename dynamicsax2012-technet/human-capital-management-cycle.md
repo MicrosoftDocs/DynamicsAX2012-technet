@@ -13,6 +13,9 @@ f1_keywords:
 
 # human capital management cycle
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A recurring set of recruitment, hiring, training, compensation, and performance evaluation activities performed by parties that compensate employees and contractors in exchange for services.
 
 ## See also

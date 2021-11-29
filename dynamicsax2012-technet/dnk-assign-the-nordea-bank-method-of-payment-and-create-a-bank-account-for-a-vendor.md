@@ -14,6 +14,9 @@ ms.search.region: Denmark
 # (DNK) Assign the Nordea Bank method of payment and create a bank account for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Vendors** form to set up a method of payment that uses the **Nordea Unitel for PC (DK)** file format for a vendor. Use the **Vendor bank accounts** form to set up the four-digit routing number and text code for a vendor bank account.

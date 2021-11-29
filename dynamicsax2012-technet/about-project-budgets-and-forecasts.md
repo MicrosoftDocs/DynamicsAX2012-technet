@@ -21,6 +21,9 @@ ms.search.region: Global
 # About project budgets and forecasts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides two ways to manage and control your projects: project forecasts and project budgets.

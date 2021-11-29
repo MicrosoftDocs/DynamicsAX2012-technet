@@ -13,6 +13,9 @@ f1_keywords:
 
 # derived table
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A table that assumes a child role when it participates in an inheritance relationship with another table.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Best Practices for Designing Reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This section provides best practices and guidance for creating Microsoft Dynamics AX reports, including how to make a sequence of decisions on the data access, controls, and design for the report.

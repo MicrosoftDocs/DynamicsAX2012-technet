@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDiscountTriggerV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDiscountTriggerV1](idiscounttriggerv1-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

@@ -25,6 +25,9 @@ ms.search.region: Global
 # Set up footer text for documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have to print a single line of identifying text at the bottom of source documents such as sales orders and purchase orders, you can use print management. This text is known as footer text. For example, you can specify footer text of "Customer Copy" for a sales order invoice. You can also set up footer text in other languages. For example, you can specify that the French language equivalent of the footer text, "Copy De Client," be printed when the sales order invoice is printed in French.

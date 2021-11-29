@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FeatureNotSupportedRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FeatureNotSupportedRequestHandler](featurenotsupportedrequesthandler-class-microsoft-dynamics-commerce-runtime-services-windowsphone.md) type exposes the following members.
 
 ## Properties

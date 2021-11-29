@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cost accountant security role (InventCostAccountant) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Cost accountant security role represents a user who documents and responds to costs, inventory valuations, and cost accounting events and inquiries.

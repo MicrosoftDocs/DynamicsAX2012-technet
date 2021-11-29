@@ -18,6 +18,9 @@ ms.search.region: Global
 # Modify or delete a project timesheet 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to modify or delete a timesheet in Microsoft Dynamics AX 2012. You can delete or modify a timesheet only if it hasn’t been submitted.

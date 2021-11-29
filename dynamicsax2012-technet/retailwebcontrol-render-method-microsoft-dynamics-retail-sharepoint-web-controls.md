@@ -17,6 +17,9 @@ dev_langs:
 
 # Render Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Renders the basic web control wrapper with the default container and an animation div.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # authorize
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To sanction the future occurrence of an event in a system.
 
 ## See also

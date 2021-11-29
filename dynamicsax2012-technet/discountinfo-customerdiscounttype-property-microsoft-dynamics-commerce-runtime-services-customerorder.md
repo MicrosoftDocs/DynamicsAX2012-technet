@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the customer dicount type.
 
 Maps to enum RetailCustomerDiscountType in AX.

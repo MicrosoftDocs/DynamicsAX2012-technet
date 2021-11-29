@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Applying U.S. sales tax and use tax rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the U.S., you must pay use tax on purchases if sales tax is not applied. (We recommend that you review IRS rule changes for the applicable tax year for up-to-date information about U.S. tax rules.) To track use taxes as they accrue, set up an appropriate offset account, and then select the offset account in the **Use tax payable** field in the **Ledger posting groups** form.

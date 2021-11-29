@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up fixed asset parameters for vehicles and realty 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Fixed asset parameters** form to set up parameters for fixed assets of type **Realty** or **Vehicle**. You can also select the method to be used to determine the starting date used to calculate depreciation.

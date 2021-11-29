@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Production Floor app for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 With the Microsoft Dynamics AX Production Floor app, you can quickly perform daily production tasks, such as:

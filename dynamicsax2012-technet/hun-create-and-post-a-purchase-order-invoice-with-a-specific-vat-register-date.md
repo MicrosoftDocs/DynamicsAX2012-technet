@@ -17,6 +17,9 @@ ms.search.region: Hungary
 # (HUN) Create and post a purchase order invoice with a specific VAT register date 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you post a vendor invoice, you can select a date for reporting value-added tax (VAT) that differs from the date of the transaction. Use this procedure to create and post a purchase order that has a specific VAT register date.

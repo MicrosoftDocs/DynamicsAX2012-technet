@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Protecting Microsoft Dynamics AX environments with System Center 2012 Data Protection Manager (DPM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Volume Shadow Copy Service (VSS) makes it easier to back up Microsoft server solutions by using a centralized API. As of cumulative update 7, Microsoft Dynamics AX 2012 R2 includes a VSS writer (the AX VSS writer) that is integrated with the Windows VSS backup framework. Therefore, Microsoft System Center 2012 Data Protection Manager (DPM) can back up and restore AX 2012 R2 data, configuration information for Microsoft SQL Server Analysis Services, and connections, reports, and report definitions for Microsoft SQL Server Reporting Services. After recovery, DPM restores the business, model, Reporting Services, and Analysis Services databases. DPM also connects Microsoft Dynamics AX Application Object Server (AOS), restores Analysis Services and Reporting Services connections, and redeploys reports.

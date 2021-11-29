@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enable interunit accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Interunit accounting is the requirement that you generate a balanced balance sheet for a specific financial dimension. Therefore, all accounting entries that are made to General ledger must be balanced for the values of the financial dimension. This financial dimension is referred to as the balancing financial dimension.

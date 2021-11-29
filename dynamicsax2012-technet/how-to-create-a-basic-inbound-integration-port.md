@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Basic Inbound Integration Port 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic shows you how to create a basic inbound integration port for a service. Use a basic port to test the operation of a custom service that does not require any data processing or exposure to the Internet.

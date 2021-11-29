@@ -14,6 +14,9 @@ f1_keywords:
 # Sales tax specification report (SalesTaxByCustomer) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Prepare a report that shows, for each customer account, the sales tax amounts on all posted invoices, and the total sales tax amount. This report also displays the sales tax direction, such as sales tax payable.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # STSFormBasedAuthWebConfigDeactivationJob Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [STSFormBasedAuthWebConfigDeactivationJob](stsformbasedauthwebconfigdeactivationjob-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Methods

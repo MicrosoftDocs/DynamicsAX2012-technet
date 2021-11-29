@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MiniCart Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MiniCart](minicart-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Methods

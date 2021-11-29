@@ -14,6 +14,9 @@ f1_keywords:
 # Project I configuration key (ProjBasic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Project I** configuration key controls access to the basic forms and functions in the **Project management and accounting** module.

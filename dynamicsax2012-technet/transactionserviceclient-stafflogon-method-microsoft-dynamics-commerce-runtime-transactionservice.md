@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffLogOn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Logs the specified user on.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

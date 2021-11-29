@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedVariants Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the properties of the variants of the master product, indexed by the variant id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

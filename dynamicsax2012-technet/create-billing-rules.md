@@ -28,6 +28,9 @@ ms.search.region: Global
 # Create billing rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to set up billing rules that are used to automatically calculate the timing and amount of customer invoices for a project. Billing rules are based on the project terms that are specified in the project contract. The billing rules that you can create depend on the terms of the project contract and the project type, such as Time and material or Fixed-price, that you associate with the billing rule.

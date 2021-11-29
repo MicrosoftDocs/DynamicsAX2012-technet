@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Setting up and maintaining Commerce Services for Microsoft Dynamics ERP 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about Commerce Services for Microsoft Dynamics ERP and about how to set up and maintain a Commerce Services account. For information about working with Commerce Services, see [(USA) Sell products online with Commerce Services](usa-sell-products-online-with-commerce-services.md).

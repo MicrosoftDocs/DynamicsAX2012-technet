@@ -19,6 +19,9 @@ ms.search.region: Global
 # Check out products and create a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create an order for items and services that you have added to your shopping cart, select the items in the cart. You can then either create a new order or add the items to an existing order. When the order is created, the selected line items are removed from the shopping cart.

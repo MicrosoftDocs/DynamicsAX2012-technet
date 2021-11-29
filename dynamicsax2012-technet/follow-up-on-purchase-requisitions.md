@@ -14,6 +14,9 @@ ms.search.region: Global
 # Follow up on purchase requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to follow up on purchase requisitions. You can follow up on your own purchase requisitions and on purchase requisitions that were created by users who report to you directly or indirectly.

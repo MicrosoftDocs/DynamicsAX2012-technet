@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up an item withholding tax group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to attach withholding tax codes that are created for Brazilian withholding tax types to item withholding tax groups. For more information, see [(BRA) About calculation of taxes](bra-about-calculation-of-taxes.md).

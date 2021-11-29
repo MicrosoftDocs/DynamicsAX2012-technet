@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Specify inclusive or exclusive tax (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up inclusive taxes and exclusive taxes in Retail essentials. Inclusive taxes, for example value-added tax (VAT), are included in product prices. Exclusive taxes, for example sales taxes, are not included in product prices. You can specify settings for inclusive tax and exclusive tax for each customer. You can also specify settings for each store. When tax is calculated, the settings that are specified for a customer override the settings that are specified for a store.

@@ -17,6 +17,9 @@ dev_langs:
 
 # AssertPropertyNotChanged(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks whether the property has changed from the value present in the newEntity compared against the value in the existing entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

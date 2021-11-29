@@ -17,6 +17,9 @@ dev_langs:
 
 # Open Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Opens the connection on the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

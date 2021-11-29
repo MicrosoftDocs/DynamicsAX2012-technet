@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a rework batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a rework batch order. You can create a rework batch order for any finished formula item. There should be sufficient on-hand inventory (including any catch weight inventory) to fill the order. You must manually reserve this inventory before you run estimation.

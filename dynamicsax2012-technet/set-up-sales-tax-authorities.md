@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up sales tax authorities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create as many sales tax authorities as you need, and each can have specific address and contact information and a report layout. Your organization can pay sales taxes to the authority directly or through a vendor account that you create for the sales tax authority.

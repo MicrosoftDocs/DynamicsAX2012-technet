@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLookupId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the standalone or master identifier based on productId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

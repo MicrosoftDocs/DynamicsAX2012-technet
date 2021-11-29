@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase price
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The price of product acquisition calculated as the extended price minus trade discounts.
 
 ## See also

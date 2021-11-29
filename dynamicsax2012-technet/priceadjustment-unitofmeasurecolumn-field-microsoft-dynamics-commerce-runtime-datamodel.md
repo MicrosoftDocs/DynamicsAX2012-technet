@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasureColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unit of measure column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

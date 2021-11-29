@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Grant users access to reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to give users access to reports. Two procedures are described in this topic. The procedure that you should use depends on whether you are running Microsoft SQL Server Reporting Services in native mode or SharePoint integrated mode.

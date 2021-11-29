@@ -13,6 +13,9 @@ f1_keywords:
 
 # committed cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A commitment made by a legal entity to incur a cost when a future obligation comes due.
 
 ## See also

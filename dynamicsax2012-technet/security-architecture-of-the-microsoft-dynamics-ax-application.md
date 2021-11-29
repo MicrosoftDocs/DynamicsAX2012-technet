@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security architecture of the Microsoft Dynamics AX application 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you understand the security architecture of Microsoft Dynamics AX, you can more easily customize security to fit the needs of your business. The following diagram provides a high-level overview of the security architecture of Microsoft Dynamics AX.

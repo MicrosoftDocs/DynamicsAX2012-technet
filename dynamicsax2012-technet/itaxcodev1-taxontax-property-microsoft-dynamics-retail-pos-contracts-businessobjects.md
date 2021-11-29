@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxOnTax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax code of the other sales tax that this tax is based on.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

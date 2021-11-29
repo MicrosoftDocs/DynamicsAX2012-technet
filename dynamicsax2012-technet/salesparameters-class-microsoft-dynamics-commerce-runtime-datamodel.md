@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesParameters Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a sales prameter.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

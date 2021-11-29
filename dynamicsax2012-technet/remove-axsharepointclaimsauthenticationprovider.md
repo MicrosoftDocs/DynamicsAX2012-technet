@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Remove-AXSharepointClaimsAuthenticationProvider
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Remove-AXSharepointClaimsAuthenticationProvider
 
 Unregisters a claims authentication provider from the local Microsoft SharePoint Server and deletes the web application associated with it.

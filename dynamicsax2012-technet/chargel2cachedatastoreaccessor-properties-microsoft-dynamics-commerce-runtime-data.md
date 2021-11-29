@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChargeL2CacheDataStoreAccessor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChargeL2CacheDataStoreAccessor](chargel2cachedatastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

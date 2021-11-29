@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculatePricesForSalesLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method will calculate the prices for each of the given item lines within the given price context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

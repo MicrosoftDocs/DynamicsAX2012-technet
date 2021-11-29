@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up offline profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up offline profiles to specify which data is synchronized between a retail store database and the offline databases at point-of-sale (POS) registers. Each offline profile consists of several *offline scopes*. Offline scopes define the order in which data is synchronized, and which database tables are synchronized.

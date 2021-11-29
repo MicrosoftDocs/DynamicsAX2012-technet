@@ -20,6 +20,9 @@ ms.search.region: Global
 # Place a General ledger transaction on hold 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To help make data entry flexible, you can enter a transaction on one date, and then put it on hold to prevent users from posting it until a specified date. This is useful if you have an agreement with someone, such as a customer or your manager, about when a transaction can be posted.

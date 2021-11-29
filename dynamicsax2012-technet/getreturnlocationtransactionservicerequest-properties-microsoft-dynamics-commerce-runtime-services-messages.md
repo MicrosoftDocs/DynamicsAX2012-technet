@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetReturnLocationTransactionServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetReturnLocationTransactionServiceRequest](getreturnlocationtransactionservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

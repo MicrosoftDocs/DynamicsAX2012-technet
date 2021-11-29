@@ -20,6 +20,9 @@ ms.search.region: Lithuania
 # (LTU) Generate a cash reimbursement slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate a cash reimbursement slip to confirm the receipt of cash by your organization. You can generate a cash disbursement slip when you confirm a cash expenditure. You can register all cash transactions in a cash journal, and then post and print a cash reimbursement or cash disbursement slip after the cash voucher is approved.

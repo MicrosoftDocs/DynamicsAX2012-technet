@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPriceV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPriceV2](ipricev2-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Companion apps for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides a list of the companion apps that Microsoft released together with cumulative update 7 for Microsoft Dynamics AX 2012 R2. The topic also includes additional resources that you can use to learn more about the companion apps for Microsoft Dynamics AX.

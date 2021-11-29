@@ -17,6 +17,9 @@ dev_langs:
 
 # CacheAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a cache providers used within the Commerce Runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

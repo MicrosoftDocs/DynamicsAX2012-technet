@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AffiliationDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AffiliationDataManager](affiliationdatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

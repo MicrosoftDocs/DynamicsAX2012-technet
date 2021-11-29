@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridByIdResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response to get buttongrids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

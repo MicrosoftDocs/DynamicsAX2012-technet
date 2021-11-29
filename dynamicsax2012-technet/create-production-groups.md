@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create production groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Creating production groups is helpful when you create production orders. Production groups establish a relation between production orders and the ledger accounts. Attach each production group to a default posting profile. The default posting profile determines how the transactions for the production orders in the group are posted to the ledger.

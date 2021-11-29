@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Administering Microsoft Dynamics AX by using Windows PowerShell 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Windows PowerShell is a command-line scripting tool that lets administrators interact directly with Microsoft Dynamics AX to add users and user authentication, manage models, and manage configurations for communication between Microsoft Dynamics AX and Microsoft SQL Server Reporting Services. In addition, administrators can use Windows PowerShell cmdlets to create scripts. This term is pronounced "command-lets." For information about cmdlets available for Microsoft Dynamics AX, see [Windows PowerShell for Microsoft Dynamics AX](windows-powershell-for-microsoft-dynamics-ax.md).

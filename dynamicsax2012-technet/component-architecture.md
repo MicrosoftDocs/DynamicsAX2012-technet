@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Component architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section lists Microsoft Dynamics AX components by functional category and describes the Microsoft Dynamics AX architecture of selected components.

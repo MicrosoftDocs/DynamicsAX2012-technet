@@ -18,6 +18,9 @@ ms.search.region: Global
 # Request an absence 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Absence requests** list page to view your absence requests, create new absence requests, and submit your absence requests for approval.

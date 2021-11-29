@@ -13,6 +13,9 @@ f1_keywords:
 
 # U.S. Customary System
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The system of weights and measurements maintained by the National Bureau of Standards in the United States.
 
 ## See also

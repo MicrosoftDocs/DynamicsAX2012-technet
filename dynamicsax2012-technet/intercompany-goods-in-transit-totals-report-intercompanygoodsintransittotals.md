@@ -14,6 +14,9 @@ f1_keywords:
 # Intercompany goods in transit totals report (InterCompanyGoodsInTransitTotals) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Intercompany goods in transit totals** report to create a general ledger entry for the value of intercompany goods in transit for a specific period. By doing this, it will offset the existing balance for the main account. The report assumes that intercompany goods in transit are always owned by the buyer.

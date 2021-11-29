@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCacheInstance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the [EntityTypeCache](entitytypecache-class-microsoft-dynamics-commerce-runtime-datamodel.md) for the type provided.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

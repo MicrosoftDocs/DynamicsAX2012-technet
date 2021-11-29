@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Single-server deployment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A single-server deployment occurs when you deploy all the Microsoft Dynamics AX components on a single computer. We recommend that you consider a single-server deployment only for development or demonstration environments.

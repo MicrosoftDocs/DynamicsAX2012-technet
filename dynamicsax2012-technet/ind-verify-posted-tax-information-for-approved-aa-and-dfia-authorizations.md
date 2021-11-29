@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Verify posted tax information for approved AA and DFIA authorizations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After an application for an export-import (EXIM) license that is eligible for the Advance Authorization (AA) or Duty Free Import Authorization (DFIA) incentive scheme is approved by the customs authority, use this procedure to view posted tax amounts that are exempt from customs duty. You can also view the ledger accounts and tax codes that were updated when the tax amounts were posted.

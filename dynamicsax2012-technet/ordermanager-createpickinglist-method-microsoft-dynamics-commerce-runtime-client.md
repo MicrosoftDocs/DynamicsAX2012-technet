@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatePickingList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the creation of a picking list for a customer order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

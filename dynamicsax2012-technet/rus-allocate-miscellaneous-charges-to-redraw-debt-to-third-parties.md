@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Allocate miscellaneous charges to redraw debt to third parties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to allocate miscellaneous charges to redraw debt to third parties by using the **Invoice journal** form.

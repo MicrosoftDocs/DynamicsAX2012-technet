@@ -16,6 +16,9 @@ f1_keywords:
 # Run single-user mode preprocessing scripts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 **Run single-user mode preprocessing scripts** is the final task in the **Preprocessing upgrade checklist**. This task first checks that the system is running with only a single administrative user logged in. If this test is successful, the **Upgrade single-user preprocessing** form opens. Clicking **Run** on this form launches the delta upgrade scripts for a final time and then launches the upgrade scripts that prepare data to be bulk copied to the target system. These scripts run using set-based operation.

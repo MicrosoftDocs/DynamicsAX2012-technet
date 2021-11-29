@@ -15,6 +15,9 @@ dev_langs:
 
 # WriteEvent Method (String, String, , UInt16, String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Writes an event to the event log
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

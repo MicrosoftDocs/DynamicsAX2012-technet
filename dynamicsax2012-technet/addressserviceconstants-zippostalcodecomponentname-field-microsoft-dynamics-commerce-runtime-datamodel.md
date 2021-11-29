@@ -18,6 +18,9 @@ dev_langs:
 
 # ZipPostalCodeComponentName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ZIP/postal code component name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

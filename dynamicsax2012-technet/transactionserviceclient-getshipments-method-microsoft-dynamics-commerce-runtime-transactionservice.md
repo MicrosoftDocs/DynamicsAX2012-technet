@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShipments Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shipments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

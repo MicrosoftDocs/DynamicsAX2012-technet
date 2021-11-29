@@ -14,6 +14,9 @@ dev_langs:
 # How to: Use a Label in a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You should use labels for localizable text on reports. Labels are created in the [Label Editor](https://technet.microsoft.com/library/aa617477\(v=ax.60\)). Labels are used on reports in a similar manner to how they are used on forms. This topic describes how to reference label values in an auto design report, how to reference label values in a precision design report, and how to reference label values programmatically for reports that are bound to a report data provider (RDP) class. For RDP based reports, you can programmatically set the label identifier in the data contract. If it is not specified in the data contract, the label ID of the underlying EDT that is used in the data member will be used as the label ID. For query based reports, the parameter label is derived from the extended data type (EDT) of the query range that is used.

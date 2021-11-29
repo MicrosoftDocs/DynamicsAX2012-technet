@@ -17,6 +17,9 @@ dev_langs:
 
 # CookieManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manages the domain cookies for the SharePoint storefront site.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Norway
 # (NOR) Generate an EHF electronic document for a collection letter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Follow the steps in this topic to post collection letters and generate XML files. Microsoft Dynamics AX processes the XML files and creates Elektronisk HandelsFormat (EHF) files in the shared folder that you specified for the **EInvoiceFileTransform\_OIOUBL** batch job task for the batch job.

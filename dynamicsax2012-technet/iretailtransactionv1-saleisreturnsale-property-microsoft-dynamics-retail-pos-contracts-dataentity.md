@@ -17,6 +17,9 @@ dev_langs:
 
 # SaleIsReturnSale Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if the sale is a credit sale.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

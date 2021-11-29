@@ -17,6 +17,9 @@ f1_keywords:
 # (FRA) Print promissory note report (BankPromissoryNote\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print promissory note** report prints a list of promissory notes and details about the promissory notes that are generated for legal entities operating in France. This report is typically used by bookkeepers and accounting clerks.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget planning process
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A process that identifies the budget cycle and ledger for the budget planning period and defines how the budget plans will be routed, reviewed, and approved in an organization hierarchy.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerAffiliationsInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerAffiliationsInfo](customeraffiliationsinfo-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Post and print paper invoices for Accounts receivable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about posting and printing paper invoices for Accounts receivable.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PreProcessInfocode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called before the infocode is processed. If the infocode should not be processed after this trigger has finished running, PreTriggerResults must to be filled out accordingly.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up document dates and VAT transaction dates for VAT reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For auditing purposes, you must set up the sales date and the document receipt date for value-added tax (VAT) reporting. The sales date is the fulfillment date of the sales order. The document receipt date is the date on which you can claim a deduction for value-added tax (VAT).

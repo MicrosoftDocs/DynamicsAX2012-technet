@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceParameters Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents configuration flags for activating various trade agreement types and combinations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

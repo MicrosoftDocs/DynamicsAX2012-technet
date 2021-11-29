@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up team types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Team types help categorize teams and restrict membership to specific groups of people, such as contractors, employees, contacts, vendors, customers, or Microsoft Dynamics AX users.

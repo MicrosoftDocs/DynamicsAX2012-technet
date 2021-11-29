@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # ApplyInterStateTaxIndia Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ApplyInterStateTaxIndia](applyinterstatetaxindia-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeConfigFileName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents file name of Commerce Runtime configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

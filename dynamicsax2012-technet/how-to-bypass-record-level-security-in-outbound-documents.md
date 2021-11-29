@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Bypass Record Level Security in Outbound Documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, record level security (RLS) is enabled for outbound documents. It may be necessary to bypass RLS in a document when the omission of data renders the document invalid, for example, in the sales invoice document. In this case, RLS is bypassed to create a valid document. The following standard documents bypass RLS by default when sent from Microsoft Dynamics AX:

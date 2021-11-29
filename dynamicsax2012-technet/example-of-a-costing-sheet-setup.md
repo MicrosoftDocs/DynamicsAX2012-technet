@@ -14,6 +14,9 @@ ms.search.region: Global
 # Example of a costing sheet setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper describes the setup of the costing sheet and the additional elements that are involved in the calculation of manufacturing overhead for a bill of materials (BOM). The processes for including direct and indirect costs in the calculation of manufacturing overhead for a BOM are described for both single-level and multilevel BOM calculations. The paper also provides an overview of how indirect cost calculations can be viewed from a production order and how to analyze production variances.

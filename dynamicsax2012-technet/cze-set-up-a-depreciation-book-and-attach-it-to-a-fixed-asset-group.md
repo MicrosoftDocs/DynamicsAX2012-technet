@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up a depreciation book and attach it to a fixed asset group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

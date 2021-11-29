@@ -17,6 +17,9 @@ dev_langs:
 
 # PostTotalDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after setting a total discount percent to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

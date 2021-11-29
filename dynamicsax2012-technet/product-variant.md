@@ -13,6 +13,9 @@ f1_keywords:
 
 # product variant
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A configuration of a product master.
 
 ## See also

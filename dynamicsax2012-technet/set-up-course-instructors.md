@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up course instructors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can assign an instructor to a course, you must set up a worker, applicant, or contact person as an instructor. Complete the following steps to set up an instructor that you can later assign to a training course.

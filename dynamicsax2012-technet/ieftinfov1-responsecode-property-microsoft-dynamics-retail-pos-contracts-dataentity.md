@@ -17,6 +17,9 @@ dev_langs:
 
 # ResponseCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response code from Point.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

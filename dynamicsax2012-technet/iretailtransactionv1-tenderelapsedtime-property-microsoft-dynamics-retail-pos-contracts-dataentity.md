@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderElapsedTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total time the terminal was handling payments.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

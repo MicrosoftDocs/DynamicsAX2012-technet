@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceEntitySearchResult(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class for search result.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

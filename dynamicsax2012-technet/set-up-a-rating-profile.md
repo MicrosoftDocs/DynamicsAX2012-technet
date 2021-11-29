@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a rating profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides an overview of how to use a rating profile to determine whether the shipping carrier’s rate matches the customer’s requirements. A rating profile is used to associate the shipping carrier with a rate master. The rate master defines the rate base assignment and the rate base. The rate base determines the rate of the carrier.

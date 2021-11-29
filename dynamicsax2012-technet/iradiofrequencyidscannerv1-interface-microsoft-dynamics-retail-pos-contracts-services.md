@@ -17,6 +17,9 @@ dev_langs:
 
 # IRadioFrequencyIDScannerV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRadioFrequencyIDScannerV1 interface is the version 1.0 RFID scanner device interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

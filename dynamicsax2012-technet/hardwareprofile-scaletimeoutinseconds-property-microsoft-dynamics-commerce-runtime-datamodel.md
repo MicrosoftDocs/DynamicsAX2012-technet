@@ -17,6 +17,9 @@ dev_langs:
 
 # ScaleTimeoutInSeconds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the scale timeout in seconds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

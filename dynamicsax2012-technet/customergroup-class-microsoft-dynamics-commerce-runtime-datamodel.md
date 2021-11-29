@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer group crt entity for custgroup table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

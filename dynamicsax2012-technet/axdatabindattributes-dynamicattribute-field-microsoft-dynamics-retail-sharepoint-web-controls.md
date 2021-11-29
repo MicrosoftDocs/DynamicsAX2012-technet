@@ -18,6 +18,9 @@ dev_langs:
 
 # DynamicAttribute Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-attribute" which dynamically binds the specified attribute with value.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

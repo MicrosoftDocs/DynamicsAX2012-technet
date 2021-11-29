@@ -18,6 +18,9 @@ ms.search.region: Global
 # About settlement type for credit notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a credit note in the **Purchase order** form, the specified settlement type is transferred to the **Settlement type** field. The **Settlement type** field is located on the **Setup** FastTab on the purchase order.

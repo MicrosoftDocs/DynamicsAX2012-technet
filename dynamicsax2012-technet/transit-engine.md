@@ -13,6 +13,9 @@ f1_keywords:
 
 # transit engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that calculates the number of days that it will take for shipped freight to get from its origin point to its destination point.
 
 ## See also

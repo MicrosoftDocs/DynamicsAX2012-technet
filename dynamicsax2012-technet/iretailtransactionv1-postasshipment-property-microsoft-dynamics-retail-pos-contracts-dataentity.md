@@ -17,6 +17,9 @@ dev_langs:
 
 # PostAsShipment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If the sale should be posted as an invoice or a shipment. Only used if customer is selected.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

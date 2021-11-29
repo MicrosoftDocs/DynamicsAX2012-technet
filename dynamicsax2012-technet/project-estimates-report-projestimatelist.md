@@ -14,6 +14,9 @@ f1_keywords:
 # Project estimates report (ProjEstimateList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view and print estimates by estimate date and period code. You can select to include the status of the project estimates and any warnings for an estimate on the report.

@@ -14,6 +14,9 @@ f1_keywords:
 # Bank statement report (BankAccountStatement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to show and print bank transactions according to your specifications. For example, you can find a specific transaction in a bank account in a given period.

@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Generate and export the Intrastat report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the following procedure to generate the Intrastat report for a Czech legal entity and export it as an XML file or as a CSV file. The Intrastat report contains a summary of Intrastat transactions for the internal transfer of items between European Union (EU) member states.

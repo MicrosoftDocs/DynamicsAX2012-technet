@@ -22,6 +22,9 @@ ms.search.region: USA
 # Setting up payroll: Advanced topics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Some elements of Payroll are more complicated to set up than others. This section contains information to help you set up the most complex elements.
 
 For basic setup instructions, see [Setting up payroll: Basic topics](setting-up-payroll-basic-topics.md).

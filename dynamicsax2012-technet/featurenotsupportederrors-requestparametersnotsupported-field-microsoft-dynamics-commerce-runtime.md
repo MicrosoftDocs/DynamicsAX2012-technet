@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestParametersNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that one or more parameters in the request attempted are not supported.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

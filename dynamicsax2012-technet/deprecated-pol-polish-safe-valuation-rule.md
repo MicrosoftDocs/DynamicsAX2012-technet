@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (POL) Polish safe valuation rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Polish installations, Microsoft Dynamics AX 2009 and earlier versions provide country-specific modifications that support compliance with the safe valuation rule. Previously, according to Polish financial law, unrealized exchange rate adjustments in accounts receivable or accounts payable could be made only when those adjustments conformed to the safe valuation rule. The exchange rates that were defined by a company's bank were used instead of the rate in the exchange rate table, depending on which exchange rate was higher or lower.

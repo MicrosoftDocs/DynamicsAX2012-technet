@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Country/region configuration keys 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009 and earlier versions, country/region configuration keys are used to enable and display country/region-specific features.

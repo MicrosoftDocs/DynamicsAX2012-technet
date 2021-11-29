@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveIdsOfChangedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes changed product's IDs from cache.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

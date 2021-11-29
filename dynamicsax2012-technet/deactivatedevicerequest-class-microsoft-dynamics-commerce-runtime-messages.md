@@ -17,6 +17,9 @@ dev_langs:
 
 # DeactivateDeviceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deactivate device request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

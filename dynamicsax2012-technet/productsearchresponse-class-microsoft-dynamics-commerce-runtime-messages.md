@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains the collection of products corresponding to the specified query.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

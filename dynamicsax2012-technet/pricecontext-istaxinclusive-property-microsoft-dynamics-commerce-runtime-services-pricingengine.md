@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTaxInclusive Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether prices are fetched in tax-inclusive (e.g. VAT) channel or tax-exclusive (e.g. US taxes).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

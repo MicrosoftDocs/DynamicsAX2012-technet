@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a load balancing cluster 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can distribute the user load in Microsoft Dynamics AX across multiple instances of Application Object Server (AOS) by creating a load balancing cluster.

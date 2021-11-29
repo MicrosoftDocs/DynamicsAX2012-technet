@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtractSerializedParameters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serializes the parameters. Used for logging purposes. The user should override this method with a custom implementation if the default xml serialization of the object would be too big for the database row.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

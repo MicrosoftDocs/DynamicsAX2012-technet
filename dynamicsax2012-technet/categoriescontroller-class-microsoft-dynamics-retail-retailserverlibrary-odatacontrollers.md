@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoriesController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The categories controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

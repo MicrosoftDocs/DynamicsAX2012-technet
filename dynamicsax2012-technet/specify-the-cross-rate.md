@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify the cross rate 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains the purpose of a cross rate, and how to specify the cross rate when you settle a payment with an invoice. Use a cross rate when all of the following criteria apply:

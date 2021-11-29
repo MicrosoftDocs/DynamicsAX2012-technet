@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot connectivity problems for Retail Modern POS devices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to troubleshoot and fix errors that occur when activating a modern point of sale (MPOS) device. To perform these tasks, a user must have access to Headquarters, must have IT Administrator rights on the computers that are running the Retail Server, Real-time Services, and the channel database, and must be assigned to a POS permission group that has device activation rights.
 
 Permissions for a user can be modified after they have been assigned to a POS permission group in the **Worker** \> **Retail** \> **POS Permissions** form. For more information, see [Set up user accounts and the POS user group](set-up-user-accounts-and-the-pos-user-group.md).

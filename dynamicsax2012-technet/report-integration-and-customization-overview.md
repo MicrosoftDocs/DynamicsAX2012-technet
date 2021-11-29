@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Integration and Customization Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reports that are created with the reporting tools in Microsoft Visual Studio can be integrated into Microsoft Dynamics AX and then later customized. This topic provides a description of key concepts involved in integrating and customizing reports.

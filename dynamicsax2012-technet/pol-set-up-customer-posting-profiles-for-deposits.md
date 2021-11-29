@@ -17,6 +17,9 @@ ms.search.region: Poland
 # (POL) Set up customer posting profiles for deposits 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customer posting profiles** form to set up a main account number for the deposit amounts that are paid by customers. You can use the **Customers** form to indicate whether the customer is exempt from the deposit fee.

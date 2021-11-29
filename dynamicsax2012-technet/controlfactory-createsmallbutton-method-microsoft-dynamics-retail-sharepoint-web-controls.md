@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateSmallButton Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a small button.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

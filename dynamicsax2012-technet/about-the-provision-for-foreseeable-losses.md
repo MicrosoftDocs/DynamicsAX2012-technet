@@ -22,6 +22,9 @@ ms.search.region: Global
 # About the provision for foreseeable losses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you determine that the total contract costs will exceed the total contract revenue, you can use the provision for foreseeable losses to recognize an expected loss on a project as an expense transaction.

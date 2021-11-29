@@ -18,6 +18,9 @@ dev_langs:
 
 # CommerceListType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commerce list type enum.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

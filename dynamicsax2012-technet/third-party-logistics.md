@@ -13,6 +13,9 @@ f1_keywords:
 
 # third-party logistics
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A party that provides logistics services to customers.
 
 ## See also

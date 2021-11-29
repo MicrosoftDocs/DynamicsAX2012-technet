@@ -14,6 +14,9 @@ ms.search.region: Malaysia
 # (MYS, SGP) Print a bank cash flow report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can print a cash flow report that shows transactions and details of the cash inflows and outflows for a specific date range for selected bank accounts. Use this report to help reconcile bank statements and to verify the incoming and outgoing cash flows.

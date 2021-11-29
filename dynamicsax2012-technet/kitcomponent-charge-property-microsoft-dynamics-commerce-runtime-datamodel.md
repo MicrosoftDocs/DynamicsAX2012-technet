@@ -17,6 +17,9 @@ dev_langs:
 
 # Charge Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the charge price associated with the current product used in a kit as a component or substitute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

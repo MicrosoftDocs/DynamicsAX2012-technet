@@ -13,6 +13,9 @@ f1_keywords:
 
 # document management system
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An application service for storing and handling an organization's documents.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase order policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that authorizes parties to modify purchase order terms and to control order processing.
 
 ## See also

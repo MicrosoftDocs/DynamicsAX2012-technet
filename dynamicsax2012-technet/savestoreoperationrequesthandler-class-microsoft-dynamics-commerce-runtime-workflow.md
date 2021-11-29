@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveStoreOperationRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Save all incoming non-sale transaction from store operations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

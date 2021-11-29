@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Top 10 product performers role center report (RetailTop10Products) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view a list of the top 10 products that are selling the best. This report lists the product name, the quantities sold, and the profit margin for the product.

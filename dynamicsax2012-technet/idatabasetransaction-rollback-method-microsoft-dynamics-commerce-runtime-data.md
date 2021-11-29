@@ -17,6 +17,9 @@ dev_langs:
 
 # Rollback Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rolls back the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

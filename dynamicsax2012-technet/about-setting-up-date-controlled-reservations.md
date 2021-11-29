@@ -19,6 +19,9 @@ ms.search.region: Global
 # About setting up date-controlled reservations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Item model groups** form, you can select to use the date of receipt of goods when you reserve batches.

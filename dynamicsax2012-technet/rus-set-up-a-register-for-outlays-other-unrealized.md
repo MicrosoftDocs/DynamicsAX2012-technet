@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for outlays - other unrealized 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Outlays - other unrealized** register is calculated based on the general ledger transactions or expenses that are entered manually in the register.

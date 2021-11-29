@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Performance by terminal report (RetailSalesByTerminal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to identify the retail terminals that are performing the best within an operating unit, based on the date range and filter criteria that you specify. The terminal performance ranking is based on the quantity sold, sales revenue, and profit margin for the terminal. You can use this report to determine the proper placement of product assortments in your retail channels.

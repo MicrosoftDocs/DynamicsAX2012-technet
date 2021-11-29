@@ -17,6 +17,9 @@ dev_langs:
 
 # CCTVMessageOutput Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends the current message in Retail POS to the CCTV.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

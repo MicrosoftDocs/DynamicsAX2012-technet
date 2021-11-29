@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerService Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [CustomerService](customerservice-class-microsoft-dynamics-commerce-runtime-services.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

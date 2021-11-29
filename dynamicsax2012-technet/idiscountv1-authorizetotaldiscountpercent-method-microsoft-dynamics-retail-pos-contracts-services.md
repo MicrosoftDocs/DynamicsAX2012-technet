@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeTotalDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the given discount percentage is allowed.
 
 This method is invoked by the total discount percentage operation before calling the AddTotalDiscountPercentage method.

@@ -26,6 +26,9 @@ dev_langs:
 
 # CardType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 List of card types supported by the system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

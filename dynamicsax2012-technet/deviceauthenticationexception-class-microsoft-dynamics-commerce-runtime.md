@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceAuthenticationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Thrown when device authentication fails.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

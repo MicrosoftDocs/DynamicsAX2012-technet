@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor portal configuration key (VSS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor portal** configuration key controls access to basic Vendor portal features in Enterprise Portal for Microsoft Dynamics AX, such as user management and Vendor portal navigation options. To enable additional Vendor portal features requires that the corresponding configuration key be enabled for the Microsoft Dynamics AX client. For example, vendor requests are enabled by enabling the **Vendor requests** configuration key.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateOption Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates an option to be used by the [HtmlSelect](https://technet.microsoft.com/library/xf11z4ad\(v=ax.60\)) element.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

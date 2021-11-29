@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXModel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXModel
 
 Returns a list of the models in the model store, or a list of elements from a particular model or model file.

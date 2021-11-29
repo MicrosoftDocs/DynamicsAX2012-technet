@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot installation issues with Enterprise Search 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic includes information to help you troubleshoot issues you might encounter when you install Microsoft Dynamics AX Enterprise Search.

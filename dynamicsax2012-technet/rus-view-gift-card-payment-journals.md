@@ -24,6 +24,9 @@ ms.search.region: Russia
 # (RUS) View gift card payment journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use this procedure to view the customer payment journals that are associated with gift card operations.

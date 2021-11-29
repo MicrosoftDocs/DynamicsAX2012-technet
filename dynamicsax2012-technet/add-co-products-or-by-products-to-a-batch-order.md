@@ -22,6 +22,9 @@ ms.search.region: Global
 # Add co-products or by-products to a batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the status of a batch order is **Created**, you can add a new co-product or by-product to the order by using the **Co-Products** form. If the **Co-product variations** check box is selected in the **Batch order** form, you can report co-products and by-products as finished. You can do this regardless of whether the co-products or by-products are associated with the batch order formula.

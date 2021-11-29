@@ -18,6 +18,9 @@ ms.search.region: Global
 # Approve an absence registration or request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Absence registrations** and the **Absence requests** pages to approve or reject an employee's absence that has occurred (was registered) or has been requested.

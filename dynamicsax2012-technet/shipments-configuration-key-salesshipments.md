@@ -14,6 +14,9 @@ f1_keywords:
 # Shipments configuration key (SalesShipments) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Shipments** configuration key controls access to the registration of information about shipments. This includes packaging, weight, and size, and also the creation of bills of lading. If this configuration key is enabled, the **Shipments** tab in the **Accounts receivable parameters** form and the **Distribution** folder under **Sales and marketing** \> **Inquiries** will be available. You can use this functionality to set up and register shipment information and create bills of lading.

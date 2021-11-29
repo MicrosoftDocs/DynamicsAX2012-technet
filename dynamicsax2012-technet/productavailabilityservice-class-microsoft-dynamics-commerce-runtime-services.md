@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductAvailabilityService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implementation for product availability service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

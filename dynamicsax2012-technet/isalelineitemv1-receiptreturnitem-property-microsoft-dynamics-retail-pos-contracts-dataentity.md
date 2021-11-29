@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptReturnItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 // True if the item is a return item returned through the "Return Transaction" operation, thereby from a receipt
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

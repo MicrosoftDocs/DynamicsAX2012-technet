@@ -22,6 +22,9 @@ ms.search.region: Global
 # Create, modify, and delete employee goals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Performance goals** page to create and update your goals. You can also use this page to enter new goal comments or update the status and activity progress of your goals.

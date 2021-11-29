@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a customs value correction for import or export operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Create KTS** form to create a customs value correction (KTS) for import or export transactions that are completed. In accordance with a customs value correction that is created to update the customs payments, a company must pay or return additional customs payments.

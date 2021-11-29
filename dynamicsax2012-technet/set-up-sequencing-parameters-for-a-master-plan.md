@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up sequencing parameters for a master plan 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up the sequencing parameters for a master plan. You can set up the sequencing time fence, and then set up the sequencing campaign cycle parameters that specify the time period for the cycle. For example, you can specify 60 as the sequencing time fence, and then specify 30 days as the time period for the sequencing campaign cycle. In this scenario, the sequencing campaign cycle runs twice, as the sequencing time fence (60 days) is twice the time period for the sequencing campaign cycle (30 days).

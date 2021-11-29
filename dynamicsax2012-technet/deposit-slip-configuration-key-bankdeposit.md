@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deposit slip configuration key (BankDeposit) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Deposit slip** configuration key controls access to the deposit slip. The deposit slip is a document that is used to deposit checks, credit card notes, and cash into a bank account.

@@ -18,6 +18,9 @@ f1_keywords:
 # (NOR) Norwegian tax reconciliation report (TaxReconciliationReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Norwegian tax reconciliation** report displays sales tax transactions for a settlement period, range of ledger accounts, and period that you specify. This report is used to review the status of the sales tax process and inquire into the status of sales tax transactions. This report is typically used by chief executive officers, compliance managers, accounting managers, accounting supervisors, and accountants.

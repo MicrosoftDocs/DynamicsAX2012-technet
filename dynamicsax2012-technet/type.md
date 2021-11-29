@@ -13,6 +13,9 @@ f1_keywords:
 
 # type
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A form or structure that distinguishes a particular class of objects.
 
 ## See also

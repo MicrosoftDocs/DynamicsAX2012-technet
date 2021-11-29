@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Compensation, independent of performance, that is awarded to an employee by an organization.
 
 ## See also

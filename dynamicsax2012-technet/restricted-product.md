@@ -13,6 +13,9 @@ f1_keywords:
 
 # restricted product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A product whose distribution is limited or constrained by a government authority.
 
 ## See also

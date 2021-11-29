@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for get the stock counts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

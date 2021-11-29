@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a tax register journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and post a tax register journal. After you create and post a tax register journal for advances, you can use the **Journal** form to view the new journal line that contains the exchange adjustment amount for tax accounting. The exchange adjustment amount is based on the setup in the **Advance adjustment parameters** form. For more information, see [(RUS) Set up advance adjustment parameters for advance holders](rus-set-up-advance-adjustment-parameters-for-advance-holders.md).

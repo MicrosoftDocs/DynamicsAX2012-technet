@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Security Development Tool
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This topic describes the user interface of the Security Development Tool.
 
 > [!NOTE]

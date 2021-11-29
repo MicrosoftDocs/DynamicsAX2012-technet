@@ -17,6 +17,9 @@ dev_langs:
 
 # LanguageId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the language identifier of reason sub code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

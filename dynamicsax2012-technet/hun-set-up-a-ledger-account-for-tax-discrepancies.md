@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up a ledger account for tax discrepancies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Companies must process certain financial documents for taxation purposes. If these tax-related documents are prepared in foreign currency, they must also show the transaction amount in local currency. The required documents include:

@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Generate and export the DEB report in SAISUNIC 330 or INTRACOM format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate the trade of goods and services (DEB) report in the SAISUNIC 330 or INTRACOM electronic file format. The updated formats include the single-digit Nomenclature Générale des Produits (NGP), or national item codes. Use the following procedures to transfer Intrastat transactions and export Intrastat information to generate the DEB report.

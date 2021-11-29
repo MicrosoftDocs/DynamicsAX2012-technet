@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CreateShiftDataServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CreateShiftDataServiceRequest](createshiftdataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

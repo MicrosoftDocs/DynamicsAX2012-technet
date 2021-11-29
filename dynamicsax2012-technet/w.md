@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # W
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [waive charge](waive-charge.md)
 
 [wave](wave.md)

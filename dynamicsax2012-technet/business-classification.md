@@ -13,6 +13,9 @@ f1_keywords:
 
 # business classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier that classifies organizations in an industry classification system.
 
 ## See also

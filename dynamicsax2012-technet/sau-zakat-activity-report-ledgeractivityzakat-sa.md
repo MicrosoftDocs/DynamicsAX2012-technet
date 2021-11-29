@@ -14,6 +14,9 @@ f1_keywords:
 # (SAU) Zakat activity report (LedgerActivityZakat\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Every fiscal year, companies must report Zakat deductions for the previous year. Legal entities that operate in Saudi Arabia must generate the main Zakat report and the associated reports. You must submit these reports along with balance sheets and profit-and-loss statements to the Department of Zakat and Income Tax (DZIT) within a month of the end of the fiscal year. For more information about the Zakat reports, see [(SAU) About Zakat reporting](sau-about-zakat-reporting.md). By using this Zakat activity report, you can generate the following:

@@ -17,6 +17,9 @@ dev_langs:
 
 # DepositOverrideMayNotBeChanged Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the deposit override amount for a pick up operation may not be changed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

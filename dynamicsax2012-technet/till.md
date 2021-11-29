@@ -13,6 +13,9 @@ f1_keywords:
 
 # till
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The removable tray in a cash register drawer.
 
 ## See also

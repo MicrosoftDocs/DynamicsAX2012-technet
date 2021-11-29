@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reimburse customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to create reimbursement transactions for a group of customers. If a customer has a credit balance, you can reimburse the customer for the amount of the balance. The customer must have an associated vendor account, and the balance amount must exceed the minimum reimbursement amount that is specified for your legal entity.

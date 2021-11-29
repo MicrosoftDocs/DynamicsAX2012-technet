@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Create a Sites Services solution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you sign up for and configure your account, you can create your own Sites Services solution with the new solution wizard. For example, you can create a marketing campaign that collects and tracks sales leads, or you can publish customer service information and collect customer feedback. You can also use the solutions that are included with Microsoft Dynamics AX. For more information about the solutions that are included with Microsoft Dynamics AX, see [(USA) Activate or deactivate a solution](usa-activate-or-deactivate-a-solution.md).

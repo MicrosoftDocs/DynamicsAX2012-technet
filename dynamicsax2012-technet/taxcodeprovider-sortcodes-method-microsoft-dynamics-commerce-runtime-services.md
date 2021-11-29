@@ -17,6 +17,9 @@ dev_langs:
 
 # SortCodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sorts the specified tax codes by priority.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

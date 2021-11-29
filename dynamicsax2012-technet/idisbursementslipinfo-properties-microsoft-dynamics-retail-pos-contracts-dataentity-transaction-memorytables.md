@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDisbursementSlipInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDisbursementSlipInfo](idisbursementslipinfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables.md) type exposes the following members.
 
 ## Properties

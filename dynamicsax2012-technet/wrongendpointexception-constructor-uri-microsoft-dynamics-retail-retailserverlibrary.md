@@ -15,6 +15,9 @@ dev_langs:
 
 # WrongEndpointException Constructor (Uri)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [WrongEndpointException](wrongendpointexception-class-microsoft-dynamics-retail-retailserverlibrary.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

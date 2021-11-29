@@ -14,6 +14,9 @@ dev_langs:
 # How to: Define a Data Method in Visual Basic 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can provide code for a data method by using C\# or Visual Basic. The default template that is used for a data method is provided in C\#. This topic describes the steps to define a report data method in Visual Basic. To change the template that is used for a data method to Visual Basic, you must set the **Data Method Library** property of the report to a Visual Basic project. You can use a data method for advanced scenarios to retrieve and manipulate the data that displays in your reports. For example, you can use a data method to access a data source other than Microsoft Dynamics AX, to do special formatting, to set specific color schemes for charts, or to generate the URL target for a custom drill through navigation on a report.

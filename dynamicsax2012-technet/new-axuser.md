@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # New-AXUser
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## New-AXUser
 
 Creates a new user in Microsoft Dynamics AX.

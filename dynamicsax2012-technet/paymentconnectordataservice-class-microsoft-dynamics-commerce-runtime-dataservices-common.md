@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentConnectorDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment connector data service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common](microsoft-dynamics-commerce-runtime-dataservices-common-namespace.md)  

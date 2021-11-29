@@ -13,6 +13,9 @@ f1_keywords:
 
 # OCR
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of translating images of printed text into machine-encoded text.
 
 ## See also

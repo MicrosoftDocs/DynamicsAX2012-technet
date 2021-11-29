@@ -17,6 +17,9 @@ dev_langs:
 
 # StorefrontConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides centralized access to the SharePoint storefront configuration settings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

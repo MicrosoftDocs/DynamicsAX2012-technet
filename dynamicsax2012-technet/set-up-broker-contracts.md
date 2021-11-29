@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up broker contracts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a broker contract that specifies the commission that a broker vendor receives for the sale of items or groups of items. For example, you might have a contract with a broker that states that every time a specific model of television is sold, the broker receives a percentage of the sales price. Commissions can be calculated based on a fixed amount, a percentage, or an amount per unit.

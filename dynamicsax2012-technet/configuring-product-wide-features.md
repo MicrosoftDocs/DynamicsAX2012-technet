@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configuring product-wide features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to configure product-wide features. Product-wide feature are features that are available in more than one module.

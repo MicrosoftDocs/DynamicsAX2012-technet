@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up the purchase of items with anticipated invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Brazil, a purchase of items that uses anticipated invoicing occurs in two phases. In the first phase, you can issue a fiscal document without generating any physical and financial movement of inventory. In this phase, only the vendor balance is updated. In the second phase, when the actual delivery of items occurs, you can generate the inventory transactions and Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax transactions.

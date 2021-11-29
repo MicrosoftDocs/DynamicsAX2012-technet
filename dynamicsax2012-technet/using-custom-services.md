@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Custom Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
  In Microsoft Dynamics AX, you can create custom services to expose X++ functionality to external clients. Any existing X++ code can be exposed as a custom service simply by adding an attribute. Microsoft Dynamics AX provides standard attributes that can be set on the data contract class and its members to automatically serialize and de-serialize data that is sent and received across a network connection. Many predefined types, such as collections and tables, are also supported.

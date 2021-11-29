@@ -14,6 +14,9 @@ f1_keywords:
 # Reset checklist status to set up another store (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to reset the **Retail store setup checklist** when you want to set up another store. After you use the checklist to set up a store, you must reset the checklist before you can deploy additional stores. Different stores often require different setup values.

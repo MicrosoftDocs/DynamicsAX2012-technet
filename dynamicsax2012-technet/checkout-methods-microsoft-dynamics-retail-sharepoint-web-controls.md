@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Checkout Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Checkout](checkout-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Methods

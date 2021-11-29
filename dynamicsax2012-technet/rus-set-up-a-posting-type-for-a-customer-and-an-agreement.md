@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a posting type for a customer and an agreement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customer** form and the **Sales agreements** form to set up a posting type for a customer and an agreement, so that you can transfer proprietary rights for items that are in transit.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up properties for operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Operations resource properties are special attributes that you can assign to your resources for use in the scheduling process. Properties that you set up can be assigned to working time templates in the **Working time templates** form. For more information, see [Working time templates (form)](https://technet.microsoft.com/library/aa596796\(v=ax.60\)).

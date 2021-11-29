@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Initialize-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Initialize-AXModelStore
 
 Initializes the schema of the model store in a Microsoft Dynamics AX database.

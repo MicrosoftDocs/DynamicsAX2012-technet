@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up withholding tax component groups for TCS tax types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up withholding tax component groups for TCS tax types, such as Alcohol and Timber, and create TCS certificates for each TCS component group. The TCS certificates created for TCS component groups are issued to customers or vendors. The date, amount, and the customer or vendor that the TCS certificate is issued for is automatically updated for each TCS component group.

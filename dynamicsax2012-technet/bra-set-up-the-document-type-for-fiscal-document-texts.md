@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up the document type for fiscal document texts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up the document type for fiscal document texts before you attach the fiscal document texts to a sales order, purchase order, or free text invoice. You must first create a document type in the **Document types** form, and then you can attach the document type to fiscal document texts by using the **Brazilian parameters** form.

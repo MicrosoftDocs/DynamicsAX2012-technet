@@ -14,6 +14,9 @@ f1_keywords:
 # Subscription configuration key (SMASubscription) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Subscription** configuration key controls access to forms and functions for subscriptions in **Service management**. If this configuration key is enabled, you can maintain service subscriptions and subscription sales prices. Also, subscription sales prices can be adjusted, revenue can be posted, and price indexes can be used with service subscriptions.

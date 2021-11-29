@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan for batch processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use batch processing to enable you to run specific tasks as batch jobs, which can be scheduled and run on a different computer. The topics in this section can help you plan for batch processing.

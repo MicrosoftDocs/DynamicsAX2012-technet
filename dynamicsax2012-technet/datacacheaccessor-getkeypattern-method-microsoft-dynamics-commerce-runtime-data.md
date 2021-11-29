@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKeyPattern Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the key pattern specific to each implementation of the memory cache.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

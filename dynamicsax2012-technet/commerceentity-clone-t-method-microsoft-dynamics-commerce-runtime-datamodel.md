@@ -17,6 +17,9 @@ dev_langs:
 
 # Clone(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a "deep-copy" of the given object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

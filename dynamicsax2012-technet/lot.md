@@ -13,6 +13,9 @@ f1_keywords:
 
 # lot
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A quantity of one item or a number of items of the same kind.
 
 ## See also

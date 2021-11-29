@@ -19,6 +19,9 @@ ms.search.region: Global
 # Key tasks: Work with vendor search and search results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You may want to select a group of vendors or locate a specific vendor in your organization's list of approved vendors. For example, you are creating a request for quotations (RFQ), and you want to contact all of the approved vendors who are in a specific geographical area. Because your organization has many vendors, locating all of the vendors that you want can be time-consuming. However, you can search for a vendor or a group of vendors by defining criteria, such as geographical area, in the **Vendor search** form.

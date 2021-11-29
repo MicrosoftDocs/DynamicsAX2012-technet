@@ -20,6 +20,9 @@ ms.search.region: Global
 # About Help in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide general information about how to find and use Help in Microsoft Dynamics AX. This Help includes specialized assistance for business users, system administrators, and software developers. The resources that are available vary depending on whether you access Help from the web or from inside your local area network.

@@ -15,6 +15,9 @@ dev_langs:
 
 # IsExpiryDateValid Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks for date validity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

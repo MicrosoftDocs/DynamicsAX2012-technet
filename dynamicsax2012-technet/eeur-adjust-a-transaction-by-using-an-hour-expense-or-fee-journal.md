@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Adjust a transaction by using an hour, expense, or fee journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use these procedures to adjust project transactions by using journals. In journals, you create an adjusting journal entry to reverse all or part of the original incorrect transaction, and then add a new transaction that contains the correct information. When you adjust project transactions by using an hour, expense, or fee journal, the reversing transactions are posted as corrections in the general ledger.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ContactPerson Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The name of the contact person.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

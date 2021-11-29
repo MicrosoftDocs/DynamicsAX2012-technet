@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget control dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A combination of active financial dimensions values used to allocate budget funds to pay for planned activities.
 
 ## See also

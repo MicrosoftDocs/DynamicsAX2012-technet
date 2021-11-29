@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessBarcode Method (IScanInfo)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns an IBarcodeInfo object by using a given IScanInfo object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

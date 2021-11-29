@@ -17,6 +17,9 @@ ms.search.region: Hungary
 # (HUN) Create and post a sales order invoice with a specific VAT register date 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you post a sale invoice, you can select the date on which to report value-added tax (VAT). Use this procedure to create and post an invoice that has a specific VAT register date.

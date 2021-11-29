@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLimitMin Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Minimum amount required to calculate this tax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

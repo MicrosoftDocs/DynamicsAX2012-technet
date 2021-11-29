@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Inventory FA list report (RAssetInventorySheet) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Inventory FA list report displays the acquisition price and net book value of fixed assets. This report also displays the disposal date, if applicable. Accountants generate and print this report periodically to assess the value of fixed assets, including the assets that are disposed of.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Managing integration ports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Application Integration Framework (AIF), you follow these steps to set up and manage a message exchange that uses integration ports:

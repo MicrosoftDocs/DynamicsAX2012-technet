@@ -13,6 +13,9 @@ f1_keywords:
 
 # p-code
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A machine language for a nonexistent processor (a pseudomachine). Such code is executed by a software interpreter.
 
 ## See also

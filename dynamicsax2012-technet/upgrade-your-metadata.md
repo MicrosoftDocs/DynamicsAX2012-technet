@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade your metadata 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Upgrading your metadata includes upgrading your code and the database schema, running upgrade scripts, and recompiling. For more information about upgrading the Microsoft Dynamics AX metadata, see the downloadable [code upgrade white papers](https://go.microsoft.com/fwlink/?linkid=215083). See also *Inside Microsoft Dynamics AX 2009*, Chapter 18: “Code upgrade,” pp. 623–644.

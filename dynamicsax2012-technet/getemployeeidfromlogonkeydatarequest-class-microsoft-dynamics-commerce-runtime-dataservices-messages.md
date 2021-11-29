@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeeIdFromLogOnKeyDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to get the employee identifier from the specified logon key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

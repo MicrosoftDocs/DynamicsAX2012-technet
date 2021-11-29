@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Backup and recovery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 We have added functionality for backup and recovery in cumulative update 7 for Microsoft Dynamics AX 2012 R2.

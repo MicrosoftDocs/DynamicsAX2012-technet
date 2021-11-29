@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor sales price points 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can create a sales price point to convert the suggested retail prices of a vendor’s products to sales prices in a local currency.

@@ -17,6 +17,9 @@ dev_langs:
 
 # DataTable Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

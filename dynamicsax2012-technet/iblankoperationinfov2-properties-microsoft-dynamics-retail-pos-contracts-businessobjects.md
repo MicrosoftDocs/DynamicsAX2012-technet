@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IBlankOperationInfoV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IBlankOperationInfoV2](iblankoperationinfov2-interface-microsoft-dynamics-retail-pos-contracts-businessobjects.md) type exposes the following members.
 
 ## Properties

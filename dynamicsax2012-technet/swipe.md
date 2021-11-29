@@ -13,6 +13,9 @@ f1_keywords:
 
 # swipe
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To slide a machine-readable card through a magnetic stripe reader.
 
 ## See also

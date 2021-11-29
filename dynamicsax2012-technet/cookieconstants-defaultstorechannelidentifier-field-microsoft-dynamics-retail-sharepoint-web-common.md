@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultStoreChannelIdentifier Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Cookie name for the Default Store Channel Id.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

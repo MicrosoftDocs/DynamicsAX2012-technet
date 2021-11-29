@@ -19,6 +19,9 @@ ms.search.region: Global
 # About using the Microsoft Dynamics AX Add-in for Word 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your system administrator has installed the Office Add-ins for Microsoft Dynamics AX, you can use the Office Add-in for Microsoft Word to create Word documents and Word templates that contain data from tables that you select in Microsoft Dynamics AX.

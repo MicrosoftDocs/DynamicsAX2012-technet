@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ListingAvailableQuantity Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ListingAvailableQuantity](listingavailablequantity-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Properties

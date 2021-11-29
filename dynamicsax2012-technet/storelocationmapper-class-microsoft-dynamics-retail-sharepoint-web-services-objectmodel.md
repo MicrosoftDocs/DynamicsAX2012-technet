@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreLocationMapper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper class for mapping StoreProductAvailability related objects.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

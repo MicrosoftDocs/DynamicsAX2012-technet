@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a revenue, consumption, and transit account to post sales charges 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Misc. charges posting in Accounts receivable** form to set up a revenue account, consumption account, and transit account, so that you can post sales charges. You can also specify a charges relation and account relation for the charges posting type.

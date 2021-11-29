@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor status change requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The hold status for a vendor determines the types of transactions that are permitted for the vendor in your organization. For example, a vendor hold might prevent employees from creating purchase orders for a vendor. An employee can request to change the hold status for a vendor. To request the change, the employee submits a request in the Employee services portal in Enterprise Portal for Microsoft Dynamics AX.

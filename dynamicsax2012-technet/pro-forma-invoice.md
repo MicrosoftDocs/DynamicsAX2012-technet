@@ -13,6 +13,9 @@ f1_keywords:
 
 # pro forma invoice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business document that is a view of a customer invoice or vendor invoice that documents a payment request but is not an offer or a demand for payment.
 
 ## See also

@@ -18,6 +18,9 @@ dev_langs:
 
 # BuildCore Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Writes parts to a builder based on a specified culture.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

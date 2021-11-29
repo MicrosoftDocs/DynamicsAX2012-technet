@@ -34,6 +34,9 @@ ms.search.region: Global
 # Set up credit card authorizations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to prepare to authorize credit cards that are submitted for the payment of sales orders. When a credit card payment is authorized, the credit card holder's name, billing address, credit card number, and available credit are verified. The customer's available credit is also reduced by the amount of the sales order. When the order is ready for invoicing and payment, the credit card charge is processed and the customer's credit card is billed.

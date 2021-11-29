@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Microsoft BizTalk Server 2010 to exchange documents with Microsoft Dynamics AX (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper provides information about how to configure Application Integration Framework and Microsoft BizTalk Server 2010 to enable the exchange of service documents.

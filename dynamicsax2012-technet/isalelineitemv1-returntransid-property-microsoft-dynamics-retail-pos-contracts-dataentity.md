@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnTransId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If the item is being returned (with a receipt) this field contains the id of the transaction the item was originally sold in.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

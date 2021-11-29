@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessInfoCode Method (IPosTransaction, ISaleLineItem, Decimal, Decimal, String, String, String, InfoCodeTableRefType, String, IInfoCodeLineItem, InfoCodeType)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ProcessInfoCode for a sale line item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

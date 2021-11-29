@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create an attribute group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An attribute group is used to group the attributes for a component or subcomponent in a product configuration model. The groups you create are displayed in the user interface on FastTabs. This can help a person configure a product, because the selections are arranged in a certain context.

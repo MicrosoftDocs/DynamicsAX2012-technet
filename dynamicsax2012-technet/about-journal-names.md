@@ -15,6 +15,9 @@ ms.search.region: Global
 # About journal names 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Journal names are the templates that you select from when you create journals for cost transactions and service transactions. You can create journal names in the **Journal names** form.

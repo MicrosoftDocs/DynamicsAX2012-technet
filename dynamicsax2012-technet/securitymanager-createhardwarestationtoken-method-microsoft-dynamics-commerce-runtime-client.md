@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateHardwareStationToken Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a hardware station token.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CacheControlElement Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CacheControlElement](cachecontrolelement-class-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Methods

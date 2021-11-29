@@ -19,6 +19,9 @@ ms.search.region: Global
 # About sales delivery reasons 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the header of the sales order, in the **Delivery reason** field on the **Delivery** FastTab, you can select your specific reason for delivering the sales order. Your selection indicates whether the delivery is a sales delivery, or whether it is, for example, a gift or a box of samples. You can print the reason for delivery on your packing slips.

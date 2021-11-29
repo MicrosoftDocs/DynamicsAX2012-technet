@@ -17,6 +17,9 @@ dev_langs:
 
 # Markup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the mark up.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # journalize
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To record the financial consequences of accounting events in the subledger journal.
 
 ## See also

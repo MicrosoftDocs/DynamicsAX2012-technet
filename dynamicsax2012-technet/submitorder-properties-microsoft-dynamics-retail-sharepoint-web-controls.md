@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SubmitOrder Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SubmitOrder](submitorder-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Properties

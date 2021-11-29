@@ -17,6 +17,9 @@ dev_langs:
 
 # DeliveryOption Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a delivery option.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

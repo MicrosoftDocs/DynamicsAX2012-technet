@@ -13,6 +13,9 @@ f1_keywords:
 
 # subcontracting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of outsourcing service activities to vendors.
 
 ## See also

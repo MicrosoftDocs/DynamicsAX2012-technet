@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelListingId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Listing Id for the line item provided by the Channel
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

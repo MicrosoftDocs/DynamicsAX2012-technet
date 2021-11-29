@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Document Schemas 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Document schemas in Application Integration Framework (AIF) are used to define the format of the data that is exchanged. The document schema contains all the fields that can participate in a data exchange using that document service.

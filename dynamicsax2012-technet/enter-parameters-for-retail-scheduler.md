@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enter parameters for Retail Scheduler 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Retail scheduler manages communications between Microsoft Dynamics AX and channels. Use the **Retail scheduler parameters** form to configure Retail scheduler.

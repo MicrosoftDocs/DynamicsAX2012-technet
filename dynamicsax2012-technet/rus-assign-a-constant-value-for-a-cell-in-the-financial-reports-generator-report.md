@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Assign a constant value for a cell in the Financial reports generator report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Field setup** form to assign a constant numeric or text value for a cell in the Financial reports generator (FRG) report that uses a Microsoft Excel template. In the lower pane of the **Field setup** form, when you create two consecutive lines with numeric values, an arithmetic operation is performed, and the value is displayed in the cell. If one of the lines has a string value, it is concatenated with the line with the numeric value.

@@ -15,6 +15,9 @@ dev_langs:
 
 # SharePointTraceListener Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constructs a new object of type SharePointTraceListener.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

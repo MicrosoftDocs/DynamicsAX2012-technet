@@ -13,6 +13,9 @@ f1_keywords:
 
 # financial dimension value
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A data element in the domain of a financial dimension.
 
 ## See also

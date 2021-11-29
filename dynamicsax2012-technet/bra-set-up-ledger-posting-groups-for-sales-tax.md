@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up ledger posting groups for sales tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up ledger accounts in the ledger posting groups that are used to post the sales tax for Imposto sobre Circulação de Mercadorias e Serviços (ICMS) installment fiscal documents.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # back payment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment made by a customer for a past due obligation.
 
 ## See also

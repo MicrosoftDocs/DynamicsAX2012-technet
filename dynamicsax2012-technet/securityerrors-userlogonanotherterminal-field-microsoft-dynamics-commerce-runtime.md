@@ -17,6 +17,9 @@ dev_langs:
 
 # UserLogOnAnotherTerminal Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the same user has logged on in another terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

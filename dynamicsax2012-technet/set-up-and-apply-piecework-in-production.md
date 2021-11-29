@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up and apply piecework in production 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Time and attendance contains functionality for applying piecework to production jobs. The piecework setup enables workers to make registrations on piecework production jobs in the **Job registration** form for manufacturing execution.

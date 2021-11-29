@@ -17,6 +17,9 @@ dev_langs:
 
 # Identifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An identifier for this tax provider.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

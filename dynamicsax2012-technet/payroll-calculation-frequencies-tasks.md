@@ -20,6 +20,9 @@ ms.search.region: USA
 # Payroll calculation frequencies tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes the tasks that are required to set up payroll calculation frequencies.

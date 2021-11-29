@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceContext Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the overall settings and configuration to use when calculating prices for set of lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

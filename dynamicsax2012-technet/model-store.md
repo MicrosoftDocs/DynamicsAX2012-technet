@@ -13,6 +13,9 @@ f1_keywords:
 
 # model store
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A Microsoft SQL Server database where all objects in the Application Object Tree (AOT) are stored.
 
 ## See also

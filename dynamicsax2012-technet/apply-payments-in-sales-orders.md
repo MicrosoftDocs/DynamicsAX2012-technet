@@ -28,6 +28,9 @@ ms.search.region: Global
 # Apply payments in sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you create a sales order for a call center, you can enter the customer's payment information directly into the sales order and then submit the payment. This topic describes how to enter and submit payment information for a sales order.

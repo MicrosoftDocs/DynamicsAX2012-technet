@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Education, skill, and professional experience of workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In this section, you can set up and maintain competency information for employees.

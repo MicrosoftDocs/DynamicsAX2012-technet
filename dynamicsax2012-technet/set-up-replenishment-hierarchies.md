@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up replenishment hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can set up replenishment hierarchies to group the stores that are replenished. The groupings can be based on the organization, size, turnover, or type of the stores.

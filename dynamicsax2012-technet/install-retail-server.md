@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Retail Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail Server provides services and business logic for Retail Modern POS (point of sale) clients. To deploy Retail Server on multiple computers in a cluster, you can run Setup on each computer or you can manually copy the web application to each computer. Alternatively, you can use Retail mass deployment toolkit with System Center Configuration Manager to deploy Retail Server from a central location. For more information, see [Mass deploy Retail components by using System Center Configuration Manager](mass-deploy-retail-components-by-using-system-center-configuration-manager.md).

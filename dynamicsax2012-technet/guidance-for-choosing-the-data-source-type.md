@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Guidance for Choosing the Data Source Type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you define a report in Microsoft Dynamics AX you must specify how to access the data for your report. The options for data source type are query, business logic, report data provider, and AX enum provider.

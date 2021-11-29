@@ -20,6 +20,9 @@ ms.search.region: Global
 # About setting up Retail POS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Microsoft Dynamics AX for Retail POS is the point of sale (POS) program for Retail. You can use Retail POS to perform the following tasks:

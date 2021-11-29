@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use the Data import/export framework to migrate data (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to migrate data into Retail essentials. This topic covers the following procedures:

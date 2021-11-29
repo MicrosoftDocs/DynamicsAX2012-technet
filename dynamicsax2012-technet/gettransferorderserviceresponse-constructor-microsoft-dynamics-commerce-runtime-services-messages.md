@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransferOrderServiceResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the GetTransferOrderServiceResponse class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up hardware profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Create hardware profiles to set preferences and properties for a register, and for the peripheral devices that are connected to the register. These devices include receipt or document printers, customer displays, magnetic strip readers, cash drawers, bar code scanners, scales, keylocks, keyboards, electronic funds transfer (EFT) hardware, and closed-circuit television (CCTV) cameras.

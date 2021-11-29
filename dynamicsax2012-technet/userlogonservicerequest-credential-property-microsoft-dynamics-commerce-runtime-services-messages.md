@@ -17,6 +17,9 @@ dev_langs:
 
 # Credential Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Request.Credential](request-credential-property-microsoft-dynamics-commerce-runtime-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

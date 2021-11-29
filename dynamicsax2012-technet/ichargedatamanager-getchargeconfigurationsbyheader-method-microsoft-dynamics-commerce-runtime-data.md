@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChargeConfigurationsByHeader Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method retrieves all auto-charge configurations of the given type (header/line) that match the given header information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Mass hire projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides key information about mass hire projects, which you can use to hire multiple people at the same time.

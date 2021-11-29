@@ -17,6 +17,9 @@ dev_langs:
 
 # Value Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the value for the load source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # CreatePriceContext Method (RequestContext, IPricingDataManagerV2, RoundingRule, CurrencyConverter, ISet(String), ISet(Int64), IEnumerable(AffiliationLoyaltyTier), DateTimeOffset, String, String, PricingCalculationMode, DiscountCalculationMode)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine (in Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.dll)
 

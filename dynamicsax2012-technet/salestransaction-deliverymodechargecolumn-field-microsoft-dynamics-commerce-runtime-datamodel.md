@@ -17,6 +17,9 @@ dev_langs:
 
 # DeliveryModeChargeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The delivery charge column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

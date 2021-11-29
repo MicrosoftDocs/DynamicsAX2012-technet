@@ -17,6 +17,9 @@ dev_langs:
 
 # EmptyGuid Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throws ArgumentOutOfRangeException if the argument is empty GUID.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

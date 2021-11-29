@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceEntityControllerHelper(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The commerce entity controller helper.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

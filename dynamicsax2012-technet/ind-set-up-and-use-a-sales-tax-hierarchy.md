@@ -37,6 +37,9 @@ ms.search.region: India
 # (IND) Set up and use a sales tax hierarchy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Set up a sales tax hierarchy and then use the sales tax hierarchy to set up a tax setoff rule, set up a sales tax hierarchy profile, and settle sales tax transactions. For an overview of sales tax hierarchies, see [(IND) Sales tax hierarchies](ind-sales-tax-hierarchies.md).

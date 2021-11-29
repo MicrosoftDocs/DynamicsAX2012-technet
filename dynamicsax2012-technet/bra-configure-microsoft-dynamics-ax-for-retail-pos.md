@@ -24,6 +24,9 @@ ms.search.region: Brazil
 # (BRA) Configure Microsoft Dynamics AX for Retail POS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Follow the steps in this topic to configure Microsoft Dynamics AX for Retail POS for the Brazilian market.

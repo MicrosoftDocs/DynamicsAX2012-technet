@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidationResults Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the dictionary containing validation results by index of the cart line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

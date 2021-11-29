@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Improve client startup times by configuring clients to use roaming profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to configure the Microsoft Dynamics AX client for roaming user profiles in a Remote Desktop Services farm. A roaming user profile can improve client startup times.

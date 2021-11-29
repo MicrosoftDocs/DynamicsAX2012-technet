@@ -17,6 +17,9 @@ ms.search.region: USA
 # Processing payroll 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You use a combination of manual and automated tasks when you process payroll. This topic contains a high-level overview of the end-to-end process and links to more detailed information.

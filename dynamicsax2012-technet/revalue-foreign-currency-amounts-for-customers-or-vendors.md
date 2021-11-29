@@ -14,6 +14,9 @@ ms.search.region: Global
 # Revalue foreign currency amounts for customers or vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you revalue foreign currency amounts, you must set up profit and loss ledger accounts for foreign currency revaluations. Click **General ledger** \> **Setup** \> **Currency** \> **Currency revaluation accounts**. Select main accounts for the four types of exchange rate posting in the **Posting** column.

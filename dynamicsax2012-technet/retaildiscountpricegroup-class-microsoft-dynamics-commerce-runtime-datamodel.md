@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailDiscountPriceGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a retail discount price group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ErrorEventDelegate Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ErrorEventDelegate interface is the error event delegate class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

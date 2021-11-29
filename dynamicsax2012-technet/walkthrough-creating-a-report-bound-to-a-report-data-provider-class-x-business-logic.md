@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Report Bound to a Report Data Provider Class (X++ Business Logic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you use a report data provider (RDP) class with business logic to process data and then display the outcome of the business logic on a report.

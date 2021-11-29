@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CompleteAccountActivationRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CompleteAccountActivationRequestHandler](completeaccountactivationrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

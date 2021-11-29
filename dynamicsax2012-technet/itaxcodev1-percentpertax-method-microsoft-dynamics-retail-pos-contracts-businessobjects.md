@@ -17,6 +17,9 @@ dev_langs:
 
 # PercentPerTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the tax rate for the tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

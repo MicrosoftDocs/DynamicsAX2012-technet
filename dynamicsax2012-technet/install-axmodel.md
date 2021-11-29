@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Install-AXModel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Install-AXModel
 
 Installs a model from an .axmodel file to the Microsoft Dynamics AX model store database.

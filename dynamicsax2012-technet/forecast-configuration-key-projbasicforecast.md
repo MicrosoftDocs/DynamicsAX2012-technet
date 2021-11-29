@@ -14,6 +14,9 @@ f1_keywords:
 # Forecast configuration key (ProjBasicForecast) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Forecast** configuration key enables forecast functionality for projects. Forecasts can be made for hour transactions, expense transactions, item transactions, fee transactions, and on-account transactions. The transaction types are used when creating projects.

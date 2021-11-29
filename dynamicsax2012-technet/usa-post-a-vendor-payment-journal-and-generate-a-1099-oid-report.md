@@ -19,6 +19,9 @@ ms.search.region: USA
 # (USA) Post a vendor payment journal and generate a 1099 OID report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Journal voucher** form to pay the vendors of debt instruments, such as bonds or other financial instruments, that have an original issue discount (OID). When the debt instrument reaches maturity, you can settle the payment with the vendor and generate the 1099 OID report.

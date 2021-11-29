@@ -17,6 +17,9 @@ dev_langs:
 
 # InputRequired Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is the the input required or can it be skipped
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

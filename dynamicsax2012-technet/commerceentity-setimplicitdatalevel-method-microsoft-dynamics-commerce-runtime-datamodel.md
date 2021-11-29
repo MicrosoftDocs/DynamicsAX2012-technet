@@ -17,6 +17,9 @@ dev_langs:
 
 # SetImplicitDataLevel Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Allows the derived Commerce entities to set their respective data levels, while not exposing it to other assemblies.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 SQL Server Reporting Services is now the primary reporting platform for Microsoft Dynamics AX. The out-of-the-box reports that are provided with Microsoft Dynamics AX have been converted to run on the Reporting Services platform. All reports were evaluated and in some cases a report will not be provided in this release. For example, multiple reports were consolidated into a single Reporting Services report or the same data could be printed from a form. For information about the Microsoft Dynamics AX 2009 mapping to Microsoft Dynamics AX 2012 reports, see [Mapping Microsoft Dynamics AX 2009 Reports to the Microsoft Dynamics AX 2012 Version](mapping-microsoft-dynamics-ax-2009-reports-to-the-microsoft-dynamics-ax-2012-version.md). For more information about the reports that will be provided, see [Report catalog for Microsoft Dynamics AX](report-catalog-for-microsoft-dynamics-ax.md). For a Microsoft Excel version of the report list, see [Microsoft Dynamics AX 2012 and 2009 Report List](https://go.microsoft.com/fwlink/?linkid=232938).

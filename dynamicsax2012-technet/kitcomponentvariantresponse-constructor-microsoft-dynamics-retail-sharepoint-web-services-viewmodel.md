@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentVariantResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [KitComponentVariantResponse](kitcomponentvariantresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

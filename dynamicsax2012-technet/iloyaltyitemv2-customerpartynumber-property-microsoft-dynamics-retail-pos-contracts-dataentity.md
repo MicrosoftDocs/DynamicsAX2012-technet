@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerPartyNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer party number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

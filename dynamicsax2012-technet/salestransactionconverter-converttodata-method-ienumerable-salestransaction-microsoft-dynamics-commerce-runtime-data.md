@@ -15,6 +15,9 @@ dev_langs:
 
 # ConvertToData Method (IEnumerable(SalesTransaction))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts a collection of sales transactions to a collection of their database representation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

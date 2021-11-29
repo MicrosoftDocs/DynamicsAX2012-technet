@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Reverse a bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can reverse the drawn and redrawn endorsed bills of exchange (BOEs) after vendor invoices are settled. You can also settle the endorsed BOEs during the maturity period if you have not received a non-acceptance message from the vendor. The summary account number from the original transaction is considered for reversal, and the posting entry is created as debit, Endorsed BoE, and credit, accounts payable account.

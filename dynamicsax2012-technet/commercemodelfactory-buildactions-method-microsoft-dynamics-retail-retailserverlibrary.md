@@ -17,6 +17,9 @@ dev_langs:
 
 # BuildActions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Builds actions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

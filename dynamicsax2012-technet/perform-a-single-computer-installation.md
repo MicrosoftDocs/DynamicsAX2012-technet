@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Perform a single-computer installation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the information in this topic to perform a single-computer installation of Microsoft Dynamics AX. Use this type of installation to install a complete Microsoft Dynamics AX system on a single computer for development, demonstration, or testing.

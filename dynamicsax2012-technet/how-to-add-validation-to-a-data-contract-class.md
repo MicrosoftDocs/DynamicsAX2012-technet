@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add Validation to a Data Contract Class 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you want to provide additional validation, you can implement the [SysOperationValidatable](https://technet.microsoft.com/library/gg963711\(v=ax.60\)) interface that provides a validate method for a data contract. This topic describes how to validate a data contract class for the following scenarios:

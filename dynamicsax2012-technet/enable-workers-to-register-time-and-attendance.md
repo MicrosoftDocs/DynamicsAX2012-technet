@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enable workers to register time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can activate a worker as a time registration worker in **Time and attendance**, you must create a record for the worker in **Human resources**. You can only activate a worker as a time registration worker in the company that the worker is employed in. For more information, see [Workers](workers.md).

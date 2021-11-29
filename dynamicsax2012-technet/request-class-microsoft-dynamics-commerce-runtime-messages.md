@@ -17,6 +17,9 @@ dev_langs:
 
 # Request Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the base request used by all request messages.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

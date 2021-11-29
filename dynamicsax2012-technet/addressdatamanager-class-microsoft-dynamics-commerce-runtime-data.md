@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Address service data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

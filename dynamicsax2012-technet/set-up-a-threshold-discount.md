@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up a threshold discount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a threshold discount, also called an amount-based discount. A threshold discount is a discount that is given to customers when the total for a transaction reaches one or more specified amounts. For example, you could create a discount that gives a 10 percent discount for purchases over 100.00 and a flat 25.00 discount for totals over 200.00.

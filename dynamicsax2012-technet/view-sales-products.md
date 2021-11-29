@@ -16,6 +16,9 @@ ms.search.region: Global
 # View sales products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Released products** and **View item** pages to view information about the products that are set up for your legal entity. In Microsoft Dynamics AX, items and products are referred to interchangeably. A product name is always associated with an item ID. For more information, see [View items](view-items.md).

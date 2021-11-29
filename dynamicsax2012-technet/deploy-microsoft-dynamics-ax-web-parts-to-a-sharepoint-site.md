@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy Microsoft Dynamics AX Web parts to a SharePoint site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to deploy Web parts for Enterprise Portal for Microsoft Dynamics AX to sites for SharePoint. For example, if your organization uses a standard SharePoint team site, you can use the procedure in this topic to deploy an Enterprise Portal Web part to that team site.

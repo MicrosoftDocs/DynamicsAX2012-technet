@@ -19,6 +19,9 @@ ms.search.region: Global
 # Maintain purchase requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about how to update a purchase requisition that you have submitted for review, or review a purchase requisition that has been submitted to you for review. You can also view the history of changes that were made to a purchase requisition during the review process.

@@ -22,6 +22,9 @@ ms.search.region: Global
 # About cost categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The function of a cost category in **Cost accounting** is equivalent to the function of a chart of accounts in **General ledger**. Cost amounts are posted to cost categories through general ledger postings or cost accounting postings.

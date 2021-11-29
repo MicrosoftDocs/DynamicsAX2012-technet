@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy a claims-mode Enterprise Portal site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to install Enterprise Portal for Microsoft Dynamics AX with claims-based authentication. Enterprise Portal supports forms-based authentication or Active Directory Federations Services authentication.

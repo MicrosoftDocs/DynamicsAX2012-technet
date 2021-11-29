@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Configuring required Accounts receivable information (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section explain how to configure Accounts receivable information for public sector organizations. These topics complement those that can be found under the main section for “[Configuring required Accounts receivable information](configuring-required-accounts-receivable-information.md).”

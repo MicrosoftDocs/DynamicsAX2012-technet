@@ -17,6 +17,9 @@ dev_langs:
 
 # Convert Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Convert quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

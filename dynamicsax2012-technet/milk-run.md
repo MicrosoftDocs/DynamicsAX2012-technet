@@ -13,6 +13,9 @@ f1_keywords:
 
 # milk run
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A freight delivery route that entails two or more stops, where the carrier delivers loads either from a single supplier to multiple buyers or from multiple suppliers to a single buyer.
 
 ## See also

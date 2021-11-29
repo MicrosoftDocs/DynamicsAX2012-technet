@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up payment services (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can configure Retail essentials to process credit card transactions at retail point-of-sale (POS) registers. Payment data is captured once and then flows securely from the POS registers through your business processes in Retail essentials. This topic explains how to set up a payment service for Retail essentials to accept a variety of payment types.

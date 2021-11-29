@@ -29,6 +29,9 @@ ms.search.region: Spain
 # (ESP) Create and post a corrective invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to create and post a corrective invoice for a posted sales order, purchase order, invoice journal, free text invoice, or project invoice. After creating the corrective invoice, you can link it to the posted original invoice and specify the reason to correct the original invoice.
 
 ## Prerequisites

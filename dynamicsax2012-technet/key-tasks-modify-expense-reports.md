@@ -17,6 +17,9 @@ ms.search.region: Global
 # Key tasks: Modify expense reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to change or update an expense report in Enterprise Portal for Microsoft Dynamics AX. You might need to update an expense report for a variety of reasons, including the following:

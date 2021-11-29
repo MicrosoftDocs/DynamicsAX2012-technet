@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Project manager security role (ProjProjectManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Project manager security role represents a user who documents project forecast budget events and responds to project forecast budget inquiries. This user maintains project accounting master information and responds to project accounting master information inquiries. This person also authorizes project accounting process events.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrentPasswordPanel Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The current password panel.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

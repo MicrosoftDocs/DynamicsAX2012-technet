@@ -22,6 +22,9 @@ ms.search.region: Global
 # Place an Accounts payable payment on hold 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can put Accounts payable payments on hold until a specified date, or indefinitely. You can hold all payments for a specific vendor or invoice. You might want to hold all payments for a vendor until a dispute is resolved, or you might want to hold the payment for an invoice until funds become available.

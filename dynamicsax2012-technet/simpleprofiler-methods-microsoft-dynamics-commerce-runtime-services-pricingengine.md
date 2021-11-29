@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SimpleProfiler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SimpleProfiler](simpleprofiler-class-microsoft-dynamics-commerce-runtime-services-pricingengine.md) type exposes the following members.
 
 ## Methods

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # QueryResultSettings Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [QueryResultSettings](queryresultsettings-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

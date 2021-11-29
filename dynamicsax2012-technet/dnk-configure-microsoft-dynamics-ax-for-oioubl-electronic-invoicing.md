@@ -17,6 +17,9 @@ ms.search.region: Denmark
 # (DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use electronic invoicing in Microsoft Dynamics AX to send electronic invoices to the government in the Offentlig Information Online Universal Business Language (OIOUBL) format.

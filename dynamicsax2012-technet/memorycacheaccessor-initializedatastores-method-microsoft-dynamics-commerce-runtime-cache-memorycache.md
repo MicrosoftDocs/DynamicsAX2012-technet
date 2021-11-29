@@ -17,6 +17,9 @@ dev_langs:
 
 # InitializeDataStores Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes the static object that is the data store manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

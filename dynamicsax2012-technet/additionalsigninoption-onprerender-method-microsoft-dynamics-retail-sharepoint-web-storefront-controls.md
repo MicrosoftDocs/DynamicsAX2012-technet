@@ -18,6 +18,9 @@ dev_langs:
 
 # OnPreRender Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Raises the [PreRender](https://technet.microsoft.com/library/768a7bzf\(v=ax.60\)) event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

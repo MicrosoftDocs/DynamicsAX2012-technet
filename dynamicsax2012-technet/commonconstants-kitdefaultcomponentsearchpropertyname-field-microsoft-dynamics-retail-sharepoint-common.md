@@ -17,6 +17,9 @@ dev_langs:
 
 # KitDefaultComponentSearchPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the search property that contains the kits that have the item as a default component.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

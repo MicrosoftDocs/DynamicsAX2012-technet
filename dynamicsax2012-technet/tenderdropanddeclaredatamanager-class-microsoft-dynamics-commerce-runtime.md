@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderDropAndDeclareDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DataManager class for Nonsale tender operation data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

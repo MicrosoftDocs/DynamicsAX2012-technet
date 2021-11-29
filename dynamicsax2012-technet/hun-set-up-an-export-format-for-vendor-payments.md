@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up an export format for vendor payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use export formats to receive bank statements from banks and to create payment files from Microsoft Dynamics AX.

@@ -18,6 +18,9 @@ dev_langs:
 
 # AffiliationInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Affiliation information of the customer order, encapsulating the transmitting data via Real-time Service invocation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

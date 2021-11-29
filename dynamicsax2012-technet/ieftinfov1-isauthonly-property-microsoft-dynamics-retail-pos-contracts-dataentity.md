@@ -17,6 +17,9 @@ dev_langs:
 
 # IsAuthOnly Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or sets whether the EFT request is for authorize-only and should not be captured.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

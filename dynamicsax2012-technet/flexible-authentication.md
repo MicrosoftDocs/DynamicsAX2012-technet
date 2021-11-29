@@ -13,6 +13,9 @@ f1_keywords:
 
 # flexible authentication
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An authentication process where users in a variety of identity management systems can be authenticated.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # expiration date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date on which something ceases to be effective.
 
 ## See also

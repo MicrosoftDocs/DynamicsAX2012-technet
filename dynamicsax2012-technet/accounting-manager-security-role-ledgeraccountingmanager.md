@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounting manager security role (LedgerAccountingManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Accounting manager security role represents a user who reviews accounting, customer invoice, vendor invoice, and payment process performance and enables those processes.

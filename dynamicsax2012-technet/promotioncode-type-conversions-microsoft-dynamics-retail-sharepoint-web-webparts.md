@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PromotionCode Type Conversions
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PromotionCode](promotioncode-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Operators

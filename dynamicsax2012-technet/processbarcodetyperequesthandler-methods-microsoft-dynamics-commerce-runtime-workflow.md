@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProcessBarcodeTypeRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProcessBarcodeTypeRequestHandler](processbarcodetyperequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

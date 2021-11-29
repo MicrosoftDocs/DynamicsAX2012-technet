@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IStockCount Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IStockCount](istockcount-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateOrderForCancellation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates the order for cancellation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

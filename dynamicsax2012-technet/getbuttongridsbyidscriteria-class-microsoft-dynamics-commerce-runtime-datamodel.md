@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridsByIdsCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Criteria object for retrieving one or multiple buttongrids at a time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # EvictItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Evicts from the cache the item with the specified key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

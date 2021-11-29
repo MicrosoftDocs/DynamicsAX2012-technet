@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Amortize an unrecoverable debt in Accounts receivable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can amortize unrecoverable debt, you must create the register journal for the period during which the amortization is run, and calculate and approve the Accounts receivable – reserves.

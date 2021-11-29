@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Bank configuration key (Bank) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bank** configuration key controls access to the Cash and bank management forms and functions.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a transfer journal based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Transfer** form to create and post a transfer journal based on the inventory profile. The transfer journal line can have different values for the inventory profiles, but the values should belong to the same kind of activity. When you post a journal, there can be transactions in the general ledger if inventory profiles have different accounts in inventory posting.

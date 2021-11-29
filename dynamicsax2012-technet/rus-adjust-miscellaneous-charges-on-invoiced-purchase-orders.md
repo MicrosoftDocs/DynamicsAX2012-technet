@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Adjust miscellaneous charges on invoiced purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to adjust charges on an invoiced purchase order and allocate the charges to the invoice lines by using the weight and volume information on the lines. For order lines that contain items, the allocation is based on the information in the item record. For category-based lines, the allocation is based on the information on the order line. Category-based order lines do not contain any volume information for the goods.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a default item sales tax group for a main account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To make sure that sales tax is calculated on all journal transactions that are posted to main accounts, you can set up a default item sales tax group for all main accounts. You can also set up default item sales tax groups for specific main accounts. This setting overrides the default item sales tax group that is set up for all main accounts.

@@ -22,6 +22,9 @@ ms.search.region: Denmark, France
 # About general budget reservations (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A general budget reservation, sometimes referred to as a commitment, is a document often used by public sector entities to set aside or earmark budgeted funds so that they are not available for other purposes. Typically these reservations are made before any vendors have been selected for the purchase. Using general budget reservations, an organization can explicitly track planned expenditures for management and reporting. Each purchase requisition, purchase order, or vendor invoice that is generated can be associated with at least one general budget reservation.

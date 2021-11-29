@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Print journal report (LedgerTransPreview\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Print journal report displays the ledger transactions that are generated after a journal is posted. Before a journal is posted, accountants generate this report to preview the ledger transactions.

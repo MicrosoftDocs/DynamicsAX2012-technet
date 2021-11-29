@@ -17,6 +17,9 @@ dev_langs:
 
 # HeadquarterResponseParsingError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicate that there was an error in parsing the response data from the headquarter component.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

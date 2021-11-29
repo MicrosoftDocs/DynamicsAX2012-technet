@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCustomerOrderModeForVoidProducts Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that transaction has invalid customer order mode for void products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

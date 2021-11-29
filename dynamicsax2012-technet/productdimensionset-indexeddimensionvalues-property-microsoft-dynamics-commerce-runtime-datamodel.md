@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedDimensionValues Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the indexed set of values of this dimension for the current product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

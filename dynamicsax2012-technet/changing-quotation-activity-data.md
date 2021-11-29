@@ -14,6 +14,9 @@ ms.search.region: Global
 # Changing quotation activity data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you change quotation data, do so carefully because changes can affect the data for the related quotation activity. This topic describes the changes that you can make to quotations, and the effects that the changes have on the data for quotation activities.

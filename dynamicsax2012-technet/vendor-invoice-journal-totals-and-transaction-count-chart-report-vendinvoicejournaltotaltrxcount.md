@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor invoice journal totals and transaction count chart report (VendInvoiceJournalTotalTrxCount) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor invoice journal totals and transaction count chart** report to view the total vendor invoice amount and the number of transactions for a specified invoice journal, in graphical form.

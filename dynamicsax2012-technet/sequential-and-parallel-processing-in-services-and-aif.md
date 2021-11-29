@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sequential and parallel processing in services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you use asynchronous adapters, performance can be affected by the rate at which messages move through the gateway queue for Application Integration Framework (AIF). In asynchronous scenarios, messages are periodically retrieved from file folders or Message Queuing queues. These messages include batched messages. The frequency at which messages are retrieved and then processed is determined by the recurrence setting of a batch job.

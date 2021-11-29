@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create invoice proposals for projects with and without billing rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you create a customer invoice for a project, you can create a preliminary invoice. This preliminary invoice is also known as an invoice proposal. In the invoice proposal, you define the information about a customer invoice, such as the invoicing method and the transactions that are included.

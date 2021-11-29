@@ -14,6 +14,9 @@ ms.search.region: Switzerland
 # (CHE) Swiss LSV+ electronic payment format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Swiss electronic payment system enables companies to deduct customer payments directly from a customer’s bank, also known as direct debit or Lastschriftenverfahren (LSV). To enable this kind of payment, you and your customer sign a contract in advance. To deduct customer payments, you must send a payment file to the bank, and the bank collects the payments requested in the file. You then download a file together with received customer payments and a reference number that corresponds to the invoice for the payment. Alternatively, the bank provides a report that shows the processed LSV payments, and the payments can be entered manually in a payment journal.

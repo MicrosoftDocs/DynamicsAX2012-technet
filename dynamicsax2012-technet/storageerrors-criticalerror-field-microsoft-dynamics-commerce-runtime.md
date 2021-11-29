@@ -17,6 +17,9 @@ dev_langs:
 
 # CriticalError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates a critical failure from the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

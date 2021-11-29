@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the tax code that is associated with TaxItem. There may be two or more tax codes that contribute to the overall tax amount for an item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

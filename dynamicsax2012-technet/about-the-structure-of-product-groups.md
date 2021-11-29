@@ -19,6 +19,9 @@ ms.search.region: Global
 # About the structure of product groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product groups are used to present items in a way that is suited to the Internet. This topic describes the layout of the **Product groups** form, and how to use the form. (Click **Product information management** \> **Setup** \> **Product catalogs** \> **Product groups**.)

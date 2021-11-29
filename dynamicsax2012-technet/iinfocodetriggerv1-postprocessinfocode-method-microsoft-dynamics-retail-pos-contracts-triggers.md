@@ -17,6 +17,9 @@ dev_langs:
 
 # PostProcessInfocode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called after the infocode has been processed. Any checking and/or additional input validation can be done here.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

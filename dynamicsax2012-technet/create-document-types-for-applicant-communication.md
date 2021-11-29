@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create document types for applicant communication 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create document templates and application email templates, you must create the document types that will be used by each. For instructions to create a new document type, see [Configure document management](configure-document-management.md).

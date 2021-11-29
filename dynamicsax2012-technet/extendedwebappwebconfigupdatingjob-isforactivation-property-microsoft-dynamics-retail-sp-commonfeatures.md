@@ -17,6 +17,9 @@ dev_langs:
 
 # IsForActivation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the value indicating whether this job is for activation or deactivation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

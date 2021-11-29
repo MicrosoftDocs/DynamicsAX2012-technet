@@ -13,6 +13,9 @@ f1_keywords:
 
 # conversion cycle
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A recurring set of production and logistics activities performed by parties that manufacture or distribute items.
 
 ## See also

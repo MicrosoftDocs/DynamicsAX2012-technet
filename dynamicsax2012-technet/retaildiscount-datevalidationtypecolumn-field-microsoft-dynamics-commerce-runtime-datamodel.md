@@ -17,6 +17,9 @@ dev_langs:
 
 # DateValidationTypeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Date validation type column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

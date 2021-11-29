@@ -17,6 +17,9 @@ dev_langs:
 
 # CityDescription Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Description of city (Russia)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Execute Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes handler and handles exceptions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

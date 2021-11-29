@@ -13,6 +13,9 @@ f1_keywords:
 
 # source inventory location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The inventory location where materials required by a kanban production activity or transfer activity are picked.
 
 ## See also

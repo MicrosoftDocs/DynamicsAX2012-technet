@@ -15,6 +15,9 @@ dev_langs:
 
 # ItemAvailabilitiesQueryCriteria Constructor (IEnumerable(ItemWarehouse))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ItemAvailabilitiesQueryCriteria](itemavailabilitiesquerycriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) class for the GetItemAvailabilitiesByItemWarehouses call.
 
 Get item availabilities by item and warehouse combinations.

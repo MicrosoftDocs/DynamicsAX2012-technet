@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IOperationTrigger Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IOperationTrigger](ioperationtrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

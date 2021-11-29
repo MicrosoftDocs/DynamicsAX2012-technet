@@ -13,6 +13,9 @@ f1_keywords:
 
 # face value
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The stated value that is displayed on the face of a monetary unit, such as a bill, coin, or gift card. For gift cards, the face value is the starting balance, which was paid when the gift card was issued.
 
 ## See also

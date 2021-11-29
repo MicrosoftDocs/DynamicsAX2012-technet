@@ -14,6 +14,9 @@ dev_langs:
 # Install Enterprise Search on FAST Search Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to deploy Microsoft Dynamics AX Enterprise Search on FAST Search Server 2010 for SharePoint.

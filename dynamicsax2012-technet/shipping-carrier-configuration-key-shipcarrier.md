@@ -14,6 +14,9 @@ f1_keywords:
 # Shipping carrier configuration key (ShipCarrier) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Shipping carrier** configuration key controls access to forms and functions for integration with shipping carriers.

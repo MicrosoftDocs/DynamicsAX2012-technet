@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IInfoCodeSystemV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Methods
 
 <table>

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Expedite orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to expedite sales orders that are created in a call center. To use an expedited mode for an order, you must first set up codes that specify how much to expedite orders. You can optionally use one of these codes to set up a mode of delivery that is always expedited. Then, in the sales order, select either an expedite code or an expedited mode of delivery. These settings cause the order to be marked as expedited in the picking list.

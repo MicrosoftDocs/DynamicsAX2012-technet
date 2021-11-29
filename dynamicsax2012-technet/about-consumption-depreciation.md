@@ -15,6 +15,9 @@ ms.search.region: Global
 # About consumption depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you set up a depreciation profile for fixed assets and you select **Consumption** in the **Method** field in the **Depreciation profiles** form, the fixed assets that are assigned to this depreciation profile are based on the usage of those fixed assets.

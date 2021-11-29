@@ -14,6 +14,9 @@ ms.search.region: Global
 # Local and global validation rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Validation rules are used for validation of user input after a user has entered a value for a modeling variable. For example, if you are creating a product model for a lamp and want to restrict the user's choice of the lamp height to a certain range in case he or she had selected 3 or more bulbs for it, you would use validation rules to set this up.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelCurrencyAmountRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to get all channel currencies sales amount with exchange rates.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

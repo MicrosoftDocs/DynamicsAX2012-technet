@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) About Russian purchase and sales agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A purchase agreement or sales agreement is a contract that commits a customer to buying a specified quantity of items from a seller by using multiple purchase orders over time. In exchange for this commitment, the customer may receive special prices and discounts on the items that are purchased. The contract can include details such as a specific quantity of an item, a specific price for an item, or a specific price for the items in a procurement category. The prices and discounts of the purchase agreement can override the prices and discounts that are specified in any trade agreements that may exist. For more information, see [About sales agreements](about-sales-agreements.md) and [About purchase agreements](about-purchase-agreements.md).

@@ -23,6 +23,9 @@ ms.search.region: Global
 # Print management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use print management to manage the content of source documents, and generate and deliver them in a consistent way. You can use print management to print one original and many copies of a document that is produced as part of the posting process. This is like using preprinted, multiple-part forms in manual accounting systems.

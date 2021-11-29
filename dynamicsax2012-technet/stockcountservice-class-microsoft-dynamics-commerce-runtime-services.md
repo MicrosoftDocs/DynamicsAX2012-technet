@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an implementation of the stock count service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

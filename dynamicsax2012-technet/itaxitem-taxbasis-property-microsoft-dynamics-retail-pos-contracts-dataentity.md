@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxBasis Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the tax basis by setting a value that is used as the starting point for a tax formula.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

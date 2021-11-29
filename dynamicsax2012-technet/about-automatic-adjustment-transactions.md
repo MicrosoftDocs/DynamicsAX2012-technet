@@ -19,6 +19,9 @@ ms.search.region: Global
 # About automatic adjustment transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your Microsoft Dynamics AX administrator may have configured the system to always create two new adjustment records, regardless of which field on the entry line is adjusted. One of these transactions is created to cancel the original entry with a negative amount, and the other new entry is created with the adjusted amount.

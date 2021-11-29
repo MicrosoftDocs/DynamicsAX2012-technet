@@ -19,6 +19,9 @@ f1_keywords:
 # Resource assignment analysis report (PSAResourceAssignmentAnalysis) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Resource assignment analysis** report to view a list of worker assignments based on criteria that you select. For example, you can select project types and worker commitment types in a date range. You can also select a specific project, quotation, activity, date, starting time, or ending time to filter the information on the report.

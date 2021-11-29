@@ -17,6 +17,9 @@ dev_langs:
 
 # BarcodeService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an implementation of the BarCode service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

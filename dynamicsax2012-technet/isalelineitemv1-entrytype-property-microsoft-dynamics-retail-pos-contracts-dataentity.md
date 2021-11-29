@@ -17,6 +17,9 @@ dev_langs:
 
 # EntryType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The method of item entry, scanned,keyboard,selected.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

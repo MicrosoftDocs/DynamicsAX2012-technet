@@ -18,6 +18,9 @@ dev_langs:
 
 # ToString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) that represents this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

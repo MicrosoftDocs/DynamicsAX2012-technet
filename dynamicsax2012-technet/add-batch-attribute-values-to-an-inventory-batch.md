@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add batch attribute values to an inventory batch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to add batch attribute values to an inventory batch after you have added the attributes to the item associated with the batch.

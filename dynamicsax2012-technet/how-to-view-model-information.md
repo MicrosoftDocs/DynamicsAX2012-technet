@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: View Model Information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As you develop for Microsoft Dynamics AX, it can be useful to see details about models. The following sections discuss several ways you can see model information in the Development Workspace.

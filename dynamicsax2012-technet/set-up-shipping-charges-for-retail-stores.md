@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up shipping charges for retail stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up shipping charges for customer orders that are created in retail stores. For information about setting up shipping charges for customer orders that are created in online stores, see [Set up shipping charges for online stores](set-up-shipping-charges-for-online-stores.md).

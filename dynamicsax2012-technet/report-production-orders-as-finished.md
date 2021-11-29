@@ -22,6 +22,9 @@ ms.search.region: Global
 # Report production orders as finished 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the production process is completed, you can report production orders as finished. You can also report production orders as finished when partial or whole order quantities are physically received into inventory. When you report production orders as finished, you post a **Report as finished** journal.

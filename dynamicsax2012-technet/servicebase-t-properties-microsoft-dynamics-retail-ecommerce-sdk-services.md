@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ServiceBase(T) Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ServiceBase\<T\>](servicebase-t-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

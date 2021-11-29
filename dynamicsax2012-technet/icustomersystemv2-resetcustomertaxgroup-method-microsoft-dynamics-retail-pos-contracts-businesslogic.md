@@ -17,6 +17,9 @@ dev_langs:
 
 # ResetCustomerTaxGroup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Resets the customer tax group.

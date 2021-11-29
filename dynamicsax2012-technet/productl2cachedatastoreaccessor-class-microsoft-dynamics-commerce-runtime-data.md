@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductL2CacheDataStoreAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database accessor, specialized in retrieving listing information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

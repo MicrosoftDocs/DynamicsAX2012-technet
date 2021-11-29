@@ -17,6 +17,9 @@ dev_langs:
 
 # MarkupTable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the markup table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

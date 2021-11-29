@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up Budgeting workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some organizations require that Budgeting documents, such as budget register entries and general budget reservations, be approved by a user other than the person who entered them. To set up an approval process, you can create a Budgeting workflow. You can also set up other processes to update budget balances without user intervention or to have a user review the information in a Budgeting document.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the StockCount Journal and retuns the created journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

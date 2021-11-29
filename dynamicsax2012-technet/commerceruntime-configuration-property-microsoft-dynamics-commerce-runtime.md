@@ -17,6 +17,9 @@ dev_langs:
 
 # Configuration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

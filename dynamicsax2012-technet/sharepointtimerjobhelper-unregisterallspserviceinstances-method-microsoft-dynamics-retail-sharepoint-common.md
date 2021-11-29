@@ -17,6 +17,9 @@ dev_langs:
 
 # UnregisterAllSPServiceInstances Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unregisters all service instances of a service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

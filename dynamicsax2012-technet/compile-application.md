@@ -15,6 +15,9 @@ f1_keywords:
 # Compile application 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the Microsoft Dynamics AX application is compiled, its X++ source code is translated into a machine-executable format that can be interpreted by the Microsoft Dynamics AX server and clients. This topic addresses the **Compile application** task common to several checklists as well as other situations where you may need to compile.

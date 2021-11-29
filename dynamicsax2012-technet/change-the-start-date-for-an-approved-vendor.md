@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the start date for an approved vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to change the start date of the effective approval period for a product that is authorized for an approved vendor. To change the start date, use either the **Released products list page** form or the **Released product details** form.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetVariants Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the variant using the specified item and inventory dimension identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

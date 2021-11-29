@@ -16,6 +16,9 @@ ms.search.region: Global
 # Setting up and maintaining Project management and accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use **Project management and accounting** to create and manage projects in Microsoft Dynamics AX. You can set up project parameters, project groups, timesheet entry parameters, approval workflows, validation requirements, pricing groups, cost or sales prices, or forecast models. You can also set up project categories, category groups, or shared categories.

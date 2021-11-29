@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeTimeRegistrationWorkflowHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Workflow helper class for employee time registration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

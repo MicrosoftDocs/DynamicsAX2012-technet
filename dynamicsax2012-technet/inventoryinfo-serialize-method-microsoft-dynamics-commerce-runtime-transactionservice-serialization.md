@@ -17,6 +17,9 @@ dev_langs:
 
 # Serialize Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serializes the specified inventory info.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

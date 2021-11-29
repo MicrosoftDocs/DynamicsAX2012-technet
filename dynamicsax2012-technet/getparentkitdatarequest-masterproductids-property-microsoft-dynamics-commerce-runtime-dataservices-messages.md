@@ -17,6 +17,9 @@ dev_langs:
 
 # MasterProductIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of the master product identifiers present in the [ProductIds](getparentkitdatarequest-productids-property-microsoft-dynamics-commerce-runtime-dataservices-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

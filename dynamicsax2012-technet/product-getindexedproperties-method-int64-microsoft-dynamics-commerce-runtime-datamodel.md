@@ -15,6 +15,9 @@ dev_langs:
 
 # GetIndexedProperties Method (Int64)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Given a variant id, returns the properties of that variant, as a collection indexed on the property key name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

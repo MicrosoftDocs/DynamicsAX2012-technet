@@ -17,6 +17,9 @@ ms.search.region: Global
 # Review a submitted project budget or budget revision 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After an original project budget is submitted for approval, the worker who is assigned the step of approving the budget receives a notification that the budget is ready for review. The reviewer can approve or reject the budget, or delegate the approval permission to another worker. The same process occurs when a project budget revision is submitted for approval. Each budget revision submittal must be reviewed individually and has its own workflow cycle.

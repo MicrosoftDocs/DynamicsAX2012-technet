@@ -13,6 +13,9 @@ f1_keywords:
 
 # formula item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An output of a batch process controlled by a formula.
 
 ## See also

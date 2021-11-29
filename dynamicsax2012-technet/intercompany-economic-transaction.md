@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany economic transaction
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An economic transaction between legal entities that are part of the same organization that consolidates the accounts of the legal entities.
 
 ## See also

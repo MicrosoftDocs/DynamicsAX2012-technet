@@ -17,6 +17,9 @@ dev_langs:
 
 # ActiveDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the date for which the exchange rate should be active.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

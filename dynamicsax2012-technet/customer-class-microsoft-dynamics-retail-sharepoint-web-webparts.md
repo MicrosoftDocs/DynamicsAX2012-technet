@@ -17,6 +17,9 @@ dev_langs:
 
 # Customer Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The customer web part allows entering of customer data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatedOffline Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether this transaction was created while the terminal was offline.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

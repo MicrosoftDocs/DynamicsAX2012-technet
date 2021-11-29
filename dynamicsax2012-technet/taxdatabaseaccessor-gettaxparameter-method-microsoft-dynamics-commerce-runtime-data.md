@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTaxParameter Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax parameter.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

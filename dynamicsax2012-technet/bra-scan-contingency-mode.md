@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) SCAN contingency mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can turn on and use the Sistema de Contingência do Ambiente Nacional (SCAN) contingency environment to generate, export, and import the status of a Nota Fiscal eletrônica (NF-e) when the origin Secretaria da Fazenda (SEFAZ) environment is not available. You can turn off the SCAN contingency mode when the origin SEFAZ is available.

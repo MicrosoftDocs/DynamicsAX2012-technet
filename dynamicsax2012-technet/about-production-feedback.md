@@ -15,6 +15,9 @@ ms.search.region: Global
 # About production feedback 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When workers register time and item consumption on production jobs that have been set up to use Time and attendance, the registrations are posted on the relevant production order.

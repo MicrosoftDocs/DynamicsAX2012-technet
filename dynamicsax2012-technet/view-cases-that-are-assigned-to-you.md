@@ -16,6 +16,9 @@ ms.search.region: Global
 # View cases that are assigned to you 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view the list of cases that you created or that are assigned to you, including cases that are related to customer or vendor issues and cases that are related to audit violations. You can also view detailed information about a specific case, such as the status of the case, activities, and knowledge articles that employees are using to resolve the issue.

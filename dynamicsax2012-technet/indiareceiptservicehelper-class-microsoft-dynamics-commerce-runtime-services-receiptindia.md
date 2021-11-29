@@ -17,6 +17,9 @@ dev_langs:
 
 # IndiaReceiptServiceHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The India receipt helper to get the formatted receipts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.ReceiptIndia](microsoft-dynamics-commerce-runtime-services-receiptindia-namespace.md)  

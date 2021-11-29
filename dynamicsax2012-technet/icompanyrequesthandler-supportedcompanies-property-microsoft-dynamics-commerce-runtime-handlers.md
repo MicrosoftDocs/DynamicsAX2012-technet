@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportedCompanies Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of companies supported by this request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Handlers](microsoft-dynamics-commerce-runtime-handlers-namespace.md)  

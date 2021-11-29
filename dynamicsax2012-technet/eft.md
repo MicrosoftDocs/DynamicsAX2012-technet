@@ -13,6 +13,9 @@ f1_keywords:
 
 # EFT
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A networked system for transferring funds from one bank account to another.
 
 ## See also

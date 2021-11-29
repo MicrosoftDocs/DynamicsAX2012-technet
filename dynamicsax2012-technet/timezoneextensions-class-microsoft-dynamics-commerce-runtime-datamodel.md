@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeZoneExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The TimeZoneExtensions class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

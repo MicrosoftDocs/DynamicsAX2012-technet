@@ -18,6 +18,9 @@ dev_langs:
 
 # Url Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The URL field name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Personal expenses on an expense report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 During business travel, workers may sometimes charge personal expenses to their corporate credit cards. If you do not define a process for personal expenses, the approval process for expense reports may be disrupted when workers submit their itemized expense reports. In Microsoft Dynamics AX, there are two methods for dealing with a worker's personal expenses:

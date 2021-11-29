@@ -13,6 +13,9 @@ f1_keywords:
 
 # shopping cart
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A virtual container that stores products that have been selected for purchase from a procurement catalog or a vendor catalog.
 
 ## See also

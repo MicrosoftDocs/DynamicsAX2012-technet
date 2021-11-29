@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AuthenticateDevicePartialRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AuthenticateDevicePartialRequestHandler](authenticatedevicepartialrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

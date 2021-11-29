@@ -13,6 +13,9 @@ f1_keywords:
 
 # mathematical expression
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A mathematical statement whose symbols comprise numbers, variables, and mathematical operations.
 
 ## See also

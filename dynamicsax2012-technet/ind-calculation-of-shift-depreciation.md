@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculation of shift depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate shift depreciation for a value model with a **Current** status selected in the **Posting layer** field and a straight line percentage method or reducing balance depreciation method selected in the **Depreciation profile** field in the **Value models** form, per the Companies Act, 1956.

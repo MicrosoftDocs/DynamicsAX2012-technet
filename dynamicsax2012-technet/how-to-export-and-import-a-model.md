@@ -14,6 +14,9 @@ dev_langs:
 # How to: Export and Import a Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A model is a set of elements in a given layer. Each layer consists of one or more models. Models can be exported to files that have the .axmodel extension. These files are called model files. Model files are deployment artifacts that can be imported into a model store.

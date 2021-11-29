@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Adding an Image to Product Search Results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In this walkthrough, you will customize Microsoft Dynamics AX for Retail POS by adding images to items displayed during a product search. As part of this customization, you will learn:

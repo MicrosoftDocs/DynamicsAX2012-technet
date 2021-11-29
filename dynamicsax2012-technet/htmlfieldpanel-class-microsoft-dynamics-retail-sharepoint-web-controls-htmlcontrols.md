@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlFieldPanel Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Container panel for an input field.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

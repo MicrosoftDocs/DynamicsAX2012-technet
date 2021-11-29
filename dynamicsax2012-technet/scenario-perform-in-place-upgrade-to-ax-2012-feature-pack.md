@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Perform in-place upgrade to AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 An upgrade Microsoft Dynamics AX 2012 to Microsoft Dynamics AX 2012 Feature Pack is an in-place upgrade. Upgrades of this kind differ significantly from source-to-target upgrades, such as the upgrade from Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012. There is no source-to-target workflow. Instead, the installation of a new model file on the existing Microsoft Dynamics AX 2012 system causes the **Software update checklist** to open when the system is restarted. The upgrade is completed by performing the tasks on this checklist.

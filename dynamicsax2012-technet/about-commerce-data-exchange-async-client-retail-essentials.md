@@ -16,6 +16,9 @@ f1_keywords:
 # About Commerce Data Exchange: Async Client (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Commerce Data Exchange: Async Client is part of the system for asynchronous data exchange between Microsoft Dynamics AX and retail stores. Async Client is installed at the store and communicates with the store database.

@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Create a payment order by using a vendor payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can create a payment order by using a vendor payment journal, you must set up a method of payment that includes any available export format. For more information, see [Set up payment types for vendor methods of payment](set-up-payment-types-for-vendor-methods-of-payment.md).

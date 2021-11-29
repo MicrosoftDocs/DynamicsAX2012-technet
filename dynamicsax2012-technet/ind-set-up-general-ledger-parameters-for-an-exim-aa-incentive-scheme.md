@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Set up general ledger parameters for an EXIM AA incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Setting up general ledger parameters is the first step for setting up an advance authorization (AA) incentive scheme. You must also set up tax ledger posting groups and export-import (EXIM) ports. For more information about those steps, see [(IND) Set up tax ledger posting groups](ind-set-up-tax-ledger-posting-groups.md) and [(IND) Set up EXIM ports](ind-set-up-exim-ports.md).

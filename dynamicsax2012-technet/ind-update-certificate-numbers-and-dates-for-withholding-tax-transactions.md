@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Update certificate numbers and dates for withholding tax transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Update certificate** form to update the recoverable certificate numbers and dates for withholding tax transactions.

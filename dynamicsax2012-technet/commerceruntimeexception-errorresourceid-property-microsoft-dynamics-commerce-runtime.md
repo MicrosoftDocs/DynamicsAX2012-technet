@@ -17,6 +17,9 @@ dev_langs:
 
 # ErrorResourceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the error resource identifier associated with this exception.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

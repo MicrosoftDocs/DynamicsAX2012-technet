@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyCrtConnectionString Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies a configuration key to access CRT DB Connection string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

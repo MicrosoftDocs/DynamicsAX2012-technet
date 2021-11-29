@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CompositeKeyRouter Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CompositeKeyRouter](compositekeyrouter-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md) type exposes the following members.
 
 ## Methods

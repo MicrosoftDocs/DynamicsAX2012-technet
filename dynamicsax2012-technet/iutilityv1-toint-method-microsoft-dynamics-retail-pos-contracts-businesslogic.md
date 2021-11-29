@@ -17,6 +17,9 @@ dev_langs:
 
 # ToInt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts value to an integer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

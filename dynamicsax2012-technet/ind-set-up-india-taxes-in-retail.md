@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Set up India taxes in Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Charges code** form to enable the calculation of taxes for customer order charges in Retail.

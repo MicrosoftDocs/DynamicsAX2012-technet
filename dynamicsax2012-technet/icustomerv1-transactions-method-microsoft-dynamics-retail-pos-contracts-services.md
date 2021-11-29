@@ -17,6 +17,9 @@ dev_langs:
 
 # Transactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints customer transaction this method is triggered by the customer transaction operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

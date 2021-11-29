@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Reverse a closed conditional sales tax transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sales tax is paid on conditional sales transactions when an invoice is settled, not when the invoice is posted. For invoices that are not fully settled with a single payment, you must report and pay sales tax only on the amounts that are settled. You can reverse a conditional sales tax transaction only during the fiscal month in which it was created.

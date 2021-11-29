@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up and calculate the bank payment fees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up and calculate the bank payment fees that you pay when you make a payment to a vendor.

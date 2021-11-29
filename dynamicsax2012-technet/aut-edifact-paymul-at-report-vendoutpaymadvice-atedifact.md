@@ -19,6 +19,9 @@ f1_keywords:
 # (AUT) EDIFACT-PAYMUL (AT) report (VendOutPaymAdvice\_ATEDIFACT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **EDIFACT-PAYMUL (AT)** report prints the payment advice for electronic vendor payments. The payment advice includes the actual payment and the invoice amount that has been paid. This report is typically used by accounts payable payments clerks to maintain vendor payments.

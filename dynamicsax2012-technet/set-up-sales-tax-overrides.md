@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up sales tax overrides 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can set up sales tax overrides, so that cashiers can modify the amount of tax on a sales transaction. Sales tax overrides are useful in various scenarios. Consider the following examples:

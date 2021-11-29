@@ -20,6 +20,9 @@ ms.search.region: Global
 # About flexible budgets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you create a flexible budget, you must create and set up a flexible budget model in the **Budget model** form.

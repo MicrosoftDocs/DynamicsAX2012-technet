@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customer service representative security role (TradeCustomerServiceRepresentative) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Customer service representative security role represents a user who documents customer service events and responds to customer service inquiries.

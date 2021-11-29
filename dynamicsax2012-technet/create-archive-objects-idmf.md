@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Create archive objects for the Intelligent Data Management Framework
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Overview of Archive Objects
 ---------------------------
 

@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidLoyaltyPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called when a loyalty payment is being voided.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

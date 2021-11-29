@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a BOM and BOM version 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create different versions of an existing bill of materials (BOM). You can then attach the BOM to one or more items.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataStoreAccessor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataStoreAccessor](datastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

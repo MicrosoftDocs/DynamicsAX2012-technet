@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: TAPI integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, the **Sales and marketing** module, which is also known as the **CRM** module, includes functionality for incorporating a CTI (computer telephony integration) system by using the Microsoft Telephony API (TAPI) protocol. The CTI system registers and administers incoming and outgoing telephone communications.

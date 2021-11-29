@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceCalculableSalesLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales lines that needs to be included in discount and pricing calculation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create an item requirement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create an item requirement for a project. Item requirement transactions are included in a sales order. Although a sales order is processed when the corresponding customer invoice is updated, item requirements are processed when the corresponding packing slip is updated. All item requirement lines for a project are maintained in a single sales order, even if other lines in the **Sales order** form have been processed.

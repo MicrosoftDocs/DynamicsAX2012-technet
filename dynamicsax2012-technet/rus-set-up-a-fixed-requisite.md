@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a fixed requisite 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Fixed requisites are used to define general requisites and other requisites in the service section of document templates, general data in the information section, and data in the taxpayer information section. These sections are used to customize document templates.

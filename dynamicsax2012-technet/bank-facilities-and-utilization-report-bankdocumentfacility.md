@@ -16,6 +16,9 @@ f1_keywords:
 # Bank facilities and utilization report (BankDocumentFacility) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bank facilities and utilization** report displays a list of bank facility agreements and balances that are available to a legal entity. This report is typically used by accounting managers.

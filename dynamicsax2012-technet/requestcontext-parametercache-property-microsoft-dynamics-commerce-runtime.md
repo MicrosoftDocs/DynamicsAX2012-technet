@@ -17,6 +17,9 @@ dev_langs:
 
 # ParameterCache Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection object used to cache data within the lifetime of a request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

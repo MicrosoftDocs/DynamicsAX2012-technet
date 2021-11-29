@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # The Microsoft Dynamics AX client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to configure and help secure clients for Microsoft Dynamics AX by using the client configuration tool. To start the tool on Windows Server, click **Start** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Configuration**. On Windows client computers, click **Start** \> **Control Panel** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Configuration**.

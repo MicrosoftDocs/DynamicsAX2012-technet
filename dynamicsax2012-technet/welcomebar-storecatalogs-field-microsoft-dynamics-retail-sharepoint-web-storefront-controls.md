@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreCatalogs Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The store catalogs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

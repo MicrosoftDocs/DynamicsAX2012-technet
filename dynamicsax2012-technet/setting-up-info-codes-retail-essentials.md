@@ -15,6 +15,9 @@ f1_keywords:
 # Setting up info codes (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use info codes to prompt the cashier to take some action or to capture data at the point-of-sale (POS) register during a transaction. For example, an info code can prompt the cashier to ask the customer for identification, to suggest upsell products, or to choose the reason for a return.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add a Reporting Project to a Solution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A solution contains one or more projects. You will find report projects that have been added to the AOT under the **Visual Studio Projects** node and then expand the **Dynamics AX Model Projects** node. To add report projects to the AOT, in the Solution Explorer, right-click the reporting project and then click **Add \[project name\] to AOT**. For information about the other projects supported in Microsoft Dynamics AX, see [Visual Studio Integration](https://technet.microsoft.com/library/gg889299\(v=ax.60\)) and [How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control](how-to-add-a-visual-studio-project-to-microsoft-dynamics-ax-version-control.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateCollectionHash(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the hash of a collection of ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

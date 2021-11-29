@@ -17,6 +17,9 @@ dev_langs:
 
 # Tag Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Not used in the core functionality. Only to be used in service solutions created by partners.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

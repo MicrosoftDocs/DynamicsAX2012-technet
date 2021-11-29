@@ -17,6 +17,9 @@ dev_langs:
 
 # CanBeInitialized Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if Fiscal printer can be initialized.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

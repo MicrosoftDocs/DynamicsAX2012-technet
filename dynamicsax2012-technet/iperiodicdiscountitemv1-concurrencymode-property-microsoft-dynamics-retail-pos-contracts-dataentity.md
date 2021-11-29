@@ -17,6 +17,9 @@ dev_langs:
 
 # ConcurrencyMode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 How should the discount be applied Exclusively, by best price, or compounded
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

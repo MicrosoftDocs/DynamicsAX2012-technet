@@ -21,6 +21,9 @@ ms.search.region: Denmark
 # (DNK) Set up AIF for OIOUBL electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Outbound ports** form to create an outbound port, set up services and adapters for an outbound port, and specify the Application Integration Framework (AIF) settings that are required to generate Offentlig Information Online Universal Business Language (OIOUBL) electronic invoices.

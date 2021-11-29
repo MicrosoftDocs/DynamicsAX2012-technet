@@ -17,6 +17,9 @@ ms.search.region: Global
 # Calculate time and attendance for workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can calculate time and attendance registrations for workers in the following ways:

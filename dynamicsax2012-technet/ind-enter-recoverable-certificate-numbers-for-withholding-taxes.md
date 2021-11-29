@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Enter recoverable certificate numbers for withholding taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to enter information about certificate numbers and dates for Tax Collected at Source (TCS) and Tax Deducted at Source (TDS) certificates that are received for a specific vendor, customer, or ledger. You can update the certificate numbers and dates that are recorded for withholding tax transactions in this form by using the **Update certificate** form. See [(IND) Update certificate (form)](https://technet.microsoft.com/library/jj664755\(v=ax.60\)).

@@ -20,6 +20,9 @@ ms.search.region: Global
 # About system-generated quality orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a quality association, the system can generate quality orders for various business processes, events, and conditions. The quality association can cover a specific item, a specific group of items, or all items. Quality associations are created in the **Quality associations** form.

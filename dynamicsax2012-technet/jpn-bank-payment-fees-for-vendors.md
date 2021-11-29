@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Bank payment fees for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 When you make payments to a vendor, the bank payment fees can be paid by you or by the vendor. When the vendor pays the bank payment fees, you can set up Microsoft Dynamics AX so that each time the company pays the vendor, the bank payment fees are automatically deducted from the payment. Perform the following tasks to set up and calculate the bank payment fees for a vendor:

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create or modify a vendor account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As a purchasing agent for your organization, you can create new vendors in Enterprise Portal for Microsoft Dynamics AX and maintain vendor account information. For example, you can do the following:

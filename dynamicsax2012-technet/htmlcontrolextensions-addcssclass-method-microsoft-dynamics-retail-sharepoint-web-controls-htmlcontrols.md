@@ -17,6 +17,9 @@ dev_langs:
 
 # AddCssClass Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a CSS class to the 'class' attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeeBreakCategoriesByJob Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the employee break categories by job identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

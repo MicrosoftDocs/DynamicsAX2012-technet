@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberSequenceSeedData Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents number sequence seed data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IInfoCodeLineItem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IInfoCodeLineItem triggers interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

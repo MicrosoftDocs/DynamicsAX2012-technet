@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure stores to accept loyalty cards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Before a store can participate in a customer loyalty program, you must set up the store to accept a loyalty card. Some stores might not support a loyalty program.

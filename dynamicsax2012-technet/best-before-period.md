@@ -13,6 +13,9 @@ f1_keywords:
 
 # best before period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time period in which to obtain the optimum quality or characteristic of a product.
 
 ## See also

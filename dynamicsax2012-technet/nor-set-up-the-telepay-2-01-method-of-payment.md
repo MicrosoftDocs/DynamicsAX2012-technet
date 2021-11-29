@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the Telepay 2.01 method of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use electronic payment methods to make payments to vendors. When the bank processes a payment, you receive a file from the bank. You must import the file and post the journal to post the transactions to the ledger. One of the formats that you can use to make electronic payments to vendors is Telepay 2.01.

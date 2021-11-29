@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Checklist: Deploy an employee self-service portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides checklists that can help you deploy an employee self-service portal for Enterprise Portal for Microsoft Dynamics AX. An employee self-service portal gives users access to expense management, time and attendance, and other personal information. For a complete description of the features and reports that are available on an employee self-service portal, see [Overview of Enterprise Portal for Microsoft Dynamics AX](overview-of-enterprise-portal-for-microsoft-dynamics-ax.md). If you want to deploy an employee portal that is for internal use only, and that gives users access to Microsoft Dynamics AX module sites and Role Centers, see [Checklist: Deploy an internal Enterprise Portal site that has Role Centers](checklist-deploy-an-internal-enterprise-portal-site-that-has-role-centers.md).

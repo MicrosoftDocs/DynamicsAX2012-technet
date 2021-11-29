@@ -18,6 +18,9 @@ ms.search.region: Global
 # Validate and approve imported catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a catalog maintenance request (CMR) file has been successfully uploaded, the purchasing professional can review the product details in the file. The vendor indicates whether the product is new, modified, or must be deleted. Information about the product pricing, product descriptions, product attributes, and order quantity requirements are also included in the CMR file. As an approver, you can indicate whether products are made available to selected legal entities and approve or reject the products in the file. Approved products are added to the product master and are released to the selected legal entities.

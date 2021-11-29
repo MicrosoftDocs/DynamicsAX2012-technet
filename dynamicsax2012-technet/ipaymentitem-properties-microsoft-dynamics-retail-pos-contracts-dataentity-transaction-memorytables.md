@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPaymentItem Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPaymentItem](ipaymentitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables.md) type exposes the following members.
 
 ## Properties

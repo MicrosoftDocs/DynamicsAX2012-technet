@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure SQL Server and storage settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about how to configure Microsoft SQL Server to support the business and model store databases for Microsoft Dynamics AX. To achieve optimal Microsoft Dynamics AX performance, you must correctly configure the database infrastructure.

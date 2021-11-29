@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up royalty agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to define and set up royalty agreements. A royalty is a fee that one party (the licensee) pays to another party (the licensor) for the use of intellectual property, including logos or copyrights. For example, Fabrikam sells t-shirts that have a small logo on the sleeve. The logo is owned by Contoso. This means that Fabrikam, the licensee, must pay Contoso, the licensor, a royalty for use of the logo.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up inventory parameters to calculate customs payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Inventory and warehouse management parameters** form to set up the parameters that are required to calculate customs payments.

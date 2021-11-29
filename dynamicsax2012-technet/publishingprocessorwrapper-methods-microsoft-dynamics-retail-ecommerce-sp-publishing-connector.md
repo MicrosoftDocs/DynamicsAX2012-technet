@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PublishingProcessorWrapper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PublishingProcessorWrapper](publishingprocessorwrapper-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Methods

@@ -13,6 +13,9 @@ f1_keywords:
 
 # worker
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person who assumes the role of an employee or a contractor and is paid in exchange for services.
 
 ## See also

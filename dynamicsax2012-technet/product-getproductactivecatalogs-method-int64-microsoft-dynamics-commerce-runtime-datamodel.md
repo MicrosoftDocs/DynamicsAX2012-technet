@@ -15,6 +15,9 @@ dev_langs:
 
 # GetProductActiveCatalogs Method (Int64)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the list of active catalog ids which feature this product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

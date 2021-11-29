@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up credit note parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Poland, you must print credit notes in a specified format. A credit note must contain a reference to the original invoice, all corrected and corrective lines, and the reason that the correction was made. A corrected line is the original invoice line with a negative sign, and cannot be modified. A corrective line is the original invoice line with a positive sign, which can be modified.

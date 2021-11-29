@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the Issue slip (M-15) for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate the Issue slip (M-15) when you ship a transfer order for bailment. The Issue slip (M-15) contains the following information:

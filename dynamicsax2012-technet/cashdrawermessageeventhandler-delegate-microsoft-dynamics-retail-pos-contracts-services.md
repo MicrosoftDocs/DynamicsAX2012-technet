@@ -17,6 +17,9 @@ dev_langs:
 
 # CashDrawerMessageEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.CashDrawerMessageEventHandler interface is the cash drawer device message event handler class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

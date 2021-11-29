@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up a customer bank account for bank payments transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up bank account details for a customer using the **Customer bank accounts** form.

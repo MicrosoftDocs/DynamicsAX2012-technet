@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShiftDataQueryCriteria Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShiftDataQueryCriteria](shiftdataquerycriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

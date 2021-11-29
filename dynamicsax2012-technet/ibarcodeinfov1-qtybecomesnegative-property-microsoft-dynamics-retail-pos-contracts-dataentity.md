@@ -17,6 +17,9 @@ dev_langs:
 
 # QtyBecomesNegative Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the quantity to become negative. If set to true, the sign of the quantity is changed.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

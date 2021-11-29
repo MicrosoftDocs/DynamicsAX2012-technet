@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN) Generate an account matrix report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate an account matrix report to view subaccount information and transaction details for a selected range of dimensions for the account matrix. You can view the report in the Chinese format or in the horizontal format. Account matrix reports are used to view cash, bank, expense, and other ledger accounts that have several sublevel ledger accounts. You can configure Microsoft Dynamics AX to automatically print the **Matrix dimension** report on a recurring basis. For more information, see [Print or email a report on a recurring basis](print-or-email-a-report-on-a-recurring-basis.md).

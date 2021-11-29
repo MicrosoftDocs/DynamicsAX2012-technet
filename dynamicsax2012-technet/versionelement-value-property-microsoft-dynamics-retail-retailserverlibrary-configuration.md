@@ -17,6 +17,9 @@ dev_langs:
 
 # Value Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the service version value.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

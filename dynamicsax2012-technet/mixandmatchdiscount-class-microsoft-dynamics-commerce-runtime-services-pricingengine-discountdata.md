@@ -17,6 +17,9 @@ dev_langs:
 
 # MixAndMatchDiscount Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class implements the mix and match discount processing, including the determination of which ways the discount can apply to the transaction and the value of the discount applied to specific lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

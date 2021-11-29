@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides information about how to manage users of Microsoft Dynamics AX. The following topics are included:

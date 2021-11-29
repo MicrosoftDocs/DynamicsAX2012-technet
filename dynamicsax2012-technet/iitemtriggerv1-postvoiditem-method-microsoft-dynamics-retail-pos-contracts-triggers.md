@@ -17,6 +17,9 @@ dev_langs:
 
 # PostVoidItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after an item is voided.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

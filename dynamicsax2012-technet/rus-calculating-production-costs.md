@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculating production costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Companies can calculate the cost of production for items and maintain journals for production costs. The cost of a production order is distributed among works in progress (WIP), by-products, defective products, and finished items.

@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Create a day-based fiscal calendar and fiscal year 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow these steps to create a day-based fiscal calendar that includes one fiscal year. You can add other fiscal years later. For more information, see [Key tasks: Fiscal calendars, fiscal years, and periods](key-tasks-fiscal-calendars-fiscal-years-and-periods.md).

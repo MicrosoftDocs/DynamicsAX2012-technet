@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Specify Printers for Reports (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Specify which printer a report is sent to and specify the printer settings by using the PrintJobSettings::deviceName method and the PrintJobSettings::unpackPrintJobSettings method. For more information about modifying other print settings, see PrintJobSettings class.

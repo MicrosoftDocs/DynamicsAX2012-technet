@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartHelper](shoppingcarthelper-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Methods

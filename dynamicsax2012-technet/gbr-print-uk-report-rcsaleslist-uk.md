@@ -14,6 +14,9 @@ f1_keywords:
 # (GBR) Print - UK report (RCSalesList\_UK) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print - UK** report is used to print the reverse charge sales list in the format required for the United Kingdom. This report is typically used by accounts receivable administrators, sales managers, and accounting managers.

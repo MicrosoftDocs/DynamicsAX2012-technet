@@ -15,6 +15,9 @@ f1_keywords:
 # Applicant resume report (HcmApplicantResume) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Print this report to view a list of skills and competencies for an applicant.

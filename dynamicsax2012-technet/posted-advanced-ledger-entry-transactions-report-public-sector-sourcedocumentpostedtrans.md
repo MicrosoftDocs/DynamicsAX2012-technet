@@ -14,6 +14,9 @@ f1_keywords:
 # Posted advanced ledger entry transactions report (Public sector) (SourceDocumentPostedTrans) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use this report to print a list of posted advanced ledger entry transactions by voucher.

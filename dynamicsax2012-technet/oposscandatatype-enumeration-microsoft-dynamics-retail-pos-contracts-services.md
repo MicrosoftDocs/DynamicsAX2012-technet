@@ -45,6 +45,9 @@ dev_langs:
 
 # OPOSScanDataType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.OPOSScanDataType interface specifies the data type that is scanned using an OPOS device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

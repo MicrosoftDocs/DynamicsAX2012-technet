@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllQuantityDiscountLevels Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the quantity (multi-buy) discount threshold levels for all quantity discounts configured in the system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

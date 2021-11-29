@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up purchase and sales agreement classifications 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a new purchase agreement or sales agreement, you must select the type of purchase agreement or sales agreement. You can also define your own purchase or sales agreement types. You can then use names that reflect the business function of your organization, such as Blanket order.

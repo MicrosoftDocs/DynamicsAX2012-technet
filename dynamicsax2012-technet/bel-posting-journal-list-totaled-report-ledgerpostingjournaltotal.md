@@ -18,6 +18,9 @@ f1_keywords:
 # (BEL) Posting journal list - totaled report (LedgerPostingJournalTotal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Posting journal list - totaled** report is an internal control report that is used to display and print a list of the total debit amounts and credit amounts per month for each journal. This report is typically used by accounting managers, accounting supervisors, and financial controllers to inquire into the status of the general ledger.

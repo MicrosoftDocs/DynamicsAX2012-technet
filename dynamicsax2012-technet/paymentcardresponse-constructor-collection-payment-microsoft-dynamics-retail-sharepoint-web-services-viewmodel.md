@@ -15,6 +15,9 @@ dev_langs:
 
 # PaymentCardResponse Constructor (Collection(Payment))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [PaymentCardResponse](paymentcardresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) class with the specified payment card collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

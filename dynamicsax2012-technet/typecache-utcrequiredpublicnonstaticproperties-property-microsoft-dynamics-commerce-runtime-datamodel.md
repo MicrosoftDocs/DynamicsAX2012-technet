@@ -17,6 +17,9 @@ dev_langs:
 
 # UtcRequiredPublicNonStaticProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of public non-static [DateTime](https://technet.microsoft.com/library/03ybds8y\(v=ax.60\)) properties of the entity that are required to be represented in UTC.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

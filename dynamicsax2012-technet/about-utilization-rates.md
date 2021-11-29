@@ -19,6 +19,9 @@ ms.search.region: Global
 # About utilization rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The utilization rate is the percentage of time that a worker engages in billable work or productive work in a specific working period. Billable hours are the worker’s hours that can be charged to a customer.

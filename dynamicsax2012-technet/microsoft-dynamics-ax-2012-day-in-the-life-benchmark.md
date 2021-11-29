@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX 2012 Day in the Life Benchmark 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In August 2011, Microsoft conducted a “day in the life” benchmark of Microsoft Dynamics AX 2012 to measure the application’s performance and scalability characteristics.

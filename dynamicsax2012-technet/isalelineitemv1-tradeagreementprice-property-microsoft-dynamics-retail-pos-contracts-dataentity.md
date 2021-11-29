@@ -17,6 +17,9 @@ dev_langs:
 
 # TradeAgreementPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price from the Trade Agreements that does not come from a customer relation
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

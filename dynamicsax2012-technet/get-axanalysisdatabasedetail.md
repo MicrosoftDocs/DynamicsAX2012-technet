@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXAnalysisDatabaseDetail
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXAnalysisDatabaseDetail
 
 Returns a list of Microsoft SQL Server Analysis Services databases (projects) that were published by Microsoft Dynamics AX.

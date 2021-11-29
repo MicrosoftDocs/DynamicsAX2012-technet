@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Party upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A party is a person or organization that can be internal or external to your organization. Each party has its own record within Microsoft Dynamics AX. In Microsoft Dynamics AX 2012, every customer, vendor, prospect, and competitor must be categorized as either a person or an organization. When you are upgrading to Microsoft Dynamics AX 2012, all customer, vendor, prospect, and competitor records are assigned the party type **Organization** by default.

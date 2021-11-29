@@ -14,6 +14,9 @@ f1_keywords:
 # Time and attendance payroll configuration key (JmgPayroll) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Time and attendance payroll** configuration key controls access to forms and functions for maintaining payroll information. This includes setups for generating payroll, specifying pay topics, team functions, flextime, facilities for piecework, and for viewing payroll statistics.

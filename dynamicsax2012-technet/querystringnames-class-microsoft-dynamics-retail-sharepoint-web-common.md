@@ -17,6 +17,9 @@ dev_langs:
 
 # QueryStringNames Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class to represent names of query strings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

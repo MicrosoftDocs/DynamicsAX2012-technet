@@ -23,6 +23,9 @@ ms.search.region: Global
 # Adjust flex time, unit count, and statistical payroll balances 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depending on which types of registrations workers are allowed to make, different types of balances can be generated, for example, flexible hours, or payroll statistics. You can recalculate the balances and, in some cases, make adjustments or set up an opening balance.

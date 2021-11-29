@@ -13,6 +13,9 @@ f1_keywords:
 
 # customer invoice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents a customer payment request. When a payment is received, it can be matched to the invoice.
 
 ## See also

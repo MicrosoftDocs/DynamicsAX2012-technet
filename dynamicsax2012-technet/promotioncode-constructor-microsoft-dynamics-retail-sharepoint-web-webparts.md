@@ -17,6 +17,9 @@ dev_langs:
 
 # PromotionCode Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constructor
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

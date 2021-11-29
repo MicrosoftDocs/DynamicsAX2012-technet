@@ -25,6 +25,9 @@ ms.search.region: Global
 # Define the types of work orders that a mobile device can process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

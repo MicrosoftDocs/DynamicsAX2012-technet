@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelTenderTypesResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelTenderTypesResponse](getchanneltendertypesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

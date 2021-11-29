@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Setting up online marketplaces 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to set up online marketplaces in **Retail**.

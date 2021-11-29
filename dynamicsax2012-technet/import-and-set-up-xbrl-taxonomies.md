@@ -18,6 +18,9 @@ ms.search.region: Global
 # Import and set up XBRL taxonomies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can import eXtensible Business Reporting Language (XBRL) taxonomies that are located on the XBRL International website or on a computer. These taxonomies apply unique identifying tags to financial information for reporting.

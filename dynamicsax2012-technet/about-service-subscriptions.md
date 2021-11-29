@@ -21,6 +21,9 @@ ms.search.region: Global
 # About service subscriptions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Subscriptions are based on a time-and-materials project. You can create subscriptions from a project, from the **Service subscriptions** form, or by using a service subscription group.

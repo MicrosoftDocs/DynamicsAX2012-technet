@@ -15,6 +15,9 @@ dev_langs:
 
 # ShowMessage Method (Int32, MessageBoxButtons, MessageBoxIcon)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shows the message.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

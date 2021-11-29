@@ -17,6 +17,9 @@ dev_langs:
 
 # AddShippingAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a new shipping address for the current customer on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Receive an inbound transfer fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You receive an inbound fiscal document when you receive items from a warehouse that is located at a different fiscal establishment, or at a fiscal establishment that is associated with a customer account or a vendor account. For more information, see [(BRA) About transfer orders](bra-about-transfer-orders.md).

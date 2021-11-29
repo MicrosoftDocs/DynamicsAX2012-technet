@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomClaimsProviderSettingsFeatureEventReceiver Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.CustomClaimsProviderSettingsFeature](microsoft-dynamics-retail-sharepoint-commonfeatures-customclaimsprovidersettingsfeature-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Storefront (in Microsoft.Dynamics.Retail.SP.Web.Storefront.dll)
 

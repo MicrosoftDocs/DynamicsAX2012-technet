@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderDeliveryOptionsServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request to compute delivery options at order level for the provided transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

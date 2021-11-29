@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor requests report (VendRequest) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view requests by vendors and employees to add and modify the vendors approved to do business for your organization. The report displays vendor requests grouped by the status of the requests.

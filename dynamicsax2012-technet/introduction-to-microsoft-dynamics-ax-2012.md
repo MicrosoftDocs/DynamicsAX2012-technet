@@ -14,6 +14,9 @@ ms.search.region: Global
 # Introduction to Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX is an enterprise resource planning (ERP) solution for midsize and larger organizations that helps people to work effectively, manage change, and compete globally. Microsoft Dynamics AX works like and with familiar Microsoft software and is a solution that automates and streamlines financial, business intelligence, and supply chain processes in a way that can help you with your business.

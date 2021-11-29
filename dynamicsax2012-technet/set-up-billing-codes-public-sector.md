@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # Set up billing codes (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A billing code is a set of default values that are applied automatically to free text invoice lines where the billing code is selected. The departments in your organization can use billing codes for a defined type of service or charge. For example, a waste management department might bill certain customers for new containers. You can use the **Billing codes** form to specify the default values for billing charges that your organization uses regularly.

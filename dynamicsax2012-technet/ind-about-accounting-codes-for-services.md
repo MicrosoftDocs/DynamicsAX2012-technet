@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About accounting codes for services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Set up service codes for the payment of service tax, primary education cess (PE Cess), and secondary and higher secondary education cess (SHE Cess) in the **Service codes** form. You can then define accounting codes for service codes. When you select a service code for a transaction, the accounting code that is related to the service code is automatically updated for the transaction. You can also generate a service tax payable report that contains service tax payable information for each accounting code based on the services that are provided. The report includes service code, accounting code, service tax, PE Cess, and SHE Cess tax components for a service. The accounting code for PE Cess and SHE Cess is the same for all services.

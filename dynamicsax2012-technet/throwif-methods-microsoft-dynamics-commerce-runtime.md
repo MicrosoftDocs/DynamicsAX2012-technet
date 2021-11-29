@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ThrowIf Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ThrowIf](throwif-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

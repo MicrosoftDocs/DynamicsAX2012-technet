@@ -17,6 +17,9 @@ dev_langs:
 
 # SerializeObjectToXml(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serializes object to XML string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

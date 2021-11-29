@@ -17,6 +17,9 @@ dev_langs:
 
 # IBarcodeInfoV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains properties to get and set the described member variables.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

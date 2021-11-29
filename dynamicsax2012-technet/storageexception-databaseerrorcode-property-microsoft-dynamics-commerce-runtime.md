@@ -17,6 +17,9 @@ dev_langs:
 
 # DatabaseErrorCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the database error code corresponding to the operation that failed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

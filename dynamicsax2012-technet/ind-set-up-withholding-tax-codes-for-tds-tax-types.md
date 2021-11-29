@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up withholding tax codes for TDS tax types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 ## Create a withholding tax code for TDS tax

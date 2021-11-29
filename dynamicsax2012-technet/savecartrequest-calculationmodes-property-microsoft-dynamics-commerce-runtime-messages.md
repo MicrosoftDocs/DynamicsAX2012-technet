@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculationModes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the amounts to be calculated after the cart has been saved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

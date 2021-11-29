@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sites Services for human resources configuration key (HcmSitesRecruiting) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sites Services for human resources** configuration key enables access to the Sites Services solution for human resources recruitment. With this key enabled, you can use Sites Services for Microsoft Dynamics ERP to post job ads online. Candidates can then post responses and resumes, which you can download to Microsoft Dynamics AX.

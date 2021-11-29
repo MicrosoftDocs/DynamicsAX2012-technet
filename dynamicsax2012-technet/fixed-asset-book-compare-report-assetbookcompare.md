@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset book compare report (AssetBookCompare) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the results of comparing information between two fixed asset books. This information includes the books that are being compared, book type, depreciation method and convention, cost basis, fixed asset group and status, accumulated depreciation, net book value, and year-to-date depreciation.

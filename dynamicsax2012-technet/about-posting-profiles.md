@@ -15,6 +15,9 @@ ms.search.region: Global
 # About posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Posting profiles specify the ledger accounts that are affected when source documents are posted to the general ledger or when journal entries are journalized. You can set up default posting profiles for customers or vendors. The posting profiles for customers or vendors will be used as default entries when source documents or journal entries are created.

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Adding Links to a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides information about how to add links in a Microsoft Dynamics AX report. Visual Studio tools for Microsoft Dynamics AX supports links for the following actions:

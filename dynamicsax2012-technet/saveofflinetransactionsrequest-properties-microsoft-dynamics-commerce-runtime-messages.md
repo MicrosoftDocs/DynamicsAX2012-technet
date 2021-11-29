@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveOfflineTransactionsRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveOfflineTransactionsRequest](saveofflinetransactionsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

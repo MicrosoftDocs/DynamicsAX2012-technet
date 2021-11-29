@@ -14,6 +14,9 @@ ms.search.region: Global
 # Prepare a legal entity for a currency conversion 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can convert your legal entity’s currency, you must revert any foreign currency revaluation amounts for customer and vendor accounts, and close the previous fiscal years. You must also complete tasks that prepare the database for the conversion, and then make the required changes to the legal entity’s account that is undergoing the currency conversion.

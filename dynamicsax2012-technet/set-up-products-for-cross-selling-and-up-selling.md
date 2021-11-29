@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up products for cross-selling and up-selling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up products for cross-selling or up-selling. Cross-selling and up-selling are techniques in which a seller tries to sell a product either in addition to the current product or instead of the current product when an order is entered for a customer. You can create rules to indicate when a product should be suggested as a cross-sell or up-sell product.

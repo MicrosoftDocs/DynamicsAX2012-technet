@@ -14,6 +14,9 @@ f1_keywords:
 # Customer currency revaluation report (CustExchRateAdjustment) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view and print the details of the foreign currency revaluation that you are posting. The report shows:

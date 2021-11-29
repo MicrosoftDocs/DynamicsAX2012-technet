@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Windows PowerShell for Microsoft Dynamics AX cmdlet reference
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Analysis server management cmdlets](analysis-server-management-cmdlets.md)
 
 [Enterprise Portal and SharePoint flexible authentication cmdlets](enterprise-portal-and-sharepoint-flexible-authentication-cmdlets.md)

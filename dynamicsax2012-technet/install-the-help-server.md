@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the help server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to install the Help server and Help files. If you are installing other Microsoft Dynamics AX components at the same time, the installation pages will vary based on the components that you are installing.

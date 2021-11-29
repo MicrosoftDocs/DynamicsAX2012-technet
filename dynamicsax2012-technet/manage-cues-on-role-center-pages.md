@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage Cues on Role Center pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Cues Web parts display a visual representation of a user's workload and the user's remaining work items, such as sales leads or overdue activities. Users can add cues to their Home Page in the Microsoft Dynamics AX client or to their Role Center page in Enterprise Portal for Microsoft Dynamics AX. This topic describes the following tasks that are related to cues:

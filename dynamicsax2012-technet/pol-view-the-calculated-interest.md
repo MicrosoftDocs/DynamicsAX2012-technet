@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) View the calculated interest 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this form to view, modify, print and post interest notes for all customers or for a specific customer.

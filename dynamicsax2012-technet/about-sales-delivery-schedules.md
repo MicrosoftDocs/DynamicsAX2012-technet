@@ -19,6 +19,9 @@ ms.search.region: Global
 # About sales delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to create and work with delivery schedules for sales orders. By using delivery schedules, you can separate one order line into multiple deliveries.

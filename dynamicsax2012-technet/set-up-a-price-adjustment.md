@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up a price adjustment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to use price adjustments to reduce the price of one or more products by a set percentage or amount. Price adjustments and simple discounts are similar. However, a discount is applied after the product’s price is calculated, while a price adjustment adjusts the sales price directly. You can optionally choose to post the discounted amount separately from the net price, which allows you to report sales revenue before discounts.

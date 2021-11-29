@@ -17,6 +17,9 @@ dev_langs:
 
 # ExpirationDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the expiration date of the earned points.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

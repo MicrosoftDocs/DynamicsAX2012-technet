@@ -17,6 +17,9 @@ dev_langs:
 
 # ProfileTypeIdentifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the profile type identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

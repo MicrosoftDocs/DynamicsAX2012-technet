@@ -13,6 +13,9 @@ f1_keywords:
 
 # partition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A division of an application’s processing into logical or functional parts.
 
 ## See also

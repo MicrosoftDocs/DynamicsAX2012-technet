@@ -38,6 +38,9 @@ ms.search.region: Japan
 # (JPN) Set up impairment accounting for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up a posting profile for impairment accounting and update impairment indicators to calculate fixed asset impairments. For more information about impairment accounting, see [(JPN) Impairment accounting for fixed assets](jpn-impairment-accounting-for-fixed-assets.md).

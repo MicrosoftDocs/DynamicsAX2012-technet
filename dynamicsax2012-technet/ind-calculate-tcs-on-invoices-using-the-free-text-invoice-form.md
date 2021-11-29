@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate TCS on invoices using the Free text invoice form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Modify and post an unrecognized payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Imported bank statement** form to modify an unrecognized payment. After the modification is completed, the payment is recognized and can be posted.

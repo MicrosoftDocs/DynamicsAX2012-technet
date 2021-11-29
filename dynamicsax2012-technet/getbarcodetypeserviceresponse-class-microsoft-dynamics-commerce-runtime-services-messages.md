@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBarcodeTypeServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetBarcodeTypeServiceResponse contains the service response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

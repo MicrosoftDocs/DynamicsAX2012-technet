@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Occurring between or relating two or more legal entities that are part the same organization that consolidates the accounts of all legal entities.
 
 ## See also

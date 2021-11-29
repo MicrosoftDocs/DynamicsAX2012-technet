@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cascading style sheet (CSS) files for Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Cascading style sheet (CSS) provide the page layouts with styling and formatting in a Microsoft Dynamics AX 2012 R2 online store. For a typical installation, the path for the folder location of the CSS files resembles the following:

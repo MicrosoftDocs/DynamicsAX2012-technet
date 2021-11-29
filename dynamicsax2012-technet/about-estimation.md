@@ -21,6 +21,9 @@ ms.search.region: Global
 # About estimation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Estimation provides you with the projected material and capacity consumption costs of producing an item in the planned production order quantity. It is a mandatory step in the production process, and is conducted after the production order is created. Its function is to estimate item and route consumption for the production process, because these estimates form the basis for subsequent scheduling and production processes.

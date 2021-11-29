@@ -13,6 +13,9 @@ f1_keywords:
 
 # commitment accounting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A practice of recording the financial consequences of budget fund reservation accounting events in pre-encumbrance and encumbrance journal accounts for financial and management reporting and analysis.
 
 ## See also

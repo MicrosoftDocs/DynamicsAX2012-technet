@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create, modify, or view a cash advance request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Cash Advance Request** page to request a cash advance from your employer. You might request a cash advance for several reasons, such as to pay for parking at a sales meeting or if you plan to have lunch with a customer. Value Added Tax (VAT) on purchases that are made with a cash advance is not eligible for recovery.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # check
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A bill of exchange drawn on a bank.
 
 ## See also

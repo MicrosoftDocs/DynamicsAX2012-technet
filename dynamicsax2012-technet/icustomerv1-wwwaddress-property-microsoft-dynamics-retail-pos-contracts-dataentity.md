@@ -17,6 +17,9 @@ dev_langs:
 
 # WwwAddress Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The customer’s web address
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

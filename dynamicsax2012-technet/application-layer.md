@@ -14,6 +14,9 @@ f1_keywords:
 
 # application layer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of application models that take precedence over application models that are in lower application layers. The lowest layer is named SYS.
 
 ## See also

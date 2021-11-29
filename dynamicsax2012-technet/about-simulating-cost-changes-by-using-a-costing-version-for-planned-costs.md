@@ -15,6 +15,9 @@ ms.search.region: Global
 # About simulating cost changes by using a costing version for planned costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The effects of cost changes on a manufactured item’s calculated costs can be simulated with a separate costing version for planned costs. Use the separate costing version for entering pending cost records that reflect incremental cost changes, and for calculating the cost impact on manufactured items. A fallback principle of active costs will be used in the BOM calculations so that only the incremental cost changes must be entered.

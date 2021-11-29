@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Customer Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Customer](customer-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md) type exposes the following members.
 
 ## Properties

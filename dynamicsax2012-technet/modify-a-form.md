@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Modify a form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX for Retail POS introduces a new way to customize forms by using the Interaction service. This enables multiple developers to customize one or more forms in one service. If there are multiple customizations, the Interaction service loads only the first customization it finds for a form. The following list of forms use this new pattern and their implementations are included in the InteractionDefaults service.

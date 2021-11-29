@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Split sales transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a sales transaction, you can split a sales order confirmation, a picking list, a packing slip, or a sales invoice. A split can be based on the site, delivery addresses, and multiple excise registration numbers for an organization that has an active site.

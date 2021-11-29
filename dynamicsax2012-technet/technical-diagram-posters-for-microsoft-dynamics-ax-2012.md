@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Technical diagram posters for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Technical diagram posters provide visual representations of recommended processes and solutions for Microsoft Dynamics AX 2012.

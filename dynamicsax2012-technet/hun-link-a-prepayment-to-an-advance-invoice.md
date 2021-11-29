@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Link a prepayment to an advance invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can link prepayments paid to vendors to advance invoices, either before or after posting. You can link one prepayment to several advance invoices, or you can link one advance invoice to several prepayments. A message is displayed if the advance invoice or the prepayment is already linked. You can select the **Prohibit in journals** check box in the **Accounts payable parameters** form to prevent value-added tax (VAT) posting in vendor journals. You can use one of the following methods to link a prepayment to an advance invoice.

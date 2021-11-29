@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the periods of formats application directory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The tax authority creates a document that defines all versions of tax report formats. You can download and use this document to create the tax reports in the versions that you want. The periods of formats application directory contains the format settings that describe this document, and additional settings for the correct configuration and loading of the reports. The directory also contains the report structure that is loaded automatically from the XML schema definition (XSD) for the file.

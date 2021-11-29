@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NewDataSet Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NewDataSet](newdataset-class.md) type exposes the following members.
 
 ## Properties

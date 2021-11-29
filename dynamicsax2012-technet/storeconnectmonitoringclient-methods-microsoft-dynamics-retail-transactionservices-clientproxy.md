@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StoreConnectMonitoringClient Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StoreConnectMonitoringClient](storeconnectmonitoringclient-class-microsoft-dynamics-retail-transactionservices-clientproxy.md) type exposes the following members.
 
 ## Methods

@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unit of measure for expressing quantities of purchased product.
 
 ## See also

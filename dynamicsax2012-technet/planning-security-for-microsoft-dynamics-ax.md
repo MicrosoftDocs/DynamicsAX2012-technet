@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Planning security for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Security planning for a Microsoft Dynamics AX 2012 system starts before deployment and continues throughout the life cycle of Microsoft Dynamics AX. It requires an understanding of potential security threats and of the industry best practices for confronting each type of threat. This topic outlines an approach to planning that matches threats with defenses in each level of your computer infrastructure, placing the greatest levels of protection around your organization’s most valuable assets.

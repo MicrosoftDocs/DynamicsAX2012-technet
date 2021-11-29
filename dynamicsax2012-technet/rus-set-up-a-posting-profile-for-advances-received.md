@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a posting profile for advances received 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In accordance with Russian accounting requirements, advance payments from customers are processed in a particular manner. After you register an advance payment from a customer, the amount is allocated to the Advances received subaccount of Account 62. At the same time, the VAT is allocated from the amount due to be paid into the budget. When the goods are shipped, the VAT accrual and payment from the facture amount are made. After settlement of the advance with the facture, the payment amount is carried over from the Advances received subaccount of Account 62 to the debtor debts subaccount of Account 62. The amount that is accrued from VAT is reversed and the reversed advance is reflected in the purchase book.

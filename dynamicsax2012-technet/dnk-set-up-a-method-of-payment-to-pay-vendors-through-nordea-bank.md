@@ -14,6 +14,9 @@ ms.search.region: Denmark
 # (DNK) Set up a method of payment to pay vendors through Nordea Bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Methods of payment - vendors** form to set up a method of payment that uses the **Nordea Unitel for PC (DK)** file format for electronic payments. You can make electronic payments to vendors using Nordea Bank if you have an account at the bank. Nordea Bank accepts electronic payments only in the **Nordea Unitel for PC (DK)** file format.

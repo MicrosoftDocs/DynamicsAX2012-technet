@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Print the term “Enterprise register” on sales documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Legal entities, such as corporations, public limited companies, and branches of foreign companies can print *Enterprise register* on sales documents and electronic customer invoices.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add an affiliation to a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to add an affiliation to a retail customer record so that when a cashier adds the customer to a transaction, the affiliation and its discount are automatically added to the transaction. An affiliation identifies customers who are members of a group, or are associated with one, for example, seniors or students.

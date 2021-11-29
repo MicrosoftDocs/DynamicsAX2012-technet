@@ -17,6 +17,9 @@ dev_langs:
 
 # GetExchangeRates Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the exchange rate active on given date between these currencies on this channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

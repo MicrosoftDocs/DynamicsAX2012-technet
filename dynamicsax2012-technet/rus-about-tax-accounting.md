@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About tax accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities must maintain separate tax records for business activities and general accounting. Accounting rules that are used to calculate tax for business activities differ from the rules that are used in general accounting. The tax base for each tax reporting period is calculated by using the tax accounting data.

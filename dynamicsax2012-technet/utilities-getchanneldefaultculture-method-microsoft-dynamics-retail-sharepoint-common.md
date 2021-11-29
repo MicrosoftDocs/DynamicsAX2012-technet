@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelDefaultCulture Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets instance of CultureInfo associated with the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

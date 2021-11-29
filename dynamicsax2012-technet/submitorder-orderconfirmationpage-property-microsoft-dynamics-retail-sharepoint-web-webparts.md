@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderConfirmationPage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the confirmation page to redirect to upon successful order submission.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Configure integration ports for selected services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides instructions that system administrators can use to configure integration ports for selected operations, such as catalog import.

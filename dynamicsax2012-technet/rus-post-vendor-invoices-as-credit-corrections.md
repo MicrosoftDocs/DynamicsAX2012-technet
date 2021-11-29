@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post vendor invoices as credit corrections 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post vendor invoices as credit corrections for return item transactions. Use the following procedure to correct vendor invoices that have both positive and negative invoice amounts.

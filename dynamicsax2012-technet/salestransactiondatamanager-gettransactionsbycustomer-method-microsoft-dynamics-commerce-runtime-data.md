@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransactionsByCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transactions by customer account number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

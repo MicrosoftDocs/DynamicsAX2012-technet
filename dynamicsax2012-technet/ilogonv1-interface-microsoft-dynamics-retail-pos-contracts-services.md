@@ -17,6 +17,9 @@ dev_langs:
 
 # ILogOnV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Log on service interface version 1.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

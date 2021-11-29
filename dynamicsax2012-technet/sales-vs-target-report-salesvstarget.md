@@ -14,6 +14,9 @@ f1_keywords:
 # Sales vs. target report (SalesVsTarget) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the total number of sales versus the total number of sales targets, based on either the salesperson or the sales unit.

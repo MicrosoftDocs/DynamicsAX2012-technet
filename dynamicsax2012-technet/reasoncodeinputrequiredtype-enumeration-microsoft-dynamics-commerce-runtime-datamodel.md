@@ -21,6 +21,9 @@ dev_langs:
 
 # ReasonCodeInputRequiredType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Input required type. Maps to RetailNoneAlwaysPositiveNegative enum in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

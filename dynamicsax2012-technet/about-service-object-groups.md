@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service object groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Object groups are useful for sorting and filtering the data about objects for reports and statistics. For example, you can group objects by geographical location or by type.

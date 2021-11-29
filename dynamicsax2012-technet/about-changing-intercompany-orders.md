@@ -18,6 +18,9 @@ ms.search.region: Global
 # About changing intercompany orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you change an intercompany sales order or purchase order, the corresponding sales order or purchase order in the corresponding company also reflects that change.

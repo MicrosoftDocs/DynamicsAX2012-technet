@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up discount periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A discount period defines the period during which a price adjustment or discount is valid. For example, if multiple discounts are in effect during a particular period, you can assign one discount period to all the discounts.

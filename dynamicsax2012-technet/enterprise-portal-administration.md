@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enterprise Portal administration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Most setup and administration tasks for Enterprise Portal for Microsoft Dynamics AX are completed by using the Microsoft Dynamics AX client. In Enterprise Portal, administrators can view alert rules and workflow history, and refresh data that has been cached. These options are available under **Administration** on the Quick Launch on the **Home** page.

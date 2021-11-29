@@ -35,6 +35,9 @@ dev_langs:
 
 # BarcodeSegmentType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Barcode mask segment types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

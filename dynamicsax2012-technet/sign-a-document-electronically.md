@@ -16,6 +16,9 @@ ms.search.region: Global
 # Sign a document electronically 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can sign documents electronically, the Microsoft Dynamics AX administrator must grant you the appropriate permissions. See [Set up users to sign documents electronically](set-up-users-to-sign-documents-electronically.md) for more information.

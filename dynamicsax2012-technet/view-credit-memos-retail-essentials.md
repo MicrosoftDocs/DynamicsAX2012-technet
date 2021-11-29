@@ -14,6 +14,9 @@ f1_keywords:
 # View credit memos (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Credit memos are vouchers that can be issued to and redeemed by a customer at a store. Use the following procedure to view the credit memos that have been issued.

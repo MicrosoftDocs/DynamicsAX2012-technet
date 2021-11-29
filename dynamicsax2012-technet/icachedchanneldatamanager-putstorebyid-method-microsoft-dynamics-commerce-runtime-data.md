@@ -17,6 +17,9 @@ dev_langs:
 
 # PutStoreById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the store by channel identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

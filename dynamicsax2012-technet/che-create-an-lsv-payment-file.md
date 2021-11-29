@@ -14,6 +14,9 @@ ms.search.region: Switzerland
 # (CHE) Create an LSV+ payment file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Swiss electronic payment system allows companies to deduct customer payments directly from a customer’s bank, also known as direct debit or Lastschriftenverfahren (LSV). Use this procedure to create a direct debit payment file that you can send to the bank or to a payment clearing service.

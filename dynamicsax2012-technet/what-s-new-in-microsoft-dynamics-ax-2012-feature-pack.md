@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 Feature Pack, we added and changed several features. This topic lists the feature changes by module and provides links to related topics.

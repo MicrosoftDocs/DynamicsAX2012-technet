@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Deferrals balances report (RDeferralsBalances) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 Use the Deferrals balances report to view the values of deferrals, such as initial amounts, written off sums, and retirement deferral amounts. Accountants generate this report periodically to analyze the remaining balance of deferrals for the current period, and for future costs.

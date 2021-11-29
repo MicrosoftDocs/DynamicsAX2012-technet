@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up budget allocation terms 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Budget allocation terms** form to define the financial dimension values and the percentages that are used to generate budget allocations. These budget allocation terms provide an automated way to distribute percentages of budget amounts across financial dimension values. For example, a travel budget can be allocated to multiple departments by using one budget account entry.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Decimals Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets decimals.
 
 The number of decimals as defined for the barcode, if the barcode stores either a price or quantity.

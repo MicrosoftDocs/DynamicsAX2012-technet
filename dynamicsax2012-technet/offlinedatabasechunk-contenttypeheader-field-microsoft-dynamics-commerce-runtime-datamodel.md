@@ -17,6 +17,9 @@ dev_langs:
 
 # ContentTypeHeader Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The default content-type of the database chunk.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

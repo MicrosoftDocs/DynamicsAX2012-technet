@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with Models in AOT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe how you will work with models in the AOT and the Microsoft Dynamics AX Development Workspace.

@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Settle vendor consolidated invoices by using a payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Settle open transactions** form to settle open transactions that are related to consolidated invoices after you pay a vendor. You cannot delete a consolidated invoice after it has been settled. For more information, see [(JPN) Settle open transactions - vendor (modified form)](https://technet.microsoft.com/library/jj711052\(v=ax.60\)) and [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).

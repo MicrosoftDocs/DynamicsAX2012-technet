@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # I-9 configuration key (HRMi9) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **I-9** configuration key controls access to forms and functionality in Human resources that help you set up the Form I-9 information to prove employment eligibility for workers.

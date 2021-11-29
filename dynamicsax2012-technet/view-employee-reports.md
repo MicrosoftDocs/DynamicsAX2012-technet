@@ -16,6 +16,9 @@ ms.search.region: Global
 # View employee reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Employee reports** page to view reports that are available to you as an employee. To display the **Employee reports** page, go to your Employee services site and click **Personal information** on the top link bar, and then click **Employee reports** on the Quick Launch. Click on the report title link in the list to view a specific report.

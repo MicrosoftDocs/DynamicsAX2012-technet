@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Creating Query Service Test Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic contains X++ jobs that create tables, table data, queries, and other database artifacts that are referenced in the Microsoft Dynamics AX Developer Help. These artifacts can be used to demonstrate calls to the [query service](query-service.md). This topic includes the following tasks:

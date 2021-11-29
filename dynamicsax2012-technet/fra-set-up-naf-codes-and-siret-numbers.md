@@ -17,6 +17,9 @@ ms.search.region: France
 # (FRA) Set up NAF codes and siret numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create Nomenclature des Activités Françaises (NAF) codes, and then set up NAF codes for legal entities, customers, vendors, and prospects in Microsoft Dynamics AX 2012. You can set up siret numbers for customers, vendors, and prospects.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # subledger journal account entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An account entry in a subledger journal account.
 
 ## See also

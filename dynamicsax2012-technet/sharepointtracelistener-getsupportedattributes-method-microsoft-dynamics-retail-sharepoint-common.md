@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSupportedAttributes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets custom attributes supported by the trace listener.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

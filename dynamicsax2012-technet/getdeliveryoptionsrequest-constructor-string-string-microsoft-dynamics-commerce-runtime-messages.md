@@ -15,6 +15,9 @@ dev_langs:
 
 # GetDeliveryOptionsRequest Constructor (String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetDeliveryOptionsRequest](getdeliveryoptionsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 Creates request for order level delivery modes.

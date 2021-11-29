@@ -17,6 +17,9 @@ dev_langs:
 
 # ShiftId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The shift ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReportDataSetById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets report data set by ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

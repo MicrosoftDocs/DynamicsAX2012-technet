@@ -13,6 +13,9 @@ f1_keywords:
 
 # step
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An operation in a task that progresses an activity towards completion.
 
 ## See also

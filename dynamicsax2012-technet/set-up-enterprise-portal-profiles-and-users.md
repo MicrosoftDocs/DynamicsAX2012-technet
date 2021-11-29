@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up Enterprise Portal profiles and users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 If you have set up Enterprise Portal for Microsoft Dynamics AX, you must set up user profiles for the employees who access Enterprise Portal. These profiles define each user's role and specify the store information that the user has access to.

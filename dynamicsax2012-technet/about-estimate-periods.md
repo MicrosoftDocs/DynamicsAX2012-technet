@@ -18,6 +18,9 @@ ms.search.region: Global
 # About estimate periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The frequency with which the Microsoft Dynamics AX project estimate system recognizes revenue in Fixed-price projects is specified by the period type. The system uses project periods to determine the relevant transactions for the estimate. The project period that you assign to an estimate project is used to specify the estimate frequency. By default, the project period is derived from the project group.

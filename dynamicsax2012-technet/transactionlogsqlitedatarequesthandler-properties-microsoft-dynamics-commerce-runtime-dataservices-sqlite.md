@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionLogSqliteDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransactionLogSqliteDataRequestHandler](transactionlogsqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Properties

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITenderRestriction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITenderRestriction](itenderrestriction-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # CorsSupport Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Cross-origin resource sharing support class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

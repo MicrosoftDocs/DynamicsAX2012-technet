@@ -15,6 +15,9 @@ ms.search.region: Global
 # About purchase requisitions (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depending on how your organization is set up, you can create purchase requisitions for products that your organization uses. A purchase requisition is an internal document that authorizes the purchasing department to buy items or services.

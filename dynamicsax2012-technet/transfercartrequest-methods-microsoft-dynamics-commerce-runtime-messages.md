@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransferCartRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransferCartRequest](transfercartrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

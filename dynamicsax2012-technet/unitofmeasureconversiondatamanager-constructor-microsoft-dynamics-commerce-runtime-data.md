@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasureConversionDataManager Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [UnitOfMeasureConversionDataManager](unitofmeasureconversiondatamanager-class-microsoft-dynamics-commerce-runtime-data.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

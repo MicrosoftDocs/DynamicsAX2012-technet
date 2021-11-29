@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeQueryInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the data necessary to query for changes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

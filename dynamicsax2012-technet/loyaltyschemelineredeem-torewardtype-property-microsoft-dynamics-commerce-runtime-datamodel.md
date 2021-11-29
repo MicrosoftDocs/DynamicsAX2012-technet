@@ -17,6 +17,9 @@ dev_langs:
 
 # ToRewardType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the loyalty reward type, e.g. Payment by amount, Payment by quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # register
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - A record that is used to record the operational, legal, and financial consequences of resource flow events in an accounting system.
 
   - To automatically update the progression or output of work done outside of the application.

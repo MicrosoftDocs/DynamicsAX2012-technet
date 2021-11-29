@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataTable Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataTable](datatable-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Methods

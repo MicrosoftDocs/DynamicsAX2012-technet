@@ -17,6 +17,9 @@ dev_langs:
 
 # CollectLimitMax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Collection limits, the maximum tax that can be collected
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

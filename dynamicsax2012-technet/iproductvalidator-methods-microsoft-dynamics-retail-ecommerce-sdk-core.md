@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IProductValidator Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IProductValidator](iproductvalidator-interface-microsoft-dynamics-retail-ecommerce-sdk-core.md) type exposes the following members.
 
 ## Methods

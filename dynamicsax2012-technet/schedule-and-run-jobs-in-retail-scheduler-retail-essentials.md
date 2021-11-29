@@ -16,6 +16,9 @@ f1_keywords:
 # Schedule and run jobs in Retail Scheduler (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to schedule and run the data transfer between Retail essentials and retail channels. Commerce Data Exchange uses Retail Scheduler jobs and distribution schedules.

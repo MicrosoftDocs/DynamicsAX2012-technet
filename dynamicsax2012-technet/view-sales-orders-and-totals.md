@@ -18,6 +18,9 @@ ms.search.region: Global
 # View sales orders and totals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **All sales orders** and **View sales order** pages to view information about the sales orders that have been created for customers. Sales orders are created to register the sale of goods or services to customers, and to approve, track, and process shipments to customers.

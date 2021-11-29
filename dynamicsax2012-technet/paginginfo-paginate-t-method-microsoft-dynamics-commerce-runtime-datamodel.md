@@ -17,6 +17,9 @@ dev_langs:
 
 # Paginate(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Applies paging to a list from PagingInfo.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

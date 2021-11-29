@@ -17,6 +17,9 @@ dev_langs:
 
 # PartnerObject Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An object which can hold any information that localization might want to add to the RetailTransaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetShipmentsRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetShipmentsRequest](getshipmentsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

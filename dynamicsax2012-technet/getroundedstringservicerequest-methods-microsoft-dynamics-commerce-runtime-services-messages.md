@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetRoundedStringServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetRoundedStringServiceRequest](getroundedstringservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

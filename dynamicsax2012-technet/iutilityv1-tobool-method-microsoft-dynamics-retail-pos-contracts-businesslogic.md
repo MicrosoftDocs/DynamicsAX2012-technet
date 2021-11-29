@@ -17,6 +17,9 @@ dev_langs:
 
 # ToBool Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts value to a boolean.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

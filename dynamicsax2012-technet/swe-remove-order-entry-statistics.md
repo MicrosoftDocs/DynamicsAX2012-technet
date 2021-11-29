@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Remove order entry statistics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you track sales order entry statistics, the amount of space that is required for data storage increases. It is a good idea to periodically remove sales order entry statistics that you no longer need to keep.

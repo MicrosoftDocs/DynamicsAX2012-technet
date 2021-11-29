@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXAOS
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXAOS
 
 Returns a list of the Application Object Server (AOS) instances that are associated with a Microsoft Dynamics AX database.

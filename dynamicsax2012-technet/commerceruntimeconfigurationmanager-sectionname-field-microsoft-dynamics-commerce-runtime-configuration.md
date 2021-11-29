@@ -17,6 +17,9 @@ dev_langs:
 
 # SectionName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the section name in the .NET configuration file.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

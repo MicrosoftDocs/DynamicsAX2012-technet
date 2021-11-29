@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Create and correct records in the EU sales list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you create a sales list, you can correct the sales list records to reflect changes that resulted from projected invoices and updated sales results. After you create the corrected records, you can transfer the data to the European Union (EU) sales list.

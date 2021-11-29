@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PickReceiveDocument Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PickReceiveDocument](pickreceivedocument-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) type exposes the following members.
 
 ## Methods

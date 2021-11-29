@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up shipping charges for online stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In **Retail**, you can define the following types of shipping charges for online orders:

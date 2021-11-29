@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryLanding Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides an ability to display category landing page.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

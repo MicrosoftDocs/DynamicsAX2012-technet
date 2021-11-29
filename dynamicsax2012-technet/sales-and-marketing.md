@@ -22,6 +22,9 @@ ms.search.region: Global
 # Sales and marketing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use Sales and marketing to focus on sales personnel and the sales organization. The main focus is direct, person-to-person contact with customers. Sales and marketing also makes it easy for a salesperson to create quotations, create and follow up on marketing initiatives, and report on the activities and sales of workers and customers.

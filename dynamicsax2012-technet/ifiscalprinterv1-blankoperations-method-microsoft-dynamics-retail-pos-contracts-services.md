@@ -17,6 +17,9 @@ dev_langs:
 
 # BlankOperations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays an alert message according operation id passed.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

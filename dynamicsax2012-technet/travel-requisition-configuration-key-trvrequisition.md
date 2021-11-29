@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Travel requisition configuration key (TrvRequisition) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Travel requisition** configuration key allows workers to create, and submit for approval, travel requisitions for future expenses that will be incurred and entered on an expense report.

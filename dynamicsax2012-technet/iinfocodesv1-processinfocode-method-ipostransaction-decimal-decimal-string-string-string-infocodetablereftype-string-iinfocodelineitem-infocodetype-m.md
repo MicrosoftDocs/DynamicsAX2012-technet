@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessInfoCode Method (IPosTransaction, Decimal, Decimal, String, String, String, InfoCodeTableRefType, String, IInfoCodeLineItem, InfoCodeType)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Process the infocode based on its parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

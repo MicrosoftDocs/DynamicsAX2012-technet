@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # System administrators 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This part of the Microsoft Dynamics AX 2012 Technical Library contains updated content for IT professionals who must deploy, configure, and administer Microsoft Dynamics AX 2012.

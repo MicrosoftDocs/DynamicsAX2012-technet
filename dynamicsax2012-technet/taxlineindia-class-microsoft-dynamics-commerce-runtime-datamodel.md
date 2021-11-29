@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLineIndia Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an India tax line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Post delivery slips for project item requirements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Item requirements** form to create and post delivery slips for project item requirements. To post delivery slips, you must specify a delivery Código Fiscal de Operações e Prestações (CFOP) code for project item requirements. You can indicate the delivery CFOP code at the time of remittance, or when items are returned from one legal entity to another. When you post a delivery slip, the delivery slip details are updated in the fiscal documents.

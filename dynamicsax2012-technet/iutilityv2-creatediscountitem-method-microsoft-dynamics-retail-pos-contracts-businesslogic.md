@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateDiscountItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create discount item based on discount type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a report by using the Microsoft Dynamics AX auto-report wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Auto-reports are preconfigured reports that you can generate by clicking **File** \> **Print** \> **Print** in a Microsoft Dynamics AX form. You can quickly generate an auto-report for use once, or you can create and save a custom auto-report that can be reused later. This topic describes both of these scenarios.

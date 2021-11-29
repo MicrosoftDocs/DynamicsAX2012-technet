@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Set up calculation parameters for employee income tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up income tax calculation parameters for employees who are residents, non-residents, or highly-paid non-residents. You can set up income tax exemptions for dependents and off-budget funds.

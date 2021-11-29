@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardItemId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the GiftCard ItemId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

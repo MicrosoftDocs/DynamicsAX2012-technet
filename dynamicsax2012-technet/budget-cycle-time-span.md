@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget cycle time span
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A time period specified as a number of fiscal calendar periods. The budget period can be different from the accounting period.
 
 ## See also

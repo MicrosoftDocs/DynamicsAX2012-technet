@@ -23,6 +23,9 @@ ms.search.region: Global
 # Remove outliers from historical transaction data when calculating a demand forecast 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to exclude outliers from the historical data that are used to calculate a demand forecast. Outliers are data that are not considered to be part of the overall pattern of demand, for example, sales transactions that result from a clearance sale do not represent typical demand. Because outliers can affect forecast accuracy, it can be useful to exclude them from the calculation. In Microsoft Dynamics AX 2012 R3 demand forecasting, you can exclude outliers to improve forecast accuracy. Perform this optional task by using a query to select the specific transactions that you want to exclude.

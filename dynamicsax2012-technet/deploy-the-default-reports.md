@@ -14,6 +14,9 @@ dev_langs:
 # Deploy the default reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes many default reports that you must deploy. If you did not deploy the reports when you installed the Microsoft SQL Server Reporting Services extensions, you can deploy them by using Windows PowerShell. The following procedures can help you deploy the reports.

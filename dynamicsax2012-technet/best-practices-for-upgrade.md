@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Best practices for upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes practices that can help improve your upgrade experience and minimize the possibility of problems during the upgrade process. We recommend that you review and follow these practices before you start your upgrade.

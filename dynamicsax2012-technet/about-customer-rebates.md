@@ -19,6 +19,9 @@ ms.search.region: Global
 # About customer rebates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Rebates are payments or credits that are due to customers and that are based on pre-established agreements to purchase certain items in specific quantities or amounts. Process manufacturing production and logistics provides functionality for the following types of rebates:

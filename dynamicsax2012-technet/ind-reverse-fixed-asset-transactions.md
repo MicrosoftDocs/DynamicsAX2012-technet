@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Reverse fixed asset transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can reverse a fixed asset transaction, reverse direct and indirect taxes for the transaction, and update general ledger accounts. Information about the updated asset is displayed in the **Asset group balances** form for the selected tax layer value model and depreciation.

@@ -17,6 +17,9 @@ f1_keywords:
 # (MEX) Einvoice monthly report (EInvoiceReport\_MX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **EInvoice monthly report** displays all the electronic and paper invoices that have been issued for the month. You can use the Sistema de comprobantes fiscales digitales CFD Plus (SICOFI) application website to submit the monthly report to the Servicio de Administración Tributaria (SAT) in .txt format. The report is due on or before the fifth day of the following month. This report is typically used by collections agents, collections managers, chief financial officers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, financial controllers, and accounts receivable centralized payments clerks.

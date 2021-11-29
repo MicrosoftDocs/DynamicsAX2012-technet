@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Create a TN VED code and relate it to indicative prices for customs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **TN VED codes** form to create a Commodities Classification Code of the Foreign Economic Activity (TN VED) code that is used to calculate customs payments. After creating a TN VED code, you can set up the indicative, or estimated, prices defined by the customs authorities to import or export items in the **Indicative prices of TN VED** form.

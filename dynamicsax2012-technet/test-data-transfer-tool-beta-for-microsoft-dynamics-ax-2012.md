@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Test Data Transfer Tool (beta) for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/test-data-transfer-tool-beta-for-microsoft-dynamics-ax-2012/) in the Dynamics AX Help wiki.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail Salt Utility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Retail Salt Utility can be used to hash user passwords, which provides additional security beyond standard encryption. Hashing passwords is a way of taking a variable-length password and creating a cryptic, fixed-length password from it. You do this by generating and using a salt value. A salt value is a random value that you use to generate a hashed password.

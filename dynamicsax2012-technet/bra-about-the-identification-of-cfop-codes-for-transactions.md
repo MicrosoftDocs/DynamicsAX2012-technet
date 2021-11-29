@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) About the identification of CFOP codes for transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Código Fiscal de Operações e Prestações (CFOP) codes are specified by the Brazilian government. They are used to classify types of transactions. CFOP codes are identified based on the following parameters:

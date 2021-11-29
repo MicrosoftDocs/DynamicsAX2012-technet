@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountOfferDetails Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get barcode, Discountcode associated with an Offer
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

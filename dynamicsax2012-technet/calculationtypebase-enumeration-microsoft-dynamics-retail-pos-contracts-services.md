@@ -19,6 +19,9 @@ dev_langs:
 
 # CalculationTypeBase Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.CalculationTypeBase interface calculates the type base.

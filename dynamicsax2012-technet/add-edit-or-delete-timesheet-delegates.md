@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add, edit or delete timesheet delegates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can authorize delegates to enter timesheet information on your behalf. You can delete delegates or modify information about delegates at any time.

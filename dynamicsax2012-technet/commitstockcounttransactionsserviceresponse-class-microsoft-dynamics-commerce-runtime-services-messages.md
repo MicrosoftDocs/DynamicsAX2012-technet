@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitStockCountTransactionsServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CommitStockCountTransactionsResponse is the response after commiting the stockcount transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

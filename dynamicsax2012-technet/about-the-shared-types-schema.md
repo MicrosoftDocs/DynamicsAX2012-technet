@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About the Shared Types Schema 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The shared-types schema defines the enumerationss and extended data types (EDTs) that are used by a document service.

@@ -22,6 +22,9 @@ ms.search.region: China (PRC)
 # (CHN) Generate a user operation log for transactions and voucher changes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to generate a user operation log by setting up an operation type, operation date, or user names as criteria. Based on the criteria, Microsoft Dynamics AX tracks and records user operations in a log, including the type of operation, the user name, and the time and date when you modify transactions and vouchers for a document such as a sales order.

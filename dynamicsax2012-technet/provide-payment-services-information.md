@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Provide payment services information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Provide information about the Payment Services for Microsoft Dynamics ERP account that you use to process credit cards and debit cards in Microsoft Dynamics AX 2009.

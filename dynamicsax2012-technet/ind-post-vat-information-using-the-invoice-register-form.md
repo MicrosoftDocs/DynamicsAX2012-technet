@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post VAT information using the Invoice register form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post VAT information using the **Invoice register** form.

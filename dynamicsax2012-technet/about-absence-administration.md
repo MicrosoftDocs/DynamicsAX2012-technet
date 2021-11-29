@@ -15,6 +15,9 @@ ms.search.region: Global
 # About absence administration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To maintain absence information for your organization, absence administrators must complete the following tasks periodically:

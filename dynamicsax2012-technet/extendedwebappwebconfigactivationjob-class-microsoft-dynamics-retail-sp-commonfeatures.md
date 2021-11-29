@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedWebAppWebConfigActivationJob Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class for job that carries out the activation steps for the extended web app settings in the STS web.config.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

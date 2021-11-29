@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ColumnSet Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ColumnSet](columnset-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

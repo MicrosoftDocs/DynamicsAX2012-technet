@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionString Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the connection string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseConnection](microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection-namespace.md)  

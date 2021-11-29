@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FacebookLogOnLayout Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FacebookLogOnLayout](facebooklogonlayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Events

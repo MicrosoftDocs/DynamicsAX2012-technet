@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UserLogOffRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UserLogOffRequest](userlogoffrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

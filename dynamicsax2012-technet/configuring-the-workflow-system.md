@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configuring the workflow system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A workflow represents a business process and defines how a document flows, or moves, through the system by showing who must process and approve it. The following topics will help you configure the workflow system.

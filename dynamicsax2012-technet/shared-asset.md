@@ -13,6 +13,9 @@ f1_keywords:
 
 # shared asset
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An asset that is used by more than one cash-generating unit (CGU). An example is a distribution center that is used to store items before they are transported to different markets that share that same distribution center.
 
 ## See also

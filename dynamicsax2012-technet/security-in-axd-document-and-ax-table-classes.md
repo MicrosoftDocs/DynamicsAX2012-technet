@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security in Axd\<Document\> and Ax\<Table\> Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, Application Integration Framework (AIF) uses the standard table, field, and record level security when you read data from Microsoft Dynamics AX that is sent to an external system.

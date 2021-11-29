@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throw during processing of payments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

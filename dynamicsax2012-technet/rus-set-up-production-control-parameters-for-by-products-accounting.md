@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up production control parameters for by-products accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Production control parameters** form to set up the methods that are used to calculate the cost of a production order. You also select the by-product journal that is used to register by-products and defective products. You can use normative or proportional methods to calculate the costs of work in process (WIP), defective products, and finished goods. For more information, see [(RUS) Calculate the cost of WIP and finished goods](rus-calculate-the-cost-of-wip-and-finished-goods.md).

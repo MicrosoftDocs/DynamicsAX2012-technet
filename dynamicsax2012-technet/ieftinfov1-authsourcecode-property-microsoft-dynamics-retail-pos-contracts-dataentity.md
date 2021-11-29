@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthSourceCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies how the authorization code was generated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

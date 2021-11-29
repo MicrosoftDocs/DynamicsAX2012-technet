@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Data Method Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can retrieve and manipulate the data that displays in your reports by providing logic in a data method using C\# or Visual Basic. However, you should use a report data provider (RDP) class or query data source when possible because the framework provides greater support. When using an RDP class or query data source, the framework has optimized performance and makes use of Microsoft Dynamics AX metadata.

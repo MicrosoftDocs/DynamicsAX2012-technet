@@ -25,6 +25,9 @@ ms.search.region: Global
 # Analyze source code data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to analyze sales data that is associated with a catalog source code. After you set up a source code and create sales orders that use the source code, you can perform an analysis to compare the projected revenue and costs for the source code with the actual revenue and costs. If a campaign is associated with the source code, you can include the campaign budget in the analysis.

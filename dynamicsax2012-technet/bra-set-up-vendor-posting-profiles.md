@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up vendor posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Vendor posting profiles** form to specify an account to credit the Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax amount to. You can apply a vendor posting profile to a single vendor, a group of vendors, or all vendors.

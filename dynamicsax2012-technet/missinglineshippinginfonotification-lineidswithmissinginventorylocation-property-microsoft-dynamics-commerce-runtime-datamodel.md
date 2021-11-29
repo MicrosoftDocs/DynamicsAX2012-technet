@@ -17,6 +17,9 @@ dev_langs:
 
 # LineIdsWithMissingInventoryLocation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the line identifiers that are missing an inventory location.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

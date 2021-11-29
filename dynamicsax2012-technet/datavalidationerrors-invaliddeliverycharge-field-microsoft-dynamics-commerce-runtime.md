@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidDeliveryCharge Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the delivery charge amount is not valid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

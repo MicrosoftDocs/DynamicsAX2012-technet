@@ -16,6 +16,9 @@ ms.search.region: Global
 # Working with Project management and accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides overviews of the Project management and accounting business process components, lists the forms that are associated with each business process component, and discusses the tasks that are associated with each business process component.

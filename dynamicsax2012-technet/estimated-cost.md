@@ -13,6 +13,9 @@ f1_keywords:
 
 # estimated cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The approximate cost incurred in the performance of an activity.
 
 ## See also

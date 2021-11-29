@@ -13,6 +13,9 @@ f1_keywords:
 
 # cost accumulation method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The method used to classify and allocate transformation costs.
 
 ## See also

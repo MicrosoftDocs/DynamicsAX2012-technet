@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View transactions with customs duty 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Customs inquiry** form to create queries that display transactions that customs tax is calculated for. You can also use this form to run queries for details about customs tax, such as the date of issue or receipt of goods, bill of entry, import and export invoices, and the shipping bill. The **Customs** check box must be selected on the Sales tax area in the **General ledger parameters** form. (Click **General ledger** \> **Setup** \> **General ledger parameters**.)

@@ -17,6 +17,9 @@ dev_langs:
 
 # Item Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Item service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

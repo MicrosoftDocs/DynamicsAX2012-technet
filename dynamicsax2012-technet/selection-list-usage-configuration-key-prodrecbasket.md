@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Selection list usage configuration key (ProdRecBasket) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Selection list usage** configuration key controls access to the **Selection list** functions on the **Action Pane** in the list pages for planned orders and production orders. Use these functions to select orders and view them in a filtered list. A **Selection list** FactBox will also be displayed in the FactBox pane on the list page.
 
 ## Forms enabled by the configuration key

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Integrate a worker in Microsoft Dynamics AX with Microsoft Project Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After synchronization has been set up for Microsoft Dynamics AX and Microsoft Project Server, you can specify the workers whose data will be shared between the two programs. Workers can be enabled for synchronization with Project Server only if the legal entity that employs them has been enabled for Project Server integration.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICashDrawerV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICashDrawerV1](icashdrawerv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

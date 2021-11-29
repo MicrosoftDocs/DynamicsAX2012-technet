@@ -13,6 +13,9 @@ f1_keywords:
 
 # line item workflow
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A workflow created for each line item in a workflow document.
 
 ## See also

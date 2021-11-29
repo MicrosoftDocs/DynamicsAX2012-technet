@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantInventDimId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the inventory dimension identifier of the current kit variant.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

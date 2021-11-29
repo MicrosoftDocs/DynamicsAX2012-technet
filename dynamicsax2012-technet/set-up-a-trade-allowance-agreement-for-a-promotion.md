@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up a trade allowance agreement for a promotion 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a trade allowance agreement. A trade allowance is similar to a monetary reward where the customer is paid based on their performance during the promotion and sales of an agreed upon item or items. When your organization has contracted the funds to provide a promotion for one or more customers, you set up and define the promotion as a trade allowance agreement.

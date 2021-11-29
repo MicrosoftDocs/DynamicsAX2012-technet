@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set parameters for the EU sales list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Organizations that supply items and services to customers in other European Union (EU) countries/regions must submit periodic reports to the appropriate authorities in their own countries/regions. Quarterly reports are typically required to be submitted no later than 10 days after the end of the quarter. For example, first-quarter reports are due April 10.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up letter of guarantee cancellation reasons and purpose code types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a payment purpose or reason code to specify the objective of a letter of guarantee transaction or agreement.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TotalManualDiscountPercentageColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 TotalManualDiscountPercentage column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure and schedule data distribution for retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail Scheduler is the mechanism that coordinates communication and data distribution between Retail essentials and stores.

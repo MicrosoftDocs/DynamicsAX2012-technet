@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthenticationProvider Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the AuthenticationProvider to be invoked.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

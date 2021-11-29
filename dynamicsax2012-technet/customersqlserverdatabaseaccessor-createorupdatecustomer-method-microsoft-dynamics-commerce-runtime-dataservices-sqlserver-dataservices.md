@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateOrUpdateCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates or updates a customer address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

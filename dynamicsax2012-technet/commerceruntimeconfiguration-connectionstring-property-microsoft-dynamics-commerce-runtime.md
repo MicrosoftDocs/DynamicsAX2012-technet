@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionString Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the connection string to the database that contains the storage lookup view.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

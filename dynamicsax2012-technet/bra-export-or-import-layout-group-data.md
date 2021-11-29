@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Export or import layout group data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A configurator layout group defines the file structure for electronic payments. For more information, see [(BRA) Set up the configurator layout group](bra-set-up-the-configurator-layout-group.md). You can export an existing layout group from Microsoft Dynamics AX as a .dat or .def file. You can also import a layout group .dat or .def file into Microsoft Dynamics AX.

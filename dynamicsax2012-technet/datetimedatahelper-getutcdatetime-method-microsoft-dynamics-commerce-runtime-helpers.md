@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUtcDateTime Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the date and time in UTC from date and time offset.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

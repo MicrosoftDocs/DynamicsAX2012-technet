@@ -17,6 +17,9 @@ ms.search.region: Global
 # Maintain record templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Record templates can help you create records more quickly in Microsoft Dynamics AX. You can create record templates for only some of the record types in Microsoft Dynamics AX.

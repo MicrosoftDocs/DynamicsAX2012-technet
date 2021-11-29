@@ -17,6 +17,9 @@ dev_langs:
 
 # ExternalCardReceipts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list of card receipts acquired from an external EFT terminal that are to be printed at the end of the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

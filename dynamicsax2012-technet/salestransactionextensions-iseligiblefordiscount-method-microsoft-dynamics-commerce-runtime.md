@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEligibleForDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if this sales line may be valid for discounting (i.e. hasn't been voided or had a price override).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

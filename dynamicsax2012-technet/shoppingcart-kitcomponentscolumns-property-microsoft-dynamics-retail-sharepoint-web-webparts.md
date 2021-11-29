@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentsColumns Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the shopping cart kit columns definition in JSON format.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

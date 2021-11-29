@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITransactionTriggerV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITransactionTriggerV2](itransactiontriggerv2-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

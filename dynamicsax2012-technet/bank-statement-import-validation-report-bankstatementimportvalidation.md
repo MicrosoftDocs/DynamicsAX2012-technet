@@ -14,6 +14,9 @@ f1_keywords:
 # Bank statement import validation report (BankStatementImportValidation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you have imported a bank statement, this report displays a list of any transactions that were on the bank statement, but that do not exist in Microsoft Dynamics AX.

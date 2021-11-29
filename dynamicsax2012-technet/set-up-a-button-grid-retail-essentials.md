@@ -14,6 +14,9 @@ f1_keywords:
 # Set up a button grid (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a set of buttons to display on a point-of-sale (POS) register. Buttons are displayed in a grid, and each grid contains a group of similar buttons, such as buttons for products, operations, or payments. After you create button grids, you can add properties to each button, such as its appearance and function. For more information about adding properties to a button, see [Set up buttons (Retail essentials)](set-up-buttons-retail-essentials.md).

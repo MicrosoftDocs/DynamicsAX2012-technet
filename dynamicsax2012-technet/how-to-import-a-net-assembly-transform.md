@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Import a .NET Assembly Transform 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic shows you how to import a .NET assembly in Microsoft Dynamics AX. After you import the assembly, you can use the transformation components that it contains in the Application Integration Framework (AIF) pipeline. The transformation components are classes within the assembly that implement the ITransform interface. These classes perform processing on requests that come into or go out of the AIF pipeline. For more information about creating a .NET assembly transform, see [Walkthrough: Creating a .NET Assembly Transform](walkthrough-creating-a-net-assembly-transform.md).

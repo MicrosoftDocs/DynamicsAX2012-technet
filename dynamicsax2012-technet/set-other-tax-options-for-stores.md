@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set other tax options for stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 When you set up sales taxes for retail stores, you can specify several settings. For example, you can assign sales tax groups to stores, specify inclusive taxes or exclusive taxes, and set up overrides.

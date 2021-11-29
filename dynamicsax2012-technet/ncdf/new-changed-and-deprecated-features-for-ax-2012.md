@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # New, Changed, and Deprecated Features for AX 2012 
 
 
+[!INCLUDE[archive-banner](../includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Welcome to the Microsoft Dynamics AX 2012 New, Changed, and Deprecated Features library. This library provides a summary of new and changed features for Microsoft Dynamics AX 2012, including Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012 R2, and Microsoft Dynamics AX 2012 R3. The library also describes companion apps and tools and services that support AX 2012. It also includes deprecated feature notices for features that are planned for removal in AX 2012 or future versions. Familiarity with Microsoft Dynamics AX or other business management software is assumed.

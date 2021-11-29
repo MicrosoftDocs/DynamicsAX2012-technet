@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # KeyAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [KeyAttribute](keyattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) type exposes the following members.
 
 ## Properties

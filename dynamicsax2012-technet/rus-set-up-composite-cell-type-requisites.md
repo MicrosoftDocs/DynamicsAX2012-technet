@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up composite cell type requisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A composite requisite is a value that is generated from several cell groups that are not sequential. Use the **Requisites setup** form to set up composite **Cell** requisite types that are used in document templates.

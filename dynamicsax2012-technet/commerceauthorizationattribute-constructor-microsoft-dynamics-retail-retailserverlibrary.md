@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceAuthorizationAttribute Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [CommerceAuthorizationAttribute](commerceauthorizationattribute-class-microsoft-dynamics-retail-retailserverlibrary.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

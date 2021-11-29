@@ -21,6 +21,9 @@ ms.search.region: Global
 # About registration groups for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up workers as time registration workers, you can assign them to calculation groups, approval groups, profile groups, and flex groups. Only time registration workers can register absence or the time they spend on particular jobs, for example.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetItemsDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetItemsDataRequest](getitemsdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

@@ -13,6 +13,9 @@ f1_keywords:
 
 # vendor invoice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents a vendor payment request. A vendor invoice can refer to one or more purchase orders. When the vendor invoice is authorized, a payment can be made to the vendor.
 
 ## See also

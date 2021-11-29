@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCompoundedPercentage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get compounded percentage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create pay types in time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Pay types are used in pay agreements to calculate different kinds of pay for workers, based on their time and attendance registrations.

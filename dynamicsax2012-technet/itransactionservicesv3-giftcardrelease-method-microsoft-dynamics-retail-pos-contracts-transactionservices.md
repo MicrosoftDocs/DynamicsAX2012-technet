@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardRelease Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Releases (unlocks) the gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

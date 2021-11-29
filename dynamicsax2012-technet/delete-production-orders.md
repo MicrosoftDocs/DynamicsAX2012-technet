@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete production orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you delete production orders that have the status **Ended**, the accounting that is related to these orders will be reflected through the date that you select in the calendar on the **General** tab.

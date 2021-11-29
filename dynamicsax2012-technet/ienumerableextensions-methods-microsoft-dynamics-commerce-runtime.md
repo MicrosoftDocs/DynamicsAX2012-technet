@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IEnumerableExtensions Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IEnumerableExtensions](ienumerableextensions-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

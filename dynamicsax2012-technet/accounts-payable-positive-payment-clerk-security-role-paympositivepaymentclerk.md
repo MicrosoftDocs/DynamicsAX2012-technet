@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounts payable positive payment clerk security role (PaymPositivePaymentClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Accounts payable positive payment clerk security role represents a user who documents accounts payable positive pay events.

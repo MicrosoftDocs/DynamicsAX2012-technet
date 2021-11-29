@@ -13,6 +13,9 @@ f1_keywords:
 
 # state
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The condition of a system, process, or party.
 
 ## See also

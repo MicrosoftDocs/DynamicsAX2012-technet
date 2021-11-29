@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LocalizedCategoryAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LocalizedCategoryAttribute](localizedcategoryattribute-class-microsoft-dynamics-retail-sharepoint-web-webparts-resources.md) type exposes the following members.
 
 ## Properties

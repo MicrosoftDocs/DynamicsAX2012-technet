@@ -17,6 +17,9 @@ dev_langs:
 
 # GetValidationFailure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generate [DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

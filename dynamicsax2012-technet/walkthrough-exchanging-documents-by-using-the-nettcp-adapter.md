@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Exchanging documents by using the NetTcp adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The NetTcp adapter provides for synchronous communication by using the Transmission Control Protocol (TCP) transport. This walkthrough demonstrates using an inbound port with the NetTCP adapter to read a sales order from Microsoft Dynamics AX. In this walkthrough, you will create an inbound integration port and then use C\# code to create a command-line program that reads a particular sales order.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IDimension Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IPosTransaction interface that represents a product variant dimension.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

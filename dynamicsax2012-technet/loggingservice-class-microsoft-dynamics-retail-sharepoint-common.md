@@ -17,6 +17,9 @@ dev_langs:
 
 # LoggingService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Logging service for sharepoint code. This enables us to configured the trace levels and severity levels for throttling in the CA app.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

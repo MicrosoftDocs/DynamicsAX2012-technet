@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PickupAtStoreResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PickupAtStoreResponse](pickupatstoreresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

@@ -28,6 +28,9 @@ ms.search.region: Poland
 # (POL) Set up VAT exchange rates for foreign currency sales invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Exchange rate calculation rules for currency pairs** form to set up an exchange rate calculation rule for a currency pair. The exchange rate calculation rules are used to convert value-added tax (VAT) amounts for foreign currency sales invoices to VAT amounts in a destination currency, such as Polish zloty.

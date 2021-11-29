@@ -15,6 +15,9 @@ dev_langs:
 
 # Equals Method (PaymentCard)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the current object is equal to another object of the same type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

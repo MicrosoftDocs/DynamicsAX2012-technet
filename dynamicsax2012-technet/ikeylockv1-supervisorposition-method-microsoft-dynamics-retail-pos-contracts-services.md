@@ -17,6 +17,9 @@ dev_langs:
 
 # SupervisorPosition Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the key is in the supervisor position.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

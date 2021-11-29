@@ -19,6 +19,9 @@ ms.search.region: Global
 # Manage retail product catalogs overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Retail product catalogs let you identify the products that you want to offer in your online stores. When you create a catalog, you identify the online stores that the products will be offered in, add the products that you want to include, and enhance the product offerings by adding merchandising details. After the catalog is completed, you must validate the contents, and submit the catalog for review and approval. You must then publish the catalog to make the catalog products available in the online store.

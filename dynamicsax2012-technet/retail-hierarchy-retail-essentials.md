@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail hierarchy (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You use category hierarchies in Retail essentials to organize the products that you sell through your retail stores. The topics in this section provide information about how to set up a category hierarchy for retail products.

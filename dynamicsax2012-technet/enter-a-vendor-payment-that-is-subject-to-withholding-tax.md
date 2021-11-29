@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter a vendor payment that is subject to withholding tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to enter the information that is required for a vendor payment that is subject to withholding tax. For example, in Italy, the buyer must withhold tax from payments for vendor invoices, and then remit the tax to the tax authority. In Australia, withholding tax must be withheld if a vendor does not provide an Australian Business Number. For more information about vendor payments, see [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md) and [Select invoices to pay on behalf of multiple legal entities](select-invoices-to-pay-on-behalf-of-multiple-legal-entities.md).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Call center features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 We have added the call center as a new type of retail channel in Microsoft Dynamics AX 2012 R3. New call centers and call center catalogs are created in the **Retail** module. Many tasks that are related to the setup and management of a call center are performed in the new [Call center](call-center.md) module. For more information, see the following table.

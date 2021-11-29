@@ -18,6 +18,9 @@ ms.search.region: Global
 # Working with payments (Call center) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to use various payment methods in sales orders for a call center. The topics also describe how to handle issues that you can encounter when payments are processed.

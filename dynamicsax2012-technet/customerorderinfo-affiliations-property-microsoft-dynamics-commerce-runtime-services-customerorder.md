@@ -17,6 +17,9 @@ dev_langs:
 
 # Affiliations Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the affiliation information collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ILoyaltyV4 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 4.0 for loyalty interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

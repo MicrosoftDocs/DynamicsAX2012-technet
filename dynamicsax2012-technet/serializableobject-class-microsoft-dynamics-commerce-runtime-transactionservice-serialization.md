@@ -17,6 +17,9 @@ dev_langs:
 
 # SerializableObject Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a serializable object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

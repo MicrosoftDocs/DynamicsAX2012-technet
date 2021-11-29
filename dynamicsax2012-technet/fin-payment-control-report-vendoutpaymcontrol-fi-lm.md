@@ -17,6 +17,9 @@ f1_keywords:
 # (FIN) Payment control report (VendOutPaymControl\_FI\_LM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment control** report displays the details of vendor payments that are made by using the **LM02 (FI)** export format. This report is typically used by accountants, accounting managers, accounting supervisors, accounts payable managers, accounts payable payments clerks, chief financial officers, and financial controllers to verify and maintain vendor payments.

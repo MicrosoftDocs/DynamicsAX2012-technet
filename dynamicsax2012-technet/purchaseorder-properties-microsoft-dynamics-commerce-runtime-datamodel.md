@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PurchaseOrder Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PurchaseOrder](purchaseorder-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

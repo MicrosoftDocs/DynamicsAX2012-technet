@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Eventing (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes eventing and how it can be used in Microsoft Dynamics AX 2012.

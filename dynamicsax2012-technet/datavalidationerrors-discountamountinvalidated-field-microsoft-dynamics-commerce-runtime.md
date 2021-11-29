@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountAmountInvalidated Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the discount amount for a line Item has changed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

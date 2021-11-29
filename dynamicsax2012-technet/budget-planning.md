@@ -18,6 +18,9 @@ ms.search.region: Global
 # Budget planning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The features that are described in these topics are available only if Microsoft Dynamics AX 2012 R2 or AX 2012 R3 is installed.

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteStockJournalTransactionByItemId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the Stock Count Transactions for the given JournalId and item identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

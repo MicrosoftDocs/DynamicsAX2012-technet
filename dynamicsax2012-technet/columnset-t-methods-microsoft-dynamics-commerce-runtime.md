@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ColumnSet(T) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ColumnSet\<T\>](columnset-t-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

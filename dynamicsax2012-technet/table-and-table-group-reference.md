@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Table and table group reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Table groups are defined by the TableGroup property of tables. You can use table groups to select sets of tables when you define a table definition group for export. You can also use table groups to manage which tables are stored in the cache.

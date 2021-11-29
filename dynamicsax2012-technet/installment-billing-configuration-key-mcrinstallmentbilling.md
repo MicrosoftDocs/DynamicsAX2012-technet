@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Installment billing configuration key (MCRInstallmentBilling) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Installment billing** configuration key controls access to installment billing functionality in the **Call center** module.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Consolidate purchase requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By consolidating purchase requisition lines from multiple purchase requisitions, you can increase your negotiating power with your vendors. As a result, you may be able to achieve better pricing, lower shipping and handling costs, and reduce overhead costs.

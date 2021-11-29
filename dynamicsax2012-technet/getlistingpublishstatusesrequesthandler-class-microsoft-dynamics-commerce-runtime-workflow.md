@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingPublishStatusesRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves all listing publish statuses matching the specified listing identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

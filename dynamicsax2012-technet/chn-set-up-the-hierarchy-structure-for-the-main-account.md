@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up the hierarchy structure for the main account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Companies in China create and maintain a chart of accounts in a hierarchical tree structure by setting up multiple levels for ledger accounts. You can create account numbers by using a format that indicates the number of levels in the ledger account. For example, to split a ledger account into two levels, you can use the account number format xxxx-yy. Here, the first four characters denote the first level, such as a cash account, and the last two characters denote the second level, such as a cash account in a different currency.

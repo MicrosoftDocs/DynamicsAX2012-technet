@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a channel profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A channel profile contains properties that must be defined for a retail channel, such as URLs for site collections. The available properties depend on the type of channel.

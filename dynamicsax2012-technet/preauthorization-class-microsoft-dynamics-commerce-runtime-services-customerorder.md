@@ -17,6 +17,9 @@ dev_langs:
 
 # Preauthorization Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents payment pre-authorization.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

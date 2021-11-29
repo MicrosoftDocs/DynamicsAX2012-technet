@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseResult Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the result of a database operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

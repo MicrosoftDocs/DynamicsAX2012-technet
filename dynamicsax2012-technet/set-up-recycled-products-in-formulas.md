@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up recycled products in formulas 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up recycled products in formulas when using process industries production. Recycling a produced output product, so that it can be reused as an input product in the same production process, is a common industry scenario. For example, a stamping process in a foundry may produce metal scrap as a by-product. This metal scrap may then be consumed subsequently as an ingredient in the same process. Working with recycled products in formulas requires setup of the products that will be recycled, and the formulas that will consume and produce recycled products.

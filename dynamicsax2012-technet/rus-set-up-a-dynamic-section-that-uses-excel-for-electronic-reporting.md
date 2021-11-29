@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a dynamic section that uses Excel for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must configure a document template for every report that is submitted electronically to the tax authority. Based on the electronic report format, a document template can contain several sections. If one section of a report format contains several similar blocks of information, you can create a dynamic Microsoft Excel worksheet for this section. Generally, this section is the first section of the template and displays totals for the objects.

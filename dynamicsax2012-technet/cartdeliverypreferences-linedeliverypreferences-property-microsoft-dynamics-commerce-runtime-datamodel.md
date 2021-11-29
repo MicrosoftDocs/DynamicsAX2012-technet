@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDeliveryPreferences Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of delivery preferences that have been computed at line level.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

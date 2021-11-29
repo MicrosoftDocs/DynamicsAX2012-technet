@@ -16,6 +16,9 @@ ms.search.region: Global
 # Manage rebates in the bill back workbench 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to process customer rebate payments from the bill back workbench in **Trade allowance management**. A rebate is a partial refund of a payment that a customer previously paid for an item or service. Rebates are usually given as part of a promotion or marketing activity. A customer can use a rebate as a deduction on an outstanding balance or take the amount of the rebate as a credit. (For more information about rebates with deductions, see [Manage deductions in the deduction workbench](manage-deductions-in-the-deduction-workbench.md).) If the customer does not use the rebate as a deduction, a credit note is issued in the bill back workbench when the customer’s transaction is complete. Rebates are configured so that the appropriate department and promotional category in your organization is billed for the credit that is returned to the customer.

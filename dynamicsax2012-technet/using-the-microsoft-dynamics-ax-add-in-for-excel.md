@@ -18,6 +18,9 @@ ms.search.region: Global
 # Using the Microsoft Dynamics AX Add-in for Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe common tasks that are related to using the Office Add-in for Microsoft Excel. For example, you can use Excel to import data to Microsoft Dynamics AX. You can export data from Microsoft Dynamics AX to an Excel workbook that is linked dynamically to the tables in Microsoft Dynamics AX. You can also create Excel templates to share with other workers.

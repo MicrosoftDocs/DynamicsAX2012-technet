@@ -14,6 +14,9 @@ ms.search.region: Global
 # Remove a batch order from a consolidated batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to remove a batch order from a consolidated batch order. This procedure assumes that both the batch order and the consolidated batch order already exist.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail Modern Point of Sale 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 R3 includes Retail Modern POS, a point-of-sale app for PCs, tablets, and phones. Sales staff can process sales transactions, customer orders, and perform daily operations and inventory management with mobile devices anywhere in the store, as well as at PC-based registers.

@@ -19,6 +19,9 @@ ms.search.region: USA
 # (USA) Create a payment journal and generate the IAT transmission file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you process a payment to a vendor or refund a payment to a customer who is outside the United States, you must enter a payment transaction to generate the National Automated Clearing House Association – International ACH Transactions (NACHA-IAT) file. The key elements that cause an ACH transaction to be treated as an IAT transaction are the following:

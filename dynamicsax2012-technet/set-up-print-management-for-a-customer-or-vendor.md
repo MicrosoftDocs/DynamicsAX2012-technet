@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up print management for a customer or vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up print management for a specific customer or vendor. This procedure assumes that print management was previously set up for a module. For more information, see [Set up print management for a module](set-up-print-management-for-a-module.md).

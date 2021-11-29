@@ -17,6 +17,9 @@ dev_langs:
 
 # Composition Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the composition collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the total tax amount, which is the accumulation of TaxAmountInclusive + TaxAmountExclusive.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

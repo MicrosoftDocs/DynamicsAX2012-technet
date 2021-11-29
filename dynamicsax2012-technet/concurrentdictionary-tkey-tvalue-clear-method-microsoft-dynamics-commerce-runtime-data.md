@@ -17,6 +17,9 @@ dev_langs:
 
 # Clear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clears the contents of the dictionary object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

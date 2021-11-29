@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Display Aggregate Values in a Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are several aggregate functions, such as Count, Sum, Min, and Max, that are used to calculate aggregate values for a data region in a report. For a complete list of functions and their descriptions, see [Aggregate Functions](aggregate-functions.md). The following table describes how aggregate values display in the various data region types.

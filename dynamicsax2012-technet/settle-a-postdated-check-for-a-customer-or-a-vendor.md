@@ -18,6 +18,9 @@ ms.search.region: Global
 # Settle a postdated check for a customer or a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Select bridged transactions** form to settle a postdated check that is posted to a bridging account for a customer or a vendor. You must select the **Post journal entries for postdated checks** check box in the **Cash and bank management parameters** form to settle a postdated check.

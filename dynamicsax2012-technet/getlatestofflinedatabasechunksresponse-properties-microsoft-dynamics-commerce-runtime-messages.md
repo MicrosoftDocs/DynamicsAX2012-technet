@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetLatestOfflineDatabaseChunksResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetLatestOfflineDatabaseChunksResponse](getlatestofflinedatabasechunksresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

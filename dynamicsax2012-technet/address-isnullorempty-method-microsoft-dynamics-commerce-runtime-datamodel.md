@@ -18,6 +18,9 @@ dev_langs:
 
 # IsNullOrEmpty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if an address is null or empty.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Print periodic customer account statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the information in this topic to create statements that you can send to customers. Each statement can include information about the current, past, or future balance of the customer account. The statement can also include transaction activity for the time period that the statement covers.

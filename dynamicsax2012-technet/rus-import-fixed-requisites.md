@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Import fixed requisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To import fixed requisites, you must create a Microsoft Excel worksheet that contains columns to hold the requisite code and the requisite description. You can also include other columns.

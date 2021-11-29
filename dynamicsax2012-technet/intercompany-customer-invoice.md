@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany customer invoice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A customer invoice that documents a customer payment request from one legal entity to another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 
 ## See also

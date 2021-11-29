@@ -15,6 +15,9 @@ f1_keywords:
 # Demand forecasting configuration key (ReqDemandPlanning) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Demand forecasting** configuration key controls access to forms and functions that are used in demand forecasting. If this configuration key is enabled, you can create baseline forecasts, adjust demand forecasts, and import them to Microsoft Dynamics AX.

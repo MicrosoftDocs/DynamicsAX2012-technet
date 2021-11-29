@@ -21,6 +21,9 @@ ms.search.region: Global
 # About ATP calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX calculates the available-to-promise (ATP) quantity based on the “cumulative ATP with look-ahead” method. The main advantage to this ATP calculation is that it can handle instances when the sum of issues between receipts is bigger than the latest receipt, for example, when it is necessary to use a quantity from an earlier receipt to meet a requirement. By including all of the issues until the cumulative quantity to receive is bigger than the cumulative quantity to issue, Microsoft Dynamics AX uses the ATP calculation method to evaluate if some of the quantity from an earlier period could be used in a later period.

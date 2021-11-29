@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateLoyaltyCardId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the loyalty card ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

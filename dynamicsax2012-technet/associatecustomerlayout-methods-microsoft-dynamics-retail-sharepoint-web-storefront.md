@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AssociateCustomerLayout Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AssociateCustomerLayout](associatecustomerlayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Methods

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Configuring Enterprise Portal for customer requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 The following topics provide information about how to process customer requests for Enterprise Portal for Microsoft Dynamics AX.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemWarehouses Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of item-store combination for which the quantity can not be retrieved from inventory database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

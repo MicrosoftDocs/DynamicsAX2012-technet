@@ -17,6 +17,9 @@ dev_langs:
 
 # PutTerminalByRecordId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Puts terminal entity into cache by record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

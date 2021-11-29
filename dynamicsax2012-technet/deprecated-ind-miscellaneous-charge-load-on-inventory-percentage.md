@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (IND) Miscellaneous charge load on inventory percentage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 lets users post a specified percentage (partial amount) of a miscellaneous charge to inventory. The remaining miscellaneous charge is charged to the vendor or customer.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Select a fiscal calendar for a ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can select the fiscal calendar to use for the ledger in the **Ledger** form. This is the same form where you select the chart of accounts, accounting currency, and other ledger details. You must select a fiscal calendar for every legal entity. For more information, see [Ledger (form)](https://technet.microsoft.com/library/hh209331\(v=ax.60\)).

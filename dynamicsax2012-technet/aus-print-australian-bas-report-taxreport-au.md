@@ -21,6 +21,9 @@ f1_keywords:
 # (AUS) Print Australian BAS report (TaxReport\_AU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print Australian BAS** report is used to create an electronic tax declaration report known as a Business Activity Statement. This report is typically used by accountants, accounting managers, and accounting supervisors.

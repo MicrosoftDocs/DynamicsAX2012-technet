@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Shopping Cart 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The shopping cart control in the Retail in Microsoft Dynamics AX 2012 R3 online sample stores supports the collection and display of the items that a customer has selected to buy. A copy of the shopping cart is created when the customer begins the checkout process. The mini shopping cart icon displays the number of items in the shopping cart at the top of most of the store pages and optionally displays a list of items and prices as well as buttons that enable the user to view the full cart contents and start checking out.

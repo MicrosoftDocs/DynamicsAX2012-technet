@@ -15,6 +15,9 @@ dev_langs:
 
 # ToXml Method (StockCountJournalTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serialize to xml format of a SC journal transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Setting up Sales and marketing parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin working in the **Sales and marketing** area of Microsoft Dynamics AX, you can set default values in the **Sales and marketing parameters** form. By presetting these values, you can reduce some of the manual data entry that you must perform when you create new prospects, leads, opportunities, or records in the global address book that share common characteristics.

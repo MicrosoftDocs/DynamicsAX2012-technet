@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Online Store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 includes a suite of features that help you deploy, manage, and customize an online sales channel that is fully integrated with Microsoft Dynamics AX. E-commerce investments include two starter online stores that are built on Microsoft SharePoint Server 2013, developer tools, and administrative and runtime components that integrate the online channel with Microsoft Dynamics AX.

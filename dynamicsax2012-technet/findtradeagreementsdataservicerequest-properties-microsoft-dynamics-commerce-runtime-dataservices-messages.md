@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FindTradeAgreementsDataServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FindTradeAgreementsDataServiceRequest](findtradeagreementsdataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

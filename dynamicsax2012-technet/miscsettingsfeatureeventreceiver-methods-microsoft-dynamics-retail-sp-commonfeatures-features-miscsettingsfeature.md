@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MiscSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MiscSettingsFeatureEventReceiver](miscsettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sp-commonfeatures-features-miscsettingsfeature.md) type exposes the following members.
 
 ## Methods

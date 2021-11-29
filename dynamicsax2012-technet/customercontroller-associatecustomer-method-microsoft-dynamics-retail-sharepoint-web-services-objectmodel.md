@@ -17,6 +17,9 @@ dev_langs:
 
 # AssociateCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Associate an existing customer to the current credentials if the criteria matches.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

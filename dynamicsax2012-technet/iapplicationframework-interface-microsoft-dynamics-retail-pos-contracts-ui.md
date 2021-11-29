@@ -17,6 +17,9 @@ dev_langs:
 
 # IApplicationFramework Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IApplicationFramework interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.UI](microsoft-dynamics-retail-pos-contracts-ui-namespace.md)  

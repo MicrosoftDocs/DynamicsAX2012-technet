@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a reference to an existing document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create a reference to an existing document, you must set up a new document type. The new document type will attach existing documents to a form instead of creating new documents.

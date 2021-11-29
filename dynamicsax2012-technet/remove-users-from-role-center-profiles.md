@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Remove users from Role Center profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can remove users from profiles at any time, such as when a user changes roles in your organization. When you remove a user from a profile, information is no longer displayed on the user's Role Center pages in the applicable companies, until you assign the user to another profile.

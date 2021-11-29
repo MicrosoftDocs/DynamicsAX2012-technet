@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The receipt type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

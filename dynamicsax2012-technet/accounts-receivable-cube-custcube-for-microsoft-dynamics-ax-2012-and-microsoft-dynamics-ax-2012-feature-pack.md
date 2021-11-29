@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounts receivable cube (CustCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Accounts receivable cube to report on customer transactions and accounts receivable.

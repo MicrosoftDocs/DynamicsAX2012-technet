@@ -17,6 +17,9 @@ dev_langs:
 
 # Configure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Configures the database provider.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

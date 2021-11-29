@@ -27,6 +27,9 @@ ms.search.region: Russia
 # (RUS) View the loyalty points discount amount for a retail store transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can view the loyalty points discount amount for a retail store transaction in the **Retail store transactions** and **Sales transactions** forms. You can view the details of the loyalty points discount for a transaction in the **Discount transactions** form.

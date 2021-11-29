@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Import bank account statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use this feature to import bank account statements from banks.

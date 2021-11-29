@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddToCart Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddToCart](addtocart-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Methods

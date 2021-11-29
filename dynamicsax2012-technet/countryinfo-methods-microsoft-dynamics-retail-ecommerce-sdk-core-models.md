@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CountryInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CountryInfo](countryinfo-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md) type exposes the following members.
 
 ## Methods

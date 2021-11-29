@@ -17,6 +17,9 @@ ms.search.region: Global
 # Reserve a specific worker for a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to assign specific workers to specific projects in Microsoft Dynamics AX. To find resources for a project, you can view a list of workers in a legal entity who are available to be scheduled for projects. Reserve a worker by creating a hard booking, which commits the worker to the project, or a soft booking, which tentatively assigns the worker to the project.

@@ -15,6 +15,9 @@ f1_keywords:
 # Set up a channel database profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A channel database profile provides the information that enables Microsoft Dynamics AX to communicate with a retail channel database.

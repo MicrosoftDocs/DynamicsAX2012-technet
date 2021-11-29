@@ -18,6 +18,9 @@ f1_keywords:
 # Upgrade AIF code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Application Integration Framework (AIF) is used to exchange data between Microsoft Dynamics AX and external systems. During the upgrade process, the **Data upgrade checklist** includes a step for the upgrade of AIF code. This topic describes this step of the **Data upgrade checklist**.

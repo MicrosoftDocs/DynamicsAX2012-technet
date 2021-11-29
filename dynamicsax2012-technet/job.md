@@ -14,6 +14,9 @@ f1_keywords:
 
 # job
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - An occurrence of an activity performed between specific start and end times and at specific locations.
 
   - A grouping of responsibilities, duties, and job functions that compose an activity.

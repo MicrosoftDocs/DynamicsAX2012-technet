@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Resources for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section contains printable guides, white papers, and documentation for supported tools that can be used with Microsoft Dynamics AX.

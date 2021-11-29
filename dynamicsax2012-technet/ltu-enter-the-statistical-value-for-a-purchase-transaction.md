@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Enter the statistical value for a purchase transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a purchase order, you can enter an additional transaction cost that is added to the transaction amount and printed on the Intrastat reports.

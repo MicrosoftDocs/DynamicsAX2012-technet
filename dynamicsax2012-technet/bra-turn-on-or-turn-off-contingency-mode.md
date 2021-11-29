@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Turn on or turn off contingency mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can turn on contingency mode when communication problems occur between Microsoft Dynamics AX and the Secretaria da Fazenda (SEFAZ). You can turn off contingency mode when the communication problem is resolved, and the contingency mode is no longer required.

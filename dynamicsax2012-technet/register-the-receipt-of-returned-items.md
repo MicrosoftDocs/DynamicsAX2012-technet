@@ -14,6 +14,9 @@ ms.search.region: Global
 # Register the receipt of returned items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides two methods for registering the receipt of returned items. The first method is a warehouse receiving process that uses the **Arrival overview** form. The second uses the **Registration** form.

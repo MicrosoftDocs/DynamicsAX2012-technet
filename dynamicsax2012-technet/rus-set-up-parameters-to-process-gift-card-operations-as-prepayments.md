@@ -25,6 +25,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters to process gift card operations as prepayments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 This topic provides information about how to set up Microsoft Dynamics AX for Retail to process gift card operations as prepayment transactions, and how to set up a default gift card customer.

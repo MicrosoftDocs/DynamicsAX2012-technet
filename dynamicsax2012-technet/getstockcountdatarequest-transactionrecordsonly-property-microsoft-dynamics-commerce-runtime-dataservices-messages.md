@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionRecordsOnly Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether transaction records are only required. No journal data will be included.
 
 If set to true then JournalId must be specified also.

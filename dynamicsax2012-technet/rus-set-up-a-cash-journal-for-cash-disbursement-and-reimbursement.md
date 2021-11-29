@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a cash journal for cash disbursement and reimbursement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Cash disbursement and reimbursement transactions are registered in an account through the cash ledger journals.

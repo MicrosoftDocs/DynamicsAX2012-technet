@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create a tax journal for customs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create tax journals to transfer the opening balances to ledger accounts or post adjustment entries between a specific tax component and any other tax component.

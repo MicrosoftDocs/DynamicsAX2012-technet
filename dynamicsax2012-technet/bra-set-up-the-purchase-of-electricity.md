@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up the purchase of electricity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax credit on the purchase of electricity varies based on state regulations. Legal entities can claim the ICMS tax credit either on the total amount that is spent on the purchase of electricity or on the amount that is spent on these purchases for the manufacturing area of the legal entity. The purchase of electricity is exempt from Imposto sobre Produtos Industrializados (IPI) tax.

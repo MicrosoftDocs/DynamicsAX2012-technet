@@ -17,6 +17,9 @@ dev_langs:
 
 # IsInfoAvailable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the gift card availability information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DataTable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the underlying data table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

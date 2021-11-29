@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Manage vendor payment retention for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your organization might want to retain part of the payments to a vendor for a project. For example, you can make sure that the products from the vendor meet your expectations before you pay the vendor.

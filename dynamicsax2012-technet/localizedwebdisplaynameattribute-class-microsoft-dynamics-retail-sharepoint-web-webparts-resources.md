@@ -17,6 +17,9 @@ dev_langs:
 
 # LocalizedWebDisplayNameAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides localizability support for WebDisplayNameAttribute.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources](microsoft-dynamics-retail-sharepoint-web-webparts-resources-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban card
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A printed document that represents a kanban on the shopfloor, on a physical kanban board or Heijunka board, in a shipment, or in inventory.
 
 ## See also

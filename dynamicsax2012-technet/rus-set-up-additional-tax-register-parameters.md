@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up additional tax register parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up additional parameters for tax registers if you want to calculate the amount difference for prepayments.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # economic event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of an economic exchange action in an economic system.
 
 ## See also

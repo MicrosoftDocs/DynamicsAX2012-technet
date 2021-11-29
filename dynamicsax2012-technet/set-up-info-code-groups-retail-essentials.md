@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up info code groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to set up info code groups. Info code groups let you group predefined info codes together so that you can easily reuse them. You can also specify the order in which info codes are displayed to the user, without manually creating dependencies between them.
 
 

@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountTypeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Discount type column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

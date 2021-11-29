@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Updates existing customer in AX.

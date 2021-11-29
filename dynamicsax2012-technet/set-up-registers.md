@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 When you set up a terminal in Microsoft Dynamics AX for Retail POS, you select a hardware profile and a visual profile for the terminal. A hardware profile determines the physical configuration of a terminal and a visual profile determines its screen characteristics.

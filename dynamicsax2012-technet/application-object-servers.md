@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Application Object Servers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An Application Object Server (AOS) is a core component of the Microsoft Dynamics AX 2012 installation and is installed by using Setup. An AOS enforces security, manages connections between clients and the database, and provides the foundation where Microsoft Dynamics AX business logic is executed. An AOS is implemented as a Microsoft Windows Service and is listed in the services as **Microsoft Dynamics AX Object Server 6.0$** *InstanceName*.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the tax agent transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up the parameters for tax agent transactions in the general ledger module before you can create the tax agent transactions.

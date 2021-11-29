@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Calculate exchange rate adjustments for bank account transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must revalue and adjust bank accounts if there is a difference in the exchange rate between the accounting currency and the reporting currency. This helps you to calculate the correct balance in the accounting currency and the reporting currency for the bank accounts.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemTaxGroupId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item tax group identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculation algorithm for WIP and FP estimation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To calculate the work in process (WIP) and finished products (FP) estimate in the tax accounting register, you must summarize the general ledger account turnovers and balances if there is a total account, or issue offset account, for all register lines. Data for the **Starting balance** column is populated from the **Closing balance** column of the WIP and FP estimate in the tax accounting register for the previous period.

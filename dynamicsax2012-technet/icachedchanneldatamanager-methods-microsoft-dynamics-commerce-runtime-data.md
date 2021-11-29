@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICachedChannelDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICachedChannelDataManager](icachedchanneldatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

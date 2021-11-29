@@ -17,6 +17,9 @@ dev_langs:
 
 # CartLine Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cart line that represent the gift card operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

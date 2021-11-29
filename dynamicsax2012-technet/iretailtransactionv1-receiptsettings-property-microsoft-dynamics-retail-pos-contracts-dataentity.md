@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptSettings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Should the receipt for the transaction be printed, emailed or even both.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

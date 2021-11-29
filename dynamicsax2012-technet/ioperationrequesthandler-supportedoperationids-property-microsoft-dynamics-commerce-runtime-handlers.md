@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportedOperationIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of operation identifiers supported by this request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Handlers](microsoft-dynamics-commerce-runtime-handlers-namespace.md)  

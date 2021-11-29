@@ -15,6 +15,9 @@ f1_keywords:
 # Create sales orders and customer invoices (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to create a sales order for a customer in Retail essentials. This topic also describes how to create, post, and print a customer invoice for products in a sales order.

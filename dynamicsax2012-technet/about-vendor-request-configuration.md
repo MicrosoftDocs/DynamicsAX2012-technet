@@ -15,6 +15,9 @@ ms.search.region: Global
 # About vendor request configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers in your company may want to purchase products from a vendor who is not approved to do business with your company. Or they may want to work with a vendor who is already approved to do business with your organization in another legal entity or procurement category. Workers can submit requests to add new vendors to the vendor master or extend existing vendors into additional legal entities or procurement categories. These requests are routed, via workflow, to an approver. If a request is approved, the vendor becomes a prospective vendor.

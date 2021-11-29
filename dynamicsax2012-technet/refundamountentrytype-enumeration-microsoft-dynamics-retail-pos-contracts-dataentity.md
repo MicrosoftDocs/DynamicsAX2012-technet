@@ -20,6 +20,9 @@ dev_langs:
 
 # RefundAmountEntryType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Refund amount entry type, stored in RETAILTRANSACTIONRETURNPAYMENTSUM table, ENTRYTYPE column
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

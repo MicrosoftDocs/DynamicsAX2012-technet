@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up order processing options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to process orders for call centers.

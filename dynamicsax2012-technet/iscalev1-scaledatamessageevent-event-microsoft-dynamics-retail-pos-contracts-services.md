@@ -17,6 +17,9 @@ dev_langs:
 
 # ScaleDataMessageEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Scale device message event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

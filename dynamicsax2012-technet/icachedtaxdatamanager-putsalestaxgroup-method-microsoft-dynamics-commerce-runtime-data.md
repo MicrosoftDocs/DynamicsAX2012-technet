@@ -17,6 +17,9 @@ dev_langs:
 
 # PutSalesTaxGroup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales tax group for the given predicates.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

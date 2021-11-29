@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Define withholding tax information for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up withholding taxes in the form of tax deducted at source (TDS), permanent account numbers (PAN), and tax account numbers (TAN) for vendors.

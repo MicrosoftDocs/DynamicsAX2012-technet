@@ -17,6 +17,9 @@ dev_langs:
 
 # StartingTimeForDay Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the starting time for the given day.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

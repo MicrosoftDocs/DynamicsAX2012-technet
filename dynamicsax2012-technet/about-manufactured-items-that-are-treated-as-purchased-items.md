@@ -19,6 +19,9 @@ ms.search.region: Global
 # About manufactured items that are treated as purchased items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A manufactured item can be treated as a purchased item for master scheduling and cost-rollup purposes. Typical situations include a purchased item that is occasionally manufactured or a manufactured item that has been changed to being a primarily purchased item. The item is first designated as a manufactured item in order to define bill-of-material and route information, and to support production orders for the item.

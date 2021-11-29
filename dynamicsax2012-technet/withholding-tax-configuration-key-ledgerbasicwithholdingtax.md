@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Withholding tax configuration key (LedgerBasicWithholdingTax) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Withholding tax** configuration key controls access to all withholding tax forms and reports and all fields that are related to withholding tax.

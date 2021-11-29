@@ -14,6 +14,9 @@ f1_keywords:
 # Event configuration key (Event) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Event** configuration key controls access to the forms that you can use to set up alerts. Alerts are notification messages that you can receive when specific events have occurred. For example, you can receive alerts when there are overdue deliveries, deleted orders, or price changes.

@@ -16,6 +16,9 @@ f1_keywords:
 
 # reference
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - The state of being related or referred.
 
   - To relate to another entity.

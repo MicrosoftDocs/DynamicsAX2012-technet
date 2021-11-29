@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up card payment methods for stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up card payment methods so that a store can accept debit cards, credit cards, and other card types as payment for purchases. Before you can set up cards as a payment method, you must set up payment methods for stores. For information about how to set up store payment methods, see [Set up store payment methods (Retail Essentials)](set-up-store-payment-methods-retail-essentials.md).

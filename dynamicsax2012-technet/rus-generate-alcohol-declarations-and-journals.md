@@ -40,6 +40,9 @@ ms.search.region: Russia
 # (RUS) Generate alcohol declarations and journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up parameters for alcohol declarations and journals, you can create and post customer transactions or vendor transactions for alcoholic items. You can create an alcohol declaration and a daily alcohol production turnover journal that contain details about sales, purchases, and the movement of items between company divisions. This information can be classified based on the customer type, vendor type, or alcohol production type.

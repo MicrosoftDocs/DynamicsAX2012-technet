@@ -13,6 +13,9 @@ f1_keywords:
 
 # plan
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An anticipated progression of interrelated activities that do not have assigned start and end times or assigned resources.
 
 ## See also

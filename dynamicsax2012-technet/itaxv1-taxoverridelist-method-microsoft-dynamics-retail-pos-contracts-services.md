@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxOverrideList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays a list of available sales tax overrides.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

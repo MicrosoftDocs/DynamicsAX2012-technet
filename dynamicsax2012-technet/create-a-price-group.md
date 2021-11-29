@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a price group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create price groups in Retail. A price group is the key link in managing prices and discounts for retail products in specific channels, catalogs, affiliations, and loyalty programs. For example, you could create a price group called “Student” and use it to link several different discounts to specific stores and to an affiliation.

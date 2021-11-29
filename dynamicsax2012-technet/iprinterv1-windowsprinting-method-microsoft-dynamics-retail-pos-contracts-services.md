@@ -17,6 +17,9 @@ dev_langs:
 
 # WindowsPrinting Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints text on the Windows Printer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

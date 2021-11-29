@@ -13,6 +13,9 @@ f1_keywords:
 
 # optical character recognition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of translating images of printed text into machine-encoded text.
 
 ## See also

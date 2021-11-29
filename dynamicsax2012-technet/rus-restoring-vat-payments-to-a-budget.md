@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Restoring VAT payments to a budget 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Materials and fixed assets that are acceptable as deductions and used in value-added tax (VAT)-free activities are subject to VAT amount restoration. Companies that conduct operations that are subject to VAT, and that are tax exempt, can deduct all incoming VAT amounts if their share of expenses on tax-exempt operations is not greater than 5 percent of the total production cost. The VAT amount deducted on goods, materials, or fixed assets that are not subject to VAT can be recovered or restored by goods shipment on export and fixed asset usage in export production.

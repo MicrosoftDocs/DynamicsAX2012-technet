@@ -18,6 +18,9 @@ ms.search.region: Global
 # View a demand forecast in Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to view a demand forecast in an Excel file. You perform this task after you have created a baseline forecast, and it has been saved and stored in a Microsoft SQL Server Analysis Services cube.

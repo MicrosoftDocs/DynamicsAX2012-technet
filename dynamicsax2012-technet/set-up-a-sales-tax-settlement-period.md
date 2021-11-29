@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a sales tax settlement period 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Set up a sales tax settlement periods by creating the sales tax settlement period, setting up the period length, and creating the individual settlement periods.

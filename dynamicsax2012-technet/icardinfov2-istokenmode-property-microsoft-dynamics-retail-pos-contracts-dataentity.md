@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTokenMode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Need just credit card information to fetch a token
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

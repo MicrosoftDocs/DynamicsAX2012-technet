@@ -17,6 +17,9 @@ ms.search.region: Global
 # About project budgets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX supports two methods for projecting and controlling project costs and revenues: project budgeting and project forecasting. By using project budgeting, you can enter estimated revenues and costs for a project and then use it to control actual project transactions. Project budgeting is a simpler method than forecasting, although it does integrate with forecast models. It uses a single entry form for original budget details and for revisions, and it allows projections based only on amount, category, or activity.

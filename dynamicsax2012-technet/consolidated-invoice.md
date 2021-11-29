@@ -13,6 +13,9 @@ f1_keywords:
 
 # consolidated invoice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A vendor invoice that documents a sum of product quantities and monetary amounts from more than one referenced vendor invoice.
 
 ## See also

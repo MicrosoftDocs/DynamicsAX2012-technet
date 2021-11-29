@@ -14,6 +14,9 @@ ms.search.region: Global
 # Use cross docking to distribute products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to use cross-docking to create transfer orders from a purchase order. Cross docking distributes products from the receiving warehouse to stores, based on the quantities and rules that you specify.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Client-side batch framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The batch framework in Microsoft Dynamics AX 4.0 and earlier versions required an active client connection to run batch jobs. Users could submit batch jobs, but the batch jobs were not run until a batch operator ran a “batch processing form” and left the client running while the jobs were run.

@@ -17,6 +17,9 @@ dev_langs:
 
 # MSR Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the MSR peripheral device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

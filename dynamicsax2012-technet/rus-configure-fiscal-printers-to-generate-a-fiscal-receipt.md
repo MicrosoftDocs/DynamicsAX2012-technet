@@ -23,6 +23,9 @@ ms.search.region: Russia
 # (RUS) Configure fiscal printers to generate a fiscal receipt 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to configure a certified Shtrih-M fiscal printer, create fiscal printer configurations, and maintain fiscal printer configuration files in Microsoft Dynamics AX. You can register retail point of sale (POS) sales, and then print fiscal receipts using the Shtrih-M fiscal printer.

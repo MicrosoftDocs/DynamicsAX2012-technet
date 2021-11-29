@@ -13,6 +13,9 @@ f1_keywords:
 
 # production schedule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A schedule to produce a specific item and item quantity at a specific time and by specific human and operational resources.
 
 ## See also

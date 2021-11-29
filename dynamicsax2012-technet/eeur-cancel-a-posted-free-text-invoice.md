@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Cancel a posted free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to cancel a free text invoice that has been posted. If you want to cancel an invoice and create a corrected invoice at the same time, see [Correct a posted free text invoice](correct-a-posted-free-text-invoice.md).

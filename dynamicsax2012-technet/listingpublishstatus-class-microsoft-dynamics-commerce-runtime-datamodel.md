@@ -17,6 +17,9 @@ dev_langs:
 
 # ListingPublishStatus Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the publishing status of a listing.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

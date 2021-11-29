@@ -17,6 +17,9 @@ dev_langs:
 
 # CartDeliveryPreferences Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the delivery preferences available based on items in the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

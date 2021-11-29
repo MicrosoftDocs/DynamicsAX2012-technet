@@ -17,6 +17,9 @@ dev_langs:
 
 # UseExistingShiftPermissionDenied Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cashier does not have permission to use the existing shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

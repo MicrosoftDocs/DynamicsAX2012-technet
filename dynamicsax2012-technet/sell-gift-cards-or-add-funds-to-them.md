@@ -24,6 +24,9 @@ ms.search.region: Global
 # Sell gift cards or add funds to them 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to sell gift cards from a call center and add funds to an existing gift card. Retail supports selling and redeeming both physical gift cards and electronic gift cards. You can sell physical gift cards from any retail channel. You can sell electronic gift cards only in the call center and the online store. You can add funds to an existing gift card only in the call center or in Microsoft Dynamics AX for Retail POS.

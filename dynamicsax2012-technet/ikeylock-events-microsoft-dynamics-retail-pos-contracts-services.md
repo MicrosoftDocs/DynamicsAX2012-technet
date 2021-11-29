@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IKeyLock Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IKeyLock](ikeylock-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Events

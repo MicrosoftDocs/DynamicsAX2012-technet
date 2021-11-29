@@ -19,6 +19,9 @@ ms.search.region: Global
 # About cash discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Cash discounts can be set up for both customers and vendors and can apply to both sales orders and purchase orders. Customers obtain a cash discount when they pay their invoices in a specified period of time, and the legal entity can also obtain cash discounts from vendors.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create an allocation journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Process allocation request** form to create an allocation journal. You can create an unlimited number of allocation journals by using this form. Before you can create an allocations journal, you must create an allocation rule by using the **Ledger allocation rule** form. For more information, see [Create an allocation rule](create-an-allocation-rule.md).

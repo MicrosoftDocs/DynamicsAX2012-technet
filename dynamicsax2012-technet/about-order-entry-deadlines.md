@@ -20,6 +20,9 @@ ms.search.region: Global
 # About order entry deadlines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In many companies, a sales order must be received before a certain time of day for the sales order to be treated as if it is received that day. If the order is received after this deadline, the company treats the sales order as if it is received the next business day.

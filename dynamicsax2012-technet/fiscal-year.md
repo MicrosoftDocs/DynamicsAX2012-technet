@@ -13,6 +13,9 @@ f1_keywords:
 
 # fiscal year
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An approximate 12-month fiscal period used by an organization that prepares annual financial statements.
 
 ## See also

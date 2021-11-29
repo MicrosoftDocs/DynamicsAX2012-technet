@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasureConversionDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unit of measure conversion data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

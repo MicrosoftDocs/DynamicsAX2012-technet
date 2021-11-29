@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate sales tax settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you submit a tax settlement to the tax authorities for a financial year, you must complete the periodic sales tax payment process to make the necessary tax adjustments. You can view the amount that is recoverable and payable for the specified period.

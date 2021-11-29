@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Using AX Enum Provider in a Column Chart Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A chart provides a graphical representation of data. Displaying data in a chart makes it easy for users to see comparisons, patterns, and trends in the data. In this walkthrough, you will create a report to display customer transaction data in a column chart.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The shopping cart web control for generating the template used to render the markup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

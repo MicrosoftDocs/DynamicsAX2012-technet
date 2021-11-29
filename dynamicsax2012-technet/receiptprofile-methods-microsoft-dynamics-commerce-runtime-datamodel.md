@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReceiptProfile Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReceiptProfile](receiptprofile-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

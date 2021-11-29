@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetAttribute(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to get the attribute if specified on the property property.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

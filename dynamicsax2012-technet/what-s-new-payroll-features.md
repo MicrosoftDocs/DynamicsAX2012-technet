@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Payroll features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Payroll processing was redesigned in Microsoft Dynamics AX 2012 R2 and now provides a more consistent user interface. Additionally, setup and data entry have been simplified.

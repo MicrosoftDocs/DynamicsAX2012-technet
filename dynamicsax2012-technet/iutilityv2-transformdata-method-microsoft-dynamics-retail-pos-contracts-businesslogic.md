@@ -17,6 +17,9 @@ dev_langs:
 
 # TransformData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Linear transform of data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

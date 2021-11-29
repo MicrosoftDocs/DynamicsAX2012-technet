@@ -17,6 +17,9 @@ dev_langs:
 
 # CCTVErrorOutput Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends the current error message in Retail POS to the CCTV.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

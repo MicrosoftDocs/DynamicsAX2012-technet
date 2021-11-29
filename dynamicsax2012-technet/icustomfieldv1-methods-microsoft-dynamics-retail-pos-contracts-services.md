@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomFieldV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomFieldV1](icustomfieldv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

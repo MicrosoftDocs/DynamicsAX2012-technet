@@ -21,6 +21,9 @@ ms.search.region: Global
 # About parameters for settlements in Accounts payable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following parameters affect how settlements are processed in Microsoft Dynamics AX. Settlement is the process of settling an invoice with a payment or credit note. These parameters are located in the **Settlement** area of the **Accounts payable parameters** form.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure site structure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to define a structure for your sites, warehouses, and resource groups. Additionally, you can specify the default site, warehouse, and the fallback warehouse to assign to transactions for which this information is not available and cannot be deduced.

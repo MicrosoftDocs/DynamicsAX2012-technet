@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Layout or Style Template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to create layout and style templates. A layout template defines the general layout and style settings for a report. A style template contains the layout and style settings for a data region that displays in the body of a report. Each style template is specific to a data region type. For example, if you define a style template for a table data region, it can only be applied to table data regions. Layout and style templates are used in auto design reports and not accessed for precision design reports.

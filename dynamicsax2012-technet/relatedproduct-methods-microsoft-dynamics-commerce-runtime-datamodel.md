@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RelatedProduct Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RelatedProduct](relatedproduct-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

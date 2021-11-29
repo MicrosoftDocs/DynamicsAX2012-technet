@@ -17,6 +17,9 @@ dev_langs:
 
 # TokenizedPaymentCard Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a payment instrument by tokenized card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

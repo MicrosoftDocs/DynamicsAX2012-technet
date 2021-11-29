@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) About working with Commerce Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you set up an account for Commerce Services for Microsoft Dynamics ERP and set up marketplaces, you can list your products online and process sales orders as customers buy your products. The following steps describe the basic workflow for working with Commerce Services:

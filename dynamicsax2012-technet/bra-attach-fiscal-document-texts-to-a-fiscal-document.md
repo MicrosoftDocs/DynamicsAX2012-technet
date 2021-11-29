@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Attach fiscal document texts to a fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can attach fiscal document texts to fiscal documents, such as sales orders, sales order lines, purchase orders, purchase order lines, vendor invoices, and vendor invoice lines. You can also attach fiscal document texts to customer accounts, vendor accounts, and items. The fiscal document texts are printed on the fiscal documents when you post and print the fiscal documents.

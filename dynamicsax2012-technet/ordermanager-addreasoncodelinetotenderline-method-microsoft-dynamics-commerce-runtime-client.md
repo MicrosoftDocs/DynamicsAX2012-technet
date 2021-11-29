@@ -17,6 +17,9 @@ dev_langs:
 
 # AddReasonCodeLineToTenderLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the reason code line to tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Modify the posting date in the general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can settle vendor payments by using dimension control. If the dimension set that is specified in the **Vendor posting profiles** form does not match the dimension set that is specified for the transaction, the settlement is canceled. You can also settle payments for customers and advance holders by using dimension control.

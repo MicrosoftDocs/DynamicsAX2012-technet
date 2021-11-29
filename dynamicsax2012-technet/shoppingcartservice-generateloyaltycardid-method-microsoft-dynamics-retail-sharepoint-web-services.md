@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateLoyaltyCardId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issues a new loyalty card ID for the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -171,6 +171,9 @@ dev_langs:
 
 # PosisOperations Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies the operations that can be performed in POS. Each operation is a functionality that is performed in POS and each functionality can be secured independently.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

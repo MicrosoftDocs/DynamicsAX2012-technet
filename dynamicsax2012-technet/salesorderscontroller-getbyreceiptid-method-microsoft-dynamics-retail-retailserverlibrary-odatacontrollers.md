@@ -17,6 +17,9 @@ dev_langs:
 
 # GetByReceiptId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales order by the receipt identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

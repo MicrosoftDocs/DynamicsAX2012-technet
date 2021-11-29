@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Best Practices for Report Performance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This section contains guidance and best practices for ensuring good report performance.

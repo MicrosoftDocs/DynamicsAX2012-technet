@@ -15,6 +15,9 @@ ms.search.region: Global
 # About reporting and analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides hundreds of default reports that you can use to view and analyze business data. These reports can be categorized into two groups: transactional reports and analytical reports.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExchangeRate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The exchange rate used to calculate the amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

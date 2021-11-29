@@ -17,6 +17,9 @@ dev_langs:
 
 # ZeroPriceValid Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is a zero price valid for the product.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

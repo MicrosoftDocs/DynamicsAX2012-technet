@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Portal Benchmark for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 In January 2012, Microsoft conducted a benchmark of Enterprise Portal for Microsoft Dynamics AX 2012 to measure its performance and scalability characteristics.

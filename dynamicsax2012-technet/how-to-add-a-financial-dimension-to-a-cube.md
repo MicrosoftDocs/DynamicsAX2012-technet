@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add a Financial Dimension to a Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Financial dimensions in Microsoft Dynamics AX help you analyze finance data. You can add financial dimensions to an Analysis Services project. The MainAccount financial dimension is included with Microsoft Dynamics AX, but you can include other financial dimensions in your Analysis Services project if you define additional financial dimensions.

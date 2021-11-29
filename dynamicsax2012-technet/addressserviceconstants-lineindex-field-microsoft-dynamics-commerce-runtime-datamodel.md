@@ -18,6 +18,9 @@ dev_langs:
 
 # LineIndex Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line index field name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

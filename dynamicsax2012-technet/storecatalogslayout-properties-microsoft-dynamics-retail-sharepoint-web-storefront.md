@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StoreCatalogsLayout Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StoreCatalogsLayout](storecatalogslayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Properties

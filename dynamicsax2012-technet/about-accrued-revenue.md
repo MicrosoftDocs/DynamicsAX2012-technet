@@ -18,6 +18,9 @@ ms.search.region: Global
 # About accrued revenue 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For Fixed-price projects and Time and material projects, revenue can be accrued only if the project is assigned to a project group for which accruals are enabled. Furthermore, you must enable accruals in the line property setting for the transaction. To enable accruals, select the **Accrue revenue** check box in the **Line properties** form for the specified line property.

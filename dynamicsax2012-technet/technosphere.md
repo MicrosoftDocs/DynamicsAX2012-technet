@@ -13,6 +13,9 @@ f1_keywords:
 
 # technosphere
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The entities that are outside the organization’s operational boundary. Materials that come from the technosphere are bought or sold, rather than acquired from the environment.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetInvoiceServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request message for retrieving invoices by customer, sales id, or invoice id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

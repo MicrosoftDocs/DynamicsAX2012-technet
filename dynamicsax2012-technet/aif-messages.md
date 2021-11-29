@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AIF Messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section of the documentation describes the tags used in Microsoft Dynamics AX services Application Integration Framework (AIF) messages. An AIF message uses XML to describe a self-contained unit of data that can consist of several parts. These parts include a \<Header\> tag section and a \<Body\> tag section. All XML used in AIF is validated against the appropriate schema. For more information about AIF messages and schemas, see [Messages and transforms in AIF](messages-and-transforms-in-aif.md).

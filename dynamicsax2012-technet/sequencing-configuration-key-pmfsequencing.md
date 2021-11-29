@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sequencing configuration key (PMFSequencing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Sequencing** configuration key controls access to the fields and functions that are used to set up and work with the sequencing of batch orders during production. For more information, see [About batch order sequencing](about-batch-order-sequencing.md).

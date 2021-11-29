@@ -19,6 +19,9 @@ ms.search.region: Global
 # Manage vendor requests overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers in your company may want to purchase products from a vendor who is not approved to do business with your company. In this case, a worker can submit a request to add the vendor to the vendor master. The worker must submit a new vendor request in the Employee portal in Enterprise Portal for Microsoft Dynamics AX. The request includes contact information for the vendor and a justification for the request. New vendor requests appear on the **Vendor requests** list page in Microsoft Dynamics AX.

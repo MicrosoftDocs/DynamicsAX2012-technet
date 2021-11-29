@@ -17,6 +17,9 @@ dev_langs:
 
 # Discounts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the the collection of line level discounts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

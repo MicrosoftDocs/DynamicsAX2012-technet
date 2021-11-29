@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add and maintain your positions of trust 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Competencies** page to add or maintain information about the positions of trust that you currently hold or have held in the past. A position of trust is a position or role that a person performs outside the responsibilities of their primary position. For example, a position of trust can be a membership in a professional association or a seat on a board of directors.

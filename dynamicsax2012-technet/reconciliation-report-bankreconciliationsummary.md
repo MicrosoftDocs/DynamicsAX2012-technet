@@ -14,6 +14,9 @@ f1_keywords:
 # Reconciliation report (BankReconciliationSummary) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print a summary of the bank account reconciliation information. You can specify the date up to which to display information. You can include the number of reconciled bank transactions, total amounts for transactions, and a summary of all transactions.

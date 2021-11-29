@@ -15,6 +15,9 @@ f1_keywords:
 # Source code configuration key (MCRSourceCode) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Source code** configuration key controls access to catalog page layout, catalog request, free product, and source code functionality in the **Call center** and **Retail** modules.

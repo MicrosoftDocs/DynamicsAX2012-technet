@@ -14,6 +14,9 @@ ms.search.region: Global
 # Fixed assets roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic is a roadmap to additional information about Fixed assets in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Fixed assets and information on which modules integrate with Fixed assets.
 
 Fixed assets are items of value, such as buildings, vehicles, land, and equipment, that are owned by an individual or organization. You can set up and enter acquisition information for fixed assets, and then manage them by depreciating them and setting a capitalization threshold to determine depreciation. You can calculate adjustments to the fixed assets, and also dispose of them.

@@ -17,6 +17,9 @@ dev_langs:
 
 # AnyProductOrVariant Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constant used to determine if a product ID or variant ID was not set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

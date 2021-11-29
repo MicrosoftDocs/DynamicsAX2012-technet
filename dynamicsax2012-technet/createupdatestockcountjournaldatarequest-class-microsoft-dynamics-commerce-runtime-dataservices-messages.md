@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateUpdateStockCountJournalDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CreateUpdateStockCountJournalDataRequest request class to create or update stock count journals.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

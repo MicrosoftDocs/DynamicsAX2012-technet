@@ -22,6 +22,9 @@ ms.search.region: Global
 # About print management document types and modules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Print management works with several modules. These include Accounts receivable, Accounts payable, and Project management and accounting. You can see the supported documents for each module in the **Print management setup** form. For example, in Accounts receivable, the following documents are supported:

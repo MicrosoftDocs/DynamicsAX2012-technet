@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up main account categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Main account categories** form to set up main account categories. You can use main account categories, which are attributes that provide an additional classification, to categorize general ledger main accounts and define an account range to view information from a group of accounts. For more information, see [Main account categories (form)](https://technet.microsoft.com/library/hh227632\(v=ax.60\)).

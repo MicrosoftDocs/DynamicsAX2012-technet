@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTotalDiscAmountLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method will distribute the amountToDiscount across all the sale items in the transaction proportionally except for the line item with the largest amount. The remainder will be distributed to the line item with the largest amount to ensure the amount to discount is exactly applied.
 
 This method currently works for either the customer discount or when the total discount button is applied

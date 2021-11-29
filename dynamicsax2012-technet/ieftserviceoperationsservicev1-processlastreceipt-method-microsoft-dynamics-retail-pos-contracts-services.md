@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessLastReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get bank cards last operation receipt
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

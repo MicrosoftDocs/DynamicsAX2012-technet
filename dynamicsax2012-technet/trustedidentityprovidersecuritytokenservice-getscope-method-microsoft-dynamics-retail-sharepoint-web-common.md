@@ -17,6 +17,9 @@ dev_langs:
 
 # GetScope Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method returns the configuration for the token issuance request. The configuration is represented by the Scope class. In our case, we are only capable of issuing a token for a single RP identity represented by the EncryptingCertificateName.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

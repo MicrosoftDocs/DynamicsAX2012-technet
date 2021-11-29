@@ -17,6 +17,9 @@ dev_langs:
 
 # DownloadDataSetRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Downloads the full CRT data set based on data object name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

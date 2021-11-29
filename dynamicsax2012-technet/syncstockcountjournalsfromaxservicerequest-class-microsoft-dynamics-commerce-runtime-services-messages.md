@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncStockCountJournalsFromAxServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SyncStockCountJournalsFromAxRequest is the request class to sync stockcount journals from AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

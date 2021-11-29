@@ -13,6 +13,9 @@ f1_keywords:
 
 # nominal account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An account that is closed out each fiscal period and whose balance is transferred to retained earnings account.
 
 ## See also

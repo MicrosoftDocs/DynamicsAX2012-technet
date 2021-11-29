@@ -16,6 +16,9 @@ f1_keywords:
 # (THA) Withholding tax slip (TaxWithholdSlip\_TH) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Withholding tax slip** report prints the details of withholding tax slips for legal entities operating in Thailand. This report is printed in the withholding tax currency and is sorted by the vendor account and the journal number. This report is typically used by accounting managers, accounts payable coordinators, and accountants to maintain vendor payment details.

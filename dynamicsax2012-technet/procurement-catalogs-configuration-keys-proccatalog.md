@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Procurement catalogs configuration keys (ProcCatalog) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Procurement catalogs** configuration key controls access to procurement catalog features in Microsoft Dynamics AX and Enterprise Portal for Microsoft Dynamics AX.

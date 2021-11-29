@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # VETS preparation report (HcmVETSPrepReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This report provides data that you can use if you are required to prepare the VETS 100 or VETS100A report regarding your organization’s affirmative action efforts in employing veterans. Federal contractors and subcontractors who meet specific requirements must submit the VETS reports annually to the Office of Federal Contractor Compliance Programs (OFCCP).

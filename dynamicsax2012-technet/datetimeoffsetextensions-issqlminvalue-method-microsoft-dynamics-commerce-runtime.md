@@ -17,6 +17,9 @@ dev_langs:
 
 # IsSqlMinValue Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the specified date time offset is SQL minimum value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

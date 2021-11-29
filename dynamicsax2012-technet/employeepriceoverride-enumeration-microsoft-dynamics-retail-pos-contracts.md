@@ -21,6 +21,9 @@ dev_langs:
 
 # EmployeePriceOverride Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies the worker-based permissions for the PriceOverride operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

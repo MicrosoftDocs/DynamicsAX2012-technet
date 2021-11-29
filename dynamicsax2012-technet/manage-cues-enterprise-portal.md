@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage cues (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cue is a filtered view of a list that has been saved. You can create your own cues in the Microsoft Dynamics AX client by creating an advanced filter and then click the **Save as cue** button. You can also click the **Save as cue** button from any list page in the Microsoft Dynamics AX client. If you double-click a cue on your Role Center page in the Microsoft Dynamics AX client, the associated page opens and the filtered view is displayed. If you click a cue on your Role Center page in Enterprise Portal for Microsoft Dynamics AX, the associated page opens, but the filtered view is not displayed.

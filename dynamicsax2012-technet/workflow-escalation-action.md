@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow escalation action
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An automatic workflow action taken when a workflow work item is not completed by the current assignee.
 
 ## See also

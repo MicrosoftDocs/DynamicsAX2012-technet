@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create and print labels overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Retail, you can generate and print labels to use in stores. A label is a piece of paper, polymer, cloth, metal, or other material that is attached to a product, a container, or a shelf. A label can also be printed directly on a container or an item. Retail offers two types of labels: product labels and shelf labels. Product labels are always specific to a particular variant, but shelf labels don’t have to be.

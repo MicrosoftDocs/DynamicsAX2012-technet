@@ -13,6 +13,9 @@ f1_keywords:
 
 # tax branch
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A branch office that is used to record value-added tax (VAT) and inventory movement. All the branch offices of a VAT-registered legal entity are referred to as tax branches. Each tax branch uses the same tax registration number as the head office of the legal entity.
 
 ## See also

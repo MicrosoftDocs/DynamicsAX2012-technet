@@ -17,6 +17,9 @@ ms.search.region: Denmark
 # (DNK) About OIOUBL standards for electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Danish companies must submit sales order invoices, free text invoices, project invoices, sales order credit notes, and project invoice credit notes as .xml files to the government. These .xml files must comply with the Offentlig Information Online Universal Business Language (OIOUBL) standards. OIOUBL is a customization of the international Universal Business Language (UBL) 2.0 standard from the Organization for the Advancement of Structured Information Standards (OASIS) for Danish business requirements.

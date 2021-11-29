@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up the Internal controls site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Effective internal controls are important for compliance with regulations such as Section 404 of the U.S. Sarbanes-Oxley Act of 2002. Examples of internal controls relate to the preparation of financial statements, maintaining visibility of purchase orders and sales orders, and managing vendor accounts, customer accounts, and product master records. The **Internal controls** site contains the compliance-related data that helps your organization manage and evaluate the effectiveness of its controls.

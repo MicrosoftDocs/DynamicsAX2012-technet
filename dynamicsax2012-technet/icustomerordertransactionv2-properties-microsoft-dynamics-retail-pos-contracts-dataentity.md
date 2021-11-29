@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerOrderTransactionV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerOrderTransactionV2](icustomerordertransactionv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

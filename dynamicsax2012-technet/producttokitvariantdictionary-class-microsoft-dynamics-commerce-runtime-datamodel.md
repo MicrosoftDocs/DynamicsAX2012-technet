@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductToKitVariantDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of KitLineProductToVariantMaps indexed by the productIds used in the variants.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

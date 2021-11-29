@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckAccess Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs Check Access for the user.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Read Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reads the next result set row.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

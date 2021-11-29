@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequiredProductProperties Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequiredProductProperties](requiredproductproperties-class.md) type exposes the following members.
 
 ## Methods

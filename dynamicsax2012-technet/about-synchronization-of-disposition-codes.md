@@ -15,6 +15,9 @@ ms.search.region: Global
 # About synchronization of disposition codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To support intercompany returns, Microsoft Dynamics AX enables you to map externally defined disposition codes to the corresponding internal disposition codes. When an intercompany chain is being set up, the disposition actions in the two companies that are mapped to each other must be the same. If they differ, the synchronization process will be unsuccessful.

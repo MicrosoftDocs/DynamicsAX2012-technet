@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # State quarterly wage and tax preparation report (PayrollStateWageTaxPrepReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **State quarterly wage and tax preparation** report provides information to help you prepare your quarterly wage and tax forms. These forms are used to report all wages that you have paid to employees and to calculate state unemployment taxes.

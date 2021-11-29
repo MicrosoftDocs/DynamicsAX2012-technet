@@ -20,6 +20,9 @@ ms.search.region: Japan
 # (JPN) Create a consolidated invoice that includes all invoice lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A consolidated invoice can include both invoice lines that are related to a purchase order and invoice lines that are not related to a purchase order. You can enter invoices that are related to a purchase order in the **Vendor invoice** form. You can enter invoices that are not related to a purchase order by using either the invoice register or the invoice journal. You can also create lines that are not associated with a purchase order without creating inventory transactions.

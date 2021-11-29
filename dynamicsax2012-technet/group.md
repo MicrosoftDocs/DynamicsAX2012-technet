@@ -13,6 +13,9 @@ f1_keywords:
 
 # group
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of objects that share a common relation.
 
 ## See also

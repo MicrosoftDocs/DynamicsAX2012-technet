@@ -29,6 +29,9 @@ ms.search.region: Global
 # About partial vendor payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sometimes you might make a payment to a vendor that is less than the amount of an invoice. You have multiple options for handling this situation. The options that are available to you depend on your configuration.

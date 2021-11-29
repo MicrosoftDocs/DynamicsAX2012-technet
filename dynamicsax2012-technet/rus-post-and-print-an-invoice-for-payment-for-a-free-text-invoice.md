@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post and print an invoice for payment for a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 With the Invoice for payment for free text invoices function, you can use the **Posting invoice for payment** form to post and print a free text invoice for payment. After posting, the invoices are displayed in the **Journal of invoices for payment** form. You can post as many invoices for payment as necessary.

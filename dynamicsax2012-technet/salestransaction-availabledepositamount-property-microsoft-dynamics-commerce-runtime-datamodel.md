@@ -17,6 +17,9 @@ dev_langs:
 
 # AvailableDepositAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the amount of the prepayment, paid towards this transaction, that is available (not invoiced \[picked up\] yet), counting as deposit (credit) for the order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

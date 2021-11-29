@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Programming Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Microsoft Dynamics AX reports are built on the concepts of the Model View Controller (MVC) pattern. The report programming model provides APIs to define concepts like the [SrsReportRunController](https://technet.microsoft.com/library/gg940296\(v=ax.60\)) class, [SrsReportDataContract](https://technet.microsoft.com/library/gg185207\(v=ax.60\)) class, and [SrsReportDataContractUIBuilder](https://technet.microsoft.com/library/gg185240\(v=ax.60\)) class.
 
 ## Overview of concepts

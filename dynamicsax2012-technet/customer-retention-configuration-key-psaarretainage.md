@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customer retention configuration key (PSAARRetainage) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer retention** configuration key controls access to the forms and functions for creating and maintaining a payment retention withheld by a customer until a project is partially or fully completed. The customer payment retention feature is available in the **Project management and accounting** module.

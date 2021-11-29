@@ -26,6 +26,9 @@ ms.search.region: Hungary
 # (HUN) Set up and generate an itemized VAT statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities or individuals that are liable to pay value-added tax (VAT) for the acquisition or supply of items or services can use Microsoft Dynamics AX to set up and generate an itemized VAT statement. This statement contains details about the completed VAT transactions and can be generated for individual invoices.

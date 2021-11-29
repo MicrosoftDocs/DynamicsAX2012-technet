@@ -15,6 +15,9 @@ dev_langs:
 
 # Add Method (KeyValuePair(TKey, TValue))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the key/value pair item to the dictionary.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

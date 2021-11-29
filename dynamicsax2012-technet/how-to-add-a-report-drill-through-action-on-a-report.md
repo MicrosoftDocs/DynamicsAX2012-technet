@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add a Report Drill Through Action on a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A *report drill through action* lets you create links to other reports. A drillthrough report is a report that a user opens by clicking a link within another report. It lets users drill through to additional data. When defining a report drill through action, there are two reports involved: the top-level report and the drillthrough report. A report drill through action is defined on the top-level report. The drillthrough report typically displays additional information about the item that the user clicked in the top-level report. Parameters can be used to pass data from the top-level report to the drillthrough report. It is not required that you pass data to a drillthrough report.

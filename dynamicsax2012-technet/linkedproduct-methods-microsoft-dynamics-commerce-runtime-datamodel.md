@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LinkedProduct Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LinkedProduct](linkedproduct-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

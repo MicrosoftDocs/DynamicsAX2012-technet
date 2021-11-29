@@ -18,6 +18,9 @@ ms.search.region: Global
 # Footer text for customer invoices in projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Print management setup** form to specify the text that is printed in the footer of a customer invoice for a project. The footer text for the original invoice can be different from the footer text for copies of the invoice. For example, the footer text in the original customer invoice might be "Department Copy," whereas the footer text in the copy that you send to the customer might be "Customer Copy."

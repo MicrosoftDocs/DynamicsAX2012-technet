@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up an external vendor catalog 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your vendors host the data for procurement catalogs for you, you can configure access to the vendor’s external catalog site so that users can access the catalog directly. Your vendor provides the settings for remote access to the catalog, and then you set up the required configurations in Microsoft Dynamics AX.

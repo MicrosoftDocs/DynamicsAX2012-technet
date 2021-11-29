@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the Estimate project that a project is attached to 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Projects** form to attach a Fixed-price or Investment project to a different Estimate project.

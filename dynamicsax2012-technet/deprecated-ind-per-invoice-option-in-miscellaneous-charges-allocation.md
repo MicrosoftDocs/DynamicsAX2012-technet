@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (IND) Per invoice option in miscellaneous charges allocation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, the **Purchase order** and **Purchase invoice** headers in the **Allocate miscellaneous charges** form include a **Per invoice** option for charges. This option enables a charge to be kept on the header level, despite allocation for any subsequent invoices.

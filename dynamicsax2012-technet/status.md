@@ -13,6 +13,9 @@ f1_keywords:
 
 # status
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The condition of an object in a system or process.
 
 ## See also

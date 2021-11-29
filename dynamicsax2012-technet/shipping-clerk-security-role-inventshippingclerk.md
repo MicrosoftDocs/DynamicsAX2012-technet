@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Shipping clerk security role (InventShippingClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Shipping clerk security role represents a user who documents shipping operation events and responds to warehouse shipping operation inquiries.

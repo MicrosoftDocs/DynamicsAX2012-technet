@@ -17,6 +17,9 @@ dev_langs:
 
 # UserToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The user token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

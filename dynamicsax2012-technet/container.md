@@ -13,6 +13,9 @@ f1_keywords:
 
 # container
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A handling unit for shipping and receiving items.
 
 ## See also

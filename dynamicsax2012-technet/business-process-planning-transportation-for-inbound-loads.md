@@ -14,6 +14,9 @@ ms.search.region: Global
 # Business process: Planning transportation for inbound loads 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you order items from a vendor for delivery to your warehouse, you might want to arrange the transport of the items yourself. This topic provides an overview of how to use Microsoft Dynamics AX to plan the transportation and the receipt of the inbound load.

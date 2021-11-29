@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Create sites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create sites by specifying fiscal establishments for those sites. When you assign the sites to fiscal documents, the fiscal information in the fiscal documents is updated based on the fiscal establishments of the sites. For more information, see [(BRA) About fiscal establishments](bra-about-fiscal-establishments.md), [(BRA) Create and post a purchase order](bra-create-and-post-a-purchase-order.md), [(BRA) Create and post a return purchase order](bra-create-and-post-a-return-purchase-order.md), and [(BRA) Create and post a sales order](bra-create-and-post-a-sales-order.md).

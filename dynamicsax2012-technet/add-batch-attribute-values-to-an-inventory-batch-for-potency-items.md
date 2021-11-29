@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add batch attribute values to an inventory batch for potency items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to add batch attribute values to the inventory batch for an item. You can either add all the batch attributes values for the item or add a subset of those values. For more information, see [(PM) Batches (form)](https://technet.microsoft.com/library/hh209252\(v=ax.60\)).

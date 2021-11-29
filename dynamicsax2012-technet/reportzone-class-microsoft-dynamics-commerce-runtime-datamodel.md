@@ -17,6 +17,9 @@ dev_langs:
 
 # ReportZone Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The report zone entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

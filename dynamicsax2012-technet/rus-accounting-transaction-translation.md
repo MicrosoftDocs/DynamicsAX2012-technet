@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Accounting transaction translation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Translation is used to transfer accounting transactions from one company to another to transform transactions for business or international reporting standards. Usually, during translation, ledger accounts are consolidated according to a set rule. It is also sometimes necessary to recalculate data from one currency or to change financial dimensions. For example, an accounting calculation might be performed in rubles, while a business calculation is performed in dollars.

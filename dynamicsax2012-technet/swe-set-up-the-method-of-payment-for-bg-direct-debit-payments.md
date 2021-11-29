@@ -18,6 +18,9 @@ ms.search.region: Sweden
 # (SWE) Set up the method of payment for BG direct debit payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can request a refund on a processed direct debit payment transaction using the Bank giro (BG) direct debit payment format. Use the **Methods of payment - customers** form to set up the method of payment for BG direct debit payments.

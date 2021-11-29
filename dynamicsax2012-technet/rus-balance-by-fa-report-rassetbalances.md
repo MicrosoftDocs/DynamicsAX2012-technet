@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Balance by FA report (RAssetBalances) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Balance by FA report displays information about fixed assets, such as the acquisition price, total depreciation amount, revaluation cost, written off value, cost of major repairs, disposal, and net book value. Accountants generate this report periodically to review the value of fixed assets.

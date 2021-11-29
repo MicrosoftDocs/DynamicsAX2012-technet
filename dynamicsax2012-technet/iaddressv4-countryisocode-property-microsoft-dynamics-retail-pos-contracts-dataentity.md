@@ -17,6 +17,9 @@ dev_langs:
 
 # CountryISOCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Country ISO code for Country-specific addresses
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

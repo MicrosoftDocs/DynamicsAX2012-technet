@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateNonSalesTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs saving drawer type of operations like declare start amount / tender removal / float entry.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

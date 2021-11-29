@@ -15,6 +15,9 @@ dev_langs:
 
 # HtmlLabel Constructor (HtmlInputControl)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a new instance of the [HtmlLabel](htmllabel-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) element with the related [HtmlInputText](https://technet.microsoft.com/library/hx8x1zw4\(v=ax.60\)) element.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Intercompany accounting configuration key (LedgerAdvIntercompanyAccounting) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Intercompany accounting** configuration key controls access to the intercompany accounting feature, which is used to post transactions to journals for other legal entities in the organization.

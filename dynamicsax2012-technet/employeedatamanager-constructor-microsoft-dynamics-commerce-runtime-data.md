@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeDataManager Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [EmployeeDataManager](employeedatamanager-class-microsoft-dynamics-commerce-runtime-data.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

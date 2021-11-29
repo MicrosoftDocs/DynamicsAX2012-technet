@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPurchaseOrderRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class to handle GetPurchaseOrderRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

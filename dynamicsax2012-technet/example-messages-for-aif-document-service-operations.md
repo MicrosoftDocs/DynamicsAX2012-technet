@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Example Messages for AIF Document Service Operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 Application Integration Framework (AIF) document services use XML messages to exchange data. The topics in this section provide examples of XML message formats that correspond to the service operations for the standard document services included with Microsoft Dynamics AX.

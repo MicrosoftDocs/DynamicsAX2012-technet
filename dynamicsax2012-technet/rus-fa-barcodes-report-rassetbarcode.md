@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA barcodes report (RAssetBarcode) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA barcodes report displays a list of barcodes that are assigned to fixed assets. Accountants generate this report periodically to review the list of barcodes that are assigned to the fixed assets.

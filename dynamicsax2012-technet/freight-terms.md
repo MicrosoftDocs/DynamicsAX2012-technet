@@ -13,6 +13,9 @@ f1_keywords:
 
 # freight terms
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The agreed-upon method for handling shipping costs. Freight terms identify the party responsible for the payment of freight charges.
 
 ## See also

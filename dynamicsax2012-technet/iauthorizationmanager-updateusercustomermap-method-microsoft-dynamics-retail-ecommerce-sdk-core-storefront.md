@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateUserCustomerMap Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront](microsoft-dynamics-retail-ecommerce-sdk-core-storefront-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core (in Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.dll)
 

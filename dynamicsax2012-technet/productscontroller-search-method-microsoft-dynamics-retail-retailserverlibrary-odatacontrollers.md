@@ -17,6 +17,9 @@ dev_langs:
 
 # Search Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for the product using OData query.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

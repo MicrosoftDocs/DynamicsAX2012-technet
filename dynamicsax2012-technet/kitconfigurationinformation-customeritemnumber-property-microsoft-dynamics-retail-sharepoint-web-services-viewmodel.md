@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerItemNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates the customer item number of a specific kit configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

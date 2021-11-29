@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create a purchase order and post charges 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 According to legal regulations, taxes and charges must be calculated on all business transactions. You can enter or modify charges on an invoice that has not been posted to match the paper copy that is received from the vendor. You can add, modify, or delete charge transactions on the invoice header and allocate the transactions to invoice lines or to the header level. You can also add, modify, or delete invoice charge transaction lines.

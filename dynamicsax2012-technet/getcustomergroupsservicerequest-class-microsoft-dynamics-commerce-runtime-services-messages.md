@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerGroupsServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetCustomerGroupsServiceRequest contains the request members for customer group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

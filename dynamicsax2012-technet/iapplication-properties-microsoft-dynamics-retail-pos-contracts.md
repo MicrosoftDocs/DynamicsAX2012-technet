@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IApplication Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IApplication](iapplication-interface-microsoft-dynamics-retail-pos-contracts.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the stock count journal transaction from local.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

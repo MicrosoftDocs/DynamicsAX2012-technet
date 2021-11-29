@@ -17,6 +17,9 @@ dev_langs:
 
 # ForceHostileCacheLookups Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether cache lookups should return the opposite of reality or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View charges for purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 1.  Click **Procurement and sourcing** \> **Common** \> **Purchase orders** \> **All purchase orders**. On the **Action Pane**, on the **Purchase** tab, in the **Charges** group, click **Manage charges** to open the **Charges transactions** form.

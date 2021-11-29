@@ -17,6 +17,9 @@ dev_langs:
 
 # CanBeModified Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A variable designed for our partners to use when dealing with fiscal printers.
 
 Dictates whether the line has already been sent to the fiscal printer, etc, and cannot therefore be changed subsequently.

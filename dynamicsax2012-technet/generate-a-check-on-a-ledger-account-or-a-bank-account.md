@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate a check on a ledger account or a bank account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create checks and post the amounts to the ledger accounts without posting the amount to a vendor account first. This is useful when printing checks in the following situations:

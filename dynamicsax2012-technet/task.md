@@ -13,6 +13,9 @@ f1_keywords:
 
 # task
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An atomic activity assigned to one or more persons or pieces of equipment responsible for meeting the requirements of the activity.
 
 ## See also

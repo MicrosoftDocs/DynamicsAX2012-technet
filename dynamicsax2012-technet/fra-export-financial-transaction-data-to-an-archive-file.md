@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Export financial transaction data to an archive file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Data Export Wizard to export financial transaction data to an archive file.

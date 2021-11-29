@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (RUS) VAT reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 includes country-specific value-added tax (VAT) reports for Russian installations. These reports track a company’s VAT liabilities by using different analytical views for operations that are registered before 2006 and operations that are registered during the transition period (2006–2008), when the “on payment” taxation policy was legally abandoned. The report set includes the following reports:

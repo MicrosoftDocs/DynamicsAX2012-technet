@@ -17,6 +17,9 @@ dev_langs:
 
 # IApplicationV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The POS IApplicationV1 interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

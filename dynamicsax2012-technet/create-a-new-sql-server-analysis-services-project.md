@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a New SQL Server Analysis Services Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create perspectives that identify the tables and views that contain the measures and dimensions for your cubes, you can generate an Analysis Services project so that you can work with the cubes in SQL Server Business Intelligence Development Studio (BIDS).

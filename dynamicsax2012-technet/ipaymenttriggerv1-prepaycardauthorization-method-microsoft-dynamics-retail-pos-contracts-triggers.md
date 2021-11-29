@@ -17,6 +17,9 @@ dev_langs:
 
 # PrePayCardAuthorization Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called before the pay card authorization is made.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

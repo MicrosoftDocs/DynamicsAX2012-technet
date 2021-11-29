@@ -21,6 +21,9 @@ dev_langs:
 
 # LineMultilineDiscountOnItem Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a multiline discount on the item per line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

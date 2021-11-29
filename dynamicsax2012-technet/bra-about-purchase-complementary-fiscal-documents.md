@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) About purchase complementary fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must create a purchase complementary fiscal document to adjust a purchase fiscal document that was generated for an incorrect price, Imposto Sobre Produtos Industrializados (IPI), or Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) amount. A purchase complementary fiscal document is issued only to adjust a positive difference. For example, a purchase complementary fiscal document is generated if the price of an item on the original purchase fiscal document is incorrect, and the correct price for the item is higher than the price recorded on the original purchase fiscal document.

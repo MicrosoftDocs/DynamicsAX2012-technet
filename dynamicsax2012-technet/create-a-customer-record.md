@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a customer record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a customer record by using either the **Create new customer** form or the **Setup** form. If you create a new customer record in the **Setup** form, you must identify the party record as a customer. For more information about how to create a customer record in the **Setup** form, see [Create a party record](create-a-party-record.md).

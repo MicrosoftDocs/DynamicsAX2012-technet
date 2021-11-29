@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Form 940 preparation report (PayrollUnemplTaxRtnPrepReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Form 940 is the employer’s annual federal unemployment (FUTA) tax return. The FUTA tax provides the funds that are used to pay unemployment compensation to workers who have lost their jobs. Employers pay FUTA tax and do not deduct this tax from their employees’ wages. The **Form 940 preparation** report provides information to help you prepare the required tax form.

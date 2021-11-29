@@ -13,6 +13,9 @@ f1_keywords:
 
 # programming event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of a programming action in a software system.
 
 ## See also

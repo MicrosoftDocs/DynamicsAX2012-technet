@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Fill Utility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, the Fill Utility lets users make mass changes to master records and some transactional records.

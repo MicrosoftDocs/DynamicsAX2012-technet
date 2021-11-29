@@ -17,6 +17,9 @@ ms.search.region: Global
 # Return an item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have ordered an item that you want to return, you can use the **Create return order** page to create a return order for the items. For example, you might want to return an item when it is defective or when you received an incorrect quantity. A return order must be created before the returned items can be received into the warehouse.

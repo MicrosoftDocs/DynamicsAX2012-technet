@@ -15,6 +15,9 @@ ms.search.region: Global
 # About order-specific BOM calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An order-specific bill of materials (BOM) calculation represents a variation of a BOM calculation for a manufactured item. An order-specific BOM calculation is performed in the context of a sales order, sales quotation, or service order line item. An order-specific BOM calculation generates a calculation record that is displayed in the **BOM calculation results** form. The calculation record includes a calculated weight, a calculated cost that is based on active cost records, and a calculated sales price. Each order-specific BOM calculation for an item generates a calculation record in the **BOM calculation results** form, uniquely identified by a calculation number. The results of a calculation record can optionally be transferred to the originating line item.

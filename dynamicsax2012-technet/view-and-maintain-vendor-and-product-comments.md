@@ -14,6 +14,9 @@ ms.search.region: Global
 # View and maintain vendor and product comments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can allow employees to enter ratings or comments for items or services that they have ordered, or for a vendor from whom they have ordered items or services. Those ratings and comments are displayed on the **Order products** site in Enterprise Portal for Microsoft Dynamics AX.

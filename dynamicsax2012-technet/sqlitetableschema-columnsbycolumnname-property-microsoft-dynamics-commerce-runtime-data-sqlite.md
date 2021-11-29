@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnsByColumnName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets column dictionary. Key is column name, value is table column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

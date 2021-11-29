@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Create sales delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can split an order line to deliver products to a customer in several deliveries. For example, you can split an order of 1,000 pieces of material into four deliveries. You can then deliver 250 pieces every month for four months. You can keep track of multiple deliveries in one schedule that is associated with a sales order or sales quotation.

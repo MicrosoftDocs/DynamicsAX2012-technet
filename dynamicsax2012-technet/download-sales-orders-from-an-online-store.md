@@ -22,6 +22,9 @@ ms.search.region: Global
 # Download sales orders from an online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to download orders that were entered in an online store to generate sales orders in Microsoft Dynamics AX. When customers place orders for products in your online stores, you must complete the following steps to pull the transactions into Microsoft Dynamics AX to process the orders:

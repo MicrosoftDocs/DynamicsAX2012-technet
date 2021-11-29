@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GlobalCustomer Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GlobalCustomer](globalcustomer-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

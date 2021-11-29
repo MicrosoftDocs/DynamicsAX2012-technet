@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up automatically allocated charges for a charge code and vendor combination in transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 1.  Click **Accounts payable** \> **Setup** \> **Charges** \> **Automatic charges**.

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Set up vendor user provisioning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about how to configure Microsoft Dynamics AX to enable user provisioning. Users are provisioned either as part of the user request process, or automatically through specific tasks in the user request workflow. User provisioning automates the creation of Microsoft Dynamics AX user accounts and user permission assignments. This ensures proper control of users and their access to the Vendor portal and simplifies the process of creating users.

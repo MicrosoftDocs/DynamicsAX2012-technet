@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Create a Precision Design for a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a precision design for a report that requires a very precise layout, such as an invoice or a bank check. SQL Report Designer is used to create and edit a precision design for a report. Before you use SQL Report Designer to create a report design, the report must be available in the model and datasets must be added to the report so that the data is available in SQL Report Designer. The following procedures explain how to create a precision design and how to edit an existing report design with SQL Report Designer.

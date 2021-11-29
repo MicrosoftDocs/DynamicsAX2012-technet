@@ -18,6 +18,9 @@ ms.search.region: Denmark
 # (DNK) Set up a batch group for OIOUBL electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Batch group** form to set up a batch group to process the Offentlig Information Online Universal Business Language (OIOUBL) sales or project invoices.

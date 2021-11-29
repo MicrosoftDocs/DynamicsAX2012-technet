@@ -25,6 +25,9 @@ ms.search.region: Global
 # About estimated costs for a production order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The estimate task calculates estimated costs for a production order. The calculations of estimated cost are based on the quantity in the production order, the components in the production bills of materials (production BOMs), the routing operations in the production route, the indirect costs that apply to these components and operations, and the active cost data as of the calculation date. If there is a phantom line item in the production BOMs, the calculations reflect the phantom's components and route operations.

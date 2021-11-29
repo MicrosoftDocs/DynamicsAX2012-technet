@@ -25,6 +25,9 @@ ms.search.region: Global
 # Fixed asset records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes the types of records that are kept for fixed assets, how you can view different types of information about fixed assets, and answers other common questions that you might have.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up an assortment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 To link the products that you sell to the retail channels that sell those products, you must set up *assortments*. Assortments are used to group related products and assign them to a retail channel. You can assign the same product to one or more assortments, and you can assign one or more assortments to the same retail channel.

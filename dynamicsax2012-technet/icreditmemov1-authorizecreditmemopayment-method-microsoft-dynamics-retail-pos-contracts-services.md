@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeCreditMemoPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Authorizes payment with a credit memo.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

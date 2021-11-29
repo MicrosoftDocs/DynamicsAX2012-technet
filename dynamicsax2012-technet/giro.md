@@ -13,6 +13,9 @@ f1_keywords:
 
 # giro
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An electronic funds transfer system available in the European Union that permits a payer to transfer funds from their bank account to a payee's bank account.
 
 ## See also

@@ -36,6 +36,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up and create a tax corrective document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a tax corrective document for sales returns, cash discounts, and value-added tax (VAT) corrections when the amount that the customer pays is lower than the amount on the sales invoice. You can include the following information in the tax corrective document for customer invoices, free text invoices, and project invoices:

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Setting up bar codes (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to create bar codes. You can use bar codes to track inventory at the point of sale and in the warehouse. You can also use bar codes to manage loyalty cards, gift cards, and credit memos.

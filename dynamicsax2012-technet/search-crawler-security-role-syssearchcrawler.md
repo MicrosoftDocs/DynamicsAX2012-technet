@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Search crawler security role (SysSearchCrawler) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Search crawler security role must be assigned to the account that is used to crawl Microsoft Dynamics AX data for Enterprise Search. This role gives the search crawler access to the tables that are published as Business Connectivity Services (BCS) entities for search.

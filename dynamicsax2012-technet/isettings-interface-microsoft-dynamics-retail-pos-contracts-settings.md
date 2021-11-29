@@ -17,6 +17,9 @@ dev_langs:
 
 # ISettings Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The POS ISettings interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Settings](microsoft-dynamics-retail-pos-contracts-settings-namespace.md)  

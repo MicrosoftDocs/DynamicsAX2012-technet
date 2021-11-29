@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomClaimsProvider Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The custom claims provider. Mostly in charge to look up user to customer mappings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

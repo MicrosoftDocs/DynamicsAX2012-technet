@@ -19,6 +19,9 @@ ms.search.region: Global
 # About requirement types for operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you are defining requirements for a route, you can select from eight requirement types. The following table provides information about each requirement type, and specifies whether the requirement type is available for the operations scheduling and job scheduling methods.

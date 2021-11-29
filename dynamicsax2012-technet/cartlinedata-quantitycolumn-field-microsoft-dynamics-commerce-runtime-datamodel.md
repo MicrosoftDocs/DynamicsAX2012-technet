@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line quantity column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

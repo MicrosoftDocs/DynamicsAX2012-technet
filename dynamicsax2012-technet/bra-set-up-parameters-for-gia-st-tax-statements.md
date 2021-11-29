@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up parameters for GIA ST tax statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to specify how the text files for Guia de Informação e Apuração tributary substitution (GIA ST) statements will be saved before you submit them to the state tax authorities.

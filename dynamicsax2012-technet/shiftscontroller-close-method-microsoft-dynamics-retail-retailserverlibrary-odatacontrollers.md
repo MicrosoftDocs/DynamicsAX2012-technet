@@ -17,6 +17,9 @@ dev_langs:
 
 # Close Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Closes the shift for the given terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TryToAddLoyaltyRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds loyalty to the transaction, if any.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

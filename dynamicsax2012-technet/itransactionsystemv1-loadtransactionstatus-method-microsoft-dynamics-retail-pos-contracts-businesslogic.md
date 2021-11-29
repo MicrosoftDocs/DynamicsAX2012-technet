@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadTransactionStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Load the transaction with information received from the terminal, e.g. terminal id, staff id, etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

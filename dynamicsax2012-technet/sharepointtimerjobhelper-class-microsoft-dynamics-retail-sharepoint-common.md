@@ -17,6 +17,9 @@ dev_langs:
 
 # SharePointTimerJobHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper class to determnine status of SP jobs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

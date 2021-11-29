@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDatabaseQueryBuilder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a specific implementation of [IDatabaseQueryBuilder](idatabasequerybuilder-interface-microsoft-dynamics-commerce-runtime-data.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

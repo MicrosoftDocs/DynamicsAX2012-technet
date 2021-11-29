@@ -15,6 +15,9 @@ dev_langs:
 
 # GetItems Method (IEnumerable(Int64), ColumnSet)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the items available to the current channel by their product identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

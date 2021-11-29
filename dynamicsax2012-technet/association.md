@@ -14,6 +14,9 @@ f1_keywords:
 
 # association
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A relationship between peer objects.
 
 ## See also

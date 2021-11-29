@@ -17,6 +17,9 @@ dev_langs:
 
 # CannotSuspendCartWithActiveGiftCardSalesLines Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cart with active gift card sales lines cannot be suspended.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

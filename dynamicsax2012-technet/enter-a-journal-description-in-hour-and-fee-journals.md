@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter a journal description in hour and fee journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A journal description is predefined text that you can enter in the **Description** field in hour and fee journals.

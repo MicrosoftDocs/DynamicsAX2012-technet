@@ -17,6 +17,9 @@ ms.search.region: Global
 # Creating expense reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Expense reports are entered in Enterprise Portal for Microsoft Dynamics AX. For more information about how to enter expenses on an expense report, see [Key tasks: Create expense reports](key-tasks-create-expense-reports.md) in the Enterprise Portal Help.

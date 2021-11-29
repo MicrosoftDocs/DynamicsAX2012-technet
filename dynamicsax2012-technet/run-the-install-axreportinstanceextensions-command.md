@@ -14,6 +14,9 @@ dev_langs:
 # Run the Install-AXReportInstanceExtensions command 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Install-AXReportInstanceExtensions command is a Windows PowerShell command that you can use to integrate multiple instances of Microsoft SQL Server Reporting Services—that are running on one computer—with Microsoft Dynamics AX. The Install-AXReportInstanceExtensions command modifies Reporting Services configuration files. If you do not run the Install-AXReportInstanceExtensions command, you must *manually* modify the configuration files, as described in [Modify Reporting Services configuration files](modify-reporting-services-configuration-files.md).

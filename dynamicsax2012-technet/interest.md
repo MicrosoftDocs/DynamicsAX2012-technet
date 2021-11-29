@@ -13,6 +13,9 @@ f1_keywords:
 
 # interest
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount charged for the use of money or credit.
 
 ## See also

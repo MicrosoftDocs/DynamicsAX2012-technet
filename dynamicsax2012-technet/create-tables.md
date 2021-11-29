@@ -15,6 +15,9 @@ f1_keywords:
 # Create tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You perform the **Create tables** task to prepare the Microsoft Dynamics AX 2012 target database for upgrade. During this step, the Microsoft Dynamics AX 2012 database schema is created based on Application Object Tree (AOT) definitions, including tables, unique clustered indexes, default constraints, and views. (In previous releases of Microsoft Dynamics AX, the database schema was created during the synchronization step.) Other indexes and check constraints are created on tables after bulk copy but before the post-synchronization scripts run.

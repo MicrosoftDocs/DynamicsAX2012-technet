@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Edit-AXModelManifest
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Edit-AXModelManifest
 
 Modifies the descriptive properties of a model in the Microsoft Dynamics AX model store database.

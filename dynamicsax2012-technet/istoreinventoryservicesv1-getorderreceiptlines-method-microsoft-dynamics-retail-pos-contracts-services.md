@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderReceiptLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Syncs the local list of order receipt document lines by receipt document ID with HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

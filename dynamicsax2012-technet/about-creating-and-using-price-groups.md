@@ -19,6 +19,9 @@ ms.search.region: Global
 # About creating and using price groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, price groups can be used to specify a set of prices that you want apply to a group of customers, vendors, or items. In **Project management and accounting**, price groups can be used to determine sales prices for project transactions. However, how price groups are referenced depends on the type of project transaction:

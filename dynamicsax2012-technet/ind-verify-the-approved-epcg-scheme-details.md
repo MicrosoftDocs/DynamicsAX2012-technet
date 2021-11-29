@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Verify the approved EPCG scheme details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to view the amounts, effective dates, vendors, and other details for an Export Promotion Capital Goods (EPCG) incentive scheme license that you approved or redeemed. You cannot modify the details for approved or redeemed EPCG licenses.

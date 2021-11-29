@@ -13,6 +13,9 @@ f1_keywords:
 
 # price
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The market value or exchange value of a product.
 
 ## See also

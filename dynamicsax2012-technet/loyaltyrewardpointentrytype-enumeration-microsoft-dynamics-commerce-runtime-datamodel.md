@@ -23,6 +23,9 @@ dev_langs:
 
 # LoyaltyRewardPointEntryType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the entry type of the loyalty reward point line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure rules for code upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In the **Configure rules for code upgrade** task, you can configure rules for code conflicts. Code conflict rules can reduce the time that is required to upgrade customized application code. The rules that are provided by Microsoft alert you about changes to X++ classes, tables, and form methods that you may have customized. In the **Detect code upgrade conflicts** step, the rules are used to create a development project that contains any issues that are discovered, and organizes the issues for easy review and resolution.

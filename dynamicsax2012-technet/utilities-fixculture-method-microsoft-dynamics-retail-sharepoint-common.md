@@ -17,6 +17,9 @@ dev_langs:
 
 # FixCulture Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fixes country only cultures by adding a region part which matches the country.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

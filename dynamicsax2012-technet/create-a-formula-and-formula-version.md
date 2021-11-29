@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a formula and formula version 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a new formula, it can have one or many versions. Each formula version has an effective date range to control the validity period for that version. Each formula also has a **From quantity** field. If a formula has multiple versions, the effective date ranges and from quantities cannot overlap.

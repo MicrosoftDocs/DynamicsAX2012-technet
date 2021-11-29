@@ -14,6 +14,9 @@ ms.search.region: Global
 # Wave processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

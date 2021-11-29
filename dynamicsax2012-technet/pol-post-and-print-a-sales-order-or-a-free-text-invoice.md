@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Post and print a sales order or a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To post a business document, first generate an invoice, and then post it by using the **Posting invoice** form. You can then send the information to the printer in the proper format.

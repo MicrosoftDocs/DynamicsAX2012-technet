@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Post a correcting invoice for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If you post a correction for a posted sales order, the status of the correcting invoice is shown as **Broken** and the status of the incorrect invoice is shown as **Canceled**. The status of the invoice determines which invoice is included in the Invoice registration journal.

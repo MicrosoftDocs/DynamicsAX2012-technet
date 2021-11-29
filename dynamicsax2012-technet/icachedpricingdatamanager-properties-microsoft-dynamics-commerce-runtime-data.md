@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICachedPricingDataManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICachedPricingDataManager](icachedpricingdatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

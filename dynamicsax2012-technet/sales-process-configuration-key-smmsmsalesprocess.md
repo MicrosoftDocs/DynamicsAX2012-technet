@@ -14,6 +14,9 @@ f1_keywords:
 # Sales process configuration key (smmSMSalesProcess) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales process** configuration key allows you to create a sales process for your opportunity records. With this key enabled, you can define and assign a sales process and activity hierarchy to your opportunity records.

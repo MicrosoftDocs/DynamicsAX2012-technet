@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintInputOnReceipt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print what is inputed on the receipt
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Japan
 # (JPN) Print a Japanese financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can export and print Japanese financial statements, such as balance sheets, profit and loss statements, and cash flow statements, by using Microsoft Excel.

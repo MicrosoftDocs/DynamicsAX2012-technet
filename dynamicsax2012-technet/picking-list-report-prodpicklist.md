@@ -14,6 +14,9 @@ f1_keywords:
 # Picking list report (ProdPicklist) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Picking list** report to print a list of the materials to pick per production order.

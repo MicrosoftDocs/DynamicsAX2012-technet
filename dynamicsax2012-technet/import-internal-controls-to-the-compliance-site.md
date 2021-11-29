@@ -16,6 +16,9 @@ ms.search.region: Global
 # Import internal controls to the Compliance site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An internal controls matrix is a worksheet that is used to manage a list of compliance controls for an organization. You can save time by importing controls from an internal controls matrix in a Microsoft Excel workbook to the **Compliance** site. You can map the fields from the internal controls matrix file to the corresponding fields in document templates that are set up on the **Compliance** site. The import process automatically creates controls in the structure of the **Internal controls** site, based on your internal controls matrix. After you have imported internal controls, you can manage them on the **Internal controls** site.

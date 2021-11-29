@@ -15,6 +15,9 @@ dev_langs:
 
 # RemoveDocumentLibraryPage Method (, Collection(String))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Delete pages from the Pages document library.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

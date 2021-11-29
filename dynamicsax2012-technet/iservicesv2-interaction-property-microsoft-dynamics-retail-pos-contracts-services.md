@@ -17,6 +17,9 @@ dev_langs:
 
 # Interaction Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interaction service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

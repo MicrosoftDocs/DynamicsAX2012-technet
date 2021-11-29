@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a quantity discount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up a quantity discount. A quantity discount is a discount that is given to customers when they purchase a particular quantity of a product. For example, you could set up a 20 percent discount for the purchase of two or more tennis rackets of a particular brand.

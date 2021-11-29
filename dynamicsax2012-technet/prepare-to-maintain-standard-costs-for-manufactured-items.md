@@ -20,6 +20,9 @@ ms.search.region: Global
 # Prepare to maintain standard costs for manufactured items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The preparation steps for maintaining costs for manufactured item are slightly different than for purchased items. Policies assigned to manufactured items can affect the cost calculations for their parent manufactured items. To prepare for maintaining costs for manufactured items, follow these steps:

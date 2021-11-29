@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TempTable Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TempTable](temptable-class-microsoft-dynamics-commerce-runtime-data-sqlite.md) type exposes the following members.
 
 ## Methods

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use a Data Method in an Expression 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to use a data method in an expression. The experience is different, depending on the type of report design.

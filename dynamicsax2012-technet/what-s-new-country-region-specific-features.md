@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country/region specific features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about new and changed features introduced in Microsoft Dynamics AX 2012 R2 that impact country/region-specific installations of Microsoft Dynamics AX.

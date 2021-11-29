@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create a project contract to invoice for percentage-of-completion projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to create a project contract, the related project, and billing rules for a percentage-of-completion project. In a percentage-of-completion project, you create customer invoices when you have completed a specified percentage of a project. You and the customer define the percentages for a percentage-of-completion project in the project contract. You can also specify the timing of the invoices by setting up billing rules for the contract.

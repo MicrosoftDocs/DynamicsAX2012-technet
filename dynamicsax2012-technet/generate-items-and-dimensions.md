@@ -18,6 +18,9 @@ ms.search.region: Global
 # Generate items and dimensions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For some types of production, it might be convenient to save each configured item under a separate item number so that it is stored in the **Released product details** form, along with its configured BOM and route.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # About methods for calculating the cost to complete a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create an estimate, you can define how the cost to complete the project is calculated. The method that you choose is applied individually to each cost line in the cost estimate. In the **Cost estimate** form, you can change the method that is applied to a line while it has a status of **Created**.

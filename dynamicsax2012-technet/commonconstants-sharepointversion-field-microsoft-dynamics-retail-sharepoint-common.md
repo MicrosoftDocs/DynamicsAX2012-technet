@@ -17,6 +17,9 @@ dev_langs:
 
 # SharePointVersion Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the SharePoint version of the deployment environment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

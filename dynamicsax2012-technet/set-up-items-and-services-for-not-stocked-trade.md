@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up items and services for not stocked trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you do not want to track a product in inventory, but the product must still be expensed, you can set up the product so that it is not stocked. You set up products in the **Item model groups** form in Inventory management. For more information about item model groups, see [Item model groups (form)](https://technet.microsoft.com/library/aa577092\(v=ax.60\)).

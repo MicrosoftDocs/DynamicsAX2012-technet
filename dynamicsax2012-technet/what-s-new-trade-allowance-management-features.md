@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Trade allowance management features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 We have added a new **Trade allowance management** module for Microsoft Dynamics AX 2012 R3. To learn more about this new functionality, see the table that follows.

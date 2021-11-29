@@ -23,6 +23,9 @@ dev_langs:
 
 # DatabaseErrorCodes Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Database error codes returned from stored procedures.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

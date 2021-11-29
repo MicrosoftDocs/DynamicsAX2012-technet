@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Using the Query Service to Query Date Effective Tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough shows you how to call the query service and retrieve data from tables that contain date effective fields. This support enables you to use the query service to build a query that returns data based on specific time periods. In this walkthrough, you use the metadata service to retrieve a static query from the Application Object Tree (AOT). Then you add a date range to the query and use the query service to issue the query. For more information about date effective fields in tables, see [Valid Time State Tables and Date Effective Data](https://technet.microsoft.com/library/gg861781\(v=ax.60\))

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an Inv-19 collation statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Inv-19 Collation Statement** form is the primary document that shows the results of inventory inspections. It is used to verify the completeness and accuracy of accounting during a full or partial inspection of the company's property or financial assets. Based on this document, the inspection committee determines whether accounting data and primary documents show the actual value of the property.

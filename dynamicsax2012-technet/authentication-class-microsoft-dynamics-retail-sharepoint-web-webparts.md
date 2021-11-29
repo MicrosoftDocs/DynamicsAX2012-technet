@@ -18,6 +18,9 @@ dev_langs:
 
 # Authentication Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The customer web part provides for entering of customer data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

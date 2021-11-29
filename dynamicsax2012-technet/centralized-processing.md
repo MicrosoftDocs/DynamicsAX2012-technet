@@ -13,6 +13,9 @@ f1_keywords:
 
 # centralized processing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A shared service that pools resources for leveraging or cost reduction purposes.
 
 ## See also

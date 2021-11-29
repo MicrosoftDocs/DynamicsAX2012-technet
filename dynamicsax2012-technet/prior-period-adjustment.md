@@ -13,6 +13,9 @@ f1_keywords:
 
 # prior period adjustment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting journal entry entered in a current fiscal period that corrects an error in accounting for an economic event that occurred in a fiscal period that is currently closed.
 
 ## See also

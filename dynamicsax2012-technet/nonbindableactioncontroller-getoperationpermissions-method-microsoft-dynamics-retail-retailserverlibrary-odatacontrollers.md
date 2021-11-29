@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOperationPermissions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns IQueryable collection of OperationPermission.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

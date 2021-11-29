@@ -14,6 +14,9 @@ f1_keywords:
 
 # party
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - An entity that assumes a legally binding role when participating in contractual relationships.
 
   - A person or organization that participates in economic activities.

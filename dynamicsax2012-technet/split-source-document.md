@@ -13,6 +13,9 @@ f1_keywords:
 
 # split source document
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents partial product quantities and monetary amounts from one referenced document of the same class.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post purchase transactions of excise using the Invoice approval journal form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you fetch a voucher from the invoice register journal and post it in the invoice approval journal, the taxes posted in the invoice register journal are reversed. When you credit the vendor account and debit the ledger account, the excise amounts calculated will be debited to the accounts as defined in the tax ledger posting group for the ECC number.

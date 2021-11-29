@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget plan
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A document that is used to develop estimates for amounts and units in budget plan scenarios.
 
 ## See also

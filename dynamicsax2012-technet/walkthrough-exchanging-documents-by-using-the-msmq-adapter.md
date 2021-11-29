@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Exchanging documents by using the MSMQ adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The MSMQ adapter enables asynchronous communication by using the Message Queuing transport. This walkthrough demonstrates how to use an inbound port together with the MSMQ adapter to create a sales order in Microsoft Dynamics AX. In this walkthrough, you create an inbound integration port, and then use C\# code to create a command-line program that sends an XML document to a message queue.

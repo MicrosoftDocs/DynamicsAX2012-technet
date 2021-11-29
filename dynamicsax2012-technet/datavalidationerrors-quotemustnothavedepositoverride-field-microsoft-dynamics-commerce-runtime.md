@@ -17,6 +17,9 @@ dev_langs:
 
 # QuoteMustNotHaveDepositOverride Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the quote is not allowed for deposit override operations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

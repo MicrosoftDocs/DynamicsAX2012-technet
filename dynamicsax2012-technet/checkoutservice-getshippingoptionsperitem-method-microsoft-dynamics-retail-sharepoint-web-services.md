@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShippingOptionsPerItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shipping options for each item on the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

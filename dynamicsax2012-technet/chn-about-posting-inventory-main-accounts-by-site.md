@@ -16,6 +16,9 @@ ms.search.region: China (PRC)
 # (CHN) About posting inventory main accounts by site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must determine the value of your inventory items to determine on-hand inventory, taxable amount on inventory, and opening and closing balances for inventory receipts and issues during a specific reporting period. You can create main accounts for inventory or select the main accounts that display the value of your inventory for inventory item groups that can be used for inventory posting. For more information about how to manage inventory by creating item groups, see [About item groups](about-item-groups.md).

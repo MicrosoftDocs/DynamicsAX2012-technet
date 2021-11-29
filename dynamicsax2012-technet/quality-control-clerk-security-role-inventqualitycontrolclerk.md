@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Quality control clerk security role (InventQualityControlClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Quality control clerk security role represents a user who documents quality control events and responds to quality control inquiries.

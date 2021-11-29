@@ -13,6 +13,9 @@ f1_keywords:
 
 # demand forecasting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business process that estimates future demand and creates demand forecasts based on historical transaction data.
 
 ## See also

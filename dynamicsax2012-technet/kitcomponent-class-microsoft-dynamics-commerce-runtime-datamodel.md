@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponent Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a kit component or substitute , i.e. contains information about a product used in a kit , either as a component or substitute, and its 'kit related' properties like unit and quantity of the product as used in a kit line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

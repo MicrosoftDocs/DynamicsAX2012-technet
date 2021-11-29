@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a cube that enables you to analyze data from Microsoft Dynamics AX. You will use the Business Intelligence (BI) properties in Microsoft Dynamics AX to specify measures and attributes for the cube, and then generate an Analysis Services project so that you can work with the cube in SQL Server Business Intelligence Development Studio (BIDS).

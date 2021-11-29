@@ -13,6 +13,9 @@ f1_keywords:
 
 # commodity pricing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A pricing strategy for updating the price of sales items produced from commodities subject to frequent price changes.
 
 ## See also

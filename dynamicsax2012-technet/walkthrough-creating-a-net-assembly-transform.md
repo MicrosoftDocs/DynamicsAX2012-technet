@@ -15,6 +15,9 @@ dev_langs:
 # Walkthrough: Creating a .NET Assembly Transform 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough shows you how to create a .NET transform assembly that can be called from the Application Integration Framework (AIF) pipeline in Microsoft Dynamics AX. In this scenario, the component takes the contents of a comma-separated values (CSV) file that contains customer leads and converts it into XML. What this component does in your installation will vary based on what kind of transformation or processing you need to implement. For information about the AIF pipeline, see [About the AIF Pipeline and Transforms](about-the-aif-pipeline-and-transforms.md).

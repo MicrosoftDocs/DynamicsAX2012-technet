@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up a fiscal document source text 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can attach fiscal document texts to a sales order, purchase order, or free text invoice. The fiscal document texts that are attached to the sales order, purchase order, or free text invoice are printed on the fiscal document. The fiscal document texts provide additional information about the taxes and laws that are applied to the fiscal document. You can also include placeholders in the fiscal document source text. The placeholders are replaced by predefined text when you post the fiscal document that the fiscal document text is attached to. For more information about placeholders, see [(BRA) About fiscal document text placeholders](bra-about-fiscal-document-text-placeholders.md).

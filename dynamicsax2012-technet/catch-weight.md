@@ -13,6 +13,9 @@ f1_keywords:
 
 # catch weight
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The actual or nominal weight of a sales item or inventory item.
 
 ## See also

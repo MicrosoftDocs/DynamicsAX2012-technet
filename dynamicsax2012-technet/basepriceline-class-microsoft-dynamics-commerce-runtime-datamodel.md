@@ -17,6 +17,9 @@ dev_langs:
 
 # BasePriceLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price line representing just the item base price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

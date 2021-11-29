@@ -13,6 +13,9 @@ f1_keywords:
 
 # batch attribute
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A product attribute of a process batch or a transfer batch.
 
 ## See also

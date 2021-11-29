@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NumberSequenceRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NumberSequenceRequestHandler](numbersequencerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

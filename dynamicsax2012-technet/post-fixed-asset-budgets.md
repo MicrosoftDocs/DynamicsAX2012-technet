@@ -14,6 +14,9 @@ ms.search.region: Global
 # Post fixed asset budgets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create budgets for fixed asset value models and generate a budget-related depreciation proposal that corresponds to the depreciation proposal in the fixed asset ledger journal.

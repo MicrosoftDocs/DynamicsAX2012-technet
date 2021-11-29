@@ -18,6 +18,9 @@ ms.search.region: Austria
 # (AUT) Create sales tax reporting codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the sales tax reporting codes to generate a yearly or monthly Austrian VAT statement. The four-digit sales tax reporting code syntax is based on the structure of the VAT statement. In the VAT statement, amounts are displayed in the **Tax base amounts** and **Tax amounts** columns. Sales tax reporting codes that begin with 10 are included in the tax boxes in the **Tax base amounts** column. Codes that begin with 11 are contained in the tax boxes in the **Tax amounts** column. The last two digits of the sales tax reporting codes refer to the tax box number.

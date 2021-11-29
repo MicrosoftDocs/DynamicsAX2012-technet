@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Set up due date limits to calculate invoice due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Due date limits** form to create due date limits, which are used to specify the maximum number of days within which you can make invoice payments. For more information, see [(ESP) Due date limits (form)](https://technet.microsoft.com/library/jj923623\(v=ax.60\)).

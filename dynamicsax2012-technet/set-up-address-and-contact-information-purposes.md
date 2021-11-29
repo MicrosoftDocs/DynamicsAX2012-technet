@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up address and contact information purposes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, you can assign one or more purposes to a postal address record or a contact information record. A purpose describes how a particular address record or contact information record is used. The following table shows an example of the list of addresses for a customer, and the purposes that are assigned to each postal address.

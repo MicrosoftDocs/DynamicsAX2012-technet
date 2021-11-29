@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyServiceBase Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyServiceBase](loyaltyservicebase-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About internal controls reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use internal controls report views to gather, analyze, and summarize document statistics in a variety of ways. You can also open documents when you are in a report view. The report view that you select determines how the information is displayed. The following options are available:

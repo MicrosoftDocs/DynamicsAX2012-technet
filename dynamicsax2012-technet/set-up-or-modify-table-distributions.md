@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up or modify table distributions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use table distribution to specify how changes that are made to data are distributed from the Microsoft Dynamics AX database to channel locations. To use A jobs correctly, you must configure table distribution.

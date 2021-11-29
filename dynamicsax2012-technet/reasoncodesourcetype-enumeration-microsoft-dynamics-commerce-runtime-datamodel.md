@@ -39,6 +39,9 @@ dev_langs:
 
 # ReasonCodeSourceType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason code source type enum. Maps to the available reason code source types in the source type to id mappings in the POS functionality profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

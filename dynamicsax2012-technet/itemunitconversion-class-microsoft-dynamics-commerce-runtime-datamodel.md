@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemUnitConversion Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an item and unit of measure conversion combination.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

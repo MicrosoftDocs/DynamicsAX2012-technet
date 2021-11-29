@@ -15,6 +15,9 @@ dev_langs:
 
 # FillResolve Method (Uri, String[], String, List())
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills the resolve.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

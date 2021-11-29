@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Demo files for the Data Import/Export Framework (DIXF)
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The demo files can be used together with the Contoso demo data for Microsoft Dynamics AX 2012. Specifically, the files are intended to be used together with the CEU Contoso Entertainment Systems (West) company.

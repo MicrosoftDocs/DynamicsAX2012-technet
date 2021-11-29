@@ -19,6 +19,9 @@ ms.search.region: Belgium
 # (BEL) Download bank statement files using CIS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you review the processed bank files that are ready for download from Isabel 6, you can download the files using the **IBS transactions** form. The value of the **Download mode** field in the **IBS parameters** form cannot be **None**.

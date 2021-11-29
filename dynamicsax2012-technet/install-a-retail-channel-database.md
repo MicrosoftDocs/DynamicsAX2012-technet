@@ -14,6 +14,9 @@ dev_langs:
 # Install a Retail channel database 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a retail channel database by using Setup or Windows PowerShell. Channel databases hold retail data for one or more retail channels, such as online stores or brick-and-mortar stores. Typically, there is one channel database per retail store location that uses Retail POS or Modern POS, or per e-commerce installation. The channel database for a Retail POS is typically located at a brick-and-mortar store, whereas the channel databases for Modern POS or e-commerce installations are typically located at the head office. The data for a channel can be included in more than one channel database.

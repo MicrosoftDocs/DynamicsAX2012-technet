@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Existing worker positions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The procedures in this topic describe actions you might take on positions that are already in the system. To view procedures that relate to creating new positions, see [Key tasks: New worker positions](key-tasks-new-worker-positions.md).

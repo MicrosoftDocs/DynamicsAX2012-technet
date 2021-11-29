@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUnProcessedRFIDs Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets unprocessed RFIDs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

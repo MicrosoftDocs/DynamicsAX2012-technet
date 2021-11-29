@@ -17,6 +17,9 @@ dev_langs:
 
 # Build Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Build SQL query from parts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

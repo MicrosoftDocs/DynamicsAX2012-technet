@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up subcodes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up an info code so that multiple subcodes are displayed either in a list or as buttons. A subcode triggers specific actions. The actions depend on the info code that the subcode is assigned to. A subcode is commonly used to present the point of sale (POS) operator with a list of available responses. For example, you can set up a subcode to remind staff to check age requirements.

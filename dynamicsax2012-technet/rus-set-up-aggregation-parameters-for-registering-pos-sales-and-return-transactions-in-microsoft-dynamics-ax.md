@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up aggregation parameters for registering POS sales and return transactions in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the aggregation parameters that are used to aggregate the point of sale (POS) sales and return transactions when the transactions are registered in Microsoft Dynamics AX. When you select the aggregation parameters, Microsoft Dynamics AX registers sales orders for the POS sales and return transactions in the following ways:

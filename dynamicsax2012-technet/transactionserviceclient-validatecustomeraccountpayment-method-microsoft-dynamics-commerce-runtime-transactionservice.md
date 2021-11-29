@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateCustomerAccountPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate customer account payment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

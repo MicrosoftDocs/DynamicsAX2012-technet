@@ -17,6 +17,9 @@ dev_langs:
 
 # WishList Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Wish List Summary.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

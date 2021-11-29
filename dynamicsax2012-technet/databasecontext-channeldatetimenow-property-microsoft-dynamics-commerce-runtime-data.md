@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelDateTimeNow Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets current channel date/time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

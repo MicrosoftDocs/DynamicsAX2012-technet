@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a financial dimension set 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Financial dimension sets** form to create financial dimension. A financial dimension set contains either financial dimensions or financial dimension combinations. The main account is always included and can be combined with other financial dimensions. The main account can also be the only financial dimension that is included in a financial dimension set.

@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Set up dynamic table requisites for XML format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Dynamic table requisites are uniform requisites that can be consolidated into a table if you do not know the number of table lines when you set up the template. For reports that are exported in the XML format, the dynamic requisites code is determined by the XML schema definition (XSD) schema.

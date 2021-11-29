@@ -30,6 +30,9 @@ ms.search.region: Global
 # Complete common tasks in the Call center by using the Customer service form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to complete several common tasks in Call center by using the **Customer service** form. You can use this form to create new customer records and to complete customer service tasks such as creating and viewing sales orders, viewing customer cases, and updating customer information.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 One or more rules or procedures that operationalize internal controls.
 
 ## See also

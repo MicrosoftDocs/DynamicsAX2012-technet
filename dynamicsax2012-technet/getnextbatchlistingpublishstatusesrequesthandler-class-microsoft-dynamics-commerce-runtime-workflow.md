@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextBatchListingPublishStatusesRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves next batch of listing publish statuses.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

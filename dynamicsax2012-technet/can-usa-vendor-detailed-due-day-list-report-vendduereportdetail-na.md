@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Vendor detailed due day list report (VendDueReportDetail\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Detailed due day list** report displays a detailed list of vendor transactions that are due on a specific date. The reporting date is used to calculate the number of days that each transaction is overdue. The **Amount in transaction currency** column on the report displays the balance of the invoice, excluding any discount, in the currency of the transaction. The **Amount** column displays the balance of the invoice, excluding any discount, in the accounting currency.

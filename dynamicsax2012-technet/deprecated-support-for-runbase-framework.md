@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Support for RunBase framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, the **formletter** class controls the posting form (RunBase), creates parm table records and journal records, performs the actual posting, and controls printer settings.

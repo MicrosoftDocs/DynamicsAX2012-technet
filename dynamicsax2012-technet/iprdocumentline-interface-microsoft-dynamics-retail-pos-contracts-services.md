@@ -17,6 +17,9 @@ dev_langs:
 
 # IPRDocumentLine Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The purchase receipt document line interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

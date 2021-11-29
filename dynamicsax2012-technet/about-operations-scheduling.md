@@ -25,6 +25,9 @@ ms.search.region: Global
 # About operations scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can schedule production at the operation level and the job level. Scheduling at the operation level is the less detailed method, and provides a general estimate of the production process over time. Operations scheduling does not explode the operations for the production route into jobs.

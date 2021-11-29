@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run multiple instances of Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can run multiple instances of Commerce Data Exchange: Synch Service in an environment. Use either an additional primary instance or a forwarder instance, based on the requirements of the business.

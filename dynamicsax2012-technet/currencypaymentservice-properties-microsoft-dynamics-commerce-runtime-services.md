@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CurrencyPaymentService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CurrencyPaymentService](currencypaymentservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransferOrders Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets open transfer orders from Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

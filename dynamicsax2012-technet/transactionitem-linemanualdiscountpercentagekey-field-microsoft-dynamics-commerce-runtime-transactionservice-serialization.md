@@ -17,6 +17,9 @@ dev_langs:
 
 # LineManualDiscountPercentageKey Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Line manual discount percentage key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

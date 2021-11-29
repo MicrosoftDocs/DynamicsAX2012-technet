@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Set up inflation rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The inflation adjustment process allows you to view inflation adjustment data in your financial statements by posting ledger transactions. Use the **INPC rates** form to set up the Índice nacional de precios al consumidor (INPC) rates.

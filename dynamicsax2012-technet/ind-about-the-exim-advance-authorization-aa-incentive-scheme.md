@@ -29,6 +29,9 @@ ms.search.region: India
 # (IND) About the EXIM Advance Authorization (AA) incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Advance Authorization (AA) is an export-import (EXIM) incentive scheme. For more information about AA, see [Central Board of Excise and Customs](http://www.cbec.gov.in/) and [DGFT India Directorate General of Foreign Trade](http://www.dgft.org/index.html).

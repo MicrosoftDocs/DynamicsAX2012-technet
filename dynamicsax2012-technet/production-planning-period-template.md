@@ -13,6 +13,9 @@ f1_keywords:
 
 # production planning period template
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A user-defined timetable that is used to structure and display existing product requirements.
 
 ## See also

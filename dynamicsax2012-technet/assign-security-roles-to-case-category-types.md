@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign security roles to case category types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create cases for multiple areas in Microsoft Dynamics AX. For example, you can create cases for issues that relate to human resources or to customer service. Cases and case information should only be accessible to the appropriate employees in an organization. To control which employees have access to view, create, and update different types of cases, you can assign security roles to case category types.

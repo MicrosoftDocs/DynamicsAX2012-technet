@@ -17,6 +17,9 @@ dev_langs:
 
 # SqlTypeHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper class for type conversions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  

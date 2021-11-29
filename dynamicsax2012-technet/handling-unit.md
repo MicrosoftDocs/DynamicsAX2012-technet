@@ -13,6 +13,9 @@ f1_keywords:
 
 # handling unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A uniquely identifiable logistics unit of material that can be transferred, stored, received, and shipped.
 
 ## See also

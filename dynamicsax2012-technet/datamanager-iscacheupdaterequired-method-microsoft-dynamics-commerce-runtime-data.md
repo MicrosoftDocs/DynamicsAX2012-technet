@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCacheUpdateRequired Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if cache update is required based on cache policy.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Generate a promissory note by using a free promissory note number method 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Journals** form to generate a promissory note using a free promissory note number method.

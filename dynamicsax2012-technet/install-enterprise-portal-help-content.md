@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Enterprise Portal Help content 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The MS.EP.HC*-LanguageCode*.cab file contains Help topics for Enterprise Portal pages. The .cab file is automatically deployed and configured on the Web server when you install Enterprise Portal. If the Help does not display, use the procedure in this topic to manually install Enterprise Portal Help.

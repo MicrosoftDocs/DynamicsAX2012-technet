@@ -17,6 +17,9 @@ dev_langs:
 
 # EndTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 End PinPad transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

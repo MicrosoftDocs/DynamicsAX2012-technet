@@ -14,6 +14,9 @@ f1_keywords:
 
 # application basket
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list of applications reviewed by human resource personnel.
 
 ## See also

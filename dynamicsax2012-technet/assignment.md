@@ -14,6 +14,9 @@ f1_keywords:
 
 # assignment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A designation that forms an association among objects.
 
 ## See also

@@ -22,6 +22,9 @@ dev_langs:
 
 # TransactionStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 //Change the transaction status to normal posTransaction.EntryStatus = TransactionStatus.Normal;
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ f1_keywords:
 # (ITA) Intrastat report IT report (IntrastatPeriodReport\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Intrastat report IT** report displays Intrastat transaction information about items that are traded among European Union (EU) member states. This report provides transaction information details for arrivals and dispatches for a specific period. This report is used to inquire into the status of Intrastat transactions and is typically used by account managers and accountants.

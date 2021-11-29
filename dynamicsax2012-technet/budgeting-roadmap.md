@@ -17,6 +17,9 @@ ms.search.region: Global
 # Budgeting roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic is a roadmap to additional information about Budgeting in Microsoft Dynamics AX 2012. It includes links to information about how to get started, configure, and use Budgeting, and which modules integrate with Budgeting.
 
 You can use Budgeting to set up, create, and view budgets. Budgeting can include budget control, which you can use to monitor the budget funds that are available for planned and actual purchases and expenditures. You can create budget register entries for the original budget, budget transfers, and budget revisions. You can also create budget register entries for encumbrances and pre-encumbrances for purchases and planned expenditures. Budget register entries can be created automatically when budgets are transferred to the general ledger from other modules, such as Project management and accounting or Fixed assets.

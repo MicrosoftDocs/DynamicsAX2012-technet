@@ -26,6 +26,9 @@ ms.search.region: Global
 # About pay-when-paid projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you approve a vendor as a subcontractor to work on a project, you might want to withhold payment to the vendor or subcontractor until you have been paid by your customer for the project. To retain a payment to a vendor, you set up pay-when-paid (PWP) terms when you set up the purchase order with the vendor.

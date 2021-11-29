@@ -17,6 +17,9 @@ ms.search.region: Hungary
 # (HUN) Set up a customer passport number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A customer who is a person living outside of the European Union (EU) might request documentation for the value-added tax (VAT) that the customer paid to your organization. In the tax reimbursement document, you must include the customer’s passport number. Use the following procedure to add the passport number and the name of the country/region that issued the passport to the customer.

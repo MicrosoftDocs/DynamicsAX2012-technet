@@ -18,6 +18,9 @@ ms.search.region: Global
 # About invoiced revenue 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides an overview of how and where invoiced revenue accounts are applied, and what parameter setup is required to post to these accounts. General invoiced revenue accounts apply only to Time and material projects. On-account invoiced revenue accounts apply only to Time and material and Fixed-price projects.

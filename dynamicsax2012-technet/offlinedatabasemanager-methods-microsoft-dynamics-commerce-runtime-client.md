@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OfflineDatabaseManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OfflineDatabaseManager](offlinedatabasemanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

@@ -18,6 +18,9 @@ ms.search.region: Global
 # About traditional financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A financial statement is a statement of an organization's financial state at the end of a defined period. It can include an operating statement (an income statement that includes the results that are shown with regard to profit and loss of typical business activities), a balance sheet (assets and liabilities), and other financial information.

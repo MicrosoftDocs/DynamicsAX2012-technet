@@ -15,6 +15,9 @@ dev_langs:
 
 # GetPricesServiceResponse Constructor (IEnumerable(SalesLine), String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetPricesServiceResponse](getpricesserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

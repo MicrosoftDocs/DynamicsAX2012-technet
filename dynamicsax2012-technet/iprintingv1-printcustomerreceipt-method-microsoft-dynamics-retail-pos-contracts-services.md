@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintCustomerReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints custom receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

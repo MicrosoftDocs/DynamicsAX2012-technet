@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Review the asset packing slip details and print the packing slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to review the details of a packing slip for a fixed asset transfer and to print the transfer packing slip. If your organization moves a fixed asset from one department to another and the two departments are not in the same location, the transfer must be verified by a packing slip. You must also generate a transfer packing slip if the employee who is responsible for the fixed asset changes.

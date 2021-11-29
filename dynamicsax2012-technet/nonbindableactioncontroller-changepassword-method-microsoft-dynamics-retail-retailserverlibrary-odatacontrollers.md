@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangePassword Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Change password for a user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

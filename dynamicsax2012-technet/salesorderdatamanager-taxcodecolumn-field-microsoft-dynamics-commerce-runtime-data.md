@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxCodeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

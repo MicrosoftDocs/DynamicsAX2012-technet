@@ -17,6 +17,9 @@ ms.search.region: Global
 # Enable price details on orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to enable and view price details in sales orders and purchase orders. After price details are enabled, workers can look up pricing information for order lines. Information that workers can view includes unit prices, discount amounts, margin estimations, trade agreements, and rebate amounts.

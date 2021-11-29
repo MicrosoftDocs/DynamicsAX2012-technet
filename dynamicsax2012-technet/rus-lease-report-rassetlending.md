@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Lease report (RAssetLending) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Lease report displays a list of the fixed assets that are currently leased. The data on this report includes the date when a fixed asset is leased, the location and current lessee of the fixed asset, and the date when the fixed asset is returned to the legal entity. Accountants generate this report periodically to review information about leased fixed assets.

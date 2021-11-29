@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) All PIS and COFINS fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 When a legal entity purchase a fixed asset, the PIS and COFINS tax credit, which is calculated on that transaction, can be appropriated in specific quantity of installments. In order to have the correct calculation for this tax refund, the legal entity must present a specific fiscal book or report the information in the SPED EFD Contributions file to demonstrate the correct appropriation of PIS and COFINS tax credit amount. The control of credit appropriated in the tax assessment period is detailed in the records F120 and F130 of SPED EFD Contributions.
 
 The tax credit amount can be calculated from the asset acquisition transactions or the depreciation transactions since the legislation allows the companies to appropriate the credit based on these criteria.

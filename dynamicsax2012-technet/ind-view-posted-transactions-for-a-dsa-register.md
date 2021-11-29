@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) View posted transactions for a DSA register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view details of items that excise duty is levied on in the **DSA details** form. You can view the item code, the opening balance of the quantity of item, the quantity of the manufactured item, the quantity of the item that is sold, the quantity of the available balance of the item, and the excise duty for the transaction.

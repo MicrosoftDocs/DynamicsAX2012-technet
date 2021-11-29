@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CityInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CityInfo](cityinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

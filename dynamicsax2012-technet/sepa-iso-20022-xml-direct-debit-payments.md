@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # SEPA (ISO 20022 XML) direct debit payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Two white papers are available for Single European Payments Area (SEPA) direct debit payments.

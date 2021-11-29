@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimsWebPart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This control is for test purposes only to enumerate all claims of a request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ClaimsWebPart](microsoft-dynamics-retail-sharepoint-web-webparts-claimswebpart-namespace.md)  

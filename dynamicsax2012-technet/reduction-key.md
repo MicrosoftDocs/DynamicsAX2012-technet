@@ -13,6 +13,9 @@ f1_keywords:
 
 # reduction key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method that is used to increase or decrease forecast requirements in master planning, based on user defined percentages that are applied during specific periods.
 
 ## See also

@@ -14,6 +14,9 @@ f1_keywords:
 # Purchase and sales agreement configuration key (TradeBlanketOrder) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Purchase and sales agreement** configuration key controls access to purchase and sales functionality. When this key is enabled, you can create purchase and sales agreements and related reports are made available. You can also create purchase and sales orders based on purchase and sales agreements, respectively.

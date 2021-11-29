@@ -17,6 +17,9 @@ dev_langs:
 
 # Parameters Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

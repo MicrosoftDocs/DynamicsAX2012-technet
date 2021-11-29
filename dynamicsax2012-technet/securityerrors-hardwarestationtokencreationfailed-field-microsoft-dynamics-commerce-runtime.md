@@ -17,6 +17,9 @@ dev_langs:
 
 # HardwareStationTokenCreationFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the failed to create hardware station token.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

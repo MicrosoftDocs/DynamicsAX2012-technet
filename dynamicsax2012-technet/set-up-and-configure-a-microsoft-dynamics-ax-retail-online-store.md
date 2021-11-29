@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up and configure a Microsoft Dynamics AX Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If you deployed the online store, you are ready to set up the online channel in Microsoft Dynamics AX. Setup procedures are listed in the [Online Store](online-store.md) under the heading **Setup and configure an online store**. The topics in the roadmap supplement the online store setup checklist. The checklist is available in the Microsoft Dynamics AX client: **Retail** \> **Setup** \> **Online store setup checklist**. Use the procedures listed in the documentation roadmap and the checklist to finish setting up and configuring the Retail Online Store.

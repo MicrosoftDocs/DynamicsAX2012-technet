@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasureSymbol Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the symbol for the unit (if any) specified for this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

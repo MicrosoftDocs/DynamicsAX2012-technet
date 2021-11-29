@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidProviderConfiguration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the providers for a component in the runtime have not been configured correctly.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

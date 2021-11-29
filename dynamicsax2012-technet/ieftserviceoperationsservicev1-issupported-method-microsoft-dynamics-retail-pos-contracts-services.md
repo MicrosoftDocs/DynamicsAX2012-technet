@@ -17,6 +17,9 @@ dev_langs:
 
 # IsSupported Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines is EFT service operations supported
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

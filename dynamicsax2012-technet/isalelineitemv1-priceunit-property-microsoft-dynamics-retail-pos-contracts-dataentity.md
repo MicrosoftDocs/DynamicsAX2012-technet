@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceUnit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If a price is given for a for more than one unit the price unit tells how many.
 
 If the price if given for six units (priceUnit=6) as 100 EUR, then when 12 units are sold the price will be 200 EUR.

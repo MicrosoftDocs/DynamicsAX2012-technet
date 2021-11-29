@@ -13,6 +13,9 @@ f1_keywords:
 
 # sample item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that is selected for inspection.
 
 ## See also

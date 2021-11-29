@@ -14,6 +14,9 @@ f1_keywords:
 # Reports (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft SQL Server Reporting Services is the primary reporting platform for Retail essentials. You can also export data from Retail essentials to a Microsoft Excel workbook.

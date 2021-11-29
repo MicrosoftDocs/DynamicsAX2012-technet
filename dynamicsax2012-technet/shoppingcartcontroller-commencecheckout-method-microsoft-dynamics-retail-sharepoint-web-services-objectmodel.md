@@ -17,6 +17,9 @@ dev_langs:
 
 # CommenceCheckout Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Starts the checkout process by creating a secure cart and returning it.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

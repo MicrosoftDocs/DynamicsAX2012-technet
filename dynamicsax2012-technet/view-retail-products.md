@@ -17,6 +17,9 @@ ms.search.region: Global
 # View retail products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view a list of all the products that your store sells. You can also view detailed information about each product, such as prices, quantities, dimensions, and other inventory information.

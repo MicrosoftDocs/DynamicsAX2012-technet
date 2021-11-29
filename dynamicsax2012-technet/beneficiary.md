@@ -13,6 +13,9 @@ f1_keywords:
 
 # beneficiary
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person who is a member of an organization that provides benefits, or a party who is designated as the recipient a benefit.
 
 ## See also

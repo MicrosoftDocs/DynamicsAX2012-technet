@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a return purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Organizations frequently return items to vendors when the items do not meet quality standards and order specifications, or when the items are damaged in transit. You can create and post a return purchase order for items that are returned to vendors. You must attach a fiscal reference for the return purchase order. You can change the delivery address for a return purchase order. The **CNPJ/CPF**, **IE**, and **Presence type** fields in the **Purchase order** form are updated based on the information that is specified for the vendor on the **Fiscal information** FastTab in the **Vendors** form. You can also modify the delivery address for the vendor in the **Create purchase order** form or on the purchase order lines.

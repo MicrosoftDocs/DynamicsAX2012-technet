@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReceiptMask Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the receipt mask by functionality profile Id and receipt transaction type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # LineItemsKeyedPercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The perenctage of items that where keyed in.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

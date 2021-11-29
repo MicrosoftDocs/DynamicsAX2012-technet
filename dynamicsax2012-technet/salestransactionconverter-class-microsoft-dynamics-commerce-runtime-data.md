@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransactionConverter Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Static class to convert from sales transaction to its database representation and vice-versa.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Transfer a fixed asset between fiscal establishments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When a fixed asset that has a CIAP fixed asset record is transferred from one fiscal establishment to another within the same legal entity, the CIAP accumulation must end in the original fiscal establishment, and a new CIAP fixed asset accumulation must start in the new fiscal establishment. When the new CIAP fixed asset starts, it will start with the remaining Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) amount and the remaining number of installments.

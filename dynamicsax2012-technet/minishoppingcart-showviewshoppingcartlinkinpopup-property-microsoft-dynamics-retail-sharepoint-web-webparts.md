@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowViewShoppingCartLinkInPopup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether to show the Shopping Cart Link in the popup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

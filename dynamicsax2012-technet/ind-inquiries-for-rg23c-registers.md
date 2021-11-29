@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Inquiries for RG23C registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 RG23C is a statutory register maintained by a manufacturing unit to record the details of the purchase and sale of capital goods, in terms of quantity and excise duty that is applicable.

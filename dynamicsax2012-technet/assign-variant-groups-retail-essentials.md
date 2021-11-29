@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Assign variant groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to assign a variant group to a retail hierarchy or product. When you assign a new product to a retail hierarchy, the variant groups in the retail hierarchy are automatically assigned to the product. Therefore, the sizes, colors, and styles in the variant groups are automatically associated with the product. If you are not using retail hierarchies, or if a product belongs to a retail hierarchy that does not include variant groups, you can assign variant groups directly to a product. The sizes, colors, and styles in the variant groups are then automatically associated with the product.

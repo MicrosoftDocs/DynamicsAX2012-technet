@@ -13,6 +13,9 @@ f1_keywords:
 
 # right
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An entitlement granted by contract or law.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeZoneInterval Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a Time Zone Record type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

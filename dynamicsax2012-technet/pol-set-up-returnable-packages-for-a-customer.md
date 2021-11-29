@@ -17,6 +17,9 @@ ms.search.region: Poland
 # (POL) Set up returnable packages for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Return packages table** form to register packages that are returned by a customer, define packaging codes, and specify the deposit amount that is paid by the customer for each of the returned packages.

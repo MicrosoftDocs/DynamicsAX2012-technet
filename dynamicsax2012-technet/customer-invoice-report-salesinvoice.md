@@ -14,6 +14,9 @@ f1_keywords:
 # Customer invoice report (SalesInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer invoice report** displays customer invoice information. This includes sales order, packing slip, and line details.

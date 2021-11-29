@@ -17,6 +17,9 @@ dev_langs:
 
 # IdentifyCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies the card if a match with pre-configured card types in not found by the application.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

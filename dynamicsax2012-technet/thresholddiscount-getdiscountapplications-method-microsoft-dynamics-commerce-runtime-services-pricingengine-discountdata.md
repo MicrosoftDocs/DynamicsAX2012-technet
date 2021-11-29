@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountApplications Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all of the possible applications of this discount to the specified transaction and line items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryDataRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Inventory data services that contains methods to retrieve the inventory information from underlying data storage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices](microsoft-dynamics-commerce-runtime-dataservices-namespace.md)  

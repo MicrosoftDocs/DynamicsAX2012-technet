@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed-price project estimate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The estimated total cost to complete a fixed-price project.
 
 ## See also

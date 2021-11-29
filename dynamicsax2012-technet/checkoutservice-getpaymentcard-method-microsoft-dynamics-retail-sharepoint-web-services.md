@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPaymentCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the payment card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

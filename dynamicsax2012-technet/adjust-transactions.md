@@ -20,6 +20,9 @@ ms.search.region: Global
 # Adjust transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can adjust project transactions in Microsoft Dynamics AX one at a time, or select from a list of all project transactions.

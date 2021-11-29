@@ -21,6 +21,9 @@ ms.search.region: Global
 # About registering serial numbers in the sales process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides information about how to register serial numbers in the sales process. Rather than maintaining serial numbers for products in inventory from receipt to issue, you can register serial numbers on the packing slips or invoices when products are sold. For example, this is useful if you only use serial numbers to handle product returns. You can then trace a product to an invoice to determine whether you sold the product, and whether the service or warranty obligations are valid.

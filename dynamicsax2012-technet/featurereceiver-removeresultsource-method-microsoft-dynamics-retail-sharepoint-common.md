@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveResultSource Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes ResultSource.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

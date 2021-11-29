@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for outlays - unrealized 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Outlays - Unrealized** register is used to calculate unrealized expenses that are incurred during a tax reporting period. The register is calculated at the end of the accounting period, based on expenses that are accrued from the beginning of the tax period until the reporting date. The entries that are registered for each unrealized expense category are derived either from source documents or from data from tax registers at the end of the reporting period.

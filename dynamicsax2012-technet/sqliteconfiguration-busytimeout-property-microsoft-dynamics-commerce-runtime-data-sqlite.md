@@ -17,6 +17,9 @@ dev_langs:
 
 # BusyTimeout Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the timeout in milliseconds for waiting on a statement execution that needs to acquire a lock on a database element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

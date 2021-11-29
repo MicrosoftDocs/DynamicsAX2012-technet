@@ -13,6 +13,9 @@ f1_keywords:
 
 # product component
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A part of a product.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetItemAvailableQuantitiesResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetItemAvailableQuantitiesResponse](getitemavailablequantitiesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

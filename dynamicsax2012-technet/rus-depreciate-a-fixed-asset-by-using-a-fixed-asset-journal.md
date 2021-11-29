@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Depreciate a fixed asset by using a fixed asset journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you put a fixed asset of the **Vehicle** or **Realty** type into operation, you can use the **FA journal** form to start depreciating the asset from the date of registration.

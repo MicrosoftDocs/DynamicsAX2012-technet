@@ -17,6 +17,9 @@ dev_langs:
 
 # ReleaseConnectionServiceResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ReleaseConnectionServiceResponse](releaseconnectionserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseConnection](microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection-namespace.md)  

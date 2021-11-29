@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Set up the import of telebank payments from customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can import telebank payments from customers into the accounts receivable payment journal by using either of the generally accepted telebanking formats, Teleteenus (EE) v. 2.3 or Telehansa (EE) v. 5.116. The imported payments are linked to customers or to specific invoices by using reference numbers.

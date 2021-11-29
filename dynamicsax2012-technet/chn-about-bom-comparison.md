@@ -16,6 +16,9 @@ ms.search.region: China (PRC)
 # (CHN) About BOM comparison 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A product may be accompanied by several versions of its bill of materials (BOM) over the course of its life-cycle, because many products are redesigned or modified to meet changing needs. The cost of a BOM generally reflects the actual cost of production, and is derived from the components and materials used, in addition to the direct and indirect costs of creating the final product. The price of the BOM can be assigned manually, or can be calculated by marking up the costs that are incurred during the manufacture or construction of the product.

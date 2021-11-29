@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Payment schedule configuration key (PaymSched) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment schedule** configuration key controls access to the ability to set up a schedule of payments for transactions in Accounts receivable and Accounts payable. When this configuration key is enabled, the **Payment schedule** field is displayed in the following forms:

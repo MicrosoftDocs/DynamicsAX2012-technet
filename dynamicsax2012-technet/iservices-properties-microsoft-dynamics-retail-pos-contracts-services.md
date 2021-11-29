@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IServices Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IServices](iservices-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Properties

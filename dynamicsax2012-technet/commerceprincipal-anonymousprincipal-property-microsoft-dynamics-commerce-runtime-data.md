@@ -17,6 +17,9 @@ dev_langs:
 
 # AnonymousPrincipal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the principal object representing an anonymous user.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

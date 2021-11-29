@@ -17,6 +17,9 @@ dev_langs:
 
 # RFIDFound Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Was the RFID scanned found in POS database?
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

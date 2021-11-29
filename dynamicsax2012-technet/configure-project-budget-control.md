@@ -20,6 +20,9 @@ ms.search.region: Global
 # Configure project budget control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Project budget control is the practice of authorizing expenditure only when budget funds can be reserved to meet future payment commitments. Budget control is usually configured for each project. However, several settings for budget control apply to all projects. Before you configure individual project budgets, ask several questions about your organization, and then use the answers to configure the settings that apply to all project budgets.

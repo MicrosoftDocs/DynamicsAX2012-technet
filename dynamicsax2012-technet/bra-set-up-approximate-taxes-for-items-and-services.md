@@ -29,6 +29,9 @@ ms.search.region: Brazil
 # (BRA) Set up approximate taxes for items and services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Approximate taxes are the taxes from production and supply chain that apply to an item. You can specify the approximate tax percentages for national and imported items for each fiscal classification code and exception code. You can specify the approximate tax percentage that is applied to an item or service. You can also specify the source and the text about the approximate tax percentage. When you create and post sales orders or free text invoices, Microsoft Dynamics AX calculates the approximate tax amounts for items by using the approximate tax percentages that you specify.

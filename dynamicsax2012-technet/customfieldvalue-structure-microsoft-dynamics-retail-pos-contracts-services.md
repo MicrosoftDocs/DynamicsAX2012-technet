@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomFieldValue Structure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.CustomFieldValue interface is the container class for a single layout field definition.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

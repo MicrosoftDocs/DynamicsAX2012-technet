@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerDiscountTypeValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the value of the customer discount type enum. Used by OData only.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

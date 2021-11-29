@@ -14,6 +14,9 @@ f1_keywords:
 # Working with vendors (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you create a vendor account, you enter information about the vendor in a vendor record. This information is used to populate documents automatically and to track activity that is related to the vendor. This topic explains how to create, update, and delete vendor records.

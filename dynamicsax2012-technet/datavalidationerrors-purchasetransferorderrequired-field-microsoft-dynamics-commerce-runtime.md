@@ -17,6 +17,9 @@ dev_langs:
 
 # PurchaseTransferOrderRequired Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a purchase or transfer order was not provided.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

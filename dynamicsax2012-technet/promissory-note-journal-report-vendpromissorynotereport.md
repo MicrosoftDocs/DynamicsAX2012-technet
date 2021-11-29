@@ -14,6 +14,9 @@ f1_keywords:
 # Promissory note journal report (VendPromissoryNoteReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Promissory note journal** report to view information about promissory notes. This information includes the status and amount of each promissory note.

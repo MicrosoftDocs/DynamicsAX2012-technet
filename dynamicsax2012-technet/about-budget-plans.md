@@ -27,6 +27,9 @@ ms.search.region: Global
 # About budget plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Budget plans are documents that are used to develop estimates for amounts and units in budget plan scenarios for the responsibility centers in the budget organization. After you set up and activate a budget planning process, you can create budget plans that have multiple scenarios. You can then automatically route the budget plans, together with worksheets, justifications, and attachments, through your organization for review and approval.

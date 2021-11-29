@@ -17,6 +17,9 @@ dev_langs:
 
 # PatchEntity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves a transfer order to the local database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

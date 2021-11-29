@@ -17,6 +17,9 @@ dev_langs:
 
 # Gray Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The gray button style.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

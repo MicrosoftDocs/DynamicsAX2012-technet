@@ -14,6 +14,9 @@ ms.search.region: Global
 # Sort records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In forms where the records are listed in a grid, you can sort data in ascending order (A through Z) or descending order (Z through A).

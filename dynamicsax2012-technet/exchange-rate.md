@@ -13,6 +13,9 @@ f1_keywords:
 
 # exchange rate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value of one exchange currency unit relative to another exchange currency unit.
 
 ## See also

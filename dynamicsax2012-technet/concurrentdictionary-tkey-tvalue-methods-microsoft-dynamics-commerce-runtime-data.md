@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ConcurrentDictionary(TKey, TValue) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ConcurrentDictionary\<TKey, TValue\>](concurrentdictionary-tkey-tvalue-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

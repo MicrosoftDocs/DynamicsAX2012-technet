@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure a line-item workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To configure a line-item workflow element, in the workflow editor, right-click the element and then click **Properties** to open the **Properties** form. Use the following procedures to configure the properties of the line-item workflow element.

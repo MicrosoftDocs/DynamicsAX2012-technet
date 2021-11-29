@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesOrder Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesOrder](salesorder-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Fields

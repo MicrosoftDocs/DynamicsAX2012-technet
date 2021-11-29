@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (EEUR) Eastern European EU sales list reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Eastern European installations, Microsoft Dynamics AX 2009 provides country/region-specific functionality that supports local implementations of European Union (EU) sales list reports. All companies across the 27 EU member states must report an EU sales list. The EU sales list contains information about sales of goods and services to entities that are registered for value-added tax (VAT) and located in other EU member states. The EU sales list also contains information about some purchases from VAT-registered entities.

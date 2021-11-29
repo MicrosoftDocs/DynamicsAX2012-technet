@@ -17,6 +17,9 @@ dev_langs:
 
 # VehicleId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unique id for the vehicle being fueled.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

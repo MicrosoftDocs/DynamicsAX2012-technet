@@ -23,6 +23,9 @@ ms.search.region: Global
 # About transaction types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a project is created, transactions are entered in journals or in project-related forms. These forms can include free text invoices, purchase orders, purchase requisitions, or vendor invoices.

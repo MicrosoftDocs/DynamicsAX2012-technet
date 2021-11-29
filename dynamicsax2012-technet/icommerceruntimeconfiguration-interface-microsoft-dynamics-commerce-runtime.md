@@ -17,6 +17,9 @@ dev_langs:
 
 # ICommerceRuntimeConfiguration Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates configuration interface relevant to the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

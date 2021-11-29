@@ -17,6 +17,9 @@ dev_langs:
 
 # StatusColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Status column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

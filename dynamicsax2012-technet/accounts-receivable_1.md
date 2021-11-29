@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounts receivable
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A subclassification of an asset account classification that describes the changes in value owed by customers.
 
 ## See also

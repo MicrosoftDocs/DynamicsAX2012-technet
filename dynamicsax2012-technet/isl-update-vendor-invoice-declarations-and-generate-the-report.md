@@ -19,6 +19,9 @@ ms.search.region: Iceland
 # (ISL) Update vendor invoice declarations and generate the report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can enter transactions for payments made to vendors and update a vendor's invoice declaration in various accounting forms. You can enter information about vendor invoices, create project expense transactions for payments made from the invoices, and post the invoices. Use the procedures to update invoice declaration. You can also generate an invoice declaration text file for a vendor or a subcontractor.

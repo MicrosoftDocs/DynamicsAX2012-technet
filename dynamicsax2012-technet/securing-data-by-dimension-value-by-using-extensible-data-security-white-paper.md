@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Securing Data by Dimension Value by using Extensible Data Security (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Dimension value fields provide a common method of filtering a wide range of financial data. This paper describes how to create and apply extensible data security (XDS) policies to filter financial data by dimension value.

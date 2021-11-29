@@ -23,6 +23,9 @@ ms.search.region: Global
 # About work breakdown structures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A project often consists of multiple tasks. In Microsoft Dynamics AX 2012, a work breakdown structure (WBS) is a hierarchy that represents the sequence of tasks for a project. In a WBS, you can schedule a task, specify the education and experience that are required for the task, assign qualified workers, and enter the estimated cost and revenue for the task.

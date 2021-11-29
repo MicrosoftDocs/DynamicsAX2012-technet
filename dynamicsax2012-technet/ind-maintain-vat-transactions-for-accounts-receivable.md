@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Maintain VAT transactions for Accounts receivable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about calculating and posting VAT information, and entering charges with VAT details.

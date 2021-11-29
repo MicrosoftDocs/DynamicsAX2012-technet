@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoggingServiceFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoggingServiceFeatureEventReceiver](loggingservicefeatureeventreceiver-class-microsoft-dynamics-retail-sp-commonfeatures-features-loggingservicefeature.md) type exposes the following members.
 
 ## Methods

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Compensation and benefits manager security role (HcmCompensationAndBenefitsManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Compensation and benefits manager security role represents a user who documents compensation and benefits events, responds to compensation and benefit inquiries and records the financial consequences of compensation and benefit events.

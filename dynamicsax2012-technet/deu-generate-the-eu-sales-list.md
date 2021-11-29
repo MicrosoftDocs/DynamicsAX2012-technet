@@ -19,6 +19,9 @@ ms.search.region: Germany
 # (DEU) Generate the EU sales list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 German businesses that supply items to other companies in European Union (EU) countries or regions can generate periodic reports that itemize their sales transactions. The EU sales list report contains the value of items that are sold to value-added tax (VAT) registered customers in other EU countries or regions. You can generate the EU sales list as an ELMA5 text file. You can generate the EU sales list on a monthly, bimonthly, quarterly, or yearly basis.

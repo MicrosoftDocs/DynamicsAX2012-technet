@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add and maintain your project experiences information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Competencies** page to add or maintain information about the project experiences that you have. You can enter information about projects that you have already worked on or projects that you are currently working on.

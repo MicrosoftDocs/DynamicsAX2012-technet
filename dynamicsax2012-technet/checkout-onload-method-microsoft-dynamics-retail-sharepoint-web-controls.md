@@ -17,6 +17,9 @@ dev_langs:
 
 # OnLoad Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Server controls created and initialized.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -22,6 +22,9 @@ ms.search.region: Global
 # About customer payment retention for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When your organization is working on a project for a customer, the customer may want to withhold payment for part of an invoice until certain terms are met. The customer may retain amounts until the project is completed, or until the project reaches a specified stage of completion. The payment that the customer withholds is called the *customer retention*. The terms of the customer retention are typically expressed as either a specific amount or as a percentage of a contract or invoice amount.

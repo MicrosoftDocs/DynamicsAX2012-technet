@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Perform a single translation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can initiate a translation session to save the information for a translation. The translation session determines the way that ledger account transactions and data conversion from the source company to the target company are translated. Click **General ledger** \> **Setup** \> **General ledger parameters**. If this check box is cleared, transactions are translated without correspondence.

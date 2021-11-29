@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales order discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount deducted from the total net amount calculation on a sales order.
 
 ## See also

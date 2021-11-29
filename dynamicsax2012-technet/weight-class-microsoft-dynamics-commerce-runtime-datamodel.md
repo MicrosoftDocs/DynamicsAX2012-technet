@@ -17,6 +17,9 @@ dev_langs:
 
 # Weight Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the weight of a package.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: USA
 # (USA) Create a payment journal and validate the credit limit for a bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can make a payment to a vendor or customer, you must enter all necessary company, vendor, or customer bank account details. When you set up company, vendor, or customer bank accounts, you must enter a valid bank account number and routing number.

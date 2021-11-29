@@ -18,6 +18,9 @@ ms.search.region: Global
 # Specify an inventory model for inventory close 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An inventory model typically is assigned to an item when you are configuring its item model group. However, we recommend that you confirm that the inventory model that you want to use for each model group is selected before you run the inventory close procedure.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Portal framework license code (EP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Enterprise portal framework** license code enables .NET Business Connector to be loaded into an Internet Information Services (IIS) process. Enterprise Portal for Microsoft Dynamics AX does not run if this code is disabled.

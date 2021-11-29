@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up taxes for intercompany transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In the **General ledger parameters** form, on the **Direct taxes** tab, **the Apply tax on cross company payments** is selected to specifically display the TDS group and TCS group for a journal line based on the company selected in the journal line. The groups are based on the company selected at the journal line and also on the vendor or customer account selected at the journal line for a transaction.

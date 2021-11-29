@@ -17,6 +17,9 @@ dev_langs:
 
 # SqliteDatabaseProvider Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements the database provider for SQLite.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

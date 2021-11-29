@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Visual Studio Tools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Visual Studio Tools integrate the development of Microsoft Dynamics AX with Microsoft Visual Studio. Developers can use these tools to create managed code that accesses X++ objects. Developers can also use the tools to create or modify controls for Enterprise Portal for Microsoft Dynamics AX and reports for Microsoft SQL Server Reporting Services. For more information about Visual Studio Tools, see [Visual Studio Development for Microsoft Dynamics AX](https://technet.microsoft.com/library/gg889157\(v=ax.60\)).

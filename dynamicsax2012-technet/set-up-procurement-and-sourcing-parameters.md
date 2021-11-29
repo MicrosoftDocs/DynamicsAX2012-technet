@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up procurement and sourcing parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin to work in **Procurement and sourcing** in Microsoft Dynamics AX, you set up default values in the **Procurement and sourcing parameters** form. By setting default values, you can automate some of the data entry that is required when documents are created for procurement activities.

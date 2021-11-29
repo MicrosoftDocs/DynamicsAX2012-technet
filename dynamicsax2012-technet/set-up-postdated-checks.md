@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up postdated checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to specify whether to post journal entries for postdated checks and which posting journals to use for clearing entries and vendor payments. You can also specify clearing accounts for issued checks, received checks, and withholding tax. Postdated checks are checks that are issued to make and receive payments on a future date. You can specify whether the check must be reflected in the accounting books before its maturity date. Before you set up postdated checks, make sure that the **Postdated checks** configuration key is selected in the **Configuration** form.

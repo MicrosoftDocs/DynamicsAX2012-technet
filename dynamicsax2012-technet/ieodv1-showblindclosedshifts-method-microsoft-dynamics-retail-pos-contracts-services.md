@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowBlindClosedShifts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays UI with a list of the current blind closed shifts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Leads configuration key (SmmLead) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Leads** configuration key allows you to create and maintain lead records. With this key enabled, you can create lead records to help your sales and marketing team gather and store information about potential customers. You can then implement the activities and tasks that qualify a lead to move to the next level and become an opportunity.

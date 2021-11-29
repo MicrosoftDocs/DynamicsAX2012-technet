@@ -17,6 +17,9 @@ ms.search.region: Global
 # Maintain activities for goals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create goals for workers, you can add activities to the goals. After a worker completes an activity, you can indicate that the activity is completed.

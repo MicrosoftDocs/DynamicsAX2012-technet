@@ -14,6 +14,9 @@ f1_keywords:
 # Supplementary item configuration key (SuppItem) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Supplementary item** configuration key controls access to information about supplementary item agreements. If this configuration key is enabled, the Supplementary items folder under **Procurement and sourcing** / **Inventory management** / **Sales and marketing** \> **Setup**, and fields and buttons related to the feature in other forms, are made available.

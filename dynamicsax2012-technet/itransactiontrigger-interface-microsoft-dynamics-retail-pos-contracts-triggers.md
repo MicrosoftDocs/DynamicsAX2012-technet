@@ -17,6 +17,9 @@ dev_langs:
 
 # ITransactionTrigger Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ITransactionTrigger interface. These interfaces are implemented in the satellite assemblies in the \\Triggers subdirectory of the POS installation.
 
 They can be overridden by third-party developers.

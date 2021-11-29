@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Warehouse Mobile Devices Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Warehouse Mobile Devices Portal lets users complete tasks in a warehouse facility by using mobile devices. Warehouse Mobile Devices Portal includes a website that can be accessed by mobile devices, and therefore must be installed on a server that runs Internet Information Services (IIS).

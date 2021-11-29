@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBarcodeMask Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the barcode mask using the specified prefix.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

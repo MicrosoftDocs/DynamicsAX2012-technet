@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the posting type and number sequences to transfer proprietary rights 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you ship items to a customer and post a sales invoice for the shipment, the ownership or proprietary rights of the items are transferred to the customer. If the proprietary rights cannot be transferred on the date of shipment for a reason such as the terms of a trade agreement, you can indicate this fact in the sales invoice. The customer becomes liable for the items only when ownership is transferred. If the transfer is delayed, you remain responsible for calculating and paying sales tax at the time of shipment. You can calculate and pay sales tax on items that are shipped to a customer, and you can register the items that are in transit in a specific general ledger account. You can set up revenue, consumption, and transit general ledger accounts to post miscellaneous sales charges for the items that are shipped. You can also allocate and post miscellaneous charges for a sales invoice.

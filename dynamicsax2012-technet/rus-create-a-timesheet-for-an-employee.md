@@ -28,6 +28,9 @@ ms.search.region: Russia
 # (RUS) Create a timesheet for an employee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create a timesheet for an employee in the current payroll period after the employee is hired. You can make manual adjustments to a timesheet that was created for an earlier payroll period retroactively using the current timesheet for the current payroll period.

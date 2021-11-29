@@ -15,6 +15,9 @@ f1_keywords:
 # Set up visual profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up the appearance of Retail POS registers. For example, you can select menus that you want to appear on the register screen and define the colors and bars that are visible.

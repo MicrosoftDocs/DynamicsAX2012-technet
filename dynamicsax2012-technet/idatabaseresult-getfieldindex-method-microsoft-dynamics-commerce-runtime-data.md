@@ -17,6 +17,9 @@ dev_langs:
 
 # GetFieldIndex Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the index of the field by a specific name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The device token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

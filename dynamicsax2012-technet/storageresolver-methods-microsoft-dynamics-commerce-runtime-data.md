@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StorageResolver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StorageResolver](storageresolver-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

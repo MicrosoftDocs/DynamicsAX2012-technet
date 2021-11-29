@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Print the DANFE in contingency mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Fiscal document** form to print a contingency Documento Auxiliar da Nota Fiscal Eletrônica (DANFE) when there is a communication issue between Microsoft Dynamics AX and the Secretaria da Fazenda (SEFAZ).

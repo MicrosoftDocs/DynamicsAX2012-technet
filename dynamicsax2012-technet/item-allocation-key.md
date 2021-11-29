@@ -13,6 +13,9 @@ f1_keywords:
 
 # item allocation key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A product family grouping that is used for forecast and demand scheduling.
 
 ## See also

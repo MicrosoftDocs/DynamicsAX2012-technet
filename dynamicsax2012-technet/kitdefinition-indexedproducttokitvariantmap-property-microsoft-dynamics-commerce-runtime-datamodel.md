@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedProductToKitVariantMap Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a list of kit related properties of all products used in the kit as component or substitutes, indexed by the kitline identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

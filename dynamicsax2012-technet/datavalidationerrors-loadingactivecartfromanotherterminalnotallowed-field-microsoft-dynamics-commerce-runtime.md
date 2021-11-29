@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadingActiveCartFromAnotherTerminalNotAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cart is active on another terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

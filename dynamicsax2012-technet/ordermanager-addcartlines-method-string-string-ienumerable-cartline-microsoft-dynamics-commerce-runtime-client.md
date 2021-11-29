@@ -15,6 +15,9 @@ dev_langs:
 
 # AddCartLines Method (String, String, IEnumerable(CartLine))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified items to the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

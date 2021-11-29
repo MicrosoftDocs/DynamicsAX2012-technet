@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Vendor balance by dimension (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays the vendor balances for selected dimensions. For example, the report displays the vendor balances by department.

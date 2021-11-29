@@ -17,6 +17,9 @@ dev_langs:
 
 # PricingService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Service for product prices.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

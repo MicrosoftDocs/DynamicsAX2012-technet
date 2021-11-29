@@ -14,6 +14,9 @@ ms.search.region: Global
 # Resolve net unit price invoice matching discrepancies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this information to identify and resolve common types of price variances and quantity variances, which are collectively known as matching discrepancies. You can use the **Pending vendor invoices** list page to identify invoices that have been entered and saved, but that are not yet approved to be posted.

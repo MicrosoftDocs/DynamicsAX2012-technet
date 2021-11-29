@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Sheet of FA and depreciation charges report displays a list of fixed assets and their accrued depreciation charges for a period that you specify. Accountants generate this report periodically to review the list of fixed assets and their accrued depreciation charges, and then print and submit this report to the tax authorities.

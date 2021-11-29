@@ -15,6 +15,9 @@ ms.search.region: Global
 # Accrue subscription revenue 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Service management** \> **Periodic** \> **Service subscriptions** \> **Accrue subscription revenue**.

@@ -37,6 +37,9 @@ ms.search.region: Global
 # Key tasks: Order items and services from a catalog 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Order products** page in the Employee services portal to order items and services that you use to perform daily work activities. On the **Order products** page, you can complete the following tasks:

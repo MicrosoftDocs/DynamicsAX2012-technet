@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) About the calculation engine 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can calculate the fiscal Last In, First Out (LIFO) value for internal and final reports that are based on the average inventory value or normal value. You can also include the work in progress (WIP) of production items in the calculation.

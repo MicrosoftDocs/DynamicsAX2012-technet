@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Tips to help prevent long-running reports from timing out 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX uses Microsoft SQL Server Reporting Services to render reports. Reporting Services retrieves report data from the Microsoft Dynamics AX Application Object Server (AOS) by using a custom extension that uses Windows Communication Foundation (WCF) to communicate with the AOS.

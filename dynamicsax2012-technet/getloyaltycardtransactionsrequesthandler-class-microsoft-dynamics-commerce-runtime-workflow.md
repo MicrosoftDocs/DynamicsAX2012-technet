@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardTransactionsRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the request for getting the loyalty card transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

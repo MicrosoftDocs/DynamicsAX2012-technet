@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Materials manager security role (InventMaterialsManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Materials manager security role represents a user who enables and reviews processes, maintains master data, and responds to inquiries related to logistics and material management.

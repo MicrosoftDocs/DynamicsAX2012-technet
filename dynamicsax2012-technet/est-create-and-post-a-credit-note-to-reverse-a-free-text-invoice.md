@@ -22,6 +22,9 @@ ms.search.region: Estonia
 # (EST) Create and post a credit note to reverse a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use a credit note to reverse a free text invoice that was generated for the sale of a fixed asset. When you create a credit note, you must include each transaction line from the free text invoice.

@@ -14,6 +14,9 @@ f1_keywords:
 # (USA) Tax 1099 print options report (Tax1099Report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Tax 1099 print options** report is used to print 1099 statements. You must select the type of tax 1099 form, indicate the reporting year, and make other selections, such as vendor or state. This report is typically used by collections managers, accountants, accounting managers, and accounting supervisors.

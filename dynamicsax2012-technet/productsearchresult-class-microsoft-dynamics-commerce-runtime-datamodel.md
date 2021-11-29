@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchResult Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the response to a query for Product objects.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

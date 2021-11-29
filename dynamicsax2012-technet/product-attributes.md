@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product attributes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The topics in this section provide information about setting up and working with product attributes, attribute types, and attribute groups.
 
 [Set up attributes and attribute types (Retail essentials)](set-up-attributes-and-attribute-types-retail-essentials.md)

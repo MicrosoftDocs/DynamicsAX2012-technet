@@ -17,6 +17,9 @@ f1_keywords:
 # (FRA) Payment control report (VendOutPaymControl\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment control** report prints payment advice for vendor payments when you post a payment journal. This report is used to check vendor payment statuses and maintain vendor payments. This report is typically used by accountants, accounting managers, accounting supervisors, accounts payable centralized payments clerks, accounts payable clerks, accounts payable managers, accounts payable payments clerks, chief financial officers, and financial controllers.

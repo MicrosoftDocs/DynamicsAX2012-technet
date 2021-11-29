@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany master scheduling
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process for generating a timetable for two or more legal entities that are part the same organization.
 
 ## See also

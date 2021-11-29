@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up and maintaining Environmental sustainability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Topics in this section provide information about setting up **Compliance and internal controls** to track the environmental impact of substances that your organization consumes and generates.

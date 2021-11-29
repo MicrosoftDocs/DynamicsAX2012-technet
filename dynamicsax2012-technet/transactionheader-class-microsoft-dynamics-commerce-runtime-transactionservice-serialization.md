@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionHeader Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data Contract for GetTransaction result serialization.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

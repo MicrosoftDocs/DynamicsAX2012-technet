@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a report by using Power View to connect to a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Power View is a tool that you can use to create highly-interactive, ad-hoc reports. This article helps you create a Power View report that displays data from a Microsoft SQL Server Analysis Services cube. To create the report, you must first select the cube that you want to use, and create a data source to connect to that cube. Then, you can create the Power View report by selecting the fields that you want to display on the report. Finally, if you are a system administrator, you can display the report in a web part on a Role Center page in Microsoft Dynamics AX.

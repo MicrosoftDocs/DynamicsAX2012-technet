@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalIdClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Terminal Id Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

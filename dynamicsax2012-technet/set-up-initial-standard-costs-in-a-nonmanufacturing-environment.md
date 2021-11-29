@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up initial standard costs in a nonmanufacturing environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Nonmanufacturing and distribution environments maintain standard costs for purchased items. This includes setting up the standard costs for the first time. The following guidelines assume the use of a single costing version when you set up the standard costs for the first time. This costing version contains standard costs for the current period. Pending cost records for all items are entered in this costing version, and the status is changed to active.

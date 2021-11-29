@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetAffiliationsResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetAffiliationsResponse](getaffiliationsresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

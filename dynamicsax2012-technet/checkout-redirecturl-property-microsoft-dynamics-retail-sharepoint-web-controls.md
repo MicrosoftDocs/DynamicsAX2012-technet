@@ -17,6 +17,9 @@ dev_langs:
 
 # RedirectUrl Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the page to redirect to after checking out. Empty Url means no redirect.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

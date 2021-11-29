@@ -18,6 +18,9 @@ ms.search.region: Global
 # Setting up and maintaining journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A journal is a chronological list of transactions, in the form of debits and credits, for a particular account or group of accounts.

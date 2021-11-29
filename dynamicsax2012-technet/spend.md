@@ -13,6 +13,9 @@ f1_keywords:
 
 # spend
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An expenditure in the procurement domain.
 
 ## See also

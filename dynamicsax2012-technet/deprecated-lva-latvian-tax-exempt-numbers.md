@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (LVA) Latvian tax exempt numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Latvian installations, Microsoft Dynamics AX 2009 SP1 includes country-specific modifications that are related to tax exempt numbers for companies. A tax exempt number is a company identification number that is issued and managed by the tax authority for a country/region. You can enter a tax exempt number manually, and attach it to the record of a customer or vendor. Microsoft Dynamics AX 2012 integrates the changes for tax exempt numbers that are required for Latvian installations. Therefore, the country-specific modifications are not required.

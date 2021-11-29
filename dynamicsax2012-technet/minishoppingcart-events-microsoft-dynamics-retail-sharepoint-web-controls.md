@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MiniShoppingCart Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MiniShoppingCart](minishoppingcart-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Events

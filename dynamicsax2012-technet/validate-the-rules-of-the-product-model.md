@@ -14,6 +14,9 @@ ms.search.region: Global
 # Validate the rules of the product model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides instructions for using the **Rule debugger** to test the product model. The **Rule debugger** must be enabled to use it. For instructions, see [Enable/disable the rule debugger](enable-disable-the-rule-debugger.md).

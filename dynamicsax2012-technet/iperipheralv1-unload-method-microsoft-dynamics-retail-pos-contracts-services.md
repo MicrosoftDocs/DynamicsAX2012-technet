@@ -17,6 +17,9 @@ dev_langs:
 
 # Unload Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unloads the device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

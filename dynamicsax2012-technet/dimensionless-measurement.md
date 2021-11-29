@@ -13,6 +13,9 @@ f1_keywords:
 
 # dimensionless measurement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A measurement whose dimension is one and whose unit of measure is either a dimensionless unit of measure or the unit one.
 
 ## See also

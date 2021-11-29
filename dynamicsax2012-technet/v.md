@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # V
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [valid time state table](valid-time-state-table.md)
 
 [value stream](value-stream.md)

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure offline options for Retail Modern POS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to create offline databases for the Retail Modern POS by using the Retail Channel Configuration Utility.
 
 Retail Modern POS can be configured to either to connect to a channel database through a Retail Server, or it can be configured to connect directly to the channel database. Offline mode is supported for both deployment options. For details about supported deployment topologies, see [Retail Modern POS architecture](retail-modern-pos-architecture.md).

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AIF Document Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Application Integration Framework (AIF), data can be exchanged with external systems through business logic exposed as services. Microsoft Dynamics AX includes services that are based on documents. A document is created by using XML, including header information that is added to create a message that can be transferred into or out of Microsoft Dynamics AX. Examples of documents include sales orders and purchase orders. However, almost any entity can be represented by a document, for example a customer. Services that are based on documents use the Axd \<Document\> classes that are included with Microsoft Dynamics AX. Collectively, these services are called document services.

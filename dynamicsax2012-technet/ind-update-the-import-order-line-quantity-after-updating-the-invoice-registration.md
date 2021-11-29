@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Update the import order line quantity after updating the invoice registration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create an import order for a vendor by selecting the **Import order** check box in the **Create purchase order** form.

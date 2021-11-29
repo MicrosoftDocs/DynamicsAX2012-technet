@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Maintaining tax liabilities and assets calculation registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to manage tax liability and assets calculation registers.

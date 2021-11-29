@@ -13,6 +13,9 @@ f1_keywords:
 
 # contact
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person, inside or outside your organization, for whom you have created an entry where you can save several types of information, such as street and e-mail addresses, telephone and fax numbers, and Web page URLs.
 
 ## See also

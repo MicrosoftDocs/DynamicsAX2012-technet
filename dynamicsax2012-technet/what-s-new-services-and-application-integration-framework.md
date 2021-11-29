@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Services and Application Integration Framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the enhancements to services and Microsoft Dynamics AX Application Integration Framework (AIF) in Microsoft Dynamics AX 2012. Services now provide a first-class programming model for integration and enable the Microsoft Dynamics AX application to expose its functionality through services that are based on Windows Communication Foundation (WCF).

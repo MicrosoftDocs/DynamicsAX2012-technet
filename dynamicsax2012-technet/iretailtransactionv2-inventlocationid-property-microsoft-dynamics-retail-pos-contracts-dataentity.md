@@ -17,6 +17,9 @@ dev_langs:
 
 # InventLocationId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Warehouse ID
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

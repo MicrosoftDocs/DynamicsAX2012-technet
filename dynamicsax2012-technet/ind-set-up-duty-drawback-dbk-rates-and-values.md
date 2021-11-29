@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Set up duty drawback (DBK) rates and values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Create or update the duty drawback rates and values for a product group by specifying the tariff, CENVAT, value cap, and rounding details. Items that are assigned to the product groups use the duty drawback rates and values that you define to calculate the duty drawback amount.

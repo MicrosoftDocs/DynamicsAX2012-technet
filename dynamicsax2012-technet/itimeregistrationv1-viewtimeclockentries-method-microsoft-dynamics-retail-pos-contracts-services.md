@@ -17,6 +17,9 @@ dev_langs:
 
 # ViewTimeClockEntries Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 View time clock entries, this allows manager to view registered entries.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Display Images in a Precision Design 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following procedure explains how to display an image in a precision design report.

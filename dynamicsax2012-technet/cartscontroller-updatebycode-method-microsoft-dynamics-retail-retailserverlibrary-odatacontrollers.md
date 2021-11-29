@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateByCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Processes the barcode workflow by sending the cart identifier and barcode scanned information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

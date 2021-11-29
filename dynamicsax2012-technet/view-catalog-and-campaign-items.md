@@ -22,6 +22,9 @@ ms.search.region: Global
 # View catalog and campaign items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you shop for items, you can use the **Product catalog** page to view available items. This page displays product groups, which are categories of items, such as furniture or appliances. You can click a group to open the **Product catalog group** page, and then click an item to open the **View product details** page. This page displays detailed information about the item.

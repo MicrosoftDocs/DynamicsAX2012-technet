@@ -17,6 +17,9 @@ dev_langs:
 
 # LineItemsSingleScannedPercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The percentage of items that where scanned with a single scanning device
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

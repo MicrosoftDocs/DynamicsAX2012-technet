@@ -17,6 +17,9 @@ dev_langs:
 
 # GetActiveListingPricePerCatalog Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets listing price of an item for the give channel and catalog.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

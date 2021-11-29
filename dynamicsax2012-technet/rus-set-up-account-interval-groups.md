@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up account interval groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use account interval groups instead of individual accounts in the setup of expense codes. To create an account interval group, you can group similar general ledger accounts into one account group. You can then use this group in the expense code setup. Accounts that are of the same type, from a tax accounting point of view, are collected into an account interval group.

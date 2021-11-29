@@ -18,6 +18,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Generate financial reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Financial reports are generated for a specified reporting period. You can select a first, last, or arbitrary date for the reporting period, depending on the length, or date interval, of the reporting period. When you generate the report, the starting and ending dates for the reporting period are calculated by using the selected date interval.

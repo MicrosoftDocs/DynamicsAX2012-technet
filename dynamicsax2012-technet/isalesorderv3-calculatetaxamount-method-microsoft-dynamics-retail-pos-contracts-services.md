@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateTaxAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Compute the tax amount for this Sales Order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

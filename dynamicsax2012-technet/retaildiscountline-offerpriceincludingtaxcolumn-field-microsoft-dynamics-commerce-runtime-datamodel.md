@@ -17,6 +17,9 @@ dev_langs:
 
 # OfferPriceIncludingTaxColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Offer price including tax column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

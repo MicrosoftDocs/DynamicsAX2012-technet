@@ -15,6 +15,9 @@ ms.search.region: Global
 # About configuring parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You must set parameters for Retail. Depending on the needs of your organization, you may also have to set up Enterprise Portal for Microsoft Dynamics AX and Commerce Services for Microsoft Dynamics ERP. If your organization is located in Brazil, you must also set up fiscal books.

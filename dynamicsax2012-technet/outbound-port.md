@@ -13,6 +13,9 @@ f1_keywords:
 
 # outbound port
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A port for servicing outbound requests.
 
 ## See also

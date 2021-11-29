@@ -18,6 +18,9 @@ ms.search.region: Global
 # View or modify your vendor orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **All purchase orders** page to view all your purchase orders. You can also use the **View purchase order** page to view the details of specific purchase orders. If you want to modify a purchase order, you can use the **Edit purchase order** page to modify details such as the delivery information and line information.

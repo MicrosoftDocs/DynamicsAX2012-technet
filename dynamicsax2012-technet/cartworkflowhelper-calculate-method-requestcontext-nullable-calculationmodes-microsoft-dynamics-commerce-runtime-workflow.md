@@ -15,6 +15,9 @@ dev_langs:
 
 # Calculate Method (RequestContext, Nullable(CalculationModes))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the various totals depending on the specified calculation mode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

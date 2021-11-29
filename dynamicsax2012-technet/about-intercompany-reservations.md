@@ -15,6 +15,9 @@ ms.search.region: Global
 # About intercompany reservations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create an intercompany purchase order line directly from an original sales order line, the two lines are marked against each other. This marking controls the reservation, cost, and intercompany chain. You can view the marking on the sales order line by clicking **Inventory** \> **Marking**, and then closing the dialog box that is displayed.

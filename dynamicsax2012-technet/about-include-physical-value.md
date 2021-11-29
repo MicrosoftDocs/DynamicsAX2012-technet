@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Include physical value 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Include physical value** check box on the **Inventory model** FastTab of the **Item model groups** form is used to specify whether physically updated transactions are factored into the calculation of the running average cost price for an item.

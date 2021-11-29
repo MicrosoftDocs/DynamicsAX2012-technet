@@ -17,6 +17,9 @@ dev_langs:
 
 # Employee Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the employee object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

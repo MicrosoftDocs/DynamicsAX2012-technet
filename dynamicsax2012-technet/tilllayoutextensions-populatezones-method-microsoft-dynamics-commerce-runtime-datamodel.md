@@ -17,6 +17,9 @@ dev_langs:
 
 # PopulateZones Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates till layout entity by layout zones of supported types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

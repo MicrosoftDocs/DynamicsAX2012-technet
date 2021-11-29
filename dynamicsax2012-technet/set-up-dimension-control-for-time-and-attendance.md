@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up dimension control for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure dimension parameters for different types of jobs. Project activities and absence registrations are examples of job types. For each job type, select one of the following settings:

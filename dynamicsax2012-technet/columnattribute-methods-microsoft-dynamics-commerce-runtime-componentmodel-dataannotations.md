@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ColumnAttribute Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ColumnAttribute](columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) type exposes the following members.
 
 ## Methods

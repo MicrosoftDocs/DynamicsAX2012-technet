@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ConfigurationErrors Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ConfigurationErrors](configurationerrors-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Fields

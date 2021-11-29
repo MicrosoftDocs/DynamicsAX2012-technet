@@ -20,6 +20,9 @@ dev_langs:
 
 # LoyaltyRewardPointType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the unit type of the loyalty reward point.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

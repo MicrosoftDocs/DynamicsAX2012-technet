@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateRandomTransactionId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates a new random transaction id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

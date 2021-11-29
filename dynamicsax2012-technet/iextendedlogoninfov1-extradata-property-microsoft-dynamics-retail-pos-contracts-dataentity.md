@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtraData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the device specific extra data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

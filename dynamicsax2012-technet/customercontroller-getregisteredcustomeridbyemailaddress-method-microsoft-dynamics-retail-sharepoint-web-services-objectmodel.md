@@ -17,6 +17,9 @@ dev_langs:
 
 # GetRegisteredCustomerIdByEmailAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer account number using the specified e-mail address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

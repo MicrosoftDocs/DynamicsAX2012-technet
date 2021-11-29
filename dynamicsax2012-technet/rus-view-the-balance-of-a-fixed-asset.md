@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) View the balance of a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view the fixed asset balance for a specific date.

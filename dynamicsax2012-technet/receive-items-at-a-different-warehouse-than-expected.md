@@ -14,6 +14,9 @@ ms.search.region: Global
 # Receive items at a different warehouse than expected 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 
 > [!NOTE]
 > <P>This topic applies to features in the <STRONG>Warehouse management</STRONG> module. It does not apply to features in the <A href="inventory-management.md">Inventory management</A> module.</P>

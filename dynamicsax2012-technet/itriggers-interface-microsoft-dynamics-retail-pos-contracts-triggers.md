@@ -17,6 +17,9 @@ dev_langs:
 
 # ITriggers Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ITriggers includes all the triggers. This interface is composed in IApplication.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -17,6 +17,9 @@ f1_keywords:
 # (BEL) Sales tax transactions report (TaxTrans\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax transactions** report prints a summary of sales tax transactions posted by legal entities in Belgium. This report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, sales clerks, sales managers, and accounts payable clerks.

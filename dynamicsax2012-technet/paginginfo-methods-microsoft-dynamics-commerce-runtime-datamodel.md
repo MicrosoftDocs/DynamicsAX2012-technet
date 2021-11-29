@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PagingInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PagingInfo](paginginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

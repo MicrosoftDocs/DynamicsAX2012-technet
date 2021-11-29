@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteNonQuery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Execute a query using the table that leverages the table name, table columns and table values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TargetCountryCode Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The target country code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

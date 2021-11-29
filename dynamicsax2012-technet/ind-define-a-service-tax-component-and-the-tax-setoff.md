@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Define a service tax component and the tax setoff 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can define the tax components for service tax and then offset the amounts of those components in the service tax payable account. The amounts of those components are also included in the service tax recoverable account.

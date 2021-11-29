@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify absence information for a worker 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must specify absence information for a worker before you can enter, transfer, or approve absence registrations or requests for that worker.

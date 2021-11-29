@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Group and Order Report Parameters by Using Visual Studio 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to use Visual Studio tools for Microsoft Dynamics AX to group and order report parameters on a parameter form for a report. Parameters are used to limit data retrieved from the data source to only the data needed for the report. When you define a report you will see two kinds of parameters as shown in the following illustration:

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Integrating Microsoft Dynamics AX with Microsoft Office 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe common tasks that are related to using the Office Add-ins for Microsoft Dynamics AX. These tasks include using Microsoft Excel to view and update records, and using Microsoft Word to create and update documents.

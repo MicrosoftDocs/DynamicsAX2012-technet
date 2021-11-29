@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountCalculator Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class contains methods used to perform the discount calculations on a transaction, determining the correct discounts to apply to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

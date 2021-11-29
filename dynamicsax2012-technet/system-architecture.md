@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # System architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you understand the internal architecture of Microsoft Dynamics AX, you can more effectively make decisions when you plan, customize, and deploy a system. This topic provides a high-level overview of the system architecture of Microsoft Dynamics AX.

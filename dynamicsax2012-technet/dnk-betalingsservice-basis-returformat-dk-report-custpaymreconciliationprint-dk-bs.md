@@ -14,6 +14,9 @@ f1_keywords:
 # (DNK) Betalingsservice Basis-returformat (DK) report (CustPaymReconciliationPrint\_DK\_BS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Betalingsservice Basis-returformat (DK)** report prints the payments that are received by using the Payment Business Services (PBS) mode of payment. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, and accountants to review the status of invoice processes and cash processes.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CloneDiscountItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new DiscountLine that is a copy of the specified line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

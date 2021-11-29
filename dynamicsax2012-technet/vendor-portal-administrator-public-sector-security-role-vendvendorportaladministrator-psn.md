@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor portal administrator, public sector security role (VendVendorPortalAdministrator\_PSN) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Vendor portal administrator, public sector security role represents an external user in a vendor relation role with legal entities maintaining external party access and information.

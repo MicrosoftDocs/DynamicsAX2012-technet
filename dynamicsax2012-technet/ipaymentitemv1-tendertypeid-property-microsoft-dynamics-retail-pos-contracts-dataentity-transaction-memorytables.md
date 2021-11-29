@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderTypeID Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tender type ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.Transaction.MemoryTables](microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables-namespace.md)  

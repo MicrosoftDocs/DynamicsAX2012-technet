@@ -13,6 +13,9 @@ f1_keywords:
 
 # projected available inventory
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The inventory quantities that are expected to be available at a future point in time calculated by adding scheduled supply to on-hand inventory and subtracting scheduled demand.
 
 ## See also

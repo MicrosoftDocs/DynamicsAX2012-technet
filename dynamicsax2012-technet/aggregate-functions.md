@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Aggregate Functions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use aggregate functions to calculate aggregate values for a report data region that displays numeric data. For example, the Sum aggregate function can calculate the total amount of transactions for a customer group and return a single value for each customer group. Several functions are available for calculating aggregate values. The following table describes the aggregate functions that you can use.

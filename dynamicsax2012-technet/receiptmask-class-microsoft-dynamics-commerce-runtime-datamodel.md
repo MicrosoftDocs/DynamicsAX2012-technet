@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptMask Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the format of a receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

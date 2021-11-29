@@ -17,6 +17,9 @@ f1_keywords:
 # EU reporting (report) EUSalesListReporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **EU reporting** report to view and print details of the European Union (EU) sales list for legal entities that are operating in EU member states. This report is typically used by accountants, accounting managers, and accounting supervisors to inquire into the status of EU sales list transactions.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsInvoiceSettled Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the invoice line has been settled if this instance is an invoice line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

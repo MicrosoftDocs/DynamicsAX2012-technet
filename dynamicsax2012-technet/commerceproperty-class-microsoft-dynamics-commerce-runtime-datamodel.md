@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceProperty Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the Commerce property definition.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # HardwareStationToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The hardware station token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

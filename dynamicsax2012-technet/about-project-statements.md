@@ -19,6 +19,9 @@ ms.search.region: Global
 # About project statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides many reports that you can use to view details about the projects that you are managing. However, when you want a quick snapshot view of the progress on a project, you can create a project statement by using the **Project statements** form.

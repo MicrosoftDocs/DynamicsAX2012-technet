@@ -18,6 +18,9 @@ dev_langs:
 
 # OnInit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initialization of the web part.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

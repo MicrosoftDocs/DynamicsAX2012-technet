@@ -21,6 +21,9 @@ ms.search.region: Global
 # Inventory adjustments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about the tasks that are associated with adjusting financially updated receipt transactions and adjusting the cost value of on-hand inventory quantities after an inventory close is performed.

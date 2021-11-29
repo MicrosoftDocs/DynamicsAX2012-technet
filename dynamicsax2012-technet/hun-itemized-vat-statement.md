@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Itemized VAT statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Itemized value-added tax (VAT) statements are additional reports that can be generated and submitted to the tax authorities along with standard VAT statements. An itemized VAT statement includes a sheet that displays a summary of the VAT transactions that are listed on the report, along with other sheets that contain detailed information about invoice transactions. The invoices that make up the itemized VAT statement are categorized according to the sales partner or purchase partner with whom you perform the transaction.

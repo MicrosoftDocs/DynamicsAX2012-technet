@@ -17,6 +17,9 @@ dev_langs:
 
 # CartLineIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection indicating the cart lines to get the delivery modes for.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

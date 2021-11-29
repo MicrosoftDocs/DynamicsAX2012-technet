@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a report by using SQL Server Report Builder to connect to a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic helps you create a custom report that uses an online analytical processing (OLAP) cube as a data source. To complete the procedures in this topic, you must have access to Report Builder, which is a component of Microsoft SQL Server Reporting Services.

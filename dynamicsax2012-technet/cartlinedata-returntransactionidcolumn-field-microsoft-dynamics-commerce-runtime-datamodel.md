@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnTransactionIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The retrun transaction identifier column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

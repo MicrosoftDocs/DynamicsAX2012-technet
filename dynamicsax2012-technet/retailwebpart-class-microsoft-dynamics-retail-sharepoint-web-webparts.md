@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailWebPart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class for providing shared functionality across all retail web parts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

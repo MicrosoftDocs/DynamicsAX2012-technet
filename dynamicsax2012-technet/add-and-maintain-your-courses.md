@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add and maintain your courses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Competencies** page to add or maintain information about courses that you have completed or are registered for. You can add internal courses (courses set up in Microsoft Dynamics AX) or external courses.

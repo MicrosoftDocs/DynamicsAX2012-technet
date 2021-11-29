@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update Microsoft Dynamics AX data by using Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Office Add-ins for Microsoft Dynamics AX to export data from Microsoft Dynamics AX to Microsoft Excel. After you export data from Microsoft Dynamics AX forms, lists, and reports to Excel, you can modify the data and import the data back into Microsoft Dynamics AX to update records.

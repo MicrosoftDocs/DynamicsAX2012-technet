@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UploadOrderRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UploadOrderRequest](uploadorderrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

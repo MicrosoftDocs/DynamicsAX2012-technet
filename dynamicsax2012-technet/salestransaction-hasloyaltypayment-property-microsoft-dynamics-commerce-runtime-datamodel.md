@@ -17,6 +17,9 @@ dev_langs:
 
 # HasLoyaltyPayment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the transaction has any posted loyalty tender.
 
 This property is populated only after the transaction is committed.

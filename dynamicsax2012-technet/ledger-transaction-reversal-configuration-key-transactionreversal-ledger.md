@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Ledger transaction reversal configuration key (TransactionReversal\_Ledger) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Ledger transaction reversal** configuration key controls access to the **Reverse transaction** and **Reversed tracing** buttons, and related functionality, in the **Account number %1** form. (Click **General ledger** \> **Common** \> **Main accounts**. Select a main account. On the **Action Pane**, click **Posted**.)

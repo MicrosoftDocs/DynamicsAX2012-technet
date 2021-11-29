@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Free text invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A free text invoice is an invoice that is not attached to a sales order. A free text invoice contains a header and one or more lines for items or services that are not tracked in inventory. Use a free text invoice for sales that do not require a sales order, packing slip, and customer invoice. For example, you can use a free text invoice for a consulting fee or services fee, or for a miscellaneous fee for an event reimbursement.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About costing versions containing item purchase prices related to BOM calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A costing version can include content about the purchase price records for an item. You enable purchase price content primarily to define purchase price records for component items, so that these records can be used to calculate the costs of manufactured items. To enable purchase price content, you must define a BOM calculation group that contains a cost price model for the item's purchase price, and then assign the BOM calculation group to purchased items. You must then use a cost price model for the BOM calculation group when you perform BOM calculations with planned costs to calculate the sales price of manufactured items.

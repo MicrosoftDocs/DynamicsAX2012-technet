@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Create standard sections of fixed requisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Standard sections contain a set of fixed requisites that are used to set up several document templates. Use standard sections to configure reports that are exported in text formats.

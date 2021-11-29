@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: Enterprise Portal in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides a set of web sites that give you access to data. On these sites, you can also participate in business processes by using Web-based forms. These sites are collectively called Enterprise Portal for Microsoft Dynamics AX. This topic describes the enhancements and improvements in Enterprise Portal in Microsoft Dynamics AX 2012.

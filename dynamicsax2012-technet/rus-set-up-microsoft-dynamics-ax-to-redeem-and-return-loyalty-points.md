@@ -28,6 +28,9 @@ ms.search.region: Russia
 # (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Follow the steps in this topic to set up a discount loyalty scheme, set up retail parameters for loyalty schemes, and set up an operation to redeem loyalty points at the point of sale (POS).

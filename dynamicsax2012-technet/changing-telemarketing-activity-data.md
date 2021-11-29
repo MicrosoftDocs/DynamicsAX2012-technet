@@ -14,6 +14,9 @@ ms.search.region: Global
 # Changing telemarketing activity data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Be careful when you change telemarketing data, because your changes can affect the data for the related telemarketing activities. This topic describes the changes that you can make to telemarketing data, and how those changes affect the data for the telemarketing activities.

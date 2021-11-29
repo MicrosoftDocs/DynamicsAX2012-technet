@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Set up EXIM authorization schemes for DFIA 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you enable the Duty Free Import Authorization (DFIA) incentive scheme and set up the tax ledger posting groups that are attached to individual indirect tax codes, set up the details for the DFIA scheme by using the **EXIM Authorization schemes** form.

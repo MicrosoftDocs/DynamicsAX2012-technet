@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptEmailAddress Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The email address to where the receipt is sent, if one is requested.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

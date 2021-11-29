@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up profiles for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A profile is a template for a work day that defines how a 24-hour period is divided into different types of work time. This is done by using profile types that describe how work time is calculated.

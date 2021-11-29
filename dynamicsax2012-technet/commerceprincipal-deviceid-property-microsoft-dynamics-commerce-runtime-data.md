@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the device identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

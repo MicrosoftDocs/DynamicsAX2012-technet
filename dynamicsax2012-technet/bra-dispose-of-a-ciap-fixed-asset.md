@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Dispose of a CIAP fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When a fixed asset that is tracked through CIAP fiscal books is disposed of by selling or scrapping, the tracking and the fixed asset tax credit accumulation must stop, and the remaining tax credit balance must be printed on a corresponding invoice.

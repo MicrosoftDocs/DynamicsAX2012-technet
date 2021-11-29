@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Reverse a customer transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can reverse a customer transaction as correction to a customer invoice or other sales transaction. Before you post a reversal of a customer transaction, set up parameters that define how the reversal is posted to the General ledger.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExpDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The expiration date if the information was entered manually.
 
 After the transaction has been processed, this property holds the expiration date.

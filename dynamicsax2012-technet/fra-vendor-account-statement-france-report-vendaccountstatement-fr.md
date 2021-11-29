@@ -16,6 +16,9 @@ f1_keywords:
 # (FRA) Vendor account statement (France) report (VendAccountStatement\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor account statement (France)** report displays the details of account statements for vendors for a period that you specify. The beginning balance of a vendor statement is displayed in the **Credit EUR** column if the opening balance is more than 0 (zero) and in the **Debit EUR** column if the opening balance is less than 0 (zero). This report includes information such as the vendor name, vendor address, terms of payment, transaction date, voucher number, invoice number, due date, and invoice amount. This report is typically used by chief financial officers, accountants, accounting managers, accounting clerks, accounting supervisors, and financial controllers to inquire about the statuses of vendor invoices.

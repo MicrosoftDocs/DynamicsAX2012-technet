@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail store manager security role (RetailStoreManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The Retail store manager security role represents a user who is responsible for retail operations in the stores where the manager is assigned. Tasks include managing employees, pricing, discounts and promotions, store level signage, scheduling, and stock replenishment.

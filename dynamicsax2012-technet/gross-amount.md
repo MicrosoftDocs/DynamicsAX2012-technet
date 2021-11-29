@@ -13,6 +13,9 @@ f1_keywords:
 
 # gross amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount excluding deductions, charges, and adjustments.
 
 ## See also

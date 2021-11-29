@@ -15,6 +15,9 @@ ms.search.region: Global
 # About substituting items on BOM lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you want to substitute an item on a BOM line, you can specify validity dates on the BOM line to define a period of time for the substitution.

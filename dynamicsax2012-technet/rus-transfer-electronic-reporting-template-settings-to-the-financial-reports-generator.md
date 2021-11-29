@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Transfer electronic reporting template settings to the Financial reports generator 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you specify an electronic reporting document template for a report, lines are created automatically in the Financial reports generator (FRG). For each field on the report, the name of the appropriate requisite is taken from the template.

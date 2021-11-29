@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableStores Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get available store(s) for the specific device.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

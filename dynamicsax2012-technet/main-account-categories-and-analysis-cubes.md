@@ -14,6 +14,9 @@ ms.search.region: Global
 # Main account categories and analysis cubes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The default main account categories and the analysis cubes that are provided with Microsoft Dynamics AX are designed to work together. Consider the following points if you want to change either the default main account categories or the analysis cubes:

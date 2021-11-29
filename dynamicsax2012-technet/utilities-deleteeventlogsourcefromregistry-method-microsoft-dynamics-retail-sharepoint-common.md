@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteEventLogSourceFromRegistry Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes the registry key needed for an event log source on a list of windows computers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

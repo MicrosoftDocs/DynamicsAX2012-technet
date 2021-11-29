@@ -17,6 +17,9 @@ dev_langs:
 
 # PutRetailDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the result of a call to get all retail discounts for the given items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up card payment methods for stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You must set up cards as a payment method if you want a store to accept debit cards, credit cards, and other card payments for purchases.

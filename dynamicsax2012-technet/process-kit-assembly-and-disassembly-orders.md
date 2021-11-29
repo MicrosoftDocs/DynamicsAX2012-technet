@@ -18,6 +18,9 @@ ms.search.region: Global
 # Process kit assembly and disassembly orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to process assembly and disassembly orders for retail product kits. After you generate assembly or disassembly orders for the different kit configurations and generate BOM journals to reserve the product inventory, the next step is to process the assembly and disassembly orders for the kit configurations.

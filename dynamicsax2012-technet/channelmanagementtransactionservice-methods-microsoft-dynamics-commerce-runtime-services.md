@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChannelManagementTransactionService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChannelManagementTransactionService](channelmanagementtransactionservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

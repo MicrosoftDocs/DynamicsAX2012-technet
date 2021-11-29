@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintZReport Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints a 'Z-Report'.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

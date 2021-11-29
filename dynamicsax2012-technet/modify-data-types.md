@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Modify data types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Properties for some extended data types can be changed by the administrator before data has been entered into the system. Property changes can be made without accessing the Application Object Tree (AOT).

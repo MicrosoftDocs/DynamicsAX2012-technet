@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Public sector license code (PublicSector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Public sector** license code enables access to the Public sector features that supplement core modules such as Accounts payable, Accounts receivable, General ledger, and Budgeting. You can use the additional Public sector forms and controls to meet the rules, regulations, and reporting requirements for organizations that serve the public.

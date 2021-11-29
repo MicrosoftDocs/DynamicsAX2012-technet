@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define and activate formula ingredients for batch attribute inheritance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can select ingredients that are used to update the product characteristic or batch attribute information for finished items. If you select an ingredient for which you have specified the same batch attributes in the **Product specific** form as for the finished item, the **Inherit batch attributes to end item** check box is available in the **Formula line** form. If the formula version contains co-products, the **Inherit batch attributes to co-product** check box is available in the **Formula line** form.

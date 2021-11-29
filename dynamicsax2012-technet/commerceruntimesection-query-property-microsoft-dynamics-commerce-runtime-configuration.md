@@ -17,6 +17,9 @@ dev_langs:
 
 # Query Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the query element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

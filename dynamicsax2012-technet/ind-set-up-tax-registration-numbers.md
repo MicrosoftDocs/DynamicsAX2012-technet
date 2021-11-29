@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up tax registration numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Enterprise tax registration numbers** form to set up tax registration numbers for direct and indirect taxes. You can set up direct tax registration numbers for companies, vendors, and customers.

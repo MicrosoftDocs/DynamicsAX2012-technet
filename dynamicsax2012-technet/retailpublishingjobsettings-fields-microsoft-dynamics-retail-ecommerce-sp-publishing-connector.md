@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailPublishingJobSettings Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailPublishingJobSettings](retailpublishingjobsettings-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Fields

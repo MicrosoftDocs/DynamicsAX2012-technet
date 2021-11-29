@@ -14,6 +14,9 @@ f1_keywords:
 # Project II configuration key (ProjAdvanced) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Project II** configuration key enables the ability to create validation rules for Microsoft Dynamics AX projects. Validation rules control which workers and categories are valid for entry in project timesheets

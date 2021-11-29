@@ -17,6 +17,9 @@ ms.search.region: Global
 # Site home pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Site home pages are the point of entry to module sites. Each home page displays important data for the module. The home page can include lists, reports or charts, and links to the list pages and report pages that are included on the site. To open the home page for a module site, click the module name on the top link bar.

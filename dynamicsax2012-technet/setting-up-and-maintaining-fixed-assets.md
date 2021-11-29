@@ -21,6 +21,9 @@ ms.search.region: Global
 # Setting up and maintaining Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Fixed assets are items of value, such as buildings, vehicles, land, and equipment, that are owned by an individual or corporation.

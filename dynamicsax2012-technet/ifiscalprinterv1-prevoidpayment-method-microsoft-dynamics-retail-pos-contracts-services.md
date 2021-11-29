@@ -17,6 +17,9 @@ dev_langs:
 
 # PreVoidPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before voiding of a payment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

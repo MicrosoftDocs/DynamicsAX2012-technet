@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ServiceResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ServiceResponse](serviceresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

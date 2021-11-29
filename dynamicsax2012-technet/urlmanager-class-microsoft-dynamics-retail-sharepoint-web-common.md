@@ -17,6 +17,9 @@ dev_langs:
 
 # UrlManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class exposing common Url methods.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

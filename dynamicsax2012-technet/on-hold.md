@@ -13,6 +13,9 @@ f1_keywords:
 
 # on hold
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state of an operational process that has been suspended or the status of a document and product that participate in a process that is suspended.
 
 ## See also

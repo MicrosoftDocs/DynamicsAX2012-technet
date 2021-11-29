@@ -17,6 +17,9 @@ dev_langs:
 
 # NoMoreThanOneOperationWithAGiftCard Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that more than one operations cannot be performed with the same gift card in a single transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

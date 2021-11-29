@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Setting up a goods cost calculation register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topic in this section provides information about how to set up a goods cost calculation register.

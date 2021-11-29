@@ -17,6 +17,9 @@ dev_langs:
 
 # IBarcode Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IBarcode interface performs barcode service processes scanned barcode to populate the various barcode properties.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

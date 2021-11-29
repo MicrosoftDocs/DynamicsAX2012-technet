@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Business Logic in Report Data Methods to Access Report Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of reports bound to a report data method that contains business logic to access non-Microsoft Dynamics AX data. You can also use data methods to provide advanced business logic to format data, define a color mapping based on logic, or define the URL target for a drill through navigation. The following topics describe how to use data methods for a report.

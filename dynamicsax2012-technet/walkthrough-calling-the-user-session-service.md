@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Calling the User Session Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The user session service is one of the Windows Communication Foundation (WCF) system services exposed by Microsoft Dynamics AX. This service enables you to retrieve information about the current Windows user. Such information includes the user’s default language, default company, default company time zone, and so on. In this walkthrough, you will call the user session service from a C\# console application and display the user’s information.

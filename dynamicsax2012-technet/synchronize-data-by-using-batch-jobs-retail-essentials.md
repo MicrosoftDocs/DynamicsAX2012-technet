@@ -15,6 +15,9 @@ f1_keywords:
 # Synchronize data by using batch jobs (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the various batch jobs that you must run in Retail essentials. Run these batch jobs to synchronize data between headquarters and the retail store, synchronize setup tasks with their relevant components, or update components, such as product assortments or delivery modes, when changes are made.

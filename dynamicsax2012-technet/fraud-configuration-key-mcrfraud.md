@@ -15,6 +15,9 @@ f1_keywords:
 # Fraud configuration key (MCRFraud) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Fraud** configuration key controls access to fraud management functionality in the **Call center** module.

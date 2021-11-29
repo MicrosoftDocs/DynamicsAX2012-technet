@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfirmEmailPanel Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The confirm email panel.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

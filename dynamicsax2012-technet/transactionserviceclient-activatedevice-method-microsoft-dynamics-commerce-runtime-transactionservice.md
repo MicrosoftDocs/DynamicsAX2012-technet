@@ -17,6 +17,9 @@ dev_langs:
 
 # ActivateDevice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Activate a device in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

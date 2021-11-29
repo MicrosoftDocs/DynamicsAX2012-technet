@@ -13,6 +13,9 @@ f1_keywords:
 
 # compensating ingredient
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of ingredient in a formula whose quantities can be adjusted. This adjustment is based on the difference between the quantities of active ingredient that are estimated and the quantities of active ingredient inventory batches that are reserved based on the potency of active ingredient.
 
 ## See also

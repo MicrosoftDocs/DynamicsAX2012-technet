@@ -13,6 +13,9 @@ f1_keywords:
 
 # payment amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A quantity of currency that is offered or accepted to settle a past, present, or future obligation.
 
 ## See also

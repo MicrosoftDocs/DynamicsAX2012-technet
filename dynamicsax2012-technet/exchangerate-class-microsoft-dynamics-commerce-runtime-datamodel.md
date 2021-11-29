@@ -17,6 +17,9 @@ dev_langs:
 
 # ExchangeRate Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an exchange rate between two currencies.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

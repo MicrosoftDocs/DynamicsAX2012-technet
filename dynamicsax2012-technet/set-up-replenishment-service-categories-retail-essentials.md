@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up replenishment service categories (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up service categories to use for replenishment rules for cross-docking. Cross-docking is a method of distributing inventory to stores by using transfer orders that are generated from planned purchase orders. Replenishment service categories support automatic and manual cross-docking. You can set them up to provide information about the availability of product that you sell in your stores and the delivery time for replenished inventory.

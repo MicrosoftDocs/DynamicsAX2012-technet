@@ -23,6 +23,9 @@ ms.search.region: Global
 # About sales price models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up sales prices for project expense transactions and hour transactions, you can apply a sales price model. A sales price model specifies the calculation method that is used to determine the final sales price for a transaction. The numbers that you enter in the **Pricing** fields in the **Sales price (hour)** form and **Sales price (expense)** form are either amounts or percentages, depending on the selection in the **Sales price model** field.

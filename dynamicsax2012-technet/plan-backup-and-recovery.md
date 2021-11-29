@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan backup and recovery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By carefully planning and implementing a backup and restore strategy, you can help protect your environment against data loss. In addition to the transaction data that is stored in the business databases, all models and customizations are now stored in the model store databases. Therefore, we recommend that you protect both the business databases and the model store databases in your Microsoft Dynamics AX environment. Develop a strategy, and regularly test your backup and recovery procedures to make sure that you are prepared to effectively respond to a failure or disaster.

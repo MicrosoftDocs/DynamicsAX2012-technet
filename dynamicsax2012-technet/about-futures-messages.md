@@ -22,6 +22,9 @@ ms.search.region: Global
 # About futures messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A futures message is a system-generated order with a due date that is based on lead times for all levels of items. A futures date is generated if master scheduling calculates an order date, perhaps for a lower-level item, that precedes today's date. Master scheduling then forward-schedules the order from today's date and includes lead times which start with any lower-level component items. The futures date is a realistic due date based on the current data.

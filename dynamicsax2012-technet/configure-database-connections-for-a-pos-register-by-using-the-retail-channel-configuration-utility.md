@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure database connections for a POS register by using the Retail Channel Configuration Utility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Retail Channel Configuration Utility (formerly named Retail Store Database Utility) can be used to configure database connections for a point of sale (POS) or Retail Modern POS register. This utility can also be used to install both a channel database and a POS register on the same computer, so that the database and register can be used in a development environment.

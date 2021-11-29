@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToRetrieveStoresNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the stores nearby can not be identified by the store locator service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

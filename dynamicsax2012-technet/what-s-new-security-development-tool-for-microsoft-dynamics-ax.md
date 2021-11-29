@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Security Development Tool for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Security Development Tool for Microsoft Dynamics AX 2012 is intended to help you more easily create and maintain security artifacts such as roles, duties, and privileges. The tool displays entry point permissions for a given role, duty, or privilege. Additional tools guide you through updates of the access levels for entry points. You can also use the tool to test a newly created or newly modified security role, duty, or privilege from the same interface, without using a different test user account. Additionally, you can use the tool to record business process flows and identify the entry points that are used.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Maintain TCS transactions for Accounts payable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about calculating Tax Collected at Source (TCS) on purchase invoices, settling TCS payments, attaching TCS information, and viewing TCS details.

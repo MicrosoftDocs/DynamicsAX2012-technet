@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail merchandising manager security role (RetailMerchandisingManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The Retail merchandising manager security role represents a user who is responsible for all aspects of retail product creation and maintenance. This role also manages product assortments and replenishment for all retail stores.

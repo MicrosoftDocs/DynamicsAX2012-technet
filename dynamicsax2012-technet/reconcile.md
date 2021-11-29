@@ -13,6 +13,9 @@ f1_keywords:
 
 # reconcile
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To compare and adjust two or more accounts or statements so that the figures agree.
 
 ## See also

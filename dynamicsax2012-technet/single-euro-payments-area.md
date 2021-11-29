@@ -13,6 +13,9 @@ f1_keywords:
 
 # Single Euro Payments Area
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A European banking industry initiative that enables secure electronic payment transfers between bank accounts within and across euro areas.
 
 ## See also

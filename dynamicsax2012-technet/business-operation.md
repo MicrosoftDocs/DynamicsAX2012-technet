@@ -13,6 +13,9 @@ f1_keywords:
 
 # business operation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A logical business action controlled by the business operation framework and implemented by a class that communicates with the framework using data contracts.
 
 ## See also

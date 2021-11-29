@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create, edit, or delete a project or subproject (EP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **New project** page to create a project or subproject that can be accessed from both Enterprise Portal for Microsoft Dynamics AX and the Microsoft Dynamics AX client. After you create a project or subproject, use the **Edit project** page to enter additional project information now, or to modify existing project information later.

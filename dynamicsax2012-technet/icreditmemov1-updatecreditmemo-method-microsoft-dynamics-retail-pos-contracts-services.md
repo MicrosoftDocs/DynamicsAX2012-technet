@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates credit memo, deducts the amount paid with the credit memo from the credit memo's balance at the head office.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateFieldSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a fieldset element (fieldset) for grouping controls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

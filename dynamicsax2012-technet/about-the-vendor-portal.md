@@ -18,6 +18,9 @@ ms.search.region: Global
 # About the Vendor portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Vendor portal is a website where you, as an approved vendor for an organization, can interact with your customer. In the Vendor portal, you can maintain your vendor profile information and process transactions with the customer organization.

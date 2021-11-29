@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeWhenTotalPressed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time of the first payment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

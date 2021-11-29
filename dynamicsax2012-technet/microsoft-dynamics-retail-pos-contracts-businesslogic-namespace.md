@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Interfaces
 
 <table>

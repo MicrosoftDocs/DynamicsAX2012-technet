@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DeleteSalesTransaction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DeleteSalesTransaction](deletesalestransaction-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Methods

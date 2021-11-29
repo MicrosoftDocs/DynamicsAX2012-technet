@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSortIndexForRetailDiscountLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sort index to use for a discount application using the specified discount line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

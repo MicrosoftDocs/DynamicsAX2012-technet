@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing the Account and Financial Dimensions Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper describes the new patterns that are used to represent accounts and financial dimensions in Microsoft Dynamics AX. The white paper also describes how to convert existing patterns to the new patterns.

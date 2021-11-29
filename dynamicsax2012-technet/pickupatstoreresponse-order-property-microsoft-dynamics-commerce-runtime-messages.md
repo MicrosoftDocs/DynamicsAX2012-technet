@@ -17,6 +17,9 @@ dev_langs:
 
 # Order Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the order saved for the pick up operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

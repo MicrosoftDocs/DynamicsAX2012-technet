@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptHeaderInfoIndia Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents India receipt header info.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

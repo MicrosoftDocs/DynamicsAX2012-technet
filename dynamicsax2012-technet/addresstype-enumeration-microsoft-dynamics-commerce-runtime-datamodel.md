@@ -38,6 +38,9 @@ dev_langs:
 
 # AddressType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer Address Type. Ported over from the LogisticsLocationRoleType in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

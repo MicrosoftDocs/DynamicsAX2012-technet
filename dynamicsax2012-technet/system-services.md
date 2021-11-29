@@ -13,6 +13,9 @@ f1_keywords:
 
 # system services
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A group of integrated services that enables you to access information from and interact with your Microsoft Dynamics AX installation.
 
 ## See also

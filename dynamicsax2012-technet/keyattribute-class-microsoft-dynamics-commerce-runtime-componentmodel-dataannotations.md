@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Used to mark one or more entity properties that provide the entity's unique identity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

@@ -16,6 +16,9 @@ ms.search.region: Japan
 # (JPN) Set up phonetic names for vendors, employees, customers, contact persons, and business relations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Kanji names are Japanese characters that originate from Chinese characters, and Kana is the phonetic guide that is used to understand the Kanji names. A phonetic guide is required to detect the correct pronunciation and meaning of Kanji names, because there are various ways to read them.

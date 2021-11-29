@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPropertyByName Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) by name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

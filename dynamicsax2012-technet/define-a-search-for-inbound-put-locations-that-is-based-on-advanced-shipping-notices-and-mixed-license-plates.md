@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define a search for inbound put locations that is based on advanced shipping notices and mixed license plates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 To help guarantee that all the content on a license plate is put into one location, and that the system does not suggest that you split the contents into several locations for “ASN – License plate receiving” and “Mixed license plate receiving” processes, you can use the **Locate by** field on the **Location directives** page for the **Purchase order** work order type.
 
 1.  Click **Warehouse management** \> **Setup** \> **Location directives**

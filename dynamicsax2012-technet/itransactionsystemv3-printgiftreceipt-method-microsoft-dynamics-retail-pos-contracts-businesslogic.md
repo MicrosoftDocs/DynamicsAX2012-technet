@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintGiftReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints gift receipt of a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

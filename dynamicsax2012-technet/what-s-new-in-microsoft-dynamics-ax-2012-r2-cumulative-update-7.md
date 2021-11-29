@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics AX 2012 R2 cumulative update 7 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a number of features. This topic lists the feature changes by module and by country/region and provides links to related topics.

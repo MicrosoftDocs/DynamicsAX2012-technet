@@ -23,6 +23,9 @@ ms.search.region: Brazil
 # (BRA) About NF-e schemas and processes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate a nota fiscal eletrônica (NF-e) to register the movement of items and services between two parties. After you generate an NF-e, the NF-e export or import process detects the posted fiscal document and generates XML messages according to the fiscal document processes, which are submitted to the Secretaria da Fazenda (SEFAZ). You can set up the NF-e schema that is used to validate the XML message in the **NF-e federal parameters** form. For more information, see “Set up an NF-e schema” in [(BRA) Set up NF-e federal parameters](bra-set-up-nf-e-federal-parameters.md).

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TillLayoutDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TillLayoutDataRequestHandler](tilllayoutdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-common.md) type exposes the following members.
 
 ## Methods

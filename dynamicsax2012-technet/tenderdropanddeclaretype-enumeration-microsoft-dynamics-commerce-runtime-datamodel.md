@@ -21,6 +21,9 @@ dev_langs:
 
 # TenderDropAndDeclareType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the type of bank drop/ safe drop/ tender declaration daily operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

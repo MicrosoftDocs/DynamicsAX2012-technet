@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxViewLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the tax view line.
 
 This class contains tax summary information of TaxLine.

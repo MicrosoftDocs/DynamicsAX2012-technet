@@ -18,6 +18,9 @@ dev_langs:
 
 # Build Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Build SQL query from parts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

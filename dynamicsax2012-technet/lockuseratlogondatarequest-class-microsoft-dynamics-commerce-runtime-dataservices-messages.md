@@ -17,6 +17,9 @@ dev_langs:
 
 # LockUserAtLogOnDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to lock the current user, so that same user can't log into another terminal until log off from the current terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

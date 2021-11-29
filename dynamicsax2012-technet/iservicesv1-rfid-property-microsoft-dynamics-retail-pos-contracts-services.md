@@ -17,6 +17,9 @@ dev_langs:
 
 # RFID Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 RFID service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

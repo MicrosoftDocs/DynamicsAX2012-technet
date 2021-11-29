@@ -24,6 +24,9 @@ ms.search.region: Global
 # Create and use a solicitation type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 As a purchasing manager or agent, you can create and maintain solicitation types to match the procurement requirements for your organization.

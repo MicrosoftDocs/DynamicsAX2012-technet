@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreProductAvailabilityItem Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item available in a store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -25,6 +25,9 @@ ms.search.region: Global
 # Automate the process of building loads 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 
 > [!NOTE]
 > <P>This topic applies to features in the <STRONG>Transportation management</STRONG> module. It does not apply to features in the <A href="inventory-management.md">Inventory management</A> module.</P>

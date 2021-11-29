@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Portal administration with Windows PowerShell and AXUpdatePortal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can programmatically administer Enterprise Portal for Microsoft Dynamics AX by using PowerShell cmdlets or the AxUpdatePortal utility.

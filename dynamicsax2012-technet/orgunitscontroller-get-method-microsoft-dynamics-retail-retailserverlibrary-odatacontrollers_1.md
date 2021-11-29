@@ -15,6 +15,9 @@ dev_langs:
 
 # Get Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all organization as [IQueryable](https://technet.microsoft.com/library/bb495796\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

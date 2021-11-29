@@ -17,6 +17,9 @@ dev_langs:
 
 # Issued\_At Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issued At.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

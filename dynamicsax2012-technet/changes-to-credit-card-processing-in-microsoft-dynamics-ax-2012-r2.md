@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Changes to Credit Card Processing in Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper explains the changes to the implementation of Accounts Receivable credit card processing in Microsoft Dynamics AX 2012 R2.

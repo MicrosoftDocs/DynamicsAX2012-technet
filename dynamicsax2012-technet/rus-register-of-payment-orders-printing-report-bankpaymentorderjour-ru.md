@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Register of payment orders printing report (BankPaymentOrderJour\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Register of payment orders printing report displays information about bank payment orders that are issued and received by a legal entity for a period that you specify. Accountants can generate this report daily to review payment order statuses.

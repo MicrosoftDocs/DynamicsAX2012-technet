@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up and maintain a Commerce Services account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can sign up for an account for Commerce Services for Microsoft Dynamics ERP and activate the account from Microsoft Dynamics AX. Typically, the system administrator sets up and maintains a Commerce Services account.

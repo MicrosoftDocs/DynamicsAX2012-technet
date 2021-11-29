@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadSalesTransactionForReturn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads a returned sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

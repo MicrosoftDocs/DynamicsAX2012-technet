@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailReceipt Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [EmailReceipt](emailreceipt-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

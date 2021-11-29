@@ -17,6 +17,9 @@ dev_langs:
 
 # INamedRequestHandler Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A named request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Handlers](microsoft-dynamics-commerce-runtime-handlers-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize the Data in a Commerce Entity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The [CommerceEntity](commerceentity-class-microsoft-dynamics-commerce-runtime-datamodel.md) class is the base class of all entities in the commerce runtime (CRT). The CommerceEntity class is a property bag of key value pairs of C\# properties. These properties provide string representations of fields from the database so that you do not need to remember the names of columns in your database when you write code. When you use commerce runtime APIs, you must use commerce entities because the base class expects all the parameters to be of type CommerceEntity. But after you retrieve data from the database and return it from the data manager, you can create regular C\# objects that you can use in workflow or services.

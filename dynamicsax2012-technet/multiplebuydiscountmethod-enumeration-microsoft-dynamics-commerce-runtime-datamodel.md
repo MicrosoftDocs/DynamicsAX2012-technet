@@ -19,6 +19,9 @@ dev_langs:
 
 # MultipleBuyDiscountMethod Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the discount method for multi buy discount lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

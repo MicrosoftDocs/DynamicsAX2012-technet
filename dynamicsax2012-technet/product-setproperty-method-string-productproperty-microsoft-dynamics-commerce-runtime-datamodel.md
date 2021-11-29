@@ -15,6 +15,9 @@ dev_langs:
 
 # SetProperty Method (String, ProductProperty)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the property associated with the specified key and default language.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

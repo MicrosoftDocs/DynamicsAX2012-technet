@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # BarcodeMaskSegment Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [BarcodeMaskSegment](barcodemasksegment-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExpDateCheck Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the expiration date check value.
 
 Set to true if the expiration date for the card should be checked.

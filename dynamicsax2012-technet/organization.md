@@ -13,6 +13,9 @@ f1_keywords:
 
 # organization
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A work structure that divides the responsibility for economic resources and processes.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Department hierarchy control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics AX 2009, you could use the **Organization Units** form to define department structure. You could then use the **Organization View** form to view the structure in a graphical format.

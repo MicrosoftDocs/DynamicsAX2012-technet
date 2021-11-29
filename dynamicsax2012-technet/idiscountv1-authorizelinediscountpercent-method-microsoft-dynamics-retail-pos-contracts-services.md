@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeLineDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the given percentage discount is allowed.
 
 This method is invoked by the line discount percentage operation.

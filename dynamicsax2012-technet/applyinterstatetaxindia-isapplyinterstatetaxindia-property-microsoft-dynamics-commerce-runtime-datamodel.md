@@ -18,6 +18,9 @@ dev_langs:
 
 # IsApplyInterStateTaxIndia Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the a sales tax group can be specified for inter-state transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

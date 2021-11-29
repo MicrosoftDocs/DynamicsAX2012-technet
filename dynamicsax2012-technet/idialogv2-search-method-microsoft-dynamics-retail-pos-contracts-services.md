@@ -17,6 +17,9 @@ dev_langs:
 
 # Search Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches the specified search term.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up OPOS hardware devices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to set up OLE for Point of Sale (OPOS) hardware devices for Microsoft Dynamics AX for Retail POS.

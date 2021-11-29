@@ -23,6 +23,9 @@ ms.search.region: Global
 # About resource management for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, you can schedule worker resources based on the requirements and schedule of a project or on the skills and availability of workers. By using the resource scheduling capabilities, you can deploy your organization's workers efficiently and effectively. You can quickly find the most qualified workers who are available to work on your project, and you can easily see how to better utilize those workers during the course of the project.

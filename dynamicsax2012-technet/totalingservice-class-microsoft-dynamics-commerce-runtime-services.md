@@ -17,6 +17,9 @@ dev_langs:
 
 # TotalingService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The totaling service is responsible for calculating the totals on the sales transaction and sales lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

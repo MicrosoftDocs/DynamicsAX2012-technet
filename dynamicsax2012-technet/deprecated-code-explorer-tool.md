@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Code Explorer Tool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the Code Explorer lets users browse code and the components of application objects by using hyperlinks.

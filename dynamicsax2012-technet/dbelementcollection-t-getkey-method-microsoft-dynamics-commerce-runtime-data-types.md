@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKey Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the key used to represent an element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

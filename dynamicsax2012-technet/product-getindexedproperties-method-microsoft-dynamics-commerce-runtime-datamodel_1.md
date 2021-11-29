@@ -15,6 +15,9 @@ dev_langs:
 
 # GetIndexedProperties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enumerates the product's attributes, together with their default values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

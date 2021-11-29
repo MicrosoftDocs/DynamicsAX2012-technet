@@ -17,6 +17,9 @@ dev_langs:
 
 # AreIdenticalSynchronizationTokens Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies whether 2o synchronization tokens are equivalent.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow instance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A workflow activated by and executing in the workflow host.
 
 ## See also

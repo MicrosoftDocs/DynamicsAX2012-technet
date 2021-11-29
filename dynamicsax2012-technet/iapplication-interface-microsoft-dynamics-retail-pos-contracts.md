@@ -17,6 +17,9 @@ dev_langs:
 
 # IApplication Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The POS IApplication interface exposes all the public interfaces for use by third-party developers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

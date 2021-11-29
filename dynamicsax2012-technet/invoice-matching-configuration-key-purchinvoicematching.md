@@ -14,6 +14,9 @@ f1_keywords:
 # Invoice matching configuration key (PurchInvoiceMatching) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Invoice matching** configuration key controls access to accounts payable price and quantity matching forms and functions. If the **Charges** configuration key is also enabled, you can also match charges amounts.

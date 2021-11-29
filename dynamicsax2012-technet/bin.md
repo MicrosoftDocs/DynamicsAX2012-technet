@@ -13,6 +13,9 @@ f1_keywords:
 
 # bin
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A handling unit for storing and transferring items.
 
 ## See also

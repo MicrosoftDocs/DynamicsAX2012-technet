@@ -25,6 +25,9 @@ ms.search.region: Global
 # Key tasks: Create and process budget plans (EP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A budget plan is a document that contains a header, budget plan lines, and line details. When you create a budget plan, it is automatically assigned a unique document number, and your name is displayed in the **Budget plan preparer** field. The budget planning process that you select and the responsibility center of the budget preparer determine the organization hierarchy and the budget planning workflow for the budget plan. After you have finished preparing a budget plan, you submit it to workflow. Then the budget plan, together with worksheets, justifications, and attachments, is automatically routed through your organization for review and approval.

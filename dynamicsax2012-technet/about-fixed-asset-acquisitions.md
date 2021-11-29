@@ -15,6 +15,9 @@ ms.search.region: Global
 # About fixed asset acquisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Fixed asset posting profiles** form, on the **Ledger accounts** tab, select **Acquisition** and **Acquisition adjustment** to set up fixed asset accounts to post to the ledger.

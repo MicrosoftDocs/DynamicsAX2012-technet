@@ -16,6 +16,9 @@ dev_langs:
 
 # AuthenticateDevicePartialResponse Constructor (Device)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [AuthenticateDevicePartialResponse](authenticatedevicepartialresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

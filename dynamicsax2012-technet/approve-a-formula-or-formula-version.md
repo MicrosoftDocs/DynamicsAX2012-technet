@@ -15,6 +15,9 @@ ms.search.region: Global
 # Approve a formula or formula version 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use this procedure to approve an existing formula or formula version. Before you can approve a formula, however, you must first add the items that make up the formula.

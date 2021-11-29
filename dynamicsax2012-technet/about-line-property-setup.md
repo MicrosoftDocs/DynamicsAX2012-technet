@@ -19,6 +19,9 @@ ms.search.region: Global
 # About line property setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up default line properties for projects and project categories. When you create a new project, you can use the default line properties, or you can modify them for specific lines. You can set up the default line property at the project or project group level, at the category or category group level, or by using any combination of the two types.

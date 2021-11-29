@@ -18,6 +18,9 @@ ms.search.region: Global
 # About electronic timecards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the electronic timecard to make time and attendance registrations in Enterprise Portal. For example, you can register work hours spent on various projects, create absence registrations, and register breaks taken during the work day.

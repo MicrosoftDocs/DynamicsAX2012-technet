@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA putting into operation report (RAssetAcquisition) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA putting into operation report displays the costs of fixed assets, the acquisition costs, and the costs that are incurred to put the fixed assets into operation. This report is generated periodically by accountants to view the original costs of the fixed assets, and the costs to put them into operation.

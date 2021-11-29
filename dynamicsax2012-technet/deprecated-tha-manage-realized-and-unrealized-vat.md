@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (THA) Manage realized and unrealized VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 managed unrealized value-added tax (VAT) by using Thailand-specific functionality for “unrealized tax.” Microsoft Dynamics AX 2012 uses the standard Conditional sales tax features to manage both realized and unrealized VAT.

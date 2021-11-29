@@ -15,6 +15,9 @@ ms.search.region: Global
 # Additional country/region-specific information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This section contains country/region-specific content for the features that are available for Microsoft Dynamics AX.

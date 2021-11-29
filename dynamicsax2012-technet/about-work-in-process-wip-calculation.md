@@ -21,6 +21,9 @@ ms.search.region: Global
 # About work in process (WIP) calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A work in process (WIP) amount is the total accumulated costs or revenue on a project that is still in progress. Depending on the project group, actual project costs and revenue for hours, expenses, and items can be posted to a WIP financial account on the balance sheet. When you invoice a customer for a project or close an internal project, the accumulated costs for the project are reversed from the WIP account.

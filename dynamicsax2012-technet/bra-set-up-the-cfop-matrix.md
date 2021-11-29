@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up the CFOP matrix 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a Código Fiscal de Operações e Prestações (CFOP) matrix that determines the default CFOP code and the default CFOP group to use for different types of transactions and operations. You must create CFOP codes and CFOP groups before you create the CFOP matrix. For more information, see [(BRA) Set up the CFOP codes](bra-set-up-the-cfop-codes.md) and [(BRA) CFOP groups (form)](https://technet.microsoft.com/library/jj923344\(v=ax.60\)).

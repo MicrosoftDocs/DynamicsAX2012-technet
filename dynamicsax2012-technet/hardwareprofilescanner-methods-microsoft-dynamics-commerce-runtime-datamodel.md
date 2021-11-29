@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HardwareProfileScanner Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HardwareProfileScanner](hardwareprofilescanner-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

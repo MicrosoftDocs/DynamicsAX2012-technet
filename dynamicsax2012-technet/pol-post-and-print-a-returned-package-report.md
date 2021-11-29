@@ -17,6 +17,9 @@ ms.search.region: Poland
 # (POL) Post and print a returned package report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to verify the packages that are issued for customers and to print the **Return packages confirmation** report.

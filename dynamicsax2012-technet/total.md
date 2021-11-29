@@ -13,6 +13,9 @@ f1_keywords:
 
 # total
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The whole sum, quantity, amount, or aggregate.
 
 ## See also

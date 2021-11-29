@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ResumeShiftRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ResumeShiftRequestHandler](resumeshiftrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

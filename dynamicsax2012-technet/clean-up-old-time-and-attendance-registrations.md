@@ -14,6 +14,9 @@ ms.search.region: Global
 # Clean up old time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Registrations can accumulate in Microsoft Dynamics AX over time, and can reduce the performance of the application. Therefore, we recommend that you clean up old registrations periodically.

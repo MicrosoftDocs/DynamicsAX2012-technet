@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCreditMemoBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets credit memo balance, returns the balance of a credit memo.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetInitializedCustomerFromGlobalCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets an empty customer initialized with party information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Spain
 # (ESP) Make adjustments in the opening sheet 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Legal entities in Spain can post special entries as **Opening** entries for the current period, while adapting their accounts to changes in accounting rules. When you close the entries for the previous fiscal year, you can create several lines by setting the **Type** field to **Opening**. You can then post the special opening entries for the current fiscal year.

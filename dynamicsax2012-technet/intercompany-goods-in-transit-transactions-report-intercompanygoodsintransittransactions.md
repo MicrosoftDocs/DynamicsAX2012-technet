@@ -14,6 +14,9 @@ f1_keywords:
 # Intercompany goods in transit transactions report (InterCompanyGoodsInTransitTransactions) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Intercompany goods in transit transactions** report to identify all sales packing slips and all purchase product receipts for intercompany goods that are in transit. This report assumes that intercompany goods in transit are always owned by the buyer. It can be reconciled against the **Intercompany goods in transit totals** report.

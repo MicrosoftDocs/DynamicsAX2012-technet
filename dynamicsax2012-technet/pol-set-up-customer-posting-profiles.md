@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up customer posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the profiles that control the posting of customer transactions to the general ledger in the **Customer posting profiles** form. In this form, you can also create a collection letter sequence and attach it to a customer's posting profile.

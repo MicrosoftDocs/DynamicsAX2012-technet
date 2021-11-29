@@ -15,6 +15,9 @@ ms.search.region: Global
 # About quotation and master planning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Click **Master planning** \> **Setup** \> **Plans** \> **Master plans**. We recommend that you obtain a full Microsoft Dynamics CRM license. If you do not have a CRM license, all quotations are included in the master plan, regardless of the probability that they will be converted to actual orders. Including all quotations in the master plan could lead to an unnecessary increase of inventory if the quotations are not confirmed.

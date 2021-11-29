@@ -19,6 +19,9 @@ ms.search.region: Global
 # Block and unblock inventory items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Inventory items can be blocked manually. They can be blocked automatically when they are a part of a quality inspection process. This topic deals only with the manual blocking and unblocking of inventory items.

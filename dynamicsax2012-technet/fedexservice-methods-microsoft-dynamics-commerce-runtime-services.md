@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FedExService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FedExService](fedexservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

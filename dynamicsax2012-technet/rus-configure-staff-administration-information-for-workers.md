@@ -45,6 +45,9 @@ ms.search.region: Russia
 # (RUS) Configure staff administration information for workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2012 R2 Payroll for Russia Feature Pack requires an established company structure, staff administration codes, and parameters to function efficiently. This topic describes the basic setup of staff administration codes for the nationality, marital status, document arguments, and the creation of job details for a worker.

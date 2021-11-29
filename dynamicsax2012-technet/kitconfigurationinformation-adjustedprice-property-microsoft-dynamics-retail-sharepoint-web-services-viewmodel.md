@@ -17,6 +17,9 @@ dev_langs:
 
 # AdjustedPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates the adjusted price of a specific kit configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # COD
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment policy that requires payment in full for product upon delivery.
 
 ## See also

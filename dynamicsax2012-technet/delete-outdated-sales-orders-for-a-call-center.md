@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete outdated sales orders for a call center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 At some point, your organization will need to remove outdated order information from Microsoft Dynamics AX. This topic explains how to delete invoiced and canceled sales orders that were generated in the call center.

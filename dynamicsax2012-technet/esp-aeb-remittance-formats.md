@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) AEB remittance formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Spain, the Consejo Superior Bancario (CSB) payment formats are used to send remittance files to the bank for customer payments and vendor payments. The content of these formats is determined by the Asociación Española de Banca (AEB), also known as the Spanish Banking Board.

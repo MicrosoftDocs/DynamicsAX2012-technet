@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Create and post a business trip resolution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create and post a business trip resolution. To assign an employee to a business trip, you must create and confirm a business trip resolution in the **Business trip resolutions** form. This business trip resolution is used by the payroll department to pay the employee for the business trip.

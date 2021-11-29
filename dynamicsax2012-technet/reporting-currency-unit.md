@@ -13,6 +13,9 @@ f1_keywords:
 
 # reporting currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit that is used to record the financial consequences of accounting events and to prepare and report ancillary financial statements.
 
 ## See also

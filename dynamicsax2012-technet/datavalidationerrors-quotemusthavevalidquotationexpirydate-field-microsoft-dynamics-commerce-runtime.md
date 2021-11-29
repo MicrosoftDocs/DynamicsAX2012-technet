@@ -17,6 +17,9 @@ dev_langs:
 
 # QuoteMustHaveValidQuotationExpiryDate Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that on quote creation or edition requested delivery date should be valid (not in the past).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

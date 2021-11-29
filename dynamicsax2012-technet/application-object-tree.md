@@ -14,6 +14,9 @@ f1_keywords:
 
 # Application Object Tree
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A navigable view of the element objects in an application model.
 
 ## See also

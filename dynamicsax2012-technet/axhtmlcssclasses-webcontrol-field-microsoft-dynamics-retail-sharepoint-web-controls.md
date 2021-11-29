@@ -18,6 +18,9 @@ dev_langs:
 
 # WebControl Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generic css class for a web part container.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

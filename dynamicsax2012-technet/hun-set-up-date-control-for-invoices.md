@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up date control for invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use date control in Microsoft Dynamics AX to make sure that invoices and credit notes for customer transactions are generated within a specified time period after an order is fulfilled. For example, if your organization specifies that invoices must be generated within a 15 day period, and a service is provided to a customer on September 9, the invoice for the transaction must be generated no later than September 24.

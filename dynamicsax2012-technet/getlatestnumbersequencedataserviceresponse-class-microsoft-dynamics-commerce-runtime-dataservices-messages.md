@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLatestNumberSequenceDataServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service to get the latest number sequence value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

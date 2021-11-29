@@ -15,6 +15,9 @@ dev_langs:
 
 # FillClaimsForEntity Method (Uri, , List())
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Augment the claims for a user/entity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

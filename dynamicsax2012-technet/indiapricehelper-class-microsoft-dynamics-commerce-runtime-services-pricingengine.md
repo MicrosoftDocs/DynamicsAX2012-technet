@@ -17,6 +17,9 @@ dev_langs:
 
 # IndiaPriceHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper of India retail price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

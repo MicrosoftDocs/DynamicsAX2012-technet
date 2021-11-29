@@ -20,6 +20,9 @@ f1_keywords:
 # (BEL) Belgian sales tax reporting report (TaxReport\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Belgian sales tax reporting** report displays information related to sales tax payments and prints the information in the Belgian layout. This report is generated for a settlement period that is set up in the **Sales tax settlement periods** form, according to the setup of the sales tax reporting codes in the **Sales tax reporting codes** form. This report is typically used by accountants, accounting managers, accounting supervisors, and financial controllers to inquire into the status of sales tax transactions.

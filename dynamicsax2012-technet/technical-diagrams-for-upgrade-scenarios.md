@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Technical diagrams for upgrade scenarios 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 These technical diagrams represent recommended solutions for Microsoft Dynamics AX upgrade scenarios. The diagrams are available as PDF files that are appropriate for printing as posters. The diagrams can also be viewed online at [Zoom.it](http://zoom.it).

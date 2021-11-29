@@ -15,6 +15,9 @@ ms.search.region: Global
 # Alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe the alerts functionality in Microsoft Dynamics AX, which helps users track critical events. This functionality is not related to specific modules but can be used across modules.

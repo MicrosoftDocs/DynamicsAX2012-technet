@@ -13,6 +13,9 @@ f1_keywords:
 
 # storage dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The site, warehouse, and inventory location attributes that are used to locate an item in storage.
 
 ## See also

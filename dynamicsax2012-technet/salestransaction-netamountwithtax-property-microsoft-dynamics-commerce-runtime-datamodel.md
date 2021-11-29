@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithTax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the total net amount (gross amount minus discounts) including tax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

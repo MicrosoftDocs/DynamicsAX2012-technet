@@ -17,6 +17,9 @@ dev_langs:
 
 # MoreThanOneTenderTypeForTenderTypeId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that more than one tender type was found for a tender type identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

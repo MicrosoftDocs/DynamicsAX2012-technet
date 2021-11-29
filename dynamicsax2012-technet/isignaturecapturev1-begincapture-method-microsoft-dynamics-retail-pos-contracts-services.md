@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginCapture Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enable device for capture.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

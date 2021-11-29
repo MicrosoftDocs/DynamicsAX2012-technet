@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post sales transactions of excise using general and payment journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you debit a customer account and credit the ledger account, the excise amounts that are calculated are credited to the accounts that are defined in the **Tax ledger posting groups** form for the Excise Control Code (ECC) number.

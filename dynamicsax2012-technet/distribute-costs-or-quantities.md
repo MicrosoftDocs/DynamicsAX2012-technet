@@ -14,6 +14,9 @@ ms.search.region: Global
 # Distribute costs or quantities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You use distributions to distribute posted cost amounts or service quantities to other dimensions. The posted cost amounts or service quantities might or might not have a dimension. The distribution is performed on the same cost category as the original posting.

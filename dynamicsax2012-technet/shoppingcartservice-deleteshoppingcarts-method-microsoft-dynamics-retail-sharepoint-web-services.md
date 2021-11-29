@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteShoppingCarts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the shopping carts associated with given identifiers and the current user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

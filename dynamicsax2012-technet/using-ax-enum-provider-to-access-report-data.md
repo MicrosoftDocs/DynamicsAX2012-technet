@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using AX Enum Provider to Access Report Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of reports bound to an enumeration to display a parameter of type Enum. The following topics describe how to use an AX enum provider for a report.

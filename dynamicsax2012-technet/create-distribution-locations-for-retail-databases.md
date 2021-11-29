@@ -15,6 +15,9 @@ f1_keywords:
 # Create distribution locations for retail databases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A distribution location is a record that links Microsoft Dynamics AX to a store database. Distribution locations represent the destinations for distributed data.

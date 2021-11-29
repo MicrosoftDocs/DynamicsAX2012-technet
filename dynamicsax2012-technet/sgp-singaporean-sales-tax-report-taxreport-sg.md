@@ -14,6 +14,9 @@ f1_keywords:
 # (SGP) Singaporean sales tax report (TaxReport\_SG) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Singaporean sales tax report**, also known as the GST F5 sales tax return report, displays all of the taxable transactions for a specific quarter, grouped by sales tax group. You must submit this report to the Inland Revenue Authority of Singapore (IRAS) on a quarterly basis. This report is typically used by accounting managers, accountants, and accounting supervisors.

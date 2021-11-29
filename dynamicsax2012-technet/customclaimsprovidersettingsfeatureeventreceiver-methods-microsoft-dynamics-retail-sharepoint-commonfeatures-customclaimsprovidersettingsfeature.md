@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomClaimsProviderSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomClaimsProviderSettingsFeatureEventReceiver](customclaimsprovidersettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sharepoint-commonfeatures-customclaimsprovidersettingsfeature.md) type exposes the following members.
 
 ## Methods

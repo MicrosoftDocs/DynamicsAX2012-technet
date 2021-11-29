@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateTenderLineSignature Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the cart tender line signature.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

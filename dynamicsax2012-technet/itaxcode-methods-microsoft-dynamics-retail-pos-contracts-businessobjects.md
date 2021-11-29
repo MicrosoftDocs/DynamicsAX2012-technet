@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITaxCode Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITaxCode](itaxcode-interface-microsoft-dynamics-retail-pos-contracts-businessobjects.md) type exposes the following members.
 
 ## Methods

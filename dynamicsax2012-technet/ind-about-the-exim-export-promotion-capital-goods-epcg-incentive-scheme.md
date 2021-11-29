@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) About the EXIM Export Promotion Capital Goods (EPCG) incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Export Promotion Capital Goods (EPCG) is an export-import (EXIM) incentive scheme. For more information about EPCG, see [Central Board of Excise and Customer](http://cbec.gov.in).

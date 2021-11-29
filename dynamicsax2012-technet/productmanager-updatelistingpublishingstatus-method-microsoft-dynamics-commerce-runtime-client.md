@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateListingPublishingStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Applies the specified list of publishing statuses.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

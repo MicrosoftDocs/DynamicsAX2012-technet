@@ -20,6 +20,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Key tasks: Set up officials to certify financial documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a list of officials who are responsible for certifying internal financial documents for your legal entity. These officials can be internal or external to your legal entity. External officials are also referred to as counteragents.

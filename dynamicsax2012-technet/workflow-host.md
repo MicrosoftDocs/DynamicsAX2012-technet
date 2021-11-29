@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow host
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An environment in which the workflow runtime is started so that it can be accessed as a service.
 
 ## See also

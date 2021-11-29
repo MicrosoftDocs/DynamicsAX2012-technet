@@ -13,6 +13,9 @@ f1_keywords:
 
 # bank statement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A statement that itemizes economic activity recorded in one or more accounts over a specified period of time.
 
 ## See also

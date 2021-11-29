@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up taxes for online stores based on destination 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you set up taxes for an online store, you can set up sales tax groups for specific geographic areas. In this way, the customer's shipping address can be automatically mapped to the correct sales tax groups when the customer shops in your online store. Some tax laws require that taxes must be collected based on the delivery address of the sales order.

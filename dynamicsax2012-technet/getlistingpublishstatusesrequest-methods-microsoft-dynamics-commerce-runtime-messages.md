@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetListingPublishStatusesRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetListingPublishStatusesRequest](getlistingpublishstatusesrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

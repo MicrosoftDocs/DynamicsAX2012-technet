@@ -14,6 +14,9 @@ ms.search.region: Global
 # Foreign trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about setting up and using functionality for foreign trade. This includes information about Intrastat and the European Union (EU) sales list.

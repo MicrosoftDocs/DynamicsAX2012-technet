@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up accounts receivable parameters to generate a transportation invoice and a job ticket that are based on a bill of lading 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Accounts receivable parameters** form to specify the parameters that are required to generate a transportation invoice and a job ticket. For more information, see [(RUS) About transportation invoices and job tickets that are based on bills of lading](rus-about-transportation-invoices-and-job-tickets-that-are-based-on-bills-of-lading.md).

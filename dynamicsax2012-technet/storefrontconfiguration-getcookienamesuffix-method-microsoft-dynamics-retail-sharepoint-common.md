@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCookieNameSuffix Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cookie name suffix is used to provide isolation between cookies of multiple storefronts on the same domain.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

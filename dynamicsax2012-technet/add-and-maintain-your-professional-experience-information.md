@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add and maintain your professional experience information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Competencies** page to add or maintain information about the professional experiences that you have. For example, you can enter information about previous employers and positions, and also add descriptions of the tasks that you completed while in a previous position.

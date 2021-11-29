@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentAmountInvoiced Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the portion of the prepayment amount that was invoiced (picked up).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

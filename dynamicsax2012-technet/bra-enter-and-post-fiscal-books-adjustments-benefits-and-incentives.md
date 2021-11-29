@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Enter and post fiscal books adjustments, benefits, and incentives 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create and post tax adjustment transactions and reverse posted tax adjustment transactions.

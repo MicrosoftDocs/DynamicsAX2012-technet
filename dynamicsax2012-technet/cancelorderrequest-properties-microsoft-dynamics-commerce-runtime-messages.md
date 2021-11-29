@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CancelOrderRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CancelOrderRequest](cancelorderrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

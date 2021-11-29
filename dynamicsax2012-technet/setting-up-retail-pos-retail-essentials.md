@@ -14,6 +14,9 @@ f1_keywords:
 # Setting up Retail POS (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail POS is a component of Retail essentials that is used for the day-to-day operations at a store. You use Retail essentials to perform tasks at store headquarters, and Retail POS to perform point-of-sale (POS) tasks at retail stores. POS tasks are performed by using a POS register. Each POS register is uniquely identified by a register number.

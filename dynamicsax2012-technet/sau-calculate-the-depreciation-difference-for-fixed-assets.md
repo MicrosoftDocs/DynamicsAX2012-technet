@@ -18,6 +18,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Calculate the depreciation difference for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you calculate depreciation for a fixed asset, you must enter the asset group and the group type in the **Zakat assets group** form. For more information, see [(SAU) Set up a report name, item code, and asset group for Zakat reporting](sau-set-up-a-report-name-item-code-and-asset-group-for-zakat-reporting.md).

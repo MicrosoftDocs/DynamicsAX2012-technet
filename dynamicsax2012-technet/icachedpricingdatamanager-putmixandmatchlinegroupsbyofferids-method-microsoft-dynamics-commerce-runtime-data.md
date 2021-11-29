@@ -17,6 +17,9 @@ dev_langs:
 
 # PutMixAndMatchLineGroupsByOfferIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the result of a call to retrieve the mix and match line groups by offer ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

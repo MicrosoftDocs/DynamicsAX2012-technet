@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesAffiliationLoyaltyTier Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesAffiliationLoyaltyTier](salesaffiliationloyaltytier-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

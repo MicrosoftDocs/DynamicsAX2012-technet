@@ -22,6 +22,9 @@ ms.search.region: Germany
 # (DEU) Set up electronic tax declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create several types of tax documents such as payroll tax declarations, income tax declarations, and value added tax (VAT) statements that include Sales VAT Advance Notification information, and submit them electronically. The tax documents contain monthly or quarterly VAT sales or purchase information.

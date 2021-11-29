@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define and maintain the disallowed vendors list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a list of vendors that you do not want to do business with. The disallowed vendors list is used in system checks for certain types of vendor-related requests.

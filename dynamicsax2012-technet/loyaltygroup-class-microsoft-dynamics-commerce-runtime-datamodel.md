@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a loyalty group which may or may not contain a list of loyalty tiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

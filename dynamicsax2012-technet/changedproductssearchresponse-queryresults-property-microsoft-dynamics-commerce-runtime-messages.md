@@ -17,6 +17,9 @@ dev_langs:
 
 # QueryResults Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the products that were inserted, updated or deleted.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

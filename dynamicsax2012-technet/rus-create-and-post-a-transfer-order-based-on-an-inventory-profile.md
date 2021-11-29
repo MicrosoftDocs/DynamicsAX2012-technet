@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a transfer order based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post transfer orders based on the inventory profile. The inventory profile on the purchase order line must belong to the kind of activity that is selected in the purchase order, unless the kind of activity is **Unspecified**.

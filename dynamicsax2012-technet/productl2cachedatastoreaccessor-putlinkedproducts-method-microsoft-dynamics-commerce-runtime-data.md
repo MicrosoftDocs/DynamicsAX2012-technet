@@ -17,6 +17,9 @@ dev_langs:
 
 # PutLinkedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store the result of a query for linked products of the given set of product identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of recording, classifying, summarizing, and reporting the financial consequences of accounting events.
 
 ## See also

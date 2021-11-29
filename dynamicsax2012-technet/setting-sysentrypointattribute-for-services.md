@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Setting SysEntryPointAttribute for Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The [SysEntryPointAttribute](https://technet.microsoft.com/library/gg958657\(v=ax.60\)) indicates what authorization checks are performed for a method that is called on the server. This attribute must be set for all service operations. For more information about how to set attributes on X++ methods, see [Syntax for Attribute Classes](https://technet.microsoft.com/library/gg844185\(v=ax.60\)).

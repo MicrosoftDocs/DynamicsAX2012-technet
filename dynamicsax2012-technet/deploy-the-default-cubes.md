@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy the default cubes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This article explains how to deploy the default OLAP (online analytical processing) cubes that are included with Microsoft Dynamics AX. There are two ways to deploy these cubes: by using the Analysis Services Project Wizard in Microsoft Dynamics AX, or by using Windows PowerShell.

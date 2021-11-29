@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country-specific features for Austria (AUT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Austria. For more information, see the table that follows.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDiscountV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDiscountV2](idiscountv2-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

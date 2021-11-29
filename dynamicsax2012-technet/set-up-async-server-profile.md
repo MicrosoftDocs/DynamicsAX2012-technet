@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up Async Server profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 A profile for Async Server specifies how frequently Async Client checks for data packages to download and creates data packages to upload. You must configure data download and upload intervals for each instance of Async Client in the environment.
 
 Async Client is part of Commerce Data Exchange, the asynchronous system that shares data between the Retail essentials database and retail channel databases. Async Client is installed for each channel, and communicates with the channel database. Commerce Data Exchange also includes Async Server, which is installed at headquarters and communicates with the Retail essentials database in each store. For more information about Commerce Data Exchange, see the [Commerce Data Exchange documentation](https://go.microsoft.com/fwlink/?linkid=391057) on TechNet.

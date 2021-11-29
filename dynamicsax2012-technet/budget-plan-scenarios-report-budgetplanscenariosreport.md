@@ -15,6 +15,9 @@ f1_keywords:
 # Budget plan scenarios report (BudgetPlanScenariosReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This report displays details about ledger accounts for up to five budget planning scenarios. The report can be grouped and subtotaled by using one, two, or three summary options.

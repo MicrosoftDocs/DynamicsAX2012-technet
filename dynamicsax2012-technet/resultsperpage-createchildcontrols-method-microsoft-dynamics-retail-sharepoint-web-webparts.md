@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateChildControls Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates the drop down with numbers to show.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

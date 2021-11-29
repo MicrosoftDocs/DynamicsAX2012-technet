@@ -14,6 +14,9 @@ f1_keywords:
 
 # age
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A time period of existence or a time period after the occurrence of an event.
 
 ## See also

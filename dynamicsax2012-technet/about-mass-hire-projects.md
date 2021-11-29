@@ -15,6 +15,9 @@ ms.search.region: Global
 # About mass hire projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use mass hire projects when you hire multiple workers at one time, such as when you hire to meet a seasonal demand. Creating a mass hire project is useful because you can create position records, worker records, and worker assignments for positions at the same time. When you create positions for a mass hire project, you can specify the following information:

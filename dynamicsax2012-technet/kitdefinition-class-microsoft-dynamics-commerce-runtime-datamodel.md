@@ -17,6 +17,9 @@ dev_langs:
 
 # KitDefinition Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents kit related information of a product which is kit.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

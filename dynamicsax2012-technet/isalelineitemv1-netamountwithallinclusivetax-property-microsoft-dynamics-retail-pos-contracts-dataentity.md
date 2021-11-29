@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithAllInclusiveTax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line amount includes all inclusive taxes (exempt and non-exempt).
 
 Does not include exclusive taxes.

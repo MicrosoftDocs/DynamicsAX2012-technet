@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeExceptionFilterAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeExceptionFilterAttribute](commerceruntimeexceptionfilterattribute-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md) type exposes the following members.
 
 ## Properties

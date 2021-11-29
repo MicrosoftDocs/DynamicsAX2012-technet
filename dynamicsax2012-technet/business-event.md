@@ -13,6 +13,9 @@ f1_keywords:
 
 # business event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The abstraction of an economic event and an accounting event.
 
 ## See also

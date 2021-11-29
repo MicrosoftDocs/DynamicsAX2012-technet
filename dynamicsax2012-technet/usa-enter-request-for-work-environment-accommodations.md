@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Enter request for work environment accommodations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can enter information about work environment accommodations that are requested by employees and applicants. You can also grant accommodations or deny them. You can create work environment accommodations for workers, employees, or applicants.

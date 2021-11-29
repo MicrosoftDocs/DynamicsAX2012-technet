@@ -14,6 +14,9 @@ f1_keywords:
 # Commodity codes by category report (ProcCategoryCommodityCode) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Commodity codes by category** report displays a list of commodity codes that are defined for procurement categories.

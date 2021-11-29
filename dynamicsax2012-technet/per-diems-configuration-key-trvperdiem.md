@@ -14,6 +14,9 @@ f1_keywords:
 # Per diems configuration key (TrvPerDiem) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Per diems** configuration key allows you to define and offer per diem rates for your employees. With this key enabled, you can set default per diem values in the **Travel and expense parameters** form, create per diem locations, amounts, and rules to apply, and use per diem as an expense type when employees are creating an expense report.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales tax hierarchy structure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A structure that contains multiple levels of sales tax reporting nodes and that does not contain data. This structure is used as a template to create a sales tax hierarchy.
 
 ## See also

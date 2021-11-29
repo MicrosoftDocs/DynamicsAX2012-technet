@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy the client by using Microsoft System Center 2012 Configuration Manager 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft System Center 2012 Configuration Manager is a comprehensive solution that is used to assess, deploy, and update servers, clients, and devices across physical, virtual, distributed, and mobile environments. This topic describes how to use Configuration Manager to deploy Microsoft Dynamics AX clients in a medium to large organization.

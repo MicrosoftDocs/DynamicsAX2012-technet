@@ -13,6 +13,9 @@ f1_keywords:
 
 # policy rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule in a policy that controls the actions that can or must be taken when the requirements of the condition are met.
 
 ## See also

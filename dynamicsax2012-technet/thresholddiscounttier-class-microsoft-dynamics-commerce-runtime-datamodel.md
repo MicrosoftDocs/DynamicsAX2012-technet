@@ -17,6 +17,9 @@ dev_langs:
 
 # ThresholdDiscountTier Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines a threshold tier for threshold discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

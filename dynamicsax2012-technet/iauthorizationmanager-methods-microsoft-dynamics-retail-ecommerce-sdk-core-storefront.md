@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IAuthorizationManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IAuthorizationManager](iauthorizationmanager-interface-microsoft-dynamics-retail-ecommerce-sdk-core-storefront.md) type exposes the following members.
 
 ## Methods

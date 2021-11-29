@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeShiftStatusResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Change Shift status response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

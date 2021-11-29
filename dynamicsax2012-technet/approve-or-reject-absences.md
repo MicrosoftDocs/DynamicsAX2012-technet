@@ -15,6 +15,9 @@ ms.search.region: Global
 # Approve or reject absences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are an absence administrator, you can approve or reject a registered or requested absence, or cancel a previous approval for a requested absence.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # View sales quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **All quotations** page to view a list of sales quotations that have been created, and then use the **View sales quotation** page to view the details of a specific quotation.

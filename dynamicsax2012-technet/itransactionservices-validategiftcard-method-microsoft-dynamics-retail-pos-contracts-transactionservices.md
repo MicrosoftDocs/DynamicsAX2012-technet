@@ -19,6 +19,9 @@ dev_langs:
 
 # ValidateGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

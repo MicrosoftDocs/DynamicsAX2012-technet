@@ -17,6 +17,9 @@ dev_langs:
 
 # WishListResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Wish list response class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

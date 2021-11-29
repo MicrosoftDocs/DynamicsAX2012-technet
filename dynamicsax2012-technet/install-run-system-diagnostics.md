@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install and run System diagnostics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 In Microsoft Dynamics Lifecycle Services, System diagnostics includes an on-premises component that must be installed before you can use the service to discover Microsoft Dynamics AX environments and collect data.
 
 Install the System diagnostics on-premises component

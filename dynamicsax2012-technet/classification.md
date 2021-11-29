@@ -13,6 +13,9 @@ f1_keywords:
 
 # classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A systematic organization of classes.
 
 ## See also

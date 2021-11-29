@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up update of purchase order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up your parameters to make sure that purchase order lines are updated when changes occur in the purchase order header. You can specify the settings in the **Procurement and sourcing parameters** form.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IUnitQtyConversion Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IUnitQtyConversion](iunitqtyconversion-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

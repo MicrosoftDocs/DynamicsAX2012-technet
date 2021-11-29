@@ -14,6 +14,9 @@ f1_keywords:
 # Total outstanding debt by period chart report (OustandingDebtByPeriod) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This chart report displays the total outstanding debt by period, in a graphical format. This chart report is intended for treasurers.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PostSale Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after the item is added to the transaction.
 
 Prices and discounts have been calculated, but the event is triggered before processing infocodes or linked items.

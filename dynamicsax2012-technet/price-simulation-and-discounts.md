@@ -18,6 +18,9 @@ ms.search.region: Global
 # Price simulation and discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To guarantee that discounts and prices are calculated correctly, be careful when you run price simulations on quotations that have discounts. Because all price simulations are treated as special discounts on the active quotation line or the whole quotation, you must track the differences in the discounts.

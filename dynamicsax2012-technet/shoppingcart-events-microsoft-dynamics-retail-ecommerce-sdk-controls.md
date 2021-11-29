@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCart Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCart](shoppingcart-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Events

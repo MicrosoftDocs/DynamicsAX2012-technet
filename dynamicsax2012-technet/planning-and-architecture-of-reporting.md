@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Planning and architecture of reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Planning is required to successfully implement the reporting features of Microsoft Dynamics AX. The following topics explain the architecture of the reporting features and help you plan an implementation.

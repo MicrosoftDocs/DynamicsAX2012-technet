@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Group and Order Report Parameters by Using a Data Contract Class 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to specify the grouping and order of parameters for a report. Report parameters let an end user of a report select or enter the values that are used when the report is printed. A data contract class defines the parameters for a report that is bound to a report data provider (RDP) class. You can specify one or more groups of report parameters, the order of the groups, and the order in which the report parameters appear in a print dialog box. For information about data contracts, see [How to: Use a Report Data Provider Class in a Report](how-to-use-a-report-data-provider-class-in-a-report.md).

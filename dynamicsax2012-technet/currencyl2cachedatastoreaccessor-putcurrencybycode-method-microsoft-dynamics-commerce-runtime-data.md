@@ -17,6 +17,9 @@ dev_langs:
 
 # PutCurrencyByCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Puts the currency by code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

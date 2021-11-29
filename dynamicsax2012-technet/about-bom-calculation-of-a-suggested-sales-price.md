@@ -15,6 +15,9 @@ ms.search.region: Global
 # About BOM calculation of a suggested sales price 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Bill of material (BOM) calculations can be used to calculate a manufactured item’s suggested sales price, based on a cost-plus markup approach. By using a cost-plus markup approach, the item’s calculated sales price reflects the set of profit-setting percentages that is specified for the BOM calculation and the costs that are associated with its component items, routing operations, and applicable manufacturing overheads. The markup reflects profit-setting percentages that are assigned to cost groups and the cost groups that are assigned to items, cost categories for routing operations, and the indirect cost calculation formulas for manufacturing overheads.

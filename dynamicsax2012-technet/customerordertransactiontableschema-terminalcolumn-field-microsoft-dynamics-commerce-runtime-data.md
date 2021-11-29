@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Terminal column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

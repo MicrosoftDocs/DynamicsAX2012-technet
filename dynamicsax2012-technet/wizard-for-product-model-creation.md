@@ -14,6 +14,9 @@ ms.search.region: Global
 # Wizard for product model creation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use a wizard to create product models. In the **Product models** form, in the **Action Pane**, on the **Models** tab, click **Wizard**.

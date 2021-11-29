@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up inventory profile parameters for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up an inventory profile and parameters for an item that is stored in a warehouse during bailment.

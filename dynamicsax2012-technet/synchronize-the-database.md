@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Synchronize the database 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Synchronize the table and index information to the database. The synchronization process creates all the tables that Microsoft Dynamics AX needs to operate. This is a mandatory step in the setup of the system.

@@ -32,6 +32,9 @@ ms.search.region: Russia
 # (RUS) Set up and generate an electronic document for an alcohol declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you create and post invoices for alcohol transactions and generate the alcohol declaration, you can generate an electronic document for the alcohol declaration. This electronic document is submitted to the regional regulatory authority for processing.

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Apply updates and hotfixes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the types of updates that are available for Microsoft Dynamics AX 2012 and the deployment process for updates. Updates include hotfixes, cumulative updates, service packs, and feature packs.

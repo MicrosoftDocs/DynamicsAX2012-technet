@@ -23,6 +23,9 @@ dev_langs:
 
 # LineDiscCalculationTypes Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 In Axapta this is found in the account receivable parameters under the price section
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

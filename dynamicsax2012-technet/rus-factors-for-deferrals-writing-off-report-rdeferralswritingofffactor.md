@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFactor) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Factors for deferrals writing off report displays a list of deferral factors that are grouped by the starting date of the period that the report is generated for. The data on this report may include the expense code, the coefficient of the factor, normalized amounts, and base amounts. Accountants generate this report to view a list of deferral factors to calculate depreciation.

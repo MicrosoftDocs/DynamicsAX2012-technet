@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IChargeDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IChargeDataManager](ichargedatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

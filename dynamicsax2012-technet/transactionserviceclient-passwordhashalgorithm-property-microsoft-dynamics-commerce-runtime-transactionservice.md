@@ -17,6 +17,9 @@ dev_langs:
 
 # PasswordHashAlgorithm Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the algorithm used in password hashing from the channel configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

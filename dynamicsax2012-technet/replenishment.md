@@ -13,6 +13,9 @@ f1_keywords:
 
 # replenishment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An inventory management process in which a warehouse location is automatically or manually restocked based on predefined criteria to maintain the correct inventory levels at the location.
 
 ## See also

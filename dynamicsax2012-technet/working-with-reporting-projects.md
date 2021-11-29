@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with Reporting Projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To define reports by using the Microsoft Visual Studio reporting tools, you must work in a reporting project. This section provides an overview of a reporting project and explains how to work with reporting projects.

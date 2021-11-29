@@ -14,6 +14,9 @@ ms.search.region: Belgium
 # (BEL) Generate vendor payment files and upload them using CIS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can upload payment files by using Client Isabel Synchronizer (CIS) to transfer generated payment files from Microsoft Dynamics AX 2012 directly into Isabel 6. Before you can upload payment files to the Isabel Business Suite (IBS) server, you must generate the payment files. To generate the files, create the payment or domiciliation proposal in the payment journal. You can modify the payment details until they are uploaded to the IBS server.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Logoff Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers when the logoff operation is run.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

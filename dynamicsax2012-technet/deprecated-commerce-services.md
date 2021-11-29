@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Commerce Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Commerce Services for Microsoft Dynamics ERP is an online service that lets you create online stores and marketplaces.

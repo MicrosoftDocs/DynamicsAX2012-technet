@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Create and update a facture for a corrected free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and update a facture for a corrected free text invoice. In some cases, you must use corrective credit notes and invoices to clarify information about value-added tax (VAT) and to correct errors. You can create documents that correct invoices and credit notes for customers. Before the sales book can reflect the corrected documents at the stage for corrected invoices and factures, you must specify references for corrected invoices, factures, and VAT reporting periods.

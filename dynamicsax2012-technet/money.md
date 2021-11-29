@@ -13,6 +13,9 @@ f1_keywords:
 
 # money
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A medium for exchanging ownership of the economic values represented by one or more currency units.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # CapRealTimeData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a flag to identify that device is able to supply signature data real time.This property is initialized by the Load method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

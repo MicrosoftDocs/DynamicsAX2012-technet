@@ -15,6 +15,9 @@ dev_langs:
 
 # GetActiveProductPrice Method (IEnumerable(Int64), DateTime, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the active product price of an item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

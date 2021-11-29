@@ -13,6 +13,9 @@ f1_keywords:
 
 # document services
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The application integration services that provide create, read, update, delete, and find operations for XML documents mapped using an Application Object Tree (AOT) query element.
 
 ## See also

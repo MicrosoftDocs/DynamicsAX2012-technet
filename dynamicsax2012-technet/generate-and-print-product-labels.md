@@ -16,6 +16,9 @@ ms.search.region: Global
 # Generate and print product labels 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to generate and print product labels that you can attach to a product or a container. A product label contains all the information about the product, including the batch number, serial number, and expiration date.

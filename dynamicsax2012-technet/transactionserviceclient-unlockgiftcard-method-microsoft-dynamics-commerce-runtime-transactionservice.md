@@ -17,6 +17,9 @@ dev_langs:
 
 # UnlockGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unlocks/Releases an issued gift card so that it can now be used.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteStoredProcedure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes a store procedure against the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  

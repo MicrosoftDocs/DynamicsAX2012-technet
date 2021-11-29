@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDeliveryPreference Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Models the delivery preference types applicable to the provided sales line identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

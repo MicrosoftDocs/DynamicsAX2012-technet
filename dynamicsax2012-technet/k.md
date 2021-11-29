@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # K
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [kanban](kanban.md)
 
 [kanban card](kanban-card.md)

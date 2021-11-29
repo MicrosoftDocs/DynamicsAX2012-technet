@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan the base topology of Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Before you install Microsoft Dynamics AX, you should determine the arrangement of computers, or the topology, that you will use in your implementation. This part of the documentation describes the types of servers that are required in a Microsoft Dynamics AX implementation. It also describes typical single-server, small-scale, and large-scale Microsoft Dynamics AX deployment scenarios. This documentation also explains topology options for the availability and performance of the core components of Microsoft Dynamics AX: Application Object Server (AOS) and Microsoft SQL Server.

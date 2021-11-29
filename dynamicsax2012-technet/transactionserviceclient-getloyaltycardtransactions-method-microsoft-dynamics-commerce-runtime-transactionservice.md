@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the loyalty card transaction of the given loyalty card and the reward point.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN) Validate the closing or stopping of a fiscal period 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can close, stop, or open fiscal periods that are included in a fiscal calendar. When you modify the calendar status for a selected fiscal period, a validity check is run, based on the conditions that are specified in the **Validation checklist** form. After successful validation, the fiscal period statuses are updated to **Closed** or **On hold** in the **Ledger calendar** form.

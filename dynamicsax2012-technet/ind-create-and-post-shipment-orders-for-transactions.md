@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create and post shipment orders for transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post shipment orders for goods that are transferred from a supply warehouse (From warehouse) to a receiving warehouse (To warehouse). When an item is transferred at a higher price than the cost price of the item, the difference between the cost price and the transfer price may affect the total inventory value of the ledger account, so the value of the physical inventory and the financial inventory of the transaction do not match. To balance the physical inventory and the financial inventory after a stock transfer transaction, select the **Interim Transit** field on the **Transfer order** tab in the **Posting** form. The price difference that occurs due to the posting of the shipment order and the receipt order of the stock transfer transaction, along with the tax amount, is added to the interim transit account.

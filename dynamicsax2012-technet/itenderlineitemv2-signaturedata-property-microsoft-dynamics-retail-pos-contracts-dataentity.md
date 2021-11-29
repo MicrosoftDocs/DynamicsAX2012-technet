@@ -17,6 +17,9 @@ dev_langs:
 
 # SignatureData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Signature capture data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

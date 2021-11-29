@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLimitMin Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The minimum amount that is required to calculate this tax.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

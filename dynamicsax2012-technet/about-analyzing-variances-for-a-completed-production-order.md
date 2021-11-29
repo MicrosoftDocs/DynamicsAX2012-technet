@@ -15,6 +15,9 @@ ms.search.region: Global
 # About analyzing variances for a completed production order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Production variances are calculated after you end a production order for a standard cost item. The variances reflect a comparison between the reported production activities and the calculation of standard costs for the production item. The variances do not reflect a comparison to the production order's estimated costs. The production activities that are reported include the consumption of material and routing operations, together with the associated indirect costs, and the quantity that is reported as finished. The following four types of variances are calculated:

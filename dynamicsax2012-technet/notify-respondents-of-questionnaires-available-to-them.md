@@ -14,6 +14,9 @@ ms.search.region: Global
 # Notify respondents of questionnaires available to them 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you distribute a questionnaire, you are required to notify respondents that questionnaires are available to them.

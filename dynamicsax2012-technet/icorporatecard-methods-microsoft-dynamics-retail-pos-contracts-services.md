@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICorporateCard Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICorporateCard](icorporatecard-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

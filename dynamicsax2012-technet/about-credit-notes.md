@@ -15,6 +15,9 @@ ms.search.region: Global
 # About credit notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When an amount on a customer invoice has a negative value, the invoice is classified as a credit note. When the document is printed, it has the title **Credit note**.

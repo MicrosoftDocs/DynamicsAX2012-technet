@@ -13,6 +13,9 @@ f1_keywords:
 
 # operating unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An organization that divides the control of economic resources and operational processes among people who have a duty to maximize the use of scarce resources, to improve processes, and to account for their performance.
 
 ## See also

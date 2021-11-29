@@ -17,6 +17,9 @@ dev_langs:
 
 # CancelAllPrescriptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Cancels all the pharmacy prescriptions in the retail transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

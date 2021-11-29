@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Blanket orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, blanket orders are contractual obligations with a vendor to purchase a specific quantity or value of merchandise in exchange for a special discount. By using a blanket order, you can continue to create purchase orders (release orders) and invoice items until the contract is fulfilled.

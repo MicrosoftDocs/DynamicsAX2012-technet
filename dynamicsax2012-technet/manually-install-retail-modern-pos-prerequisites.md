@@ -14,6 +14,9 @@ dev_langs:
 # Manually install Retail Modern POS prerequisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the information in this topic to install prerequisites for Retail Modern POS if you are installing on a Windows Server or Windows Embedded operating system. To ensure that you have installed all of the required prerequisites, you must install options 1 and 2, or option 3.

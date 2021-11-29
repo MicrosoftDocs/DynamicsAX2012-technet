@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateReturnQuantities Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the return quantities of the returned sales lines based on the sales lines for return.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

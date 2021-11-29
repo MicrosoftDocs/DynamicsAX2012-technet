@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSupportedCardTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get a collection of support card types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

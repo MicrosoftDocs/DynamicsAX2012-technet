@@ -15,6 +15,9 @@ ms.search.region: Global
 # About purchase requisition workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To move a purchase requisition through the review process from an initial status of **Draft** to a final status of **Approved**, you submit it to the workflow system. You set up a workflow for purchase requisitions in the Microsoft Dynamics AX client. The workflow can be configured to include one or more review steps.

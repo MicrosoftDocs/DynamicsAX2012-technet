@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseQuery Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a query to be executed against the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

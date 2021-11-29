@@ -17,6 +17,9 @@ dev_langs:
 
 # Equals Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Test if two string data values are equal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

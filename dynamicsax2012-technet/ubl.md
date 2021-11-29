@@ -13,6 +13,9 @@ f1_keywords:
 
 # UBL
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A language for defining XML business documents that is maintained by the Organization for the Advancement of Structured Information Standards (OASIS).
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveVoidTransactionRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveVoidTransactionRequestHandler](savevoidtransactionrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

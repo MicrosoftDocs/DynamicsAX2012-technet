@@ -18,6 +18,9 @@ ms.search.region: Global
 # View and delete consolidation transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Consolidating the accounts of various subsidiaries can be time-consuming, and sometimes the records that were created for one subsidiary must be revised. Instead of repeating the consolidations of all the subsidiaries, you can delete the transactions that were created from a particular subsidiary and then run that consolidation again.

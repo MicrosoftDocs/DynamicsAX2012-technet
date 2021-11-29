@@ -15,6 +15,9 @@ dev_langs:
 
 # RunOperation Method (PosisOperations, Object)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Runs a POS operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

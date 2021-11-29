@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for the calculation of constant tax differences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To show the amounts of permanent and temporary tax differences in an account, you must set up and calculate tax liabilities and asset calculation registers. Based on the calculations, transactions are entered in the general ledger. The **Calculation of constant tax differences** register is used to calculate constant tax differences based on the following registers:

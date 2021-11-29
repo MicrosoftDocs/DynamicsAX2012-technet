@@ -17,6 +17,9 @@ dev_langs:
 
 # PropertySiteUrl Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the sharepoint site url which uniquely identifies channel catalogs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

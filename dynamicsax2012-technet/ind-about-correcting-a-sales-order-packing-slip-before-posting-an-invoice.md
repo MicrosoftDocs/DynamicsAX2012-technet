@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) About correcting a sales order packing slip before posting an invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When excise tax is calculated for the original packing slip for a sales order, the excise registers are updated for the packing slip based on the invoice date, delivery date, or document date. If the excise registers are updated for the packing slip based on the delivery date, you can correct or cancel a packing slip without creating a new packing slip ID.

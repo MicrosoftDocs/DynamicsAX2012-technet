@@ -27,6 +27,9 @@ ms.search.region: Austria
 # (AUT) Set up parameters to generate electronic invoices in PEPPOL format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up the following parameters that are required to generate and send electronic invoices (eInvoices) in the Pan-European Public e-Procurement On-Line (PEPPOL) format:

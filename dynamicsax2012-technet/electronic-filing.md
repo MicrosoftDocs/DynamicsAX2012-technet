@@ -13,6 +13,9 @@ f1_keywords:
 
 # electronic filing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of submitting documents to an authority using an electronic communications medium.
 
 ## See also

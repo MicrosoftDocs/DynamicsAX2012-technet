@@ -17,6 +17,9 @@ dev_langs:
 
 # SetTerminal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the terminal for the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

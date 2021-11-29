@@ -15,6 +15,9 @@ ms.search.region: Global
 # About gift cards in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic discusses functionality that has been added for gift cards in Retail in Microsoft Dynamics AX 2012 R3. In Retail, you can create gift cards that can be issued at one store and redeemed at any store in the organization. Retail keeps track of gift card balances, so a card can be reused until its available balance reaches zero. Funds can also be added to an existing gift card at any time. Gift cards in AX 2012 R3 offer additional options that aren’t available in earlier versions of Microsoft Dynamics AX.

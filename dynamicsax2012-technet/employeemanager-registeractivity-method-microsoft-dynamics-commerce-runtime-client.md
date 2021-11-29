@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterActivity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers the activity of the employee and returns the date time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

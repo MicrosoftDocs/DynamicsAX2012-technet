@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Streaming and Query Service Results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you use the Microsoft Dynamics AX query service to call a query that returns a large amount of data, you can use streaming to read all of the data that is returned.

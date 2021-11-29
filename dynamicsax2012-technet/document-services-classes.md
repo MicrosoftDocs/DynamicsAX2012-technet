@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Document Services Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Application Integration Framework (AIF) a document is a representation of the data model in Microsoft Dynamics AX. This means that a document reflects the data as it occurs in the application. For example, the sales order document contains a sales order header with the sales order data and the corresponding sales order lines for a particular sales order. This document structure reflects the existing records in the application.

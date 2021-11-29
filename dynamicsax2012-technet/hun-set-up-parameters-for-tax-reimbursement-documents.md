@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up parameters for tax reimbursement documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A customer might be a person who resides in a country/region that is not a member of the European Union (EU). A customer of this kind might request reimbursement of value-added tax (VAT) that was paid on purchases in Hungary. The customer might also ask you to provide documentation for the amount of VAT that he or she paid to you. You can create a tax reimbursement document from the customer invoice. For more information, see [(HUN) Create and print a tax reimbursement document](hun-create-and-print-a-tax-reimbursement-document.md).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using the Refactored Formletter Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The formletter framework in Microsoft Dynamics AX is used when posting documents for sales or purchase orders. The framework has been refactored in Microsoft Dynamics AX 2012 to provide better support for customizations, extensibility, and performance.

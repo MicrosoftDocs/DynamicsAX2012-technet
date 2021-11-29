@@ -17,6 +17,9 @@ dev_langs:
 
 # EnsureChildXmlNodeDoesNotExist Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Ensures the child XML node does not exist.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

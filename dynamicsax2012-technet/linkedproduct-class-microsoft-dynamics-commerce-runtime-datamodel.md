@@ -17,6 +17,9 @@ dev_langs:
 
 # LinkedProduct Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a linked Product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

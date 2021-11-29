@@ -17,6 +17,9 @@ dev_langs:
 
 # IPaymentItemV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment item interface version 1.0.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.Transaction.MemoryTables](microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables-namespace.md)  

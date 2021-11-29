@@ -17,6 +17,9 @@ dev_langs:
 
 # PutQuantityDiscountLevelByQuantity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the quantity discount threshold level which the given quantity qualifies for on the given offer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

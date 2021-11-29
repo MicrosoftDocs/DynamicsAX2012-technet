@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesInvoices Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manages sales invoice line items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

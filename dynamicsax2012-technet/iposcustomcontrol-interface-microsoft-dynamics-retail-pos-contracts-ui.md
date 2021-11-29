@@ -17,6 +17,9 @@ dev_langs:
 
 # IPosCustomControl Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IPosCustomControl interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.UI](microsoft-dynamics-retail-pos-contracts-ui-namespace.md)  

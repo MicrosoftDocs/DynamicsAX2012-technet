@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View posted tax details for an RG23C register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The tax details for the posted excise transactions and for posted sales order with excise duty are displayed in the **RG23C tax details** form. You can view the tax details for the excise transactions entered for the RG23C register.

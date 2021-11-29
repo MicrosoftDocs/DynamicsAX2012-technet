@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create consolidation groups and additional consolidation accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A consolidation account is the main account in the parent legal entity that is used for ledger consolidation. This legal entity is also known as the consolidated legal entity. When you use a consolidation account for consolidation, you can report financial information by using a statutory account number.

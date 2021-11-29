@@ -32,6 +32,9 @@ ms.search.region: Global
 # Purchase order basic tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to perform basic tasks when you work with purchase orders. The basic tasks covered include how to allocate charges to purchase orders, and how to create, change, and cancel purchase orders.

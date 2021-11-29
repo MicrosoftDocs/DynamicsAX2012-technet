@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use alerts to monitor Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Several alert systems are available to help you monitor Microsoft Dynamics AX and associated software components. The following table lists the alert systems that are available, and where you can learn more about them.

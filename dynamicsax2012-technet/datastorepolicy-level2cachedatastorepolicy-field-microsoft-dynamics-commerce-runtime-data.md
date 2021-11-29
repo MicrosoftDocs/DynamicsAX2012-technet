@@ -17,6 +17,9 @@ dev_langs:
 
 # Level2CacheDataStorePolicy Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the policy associated with a level 2-type cache, or closest to consumption point.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Simulate a foreign currency revaluation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you revalue foreign currencies, you can run a simulation of the foreign currency revaluation in the **Simulation** form. The report shows the overall financial effects of revaluing foreign currencies on customer or vendor transactions that were open on a particular date, which is named the considered date. You can use the exchange rate of the considered date or of another date and a selected method of foreign currency revaluation.

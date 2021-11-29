@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up codes for order holds 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 During the sales process, there are times when a sales order must be placed on hold. When a sales order is placed on hold, an order hold code is assigned to the sales order to indicate the reason for the hold. For example, a sales order might be placed on hold because of issues with a customer payment, fraud, or to wait for review by a manager. This topic explains how to set up order hold codes.

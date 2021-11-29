@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Project Server integration topology 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For information about setting up integration with Project Server, see the [Microsoft Project Server 2010 Integration](https://go.microsoft.com/fwlink/?linkid=215155) white paper that is available from the Microsoft Download Center.

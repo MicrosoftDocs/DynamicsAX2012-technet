@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChildren Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets subcategories by given Channel ID and Category ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

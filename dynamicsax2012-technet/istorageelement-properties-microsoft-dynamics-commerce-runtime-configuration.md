@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IStorageElement Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IStorageElement](istorageelement-interface-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Properties

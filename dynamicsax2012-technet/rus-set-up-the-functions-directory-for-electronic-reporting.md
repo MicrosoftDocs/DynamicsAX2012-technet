@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up the functions directory for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the functions directory to create and update functional queries, which are used to calculate requisites based on data from databases. You can use configured functions to create values for fixed requisites.

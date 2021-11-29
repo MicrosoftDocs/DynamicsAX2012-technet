@@ -14,6 +14,9 @@ f1_keywords:
 # Per diem per employee report (TrvAllowance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the per diems given to an employee in a specified time period or on a specific expense report.

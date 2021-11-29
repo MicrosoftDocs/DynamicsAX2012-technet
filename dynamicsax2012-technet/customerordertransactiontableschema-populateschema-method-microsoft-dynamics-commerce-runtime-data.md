@@ -17,6 +17,9 @@ dev_langs:
 
 # PopulateSchema Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates the table with Transaction schema.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCommerceListResponse Constructor (IEnumerable(CommerceList))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetCommerceListResponse](getcommercelistresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

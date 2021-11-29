@@ -17,6 +17,9 @@ dev_langs:
 
 # SetUpPrinter Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Setup printer object with device settings
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

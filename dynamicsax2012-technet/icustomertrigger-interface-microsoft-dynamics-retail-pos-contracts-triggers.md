@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomerTrigger Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ICustomerTrigger interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

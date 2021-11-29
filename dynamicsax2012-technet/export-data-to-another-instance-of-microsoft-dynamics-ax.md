@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Export data to another instance of Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the export operation in Microsoft Dynamics AX to export a subset of data from a single company. You can then import the data to another company. This company can be in the same partition, in a different partition, or in a partition in another instance of Microsoft Dynamics AX.

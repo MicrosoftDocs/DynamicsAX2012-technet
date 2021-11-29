@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Retail Channel Configuration Utility (Retail Store Database Utility) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Install the Retail Channel Configuration Utility on computers where you must create a channel database or configure a Retail POS connection to a channel database. A channel database may be created either on a stand-alone database server or on a POS computer.

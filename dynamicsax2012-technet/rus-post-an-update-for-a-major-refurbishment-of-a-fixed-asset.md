@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Post an update for a major refurbishment of a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Capital improvements is a special asset category that includes capital renovations, improvements, technical updates, additional construction, and the acquisition of additional equipment for a fixed asset. When you update capital improvements, calculated depreciation is not revalued. However, the depreciated cost and service life of the fixed asset change. When major repair work is performed on a fixed asset, bonus depreciation is applicable for the asset on or after the major repair transaction date. You can create a transaction for a major repair of a fixed asset, and specify the bonus depreciation and bonus start date. The start date of the bonus depreciation can be the same as the major repair transaction date, or it can be the next depreciation date.

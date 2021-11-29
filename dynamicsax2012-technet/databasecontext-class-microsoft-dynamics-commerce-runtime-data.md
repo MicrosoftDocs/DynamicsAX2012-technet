@@ -17,6 +17,9 @@ dev_langs:
 
 # DatabaseContext Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Wraps common operations associated to database access, maintaining single database connection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

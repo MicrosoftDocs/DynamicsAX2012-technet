@@ -18,6 +18,9 @@ ms.search.region: Sweden
 # (SWE) Generate and transfer a Bankgiro payment file for a partially used credit memo 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In some instances, a credit memo that is sent to the Swedish payment clearing house, BankGiroCentralen (BGC), to settle a vendor payment contains an amount greater than the associated invoice. The vendor invoice is matched against the credit memo, and reported in the payment return file. When you import the payment return file, Microsoft Dynamics AX processes the partially used credit memo, without requiring manual steps.

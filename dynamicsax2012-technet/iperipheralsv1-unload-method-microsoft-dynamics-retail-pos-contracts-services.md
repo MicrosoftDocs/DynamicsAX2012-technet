@@ -17,6 +17,9 @@ dev_langs:
 
 # Unload Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 NOTE: This is a breaking change with V1 in V2. The interface derrived from "IPeripheral" which has a different functional purpose in order to get the load and unload capability.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

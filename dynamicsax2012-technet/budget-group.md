@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget group
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of financial dimension values in a budget dimension hierarchy that is used to calculate aggregate budget funds allocated to superordinate financial dimension values by summing budget funds allocated to subordinate financial dimension values.
 
 ## See also

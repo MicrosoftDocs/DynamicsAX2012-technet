@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # S
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [SaaS](saas.md)
 
 [sales agreement](sales-agreement.md)

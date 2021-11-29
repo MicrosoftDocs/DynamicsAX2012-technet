@@ -17,6 +17,9 @@ dev_langs:
 
 # PricingEngine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains logic for calculating retail prices.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # output product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The physical products that result from an activity.
 
 ## See also

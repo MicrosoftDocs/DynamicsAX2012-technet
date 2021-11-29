@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate VAT in general journal transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate the VAT for transactions that are entered in journals. For example, a journal is created for the sale of goods that costs INR 10,000 with the account combination of Customer (Dr) – Ledger (Cr).

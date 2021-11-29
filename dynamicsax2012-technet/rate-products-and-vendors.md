@@ -16,6 +16,9 @@ ms.search.region: Global
 # Rate products and vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you order items and services from the procurement catalog in the Employee services portal, you can view ratings that workers have entered for products and vendors. You can also enter a review for other requesters to see.

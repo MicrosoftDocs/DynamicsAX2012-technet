@@ -26,6 +26,9 @@ ms.search.region: Global
 # About sales agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A sales agreement is a contract that commits the customer to buy a product in a certain quantity or amount over time in exchange for special prices and discounts. The prices and discounts of the sales agreement overrule any prices and discounts that are stated in any trade agreements that might exist.

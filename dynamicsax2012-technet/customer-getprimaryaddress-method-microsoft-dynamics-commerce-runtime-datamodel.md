@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPrimaryAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the primary address for this customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

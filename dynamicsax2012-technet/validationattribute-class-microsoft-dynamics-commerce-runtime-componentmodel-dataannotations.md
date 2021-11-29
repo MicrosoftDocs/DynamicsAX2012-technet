@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidationAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class for validation attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

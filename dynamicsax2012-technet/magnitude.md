@@ -13,6 +13,9 @@ f1_keywords:
 
 # magnitude
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The numeric component of a measurement.
 
 ## See also

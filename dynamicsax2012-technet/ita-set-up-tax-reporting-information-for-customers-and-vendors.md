@@ -14,6 +14,9 @@ ms.search.region: Italy
 # (ITA) Set up tax reporting information for customers and vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up tax reporting information, export the sales tax transaction information for both customers and vendors as required by Italian law, and then generate the sales tax payment report for the selected VAT period.

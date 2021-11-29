@@ -13,6 +13,9 @@ f1_keywords:
 
 # trade discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A discount that does not depend on prompt payment.
 
 ## See also

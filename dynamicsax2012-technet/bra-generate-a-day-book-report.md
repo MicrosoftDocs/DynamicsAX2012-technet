@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Generate a day book report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the Day book report to generate a day book report that contains daily transactions, sorted by date, for a specified period. The day book report can have a maximum of 500 pages, referred to as an accounting book. It can contain more than one volume, if necessary, for the same calendar year. The day book report must contain the accounting book number and the number of pages in the accounting book.

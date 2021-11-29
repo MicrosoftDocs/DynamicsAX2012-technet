@@ -17,6 +17,9 @@ dev_langs:
 
 # LocalizedResource Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Load localized resources.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources](microsoft-dynamics-retail-sharepoint-web-webparts-resources-namespace.md)  

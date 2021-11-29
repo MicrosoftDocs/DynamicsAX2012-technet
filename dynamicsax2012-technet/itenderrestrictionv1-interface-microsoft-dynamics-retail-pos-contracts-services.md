@@ -17,6 +17,9 @@ dev_langs:
 
 # ITenderRestrictionV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITenderRestrictionV1 interface is the version 1.0 tender restriction interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

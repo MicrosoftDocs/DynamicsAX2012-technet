@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertFromData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts from sales transaction database representation to a sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

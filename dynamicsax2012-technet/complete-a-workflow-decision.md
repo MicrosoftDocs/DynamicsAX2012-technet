@@ -14,6 +14,9 @@ ms.search.region: Global
 # Complete a workflow decision 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A decision represents a point at which a workflow divides into two branches. To make a decision, you must select one of two choices. The choices are typically **Yes** and **No**, or **True** and **False**. The choice that you make determines the workflow branch that is used to process the submitted document.

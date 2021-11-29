@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Detect code upgrade conflicts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Code upgrade conflicts occur when your customized legacy code cannot be safely used on a new Microsoft Dynamics AX target system without review and, in many cases, modification. This task opens the **Detect code upgrade conflicts** form, which offers options to perform various types of code conflict analysis and resolution. Conflicts are organized into development projects that allow for easy comparison of conflicting application object versions. The form also allows you to resolve some upgrade conflicts automatically.

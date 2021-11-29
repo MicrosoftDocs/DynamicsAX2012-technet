@@ -14,6 +14,9 @@ ms.search.region: Global
 # Record accidental substance flows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If an accidental substance flow occurs – for example, if a water pipe bursts or a barrel of oil leaks while in storage – you can create a record that identifies the substance flow as accidental. When it is time to calculate how much of a substance your organization used, accidental substance flow records can offer data to help you accurately calculate substance usage.

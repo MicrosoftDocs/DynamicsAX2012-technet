@@ -17,6 +17,9 @@ dev_langs:
 
 # SetAddressBookDataFromXml Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the address book data from XML returned by treansaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

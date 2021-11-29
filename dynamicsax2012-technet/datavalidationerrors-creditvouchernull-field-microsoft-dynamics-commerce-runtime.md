@@ -17,6 +17,9 @@ dev_langs:
 
 # CreditVoucherNull Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the credit voucher retrieved was null.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

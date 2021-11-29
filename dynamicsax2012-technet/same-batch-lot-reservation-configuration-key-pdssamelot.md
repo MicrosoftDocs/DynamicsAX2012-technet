@@ -15,6 +15,9 @@ f1_keywords:
 # Same batch lot reservation configuration key (PdsSameLot) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Same batch lot reservation** configuration key controls access to the fields and functions that enable the same batch logic in process manufacturing logistics.

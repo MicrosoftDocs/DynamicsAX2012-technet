@@ -23,6 +23,9 @@ ms.search.region: Global
 # Enroll multiple workers in a benefit at the same time 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can select multiple workers and enroll them in a benefit at the same time.

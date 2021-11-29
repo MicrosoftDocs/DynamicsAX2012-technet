@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Intrastat 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Intrastat reporting is the system that is used to record information and generate statistics on the compulsory declaration of movements of goods to or from other Member States of the European Union (EU). Intrastat reporting is required whenever a transaction crosses the border of another EU country/region.

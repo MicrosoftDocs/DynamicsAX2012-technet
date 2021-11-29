@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHardwareProfile Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get hardware profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

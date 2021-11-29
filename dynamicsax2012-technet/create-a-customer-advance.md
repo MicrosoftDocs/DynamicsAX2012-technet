@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a customer advance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some projects require a significant financial investment before the project starts. You may want to request an advance payment from the customer when you negotiate a project contract. The customer advance amount can be stated as a specific amount or as a percentage of the total revenue for the project. As work progresses on the project, you can subtract part or all of the amount of the advance from project invoices. The amount of the advance and the terms for subtracting the advance are specified in the project contract.

@@ -19,6 +19,9 @@ dev_langs:
 
 # LoyaltyPointTypeBase Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Loyalty point type base.

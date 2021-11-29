@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterActivity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers the activity of the employee and returns the date time.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

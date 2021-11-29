@@ -14,6 +14,9 @@ ms.search.region: Global
 # Insert a Table node 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Table node to specify that one or more of the variables for a product model should display the values selected from one or more fields in a specific Microsoft Dynamics AX table.

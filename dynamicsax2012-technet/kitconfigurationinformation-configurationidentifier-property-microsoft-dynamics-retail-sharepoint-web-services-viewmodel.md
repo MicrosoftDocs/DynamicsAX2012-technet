@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfigurationIdentifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates configuration identifier of a specific kit configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

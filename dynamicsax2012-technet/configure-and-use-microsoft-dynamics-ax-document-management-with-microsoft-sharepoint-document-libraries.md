@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure and use Microsoft Dynamics AX document management with Microsoft SharePoint document libraries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic includes information about how you can configure document management to integrate with Windows SharePoint document libraries in Microsoft Dynamics AX 2012 R2 or later versions of Microsoft Dynamics AX. After you configure document management and set up document libraries in SharePoint, you can save document attachments to SharePoint and you can store document templates in a SharePoint document library.

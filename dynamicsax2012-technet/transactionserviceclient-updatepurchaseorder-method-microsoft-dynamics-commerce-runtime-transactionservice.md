@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdatePurchaseOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates a purchase order in Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReportDataSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an object used to retrieve a report dataset.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCardLengthValid Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks to determine whether entered card number is of a valid length.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

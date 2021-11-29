@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install upgrade framework files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The Microsoft Dynamics AX 2012 upgrade process requires manual installation of three files on your source Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 system. An XPO file provides the forms and scripts that are required for data preprocessing, an ALD file provides user interface labels, and a CHM file provides user Help. The sections below describe how to install these files from your Microsoft Dynamics AX 2012 installation media.

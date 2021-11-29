@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Working with Sales and marketing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This section provides information about working with the Sales and marketing business process component.

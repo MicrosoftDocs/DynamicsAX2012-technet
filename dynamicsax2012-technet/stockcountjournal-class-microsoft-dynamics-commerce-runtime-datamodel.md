@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountJournal Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 StockCountJournal entity class, it contains the properties mapped to RetailStockCountJournal table in RetailServer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

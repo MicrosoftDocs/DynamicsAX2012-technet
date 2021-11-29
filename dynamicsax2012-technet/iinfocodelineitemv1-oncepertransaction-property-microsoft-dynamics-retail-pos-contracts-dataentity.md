@@ -17,6 +17,9 @@ dev_langs:
 
 # OncePerTransaction Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Should the user only be asked once in each transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

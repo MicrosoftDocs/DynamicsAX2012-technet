@@ -23,6 +23,9 @@ f1_keywords:
 # Purchase agreement certification compliance report (Public sector) (PurchAgreementCertificationCompliance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Purchase agreement certification compliance** report to identify purchase agreements that have vendors and subcontractors who have not submitted required certification information or whose certification is nearing its expiration date.

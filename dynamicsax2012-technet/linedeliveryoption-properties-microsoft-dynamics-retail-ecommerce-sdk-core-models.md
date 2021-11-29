@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LineDeliveryOption Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LineDeliveryOption](linedeliveryoption-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md) type exposes the following members.
 
 ## Properties

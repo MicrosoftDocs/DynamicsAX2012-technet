@@ -14,6 +14,9 @@ ms.search.region: Italy
 # (ITA) About fiscal LIFO workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the fiscal Last In, First Out (LIFO) calculation to create a yearly report that declares the value of your inventory. The report can be used as the basis for a tax report.

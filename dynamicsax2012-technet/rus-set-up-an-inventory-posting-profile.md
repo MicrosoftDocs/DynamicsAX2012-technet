@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an inventory posting profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You use the **Posting** form to set up the inventory posting profile. When you create or update a posting record, make sure that the corresponding inventory transaction combination is activated.

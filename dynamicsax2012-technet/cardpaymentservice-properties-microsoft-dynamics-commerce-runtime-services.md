@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CardPaymentService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CardPaymentService](cardpaymentservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

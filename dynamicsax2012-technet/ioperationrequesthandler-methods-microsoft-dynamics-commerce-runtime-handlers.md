@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IOperationRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IOperationRequestHandler](ioperationrequesthandler-interface-microsoft-dynamics-commerce-runtime-handlers.md) type exposes the following members.
 
 ## Methods

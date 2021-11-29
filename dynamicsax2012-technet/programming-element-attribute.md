@@ -13,6 +13,9 @@ f1_keywords:
 
 # programming element attribute
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A descriptive declaration that can be applied to programming elements such as types, fields, methods, and properties.
 
 ## See also

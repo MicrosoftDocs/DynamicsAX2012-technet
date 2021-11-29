@@ -17,6 +17,9 @@ dev_langs:
 
 # NoOfLeastExpensiveLinesColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of least expensive lines column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

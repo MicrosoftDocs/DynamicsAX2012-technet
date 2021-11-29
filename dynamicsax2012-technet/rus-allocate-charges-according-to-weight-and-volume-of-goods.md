@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Allocate charges according to weight and volume of goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to allocate charges to purchase order lines according to the gross weight and volume of the goods that are received. For order lines that contain items, the allocation is based on the information in the item record. For category-based lines, the allocation is based on the information on the order line. Category-based order lines do not contain any volume information for the goods.

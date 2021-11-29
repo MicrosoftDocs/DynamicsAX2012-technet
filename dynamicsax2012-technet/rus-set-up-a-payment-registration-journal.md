@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a payment registration journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Journals are created to register payments. Create a vendor disbursement journal for outgoing payments and a customer payment journal for incoming payments.

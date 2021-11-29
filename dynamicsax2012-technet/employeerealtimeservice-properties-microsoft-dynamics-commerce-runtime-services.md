@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmployeeRealtimeService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmployeeRealtimeService](employeerealtimeservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

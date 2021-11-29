@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) Set up email parameters for an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **E-mail parameters** form and the **Set up batch processing** class form to set up email parameters for an electronic invoice. In the **Print destination settings** form, in the **File format** field, select **PDF** so that you can generate the electronic invoice as a .pdf file and send the file as an email attachment to a customer.

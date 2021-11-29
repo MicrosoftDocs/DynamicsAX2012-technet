@@ -17,6 +17,9 @@ dev_langs:
 
 # NewPassword Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The new password.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

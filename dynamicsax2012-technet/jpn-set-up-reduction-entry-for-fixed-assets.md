@@ -35,6 +35,9 @@ ms.search.region: Japan
 # (JPN) Set up reduction entry for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you acquire a fixed asset using a government subsidy, the subsidy is treated as taxable revenue and can be registered in Microsoft Dynamics AX by using a reduction entry. You can use the following reduction entry methods to register the government subsidy for a fixed asset acquisition.

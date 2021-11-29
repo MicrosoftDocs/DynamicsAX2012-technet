@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCartLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the cart lines in the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

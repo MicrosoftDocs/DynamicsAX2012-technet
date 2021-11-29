@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # Budgeting (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about Budgeting for public sector organizations. These topics complement information that can be found under the main help section for [Budgeting](budgeting.md).

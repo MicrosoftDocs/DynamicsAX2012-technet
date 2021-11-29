@@ -14,6 +14,9 @@ f1_keywords:
 # Service Management - BOM configuration key (SMABom) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Service management - BOM** configuration key controls access to the bill of materials (BOM) forms and functions in the **Service management** module. This functionality includes designing template BOMs and working with service BOMs on service orders and service agreements.

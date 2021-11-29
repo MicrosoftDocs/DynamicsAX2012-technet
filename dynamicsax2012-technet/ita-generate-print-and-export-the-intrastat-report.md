@@ -17,6 +17,9 @@ ms.search.region: Italy
 # (ITA) Generate, print, and export the Intrastat report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Legal entities in Italy must submit a periodic list that contains the reverse charges that are calculated on Value Added Tax (VAT) sales transactions with other VAT-registered entities in the European Union (EU). You can generate this Intrastat report based on the purchase and sales of products and services. The transactions are compressed to include services and foreign currency transactions, and the printed Intrastat report will include service information. The Intrastat report is exported as an ASCII file and submitted to the customs office.

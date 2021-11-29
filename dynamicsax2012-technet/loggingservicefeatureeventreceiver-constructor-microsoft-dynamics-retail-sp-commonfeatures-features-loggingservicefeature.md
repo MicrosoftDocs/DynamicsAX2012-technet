@@ -17,6 +17,9 @@ dev_langs:
 
 # LoggingServiceFeatureEventReceiver Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.LoggingServiceFeature](microsoft-dynamics-retail-sp-commonfeatures-features-loggingservicefeature-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Storefront (in Microsoft.Dynamics.Retail.SP.Web.Storefront.dll)
 

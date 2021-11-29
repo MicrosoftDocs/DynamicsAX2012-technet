@@ -34,6 +34,9 @@ ms.search.region: Denmark, France
 # Create a general budget reservation (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After you set up your system to use general budget reservations, you can create reservation documents. For more information, see [Set up general budget reservation rules and reservation types (Public sector)](set-up-general-budget-reservation-rules-and-reservation-types-public-sector.md).

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Complete, approve, or reject a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to respond to purchase requisition work items that are assigned to you from workflow. If your organization is using Role Centers and your work list is displayed on your Role Center, the work list displays your work items.

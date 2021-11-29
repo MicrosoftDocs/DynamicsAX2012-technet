@@ -13,6 +13,9 @@ f1_keywords:
 
 # child table
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A table that assumes a child role when it participates in an integrity relationship with another table and whose foreign key attribute values are migrated from the table assuming the parent role in the relationship.
 
 ## See also

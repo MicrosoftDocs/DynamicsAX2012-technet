@@ -17,6 +17,9 @@ dev_langs:
 
 # Blue Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The blue button style.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeConfiguration Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeConfiguration](commerceruntimeconfiguration-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

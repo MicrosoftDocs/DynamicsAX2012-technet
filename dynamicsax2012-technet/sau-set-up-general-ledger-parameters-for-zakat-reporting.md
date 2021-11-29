@@ -18,6 +18,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Set up general ledger parameters for Zakat reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To generate Zakat reports, you must first set up general ledger parameters for Zakat reporting.

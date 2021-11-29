@@ -18,6 +18,9 @@ dev_langs:
 
 # AuthenticateDevicePartialRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Authenticate Device request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

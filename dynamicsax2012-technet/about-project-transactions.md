@@ -24,6 +24,9 @@ ms.search.region: Global
 # About project transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, project transactions are grouped by type. Grouping transactions by type makes it easier to post and track project information, such as costs. Transaction types are assigned to category groups. Category groups include categories of the same type. For example, the Travel category group might have a transaction type of Expense, and could include the Mileage and Airfare categories.

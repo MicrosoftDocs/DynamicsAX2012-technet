@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up info codes (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up info codes that prompt the cashier to take some action or capture information at the point of sale. For example, you can use info codes to do the following:

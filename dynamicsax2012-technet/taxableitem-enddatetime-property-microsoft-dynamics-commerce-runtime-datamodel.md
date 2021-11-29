@@ -17,6 +17,9 @@ dev_langs:
 
 # EndDateTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The end date and time of the transaction. Used for returned orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

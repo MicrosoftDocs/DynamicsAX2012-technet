@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterGiftCardItemIdScript Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the Gift Card Item Id
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # BusinessIntelligenceSqlServerDataService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [BusinessIntelligenceSqlServerDataService](businessintelligencesqlserverdataservice-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Methods

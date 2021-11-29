@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure a channel database for large data volumes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 If your organization has many channel databases that are frequently updated, consider asking Microsoft support if your organization is a candidate to configure your environment for large data volumes. Candidates for using this functionality typically have over 500,000 changes per hour in their databases.
 
 With the release of KB 3208541, Microsoft provides support for approved customers to add a configuration that optimizes change tracking across channel data groups.

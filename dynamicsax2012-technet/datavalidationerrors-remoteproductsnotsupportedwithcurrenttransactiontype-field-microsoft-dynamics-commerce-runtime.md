@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoteProductsNotSupportedWithCurrentTransactionType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a current transaction type does not support remote products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeTenderTypeNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that providing change using a specific tender type is not supported.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

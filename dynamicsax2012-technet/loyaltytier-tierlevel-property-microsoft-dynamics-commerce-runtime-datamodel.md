@@ -17,6 +17,9 @@ dev_langs:
 
 # TierLevel Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tier level. Bigger number means higher level.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

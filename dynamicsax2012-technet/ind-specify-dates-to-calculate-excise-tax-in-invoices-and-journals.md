@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Specify dates to calculate excise tax in invoices and journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can specify the date that must be used to calculate excise tax in invoices and journals.

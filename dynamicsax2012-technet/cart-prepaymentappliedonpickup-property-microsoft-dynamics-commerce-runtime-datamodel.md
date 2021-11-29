@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentAppliedOnPickup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the amount of the prepayment that is applied on the pickup operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

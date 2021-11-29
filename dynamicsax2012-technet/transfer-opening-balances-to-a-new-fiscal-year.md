@@ -14,6 +14,9 @@ ms.search.region: Global
 # Transfer opening balances to a new fiscal year 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Opening transactions** form to transfer opening balances for each account to a new fiscal year. You can modify the parameters for this process in the **General ledger parameters** form.

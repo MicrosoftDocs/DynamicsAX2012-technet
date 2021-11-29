@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateTaxExcluded Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculate TaxExclusive amounts for a single tax code
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

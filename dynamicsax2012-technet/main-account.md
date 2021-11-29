@@ -13,6 +13,9 @@ f1_keywords:
 
 # main account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier of economic resource value based on the claims parties make on the economic resources owned by a legal entity and that is used to classify debit and credit entries in an accounting system.
 
 ## See also

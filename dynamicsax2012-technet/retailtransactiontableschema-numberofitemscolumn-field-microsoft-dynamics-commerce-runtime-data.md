@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberOfItemsColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 NumberOfItems column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutItemMaxRetailPrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the item's max retail price using the specified item identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

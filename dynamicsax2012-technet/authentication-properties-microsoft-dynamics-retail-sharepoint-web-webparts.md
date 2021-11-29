@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Authentication Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Authentication](authentication-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesOrdersController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesOrdersController](salesorderscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Properties

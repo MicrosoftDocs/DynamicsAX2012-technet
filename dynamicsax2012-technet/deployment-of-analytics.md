@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deployment of analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics explain how to configure Microsoft SQL Server Analysis Services and deploy the cubes that are included with Microsoft Dynamics AX. Information about how to upgrade cubes from Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012 is also included.

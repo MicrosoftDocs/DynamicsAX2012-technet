@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressService](addressservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

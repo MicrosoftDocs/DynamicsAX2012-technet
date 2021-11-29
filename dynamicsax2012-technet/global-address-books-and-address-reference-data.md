@@ -14,6 +14,9 @@ ms.search.region: Global
 # Global address books and address reference data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 includes a global address book that is shared among all companies in your environment. You do not have to create virtual companies for the global address book, as in past releases of Microsoft Dynamics AX. The global address book stores party record information for each organization or person that your organization has contact with, such as customers, vendors, competitors, and workers. A party is a person or organization that is either internal or external to your organization. Each party has its own record.

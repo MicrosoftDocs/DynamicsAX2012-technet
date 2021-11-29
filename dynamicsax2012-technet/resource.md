@@ -13,6 +13,9 @@ f1_keywords:
 
 # resource
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A stock of money, product, or people services used in the performance of an activity.
 
 ## See also

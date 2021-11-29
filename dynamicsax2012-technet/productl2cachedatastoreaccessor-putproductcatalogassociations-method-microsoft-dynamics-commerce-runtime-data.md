@@ -17,6 +17,9 @@ dev_langs:
 
 # PutProductCatalogAssociations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the active catalogs for the specified products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

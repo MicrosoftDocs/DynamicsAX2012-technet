@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Analysis Services by running Setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to configure Microsoft SQL Server Analysis Services for use with Microsoft Dynamics AX. You must complete this procedure on the computer that is running Analysis Services.

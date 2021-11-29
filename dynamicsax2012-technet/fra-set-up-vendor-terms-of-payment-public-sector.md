@@ -20,6 +20,9 @@ ms.search.region: France
 # (FRA) Set up vendor terms of payment (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a default payment term that can be used for all vendors and for related purchase agreements, purchase orders, and vendor invoices. For example, you might create a default term in which payments are due within 30 days of the document date. You can also override a default term for a specific vendor or for a specific vendor invoice by selecting a different term on the **Vendors** form.

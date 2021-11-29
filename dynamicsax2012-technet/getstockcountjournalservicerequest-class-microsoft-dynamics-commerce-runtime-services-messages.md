@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournalServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetStockCountJournalRequest is the request class to GetStockcount journals.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

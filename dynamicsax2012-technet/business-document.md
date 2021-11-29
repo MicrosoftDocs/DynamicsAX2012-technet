@@ -13,6 +13,9 @@ f1_keywords:
 
 # business document
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A view of a source document that is issued by one party and received by one or more other parties.
 
 ## See also

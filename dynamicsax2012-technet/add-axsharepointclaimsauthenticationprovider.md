@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Add-AXSharepointClaimsAuthenticationProvider
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Add-AXSharepointClaimsAuthenticationProvider
 
 Adds a claims-based authentication provider to a Microsoft SharePoint Server installation. It also creates a web application associated with the provider where applicable.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that participates in a sales process.
 
 ## See also

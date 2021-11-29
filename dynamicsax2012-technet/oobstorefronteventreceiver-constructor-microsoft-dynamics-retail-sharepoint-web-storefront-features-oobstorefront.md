@@ -17,6 +17,9 @@ dev_langs:
 
 # OOBStorefrontEventReceiver Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Features.OOBStorefront](microsoft-dynamics-retail-sharepoint-web-storefront-features-oobstorefront-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Storefront (in Microsoft.Dynamics.Retail.SP.Web.Storefront.dll)
 

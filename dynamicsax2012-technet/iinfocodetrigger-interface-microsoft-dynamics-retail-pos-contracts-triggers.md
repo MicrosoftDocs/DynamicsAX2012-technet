@@ -17,6 +17,9 @@ dev_langs:
 
 # IInfocodeTrigger Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IInfocodeTrigger interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

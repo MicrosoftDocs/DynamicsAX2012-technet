@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllDeliveryOptionsRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles workflow for GetAllDeliveryOptionsRequestHandler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

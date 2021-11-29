@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLoyaltyRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds loyalty request.
 
 If a new customer is selected, old loyalty is removed.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentExceedsMinimumAmountPerTransaction Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that payment amount exceeds minimum amount allowed per transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

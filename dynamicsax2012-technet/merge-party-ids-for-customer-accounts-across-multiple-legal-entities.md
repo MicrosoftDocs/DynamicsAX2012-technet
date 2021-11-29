@@ -14,6 +14,9 @@ ms.search.region: Global
 # Merge party IDs for customer accounts across multiple legal entities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If multiple legal entities in your organization do business with the same customer and each legal entity maintains a separate customer account for that customer, use this procedure to merge the party IDs for the customer accounts across multiple legal entities. This enables you to print consolidated statements or receive customer payments for invoices in any of the legal entities that the customer does business with.

@@ -14,6 +14,9 @@ dev_langs:
 # Example of Inbound XML Message 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create ledger journal entries in Application Integration Framework (AIF), the data is sent in the form of an XML message. This message is received by the inbound port in Microsoft Dynamics AX and is deserialized into a class. For example, an inbound message specifying the create service operation on the LedgerJournalService is used to create an instance of the AxdLedgerJournal class. The inbound message contains the data to be created: the parent ledger journal record and one or more child ledger journal transaction records. The format of the data varies depending on the business requirements for journal transactions.

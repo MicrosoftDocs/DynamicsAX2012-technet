@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Model store architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The model store is the database where all application elements for Microsoft Dynamics AX are stored. Customizations are also stored in the model store. The model store replaces the Application Object Data (AOD) files that were used in earlier versions of Microsoft Dynamics AX.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceController(TEntity, TKey) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The commerce controller. Abstract class, used as base class for most of controllers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

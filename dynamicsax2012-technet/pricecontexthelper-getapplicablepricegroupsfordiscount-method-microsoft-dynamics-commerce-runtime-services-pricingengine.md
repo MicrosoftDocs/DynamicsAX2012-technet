@@ -17,6 +17,9 @@ dev_langs:
 
 # GetApplicablePriceGroupsForDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all applicable discount price groups from price context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Columns Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the underlying column collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

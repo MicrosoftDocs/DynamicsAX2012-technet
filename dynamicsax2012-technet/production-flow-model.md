@@ -13,6 +13,9 @@ f1_keywords:
 
 # production flow model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A representation of the production capacity provided by a group of work cells in a production flow process.
 
 ## See also

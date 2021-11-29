@@ -13,6 +13,9 @@ f1_keywords:
 
 # prospective vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A vendor whose abilities or capabilities to supply products to one or more legal entities are under review before being granted an approved vendor status.
 
 ## See also

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetValue Method (Int32, Type)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the value for a specific field in the current result set row.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

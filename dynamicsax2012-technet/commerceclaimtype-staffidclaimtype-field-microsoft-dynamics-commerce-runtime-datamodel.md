@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffIdClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Staff Id Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

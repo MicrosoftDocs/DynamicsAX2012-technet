@@ -17,6 +17,9 @@ dev_langs:
 
 # OutputParams Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the output parameters of data service call.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

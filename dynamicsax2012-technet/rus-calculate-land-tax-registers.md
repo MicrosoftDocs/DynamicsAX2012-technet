@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate land tax registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The total land tax to be paid to the budget at the end of the tax period is determined as the difference between the tax total and the totals of advance tax payments that were estimated over the course of the tax period individually for every tax base. The tax and advance payments totals are calculated in the tax register journal.

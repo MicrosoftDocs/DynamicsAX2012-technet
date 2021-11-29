@@ -25,6 +25,9 @@ ms.search.region: India
 # (IND) Update excise registers in production control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The excisable goods that are manufactured and recorded in production control are updated in the excise register on a daily basis. Based on the selected Excise Control Code (ECC) number, completed transactions that are reported as finished are updated in the Daily Stock Account (DSA) register until the date that is specified.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update a trade agreement with new commodity pricing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to update pricing information for commodity pricing items that are included in sales price trade agreements. You must run the commodity pricing batch before you can use this procedure.

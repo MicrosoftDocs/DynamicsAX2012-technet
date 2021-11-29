@@ -13,6 +13,9 @@ f1_keywords:
 
 # international ACH transaction
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An Automated Clearing House (ACH) funds transfer between an originating party and a receiving party that involves at least one depository financial institution that is not located in the territorial jurisdiction of the United States.
 
 ## See also

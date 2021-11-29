@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Sales tax transactions re sales report (TaxSalesLedger) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax transactions re sales** report lists posted sales tax transactions only for sales. This report lists sales tax totals and sales tax distributions in sales tax boxes per voucher for a specified period. This report is typically used by bookkeepers, accountants, and account managers to inquire into posted sales tax transactions.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Gross margin return on inventory investments (GMROII) by products report (RetailGMROIIByProducts) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to view the gross margin return on inventory investment (GMROII) of product inventory by product. This report provides a list of products, and includes the GMROII percentage and inventory turnover for each product that is included in the fiscal period for the report. Use this report to improve your store’s efficiency and profits by identifying the products that turn over most frequently and provide the best rate of return on your inventory investment.

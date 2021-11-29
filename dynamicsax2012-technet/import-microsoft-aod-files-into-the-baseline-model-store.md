@@ -15,6 +15,9 @@ f1_keywords:
 # Import Microsoft AOD files into the baseline model store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Import Microsoft application files, or .aod files, from the source system into the baseline model store.

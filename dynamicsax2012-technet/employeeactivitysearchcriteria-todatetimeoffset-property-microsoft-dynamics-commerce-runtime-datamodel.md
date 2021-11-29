@@ -17,6 +17,9 @@ dev_langs:
 
 # ToDateTimeOffset Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the To date and time offset in channel's local time zone.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

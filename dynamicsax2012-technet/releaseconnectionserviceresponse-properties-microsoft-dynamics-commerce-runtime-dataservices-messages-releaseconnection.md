@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReleaseConnectionServiceResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReleaseConnectionServiceResponse](releaseconnectionserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection.md) type exposes the following members.
 
 ## Properties

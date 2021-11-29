@@ -18,6 +18,9 @@ f1_keywords:
 # (CAN, USA) Open purchase order lines report (VendPurchOpenLines\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Open purchase order lines reports are generated to view the status of open purchase order lines. You can generate the following reports:

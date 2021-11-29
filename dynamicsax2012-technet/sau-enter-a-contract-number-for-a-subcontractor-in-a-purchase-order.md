@@ -20,6 +20,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Enter a contract number for a subcontractor in a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Purchase orders** form to enter contract numbers for company vendors that are also subcontractors. You can add a contract number to an existing purchase order or while creating a purchase order.

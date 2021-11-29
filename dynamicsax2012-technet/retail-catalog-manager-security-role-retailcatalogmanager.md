@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail catalog manager security role (RetailCatalogManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Retail catalog manager security role represents a user who maintains and publishes retail catalogs at the head office.

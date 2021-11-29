@@ -15,6 +15,9 @@ ms.search.region: Global
 # About inventory close and the general ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Several of the tasks that you can complete in the **Closing and adjustment** form result in an update to the general ledger. These tasks include making inventory on-hand adjustments, making inventory transaction adjustments, running inventory recalculation, and running inventory close.

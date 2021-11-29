@@ -14,6 +14,9 @@ f1_keywords:
 # Set up a retail product hierarchy (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a retail product category hierarchy. You can create a category hierarchy to organize the products that you sell through your retail channels. You can use category hierarchies to group products that are used to create product assortments. You can also use a hierarchy for customer loyalty programs, and to assign product attributes and properties.

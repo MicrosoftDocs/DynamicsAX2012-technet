@@ -16,6 +16,9 @@ f1_keywords:
 # (DEU) German journal list report (LedgerJournalizeReport\_DE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **German journal list** report displays a list of transactions, sorted by journal sequence number, that result from running the **Journalizing** function. This report is used to review the status of general ledger processes. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, accounting supervisors, and financial controllers.

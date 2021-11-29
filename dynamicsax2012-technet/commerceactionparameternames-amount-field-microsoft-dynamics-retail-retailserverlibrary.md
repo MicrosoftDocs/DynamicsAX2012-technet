@@ -17,6 +17,9 @@ dev_langs:
 
 # Amount Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

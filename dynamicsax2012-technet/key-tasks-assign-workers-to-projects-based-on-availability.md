@@ -25,6 +25,9 @@ ms.search.region: Global
 # Key tasks: Assign workers to projects based on availability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to staff a project based on the skills and availability of worker resources. By using resource-based scheduling, you can deploy your organization's workers efficiently and effectively when they are needed. You can review the capacity of each worker and see whether the worker is being adequately scheduled, and then assign the worker to a project or activity based on the project requirements and the worker’s qualifications.

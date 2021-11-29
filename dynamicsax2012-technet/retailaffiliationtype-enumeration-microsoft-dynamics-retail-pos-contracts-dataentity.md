@@ -20,6 +20,9 @@ dev_langs:
 
 # RetailAffiliationType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 List of retail affiliation types supported by the system.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

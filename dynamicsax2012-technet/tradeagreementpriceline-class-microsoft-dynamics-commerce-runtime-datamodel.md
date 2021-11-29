@@ -17,6 +17,9 @@ dev_langs:
 
 # TradeAgreementPriceLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price line representing just the result of trade agreement price search.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

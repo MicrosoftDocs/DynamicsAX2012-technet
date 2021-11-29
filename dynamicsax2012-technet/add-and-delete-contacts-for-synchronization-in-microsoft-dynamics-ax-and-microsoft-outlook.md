@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add and delete contacts for synchronization in Microsoft Dynamics AX and Microsoft Outlook 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can synchronize the list of contacts that you have stored in Microsoft Dynamics AX with the contact list that you have in a Microsoft Outlook profile. You can also synchronize the contact list that you have in a Microsoft Outlook profile with your list of contacts in Microsoft Dynamics AX. The procedures in this topic describe how to synchronize your contacts between Microsoft Outlook and Microsoft Dynamics AX. The procedures also describe how to remove contacts that you have synchronized between the two programs.

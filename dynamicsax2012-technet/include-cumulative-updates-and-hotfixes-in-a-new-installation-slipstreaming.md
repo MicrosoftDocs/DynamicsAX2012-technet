@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Include cumulative updates and hotfixes in a new installation (slipstreaming) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are installing Microsoft Dynamics AX components for the first time, and cumulative updates, binary hotfixes, or service packs for Microsoft Dynamics AX are available, you can incorporate the updates into the installation by using a process that is known as slipstreaming. When updates are slipstreamed, Setup automatically detects and applies them. In this way, the time that is required to install the whole Microsoft Dynamics AX solution is reduced.

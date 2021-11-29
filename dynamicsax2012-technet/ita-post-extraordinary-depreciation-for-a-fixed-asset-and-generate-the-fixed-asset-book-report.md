@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Post extraordinary depreciation for a fixed asset and generate the Fixed asset book report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Fixed asset journal to post extraordinary depreciation for eligible fixed assets. After posting the extraordinary depreciation, you can generate the Fixed asset book report to view the details.

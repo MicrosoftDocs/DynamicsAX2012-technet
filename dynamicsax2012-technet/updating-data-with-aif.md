@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Updating Data With AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the different ways that you can update data by using Application Integration Framework (AIF). Many of the document services that are included with Microsoft Dynamics AX support the modification of data by using the update service operation. For more information about document services included with Microsoft Dynamics AX, see [Standard Document Services](standard-document-services.md).

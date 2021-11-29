@@ -17,6 +17,9 @@ dev_langs:
 
 # IsDiscountAllowed Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Check whether the discount is allowed for the item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -14,6 +14,9 @@ dev_langs:
 # Query Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The query service is one of the Microsoft Dynamics AX system services that enables you to issue a query for data without using an Application Integration Framework (AIF) document service or creating a custom service. The query service returns data in a dataset and implements a paging mechanism so that you can manage large amounts of data returned by a query. The query service is:

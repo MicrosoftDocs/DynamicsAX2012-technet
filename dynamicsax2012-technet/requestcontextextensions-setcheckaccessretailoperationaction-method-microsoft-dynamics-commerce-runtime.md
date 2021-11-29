@@ -17,6 +17,9 @@ dev_langs:
 
 # SetCheckAccessRetailOperationAction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the delegate to check access for [RetailOperation](retailoperation-enumeration-microsoft-dynamics-commerce-runtime-datamodel.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

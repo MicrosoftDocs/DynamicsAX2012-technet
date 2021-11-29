@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Compress the Intrastat transactions and generate the Intrastat report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can compress an Intrastat declaration for the transaction currency. All invoice amounts must be reported in the transaction currency even if the transaction currency is different from your default currency. If there are multiple invoices for the same customer or vendor, the transactions can be compressed for the transaction currency and displayed as a single line in the Intrastat report.

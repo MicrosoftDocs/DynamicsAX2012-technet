@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up Performance Monitor counters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Performance Monitor objects and counters to collect information about the performance of each component of the architecture: Application Object Server (AOS), the database server, and Internet Information Services (IIS). We recommend that you run monitor performance primarily in a test environment. The recommended collection interval is 30 seconds.

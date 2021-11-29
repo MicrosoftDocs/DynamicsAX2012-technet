@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Vendor payment journal report (VendPaymentJournal\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor payment journal** report displays the payment details and settlement details for a vendor payment journal that you can select in the **Payment journal** form. This report is used to view the account and payment details for individual vendors. This report is typically used by accounts payable payments clerks, chief financial officers, accountants, accounting managers, accounting supervisors, and financial controllers.

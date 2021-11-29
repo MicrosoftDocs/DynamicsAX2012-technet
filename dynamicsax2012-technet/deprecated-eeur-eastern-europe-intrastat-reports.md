@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (EEUR) Eastern Europe Intrastat reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Eastern European installations, Microsoft Dynamics AX 2009 includes country/region-specific functionality for Intrastat reports. Starting in 1993, all companies across the 27 European Union (EU) member states must report Intrastat for trade across EU borders.

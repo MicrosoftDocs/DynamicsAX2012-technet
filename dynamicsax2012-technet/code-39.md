@@ -13,6 +13,9 @@ f1_keywords:
 
 # Code 39
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A barcode symbology standard maintained by American National Standards Institute (ANSI).
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Quality control manager security role (InventQualityControlManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Quality control manager role represents a user who enables and reviews processes, maintains master data, and responds to inquiries within quality control.

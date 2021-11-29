@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Settle a sales invoice with delayed transfer of property 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Invoice journal** form to settle a sales invoice that is related to a delayed transfer of property. For more information, see [Customer invoice journal (form)](https://technet.microsoft.com/library/aa618201\(v=ax.60\)) and [(RUS) Customer invoice journal (modified form)](https://technet.microsoft.com/library/jj711658\(v=ax.60\)).

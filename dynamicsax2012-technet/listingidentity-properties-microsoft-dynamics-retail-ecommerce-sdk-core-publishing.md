@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ListingIdentity Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ListingIdentity](listingidentity-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md) type exposes the following members.
 
 ## Properties

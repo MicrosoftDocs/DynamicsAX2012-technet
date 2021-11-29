@@ -14,6 +14,9 @@ ms.search.region: Global
 # Defining processes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Each company has unique processes for marketing, leads, and sales. In **Sales and marketing**, you can define and implement these processes by creating guidelines.

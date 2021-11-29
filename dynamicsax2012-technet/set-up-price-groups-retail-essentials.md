@@ -14,6 +14,9 @@ f1_keywords:
 # Set up price groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up price groups in Retail essentials. A price group helps you manage prices and discounts for retail products in specific channels, catalogs, affiliations, and loyalty programs. For example, you can create a price group that is named **Student** and use this price group to link several discounts to specific stores and to an affiliation.

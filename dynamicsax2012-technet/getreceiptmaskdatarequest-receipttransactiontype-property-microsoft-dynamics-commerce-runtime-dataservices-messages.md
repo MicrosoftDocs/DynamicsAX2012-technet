@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptTransactionType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Receipt Transaction Type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About workflow statuses for category extension requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A category extension request is a request to add a vendor to a procurement category in which the vendor is not yet approved to do business. Category extension requests are submitted by employees or vendors, and are routed through workflow for approval. Employees and vendors can track the progression of a category request by monitoring its workflow status in the Employee services portal or the Vendor portal.

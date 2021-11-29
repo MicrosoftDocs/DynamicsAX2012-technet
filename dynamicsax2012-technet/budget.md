@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A financial plan that control expenditures for planned activities.
 
 ## See also

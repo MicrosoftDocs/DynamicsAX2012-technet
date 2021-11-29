@@ -13,6 +13,9 @@ f1_keywords:
 
 # work item queue
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list that contains workflow work items that are assigned to users.
 
 ## See also

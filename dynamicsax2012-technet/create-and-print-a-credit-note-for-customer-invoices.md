@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and print a credit note for customer invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 You can create an invoice with a negative amount; such an invoice is classified as a credit note. You must select the transactions that were previously posted for a customer invoice and then edit the transactions to create and print a credit note. With the exception of legal entities whose primary address is Germany, the title of the invoice is **Corrective invoice**.
 
 ## Prerequisites

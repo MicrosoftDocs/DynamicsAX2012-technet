@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install client components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to install the client components for Microsoft Dynamics AX. The following topics are included:

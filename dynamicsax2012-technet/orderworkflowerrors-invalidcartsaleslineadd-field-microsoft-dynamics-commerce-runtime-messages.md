@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCartSalesLineAdd Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cart line is invalid in the add operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets or returns the current value as described in the Enum TransactionType.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

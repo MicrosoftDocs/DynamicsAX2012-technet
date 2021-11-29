@@ -17,6 +17,9 @@ dev_langs:
 
 # IPharmacyV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Do not use the Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPharmacyV1 interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ContinueShoppingHyperLink Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The HyperLink for continue shopping.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

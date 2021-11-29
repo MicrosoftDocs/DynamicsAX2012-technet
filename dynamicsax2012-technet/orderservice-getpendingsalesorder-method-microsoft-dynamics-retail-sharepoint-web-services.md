@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPendingSalesOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the Pending sales order matching the transactionId.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

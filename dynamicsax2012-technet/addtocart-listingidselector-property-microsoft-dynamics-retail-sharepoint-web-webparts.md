@@ -18,6 +18,9 @@ dev_langs:
 
 # ListingIdSelector Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the jQuery selector to use to obtain the listingId from the page.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

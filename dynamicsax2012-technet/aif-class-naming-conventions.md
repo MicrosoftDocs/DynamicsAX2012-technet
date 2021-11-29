@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AIF Class Naming Conventions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following table lists the naming conventions for the Application Integration Framework (AIF) classes. If you are creating your own services, it is a best practice to follow these naming conventions.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Intercompany timesheet entry in projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Microsoft Dynamics AX 2012 Feature Pack, an organization can allow a worker in one legal entity to enter hours that are worked for a project that is managed in a different legal entity, without requiring that the worker switch company data sets.

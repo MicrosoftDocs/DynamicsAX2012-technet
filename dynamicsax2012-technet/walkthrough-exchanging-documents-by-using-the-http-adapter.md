@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Exchanging documents by using the HTTP adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The HTTP adapter enables synchronous communication through a website. This walkthrough demonstrates how to use an inbound integration port together with the HTTP adapter to read a sales order from Microsoft Dynamics AX. In this walkthrough, you create an inbound integration port, and then use C\# code to create a command-line program that reads a specific sales order.

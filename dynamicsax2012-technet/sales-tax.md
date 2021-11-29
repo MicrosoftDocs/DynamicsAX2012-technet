@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A tax levied on the sale of products.
 
 ## See also

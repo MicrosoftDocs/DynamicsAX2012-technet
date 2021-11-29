@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Merge global address book records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At times, you might want to merge two or more party records into a single record. This can occur if you have created one or more duplicate party records, either on purpose or unintentionally.

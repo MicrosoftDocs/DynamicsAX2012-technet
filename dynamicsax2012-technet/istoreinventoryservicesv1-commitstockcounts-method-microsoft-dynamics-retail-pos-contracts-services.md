@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitStockCounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commits stock counts by sending them back to HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

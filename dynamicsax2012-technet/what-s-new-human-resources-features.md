@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Human resources features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 We have changed and added functionality in the [Human resources](human-resources.md) area for Microsoft Dynamics AX 2012. To learn more, see the tables that apply to your version of the product.

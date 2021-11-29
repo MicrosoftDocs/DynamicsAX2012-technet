@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Master data management security role (Mdm) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Master data management security role represents a user who handles master data management duties.

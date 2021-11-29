@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up a bank account for electronic vendor payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a bank account for electronic vendor payments in the **Bank accounts** form.

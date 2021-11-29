@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterPickupFromStoreDeliveryModeIdScript Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Register the startup script for PickUpFromStoreDeliveryModeId
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

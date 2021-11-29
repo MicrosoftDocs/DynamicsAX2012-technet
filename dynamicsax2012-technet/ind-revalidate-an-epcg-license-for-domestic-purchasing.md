@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Revalidate an EPCG license for domestic purchasing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To use an Export Promotion Capital Goods (EPCG) license for purchases from indigenous suppliers, you must revalidate the license so that its status is set to **Domestic**.

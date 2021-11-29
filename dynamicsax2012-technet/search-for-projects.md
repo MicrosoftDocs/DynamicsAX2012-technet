@@ -17,6 +17,9 @@ ms.search.region: Global
 # Search for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can search for project numbers at all levels in the project hierarchy. For example, to search for projects (parent projects and subprojects) whose project IDs start with 9003, do the following:

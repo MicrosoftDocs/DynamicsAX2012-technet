@@ -15,6 +15,9 @@ ms.search.region: Global
 # About managing standard cost updates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Updates to standard cost data can be managed by using two different approaches: the one-version approach and the two-version approach.

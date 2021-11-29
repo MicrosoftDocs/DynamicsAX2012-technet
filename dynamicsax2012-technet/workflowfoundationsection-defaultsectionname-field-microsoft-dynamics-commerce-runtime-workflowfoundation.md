@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultSectionName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents root element name of config file.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Configuring an inbound integration port for Office Excel import 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Data in Microsoft Excel can be modified by using any document service that has a Create or Update service operation, and that uses a file adapter or net.tcp. Before you can use a document service, you must register it, add it to an inbound integration port, activate the port, and then expose the service.

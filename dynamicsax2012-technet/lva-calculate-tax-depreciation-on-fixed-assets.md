@@ -19,6 +19,9 @@ ms.search.region: Latvia
 # (LVA) Calculate tax depreciation on fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In accordance with the Latvian legal requirements, the income tax for business organizations is adjusted using asset depreciation and is calculated using the tax depreciation method. You can calculate tax depreciation for an individual asset or for a category of fixed assets.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # category hierarchy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A structure that orders categories using a superordinate-subordinate relationship.
 
 ## See also

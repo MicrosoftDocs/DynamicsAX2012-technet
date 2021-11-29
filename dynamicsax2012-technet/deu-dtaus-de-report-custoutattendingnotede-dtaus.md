@@ -14,6 +14,9 @@ f1_keywords:
 # (DEU) DTAUS (DE) report (CustOutAttendingNoteDE\_DTAUS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **DTAUS (DE)** report prints an attending note for electronic customer payments. This report is typically used by credit and collections managers, accounts payable payments clerks, and accounts receivable payments clerks to maintain customer payments.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Vendor details (China) (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report of vendor transactions, including information about the posted ledger account.

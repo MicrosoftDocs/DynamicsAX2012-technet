@@ -17,6 +17,9 @@ ms.search.region: Global
 # View store transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to view the transactions that have been completed in stores. You can view a list of transactions for all statements for retail stores or for a specific statement. The statement posting process is used to account for the transactions that occur in Microsoft Dynamics AX for Retail POS. The statement posting process uses Retail Scheduler to transmit a set of the point-of-sale (POS) transactions to the Microsoft Dynamics AX client so that you can view them in this form.

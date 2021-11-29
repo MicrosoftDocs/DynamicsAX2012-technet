@@ -17,6 +17,9 @@ dev_langs:
 
 # Cashback Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cash back amount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

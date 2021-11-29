@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post a customs value correction for a customs journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customs value correction** form to post a customs value correction (KTS) for a customs journal. After you post a customs value correction, a facture is created. You can view the details of the facture in the **Facture journal** form.

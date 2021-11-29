@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) About worker table numbers for advance holders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A worker can be an employee or a contractor, and can hold several positions in an organization. An employee or a contractor can also be an advance holder who is accountable for the expense amount that is provided by the organization. To specify a worker as an advance holder, you must enter a unique worker ID in the **Worker ID** field in the **Worker** form. You must also select the **Advance holder** check box in the **Advance holders** form to indicate that the selected worker is an advance holder.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISearchResultV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISearchResultV2](isearchresultv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

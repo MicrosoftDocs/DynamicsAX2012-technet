@@ -16,6 +16,9 @@ f1_keywords:
 # (SWE) Customer/item statistics report (SalesOrderEntryStatistics) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer/item statistics** report displays statistical information about customers and the items that the customer has ordered within two specified periods. The information on this report is sorted by customer account. This report is used to inquire into the status of sales orders. This report is typically used by accounts receivable clerks, accounts receivable managers, accounts receivable centralized payments clerks, project managers, customer service representatives, sales clerks, sales managers, and sales representatives.

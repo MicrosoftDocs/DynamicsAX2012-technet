@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TrackingConfig Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TrackingConfig](trackingconfig-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

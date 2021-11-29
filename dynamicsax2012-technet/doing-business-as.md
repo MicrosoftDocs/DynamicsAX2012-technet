@@ -13,6 +13,9 @@ f1_keywords:
 
 # doing business as
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The assumed, fictitious name under which an organization is registered in the United States.
 
 ## See also

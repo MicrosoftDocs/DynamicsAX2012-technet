@@ -13,6 +13,9 @@ f1_keywords:
 
 # ledger dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier created from the combination of financial dimension values listed in a chart of accounts and used to classify the financial consequences of economic activity.
 
 ## See also

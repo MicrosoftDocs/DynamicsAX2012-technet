@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) Option/Notification report (CustOutPaymLetter\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Option/Notification** report displays and prints a list of direct debit payments that are made from a specific customer account. This report is printed based on the customer’s request. This report is used to review payments that are made by using the **cfonb - prélèvements (fr)** export format. This report is typically used by accounts clerks to maintain customer payments.

@@ -16,6 +16,9 @@ ms.search.region: Global
 # Key tasks: Credit card expense disputes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There may be times when you incur a credit card expense, and the transaction that appears on the credit card statement is incorrect. If this scenario occurs, first contact the merchant where the expense was incurred. However, if you cannot resolve the issue by contacting the merchant, you can create a credit card expense dispute. This dispute is then sent to the credit card institution.

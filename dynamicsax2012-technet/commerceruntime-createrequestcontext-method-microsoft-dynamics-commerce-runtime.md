@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateRequestContext Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates and populates the request context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

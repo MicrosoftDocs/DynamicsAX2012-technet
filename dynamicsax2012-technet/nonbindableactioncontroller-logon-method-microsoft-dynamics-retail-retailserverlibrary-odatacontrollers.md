@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Logs on a retail server user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

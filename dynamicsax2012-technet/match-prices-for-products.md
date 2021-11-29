@@ -19,6 +19,9 @@ ms.search.region: Global
 # Match prices for products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to match prices for products in a call center. The price matching feature lets call center workers match a competitor's price for a product. To match prices, a worker first creates a sales order that uses the regular price of the product and then invoices the order. After the invoice is created, the worker lowers the price to the requested amount by creating a credit that is applied to the customer's account.

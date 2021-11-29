@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatePinPadInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates an [IPinPadInfo](ipinpadinfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

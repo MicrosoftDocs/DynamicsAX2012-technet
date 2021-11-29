@@ -15,6 +15,9 @@ dev_langs:
 
 # TryGetVariant Method (String, ProductVariant)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Attempts to return the variant with the specified inventory dimension id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

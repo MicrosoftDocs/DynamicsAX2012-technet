@@ -20,6 +20,9 @@ dev_langs:
 
 # ReceiptTaxDetailsTypeIndia Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 How tax summary is organized in India receipts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

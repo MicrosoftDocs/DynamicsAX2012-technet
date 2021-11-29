@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Move AOT Elements between Models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can move AOT elements from one model to another model in the same AOS layer. This can be useful when elements are added to the wrong model, and you want to move them to the correct model. To reduce the chances of AOT elements being added to the wrong model, see [How to: Set the Default Model](how-to-set-the-default-model.md).

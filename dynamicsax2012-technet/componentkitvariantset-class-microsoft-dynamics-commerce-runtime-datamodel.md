@@ -17,6 +17,9 @@ dev_langs:
 
 # ComponentKitVariantSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the association between a component product and the list of kit variants it is contained in.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

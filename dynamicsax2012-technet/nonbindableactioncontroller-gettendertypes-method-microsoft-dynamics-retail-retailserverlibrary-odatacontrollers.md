@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTenderTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets tender types.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

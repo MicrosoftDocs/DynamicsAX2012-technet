@@ -13,6 +13,9 @@ f1_keywords:
 
 # revenue recognition accounting rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A recognition accounting rule that prescribes the recognition of revenue in accounts and on financial statements.
 
 ## See also

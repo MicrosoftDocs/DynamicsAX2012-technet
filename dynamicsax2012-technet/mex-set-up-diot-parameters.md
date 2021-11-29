@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Set up DIOT parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Legal entities and persons in Mexico that deal with vendors must submit a Declaración Informativa de Operaciones con Terceros (DIOT) to the Servicio de Administración Tributaria (SAT). All VAT transaction details are included as field concepts in the DIOT. You can define a concept representing the VAT amount at a specific tax rate.

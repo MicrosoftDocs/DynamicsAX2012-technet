@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up policy parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Policies are internal business controls that you create to enforce business rules that you have outlined for your business. You can create various types of policies, such as audit, purchasing, and expense policies. Before you can create any policies, you must set up the policy parameters for the selected policy type. For example, before you can create purchasing policies, you must set up the purchasing policy parameters.

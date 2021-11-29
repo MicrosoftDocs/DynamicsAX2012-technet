@@ -17,6 +17,9 @@ dev_langs:
 
 # LanguageId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The language ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

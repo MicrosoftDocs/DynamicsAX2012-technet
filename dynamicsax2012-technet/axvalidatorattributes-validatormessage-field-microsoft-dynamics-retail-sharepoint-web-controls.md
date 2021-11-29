@@ -18,6 +18,9 @@ dev_langs:
 
 # ValidatorMessage Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-validatormessage" which binds the message to display for failing validation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

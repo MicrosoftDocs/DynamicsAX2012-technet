@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create price calculations for sales order items that have a potency 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the information in this topic to create and validate price calculations for sales order items that have a potency and to process the sales order for the items. The concentration of an active ingredient in an item is defined as the item’s potency. Before you can create sales orders for items with potency, you must complete the following tasks.

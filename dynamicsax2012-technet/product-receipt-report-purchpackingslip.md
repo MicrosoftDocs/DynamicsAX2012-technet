@@ -14,6 +14,9 @@ f1_keywords:
 # Product receipt report (PurchPackingSlip) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Product receipt** report for internal documentation to record the product and quantity as they are received by inventory and the date they are received. You can also use the report as a packing slip when products are returned to the vendor.

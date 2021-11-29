@@ -24,6 +24,9 @@ ms.search.region: Global
 # Create working time calendars 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Working time calendars define the capacity that is available for an operations resource or resource group on specific days and at specific times. You can create an overall calendar for your production, several calendars for resources that operate at different times or shifts, or a separate calendar for each operations resource or resource group.

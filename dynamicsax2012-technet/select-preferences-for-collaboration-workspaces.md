@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select preferences for collaboration workspaces 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to specify preferences for how you create, maintain, and manage membership for collaboration workspaces. If you are using cumulative update 7 for Microsoft Dynamics AX 2012 R2, you can also specify preferences for how projects in Microsoft Dynamics AX 2012 are integrated with Microsoft SharePoint products or services.

@@ -19,6 +19,9 @@ ms.search.region: Spain
 # (ESP) Import chart of accounts and financial statement details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In accordance with 2008 regulatory requirements, all Spanish companies are required to comply with a new chart of accounts standard. In addition, the regulations require changes to all mandatory official reports, including Balance sheet, Income and Expenses, and Cash Flow. Instead of manually creating the new chart of accounts and financial statements based on these requirements, you can download the templates for the chart of accounts and financial statements, modify them based on your company's requirements, save them as text files, and then import them into Microsoft Dynamics AX

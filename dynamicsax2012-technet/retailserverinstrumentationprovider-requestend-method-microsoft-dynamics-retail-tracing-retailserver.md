@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestEnd Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Occurs when trace event ends.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Tracing.RetailServer](microsoft-dynamics-retail-tracing-retailserver-namespace.md)  

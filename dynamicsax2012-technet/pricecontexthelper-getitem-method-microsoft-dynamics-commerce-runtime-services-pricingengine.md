@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get item by item identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

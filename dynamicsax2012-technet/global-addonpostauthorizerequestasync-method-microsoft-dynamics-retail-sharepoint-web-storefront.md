@@ -19,6 +19,9 @@ dev_langs:
 
 # AddOnPostAuthorizeRequestAsync Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

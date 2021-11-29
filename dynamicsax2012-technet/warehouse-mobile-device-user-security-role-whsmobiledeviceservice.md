@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Warehouse mobile device user security role (WHSMobileDeviceService) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Warehouse mobile device user security role represents a user who accesses the Warehouse Mobile Device Portal service.

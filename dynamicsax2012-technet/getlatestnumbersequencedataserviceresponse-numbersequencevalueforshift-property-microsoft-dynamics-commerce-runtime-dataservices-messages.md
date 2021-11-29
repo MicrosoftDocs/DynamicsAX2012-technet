@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberSequenceValueForShift Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number sequence value for shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

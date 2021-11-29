@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKitConfigurationInformation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets information about the specific kit configuration that has the provided kit line values.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

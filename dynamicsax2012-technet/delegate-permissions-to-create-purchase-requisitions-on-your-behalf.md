@@ -19,6 +19,9 @@ ms.search.region: Global
 # Delegate permissions to create purchase requisitions on your behalf 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delegate one or more workers to order products and create purchase requisitions on your behalf. Authorization is granted to the worker from the date that you enter the authorization until the authorization expires.

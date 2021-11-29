@@ -17,6 +17,9 @@ dev_langs:
 
 # SpaceBetweenButtonsInPixels Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the between buttons (in pixels) in this button grid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

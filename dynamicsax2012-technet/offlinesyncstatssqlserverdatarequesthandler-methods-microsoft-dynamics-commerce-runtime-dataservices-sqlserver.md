@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OfflineSyncStatsSqlServerDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OfflineSyncStatsSqlServerDataRequestHandler](offlinesyncstatssqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Methods

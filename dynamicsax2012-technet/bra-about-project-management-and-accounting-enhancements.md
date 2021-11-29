@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) About project management and accounting enhancements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a project invoice to issue fiscal documents for a project. You can then generate a federal or municipal nota fiscal eletrônica (NF-e) from a posted project invoice. When you cancel a project invoice, the fiscal documents that are related to the invoice are also canceled.

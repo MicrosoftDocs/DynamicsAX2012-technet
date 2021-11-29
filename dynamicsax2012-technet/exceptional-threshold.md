@@ -13,6 +13,9 @@ f1_keywords:
 
 # exceptional threshold
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum limit of an individual transaction value that is a part of a cumulative transaction value, up to which a tax on the transaction value is not calculated. The exceptional threshold is applied to an individual transaction value that is a part of a cumulative transaction value that is within the cumulative threshold.
 
 ## See also

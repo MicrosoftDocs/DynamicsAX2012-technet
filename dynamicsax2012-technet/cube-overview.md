@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cube overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cube is a multidimensional structure that provides the basis for developing Business Intelligence (BI) applications. This article describes the components of a cube so that you can better understand how to use a cube to analyze data.

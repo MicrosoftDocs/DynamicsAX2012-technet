@@ -14,6 +14,9 @@ ms.search.region: Global
 # Design the row structure of a traditional financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Row definition** form to design a row structure for a financial statement. You can use the same row structure more than one time.

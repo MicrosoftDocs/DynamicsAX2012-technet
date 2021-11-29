@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonCodeLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reprensents a reason code line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

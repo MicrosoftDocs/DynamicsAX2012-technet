@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CrtUtilities Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CrtUtilities](crtutilities-class-microsoft-dynamics-retail-ecommerce-sdk-core.md) type exposes the following members.
 
 ## Methods

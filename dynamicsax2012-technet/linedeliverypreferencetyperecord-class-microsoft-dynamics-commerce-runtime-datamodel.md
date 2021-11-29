@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDeliveryPreferenceTypeRecord Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Models a single delivery preference type with a single line identifier. This is used only for accessing the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

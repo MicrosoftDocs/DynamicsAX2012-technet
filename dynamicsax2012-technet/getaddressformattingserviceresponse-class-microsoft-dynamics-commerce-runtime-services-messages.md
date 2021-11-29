@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAddressFormattingServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the resposne for the [GetAddressFormattingServiceRequest](getaddressformattingservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

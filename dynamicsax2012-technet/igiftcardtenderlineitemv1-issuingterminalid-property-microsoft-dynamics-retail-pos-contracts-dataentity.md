@@ -17,6 +17,9 @@ dev_langs:
 
 # IssuingTerminalId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The id of the terminal that issued the gift certificate.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # product sequencing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of classifying and managing characteristics of items so that products with similar characteristics can be scheduled to be produced together.
 
 ## See also

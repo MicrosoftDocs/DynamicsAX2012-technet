@@ -17,6 +17,9 @@ dev_langs:
 
 # MultipleCreditCardPaymentNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates tender lines submitted with more than one credit card from online store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

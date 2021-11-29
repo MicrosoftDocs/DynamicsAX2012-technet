@@ -17,6 +17,9 @@ dev_langs:
 
 # IsProductOrVariantInCategory Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks whether the product or the variant is under the category.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

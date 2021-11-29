@@ -15,6 +15,9 @@ dev_langs:
 
 # CheckReadOnlyProperties(T) Method (T)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if properties checked as readonly have not been updated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

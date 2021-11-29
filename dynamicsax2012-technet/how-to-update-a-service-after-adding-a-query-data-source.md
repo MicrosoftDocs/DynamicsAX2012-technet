@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Update a Service After Adding a Query Data Source 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, if you add a data source to a query that is the foundation for a document service, you must update the service to reflect these changes. For more information about the document services classes, see [Document Services Classes](document-services-classes.md). This process creates an Ax \<Table\> class (also called an AxBC class) for the new data source and updates the data object classes.

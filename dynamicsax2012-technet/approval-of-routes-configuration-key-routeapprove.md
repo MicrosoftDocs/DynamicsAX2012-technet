@@ -15,6 +15,9 @@ f1_keywords:
 # Approval of Routes configuration key (RouteApprove) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Approval of routes** configuration key controls access to forms and functions that you can use to approve route versions in the **Production control** module. If this key is enabled, you can activate a route version only after it has been approved. If this key is disabled, you can activate a route version at any time, even if it has not been approved.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # master scheduling
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process for generating a timetable for matching supply with demand.
 
 ## See also

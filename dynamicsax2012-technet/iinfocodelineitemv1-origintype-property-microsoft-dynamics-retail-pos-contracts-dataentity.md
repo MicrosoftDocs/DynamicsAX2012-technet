@@ -17,6 +17,9 @@ dev_langs:
 
 # OriginType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Where does the infocode originate from (sales, payment, etc)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

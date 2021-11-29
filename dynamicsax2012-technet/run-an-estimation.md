@@ -14,6 +14,9 @@ ms.search.region: Global
 # Run an estimation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Estimation is the first of the update jobs in the production life cycle. For more information about the various steps in the life cycle, see [About the production process](about-the-production-process.md).

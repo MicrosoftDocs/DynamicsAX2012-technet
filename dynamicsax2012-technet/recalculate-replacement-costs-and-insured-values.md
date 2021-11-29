@@ -17,6 +17,9 @@ ms.search.region: Global
 # Recalculate replacement costs and insured values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To recalculate replacement costs and insured values for fixed assets, you must first specify the percentage by which to change the existing costs and values. Then use the **Update replacement costs and insured values** form to recalculate the values. For more information, see [About recalculating replacement costs and insured values for fixed asset groups](about-recalculating-replacement-costs-and-insured-values-for-fixed-asset-groups.md).

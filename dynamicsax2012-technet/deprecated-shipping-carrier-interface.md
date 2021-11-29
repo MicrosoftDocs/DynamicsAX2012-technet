@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Shipping carrier interface 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 For the next major release after Microsoft Dynamics AX 2012 R3, the shipping carrier interface will be deprecated.
 
 Microsoft Dynamics AX customers often use one or more shipping carriers to deliver their products to customers. These carriers provide software that connects to their internal systems to print labels and enable efficient processing of shipments for delivery by those carriers. The shipping carrier interface feature allows carrier software packages to pull information from Microsoft Dynamics AX to generate freight charges and tracking numbers. The carrier software can then move information into Microsoft Dynamics AX, which eliminates manual entry and improves tracking visibility.

@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) About project debit notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate a debit note and get project expenses reimbursed by the customer. You can generate debit notes only for projects that have a transaction type of **Expense**. You can generate a project debit note by using the project debit note proposal workflow. Before you can generate a debit note, you must post an expense journal for the project.

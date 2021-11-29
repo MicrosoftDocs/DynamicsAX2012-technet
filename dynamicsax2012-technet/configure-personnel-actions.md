@@ -30,6 +30,9 @@ ms.search.region: Global
 # Configure personnel actions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic is intended for system administrators and describes how to set up personnel actions. Personnel actions are optional. If you enable personnel actions, you can require users to enter additional information when they perform the following tasks:

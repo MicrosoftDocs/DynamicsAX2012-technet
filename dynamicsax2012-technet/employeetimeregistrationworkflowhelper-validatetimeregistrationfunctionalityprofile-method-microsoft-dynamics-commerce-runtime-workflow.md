@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateTimeRegistrationFunctionalityProfile Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the employee registered stores.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

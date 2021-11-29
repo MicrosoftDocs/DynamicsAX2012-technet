@@ -14,6 +14,9 @@ f1_keywords:
 # Statement by dimensions report (LedgerTransStatement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Dimension statement** report displays account and transaction information by account.

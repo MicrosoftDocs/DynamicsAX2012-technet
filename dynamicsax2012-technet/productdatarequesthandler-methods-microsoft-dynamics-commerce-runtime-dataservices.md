@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductDataRequestHandler](productdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices.md) type exposes the following members.
 
 ## Methods

@@ -13,6 +13,9 @@ f1_keywords:
 
 # turnover threshold
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum limit of a cumulative transaction value, up to which a tax on the transaction value is calculated by using concessional rates instead of standard rates.
 
 ## See also

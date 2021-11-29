@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Define parameters for export operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up the parameters for export transactions in the **Accounts receivable** and **General ledger** modules before you can create the export transactions. Use the following procedures to set the default operation type for the preliminary processing of transactions, the sales tax type, the sales tax code for the local market, and the period that is required for the collection of data for the value-added tax (VAT) declaration during export operations.

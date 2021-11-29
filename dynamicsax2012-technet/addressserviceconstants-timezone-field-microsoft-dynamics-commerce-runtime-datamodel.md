@@ -18,6 +18,9 @@ dev_langs:
 
 # TimeZone Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time zone field.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

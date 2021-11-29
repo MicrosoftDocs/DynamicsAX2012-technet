@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Global address book and address reference data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about global address books.

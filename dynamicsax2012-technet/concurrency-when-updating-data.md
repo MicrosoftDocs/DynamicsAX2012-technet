@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Concurrency When Updating Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how you can implement concurrency when updating data in Microsoft Dynamics AX using Application Integration Framework (AIF). Concurrency is the ability for multiple processes to access or change shared data at the same time. The greater the number of concurrent processes that can execute without blocking each other, the greater the concurrency of the database system.

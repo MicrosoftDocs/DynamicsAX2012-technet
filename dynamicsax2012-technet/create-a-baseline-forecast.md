@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a baseline forecast 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to create a baseline forecast by using Microsoft Dynamics AX 2012 R3 demand forecasting. A baseline forecast is an estimate of future demand that is based on historical demand. When you set up the parameters for demand forecasting, you define the types of demand transactions for which to collect historical data. When you create a baseline forecast, you define the period during which to collect historical data. The data is then loaded into a Microsoft SQL Server Analysis Services cube where the baseline forecast is calculated and stored. You can view the demand forecast by using an Excel file.

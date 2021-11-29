@@ -17,6 +17,9 @@ dev_langs:
 
 # MustUpdateOnChange Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the data store must be updated explicitly when an entry it contains is being changed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

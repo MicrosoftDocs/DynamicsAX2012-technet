@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up store payment methods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 After you create a payment method in Retail, you can assign the payment method to stores. Multiple payment methods for stores can be based on a single organization-wide payment method. Each store payment method can have different settings.

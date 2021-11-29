@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up ledger posting groups for sales tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When transactions are posted, sales taxes are calculated and posted automatically to main accounts. The default ledger posting groups are defined when you attach a ledger posting group to each sales tax code, or to each sales tax jurisdiction, if the organization operates in the United States and uses this functionality.

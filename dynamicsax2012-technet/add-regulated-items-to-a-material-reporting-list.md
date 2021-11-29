@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add regulated items to a material reporting list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this information to add items to a material reporting list for a country and a region, if applicable. You can add items by using the **Reported regulated products** form or the **Countries/regions that require item reporting** form. Use the **Reported regulated products** form when you want to add multiple items at the same time.

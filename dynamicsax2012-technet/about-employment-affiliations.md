@@ -18,6 +18,9 @@ ms.search.region: Global
 # About employment affiliations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An employment affiliation is a work relationship between a legal entity and a worker. When you hire a person, and subsequently create a worker record for that person, you must specify the legal entity that the person will have an employment affiliation with.

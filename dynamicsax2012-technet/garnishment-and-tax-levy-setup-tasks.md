@@ -28,6 +28,9 @@ ms.search.region: USA
 # Garnishment and tax levy setup tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up garnishments, tax levies, and any associated administrative fees. In Microsoft Dynamics AX, garnishments and tax levies are created and managed by using the benefit framework. This framework helps make sure that the payroll impact of garnishments and tax levies is handled correctly.

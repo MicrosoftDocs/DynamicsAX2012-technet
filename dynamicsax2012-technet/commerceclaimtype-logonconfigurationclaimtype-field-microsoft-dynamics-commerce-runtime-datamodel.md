@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnConfigurationClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 LogOn Configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

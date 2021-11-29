@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNonSaleTenderServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetNonSaleTenderServiceResponse is the response class set after non sale tender operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a competitor record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When managing your sales opportunities, researching your competitors and familiarizing yourself with their offerings is helpful. You can create competitor records in Microsoft Dynamics AX that include the following information about your competitors:

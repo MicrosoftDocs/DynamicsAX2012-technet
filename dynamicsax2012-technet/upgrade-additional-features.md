@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade additional features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Upgrade additional features** task in the **Data upgrade checklist** completes the upgrade process for the Application Integration Framework (AIF) and for business intelligence and reporting. When you click the task, the **Data upgrade cockpit (%1 -\> %2)** opens and displays a grid of upgrade jobs that you can run.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Working with purge objects and archive objects (IDMF) 
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add/Edit rules
 --------------
 

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Settle transactions with payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a payment was entered and posted, but not yet settled with an invoice or other transaction, you can settle the payment and invoice by opening the **Settle open transactions** form from the **Customers** or **Vendors** forms.

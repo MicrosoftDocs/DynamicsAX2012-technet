@@ -18,6 +18,9 @@ dev_langs:
 
 # PaymentCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the payment card associated with the payment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

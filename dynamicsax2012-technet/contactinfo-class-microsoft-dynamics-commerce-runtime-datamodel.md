@@ -17,6 +17,9 @@ dev_langs:
 
 # ContactInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a contact information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

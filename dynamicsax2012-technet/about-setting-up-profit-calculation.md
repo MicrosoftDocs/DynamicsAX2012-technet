@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting up profit calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Project statements** area of the **Project management and accounting parameters** form, you can choose how the profit calculations that you can make in the **Project statements** form are made.

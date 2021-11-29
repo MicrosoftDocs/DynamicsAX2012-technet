@@ -17,6 +17,9 @@ dev_langs:
 
 # IsDiscountCodeRequiredColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is discount code required column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

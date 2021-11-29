@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowLocation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the information requires to load workflow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaskRecorder Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides task recorder related operation
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

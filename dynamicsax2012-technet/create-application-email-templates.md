@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create application email templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can send emails to applicants that are based on the status of their application for employment, you must create application email templates. Create an application email template for each correspondence action that your organization uses. Application email templates can include bookmarks so that each email that uses the template can include specific information about the applicant and the job that the applicant applied for.

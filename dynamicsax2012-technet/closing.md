@@ -13,6 +13,9 @@ f1_keywords:
 
 # closing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting procedure that transfers the balances of the temporary owners’ equity accounts to the permanent owners’ equity account, which leaves the temporary accounts with zero balances.
 
 ## See also

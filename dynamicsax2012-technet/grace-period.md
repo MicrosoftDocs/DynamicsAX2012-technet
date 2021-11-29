@@ -13,6 +13,9 @@ f1_keywords:
 
 # grace period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time period beyond a specified date during which an obligation can be fulfilled without penalty.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardRewardPointsStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the status of the loyalty reward points by card number or directory party record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantToComponentDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of [KitVariantContent](kitvariantcontent-class-microsoft-dynamics-commerce-runtime-datamodel.md) indexed by the kit variant Ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

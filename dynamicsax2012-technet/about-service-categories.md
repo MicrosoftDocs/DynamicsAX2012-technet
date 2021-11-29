@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Service categories are a type of cost category. Service categories can be posted only by using numerical quantities, such as hours or units.

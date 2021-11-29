@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationController) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 Use the Reconciliation cash ledger report to view information about balance amounts and cash flow for the reconciliation of petty cash balances. Accountants generate this report periodically to analyze cash account information.

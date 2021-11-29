@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View charges for sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 1.  Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. Double-click an existing sales order to open it.

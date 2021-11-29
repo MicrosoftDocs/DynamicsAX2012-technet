@@ -21,6 +21,9 @@ ms.search.region: France
 # (FRA) Setup to export financial data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must create definition groups to export data. Definition groups define the tables and formats that are used to export data.

@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Create a tax setoff rule to settle an excise recoverable amount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Tax setoff rule** form to create a tax setoff rule to settle excise recoverable amounts against service tax. When an excise is recoverable, you define the sequence of taxes against which excise recoverable amounts are settled. You then provide the service codes and accounting codes for the service tax if the service tax is part of the tax hierarchy. Microsoft Dynamics AX settles the excise recoverable amount against the service tax payable amount based on the service codes that you select for the setoff rule in one of the following ways:

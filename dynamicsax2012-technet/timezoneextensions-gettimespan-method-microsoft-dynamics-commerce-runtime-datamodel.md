@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTimeSpan Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets time span for the given channel's date/time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

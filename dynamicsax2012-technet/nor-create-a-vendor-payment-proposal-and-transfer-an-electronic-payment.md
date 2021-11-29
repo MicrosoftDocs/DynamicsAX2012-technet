@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Create a vendor payment proposal and transfer an electronic payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create vendor invoices, generate vendor payments, and transfer the vendor payments electronically. You can create a payment proposal and generate a payment file that is to be sent to the bank for approval by using the bank's software. After the bank receives the file, the bank will pay the specified invoices and charge your account. The bank sends a return file and indicates whether a payment line is approved or rejected. You can then import the returned file and verify the payment file details. You can also modify the details in the payment file, and then resend the file to the bank for approval.

@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA transactions report (RAssetTransactionListing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA transactions report displays information about fixed asset transactions such as the transaction date, transaction currency, transaction type, a description of the transaction, and the transaction amount. Accountants generate and print this report to review the transactions for the fixed assets for a reporting period.

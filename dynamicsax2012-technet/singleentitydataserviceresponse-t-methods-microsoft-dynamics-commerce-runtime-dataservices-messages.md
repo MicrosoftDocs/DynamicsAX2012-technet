@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SingleEntityDataServiceResponse(T) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SingleEntityDataServiceResponse\<T\>](singleentitydataserviceresponse-t-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

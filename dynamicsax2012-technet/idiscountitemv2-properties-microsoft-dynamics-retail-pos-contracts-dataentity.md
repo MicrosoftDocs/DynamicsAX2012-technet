@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDiscountItemV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDiscountItemV2](idiscountitemv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

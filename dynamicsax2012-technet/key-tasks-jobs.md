@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Jobs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create jobs, you must set up some reference information that you can use for jobs. The procedures in this topic are listed in the order in which you should complete them.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingOptions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the available shipping options to choose from for an order or each line item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

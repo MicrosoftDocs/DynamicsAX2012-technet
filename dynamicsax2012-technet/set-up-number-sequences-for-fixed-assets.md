@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up number sequences for Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up number sequences for fixed assets based on a default number sequence, or based on fixed asset groups. You also can set up number sequences to use for fixed assets with bar codes and for journals that you use to post fixed asset transactions.

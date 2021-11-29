@@ -15,6 +15,9 @@ ms.search.region: Global
 # About loan items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Loan items are records that help you to keep track of the physical items that your company lends to workers. The following items are examples of items that a company might lend to workers:

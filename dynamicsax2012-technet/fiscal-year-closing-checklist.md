@@ -14,6 +14,9 @@ ms.search.region: Global
 # Fiscal year closing checklist 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At the end of a fiscal year, you must prepare your accounts for the next fiscal year and close the current fiscal year. Requirements for this process differ, based on the laws and accounting practices of the country/region where your organization is located.

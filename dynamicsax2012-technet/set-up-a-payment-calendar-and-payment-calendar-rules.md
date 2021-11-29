@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a payment calendar and payment calendar rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This procedure describes how to set up a payment calendar, and how to specify dates that are non-business days, such as public holidays. For more information about payment calendars, see [About payment calendars](about-payment-calendars.md).

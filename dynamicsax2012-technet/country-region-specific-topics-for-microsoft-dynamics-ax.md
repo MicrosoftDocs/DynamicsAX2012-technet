@@ -16,6 +16,9 @@ ms.search.region: Global
 # Country/region-specific topics for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides local and global functionality to meet requirements for many countries/regions around the world. For Help topics that support that functionality, titles begin with the three-letter International Organization for Standardization (ISO) abbreviation for that country. For example, topics that support functionality that is specific to Brazil have titles that begin with the prefix (BRA).

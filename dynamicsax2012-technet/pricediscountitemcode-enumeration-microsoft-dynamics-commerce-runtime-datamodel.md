@@ -20,6 +20,9 @@ dev_langs:
 
 # PriceDiscountItemCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enables to grant a discount with regard to an item, a superordinate item group or to all items.
 
 Refers to table PriceDiscTable.ItemCode.

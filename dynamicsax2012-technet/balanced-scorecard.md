@@ -13,6 +13,9 @@ f1_keywords:
 
 # balanced scorecard
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A strategic performance management report that aligns, tracks, and measures key organization activity against objectives.
 
 ## See also

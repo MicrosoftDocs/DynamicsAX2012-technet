@@ -17,6 +17,9 @@ dev_langs:
 
 # NeedChannelIdFromPrincipal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the channel should be retrieved from principal for the specific request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

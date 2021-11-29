@@ -14,6 +14,9 @@ ms.search.region: Global
 # Changing campaign target activity data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can change the information in the **Activities** form so that it references specific campaign targets. These changes to an activity do not affect the campaign target on which the activity is based. However, in general, changes to the campaign target do affect the associated activity.

@@ -20,6 +20,9 @@ ms.search.region: Spain
 # (ESP) Generate the delta report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Use the **Declaration 347** form to generate a delta report to view the differences between the original report and the current report after the corrections are applied.

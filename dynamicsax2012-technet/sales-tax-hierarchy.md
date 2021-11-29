@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales tax hierarchy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A hierarchy that organizes multiple levels of sales tax reporting codes, such as tax types, tax components, excise record types, and service accounting codes.
 
 ## See also

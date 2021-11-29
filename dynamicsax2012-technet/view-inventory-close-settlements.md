@@ -14,6 +14,9 @@ ms.search.region: Global
 # View inventory close settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To view the items that are updated by running inventory close, use the **Settlements for voucher** form.

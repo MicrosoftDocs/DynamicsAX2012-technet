@@ -17,6 +17,9 @@ dev_langs:
 
 # MixAndMatchLineGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents line group configuration for a mix and match offer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

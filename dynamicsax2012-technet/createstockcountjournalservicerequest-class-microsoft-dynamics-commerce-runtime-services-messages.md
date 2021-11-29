@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountJournalServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CreateStockCountJournalRequest request class to create stock count journals.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

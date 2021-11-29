@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEmptyCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is this an "empty" customer (e.g., has the customer been set)Use customerId as the primary basis to determine if customer is set. Other fields such as name may also be included
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

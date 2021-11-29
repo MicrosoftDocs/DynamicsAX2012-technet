@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AvailabilityTransactionService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AvailabilityTransactionService](availabilitytransactionservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

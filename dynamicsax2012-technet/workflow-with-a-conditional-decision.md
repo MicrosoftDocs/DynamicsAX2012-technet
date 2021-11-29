@@ -14,6 +14,9 @@ ms.search.region: Global
 # Workflow with a conditional decision 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A conditional decision is a point at which a workflow divides into two branches. At that point, Microsoft Dynamics AX automatically decides which branch to use by evaluating the submitted document to determine whether it meets specified conditions.

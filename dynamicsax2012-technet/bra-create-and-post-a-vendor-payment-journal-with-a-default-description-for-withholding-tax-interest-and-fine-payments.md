@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a vendor payment journal with a default description for withholding tax, interest, and fine payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal voucher** form to create and post a journal that has a default description for withholding tax, interest, and fine payments that are made to a vendor. You can also use a payment proposal to post a vendor payment that includes a default description. When you mark transactions for settlement or transfer payment proposal lines, the transaction type is identified by using the default descriptions, and the corresponding transaction text that you set up for the transactions is updated in the ledger. For withholding tax, interest, and fine payments, the transactions are updated with the transaction text that is set up for the **Vendor - withholding tax**, **Vendor - interest**, and **Vendor - fine** descriptions. For payment proposals, the transactions are updated with the transaction text that is set up for the **Vendor - payment, vendor** description.

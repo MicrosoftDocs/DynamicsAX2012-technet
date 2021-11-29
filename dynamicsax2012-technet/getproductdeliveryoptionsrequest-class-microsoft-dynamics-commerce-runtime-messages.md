@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductDeliveryOptionsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request to fetch delivery options for product and the delivery address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

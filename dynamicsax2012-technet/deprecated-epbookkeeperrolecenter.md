@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: EPBookkeeperRoleCenter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, users are assigned to Role Centers based on user profiles, which are sets of default information for a specific role in the organization. Each user is assigned to a user profile, and a Role Center is specified for each profile. The Bookkeeper role is responsible for tasks such as creating and paying vendor invoices, creating sales invoices, billing customers, recording customer payments, depositing payments into bank accounts, reconciling bank statements, printing financial statements, and closing the books at the end of the month.

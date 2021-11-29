@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # Configuring customer invoices (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section explain how to configure customer invoices for public sector organizations. These public sector topics complement the information that is listed in the main section for “[Configuring customer invoices](configuring-customer-invoices.md).”

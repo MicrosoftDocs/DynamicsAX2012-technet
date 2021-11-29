@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailItemGroupId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 The retail group of the item.

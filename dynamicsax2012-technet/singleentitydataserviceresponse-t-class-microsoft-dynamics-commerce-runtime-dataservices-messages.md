@@ -17,6 +17,9 @@ dev_langs:
 
 # SingleEntityDataServiceResponse(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 EntityDataServiceResponse contains the data service entity response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

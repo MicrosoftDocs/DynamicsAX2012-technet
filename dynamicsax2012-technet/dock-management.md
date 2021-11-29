@@ -13,6 +13,9 @@ f1_keywords:
 
 # dock management
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A warehouse process where you can control inventory items for multiple orders, shipments, loads, or waves at the docks when inbound items are received or outbound items are loaded.
 
 ## See also

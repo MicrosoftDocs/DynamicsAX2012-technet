@@ -15,6 +15,9 @@ ms.search.region: Global
 # About adjusting transactions in projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure Project management and accounting parameters to allow workers who have permissions to modify project parameters to adjust certain transactions. For example, you might be able to adjust transactions that have a status of Posted or Invoiced, but not those that have a status of Invoice proposal, Estimated, or Eliminated.

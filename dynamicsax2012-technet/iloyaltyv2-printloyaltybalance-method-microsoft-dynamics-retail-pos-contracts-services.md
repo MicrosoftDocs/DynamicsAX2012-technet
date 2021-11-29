@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintLoyaltyBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Submits the request to print loyalty card balance to the printer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

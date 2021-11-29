@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shift using both terminal identifier and shift identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

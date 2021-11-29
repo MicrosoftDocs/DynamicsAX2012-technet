@@ -17,6 +17,9 @@ dev_langs:
 
 # DeactivateDevice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 De-activate device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

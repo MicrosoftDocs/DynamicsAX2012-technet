@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Microsoft Dynamics AX Warehouse Management II 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 For the next major release after Microsoft Dynamics AX 2012 R3, the Warehouse management II feature will be deprecated.
 
 Microsoft Dynamics AX 2012 provides several warehouse management processes in Warehouse management II that give you the flexibility to optimize your warehouse according to your individual requirements. Warehouse management II processes allow you set up operating practices to ensure that your inventory, equipment, labor and space are used effectively.

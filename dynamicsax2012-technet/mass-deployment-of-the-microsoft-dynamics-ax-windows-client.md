@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Mass deployment of the Microsoft Dynamics AX Windows client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information that can help you deploy many Windows clients for Microsoft Dynamics AX at the same time.

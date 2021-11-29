@@ -17,6 +17,9 @@ dev_langs:
 
 # IAddressBookPartyData Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents data returned by transaction service to help connect a party to a store address book.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

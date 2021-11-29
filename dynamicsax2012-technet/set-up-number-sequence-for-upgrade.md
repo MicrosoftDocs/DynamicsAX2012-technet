@@ -14,6 +14,9 @@ f1_keywords:
 # Set up number sequence for upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In releases before Microsoft Dynamics AX 2012, the general ledger was always related to a single voucher, regardless of the source document. Now that some subledger journal entries can be summarized when they are transferred to the general ledger, a new numbering sequence is needed for the general journal entries.

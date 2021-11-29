@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Create a deferral manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Deferrals** form to manually create a deferral. You must also specify the deferrals model for a deferral. The status of a deferral that is created manually is updated to **Scheduled**. You cannot manually modify the status of a deferral that is created manually.

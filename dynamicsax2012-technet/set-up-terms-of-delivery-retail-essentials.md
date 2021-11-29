@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up terms of delivery (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up terms of delivery in Retail essentials. The terms of delivery specify the conditions for an item's transfer from seller to buyer. They are used on sales orders and purchases orders. You can specify the terms of delivery that are used by the organization for customers and vendors.

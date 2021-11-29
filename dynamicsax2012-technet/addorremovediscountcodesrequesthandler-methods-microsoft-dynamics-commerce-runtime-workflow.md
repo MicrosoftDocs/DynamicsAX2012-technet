@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddOrRemoveDiscountCodesRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddOrRemoveDiscountCodesRequestHandler](addorremovediscountcodesrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

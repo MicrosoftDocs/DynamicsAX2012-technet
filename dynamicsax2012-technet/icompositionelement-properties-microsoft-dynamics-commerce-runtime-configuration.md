@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICompositionElement Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICompositionElement](icompositionelement-interface-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Properties

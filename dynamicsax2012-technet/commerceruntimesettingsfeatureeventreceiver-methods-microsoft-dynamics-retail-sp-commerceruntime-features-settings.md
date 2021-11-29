@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeSettingsFeatureEventReceiver](commerceruntimesettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sp-commerceruntime-features-settings.md) type exposes the following members.
 
 ## Methods

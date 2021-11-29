@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Generate a storno transaction for a transfer order receipt with scrap quantity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can write off the scrap quantity of an item when you receive the item after shipment. When you update the item receipt, you can specify the scrap quantity for the received quantity. You can also create a storno transaction to reverse the scrap entry if you find errors after posting.

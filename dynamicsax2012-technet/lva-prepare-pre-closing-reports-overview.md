@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Prepare pre-closing reports overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about tasks that are related to preparing pre-closing reports.

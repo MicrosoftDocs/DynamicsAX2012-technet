@@ -15,6 +15,9 @@ dev_langs:
 
 # GetNonSaleTenderServiceResponse Constructor (IEnumerable(NonSalesTransaction))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetNonSaleTenderServiceResponse](getnonsaletenderserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

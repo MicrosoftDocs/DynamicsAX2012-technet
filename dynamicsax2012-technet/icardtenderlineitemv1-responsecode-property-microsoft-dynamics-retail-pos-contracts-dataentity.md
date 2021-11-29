@@ -17,6 +17,9 @@ dev_langs:
 
 # ResponseCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The authorization responce code received.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

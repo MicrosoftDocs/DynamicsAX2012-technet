@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXSecurityRoleInfo
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXSecurityRoleInfo
 
 Returns a list of Microsoft Dynamics AX security roles, and information about them.

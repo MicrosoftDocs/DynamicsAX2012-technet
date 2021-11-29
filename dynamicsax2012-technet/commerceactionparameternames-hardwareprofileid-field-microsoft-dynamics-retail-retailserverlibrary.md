@@ -17,6 +17,9 @@ dev_langs:
 
 # HardwareProfileId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The hardware profile ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

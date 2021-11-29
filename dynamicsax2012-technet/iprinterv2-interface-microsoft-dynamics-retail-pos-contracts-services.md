@@ -17,6 +17,9 @@ dev_langs:
 
 # IPrinterV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 2.0. Interface for printer device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

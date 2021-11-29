@@ -17,6 +17,9 @@ dev_langs:
 
 # SuspendedTransactionCount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Amount of suspended transactions on the current terminal's store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

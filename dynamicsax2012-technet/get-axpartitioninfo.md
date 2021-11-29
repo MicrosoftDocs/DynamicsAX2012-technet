@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXPartitionInfo
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXPartitionInfo
 
 Returns a list of all partitions.

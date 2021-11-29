@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up value models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Value models track the financial value of a fixed asset over time for various purposes, such as accounting depreciation, tax depreciation, revaluation, and disposal. Each value model represents an independent financial life cycle, and each fixed asset can have several value models assigned to it.

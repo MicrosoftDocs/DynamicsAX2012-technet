@@ -14,6 +14,9 @@ f1_keywords:
 # Project price groups report (ProjPriceGroupList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view project transactions by price group. You can view the report for a specific project, project contract, or project price group.

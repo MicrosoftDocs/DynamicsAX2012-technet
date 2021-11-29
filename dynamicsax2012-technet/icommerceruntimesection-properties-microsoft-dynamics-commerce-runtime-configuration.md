@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICommerceRuntimeSection Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICommerceRuntimeSection](icommerceruntimesection-interface-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Properties

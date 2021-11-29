@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate restored VAT and revenue amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to calculate restored value-added tax (VAT) amounts and revenue amounts. You can calculate restored VAT amounts by using the following methods:

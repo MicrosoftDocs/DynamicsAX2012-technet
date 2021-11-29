@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDiscount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Total line discount given in this transaction(excluding the tax).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

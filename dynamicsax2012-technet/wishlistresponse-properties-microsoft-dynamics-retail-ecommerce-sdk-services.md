@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WishListResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WishListResponse](wishlistresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

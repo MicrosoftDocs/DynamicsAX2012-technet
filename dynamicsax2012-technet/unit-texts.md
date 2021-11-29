@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Unit texts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Unit texts are printed on external documents such as invoices. If no unit text is associated with a unit of measure, the symbol of the unit of measure is applied.

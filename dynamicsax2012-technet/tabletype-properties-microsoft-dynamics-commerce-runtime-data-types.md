@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TableType Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TableType](tabletype-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Properties

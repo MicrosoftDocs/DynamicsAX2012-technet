@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LayoutManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LayoutManager](layoutmanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

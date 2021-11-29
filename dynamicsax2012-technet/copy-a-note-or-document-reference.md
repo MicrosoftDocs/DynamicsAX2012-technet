@@ -14,6 +14,9 @@ ms.search.region: Global
 # Copy a note or document reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can copy notes and document references from one record to one or more other records. For example, you can complete the following tasks:

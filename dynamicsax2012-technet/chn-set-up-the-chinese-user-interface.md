@@ -17,6 +17,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up the Chinese user interface 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Names and addresses of people must be entered and displayed in Chinese characters using a specified format. The address format should display the entire address on a single line.

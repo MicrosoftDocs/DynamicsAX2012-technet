@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify options for Microsoft Project integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Project managers in your legal entity can link projects in Microsoft Dynamics AX 2012 R2 to Microsoft Project, where they can manage the work breakdown structure and worker assignments for projects in more detail. Before you can create the link, you must specify options for how Microsoft Project files are managed. These options include whether Microsoft Project MPP files are created and maintained in a local or network folder, or in a Microsoft Project Server implementation.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing Item-Product Data Management Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, the item-product data management framework is enhanced to provide flexibility and sustainability across the organization. The data model is completely reworked, and every reference to entities that are now shared must be updated to reference the new tables.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Mapping security in Microsoft Dynamics AX to Analysis Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Security for analysis cubes is set up independently of security for Microsoft Dynamics AX. This topic describes methods that you can use to map the security that you implemented in Microsoft Dynamics AX to security in Microsoft SQL Server Analysis Services.

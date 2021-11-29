@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Maintain ledger accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topic provides information about managing ledger accounts.

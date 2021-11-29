@@ -17,6 +17,9 @@ ms.search.region: Global
 # Setting up and maintaining Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The topics in this section provide information about how to set up and maintain information for retail operations. This information includes stores, taxes, products, gift cards, promotions, and discounts.

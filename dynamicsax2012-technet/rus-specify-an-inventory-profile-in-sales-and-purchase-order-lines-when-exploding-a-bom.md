@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Specify an inventory profile in sales and purchase order lines when exploding a BOM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you explode a bill of materials (BOM) on sales order lines or purchase order lines, the value of the **Inventory profile** field is specified on the order lines that correspond to the BOM lines:

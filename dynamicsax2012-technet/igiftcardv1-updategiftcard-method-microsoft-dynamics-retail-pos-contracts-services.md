@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deducts the amount paid with the gift card from the gift card's balance at the head office.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

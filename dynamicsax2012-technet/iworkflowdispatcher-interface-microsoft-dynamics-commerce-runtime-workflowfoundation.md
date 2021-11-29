@@ -17,6 +17,9 @@ dev_langs:
 
 # IWorkflowDispatcher Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interface for workflow dispatcher.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

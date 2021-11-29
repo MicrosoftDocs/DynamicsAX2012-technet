@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Accept case requests online with Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes a Sites Services for Microsoft Dynamics ERP solution called Online case request. After your system administrator or sales manager activates the solutions and sets up the Sites Services web site is set up, customer service staff or sales staff can use this web site to accept case requests online from customers (in addition to vendors and employees). For more information about the solutions that are included with Microsoft Dynamics AX, see [(USA) About Sites Services](usa-about-sites-services.md).

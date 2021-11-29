@@ -16,6 +16,9 @@ ms.search.region: Russia
 # (RUS) Set up an affiliated customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customers** form to affiliate a customer with an intercompany. If you sell a fixed asset to an affiliated customer within five years of placing the fixed asset into operation, then you can restore the bonus depreciation for the fixed asset.

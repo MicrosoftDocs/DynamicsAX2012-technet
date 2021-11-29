@@ -14,6 +14,9 @@ f1_keywords:
 
 # mandate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - The authorization given by a payer to a payee, or by the institution with which the payer's account is held, consenting to the debiting of the payer's account.
 
   - An authorization or command issued by a government authority.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetStoresResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetStoresResponse](getstoresresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

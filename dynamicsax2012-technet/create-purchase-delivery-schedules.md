@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create purchase delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To split up an order so that it can be delivered over a period of time, you would need to split up one order line. For example, you might split an order of 1,000 pieces of material so that 250 pieces are delivered each month for four months. You would also need to ensure that the deliveries are tracked in a schedule that is associated with the order.

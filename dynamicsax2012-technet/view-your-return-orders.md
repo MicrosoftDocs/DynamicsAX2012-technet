@@ -17,6 +17,9 @@ ms.search.region: Global
 # View your return orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **All return orders** list page to view a list of return orders that were created for items that your organization ordered and then returned. You can use the **Return order** page to view detailed information about a specific order.

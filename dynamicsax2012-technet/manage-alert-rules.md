@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage alert rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can manage your alert rules and update details of individual rules in the **Manage alert rules** form. Use one of the following methods to open this form:

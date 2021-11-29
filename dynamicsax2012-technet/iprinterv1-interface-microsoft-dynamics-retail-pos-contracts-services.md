@@ -17,6 +17,9 @@ dev_langs:
 
 # IPrinterV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrinterV1 interface is the version 1.0 printer device interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

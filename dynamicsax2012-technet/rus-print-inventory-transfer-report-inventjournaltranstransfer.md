@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Print inventory transfer report (InventJournalTransTransfer) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the Print inventory transfer report to print information about the transfer of inventory items from one warehouse to another. The data on the report is grouped by inventory dimension.

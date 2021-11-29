@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Guidance when Upgrading Reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reports are not upgraded automatically during the upgrade process. Microsoft Dynamics AX provides hundreds of default, out-of-the-box reports that you can deploy and customize. To upgrade MorphX reports, we recommend that you customize a default report. The default reports run on SQL Server Reporting Services. Reporting Services is a server-based reporting platform that provides comprehensive reporting functionality for a variety of data sources.

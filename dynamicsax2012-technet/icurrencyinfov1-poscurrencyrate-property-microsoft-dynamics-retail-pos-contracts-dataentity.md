@@ -17,6 +17,9 @@ dev_langs:
 
 # PosCurrencyRate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The exchange rate as seen by the POS.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

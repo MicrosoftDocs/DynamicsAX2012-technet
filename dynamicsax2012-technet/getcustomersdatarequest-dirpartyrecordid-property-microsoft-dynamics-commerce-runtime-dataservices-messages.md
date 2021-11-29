@@ -17,6 +17,9 @@ dev_langs:
 
 # DirPartyRecordId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the record identifier for dirPartyTable of the customer to retrieve.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

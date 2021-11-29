@@ -17,6 +17,9 @@ dev_langs:
 
 # SaleLineNumColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The sales line number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

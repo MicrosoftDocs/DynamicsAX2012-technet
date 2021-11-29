@@ -17,6 +17,9 @@ f1_keywords:
 # (HUN) Customer advance invoices journal report (CustAdvanceInvoiceJour) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX, a customer can make a payment to your organization in advance of receiving items and services. To track this prepayment, you can create an advance invoice for the customer. When the items and services are delivered, you can apply the prepayment to the amount due from the customer for the sale.

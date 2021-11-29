@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unit of measure for expressing quantities of sales product.
 
 ## See also

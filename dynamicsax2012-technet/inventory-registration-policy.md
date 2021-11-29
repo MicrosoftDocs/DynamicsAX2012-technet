@@ -13,6 +13,9 @@ f1_keywords:
 
 # inventory registration policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that controls when stock that is stored in a supermarket is registered as inventory.
 
 ## See also

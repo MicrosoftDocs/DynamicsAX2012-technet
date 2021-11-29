@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create a proposal of compensation transaction from a vendor account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Vendors** form to create a proposal of compensation transaction from a vendor account in order to automate settlements between the vendor account and a customer account. A proposed settlement report is automatically generated, and you can accept the proposal or modify it. When the settlement is done, you can post the proposed settlements in the general journal.

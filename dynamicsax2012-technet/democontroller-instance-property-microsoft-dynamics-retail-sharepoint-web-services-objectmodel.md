@@ -17,6 +17,9 @@ dev_langs:
 
 # Instance Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the instance of the [DemoController](democontroller-class-microsoft-dynamics-retail-sharepoint-web-services-objectmodel.md).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

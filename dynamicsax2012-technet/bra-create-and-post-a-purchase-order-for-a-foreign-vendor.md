@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a purchase order for a foreign vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and post a purchase order for a foreign vendor. Before you post the purchase order to import items, you must specify the import declaration information (the addition number and import declaration number) to generate an import fiscal document. An import fiscal document records transit information about the items that you import. This document is used to release the items from customs, and to validate the entry of the items in the warehouse of the legal entity.

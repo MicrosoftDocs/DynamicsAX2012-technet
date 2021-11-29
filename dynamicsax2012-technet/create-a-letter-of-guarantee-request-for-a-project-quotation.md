@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a letter of guarantee request for a project quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A letter of guarantee can be issued for a project quotation transaction between a principal and a beneficiary. After the project quotation is created, the principal can create a letter of guarantee request for the beneficiary and submit it to the bank. When the bank approves the request, the letter of guarantee is issued to the beneficiary. For more information, see [About letter of guarantee](about-letter-of-guarantee.md).

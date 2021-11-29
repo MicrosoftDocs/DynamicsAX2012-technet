@@ -14,6 +14,9 @@ f1_keywords:
 # Print inventory journal report (InventJournalTrans) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Print inventory journal** report to print information about inventory journals. The report can be run from different inventory and warehouse management forms. These include **Item transactions** \> **Movement**, **Inventory adjustment**, and **Bills of materials** and **Item counting** \> **Counting**.

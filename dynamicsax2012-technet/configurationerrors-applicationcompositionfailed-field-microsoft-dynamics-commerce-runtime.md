@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplicationCompositionFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that one or more runtime components needed to compose the application are missing or invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

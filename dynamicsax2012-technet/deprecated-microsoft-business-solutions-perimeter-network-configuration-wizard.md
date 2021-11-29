@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Microsoft Business Solutions Perimeter Network Configuration Wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX 2009 installation CD includes the Microsoft Business Solutions Perimeter Network Configuration Wizard. However, this wizard was removed from the installation CD for Microsoft Dynamics AX 2012.

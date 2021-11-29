@@ -14,6 +14,9 @@ f1_keywords:
 # History by customer transaction report (CustLedgerTrans) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to document the connection between the customer accounts and the ledger accounts or main accounts.

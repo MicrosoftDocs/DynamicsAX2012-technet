@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Consuming External Web Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX programmability model supports services. This means you can consume web services from X++ code, making external functionality available in your Microsoft Dynamics AX application. Some web services are provided free of charge, while others have licensing models that require you to pay a fee. In Microsoft Dynamics AX external web services can enable the following scenarios:

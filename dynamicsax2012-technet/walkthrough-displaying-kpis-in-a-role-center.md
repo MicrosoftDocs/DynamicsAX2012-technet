@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Displaying KPIs in a Role Center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create an analysis cube and define KPIs for it, you can display the KPIs in a Business Overview web part in a Role Center or Enterprise Portal.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting up retail products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Before you can offer products for resale in your retail channels, you must create and configure the products in Microsoft Dynamics AX. Retail uses the product features in Microsoft Dynamics AX to create organization-wide products in the product master. You can create the products, define the product properties and attributes, and assign the products to retail category hierarchies. To make the products available to your retail channels and add them to an active assortment, you must release the products to the legal entities in which they are available.

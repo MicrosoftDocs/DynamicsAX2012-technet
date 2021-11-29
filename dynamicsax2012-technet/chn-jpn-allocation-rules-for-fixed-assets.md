@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN, JPN) Allocation rules for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up an allocation rule to allocate depreciation costs for a fixed asset to a dimension of your legal entity. Fixed assets can be put into service for multiple dimensions, such as departments or cost centers. When you depreciate a fixed asset, the depreciation cost is posted to an offset account. By setting up an allocation rule, you can share the depreciation cost of the fixed asset between multiple dimensions of your legal entity.

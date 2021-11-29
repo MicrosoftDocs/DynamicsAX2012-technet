@@ -17,6 +17,9 @@ dev_langs:
 
 # CompressedTransactions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the compressed offline transactions. We use industry standard Gnu Zip algorithm.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

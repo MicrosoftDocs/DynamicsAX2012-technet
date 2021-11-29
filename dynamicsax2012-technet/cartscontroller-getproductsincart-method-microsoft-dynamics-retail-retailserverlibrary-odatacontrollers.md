@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsInCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the list of product objects used in context of the cart specified by the cart ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

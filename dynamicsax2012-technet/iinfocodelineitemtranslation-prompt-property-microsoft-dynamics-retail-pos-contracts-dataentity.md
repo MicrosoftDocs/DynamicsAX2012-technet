@@ -17,6 +17,9 @@ dev_langs:
 
 # Prompt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The text that is prompted when the user is prompted for the input of the infocode information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

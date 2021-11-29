@@ -17,6 +17,9 @@ dev_langs:
 
 # DateTimeOffsetExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionaltiy used to extend the [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Accounts payable reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic provides a list of country/region-specific reports for China. These reports are located in the Accounts payable area of Microsoft Dynamics AX. For more information about how to work with reports, see [Microsoft Dynamics AX reports](microsoft-dynamics-ax-reports.md).

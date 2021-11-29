@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Quick Guide: How to customize a Microsoft Dynamics AX for Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to customize the online store by using SharePoint features and the Visual Studio source-code projects that are included in the Retail SDK. This topic also describes how to deploy customizations in development, test, and production environments. For information about developer prerequisites, including Microsoft Visual Studio, see [Set up the development environment for SharePoint 2013](https://go.microsoft.com/fwlink/?linkid=299477).

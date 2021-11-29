@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WorkflowXamlFileDispatcher Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WorkflowXamlFileDispatcher](workflowxamlfiledispatcher-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Methods

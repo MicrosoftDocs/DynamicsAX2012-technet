@@ -17,6 +17,9 @@ dev_langs:
 
 # Description Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the description.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

@@ -24,6 +24,9 @@ ms.search.region: China (PRC)
 # (CHN, JPN) Create allocation rules and allocate depreciation costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use Microsoft Dynamics AX to set up an allocation rule to allocate the depreciation cost of a fixed asset to multiple cost accounts instead of the main cost account of your legal entity. An allocation rule can determine the percentage of the depreciation cost to assign to a cost account, and which cost account this percentage is assigned to. When you depreciate a fixed asset that is put into service for multiple operation units, such as departments or cost centers, Microsoft Dynamics AX can use the allocation rule to automatically calculate and allocate percentages of the depreciation cost to the individual cost accounts of the operation units

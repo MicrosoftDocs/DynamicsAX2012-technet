@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnSet(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a column set of a generic type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

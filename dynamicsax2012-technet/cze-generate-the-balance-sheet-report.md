@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Generate the balance sheet report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Balance sheet** report to generate and print a balance sheet report for a specified period. You can specify the layout of the balance sheet report in the **Balance sheet definition** form. For more information, see [(CZE) Balance sheet definition (form)](https://technet.microsoft.com/library/jj710630\(v=ax.60\)).

@@ -17,6 +17,9 @@ dev_langs:
 
 # Current Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides a model for creating a single Configuration object for the application. The first call creates a new CustomSecruityTokenServiceConfiguration and places it into the current HttpApplicationState using the key "FacebookSecurityTokenServiceConfigurationKey". Subsequent calls will return the same Configuration object. This maintains any state that is set between calls and improves performance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Login Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides simple login functionality including user authentication.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

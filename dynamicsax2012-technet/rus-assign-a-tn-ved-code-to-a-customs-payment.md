@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Assign a TN VED code to a customs payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **TN VED code relation with customs payment** form to assign a Commodities Classification Code of the Foreign Economic Activity (TN VED) code to customs payments. The TN VED code that is assigned is used to calculate customs payments.

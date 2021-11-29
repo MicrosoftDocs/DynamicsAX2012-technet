@@ -13,6 +13,9 @@ f1_keywords:
 
 # client bank
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A program that is used to make electronic payments to banks and to receive information from banks. This information includes acknowledgements of payments that were made, information about incoming payments, and bank account balances.
 
 ## See also

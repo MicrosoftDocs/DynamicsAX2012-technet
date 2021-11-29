@@ -17,6 +17,9 @@ ms.search.region: Spain
 # (ESP) About equivalences between existing and new chart of accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In accordance with regulations that took effect in 2008, all Spanish legal entities were required to reorganize their existing chart of accounts and maintain multiple charts of accounts. Using Microsoft Dynamics AX, you can make the necessary changes to your chart of accounts and create new charts of accounts.

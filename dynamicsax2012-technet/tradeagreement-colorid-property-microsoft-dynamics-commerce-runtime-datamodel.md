@@ -17,6 +17,9 @@ dev_langs:
 
 # ColorId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the color Id (if any) set on this trade agreement.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a BOM production order based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a new bill of materials (BOM) production order for an item, the value of the **Inventory profile** field is specified on the BOM lines of the production order.

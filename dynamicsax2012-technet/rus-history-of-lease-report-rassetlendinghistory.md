@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) History of lease report (RAssetLendingHistory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The History of Lease report displays details about the lending history of a fixed asset. Accountants generate this report periodically to review the lending history of a fixed asset and to identify fixed assets that are available for lease.

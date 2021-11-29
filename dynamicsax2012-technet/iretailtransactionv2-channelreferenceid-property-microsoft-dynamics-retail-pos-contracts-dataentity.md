@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelReferenceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reference ID set by the originating Channel
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # freight forwarder
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person or company contracted by a customer to consolidate loads into shipments and then transport and deliver those loads to specified destinations.
 
 ## See also

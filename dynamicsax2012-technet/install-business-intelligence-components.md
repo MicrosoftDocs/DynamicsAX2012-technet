@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install business intelligence components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The business intelligence components for Microsoft Dynamics AX provide reporting and analytical functionality that enables you to view and interpret business data. You can use these components to create and use Microsoft SQL Server Reporting Services reports and Microsoft SQL Server Analysis Services cubes.

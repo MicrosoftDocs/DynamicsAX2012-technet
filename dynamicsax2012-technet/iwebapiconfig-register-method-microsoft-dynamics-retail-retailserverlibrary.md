@@ -17,6 +17,9 @@ dev_langs:
 
 # Register Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers web api related configuration settings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

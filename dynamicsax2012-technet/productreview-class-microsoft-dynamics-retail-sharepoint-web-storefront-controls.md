@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductReview Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Control for displaying a recently purchased item to review.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnConfiguration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Logon configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

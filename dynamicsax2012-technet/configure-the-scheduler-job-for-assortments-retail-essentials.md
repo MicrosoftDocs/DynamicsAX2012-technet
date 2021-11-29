@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure the scheduler job for assortments (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to configure the scheduler job that sends product assortments to retail stores. The scheduler job for assortments is automatically run when an assortment is published.

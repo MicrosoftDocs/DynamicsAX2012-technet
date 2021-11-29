@@ -17,6 +17,9 @@ dev_langs:
 
 # IRequestPipeline Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base interface for a pipeline implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

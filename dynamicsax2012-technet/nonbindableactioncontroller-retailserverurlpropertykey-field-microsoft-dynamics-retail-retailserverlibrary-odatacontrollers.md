@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailServerUrlPropertyKey Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retail server URL property key (RetailServerProfilePropertyKey.InternalUrl = 1) defined in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

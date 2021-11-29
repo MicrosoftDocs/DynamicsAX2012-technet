@@ -19,6 +19,9 @@ ms.search.region: Global
 # Records and record templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe common tasks that are related to working with records. These tasks include adding and deleting records, updating multiple records at the same time, creating new records by using templates, and finding, filtering, and sorting records.

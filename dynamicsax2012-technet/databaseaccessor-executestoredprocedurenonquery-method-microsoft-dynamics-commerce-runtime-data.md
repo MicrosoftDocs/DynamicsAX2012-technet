@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteStoredProcedureNonQuery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the specified stored procedure with the specified parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

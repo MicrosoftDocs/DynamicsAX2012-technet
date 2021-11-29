@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Set up interest and fines for customer payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up accounts for financial interest and fines, default codes for interest and fines, and interest codes and fines codes for customers, sales orders, and free text invoices. You must also define the holidays or non-business days in a financial year that are not considered when interest and fines are calculated.

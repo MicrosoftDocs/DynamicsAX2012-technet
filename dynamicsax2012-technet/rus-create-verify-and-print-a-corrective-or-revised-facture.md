@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create, verify, and print a corrective or revised facture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and print corrective and revising factures based on credit notes, corrective invoices, and tax correction transactions. You can also revise either the lines or the header of an existing facture. All of the corrections and revisions of a facture are made in a specific order. You can view the details of the changes and the interim state of the facture.

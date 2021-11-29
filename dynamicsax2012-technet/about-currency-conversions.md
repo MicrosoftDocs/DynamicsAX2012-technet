@@ -15,6 +15,9 @@ ms.search.region: Global
 # About currency conversions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the currency code on the original sales order and the intercompany purchase order differ, the following fields are currency-converted if synchronization is enabled:

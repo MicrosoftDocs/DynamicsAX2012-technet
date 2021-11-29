@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Finalize Enterprise Portal upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The upgrade process can cause the URLs for various Microsoft Dynamics AX web pages to change in the Application Object Tree (AOT). If you plan to upgrade Enterprise Portal, you should select the option to **Finalize Enterprise Portal upgrade** to make sure that the web pages are synchronized to use the correct URLs.

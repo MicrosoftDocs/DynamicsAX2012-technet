@@ -14,6 +14,9 @@ dev_langs:
 # Example: Fault in an Outbound Message 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the Application Integration Framework (AIF) receives and processes an inbound message, it generates an outbound message in response. If any error has occurred in processing the message, the service can generate information about the error to include in the response. This topic describes the \<Fault\> tag that occurs in outbound messages that report an error in the corresponding inbound message.

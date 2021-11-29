@@ -17,6 +17,9 @@ dev_langs:
 
 # CashDrawer Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cash drawer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

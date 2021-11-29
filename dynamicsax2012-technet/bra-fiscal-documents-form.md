@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Fiscal documents (form) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Click **Fiscal books** \> **Common** \> **Booking periods**. Select a booking period and then, on the **Action Pane**, click **Fiscal documents**.. Select a booking period and then, on the **Action Pane**, click **Fiscal documents**.

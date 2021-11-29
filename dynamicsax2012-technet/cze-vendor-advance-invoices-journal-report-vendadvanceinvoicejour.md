@@ -18,6 +18,9 @@ f1_keywords:
 # (CZE) Vendor advance invoices journal report (VendAdvanceInvoiceJour) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX, you can make a payment to a vendor in advance of receiving items and services from the vendor. To track this prepayment, you can create an advance invoice for the vendor. When the items and services are delivered, you can apply the prepayment to the amount due to the vendor for the purchase.

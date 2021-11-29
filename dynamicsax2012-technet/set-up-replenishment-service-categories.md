@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up replenishment service categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You must set up a service category if you want to use replenishment rules to cross-dock (distribute by using a planned purchase order). The service category is linked to the vendor on the **Retail** FastTab in the **Vendors** form.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Response Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the base response used by all response messages.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

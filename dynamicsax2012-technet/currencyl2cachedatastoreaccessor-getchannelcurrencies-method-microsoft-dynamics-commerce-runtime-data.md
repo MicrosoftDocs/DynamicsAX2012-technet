@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelCurrencies Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the list of supported channel currencies.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

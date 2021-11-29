@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) Special parameter to enable NF-e (Federal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support an option to enable NF-e (Federal) in Brazilian parameters.

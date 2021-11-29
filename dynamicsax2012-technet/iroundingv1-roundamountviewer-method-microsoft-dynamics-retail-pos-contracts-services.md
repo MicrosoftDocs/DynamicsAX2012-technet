@@ -17,6 +17,9 @@ dev_langs:
 
 # RoundAmountViewer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rounds amount viewer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

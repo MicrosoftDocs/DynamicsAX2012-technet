@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: Best Practices for Developers in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The best practice checks that are enforced by the X++ compiler were updated to reflect new features that were added for this release. In addition, focus was put on security, and the existing rules that generated warnings were evaluated.

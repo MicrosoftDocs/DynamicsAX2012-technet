@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Inventory journal report (InventPhysicalPerWarehouseTrans\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Inventory journal** report prints a summary of physical inventory transactions in chronological order, sorted by physical transaction date or by warehouse. This report is used to inquire into the status of inventory processes. This report is typically used by materials managers, quality control managers, production supervisors, project assistants, project managers, service delivery managers, and warehouse managers.

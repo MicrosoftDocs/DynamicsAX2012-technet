@@ -17,6 +17,9 @@ dev_langs:
 
 # Validate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Request.Validate()](request-validate-method-microsoft-dynamics-commerce-runtime-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

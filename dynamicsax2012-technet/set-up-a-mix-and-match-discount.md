@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a mix-and-match discount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to set up mix-and-match discounts. A mix-and-match discount gives customers a discount when they purchase a specific combination of products. For example, a customer purchases two boxes of tea and receives 50 percent off the price of a tea cup. Products and variants can be included in mix-and-match discounts.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # About setting up loyalty programs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A loyalty program helps you ensure customer loyalty by rewarding customers for buying products in your retail stores. In retail stores, a plastic or paper card typically identifies the cardholder as a member of a loyalty program. This card may be referred to as a loyalty card, rewards card, points card, advantage card, or club card.

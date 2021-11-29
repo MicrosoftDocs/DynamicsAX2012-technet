@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a party record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create party records in two ways. When you are creating a record, such as a customer, worker, or competitor record, the information that you enter is automatically saved into a new record in the global address book.

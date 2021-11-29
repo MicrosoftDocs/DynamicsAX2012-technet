@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDirectChildCategoriesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The request of getting direct child categories for a specified parent category.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create Report Templates (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a template for reports. A report template can specify the sections that a report includes, such as a page header and footer, the controls that are included in each section, and the layout of the controls.

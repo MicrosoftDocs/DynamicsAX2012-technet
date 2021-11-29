@@ -13,6 +13,9 @@ f1_keywords:
 
 # discount variance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between an expected discount and an actual discount.
 
 ## See also

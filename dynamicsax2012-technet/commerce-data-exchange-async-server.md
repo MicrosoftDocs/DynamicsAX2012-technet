@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Commerce Data Exchange: Async Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Commerce Data Exchange: Async Server is part of the system for asynchronous data exchange between Microsoft Dynamics AX and retail channels. Async Server is installed at headquarters and communicates with Microsoft Dynamics AX. You can distribute the communication load at the head office by installing multiple instances of Async Server.

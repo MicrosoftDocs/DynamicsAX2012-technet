@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed-price projects - closing profiles report (ProjClosingProfile) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When your company completes large fixed-price projects, the costs, revenue, and profit margin are posted to the financial accounts in accordance with the completed contract method. Use this report to view the costs, revenue, and profit margin of estimate projects that are expected to close by a date that you specify.

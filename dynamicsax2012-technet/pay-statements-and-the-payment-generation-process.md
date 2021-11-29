@@ -24,6 +24,9 @@ ms.search.region: USA
 # Pay statements and the payment generation process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic answers some questions you might have about how to generate pay statements and worker payments.

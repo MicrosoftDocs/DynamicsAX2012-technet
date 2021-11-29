@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateCartPermissions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate user permissions on cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

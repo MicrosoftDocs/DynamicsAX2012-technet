@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Reverse charges for a service receiver and a service provider 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 A legal entity or a service receiver that receives a service from a vendor or a service provider is liable to pay complete or partial service tax for the service that is received.

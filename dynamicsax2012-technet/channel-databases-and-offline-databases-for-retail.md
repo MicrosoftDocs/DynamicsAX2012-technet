@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Channel databases and offline databases for Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 When you implement Microsoft Dynamics AX 2012 for Retail, you create a database for each store location or online store. This database is called the *channel database*. A channel database holds only the data that is required for retail transactions.

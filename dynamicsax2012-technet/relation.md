@@ -13,6 +13,9 @@ f1_keywords:
 
 # relation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of objects.
 
 ## See also

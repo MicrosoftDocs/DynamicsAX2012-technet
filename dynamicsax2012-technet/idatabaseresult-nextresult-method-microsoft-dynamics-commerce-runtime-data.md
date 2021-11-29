@@ -17,6 +17,9 @@ dev_langs:
 
 # NextResult Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Moves to the next result set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

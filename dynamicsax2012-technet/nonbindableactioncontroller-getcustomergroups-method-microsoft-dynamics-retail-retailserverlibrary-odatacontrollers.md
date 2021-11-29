@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerGroups Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets collection of customer group.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

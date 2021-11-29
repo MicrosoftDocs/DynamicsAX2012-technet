@@ -17,6 +17,9 @@ dev_langs:
 
 # ComponentPropertiesAsList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a list of the kit line product properties, qualified by the productId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Allocate the distribution of a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Fixed assets** form to allocate the distribution of an asset based on the Russian Classification on Objects of Administrative Division (RCOAD) code that is specified for the asset. You can specify the location, owner, and percentage of distribution for an asset.

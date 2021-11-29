@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Split a DFIA license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can split a Duty Free Import Authorization (DFIA) if all export obligations have been met for the authorization. After you submit the appropriate documents and the customs authority approves the split and issues a new authorization number, you can use or sell the new authorization.

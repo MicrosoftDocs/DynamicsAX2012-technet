@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ResumeShiftRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Properties
 
 <table>

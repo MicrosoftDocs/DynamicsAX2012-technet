@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Automate the processing of cubes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a cube is processed, the data in the cube is updated with data from the online transaction processing (OLTP) database. Microsoft SQL Server Analysis Services provides several options that you can use to process cubes. This topic provides a high-level overview of some of the options that are available to automate the processing of cubes. This topic also includes information about how to manually process cubes.

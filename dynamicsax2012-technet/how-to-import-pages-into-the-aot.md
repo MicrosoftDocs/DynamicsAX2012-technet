@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Import Pages into the AOT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a page in Enterprise Portal will be packaged and distributed to other Enterprise Portal installations, a copy of the page definition must be imported from SharePoint into the AOT. From the AOT, the page can be packaged for distribution to other Enterprise Portal installations.

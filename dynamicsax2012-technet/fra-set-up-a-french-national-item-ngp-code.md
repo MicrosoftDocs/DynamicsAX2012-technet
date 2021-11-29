@@ -17,6 +17,9 @@ ms.search.region: France
 # (FRA) Set up a French national item (NGP) code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create single-digit French national item (NGP) codes, and then set up the NGP codes for items. The NGP codes are included in the trade of goods declaration (DEB) report, and generated in the SAISUNIC 330 or INTRACOM format.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ClockInMethodName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clock in method name of transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

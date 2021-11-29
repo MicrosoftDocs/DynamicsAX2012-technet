@@ -24,6 +24,9 @@ ms.search.region: USA
 # Post payroll and generate vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to post payroll and generate the required vendor invoices.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # View reservations on items or orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are several ways to view reservations on items or orders. You may want to view reservations because you have questions about available items, delivery dates, or the need for new purchases. Alternatively, you may want to see how items that are on-hand or ordered are reserved for various orders.

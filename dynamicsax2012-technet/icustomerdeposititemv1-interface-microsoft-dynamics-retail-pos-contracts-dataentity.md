@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomerDepositItemV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ICustomerDepositItem interface version 1.0
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

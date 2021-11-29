@@ -18,6 +18,9 @@ ms.search.region: Global
 # Delete a service BOM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Service management** \> **Common** \> **Service agreements** \> **Service agreements**. Select the service agreement that you want to delete a service bill of materials (BOM) from.

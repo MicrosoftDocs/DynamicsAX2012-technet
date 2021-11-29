@@ -14,6 +14,9 @@ ms.search.region: Global
 # Use buyer's push to distribute products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to use buyer’s push to create transfer orders. *Buyer's push* is a process in which products are purchased by a centralized purchasing department (the buyer) and then distributed (pushed) to stores. The quantity that is distributed is either entered manually or calculated automatically. You can create transfer orders for a single item or many items.

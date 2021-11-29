@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: User interface changes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The user interface consists of features and commands that a user can use to interact with the software, especially to enter and view data and personalize forms. The user interface has changed considerably since Microsoft Dynamics AX 2009.

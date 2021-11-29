@@ -15,6 +15,9 @@ ms.search.region: Global
 # About line properties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the line property to set up default information about hour, fee, expense, and item transaction lines. You can use the line property to set up additional cost and sales price percentages for project hour transactions. When you create transactions for projects, the default line properties are automatically added to the lines in journals, invoices, and other postings. By setting up default line properties, you can minimize repetitive tasks when you work with projects.

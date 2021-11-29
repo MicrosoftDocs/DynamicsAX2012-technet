@@ -15,6 +15,9 @@ dev_langs:
 
 # GetSalesInvoices Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales invoice collection for a given customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

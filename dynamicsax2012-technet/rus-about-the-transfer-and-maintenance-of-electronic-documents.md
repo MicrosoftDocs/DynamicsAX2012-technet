@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About the transfer and maintenance of electronic documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX is integrated with a service provider for electronic document management to facilitate the transfer of statutory electronic documents to the reporting authorities, such as state tax services and state pension services. This integration provides follow-up services, such as document delivery confirmation and information about the approval status of the document. It also verifies the electronic documents and then converts them to a valid XML format.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtraData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Extra Data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetStockCountDataRequest is the request class to Get Stock count journals/transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

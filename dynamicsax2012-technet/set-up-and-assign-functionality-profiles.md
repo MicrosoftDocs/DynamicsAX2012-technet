@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up and assign functionality profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use a functionality profile to configure the point of sale (POS) functionality for all registers in a store. The settings in a functionality profile put limits on staff logons, specify information about secondary currencies, control the aggregation of products and payments, specify reason codes, enable X and Z reports, and so on.

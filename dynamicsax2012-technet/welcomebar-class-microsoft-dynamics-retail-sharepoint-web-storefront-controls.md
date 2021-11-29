@@ -17,6 +17,9 @@ dev_langs:
 
 # WelcomeBar Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Control for displaying the Welcome bar.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a minimum inventory quantity proposal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create a minimum inventory quantity proposal, use the following procedure:

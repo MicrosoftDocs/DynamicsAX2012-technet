@@ -17,6 +17,9 @@ dev_langs:
 
 # HasSameShiftId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if Fiscal printer shift id equals to POS one
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

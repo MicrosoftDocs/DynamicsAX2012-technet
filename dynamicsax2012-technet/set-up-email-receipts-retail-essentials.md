@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up email receipts (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Email receipts are an environmentally friendly option for processing retail sales. The customer can decide whether to receive a printed receipt, an email receipt, or both. This topic explains how to set up email receipts.
 
 For customers who are set up in Retail essentials, you can set the customer receipt option in the **Customers** form. For customers who are not set up in Retail essentials, set the default receipt option in the **Retail parameters** form.

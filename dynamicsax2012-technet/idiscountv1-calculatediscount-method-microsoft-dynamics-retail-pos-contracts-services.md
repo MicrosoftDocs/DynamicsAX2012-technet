@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the discounts for all sales lines for the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up sales tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Every company collects and pays taxes to various tax authorities. The rules and rates vary by country/region, state, county, and city. In addition, the rules must be updated periodically when tax authorities change their requirements.

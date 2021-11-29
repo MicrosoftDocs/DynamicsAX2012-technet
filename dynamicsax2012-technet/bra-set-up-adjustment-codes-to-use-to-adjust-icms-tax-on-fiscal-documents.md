@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Set up adjustment codes to use to adjust ICMS tax on fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a Sistema Publico de Escrituração Digital (SPED) fiscal text file, record C197 includes information about adjustments of Imposto sobre Circulação de Mercadorias e Serviços (ICMS) information on fiscal documents. These adjustments on fiscal documents can be because of deferral, suspension, differential of aliquot, anticipation, and other situations of exception in ICMS tax. Before you can adjust ICMS tax amounts on fiscal documents, you must specify the adjustment to apply to the adjustments. This topic explains how to set up adjustment codes by using the **Adjustment and information for fiscal documents** form.

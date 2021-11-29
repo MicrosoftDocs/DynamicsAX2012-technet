@@ -23,6 +23,9 @@ f1_keywords:
 # (FIN) Finnish sales tax report (TaxReport\_FI) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Finnish sales tax report to view the summary of sales tax components, and to review the status of the sales tax process and sales tax transactions. Accountants, accounting managers, accounting supervisors, accounts payable centralized payment clerks, accounts payable clerks, accounts payable managers, accounts payable payment clerks, chief financial officers, and financial controllers can generate this report.

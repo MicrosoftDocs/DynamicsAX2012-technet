@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Adding customer preferences to the Retail online sample store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 To make the new customer preference data available in SharePoint pages, you must modify code in Retail SDK\\Online Channel\\Storefront\\Storefront.sln. First, you add code to make the new fields available in the data model and the view model. Then you modify the web controls, and then you modify the store pages to enable display, entry, and modification of the new fields. Finally, you rebuild and redeploy the solution.

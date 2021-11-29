@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Commerce Runtime 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Microsoft Dynamics AX commerce runtime (CRT) serves as the engine for a retail channel. It connects to a CRT database that stores business data for the channel.

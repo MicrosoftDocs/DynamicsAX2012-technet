@@ -17,6 +17,9 @@ dev_langs:
 
 # RefundAmountMoreThanAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the refund amount is more than allowed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

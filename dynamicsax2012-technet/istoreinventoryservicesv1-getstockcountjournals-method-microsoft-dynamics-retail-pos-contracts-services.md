@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournals Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sync the local list of stock count journals with HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

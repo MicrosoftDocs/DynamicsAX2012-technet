@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot installation issues with the developer tools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information that can help you troubleshoot issues that you may encounter when you install the developer tools for Microsoft Dynamics AX.

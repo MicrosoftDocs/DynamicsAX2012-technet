@@ -17,6 +17,9 @@ dev_langs:
 
 # Transaction Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Instantiates a new instance of [Transaction](transaction-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

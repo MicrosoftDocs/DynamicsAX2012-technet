@@ -18,6 +18,9 @@ dev_langs:
 
 # CountyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The county name field.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

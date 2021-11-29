@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardInfoAndAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements workflows supported by the card type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

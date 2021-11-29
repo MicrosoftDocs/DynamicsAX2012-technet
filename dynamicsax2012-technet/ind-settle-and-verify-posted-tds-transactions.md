@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Settle and verify posted TDS transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can run the settlement process only for posted TDS transactions. You can verify these transactions in the **Closed transaction editing in several currencies** form and **Withholding tax transactions** form.

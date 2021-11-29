@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToDetermineQuantityForStoresNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that quantity can not be retrieved for certain store-item combination from inventory database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

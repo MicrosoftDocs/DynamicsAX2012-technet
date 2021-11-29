@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers in to the transaction, that the amount has been entered into the cash machine.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

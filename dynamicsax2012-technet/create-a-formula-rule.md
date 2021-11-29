@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a formula rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use formula rules to set up a specific fixed or calculated value for a variable. The calculations are performed every time that the variables in the calculation are changed.

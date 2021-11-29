@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the sales order matching the sales identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

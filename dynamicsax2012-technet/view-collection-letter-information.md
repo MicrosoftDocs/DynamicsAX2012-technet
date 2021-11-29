@@ -17,6 +17,9 @@ ms.search.region: Global
 # View collection letter information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a customer has an overdue balance, your organization might generate and send a collection letter to the customer to help collect on the account. You can use the **Collection letters** page to view a list of collection letters that have been generated, and then use the **View collection letter** page to view the details and transaction lines for a specific collection letter entry. You can also export collection letter data to Microsoft Excel.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PricingDataServiceManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PricingDataServiceManager](pricingdataservicemanager-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

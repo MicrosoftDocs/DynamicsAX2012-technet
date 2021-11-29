@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) Ledger post and Create remittance at operation type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support the option to create general ledger transactions when sales and purchase invoices are posted. Additionally a fiscal document can be marked as **Create remittance** in the setup of the operation type.

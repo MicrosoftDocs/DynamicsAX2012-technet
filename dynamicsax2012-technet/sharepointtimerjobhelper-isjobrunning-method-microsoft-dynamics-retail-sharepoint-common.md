@@ -17,6 +17,9 @@ dev_langs:
 
 # IsJobRunning Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if a job is running.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

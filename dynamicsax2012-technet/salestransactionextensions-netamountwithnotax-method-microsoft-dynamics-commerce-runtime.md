@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithNoTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line amount not including tax (whether tax-exclusive or inclusive scenario).
 
 Any inclusive tax is subtracted from NetAmount.

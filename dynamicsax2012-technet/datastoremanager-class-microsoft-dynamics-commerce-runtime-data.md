@@ -17,6 +17,9 @@ dev_langs:
 
 # DataStoreManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Models and implements the behavior of a data store manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

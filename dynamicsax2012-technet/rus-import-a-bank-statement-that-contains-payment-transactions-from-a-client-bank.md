@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Import a bank statement that contains payment transactions from a client bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Import from client-bank** form to import a bank statement that contains incoming and outgoing payment documents. You also use the form to import documents of currency purchase, sale, or transfer, and bank account balances. When you save the bank statements that are imported from a client bank, you must use the path that is specified in the **Folder for import** field in the **Exchange formats for settlement account** form. For more information, see [(RUS) Assign an exchange format to a bank account](rus-assign-an-exchange-format-to-a-bank-account.md).

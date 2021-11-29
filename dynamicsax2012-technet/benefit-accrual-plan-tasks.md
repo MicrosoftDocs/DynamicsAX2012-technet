@@ -39,6 +39,9 @@ ms.search.region: USA
 # Benefit accrual plan tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes the tasks required to set up benefit accrual plans.

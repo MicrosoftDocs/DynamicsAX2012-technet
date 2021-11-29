@@ -17,6 +17,9 @@ dev_langs:
 
 # Activation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns true or false, whether a certain relation is active for a discount search.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

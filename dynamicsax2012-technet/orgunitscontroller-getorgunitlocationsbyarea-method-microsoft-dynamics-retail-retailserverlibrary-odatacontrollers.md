@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrgUnitLocationsByArea Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Finds stores in a defined area.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

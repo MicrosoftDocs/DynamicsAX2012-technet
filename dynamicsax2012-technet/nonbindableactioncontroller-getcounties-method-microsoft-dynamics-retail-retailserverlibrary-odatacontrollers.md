@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCounties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the counties filtered by country and state province.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

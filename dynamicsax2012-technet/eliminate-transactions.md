@@ -18,6 +18,9 @@ ms.search.region: Global
 # Eliminate transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The elimination functionality lets you create elimination transactions in a legal entity that is specified as the destination legal entity for eliminations, also referred to as the elimination legal entity. Elimination journals can be generated during the consolidation process or by using an elimination journal proposal.

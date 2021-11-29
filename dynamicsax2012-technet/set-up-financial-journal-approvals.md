@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up financial journal approvals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some organizations require that journals be approved by a user other than the user who entered the journal. Two types of approvals are available for financial journals: manual and workflow. Based on journal names, you can require manual approval, workflow approval, or no approval. You cannot use both the manual approval system and the workflow approval system for the same journal name.

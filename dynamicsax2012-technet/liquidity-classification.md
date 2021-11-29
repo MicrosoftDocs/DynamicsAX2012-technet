@@ -13,6 +13,9 @@ f1_keywords:
 
 # liquidity classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A systematic organization of time intervals that predict the liquidity of a party.
 
 ## See also

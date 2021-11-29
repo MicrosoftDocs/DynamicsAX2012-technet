@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View transactions with service tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Service tax inquiry** form to view all transactions for the selected service tax code (STC) number and the tax settlement period.

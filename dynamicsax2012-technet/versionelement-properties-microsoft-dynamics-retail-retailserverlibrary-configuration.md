@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # VersionElement Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [VersionElement](versionelement-class-microsoft-dynamics-retail-retailserverlibrary-configuration.md) type exposes the following members.
 
 ## Properties

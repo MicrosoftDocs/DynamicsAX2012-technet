@@ -17,6 +17,9 @@ dev_langs:
 
 # DispatcherType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets full name of the workflow dispatcher class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

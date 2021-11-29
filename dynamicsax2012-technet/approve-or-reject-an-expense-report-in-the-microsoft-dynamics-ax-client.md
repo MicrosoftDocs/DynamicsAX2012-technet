@@ -15,6 +15,9 @@ ms.search.region: Global
 # Approve or reject an expense report in the Microsoft Dynamics AX client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can approve or reject an expense report for an employee in the Microsoft Dynamics AX client and in Enterprise Portal for Microsoft Dynamics AX.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for outlay - realized tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Tax expense registers contain all the taxes and duties grouped by tax type. Before you create a register for tax and duty accruals, which are accounted as expenses, you must set up the correspondence between tax codes, off-budget funds, and expense codes. For more information, see [(RUS) Set up tax correspondence with expense codes](rus-set-up-tax-correspondence-with-expense-codes.md) and [(RUS) Set up budget revenue codes for fixed asset taxes](rus-set-up-budget-revenue-codes-for-fixed-asset-taxes.md).

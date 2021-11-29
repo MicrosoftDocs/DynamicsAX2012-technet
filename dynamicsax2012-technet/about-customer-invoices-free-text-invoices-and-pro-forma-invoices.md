@@ -20,6 +20,9 @@ ms.search.region: Global
 # About customer invoices, free text invoices, and pro forma invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A customer invoice for a sales order is a bill that an organization gives to a customer in connection with a sale. You create this kind of customer invoice based on a sales order, which includes order lines and item numbers. Item numbers are specified and posted in the ledger. Subledger journal entries are not available for a customer invoice for a sales order.

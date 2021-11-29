@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCashBackAmount Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that cash back amount is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

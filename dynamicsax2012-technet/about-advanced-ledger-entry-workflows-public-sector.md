@@ -19,6 +19,9 @@ ms.search.region: Denmark, France
 # About advanced ledger entry workflows (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some public sector organizations require that advanced ledger entries be approved by a user other than the person who originated the entry. You can require workflow approval by setting up and activating a workflow configuration for advanced ledger entries. You can set up a workflow to require that all advanced ledger entries be submitted for approval, or only those that meet specified conditions.

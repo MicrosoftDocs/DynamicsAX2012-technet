@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MvcHelperExtension Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MvcHelperExtension](mvchelperextension-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Methods

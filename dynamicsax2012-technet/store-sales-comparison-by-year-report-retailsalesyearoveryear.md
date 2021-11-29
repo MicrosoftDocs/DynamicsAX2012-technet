@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Store sales comparison by year report (RetailSalesYearOverYear) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view the year-over-year sales comparison for a given store. You select the year against which to compare the sales, and the report compares sales for the specified year with the previous year for a given store.

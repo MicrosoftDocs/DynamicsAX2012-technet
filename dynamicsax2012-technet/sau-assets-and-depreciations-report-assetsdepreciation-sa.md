@@ -14,6 +14,9 @@ f1_keywords:
 # (SAU) Assets and depreciations report (AssetsDepreciation\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Assets and depreciations** report displays details of Zakat assets and depreciations. You can use the **Zakat assets and depreciation** form to calculate depreciation differences and record extra maintenance expenses that are required to calculate Zakat. This report is typically used by accountants, collections managers, accounts receivable clerks, and accounts receivable managers.

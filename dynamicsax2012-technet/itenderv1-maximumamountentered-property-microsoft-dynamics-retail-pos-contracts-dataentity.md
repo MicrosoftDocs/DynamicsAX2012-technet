@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumAmountEntered Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The highest amount possible to pay in a single payment
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

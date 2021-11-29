@@ -13,6 +13,9 @@ f1_keywords:
 
 # value-added tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A tax on products at each stage of their production based on the value added during that stage.
 
 ## See also

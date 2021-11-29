@@ -17,6 +17,9 @@ dev_langs:
 
 # RFIDScannerMessageEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Starts a RFID device message event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

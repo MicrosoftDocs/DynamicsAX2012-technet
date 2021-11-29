@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create or link to a collaboration workspace (Project) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Collaboration workspaces provide members of a team with the ability to work on a project in a shared online space. Team members can share documents, create lists, and use other Microsoft SharePoint Foundation 2010 features. Use the **Create collaboration workspace** form to set up a new shared workspace for a project or the **Link collaboration workspace** form to associate a project with an existing workspace.

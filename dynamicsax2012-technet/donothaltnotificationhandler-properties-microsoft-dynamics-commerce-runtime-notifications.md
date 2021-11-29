@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DoNotHaltNotificationHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DoNotHaltNotificationHandler](donothaltnotificationhandler-class-microsoft-dynamics-commerce-runtime-notifications.md) type exposes the following members.
 
 ## Properties

@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset balances report (AssetBalances) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print information about fixed asset balance amounts. These amounts include depreciation, special depreciation allowances, revaluations, write-up amounts, write-down amounts, amounts per book type, profit and loss information, and net book values.

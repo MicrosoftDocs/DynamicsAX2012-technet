@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Guest security role (Guest) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Guest security role must be assigned to the guest user account to grant access to the tables and web content that are needed for anonymous access to the public Enterprise Portal site.

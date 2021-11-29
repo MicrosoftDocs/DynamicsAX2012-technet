@@ -15,6 +15,9 @@ ms.search.region: Global
 # About editing a sales release order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have ordered against a sales agreement, certain fields in the sales release order (**Sales order** form) can be modified only if you remove the link to the associated sales agreement lines. The following table lists some of these fields.

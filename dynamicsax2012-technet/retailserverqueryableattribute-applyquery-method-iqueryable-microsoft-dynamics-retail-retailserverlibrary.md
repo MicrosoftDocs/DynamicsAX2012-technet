@@ -15,6 +15,9 @@ dev_langs:
 
 # ApplyQuery Method (IQueryable, )
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Overrides the base method for the purpose of removing of the applied skip query option on the results.
 
 The reason is that the lower layers already considered the skip parameter.

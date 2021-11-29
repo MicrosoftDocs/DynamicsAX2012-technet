@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Activate Commerce Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you upgrade to Microsoft Dynamics AX 2012 Feature Pack, activate your account for Commerce Services for Microsoft Dynamics ERP. This step is the first of three steps that are required to upgrade your Commerce Services account and its data.

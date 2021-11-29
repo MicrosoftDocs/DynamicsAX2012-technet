@@ -18,6 +18,9 @@ f1_keywords:
 # Compare data upgrade row counts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Compare data upgrade row counts** task in the **Data upgrade checklist** checks the data integrity on the Microsoft Dynamics AX 2012 target system following upgrade. Correctly correlated row counts among the source, shadow, and target tables suggest, but do not confirm, that bulk copy and data upgrade finished successfully.

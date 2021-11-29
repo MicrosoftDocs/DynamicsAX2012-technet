@@ -17,6 +17,9 @@ dev_langs:
 
 # RecordIdTableType Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a table-value type parameter to support set-based operations on RECIDs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

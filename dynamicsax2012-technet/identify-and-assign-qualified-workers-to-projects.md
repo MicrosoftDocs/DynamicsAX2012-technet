@@ -21,6 +21,9 @@ ms.search.region: Global
 # Identify and assign qualified workers to projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe how to use the resource scheduling tools in Microsoft Dynamics AX to identify qualified and available workers in your organization and reserve or assign them for work on one or more projects.

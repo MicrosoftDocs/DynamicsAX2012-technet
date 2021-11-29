@@ -17,6 +17,9 @@ dev_langs:
 
 # Capture Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Conclude transaction capture state.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

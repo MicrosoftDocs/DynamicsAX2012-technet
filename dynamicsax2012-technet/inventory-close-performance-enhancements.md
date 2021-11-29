@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Inventory close performance enhancements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper describes changes in the way the Inventory close and Recalculation batch jobs use the batch framework in Microsoft Dynamics AX.

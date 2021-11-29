@@ -13,6 +13,9 @@ f1_keywords:
 
 # knowledge article
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A document that documents unique characteristics for a case.
 
 ## See also

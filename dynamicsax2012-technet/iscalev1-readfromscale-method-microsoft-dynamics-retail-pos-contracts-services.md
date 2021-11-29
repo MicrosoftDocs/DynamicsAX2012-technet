@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadFromScale Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Synchronously read from Scale.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

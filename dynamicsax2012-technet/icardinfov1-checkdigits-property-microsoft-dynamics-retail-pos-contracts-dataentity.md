@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckDigits Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or set the check digits.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Transfer an EU purchase or EU sales transaction to the EU sales list form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can modify an EU purchase transaction and specify the reason for the change in the EU sales list form. The transactions are grouped based on the VAT registration ID and trade type. According to Hungarian tax regulations, companies are free to designate their own bank exchange rate. The exchange rate must be calculated as the average of the selling and buying rate of the foreign currency. Companies are also free to designate the date of exchange rate used to calculate the MST amount for orders in foreign currencies. The following two methods can be applied:

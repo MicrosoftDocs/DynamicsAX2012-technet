@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign a rate and route to a load 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to assign a rate and route to an inbound or outbound load.
 
 ## This task is part of a bigger process

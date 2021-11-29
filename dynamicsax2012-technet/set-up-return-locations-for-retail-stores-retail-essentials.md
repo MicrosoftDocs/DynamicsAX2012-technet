@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up return locations for retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to set up return locations. When a customer returns a purchase, the cashier often identifies the reason for the return. You can specify that returned products are assigned to different return locations in inventory, depending on the cashier’s response to the info codes and reason codes that are displayed at the point of sale (POS) on the Microsoft Dynamics AX for Retail POS register.
 
 For example, a customer returns a defective product. When the cashier processes the return transaction, Retail POS displays the info code for returns, and the cashier selects the subcode for defective returns. The returned product is then automatically assigned to a specific return location.

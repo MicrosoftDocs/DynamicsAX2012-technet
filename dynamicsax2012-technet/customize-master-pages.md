@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize master pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. For more information, see [Overview of the SharePoint 2013 page model](https://msdn.microsoft.com/library/jj191506.aspx). You can use the Retail starter store as a basis for developing your own online store. To customize the shared framing elements such as the header and footer for all the pages in your site, you can modify the site’s master pages.

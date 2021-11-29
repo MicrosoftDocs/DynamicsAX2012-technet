@@ -17,6 +17,9 @@ dev_langs:
 
 # Shipment Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains details of a packing slip.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

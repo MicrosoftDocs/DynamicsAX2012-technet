@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerAffiliationInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer affiliation information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

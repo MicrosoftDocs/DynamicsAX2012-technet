@@ -17,6 +17,9 @@ dev_langs:
 
 # IsNullOrEmpty(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the current collection is null or empty.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # UseSingletonHandlers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the composition should use singleton instances of the request handlers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

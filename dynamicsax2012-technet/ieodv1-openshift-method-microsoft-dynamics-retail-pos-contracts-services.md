@@ -17,6 +17,9 @@ dev_langs:
 
 # OpenShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Opens a shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

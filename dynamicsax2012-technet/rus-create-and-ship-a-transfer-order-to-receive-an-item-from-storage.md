@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and ship a transfer order to receive an item from storage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Transfer orders** form to create a transfer order. You can use the transfer order to ship items from the source warehouse. After storage, you can receive the items from a bailee by using the **Shipment** form.

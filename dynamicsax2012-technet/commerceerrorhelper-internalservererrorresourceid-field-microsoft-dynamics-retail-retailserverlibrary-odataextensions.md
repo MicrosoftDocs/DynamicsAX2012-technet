@@ -17,6 +17,9 @@ dev_langs:
 
 # InternalServerErrorResourceId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Internal error resource identifiers for unhandled/unknown errors.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

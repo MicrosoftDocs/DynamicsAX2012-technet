@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade overview and preparation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides information needed to prepare for an upgrade to Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 Feature Pack, or Microsoft Dynamics AX 2012 R2.

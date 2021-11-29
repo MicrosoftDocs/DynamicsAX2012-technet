@@ -17,6 +17,9 @@ dev_langs:
 
 # Name Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the readable name or description of this discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

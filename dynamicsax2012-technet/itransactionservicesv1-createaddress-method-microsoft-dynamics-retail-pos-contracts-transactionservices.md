@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new address associated with the customer. The new address's RecId is returned in the ID property of the address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

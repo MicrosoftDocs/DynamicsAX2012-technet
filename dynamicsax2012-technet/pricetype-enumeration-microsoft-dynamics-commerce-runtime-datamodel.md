@@ -21,6 +21,9 @@ dev_langs:
 
 # PriceType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price type. Maps to RetailPriceType enum in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

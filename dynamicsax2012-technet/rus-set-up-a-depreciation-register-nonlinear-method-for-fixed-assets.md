@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a depreciation register (nonlinear method) for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **FA depreciation (nonlinear method)** register displays the assets that are depreciated using the tax non-linear method, and the fixed assets are grouped by depreciation group and subgroup.

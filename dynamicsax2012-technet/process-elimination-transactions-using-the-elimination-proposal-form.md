@@ -19,6 +19,9 @@ ms.search.region: Global
 # Process elimination transactions using the Elimination proposal form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Elimination proposal** form to process elimination transactions for elimination legal entities and consolidation legal entities.

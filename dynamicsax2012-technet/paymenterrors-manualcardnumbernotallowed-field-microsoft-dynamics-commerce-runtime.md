@@ -17,6 +17,9 @@ dev_langs:
 
 # ManualCardNumberNotAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that card number cannot be entered manually for this card type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

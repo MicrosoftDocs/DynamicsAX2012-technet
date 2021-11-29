@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeExceptionFilterAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The commerce runtime exception filter attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

@@ -15,6 +15,9 @@ f1_keywords:
 # Commodity pricing configuration key (PdsCommodity) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Commodity pricing** configuration key controls access to the forms, fields, and functions that are used to work with commodity pricing in process manufacturing logistics.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # job description
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A statement of the essential responsibilities, duties, job functions, and requirements of a job.
 
 ## See also

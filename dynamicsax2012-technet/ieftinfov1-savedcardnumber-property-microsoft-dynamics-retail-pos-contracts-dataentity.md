@@ -17,6 +17,9 @@ dev_langs:
 
 # SavedCardNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If the card number has been hidden, this holds the correct card number for refunds.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

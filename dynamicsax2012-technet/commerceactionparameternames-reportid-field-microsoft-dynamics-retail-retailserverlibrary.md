@@ -17,6 +17,9 @@ dev_langs:
 
 # ReportId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The report ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

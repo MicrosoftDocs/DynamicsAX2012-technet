@@ -14,6 +14,9 @@ ms.search.region: Global
 # View all items for an approved vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To display a list of items for an approved vendor in **Procurement and sourcing**, use either the **All purchase orders** list page or the **Vendors** form.

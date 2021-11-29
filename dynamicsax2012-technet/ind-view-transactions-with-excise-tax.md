@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View transactions with excise tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Excise inquiry** form to view all transactions for the selected Excise Control Code (ECC) number and the tax settlement period. You can also use this form to run queries for the date of issue or receipt of goods, type of excise register specified for a transaction, and transactions with direct settlement to an excise register. The **Excise** check box must be selected on the Sales tax area in the **General ledger parameters** form. (Click **General ledger** \> **Setup** \> **General ledger parameters**.)

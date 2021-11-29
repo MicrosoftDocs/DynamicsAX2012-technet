@@ -13,6 +13,9 @@ f1_keywords:
 
 # base unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A fundamental unit of measure in a system of measurement from which other units are derived.
 
 ## See also

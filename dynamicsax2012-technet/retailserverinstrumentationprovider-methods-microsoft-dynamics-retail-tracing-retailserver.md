@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailServerInstrumentationProvider Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailServerInstrumentationProvider](retailserverinstrumentationprovider-class-microsoft-dynamics-retail-tracing-retailserver.md) type exposes the following members.
 
 ## Methods

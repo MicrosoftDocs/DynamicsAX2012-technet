@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up sales tax on prepayments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A tax authority can require that an organization must record sales taxes on prepayments from customers, even when a sale has not been made. Use the following procedure to set up sales tax on prepayments.

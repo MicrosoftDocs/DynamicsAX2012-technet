@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security administrator security role (SysSecSecurityAdministrator) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Security administrator security role represents a user who maintains user and security setup in Microsoft Dynamics AX. This user can create and maintain security roles, duties, and privileges. The user can also assign users to roles, define role assignment rules, and maintain data security policies.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create organization-wide card types and card numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 If your business accepts credit cards, debit cards, corporate cards, and other payments by card, you must create a card payment method. You must then create the organization-wide card types and card numbers. At the organization level, set up only one card payment method for all types of card. In each store, a payment method can be set up for each card or set of cards that should be processed by using the same settings.

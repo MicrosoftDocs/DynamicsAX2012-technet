@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemPrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the item with variant is a part of a price agreement and if it is returns that price. If it's not then the function returns the basic item price.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

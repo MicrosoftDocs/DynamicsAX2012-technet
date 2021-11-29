@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a batch order. Each item that you select for production is associated with a formula version and a route. The route is a sequence of operations that produce the finished product. If the item that you select has been approved and activated, and is in a valid date interval, the correct formula and route versions are displayed in the **Formula number** and **Route number** fields. These versions are based on the default quantity for the batch order.

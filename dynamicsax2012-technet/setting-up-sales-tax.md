@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up sales tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The sales tax functionality includes many types of taxes, such as sales tax, sales tax on sales tax, packing duties, and purchase duties.

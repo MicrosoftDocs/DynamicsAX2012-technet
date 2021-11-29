@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated:Team Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the ID server, which is known as the Team Server, hosts the allocation of new object IDs. The Team Server can be shared from multiple installations of Microsoft Dynamics AX Application Object Server (AOS) to provide unique assignment of IDs across multiple project development environments.

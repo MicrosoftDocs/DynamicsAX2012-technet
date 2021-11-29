@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteQueryDataSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the query with specified parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

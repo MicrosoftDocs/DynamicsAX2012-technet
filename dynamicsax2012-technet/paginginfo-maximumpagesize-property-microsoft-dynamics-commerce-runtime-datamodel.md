@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumPageSize Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the maximum number of records retrieved regardless of what value the page size has been set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

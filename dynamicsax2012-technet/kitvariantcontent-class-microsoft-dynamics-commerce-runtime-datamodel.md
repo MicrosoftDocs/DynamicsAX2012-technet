@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantContent Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the content of a kit variant.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

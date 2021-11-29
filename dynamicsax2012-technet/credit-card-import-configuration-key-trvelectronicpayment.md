@@ -14,6 +14,9 @@ f1_keywords:
 # Credit card import configuration key (TrvElectronicPayment) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Credit card import** configuration key enables the importing of credit card transactions. With this key enabled, you can set up your Microsoft Dynamics AX system to import credit card transactions from multiple financial institutions. These credit card transactions are available to workers to add to expense reports during expense entry.

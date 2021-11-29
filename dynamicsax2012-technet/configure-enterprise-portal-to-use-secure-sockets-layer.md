@@ -15,6 +15,9 @@ f1_keywords:
 # Configure Enterprise Portal to use Secure Sockets Layer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Secure Sockets Layer (SSL) enables web servers and clients to communicate more securely by using encryption. When SSL is not used, data that is sent between the client and server is vulnerable to observation by anyone who has physical access to the network. We recommend that you implement SSL for all Enterprise Portal and Role Center sites. If you are concerned about SSL and site performance, at a minimum, you should implement SSL on all public-facing sites.

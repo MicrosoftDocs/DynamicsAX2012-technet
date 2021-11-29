@@ -15,6 +15,9 @@ ms.search.region: Global
 # About redistributing manually assigned hours for a work breakdown structure in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how hours are redistributed among workers who were manually assigned to WBS tasks when workers are removed from their task assignments.

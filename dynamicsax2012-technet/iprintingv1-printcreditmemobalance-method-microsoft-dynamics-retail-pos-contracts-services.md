@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintCreditMemoBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints credit memo balance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

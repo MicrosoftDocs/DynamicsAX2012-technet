@@ -18,6 +18,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Update the chart of accounts for Zakat reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Chart of accounts** form to create, manage, and view your company’s general ledger accounts in a structured list. The general ledger accounts contain financial data about your company’s activities. You can set up Zakat information for different types of accounts in the **Chart of accounts** form. For **Revenue**, **Cost**, or **Profit and Loss** account types, use the fields in the **Profit and loss accounts** field group. For **Assets**, **Liabilities**, or **Balance** account types, use the fields in the **Balance accounts** field group.

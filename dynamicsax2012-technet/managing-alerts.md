@@ -14,6 +14,9 @@ ms.search.region: Global
 # Managing alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The guidelines in the following topics apply to administrators who have to set up the alerts feature for Microsoft Dynamics AX. The alerts feature is not related to specific modules but can be used across modules.

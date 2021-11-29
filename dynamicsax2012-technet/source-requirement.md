@@ -13,6 +13,9 @@ f1_keywords:
 
 # source requirement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The product quantity documented on a source document line that creates a pegging requirement.
 
 ## See also

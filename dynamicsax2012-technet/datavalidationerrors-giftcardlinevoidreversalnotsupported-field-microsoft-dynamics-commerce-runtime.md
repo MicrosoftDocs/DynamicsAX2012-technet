@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardLineVoidReversalNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The gift card line void reversal is not supported.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

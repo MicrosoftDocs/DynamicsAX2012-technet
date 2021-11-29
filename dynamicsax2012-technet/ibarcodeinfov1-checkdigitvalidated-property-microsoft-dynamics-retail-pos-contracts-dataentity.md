@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckDigitValidated Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the check digit validated. Indicates whether the check digit in the barcode has been validated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

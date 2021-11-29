@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Top 10 OU performers in current year report (RetailTop10Stores) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to view the top ten performing stores, based on sales and gross margin. You can also view the total number of products sold for the store. This report displays the top ten performing stores for the current calendar year.

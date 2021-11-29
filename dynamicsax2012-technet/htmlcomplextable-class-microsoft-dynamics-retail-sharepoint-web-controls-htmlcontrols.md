@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlComplexTable Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a complex Html table element complete with additional elements like thead, tfoot, etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

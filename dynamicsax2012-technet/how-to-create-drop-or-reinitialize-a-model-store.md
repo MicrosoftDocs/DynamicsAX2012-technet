@@ -14,6 +14,9 @@ dev_langs:
 # How to: Create, Drop, or Reinitialize a Model Store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The model store is a database where all application elements for Microsoft Dynamics AX are stored. This topic describes how to create, remove, and reinitialize a model store.

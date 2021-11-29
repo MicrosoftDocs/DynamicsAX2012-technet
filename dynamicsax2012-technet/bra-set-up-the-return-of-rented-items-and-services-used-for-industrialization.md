@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up the return of rented items and services used for industrialization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Items and services that are rented and used for industrialization may be exempt from Imposto sobre Circulação de Mercadorias e Serviços (ICMS) and Imposto sobre Produtos Industrializados (IPI) taxes. The legal entity that receives the items or services can handle the receipt as a symbolic remittance or as an actual remittance that does not involve the calculation of taxes. For a symbolic remittance, there is no inventory movement. However, for an actual remittance, you must register the movement of inventory.

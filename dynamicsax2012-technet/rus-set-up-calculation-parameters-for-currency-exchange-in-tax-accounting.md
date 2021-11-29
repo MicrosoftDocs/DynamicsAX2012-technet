@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up calculation parameters for currency exchange in tax accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Currency revaluation accounts** form to set up calculation parameters for currency exchange in tax accounting.

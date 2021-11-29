@@ -19,6 +19,9 @@ ms.search.region: Global
 # About item costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides an overview of how to configure Microsoft Dynamics AX to post project costs for items to profit and loss accounts. This configuration is set up in the **Project groups** form.

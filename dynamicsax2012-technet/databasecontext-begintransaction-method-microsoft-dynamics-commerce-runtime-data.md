@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Begins a transaction on the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

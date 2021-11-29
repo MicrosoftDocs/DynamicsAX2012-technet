@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournalsTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves Stock Count journal Transactions from AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

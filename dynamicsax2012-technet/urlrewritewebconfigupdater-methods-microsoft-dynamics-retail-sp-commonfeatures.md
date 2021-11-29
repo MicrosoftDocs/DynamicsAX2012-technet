@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UrlRewriteWebConfigUpdater Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UrlRewriteWebConfigUpdater](urlrewritewebconfigupdater-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Methods

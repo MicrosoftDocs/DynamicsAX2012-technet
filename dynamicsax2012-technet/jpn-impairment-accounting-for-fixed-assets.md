@@ -24,6 +24,9 @@ ms.search.region: Japan
 # (JPN) Impairment accounting for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can perform the following tasks to set up and calculate fixed asset impairments using Microsoft Dynamics AX.

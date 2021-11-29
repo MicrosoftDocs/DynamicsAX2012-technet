@@ -13,6 +13,9 @@ f1_keywords:
 
 # pegging event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A resource flow event that signals the demand for a product.
 
 ## See also

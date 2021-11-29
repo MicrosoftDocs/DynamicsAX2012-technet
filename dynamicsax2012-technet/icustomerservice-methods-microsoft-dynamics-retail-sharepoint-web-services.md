@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerService](icustomerservice-interface-microsoft-dynamics-retail-sharepoint-web-services.md) type exposes the following members.
 
 ## Methods

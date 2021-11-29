@@ -17,6 +17,9 @@ dev_langs:
 
 # FillClaimTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills the claim types.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

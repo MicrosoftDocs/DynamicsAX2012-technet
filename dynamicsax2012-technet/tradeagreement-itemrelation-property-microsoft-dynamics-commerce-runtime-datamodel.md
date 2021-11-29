@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemRelation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item configuration identifier (could be item identifier, item group identifier, or empty).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

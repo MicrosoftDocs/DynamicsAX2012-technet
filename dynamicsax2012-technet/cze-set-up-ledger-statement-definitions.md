@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up ledger statement definitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can specify how ledger transaction amounts are displayed on the ledger statement report by using the **Ledger statement definition** form.

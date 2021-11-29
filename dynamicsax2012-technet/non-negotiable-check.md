@@ -13,6 +13,9 @@ f1_keywords:
 
 # non-negotiable check
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A non-negotiable instrument ordering a drawee organization to pay a specified amount of money to the holder.
 
 ## See also

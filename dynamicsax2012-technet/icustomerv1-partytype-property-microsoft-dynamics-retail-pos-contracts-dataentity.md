@@ -17,6 +17,9 @@ dev_langs:
 
 # PartyType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Gets or sets the party type for this customer (person or organization).

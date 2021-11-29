@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetFromZipPostalCodeDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetFromZipPostalCodeDataRequest](getfromzippostalcodedatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Bank reconciliation (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays the summary information from the last reconciliation and the current reconciliation in the **Bank reconciliation** form. The report also displays detailed transactions that are grouped by transaction type.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with organizations and organizational hierarchies (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 An organization is a group of people who work together to carry out a business process or achieve a goal. An organizational hierarchy represents the relationships between the business units that make up your organization.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (CHN) Accounting period name 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In the Microsoft Dynamics AX 2009 SP1 GLSCON release, the Accounting period table provides an **Accounting period name** field. This field is a country-specific feature that is provided for Chinese installations, and the field values are not required to be unique in a fiscal year. In Microsoft Dynamics AX 2012, the **Accounting period name** field is included in the Accounting table. Therefore, the country-specific modification is not required.

@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapuslates the implementation of the loyalty service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

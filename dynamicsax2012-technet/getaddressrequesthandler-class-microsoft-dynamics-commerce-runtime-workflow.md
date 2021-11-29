@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAddressRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the global address values that consists of countries, counties, state provinces, cities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetDeviceByDeviceId Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the device by it's unique device identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

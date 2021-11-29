@@ -13,6 +13,9 @@ f1_keywords:
 
 # dependent
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A role assumed by one person, place, or thing that participates in a relationship.
 
 ## See also

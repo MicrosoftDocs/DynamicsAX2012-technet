@@ -13,6 +13,9 @@ f1_keywords:
 
 # electronic funds transfer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A networked system for transferring funds from one bank account to another.
 
 ## See also

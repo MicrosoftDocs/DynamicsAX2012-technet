@@ -15,6 +15,9 @@ dev_langs:
 
 # CheckAccess Method (CommercePrincipal, RetailOperation, RequestContext)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the principal has permission to do the operation.If not, throws UserAuthorizationException for permission check within workflows.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

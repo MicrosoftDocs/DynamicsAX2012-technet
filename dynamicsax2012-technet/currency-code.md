@@ -13,6 +13,9 @@ f1_keywords:
 
 # currency code
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An alphanumeric identifier that represents a currency unit.
 
 ## See also

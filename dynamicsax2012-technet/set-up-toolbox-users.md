@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up toolbox users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Some features of Retail use a Microsoft ActiveX control that requires direct access to the Microsoft Dynamics AX database. Only users who have specific database permissions can access the following features:

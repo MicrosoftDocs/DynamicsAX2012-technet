@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A permanent location that is assigned to an item in a warehouse. Multiple items can have the same fixed location, and a single item can have multiple fixed locations.
 
 ## See also

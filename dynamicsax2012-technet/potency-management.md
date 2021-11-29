@@ -13,6 +13,9 @@ f1_keywords:
 
 # potency management
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of classifying and managing active ingredients and items that contain a particular concentration of an active ingredient.
 
 ## See also

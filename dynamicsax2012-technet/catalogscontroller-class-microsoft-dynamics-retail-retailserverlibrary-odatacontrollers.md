@@ -17,6 +17,9 @@ dev_langs:
 
 # CatalogsController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The catalogs controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

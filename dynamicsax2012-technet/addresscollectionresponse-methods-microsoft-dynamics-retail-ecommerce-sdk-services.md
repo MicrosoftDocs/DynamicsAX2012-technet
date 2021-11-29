@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressCollectionResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressCollectionResponse](addresscollectionresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

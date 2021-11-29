@@ -17,6 +17,9 @@ dev_langs:
 
 # ISalesInvoiceV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sales invoice interface Version 2.0 (6.3.0.0)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

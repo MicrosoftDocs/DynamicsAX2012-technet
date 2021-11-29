@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) View register lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After register calculation, the register lines are displayed. The register lines are numbered, and the heading and total lines are marked with special icons.

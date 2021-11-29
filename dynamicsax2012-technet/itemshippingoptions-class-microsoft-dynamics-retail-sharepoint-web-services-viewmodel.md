@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemShippingOptions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A single shipping option view model representation. (Pick up from store, ship to me, etc)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

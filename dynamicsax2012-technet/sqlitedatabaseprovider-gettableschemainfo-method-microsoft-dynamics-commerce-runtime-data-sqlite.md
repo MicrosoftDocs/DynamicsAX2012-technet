@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTableSchemaInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets table schema info for a table in sqlite databases.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

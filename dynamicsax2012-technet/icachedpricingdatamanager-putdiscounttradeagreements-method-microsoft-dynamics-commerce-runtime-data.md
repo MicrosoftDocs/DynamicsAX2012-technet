@@ -17,6 +17,9 @@ dev_langs:
 
 # PutDiscountTradeAgreements Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store the result of fetching the superset of discount trade agreements which could apply to all of these items and customer for the given dates.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

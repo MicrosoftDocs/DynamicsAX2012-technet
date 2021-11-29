@@ -16,6 +16,9 @@ ms.search.region: Global
 # Maintain planned orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can manage planned orders from the **Planned production orders**, **Planned purchase orders**, and **Planned transfer** forms.

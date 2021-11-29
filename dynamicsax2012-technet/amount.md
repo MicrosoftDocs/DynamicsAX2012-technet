@@ -14,6 +14,9 @@ f1_keywords:
 
 # amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A definite magnitude of currency, a quantity of currency, or an indefinite magnitude of an uncountable substance or quality.
 
 ## See also

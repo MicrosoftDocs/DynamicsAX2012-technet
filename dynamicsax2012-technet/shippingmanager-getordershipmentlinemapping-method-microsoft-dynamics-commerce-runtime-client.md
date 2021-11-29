@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderShipmentLineMapping Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets order shipment line mapping information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

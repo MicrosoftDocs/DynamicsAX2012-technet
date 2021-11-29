@@ -17,6 +17,9 @@ dev_langs:
 
 # SendAccountActivationEmailToCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends the customer an email template populated with the specified properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # InitializeComponent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 InitializeComponent
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  

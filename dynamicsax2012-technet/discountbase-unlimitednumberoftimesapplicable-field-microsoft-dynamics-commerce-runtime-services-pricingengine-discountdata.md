@@ -17,6 +17,9 @@ dev_langs:
 
 # UnlimitedNumberOfTimesApplicable Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value for the NumberOfTimesApplicable property that indicates that there is no limit.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

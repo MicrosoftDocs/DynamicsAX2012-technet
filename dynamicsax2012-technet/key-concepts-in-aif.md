@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Key concepts in AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section introduces important concepts that you must understand to use services and AIF. Many of these concepts are new for Microsoft Dynamics AX 2012.

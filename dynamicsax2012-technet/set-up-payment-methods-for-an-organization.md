@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up payment methods for an organization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Your business might accept payment in forms other than cash. If you accept payments that are made by using checks, credit cards, debit cards, corporate charge cards, gift cards, customer credit, and other forms of payment, you must set up each payment method for your organization in **Retail**. You can assign specific payment methods to each store and then set up store-specific settings for each payment method.

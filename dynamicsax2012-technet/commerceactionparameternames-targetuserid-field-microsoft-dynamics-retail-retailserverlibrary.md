@@ -17,6 +17,9 @@ dev_langs:
 
 # TargetUserId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The target sser ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

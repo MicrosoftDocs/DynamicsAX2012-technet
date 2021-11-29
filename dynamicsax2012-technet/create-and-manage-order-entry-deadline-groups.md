@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and manage order entry deadline groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the following procedures to define order entry deadlines for sites or groups of customers. First, create order entry deadline groups, and then associate the order entry deadline groups with sites or customers.

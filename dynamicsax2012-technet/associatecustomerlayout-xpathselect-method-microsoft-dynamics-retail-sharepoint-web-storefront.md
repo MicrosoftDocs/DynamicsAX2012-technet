@@ -20,6 +20,9 @@ dev_langs:
 
 # XPathSelect Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

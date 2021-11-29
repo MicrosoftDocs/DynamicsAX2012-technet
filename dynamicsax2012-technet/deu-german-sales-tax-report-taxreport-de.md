@@ -14,6 +14,9 @@ f1_keywords:
 # (DEU) German sales tax report (TaxReport\_DE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **German sales tax report** displays and prints a summary of sales tax payments for legal entities operating in Germany, along with details of the sales tax payments. The details of this report are printed in the German layout with information that is based on how you set up the reporting codes in the **Sales tax reporting codes** form. This report is typically used by accounting managers to submit reporting information to sales tax authorities on a monthly basis.

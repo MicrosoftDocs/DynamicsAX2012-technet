@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Intra-Community VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Intra-Community VAT information can be calculated and posted automatically. When an EU vendor invoice is posted, two VAT transactions are created with the same invoice amount – one for sales tax payable and one for sales tax receivable.

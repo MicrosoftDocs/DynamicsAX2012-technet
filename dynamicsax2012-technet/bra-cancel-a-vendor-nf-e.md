@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Cancel a vendor NF-e 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel a vendor nota fiscal eletrônica (NF-e) that is incorrect. You can cancel a vendor NF-e before you submit it to the Secretaria da Fazenda (SEFAZ). Alternatively, you can cancel the vendor NF-e after it is approved by SEFAZ.

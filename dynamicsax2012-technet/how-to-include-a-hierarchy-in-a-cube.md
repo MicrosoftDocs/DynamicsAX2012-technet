@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Include a hierarchy in a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Organizational hierarchies enable an organization to define various hierarchies among legal entities and operating units for reporting and operational purposes. You can define an organizational hierarchy to establish a relationship between legal entities or between operating units within a given legal entity. For examples, see [Example organizational hierarchies](example-organizational-hierarchies.md).
 
 A specific example of an organizational hierarchy can be found in the Retail cube in Microsoft Dynamics AX 2012 R2. The Organization Unit dimension in the Retail cube enables the user to navigate the Retail channel hierarchy. If a change is made to the channel hierarchy, such as an addition of a new store, the changes are reflected automatically the next time the cube is processed.

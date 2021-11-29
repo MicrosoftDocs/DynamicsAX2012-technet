@@ -13,6 +13,9 @@ f1_keywords:
 
 # primary key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A candidate key that is selected to be the principle identifier for uniquely identifying records in a database table.
 
 ## See also

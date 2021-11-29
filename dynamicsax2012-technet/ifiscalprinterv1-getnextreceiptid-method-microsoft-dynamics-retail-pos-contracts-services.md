@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextReceiptId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the next receipt ID to use in the fiscal coupon.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

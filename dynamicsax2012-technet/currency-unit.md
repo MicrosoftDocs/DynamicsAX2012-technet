@@ -13,6 +13,9 @@ f1_keywords:
 
 # currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A discrete division of currency value.
 
 ## See also

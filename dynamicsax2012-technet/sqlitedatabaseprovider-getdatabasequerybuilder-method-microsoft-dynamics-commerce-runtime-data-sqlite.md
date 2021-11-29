@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDatabaseQueryBuilder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the database query builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the amount difference in the tax accounting register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Tax register journal** form to set up a register that is used for calculating the amount difference in tax accounting. You can then create a tax register journal before you calculate the register. The amount difference for prepayments in tax accounting is calculated separately in the general ledger. You must also specify whether the amount difference for prepayments that are generated from settlements must be calculated.

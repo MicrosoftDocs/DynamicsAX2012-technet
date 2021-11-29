@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the item relation to working clothes and special rigging 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to relate an item or an item group to a fixed asset (FA) group. You can use the following forms to set up an item relation with a fixed asset group:

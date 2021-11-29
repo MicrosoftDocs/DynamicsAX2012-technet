@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Generate a fully depreciated report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fully depreciated report is a list of fixed assets that have been fully depreciated.

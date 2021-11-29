@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductSearchResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductSearchResponse](productsearchresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

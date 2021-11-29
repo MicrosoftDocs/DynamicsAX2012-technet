@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads a shift object from database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

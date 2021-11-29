@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumX Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the maximum horizontal coordinate of the signature capture device.This property is initialized by the Load method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

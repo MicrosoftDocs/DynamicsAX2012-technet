@@ -14,6 +14,9 @@ f1_keywords:
 # Total accounts receivable in the past periods chart report (LedgerTotalAcctReceivablesPastXPeriods) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this chart report to view the total accounts receivable in past periods, in a graphical format.

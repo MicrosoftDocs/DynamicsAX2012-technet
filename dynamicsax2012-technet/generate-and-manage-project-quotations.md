@@ -17,6 +17,9 @@ ms.search.region: Global
 # Generate and manage project quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As the initial step in the project phase, you can use project quotations to approach a customer with an attractive, binding offer.

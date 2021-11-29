@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up payment card types and card numbers (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up the types of cards that your organization accepts as payment, such as credit cards, debit cards, loyalty cards, and gift cards.

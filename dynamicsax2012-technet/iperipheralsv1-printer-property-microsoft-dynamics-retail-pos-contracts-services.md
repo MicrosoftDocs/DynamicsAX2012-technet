@@ -17,6 +17,9 @@ dev_langs:
 
 # Printer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the printer peripheral device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

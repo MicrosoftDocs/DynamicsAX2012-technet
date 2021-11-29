@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateAccountActivationRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate the account activation request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use buyer's push to distribute products (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to use buyer’s push to distribute products between retail locations. Buyer's push creates transfer orders that are used to distribute products from a warehouse to stores. The quantity that is distributed is either entered manually or calculated automatically by using the same methods that are used for cross-docking. You can create transfer orders for a single item or many items.

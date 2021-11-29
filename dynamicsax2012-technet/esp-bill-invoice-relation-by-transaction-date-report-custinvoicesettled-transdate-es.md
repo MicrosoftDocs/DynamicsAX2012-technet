@@ -14,6 +14,9 @@ f1_keywords:
 # (ESP) Bill-Invoice relation by transaction date report (CustInvoiceSettled\_TransDate\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bill-Invoice relation by transaction date** report displays a list of invoices that are settled with bills of exchange. The invoices and their corresponding bills of exchange are grouped by transaction date and are displayed in the report. This report is typically used by accountants, collections managers, and financial controllers to check the status of the bills of exchange.

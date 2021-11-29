@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create variables on the Table tab 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 With this variable type, information can be retrieved from any table defined in Microsoft Dynamics AX and can be used to handle tables in one or more **Code node**. These variables are intended for users who have some programming experience.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetExchangeRate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the exchange rate for a given pair of currencies.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

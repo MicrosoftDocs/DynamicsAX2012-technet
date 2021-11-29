@@ -20,6 +20,9 @@ ms.search.region: Spain
 # (ESP) Create and post free text invoices with delivery dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you create and post free text invoices with delivery dates, you must create due date limits in the **Due date limits** form. You must also select the **Use the delivery date to calculate the payment due date** check box in the **Terms of payment** form to check the calculated invoice due date against the effective due date limit. The invoice due date is adjusted to comply with the due date limit, if necessary. For more information, see [(ESP) Set up due date limits to calculate invoice due dates](esp-set-up-due-date-limits-to-calculate-invoice-due-dates.md) and [(ESP) Assign due date limits to terms of payment to calculate invoice due dates](esp-assign-due-date-limits-to-terms-of-payment-to-calculate-invoice-due-dates.md).

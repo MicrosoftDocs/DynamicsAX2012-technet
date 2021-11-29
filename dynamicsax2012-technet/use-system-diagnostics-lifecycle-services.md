@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use System diagnostics (Lifecycle Services) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/use-system-diagnostics-lifecycle-services/) in the Dynamics AX Help wiki.
 
   

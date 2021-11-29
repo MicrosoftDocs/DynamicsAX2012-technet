@@ -30,6 +30,9 @@ ms.search.region: Global
 # Introduction to Process manufacturing production and logistics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Process Manufacturing Production and Logistics provides integrated functionality for planning and managing production and distribution for enterprises engaged in processing of goods. It supports a variety of manufacturing processes that includes make to order, make to stock, or a hybrid environment with both process and discrete manufacturing operations.

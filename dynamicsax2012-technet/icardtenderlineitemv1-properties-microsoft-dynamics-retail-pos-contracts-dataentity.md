@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICardTenderLineItemV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICardTenderLineItemV1](icardtenderlineitemv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

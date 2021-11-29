@@ -13,6 +13,9 @@ f1_keywords:
 
 # inventory item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that participates in an inventory process.
 
 ## See also

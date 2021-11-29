@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Master Data Management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can configure several aspects of Master Data Management (MDM) to suit your business requirements. You can specify which Microsoft Dynamics AX 2012 R3 spokes can update master data during synchronization, and which spokes can only read data. You can set synchronization schedules for each spoke to determine when the entities in that instance are synced with the central store. You can also filter data during the push and pull operations to constrain the records or fields that are sent or received.

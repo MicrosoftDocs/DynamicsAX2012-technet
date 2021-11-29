@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create dispute reason codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If an employee discovers an erroneous transaction on their expense report, they can file a transaction dispute. Because a transaction dispute can occur for different reasons, you can create reason codes that include information and instructions specific to a type of dispute.

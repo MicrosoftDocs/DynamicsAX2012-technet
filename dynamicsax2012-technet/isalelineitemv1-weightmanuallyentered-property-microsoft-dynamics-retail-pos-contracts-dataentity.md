@@ -17,6 +17,9 @@ dev_langs:
 
 # WeightManuallyEntered Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is set to true if weight was manually entered.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

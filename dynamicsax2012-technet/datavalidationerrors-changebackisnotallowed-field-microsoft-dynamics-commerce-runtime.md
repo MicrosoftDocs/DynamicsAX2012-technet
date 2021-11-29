@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeBackIsNotAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that change back (overtender) is not allowed for tender type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

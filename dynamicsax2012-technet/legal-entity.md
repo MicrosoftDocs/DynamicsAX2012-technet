@@ -13,6 +13,9 @@ f1_keywords:
 
 # legal entity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An organization with a registered or legislated legal structure that is granted the authority to enter into legal contracts and that is required to prepare statements that report on its performance.
 
 ## See also

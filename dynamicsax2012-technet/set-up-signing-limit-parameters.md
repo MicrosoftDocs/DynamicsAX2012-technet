@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up signing limit parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Signing limit parameters are the basis for the signing limit policy configuration steps. On the parameters form, you define whether signing limits are enforced, based on job or compensation level, you define signing limit revocation reasons, and you define limit agreements.

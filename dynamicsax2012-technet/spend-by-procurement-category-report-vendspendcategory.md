@@ -14,6 +14,9 @@ f1_keywords:
 # Spend by procurement category report (VendSpendCategory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of purchases, based on total spend for the number of categories specified. For example, if you want to view the spend for your top 10 procurement categories, enter 10 in the **Number of categories** field.

@@ -17,6 +17,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Depreciation methods and conventions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use depreciation methods to calculate the depreciable value of a fixed asset for a fiscal period. The depreciable value of the fixed asset is the acquisition price reduced by a scrap value, if any. You can round depreciation amounts up or down to the nearest whole number.

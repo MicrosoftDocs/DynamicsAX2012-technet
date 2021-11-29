@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckAccessManager Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Method to check if the principal has manager permission.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

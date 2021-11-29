@@ -15,6 +15,9 @@ dev_langs:
 
 # WriteLine Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Writes the string and a new line to the listener.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

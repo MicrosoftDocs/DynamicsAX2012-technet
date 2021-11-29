@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up fixed unit parameters to determine unit tonnage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In the **Units** form, you can define the ton unit of measure as a fixed unit of measure. This parameter is required to determine tonnage when you generate and print a transportation invoice and a job ticket that are based on a bill of lading. For more information, see [(RUS) About transportation invoices and job tickets that are based on bills of lading](rus-about-transportation-invoices-and-job-tickets-that-are-based-on-bills-of-lading.md).

@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Reading a Customer by Using the NetTCP Adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The customer document service is one of the standard document services included with Microsoft Dynamics AX. It enables external systems to read, create, update, and delete customers in the Microsoft Dynamics AX database. This walkthrough illustrates reading a customer by using a basic integration port.

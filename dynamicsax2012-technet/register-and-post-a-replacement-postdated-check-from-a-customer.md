@@ -18,6 +18,9 @@ ms.search.region: Global
 # Register and post a replacement postdated check from a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a customer’s original check for payment is lost or damaged, you can accept a replacement postdated check and register the check details. When you register the check details, provide a reference to the original check and indicate that the new check is a replacement for the original. You can also post the replacement check.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # account rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule in an accounting system that controls the valid financial dimension value combinations when the requirements of the financial dimension structure condition are met.
 
 ## See also

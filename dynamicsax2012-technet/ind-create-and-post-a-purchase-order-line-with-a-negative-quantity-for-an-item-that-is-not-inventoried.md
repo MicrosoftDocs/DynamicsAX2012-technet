@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Create and post a purchase order line with a negative quantity for an item that is not inventoried 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a new or existing purchase order, you can add a purchase order line that has a negative quantity for an item that is not inventoried. You can also create and post a sales return order for an item that is not inventoried. Only indirect taxes can be calculated on negative purchase or sales order lines.

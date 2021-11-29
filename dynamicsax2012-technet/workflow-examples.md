@@ -14,6 +14,9 @@ ms.search.region: Global
 # Workflow examples 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can design and structure a workflow in many ways. The following topics provide examples of workflows and explain how documents move through each workflow.

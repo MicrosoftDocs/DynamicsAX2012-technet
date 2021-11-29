@@ -18,6 +18,9 @@ ms.search.region: Global
 # Configure parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Set parameters to configure Retail for your business. Parameters provide default settings and values that can often be changed in individual records.

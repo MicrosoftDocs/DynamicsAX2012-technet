@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICachedReasonCodeDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICachedReasonCodeDataManager](icachedreasoncodedatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

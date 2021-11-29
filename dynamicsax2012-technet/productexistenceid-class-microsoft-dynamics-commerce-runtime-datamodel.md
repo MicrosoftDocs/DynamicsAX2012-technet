@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductExistenceId Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a composite ID of a listing.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

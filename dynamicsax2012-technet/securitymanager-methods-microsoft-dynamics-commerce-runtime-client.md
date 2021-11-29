@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SecurityManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SecurityManager](securitymanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

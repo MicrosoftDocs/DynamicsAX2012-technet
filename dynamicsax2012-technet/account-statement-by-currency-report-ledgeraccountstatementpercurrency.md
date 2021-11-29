@@ -15,6 +15,9 @@ f1_keywords:
 # Account statement by currency report (LedgerAccountStatementPerCurrency) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This report displays the account statement by currency for one or more main accounts. The report information includes the voucher date and number, main account, transaction description, and amount and currency information.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View retail sales (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to view a list of sales transactions by store based on the date range, time range, retail hierarchy, and item number that you specify in the **Retail sales** form.

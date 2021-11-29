@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Unit conversions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Unit conversions define formulas for converting between units of measure. One unit conversion can be associated with each unit of measure.

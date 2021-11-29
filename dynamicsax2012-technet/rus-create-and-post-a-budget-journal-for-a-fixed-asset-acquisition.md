@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a budget journal for a fixed asset acquisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Financial plans and current budgets can be created in the Fixed assets module using budget models. A budget model represents a collection of planned turnovers for specific accounts and periods.

@@ -14,6 +14,9 @@ f1_keywords:
 # Multiple ship-to configuration key (TradeMultiShipTo) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Multiple ship-to** configuration key controls access to delivery functionality for sales and purchase order lines. If enabled, you can specify delivery addresses for each order line.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutValidationPeriodById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the periodic discount validation period with given identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

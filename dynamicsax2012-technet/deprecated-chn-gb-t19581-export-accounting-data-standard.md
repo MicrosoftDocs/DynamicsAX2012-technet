@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (CHN) GB/T19581 export accounting data standard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Microsoft Dynamics AX 2009 SP1 GLSCON release provides a function that can export the ledger transaction data and financial statement data of a specified fiscal period into an XML file. The schema for the XML is defined in Chinese national standard GB/T19581, Accounting software data exchange interface. In Microsoft Dynamics AX 2012 R2, this feature is replaced with the new GB/T24589 national standard.

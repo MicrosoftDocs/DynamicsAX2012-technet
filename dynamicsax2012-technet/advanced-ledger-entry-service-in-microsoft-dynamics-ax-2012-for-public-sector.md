@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Advanced Ledger Entry Service in Microsoft Dynamics AX 2012 for Public Sector 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 This white paper provides an overview of operations that are exposed in the Advanced ledger entry service in Microsoft Dynamics AX 2012 for Public sector. It also outlines some common development scenarios and provides step-by-step instructions to integrate with the advanced ledger entries.

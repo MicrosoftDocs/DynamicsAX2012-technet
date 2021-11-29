@@ -18,6 +18,9 @@ ms.search.region: Global
 # View details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some fields have source forms that contain the values that are the possible selections for that field. You can right-click in some fields and select **View details** to open a source form where the values that are available for the selected field are maintained.

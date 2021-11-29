@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailServerInstrumentationProvider Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The retail server instrumentation provider.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Tracing.RetailServer](microsoft-dynamics-retail-tracing-retailserver-namespace.md)  

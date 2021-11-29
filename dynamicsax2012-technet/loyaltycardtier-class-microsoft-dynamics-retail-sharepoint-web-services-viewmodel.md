@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyCardTier Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a loyalty card tier. A loyalty card may belong to a loyalty group (i.e. the default loyalty tier), or a specific loyalty tier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # STSFormBasedAuthWebConfigUpdatingJob Constructor (String, )
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the STSFormBasedAuthWebConfigUpdatingJob class and provides parameters for specifying key objects.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

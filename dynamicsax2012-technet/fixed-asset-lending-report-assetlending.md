@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset lending report (AssetLending) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print information about assets that are on loan. This includes the lending date, borrower, location, and expected return date, based on the **Lending** form.

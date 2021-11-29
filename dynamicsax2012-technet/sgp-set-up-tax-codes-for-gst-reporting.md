@@ -14,6 +14,9 @@ ms.search.region: Singapore
 # (SGP) Set up tax codes for GST reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax codes** form to set up tax codes for items that are taxed using the standard goods and services tax percentage. You can also use this form to set up tax codes for exempt items that are not subject to tax and items that have special trade-zone status for which the tax rate is 0 percent. For more information, see [Create various kinds of sales tax codes](create-various-kinds-of-sales-tax-codes.md).

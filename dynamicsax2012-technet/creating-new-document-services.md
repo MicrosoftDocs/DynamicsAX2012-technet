@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Creating New Document Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Application Integration Framework (AIF), a document exchange starts with a document (also called a [document class](document-services-classes.md)) that contains business logic. The document is serialized into the body of an XML message, and header information is added to create a message that can then be transferred into or out of Microsoft Dynamics AX. AIF includes out-of-the-box support for sending and receiving commonly used documents. For more information about the documents that ship with Microsoft Dynamics AX, see [Standard Document Services](standard-document-services.md).

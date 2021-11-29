@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up store locator groups in Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up and use store locator groups to control which brick-and-mortar stores are included in a search when a customer in an online store searches for a product. You use store locator groups to define groups of stores, based on location or other criteria, and then assign those groups to your online stores. When a customer in an online store searches to see whether a product is available at nearby stores, the search results include only the stores that are included in the store locator groups that are assigned to that online store.

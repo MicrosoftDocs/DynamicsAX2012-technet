@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow participant
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person who assumes the role of user in a workflow process.
 
 ## See also

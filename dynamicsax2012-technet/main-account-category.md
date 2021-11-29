@@ -13,6 +13,9 @@ f1_keywords:
 
 # main account category
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier of a main account.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About customer payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic provides specific information about customer payments for legal entities whose primary address is in India. For full documentation about customer payments, see the following topics:

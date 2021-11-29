@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeeCurrentRegistrationState Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets employee current registration state.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

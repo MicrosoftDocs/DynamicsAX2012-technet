@@ -17,6 +17,9 @@ dev_langs:
 
 # ICollectionExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionality used to extend the [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)) implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

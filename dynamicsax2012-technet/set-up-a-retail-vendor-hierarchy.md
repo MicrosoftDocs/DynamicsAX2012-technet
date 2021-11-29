@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a retail vendor hierarchy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 When you import products from a vendor, those products can be assigned to product categories in the vendor’s organization. In Retail, you can use the category hierarchy feature in Microsoft Dynamics AX to set up a category hierarchy. You can use the category hierarchy to group the products that you sell into the product categories that your organization uses. The retail product category hierarchy is referenced when you import products from vendors, create assortments, assign products to loyalty programs, and so on. When you import product data from vendors, you must map the vendor’s product categories to the categories that you create in the retail product category hierarchy. Complete the following tasks:

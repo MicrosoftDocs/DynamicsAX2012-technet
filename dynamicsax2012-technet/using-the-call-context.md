@@ -14,6 +14,9 @@ dev_langs:
 # Using the Call Context 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Call context values are exposed by all Microsoft Dynamics AX services to enable service clients to pass context information specific to Microsoft Dynamics AX. The call context values contain information that is used in the execution of the service call such as a unique message ID and the Microsoft Dynamics AX user and company. These values are sent with Application Integration Framework (AIF) messages as part of the message header.

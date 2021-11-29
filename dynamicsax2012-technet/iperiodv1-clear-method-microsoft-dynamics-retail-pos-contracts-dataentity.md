@@ -17,6 +17,9 @@ dev_langs:
 
 # Clear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To clear the memory table if needed.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

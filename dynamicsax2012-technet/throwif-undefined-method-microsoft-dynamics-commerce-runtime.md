@@ -17,6 +17,9 @@ dev_langs:
 
 # Undefined Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throws ArgumentOutOfRangeException if the enumeration value is undefined.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

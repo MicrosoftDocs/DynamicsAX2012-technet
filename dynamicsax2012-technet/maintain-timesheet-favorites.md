@@ -17,6 +17,9 @@ ms.search.region: Global
 # Maintain timesheet favorites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use timesheet favorites to save a template of the projects, categories, and activities that you use frequently. Then you can use these entries when you create a new timesheet. You do not have to enter the same information about projects and activities for every new timesheet.

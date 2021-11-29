@@ -17,6 +17,9 @@ f1_keywords:
 # Activate multisite functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you upgrade to Microsoft Dynamics AX 2012, you must activate the multisite functionality for all company accounts before you upload your upgrade framework XPO file. The method you use to activate multisite functionality depends on the source system, and whether the **Trade** and **Logistics** licenses and configuration keys are enabled.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Enterprise Portal in a Web farm 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to install and configure Enterprise Portal for Microsoft Dynamics AX in a Web farm. A Web farm distributes Enterprise Portal requests and processing across multiple servers, which can improve performance and availability. This topic includes the following sections.

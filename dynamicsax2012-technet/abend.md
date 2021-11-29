@@ -14,6 +14,9 @@ f1_keywords:
 
 # abend
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The premature ending of a program because of a program error or system failure.
 
 ## See also

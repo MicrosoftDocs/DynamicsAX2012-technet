@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up synchronization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can start selling online and receiving sales orders, you must set up synchronization schedules for several types of information, so that the information can be synchronized automatically between Commerce Services and Microsoft Dynamics AX.

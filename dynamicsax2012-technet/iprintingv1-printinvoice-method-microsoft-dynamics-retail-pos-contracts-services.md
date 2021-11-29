@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintInvoice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints the invoice.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # report definition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The blueprint for a report before the report is processed or rendered. A report definition contains information about the query and layout for the report.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ICharges Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Charges service for autocharges and line level price charges.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

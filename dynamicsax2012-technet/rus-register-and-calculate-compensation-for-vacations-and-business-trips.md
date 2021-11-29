@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Register and calculate compensation for vacations and business trips 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to complete the following tasks:

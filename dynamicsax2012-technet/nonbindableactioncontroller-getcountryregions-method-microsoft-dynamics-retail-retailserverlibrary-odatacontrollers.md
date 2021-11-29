@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCountryRegions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the countrie/regions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

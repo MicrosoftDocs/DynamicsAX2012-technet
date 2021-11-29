@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create budget plan worksheet templates by using a wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to create a Microsoft Excel template for budget plan worksheets by using a wizard in Microsoft Dynamics AX, and how to decide which fields to use for the worksheet header, which columns to include, and which matrix fields to create. Each template is specific to a legal entity and an account structure.

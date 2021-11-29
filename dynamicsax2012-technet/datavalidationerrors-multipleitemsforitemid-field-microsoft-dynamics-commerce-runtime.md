@@ -17,6 +17,9 @@ dev_langs:
 
 # MultipleItemsForItemId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that more than one item exists for an itemId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

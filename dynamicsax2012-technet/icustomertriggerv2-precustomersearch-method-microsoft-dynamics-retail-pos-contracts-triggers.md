@@ -17,6 +17,9 @@ dev_langs:
 
 # PreCustomerSearch Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before customer search
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

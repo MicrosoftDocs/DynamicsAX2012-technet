@@ -14,6 +14,9 @@ f1_keywords:
 
 # application
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A document that records the profile of the applicant.
 
 ## See also

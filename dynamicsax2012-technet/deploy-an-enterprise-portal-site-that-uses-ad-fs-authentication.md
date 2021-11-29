@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy an Enterprise Portal site that uses AD FS authentication 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to deploy Enterprise Portal for Microsoft Dynamics AX in an Active Directory Federation Services (AD FS) environment. AD FS simplifies access to systems and applications by using a claims-based authorization mechanism to help maintain application security. AD FS supports web single sign-on technologies that help IT organizations collaborate across organizational boundaries. AD FS is a server role in Windows Server 2008 R2 and Windows Server 2012. For more information about AD FS, see [Active Directory Federation Services](https://go.microsoft.com/fwlink/?linkid=389356).

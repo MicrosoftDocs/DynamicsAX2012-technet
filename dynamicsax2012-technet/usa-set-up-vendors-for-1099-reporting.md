@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up vendors for 1099 reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you post vendor transactions, set up 1099 information for each vendor who receives a 1099 statement. See [(USA) About year-end 1099 reporting](usa-about-year-end-1099-reporting.md) for more information.

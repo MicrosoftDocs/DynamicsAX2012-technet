@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultLanguageId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default language identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a co-product 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a co-product. To use this procedure, the related formula and formula version must already exist. The formula version item must be a production type of **Co-product**.

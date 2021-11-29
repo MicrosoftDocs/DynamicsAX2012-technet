@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can define a service agreement as a template and copy the lines of the template later into another service agreement or into a service order.

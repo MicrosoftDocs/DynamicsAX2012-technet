@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a deferrals model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Deferrals models** form to specify the ledger account that is used to post write-off transactions. For more information, see [(RUS) Deferrals models (form)](https://technet.microsoft.com/library/jj678655\(v=ax.60\)).

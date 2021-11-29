@@ -13,6 +13,9 @@ f1_keywords:
 
 # prospect
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A participant that has the existing and potential ability to provide a service or probable future economic benefit to a legal entity.
 
 ## See also

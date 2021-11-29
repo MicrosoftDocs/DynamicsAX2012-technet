@@ -14,6 +14,9 @@ f1_keywords:
 # Lead qualifying process configuration key (smmSMLeadProcess) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Lead qualifying process** configuration key allows you to create a qualifying process for lead records. With this key enabled, you can define and assign qualifying processes and activity hierarchies to your lead records.

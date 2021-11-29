@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Working with Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide an overview of each component of the fixed assets business process.

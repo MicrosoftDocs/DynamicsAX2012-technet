@@ -27,6 +27,9 @@ ms.search.region: India
 # (IND) Create an export order and apply the AA incentive scheme to the export order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can attach the authorization number for an Advance Authorization (AA) to an export order. By doing this, you can track the export obligation for which the input goods were imported under the AA scheme.

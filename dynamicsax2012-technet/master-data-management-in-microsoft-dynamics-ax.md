@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Master Data Management in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Master Data Management (MDM) is a feature of Microsoft Dynamics AX 2012 R3 that lets you synchronize master data records across multiple instances of Microsoft Dynamics AX 2012. By creating and maintaining a single copy of master data, you can help guarantee the consistency of important information, such as customer and product data, that is shared across AX 2012 instances. Master data is stored in a central data store. This central store then synchronizes the data with each AX 2012 instance on a defined schedule. MDM uses Microsoft SQL Server Master Data Services (SQL MDS) as the central data store and AX 2012 Data Import/Export Framework entities as the unit for data synchronization. MDM is preconfigured to support synchronization of the Customers, Vendors, Employees, Global Address Book, and Product entities. You can also create customizations to support other Data Import/Export Framework entities in MDM.

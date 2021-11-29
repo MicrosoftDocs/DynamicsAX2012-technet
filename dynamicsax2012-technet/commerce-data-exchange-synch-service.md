@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Commerce Data Exchange: Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Commerce Data Exchange: Synch Service is the integrated service that periodically replicates data between the Microsoft Dynamics AX database and store databases.

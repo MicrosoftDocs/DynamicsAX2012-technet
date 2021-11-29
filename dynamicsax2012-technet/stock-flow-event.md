@@ -13,6 +13,9 @@ f1_keywords:
 
 # stock flow event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of an action that registers the input and output of stock in stores, buffers, queues, and accounts.
 
 ## See also

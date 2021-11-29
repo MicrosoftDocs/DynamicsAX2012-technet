@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Start the Preprocessing upgrade checklist 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Preprocessing upgrade checklist** guides you through the data preprocessing tasks on the Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 source system when you upgrade to Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 Feature Pack, or Microsoft Dynamics AX 2012 R2.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsConnectionStringOverridden Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the specified connection string has been overridden.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

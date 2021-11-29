@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Post journal for relief of legacy accrual of unmatched quantities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to post a journal that relieves any legacy accrual accounting entries that still remain for unmatched quantities. Unmatched quantities are quantities of purchased products that are received but not yet invoiced. Select the journal name that you have defined during the pre-processing upgrade. After you select the name, post the journal.

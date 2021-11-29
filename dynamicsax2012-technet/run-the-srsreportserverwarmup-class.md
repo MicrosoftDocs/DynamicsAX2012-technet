@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run the SRSReportServerWarmup class 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft SQL Server Reporting Services periodically restarts, and each restart clears the Reporting Services cache. After the cache has been cleared, it may take some time for the next report that is run to display. To minimize the effect of Reporting Services restarts, a new class that is named SRSReportServerWarmup is included with cumulative update 7 for Microsoft Dynamics AX 2012 R2. When the SRSReportServerWarmup class runs, it prepares the report server for use by performing the following tasks:

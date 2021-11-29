@@ -17,6 +17,9 @@ dev_langs:
 
 # UnregisterSPJobDefinition Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unregisters a job from a service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

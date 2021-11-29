@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSurname Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the surname of the authenticated user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

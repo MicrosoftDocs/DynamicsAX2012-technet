@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up a line property 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Project/group line properties** form to create a line property and to select the **Debit note setup** check box to generate debit notes for project categories when expense journals are posted.

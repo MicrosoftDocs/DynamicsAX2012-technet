@@ -17,6 +17,9 @@ dev_langs:
 
 # NoExchangeRate Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Exchange rate value that indicates that no currency conversion is required.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

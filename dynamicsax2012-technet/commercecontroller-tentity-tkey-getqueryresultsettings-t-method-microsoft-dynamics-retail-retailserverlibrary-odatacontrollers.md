@@ -17,6 +17,9 @@ dev_langs:
 
 # GetQueryResultSettings(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the query result settings based on the current query options.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

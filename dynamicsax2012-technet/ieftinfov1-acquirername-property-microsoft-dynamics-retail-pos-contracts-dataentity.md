@@ -17,6 +17,9 @@ dev_langs:
 
 # AcquirerName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Read this property to print the acquirer on the sales slip.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

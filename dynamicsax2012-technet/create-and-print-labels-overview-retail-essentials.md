@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create and print labels overview (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, you can generate and print labels to use in stores. A label is a piece of paper, polymer, cloth, metal, or other material that is attached to a product, a container, or a shelf. A label can also be printed directly on a container or an item. Retail essentials offers two types of labels: product labels and shelf labels. Product labels are always specific to a particular variant, but shelf labels don’t have to be.

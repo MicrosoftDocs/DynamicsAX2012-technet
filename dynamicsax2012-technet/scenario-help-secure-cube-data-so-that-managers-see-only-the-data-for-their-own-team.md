@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Help secure cube data so that managers see only the data for their own team 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some managers in your organization may want to use cube data to track and analyze data for their teams. The following sections provide options for implementing security in this scenario.

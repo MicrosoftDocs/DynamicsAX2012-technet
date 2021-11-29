@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use BlankOperations to implement custom features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Blank Operations enable you to extend Microsoft Dynamics AX for Retail POS by adding custom logic to the Retail POS register buttons. The Retail POS register includes at least one blank button under each menu item that you can use to add new functionality. For example, if you launch Retail POS and click the **Cashier Tasks** button, you see a blank button. You can use this button to add new functionality to the other options in cashier tasks.

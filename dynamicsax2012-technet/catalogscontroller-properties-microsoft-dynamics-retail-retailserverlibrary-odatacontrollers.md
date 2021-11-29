@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CatalogsController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CatalogsController](catalogscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Properties

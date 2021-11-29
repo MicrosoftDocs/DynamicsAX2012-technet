@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Specify Dimensions and Attributes for a Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following procedures illustrate how to specify dimensions and attributes for a cube in Microsoft Dynamics AX.

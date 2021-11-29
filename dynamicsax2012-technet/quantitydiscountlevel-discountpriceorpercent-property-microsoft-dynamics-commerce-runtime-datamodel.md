@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountPriceOrPercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the discount amount for the given quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

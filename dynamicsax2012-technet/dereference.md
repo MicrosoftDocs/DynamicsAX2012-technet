@@ -13,6 +13,9 @@ f1_keywords:
 
 # dereference
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To programmatically access a memory address assigned to a pointer variable or reference variable.
 
 ## See also

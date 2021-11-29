@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up a sales tax group for EU trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can assign sales tax groups when you participate in transactions with countries/regions that are in the European Union by selecting the **EU trade** check box in the **Sales tax groups** form.

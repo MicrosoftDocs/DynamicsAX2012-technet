@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InventoryDataManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InventoryDataManager](inventorydatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

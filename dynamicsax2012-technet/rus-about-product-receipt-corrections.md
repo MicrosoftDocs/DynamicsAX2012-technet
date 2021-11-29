@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) About product receipt corrections 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can correct a product receipt that is already posted for a purchase order. The corrected product receipt contains information about the deviation from the original purchase order in terms of the quantity of items that were ordered. For example, you purchased 10 items from a vendor. When the items are delivered, you find that three of them are damaged. You can post a product receipt to reflect the correct number of items that you received, and the number of items that were damaged, or the deviation in the item quantity that was ordered. When you post a corrected product receipt, the original product receipt is canceled, and a new version of an M-4, M-7, TORG-1, TORG-2, or TORG-3 receipt statement report is created. The new version of the receipt statement report is created only if the corrected receipt contains a minimum of one line with a non-zero received quantity. You can also print the new version of the receipt statement report. You can retain the receipt statement document type and the number of the original product receipt for the corrected product receipt.

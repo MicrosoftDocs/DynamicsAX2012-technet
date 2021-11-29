@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Post a purchase invoice with a selected VAT register date 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can select the date of the VAT register for VAT reporting when you post a purchase invoice. When you post an invoice with deferred incoming tax, the VAT amount is posted to a temporary account, and then posted to the VAT account on the selected register date.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountJournalServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CreateStockCountJournalResponse is the response class set after creating stockcount journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

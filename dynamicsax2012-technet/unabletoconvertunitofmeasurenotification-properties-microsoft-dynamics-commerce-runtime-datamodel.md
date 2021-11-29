@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UnableToConvertUnitOfMeasureNotification Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UnableToConvertUnitOfMeasureNotification](unabletoconvertunitofmeasurenotification-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

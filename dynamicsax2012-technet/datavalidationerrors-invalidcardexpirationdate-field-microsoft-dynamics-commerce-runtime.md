@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCardExpirationDate Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that tender lines submitted with expired payment card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

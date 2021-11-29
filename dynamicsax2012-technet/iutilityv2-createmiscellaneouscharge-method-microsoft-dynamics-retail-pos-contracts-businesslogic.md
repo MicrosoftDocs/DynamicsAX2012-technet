@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateMiscellaneousCharge Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [IMiscellaneousCharge](imiscellaneouscharge-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

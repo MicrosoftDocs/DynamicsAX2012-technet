@@ -15,6 +15,9 @@ ms.search.region: Global
 # About formula line types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a formula line, you use the line type to indicate how you want the program to handle the line. This is when you run master planning and producing batch orders. Each line type gives a different result. You can select from the following line types:

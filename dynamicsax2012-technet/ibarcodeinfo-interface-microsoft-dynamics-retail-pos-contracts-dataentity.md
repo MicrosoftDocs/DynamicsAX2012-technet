@@ -17,6 +17,9 @@ dev_langs:
 
 # IBarcodeInfo Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Barcode info object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

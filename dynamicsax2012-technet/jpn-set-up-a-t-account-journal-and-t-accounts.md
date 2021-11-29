@@ -22,6 +22,9 @@ ms.search.region: Japan
 # (JPN) Set up a T-account journal and T-accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can enter transaction credit and debit amounts in a T-account journal. A debit line and a credit line can exist for the same transaction. Use the following procedures to enable T-account journals and to create a T-account journal.

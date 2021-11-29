@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreLocationResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store location response.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

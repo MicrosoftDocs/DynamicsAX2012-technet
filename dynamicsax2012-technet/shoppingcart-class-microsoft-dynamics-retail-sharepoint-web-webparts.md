@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This is the shopping cart web part which provides the ability to view the contents of products that were added.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

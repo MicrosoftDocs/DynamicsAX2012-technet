@@ -19,6 +19,9 @@ ms.search.region: Global
 # Example: Use reduction keys 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use a reduction key to define how to reduce forecast requirements. Here are some examples that show how to set up a reduction key, the different reduction key settings, and the results.

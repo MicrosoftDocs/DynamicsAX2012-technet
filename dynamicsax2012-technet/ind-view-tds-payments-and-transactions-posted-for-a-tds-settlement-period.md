@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View TDS payments and transactions posted for a TDS settlement period 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

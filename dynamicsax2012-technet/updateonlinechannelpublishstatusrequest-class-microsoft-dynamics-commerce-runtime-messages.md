@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateOnlineChannelPublishStatusRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the synchronization status of the destination for subsequent synchronization of listings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

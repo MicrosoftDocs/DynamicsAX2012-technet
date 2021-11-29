@@ -17,6 +17,9 @@ dev_langs:
 
 # AggregateValidationFailures Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all line validation failures into a single collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

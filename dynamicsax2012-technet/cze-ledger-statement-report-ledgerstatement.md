@@ -18,6 +18,9 @@ ms.search.region: Czech Republic
 # (CZE) Ledger statement report (LedgerStatement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Ledger statement report displays the ledger balance of individual accounts and the totals for all accounts for a specified period. This report is used by accounting managers and accounting supervisors to review the general ledger status.

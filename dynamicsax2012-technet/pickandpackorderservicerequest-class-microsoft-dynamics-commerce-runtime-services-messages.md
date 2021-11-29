@@ -17,6 +17,9 @@ dev_langs:
 
 # PickAndPackOrderServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request message for picking list and packing slip creation for a customer order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

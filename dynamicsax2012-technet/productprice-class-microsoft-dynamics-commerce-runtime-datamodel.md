@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductPrice Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the product price data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

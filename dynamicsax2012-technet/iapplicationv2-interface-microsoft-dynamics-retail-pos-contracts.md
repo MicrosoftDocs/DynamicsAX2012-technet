@@ -17,6 +17,9 @@ dev_langs:
 
 # IApplicationV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Application interface version 2.0.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

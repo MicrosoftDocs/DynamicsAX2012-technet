@@ -14,6 +14,9 @@ f1_keywords:
 
 # account entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A record of the increase or decrease in economic value classified by a ledger account.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # InfoCodeSystem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the infocode system.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

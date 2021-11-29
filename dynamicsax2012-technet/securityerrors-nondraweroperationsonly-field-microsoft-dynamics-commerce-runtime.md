@@ -17,6 +17,9 @@ dev_langs:
 
 # NonDrawerOperationsOnly Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that only non drawer operations should be performed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

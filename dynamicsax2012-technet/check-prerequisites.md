@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Check prerequisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Run the prerequisite validation utility for Microsoft Dynamics AX to determine whether a computer meets the requirements to install a Microsoft Dynamics AX component. You can run the utility before you install any components in your environment. If requirements are not met, the utility helps you install or configure most prerequisites. Additionally, you can view or print a report that shows the results of the prerequisite validation.

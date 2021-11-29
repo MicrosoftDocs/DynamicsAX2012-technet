@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A planning structure used to schedule budget fund allocations and expenditures.
 
 ## See also

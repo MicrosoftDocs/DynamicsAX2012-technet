@@ -13,6 +13,9 @@ f1_keywords:
 
 # transaction currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit that a party accepts for payment.
 
 ## See also

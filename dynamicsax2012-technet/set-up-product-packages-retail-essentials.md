@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up product packages (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up products so that they can be ordered as a group from a vendor. This can make it easier to create purchase orders because you don’t have to select products individually when you add them to an order. Instead, you can select a package that includes the products. Order lines are updated automatically when the products in a package are changed.

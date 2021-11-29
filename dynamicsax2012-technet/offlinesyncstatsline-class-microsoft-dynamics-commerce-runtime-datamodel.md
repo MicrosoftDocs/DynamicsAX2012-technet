@@ -17,6 +17,9 @@ dev_langs:
 
 # OfflineSyncStatsLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an OfflineSyncStatsLine.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

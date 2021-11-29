@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InsertAuditLogServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InsertAuditLogServiceRequest](insertauditlogservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

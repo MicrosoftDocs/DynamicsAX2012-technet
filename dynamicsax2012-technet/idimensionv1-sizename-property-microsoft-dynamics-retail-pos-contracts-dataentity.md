@@ -17,6 +17,9 @@ dev_langs:
 
 # SizeName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The name of the size
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

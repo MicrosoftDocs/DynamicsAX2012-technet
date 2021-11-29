@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCurrenciesRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCurrenciesRequest](getcurrenciesrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

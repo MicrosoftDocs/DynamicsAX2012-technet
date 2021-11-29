@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Register a vehicle as a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you put a vehicle fixed asset to use and calculate depreciation, you must register the fixed asset of type **Vehicle** in the assessed tax registers. After you register the fixed asset, you must then select the appropriate sales tax code, tax exemption, and value model information to register the fixed asset in the tax register. You can use the **Fixed assets** form to register a fixed asset of type **Vehicle**, and to select appropriate sales tax and value model information.

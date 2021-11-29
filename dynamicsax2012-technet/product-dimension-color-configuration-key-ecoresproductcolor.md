@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product dimension - color configuration key (EcoResProductColor) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Product dimension - color** configuration key controls access to the **Color** product dimension.

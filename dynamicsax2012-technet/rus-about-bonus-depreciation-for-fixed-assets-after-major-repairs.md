@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About bonus depreciation for fixed assets after major repairs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate bonus depreciation by reducing the value of an asset by means other than the usual rate of depreciation. You can apply bonus depreciation amounts during the accounting period, after the asset is put into service, and then depreciated. Bonus depreciation is available only for depreciation books, and is not available for value models. Bonus depreciation is always calculated and applied before other types of depreciation.

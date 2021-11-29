@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Deferrals transaction listing report (RDeferralsTransactionListing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Deferrals transaction listing report displays the deferral transactions for a deferral model. The deferral transactions are categorized by deferral group. The data on the report includes deferral transaction details, such as the date, type, description, and amount of each transaction. It also includes the name of the deferral, the status, the initial amount, and the depreciated amount. Accountants generate this report periodically to view a list of the deferral transactions.

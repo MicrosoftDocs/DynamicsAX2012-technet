@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Issue and post a customs cargo declaration for import or export operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **GTD issue** form to issue a customs cargo declaration (GTD) for import or export operations. You must first create the customs journal lines for a transaction. After a customs cargo declaration is issued, the status of the journal is changed to **Issued**. A new value for the GTD inventory dimension is created in the **Inventory dimensions** form. The inventory transactions that are associated with the customs journal have the GTD value in the inventory dimension. If the GTD number or date is corrected, you can cancel the issue of a GTD by using the **GTD issue cancelling** form. The status of the journal is changed to **In progress** after the GTD issue is canceled.

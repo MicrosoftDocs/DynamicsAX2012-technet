@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add a Service Operation to a Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to add a custom service operation to a service in Application Integration Framework (AIF). Specifically, a new service operation is added to an existing document service class. However, you follow the same method to add a service operation to any class that is exposed as a service in Microsoft Dynamics AX. An example of a custom method included with Microsoft Dynamics AX on an existing document service is the TrvExpenseService.Submit method.

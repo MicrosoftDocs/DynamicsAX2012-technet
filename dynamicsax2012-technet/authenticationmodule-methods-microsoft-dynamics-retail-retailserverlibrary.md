@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AuthenticationModule Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AuthenticationModule](authenticationmodule-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Methods

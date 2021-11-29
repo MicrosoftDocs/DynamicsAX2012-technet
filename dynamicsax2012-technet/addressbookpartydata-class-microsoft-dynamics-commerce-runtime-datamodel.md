@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressBookPartyData Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents data returned by transaction service to help connect a party to a store address book.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create a table constraint 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create user-defined or system-defined table constraints for components in a product configuration model. You can view or create table constraints on the **Product configuration models** list page. To do so, click **Table constraints** on the **Action Pane**. You can also set up table constraints in the **Constraint-based product configuration model details** form. To do so, click **Maintain table constraints** on the **Constraints** FastTab.

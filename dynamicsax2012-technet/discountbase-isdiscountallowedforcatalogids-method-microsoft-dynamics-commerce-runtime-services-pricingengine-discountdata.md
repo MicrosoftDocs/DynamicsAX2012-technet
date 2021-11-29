@@ -17,6 +17,9 @@ dev_langs:
 
 # IsDiscountAllowedForCatalogIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if the discount is allowed for the specified catalog identifiers, based on the discount price groups for this discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

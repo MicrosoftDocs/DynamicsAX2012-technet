@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase quotation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents an offer to purchase a quantity of product for a specified price and by a specified date in response to a request for quotation in a procurement process.
 
 ## See also

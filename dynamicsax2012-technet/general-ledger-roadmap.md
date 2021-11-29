@@ -17,6 +17,9 @@ ms.search.region: Global
 # General ledger roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic is a roadmap to additional information about General ledger in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use General ledger, and which modules integrate with General ledger.

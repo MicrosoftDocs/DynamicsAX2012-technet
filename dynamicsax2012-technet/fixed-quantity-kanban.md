@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed quantity kanban
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of kanban that is used when the number of kanbans that are assigned to a kanban rule is constant.
 
 ## See also

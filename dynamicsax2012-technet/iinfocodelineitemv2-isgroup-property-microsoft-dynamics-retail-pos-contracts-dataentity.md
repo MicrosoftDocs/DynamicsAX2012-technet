@@ -17,6 +17,9 @@ dev_langs:
 
 # IsGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is infocode a group or not
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

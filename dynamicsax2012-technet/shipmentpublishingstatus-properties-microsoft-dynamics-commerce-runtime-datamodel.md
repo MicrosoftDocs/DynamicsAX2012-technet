@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShipmentPublishingStatus Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShipmentPublishingStatus](shipmentpublishingstatus-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

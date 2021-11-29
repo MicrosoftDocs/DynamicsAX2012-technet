@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # SEPA (ISO 20022 XML) credit transfer payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper describes the functionality in Microsoft Dynamics AX that supports the standard Single Euro Payments Area (SEPA) credit transfer (ISO 20022 XML) payment format. Additional local formats are available for Austria, Belgium, Finland, France, Germany, Italy, Spain, and The Netherlands.

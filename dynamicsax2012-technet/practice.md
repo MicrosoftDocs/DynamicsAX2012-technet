@@ -13,6 +13,9 @@ f1_keywords:
 
 # practice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A repeatable process that improves or maintains performance.
 
 ## See also

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Manage trade allowance funds 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Trade allowance funds are used when your organization is participating in promotional activities with customers. After your organization has approved the use of funds for trade allowance activities, such as customer rebates, you can create and distribute those funds appropriately. This topic explains how to create a trade allowance fund and assign it to a trade allowance agreement and how to distribute the trade allowance funds.

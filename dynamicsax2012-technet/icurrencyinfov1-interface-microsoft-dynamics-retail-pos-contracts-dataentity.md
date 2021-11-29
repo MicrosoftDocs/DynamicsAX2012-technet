@@ -17,6 +17,9 @@ dev_langs:
 
 # ICurrencyInfoV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class that includes all properties of a given currency; how it is composed (with regard to banknotes and coins) and also its exchange rate.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

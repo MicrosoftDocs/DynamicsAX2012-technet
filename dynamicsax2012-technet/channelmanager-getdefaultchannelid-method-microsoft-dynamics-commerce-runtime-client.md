@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDefaultChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel identifier of the default channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

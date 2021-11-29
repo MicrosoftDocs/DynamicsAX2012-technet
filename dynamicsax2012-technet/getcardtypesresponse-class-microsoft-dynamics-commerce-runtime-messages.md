@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardTypesResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetCardTypesResponse class is the response for GetCardType request handler workflow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

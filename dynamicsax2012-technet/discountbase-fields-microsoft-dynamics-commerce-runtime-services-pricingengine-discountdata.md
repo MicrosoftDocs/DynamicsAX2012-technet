@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DiscountBase Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DiscountBase](discountbase-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md) type exposes the following members.
 
 ## Fields

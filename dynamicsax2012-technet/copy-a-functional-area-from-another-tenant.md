@@ -15,6 +15,9 @@ f1_keywords:
 # Copy a functional area from another tenant 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can copy a functional area from another tenant and use the copied information as the basis for a new functional area in Microsoft Dynamics ERP RapidStart Services. You can then modify the new functional area to meet your configuration goals.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Enterprise Portal to access data in a partition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to configure Enterprise Portal so that users can access data and reports in a specific partition. For more information about data partitioning, see [What's new: Data partitioning](what-s-new-data-partitioning.md) and [Data partitioning architecture](data-partitioning-architecture.md).

@@ -18,6 +18,9 @@ dev_langs:
 
 # AccentColor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The accent color entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

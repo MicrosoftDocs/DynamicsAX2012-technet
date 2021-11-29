@@ -17,6 +17,9 @@ dev_langs:
 
 # Render Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Renders the control to the specified HTML writer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ClaimsWebPart](microsoft-dynamics-retail-sharepoint-web-webparts-claimswebpart-namespace.md)  

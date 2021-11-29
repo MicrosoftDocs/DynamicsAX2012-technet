@@ -17,6 +17,9 @@ dev_langs:
 
 # TermPropertyIndexInsideColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of the category's property which indicates columns' index used to specify category's index inside given column.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

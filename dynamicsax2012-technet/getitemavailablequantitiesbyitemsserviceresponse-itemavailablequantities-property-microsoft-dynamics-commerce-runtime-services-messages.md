@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemAvailableQuantities Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the enumerable list of item available quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

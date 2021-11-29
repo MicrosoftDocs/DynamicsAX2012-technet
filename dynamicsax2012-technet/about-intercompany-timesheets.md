@@ -15,6 +15,9 @@ ms.search.region: Global
 # About intercompany timesheets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Intercompany timesheets make it possible for workers who are employed by one legal entity to enter timesheet hours for work that they do on projects in other legal entities in the same organization. The legal entity that employs a worker is called the loaning legal entity. The legal entity that manages the project for which the worker contributes hours is called the borrowing legal entity.

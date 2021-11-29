@@ -17,6 +17,9 @@ dev_langs:
 
 # IPosLegacyApp Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Do not use this interface. It is for internal use only.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

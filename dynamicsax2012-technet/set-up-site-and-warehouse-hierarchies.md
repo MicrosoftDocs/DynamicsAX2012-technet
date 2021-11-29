@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up site and warehouse hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To set up a warehouse system at a site, you can assign one or more warehouses to the site. A particular warehouse can only be assigned to one site. After a warehouse is assigned to a site, you cannot assign that warehouse to a different site.

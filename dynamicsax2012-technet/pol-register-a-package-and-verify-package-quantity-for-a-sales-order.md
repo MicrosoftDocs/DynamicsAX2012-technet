@@ -18,6 +18,9 @@ ms.search.region: Poland
 # (POL) Register a package and verify package quantity for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can register packages for sales orders and sales order lines. You can then post the packing slip and customer invoice, and print the quantity of the issued packages on the packing slip. You can verify the quantity of the packaged items for a sales order in the **Return packages transactions** form.

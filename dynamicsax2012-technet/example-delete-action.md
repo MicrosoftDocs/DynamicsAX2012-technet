@@ -14,6 +14,9 @@ dev_langs:
 # Example: Delete Action 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes sample inbound and outbound messages for the delete action in Application Integration Framework (AIF) document services. An inbound delete action message can specify one or more records to be deleted. After the inbound message is processed, AIF generates a single outbound message that has an almost empty \<Body\> tag section.

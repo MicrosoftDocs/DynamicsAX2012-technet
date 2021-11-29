@@ -17,6 +17,9 @@ dev_langs:
 
 # SubstituteProductIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all possible substitutable products for the current kit component line.
 
 If the substitutes are all variants of the same product master, only the product master is saved in this list, otherwise productvariant ids are saved. This list also includes the product used as a default component in the kit line.

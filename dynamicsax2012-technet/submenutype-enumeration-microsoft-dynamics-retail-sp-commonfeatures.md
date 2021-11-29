@@ -20,6 +20,9 @@ dev_langs:
 
 # SubMenuType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sub-Menu types.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

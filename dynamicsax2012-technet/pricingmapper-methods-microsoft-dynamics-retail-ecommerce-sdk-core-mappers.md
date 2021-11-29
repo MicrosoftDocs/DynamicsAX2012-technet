@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PricingMapper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PricingMapper](pricingmapper-class-microsoft-dynamics-retail-ecommerce-sdk-core-mappers.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # Load Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads workflow from xaml file.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # measurement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The magnitude of the property of an object calibrated against one or more units of measure.
 
 ## See also

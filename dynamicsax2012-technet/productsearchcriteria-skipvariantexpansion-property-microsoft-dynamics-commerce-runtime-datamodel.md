@@ -17,6 +17,9 @@ dev_langs:
 
 # SkipVariantExpansion Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether product search should return all applicable variants as part of the product result. In some scenarios like product browsing, where the variants are unnecessary, this flag can be used to improve search performance.
 
 This value is set to false by default if not specified.

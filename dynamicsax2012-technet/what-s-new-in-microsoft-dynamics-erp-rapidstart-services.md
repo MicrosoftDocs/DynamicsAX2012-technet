@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics ERP RapidStart Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics ERP RapidStart Services lets partners and customers configure an installation of Microsoft Dynamics AX 2012 by using a cloud-based, interview-style questionnaire. The questionnaire uses general terminology about business processes instead of terms that are specific to Microsoft Dynamics AX. Partners, independent software vendors (ISVs), and customers can create, maintain, and reuse configurations that reflect their custom solutions. Partners can also create additional groups of questions to enlarge the scope of a configuration.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # View service orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Service orders** page to view a list of service orders that have been created. You then can use the **Service order** page to view the details of a specific service order and open other pages that display additional information, such as the service agreements, service task relations, service object relations, and service repair lines that are related to each service order.

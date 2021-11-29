@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Human resource manager security role (HcmHumanResourceManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Human resource manager security role represents a user who periodically reviews human resource process performance and enables the human resource process.

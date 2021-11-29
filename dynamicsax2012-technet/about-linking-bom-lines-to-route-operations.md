@@ -15,6 +15,9 @@ ms.search.region: Global
 # About linking BOM lines to route operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Click **Inventory management** \> **Journals** \> **Item transactions** \> **Bills of materials**. Select a BOM, and click the **Designer** button.

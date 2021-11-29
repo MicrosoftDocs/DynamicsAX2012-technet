@@ -42,6 +42,9 @@ ms.search.region: Global
 # About print management processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you post or reprint business documents such as sales orders and purchase orders, the resulting documents, such as invoices or picking lists, can be printed by using the defined settings for the effective original or copy records in print management. The effective records are the original and copy records that apply to the document that is generated. This topic explains how Microsoft Dynamics AX determines which original records, copy records, and conditional settings are effective during the posting and printing process.

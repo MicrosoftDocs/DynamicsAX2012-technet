@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureActivated Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called when OOb Storefront feature is being activated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Features.OOBStorefront](microsoft-dynamics-retail-sharepoint-web-storefront-features-oobstorefront-namespace.md)  

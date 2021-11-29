@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsInCartLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the listings in cart lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

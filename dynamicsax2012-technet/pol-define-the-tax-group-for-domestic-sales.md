@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Define the tax group for domestic sales 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The domestic value-added tax (VAT) for export sales between members of the European Union (EU) must be posted, unless you receive either a single administrative document (SAD) from the customer or a confirmation of dispatch departure from the customs authority.

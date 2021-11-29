@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up keyboard mapping groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use the **Keyboard mapping groups** form to set up and view the keyboard mapping groups and keyboard mappings that are used by the point of sale (POS) registers in a store. A keyboard mapping can include all the shortcut keys that have been created for operations in Microsoft Dynamics AX for Retail POS. Therefore, Retail POS can use various kinds of POS keyboards by mapping the keys to the codes for regular PC keyboard. Additionally, you can disable specific keys on the PC keyboard, or map the keys to other key combinations. When you configure the hardware profile for your POS system, you reference the keyboard mapping group in the **POS hardware profile** form.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AXHtmlCssClasses Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AXHtmlCssClasses](axhtmlcssclasses-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Fields

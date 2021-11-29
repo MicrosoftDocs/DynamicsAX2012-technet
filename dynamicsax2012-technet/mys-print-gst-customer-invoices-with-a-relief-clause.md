@@ -16,6 +16,9 @@ ms.search.region: Malaysia
 # (MYS) Print GST customer invoices with a relief clause 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to include and print a Malaysian Goods and Services Tax (GST) relief clause in a tax invoice for goods or services that are eligible for GST relief. You can print a GST invoice from a sales order, a free text invoice, or a project proposal. When you generate a tax invoice for a customer who has bought a GST relieved item or service, the relief clause is automatically included in the final printed invoice. You can either use a detailed or a simple printing format for the invoice depending on the selection that you make in the **General ledger parameters** form.

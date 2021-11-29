@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartController](shoppingcartcontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md) type exposes the following members.
 
 ## Methods

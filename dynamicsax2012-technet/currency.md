@@ -13,6 +13,9 @@ f1_keywords:
 
 # currency
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A medium of exchange in circulation that is not limited to money.
 
 ## See also

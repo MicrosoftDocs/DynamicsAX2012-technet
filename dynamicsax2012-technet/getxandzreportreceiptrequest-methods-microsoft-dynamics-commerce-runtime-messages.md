@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetXAndZReportReceiptRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetXAndZReportReceiptRequest](getxandzreportreceiptrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

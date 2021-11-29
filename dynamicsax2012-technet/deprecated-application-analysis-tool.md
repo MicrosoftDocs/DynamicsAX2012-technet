@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Application Analysis Tool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Application Analysis Tool for Microsoft Dynamics AX 2012 let developers easily analyze trace files, database models, and X++ classes to understand how the application has been constructed. The tool was available from the [InformationSource services download page](https://go.microsoft.com/fwlink/?linkid=228147).

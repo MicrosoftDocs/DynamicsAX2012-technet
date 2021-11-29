@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a number sequence and an inventory journal name for the Counting act INV-6 report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a number sequence and an inventory journal name for the Counting act INV-6 report. You can use the **Inventory and warehouse management parameters** form to set up a number sequence for the Counting act INV-6 report. For more information, see [(RUS) Inventory and warehouse management parameters (modified form)](https://technet.microsoft.com/library/jj733200\(v=ax.60\)).

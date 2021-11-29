@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductRules Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the product rules.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

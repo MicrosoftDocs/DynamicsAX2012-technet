@@ -13,6 +13,9 @@ f1_keywords:
 
 # license plate number
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unique number that is assigned to a warehouse entity such as a pallet, bin, cart, or individual item for tracking inventory. You can use this number to ascertain the item location, item quantity, product dimension, and tracking dimension of the entity.
 
 ## See also

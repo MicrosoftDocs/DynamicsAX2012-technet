@@ -17,6 +17,9 @@ dev_langs:
 
 # IRequestHandler Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The request handler interface.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

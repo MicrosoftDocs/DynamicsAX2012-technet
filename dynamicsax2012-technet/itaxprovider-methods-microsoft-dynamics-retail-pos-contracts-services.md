@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITaxProvider Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Methods
 
 <table>

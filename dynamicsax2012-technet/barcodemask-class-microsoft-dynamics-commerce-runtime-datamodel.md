@@ -17,6 +17,9 @@ dev_langs:
 
 # BarcodeMask Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains the properties of BarcodeMask.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

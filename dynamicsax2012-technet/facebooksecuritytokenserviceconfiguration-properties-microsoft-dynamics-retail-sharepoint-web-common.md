@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FacebookSecurityTokenServiceConfiguration Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FacebookSecurityTokenServiceConfiguration](facebooksecuritytokenserviceconfiguration-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Properties

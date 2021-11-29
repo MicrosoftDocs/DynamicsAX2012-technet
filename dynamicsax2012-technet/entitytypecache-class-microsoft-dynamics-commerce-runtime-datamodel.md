@@ -17,6 +17,9 @@ dev_langs:
 
 # EntityTypeCache Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class keeps the results of entity type reflection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

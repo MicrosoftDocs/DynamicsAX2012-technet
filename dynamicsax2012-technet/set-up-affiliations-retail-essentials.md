@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up affiliations (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up price discounts and affiliations and how to add an affiliation to a customer record. An affiliation identifies customers who are members of or associated with a group, for example, seniors or students, or customers who are affiliated with organizations that your company provides discounts to. When a customer who has an affiliation added to their record is making a purchase, the affiliation and its discount are automatically added to the transaction when the cashier adds the customer to the transaction.

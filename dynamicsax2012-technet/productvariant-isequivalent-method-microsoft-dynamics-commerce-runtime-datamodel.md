@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEquivalent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the specified variant is equivalent to this variant.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

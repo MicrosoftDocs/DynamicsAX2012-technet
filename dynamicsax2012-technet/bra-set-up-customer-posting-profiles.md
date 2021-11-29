@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up customer posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customer posting profiles** form to specify an account to credit the Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax amount to. You can apply a customer posting profile to a single customer, a group of customers, or all customers.

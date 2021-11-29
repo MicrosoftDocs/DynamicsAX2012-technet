@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up sales tax groups for VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Create sales tax groups that determine the VAT calculation for sales or purchases. You can attach sales tax codes to the sales tax groups.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IndiaTaxDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IndiaTaxDataManager](indiataxdatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

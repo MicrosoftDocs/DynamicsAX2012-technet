@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertFromSystemDataSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts a [DataSet](https://technet.microsoft.com/library/bwy42y0e\(v=ax.60\)) into a [DataSet](dataset-class-microsoft-dynamics-commerce-runtime-data-types.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  

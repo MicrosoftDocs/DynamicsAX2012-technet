@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Updating the Uses of the Ledger Posting Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The ledger posting framework is the API that is used to post to the general ledger in Microsoft Dynamics AX 2012. This paper describes how to update uses of the ledger posting framework in Microsoft Dynamics AX 2012.

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Close the general ledger at month end 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the following information to complete monthly closing procedures for General ledger. All procedures are optional, and you might not be able to complete a procedure, depending on the options that are selected in the **Configuration** form.

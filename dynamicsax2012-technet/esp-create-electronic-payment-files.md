@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Create electronic payment files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section contain information about creating electronic payment files in Spain. For general information about creating electronic files, see [Create electronic payment files](create-electronic-payment-files.md).

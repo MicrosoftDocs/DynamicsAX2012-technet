@@ -16,6 +16,9 @@ f1_keywords:
 # (BRA) Generate the GIA tax file for São Paulo 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to generate a Guia de Informação e Apuração (GIA) tax file for São Paulo by using the **Booking period** list page. The GIA text file provides information about all fiscal documents that have been received and issued each month for fiscal establishments that are located in São Paulo. This information is used by tax authorities. The GIA text file also includes information about tax amounts.

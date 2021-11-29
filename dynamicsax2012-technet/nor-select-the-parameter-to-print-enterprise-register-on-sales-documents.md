@@ -17,6 +17,9 @@ ms.search.region: Norway
 # (NOR) Select the parameter to print Enterprise register on sales documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Select the **Print Foretaksregisteret on sales documents** check box in the **Legal entities** form in order to print *Enterprise register* on sales documents. For more information, see [Legal entities (form)](https://technet.microsoft.com/library/hh242860\(v=ax.60\)).

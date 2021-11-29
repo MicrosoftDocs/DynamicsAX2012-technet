@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up journal names and number sequences for tax cost price journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must register the tax cost price journal before you create the journal. You must also set up number sequences for the journal.

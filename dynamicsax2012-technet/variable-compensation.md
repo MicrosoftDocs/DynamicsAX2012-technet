@@ -13,6 +13,9 @@ f1_keywords:
 
 # variable compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Compensation, contingent on discretion, performance, or results, that is awarded to an employee by an organization.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Grant-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Grant-AXModelStore
 
 Grants the account that an Application Object Server instance is running as permissions to the model store in the Microsoft Dynamics AX database.

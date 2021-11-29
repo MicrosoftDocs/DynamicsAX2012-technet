@@ -13,6 +13,9 @@ f1_keywords:
 
 # cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value of an economic resource that is quantified in monetary units and that is measured using an accounting valuation principle.
 
 ## See also

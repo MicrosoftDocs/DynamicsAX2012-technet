@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Disable-AXUser
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Disable-AXUser
 
 Deactivates a user in Microsoft Dynamics AX.

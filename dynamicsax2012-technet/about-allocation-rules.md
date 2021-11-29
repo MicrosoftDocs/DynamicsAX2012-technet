@@ -15,6 +15,9 @@ ms.search.region: Global
 # About allocation rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains the difference between fixed and variable allocations, the allocation methods that are available for allocations, the components of each allocation, and how ledger allocation rules are used in budget planning. Allocation is the distribution of monetary amounts to one or more accounts or account and dimension combinations based on allocation rules.

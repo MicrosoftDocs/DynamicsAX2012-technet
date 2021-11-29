@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadRetailDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fetch all retail discounts for the given items, striped by item Id and dimension Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

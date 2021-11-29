@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a customs declaration (CD) database 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can track customs declarations (CDs) from the time that goods arrive at the customs terminal to the time that the goods are shipped to the end customer.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TagKey Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [WebControl.TagKey](https://technet.microsoft.com/library/1k0x396z\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)  

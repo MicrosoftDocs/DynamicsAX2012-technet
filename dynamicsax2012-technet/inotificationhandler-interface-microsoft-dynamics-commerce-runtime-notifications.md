@@ -17,6 +17,9 @@ dev_langs:
 
 # INotificationHandler Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The notification handler interface.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Notifications](microsoft-dynamics-commerce-runtime-notifications-namespace.md)  

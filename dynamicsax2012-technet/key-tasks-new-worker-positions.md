@@ -27,6 +27,9 @@ ms.search.region: Global
 # Key tasks: New worker positions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create positions, you must set up reference information that you use for positions. The procedures in this topic are listed in the order in which you should complete them.

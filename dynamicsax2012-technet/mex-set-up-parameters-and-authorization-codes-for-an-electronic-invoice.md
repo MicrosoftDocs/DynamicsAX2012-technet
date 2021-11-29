@@ -20,6 +20,9 @@ ms.search.region: Mexico
 # (MEX) Set up parameters and authorization codes for an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Electronic invoice parameters** form to set up parameters for generating electronic invoices. You can select the digital certificate, XML schema definition (XSD) version, and email template to use to generate electronic invoices and issue them to the Servicio de Administración Tributaria (SAT). You can also select the algorithm to use to generate the digital stamp.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up fixed asset posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up posting profiles for fixed assets. Posting profiles define the ledger accounts that are used in the value model for each fixed asset transaction.

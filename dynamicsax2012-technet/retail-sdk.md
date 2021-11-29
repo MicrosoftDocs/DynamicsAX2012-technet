@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail SDK 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Retail Software Development Kit (SDK) includes code samples, templates, and tools that you can use to customize Retail clients for Microsoft Dynamics AX. For information about installing the Retail SDK, see [Install Retail SDK (Retail POS Plug-ins)](install-retail-sdk-retail-pos-plug-ins.md).

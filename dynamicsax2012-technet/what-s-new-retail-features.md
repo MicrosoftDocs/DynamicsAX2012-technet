@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Retail features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes new and changed Retail features since the release of Microsoft Dynamics AX 2012. Changes are described in the following tables according to the update in which they were released.

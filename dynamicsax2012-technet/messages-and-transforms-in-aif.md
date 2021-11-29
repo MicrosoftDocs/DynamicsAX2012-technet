@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Messages and transforms in AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012 services and Application Integration Framework (AIF), a message corresponds to a Windows Communication Foundation (WCF) message. A message is a self-contained unit of data that can consist of several parts. These parts include a body and headers. When AIF receives and processes an inbound message, it generates an outbound message in response.

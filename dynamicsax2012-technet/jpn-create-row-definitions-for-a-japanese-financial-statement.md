@@ -17,6 +17,9 @@ ms.search.region: Japan
 # (JPN) Create row definitions for a Japanese financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create row definitions for a financial statement.

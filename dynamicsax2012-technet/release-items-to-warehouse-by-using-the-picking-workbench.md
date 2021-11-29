@@ -24,6 +24,9 @@ ms.search.region: Global
 # Release items to warehouse by using the picking workbench 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to organize picking operations by using the picking workbench. The picking workbench helps streamline the picking process by letting you customize the number of picking lists per batch, this is also known as a picking wave. You can also customize the maximum number of lines per picking list. A picking wave encompasses a single warehouse, whereas the picking list per batch is the number of orders that one person can pick at a time.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShoppingCarts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all shopping carts associated with the current user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

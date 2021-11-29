@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a transit account to redraw miscellaneous charges to third parties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a transit general ledger account that can be used to redraw charges to third parties.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ISalesInvoiceLineItem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ISalesInvoiceLineItem interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX 2012 Production Floor App 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Along with Microsoft Dynamics AX 2012 R3, Microsoft is releasing the Windows 8 Production floor app that works with the product. This app is compatible only with installations of Microsoft Dynamics AX 2012 R3 or later.

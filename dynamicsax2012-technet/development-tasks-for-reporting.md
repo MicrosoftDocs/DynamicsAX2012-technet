@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Development Tasks for Reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides a model-based approach for creating reports by providing project templates and modeling tools that are incorporated into the Microsoft Visual Studio development environment. The reporting features provided by Microsoft Dynamics AX are tightly integrated with SQL Server Reporting Services.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # demand during lead time
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The average daily demand for a product multiplied by the average lead time.
 
 ## See also

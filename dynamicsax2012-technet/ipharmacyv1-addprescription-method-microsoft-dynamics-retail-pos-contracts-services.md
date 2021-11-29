@@ -17,6 +17,9 @@ dev_langs:
 
 # AddPrescription Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a prescription to a retail transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Product builder prerequisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A number of areas in Microsoft Dynamics AX must be set up before you can work with **Product Builder**.

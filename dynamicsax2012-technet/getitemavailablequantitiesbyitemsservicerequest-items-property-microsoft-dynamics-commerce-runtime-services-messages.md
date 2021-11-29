@@ -17,6 +17,9 @@ dev_langs:
 
 # Items Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item and variant inventory dimension combinations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

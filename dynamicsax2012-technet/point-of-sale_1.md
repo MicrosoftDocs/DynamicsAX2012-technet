@@ -13,6 +13,9 @@ f1_keywords:
 
 # point of sale
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The place at which the ownership of products is transferred from the seller to the buyer in exchange for payment.
 
 ## See also

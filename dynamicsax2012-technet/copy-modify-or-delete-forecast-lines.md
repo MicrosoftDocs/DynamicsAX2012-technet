@@ -19,6 +19,9 @@ ms.search.region: Global
 # Copy, modify, or delete forecast lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to process existing forecast transaction lines. You can copy, modify, and delete forecast transaction lines.

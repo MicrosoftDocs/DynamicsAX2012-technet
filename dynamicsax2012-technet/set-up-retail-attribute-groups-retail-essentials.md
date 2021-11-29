@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up retail attribute groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Use attributes and attribute groups to add descriptive characteristics to your retail products. Attributes could include size, weight, capacity, or other special characteristics. After you define attributes, you can group them into attribute groups. You can include an attribute in one or more attribute groups.
 
 You can assign attribute groups to retail channels or retail categories. If you assign attribute groups to a retail channel or retail categories, any products that are assigned to the retail channel or retail categories can inherit the attributes that are included in the attribute group.

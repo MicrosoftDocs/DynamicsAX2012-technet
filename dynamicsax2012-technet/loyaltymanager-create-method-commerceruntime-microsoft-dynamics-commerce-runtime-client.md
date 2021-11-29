@@ -15,6 +15,9 @@ dev_langs:
 
 # Create Method (CommerceRuntime)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new instance of the [LoyaltyManager](loyaltymanager-class-microsoft-dynamics-commerce-runtime-client.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # Accounts payable roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic is a roadmap to additional information about Accounts payable in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Accounts payable and information on which modules integrate with Accounts payable.
 
 Microsoft Dynamics AX 2012 includes Accounts payable features that help you track vendor invoices and outgoing expenditures. You can enter vendor invoices manually or receive them electronically through a service. Vendors can also enter invoices by using a vendor portal in Enterprise Portal for Microsoft Dynamics AX. After invoices are entered or received, you can review and approve them. You can use invoice matching, vendor invoice policies, and workflow to automate the review process so that invoices that meet certain criteria are automatically approved, and the remaining invoices are flagged for review by an authorized user.

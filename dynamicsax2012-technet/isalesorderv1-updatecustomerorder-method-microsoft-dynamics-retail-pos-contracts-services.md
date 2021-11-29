@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates sales order with changes to items, delivery details and or payments.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

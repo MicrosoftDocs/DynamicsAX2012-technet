@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: Payment services for Microsoft Dynamics ERP - payment gateway 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Payment Services for Microsoft Dynamics ERP is a Level 1 Payment Gateway that is certified by the Payment Card Industry (PCI), and is an important part of the Software Plus Services strategy for Microsoft Dynamics ERP. Payment Services enables payment cards to be accepted in Microsoft Dynamics AX 2012, and in your store, by using Microsoft cloud services.

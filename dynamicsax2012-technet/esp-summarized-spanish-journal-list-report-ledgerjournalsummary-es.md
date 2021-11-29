@@ -15,6 +15,9 @@ f1_keywords:
 # (ESP) Summarized Spanish journal list report (LedgerJournalSummary\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Summarized Spanish journal list** report displays a summary of ledger transaction details that are included in the general journal. This report is typically used by compliance managers, accounting managers, accounting supervisors, and financial controllers to review the status of general ledger processes.

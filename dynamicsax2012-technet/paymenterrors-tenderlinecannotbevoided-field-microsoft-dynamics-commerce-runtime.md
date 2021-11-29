@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderLineCannotBeVoided Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that tender line cannot be voided.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

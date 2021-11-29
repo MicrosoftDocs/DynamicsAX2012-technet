@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceContext Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [PriceContext](pricecontext-class-microsoft-dynamics-commerce-runtime-services-pricingengine.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

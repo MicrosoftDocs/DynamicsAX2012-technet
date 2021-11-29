@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SearchCustomersProcedure Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SearchCustomersProcedure](searchcustomersprocedure-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices.md) type exposes the following members.
 
 ## Methods

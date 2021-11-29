@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DeliveryMethod Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DeliveryMethod](deliverymethod-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

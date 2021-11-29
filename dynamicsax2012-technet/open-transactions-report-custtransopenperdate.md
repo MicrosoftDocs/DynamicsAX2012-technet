@@ -14,6 +14,9 @@ f1_keywords:
 # Open transactions report (CustTransOpenPerDate) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to provide detailed information about the open transactions for each customer as of the date entered in the **Open transactions per** field. For each transaction, the report includes the date of the transaction, voucher number, amount in the transaction currency, balance in the transaction currency, subtotal amount in the accounting currency, due date, and collection letter code.

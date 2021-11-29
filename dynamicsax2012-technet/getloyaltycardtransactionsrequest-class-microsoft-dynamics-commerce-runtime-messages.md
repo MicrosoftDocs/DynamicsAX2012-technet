@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardTransactionsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the request for getting the loyalty card transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

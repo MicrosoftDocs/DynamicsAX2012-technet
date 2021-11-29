@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Find card type for specific card info from database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

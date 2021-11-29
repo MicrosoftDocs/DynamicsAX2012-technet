@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAddresses Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all addresses that meets the supplied criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

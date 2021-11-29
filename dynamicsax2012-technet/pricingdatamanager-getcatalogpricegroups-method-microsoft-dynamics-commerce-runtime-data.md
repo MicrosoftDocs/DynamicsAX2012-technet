@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCatalogPriceGroups Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the catalog price groups.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerLookup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class for looking up customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

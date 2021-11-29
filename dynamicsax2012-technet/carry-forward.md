@@ -13,6 +13,9 @@ f1_keywords:
 
 # carry forward
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To transfer closing account balances from one accounting period to opening account balances in the subsequent accounting period.
 
 ## See also

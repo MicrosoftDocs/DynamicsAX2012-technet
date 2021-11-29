@@ -14,6 +14,9 @@ f1_keywords:
 # Unrealized sales tax configuration key (TaxUnrealized) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Unrealized sales tax** configuration key is obsolete and is used only for backward compatibility.

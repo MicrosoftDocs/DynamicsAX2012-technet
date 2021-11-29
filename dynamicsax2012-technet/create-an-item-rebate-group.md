@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create an item rebate group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create an item rebate group. You can apply the item rebate group to items that qualify for each rebate in the group. When you apply rebates to items at the group level, you do not have to assign each rebate individually.

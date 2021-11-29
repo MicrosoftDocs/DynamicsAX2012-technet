@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select number sequences for the workflow system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An identification number is automatically assigned to every workflow that is created and every instance of a workflow that is generated. The identification numbers are based on number sequences. This topic provides information that will help you create number sequences. It also describes how to specify which number sequence is used to generate IDs for workflows, and which number sequence is used to generate IDs for workflow instances.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # unit of measure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A division of quantity established in calibrated or normative systems of measurement.
 
 ## See also

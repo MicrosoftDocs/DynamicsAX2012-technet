@@ -13,6 +13,9 @@ f1_keywords:
 
 # system language
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The default language that is used by the application text localization system.
 
 ## See also

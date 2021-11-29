@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKeyByIndex Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the key used to represent an element based on its index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

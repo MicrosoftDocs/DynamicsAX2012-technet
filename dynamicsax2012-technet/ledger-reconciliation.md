@@ -13,6 +13,9 @@ f1_keywords:
 
 # ledger reconciliation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of reconciling general ledger accounts.
 
 ## See also

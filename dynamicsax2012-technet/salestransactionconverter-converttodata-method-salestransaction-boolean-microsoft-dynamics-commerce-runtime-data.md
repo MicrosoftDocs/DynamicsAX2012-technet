@@ -15,6 +15,9 @@ dev_langs:
 
 # ConvertToData Method (SalesTransaction, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts from a sales transaction to its database representation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

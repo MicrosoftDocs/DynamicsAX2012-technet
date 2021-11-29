@@ -19,6 +19,9 @@ dev_langs:
 
 # CreatedAtRoute(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

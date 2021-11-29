@@ -17,6 +17,9 @@ dev_langs:
 
 # ResultsPerPage Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Result per page control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

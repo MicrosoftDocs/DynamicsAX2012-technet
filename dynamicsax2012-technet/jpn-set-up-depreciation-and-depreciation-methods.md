@@ -36,6 +36,9 @@ ms.search.region: Japan
 # (JPN) Set up depreciation and depreciation methods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To depreciate a fixed asset in Microsoft Dynamics AX, you can set up parameters, depreciation methods, and allowable limits for depreciation. You can specify the allowable limit for accumulated depreciation, which is the maximum amount of accumulated depreciation that can be deducted from the acquisition value of a fixed asset for its useful life.

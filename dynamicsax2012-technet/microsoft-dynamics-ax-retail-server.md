@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX Retail Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 R3 includes a new component that provides services and business logic for Modern Point of Sale (POS) clients. This new component is called Retail Server.

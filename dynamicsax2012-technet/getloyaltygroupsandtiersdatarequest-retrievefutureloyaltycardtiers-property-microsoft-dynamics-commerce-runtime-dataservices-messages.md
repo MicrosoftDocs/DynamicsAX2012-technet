@@ -17,6 +17,9 @@ dev_langs:
 
 # RetrieveFutureLoyaltyCardTiers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether to retrieve the loyalty card tiers that take effect in the future.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

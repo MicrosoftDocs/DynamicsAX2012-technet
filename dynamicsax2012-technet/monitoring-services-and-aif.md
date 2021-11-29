@@ -19,6 +19,9 @@ f1_keywords:
 # Monitoring services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you set up data exchanges with external systems by using Application Integration Framework (AIF), you must maintain this integration. Microsoft Dynamics AX lets you manage your document exchanges throughout their life cycle and troubleshoot any issues that affect data transfers. The maintenance and management of document exchanges involves the following tasks:

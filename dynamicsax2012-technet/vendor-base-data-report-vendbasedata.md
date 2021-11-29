@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor base data report (VendBaseData) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor base data** report to print information about a vendor or a group of vendors.

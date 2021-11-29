@@ -17,6 +17,9 @@ dev_langs:
 
 # BuildEntity(TEntity) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Builds the entity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

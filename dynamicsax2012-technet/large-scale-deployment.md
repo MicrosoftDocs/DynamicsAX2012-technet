@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Large-scale deployment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The sample topology for a large-scale deployment of Microsoft Dynamics AX focuses on high availability. To achieve high availability, the topology includes load-balancing server clusters for the application servers and failover server clusters for the database server.

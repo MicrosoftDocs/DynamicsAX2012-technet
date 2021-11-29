@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Indirect cost configuration key (PSAIndirectCost) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Indirect cost** configuration key controls access to forms and functions to set up and maintain indirect costs that you allocate to projects. The indirect cost feature is available in the **Project management and accounting** module.

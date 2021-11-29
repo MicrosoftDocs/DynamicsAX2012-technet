@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create language texts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Important information, such as terms of payment and terms of delivery, can be printed in other languages on documents. This is helpful when you are trading with companies from other countries or regions. Before you can print the information in another language, you must create the text for that language. The language text option is available only on selected forms.

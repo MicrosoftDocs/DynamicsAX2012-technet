@@ -18,6 +18,9 @@ ms.search.region: Global
 # Define financial dimensions for Budgeting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Budgeting dimensions** form to specify which financial dimensions in the account structures that are associated with the chart of accounts are available for Budgeting.

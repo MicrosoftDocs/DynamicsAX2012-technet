@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSalesTaxGroups Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales tax groups.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

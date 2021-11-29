@@ -16,6 +16,9 @@ f1_keywords:
 
 # location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - A geographic point or region.
 
   - A physical address.

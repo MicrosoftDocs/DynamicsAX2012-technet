@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed exchange rate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An exchange rate that pegs one currency's value to another currency's value.
 
 ## See also

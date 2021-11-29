@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # INotificationHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [INotificationHandler](inotificationhandler-interface-microsoft-dynamics-commerce-runtime-notifications.md) type exposes the following members.
 
 ## Properties

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Merge party IDs for vendor accounts across multiple legal entities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If multiple legal entities in your organization do business with the same vendor and each legal entity maintains a separate vendor account for that vendor, use this procedure to merge the party IDs for the vendor accounts across multiple legal entities. This enables you to make vendor payments for invoices in any of the legal entities that the vendor does business with.

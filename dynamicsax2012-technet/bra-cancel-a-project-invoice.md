@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Cancel a project invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel a customer invoice for a project. When you cancel a project invoice, a negative project invoice is created. When you post the negative project invoice, the original and negative project invoices are marked as canceled, and all the ledger and financial transactions are reversed. The original transaction is reported in the fiscal books as canceled, and the negative transaction is not reported in the fiscal books.

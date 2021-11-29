@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FeatureReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FeatureReceiver](featurereceiver-class-microsoft-dynamics-retail-sharepoint-common.md) type exposes the following members.
 
 ## Methods

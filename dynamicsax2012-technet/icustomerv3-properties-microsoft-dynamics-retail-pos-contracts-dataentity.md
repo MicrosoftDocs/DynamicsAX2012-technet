@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerV3 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerV3](icustomerv3-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

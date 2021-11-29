@@ -14,6 +14,9 @@ ms.search.region: Netherlands
 # (NLD) Set up electronic tax declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Companies in the Netherlands must submit a turnover statement that shows Value Added Taxes (VAT), sales tax and turnover tax-Omzet Belasting (OB), and their Intracommunautaire Prestaties (ICP) tax declaration to the Dutch tax authorities electronically.

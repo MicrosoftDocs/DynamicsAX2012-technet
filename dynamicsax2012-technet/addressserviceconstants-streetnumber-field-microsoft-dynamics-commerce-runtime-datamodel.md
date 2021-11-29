@@ -18,6 +18,9 @@ dev_langs:
 
 # StreetNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The street number field name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Create a Bankgirot payment file that includes Postgirot payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Sweden, vendor invoice payment files are sent to two payment clearing services, Postgirot and Bankgirot. You can include Postgirot payments in a Bankgirot payment file and send only one file that contains both types of payments to Bankgirot.

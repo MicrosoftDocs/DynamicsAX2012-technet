@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Maintain external vendor catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you configure access to a vendor’s external catalog site, you can maintain the catalog by doing the following:

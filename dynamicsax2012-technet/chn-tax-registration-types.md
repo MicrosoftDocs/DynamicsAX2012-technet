@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Tax registration types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, value-added tax (VAT) registration numbers are stored in the various party tables, such as the customer table. Microsoft Dynamics AX 2012 R2 and R3 include a new table for tax registration types. During upgrade, VAT registration numbers must be copied to the new tax registration types table and the required references must be added to the party tables.

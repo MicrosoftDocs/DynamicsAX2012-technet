@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplyLineDiscountForCustomerAndItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether line discount trade agreement should apply for combination of customer and item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

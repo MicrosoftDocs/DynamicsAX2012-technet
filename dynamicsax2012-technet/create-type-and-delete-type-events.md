@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create-type and delete-type events 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create events and delete events are part of rules that trigger an alert when a record is either created or deleted in the application. The following table explains the options that are available.

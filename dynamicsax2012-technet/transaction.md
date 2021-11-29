@@ -15,6 +15,9 @@ f1_keywords:
 
 # transaction
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - A social economic exchange action.
 
   - A physical economic exchange action.

@@ -19,6 +19,9 @@ f1_keywords:
 # (BEL) Belgian sales tax by vendor report (TaxAmountByVendor\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Belgian sales tax by vendor** report displays a summary of sales taxes and sales tax amounts that are paid to vendors, together with the sales tax codes used to post the transactions. This report is an internal control report that provides an overview of vendor sales tax transactions. You can also use this report to verify the VAT declaration amounts or for other auditing purposes. This report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, accounts receivable clerks, accounts receivable managers, and accountants.

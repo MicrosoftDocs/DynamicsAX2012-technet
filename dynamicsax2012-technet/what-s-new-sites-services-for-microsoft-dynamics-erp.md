@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Sites Services for Microsoft Dynamics ERP 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sites Services for Microsoft Dynamics ERP extends Microsoft Dynamics AX 2012 business processes and workflows on the web, and is an important part of the Software Plus Services strategy for Microsoft Dynamics ERP. Sites Services enables business users to collaborate with customers and vendors, without the need for a major IT investment. Additionally, Sites Services enables partners to build advanced Software Plus Services solutions.

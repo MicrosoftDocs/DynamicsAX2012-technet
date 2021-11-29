@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Create retail product catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Retail, you can use product catalogs to identify the products that you want to offer in your stores. When you create a catalog, you add the stores that the catalog is being created for. The products in the catalog are selected from the product assortments that are assigned to the stores.

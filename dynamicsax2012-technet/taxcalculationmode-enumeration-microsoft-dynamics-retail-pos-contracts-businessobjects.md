@@ -19,6 +19,9 @@ dev_langs:
 
 # TaxCalculationMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether tax is calculated for entire amounts or for intervals.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

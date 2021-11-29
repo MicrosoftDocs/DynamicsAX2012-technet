@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Upgrade analysis (Lifecycle Services, LCS) 
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This topic explains how to use Upgrade analysis in Lifecycle Services (LCS). Upgrade analysis helps you plan full-version, minor-version, and in-place upgrades to Microsoft Dynamics AX 2012.
 
 In Microsoft Dynamics Lifecycle Services (LCS), Upgrade analysis helps users plan a full-version upgrade to Microsoft Dynamics AX 2012 from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009, or a minor-version or in-place upgrade from one version of AX 2012 to another. The following chart shows how the service works for both full-version upgrades and in-place upgrades.

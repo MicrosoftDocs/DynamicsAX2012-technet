@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up purchase or sales agreement functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the following key steps to set up a purchase agreement or a sales agreement:

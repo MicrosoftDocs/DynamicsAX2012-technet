@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountApplication Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class representing a specific application of a discount to a set of line items on a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

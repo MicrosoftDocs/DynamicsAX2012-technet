@@ -17,6 +17,9 @@ ms.search.region: Japan
 # (JPN) Set up the parameter to add debit and credit fields in the Customer transactions form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Use the **Accounts receivable parameters** form to set up the parameter to display the transaction currency amounts in separate debit and credit fields in the **Customer transactions** form.

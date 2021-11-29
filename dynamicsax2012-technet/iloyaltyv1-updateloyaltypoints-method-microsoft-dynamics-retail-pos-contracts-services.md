@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateLoyaltyPoints Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called to update points in HQ when concluding a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

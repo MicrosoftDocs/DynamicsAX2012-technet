@@ -13,6 +13,9 @@ f1_keywords:
 
 # forecast dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A dimension that is used to characterize the level of detail for which a forecast is defined.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About calculating multiline discount on purchase order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You calculate the multiline discount on purchase order lines by activating the multiline discount in the **Activate price/discount** form. When you have activated the multiline discount, it can be granted when one or more purchase order lines that are added together meet the discount requirement. The items must be in the same multiline discount group. For more information about multiline discounts, see [Trade agreements (form)](https://technet.microsoft.com/library/aa499393\(v=ax.60\)). Configure the settings for both multiline discounts and line discounts in the **Discount** field in the **Purchasing parameters** form.

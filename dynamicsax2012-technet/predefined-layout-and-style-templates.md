@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Predefined Layout and Style Templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are several predefined layout and style templates that you can use for your reports. These templates are standard templates for Microsoft Dynamics AX reports and provide consistent layout and style settings. For example, in each of these templates, the font style is consistently set to Tahoma. Be sure to use the predefined layout and style templates if you want your reports to have the same look and feel as existing reports that are included with Microsoft Dynamics AX. The predefined layout and style templates are defined by the Visual Studio tools for Microsoft Dynamics AX. For more information, see [How to: Apply a Layout or Style Template](how-to-apply-a-layout-or-style-template.md).

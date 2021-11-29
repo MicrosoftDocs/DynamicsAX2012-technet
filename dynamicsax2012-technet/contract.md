@@ -13,6 +13,9 @@ f1_keywords:
 
 # contract
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A legally binding agreement between two or more parties.
 
 ## See also

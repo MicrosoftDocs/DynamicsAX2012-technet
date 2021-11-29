@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Debug X++ Code for Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use the X++ debugger to debug from Microsoft Dynamics AX for Retail POS to Commerce Data Exchange: Real-time Service to Microsoft Dynamics AX, or from commerce runtime to Real-time Service to Microsoft Dynamics AX. Perform the following steps to debug code that runs on the client:

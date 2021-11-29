@@ -17,6 +17,9 @@ dev_langs:
 
 # WeightInBarcode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is set to true if weight of the item was read from the barcode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

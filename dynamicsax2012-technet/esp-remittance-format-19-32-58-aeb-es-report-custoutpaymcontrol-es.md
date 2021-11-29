@@ -17,6 +17,9 @@ f1_keywords:
 # (ESP) Remittance Format 19,32 & 58 AEB (ES) report (CustOutPaymControl\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Remittance Format 19,32 & 58 AEB(ES)** report displays and prints the details of customer payments that are remitted to the bank. You can sort the details of the remitted customer payments based on the export format that you select in the **Remittance export formats** field:

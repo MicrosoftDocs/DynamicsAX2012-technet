@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) I.E. Numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 IE numbers, or state registration numbers, are required for each customer and vendor record. When you upgrade to Microsoft Dynamics AX 2012 R2 or R3, you can update any invalid IE numbers that have been entered for customers and vendors.

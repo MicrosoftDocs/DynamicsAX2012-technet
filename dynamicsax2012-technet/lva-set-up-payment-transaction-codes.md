@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Set up payment transaction codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The payment transaction code indicates the type of the payment transaction, such as incoming or outgoing. This information is used to summarize and report payment transactions.

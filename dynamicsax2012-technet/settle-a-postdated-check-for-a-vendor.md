@@ -17,6 +17,9 @@ ms.search.region: Global
 # Settle a postdated check for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor postdated checks** form to settle postdated checks received from the vendor. You can settle a postdated check issued to a vendor when the bank has cleared the check transaction. This financial transaction also clears the bridge account transaction for the postdated check. You must select the **Post journal entries for postdated checks** check box in the **Cash and bank management parameters** form to settle a postdated check.

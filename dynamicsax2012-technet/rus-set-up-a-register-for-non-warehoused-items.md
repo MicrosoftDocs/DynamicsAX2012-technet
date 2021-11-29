@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for non-warehoused items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Tax registers** form to set up a register for non-warehoused items. The **Non warehoused items** register displays information about the flow of non-inventoried items, work, services, rights, and equity that are amortized by actual cost.

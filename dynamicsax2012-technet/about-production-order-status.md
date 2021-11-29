@@ -15,6 +15,9 @@ ms.search.region: Global
 # About production order status 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Manufactured items move through the production process sequentially. The sequence starts when a production order is created and ends when the product is ready for shipment. In Microsoft Dynamics AX, each sequential step is associated with a specific status. The status reflects where the item is in the production life cycle.

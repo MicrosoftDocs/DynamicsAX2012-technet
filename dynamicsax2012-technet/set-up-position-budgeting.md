@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up position budgeting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the procedures that are required to set up position budgeting so that you can create and work with forecast positions.

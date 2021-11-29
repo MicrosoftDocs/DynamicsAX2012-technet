@@ -23,6 +23,9 @@ ms.search.region: Denmark, France
 # Import and create one-time vendors and invoices (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You might have a situation where you have to create multiple invoices for new vendors with whom you have no regular relationship. If neither approval nor a purchase order is required, you can quickly create invoices at the same time as you create records for the vendors. For example, you might want to support vendor payments for jury duty, registration payments, and customer refunds or other payments where master vendor records do not exist.

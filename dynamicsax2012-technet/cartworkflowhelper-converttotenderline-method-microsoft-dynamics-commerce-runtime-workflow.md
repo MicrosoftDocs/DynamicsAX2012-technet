@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertToTenderLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts CartTenderLine to TenderLine.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

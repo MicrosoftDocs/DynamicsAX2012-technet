@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ValidateAccountActivationDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ValidateAccountActivationDataRequest](validateaccountactivationdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

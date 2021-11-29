@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournalById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the StockCount journal from AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

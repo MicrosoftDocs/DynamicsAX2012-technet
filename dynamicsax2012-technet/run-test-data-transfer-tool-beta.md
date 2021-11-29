@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Run the Test Data Transfer Tool (beta)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Security and permissions
 ------------------------
 

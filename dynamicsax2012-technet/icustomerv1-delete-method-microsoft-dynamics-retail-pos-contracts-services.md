@@ -17,6 +17,9 @@ dev_langs:
 
 # Delete Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Delete the customer from the database if the customer holds no customer transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

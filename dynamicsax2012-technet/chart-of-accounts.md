@@ -14,6 +14,9 @@ f1_keywords:
 
 # chart of accounts
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - An account structure whose valid value combinations are constrained by integrity constraints and account rules.
 
   - A list of main accounts.

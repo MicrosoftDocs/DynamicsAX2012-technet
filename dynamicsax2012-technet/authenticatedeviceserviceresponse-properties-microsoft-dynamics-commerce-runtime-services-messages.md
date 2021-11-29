@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AuthenticateDeviceServiceResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AuthenticateDeviceServiceResponse](authenticatedeviceserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

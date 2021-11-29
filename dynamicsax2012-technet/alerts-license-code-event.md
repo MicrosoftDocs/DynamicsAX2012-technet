@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Alerts license code (Event) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Alerts** license code enables access to the alerts functionality of Microsoft Dynamics AX.

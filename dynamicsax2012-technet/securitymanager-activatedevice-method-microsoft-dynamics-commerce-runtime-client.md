@@ -17,6 +17,9 @@ dev_langs:
 
 # ActivateDevice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Activate the device.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

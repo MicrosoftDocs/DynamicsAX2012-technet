@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a procurement catalog policy rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must set up a catalog policy rule as part of your purchasing policy to control which catalog is displayed on the procurement site. The catalog policy rule is configured for the organizations that are selected on the **Purchasing policy** form. If a user has been granted permission to order products on behalf of another user, Microsoft Dynamics AX uses the catalog policy rule that is defined for the requester’s legal entity and operating unit to determine which catalog to display on the procurement site. Before you can define a catalog policy rule, you must create a procurement catalog and then publish it.

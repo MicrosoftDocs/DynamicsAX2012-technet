@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up workflows for travel and expense 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a workflow process that is used to review and approve travel and expense documents. The documents for which workflows can be defined include expense reports, travel requisitions, credit card disputes, and cash advance requests.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetDeliveryPreferencesServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetDeliveryPreferencesServiceRequest](getdeliverypreferencesservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Convert substance flows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you define the settings for tracking transactions that affect the environment, use the **Calculate conversions** form to convert incoming substance flows to outgoing substances. Incoming flows can result from information entered on invoices that were created in the **Invoice register** form or the **Purchase order** form, from meter readings, or from manual entries. After you select the criteria for the flows, you can schedule the conversion calculation to run regularly as a batch job.

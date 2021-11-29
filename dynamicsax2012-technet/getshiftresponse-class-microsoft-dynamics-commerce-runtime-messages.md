@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShiftResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get available Shift response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

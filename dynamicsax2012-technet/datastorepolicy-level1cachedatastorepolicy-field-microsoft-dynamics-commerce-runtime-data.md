@@ -17,6 +17,9 @@ dev_langs:
 
 # Level1CacheDataStorePolicy Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the policy associated with a level 1-type cache, or closest caching level to the original data source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

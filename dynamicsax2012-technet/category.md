@@ -14,6 +14,9 @@ f1_keywords:
 
 # category
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - A classifier, designation, or division of objects that share a common property.
 
   - A classifier used to group parties, locations, products, and activities.

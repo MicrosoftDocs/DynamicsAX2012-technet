@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessItem Method (ISaleLineItem, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked by item sale operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

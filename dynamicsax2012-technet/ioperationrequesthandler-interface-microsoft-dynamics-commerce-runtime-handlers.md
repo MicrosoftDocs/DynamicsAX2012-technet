@@ -17,6 +17,9 @@ dev_langs:
 
 # IOperationRequestHandler Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A company specific request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Handlers](microsoft-dynamics-commerce-runtime-handlers-namespace.md)  

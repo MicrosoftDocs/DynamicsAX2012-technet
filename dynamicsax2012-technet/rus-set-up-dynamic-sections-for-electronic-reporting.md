@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up dynamic sections for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A dynamic section is a Microsoft Excel template that has only one section that displays data for specific objects. In a template, this type of section can appear one or more times, or it might not appear. A dynamic section can contain requisites of any type.

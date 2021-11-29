@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign a screen layout 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 When you configure Retail for point of sale (POS), you can design the screen layouts that your workers use on the registers in your stores. You can define one or more screen layouts for your business. Then, when you configure a POS register, you select the ID of the screen layout that the register uses. You can also assign screen layouts to specific stores or specific workers.

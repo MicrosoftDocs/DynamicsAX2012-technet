@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Setting up standard text in accounting transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 All Brazilian accounting transactions must contain text that clearly states transaction details. The text can contain information such as the invoice number, date, and customer number or vendor number.

@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Set up a method of payment for Bankgirot payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Sweden, vendor payment files are sent to Bankgirot, which is a payment clearing service. You must set up a method of payment for the Bankgirot payments that is used in the payment journal.

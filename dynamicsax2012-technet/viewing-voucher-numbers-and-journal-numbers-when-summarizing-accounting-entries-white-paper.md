@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Viewing Voucher Numbers and Journal Numbers when Summarizing Accounting Entries (White Paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper explains how to set up a batch transfer rule to summarize subledger journal accounting entries. It also describes how to create simple free text invoices, journalize those free text invoices to the subledger journal, and then post the subledger journal entries to the general ledger.

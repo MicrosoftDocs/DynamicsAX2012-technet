@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductVariantPropertiesAsList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the properties of all the variants of this product as a flat list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

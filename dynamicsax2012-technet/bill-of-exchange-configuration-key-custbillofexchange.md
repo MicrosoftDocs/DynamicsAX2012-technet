@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Bill of exchange configuration key (CustBillOfExchange) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bill of exchange** configuration key controls access to bill of exchange forms and functions. A bill of exchange is a written order that directs one party to pay a certain sum of money to the drawer or to another party.

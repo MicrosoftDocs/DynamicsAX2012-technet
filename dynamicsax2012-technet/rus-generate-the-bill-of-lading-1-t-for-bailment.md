@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the Bill of lading (1-T) for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate the 1-T report when you ship a transfer order for bailment. The 1-T report is generated in Microsoft Excel format, and contains the description, ID, count, dimensions, weight, and total cost of the items that are sent for storage.

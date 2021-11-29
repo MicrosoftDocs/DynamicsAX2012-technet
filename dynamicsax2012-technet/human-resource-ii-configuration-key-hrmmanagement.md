@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Human resource II configuration key (HRMManagement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Human resource II** configuration key enables the **Absence** and **Recruiting** configuration keys, as well as some Enterprise Portal for Microsoft Dynamics AX pages.

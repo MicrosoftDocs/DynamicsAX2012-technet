@@ -20,6 +20,9 @@ ms.search.region: Global
 # Generate timesheet periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Timesheet periods in Microsoft Dynamics AX are generated for each period type. Workers who are assigned to projects are assigned to one of these timesheet-related period types to determine how frequently they must submit timesheets. Timesheet periods are also used as the basis for generating the payroll.

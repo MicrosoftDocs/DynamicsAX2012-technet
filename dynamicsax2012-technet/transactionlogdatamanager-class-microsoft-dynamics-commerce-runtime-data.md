@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionLogDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data manager class for transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

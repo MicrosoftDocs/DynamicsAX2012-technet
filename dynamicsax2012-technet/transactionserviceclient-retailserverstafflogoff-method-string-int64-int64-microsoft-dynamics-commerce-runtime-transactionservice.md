@@ -15,6 +15,9 @@ dev_langs:
 
 # RetailServerStaffLogOff Method (String, Int64, Int64)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Logs the specified user off.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

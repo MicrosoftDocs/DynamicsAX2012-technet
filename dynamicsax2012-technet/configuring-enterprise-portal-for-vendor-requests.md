@@ -18,6 +18,9 @@ ms.search.region: Global
 # Configuring Enterprise Portal for vendor requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about how to configure vendor requests for Enterprise Portal for Microsoft Dynamics AX. For example, to allow employees to request that vendors be added as new vendors, employees and vendors to request that vendors be authorized to supply items and services in additional categories, and more.

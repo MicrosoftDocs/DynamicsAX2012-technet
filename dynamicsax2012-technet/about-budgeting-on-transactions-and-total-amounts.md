@@ -15,6 +15,9 @@ ms.search.region: Global
 # About budgeting on transactions and total amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you want to be able to analyze financial performance, you budget on transactions and total amounts by using a flexible budget.

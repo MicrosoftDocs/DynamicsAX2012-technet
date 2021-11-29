@@ -13,6 +13,9 @@ f1_keywords:
 
 # load
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum amount of activity that can be performed by a resource in a time period.
 
 ## See also

@@ -35,6 +35,9 @@ ms.search.region: Global
 # About requests for quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Organizations issue a request for quotation (RFQ) when they want to purchase items or services, and want to receive competitive offers from several vendors. In an RFQ, you ask vendors to provide the prices and delivery times for the quantities of items that you specify. You can also ask vendors to specify whether there are any incidental charges, such as shipping costs, or whether the vendor offers discounts for large orders or early payment of the vendor invoice.

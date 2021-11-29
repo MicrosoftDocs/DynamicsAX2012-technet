@@ -14,6 +14,9 @@ ms.search.region: Global
 # Copy a modeling variable setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can copy the setup for one modeling variable to another. The receiving variable must be created before you can start copying. For information about how to create a modeling variable, see [Create modeling variables](create-modeling-variables.md).

@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up a withholding tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a withholding tax code, a withholding tax type, and a calculation parameter to calculate withholding taxes for consultancy services or professional service payments. You can also enter values for the withholding tax code by using the **Withholding tax values** form.

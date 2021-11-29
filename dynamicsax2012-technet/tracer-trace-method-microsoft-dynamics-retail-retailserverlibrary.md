@@ -17,6 +17,9 @@ dev_langs:
 
 # Trace Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The trace method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

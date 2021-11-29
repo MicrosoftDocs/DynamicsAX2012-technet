@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a sales order based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Sales order** form to post a packing slip, invoice, and facture for a sales order. The inventory profile on the sales order line must belong to the kind of activity that is selected in the sales order, unless the kind of activity is **Unspecified**. The posting profile on the sales order line is defined in the **Inventory profile - posting profile** form. Therefore, if the inventory profile is selected, the corresponding posting profile is selected automatically.

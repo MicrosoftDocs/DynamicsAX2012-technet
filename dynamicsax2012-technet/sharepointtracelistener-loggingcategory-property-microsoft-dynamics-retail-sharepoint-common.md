@@ -17,6 +17,9 @@ dev_langs:
 
 # LoggingCategory Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the category under which the messages will be logged.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

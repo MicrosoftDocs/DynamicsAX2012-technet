@@ -14,6 +14,9 @@ f1_keywords:
 # Spend optimization report (VendSpendOptimization) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a percentage of the amount spent in each procurement category. The amount spent is broken down by procurement category, number of vendors in the category, and the amount spent by the vendors in the category. The report also displays this information based on the vendor’s status: approved, preferred, or unknown.

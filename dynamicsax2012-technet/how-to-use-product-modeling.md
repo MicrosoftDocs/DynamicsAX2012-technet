@@ -14,6 +14,9 @@ ms.search.region: Global
 # How to use product modeling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product modeling can be used whenever you create a new sales, purchase or production order line or quotation line for a modeling enabled item. Items that use product modeling must have the **Modeling enabled** check box selected in the **Released products** form. Additionally, they must be attached to a product model.

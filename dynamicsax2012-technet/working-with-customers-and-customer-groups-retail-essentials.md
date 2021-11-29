@@ -15,6 +15,9 @@ f1_keywords:
 # Working with customers and customer groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create customer records and customer groups in Retail essentials. You can create groups that share characteristics such as payment terms and the length of time that is typically required for payments to be received after an invoice is due. You can then assign these groups to customers.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # escalation path
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A series of workflow escalation actions that can be taken to complete a workflow work item when it cannot be complete by the current assignee.
 
 ## See also

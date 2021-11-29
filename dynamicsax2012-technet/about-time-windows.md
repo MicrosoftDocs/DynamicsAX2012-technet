@@ -15,6 +15,9 @@ ms.search.region: Global
 # About time windows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use time windows to optimize the scheduling of service order lines. You can set up the system so that it automatically creates service orders. Based on the criteria specified by a time window, you can connect as many service order lines as possible to as few service orders as possible.

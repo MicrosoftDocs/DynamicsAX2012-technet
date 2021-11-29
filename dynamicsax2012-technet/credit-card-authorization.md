@@ -13,6 +13,9 @@ f1_keywords:
 
 # credit card authorization
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of verifying the credit card holder's identification and credit worthiness before a sales order is processed and fulfilled.
 
 ## See also

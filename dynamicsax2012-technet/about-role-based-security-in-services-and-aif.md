@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About role-based security in services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Security for Microsoft Dynamics AX services and Application Integration Framework (AIF) is based on the role-based security that is used in Microsoft Dynamics AX. For an overview of role-based security in Microsoft Dynamics AX, see [Role-based security in Microsoft Dynamics AX](role-based-security-in-microsoft-dynamics-ax.md). This topic describes how services and AIF help enforce security requirements through users, roles, duties, and privileges.

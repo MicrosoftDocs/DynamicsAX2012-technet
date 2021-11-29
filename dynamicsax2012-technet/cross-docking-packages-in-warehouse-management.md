@@ -20,6 +20,9 @@ ms.search.region: Global
 # Cross docking packages in Warehouse management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes features that are available only if you are running Microsoft Dynamics AX 2012 R3 Cumulative Update 8. This topic describes how to use cross-docking in **Warehouse management** to move packages of products through a warehouse while using limited or no storage. Cross-docking is useful if you purchase products from different vendors, the vendors prepack cartons that contain a mix of products or product variants, and you want distribute the cartons to one or more retail stores.
 
 ## What setup is required for cross-docking packages?

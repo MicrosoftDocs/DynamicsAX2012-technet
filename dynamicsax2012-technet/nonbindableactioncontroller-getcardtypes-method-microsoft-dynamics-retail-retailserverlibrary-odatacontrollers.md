@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the list of card types that match specified card number or all types if card number not specified.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

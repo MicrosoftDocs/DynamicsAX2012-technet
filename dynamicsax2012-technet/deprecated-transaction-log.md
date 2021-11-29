@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Transaction log 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Transaction log tracks table changes that are made to specific entities and fields in the **CRM** module in Microsoft Dynamics AX. The information that is logged includes who made the changes, and when the changes were made.

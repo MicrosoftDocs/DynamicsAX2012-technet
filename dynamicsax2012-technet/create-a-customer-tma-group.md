@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a customer TMA group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a customer TMA (Trade and Merchandising Allowance) group. You can assign a customer TMA group to customers who qualify for each allowance in the group. When you assign the allowances to customers at the group level, you do not have to assign each allowance individually.

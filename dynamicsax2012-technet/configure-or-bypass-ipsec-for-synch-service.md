@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure or bypass IPsec for Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Synch Service requires a specific configuration for IPsec encryption and authentication. This topic provides instructions for setting up the minimum configuration. If you use another method to help secure data transport, such as a virtual private network (VPN), you can bypass the IPsec requirement for Synch Service.

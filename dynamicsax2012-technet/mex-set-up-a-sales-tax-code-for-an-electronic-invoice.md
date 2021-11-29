@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) Set up a sales tax code for an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax codes** form to set up a sales tax code and select the type of sales tax for an electronic invoice. The sales tax code is included in the electronic invoice to indicate the type of sales tax that you must calculate, collect, and pay to the Servicio de Administración Tributaria (SAT).

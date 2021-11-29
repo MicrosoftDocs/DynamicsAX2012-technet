@@ -13,6 +13,9 @@ f1_keywords:
 
 # capacity planning
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A procedure for determining the resource capacity requirements that meet the demand of future output during specific time periods.
 
 ## See also

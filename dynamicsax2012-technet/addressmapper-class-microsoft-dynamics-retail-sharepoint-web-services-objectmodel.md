@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressMapper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Map DataModel address to ViewModel address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

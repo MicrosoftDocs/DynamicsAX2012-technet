@@ -18,6 +18,9 @@ dev_langs:
 
 # StateProvinceId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state/province identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

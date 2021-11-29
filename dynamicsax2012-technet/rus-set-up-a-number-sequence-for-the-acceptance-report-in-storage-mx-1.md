@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a number sequence for the Acceptance report in storage (MX-1) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can assign a number sequence for the Acceptance report in storage (MX-1).

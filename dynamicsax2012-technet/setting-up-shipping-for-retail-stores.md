@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up shipping for retail stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to set up modes of delivery and shipping charges for retail stores.

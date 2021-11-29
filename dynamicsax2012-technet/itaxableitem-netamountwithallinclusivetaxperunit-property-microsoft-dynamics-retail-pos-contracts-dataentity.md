@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithAllInclusiveTaxPerUnit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the net amount per unit with all inclusive taxes (even non-exempt).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

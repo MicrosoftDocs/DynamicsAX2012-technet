@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a batch attribute search template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a search template for batch attributes. This feature is used to locate items with certain characteristics to reserve the inventory against a sales order or a production order.

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Key tasks: Audit policies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Audit policies help you implement the compliance strategy for your organization. This topic explains how to create audit policies, audit policy rule types, and policy rules. It also explains how to modify or retire an audit policy.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # accrued revenue
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Revenue earned in one accounting period but received in a subsequent accounting period.
 
 ## See also

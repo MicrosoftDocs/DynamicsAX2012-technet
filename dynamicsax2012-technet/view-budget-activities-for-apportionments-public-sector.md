@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # View budget activities for apportionments (Public Sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can track and audit budget activities for apportionments by viewing budget register entries, budget balances, budget control statistics, and actual versus budget totals from the following list pages and forms:

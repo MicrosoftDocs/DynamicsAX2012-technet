@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnQtyAllowed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 // If the item is being returned, this field stores the allowed return qty for this item line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

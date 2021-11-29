@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Withholding tax for advance payments and prepayments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate Tax Collected at Source (TCS) and Tax Deducted at Source (TDS) withholding taxes on advance payments and prepayments received from customers or vendors. When the prepayment or advance payment is attached to a sales order or purchase order, the withholding tax is calculated only on the amount that exceeds the advance payment or prepayment amount.

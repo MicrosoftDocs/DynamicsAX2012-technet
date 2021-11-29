@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplicationStart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers once, when the application starts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

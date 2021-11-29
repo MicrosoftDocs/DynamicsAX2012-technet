@@ -13,6 +13,9 @@ f1_keywords:
 
 # product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item, service, or right that is output from an economic activity.
 
 ## See also

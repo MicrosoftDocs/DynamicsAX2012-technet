@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) About accounting distributions and subledger journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In India, accounting distributions and subledger journals are available for the following types of tax transactions. These tax transactions are levied on non-stocked items:

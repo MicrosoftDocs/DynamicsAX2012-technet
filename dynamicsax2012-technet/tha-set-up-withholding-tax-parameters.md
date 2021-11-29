@@ -17,6 +17,9 @@ ms.search.region: Thailand
 # (THA) Set up withholding tax parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All businesses in Thailand are required to calculate withholding taxes for services that they provide and to record withholding taxes deducted for services received. Withholding tax reports must be sent to the government tax authorities on a regular basis. In accordance with tax regulations, you must set up item tax groups and attach them to service items to calculate withholding taxes. You must set up ledger posting groups to define the ledger accounts to post the withholding tax transactions, set up withholding tax thresholds, and set up currency codes and rates.

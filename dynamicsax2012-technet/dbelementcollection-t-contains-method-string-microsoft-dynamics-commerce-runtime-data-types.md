@@ -15,6 +15,9 @@ dev_langs:
 
 # Contains Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns whether this collection contains a specific key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

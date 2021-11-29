@@ -17,6 +17,9 @@ dev_langs:
 
 # SetCheckAccessIsShiftOpenAction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the delegate to check if user has an open shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

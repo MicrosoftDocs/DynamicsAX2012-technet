@@ -19,6 +19,9 @@ dev_langs:
 
 # OfflineDatabaseType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Offline database type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

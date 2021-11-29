@@ -14,6 +14,9 @@ dev_langs:
 # Example: FindKeys Action 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes sample inbound and outbound messages for the findkeys action in Application Integration Framework (AIF) document services. You can use the findkeys action to obtain the values of the key fields for all records that match your query criteria.

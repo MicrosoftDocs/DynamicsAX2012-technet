@@ -13,6 +13,9 @@ f1_keywords:
 
 # POS terminal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A computer terminal at the point of sale that records and tracks the ownership and transfer of products from the seller to the buyer in exchange for payment.
 
 ## See also

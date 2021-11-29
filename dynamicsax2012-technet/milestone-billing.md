@@ -13,6 +13,9 @@ f1_keywords:
 
 # milestone billing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of requesting payment when predefined milestones are reached.
 
 ## See also

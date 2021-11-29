@@ -20,6 +20,9 @@ ms.search.region: Global
 # Print copies of payments as non-negotiable checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a payment has been generated and posted to the payment journal, you can print a copy of the payment as a non-negotiable check. A non-negotiable check is a document that cannot be bought, sold, exchanged, or transferred.

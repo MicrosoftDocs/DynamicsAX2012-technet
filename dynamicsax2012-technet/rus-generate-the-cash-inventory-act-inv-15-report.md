@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the Cash Inventory Act (Inv-15) report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

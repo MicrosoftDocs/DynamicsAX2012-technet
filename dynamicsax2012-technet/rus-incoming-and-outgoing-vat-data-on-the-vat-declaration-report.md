@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Incoming and outgoing VAT data on the VAT declaration report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can include incoming and outgoing value-added tax (VAT) data on the VAT declaration report. The VAT data is displayed in sections on the report. You can set up report cells for each section of the VAT declaration by using predefined requisites for VAT declaration.

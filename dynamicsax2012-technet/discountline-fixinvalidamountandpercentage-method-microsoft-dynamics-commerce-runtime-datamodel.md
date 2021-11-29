@@ -17,6 +17,9 @@ dev_langs:
 
 # FixInvalidAmountAndPercentage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fix invalid amount and percentage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

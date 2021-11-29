@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Overview of the Security Development Tool user interface 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/overview-of-the-security-development-tool-user-interface/) in the Dynamics AX Help wiki.

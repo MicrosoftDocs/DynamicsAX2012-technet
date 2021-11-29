@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail online store publishing architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic contains conceptual information to help developers and system administrators understand how channels and catalogs are published from the Microsoft Dynamics AX Retail module to an online store in Microsoft SharePoint 2013 Products. Understanding the publishing process can help you develop, manage, and troubleshoot your Retail online store. Before you read this topic, we recommend that you read about SharePoint cross-site publishing concepts. For more information, see [Plan for cross-site publishing in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=282721) and [Plan terms and term sets in SharePoint Server 2013](https://go.microsoft.com/fwlink/?linkid=311567)

@@ -17,6 +17,9 @@ dev_langs:
 
 # LayoutDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Buttongrid data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

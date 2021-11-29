@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Methods (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can override a report method in the Application Object Tree (AOT). To override a report method in the AOT, click the report to expand its node, right-click the **Methods** node, and then click **Override Method**. To add a report method in the AOT, click the report to expand its node, right-click the **Methods** node, and then click **New Method**.

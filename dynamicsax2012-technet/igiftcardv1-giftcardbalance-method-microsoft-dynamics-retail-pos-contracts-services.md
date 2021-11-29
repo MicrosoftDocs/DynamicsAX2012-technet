@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays the balance amount of a gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

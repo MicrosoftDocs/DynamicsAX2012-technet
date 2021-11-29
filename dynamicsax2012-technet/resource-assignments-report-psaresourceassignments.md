@@ -20,6 +20,9 @@ f1_keywords:
 # Resource assignments report (PSAResourceAssignments) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Resource assignments** report to view worker assignments based on criteria that you select. For example, you can select project types and worker commitment types in a date range. You can sort the information on the report by project or project contract. You can also select criteria to include only conflicts in worker assignments on the report.

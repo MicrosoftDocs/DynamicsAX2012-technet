@@ -15,6 +15,9 @@ ms.search.region: Global
 # About expense reports and multiple approvers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depending on the expense approval policies of your organization, more than one person may be required to approve an expense report that is submitted by an employee. When you are setting up the workflow process for expense report approval, you can add workflow elements that include tasks or steps for one or more expense report approvers. For example, you might require that all expense reports be approved first by the manager of the employee who submitted the report, and then by the accounts payable coordinator.

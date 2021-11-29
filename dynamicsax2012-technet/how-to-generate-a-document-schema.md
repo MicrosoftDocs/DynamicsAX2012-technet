@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Generate a Document Schema 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to generate the schema for a document using X++ and how to view the schema for a document exchange on an integration port. Each document has a document schema that defines the rules for data that is serialized to XML or data that is deserialized from XML. If you have an external system that is receiving data from Microsoft Dynamics AX or if you want to send data into Microsoft Dynamics AX via Application Integration Framework (AIF), you must know the XML schema for the documents in the exchange.

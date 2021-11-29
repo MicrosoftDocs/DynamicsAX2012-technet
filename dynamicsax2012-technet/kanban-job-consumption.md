@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban job consumption
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The withdrawal of product components from inventory in order to complete the kanban production jobs.
 
 ## See also

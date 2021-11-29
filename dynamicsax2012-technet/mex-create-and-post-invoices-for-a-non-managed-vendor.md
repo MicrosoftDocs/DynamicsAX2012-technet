@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Create and post invoices for a non-managed vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Journal voucher** form to enter petty cash or minor expense transactions that are not posted directly to a vendor account, and then post an invoice for a non-managed vendor. To post invoice transactions for non-managed vendors, you must select the account type as **Ledger**, **Project**, or **Bank**. Petty cash or minor expense transactions that include Value Added Tax (VAT) should be declared in the purchase VAT book and in the Declaración Informativa de Operaciones con Terceros (DIOT) report. For more information, see [(MEX) Generate the DIOT declaration report (DIOTDeclaration\_MX)](mex-generate-the-diot-declaration-report-diotdeclaration-mx.md).

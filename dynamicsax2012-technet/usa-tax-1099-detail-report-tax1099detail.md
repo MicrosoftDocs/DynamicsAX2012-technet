@@ -14,6 +14,9 @@ f1_keywords:
 # (USA) Tax 1099 detail report (Tax1099Detail) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Tax 1099 detail** report is used to print a detailed list of 1099 statement transactions for each vendor and to verify the information before filing 1099 statements with the IRS. The report shows the 1099 amount for each voucher, the vendor's total amount by box, the vendor's total 1099 amount, and a total of the 1099 amounts for all vendors specified on the report. This report is typically used by collections managers, accountants, accounting managers, and accounting supervisors.

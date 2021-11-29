@@ -18,6 +18,9 @@ dev_langs:
 
 # RequiresAssociation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether this control requires the logged in user to be associated to an AX customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

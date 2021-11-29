@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set permissions specific to upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin the Microsoft Dynamics AX installation process, work with a system administrator to ensure that the account you log on with at each server has the following permissions that are specific to upgrade. These permissions are implemented according to the principle of least privilege.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # BOF
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The model-view-controller framework that synchronously or asynchronously controls the execution of immediate or batched business operation implementations.
 
 ## See also

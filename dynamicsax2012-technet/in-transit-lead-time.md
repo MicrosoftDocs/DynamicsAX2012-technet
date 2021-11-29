@@ -13,6 +13,9 @@ f1_keywords:
 
 # in-transit lead time
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The lead time required for an item to leave the shipping party and arrive at the receiving party.
 
 ## See also

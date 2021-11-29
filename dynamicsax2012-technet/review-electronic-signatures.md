@@ -17,6 +17,9 @@ ms.search.region: Global
 # Review electronic signatures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At times you may need to verify electronic signatures, either for your own purposes or to provide information in an audit. To verify electronic signature information, use the following procedure.

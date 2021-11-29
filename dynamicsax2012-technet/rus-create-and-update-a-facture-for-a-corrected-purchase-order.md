@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and update a facture for a corrected purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In some cases, the accountant must issue a corrective invoice to correct errors and clarify VAT information. In Microsoft Dynamics AX, you can create documents to correct vendor invoices. In order to properly display corrected documents in the purchase book while processing corrected invoices and factures, you must specify the references to the corrected invoices, factures, and the VAT reporting periods.

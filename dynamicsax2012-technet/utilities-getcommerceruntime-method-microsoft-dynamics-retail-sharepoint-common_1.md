@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCommerceRuntime Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the CommerceRuntime instance initialized by using the currently executing application's config.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

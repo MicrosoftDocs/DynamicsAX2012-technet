@@ -17,6 +17,9 @@ dev_langs:
 
 # ClearText Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clears all text from line display.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

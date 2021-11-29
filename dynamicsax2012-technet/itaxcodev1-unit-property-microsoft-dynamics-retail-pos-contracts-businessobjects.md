@@ -17,6 +17,9 @@ dev_langs:
 
 # Unit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The unit for calculating per unit amounts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

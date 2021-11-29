@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reverse an electronic payment file for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to correct the balances for an electronic payment that has already been settled. You cannot reverse a payment to undo it. Instead, you must reverse the settlement, create a negative payment, and then settle the negative payment with the original payment.

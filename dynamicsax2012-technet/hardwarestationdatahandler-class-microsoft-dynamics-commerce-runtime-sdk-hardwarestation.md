@@ -17,6 +17,9 @@ dev_langs:
 
 # HardwareStationDataHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Channel data services that contains methods to retrieve the information by calling views.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

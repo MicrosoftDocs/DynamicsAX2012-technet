@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveCustomerOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initiates a save customer order request given the cart identifier and payment card information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

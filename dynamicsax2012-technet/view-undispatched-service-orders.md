@@ -14,6 +14,9 @@ ms.search.region: Global
 # View undispatched service orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to view activities in a service order that don’t have a worker assigned to them from a dispatch team.

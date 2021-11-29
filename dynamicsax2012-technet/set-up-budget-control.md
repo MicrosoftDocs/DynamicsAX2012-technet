@@ -31,6 +31,9 @@ ms.search.region: Global
 # Set up budget control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Budget control is available for source documents and accounting journals. Source documents include purchase requisitions, purchase orders, vendor invoices, travel requisitions, and expense reports. Accounting journals include daily journals, allocation journals, project expense journals, and fixed asset journals. Depending on how you configure budget control, source documents and accounting journals can be prevented from additional processing when a budget check indicates that the budgeted amounts are not available.

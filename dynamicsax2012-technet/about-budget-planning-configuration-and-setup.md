@@ -25,6 +25,9 @@ ms.search.region: Global
 # About budget planning configuration and setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic contains information to help you configure budget planning and set up budget planning processes. After you configure budget planning, you can set up one or more budget planning processes. For more information about how to set up budget planning processes, see Setting up budget planning processes in this topic.

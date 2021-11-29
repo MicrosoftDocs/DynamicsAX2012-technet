@@ -19,6 +19,9 @@ dev_langs:
 
 # AddOnPostAcquireRequestStateAsync Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

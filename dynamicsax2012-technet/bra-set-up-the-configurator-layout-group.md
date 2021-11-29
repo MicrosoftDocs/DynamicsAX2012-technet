@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up the configurator layout group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Configurator layout groups** form to set up a configurator layout group. A configurator layout group defines the file structure that is used to import or export data. When you create configurator layout groups, you must attach a configurator definition group to the layout group and define the layout. If you create a configurator layout group to import a return file, you must select the **Register type** check box in the **Edit layout** form to define a register type for the record layout that has a header, detail, and trailer.

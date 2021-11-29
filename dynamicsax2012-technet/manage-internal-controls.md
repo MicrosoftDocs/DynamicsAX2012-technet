@@ -17,6 +17,9 @@ ms.search.region: Global
 # Manage internal controls 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Internal controls** page, which displays the structure of the **Internal controls** site, to manage documents on the **Compliance** site. Each node of this structure can contain a document folder where all documents for that location are stored. The permissions granted by the **Compliance** site administrator determine which document folders you can view. You can add, edit, and remove documents by using the **Internal controls** site. A document template defines the properties and workflow steps for documents, the order in which each document can be nested or grouped, and how they are grouped. For more information, see [About compliance document templates](about-compliance-document-templates.md).

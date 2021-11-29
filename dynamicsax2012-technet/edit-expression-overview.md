@@ -14,6 +14,9 @@ f1_keywords:
 # Edit Expression Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You use expressions throughout a report definition to control content and format the data in a report. You can use the Edit Expression window to write and edit expressions for an auto design report in Model Editor. Expressions are written using Visual Basic.

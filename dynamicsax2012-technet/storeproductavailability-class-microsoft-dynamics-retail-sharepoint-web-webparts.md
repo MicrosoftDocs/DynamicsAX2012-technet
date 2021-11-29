@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreProductAvailability Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This is the web part which provides the availability of products in other stores.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

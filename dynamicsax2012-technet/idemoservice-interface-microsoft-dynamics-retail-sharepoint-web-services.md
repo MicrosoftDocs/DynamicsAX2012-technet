@@ -17,6 +17,9 @@ dev_langs:
 
 # IDemoService Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A demo service interface to test basic service functionality.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

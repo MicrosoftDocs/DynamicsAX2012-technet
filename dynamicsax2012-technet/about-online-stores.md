@@ -19,6 +19,9 @@ ms.search.region: Global
 # About online stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Retail in Microsoft Dynamics AX supports multiple retail channels. These retail channels include online stores, online marketplaces, and retail stores (also called brick-and-mortar stores). Retail in Microsoft Dynamics AX 2012 R3 also supports call centers as a type of retail channel.

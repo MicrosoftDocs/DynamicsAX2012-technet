@@ -17,6 +17,9 @@ dev_langs:
 
 # HardwareProfileCashDrawerPoolDevice Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The hardware profile drawer pool device entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

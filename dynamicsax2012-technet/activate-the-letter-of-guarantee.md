@@ -18,6 +18,9 @@ ms.search.region: Global
 # Activate the letter of guarantee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you use the **Cash and bank management parameters** form to activate the letter of guarantee, select the **Bank document** check box in the **Configuration** form.

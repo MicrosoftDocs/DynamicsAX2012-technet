@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltySchemeLineEarn Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a loyalty scheme line for earning reward points.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

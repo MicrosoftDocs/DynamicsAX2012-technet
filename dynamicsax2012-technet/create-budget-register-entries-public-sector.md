@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # Create budget register entries (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the apportionment budget type to segregate apportionments from original budget amounts for a specific budget model and dimension values. Before you create budget register entries to enter amounts for the original budget and apportionments, you must set up basic budgeting and configure budget control for apportionments. For more information, see [Set up budgeting and budget control for apportionments (Public sector)](set-up-budgeting-and-budget-control-for-apportionments-public-sector.md).

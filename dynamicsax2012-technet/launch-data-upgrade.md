@@ -15,6 +15,9 @@ f1_keywords:
 # Launch data upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Launch data upgrade** task opens the **Data upgrade cockpit (%1 -\> %2)**, where you can begin bulk copying data from the source Microsoft Dynamics AX system and running data upgrade scripts on the target system.

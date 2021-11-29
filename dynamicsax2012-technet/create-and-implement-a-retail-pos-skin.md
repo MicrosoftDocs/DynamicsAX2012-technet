@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create and implement a Retail POS skin 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can change the look and feel of Microsoft Dynamics AX for Retail POS registers by creating new Retail POS skins. To create or modify existing Retail POS skins, you must obtain a license from [DevExpress](http://www.devexpress.com/). Retail POS uses DXExperience Winforms created by DevExpress. You can develop your own forms without using DevExpress, but it is recommended you use these to maintain a consistent look and feel.

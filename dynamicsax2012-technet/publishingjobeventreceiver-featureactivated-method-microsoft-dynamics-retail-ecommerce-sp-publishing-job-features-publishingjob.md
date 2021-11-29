@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureActivated Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides SPFeatureReceiverFeatureActivated(SPFeatureReceiverProperties).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Job.Features.PublishingJob](microsoft-dynamics-retail-ecommerce-sp-publishing-job-features-publishingjob-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemIdNotFoundInInventoryNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the itemId not found in inventory database when attempting to reserve the item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

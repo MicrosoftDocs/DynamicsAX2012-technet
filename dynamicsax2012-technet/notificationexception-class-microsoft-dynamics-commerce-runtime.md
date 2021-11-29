@@ -17,6 +17,9 @@ dev_langs:
 
 # NotificationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Notification exception.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Cost and internal project configuration key (ProjBasicInternalProject) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Cost and internal project** configuration key controls access to cost projects and internal projects. If this key is enabled, hours, items, and expenses can be registered to cost projects and internal projects.

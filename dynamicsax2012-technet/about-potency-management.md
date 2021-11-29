@@ -22,6 +22,9 @@ ms.search.region: Global
 # About potency management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use potency management to define an item to have a specified concentration of an active ingredient. The exact concentration of the active ingredient is defined as the potency of the item. This definition of potency applies only to items that are associated with a tracking dimension group in which the **Batch number** dimension is active and is set to primary stocking. You can manage potency to adjust the quantity of material that is required for production of the specified item, to calculate the amount that is paid to a vendor for the item, or to calculate the sales price of an item.

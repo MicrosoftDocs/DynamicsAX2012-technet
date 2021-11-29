@@ -20,6 +20,9 @@ dev_langs:
 
 # PriceDiscItemCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.PriceDiscItemCode interface enables a discount with regard to an item, a superordinate item group or to all items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

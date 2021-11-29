@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product upgrade (preprocessing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, there are new processes for handling items. A new structure requires any item that is configured in a company to be based on a product definition. Therefore, any item that is handled in inventory, or during the purchase or sales process, must be associated with a product definition. Product definitions reside at the shared level.

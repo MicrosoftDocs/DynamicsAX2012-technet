@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Designs (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The visible design of a report can be created by using the AOT. There are two available modes, the Automatic and Generated modes.

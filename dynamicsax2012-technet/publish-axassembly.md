@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Publish-AXAssembly
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Publish-AXAssembly
 
 Deploys a business logic assembly from Microsoft Dynamics AX to Microsoft SQL Server Reporting Services.

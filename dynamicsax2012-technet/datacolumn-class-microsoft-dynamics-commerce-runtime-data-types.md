@@ -17,6 +17,9 @@ dev_langs:
 
 # DataColumn Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a column in a data table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Post completed store inventory documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 After a purchase order or transfer order has been received, and a stock count has been completed, you can validate and post the documents.

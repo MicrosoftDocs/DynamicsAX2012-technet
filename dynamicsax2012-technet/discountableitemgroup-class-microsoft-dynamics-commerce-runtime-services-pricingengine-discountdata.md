@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountableItemGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class containing groupings of SalesLine objects so that identical items that are on multiple lines can be considered as a single line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

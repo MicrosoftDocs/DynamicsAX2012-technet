@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with address books (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create address books and how to assign teams to address books based on specific criteria. For example, you can assign teams to an address book based on legal entity or location. Before you create address books for your organization, we recommend that you determine the number of address books that your organization requires.

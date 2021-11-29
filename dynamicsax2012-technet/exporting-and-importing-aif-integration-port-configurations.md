@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Exporting and importing AIF integration port configurations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 uses integration ports to manage integration scenarios in services and Application Integration Framework (AIF). You can move integration port configurations between environments, such as from a test environment to a production environment, by using Microsoft Dynamics AX import/export. For information about Microsoft Dynamics AX import/export, see [Data import, export and migration](data-import-export-and-migration.md).

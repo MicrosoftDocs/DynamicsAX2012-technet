@@ -18,6 +18,9 @@ ms.search.region: Global
 # Waive, reinstate, or reverse interest or fees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When interest notes are created, you sometimes must make adjustments to the interest and fees that they include. You can use the buttons on the **Collect** tab of the **All customers** list page to waive, reverse, or reinstate charges:

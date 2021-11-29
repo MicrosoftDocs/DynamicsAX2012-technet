@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # T
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [takt time](takt-time.md)
 
 [task](task.md)

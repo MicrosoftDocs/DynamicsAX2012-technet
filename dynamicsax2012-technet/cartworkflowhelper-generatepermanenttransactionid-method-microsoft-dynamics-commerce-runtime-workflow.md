@@ -17,6 +17,9 @@ dev_langs:
 
 # GeneratePermanentTransactionId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates a new permanent transaction id formatted as "StoreId-TerminalId-SequenceNumber".
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

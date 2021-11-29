@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmptyCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get a blank/empty customer with the proper Store settings for PriceGroup and TaxGroup
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

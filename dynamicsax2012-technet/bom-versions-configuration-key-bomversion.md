@@ -14,6 +14,9 @@ f1_keywords:
 # BOM Versions configuration key (BOMVersion) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **BOM versions** configuration key controls access to bill of material (BOM) forms and functions when you work with BOM versions. BOM versions contain a list of items that make up an assembly, and are used in **Inventory management**.

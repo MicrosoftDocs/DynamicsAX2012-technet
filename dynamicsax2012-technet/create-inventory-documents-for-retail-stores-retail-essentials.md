@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create inventory documents for retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to track inventory in your stores by creating transfer orders and scheduled stock counts in Retail essentials.

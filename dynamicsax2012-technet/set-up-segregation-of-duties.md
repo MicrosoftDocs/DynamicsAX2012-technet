@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up segregation of duties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Security or policies may require that specific tasks be performed by different users. For example, you might not want the same person both to acknowledge the receipt of goods and to process payment to the vendor. This concept is named segregation of duties.

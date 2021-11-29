@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Utilities Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Utilities](utilities-class-microsoft-dynamics-retail-ecommerce-sdk-core.md) type exposes the following members.
 
 ## Fields

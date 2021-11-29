@@ -24,6 +24,9 @@ ms.search.region: Global
 # Register serial numbers for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to enable serial numbers for use only in the sales process.

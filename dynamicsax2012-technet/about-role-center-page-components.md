@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Role Center page components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, Role Center pages typically include the following types of Web parts. Web parts are the individual pieces that display information on the page.

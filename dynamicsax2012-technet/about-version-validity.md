@@ -15,6 +15,9 @@ ms.search.region: Global
 # About version validity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Active versions are the only versions used by the system outside the bill of materials (BOM) functionality. For example, **Production control** uses only active versions. Multiple active BOM and route versions can exist only if the dates do not overlap. This enables you to manipulate the BOM composition of products by using BOM versions.

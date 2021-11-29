@@ -16,6 +16,9 @@ ms.search.region: Global
 # View a list of product receipts that are unconfirmed 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Unconfirmed product receipts** page to view a list of product receipts that must subsequently be confirmed or rejected. For each ordered product on the receipts, you can view details such as the related purchase order, product name, delivery date, and quantity delivered.

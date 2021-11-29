@@ -14,6 +14,9 @@ ms.search.region: Global
 # Cases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use case management in Microsoft Dynamics AX and in Enterprise Portal for Microsoft Dynamics AX to record, update, track, follow up on, and close issues that are raised by your customers, vendors, or employees, or that are created through your audit processes. By planning, tracking, and analyzing cases, you can develop efficient resolutions that can be used for similar issues.

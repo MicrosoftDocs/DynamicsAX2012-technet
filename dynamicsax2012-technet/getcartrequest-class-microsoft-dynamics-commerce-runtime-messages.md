@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCartRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cart specified by cart id.
 
 Optionally creates a new one if the flag to create is set and no cart was found.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cloud-powered support (Lifecycle Services, LCS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/cloud-powered-support-lifecycle-services-lcs/) in the Dynamics AX Help wiki.

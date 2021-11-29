@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create and update production routes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create production routes that guide items through the manufacturing process from raw materials to finished product. The route describes the sequence of resources and work steps that are required to produce an item. You can also create alternative versions of the main route to accommodate variations in the production of the same item.

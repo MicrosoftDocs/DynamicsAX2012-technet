@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add a batch attribute group to an item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to add a batch attribute group to an item. When you assign a group of attributes to an item, all of the attributes included in the group apply to the item. Any changes that you make to the attributes in the group apply to all items that use that group.

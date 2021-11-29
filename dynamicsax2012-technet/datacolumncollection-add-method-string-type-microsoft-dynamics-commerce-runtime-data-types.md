@@ -15,6 +15,9 @@ dev_langs:
 
 # Add Method (String, Type)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a column to this collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The transaction Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DateTimeDataHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DateTimeDataHelper](datetimedatahelper-class-microsoft-dynamics-commerce-runtime-helpers.md) type exposes the following members.
 
 ## Methods

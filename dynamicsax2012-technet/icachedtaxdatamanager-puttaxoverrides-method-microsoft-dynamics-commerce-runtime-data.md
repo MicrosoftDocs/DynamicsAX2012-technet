@@ -17,6 +17,9 @@ dev_langs:
 
 # PutTaxOverrides Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the tax overrides per store by code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

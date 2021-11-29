@@ -14,6 +14,9 @@ ms.search.region: Global
 # Maintain sales prices for product configuration models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To maintain sales prices for a product configuration model, you can set up a price model that is based on attributes. Attributes identify details that you want to maintain for products and attribute values that can affect the sales price of a product, such as sizes or dimensions.

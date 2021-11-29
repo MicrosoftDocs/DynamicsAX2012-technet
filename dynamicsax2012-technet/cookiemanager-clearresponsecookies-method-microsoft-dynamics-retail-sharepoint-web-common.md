@@ -17,6 +17,9 @@ dev_langs:
 
 # ClearResponseCookies Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clear all cookes.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

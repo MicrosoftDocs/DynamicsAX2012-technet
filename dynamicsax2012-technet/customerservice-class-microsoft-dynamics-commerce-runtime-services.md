@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer Service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

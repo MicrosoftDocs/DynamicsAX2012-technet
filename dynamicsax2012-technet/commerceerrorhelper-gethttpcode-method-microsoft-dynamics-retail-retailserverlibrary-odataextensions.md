@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHttpCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the HTTP code based on the exception.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

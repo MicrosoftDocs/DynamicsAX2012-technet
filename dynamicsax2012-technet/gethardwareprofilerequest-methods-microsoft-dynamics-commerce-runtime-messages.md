@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetHardwareProfileRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetHardwareProfileRequest](gethardwareprofilerequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

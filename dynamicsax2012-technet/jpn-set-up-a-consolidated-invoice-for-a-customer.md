@@ -18,6 +18,9 @@ ms.search.region: Japan
 # (JPN) Set up a consolidated invoice for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can consolidate multiple sales orders into one invoice, based on a consolidation date that you specify in the **Customers** form. For more information, see [(JPN) Customers (modified form)](https://technet.microsoft.com/library/jj711060\(v=ax.60\)).

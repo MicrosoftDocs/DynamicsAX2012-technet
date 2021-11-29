@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up replenishment rules (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up rules for replenishing inventory in stores. You can create replenishment rules to define inventory distribution that uses buyer’s push or cross-docking. Rules can apply to specific retail stores or specific replenishment hierarchies.

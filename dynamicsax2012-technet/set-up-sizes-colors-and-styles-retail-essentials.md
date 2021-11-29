@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up sizes, colors, and styles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up product sizes, colors, and styles to distinguish the product variants that your retail products are offered in. After you set up the various products and product variants, you can create variant groups and then assign the groups to your retail products.

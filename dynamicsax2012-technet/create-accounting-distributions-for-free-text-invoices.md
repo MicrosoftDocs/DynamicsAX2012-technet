@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create accounting distributions for free text invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Accounting distributions** form to create and modify distribution lines for free text invoices. For more information about distributions, see [About accounting distributions and subledger journal entries for free text invoices](about-accounting-distributions-and-subledger-journal-entries-for-free-text-invoices.md).

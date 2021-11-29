@@ -18,6 +18,9 @@ ms.search.region: Global
 # Overview of Product Builder and multisite 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product builder configuration supports single and multiple site environments and organizations that have not set up multiple sites. You have the option to create bills of materials (BOM) and route versions with the Product Builder configuration process.

@@ -16,6 +16,9 @@ ms.search.region: Global
 # Copy a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you create similar purchase requisitions or request the same items regularly, you can copy an existing purchase requisition so that you do not have to re-enter all the information. You can still modify information in the copied purchase requisition before you submit it for approval.

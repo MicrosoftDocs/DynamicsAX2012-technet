@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reserve an inventory batch for a batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to reserve an inventory batch from a batch formula line to use in a batch order. This procedure is applicable for both catch weight items and regular items.

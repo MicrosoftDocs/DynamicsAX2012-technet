@@ -17,6 +17,9 @@ dev_langs:
 
 # KitLineIdentifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the kit line identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

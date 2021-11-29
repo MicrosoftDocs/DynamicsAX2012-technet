@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetDeliveryOptionsRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Properties
 
 <table>

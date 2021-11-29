@@ -14,6 +14,9 @@ f1_keywords:
 # (CHE) LSV+ Einzugsauftrag report (CustOutPaymOrderCH\_LSV) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **LSV+ Einzugsauftrag** report prints payment orders for customer payments that are made by using the **LSV (CH)** export format. You must select **LSV (CH)** in the **Export format** field in the **Generate payments** form. This report is printed when you post the payment journal and is typically used by accounts receivable payments clerks to maintain customer payments.

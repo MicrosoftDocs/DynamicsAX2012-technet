@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Employees (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about working with employee data. This includes information about setting up worker information records, worker permissions, and operations.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Parameters setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Click **Product information management** \> **Setup** \> **Product builder** \> **Product builder parameters**. This topic describes the settings for parameter setup of the Product Builder.

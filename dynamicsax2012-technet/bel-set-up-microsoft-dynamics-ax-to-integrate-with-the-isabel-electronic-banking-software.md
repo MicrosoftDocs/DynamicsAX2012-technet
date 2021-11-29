@@ -14,6 +14,9 @@ ms.search.region: Belgium
 # (BEL) Set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up Microsoft Dynamics AX to integrate with the Isabel electronic banking software so that you can automatically upload payment files and download bank statement files.

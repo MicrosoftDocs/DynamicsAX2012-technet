@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for accounts payable movement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Accounts payable movement** register is a summary of information about an accounts payable movement that is considered to be an expense under the RF tax code. You must set up the exchange and amount difference parameters before you calculate the accounts payable registers.

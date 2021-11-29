@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Virtual company scenarios: Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This topic describes the table collections that must be set up to support some common virtual company scenarios in the Retail module of Microsoft Dynamics AX. For an overview of the concept of virtual companies, and for step-by-step instructions to create table collections and virtual company accounts, see [Virtual company accounts in Microsoft Dynamics AX](virtual-company-accounts-in-microsoft-dynamics-ax.md).

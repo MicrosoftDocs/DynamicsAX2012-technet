@@ -15,6 +15,9 @@ ms.search.region: Global
 # About intercompany parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In an intercompany organization, you can set up parameters that determine how you trade between different legal entities. These parameters are determined by the fields that you select. You can select different combinations to reflect different trading scenarios.

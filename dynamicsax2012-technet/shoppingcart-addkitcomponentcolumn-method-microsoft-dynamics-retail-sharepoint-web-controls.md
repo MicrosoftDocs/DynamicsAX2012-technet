@@ -17,6 +17,9 @@ dev_langs:
 
 # AddKitComponentColumn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a new column for kit component in the shopping cart grid with the specified class name and elements.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

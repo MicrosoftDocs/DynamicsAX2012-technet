@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Procurement and sourcing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use Procurement and sourcing to create purchasing policies, identify suppliers, onboard suppliers as new vendors, maintain vendor information, create agreements with your vendors, order items and services, maintain purchase orders, and confirm receipt of products.

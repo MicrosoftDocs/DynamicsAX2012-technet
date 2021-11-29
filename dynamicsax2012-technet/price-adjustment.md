@@ -13,6 +13,9 @@ f1_keywords:
 
 # price adjustment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A modification to a quoted price.
 
 ## See also

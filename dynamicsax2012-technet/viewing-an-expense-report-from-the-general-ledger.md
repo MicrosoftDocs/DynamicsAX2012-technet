@@ -14,6 +14,9 @@ ms.search.region: Global
 # Viewing an expense report from the General ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you perform a query to view transactions in **General ledger** or **Procurement and sourcing**, the amount of information that is returned by the query may be too much and you might want to narrow your search. To get the information that you need, you can drill down into a transaction to see the expense report that it appeared on.

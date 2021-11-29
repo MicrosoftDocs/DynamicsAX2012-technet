@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EntityDataServiceResponse(TResponse, TOutParam) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EntityDataServiceResponse\<TResponse, TOutParam\>](entitydataserviceresponse-tresponse-toutparam-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

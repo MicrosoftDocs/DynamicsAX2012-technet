@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmployeeSqlServerDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmployeeSqlServerDataRequestHandler](employeesqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Methods

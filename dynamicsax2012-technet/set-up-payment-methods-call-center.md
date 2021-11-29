@@ -22,6 +22,9 @@ ms.search.region: Global
 # Set up payment methods (Call center) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up payment methods for a call center. The payment methods that are used in other channels in Microsoft Dynamics AX 2012 for Retail, such as cash, checks, credit cards, and gift cards, can also be used in call centers. After you have set up a payment method for a call center, it appears as one of the options in the **Payments** section of the **Sales order** form for call center users.

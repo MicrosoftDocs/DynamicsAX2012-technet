@@ -17,6 +17,9 @@ dev_langs:
 
 # AggregateCatalog Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the aggregate catalog used during service composition.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

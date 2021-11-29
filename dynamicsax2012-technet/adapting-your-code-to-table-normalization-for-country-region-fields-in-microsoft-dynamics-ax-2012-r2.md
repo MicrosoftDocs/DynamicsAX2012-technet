@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Adapting your code to table normalization for country/region fields in Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This document provides common patterns for how to use country-specific/region-specific tables.

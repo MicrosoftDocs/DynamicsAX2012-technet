@@ -19,6 +19,9 @@ ms.search.region: Global
 # Attach user profiles to modeling variables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can attach a set of user profiles to each modeling variable. If user profiles are attached to a modeling variable, it is only available to users who belong to one of those user profiles. If no user profiles are attached to a modeling variable, it is available to users who belong to any user profile.

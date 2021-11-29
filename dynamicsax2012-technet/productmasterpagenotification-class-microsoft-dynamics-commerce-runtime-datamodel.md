@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductMasterPageNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Notifies to show product master page for the given product id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

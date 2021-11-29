@@ -17,6 +17,9 @@ dev_langs:
 
 # AggregateValidationError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the error is an aggregate of other data validation errors.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

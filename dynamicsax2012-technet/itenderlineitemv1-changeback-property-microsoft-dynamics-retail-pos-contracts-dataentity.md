@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeBack Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If true then the tender item was created as a Change back tender item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

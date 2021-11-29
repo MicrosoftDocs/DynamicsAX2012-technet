@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplyPriceForAllCustomersAndItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether price trade agreements should apply for combination of all customers and item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

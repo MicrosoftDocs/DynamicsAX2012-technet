@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Add and update product attributes for retail channels (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to set up product attributes that can be applied to products that are offered in your stores. You can use product attributes to add merchandising details, such as rich text, images, and videos to the descriptions of products that you offer in your retail stores or in product catalogs. By adding merchandising details to products, you can provide the product information that your staff needs to better serve the customer. Product attributes can be applied to products even if they are not included in a retail product catalog.
 
 You can add or modify product attributes for individual products, categories of products, or for all stores that are assigned to a selected category. You can also bulk edit product attributes by using Microsoft Excel. For more information about how to bulk edit product attributes by using Excel, see Bulk edit product attributes in a Retail catalog using Microsoft Excel (Retail essentials).

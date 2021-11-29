@@ -17,6 +17,9 @@ dev_langs:
 
 # Shift Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

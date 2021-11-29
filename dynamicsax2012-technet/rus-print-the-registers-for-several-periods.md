@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Print the registers for several periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can print lines from various registers and register journals for multiple accounting periods.

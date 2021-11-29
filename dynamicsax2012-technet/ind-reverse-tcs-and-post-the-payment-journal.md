@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Reverse TCS and post the payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can activate bank parameters to cancel payments and reverse deposit slip transactions for the transferred journals.

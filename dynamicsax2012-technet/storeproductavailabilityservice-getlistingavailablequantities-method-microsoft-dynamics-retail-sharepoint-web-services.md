@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingAvailableQuantities Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the quantities available of the specified listings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

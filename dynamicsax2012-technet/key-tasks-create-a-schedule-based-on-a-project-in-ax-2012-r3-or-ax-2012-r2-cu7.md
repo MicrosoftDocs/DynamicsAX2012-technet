@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2012 R2 CU7 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to staff a project based on scheduling and other requirements for the project. By using project-based resource scheduling, you can form a project team by booking workers for project roles that you set up for a project. You can also specify the qualifications that workers must have to fill project roles, book the workers on the team, and then assign workers to specific activities.

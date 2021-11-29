@@ -15,6 +15,9 @@ dev_langs:
 
 # SqliteConnectionStringBuilder Constructor (String, IEnumerable(String))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [SqliteConnectionStringBuilder](sqliteconnectionstringbuilder-class-microsoft-dynamics-commerce-runtime-data-sqlite.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

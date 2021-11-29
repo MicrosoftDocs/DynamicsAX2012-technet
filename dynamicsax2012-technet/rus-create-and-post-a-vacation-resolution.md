@@ -24,6 +24,9 @@ ms.search.region: Russia
 # (RUS) Create and post a vacation resolution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create and confirm a vacation resolution before an employee can be granted vacation time. You can create a resolution line manually or by using a vacation schedule in the **Vacation resolution lines** form. The vacation resolution is used by the payroll department to pay the employee for the vacation. You can also create a vacation resolution for an employee who returns early to work from a childcare vacation.

@@ -17,6 +17,9 @@ dev_langs:
 
 # FindTenderRestriction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Finds any tender restriction for the items in the transaction and the given card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

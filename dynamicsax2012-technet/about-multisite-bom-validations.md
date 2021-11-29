@@ -21,6 +21,9 @@ ms.search.region: Global
 # About multisite - BOM validations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A typical scenario for production at multiple sites might involve an end item that includes component items, where the component items are produced at and moved between different sites, and the sites share common item numbers.

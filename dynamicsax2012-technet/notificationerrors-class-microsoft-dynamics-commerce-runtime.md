@@ -17,6 +17,9 @@ dev_langs:
 
 # NotificationErrors Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class container for all data validation related errors in the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

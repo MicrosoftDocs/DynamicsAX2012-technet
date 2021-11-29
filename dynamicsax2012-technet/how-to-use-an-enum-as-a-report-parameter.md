@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use an Enum as a Report Parameter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides the steps to use an Enum type as a report parameter. The collection of enumeration values can then be referenced by the report. For example, from the Facility Management sample for Microsoft Dynamics AX, the room type is stored as an enumeration type. You can add a dataset that binds to the RoomType enumeration and restrict the report to display a specific room type, such as **Cubicle**. You will create the dataset as an **AX Enum Provider** data source type so that the enum parameter can be accessed from Enterprise Portal in addition to the Microsoft Dynamics AX client.

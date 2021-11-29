@@ -15,6 +15,9 @@ ms.search.region: Global
 # About recalculating replacement costs and insured values for fixed asset groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Periodically, you might be notified that the cost to replace or insure specific fixed assets has changed. For example, your manager might inform you that inflation was 3 percent last year, so you need to increase the replacement cost of all fixed assets by 3 percent.

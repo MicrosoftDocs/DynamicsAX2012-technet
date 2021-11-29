@@ -18,6 +18,9 @@ dev_langs:
 
 # AffiliationSqlServerDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Affiliation SQL server data service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

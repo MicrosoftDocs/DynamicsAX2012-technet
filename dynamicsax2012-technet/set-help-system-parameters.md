@@ -17,6 +17,9 @@ f1_keywords:
 # Set Help system parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can specify the location of the Help service on your LAN by entering the service’s URL in the **Help system parameters** form. This setting is stored in Application Object Server (AOS) and is applied to all clients the next time they connect.

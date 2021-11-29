@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionLogSqlServerDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransactionLogSqlServerDataRequestHandler](transactionlogsqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Properties

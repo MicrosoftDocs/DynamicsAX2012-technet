@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAffiliationLoyalTierIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get list of affiliation or loyalty tier identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

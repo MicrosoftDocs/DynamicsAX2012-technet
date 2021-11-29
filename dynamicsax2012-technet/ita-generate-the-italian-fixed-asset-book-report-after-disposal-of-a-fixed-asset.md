@@ -20,6 +20,9 @@ ms.search.region: Italy
 # (ITA) Generate the Italian fixed asset book report after disposal of a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In accordance with Italian law, when an asset is sold or scrapped, the value of the asset is printed in the **Disposal in period** column of the Italian fixed asset book report. After disposal, the asset is no longer included in the report.

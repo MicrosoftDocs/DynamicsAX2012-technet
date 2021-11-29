@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatePickingList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a picking list for a sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

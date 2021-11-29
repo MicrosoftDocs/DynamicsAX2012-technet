@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up loyalty cards in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up loyalty cards that entitle card holders to participate in your organization’s loyalty programs. Loyalty cards can be issued anonymously, or they can be assigned to a specific customer. If a loyalty card is assigned to a customer, the customer can redeem loyalty points from multiple associated loyalty cards, if the loyalty program allows this. Loyalty cards can be issued from any retail channel, and loyalty points can be redeemed in any retail channel that participates in the loyalty programs that are assigned to the loyalty card.

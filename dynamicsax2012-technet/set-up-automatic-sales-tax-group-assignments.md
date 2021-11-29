@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up automatic sales tax group assignments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to automatically assign sales tax groups to customer address records based on address information. When you set up the sales tax assignment based on default rules, you can determine a matching priority for address elements. For example, you can specify that matching a sales tax group by ZIP Code or postal code is a higher priority than matching a sales tax group by state. As you enter new customer address records, the sales tax group is automatically assigned based on how the customer’s address matches with the default rules and priority matching that you defined.

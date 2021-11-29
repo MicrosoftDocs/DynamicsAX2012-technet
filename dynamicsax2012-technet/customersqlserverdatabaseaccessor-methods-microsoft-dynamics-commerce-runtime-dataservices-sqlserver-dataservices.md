@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerSqlServerDatabaseAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerSqlServerDatabaseAccessor](customersqlserverdatabaseaccessor-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Create and print a free text credit note invoice with bank account details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Free text invoice** form to create and print a free text credit note invoice with bank account details.

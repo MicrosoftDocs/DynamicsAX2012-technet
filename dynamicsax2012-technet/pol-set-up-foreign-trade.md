@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up foreign trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An Intrastat declaration is a compulsory declaration of movements of goods to or from other member states of the European Union (EU). You can define the parameters for handling Intrastat and EU sales lists in the **Foreign trade parameters** form.

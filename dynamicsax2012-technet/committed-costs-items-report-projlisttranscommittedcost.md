@@ -14,6 +14,9 @@ f1_keywords:
 # Committed costs - items report (ProjListTransCommittedCost) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a list of products that your company has committed to purchase for projects.

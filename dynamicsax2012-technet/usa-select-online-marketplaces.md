@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Select online marketplaces 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you sign up for Commerce Services for Microsoft Dynamics ERP and activate your account, you can select the online marketplaces, such as eBay, where you want to list your products for sale. You can also create your own online store. For more information, see [Set up an online store](set-up-an-online-store.md).

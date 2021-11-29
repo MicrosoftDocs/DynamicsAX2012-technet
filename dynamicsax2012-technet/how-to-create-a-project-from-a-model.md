@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Project from a Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a project that contains all of the elements in a specific model. This can make it easier to work with the elements in the model. The project can also be used to export the contents of a model to an .xpo file.

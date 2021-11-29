@@ -14,6 +14,9 @@ ms.search.region: Global
 # Price simulation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A price simulation for a quotation shows a new total amount, based on a proposed new price. A price simulation can also show a new amount for a specific line that is created in an existing quotation. You can enter a price simulation and apply it later. Alternatively, you can use the original quotation without a price simulation, and make more changes as you work through the sales process with your customer.

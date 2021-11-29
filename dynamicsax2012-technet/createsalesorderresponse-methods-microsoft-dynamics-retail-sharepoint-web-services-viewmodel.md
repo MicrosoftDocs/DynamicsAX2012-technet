@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CreateSalesOrderResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CreateSalesOrderResponse](createsalesorderresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

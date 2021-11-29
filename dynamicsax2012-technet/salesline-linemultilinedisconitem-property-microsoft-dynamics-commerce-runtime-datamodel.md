@@ -17,6 +17,9 @@ dev_langs:
 
 # LineMultilineDiscOnItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether the item has customer line and/or multiline discount item on it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

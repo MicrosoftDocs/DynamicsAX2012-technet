@@ -17,6 +17,9 @@ dev_langs:
 
 # UnprovisionLink Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides SPServiceInstanceUnprovisionLink().
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  

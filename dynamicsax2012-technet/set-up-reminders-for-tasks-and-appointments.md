@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up reminders for tasks and appointments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create an activity task or appointment in Microsoft Dynamics AX, you can add a reminder for the activity. You can also add a reminder to an existing task or appointment.

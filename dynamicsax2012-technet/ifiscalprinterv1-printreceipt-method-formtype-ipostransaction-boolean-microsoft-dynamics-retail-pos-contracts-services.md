@@ -15,6 +15,9 @@ dev_langs:
 
 # PrintReceipt Method (FormType, IPosTransaction, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print the standard slip, returns false if printing should be aborted altogether.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

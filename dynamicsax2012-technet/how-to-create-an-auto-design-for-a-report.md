@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Create an Auto Design for a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An auto design is a report design that has a layout that is automatically generated based on the data for the report. You can use auto designs for most common reports. The following procedure explains how to create an auto design.

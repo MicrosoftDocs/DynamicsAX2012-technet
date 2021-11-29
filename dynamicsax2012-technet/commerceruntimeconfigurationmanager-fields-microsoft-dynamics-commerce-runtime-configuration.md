@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeConfigurationManager Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeConfigurationManager](commerceruntimeconfigurationmanager-class-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Fields

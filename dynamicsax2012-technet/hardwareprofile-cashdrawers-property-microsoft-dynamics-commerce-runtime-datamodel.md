@@ -17,6 +17,9 @@ dev_langs:
 
 # CashDrawers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cash drawers in the hardware profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

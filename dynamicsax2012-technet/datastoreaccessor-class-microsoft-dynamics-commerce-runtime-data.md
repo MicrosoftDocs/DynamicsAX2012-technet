@@ -17,6 +17,9 @@ dev_langs:
 
 # DataStoreAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class modeling the behavior of a data store accessor.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

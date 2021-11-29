@@ -13,6 +13,9 @@ f1_keywords:
 
 # radio frequency identification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A technology that uses radio frequencies to identify products. An RFID-capable product has an RFID tag that can transmit information, such as serial number, to an RF reader, which converts the information into digital data that can be sent to a computer.
 
 ## See also

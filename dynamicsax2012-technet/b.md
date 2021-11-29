@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # B
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [back payment](back-payment.md)
 
 [backflush costing](backflush-costing.md)

@@ -15,6 +15,9 @@ dev_langs:
 
 # VoidCartLines Method (String, IEnumerable(CartLine), Nullable(CalculationModes))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids the cart lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

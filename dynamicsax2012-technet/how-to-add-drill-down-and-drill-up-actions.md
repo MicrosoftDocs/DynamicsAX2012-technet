@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add Drill Down and Drill Up Actions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Drill down and drill up actions allow users to drill into the data that is of most interest to them by expanding and collapsing sections of data within a report. To enable drill down and drill up actions, you must define one or more data groupings for the data region. The expandable and collapsible sections that display correspond to the groupings that have been defined. For more information, see [How to: Define Groupings in a Data Region](how-to-define-groupings-in-a-data-region.md). Drill down and drill up actions are especially useful when you have multilevel groupings. You can add drill down and drill up actions to matrix, table, and list data regions within an auto design report. The following procedure explains how to add drill down and drill up actions to a data region.

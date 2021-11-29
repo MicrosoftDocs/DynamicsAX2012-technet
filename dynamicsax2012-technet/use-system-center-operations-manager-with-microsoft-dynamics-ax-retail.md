@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use System Center Operations Manager with Microsoft Dynamics AX Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3 provides a monitoring solution for Microsoft Dynamics AX Retail components. The management pack automatically discovers the Retail components in your environment, and monitors the configuration and availability of those components. The management pack provides early warnings that an operator can use to proactively identify issues that can affect the availability of the Microsoft Dynamics AX Retail system.

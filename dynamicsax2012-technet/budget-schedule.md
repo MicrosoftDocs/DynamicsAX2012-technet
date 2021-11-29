@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget schedule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A schedule for the planned expenditure of allocated financial resources.
 
 ## See also

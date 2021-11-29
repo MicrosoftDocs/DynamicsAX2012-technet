@@ -15,6 +15,9 @@ dev_langs:
 
 # AddTenderLine Method (String, CartTenderLine)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified tender line to the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

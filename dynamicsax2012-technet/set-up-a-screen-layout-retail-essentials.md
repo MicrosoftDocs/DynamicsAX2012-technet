@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a screen layout (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a screen layout for one or more registers. The screen layout specifies how the screen is displayed on the register. You can specify the position of various objects, such as the total amounts, the product grid, customer information, and payment information. The screen layout also specifies the position of various menu buttons and the overall appearance of the sales interface that is displayed to workers on the point-of-sale (POS) registers.

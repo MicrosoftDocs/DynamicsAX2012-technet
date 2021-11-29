@@ -15,6 +15,9 @@ dev_langs:
 
 # Equals Method (Object)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the specified [Object](https://technet.microsoft.com/library/e5kfa45b\(v=ax.60\)) is equal to this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

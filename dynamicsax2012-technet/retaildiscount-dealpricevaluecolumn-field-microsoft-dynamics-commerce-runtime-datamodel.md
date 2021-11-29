@@ -17,6 +17,9 @@ dev_langs:
 
 # DealPriceValueColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deal price column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

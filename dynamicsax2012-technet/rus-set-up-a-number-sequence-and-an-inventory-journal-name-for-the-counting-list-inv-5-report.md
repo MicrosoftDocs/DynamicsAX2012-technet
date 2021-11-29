@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a number sequence and an inventory journal name for the Counting list (INV-5) report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a number sequence and create a new inventory journal name for the **Counting list (INV-5)** report.

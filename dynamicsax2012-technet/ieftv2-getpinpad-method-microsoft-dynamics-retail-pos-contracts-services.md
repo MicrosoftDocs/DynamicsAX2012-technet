@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPinPad Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the pin pad.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

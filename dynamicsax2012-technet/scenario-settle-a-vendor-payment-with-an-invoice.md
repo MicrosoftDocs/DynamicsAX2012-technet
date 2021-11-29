@@ -20,6 +20,9 @@ ms.search.region: Global
 # Scenario: Settle a vendor payment with an invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This scenario illustrates two simple examples of a settlement in which one payment is settled with one or more invoices. For more information, see [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md), [About parameters for settlements in Accounts payable](about-parameters-for-settlements-in-accounts-payable.md), and [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)).

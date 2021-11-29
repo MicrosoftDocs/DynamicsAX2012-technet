@@ -17,6 +17,9 @@ dev_langs:
 
 # ResumeCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Resume previously suspended cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

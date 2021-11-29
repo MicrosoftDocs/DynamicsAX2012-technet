@@ -17,6 +17,9 @@ dev_langs:
 
 # QueryStringNameCode Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Facebook query string name for code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

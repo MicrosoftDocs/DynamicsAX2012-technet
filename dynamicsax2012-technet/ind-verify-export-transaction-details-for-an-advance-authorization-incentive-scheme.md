@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Verify export transaction details for an Advance Authorization incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To track the export obligation for input goods that were imported under an Advance Authorization (AA) scheme, you can attach the AA incentive scheme to an export order. Use this procedure to verify the export obligation for an AA incentive scheme.

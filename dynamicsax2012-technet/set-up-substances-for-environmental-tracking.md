@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up substances for environmental tracking 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A substance is any material or type of energy that enters, moves through, or leaves your organization. You can define the substances that you want to track. For example, you can track electricity that is purchased from a utility company, gasses that are emitted into the air from burning fuel, or manufacturing waste that is generated during the manufacturing process. You can also define and track substances such as delivery trucks and container mileage. For example, if you are tracking a delivery truck, in addition to tracking the gasoline that is used, you can also track oil and anti-freeze consumption. All of these components are included in the carbon footprint of your organization.

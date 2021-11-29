@@ -17,6 +17,9 @@ dev_langs:
 
 # PostLoyaltyCardRewardPointTrans Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Posts the loyalty card reward points to AX HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ToXml Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serializes the current customer order information to XML.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

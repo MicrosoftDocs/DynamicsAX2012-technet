@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LocalizedResource Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LocalizedResource](localizedresource-class-microsoft-dynamics-retail-sharepoint-web-webparts-resources.md) type exposes the following members.
 
 ## Methods

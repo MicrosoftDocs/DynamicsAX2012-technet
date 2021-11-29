@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an electronic exchange format for a client bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Exchange formats of client-bank** form to set up an electronic exchange format, so that you can import or export payments by using a client bank. To create an exchange interface with a client bank, you must set up an exchange format code, list of fields, field order number, and field separator character. You can then assign an exchange format to a bank account.

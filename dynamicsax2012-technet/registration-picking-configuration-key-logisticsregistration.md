@@ -14,6 +14,9 @@ f1_keywords:
 # Registration/Picking configuration key (LogisticsRegistration) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Registration/picking** configuration key controls access to functionality to update inventory transactions to the status of **Picked** and **Registered**.

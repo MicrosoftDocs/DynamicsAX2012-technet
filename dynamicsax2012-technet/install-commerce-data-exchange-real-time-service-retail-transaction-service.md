@@ -14,6 +14,9 @@ dev_langs:
 # Install Commerce Data Exchange: Real-time Service (Retail Transaction Service) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to install Commerce Data Exchange: Real-time Service. Real-time Service is an integrated service that provides real-time communication between Microsoft Dynamics AX and retail channels. Real-time Service enables individual point of sale (POS) computers and online stores to retrieve specific data from Microsoft Dynamics AX in real time.

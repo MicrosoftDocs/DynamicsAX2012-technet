@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a warehouse to calculate customs payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Warehouses** form to set up a warehouse to receive imported goods and to hold exported goods until they are cleared from customs. The customs calculation that you select in the **Customs code** field is used to calculate the customs payments.

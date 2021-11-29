@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Create an EXIM EPCG scheme for a technology upgrade EPCG license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can import goods to upgrade existing technology or machinery if you have an Export Promotion Capital Goods (EPCG) license.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Design the rows and columns of a traditional financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you design the row structure of a traditional financial statement, you can design the rows and columns for the traditional financial statement. For more information, see [Design the row structure of a traditional financial statement](design-the-row-structure-of-a-traditional-financial-statement.md).

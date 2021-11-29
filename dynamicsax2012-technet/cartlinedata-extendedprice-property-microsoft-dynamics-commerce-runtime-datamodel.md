@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the extended price. The extended price is the net amount for the line (which includes the discounts) and optionally the tax amount if tax inclusive.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
