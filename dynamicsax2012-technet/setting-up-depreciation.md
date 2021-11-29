@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depreciation books are used for reporting asset information for tax and other non-financial reporting. For example, you can create a book for corporate reporting, earnings and profits, federal taxes, alternative minimum tax, state tax, or for any other of your legal entity’s accounting needs. You can set up an unlimited number of books for each legal entity.

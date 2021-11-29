@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Sales shipment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 For the next major release after Microsoft Dynamics AX 2012 R3, the sales shipment feature will be deprecated.
 
 Microsoft Dynamics AX customers use the sales shipment feature to create a collection of items that are packed in the same container for transport by, for example, ship, rail, truck, or plane. A shipment includes either the order, part of an order, or a consolidation of multiple orders. Based on the contents of the shipment, one or more picking routes, one or more pallet transports, or both are created.

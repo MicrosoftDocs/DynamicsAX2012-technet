@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # RFP responses (Lifecycle Services, LCS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/rfp-responses-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   

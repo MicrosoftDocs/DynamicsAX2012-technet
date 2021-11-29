@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Fiscal books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The information in these topics can help you consolidate fiscal and statutory books into electronic files to fulfill requirements under SPED, Public Digital Bookkeeping System (Sistema Publico de Escrituração Digital). You can set up, print or generate different types of fiscal books depending on the tax obligation.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # inbound port
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A port for servicing inbound requests.
 
 ## See also

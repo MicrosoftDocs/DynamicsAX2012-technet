@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateSimpleDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calcalute simple discount, like discount offer. This is to delay computation heavy discount calculation until all items have been scanned.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

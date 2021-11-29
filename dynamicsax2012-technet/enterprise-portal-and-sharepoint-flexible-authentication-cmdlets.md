@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Enterprise Portal and SharePoint flexible authentication cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Add-AXEnterprisePortalClaimsAuthenticationProvider](add-axenterpriseportalclaimsauthenticationprovider.md)
 
 [Add-AXSharepointClaimsAuthenticationProvider](add-axsharepointclaimsauthenticationprovider.md)

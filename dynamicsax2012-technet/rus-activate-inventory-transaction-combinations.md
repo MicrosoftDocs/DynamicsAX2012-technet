@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Activate inventory transaction combinations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can activate the combinations of inventory transactions for all inventory profiles, specific kinds of activity, and specific inventory profiles.

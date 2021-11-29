@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Retail.Pos.Contracts.Services Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Structures
 
 <table>

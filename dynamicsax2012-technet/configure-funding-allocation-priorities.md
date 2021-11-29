@@ -19,6 +19,9 @@ ms.search.region: Global
 # Configure funding allocation priorities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When multiple funding sources bear the costs for projects that are associated with a single project contract, it is necessary to define details such as which source is responsible for which kinds of transactions, what percentage of the overall costs a particular funder is responsible for, and which aspects of a project are funded first from the available funds.

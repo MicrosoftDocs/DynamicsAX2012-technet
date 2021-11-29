@@ -175,6 +175,9 @@ ms.search.region: Global
 # List pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 List pages can help reduce the time that it takes to complete some daily tasks in Microsoft Dynamics AX. You can use list pages to view a list of similar records, select a record, and then perform actions against that record.

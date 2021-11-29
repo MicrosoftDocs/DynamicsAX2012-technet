@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowPurchaseOrderList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shows a list of all PurchaseOrder receipts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Inquiries for RG23A registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 RG23A is a statutory register that is maintained by a manufacturing unit to record the details of the purchase and sale of input items for a particular quantity of goods and for the excise duty.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Copy data between Dynamics AX instances
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This walkthrough illustrates the following tasks:

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsGiftReceiptOptionApplicable Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if receipt is applicable for a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

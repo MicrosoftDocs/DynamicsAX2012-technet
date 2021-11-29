@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginReadChangedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Begins session to read changed products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

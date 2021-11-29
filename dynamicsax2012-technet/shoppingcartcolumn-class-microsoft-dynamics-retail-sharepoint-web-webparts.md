@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartColumn Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data class used in the deserialization of a column's definition for a shopping cart or a derivative (mini-cart, summary cart, etc).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

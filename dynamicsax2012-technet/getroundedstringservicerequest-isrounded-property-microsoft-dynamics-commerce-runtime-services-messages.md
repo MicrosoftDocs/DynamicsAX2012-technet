@@ -17,6 +17,9 @@ dev_langs:
 
 # IsRounded Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the value has already been rounded. In that case only the formatted string will be returned.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

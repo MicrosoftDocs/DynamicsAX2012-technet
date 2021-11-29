@@ -21,6 +21,9 @@ dev_langs:
 
 # ChangeAction Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the change action.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

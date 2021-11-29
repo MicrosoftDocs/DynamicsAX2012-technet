@@ -17,6 +17,9 @@ dev_langs:
 
 # GetZipCodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the zipcodes filtered by country, state province, county, city and district.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

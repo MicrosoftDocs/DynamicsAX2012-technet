@@ -17,6 +17,9 @@ dev_langs:
 
 # PartyRecordId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the party record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

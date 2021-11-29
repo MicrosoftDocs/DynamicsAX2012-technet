@@ -17,6 +17,9 @@ dev_langs:
 
 # JoinColumnsSpecified Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the join columns have been specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

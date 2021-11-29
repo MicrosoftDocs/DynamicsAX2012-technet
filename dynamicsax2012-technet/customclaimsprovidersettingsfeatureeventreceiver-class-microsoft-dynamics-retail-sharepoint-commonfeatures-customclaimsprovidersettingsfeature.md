@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomClaimsProviderSettingsFeatureEventReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class handles events raised during feature activation, deactivation, installation, uninstallation, and upgrade.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.CustomClaimsProviderSettingsFeature](microsoft-dynamics-retail-sharepoint-commonfeatures-customclaimsprovidersettingsfeature-namespace.md)  

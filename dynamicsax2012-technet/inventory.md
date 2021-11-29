@@ -13,6 +13,9 @@ f1_keywords:
 
 # inventory
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Items that an owning organization uses in its product delivery activities. The value of an item is calculated by using an inventory valuation method and is recorded in inventory accounts.
 
 ## See also

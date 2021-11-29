@@ -17,6 +17,9 @@ dev_langs:
 
 # OrgUnitsController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Controller class for stores.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

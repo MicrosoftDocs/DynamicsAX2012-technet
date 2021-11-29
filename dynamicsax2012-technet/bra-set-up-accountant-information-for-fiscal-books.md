@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up accountant information for fiscal books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can generate a monthly Sistema Publico de Escrituração Digital (SPED) fiscal text file, you must specify information for the accountants who are responsible for reporting tax information to tax authorities. An accountant can be responsible for reporting taxes for a legal entity or fiscal establishment. Accountant information is required for SPED fiscal or SPED PIS/COFINS. This topic explains how to set up accountant information by using the **Accountants** form.

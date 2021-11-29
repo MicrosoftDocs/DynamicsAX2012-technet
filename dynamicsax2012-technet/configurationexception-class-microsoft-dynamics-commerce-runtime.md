@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfigurationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Thrown during the retrieval of configuration values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

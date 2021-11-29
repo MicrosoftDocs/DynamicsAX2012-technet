@@ -17,6 +17,9 @@ dev_langs:
 
 # CardNumberHidden Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the card number hidden. If so, the POS assumes it needs to ask for the card number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

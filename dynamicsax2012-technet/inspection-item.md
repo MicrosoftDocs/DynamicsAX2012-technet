@@ -13,6 +13,9 @@ f1_keywords:
 
 # inspection item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that participates in an inspection process.
 
 ## See also

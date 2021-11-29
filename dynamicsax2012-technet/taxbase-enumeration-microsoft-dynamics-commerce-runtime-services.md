@@ -22,6 +22,9 @@ dev_langs:
 
 # TaxBase Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the tax basis.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

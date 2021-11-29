@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up reverse transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post an inventory transaction as a reverse transaction, rather than as a return. Inventory transactions that are posted as reverse have singular parameters that distinguish them in reports. Ledger postings are performed as reverse transactions.

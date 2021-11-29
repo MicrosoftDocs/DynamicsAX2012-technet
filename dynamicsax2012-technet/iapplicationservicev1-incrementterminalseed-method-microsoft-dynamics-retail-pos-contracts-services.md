@@ -17,6 +17,9 @@ dev_langs:
 
 # IncrementTerminalSeed Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Increments the terminal seed value for the type given.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

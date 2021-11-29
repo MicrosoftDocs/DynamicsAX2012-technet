@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureActivatingOrDeactivating Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This is main implementation of the activation/deactivation functionality.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

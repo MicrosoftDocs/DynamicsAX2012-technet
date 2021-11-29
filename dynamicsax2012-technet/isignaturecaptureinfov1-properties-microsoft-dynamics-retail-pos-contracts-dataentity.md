@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISignatureCaptureInfoV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISignatureCaptureInfoV1](isignaturecaptureinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

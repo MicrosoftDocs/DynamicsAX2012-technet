@@ -17,6 +17,9 @@ dev_langs:
 
 # EmptyOrderDeliveryOptionSetNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that no delivery option for the given sales order were found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

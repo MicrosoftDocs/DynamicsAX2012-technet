@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsInCartRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the products used in context of the cart specified by the cart identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

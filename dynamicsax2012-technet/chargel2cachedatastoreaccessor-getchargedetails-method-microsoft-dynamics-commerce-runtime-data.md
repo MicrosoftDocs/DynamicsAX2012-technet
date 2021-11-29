@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChargeDetails Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the charge details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

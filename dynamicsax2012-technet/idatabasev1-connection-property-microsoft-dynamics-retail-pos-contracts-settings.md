@@ -17,6 +17,9 @@ dev_langs:
 
 # Connection Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current connection (the store database connection if available, otherwise the local offline connection).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Settings](microsoft-dynamics-retail-pos-contracts-settings-namespace.md)  

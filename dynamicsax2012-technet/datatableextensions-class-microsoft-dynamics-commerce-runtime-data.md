@@ -17,6 +17,9 @@ dev_langs:
 
 # DataTableExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Extension methods for the [DataTable](datatable-class-microsoft-dynamics-commerce-runtime-data-types.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

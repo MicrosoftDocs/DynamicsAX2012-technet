@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up items to exclude from the Intrastat reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can exclude transactions involving certain items from the Intrastat table.

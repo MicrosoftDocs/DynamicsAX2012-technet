@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPeriod Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPeriod](iperiod-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

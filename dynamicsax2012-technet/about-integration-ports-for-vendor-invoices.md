@@ -19,6 +19,9 @@ ms.search.region: Global
 # About integration ports for vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your organization receives many vendor invoices, you can set up the system to automatically receive vendor invoices in electronic format. You can use an Application Integration Framework (AIF) service to import vendor invoices from XML files that you receive from your vendor. The vendor invoices must use the schema that is required for the **VendVendInvoiceService** service. For more information, see [Document Schemas](document-schemas.md) and [Messages and transforms in AIF](messages-and-transforms-in-aif.md).

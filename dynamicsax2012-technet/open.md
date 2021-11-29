@@ -13,6 +13,9 @@ f1_keywords:
 
 # open
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state in a period in which activity can occur, the state of an operational process, or the status of a source document.
 
 ## See also

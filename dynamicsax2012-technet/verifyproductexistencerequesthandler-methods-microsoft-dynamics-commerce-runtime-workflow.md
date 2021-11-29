@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # VerifyProductExistenceRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [VerifyProductExistenceRequestHandler](verifyproductexistencerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

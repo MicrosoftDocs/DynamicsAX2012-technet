@@ -15,6 +15,9 @@ ms.search.region: Global
 # About recruitment projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Recruitment projects help you manage your recruitment process. For each recruitment project, you can set up information, such as the job that you are recruiting for, the name of the recruiter, the status of the project and the department that the job will be located in. For more information, see [Create a recruitment project](create-a-recruitment-project.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # ILineDisplay Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILineDisplay is the interface for line display device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PostLineDiscountAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after setting a line discount amount to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

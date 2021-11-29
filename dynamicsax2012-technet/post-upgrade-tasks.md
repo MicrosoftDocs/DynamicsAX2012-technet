@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Post-upgrade tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This section contains additional tasks that must be completed after the upgrade checklist tasks are complete.

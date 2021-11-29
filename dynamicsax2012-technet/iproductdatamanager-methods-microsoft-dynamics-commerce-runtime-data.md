@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IProductDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IProductDataManager](iproductdatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

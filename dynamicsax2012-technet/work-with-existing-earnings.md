@@ -24,6 +24,9 @@ ms.search.region: USA
 # Work with existing earnings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes tasks, such as releasing or holding earnings, that you can complete after you generate an earnings statement. You must release earning statement lines before you generate pay statements.
 
 Retroactive earnings aren’t discussed in this topic. For information about retroactive earnings, see [Generate earnings](generate-earnings.md).

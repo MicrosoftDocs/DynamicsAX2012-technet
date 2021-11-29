@@ -17,6 +17,9 @@ dev_langs:
 
 # ModulusCheck Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the modules check.
 
 Set to true if the card number should perform a modulus check.

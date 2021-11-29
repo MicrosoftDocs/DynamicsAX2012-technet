@@ -18,6 +18,9 @@ f1_keywords:
 # (THA) Sales tax report (TaxReportUnrealizedInputOutput) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sales tax reports for Thailand can be generated for input sales tax and output sales tax for a specified period:

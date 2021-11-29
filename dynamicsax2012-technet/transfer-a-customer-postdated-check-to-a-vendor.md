@@ -17,6 +17,9 @@ ms.search.region: Global
 # Transfer a customer postdated check to a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you receive a postdated check from a customer, you can transfer that check to a vendor as payment. Use the **Customer postdated checks** form to transfer postdated checks to the vendor payment journal.

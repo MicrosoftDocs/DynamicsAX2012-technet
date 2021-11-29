@@ -18,6 +18,9 @@ ms.search.region: Global
 # About purchase agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A purchase agreement is a contract that commits an organization to buy a specified quantity or amount by using multiple purchase orders over time. In exchange for this commitment, the buyer receives special prices and discounts. The purchase agreement can apply to a specific quantity of a product, a specific currency amount of a product, or a specific currency amount of the products in a procurement category. The prices and discounts of the purchase agreement override the prices and discounts that are specified in any trade agreements that exist.

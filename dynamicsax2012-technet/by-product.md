@@ -13,6 +13,9 @@ f1_keywords:
 
 # by-product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A item produced as a consequence of producing another item.
 
 ## See also

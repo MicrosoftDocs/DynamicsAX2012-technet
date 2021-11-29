@@ -17,6 +17,9 @@ ms.search.region: Global
 # View service repair lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **View service repair lines** page to view a list of the service repair lines that have been created for the service objects on service orders. You can then use the **Show repair line** page to view the details of a specific repair line. For information about how to add repair lines to service orders or editing a repair line, see [Create or modify service orders and repair lines](create-or-modify-service-orders-and-repair-lines.md).

@@ -19,6 +19,9 @@ dev_langs:
 
 # DistanceUnit Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unit for distance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

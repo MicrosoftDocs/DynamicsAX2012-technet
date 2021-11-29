@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateCardToken Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generate Credit card token is created by a payment SDK processor and represents the credit card number and is used within AX to process customer order securely Needs to internally set the posTransaction.CreditCardToken
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor currency revaluation simulation report (VendExchRateAdjSimulation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the predicted effect of revaluing foreign currency amounts. In the simulation, you can select values for the same parameters that are available for the revaluation process: **Method**, **Considered date**, and **Date of rate**.

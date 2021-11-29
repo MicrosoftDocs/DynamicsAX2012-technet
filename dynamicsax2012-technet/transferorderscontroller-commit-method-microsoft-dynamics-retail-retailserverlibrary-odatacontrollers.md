@@ -17,6 +17,9 @@ dev_langs:
 
 # Commit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commits a transfer order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

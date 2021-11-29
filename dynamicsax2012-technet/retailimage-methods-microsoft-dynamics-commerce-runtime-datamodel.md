@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailImage Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailImage](retailimage-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

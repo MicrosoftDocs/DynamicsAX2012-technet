@@ -17,6 +17,9 @@ dev_langs:
 
 # Blocked Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Item barcode status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

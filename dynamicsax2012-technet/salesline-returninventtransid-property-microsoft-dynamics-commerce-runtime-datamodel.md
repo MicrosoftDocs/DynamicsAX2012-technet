@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnInventTransId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the invent trans id related to this return line (customer order).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

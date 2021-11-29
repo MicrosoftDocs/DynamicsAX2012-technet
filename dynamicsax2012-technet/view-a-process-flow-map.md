@@ -19,6 +19,9 @@ ms.search.region: Global
 # View a process flow map 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create a query for a process, substance, or substance category, you can view the query in a process flow map. You can filter the map that you view to highlight substances by name or category. You can also create a new process, process reference, or substance flow from the process flow map.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Connect to Retail Server request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

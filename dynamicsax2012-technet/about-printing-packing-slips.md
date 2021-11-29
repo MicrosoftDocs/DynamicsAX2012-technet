@@ -15,6 +15,9 @@ ms.search.region: Global
 # About printing packing slips 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you work with direct delivery, a packing slip can be printed automatically for the intercompany purchase order and the original sales order when you post the packing slip on the intercompany sales order.

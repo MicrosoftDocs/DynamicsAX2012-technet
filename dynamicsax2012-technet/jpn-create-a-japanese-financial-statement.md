@@ -18,6 +18,9 @@ ms.search.region: Japan
 # (JPN) Create a Japanese financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can design a financial statement, and then produce financial statements for each of your financial periods, and for the entire year, in the Japanese format. You can export financial statements to Microsoft Excel.

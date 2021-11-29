@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITenderCountTransaction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITenderCountTransaction](itendercounttransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

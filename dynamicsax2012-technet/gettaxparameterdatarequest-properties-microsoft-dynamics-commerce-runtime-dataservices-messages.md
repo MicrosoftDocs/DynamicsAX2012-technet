@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetTaxParameterDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetTaxParameterDataRequest](gettaxparameterdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

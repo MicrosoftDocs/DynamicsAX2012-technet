@@ -19,6 +19,9 @@ ms.search.region: Global
 # About Microsoft Dynamics AX integration with Microsoft Project Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To help your project management organization gain better visibility into its projects and project resources, and to manage them more effectively, you can combine the Project management and accounting capabilities of Microsoft Dynamics AX with those of Microsoft Project Server.

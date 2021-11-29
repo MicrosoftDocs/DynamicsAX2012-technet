@@ -13,6 +13,9 @@ f1_keywords:
 
 # Every Product Every
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A Lean concept that is used to establish a regular repeating production cycle.
 
 ## See also

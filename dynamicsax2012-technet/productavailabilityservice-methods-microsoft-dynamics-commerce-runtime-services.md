@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductAvailabilityService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductAvailabilityService](productavailabilityservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

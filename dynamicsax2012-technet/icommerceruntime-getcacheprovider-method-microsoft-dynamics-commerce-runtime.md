@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCacheProvider Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cache accessor by provider name declared in cache metadata attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

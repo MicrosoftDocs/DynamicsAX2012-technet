@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the customer's search name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

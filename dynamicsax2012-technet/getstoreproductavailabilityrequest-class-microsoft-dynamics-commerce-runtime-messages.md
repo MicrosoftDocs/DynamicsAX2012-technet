@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStoreProductAvailabilityRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetStoreProductAvailabilityRequest class for the store locator service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

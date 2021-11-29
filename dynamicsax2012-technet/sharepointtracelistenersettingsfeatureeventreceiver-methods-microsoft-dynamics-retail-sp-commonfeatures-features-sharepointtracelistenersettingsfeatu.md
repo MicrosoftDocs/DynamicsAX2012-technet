@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SharePointTraceListenerSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SharePointTraceListenerSettingsFeatureEventReceiver](sharepointtracelistenersettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sp-commonfeatures-features-sharepointtracelistenersettingsfeature.md) type exposes the following members.
 
 ## Methods

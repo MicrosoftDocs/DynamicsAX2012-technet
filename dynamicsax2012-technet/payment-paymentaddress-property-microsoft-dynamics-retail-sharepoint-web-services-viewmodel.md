@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentAddress Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the payment address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

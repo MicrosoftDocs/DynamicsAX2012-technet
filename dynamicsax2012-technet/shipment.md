@@ -13,6 +13,9 @@ f1_keywords:
 
 # shipment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A quantity of freight that is created against a source document such as a sales order, purchase order, or transfer order, and that is transported from an origin point to a destination point. You can consolidate inbound or outbound shipments that are going to the same destination point into a single load.
 
 ## See also

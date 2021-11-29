@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for warehoused items (totals) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Warehoused items (totals)** register displays the total amount of each type of income or expense, based on the receipts in the **Warehoused items** register.

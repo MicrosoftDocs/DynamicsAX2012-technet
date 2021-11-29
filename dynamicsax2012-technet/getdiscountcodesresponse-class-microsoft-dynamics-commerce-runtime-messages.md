@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountCodesResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response for geting discount codes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

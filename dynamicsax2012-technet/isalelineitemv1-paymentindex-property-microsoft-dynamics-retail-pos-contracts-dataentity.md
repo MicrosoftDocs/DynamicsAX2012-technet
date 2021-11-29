@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentIndex Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ID of the tender that has already been used to pay the item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

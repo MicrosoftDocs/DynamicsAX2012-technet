@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantInventDimColumnName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The kit variant invent dim column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

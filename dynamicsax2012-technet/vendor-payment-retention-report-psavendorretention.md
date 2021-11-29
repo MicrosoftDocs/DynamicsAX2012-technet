@@ -24,6 +24,9 @@ f1_keywords:
 # Vendor payment retention report (PSAVendorRetention) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor payment retention** report to view a summary of all vendor payment retention amounts by vendor or by project.

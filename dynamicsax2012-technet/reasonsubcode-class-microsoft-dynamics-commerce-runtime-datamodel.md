@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonSubCode Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason sub code entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

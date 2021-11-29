@@ -17,6 +17,9 @@ dev_langs:
 
 # CookieConstants Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Centralized location for managing all of the SharePoint cookies.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

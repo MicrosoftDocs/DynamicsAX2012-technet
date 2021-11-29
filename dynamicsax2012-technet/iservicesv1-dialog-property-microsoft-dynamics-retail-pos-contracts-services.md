@@ -17,6 +17,9 @@ dev_langs:
 
 # Dialog Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Dialog service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

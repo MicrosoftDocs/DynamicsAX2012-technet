@@ -17,6 +17,9 @@ dev_langs:
 
 # Aliased Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether a query source should have an alias.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

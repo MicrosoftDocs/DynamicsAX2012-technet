@@ -14,6 +14,9 @@ f1_keywords:
 # Telemarketing configuration key (SmmTM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Telemarketing** configuration key allows you to access the telemarketing functionality in Microsoft Dynamics AX. This configuration key is automatically enabled when the **Telemarketing** license code is entered into Microsoft Dynamics AX.

@@ -17,6 +17,9 @@ dev_langs:
 
 # HasItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns true when the indicated item/variant discount rows have already been added to the cache (whether with a discount or no discount). This will prevent unneeded trips to the DB for subsequent calls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

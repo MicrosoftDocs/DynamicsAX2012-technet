@@ -17,6 +17,9 @@ dev_langs:
 
 # SetVariantDetailsToEmpty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set the variant details to null/ empty.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITax Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITax](itax-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

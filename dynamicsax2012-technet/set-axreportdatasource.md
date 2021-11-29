@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Set-AXReportDataSource
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Set-AXReportDataSource
 
 Modifies the data source connection string and provider to use for Microsoft SQL Server Reporting Services reports.

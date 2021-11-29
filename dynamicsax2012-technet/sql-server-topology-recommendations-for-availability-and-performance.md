@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # SQL Server topology recommendations for availability and performance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The choice topology of the Microsoft SQL Server environment that supports Microsoft Dynamics AX is driven primarily by requirements for availability and performance.

@@ -24,6 +24,9 @@ ms.search.region: Global
 # About project types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the project types that you can create in **Project management and accounting**. The primary difference among these project types, apart from their different purposes, lies in how they are set up for costs and revenue recognition.

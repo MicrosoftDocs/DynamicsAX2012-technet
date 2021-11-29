@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Create a fiscal establishment group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create a fiscal establishment group. You can group fiscal establishments and set up tax groups for each fiscal establishment group in the **Taxes matrix** form.

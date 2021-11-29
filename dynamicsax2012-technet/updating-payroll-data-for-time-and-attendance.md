@@ -14,6 +14,9 @@ ms.search.region: Global
 # Updating payroll data for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In **Time and attendance**, payroll data that has been generated based on worker registrations can be transferred to a payroll file. It is also possible to recalculate balances that relate to payroll calculation.

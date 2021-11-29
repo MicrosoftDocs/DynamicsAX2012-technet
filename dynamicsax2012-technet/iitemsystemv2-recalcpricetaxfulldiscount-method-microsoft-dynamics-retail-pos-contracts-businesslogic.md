@@ -17,6 +17,9 @@ dev_langs:
 
 # RecalcPriceTaxFullDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Recalculates the price, full discount and tax on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # product receipt
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the receipt of products ordered, the receipt of products returned, or the receipt of products received on consignment.
 
 ## See also

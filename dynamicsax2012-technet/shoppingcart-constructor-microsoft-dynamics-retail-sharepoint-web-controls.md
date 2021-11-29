@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCart Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the ShoppingCart web control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

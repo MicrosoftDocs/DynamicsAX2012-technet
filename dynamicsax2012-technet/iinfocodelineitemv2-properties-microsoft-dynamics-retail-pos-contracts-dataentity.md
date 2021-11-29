@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IInfoCodeLineItemV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IInfoCodeLineItemV2](iinfocodelineitemv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

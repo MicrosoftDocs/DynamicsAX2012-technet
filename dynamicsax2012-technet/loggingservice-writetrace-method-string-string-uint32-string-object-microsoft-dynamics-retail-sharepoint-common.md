@@ -15,6 +15,9 @@ dev_langs:
 
 # WriteTrace Method (String, String, , UInt32, String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Writes a trace.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailDiscountLineItem Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class contains the item index and discount line for a matching line within a discount application.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

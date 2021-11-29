@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up VAT report date codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Value-added tax (VAT) transactions are selected for the VAT register report based on the date of the VAT register. The VAT register date is specified according to business and tax rules. In Microsoft Dynamics AX, the VAT register date is based on the VAT codes that you define.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of objects that share a common definitional property, that share common operations and behavior, or both.
 
 ## See also

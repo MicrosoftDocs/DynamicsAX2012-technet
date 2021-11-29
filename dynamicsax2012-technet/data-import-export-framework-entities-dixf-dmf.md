@@ -14,6 +14,9 @@ f1_keywords:
 # Data Import/Export Framework (DIXF) entities
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic lists the entities that can be imported by using the Data Import/Export Framework, the application module that each entity is associated with, and the class, staging table, and target table for each entity.

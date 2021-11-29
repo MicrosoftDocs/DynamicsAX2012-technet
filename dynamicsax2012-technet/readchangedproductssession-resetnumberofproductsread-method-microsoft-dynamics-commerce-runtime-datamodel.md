@@ -17,6 +17,9 @@ dev_langs:
 
 # ResetNumberOfProductsRead Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Resets NumberOfProductsRead and NumberOfProductsReadInCurrentPage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

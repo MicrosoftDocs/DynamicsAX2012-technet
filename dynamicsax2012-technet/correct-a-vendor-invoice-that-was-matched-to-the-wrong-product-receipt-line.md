@@ -14,6 +14,9 @@ ms.search.region: Global
 # Correct a vendor invoice that was matched to the wrong product receipt line 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you mistakenly invoice the wrong purchase order line, you can correct the error. First, create a credit note for the purchase order line. To create a credit note, enter a purchase order line that has a negative quantity. Then, enter the correct information for the purchase order line, and invoice the new purchase order line.

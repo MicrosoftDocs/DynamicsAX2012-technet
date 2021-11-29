@@ -13,6 +13,9 @@ f1_keywords:
 
 # journal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A register of original accounting entries.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About answer groups and answers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Answer groups and answers are required components that make up the main body of information that questions are created from.

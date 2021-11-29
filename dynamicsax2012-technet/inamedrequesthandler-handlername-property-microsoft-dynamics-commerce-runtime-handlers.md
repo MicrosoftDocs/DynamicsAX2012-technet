@@ -17,6 +17,9 @@ dev_langs:
 
 # HandlerName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the unique name for this request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Handlers](microsoft-dynamics-commerce-runtime-handlers-namespace.md)  

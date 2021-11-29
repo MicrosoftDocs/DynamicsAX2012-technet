@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductDimensionValueDictionary Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductDimensionValueDictionary](productdimensionvaluedictionary-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

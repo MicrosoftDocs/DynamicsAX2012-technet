@@ -17,6 +17,9 @@ dev_langs:
 
 # TrustedIdentityProviderSettingsFeatureEventReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class handles events raised during feature activation, deactivation, installation, uninstallation, and upgrade.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.TrustedIdentityProviderSettingsFeature](microsoft-dynamics-retail-sp-commonfeatures-features-trustedidentityprovidersettingsfeature-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionRequiredReasonCodeIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the identifiers of reason codes required at transaction level.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

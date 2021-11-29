@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Portal on Microsoft SharePoint 2013 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Enterprise Portal is supported on SharePoint 2013. This topic describes prerequisites for running Enterprise Portal on either Microsoft SharePoint Foundation 2013 or Microsoft SharePoint Server 2013. You must complete the steps in this topic before you install Enterprise Portal. Known issues about Enterprise Portal on SharePoint 2013 are described later in this topic.

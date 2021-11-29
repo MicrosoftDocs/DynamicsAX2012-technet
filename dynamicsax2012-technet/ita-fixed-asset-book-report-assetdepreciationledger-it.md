@@ -16,6 +16,9 @@ f1_keywords:
 # (ITA) Fixed asset book report (AssetDepreciationLedger\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Italian fixed asset book** report displays information about Italian fixed asset books. You can select whether to include summarized information or detailed information about the books. This report is used to inquire into the status of fixed asset transactions and review the status of fixed asset processes. This report is typically used by accountants, accounting managers, accounting supervisors, accounts payable managers, chief executive officers, chief financial officers, compliance managers, financial controllers, and chief financial controllers.

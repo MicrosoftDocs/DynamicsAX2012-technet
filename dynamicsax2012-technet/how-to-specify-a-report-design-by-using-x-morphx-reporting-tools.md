@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Specify a Report Design by Using X++ (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a report has multiple designs, you can use X++ to specify which design will be displayed when the report is printed.

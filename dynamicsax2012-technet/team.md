@@ -13,6 +13,9 @@ f1_keywords:
 
 # team
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An organization whose members share a common responsibility, interest, or objective.
 
 ## See also

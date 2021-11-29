@@ -13,6 +13,9 @@ f1_keywords:
 
 # goods in transit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Items that have been dispatched from the shipping location but have not yet arrived at the delivery location.
 
 ## See also

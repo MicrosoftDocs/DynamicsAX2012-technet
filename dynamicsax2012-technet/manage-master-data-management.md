@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage Master Data Management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to perform management activities for Microsoft Dynamics AX Master Data Management (MDM). For example, you can resolve conflicts and view the synchronization history.

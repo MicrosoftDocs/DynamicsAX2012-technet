@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntime Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the entry point of the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

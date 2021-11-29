@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerTrigger Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerTrigger](icustomertrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

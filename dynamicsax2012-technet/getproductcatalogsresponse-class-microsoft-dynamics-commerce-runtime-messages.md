@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductCatalogsResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response from the GetProductCatalogsResponse class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

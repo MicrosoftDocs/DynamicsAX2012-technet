@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Import BG Max payments to a payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can import Bankgiro (BG) Max payment files into Accounts receivable payment journals. BG Max is the format that is required to support Bankgiro Inbetalningar (Bankgiro Receivables). Bankgiro Inbetalningar (Bankgiro Receivables) is available from BankGiroCentralen, a payment provider in Sweden. Microsoft Dynamics AX supports the following versions of the BG Max payment files:

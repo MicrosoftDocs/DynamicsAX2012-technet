@@ -21,6 +21,9 @@ dev_langs:
 
 # AuditLogTraceLevel Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the trace level of the audit log.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

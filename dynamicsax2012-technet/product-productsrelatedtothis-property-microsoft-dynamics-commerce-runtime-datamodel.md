@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductsRelatedToThis Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets information about the products inversely related to this product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

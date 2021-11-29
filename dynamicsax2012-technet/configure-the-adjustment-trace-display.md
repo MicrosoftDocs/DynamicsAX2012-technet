@@ -19,6 +19,9 @@ ms.search.region: Global
 # Configure the adjustment trace display 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Adjustment tree setup** form to select the fields that you want to be displayed in the adjustment trace lines on the **Adjustment trace** tab of a transaction form.

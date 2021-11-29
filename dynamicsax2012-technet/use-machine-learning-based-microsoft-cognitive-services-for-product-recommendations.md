@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use machine learning–based Microsoft Cognitive Services for product recommendations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This white paper explains how you can use the new Cortana Intelligence services management module for product recommendations.

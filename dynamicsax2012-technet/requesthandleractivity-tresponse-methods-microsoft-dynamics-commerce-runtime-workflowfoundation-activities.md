@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequestHandlerActivity(TResponse) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequestHandlerActivity\<TResponse\>](requesthandleractivity-tresponse-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerSqlServerDataRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer data requests handler that retrieves the customer information from underlying data storage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

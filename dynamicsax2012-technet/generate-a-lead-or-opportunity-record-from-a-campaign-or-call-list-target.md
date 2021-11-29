@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate a lead or opportunity record from a campaign or call list target 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After your organization runs a campaign, you will receive responses from the campaign’s target audience. You can generate new lead or opportunity records for parties who show interest in the campaign’s offering.

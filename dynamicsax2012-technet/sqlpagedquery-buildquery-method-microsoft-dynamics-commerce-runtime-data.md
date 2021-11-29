@@ -17,6 +17,9 @@ dev_langs:
 
 # BuildQuery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Builds a query using the specified builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

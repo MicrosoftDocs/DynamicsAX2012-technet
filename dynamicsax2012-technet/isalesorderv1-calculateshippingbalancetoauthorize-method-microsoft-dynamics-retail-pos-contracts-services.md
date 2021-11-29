@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateShippingBalanceToAuthorize Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Computes the balance to be authorized for shipping.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

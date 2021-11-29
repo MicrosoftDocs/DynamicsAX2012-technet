@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPreRender Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Control.OnPreRender(EventArgs)](https://technet.microsoft.com/library/00ea18ad\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)  

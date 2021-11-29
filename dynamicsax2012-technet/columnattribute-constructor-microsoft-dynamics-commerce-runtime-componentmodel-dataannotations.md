@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnAttribute Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ColumnAttribute](columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

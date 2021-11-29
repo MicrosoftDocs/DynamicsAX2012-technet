@@ -17,6 +17,9 @@ dev_langs:
 
 # IStoreProductAvailabilityService Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Store Product Avaiability interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

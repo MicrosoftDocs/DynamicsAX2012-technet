@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AttributeIntValue Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AttributeIntValue](attributeintvalue-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Remove-AXReportServerConfiguration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Remove-AXReportServerConfiguration
 
 Removes a configuration that specifies connection settings between a Microsoft Dynamics AX Application Object Server (AOS) instance and a Microsoft SQL Server Reporting Services instance.

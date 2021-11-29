@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product configuration configuration key (PC) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Product configuration** configuration key controls access to product configurator forms and functions.

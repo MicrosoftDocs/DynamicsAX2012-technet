@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Set up a method of payment for BG Max payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Methods of payment** form to set up a method of payment for Bankgiro Inbetalningar (Bankgiro Receivables). Bankgiro Inbetalningar Inbetalningar (Bankgiro Receivables) is available from BankGiroCentralen, a payment provider in Sweden. Use the method of payment when you import payments to a payment journal.

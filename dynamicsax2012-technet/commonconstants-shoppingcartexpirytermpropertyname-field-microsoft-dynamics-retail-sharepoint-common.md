@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartExpiryTermPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the term after which a authenticated users' cart expires
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

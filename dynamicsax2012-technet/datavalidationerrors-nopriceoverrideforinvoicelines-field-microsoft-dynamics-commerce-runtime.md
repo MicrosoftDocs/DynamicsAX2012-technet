@@ -17,6 +17,9 @@ dev_langs:
 
 # NoPriceOverrideForInvoiceLines Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that price cannot be overridden for invoice line items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

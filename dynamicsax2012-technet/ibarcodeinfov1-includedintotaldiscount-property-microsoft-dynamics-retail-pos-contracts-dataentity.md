@@ -17,6 +17,9 @@ dev_langs:
 
 # IncludedInTotalDiscount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets included in total discount.
 
 If returns true, the item is included in the calculation of a combined total discount.

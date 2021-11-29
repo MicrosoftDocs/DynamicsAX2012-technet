@@ -25,6 +25,9 @@ ms.search.region: Global
 # Create an aging snapshot 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create aging snapshot records for all customers or for the customers in a customer pool. Aging snapshot information is shown on the **Collections** list page and in the **Collections** form. You must create an aging snapshot before you can use the list page. The list page shows information only for customers for whom an aging snapshot has been created. For more information, see [Customer aging snapshot (form)](https://technet.microsoft.com/library/hh242719\(v=ax.60\)).

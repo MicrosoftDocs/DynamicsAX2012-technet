@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelAttributeView Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a row in ChannelAttributeView view.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

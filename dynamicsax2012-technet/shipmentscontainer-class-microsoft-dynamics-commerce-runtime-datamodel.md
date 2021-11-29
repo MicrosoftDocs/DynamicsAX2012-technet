@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentsContainer Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the container for shipments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

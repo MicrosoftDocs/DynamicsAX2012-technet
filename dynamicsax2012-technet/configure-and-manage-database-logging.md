@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure and manage database logging 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This article describes database logging, including how to manage security and performance, how to set it up, and how to clean up database logs.

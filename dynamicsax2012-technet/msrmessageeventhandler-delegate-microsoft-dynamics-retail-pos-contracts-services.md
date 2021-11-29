@@ -17,6 +17,9 @@ dev_langs:
 
 # MSRMessageEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.MSRMessageEventHandler interface is the MSR device message event handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

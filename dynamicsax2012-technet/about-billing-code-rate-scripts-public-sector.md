@@ -21,6 +21,9 @@ ms.search.region: Denmark, France
 # About billing code rate scripts (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A billing code is a set of default values and billing rates that are applied automatically to free text invoice lines where the billing code is selected. One of these default values is the billing amount for the invoice line. This billing amount can be derived from one of two locations in the billing code setup: the currency table or the rate script field. The following examples provide rate scripts for typical billing situations.

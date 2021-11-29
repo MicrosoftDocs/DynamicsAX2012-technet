@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryLocationId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the inventory location identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

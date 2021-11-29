@@ -18,6 +18,9 @@ ms.search.region: Global
 # Prioritize automatic settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to automatically settle payments by attribute type, transaction type, and billing classification. For example, when a payment is received from a customer, you can choose to settle interest notes with the largest amounts owed, first. The settlement priority will be applied to all automatic settlements. These include customer payments, payment journal lines, and open transactions that include multiple debits.

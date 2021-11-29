@@ -13,6 +13,9 @@ f1_keywords:
 
 # European Payment Council
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An international non-profit association that supports and promotes the Single Euro Payments Area (SEPA) banking industry initiative.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy a Retail essentials dev/test environment on Azure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858574).

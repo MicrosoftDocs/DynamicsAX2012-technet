@@ -14,6 +14,9 @@ ms.search.region: Global
 # View the history for a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view and compare the change history for versions of a purchase requisition. When a purchase requisition is submitted for review, the purchase requisition is saved as the first version. Additional versions are created only when the value of a field changes on the purchase requisition header or lines. Version entries are also created when a purchase order is generated for the purchase requisition lines.

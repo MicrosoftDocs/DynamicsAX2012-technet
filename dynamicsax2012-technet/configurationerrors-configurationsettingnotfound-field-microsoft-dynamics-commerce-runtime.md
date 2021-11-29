@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfigurationSettingNotFound Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a configuration setting or its value was not found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

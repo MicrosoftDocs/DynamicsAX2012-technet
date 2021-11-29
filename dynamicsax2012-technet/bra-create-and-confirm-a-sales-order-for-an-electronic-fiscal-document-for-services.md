@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Create and confirm a sales order for an electronic fiscal document for services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and confirm a sales order for an electronic fiscal document for services.

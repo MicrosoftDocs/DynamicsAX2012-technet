@@ -17,6 +17,9 @@ dev_langs:
 
 # DictionaryCacheAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class modeling the behavior of a offline cache accessor.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache](microsoft-dynamics-commerce-runtime-cache-dictionarycache-namespace.md)  

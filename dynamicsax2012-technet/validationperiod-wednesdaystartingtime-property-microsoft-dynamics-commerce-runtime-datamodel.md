@@ -17,6 +17,9 @@ dev_langs:
 
 # WednesdayStartingTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the starting time for Wednesdays in this period.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

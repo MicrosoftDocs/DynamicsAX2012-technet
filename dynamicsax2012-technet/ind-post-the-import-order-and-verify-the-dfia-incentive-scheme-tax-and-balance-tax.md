@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Post the import order and verify the DFIA incentive scheme tax and balance tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to post the import order for a Duty Free Import Authorization (DFIA) after you receive the goods. You can adjust the calculated tax amount to match the invoiced tax amount, if necessary.

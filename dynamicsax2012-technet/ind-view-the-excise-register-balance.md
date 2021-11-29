@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View the excise register balance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view the balance amounts in the excise registers. You can filter the information based on the date of the transaction and on the tax ledger posting group for an excise registration number.

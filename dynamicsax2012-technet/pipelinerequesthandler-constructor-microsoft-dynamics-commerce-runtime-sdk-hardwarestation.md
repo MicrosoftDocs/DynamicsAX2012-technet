@@ -17,6 +17,9 @@ dev_langs:
 
 # PipelineRequestHandler Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation (in Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.dll)
 

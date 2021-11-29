@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Record level security license code (SysRecordLevelSecurity) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Record level security** license code enables access to the record-level security feature. For more information about record-level security, see [Manage record level security](manage-record-level-security.md).

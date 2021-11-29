@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create expense categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees must assign their expenses to predefined categories when they are working with expense reports. You can create two types of expense categories:

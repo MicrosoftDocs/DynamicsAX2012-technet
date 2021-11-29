@@ -17,6 +17,9 @@ dev_langs:
 
 # Currency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

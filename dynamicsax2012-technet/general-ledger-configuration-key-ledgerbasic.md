@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # General ledger configuration key (LedgerBasic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **General ledger** configuration key controls access to all the main features for the general ledger. If this configuration key is enabled, you can enable the features beneath it in the configuration structure.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # Free On Board
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A shipping method that establishes the point at which ownership of goods passes to the buyer. The FOB can establish ownership when an item is damaged in transit.
 
 ## See also

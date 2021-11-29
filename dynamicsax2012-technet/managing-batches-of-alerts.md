@@ -14,6 +14,9 @@ ms.search.region: Global
 # Managing batches of alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The guidelines in the following topics apply to administrators who set up batch processing for the alerts feature.

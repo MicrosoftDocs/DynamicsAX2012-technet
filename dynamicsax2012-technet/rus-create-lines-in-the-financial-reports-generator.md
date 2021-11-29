@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Create lines in the Financial reports generator 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Document templates** form to create lines in the financial reports generator (FRG) based on the template settings.

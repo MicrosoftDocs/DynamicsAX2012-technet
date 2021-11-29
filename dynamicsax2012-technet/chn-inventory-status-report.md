@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Inventory status report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Generate and print a report that displays a summary of the starting and ending balance of your organization’s inventory during a specified time.

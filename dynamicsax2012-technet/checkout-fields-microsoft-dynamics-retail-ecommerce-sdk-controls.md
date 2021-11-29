@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Checkout Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Checkout](checkout-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Fields

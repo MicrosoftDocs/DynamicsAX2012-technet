@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Project accounting cube (ProjCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Project accounting cube to report on project profitability, committed cost, employee utilization, and cash flow for one or multiple projects in a company.

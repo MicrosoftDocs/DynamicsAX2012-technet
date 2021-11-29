@@ -14,6 +14,9 @@ ms.search.region: Global
 # View purchase or sales release order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to view purchase or sales order lines that are released from a purchase or sales agreement.

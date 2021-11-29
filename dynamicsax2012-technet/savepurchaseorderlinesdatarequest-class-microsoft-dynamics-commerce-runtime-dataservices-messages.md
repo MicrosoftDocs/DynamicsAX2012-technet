@@ -17,6 +17,9 @@ dev_langs:
 
 # SavePurchaseOrderLinesDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service request to save a purchase order lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

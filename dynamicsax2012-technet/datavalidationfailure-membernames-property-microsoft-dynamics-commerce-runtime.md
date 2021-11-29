@@ -17,6 +17,9 @@ dev_langs:
 
 # MemberNames Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the member name which caused the validation error.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

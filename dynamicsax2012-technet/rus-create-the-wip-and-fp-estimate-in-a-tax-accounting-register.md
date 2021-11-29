@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create the WIP and FP estimate in a tax accounting register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Tax register journal** form to create the estimate of work in process (WIP) and finished products (FP) in the tax accounting register.

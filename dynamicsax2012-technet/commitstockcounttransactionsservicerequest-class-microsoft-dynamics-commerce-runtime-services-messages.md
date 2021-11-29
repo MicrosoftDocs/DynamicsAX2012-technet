@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitStockCountTransactionsServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CommitStockCountTransactionsRequest is the request class to commit StockCount transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

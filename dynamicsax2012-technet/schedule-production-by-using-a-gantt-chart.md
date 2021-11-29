@@ -14,6 +14,9 @@ ms.search.region: Global
 # Schedule production by using a Gantt chart 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A Gantt chart displays a graphical overview of the production plan that is scheduled for the selected resource or production order. You can manually reschedule the production by using commands in the Gantt chart. This topic describes the scheduling tasks.

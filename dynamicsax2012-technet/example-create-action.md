@@ -14,6 +14,9 @@ dev_langs:
 # Example: Create Action 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes sample inbound and outbound messages for the create action in Application Integration Framework (AIF) document services. An inbound create message can specify one or more records to be added. After the inbound message is processed, AIF generates a single outbound message that contains the unique entity key value for each record that was added.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the total periodic discount given in this transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -21,6 +21,9 @@ ms.search.region: Spain
 # (ESP) Generate a vendor payment remittance file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to generate remittance files for a selected method of payment format. You can also generate remittance files for a promissory note that is created with Single European Payment Area (SEPA). Before you create the remittance journal, complete the following tasks:

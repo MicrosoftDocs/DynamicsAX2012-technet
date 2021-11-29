@@ -27,6 +27,9 @@ ms.search.region: France
 # (FRA) Process purchase order encumbrances and commitments at year end (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before beginning the year-end process for purchase orders and commitments, review [Process purchase orders at year end](process-purchase-orders-at-year-end.md). This topic explains the differences between the process as described there and the process used by public sector entities in France.

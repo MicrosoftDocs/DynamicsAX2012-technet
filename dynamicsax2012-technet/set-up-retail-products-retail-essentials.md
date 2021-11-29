@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up retail products (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Before you can offer products for resale in your retail channels, you must create and configure the products in Retail essentials. Retail essentials uses the product features to create organization-wide products in the product master. This topic explains how to create and configure products in Retail essentials.

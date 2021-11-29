@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTrackingInformationFromCarrierServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates tracking information response from a carrier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

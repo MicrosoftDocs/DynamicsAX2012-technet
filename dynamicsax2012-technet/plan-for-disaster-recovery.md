@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan for disaster recovery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To guarantee that all your systems and data can be quickly restored to regular operation if a disaster occurs through natural or human causes, you must implement a comprehensive disaster recovery plan. As you create this plan, consider the various kinds of disasters that might affect your organization. These disasters might include natural disasters, such as a fire, and technical disasters, such as a multi-disk failure in a RAID. When you create a disaster recovery plan, identify the steps that are required to respond to each kind of disaster. You must test the recovery steps for each scenario. We recommend that you verify the robustness of your disaster recovery plan by simulating a catastrophic event.

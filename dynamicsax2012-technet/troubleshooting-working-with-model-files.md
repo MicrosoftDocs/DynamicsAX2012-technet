@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshooting working with model files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 This topic describes common issues that you may encounter when you work with models. The error message for each issue is listed, and then the cause and resolution are described.

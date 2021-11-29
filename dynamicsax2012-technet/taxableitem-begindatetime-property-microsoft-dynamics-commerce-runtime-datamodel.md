@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginDateTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The start date and time of the transaction. Used for transaction/purchase date time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

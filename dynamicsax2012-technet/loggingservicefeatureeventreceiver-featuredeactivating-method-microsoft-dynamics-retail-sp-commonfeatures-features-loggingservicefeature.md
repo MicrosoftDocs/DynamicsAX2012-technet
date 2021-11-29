@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureDeactivating Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the event that is raised when a Feature is deactivated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.LoggingServiceFeature](microsoft-dynamics-retail-sp-commonfeatures-features-loggingservicefeature-namespace.md)  

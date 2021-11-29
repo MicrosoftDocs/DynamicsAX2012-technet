@@ -15,6 +15,9 @@ ms.search.region: Global
 # About product variants 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product variants are created from product masters. You can use product variants to create variations of a product instead of creating several products that have to be maintained. Product variants could, for example, be one t-shirt in different sizes and colors. The t-shirt is the product master and the combinations of the sizes and the colors are the variants.

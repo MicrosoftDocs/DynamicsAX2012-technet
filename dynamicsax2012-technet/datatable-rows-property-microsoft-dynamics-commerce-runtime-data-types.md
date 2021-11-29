@@ -17,6 +17,9 @@ dev_langs:
 
 # Rows Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of rows for this table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

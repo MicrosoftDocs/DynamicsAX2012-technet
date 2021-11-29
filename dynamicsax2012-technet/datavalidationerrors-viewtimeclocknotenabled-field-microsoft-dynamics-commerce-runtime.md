@@ -17,6 +17,9 @@ dev_langs:
 
 # ViewTimeClockNotEnabled Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that view other worker's time clock entries POS permission is not enabled.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

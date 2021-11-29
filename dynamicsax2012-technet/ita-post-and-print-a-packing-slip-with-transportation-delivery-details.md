@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Post and print a packing slip with transportation delivery details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you ship goods to customers, the shipment must contain a transportation delivery document (TDD). The TDD provides information about the customer, contractor, owner, and loader involved in the shipment. To print a packing slip with transportation delivery details, you must first set up transportation delivery details.

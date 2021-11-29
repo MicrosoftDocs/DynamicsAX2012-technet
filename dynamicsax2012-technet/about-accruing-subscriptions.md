@@ -15,6 +15,9 @@ ms.search.region: Global
 # About accruing subscriptions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 With service subscriptions, you manually accrue revenue in the periods following the date when you invoiced a fee transaction.

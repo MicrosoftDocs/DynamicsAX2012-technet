@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IApplication Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Methods
 
 <table>

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select invoices to settle with payments on behalf of multiple legal entities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In organizations that use centralized payment processing, each operating legal entity manages its own invoices receivable information. Payments from customers are received by a single legal entity, which is referred to as the legal entity of the payment. Use this procedure to select invoices to settle. For more information, see [Key tasks: Customer payments and settlements](key-tasks-customer-payments-and-settlements.md).

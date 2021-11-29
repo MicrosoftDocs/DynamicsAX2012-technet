@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteCookie Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Expire the cookie with the specified cookie name in the response.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

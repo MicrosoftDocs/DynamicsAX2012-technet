@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an inventory profile for a transferable item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up an inventory profile for items that are purchased by a legal entity, so that the items can be transferred to the warehouse of the legal entity.

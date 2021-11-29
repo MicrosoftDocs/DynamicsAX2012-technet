@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncStockCountTransactionsFromAxServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SyncStockCountTransactionsFromAxRequest is the request class to Sync StockCount Transactions from AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

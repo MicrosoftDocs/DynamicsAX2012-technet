@@ -17,6 +17,9 @@ dev_langs:
 
 # IReasonCodeDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Declares the behavior of the reason code data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

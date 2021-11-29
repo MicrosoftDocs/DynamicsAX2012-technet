@@ -14,6 +14,9 @@ f1_keywords:
 # Category hour rate report (ProjHourRateCateg) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view actual hours by project category, and the rate per hour, value-added rate per hour, cost per hour, and gross margin per hour.

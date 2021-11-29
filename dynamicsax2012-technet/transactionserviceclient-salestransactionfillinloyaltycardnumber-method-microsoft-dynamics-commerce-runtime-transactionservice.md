@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransactionFillInLoyaltyCardNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills in the sales transaction with loyalty card number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

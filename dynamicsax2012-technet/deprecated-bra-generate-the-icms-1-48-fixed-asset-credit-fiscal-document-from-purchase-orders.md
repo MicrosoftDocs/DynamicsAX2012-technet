@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) Generate the ICMS 1/48 fixed asset credit fiscal document from purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support the ICMS 1/48 fixed asset credit fiscal document from purchase orders. To have the right to credit ICMS tax on fixed assets, a company must generate this document at the end of the month.

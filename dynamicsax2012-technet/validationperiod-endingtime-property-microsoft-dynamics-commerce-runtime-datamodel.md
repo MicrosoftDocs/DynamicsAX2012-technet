@@ -17,6 +17,9 @@ dev_langs:
 
 # EndingTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default ending time for days in this period.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

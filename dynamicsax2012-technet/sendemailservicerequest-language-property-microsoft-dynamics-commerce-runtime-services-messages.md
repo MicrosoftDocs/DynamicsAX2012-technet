@@ -17,6 +17,9 @@ dev_langs:
 
 # Language Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the language to send the e-mail.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

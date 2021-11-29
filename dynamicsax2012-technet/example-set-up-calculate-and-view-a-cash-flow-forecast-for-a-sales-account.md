@@ -14,6 +14,9 @@ ms.search.region: Global
 # Example: Set up, calculate, and view a cash flow forecast for a sales account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Set up cash flow forecasts** form to set up main accounts or budget accounts that are used in cash flow forecasts. In the cash flow forecast, future transactions are estimated based on information that is already registered, such as invoices that are not yet paid, expected sales tax payments, and budget register entries.

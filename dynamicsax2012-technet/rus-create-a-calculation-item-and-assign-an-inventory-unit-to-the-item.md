@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a calculation item and assign an inventory unit to the item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a calculation item, assign an inventory unit to the item, and set up the price and free storage days for the item. You can calculate the storage service amount for items by using the calculation item and the inventory unit that is assigned to the item. You must select the owner, inventory profile, and batch number dimensions in the dimension group that is assigned to the calculation item and the item that is in storage. For more information, see [Dimensions display (form)](https://technet.microsoft.com/library/aa556972\(v=ax.60\)).

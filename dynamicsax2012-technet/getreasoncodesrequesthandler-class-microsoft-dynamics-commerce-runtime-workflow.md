@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodesRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request handler to get the reason codes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

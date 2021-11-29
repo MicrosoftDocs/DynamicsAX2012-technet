@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DemoController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DemoController](democontroller-class-microsoft-dynamics-retail-sharepoint-web-services-objectmodel.md) type exposes the following members.
 
 ## Properties

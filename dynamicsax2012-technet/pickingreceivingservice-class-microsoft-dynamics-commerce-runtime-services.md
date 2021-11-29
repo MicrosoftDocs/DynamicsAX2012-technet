@@ -17,6 +17,9 @@ dev_langs:
 
 # PickingReceivingService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service to handle picking and receiving requests.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

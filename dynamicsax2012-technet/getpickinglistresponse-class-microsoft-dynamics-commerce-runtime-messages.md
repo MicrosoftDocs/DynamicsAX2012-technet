@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPickingListResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response of GetPickingListRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

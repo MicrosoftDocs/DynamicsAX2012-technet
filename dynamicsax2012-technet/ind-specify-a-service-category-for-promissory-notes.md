@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Specify a service category for promissory notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use this procedure to specify the service category for promissory notes.

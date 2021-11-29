@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemVariantInventoryDimensionTableType Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a table type that contains both the item and inventory dimension identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

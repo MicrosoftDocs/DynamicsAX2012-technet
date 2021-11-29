@@ -17,6 +17,9 @@ ms.search.region: Switzerland
 # (CHE) Company identification numbers for tax exemption 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Switzerland, a legal entity must use the company identification number (UID) instead of the six digit value-added tax (VAT) number, which is the Mehrwertsteuer (MWST) number. You can use the UID to print invoices and for tax reporting purposes. To validate the UID format for a legal entity, in Microsoft Dynamics AX, you must first set up the UID format as a tax registration type, and then assign UID as the legislative type to manage tax registration numbers for legal entities in each country. You can then specify the UID when you create addresses for customer or vendor legal entities, and specify the tax registration information.

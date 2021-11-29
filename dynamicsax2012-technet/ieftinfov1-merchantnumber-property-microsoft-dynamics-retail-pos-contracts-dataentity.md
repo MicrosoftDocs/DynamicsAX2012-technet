@@ -17,6 +17,9 @@ dev_langs:
 
 # MerchantNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unique merchant number from VISA/Europay.
 
 The number can be read after processing the transaction.

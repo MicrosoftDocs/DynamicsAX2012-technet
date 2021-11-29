@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerIdByEmailAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer account number using the specified e-mail address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

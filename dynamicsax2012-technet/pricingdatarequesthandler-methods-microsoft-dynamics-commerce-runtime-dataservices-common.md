@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PricingDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PricingDataRequestHandler](pricingdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-common.md) type exposes the following members.
 
 ## Methods

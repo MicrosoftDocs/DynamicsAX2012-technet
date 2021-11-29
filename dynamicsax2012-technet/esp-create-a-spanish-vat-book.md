@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Create a Spanish VAT book 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Spanish companies must submit VAT declarations to the Spanish tax authorities. VAT transactions must be listed in periodic reports and be included in the appropriate VAT book, such as VAT receivable, VAT payable, and capital allowance.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Record Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Starts task recorder.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Copy forecast model transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a forecast model by copying an existing forecast. In doing so, you copy the forecast transactions of one forecast model to the forecast model that you are creating. You can control the content of the new forecast model by including only specific transaction types or transactions from a specific time period.

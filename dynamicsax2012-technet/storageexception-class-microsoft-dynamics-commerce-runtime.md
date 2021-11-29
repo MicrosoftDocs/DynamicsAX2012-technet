@@ -17,6 +17,9 @@ dev_langs:
 
 # StorageException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Storage exception.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

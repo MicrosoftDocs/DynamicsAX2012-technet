@@ -17,6 +17,9 @@ dev_langs:
 
 # CapStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Check if the cash drawer is capable of reporting back whether it's closed or open.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidIndex Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constant used to determine if an index value is invalid or not found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

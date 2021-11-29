@@ -17,6 +17,9 @@ ms.search.region: Global
 # Change delivery date for the receipt of products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On Enterprise Portal for Microsoft Dynamics AX, you can change the scheduled delivery date of your product receipts that are unconfirmed. You use the **Unconfirmed product receipts** page to perform this task. You want to change the delivery date if, for example, a vendor informs you that the delivery of ordered products is delayed by five days. You can then adjust the delivery date on the product receipts that are affected to avoid due date notifications from Microsoft Dynamics AX.

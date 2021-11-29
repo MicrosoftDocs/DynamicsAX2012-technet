@@ -17,6 +17,9 @@ f1_keywords:
 # (BEL) Invoice turnover report (CustInvoiceVolume\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Invoice turnover report displays customer invoice turnover information for a specified period. The report is based on the minimum amount criterion. An XML file that contains the invoice turnover details can also be generated. This report is used by accounts receivable managers and accounting managers to review the performance of invoice and cash processes.

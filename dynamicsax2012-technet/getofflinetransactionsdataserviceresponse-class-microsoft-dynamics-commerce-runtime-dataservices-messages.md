@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOfflineTransactionsDataServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetOfflineTransactionsDataServiceResponse contains response for GetOfflineTransactionsDataServiceRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -20,6 +20,9 @@ dev_langs:
 
 # LoyaltyRewardType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the type of the loyalty reward.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

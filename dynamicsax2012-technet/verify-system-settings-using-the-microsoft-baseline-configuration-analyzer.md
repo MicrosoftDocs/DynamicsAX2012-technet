@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Verify system settings using the Microsoft Baseline Configuration Analyzer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to use Microsoft Baseline Configuration Analyzer 2.0 (MBCA 2.0) to help maintain system configurations for Microsoft Dynamics AX components. MBCA 2.0 analyzes Microsoft Dynamics AX configurations against a predefined set of best practices, and then reports the results of the analysis. By using MBCA 2.0, you can analyze configurations for the following Microsoft Dynamics AX components:

@@ -17,6 +17,9 @@ f1_keywords:
 # (MEX) Inflation adjustment report (InfAdjRepomoPL\_MX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Inflation adjustment** report displays ledger transactions based on the selected inflation adjustment method. This report is used by accountants, accounting supervisors, chief executive officers, chief financial officers, and compliance mangers to inquire into the status of the ledger transactions.

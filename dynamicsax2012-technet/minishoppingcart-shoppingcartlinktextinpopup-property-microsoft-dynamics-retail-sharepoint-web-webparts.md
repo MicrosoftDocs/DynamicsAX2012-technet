@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartLinkTextInPopup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the text to display in for the Shopping Cart Link in the Popup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

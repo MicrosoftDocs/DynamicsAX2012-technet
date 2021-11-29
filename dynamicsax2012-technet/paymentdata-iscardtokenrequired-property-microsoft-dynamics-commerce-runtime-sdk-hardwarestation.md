@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCardTokenRequired Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether a card token is required..
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

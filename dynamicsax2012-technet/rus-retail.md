@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use Retail to manage a retail business from the head office to the stores.

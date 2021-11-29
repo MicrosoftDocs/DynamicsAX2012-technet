@@ -17,6 +17,9 @@ dev_langs:
 
 # UnregisterSPService Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unregisters a service from the farm.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

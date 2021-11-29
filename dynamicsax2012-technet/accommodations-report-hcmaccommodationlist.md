@@ -15,6 +15,9 @@ f1_keywords:
 # Accommodations report (HcmAccommodationList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this form to prepare a report about work environment accommodations that one or more applicants or employees have requested, or those that have been granted or denied. 

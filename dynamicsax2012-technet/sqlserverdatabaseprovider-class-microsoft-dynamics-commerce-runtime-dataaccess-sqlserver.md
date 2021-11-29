@@ -17,6 +17,9 @@ dev_langs:
 
 # SqlServerDatabaseProvider Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements the database provider for SQLServer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  

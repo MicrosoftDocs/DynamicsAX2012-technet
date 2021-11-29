@@ -18,6 +18,9 @@ ms.search.region: Canada
 # (CAN) Generate a GIFT file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate a Goods and Services Tax or Harmonized Sales Tax (GST/HST) Internet File Transfer (GIFT) file and upload it to the Canadian Revenue Agency (CRA) website to file your GST/HST returns and remit payments.

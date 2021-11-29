@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelProductAttributesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the channel producte attributes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

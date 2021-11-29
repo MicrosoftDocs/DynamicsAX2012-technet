@@ -14,6 +14,9 @@ f1_keywords:
 
 # account structure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A configuration of the main account financial dimension and other financial dimensions.
 
 ## See also

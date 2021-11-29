@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryNotFoundNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that no inventory for the given sales line were found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

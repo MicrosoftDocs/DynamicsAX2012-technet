@@ -27,6 +27,9 @@ ms.search.region: Global
 # Set up parameters to create a warehouse location 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

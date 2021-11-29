@@ -17,6 +17,9 @@ dev_langs:
 
 # ICorporateCard Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment with a corporate card is assigned to the operation number 208.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

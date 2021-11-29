@@ -17,6 +17,9 @@ dev_langs:
 
 # NoMoreThanOneLoyaltyTender Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the transaction cannot contain more than one loyalty payment lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

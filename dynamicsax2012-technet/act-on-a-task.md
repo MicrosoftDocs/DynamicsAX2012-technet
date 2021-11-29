@@ -15,6 +15,9 @@ ms.search.region: Global
 # Act on a task 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A task is a unit of work that is associated with a specific business document. For example, the workflow for a purchase requisition may have a task that requires you to:

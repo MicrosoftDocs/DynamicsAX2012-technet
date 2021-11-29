@@ -13,6 +13,9 @@ f1_keywords:
 
 # queue workflow work item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A workflow work item that is assigned to a work item queue.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISearchEngine Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISearchEngine](isearchengine-interface-microsoft-dynamics-retail-ecommerce-sdk-core.md) type exposes the following members.
 
 ## Properties

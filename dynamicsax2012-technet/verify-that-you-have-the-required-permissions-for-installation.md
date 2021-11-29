@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Verify that you have the required permissions for installation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin the installation of Microsoft Dynamics AX, work with a system administrator to make sure that the account that you log on with at each server has appropriate permissions. The permissions in the following table are recommended based on the principle of least privilege.

@@ -17,6 +17,9 @@ dev_langs:
 
 # MultibuyQuantityTiers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the multiple buy quantity tiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

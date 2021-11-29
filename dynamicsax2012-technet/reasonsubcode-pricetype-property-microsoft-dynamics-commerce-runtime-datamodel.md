@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the type of the price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

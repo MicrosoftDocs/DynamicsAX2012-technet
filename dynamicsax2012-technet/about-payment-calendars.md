@@ -15,6 +15,9 @@ ms.search.region: Global
 # About payment calendars 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up payment calendars in Accounts payable and Accounts receivable. You can use payment calendars, together with payment calendar rules, to make sure that payment due dates and the start date for grace periods for invoices are always set on business days.

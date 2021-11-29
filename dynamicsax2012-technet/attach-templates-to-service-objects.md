@@ -15,6 +15,9 @@ ms.search.region: Global
 # Attach templates to service objects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A template bill of materials (BOM) can be attached to a service object relation. The service object relation can then be associated with either service orders or service agreements.

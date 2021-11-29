@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason codes.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

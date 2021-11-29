@@ -15,6 +15,9 @@ ms.search.region: Global
 # About reporting BOMs as finished 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you report a bill of materials (BOM) that is not assigned to a production order as finished, the system creates a BOM journal with the item issues and an item receipt for the item.

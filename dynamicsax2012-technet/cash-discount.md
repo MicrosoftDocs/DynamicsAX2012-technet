@@ -13,6 +13,9 @@ f1_keywords:
 
 # cash discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A discount that depends on prompt payment.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create store inventory documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to create purchase orders, transfer orders, and scheduled stock counts. For information about how to create unscheduled stock counts at a store, see Microsoft Dynamics AX for Retail POS Help or Enterprise Portal for Microsoft Dynamics AX Help.

@@ -30,6 +30,9 @@ ms.search.region: Denmark, France
 # Set up General ledger year-end processes (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At the end of a fiscal year, you must generate closing transactions and prepare your accounts for the next fiscal year. You can select accounts by fund for year-end closing and also close to different accounts. For example, you can close nominal accounts associated with governmental funds to fund balance, and close nominal accounts associated with proprietary funds to retained earnings. You can also set up year-end closing for all funds and non-funds. Non-funds do not have a fund dimension in the account structure. For more information about year-end closing, see [Fiscal year closing checklist](fiscal-year-closing-checklist.md).

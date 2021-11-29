@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: X++ index hint clause 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the administrative tool named **Microsoft Dynamics AX Server Configuration Utility** offered an option that was labeled **Allow INDEX hints on queries**. Access to this configuration option is no longer available in the configuration utility for Microsoft Dynamics AX 2012, and the option is deprecated. In the system the option’s value is **False** by default.

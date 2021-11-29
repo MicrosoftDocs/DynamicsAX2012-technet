@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumTotalDiscountPercentage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the maximum total discount that a POS user can give.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

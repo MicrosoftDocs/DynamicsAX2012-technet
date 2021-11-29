@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install management utilities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Management utilities let you configure and manage Microsoft Dynamics AX components and artifacts. Use these utilities to deploy artifacts, such as reports and Web controls, from the metadata store.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommunicationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Communication exception.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

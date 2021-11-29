@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an RCOAD code for a company 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Legal entities** form to set up a Russian Classification of Objects of Administrative Division (RCOAD) code for a company. The code that you set up is based on the location of the company.

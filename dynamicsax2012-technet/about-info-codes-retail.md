@@ -20,6 +20,9 @@ ms.search.region: Global
 # About info codes (Retail) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Info codes provide a way for you to capture data at a point-of-sale (POS) register. You can use info codes to prompt the cashier to enter information during various actions at the POS, such as item sales, item returns, or selecting customers. Cashiers can select input from a list or enter it as a code, a number, a date, or text. You can assign info codes to predefined store actions, retail items, payment methods, customers, or specific point-of-sale activities.

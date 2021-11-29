@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToAuthorizePayment Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that payment could not be authorized.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

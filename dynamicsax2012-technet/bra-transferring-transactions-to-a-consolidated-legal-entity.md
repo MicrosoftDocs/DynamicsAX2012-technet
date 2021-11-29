@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Transferring transactions to a consolidated legal entity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can transfer all of the transactions from a selected subsidiary legal entity to a consolidated legal entity. When you transfer the transactions to the consolidated legal entity, the original transaction details, such as the default description, voucher number, transaction type, transaction date, and currency, are also transferred. You can also do the following:

@@ -17,6 +17,9 @@ dev_langs:
 
 # CapUserTerminated Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a flag to identify that user is able to terminate capture by checking a completion box, pressing a completion button, or perfoming some other interaction with the device.This property is initialized by the Load method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

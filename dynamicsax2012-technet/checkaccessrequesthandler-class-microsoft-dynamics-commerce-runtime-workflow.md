@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckAccessRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the workflow required to perform check access.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

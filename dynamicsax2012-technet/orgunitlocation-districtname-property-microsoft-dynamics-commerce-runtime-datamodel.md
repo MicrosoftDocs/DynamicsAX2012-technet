@@ -17,6 +17,9 @@ dev_langs:
 
 # DistrictName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Entities (in Microsoft.Dynamics.Commerce.Runtime.Entities.dll)
 

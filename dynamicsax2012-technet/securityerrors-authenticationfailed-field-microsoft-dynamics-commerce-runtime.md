@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthenticationFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the required authentication information is missing or the user is not authenticated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

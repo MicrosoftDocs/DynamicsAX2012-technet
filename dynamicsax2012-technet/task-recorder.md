@@ -14,6 +14,9 @@ ms.search.region: Global
 # Task recorder 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use Task recorder in Microsoft Dynamics AX to quickly document a business process or task for training or other purposes. You can use Task recorder to create videos or documents in Microsoft Word, Microsoft PowerPoint, and Microsoft Visio. If you are using Task recorder in advanced mode, you can also captures additional metadata that can be packaged and then uploaded to Business process modeler in Microsoft Dynamics Lifecycle Services. The file that you upload includes cross-functional flowcharts and activities that you can modify to identify business requirements and generate implementation artifacts.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage financial indicators 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Financial Indicator List web parts display financial calculations and compare those calculations with budgeted values. A financial indicator represents a measure in an online analytical processing (OLAP) cube, such as the General ledger cube. This topic explains how to add the Financial Indicator List web part to a page, and how to configure the web part to display financial indicators and budgeted values.

@@ -14,6 +14,9 @@ f1_keywords:
 # Sales quotation report (SalesQuotation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Sales quotation** report to print the sales quotation business document that contains an offer to sell to a customer or prospect.

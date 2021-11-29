@@ -17,6 +17,9 @@ dev_langs:
 
 # CardName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The card name can be read from this property after the transaction. For example, “to be printed on a receipt”.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonCodeLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of all reason codes belonging to the sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

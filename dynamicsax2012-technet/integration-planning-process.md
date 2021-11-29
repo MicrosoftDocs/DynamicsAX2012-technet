@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Integration planning process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A typical integration scenario uses document-based exchanges. Whether you require integration with internal legacy systems or external trading partners, planning for the integration involves common key steps.

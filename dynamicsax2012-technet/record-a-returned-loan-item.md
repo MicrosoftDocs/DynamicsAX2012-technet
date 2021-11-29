@@ -14,6 +14,9 @@ ms.search.region: Global
 # Record a returned loan item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To ensure proper tracking of loaned items, you must update a loaned item record to indicate when the loaned item was actually returned. Use the following procedure to record a returned loan item.

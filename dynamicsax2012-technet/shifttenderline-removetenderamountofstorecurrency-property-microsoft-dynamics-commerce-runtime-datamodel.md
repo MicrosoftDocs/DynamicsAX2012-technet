@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveTenderAmountOfStoreCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets amount removed from tender in store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

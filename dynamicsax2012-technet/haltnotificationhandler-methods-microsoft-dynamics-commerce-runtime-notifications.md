@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HaltNotificationHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HaltNotificationHandler](haltnotificationhandler-class-microsoft-dynamics-commerce-runtime-notifications.md) type exposes the following members.
 
 ## Methods

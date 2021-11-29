@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveCustomerAccountActivationRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Save customer account activation request to channel DB.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

@@ -15,6 +15,9 @@ f1_keywords:
 # Coupon configuration key (MCRCoupon) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Coupon** configuration key controls access to coupon functionality in the **Call center** module.

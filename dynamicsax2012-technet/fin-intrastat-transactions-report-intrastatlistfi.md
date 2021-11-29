@@ -16,6 +16,9 @@ f1_keywords:
 # (FIN) Intrastat transactions report (IntrastatListFI) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Intrastat transactions** report lists the Intrastat transactions with other European Union (EU) member states. You can use this report to verify the Intrastat transactions before you export the Intrastat details to an electronic file, and then submit it to the government. This report is typically used by accounting managers, accountants, and accounting supervisors to inquire into the status of the Intrastat transactions.

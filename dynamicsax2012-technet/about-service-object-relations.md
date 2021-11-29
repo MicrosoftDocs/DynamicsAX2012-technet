@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service object relations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create service object relations between a service object and a service agreement or service order. When you create a relation, you attach the service object to the service agreement or service order.

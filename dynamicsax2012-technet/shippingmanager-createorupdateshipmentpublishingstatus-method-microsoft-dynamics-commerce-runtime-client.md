@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateOrUpdateShipmentPublishingStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates or updates shipment publishing status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

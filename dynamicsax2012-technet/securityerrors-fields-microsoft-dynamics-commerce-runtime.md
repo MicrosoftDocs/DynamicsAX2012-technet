@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SecurityErrors Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SecurityErrors](securityerrors-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Fields

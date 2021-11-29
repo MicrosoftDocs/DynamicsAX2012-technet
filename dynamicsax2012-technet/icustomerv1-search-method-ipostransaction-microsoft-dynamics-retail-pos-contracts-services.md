@@ -15,6 +15,9 @@ dev_langs:
 
 # Search Method (IPosTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for a customer and add it to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

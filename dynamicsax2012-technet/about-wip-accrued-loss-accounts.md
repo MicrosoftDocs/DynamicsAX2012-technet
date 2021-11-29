@@ -19,6 +19,9 @@ ms.search.region: Global
 # About WIP accrued loss accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic contains an overview of how and where the **WIP - accrued loss** account is applied and the parameter setup that is required in the **Project groups** form.

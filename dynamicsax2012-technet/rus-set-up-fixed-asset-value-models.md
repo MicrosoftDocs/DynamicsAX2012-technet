@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up fixed asset value models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You define a value model so that you can create fixed asset transactions in the general ledger for accounting functions, such as tax and business transactions. You can also create sub-models and depreciation groups for each value model.

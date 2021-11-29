@@ -17,6 +17,9 @@ ms.search.region: Global
 # Configure purchase requisition parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you create purchase requisitions, you can configure the purchase requisition control rule to set the parameters that are used to process purchase requisitions. By using the purchase requisition control rule, you can do the following:

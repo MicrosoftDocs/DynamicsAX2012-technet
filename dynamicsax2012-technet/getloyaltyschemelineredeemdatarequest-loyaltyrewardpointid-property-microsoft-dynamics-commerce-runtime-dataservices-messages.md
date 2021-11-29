@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyRewardPointId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the readable identifier of the reward point.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

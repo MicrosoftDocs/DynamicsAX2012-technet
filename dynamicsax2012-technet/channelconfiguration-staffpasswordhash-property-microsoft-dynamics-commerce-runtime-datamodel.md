@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffPasswordHash Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the staff password hash type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

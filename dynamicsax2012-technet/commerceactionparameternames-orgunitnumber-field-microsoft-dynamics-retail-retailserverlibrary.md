@@ -17,6 +17,9 @@ dev_langs:
 
 # OrgUnitNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The org unit number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post a cash voucher with cash reimbursements and cash disbursements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post a cash voucher with confirmation by selecting the **Use Confirm Status** check box in the **Bank parameters** form. To post the cash voucher without confirmation, clear the **Use Confirm Status** check box. The confirmation method is most efficient when the chief accountant and cashier certify creation of the cash orders and reimbursement or disbursements of cash.

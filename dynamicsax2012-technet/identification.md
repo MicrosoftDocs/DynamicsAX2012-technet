@@ -13,6 +13,9 @@ f1_keywords:
 
 # identification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Proof or evidence that supports an identity claim.
 
 ## See also

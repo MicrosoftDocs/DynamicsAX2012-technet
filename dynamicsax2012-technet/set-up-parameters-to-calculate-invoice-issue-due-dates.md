@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up parameters to calculate invoice issue due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up parameters to calculate the due dates for issuing customer invoices and vendor invoices.

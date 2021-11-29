@@ -17,6 +17,9 @@ ms.search.region: Global
 # Designing questionnaires 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The first step in the questionnaire process is to design a questionnaire. In the design phase of the questionnaire process, you must first set up prerequisites, answers, and questions, and then a questionnaire. For more information, see [Using questionnaires](using-questionnaires.md).

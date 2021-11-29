@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing and Upgrading the Human Resources Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, the Human resources framework has been enhanced to provide better flexibility and sustainability across the organization. The data model has also been revised to permit many of the core Human resources tables to be shared and to enable new functionality. Therefore, developers must update every reference made to Human resources data entities to reference the new tables.

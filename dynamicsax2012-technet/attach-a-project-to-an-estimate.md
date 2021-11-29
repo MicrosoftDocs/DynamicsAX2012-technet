@@ -19,6 +19,9 @@ ms.search.region: Global
 # Attach a project to an estimate 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An Estimate project is used as a container to group together various control parameters that are used for the estimation process. By attaching a project to an Estimate project, you can track the project’s WIP and manage revenue recognition.

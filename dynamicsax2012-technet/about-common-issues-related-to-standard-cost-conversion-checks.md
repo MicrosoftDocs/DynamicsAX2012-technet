@@ -15,6 +15,9 @@ ms.search.region: Global
 # About common issues related to standard cost conversion checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Several issues are frequently identified by the **Standard cost conversion checks** report that would prevent converting items to a standard cost inventory model. The report applies to a standard cost conversion record and the items associated with the conversion record. The report displays the issues associated with each item. The issues must be resolved to convert the item. The common issues can be grouped into four categories about items, model groups, standard costs, and other. This topic describes common issues that are identified by the **Standard cost conversion checks** report.

@@ -17,6 +17,9 @@ dev_langs:
 
 # OdometerReading Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The odometer reading on the vehicle being fueled.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

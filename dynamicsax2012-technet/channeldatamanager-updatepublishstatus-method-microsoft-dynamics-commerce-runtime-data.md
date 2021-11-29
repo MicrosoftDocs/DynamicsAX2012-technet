@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdatePublishStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the publishing status of the channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # MandatoryCreditLimit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if a mandatory credit limit is set.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

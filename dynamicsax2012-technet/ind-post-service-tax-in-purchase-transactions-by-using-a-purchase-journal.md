@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Post service tax in purchase transactions by using a Purchase journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 You can create a purchase order to record details about goods, and then calculate service tax for the purchase transaction in a purchase journal. When you post the service tax in a purchase journal, the service tax amount is posted to a ledger account. You can also specify the service codes and service categories for vendors and foreign vendors before you post the journal.

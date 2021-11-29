@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates data access to items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

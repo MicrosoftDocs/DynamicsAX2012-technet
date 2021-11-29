@@ -17,6 +17,9 @@ dev_langs:
 
 # OnAuthorizeRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked to authorize the request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Change the Default Number of Records that Display in the Report Preview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can preview a report design to be sure that the layout and data look the way that you intended. The preview will return 1000 records by default. This makes the processing of large amounts of data for the preview more efficient. If you want to see all the data in the preview of your report, in the **Preview** window, click the **Load data sets fully** link.

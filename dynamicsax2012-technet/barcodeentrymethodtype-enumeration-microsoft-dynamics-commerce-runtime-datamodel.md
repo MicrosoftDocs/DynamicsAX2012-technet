@@ -21,6 +21,9 @@ dev_langs:
 
 # BarcodeEntryMethodType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes, how the barcode was entered. See member list for details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

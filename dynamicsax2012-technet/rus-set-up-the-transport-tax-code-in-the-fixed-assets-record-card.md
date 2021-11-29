@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the transport tax code in the fixed assets record card 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can specify the selection criteria for the transport tax in the **Assets** form.

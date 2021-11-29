@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LocalizedWebDisplayNameAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LocalizedWebDisplayNameAttribute](localizedwebdisplaynameattribute-class-microsoft-dynamics-retail-sharepoint-web-webparts-resources.md) type exposes the following members.
 
 ## Properties

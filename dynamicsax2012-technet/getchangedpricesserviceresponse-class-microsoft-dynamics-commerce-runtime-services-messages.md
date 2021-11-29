@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChangedPricesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the request to retrieve all listings that may have changed price since last call to this request.
 
 Returned listings will have updated prices on them and the RetailListingPrice table is updated in the database.

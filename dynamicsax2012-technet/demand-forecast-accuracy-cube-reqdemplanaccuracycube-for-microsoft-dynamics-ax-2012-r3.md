@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Demand forecast accuracy cube (ReqDemPlanAccuracyCube) for Microsoft Dynamics AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Demand forecast accuracy cube for Microsoft Dynamics AX is used to calculate and store demand forecast versus realized demand accuracy measurements. This article provides details about the cube.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemWarehouse Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item warehouse combination given the item availability.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

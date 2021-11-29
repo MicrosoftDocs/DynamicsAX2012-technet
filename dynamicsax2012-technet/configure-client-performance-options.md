@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure client performance options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Many interface enhancements that have been added in Microsoft Dynamics AX 2012 carry performance overhead. To improve performance, you can reduce the use of FactBoxes and preview panes, or set forms to preload in your environment.

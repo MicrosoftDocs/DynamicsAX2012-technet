@@ -16,6 +16,9 @@ ms.search.region: Global
 # Modify the external item description 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Edit external description** page to modify the external description of an item. The external description consists of text that describes the item and an alternative item number. Multiple external item descriptions can be set up for each item.

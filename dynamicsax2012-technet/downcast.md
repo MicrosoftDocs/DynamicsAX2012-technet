@@ -13,6 +13,9 @@ f1_keywords:
 
 # downcast
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An expression that modifies an object type into the type of a derived class.
 
 ## See also

@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Return working clothes or special rigging to the warehouse 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to return a working clothes item or special rigging item to a warehouse.

@@ -18,6 +18,9 @@ ms.search.region: Sweden
 # (SWE) Generate an Intrastat file for an EU vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Intrastat declaration is the compulsory monthly declaration of movements of goods between European Union (EU) member states. Swedish companies can export Intrastat details for vendor transactions in a specific file format, and then submit the formatted file to Statistiska centralbyrån (SCB) using the Intrastat Data Entry Package (IDEP).

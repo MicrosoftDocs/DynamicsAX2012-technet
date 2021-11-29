@@ -15,6 +15,9 @@ ms.search.region: Global
 # About array variable group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use variable groups of the array type be to present a product model’s modeling variables in a grid, similar to the grids found elsewhere in Microsoft Dynamics AX 2012. Each modeling variable in the group will then be shown as a separate column in the grid.

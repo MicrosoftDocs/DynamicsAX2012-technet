@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowItemCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether to show or hide the shopping cart item count. This is true by default.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

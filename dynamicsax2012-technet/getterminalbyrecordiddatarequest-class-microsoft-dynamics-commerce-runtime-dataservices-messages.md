@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTerminalByRecordIdDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to get terminal entity by record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

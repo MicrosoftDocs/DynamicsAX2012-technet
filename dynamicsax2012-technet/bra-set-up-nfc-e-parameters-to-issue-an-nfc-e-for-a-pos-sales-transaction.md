@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A Nota Fiscal Consumidor eletrônica (NFC-e) is an electronic fiscal document that is generated and printed to register the sale of an item to a consumer. This topic explains how to set up the parameters that are required to issue or cancel an NFC-e. After setting up these parameters, you must run a retail scheduler job to synchronize these changes with the POS to be able to complete NFC-e transactions.

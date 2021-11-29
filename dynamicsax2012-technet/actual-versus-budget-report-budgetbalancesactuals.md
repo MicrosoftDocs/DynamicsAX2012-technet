@@ -15,6 +15,9 @@ f1_keywords:
 # Actual versus budget report (BudgetBalancesActuals) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Actual versus budget** report displays budget balances for the original budget, revised budget, actual expenditures, and variances. The original budget amounts are the sum of expense and revenue budget amounts. The revised budget amounts are the sum of original budget, revisions, transfers, and carry-forward amounts. The actual expenditures are the sum of the debits and credits that were posted for the selected financial dimension values. Variances are the differences between actual and revised budget amounts, expressed as amounts and percentages. The report is grouped by budget model and dimension values.

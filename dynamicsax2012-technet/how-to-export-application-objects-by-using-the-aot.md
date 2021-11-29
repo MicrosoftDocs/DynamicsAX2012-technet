@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Export Application Objects by Using the AOT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, you can select one or more X++ application objects in the Application Object Tree (AOT) to export an .xpo file. The .xpo file can then be used by developers to share or transport application objects from one Microsoft Dynamics AX installation to another. This topic describes how to export application objects, without business data, to an .xpo file.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Maintain excise tax transactions for Accounts payable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about paying excise duty, posting invoice transactions for excisable goods, and creating purchase credit notes for excisable goods.

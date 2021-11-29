@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget plan scenario
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classification of budget plan lines, such as Prior year or Department request, that describes the budget that you are working with or planning for.
 
 ## See also

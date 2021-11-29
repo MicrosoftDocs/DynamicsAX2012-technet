@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductCatalogAssociations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the active catalogs for specified products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

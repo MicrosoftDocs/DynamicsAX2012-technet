@@ -17,6 +17,9 @@ dev_langs:
 
 # ParentKitId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the identifiers of the kit masters that the item belongs to.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

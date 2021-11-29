@@ -13,6 +13,9 @@ f1_keywords:
 
 # supermarket
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A just-in-time inventory location that has finite capacity and is used to batch material near a point of consumption.
 
 ## See also

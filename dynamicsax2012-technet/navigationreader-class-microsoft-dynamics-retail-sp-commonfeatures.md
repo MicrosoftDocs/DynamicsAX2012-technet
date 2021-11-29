@@ -17,6 +17,9 @@ dev_langs:
 
 # NavigationReader Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides set of methods which allow reading navigational menu hierarchy.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

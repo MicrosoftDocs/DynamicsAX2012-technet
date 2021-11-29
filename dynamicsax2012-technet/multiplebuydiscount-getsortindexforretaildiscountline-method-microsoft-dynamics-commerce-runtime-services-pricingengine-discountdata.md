@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSortIndexForRetailDiscountLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [DiscountBase.GetSortIndexForRetailDiscountLine(RetailDiscountLine)](discountbase-getsortindexforretaildiscountline-method-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

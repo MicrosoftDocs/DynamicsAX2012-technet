@@ -17,6 +17,9 @@ dev_langs:
 
 # ITriggersV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers interface version 1.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

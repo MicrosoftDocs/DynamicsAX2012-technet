@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UnitOfMeasureSqlServerDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UnitOfMeasureSqlServerDataRequestHandler](unitofmeasuresqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices.md) type exposes the following members.
 
 ## Methods

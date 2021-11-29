@@ -13,6 +13,9 @@ f1_keywords:
 
 # domain entity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A conceptual structure that represents an independent entity that is capable of separate existence.
 
 ## See also

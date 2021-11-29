@@ -17,6 +17,9 @@ dev_langs:
 
 # UserAuthenticationService Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The user authentication service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

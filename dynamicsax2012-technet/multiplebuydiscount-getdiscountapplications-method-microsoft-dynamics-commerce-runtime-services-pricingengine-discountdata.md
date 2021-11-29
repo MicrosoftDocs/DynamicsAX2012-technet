@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountApplications Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [DiscountBase.GetDiscountApplications(SalesTransaction, DiscountableItemGroup\[\], Decimal\[\], IEnumerable\<Int64\>, String, IPricingDataManagerV2, Boolean, PriceContext)](discountbase-getdiscountapplications-method-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

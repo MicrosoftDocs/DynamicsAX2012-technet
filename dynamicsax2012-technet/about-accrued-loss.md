@@ -19,6 +19,9 @@ ms.search.region: Global
 # About accrued loss 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For fixed-price and investment projects, you can choose to recognize losses during estimation. If you recognize losses, you must specify the category to use for accruing losses in the **Project groups** form.

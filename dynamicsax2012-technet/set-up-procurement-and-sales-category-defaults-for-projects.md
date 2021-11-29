@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up procurement and sales category defaults for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Category hierarchies are used to classify products or transactions for reporting and analysis. Your organization might use a procurement category hierarchy to track purchases and a sales category hierarchy to track sales. If you purchase the products that are used for a project from a specific procurement category, you can assign a default project category to that procurement category. For example, you assign a project category named **Indirect expense** to a procurement category named **Office supplies**. Your project manager creates a purchase order for a project and selects the **Office supplies** procurement category on a PO line. By default, the cost on the line is automatically assigned to the **Indirect expense** project category for the selected project.

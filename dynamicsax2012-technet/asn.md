@@ -14,6 +14,9 @@ f1_keywords:
 
 # ASN
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business document that documents the notification of the shipment of product.
 
 ## See also

@@ -20,6 +20,9 @@ dev_langs:
 
 # BlockedEnum Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The different types of blocking the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

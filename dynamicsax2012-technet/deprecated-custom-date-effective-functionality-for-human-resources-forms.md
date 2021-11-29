@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Custom date-effective functionality for Human resources forms 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, Employee/contractor, Job, Position, and Department (Organization) records are stored as date-effective records.

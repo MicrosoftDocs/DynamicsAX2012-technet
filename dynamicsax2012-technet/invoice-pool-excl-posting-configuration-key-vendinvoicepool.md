@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Invoice pool excl. posting configuration key (VendInvoicePool) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Invoice pool excl. posting** configuration key controls access to vendor invoice pool forms and functions. The invoice pool is used to register vendor invoices as they arrive.

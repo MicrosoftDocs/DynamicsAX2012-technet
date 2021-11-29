@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Reduce the size of the channel database after synchronization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 If your organization has large channel databases, you may want to consider installing KB 3208173, and then configuring your environment to automatically remove unwanted master data from your database after each synchronization. You can customize the data that is removed.
 
 ## Install KB 3208173

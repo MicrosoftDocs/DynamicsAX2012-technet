@@ -15,6 +15,9 @@ ms.search.region: Global
 # About compliance document templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Each document that you create on the **Internal controls** page uses one of the following document templates.

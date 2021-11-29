@@ -15,6 +15,9 @@ dev_langs:
 
 # GenericLookup Method (IList, String, String, String, String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shows a list of class instances.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

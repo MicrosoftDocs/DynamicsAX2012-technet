@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUnitOfMeasureConversionDataResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data response for getting unit of measure conversions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

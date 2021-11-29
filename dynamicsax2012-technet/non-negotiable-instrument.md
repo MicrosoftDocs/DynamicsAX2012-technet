@@ -13,6 +13,9 @@ f1_keywords:
 
 # non-negotiable instrument
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A document of title or written order that cannot be bought, sold, exchanged, or transferred.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedControllerSelector Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The extended controller selector class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

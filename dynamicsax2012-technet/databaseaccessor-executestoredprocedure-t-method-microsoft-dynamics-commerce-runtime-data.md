@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteStoredProcedure(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

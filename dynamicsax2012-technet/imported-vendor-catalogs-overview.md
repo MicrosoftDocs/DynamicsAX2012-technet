@@ -22,6 +22,9 @@ ms.search.region: Global
 # Imported vendor catalogs overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, purchasing professionals can create and maintain catalogs for company employees to use when they order items and services for internal use. When you create a procurement catalog you can add the items and services that you make available to employees, either by importing the vendor catalog data or by adding the vendor catalog data to the product master manually. If you use the catalog import process, the vendor can either upload their product catalog data by using the Vendor portal in Enterprise Portal for Microsoft Dynamics AX, or they can send you the product catalog data and you can upload it by using the Microsoft Dynamics AX client.

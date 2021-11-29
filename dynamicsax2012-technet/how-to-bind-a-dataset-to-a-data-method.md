@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Bind a Dataset to a Data Method 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can access non-Microsoft Dynamics AX data in a data method and use the data in a Microsoft Dynamics AX report. This topic describes how to bind a dataset to a data method when you want to display non-Microsoft Dynamics AX data on a report. For information about how to define a data method, see [How to: Define a Data Method in C\#](how-to-define-a-data-method-in-csharp.md). When the reporting framework recognizes the data method as a data source, you can see the data method in the **Select a Data Method** dialog box. To be recognized, the following conditions must be true:

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create purchase orders from sales order delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a purchase order based on a delivery schedule in a sales order.

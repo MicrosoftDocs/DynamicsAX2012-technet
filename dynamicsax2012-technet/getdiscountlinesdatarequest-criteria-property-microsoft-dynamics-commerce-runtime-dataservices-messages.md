@@ -17,6 +17,9 @@ dev_langs:
 
 # Criteria Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets query criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

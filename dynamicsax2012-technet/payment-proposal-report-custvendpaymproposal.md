@@ -14,6 +14,9 @@ f1_keywords:
 # Payment proposal report (CustVendPaymProposal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment proposal** report displays payment methods, payment amounts, discounts given, and account information for open customer invoices or open vendor invoices.

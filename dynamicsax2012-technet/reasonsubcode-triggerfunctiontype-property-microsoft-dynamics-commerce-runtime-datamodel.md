@@ -17,6 +17,9 @@ dev_langs:
 
 # TriggerFunctionType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the type of the trigger function.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # View vendor reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Maintaining your relationship with your customer depends on your ability to deliver goods and services in a timely manner, while maintaining high customer satisfaction ratings. The Supply performance report lets you view your performance against specific key performance indicators that your customer uses to evaluate vendor performance. The supply performance report provides details about the number of purchase orders delivered on time, the average delay, the number of backorders, and the average lead time.

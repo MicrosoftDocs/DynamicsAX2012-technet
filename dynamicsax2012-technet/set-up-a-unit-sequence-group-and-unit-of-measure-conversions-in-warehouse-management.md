@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up a unit sequence group and unit of measure conversions in Warehouse management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

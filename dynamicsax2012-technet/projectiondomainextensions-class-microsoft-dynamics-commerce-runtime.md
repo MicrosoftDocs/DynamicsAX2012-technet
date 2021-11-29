@@ -17,6 +17,9 @@ dev_langs:
 
 # ProjectionDomainExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionality used to extend the [ProjectionDomain](projectiondomain-class-microsoft-dynamics-commerce-runtime-datamodel.md) implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

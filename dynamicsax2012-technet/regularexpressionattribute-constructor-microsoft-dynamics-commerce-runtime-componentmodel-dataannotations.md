@@ -17,6 +17,9 @@ dev_langs:
 
 # RegularExpressionAttribute Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [RegularExpressionAttribute](regularexpressionattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

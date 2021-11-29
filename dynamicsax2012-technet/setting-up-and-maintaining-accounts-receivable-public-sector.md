@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Setting up and maintaining Accounts receivable (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about setting up and maintaining Accounts receivable for public sector organizations. These topics complement information that can be found under the main section for [Setting up and maintaining Accounts receivable](setting-up-and-maintaining-accounts-receivable.md).

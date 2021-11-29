@@ -19,6 +19,9 @@ ms.search.region: Global
 # Approve the configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you set up information in the **Product Builder configuration** form, click **OK**. The choices that you made are displayed in the **Product Builder approval** form, where you can approve your configuration. The **Product Builder approval** form can also be set to display any modeling variables that have been set to hidden in the **Product Builder configuration** form.

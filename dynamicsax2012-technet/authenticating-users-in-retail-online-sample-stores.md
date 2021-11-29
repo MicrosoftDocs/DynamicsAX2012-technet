@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Authenticating users in Retail online sample stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX 2012 for Retail online sample stores authenticate customers and site administrators by using the two authentication types supported by Microsoft SharePoint Server 2013:

@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up Microsoft Dynamics AX to process returns during a different shift 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up Microsoft Dynamics AX to process return transactions for items that are returned during a shift that is different from the shift in which the items are sold at the point of sale (POS).

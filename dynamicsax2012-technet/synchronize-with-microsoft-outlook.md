@@ -16,6 +16,9 @@ ms.search.region: Global
 # Synchronize with Microsoft Outlook 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can synchronize your contacts, activities, and private and public tasks and appointments between Microsoft Dynamics AX and Microsoft Outlook.

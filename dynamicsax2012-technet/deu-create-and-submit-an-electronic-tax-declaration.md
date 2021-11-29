@@ -14,6 +14,9 @@ ms.search.region: Germany
 # (DEU) Create and submit an electronic tax declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax payment** form to create an electronic tax declaration using the information that is set up in the **Electronic tax declaration setup** and **Electronic tax declaration parameters** forms.

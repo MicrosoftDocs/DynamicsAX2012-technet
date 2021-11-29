@@ -15,6 +15,9 @@ ms.search.region: Global
 # About tiered charges on sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can define charges that are applied automatically to a sales order based on the order total. By defining the **From amount** and **To amount** in the **Auto charges** form, you can set up tiers that determine the charge to be applied to the order header. The charge is calculated and applied when you click **Tiered charges** in the **Sales order** form. Any existing tiered charges that no longer apply are removed from the order header and replaced with tiered charges. Charges that have not been applied based on tiers, such as charges for specific items or modes of delivery, are not removed from the order header. It is possible to define and apply tiered charges only at the header level.

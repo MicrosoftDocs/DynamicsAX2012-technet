@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountCodes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collcetion of discount codes on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

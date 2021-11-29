@@ -17,6 +17,9 @@ dev_langs:
 
 # Symbology Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets symbology, which is an enumerated constant that indicates the type of barcode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

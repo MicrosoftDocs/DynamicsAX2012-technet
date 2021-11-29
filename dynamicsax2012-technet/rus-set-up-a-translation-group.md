@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a translation group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create translation group rules for several companies to determine the imbalance and translation differences of ledger account transactions. Imbalance can occur when there is a difference in the transaction total that is caused by ledger account rule mismatches. You must post this amount difference that occurred because of an imbalanced ledger account to balance the voucher.

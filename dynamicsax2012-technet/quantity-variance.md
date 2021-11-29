@@ -14,6 +14,9 @@ f1_keywords:
 
 # quantity variance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - The difference between an ordered product quantity and a delivered product quantity when no more deliveries are expected.
 
   - The difference between an ordered product quantity and a received product quantity when no more receipts are expected.

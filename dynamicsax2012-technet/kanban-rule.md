@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule in a lean manufacturing system that realizes material planning and replenishment policies by controlling how process and transfer activities are coordinated in production flows.
 
 ## See also

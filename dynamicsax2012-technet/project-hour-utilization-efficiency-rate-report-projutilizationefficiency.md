@@ -14,6 +14,9 @@ f1_keywords:
 # Project hour utilization - efficiency rate report (ProjUtilizationEfficiency) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze efficiency based on project hour utilization for a specified date range. You can view actual values or view budgeted values by forecast model.

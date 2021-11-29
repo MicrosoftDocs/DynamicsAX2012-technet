@@ -13,6 +13,9 @@ f1_keywords:
 
 # bill of materials item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product defined by a bill of materials.
 
 ## See also

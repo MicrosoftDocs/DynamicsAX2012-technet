@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The POS IDatabaseV1 settings interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Settings](microsoft-dynamics-retail-pos-contracts-settings-namespace.md)  

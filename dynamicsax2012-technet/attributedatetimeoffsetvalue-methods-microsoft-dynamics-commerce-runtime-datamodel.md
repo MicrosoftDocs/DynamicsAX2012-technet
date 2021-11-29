@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AttributeDateTimeOffsetValue Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AttributeDateTimeOffsetValue](attributedatetimeoffsetvalue-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

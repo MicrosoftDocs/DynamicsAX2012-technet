@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up bar code mask characters (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up characters for bar code masks. These alphabetical characters are replaced with numbers when Retail essentials uses a bar code mask to generate a bar code. A single mask character can add several characters to a bar code; for example, a mask character can represent an item number that contains multiple characters.

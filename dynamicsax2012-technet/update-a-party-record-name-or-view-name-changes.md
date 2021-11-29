@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update a party record name or view name changes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can update the name of a party record and view the history of any changes to a name.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country-specific features for Spain (ESP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Spain.

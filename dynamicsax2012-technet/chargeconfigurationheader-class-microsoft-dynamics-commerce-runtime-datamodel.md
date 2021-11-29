@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeConfigurationHeader Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class is used as a filter API for specifying which auto charge configurations will be retrieved from the DB. Auto-charge headers have account, item, and delivery mode settings on them. Any type here which is not set to 'None' will be used as a filter for retrieving any charge configurations which meet that criteria.
 
 For example: Setting AccountType=All, ItemType=Item, ItemRelation="1000", will retrieve all auto-charges for any customer on item 1000.

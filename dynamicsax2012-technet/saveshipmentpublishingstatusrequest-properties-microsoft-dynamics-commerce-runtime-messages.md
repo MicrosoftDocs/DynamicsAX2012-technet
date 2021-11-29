@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveShipmentPublishingStatusRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveShipmentPublishingStatusRequest](saveshipmentpublishingstatusrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

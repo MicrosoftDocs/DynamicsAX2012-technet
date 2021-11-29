@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the cash book and cashier report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you receive or disburse a cash voucher for reimbursement or disbursement of cash receipts, the cash documents are registered in the cash book.

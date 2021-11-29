@@ -14,6 +14,9 @@ f1_keywords:
 # Price/discount configuration key (PriceDisc) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Price/discount** configuration key controls access to price and discount agreements. If this configuration key is enabled, the Price/discount folder under **Inventory management**, **Procurement and sourcing**, and **Sales and marketing** \> **Setup**, and the fields and buttons related to the feature in other forms are made available. Additionally, discounts can be specified on sales and purchase orders.

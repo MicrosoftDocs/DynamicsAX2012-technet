@@ -18,6 +18,9 @@ ms.search.region: Iceland
 # (ISL) Create a vendor account and attach the invoice declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create a vendor account with an invoice declaration for each of your vendors.

@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Calculate interest and fines on customer payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can apply interest and fines on customer payments that are delayed. The interest and fine amounts that apply to a payment can be calculated when you receive a payment from a customer. Before you calculate interest or fine codes for customer payments, you must set up a list of bank holidays and national holidays. A holiday date that is set up in the **Payment calendar** form is considered a non-working day. If an invoice is due on a non-working day, the due date moves to the next working day in the calendar, and the interest and fines are calculated accordingly. For more information, see the “Set up a payment calendar and payment calendar rules” section in [(BRA) Set up interest and fines for customer payments](bra-set-up-interest-and-fines-for-customer-payments.md). The interest and fine amounts can be calculated in two ways:

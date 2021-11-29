@@ -23,6 +23,9 @@ ms.search.region: Denmark, France
 # Encumber a general budget reservation (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 If you are in the public sector, you can enable the encumbrance process for general budget reservations. This involves configuring the settings for budget control and commitment accounting. When you enable encumbrance processing, the pre-encumbrance and encumbrance processes for both the purchase requisition and purchase order are also enabled, which ensures that the correct relieving entries are created for the general budget reservation.
 
 

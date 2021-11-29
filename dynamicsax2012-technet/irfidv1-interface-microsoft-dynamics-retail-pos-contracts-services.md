@@ -17,6 +17,9 @@ dev_langs:
 
 # IRFIDV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRFIDV1 interface is the version 1.0 for RFID scanner device interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

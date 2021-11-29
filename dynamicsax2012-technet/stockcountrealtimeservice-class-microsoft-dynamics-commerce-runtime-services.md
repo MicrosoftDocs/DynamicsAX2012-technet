@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountRealtimeService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stock count real time service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

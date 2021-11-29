@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculationExpression Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the calculation expression of the tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

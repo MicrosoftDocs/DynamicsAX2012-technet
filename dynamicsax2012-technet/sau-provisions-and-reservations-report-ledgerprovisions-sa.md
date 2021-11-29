@@ -18,6 +18,9 @@ f1_keywords:
 # (SAU) Provisions and reservations report (LedgerProvisions\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Provisions and reservations** report displays a summary of all provisions and reservations. This report includes information such as the opening balance, other additions, other deductions, and closing balance for a ledger account.

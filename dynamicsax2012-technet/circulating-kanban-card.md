@@ -13,6 +13,9 @@ f1_keywords:
 
 # circulating kanban card
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A reusable card that signals process and transfer activities as it circulates between the material’s point of origin and point of consumption.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CalculateLoyaltyRewardPointsServiceResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CalculateLoyaltyRewardPointsServiceResponse](calculateloyaltyrewardpointsserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

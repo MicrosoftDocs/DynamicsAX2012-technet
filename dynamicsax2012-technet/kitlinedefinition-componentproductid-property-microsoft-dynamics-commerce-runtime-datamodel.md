@@ -17,6 +17,9 @@ dev_langs:
 
 # ComponentProductId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the product Id that is used as a default component in the current kit component definition.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

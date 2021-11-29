@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade reason codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reason codes are used to explain why transactions were entered, such as why a request for quotation (RFQ) was rejected. In previous releases of Microsoft Dynamics AX, you could create an RFQ reason code of up to 20 characters. In Microsoft Dynamics AX 2012, reason codes have a limit of 10 characters.

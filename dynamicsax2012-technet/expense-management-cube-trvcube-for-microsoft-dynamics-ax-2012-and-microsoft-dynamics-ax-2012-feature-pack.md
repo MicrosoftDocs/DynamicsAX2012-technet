@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Expense management cube (TrvCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Expense management cube to report on expense reports and policy violations.

@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountJournalsController Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [StockCountJournalsController](stockcountjournalscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

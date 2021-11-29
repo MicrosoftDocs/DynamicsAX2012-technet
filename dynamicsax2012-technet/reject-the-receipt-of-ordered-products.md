@@ -17,6 +17,9 @@ ms.search.region: Global
 # Reject the receipt of ordered products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On Enterprise Portal for Microsoft Dynamics AX, you can reject the receipt of ordered products. You do so on the **Unconfirmed product receipts** page. An example of why you would reject a receipt could be that the product is broken on receipt.

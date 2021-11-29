@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceEntity Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the base object for all Commerce entities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

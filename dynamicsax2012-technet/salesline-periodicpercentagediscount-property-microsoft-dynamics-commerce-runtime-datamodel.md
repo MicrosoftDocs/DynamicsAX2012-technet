@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicPercentageDiscount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the percentage discount given in this line excluding the total and line discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

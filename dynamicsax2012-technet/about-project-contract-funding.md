@@ -20,6 +20,9 @@ ms.search.region: Global
 # About project contract funding 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some project contracts might specify that more than one party will share funding responsibilities for the project costs. For example, a large customer might request split funding of a project by its multiple divisions, or your company can share the costs of a large project with an external organization. For example, a road might be co-funded by two municipalities, or a bridge might be funded by a government grant and a private corporation. Microsoft Dynamics AX makes it possible for you to split the billing for a single transaction or an entire project among multiple customers, grants, or organizations.

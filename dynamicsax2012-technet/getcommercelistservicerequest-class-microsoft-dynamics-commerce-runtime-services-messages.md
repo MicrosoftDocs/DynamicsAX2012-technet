@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCommerceListServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetCommerceListServiceRequest is the request class to get commerce lists over transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

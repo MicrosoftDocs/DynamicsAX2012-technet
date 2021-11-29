@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidPriceEncountered Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the price can not be found for a particular item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a purchase order by specifying the operation type, presence type of the fiscal operation, and Código Fiscal de Operações e Prestações (CFOP) code. The presence type of a fiscal operation in a purchase order is used to record fiscal information for receipts, packing slips, and invoices during posting.

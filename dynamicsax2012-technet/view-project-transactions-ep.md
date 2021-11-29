@@ -31,6 +31,9 @@ ms.search.region: Global
 # View project transactions (EP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Enterprise Portal for Microsoft Dynamics AX to view transactions that have been posted for projects. Project transactions are organized by type. You can view hour, item, expense, and fee/fee-subscription transactions. You can also view on-account transactions for projects.

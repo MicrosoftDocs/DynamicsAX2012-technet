@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Models, Layers, and the Model Store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Models were introduced in Microsoft Dynamics AX 2012 to help partners and customers more easily install and maintain multiple solutions side by side in the same layer. This topic introduces the concept of models, and describes how models relate to layers and label files. This topic also describes the model store, which is a database in which all application elements for Microsoft Dynamics AX are stored.

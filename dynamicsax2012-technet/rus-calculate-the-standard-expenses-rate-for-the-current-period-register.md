@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the standard expenses rate for the current period register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

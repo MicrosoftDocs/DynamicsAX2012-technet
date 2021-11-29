@@ -17,6 +17,9 @@ dev_langs:
 
 # IEnumerableExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionaltiy used to extend the [IEnumerable\<T\>](https://technet.microsoft.com/library/9eekhta0\(v=ax.60\)) implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

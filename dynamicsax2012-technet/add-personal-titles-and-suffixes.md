@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Add personal titles and suffixes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add personal titles and suffixes by using the **Name title and suffix** form. When you create or change a party record for a person, these titles and suffixes are available to select. By using personal titles and suffixes, you can ensure that you are referring to a party correctly.

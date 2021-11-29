@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultWebApiConfig Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The default Web API config.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

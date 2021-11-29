@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) About purchase posting enhancements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following enhancements have been made for purchase posting:

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReportConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents configuration of a report.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

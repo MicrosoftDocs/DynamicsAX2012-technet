@@ -26,6 +26,9 @@ dev_langs:
 
 # SalesStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Aggregated AX Sales Order status values
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

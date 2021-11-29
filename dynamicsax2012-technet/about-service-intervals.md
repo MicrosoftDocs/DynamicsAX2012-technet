@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service intervals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The service-agreement interval indicates the frequency with which service-order lines are created for service-agreement lines when you create service orders automatically.

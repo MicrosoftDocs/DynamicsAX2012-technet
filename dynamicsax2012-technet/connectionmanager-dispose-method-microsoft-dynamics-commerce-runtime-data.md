@@ -17,6 +17,9 @@ dev_langs:
 
 # Dispose Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

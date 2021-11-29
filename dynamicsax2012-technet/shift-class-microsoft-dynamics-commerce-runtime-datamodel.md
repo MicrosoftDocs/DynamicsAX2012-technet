@@ -17,6 +17,9 @@ dev_langs:
 
 # Shift Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class represents a Shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

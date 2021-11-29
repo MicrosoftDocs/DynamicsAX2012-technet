@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NumberSequenceSqliteDatabaseAccessor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NumberSequenceSqliteDatabaseAccessor](numbersequencesqlitedatabaseaccessor-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Properties

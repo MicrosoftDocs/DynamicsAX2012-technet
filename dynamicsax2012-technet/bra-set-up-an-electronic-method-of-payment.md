@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Set up an electronic method of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up electronic methods of payment that are used to make vendor payments or receive customer payments.

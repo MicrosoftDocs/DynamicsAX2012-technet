@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The store number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

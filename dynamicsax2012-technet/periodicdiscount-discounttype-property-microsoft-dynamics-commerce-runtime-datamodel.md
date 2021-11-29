@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the discount type if this is a quantity discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

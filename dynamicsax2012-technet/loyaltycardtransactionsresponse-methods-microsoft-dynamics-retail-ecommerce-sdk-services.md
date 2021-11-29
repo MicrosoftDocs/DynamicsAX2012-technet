@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyCardTransactionsResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyCardTransactionsResponse](loyaltycardtransactionsresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

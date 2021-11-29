@@ -13,6 +13,9 @@ f1_keywords:
 
 # balance sheet account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An account that describes the changes in value reported on a balance sheet.
 
 ## See also

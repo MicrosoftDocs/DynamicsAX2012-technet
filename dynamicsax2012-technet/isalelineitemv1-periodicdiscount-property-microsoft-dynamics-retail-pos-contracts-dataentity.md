@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Total periodic discount given in this line (tax excluded)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

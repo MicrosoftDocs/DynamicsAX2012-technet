@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Vendor posted payment journal report (VendPostPaymJournal\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor posted payment journal** report is used to view the details of posted vendor accounts and vendor payments for individual vendors. This report displays the payment amount, original transaction amount, discount amount, and write-off amount, along with the original transaction amount currency and the payment amount currency. This report also displays the type of journal that is posted, the vendor account, the payment reference, and whether there are any canceled journal vouchers. The report is typically used by chief financial officers, accountants, accounting managers, accounting supervisors, financial controllers, and accounts payable clerks.

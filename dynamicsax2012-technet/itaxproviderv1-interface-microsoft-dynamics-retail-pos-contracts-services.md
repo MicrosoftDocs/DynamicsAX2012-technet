@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaxProviderV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITaxProviderV1 interface is the version 1.0 tax provider interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

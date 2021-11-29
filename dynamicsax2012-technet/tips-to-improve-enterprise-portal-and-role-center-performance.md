@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Tips to improve Enterprise Portal and Role Center performance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 There are several factors that can cause poor performance for Enterprise Portal and Role Center pages. Some of these factors include memory leaks in custom code, insufficient memory on the server, and network latency. Enterprise Portal performance is also directly affected by the performance of Internet Information Services (IIS) and SharePoint. Before you attempt to configure features or settings that might improve Enterprise Portal performance, we recommend that you read about how to improve IIS and SharePoint performance on Microsoft TechNet. We also recommend that you use performance-monitoring tools to eliminate hardware or other components as the source of the problem. For more information, see [Tools for monitoring performance](tools-for-monitoring-performance.md) and [Set up Performance Monitor counters](set-up-performance-monitor-counters.md). If you are confident that your code and hardware are not causing the problems, then you might improve Enterprise Portal and Role Center performance by using the features and configuration settings described in this topic. This topic includes the following sections.

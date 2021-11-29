@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyGroupRecordId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the record identifier of the loyalty group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

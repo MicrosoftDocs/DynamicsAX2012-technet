@@ -16,6 +16,9 @@ ms.search.region: Global
 # View customer records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the **Customers** page, you can view a list of the customers that your organization does business with, and then view detailed information about a selected customer record.

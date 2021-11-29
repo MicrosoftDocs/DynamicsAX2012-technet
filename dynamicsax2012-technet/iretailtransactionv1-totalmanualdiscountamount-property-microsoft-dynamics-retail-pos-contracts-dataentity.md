@@ -17,6 +17,9 @@ dev_langs:
 
 # TotalManualDiscountAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total amount discount given manually for the total discount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

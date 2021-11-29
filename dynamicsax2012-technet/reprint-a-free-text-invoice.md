@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reprint a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to print a free text invoice or sales invoice that has already been posted.

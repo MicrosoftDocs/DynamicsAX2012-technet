@@ -14,6 +14,9 @@ f1_keywords:
 # Print management configuration key (TradePrintManagement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print management** configuration key is obsolete and exists only for backward compatibility. To learn more about print management functionality in Microsoft Dynamics AX, see the following topics:

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Reset shelf life dates for an inventory batch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to reset the shelf life date for an inventory batch. The shelf life defines the effective period of a product as measured in days, months, or years. Reports and picking strategies for products are determined based on the shelf life of a particular lot by using FIFO (First In, First Out) rules.

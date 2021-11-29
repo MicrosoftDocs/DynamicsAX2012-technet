@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up parameters for SPED EFD - Contributions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to specify parameters for SPED EFD - Contributions text files by using the **EFD – Contributions parameters** form.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Exit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes an exit operation on the cash changer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

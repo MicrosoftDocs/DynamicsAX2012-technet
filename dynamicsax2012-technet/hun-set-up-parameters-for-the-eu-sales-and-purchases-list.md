@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up parameters for the EU sales and purchases list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up parameters in Microsoft Dynamics AX that enable you to generate an EU sales list that reports sales that have been made to VAT-registered entities in other European Union (EU) member states. In some cases, you can generate an EU sales list that reports purchases made from these entities.

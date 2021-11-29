@@ -19,6 +19,9 @@ ms.search.region: Global
 # About subscriptions and accrued revenue 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A subscription is an agreement between your organization and a customer. This agreement requires the customer to prepay for periodic or regular services. A subscription can be used for **Fee - subscription** transactions that are created for a Time and material project. These transactions are then applied to the **Accrued revenue - subscription** account. The transactions can also be viewed in a profit and loss statement.

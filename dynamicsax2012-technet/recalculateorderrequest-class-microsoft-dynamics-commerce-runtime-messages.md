@@ -17,6 +17,9 @@ dev_langs:
 
 # RecalculateOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a recalculate order workflow request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

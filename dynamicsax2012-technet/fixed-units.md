@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Fixed units 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 System units define the units for length, mass, and volume that appear as suggested units of measure in Microsoft Dynamics AX.

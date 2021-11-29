@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardBalanceChangedSincePostedError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the error message that the gift does not have the required balance since the checkout page was last acceessed.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

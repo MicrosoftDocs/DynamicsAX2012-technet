@@ -17,6 +17,9 @@ dev_langs:
 
 # Add Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified tax line item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

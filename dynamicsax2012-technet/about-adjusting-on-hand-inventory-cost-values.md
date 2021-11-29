@@ -15,6 +15,9 @@ ms.search.region: Global
 # About adjusting on-hand inventory cost values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Adjustment of on-hand inventory** form to adjust the cost value of the on-hand inventory quantities after an inventory close process is run.

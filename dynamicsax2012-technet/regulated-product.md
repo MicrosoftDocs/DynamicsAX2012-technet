@@ -13,6 +13,9 @@ f1_keywords:
 
 # regulated product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A product that is regulated by a government authority that requires compliance and audit reporting.
 
 ## See also

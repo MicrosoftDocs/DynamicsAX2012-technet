@@ -13,6 +13,9 @@ f1_keywords:
 
 # monetary amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A class of measurement that represents a characteristic of the financial consequence of an economic, resource flow, or accounting event.
 
 ## See also

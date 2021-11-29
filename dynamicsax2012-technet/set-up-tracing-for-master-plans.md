@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up tracing for master plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use event trace data to view details about the outcome of a master planning run. However, you must first set up a Data Collector Set in Windows Performance Monitor to collect event trace data. Then, when you run master planning and want to analyze the run, you can view information about the run in an .etl log file in Event Viewer in Windows. You can also view information about planned orders.

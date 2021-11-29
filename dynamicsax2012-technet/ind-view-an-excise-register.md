@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View an excise register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Several types of inquiries are available for excise registers. Select the parameters, such as the Excise Control Code (ECC) number, excise settlement period, date range, and excise register, in the **Excise register inquiry** form. When you click **OK** in the **Excise register inquiry** form, a **Transactions** form displays excise information. The name of the **Transactions** form depends on the excise register that you select in the **Register** field in the **Excise register inquiry** form.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A chronological record that describes the changes in value classified as assets, liabilities, expenses, and revenue.
 
 ## See also

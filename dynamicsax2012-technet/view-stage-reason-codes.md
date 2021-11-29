@@ -14,6 +14,9 @@ ms.search.region: Global
 # View stage reason codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 View and modify the list of stage reasons for a service order. Use stage reasons to indicate the reason for the status of a service order. For example, you can create a **Canceled** stage that is assigned a reason code of **Canceled by the customer**.

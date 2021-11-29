@@ -13,6 +13,9 @@ f1_keywords:
 
 # zero-rated
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Denotes products for which the buyer pays no value-added tax (VAT) and for which the seller can recover the cost of the input tax levied on the sale.
 
 ## See also

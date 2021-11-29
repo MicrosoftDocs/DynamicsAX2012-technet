@@ -15,6 +15,9 @@ ms.search.region: Global
 # Accessibility features of Help 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX Help includes features that make it accessible to a variety of users, which includes those who have limited dexterity, low vision, or other disabilities.

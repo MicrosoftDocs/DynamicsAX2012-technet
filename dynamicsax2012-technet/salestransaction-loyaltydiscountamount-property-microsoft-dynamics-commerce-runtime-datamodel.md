@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyDiscountAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the loyalty discount given in this transaction excluding the line and total discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

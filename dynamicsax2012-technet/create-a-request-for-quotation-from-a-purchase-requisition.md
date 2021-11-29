@@ -35,6 +35,9 @@ ms.search.region: Global
 # Create a request for quotation from a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create an RFQ from a purchase requisition only when the status of the purchase requisition is **Pending approval**, because the lines in the purchase requisition are updated automatically as you accept lines from RFQ replies (bids) from vendors.

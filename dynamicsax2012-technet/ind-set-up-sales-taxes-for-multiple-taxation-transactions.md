@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Set up sales taxes for multiple taxation transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To post a purchase transaction or sales transaction that has multiple taxes, you must activate the tax features of the tax types, such as excise and customs, in the **General ledger parameters** form. Then, you can set up a combination of sales taxes to use for a transaction that has multiple taxes.

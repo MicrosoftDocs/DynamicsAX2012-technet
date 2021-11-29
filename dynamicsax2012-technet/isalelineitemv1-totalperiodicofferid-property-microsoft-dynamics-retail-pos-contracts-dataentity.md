@@ -17,6 +17,9 @@ dev_langs:
 
 # TotalPeriodicOfferId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the 'overall' periodic offer Id. That is, if there is one periodic offer, return its Id.
 
 Otherwise, return text representing total/aggregate offers.

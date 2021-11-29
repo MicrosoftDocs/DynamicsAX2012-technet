@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NonBindableActionController Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NonBindableActionController](nonbindableactioncontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Fields

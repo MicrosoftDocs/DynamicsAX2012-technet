@@ -13,6 +13,9 @@ f1_keywords:
 
 # Goods and Services Tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A value-added tax levied in some countries/regions.
 
 ## See also

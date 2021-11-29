@@ -15,6 +15,9 @@ dev_langs:
 
 # RoundForDisplay Method (Decimal, Boolean, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rounding for display: If no decimal places then sales rounding is used otherwise the amount rounding is used.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

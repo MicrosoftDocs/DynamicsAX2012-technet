@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlControlExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides extension methods seamlessly added to all HtmlControls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

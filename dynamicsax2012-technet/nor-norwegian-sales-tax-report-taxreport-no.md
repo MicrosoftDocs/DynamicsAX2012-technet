@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Norwegian sales tax report (TaxReport\_NO) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Norwegian sales tax report** displays the details of sales tax payments along with the sales tax transaction amounts. This report is used to review the status of the sales tax process. This report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, accounts receivable clerks, accounts receivable managers, and accountants.

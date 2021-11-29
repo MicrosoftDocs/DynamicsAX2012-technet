@@ -17,6 +17,9 @@ dev_langs:
 
 # XmlData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the XML data used in the XSLT transform of the message.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

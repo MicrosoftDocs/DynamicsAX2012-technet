@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTrackingInfo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether tracking information should be retrieved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

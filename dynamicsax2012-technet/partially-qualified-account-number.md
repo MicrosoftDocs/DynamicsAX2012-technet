@@ -13,6 +13,9 @@ f1_keywords:
 
 # partially qualified account number
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A ledger account number in which all segments of an account structure are not entered.
 
 ## See also

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Scenario: Use budget control on a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This scenario explains how to use budget control when you create a purchase order. In this scenario, the Department and Cost center dimensions were defined for budget control and purchase orders were enabled for budget control. The budget control configuration has been activated and turned on. For more information, see [Set up budget control](set-up-budget-control.md).

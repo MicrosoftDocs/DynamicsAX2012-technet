@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLocalLoggingService Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets an instance of the logging service with the specified name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Enterprise Portal Help 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Help is available by clicking the **Help** icon in the upper-right corner of any page. The Help that is displayed depends on whether you open Help from an Enterprise Portal for Microsoft Dynamics AX page or a Microsoft SharePoint page.

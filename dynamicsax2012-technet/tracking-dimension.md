@@ -13,6 +13,9 @@ f1_keywords:
 
 # tracking dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The batch number and serial number attributes that are used to track an item.
 
 ## See also

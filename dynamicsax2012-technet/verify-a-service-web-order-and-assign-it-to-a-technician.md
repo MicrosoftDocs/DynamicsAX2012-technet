@@ -14,6 +14,9 @@ ms.search.region: Global
 # Verify a service Web order and assign it to a technician 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When customers or service technicians submit a service order through Enterprise Portal for Microsoft Dynamics AX, it is a good idea to review each order in the **Web service orders** form before you dispatch the orders. You can verify that the service orders are valid and determine which team or employee should handle each particular service order.

@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Create a document type code to export or import payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Document type** form to create a code for a document type that you can use to export or import payments. The document type is used to identify the payment files when you export or import payments. Document type codes are used to identify incoming and outgoing payments. These payments are posted to bank accounts for the selected payment document types. A unique two-digit code is assigned to every type of document. For example, 01 can be used for payment orders, and 09 can be used for memorial slips.

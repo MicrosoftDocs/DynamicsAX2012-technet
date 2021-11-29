@@ -18,6 +18,9 @@ dev_langs:
 
 # IntraStatCode Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The infra-state code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

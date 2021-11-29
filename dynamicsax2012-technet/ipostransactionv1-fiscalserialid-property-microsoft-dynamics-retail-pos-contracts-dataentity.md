@@ -17,6 +17,9 @@ dev_langs:
 
 # FiscalSerialId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the fiscal serial ID. Available for add-in use; limited to 80 characters
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # InteractionRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Method called to process an interation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

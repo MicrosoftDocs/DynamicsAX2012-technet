@@ -18,6 +18,9 @@ dev_langs:
 
 # AddToCart Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [AddToCart](addtocart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

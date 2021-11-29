@@ -14,6 +14,9 @@ ms.search.region: Denmark, France
 # Working with basic budgeting and budget control (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about working with basic budgeting and budget control for public sector organizations. These topics complement the information that can be found under the main help section for [Working with basic budgeting and budget control](working-with-basic-budgeting-and-budget-control.md).

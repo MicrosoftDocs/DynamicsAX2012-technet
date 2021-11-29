@@ -21,6 +21,9 @@ ms.search.region: Global
 # View project details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **View project** page to view information about the projects that are created for your legal entity. Projects involve various stages that make up a particular project cycle. A project can be assigned any project stage that has been defined in the Microsoft Dynamics AX client.

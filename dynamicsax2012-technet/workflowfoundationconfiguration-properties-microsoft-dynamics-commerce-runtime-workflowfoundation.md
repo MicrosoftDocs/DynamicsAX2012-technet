@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WorkflowFoundationConfiguration Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WorkflowFoundationConfiguration](workflowfoundationconfiguration-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Properties

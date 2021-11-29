@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Data Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Visual Studio tools for Microsoft Dynamics AX allow you to create reports using data from several different sources. This topic provides a description of the key concepts involved when specifying data for your reports. 

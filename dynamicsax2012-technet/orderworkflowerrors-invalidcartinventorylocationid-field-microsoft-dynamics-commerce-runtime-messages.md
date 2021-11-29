@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCartInventoryLocationId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cart inventory location identifier is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create sales or sales quotation delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sometimes, you want to split up an order line, and deliver products to a customer over several months. For example, you might split an order of 1,000 pieces of material so that 250 pieces are delivered each month for four months. You can keep track of multiple deliveries in one schedule that is associated with a sales order or sales quotation.

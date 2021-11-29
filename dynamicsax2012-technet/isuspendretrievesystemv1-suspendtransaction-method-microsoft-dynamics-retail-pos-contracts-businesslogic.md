@@ -17,6 +17,9 @@ dev_langs:
 
 # SuspendTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Suspendes a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

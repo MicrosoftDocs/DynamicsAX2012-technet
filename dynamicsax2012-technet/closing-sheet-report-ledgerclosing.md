@@ -14,6 +14,9 @@ f1_keywords:
 # Closing sheet report (LedgerClosing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This report displays the closing sheet, the fiscal period range, the ledger account, and the trial balance amount. It also displays the transferred balance from ledger accounts, the difference between the trial balance amounts, including the transfer amount and the contribution of the account, as well as the amounts that the account contributes to the operating results, to the balance, and to equity. This report also provides the details of balances that are transferred from selected ledger accounts to the closing sheet during the fiscal year-end close process.

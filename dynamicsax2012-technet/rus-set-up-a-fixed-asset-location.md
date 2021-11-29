@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a fixed asset location 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **FA location** form to set up a fixed asset location and specify the company division that the asset belongs to.

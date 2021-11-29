@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create bar code setups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create setups for bar codes. A bar code setup is a kind of template composed of a bar code mask and information about the font and the number of characters in the bar code. After you create setups, you use them to create bar codes.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadPriceAdjustments Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fetch all price adjustments for the given items, striped by item Id and dimension Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

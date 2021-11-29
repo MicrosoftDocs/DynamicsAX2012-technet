@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage quick links (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Quick links Web parts display links that are relevant to users in your role. The links provide access to pages, reports, and other Web sites that you frequently use. You can add quick links Web parts, select which links are displayed, and add, modify, or delete links.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Records for your various types of workers are important to your human resources and payroll systems. The information that you enter can be used to track workers and personal information, to write letters, and to print reports. It is important to keep up-to-date information to reflect the current activities of your workers and of your companies, legal entities, and organizations.There are two worker types: **Employee** and **Contractor**.

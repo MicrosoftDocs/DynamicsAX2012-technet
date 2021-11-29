@@ -17,6 +17,9 @@ dev_langs:
 
 # DeliveryOptions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of delivery options that have been computed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

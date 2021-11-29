@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsInCartRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the products used in context of the shopping cart specified by cart id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

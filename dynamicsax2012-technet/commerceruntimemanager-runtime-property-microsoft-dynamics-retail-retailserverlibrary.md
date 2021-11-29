@@ -17,6 +17,9 @@ dev_langs:
 
 # Runtime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

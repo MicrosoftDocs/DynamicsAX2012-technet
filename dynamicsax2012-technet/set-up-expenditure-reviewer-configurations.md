@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up expenditure reviewer configurations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up expenditure reviewer configurations to dynamically route expenditures for review based on the user who is assigned to a project role or a financial dimension where the expenditure is being charged. The workflow process uses the specified project role or financial dimension owner to determine whom to route the expenditure to.

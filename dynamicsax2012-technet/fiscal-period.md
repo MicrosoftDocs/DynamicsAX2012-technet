@@ -13,6 +13,9 @@ f1_keywords:
 
 # fiscal period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A time period division of a fiscal year.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # Accessibility for people with disabilities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft is committed to making its products and services easier for everyone to use. This section provides information about the features, products, and services that make Microsoft Dynamics AX more accessible for people with disabilities.

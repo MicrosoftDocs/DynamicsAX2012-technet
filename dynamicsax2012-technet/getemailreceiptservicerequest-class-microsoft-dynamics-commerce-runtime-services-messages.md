@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmailReceiptServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service request to get the formatted receipts that will be used for print and email scenarios.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

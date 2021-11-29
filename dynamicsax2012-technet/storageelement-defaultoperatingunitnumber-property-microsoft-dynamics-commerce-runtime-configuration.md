@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultOperatingUnitNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default operating unit for the [StorageResolver](storageresolver-class-microsoft-dynamics-commerce-runtime-data.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

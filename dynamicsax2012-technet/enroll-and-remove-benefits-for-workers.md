@@ -18,6 +18,9 @@ ms.search.region: Global
 # Enroll and remove benefits for workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can enroll and remove workers from benefit plans and specify the dates when a worker is eligible for benefits. You can also maintain dependent coverage and beneficiary designations for benefits that a worker is enrolled in.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PostLogon Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers after the login operation has run.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

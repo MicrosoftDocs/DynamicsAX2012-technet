@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add batch attribute actual values to a registered inventory batch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedures to add the actual value of the base inventory batch attribute to the registered inventory batch of a purchase order, and a production batch order.

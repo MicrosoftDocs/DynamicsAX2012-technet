@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting currency
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The customary monetary unit of measure that is used to record the monetary value of economic resources in ledger accounts.
 
 ## See also

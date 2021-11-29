@@ -15,6 +15,9 @@ ms.search.region: Global
 # About the Marginal base field 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the **Calculation** FastTab of the **Sales tax codes** form, you define how the sales tax calculation of the selected sales tax code is applied to the tax base amounts on the invoice. You do this by selecting an amount category in the **Marginal base** field and an appropriate value in the **Calculation method** field.

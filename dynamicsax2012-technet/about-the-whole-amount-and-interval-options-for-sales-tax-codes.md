@@ -23,6 +23,9 @@ ms.search.region: Global
 # About the Whole amount and Interval options for sales tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a sales tax code to be calculated based on a whole amount or an interval amount. In the **Sales tax codes** form, use the **Calculation method** field on the **Calculation** FastTab to select how to calculate a sales tax code. (Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax codes**.)

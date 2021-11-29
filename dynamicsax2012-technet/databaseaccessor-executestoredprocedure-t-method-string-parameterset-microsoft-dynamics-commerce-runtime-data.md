@@ -15,6 +15,9 @@ dev_langs:
 
 # ExecuteStoredProcedure(T) Method (String, ParameterSet)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the stored procedure using the specified parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

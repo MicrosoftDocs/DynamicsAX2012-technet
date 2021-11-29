@@ -17,6 +17,9 @@ dev_langs:
 
 # PrincipalMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the principal was not present in the current commerce runtime context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

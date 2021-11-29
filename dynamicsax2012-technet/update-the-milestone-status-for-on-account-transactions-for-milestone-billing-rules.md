@@ -16,6 +16,9 @@ ms.search.region: Global
 # Update the milestone status for on-account transactions for milestone billing rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to mark an on-account transaction that is associated with a milestone billing rule as “Complete.” When you create a milestone billing rule, on-account transactions and invoices are created for the sales value of a milestone on a specified date.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesLineTotaller Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Methods
 
 <table>

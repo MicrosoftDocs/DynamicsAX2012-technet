@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Role Center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 You can create a role center page for Microsoft Dynamics AX and add the page definition to the AOT so that you can later deploy it to other Enterprise Portal installations.

@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up error codes for eInvoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Error codes are used to determine the reason for rejecting an eInvoice enrollment request that is received from the customer. The rejected record is returned to the Bankenes Betalingssentral (BBS) with the error code.

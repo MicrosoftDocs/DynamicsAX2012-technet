@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Reverse TDS payments and post the payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

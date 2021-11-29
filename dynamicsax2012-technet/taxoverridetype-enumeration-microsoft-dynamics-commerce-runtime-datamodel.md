@@ -20,6 +20,9 @@ dev_langs:
 
 # TaxOverrideType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the tax override type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

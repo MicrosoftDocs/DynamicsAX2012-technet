@@ -15,6 +15,9 @@ dev_langs:
 
 # Process Method (TRequest)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Execute method to be overridden by each derived class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

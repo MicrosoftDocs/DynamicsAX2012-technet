@@ -17,6 +17,9 @@ dev_langs:
 
 # NextSynchronizationToken Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets next synchronization token which should be used to check for changes beyond this session.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

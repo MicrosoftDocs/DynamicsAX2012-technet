@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Activate excise parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must select the **Excise** check box to activate the excise tax feature and all the related fields in various forms.

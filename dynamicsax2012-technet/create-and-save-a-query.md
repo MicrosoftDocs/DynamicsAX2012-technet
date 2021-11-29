@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and save a query 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create queries to track the sales statistics for your organization. You can save the queries that you create so that you can track the same statistics over time, for example, month to month.

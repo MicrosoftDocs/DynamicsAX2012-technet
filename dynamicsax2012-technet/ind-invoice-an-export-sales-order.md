@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Invoice an export sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can update the financial entries for the items and the customer account when the **Export order** check box is selected for the sales order that is invoiced. The financial entries for the customs duty are updated when the shipping bill is posted for either a partial quantity of the sales order or the full quantity. When the shipping bill is posted, a new order line is created in the corresponding export order in the **Export order** form.

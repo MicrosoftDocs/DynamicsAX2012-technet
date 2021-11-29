@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Process the return of purchased items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities can record the return of items that they purchased from a vendor. To record a return, a legal entity creates a sales fiscal document that has transactions that resemble the transactions on the original purchase fiscal document. The legal entity can also generate a fiscal document to record the transaction for the purchase return.

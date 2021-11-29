@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add or update identification information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Identification** list page to maintain information about your identity or the identity of your personal contacts. You can use information from forms of identity such as a driver’s license, visa, passport, or another government issued identity card.

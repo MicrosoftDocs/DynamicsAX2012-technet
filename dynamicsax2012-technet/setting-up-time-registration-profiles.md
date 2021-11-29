@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up time registration profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about the work time profiles and how to set up the profiles for registering time and attendance information.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # soft booking
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A project booking that tentatively assigns a resource to a project or activity without committing it to the schedule.
 
 ## See also

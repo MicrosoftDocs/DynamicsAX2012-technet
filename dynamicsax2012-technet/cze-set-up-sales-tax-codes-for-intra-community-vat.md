@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up sales tax codes for intra-community VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can calculate and post intra-community value-added tax (VAT) for a purchase transaction, you must enable intra-community VAT. You must also set up sales tax codes and sales tax groups for payable VAT and receivable VAT.

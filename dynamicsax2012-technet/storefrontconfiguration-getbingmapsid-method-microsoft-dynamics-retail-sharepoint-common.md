@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBingMapsId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Id for the Bing Maps control used by "Pick up in store"
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

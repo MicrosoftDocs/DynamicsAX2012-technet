@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesTransactionExtensions Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesTransactionExtensions](salestransactionextensions-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

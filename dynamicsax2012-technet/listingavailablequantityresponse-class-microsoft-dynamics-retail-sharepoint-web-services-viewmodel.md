@@ -17,6 +17,9 @@ dev_langs:
 
 # ListingAvailableQuantityResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates quantities available of specific listings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Post a vendor transaction as a correction transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create ledger transactions for a summary account and an arrival account if the account numbers, transaction date, voucher, document date, and amount in transaction currency are the same. Such transactions are posted as correction transactions in the general ledger.

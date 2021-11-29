@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail concession configuration key (RetailConcession) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Retail** concession feature is no longer available and is being removed from Microsoft Dynamics AX.

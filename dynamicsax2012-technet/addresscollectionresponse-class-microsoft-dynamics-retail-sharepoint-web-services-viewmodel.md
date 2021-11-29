@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressCollectionResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response object containing the collection of addresses.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # User Log configuration key (SysUserLog) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **User log** configuration key controls access to the **User log** feature. The user log stores information about user activity in Microsoft Dynamics AX, including a user's last logon date, last logon time, and the duration spent in the last session.

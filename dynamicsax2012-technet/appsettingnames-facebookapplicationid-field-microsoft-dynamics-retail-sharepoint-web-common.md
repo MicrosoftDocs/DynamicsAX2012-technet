@@ -18,6 +18,9 @@ dev_langs:
 
 # FacebookApplicationId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The facebook application id.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

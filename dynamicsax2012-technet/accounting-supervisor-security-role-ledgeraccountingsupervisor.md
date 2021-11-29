@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounting supervisor security role (LedgerAccountingSupervisor) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Accounting supervisor security role represents a user who reviews accounting process performance and enables the accounting process.

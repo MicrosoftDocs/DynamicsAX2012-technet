@@ -16,6 +16,9 @@ ms.search.region: Global
 # View loyalty rewards transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to view loyalty transactions for loyalty cards and loyalty programs. You can view loyalty transactions by using one of the following methods:

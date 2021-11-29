@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToResolveListingIdsNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates listing identifiers that could not be resolved into item and variant details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

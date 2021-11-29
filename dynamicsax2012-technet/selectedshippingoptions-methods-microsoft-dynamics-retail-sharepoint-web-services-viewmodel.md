@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SelectedShippingOptions Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SelectedShippingOptions](selectedshippingoptions-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase requisition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents product requests so that they can be submitted for review and be used to authorize purchasing by a purchasing organization.
 
 ## See also

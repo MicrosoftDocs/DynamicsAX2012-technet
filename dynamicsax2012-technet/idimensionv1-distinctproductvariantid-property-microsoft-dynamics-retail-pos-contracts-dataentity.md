@@ -17,6 +17,9 @@ dev_langs:
 
 # DistinctProductVariantId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rec Id in the EcoResDistinctProductVariant table for this particular combination
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

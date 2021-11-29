@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Architecture of the Microsoft Dynamics AX Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX Retail online store enables you to deploy, manage, and customize an online sales channel that is fully integrated with Microsoft Dynamics AX. The online store is built on the Microsoft SharePoint Server 2013 cross-site publishing platform. Cross-site publishing uses one or more authoring site collections to author and store content, and one or more publishing site collections to control the design of the site and to show content. The authoring site collection can contain catalogs such as Pages libraries, and lists of items that are tagged with metadata. These catalogs are indexed by the search system and made available to the Publishing Portal. The Publishing Portal displays previously indexed data on web pages by using search-driven Web Parts.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Form 941 preparation report (PayrollEmplQuarterFedTax) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Form 941 is used by employers to report payroll taxes to the IRS. The report must be filed at the end of each quarter. The **Form 941 preparation** report in Microsoft Dynamics AX provides information to help you prepare the required tax form.

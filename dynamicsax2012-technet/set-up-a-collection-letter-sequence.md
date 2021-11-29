@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a collection letter sequence 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create and manage collection letter sequences that define the collections process. Each collection letter in a sequence can have the following characteristics:

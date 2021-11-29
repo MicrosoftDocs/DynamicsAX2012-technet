@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up provision types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up an account for the revenue recognition of untransferred reserves in the **General ledger parameters** form. For information about the **Provision for reserve** and **Transfer from reserve** transaction types, see [About fixed asset reserves](about-fixed-asset-reserves.md).

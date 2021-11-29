@@ -13,6 +13,9 @@ f1_keywords:
 
 # special depreciation allowance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A deduction from the depreciable basis of qualifying fixed assets taken in the first year of service.
 
 ## See also

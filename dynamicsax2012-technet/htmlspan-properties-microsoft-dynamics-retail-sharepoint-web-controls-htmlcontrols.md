@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlSpan Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlSpan](htmlspan-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Properties

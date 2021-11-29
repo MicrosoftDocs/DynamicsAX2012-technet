@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a customer request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 A potential customer who wants to do business with your company can enter a customer request in your public Enterprise Portal for Microsoft Dynamics AX website to initiate contact with your company. You can provide the following procedural information as a resource for potential customers when they want to create a customer request in this manner.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PricingSqlDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PricingSqlDataRequestHandler](pricingsqldatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Properties

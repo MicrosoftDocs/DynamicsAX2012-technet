@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonCodeId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason code ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

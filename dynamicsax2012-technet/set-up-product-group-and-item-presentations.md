@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up product group and item presentations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Presentations** form, you can add descriptive text and an image for each product group. You can also add a description and an image for specific items. Both product groups and items are presented together with images, headings, and additional information.

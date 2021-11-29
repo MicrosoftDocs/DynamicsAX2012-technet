@@ -13,6 +13,9 @@ f1_keywords:
 
 # procurement category hierarchy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A category hierarchy that orders categories that are created to group products that have similar procurement management and accounting characteristics.
 
 ## See also

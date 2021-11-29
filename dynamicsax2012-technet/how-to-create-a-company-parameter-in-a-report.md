@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Company Parameter in a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create a parameter to control the data for a report based on a company. On a report, parameters are used to filter data, control appearance, and connect to related reports. When you create a company report parameter for a report, and then run that report, you enable the user to choose the company on which the report data will be based.You will use the AX\_CompanyName parameter that is added to a report model by the reporting framework when you add a dataset bound to a data source. The AX\_CompanyName parameter is a mandatory framework parameter. The parameter cannot be null, cannot be blank, and has the following default value =Microsoft.Dynamics.Framework.Reports.BuiltInMethods.GetUserCompany(Parameters\!AX\_UserContext.Value). The following steps describe how to use the AX\_CompanyName parameter to filter data based on company.

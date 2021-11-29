@@ -15,6 +15,9 @@ dev_langs:
 
 # VerifyOperationAccess Method (String, PosisOperations)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies if the operator has access for a given operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

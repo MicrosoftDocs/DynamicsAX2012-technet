@@ -17,6 +17,9 @@ dev_langs:
 
 # IDataStore Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data store interface to allow client to implement the data store and keep caching implementation out of framework.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

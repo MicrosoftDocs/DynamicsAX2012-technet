@@ -13,6 +13,9 @@ f1_keywords:
 
 # production flow
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A production process designed using Lean principles.
 
 ## See also

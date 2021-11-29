@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up sales tax reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you report sales tax transactions for your organization, you can set up the report structure in an XML format. You can modify the XML format for your location. When you export sales tax information and create the sales tax report, you can send the XML file to sales tax authorities.

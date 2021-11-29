@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: AOD files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The layer-based application object files (AOD files) have been replaced by a dedicated Microsoft SQL Server database that is known as the model store. All application elements are stored in the model store. For developers, the storage is transparent. The Setup program creates the model store by using the application elements from Microsoft.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up permission groups and operations (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to link permissions to operations that can be performed at the point of sale (POS). Operations are the tasks that a staff member can perform. Every time that a staff member performs an operation in Retail essentials, a series of checks is performed to determine whether the staff member has permission to perform the operation.

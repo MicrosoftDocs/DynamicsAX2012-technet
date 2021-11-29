@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemMaxRetailPriceIndia Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an item and its max retail price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

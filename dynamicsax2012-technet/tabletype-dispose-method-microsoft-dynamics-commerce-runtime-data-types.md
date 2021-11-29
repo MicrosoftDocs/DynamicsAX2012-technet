@@ -17,6 +17,9 @@ dev_langs:
 
 # Dispose Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Releases all resources used by the [DataTable](tabletype-datatable-property-microsoft-dynamics-commerce-runtime-data-types.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

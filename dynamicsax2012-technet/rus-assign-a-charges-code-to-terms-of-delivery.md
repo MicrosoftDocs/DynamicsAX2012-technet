@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Assign a charges code to terms of delivery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Misc. charges relation with terms of delivery** form to assign a charges code to the terms of delivery. The charge amount that is associated with the terms of delivery is updated based on the customs payments calculation.

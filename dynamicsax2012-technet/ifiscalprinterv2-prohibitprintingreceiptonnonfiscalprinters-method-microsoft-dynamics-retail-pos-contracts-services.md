@@ -17,6 +17,9 @@ dev_langs:
 
 # ProhibitPrintingReceiptOnNonFiscalPrinters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the fiscal printer prohibits printing receipt on non fiscal printers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

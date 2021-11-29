@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customer Payment Journal Service in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 This white paper provides an overview of operations that are exposed in the Customer payment journal service in Microsoft Dynamics AX 2012. It also outlines some common development scenarios and provides step-by-step instructions to integrate with the customer payment journal.

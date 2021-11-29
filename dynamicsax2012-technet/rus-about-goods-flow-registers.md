@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) About goods flow registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In tax accounting, goods refer to raw materials, purchased and produced items, services, and work. Expenses that are incurred when raw materials, services, and work are acquired are divided into direct and indirect costs. Expense codes are created for each type of expense. Direct costs include costs of raw materials and other materials that are essential for produced output. To reduce the taxable profit base, only expenses for materials that are used in production, or that are realized in the current period, are taken into account. Expenses that are related to unfinished production and unrealized products are excluded from current period expenses.

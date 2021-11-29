@@ -17,6 +17,9 @@ dev_langs:
 
 # PreCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered prior to adding a customer to the transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

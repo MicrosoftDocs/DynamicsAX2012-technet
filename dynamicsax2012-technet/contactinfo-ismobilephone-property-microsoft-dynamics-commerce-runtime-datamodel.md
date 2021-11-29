@@ -17,6 +17,9 @@ dev_langs:
 
 # IsMobilePhone Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether this instance is mobile phone.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

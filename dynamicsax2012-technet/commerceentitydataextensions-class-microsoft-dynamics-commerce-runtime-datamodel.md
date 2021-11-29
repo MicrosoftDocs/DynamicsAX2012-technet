@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceEntityDataExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides additional extensions methods to CommerceEntity and its successors.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

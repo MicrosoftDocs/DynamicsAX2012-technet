@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLimitBase Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Basis of sales tax limits
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

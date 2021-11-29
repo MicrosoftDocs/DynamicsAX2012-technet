@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a button grid 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A button grid is a group of similar buttons, such as buttons for products, operations, or payments. Microsoft Dynamics AX for Retail POS can display up to five button grids in a screen layout.

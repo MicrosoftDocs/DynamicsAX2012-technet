@@ -21,6 +21,9 @@ dev_langs:
 
 # ModuleInventPuchSales Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Only "Sales" is used, other values are only for Axapta compatibility and are not used.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

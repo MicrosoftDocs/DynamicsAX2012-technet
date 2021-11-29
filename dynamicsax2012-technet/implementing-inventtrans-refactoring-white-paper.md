@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing InventTrans Refactoring (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes the refactoring of the InventTrans table and common design patterns. It also discusses how to implement these changes when you are developing new features or updating existing features.

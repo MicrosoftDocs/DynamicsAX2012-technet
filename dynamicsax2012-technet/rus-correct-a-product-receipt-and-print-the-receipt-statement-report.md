@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Correct a product receipt and print the receipt statement report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Product receipt correction** form to correct and post a product receipt that is already posted. When you post a corrected product receipt, the original product receipt is canceled, and a new version of an M-4, M-7, TORG-1, TORG-2, or TORG-3 receipt statement report is created. The new version of the receipt statement report is created only if the corrected receipt contains a minimum of one line with a non-zero received quantity. You can also print the new version of the receipt statement report.

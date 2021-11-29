@@ -17,6 +17,9 @@ dev_langs:
 
 # MakePaymentRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 MakePayment request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

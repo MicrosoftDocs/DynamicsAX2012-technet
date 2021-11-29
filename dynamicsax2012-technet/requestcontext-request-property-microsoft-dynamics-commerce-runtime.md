@@ -17,6 +17,9 @@ dev_langs:
 
 # Request Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

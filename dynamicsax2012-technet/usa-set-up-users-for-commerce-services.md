@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up users for Commerce Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All users of online services for Microsoft Dynamics ERP have one or more roles with respect to their organization and the particular online service. Each user has access to specific services and actions as authorized by his or her role.

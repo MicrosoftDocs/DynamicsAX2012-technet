@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectAction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Routes the action to a method with the same name as the action.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateSerialNumberInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the serial number for sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

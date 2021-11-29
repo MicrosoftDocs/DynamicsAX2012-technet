@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceClaimType Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the Claim type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

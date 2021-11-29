@@ -14,6 +14,9 @@ f1_keywords:
 # New leads trend report (smmNewLeadsTrend) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the number of new lead records based on selected parameters. For example, if you select **Daily**, the report displays the number of new lead records entered per day.

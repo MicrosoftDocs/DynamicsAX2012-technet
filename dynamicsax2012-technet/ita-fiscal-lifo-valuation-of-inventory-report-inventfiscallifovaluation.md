@@ -17,6 +17,9 @@ f1_keywords:
 # (ITA) Fiscal LIFO valuation of Inventory report (InventFiscalLIFOValuation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fiscal LIFO valuation of Inventory** report displays and prints the details of inventory item values by using the Last in, first out (LIFO) valuation method. This report is typically used by chief executive officers, chief financial officers, accountants, accounting managers, finance controllers, and clerks to maintain the invoice process and cash process.

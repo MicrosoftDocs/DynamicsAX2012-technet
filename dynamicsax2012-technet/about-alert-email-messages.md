@@ -15,6 +15,9 @@ ms.search.region: Global
 # About alert email messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Alerts can be delivered as email messages. After the email option is enabled, you can select whether alerts are delivered as email messages, as pop-up messages, or as both.

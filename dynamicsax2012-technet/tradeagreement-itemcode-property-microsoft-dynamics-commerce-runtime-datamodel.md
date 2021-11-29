@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the type of item configuration for this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

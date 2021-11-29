@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter a one-time depreciation transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following information describes how to enter a one-time depreciation transaction. For example, you might need to enter a transaction for a one-time tax benefit.

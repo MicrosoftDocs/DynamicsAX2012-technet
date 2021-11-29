@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

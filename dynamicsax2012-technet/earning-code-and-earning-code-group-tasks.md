@@ -23,6 +23,9 @@ ms.search.region: USA
 # Earning code and earning code group tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes the tasks that are required to set up earning codes and earning code groups.
 
 Earning codes uniquely identify every type of earnings that workers receive. The codes various parameters that relate to earnings, such as accounting rules, tax laws, reporting requirements, and gross up capability.

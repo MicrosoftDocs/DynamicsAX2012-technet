@@ -17,6 +17,9 @@ dev_langs:
 
 # CardEntryType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An enumerated constant that indicates the card entry types.
 
 How was the card number received: manually or by swiping the card?

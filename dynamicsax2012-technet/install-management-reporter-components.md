@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Management Reporter components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Management Reporter for Microsoft Dynamics ERP is the recommended financial reporting solution for Microsoft Dynamics AX 2012. Use Management Reporter to create, distribute, and analyze financial statements and other financial reports.

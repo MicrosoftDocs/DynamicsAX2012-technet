@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Specify a Chart Axis Start Value 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides the steps to specify the chart axis start value in a column chart report. Column chart types have two axes that are used to categorize and display data relationships called the **Value Axis** and the **Category Axis**. The axes are shown in the following illustration. You can format axes by using the Properties window to change values for the axis title, interval, minimum, and maximum chart axis value.

@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestParameter Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request object for entity data service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChangeShiftStatusResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChangeShiftStatusResponse](changeshiftstatusresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

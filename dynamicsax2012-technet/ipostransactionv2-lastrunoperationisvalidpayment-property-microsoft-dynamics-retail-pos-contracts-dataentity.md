@@ -17,6 +17,9 @@ dev_langs:
 
 # LastRunOperationIsValidPayment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If the last run operation was a valid payment operation, that is a successful one.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

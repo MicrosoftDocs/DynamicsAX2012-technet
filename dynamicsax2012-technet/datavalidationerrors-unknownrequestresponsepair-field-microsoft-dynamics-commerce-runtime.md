@@ -17,6 +17,9 @@ dev_langs:
 
 # UnknownRequestResponsePair Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the specified request response pair is unknown.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

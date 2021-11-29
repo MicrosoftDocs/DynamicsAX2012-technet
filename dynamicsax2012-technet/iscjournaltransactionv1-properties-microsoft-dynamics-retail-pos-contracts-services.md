@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISCJournalTransactionV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISCJournalTransactionV1](iscjournaltransactionv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Properties

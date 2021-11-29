@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidPriceNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the scenario where a price for the specified item could not be retrieved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

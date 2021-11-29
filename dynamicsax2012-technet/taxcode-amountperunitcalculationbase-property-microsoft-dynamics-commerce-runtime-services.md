@@ -17,6 +17,9 @@ dev_langs:
 
 # AmountPerUnitCalculationBase Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 returns the calculation base for AmountPerUnit tax calculations
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateChannelPropertiesByChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the channel-specific properties of the specified channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

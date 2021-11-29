@@ -13,6 +13,9 @@ f1_keywords:
 
 # not sufficient funds
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The lack of enough funds in an account to cover a payment or withdrawal.
 
 ## See also

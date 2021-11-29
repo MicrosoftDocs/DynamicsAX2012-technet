@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Reporting Services extensions for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft SQL Server Reporting Services is the primary reporting platform for Microsoft Dynamics AX. The reports that are included with Microsoft Dynamics AX run on the Reporting Services platform.

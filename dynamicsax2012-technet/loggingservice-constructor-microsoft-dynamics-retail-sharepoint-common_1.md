@@ -15,6 +15,9 @@ dev_langs:
 
 # LoggingService Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [LoggingService](loggingservice-class-microsoft-dynamics-retail-sharepoint-common.md) class.
 
 Default constructor required for serialization.

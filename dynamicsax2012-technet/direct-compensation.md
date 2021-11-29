@@ -13,6 +13,9 @@ f1_keywords:
 
 # direct compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The fixed and variable compensation awarded to an employee in exchange for services rendered.
 
 ## See also

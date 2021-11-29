@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a store database or an offline database (AX 2012 R2 and AX 2012 Feature Pack) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to create retail store databases and offline databases by using the Retail Store Database Utility.

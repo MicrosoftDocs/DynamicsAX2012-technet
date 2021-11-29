@@ -17,6 +17,9 @@ f1_keywords:
 # (AUT) Purchase duty report (TaxPurchaseTaxReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Purchase duty** report prints a summary of the purchase duty tax that is applied to incoming sales tax on sales transactions. This report is typically used by accounts payable coordinators and accounting managers.

@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up customer prenotes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A prenote is a zero-dollar transaction that is sent to a bank through the Automated Clearing House (ACH) network. Banks use prenotes to verify the accuracy of account data, such as routing numbers and account numbers.

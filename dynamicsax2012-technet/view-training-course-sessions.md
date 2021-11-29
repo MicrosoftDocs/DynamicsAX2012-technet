@@ -16,6 +16,9 @@ ms.search.region: Global
 # View training course sessions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **View sessions** page to view the sessions that are associated with a specific track in a training course. Courses can be divided into tracks that focus on specialty areas. Tracks can then be divided into sessions that cover specific processes or techniques relevant to each track.

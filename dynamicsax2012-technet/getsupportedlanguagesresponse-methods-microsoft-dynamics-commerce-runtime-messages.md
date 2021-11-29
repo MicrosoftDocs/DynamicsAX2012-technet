@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetSupportedLanguagesResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetSupportedLanguagesResponse](getsupportedlanguagesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

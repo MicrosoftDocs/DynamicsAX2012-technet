@@ -15,6 +15,9 @@ dev_langs:
 
 # Implicit Conversion (Int64 to CommercePropertyValue)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines implicit long-to-CommercePropertyValue conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

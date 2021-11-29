@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteCartRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes a previously saved shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

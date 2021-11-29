@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Verify that exchange rate information has been entered 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Complete the following procedures to make sure that information about exchange rates is available to the cubes. Complete these procedures by using the Microsoft Dynamics AX client.

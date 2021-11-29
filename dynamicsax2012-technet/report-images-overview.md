@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Images Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are several common scenarios for displaying images in reports. For example, in product listings, it is common to display images along with the data in a report. In this scenario, images are usually stored along with the data in the database. If you create key performance indicator (KPI) reports, you typically work with a small set of images that are constant. In this case, it is typical to embed the images directly in the report. It is also common to display a company logo in a report.

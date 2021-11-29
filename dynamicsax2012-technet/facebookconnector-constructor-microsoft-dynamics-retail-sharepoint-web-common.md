@@ -17,6 +17,9 @@ dev_langs:
 
 # FacebookConnector Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [FacebookConnector](facebookconnector-class-microsoft-dynamics-retail-sharepoint-web-common.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

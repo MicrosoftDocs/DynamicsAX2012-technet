@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate a Counting act (INV-6) report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Print of counting act (INV-6)** form to generate a Counting act INV-6 report as a Microsoft Excel file. You must generate this report to track items that are transferred between warehouses. You must create a counting list of the items in the transfer that have been purchased. The counting list can contain on-hand inventory holdings.

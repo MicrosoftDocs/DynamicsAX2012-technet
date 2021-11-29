@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a free text invoice that has charges for a fixed asset line 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a free text invoice with charges for a fixed asset invoice line. Charges include amounts such as invoice fees, freight, and insurance.

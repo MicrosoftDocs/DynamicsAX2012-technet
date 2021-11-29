@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemAvailabilityHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper class for item availability related workflows.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

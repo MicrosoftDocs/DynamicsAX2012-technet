@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add images and colors to process flow maps 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add images to represent processes in a process flow map. You can also use colors to represent specific substances and substance categories that are included in process flow maps. For example, you add an image of a light bulb to the process that represents your electricity utility. Additionally, you use the color yellow to represent the electricity as it travels to the different processes in your organization.

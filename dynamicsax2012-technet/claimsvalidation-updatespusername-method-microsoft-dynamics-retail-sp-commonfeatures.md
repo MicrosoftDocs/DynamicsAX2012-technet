@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateSPUserName Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Update the Sharepoint User NAme property to a value more palatable for the end user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

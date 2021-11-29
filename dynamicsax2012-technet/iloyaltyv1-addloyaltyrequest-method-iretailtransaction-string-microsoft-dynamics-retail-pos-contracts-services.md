@@ -15,6 +15,9 @@ dev_langs:
 
 # AddLoyaltyRequest Method (IRetailTransaction, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prompts the user whether to overwrite the existing loyalty item or cancel the operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # rate shopping
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of locating and displaying all shipping rates that are available for a particular load.
 
 ## See also

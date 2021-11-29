@@ -16,6 +16,9 @@ f1_keywords:
 # Pay statements report (PayrollPayStatementReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you generate the payroll payment journal, you can use this report to print pay statements to issue to workers. You can also use this report to reprint pay statements for workers.

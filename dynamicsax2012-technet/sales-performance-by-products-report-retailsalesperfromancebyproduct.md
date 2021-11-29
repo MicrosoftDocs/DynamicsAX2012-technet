@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sales performance by products report (RetailSalesPerfromanceByProduct) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view and compare sales performance by product during periods that you specify. This report includes the sales quantity, sales amount, profit margin, and profit percentage.

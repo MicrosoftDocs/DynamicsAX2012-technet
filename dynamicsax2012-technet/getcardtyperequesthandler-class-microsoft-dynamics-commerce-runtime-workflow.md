@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardTypeRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Workflow class helps to retrieve the CardType details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

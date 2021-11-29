@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateCurrencyItemInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates an [ICurrencyItemInfo](icurrencyiteminfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Prepare financial dimension framework for upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A main account category is a classifier of a main account. A financial dimension is a financial data classifier that is created from the parties, locations, products, and activities in an organization, and that is used for management reporting.

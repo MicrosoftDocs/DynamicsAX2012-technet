@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN) General Index of Financial Information (GIFI) codes for Canadian financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The General Index of Financial Information (GIFI) is a list of accounts and information that are found on financial statements. Each item on the GIFI account list has a unique code that you can match with ledger account numbers from your chart of accounts. For example, the GIFI code for cash is 1001.

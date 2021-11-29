@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Business Connector security role (SysBusinessConnectorRole) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Business connector security role must be assigned to users who access Microsoft Dynamics AX through the .NET Business Connector.

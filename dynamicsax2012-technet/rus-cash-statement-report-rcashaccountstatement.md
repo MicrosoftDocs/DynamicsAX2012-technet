@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Cash statement report (RCashAccountStatement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 Use the Cash statement report to monitor the cash flow of petty cash accounts. Accountants generate this report daily or periodically to analyze cash operations.

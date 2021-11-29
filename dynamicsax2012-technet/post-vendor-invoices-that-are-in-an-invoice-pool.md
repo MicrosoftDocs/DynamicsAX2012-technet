@@ -14,6 +14,9 @@ ms.search.region: Global
 # Post vendor invoices that are in an invoice pool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these steps to transfer the invoices from the **Invoice pool excl. posting** form to the invoice journal, and then post the invoices.

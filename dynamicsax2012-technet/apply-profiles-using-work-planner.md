@@ -15,6 +15,9 @@ ms.search.region: Global
 # Apply profiles using work planner 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Work planner** to apply work time profiles to workers or a group of workers. This is useful when you want to change a worker’s work plan because it differs from the standard profile. When you save a work plan, the records are transferred to the **Profile calendar**.

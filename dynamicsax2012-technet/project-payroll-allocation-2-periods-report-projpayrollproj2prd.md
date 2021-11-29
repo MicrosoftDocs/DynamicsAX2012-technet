@@ -14,6 +14,9 @@ f1_keywords:
 # Project payroll allocation (2 periods) report (ProjPayrollProj2Prd) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze payroll allocation by project for two separate periods.

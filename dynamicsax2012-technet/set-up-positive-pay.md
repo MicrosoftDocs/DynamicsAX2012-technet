@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up positive pay 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to help create a secure folder for positive pay files, set up an outbound port for positive pay files, set up a batch job to generate positive pay files, set up a number sequence for positive pay files, assign the positive pay format to bank accounts, and set up user security for positive pay.

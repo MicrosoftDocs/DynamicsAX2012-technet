@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderConfirmationPageName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the order confirmation page.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

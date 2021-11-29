@@ -14,6 +14,9 @@ f1_keywords:
 
 # aging
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of classifying time periods by age.
 
 ## See also

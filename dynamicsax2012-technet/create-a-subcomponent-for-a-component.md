@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a subcomponent for a component 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a hierarchy of components in a product configuration model by adding components as subcomponents. The hierarchy represents the relations between a root component, such as an audio system, and its parts, such as stereo speakers, a receiver, and an amplifier. A component becomes a subcomponent when you add it to another component in a product configuration model. For more information, see [Create components](create-components.md).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Integrating New Reports into Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a report, and then integrate the report into Microsoft Dynamics AX. After the report is in Microsoft Dynamics AX, you will create an output menu item for the report and display the report on a menu within the application.

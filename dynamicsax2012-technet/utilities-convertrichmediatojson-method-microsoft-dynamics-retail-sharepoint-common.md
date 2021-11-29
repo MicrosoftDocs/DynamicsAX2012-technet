@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertRichMediaToJson Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts Enrichment to JSON format.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

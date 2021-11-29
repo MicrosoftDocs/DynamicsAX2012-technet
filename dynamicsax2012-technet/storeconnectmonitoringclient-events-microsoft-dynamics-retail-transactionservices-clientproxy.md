@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StoreConnectMonitoringClient Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Explicit Interface Implementations
 
 <table>

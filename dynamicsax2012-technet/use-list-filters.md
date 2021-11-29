@@ -14,6 +14,9 @@ ms.search.region: Global
 # Use list filters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to use filters in Enterprise Portal for Microsoft Dynamics AX. Filters display a subset of the information in a list.

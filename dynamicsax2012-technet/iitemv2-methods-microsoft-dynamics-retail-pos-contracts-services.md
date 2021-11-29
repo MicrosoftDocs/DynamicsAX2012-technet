@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IItemV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IItemV2](iitemv2-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

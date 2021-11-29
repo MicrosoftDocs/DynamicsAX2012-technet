@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyChannelOrderMismatch Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that there is a currency mismatch between channel and sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

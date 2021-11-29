@@ -17,6 +17,9 @@ dev_langs:
 
 # Message Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Exception.Message](https://technet.microsoft.com/library/9btwf6wk\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -21,6 +21,9 @@ dev_langs:
 
 # DisplayTemplate Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the type of UI interface to be displayed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

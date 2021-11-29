@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyRewardPointLine Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyRewardPointLine](loyaltyrewardpointline-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

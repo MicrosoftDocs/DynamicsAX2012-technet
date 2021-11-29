@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeLineTotaler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class encapsulates all logic for totalling a charge line once all the prices, discounts, charges, taxes, etc. have been set on it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

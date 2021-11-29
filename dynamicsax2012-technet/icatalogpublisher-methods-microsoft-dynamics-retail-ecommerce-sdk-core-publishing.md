@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICatalogPublisher Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICatalogPublisher](icatalogpublisher-interface-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md) type exposes the following members.
 
 ## Methods

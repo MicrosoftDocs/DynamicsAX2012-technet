@@ -17,6 +17,9 @@ dev_langs:
 
 # Settings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the application settings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

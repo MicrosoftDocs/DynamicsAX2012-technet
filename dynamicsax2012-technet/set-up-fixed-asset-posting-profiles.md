@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up fixed asset posting profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depending on the structure of the chart of accounts and the requirements for ledger reporting, the posting profiles that are set up for fixed assets can be either very detailed or very general. The profiles that are set up must meet your organization’s requirements for financial reporting.

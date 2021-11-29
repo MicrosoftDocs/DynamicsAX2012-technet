@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # CIS Payroll license code (RPay) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **CIS Payroll** license code and all configuration keys for the license code have been deprecated in Microsoft Dynamics AX 2012.

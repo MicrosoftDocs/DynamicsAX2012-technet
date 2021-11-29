@@ -21,6 +21,9 @@ ms.search.region: Global
 # Apply for jobs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To apply for a job, you can either respond to a job ad or submit an unsolicited application. Use the **Open jobs** page to view and apply for open jobs.

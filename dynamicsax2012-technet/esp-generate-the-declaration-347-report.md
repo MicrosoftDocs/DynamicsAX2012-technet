@@ -18,6 +18,9 @@ ms.search.region: Spain
 # (ESP) Generate the Declaration 347 report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Declaration 347** form to submit the Declaration 347 report to the tax authorities. When you generate the Declaration 347 report, a transaction line that has the new tax exempt number for the customer or vendor is displayed. All transaction entries are added to the report after both the tax exempt number and the customer number or vendor number are verified. The total amount is calculated after a tax exempt number and a customer number are grouped. For each customer or vendor, the tax exempt number is verified, and all transactions are included on one line of the Declaration 347 report.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStateProvincesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The resposne associated with the [GetStateProvincesServiceRequest](getstateprovincesservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

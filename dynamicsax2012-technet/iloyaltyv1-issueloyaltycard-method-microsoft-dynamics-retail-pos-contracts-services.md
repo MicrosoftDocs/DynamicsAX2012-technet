@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueLoyaltyCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Isses loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

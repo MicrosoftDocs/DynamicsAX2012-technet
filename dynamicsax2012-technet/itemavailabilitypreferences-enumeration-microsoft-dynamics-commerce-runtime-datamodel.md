@@ -24,6 +24,9 @@ dev_langs:
 
 # ItemAvailabilityPreferences Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Item availability preferences.
 
 This enumeration has a [FlagsAttribute](https://technet.microsoft.com/library/dk06fkbc\(v=ax.60\)) attribute that allows a bitwise combination of its member values.

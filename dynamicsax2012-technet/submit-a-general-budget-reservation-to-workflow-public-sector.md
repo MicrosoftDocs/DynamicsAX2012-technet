@@ -26,6 +26,9 @@ ms.search.region: Denmark, France
 # Submit a general budget reservation to workflow (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After you have activated and set up workflow for general budget reservations, when you create a budget reservation, a yellow workflow bar appears at the top of the reservation form.

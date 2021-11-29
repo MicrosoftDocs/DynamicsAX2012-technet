@@ -15,6 +15,9 @@ ms.search.region: Global
 # About implementing responsibilities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using responsibility assignments in Microsoft Dynamics AX, you can have a worker title automatically assigned to new procedures and tasks. Identifying and assigning process responsibilities on an organizational level can make it easier and more efficient to assign the appropriate staff to specific tasks, such as developing and conducting marketing campaigns.

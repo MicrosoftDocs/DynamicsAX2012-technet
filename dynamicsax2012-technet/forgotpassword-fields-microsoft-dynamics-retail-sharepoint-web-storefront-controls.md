@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ForgotPassword Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ForgotPassword](forgotpassword-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Fields

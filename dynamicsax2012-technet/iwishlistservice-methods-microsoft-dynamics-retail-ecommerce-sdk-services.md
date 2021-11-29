@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IWishListService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IWishListService](iwishlistservice-interface-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

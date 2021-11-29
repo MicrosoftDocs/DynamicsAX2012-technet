@@ -17,6 +17,9 @@ dev_langs:
 
 # GetGiftCardInformation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the gift card balance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

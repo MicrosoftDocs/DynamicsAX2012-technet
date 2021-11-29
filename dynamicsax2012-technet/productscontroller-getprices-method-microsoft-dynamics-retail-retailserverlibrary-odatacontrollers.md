@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPrices Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the price of an item in context of the current customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

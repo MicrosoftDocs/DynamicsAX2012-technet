@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StoreProductAvailabilityItem Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StoreProductAvailabilityItem](storeproductavailabilityitem-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

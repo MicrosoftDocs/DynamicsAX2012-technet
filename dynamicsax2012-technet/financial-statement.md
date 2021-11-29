@@ -13,6 +13,9 @@ f1_keywords:
 
 # financial statement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A report that documents the financial information and financial position of an organization.
 
 ## See also

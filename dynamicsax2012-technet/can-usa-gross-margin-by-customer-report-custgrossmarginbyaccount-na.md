@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Gross margin by customer report (CustGrossMarginbyAccount\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Gross margin by customer** report displays sales order information, including the item number, item description, quantity, sales amount, cost, gross profit, and gross profit percentage, for individual customers. This information is sorted by customer name and customer number. You can choose to display either summarized or detailed information based on your selection in the **Summary** field. This report is typically used by accounting managers, accounts receivable managers, chief executive officers, chief financial officers, compliance managers, and financial controllers to review invoice and cash process performance.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UpdateCustomerRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UpdateCustomerRequest](updatecustomerrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

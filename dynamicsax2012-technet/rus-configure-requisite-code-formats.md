@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Configure requisite code formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use requisite code formats to create requisites in the information section of a report. For reports that are exported in text formats, you can create requisites based on table descriptions and requisite code formats. Requisite names in reports that are exported in the XML format are defined by the XML schema definition (XSD), and are created automatically when the XSD schema is applied to the template.

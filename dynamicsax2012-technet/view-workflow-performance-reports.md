@@ -14,6 +14,9 @@ ms.search.region: Global
 # View workflow performance reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes reports that can help you track the history and current status of business processes in your organization. Therefore, you can more easily identify processes that have become inefficient. Follow these steps to view the reports.

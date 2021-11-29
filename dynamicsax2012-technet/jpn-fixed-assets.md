@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use Fixed assets to track the acquisition, depreciation, and disposal of items of value, such as buildings, vehicles, land, and equipment, that are owned by an individual or corporation.

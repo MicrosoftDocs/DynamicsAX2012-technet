@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNumberSequenceSeedType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the number sequence type from the receipt transaction type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICommerceRuntime Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICommerceRuntime](icommerceruntime-interface-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

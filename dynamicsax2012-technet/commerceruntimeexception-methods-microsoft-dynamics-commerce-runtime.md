@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeException Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeException](commerceruntimeexception-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

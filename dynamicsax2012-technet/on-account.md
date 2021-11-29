@@ -13,6 +13,9 @@ f1_keywords:
 
 # on account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The extension of credit for purchases.
 
 ## See also

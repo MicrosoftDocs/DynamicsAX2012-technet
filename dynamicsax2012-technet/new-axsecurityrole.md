@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # New-AXSecurityRole
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## New-AXSecurityRole
 
 Creates a new Microsoft Dynamics AX security role.

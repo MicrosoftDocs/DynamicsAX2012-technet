@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveReasonCodeLineResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response for adding or updating reason code line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

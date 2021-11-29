@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCatalogs Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets catalogs by OData query.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

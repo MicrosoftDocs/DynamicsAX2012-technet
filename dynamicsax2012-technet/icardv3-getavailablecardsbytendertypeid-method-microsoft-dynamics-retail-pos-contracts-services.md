@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableCardsByTenderTypeId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Will return a collection of card info from the database specific to the current store for the input tender type id.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

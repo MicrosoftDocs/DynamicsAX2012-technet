@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up email addresses for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Vendors** form to set up email addresses for vendors. You can use automated emails to send electronic invoices to vendors when the Nota Fiscal eletrônica (NF-e) is approved or canceled by the Secretaria da Fazenda (SEFAZ).

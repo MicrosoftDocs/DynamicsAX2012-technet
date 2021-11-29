@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools are required components that must be installed for full Microsoft Dynamics AX functionality.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage load balancing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use load balancing in Microsoft Dynamics AX to distribute the user load among multiple instances of Application Object Server (AOS). AOS load balancing in Microsoft Dynamics AX has the following benefits:

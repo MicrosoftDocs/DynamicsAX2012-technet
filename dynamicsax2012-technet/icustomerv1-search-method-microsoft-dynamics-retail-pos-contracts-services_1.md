@@ -15,6 +15,9 @@ dev_langs:
 
 # Search Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for a customer and adds the customer to the current transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

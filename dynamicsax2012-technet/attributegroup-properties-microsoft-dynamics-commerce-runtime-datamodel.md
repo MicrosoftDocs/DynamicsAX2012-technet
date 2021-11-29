@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AttributeGroup Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AttributeGroup](attributegroup-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

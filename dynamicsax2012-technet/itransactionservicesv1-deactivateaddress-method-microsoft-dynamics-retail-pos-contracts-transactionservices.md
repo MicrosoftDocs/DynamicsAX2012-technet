@@ -17,6 +17,9 @@ dev_langs:
 
 # DeactivateAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deactivates the address indicated by the Id (which maps to the Ax RecId) property of the address parameter.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About changing an address in a source document or business document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, each party record can include one or more address records in the party information. For example, a party record might include a billing address, a delivery address, and an alternative delivery address. When you create a source document such, as a sales order, or a business document, such as a purchase order, the address that is displayed in the document by default is the address that you specified for that purpose. However, you can select a different address when you create the document.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IAddressBookPartyData Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IAddressBookPartyData](iaddressbookpartydata-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

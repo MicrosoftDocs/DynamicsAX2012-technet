@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and post a statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Microsoft Dynamics AX 2012 for Retail, after all transactions from the registers have been uploaded from a retail store, a statement can be created, calculated, and then posted. The statement calculates the total amount of all transactions that have been created since the last store statement was created, within the statement period that you define. The statement also calculates the payment methods that are counted.

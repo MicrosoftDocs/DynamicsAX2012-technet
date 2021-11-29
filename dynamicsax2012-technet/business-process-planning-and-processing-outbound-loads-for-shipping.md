@@ -22,6 +22,9 @@ ms.search.region: Global
 # Business process: Planning and processing outbound loads for shipping 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can plan and process an outbound load to ship specific items from a company’s warehouse to a customer. This topic provides an overview of how to use Microsoft Dynamics AX to plan the transportation and shipping of an outbound load.

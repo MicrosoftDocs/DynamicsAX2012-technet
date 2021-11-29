@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSalesOrdersByCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get sales orders for the logged in customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

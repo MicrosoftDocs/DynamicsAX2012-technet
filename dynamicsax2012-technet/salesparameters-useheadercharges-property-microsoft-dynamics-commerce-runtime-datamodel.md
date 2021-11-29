@@ -17,6 +17,9 @@ dev_langs:
 
 # UseHeaderCharges Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether header auto-charges should be calculated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

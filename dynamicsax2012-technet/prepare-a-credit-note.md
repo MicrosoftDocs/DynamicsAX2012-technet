@@ -16,6 +16,9 @@ ms.search.region: Global
 # Prepare a credit note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You use the **Create credit note** page to prepare a credit note for a customer when the customer returns items that have been ordered and received. A credit note is an invoice with a negative amount.

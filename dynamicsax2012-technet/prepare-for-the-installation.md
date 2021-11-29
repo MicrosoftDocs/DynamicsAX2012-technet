@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Prepare for the installation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide an overview of the installation process and explain the procedures that you must complete before you start the installation. The following topics are included:

@@ -17,6 +17,9 @@ dev_langs:
 
 # AddressFormatLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the address format lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

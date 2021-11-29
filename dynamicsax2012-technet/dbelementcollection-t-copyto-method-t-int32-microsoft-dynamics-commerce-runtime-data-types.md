@@ -15,6 +15,9 @@ dev_langs:
 
 # CopyTo Method (T[], Int32)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Copies the entire collection to a compatible one-dimensional array, starting at the beginning of the target array.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

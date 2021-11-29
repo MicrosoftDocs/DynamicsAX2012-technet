@@ -13,6 +13,9 @@ f1_keywords:
 
 # customer advance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment received from a customer in anticipation of the delivery of items or of the performance of a service.
 
 ## See also

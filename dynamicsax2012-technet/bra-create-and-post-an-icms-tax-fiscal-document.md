@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create and post an ICMS tax fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post an Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax fiscal document to transfer an ICMS tax amount between fiscal establishments, or to recover the ICMS tax amount in installments for the purchase of fixed assets.

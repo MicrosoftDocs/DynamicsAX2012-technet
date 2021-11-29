@@ -13,6 +13,9 @@ f1_keywords:
 
 # cash-generating unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The smallest group of classifiable assets that generates cash independently of other assets within an organization. These groups of assets are used to measure impairment losses that will be incurred.
 
 ## See also

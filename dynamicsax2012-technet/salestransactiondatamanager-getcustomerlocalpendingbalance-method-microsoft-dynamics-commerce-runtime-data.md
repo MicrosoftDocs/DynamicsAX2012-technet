@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerLocalPendingBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sum of all transaction using tender type "pay to account" for a specific customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

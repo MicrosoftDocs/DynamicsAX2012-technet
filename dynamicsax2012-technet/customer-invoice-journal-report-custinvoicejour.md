@@ -14,6 +14,9 @@ f1_keywords:
 # Customer invoice journal report (CustInvoiceJour) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a list of customer invoices. You can view information for specific charges codes and sales tax codes, if you need to. Invoice amounts are displayed in the accounting currency. You can also display amounts in the currency of the transaction.

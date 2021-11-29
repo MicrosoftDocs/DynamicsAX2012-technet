@@ -21,6 +21,9 @@ dev_langs:
 
 # InfoCodeInputRequiredType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This enum is used to determine when an Infocode is required.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

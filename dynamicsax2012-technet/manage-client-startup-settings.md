@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage client startup settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to manage and configure startup settings for Microsoft Dynamics AX clients by using the Microsoft Dynamics AX 2012 Configuration utility.

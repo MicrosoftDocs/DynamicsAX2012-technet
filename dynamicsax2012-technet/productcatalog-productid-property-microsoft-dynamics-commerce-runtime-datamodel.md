@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a product identifier, in case this entity is used to map products to catalogs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Setting up and maintaining Travel and expense 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following table describes the forms that you can use to set up and maintain the **Travel and expense** section. The entries in the table are arranged first by task, and then alphabetically by the name of the form that you use to complete the task.

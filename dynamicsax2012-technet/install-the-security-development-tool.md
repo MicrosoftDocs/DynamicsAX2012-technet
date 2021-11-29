@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Security Development Tool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/install-the-security-development-tool/) in the Dynamics AX Help wiki.

@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Calling the Query Service with a Static Query 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX query service runs a query that you specify and returns the data in a dataset. When you call the query service, you can specify a static query, that is, a query that is already defined in the Application Object Tree (AOT). In this walkthrough, you will call the query service from a C\# program and display customer and customer transaction data in grids on a form.

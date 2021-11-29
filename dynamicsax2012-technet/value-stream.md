@@ -13,6 +13,9 @@ f1_keywords:
 
 # value stream
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An operating unit that controls one or more production flows.
 
 ## See also

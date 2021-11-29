@@ -18,6 +18,9 @@ ms.search.region: Global
 # About designing questionnaires 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A carefully designed questionnaire can help increase the quality of the data that you collect. Through careful design, you can better select the appropriate options at the appropriate time for a questionnaire.

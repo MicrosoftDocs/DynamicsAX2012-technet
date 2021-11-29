@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA movement report (RAssetMoveSum) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA movement report displays the depreciation value and the revaluation costs of fixed assets. Accountants generate this report periodically to review the quantity and value of the fixed assets that are acquired or written-off during a period that you specify.

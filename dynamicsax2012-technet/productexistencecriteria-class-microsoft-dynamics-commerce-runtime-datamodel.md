@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductExistenceCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents criteria to be used while issuing VerifyProductExistence calls.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

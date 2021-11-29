@@ -15,6 +15,9 @@ dev_langs:
 
 # GetLineDeliveryOptions Method (IEnumerable(SalesLine))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the delivery options for each sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

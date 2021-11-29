@@ -15,6 +15,9 @@ ms.search.region: Global
 # About running average cost price 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The inventory close process in Microsoft Dynamics AX settles issue transactions to receipt transactions based on the inventory valuation method that is selected in the item’s item model group.

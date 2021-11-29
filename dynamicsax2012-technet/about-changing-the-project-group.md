@@ -19,6 +19,9 @@ ms.search.region: Global
 # About changing the project group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In most cases, a project is not assigned to a different project group after the project is created. If you do have to assign the project to a different group, it is typically because the circumstances of the project have changed.

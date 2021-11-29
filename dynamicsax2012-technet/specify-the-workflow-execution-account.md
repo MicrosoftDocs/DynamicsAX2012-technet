@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify the workflow execution account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Complete the following procedure to select a domain account to serve as the workflow execution account. The workflow execution account runs business logic for the application and accesses Microsoft Dynamics AX data.

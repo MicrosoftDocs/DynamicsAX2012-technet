@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line amount including tax (whether tax-exclusive or inclusive scenario).
 
 Add exclusive taxes to NetAmount, inclusive taxes are already included in NetAmount.

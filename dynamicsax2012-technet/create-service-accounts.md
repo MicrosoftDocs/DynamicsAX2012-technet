@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create service accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An implementation of Microsoft Dynamics AX requires many services to run. Set up accounts to run the services. Each account that you set up must have the following characteristics:

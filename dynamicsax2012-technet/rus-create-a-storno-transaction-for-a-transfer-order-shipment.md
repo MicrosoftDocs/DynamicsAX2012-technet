@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create a storno transaction for a transfer order shipment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a transfer order and ship items from a source warehouse to a destination warehouse. If an error is found after the item is shipped, you can reverse the entry for the shipment from the warehouse and post the transfer order again with the corrected information.

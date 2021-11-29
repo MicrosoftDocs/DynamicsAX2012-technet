@@ -20,6 +20,9 @@ dev_langs:
 
 # OfflineSyncStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents offline sync status for a particular sync scope.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

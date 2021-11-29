@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveTenderLineRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds/Removes/Updates the tender line from the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

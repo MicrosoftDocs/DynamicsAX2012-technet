@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the transaction data
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

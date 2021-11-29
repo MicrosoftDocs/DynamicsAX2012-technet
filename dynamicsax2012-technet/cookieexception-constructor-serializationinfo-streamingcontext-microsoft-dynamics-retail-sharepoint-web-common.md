@@ -15,6 +15,9 @@ dev_langs:
 
 # CookieException Constructor (SerializationInfo, StreamingContext)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [CookieException](cookieexception-class-microsoft-dynamics-retail-sharepoint-web-common.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonGrids Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the buttongrids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

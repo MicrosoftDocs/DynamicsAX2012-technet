@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderTypeId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the tender type ID.
 
 The ID of the tender type that the card is associated with.

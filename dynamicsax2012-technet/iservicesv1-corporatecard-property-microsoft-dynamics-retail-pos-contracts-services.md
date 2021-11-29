@@ -17,6 +17,9 @@ dev_langs:
 
 # CorporateCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Corporate card service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

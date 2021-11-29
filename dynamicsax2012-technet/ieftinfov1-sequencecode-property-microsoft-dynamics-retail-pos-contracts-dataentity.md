@@ -17,6 +17,9 @@ dev_langs:
 
 # SequenceCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A concatenated sequence code (seven letter - batch code) specially used for receipts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

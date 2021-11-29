@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTaxGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a single row in destination-based tax filters table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

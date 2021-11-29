@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Print inventory journal report (InventJournalTrans) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the Print inventory journal report to print information about inventory quantity, cost, and current value. The data on the report is grouped by inventory dimension. Accountants and accounting managers use this report to review inventory operations. You can access this report from several inventory journals.

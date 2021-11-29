@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage and use Connect (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Connect Web part displays links to online resources, such as training, support, product updates, and information from the Microsoft Dynamics Community. The resources that are displayed in the Connect Web part are managed by Microsoft Connect. The resources vary, depending on your role in Microsoft Dynamics AX. The Connect Web part displays information on slides that automatically rotate. When the computer is offline, the Connect Web part displays information about CustomerSource, the Microsoft Dynamics Community, and online services for Microsoft Dynamics ERP.

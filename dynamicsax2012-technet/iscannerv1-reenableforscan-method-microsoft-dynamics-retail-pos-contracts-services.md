@@ -17,6 +17,9 @@ dev_langs:
 
 # ReEnableForScan Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enable Scanner device for scan.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

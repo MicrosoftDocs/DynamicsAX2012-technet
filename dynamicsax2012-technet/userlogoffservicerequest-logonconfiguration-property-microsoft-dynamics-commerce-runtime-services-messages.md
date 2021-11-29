@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnConfiguration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the logon configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

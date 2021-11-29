@@ -17,6 +17,9 @@ dev_langs:
 
 # EndTimeAxTimeString Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the end time as an AX time string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceController(TEntity, TKey) Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)
 

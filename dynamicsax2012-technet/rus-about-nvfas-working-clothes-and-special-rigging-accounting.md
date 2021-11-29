@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About NVFAs, working clothes, and special rigging accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An organization must account for each working clothes item or special rigging asset that is issued to an employee, and create a Working clothes or Special rigging issue card. You can create queries to display all assets that are on-hand for employees and print the **Working clothes issue sheet (No. MB-7)**. You can cancel or return the Working clothes or Special rigging issue card to the warehouse, and calculate the net book value and residual wearing period.

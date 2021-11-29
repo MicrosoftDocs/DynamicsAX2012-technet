@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLastSuspendedTransactionId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the last suspended transaction ID for the specified store and terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

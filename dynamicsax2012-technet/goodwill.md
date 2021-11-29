@@ -13,6 +13,9 @@ f1_keywords:
 
 # goodwill
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between the perceived value and the book value of an asset.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentProgress Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Container for shipping progress details of a shipment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

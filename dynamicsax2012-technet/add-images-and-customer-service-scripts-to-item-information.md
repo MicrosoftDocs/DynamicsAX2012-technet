@@ -17,6 +17,9 @@ ms.search.region: Global
 # Add images and customer service scripts to item information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to add images and scripts for customer service representatives to use when they sell an item through a call center. This information is included in the item record that the customer service representative sees when he or she talks to a customer.

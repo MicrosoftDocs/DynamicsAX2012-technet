@@ -17,6 +17,9 @@ dev_langs:
 
 # Exempt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Whether or not this tax is exempt
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

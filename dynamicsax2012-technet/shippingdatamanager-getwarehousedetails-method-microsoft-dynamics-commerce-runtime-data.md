@@ -17,6 +17,9 @@ dev_langs:
 
 # GetWarehouseDetails Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the warehouse details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

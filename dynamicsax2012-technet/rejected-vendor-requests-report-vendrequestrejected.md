@@ -14,6 +14,9 @@ f1_keywords:
 # Rejected vendor requests report (VendRequestRejected) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendors and employees might request to add or modify a vendor approved to do business with your organization. Use this report to view vendor requests that have been rejected.

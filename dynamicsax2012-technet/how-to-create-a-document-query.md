@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Document Query 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create a document query that is the basis of an Application Integration Framework (AIF) document service. For more information about document services, see [AIF Document Services](aif-document-services.md). The document query is a standard Microsoft Dynamics AX query that is associated with an Axd \<Document\> class. The document query has the following characteristics:

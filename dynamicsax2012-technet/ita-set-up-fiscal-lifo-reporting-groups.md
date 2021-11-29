@@ -14,6 +14,9 @@ ms.search.region: Italy
 # (ITA) Set up fiscal LIFO reporting groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must attach all items on the **Released products** list page to a fiscal Last in, First out (LIFO) reporting group to calculate fiscal LIFO. If there are items for which the calculation is to be omitted, you must specify that the fiscal LIFO calculation is not to be calculated for these items.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentAmountPaid Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the amount of the prepayment that was paid toward the order (in form of a deposit on order creation).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

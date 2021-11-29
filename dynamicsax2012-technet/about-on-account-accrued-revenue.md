@@ -19,6 +19,9 @@ ms.search.region: Global
 # About on-account accrued revenue 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can accrue revenue on Fixed-price projects and on Time and material projects while a project is in progress. You do this by creating an on-account invoice. The amount of accrued revenue that you select can be related to specific costs or to a specified percentage of the total contract amount. You can post an estimated amount as accrued revenue, and then reverse the estimate when you calculate the actual revenue earned on a project. For more information about how to create an on-account invoice, see [Create on-account invoices for all projects](create-on-account-invoices-for-all-projects.md).

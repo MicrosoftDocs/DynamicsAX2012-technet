@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a preferred technician 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can select any worker as a preferred technician for a service agreement or service order. However, it is a good idea to add the worker to the appropriate dispatch team so that the worker is included on the **Dispatch board**.

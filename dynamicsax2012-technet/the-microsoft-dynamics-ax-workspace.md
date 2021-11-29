@@ -22,6 +22,9 @@ ms.search.region: Global
 # The Microsoft Dynamics AX workspace 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX workspace is the main work area for Microsoft Dynamics AX. Use this main work area to open forms, list pages, Role Center pages, and reports.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Mapping Microsoft Dynamics AX 2009 Reports to the Microsoft Dynamics AX 2012 Version 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides a mapping of the reports from Microsoft Dynamics AX 2009 to a similar representation of data in Microsoft Dynamics AX 2012. The following implementations were used to show similar data:

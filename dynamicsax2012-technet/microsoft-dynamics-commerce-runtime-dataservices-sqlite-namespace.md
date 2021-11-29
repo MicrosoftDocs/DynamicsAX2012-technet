@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Classes
 
 <table>

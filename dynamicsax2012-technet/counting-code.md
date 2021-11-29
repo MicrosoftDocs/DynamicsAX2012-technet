@@ -14,6 +14,9 @@ ms.search.region: Global
 # Counting code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the counting code options that are available when you are creating a counting group. Choose from **Manual**, **Period**, **Zero**, and **Minimum**.

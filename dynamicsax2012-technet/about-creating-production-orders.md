@@ -20,6 +20,9 @@ ms.search.region: Global
 # About creating production orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a production order, you start to monitor and work with the item as it passes through the stages of the production life cycle. The system assigns an order status to each step in this cycle. The status tells you where the item is in the production process. When an order is created, it is assigned the status **Created**.

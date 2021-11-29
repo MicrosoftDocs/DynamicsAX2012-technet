@@ -18,6 +18,9 @@ dev_langs:
 
 # Init Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes Security Manager.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ResumeCartRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ResumeCartRequestHandler](resumecartrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

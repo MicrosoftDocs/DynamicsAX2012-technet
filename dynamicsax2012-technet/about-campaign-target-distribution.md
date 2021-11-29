@@ -19,6 +19,9 @@ ms.search.region: Global
 # About campaign target distribution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The target list members for a call list or campaign are the contacts that are listed in the party record for a person or organization. You can distribute the ownership of target list members to workers in your organization. To distribute ownership, in the **Campaign** form, on the **Targets** FastTab, click **Distribute**, and then select an option.

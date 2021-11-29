@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) About tax liabilities and asset calculation registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Expense registers and revenue registers are used to calculate the tax base for profit tax. A constant tax difference is the accounting profit or loss that is excluded from the tax base when tax is calculated on profit. Some accounting expenses or revenues do not contribute to tax base creation for profit tax in either the current or subsequent reporting periods. A constant difference is a constant tax liability or constant tax asset.

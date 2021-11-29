@@ -14,6 +14,9 @@ ms.search.region: Global
 # Export and send VAT recovery returns 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The recovery of Value Added Tax (VAT) is a two-part process. The first part of the recovery process is to identify and verify all expenses that are eligible for recovery and to calculate the total recoverable amount. The second part of the process is to file the VAT returns with all required documentation.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaxableItem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The common interface for taxable entities.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

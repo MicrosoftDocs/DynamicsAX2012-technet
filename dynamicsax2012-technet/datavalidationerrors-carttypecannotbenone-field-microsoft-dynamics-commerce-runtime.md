@@ -17,6 +17,9 @@ dev_langs:
 
 # CartTypeCannotBeNone Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that cart cannot be created or updated with cart type as None.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Generate Spanish checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can print checks that follow the standards that are required for checks in Spain. Use the **Journal voucher** form to generate Spanish checks.

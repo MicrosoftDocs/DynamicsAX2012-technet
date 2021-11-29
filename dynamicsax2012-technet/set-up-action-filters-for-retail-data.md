@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up action filters for Retail data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Action filters specify which tables and fields are monitored for changes that must be distributed to stores. If a user creates, modifies, or deletes a record in a table that is monitored, the action filter automatically collects the information that changed in a data record. This data record is called a preaction. To send the modifications to stores, you must convert the preactions to actions.

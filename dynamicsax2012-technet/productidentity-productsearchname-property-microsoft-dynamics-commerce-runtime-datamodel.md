@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the search name of the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

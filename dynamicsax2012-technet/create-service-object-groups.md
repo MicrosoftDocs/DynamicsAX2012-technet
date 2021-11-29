@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create service object groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to create groups that you can assign service objects to. Service objects are inventory items and other products for which services are performed. By grouping service objects, you can create reports for similar and related service objects. For example, a service object group might consist of two service objects: One service object is a kit, and the second service object is the service to install the kit.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Report Designer for Management Reporter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to install Report Designer by using the Microsoft Dynamics AX Setup wizard. Report Designer is a component of Management Reporter for Microsoft Dynamics ERP that is used to create the building blocks that define a report. For more information about Management Reporter, see [the Management Reporter page](https://go.microsoft.com/fwlink/?linkid=324871) on CustomerSource (logon is required).

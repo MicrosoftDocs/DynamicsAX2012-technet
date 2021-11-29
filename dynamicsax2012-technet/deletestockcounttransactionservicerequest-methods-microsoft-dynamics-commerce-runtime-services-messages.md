@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DeleteStockCountTransactionServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DeleteStockCountTransactionServiceRequest](deletestockcounttransactionservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

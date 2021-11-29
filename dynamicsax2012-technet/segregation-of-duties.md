@@ -13,6 +13,9 @@ f1_keywords:
 
 # segregation of duties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A design principle used to reduce the risk of fraud, irregularities, and errors that separates the recording, verification, authorization, custody of assets, and periodic review duties of people who participate in, document, or record the financial consequences of economic transactions.
 
 ## See also

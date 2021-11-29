@@ -13,6 +13,9 @@ f1_keywords:
 
 # sequencing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The order in which jobs are processed or operations are performed at a manufacturing facility to achieve objectives.
 
 ## See also

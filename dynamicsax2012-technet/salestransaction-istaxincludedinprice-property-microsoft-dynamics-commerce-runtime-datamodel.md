@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTaxIncludedInPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the tax is included in the item price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

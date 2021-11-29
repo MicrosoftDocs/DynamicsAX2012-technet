@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating an Auto Design Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a basic report that displays a list of inventory items. You will use an auto design report. In this type of report, the report design is automatically generated for you based on the report data. After you have created the report, you will add some interactive features, such as drill down capability and a document map. The following illustration shows the report that you will create in this walkthrough.

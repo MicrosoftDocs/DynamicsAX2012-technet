@@ -30,6 +30,9 @@ dev_langs:
 
 # TimeClockType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Time clock type it is mapped from AX enum "JmgTermRegType"
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

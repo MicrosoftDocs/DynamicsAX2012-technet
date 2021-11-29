@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceListManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionality related to commerce list and commerce list line management.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

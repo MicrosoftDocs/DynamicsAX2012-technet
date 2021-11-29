@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a timesheet 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a timesheet by using an empty timesheet form. You can also base a new timesheet on information from a previous timesheet, saved lines, or project and activity assignments in the **My favorites** form. If you are designated as a delegate, you can also enter a timesheet for another worker.

@@ -32,6 +32,9 @@ ms.search.region: Denmark, France
 # Set up general budget reservation rules and reservation types (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 General budget reservations are often used by public sector entities to set aside or earmark budgeted funds so that they are not available for other purposes. To use general budget reservations, you must specify budgetary rules to enable your system to use them, and you must set up at least one general budget reservation type with the settings you want.

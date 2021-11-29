@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create flex groups for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a worker is allowed to work flexible hours, the worker must be connected to a flex group. Flex groups are selected for workers when they are set up as time registration workers.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptTypeNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the receipt type is not supported.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up methods for depreciation profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In addition to the standard methods that are used to depreciate fixed assets, you can use additional depreciation methods to align the calculation of depreciation to comply with Hungarian legislation.

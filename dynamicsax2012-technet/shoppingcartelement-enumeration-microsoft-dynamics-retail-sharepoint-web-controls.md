@@ -32,6 +32,9 @@ dev_langs:
 
 # ShoppingCartElement Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enumeration of all the allowed shopping cart display elements within a column.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

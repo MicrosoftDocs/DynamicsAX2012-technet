@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # E
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [EAN](ean.md)
 
 [economic event](economic-event.md)

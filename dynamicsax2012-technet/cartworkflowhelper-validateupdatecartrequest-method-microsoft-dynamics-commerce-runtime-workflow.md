@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateUpdateCartRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates the update cart request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

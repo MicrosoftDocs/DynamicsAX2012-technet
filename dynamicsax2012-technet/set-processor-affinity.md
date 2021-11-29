@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set processor affinity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If an instance of Application Object Server (AOS) has multiple processors, you can specify which processors host the AOS service. When you specify one or more processors for a service, you are said to set processor affinity. By setting processor affinity, you can help improve server performance.

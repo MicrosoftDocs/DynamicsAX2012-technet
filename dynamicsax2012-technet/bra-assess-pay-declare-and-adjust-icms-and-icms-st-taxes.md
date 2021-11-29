@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to determine the amount of Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax to be paid per fiscal establishment for a specific month. This topic also explains how to generate the ICMS tax payment that allows the registration and posting of the ICMS tax payment with fiscal-related information. The difference between the ICMS tax amount collected on sales of goods and the ICMS tax amount paid on purchases of goods is calculated. If the net amount gives you a tax liability, you can enter a vendor invoice journal entry and pay the amount of ICMS tax that you owe to the tax authority.

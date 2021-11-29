@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Override the fetch Method to Filter Data for Reports (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can override the fetch method to filter the data that is displayed in a report. This override does not reduce the number of records that are returned by the query of the report. Instead it prevents some records from being sent to the final report. Each record is examined by the branching logic you add to the fetch method. Branching determines which records to give to the send method. Those records appear in the final report.

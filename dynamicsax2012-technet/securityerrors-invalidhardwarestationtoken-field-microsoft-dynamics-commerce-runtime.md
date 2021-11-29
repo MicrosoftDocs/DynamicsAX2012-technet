@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidHardwareStationToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the hardware station token is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

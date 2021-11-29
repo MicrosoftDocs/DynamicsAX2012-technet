@@ -17,6 +17,9 @@ dev_langs:
 
 # ErrorMessage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the error message.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

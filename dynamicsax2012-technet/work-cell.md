@@ -13,6 +13,9 @@ f1_keywords:
 
 # work cell
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A resource group that participates in a production flow activity.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessTaxFreeOperation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method is not implemented.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

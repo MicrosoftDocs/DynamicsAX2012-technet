@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up application bookmarks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you send letters or email messages to applicants, you can use application bookmarks to automatically insert information about an applicant and the job that the applicant applied for. An application bookmark is a field that you make available for use in the templates for application email messages and application documents. You must set up application bookmarks for correspondence actions before you can create templates for application email messages and application documents.

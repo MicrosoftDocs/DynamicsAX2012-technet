@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Preview and publish discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you publish discounts to online media, such as Facebook and Twitter, you can preview the webpages on Sites Services for Microsoft Dynamics ERP that display the discounts online.

@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or set a value indicating if money is being added to existing card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

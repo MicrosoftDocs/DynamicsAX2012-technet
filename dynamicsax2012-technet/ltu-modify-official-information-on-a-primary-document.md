@@ -20,6 +20,9 @@ ms.search.region: Lithuania
 # (LTU) Modify official information on a primary document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you generate and post an invoice for a primary document, such as a sales order or a purchase order, you can modify the name and title of the officials who are assigned to the document by default. For example, you can assign a new director, chief accountant, or supplier to the document.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Receipts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of receipts for a transaction. Each element returns a receipt type that is to be printed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

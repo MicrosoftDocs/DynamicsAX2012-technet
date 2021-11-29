@@ -26,6 +26,9 @@ ms.search.region: USA
 # Work cycle and work period tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the tasks required to set up work cycles and work periods.

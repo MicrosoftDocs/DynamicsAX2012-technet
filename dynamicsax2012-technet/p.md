@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # P
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [PaaS](paas.md)
 
 [packing slip](packing-slip.md)

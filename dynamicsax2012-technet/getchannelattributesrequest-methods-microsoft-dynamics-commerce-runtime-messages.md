@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelAttributesRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelAttributesRequest](getchannelattributesrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

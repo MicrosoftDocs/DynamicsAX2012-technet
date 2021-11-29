@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderDetailsLayout Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderDetailsLayout](orderdetailslayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Methods

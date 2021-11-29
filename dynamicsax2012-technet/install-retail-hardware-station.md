@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Retail Hardware Station 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX Retail Hardware Station provides services for Microsoft Dynamics AX Retail Retail Modern POS (point of sale) clients and peripherals such as printers, cash drawers, or payment devices that enable these devices to communicate with Microsoft Dynamics AX Retail Server. This section includes the following information about how to install and configure Hardware Station.

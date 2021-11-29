@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FeatureNotSupportedErrors Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FeatureNotSupportedErrors](featurenotsupportederrors-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Fields

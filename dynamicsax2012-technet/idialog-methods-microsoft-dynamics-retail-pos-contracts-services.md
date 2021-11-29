@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDialog Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDialog](idialog-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

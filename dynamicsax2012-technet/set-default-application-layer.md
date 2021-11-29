@@ -16,6 +16,9 @@ f1_keywords:
 # Set default application layer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Microsoft Dynamics AX 2012 Configuration utility to specify the application layer that opens when you start the Microsoft Dynamics AX client. For more information about application layers, see [Layers](https://technet.microsoft.com/library/aa851164\(v=ax.60\)).

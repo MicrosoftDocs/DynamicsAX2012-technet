@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail sales by store report (RetailSalesByStore) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the sales performance for stores within a given date range. The report displays the sales performance of all stores that the user is assigned to, and also includes the store name, amount, cost of goods sold, quantity, profit margin, and profit margin percentage.

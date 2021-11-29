@@ -17,6 +17,9 @@ dev_langs:
 
 # PropertyUpdateNotAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a property cannot be updated on the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

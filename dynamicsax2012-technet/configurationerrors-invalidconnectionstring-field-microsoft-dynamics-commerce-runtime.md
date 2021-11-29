@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidConnectionString Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the database connection string is missing or invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

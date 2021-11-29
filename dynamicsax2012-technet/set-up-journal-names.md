@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up journal names 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To use fixed assets, you must set up the journal names that are the basis of the fixed asset journals. To use items from inventory as fixed assets, you must also set up journal names for the inventory to fixed asset journals.

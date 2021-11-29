@@ -21,6 +21,9 @@ dev_langs:
 
 # DualDisplayType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the dual display type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

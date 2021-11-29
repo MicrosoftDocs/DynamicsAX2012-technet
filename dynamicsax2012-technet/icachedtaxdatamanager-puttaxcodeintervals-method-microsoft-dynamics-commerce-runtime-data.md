@@ -17,6 +17,9 @@ dev_langs:
 
 # PutTaxCodeIntervals Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax code intervals.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

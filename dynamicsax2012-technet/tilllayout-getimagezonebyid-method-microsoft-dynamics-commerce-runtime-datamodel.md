@@ -17,6 +17,9 @@ dev_langs:
 
 # GetImageZoneById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets image zone by zone id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

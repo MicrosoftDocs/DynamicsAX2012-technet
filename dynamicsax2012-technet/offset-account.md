@@ -14,6 +14,9 @@ f1_keywords:
 
 # offset account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - In double-entry accounting, the account used to balance a transaction so that debits equal credits.
 
   - An account used to reduce the gross amount of another account to create a net balance.

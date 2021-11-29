@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) About EXIM duty drawback (DBK) incentive schemes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Duty drawback (DBK) incentive schemes are issued by the Directorate of Drawback. DBK is the rebate of any duty that is chargeable on imported or excisable materials that you use to manufacture or process goods that you then export from India. Duty drawback is the sum of the following amounts:

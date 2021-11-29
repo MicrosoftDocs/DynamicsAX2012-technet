@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveStockCountJournalTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the list of StockCount journal transactions for the corresponding Journal in RetailServer DB.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # R
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [radio frequency identification](radio-frequency-identification.md)
 
 [rate engine](rate-engine.md)

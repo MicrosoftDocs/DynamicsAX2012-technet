@@ -14,6 +14,9 @@ f1_keywords:
 
 # allocation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An assignment of a portion of a resource for a particular use or purpose.
 
 ## See also

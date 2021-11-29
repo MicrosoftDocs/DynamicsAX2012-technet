@@ -14,6 +14,9 @@ ms.search.region: Global
 # Perform invoice updates for returns 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A return order is a type of sales order that is marked as a returned order. Therefore, the **All sales orders** list page is used to generate invoices for return orders instead of the **Return orders** form. This Microsoft Dynamics AX functionality supports the business processes of organizations that choose to have return orders and sales orders invoiced at the same time and by the same person.

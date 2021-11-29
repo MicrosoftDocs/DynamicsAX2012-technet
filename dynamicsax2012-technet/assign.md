@@ -14,6 +14,9 @@ f1_keywords:
 
 # assign
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To designate an object for a particular use or purpose.
 
 ## See also

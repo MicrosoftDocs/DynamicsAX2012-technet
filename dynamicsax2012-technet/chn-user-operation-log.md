@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) User operation log 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The topic in this section provides information about generating a user operation log when you modify transactions and vouchers for a document such as a sales order.
 
 [(CHN) Generate a user operation log for transactions and voucher changes](chn-generate-a-user-operation-log-for-transactions-and-voucher-changes.md)

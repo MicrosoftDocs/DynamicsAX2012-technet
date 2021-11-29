@@ -13,6 +13,9 @@ f1_keywords:
 
 # two-way matching policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A matching policy that requires one or more vendor invoice prices to match with one or more purchase order prices.
 
 ## See also

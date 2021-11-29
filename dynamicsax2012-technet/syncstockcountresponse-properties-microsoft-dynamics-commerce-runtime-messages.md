@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SyncStockCountResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SyncStockCountResponse](syncstockcountresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

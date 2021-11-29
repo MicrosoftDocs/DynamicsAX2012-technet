@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post a customer invoice for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate and post a customer invoice for a sales order by using the **Posting invoice** form. You can post a customer invoice, and you can select whether to generate a report in the TORG-12 or M-15 format.

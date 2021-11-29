@@ -21,6 +21,9 @@ dev_langs:
 
 # DiscountOfferMethod Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specific method by which the discount is applied.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

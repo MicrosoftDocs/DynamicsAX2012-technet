@@ -17,6 +17,9 @@ dev_langs:
 
 # AdjustedPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the price after trade agreements and price adjustments have been applied.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

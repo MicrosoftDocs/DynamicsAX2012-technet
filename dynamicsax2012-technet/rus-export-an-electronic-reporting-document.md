@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Export an electronic reporting document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must export a reporting document to create a text file to submit to the tax authorities. Only the current version of the file is exported. The export format and file naming rules for the document are detected automatically.

@@ -17,6 +17,9 @@ dev_langs:
 
 # OnEndRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked as the last call before the response is returned to the caller.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

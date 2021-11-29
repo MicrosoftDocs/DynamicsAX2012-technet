@@ -17,6 +17,9 @@ f1_keywords:
 # (EEUR) Sales tax list report (TaxList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The procedures for reporting sales taxes, purchase taxes, and value-added taxes (VAT) to the tax authorities vary by country or region. Before you begin the process that is applicable for your country/region, you can view and analyze the amount of taxes collected and paid, and the related taxable transactions that were posted to Microsoft Dynamics AX.

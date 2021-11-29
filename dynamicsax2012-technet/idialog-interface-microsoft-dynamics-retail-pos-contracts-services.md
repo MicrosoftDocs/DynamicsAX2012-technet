@@ -17,6 +17,9 @@ dev_langs:
 
 # IDialog Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialog interface provides common implementation of various UI dialog boxes such as search, lookup, and various messages.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

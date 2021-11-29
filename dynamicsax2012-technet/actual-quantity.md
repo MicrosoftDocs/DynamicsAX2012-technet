@@ -14,6 +14,9 @@ f1_keywords:
 
 # actual quantity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The measured quantity that is input into or output from an activity.
 
 ## See also

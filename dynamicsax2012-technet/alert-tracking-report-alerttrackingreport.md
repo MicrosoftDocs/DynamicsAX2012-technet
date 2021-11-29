@@ -15,6 +15,9 @@ f1_keywords:
 # Alert tracking report (AlertTrackingReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Alert tracking** report shows the alerts that have been created for a specific table in the Microsoft Dynamics AX database.

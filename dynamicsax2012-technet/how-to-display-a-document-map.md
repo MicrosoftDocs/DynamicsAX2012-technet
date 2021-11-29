@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Display a Document Map 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can display a document map in an auto design report to help users navigate to different areas of a report. The document map displays in a separate pane adjacent to the body of the report. Data groupings determine the structure of a document map. For more information about data groupings, see [How to: Define Groupings in a Data Region](how-to-define-groupings-in-a-data-region.md). Report sections and data groupings are arranged in a hierarchical manner within a document map. Clicking an item in the document map refreshes the report and displays the area of the report that corresponds to the selected item. The following procedure explains how to display a document map in a report.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Using favorites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Favorites are a way to create shortcuts to forms, reports, and queries. As you add more favorites, you can organize your favorites into groups and folders.

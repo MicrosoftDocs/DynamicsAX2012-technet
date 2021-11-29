@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create an invoice for a time and material project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create an invoice proposal for selected transactions for a Time and material project. After the invoice proposal is reviewed and posted, you can create a project invoice to send to the customer.

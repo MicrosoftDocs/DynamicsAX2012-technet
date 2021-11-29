@@ -17,6 +17,9 @@ dev_langs:
 
 # PartitionKeyRequired Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Inidicates that the partition key was not specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

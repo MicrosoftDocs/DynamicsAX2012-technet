@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITransactionSystemV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITransactionSystemV2](itransactionsystemv2-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITenderDeclarationTransaction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITenderDeclarationTransaction](itenderdeclarationtransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

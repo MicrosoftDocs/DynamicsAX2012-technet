@@ -17,6 +17,9 @@ dev_langs:
 
 # BaseUserControl Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base control for dynamic inclusion of ascx files.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

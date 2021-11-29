@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up billing rules for project contracts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The following topics provide information about setting up billing rules for project contracts.

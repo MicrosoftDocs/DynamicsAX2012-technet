@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Advanced funding configuration key (ProjAdvFunding) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Advanced funding** configuration key controls the ability to define advanced billing rules in the project contract.

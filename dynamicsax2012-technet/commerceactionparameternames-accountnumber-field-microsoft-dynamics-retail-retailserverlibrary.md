@@ -17,6 +17,9 @@ dev_langs:
 
 # AccountNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The account number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

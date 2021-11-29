@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item variant inventory dimension given the item quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

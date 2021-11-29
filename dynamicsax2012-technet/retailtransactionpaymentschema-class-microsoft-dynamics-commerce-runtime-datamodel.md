@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailTransactionPaymentSchema Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DataManager class for Payment transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the payment card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

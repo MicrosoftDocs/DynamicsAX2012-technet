@@ -15,6 +15,9 @@ dev_langs:
 
 # ShowMessage Method (Int32)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ShowMessage methods display an arbitrary message, either by an ID or literal text, with optional combinations of buttons and icons.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

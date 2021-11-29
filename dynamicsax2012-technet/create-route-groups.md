@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create route groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create routing groups to define parameters for a group of routes. You can specify how costs are calculated, how planning occurs, how jobs are managed, and the kind of feedback that you want for the group.

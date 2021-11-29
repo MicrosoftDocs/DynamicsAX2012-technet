@@ -17,6 +17,9 @@ ms.search.region: Global
 # Qualify or disqualify a lead 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Depending on your organization’s configuration of this program, you may have to qualify a lead record to advance it to the next step in the business process. If you learn that a lead is no longer a potential sale, you can disqualify the lead to avoid spending more time with it.

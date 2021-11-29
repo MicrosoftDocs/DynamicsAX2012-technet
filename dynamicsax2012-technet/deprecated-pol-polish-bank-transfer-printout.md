@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (POL) Polish bank transfer printout 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Polish installations, Microsoft Dynamics AX 2009 provides country-specific modifications that let users use the bank transfer printout feature to print bank transfer documents that have a special design for Poland. The document is printed in the correct scale, and each document contains four slips. This feature uses the Microsoft Word file together with the template for bank transfer printouts.

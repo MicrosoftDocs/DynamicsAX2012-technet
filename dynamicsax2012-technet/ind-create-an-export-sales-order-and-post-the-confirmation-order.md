@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Create an export sales order and post the confirmation order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can apply for an Advance Authorization (AA) tax incentive, create and confirm an export sales order, export the order, and record annual consumption. Use this procedure to create an export sales order and post the confirmation order.

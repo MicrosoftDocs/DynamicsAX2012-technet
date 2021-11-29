@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShippingRateFromCarrierServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the request to a carrier to compute shipping address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

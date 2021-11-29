@@ -19,6 +19,9 @@ dev_langs:
 
 # CustomerOrderType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Type of Customer Order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

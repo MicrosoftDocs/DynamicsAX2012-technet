@@ -13,6 +13,9 @@ f1_keywords:
 
 # transfer batch
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The quantity of one or more items that is transferred or that can be transferred.
 
 ## See also

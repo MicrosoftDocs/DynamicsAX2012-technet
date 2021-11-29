@@ -17,6 +17,9 @@ dev_langs:
 
 # Initialize Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to initialize the class instance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

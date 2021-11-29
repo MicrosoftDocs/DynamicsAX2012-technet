@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequestInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequestInfo](requestinfo-class-microsoft-dynamics-retail-transactionservices-clientproxy.md) type exposes the following members.
 
 ## Properties

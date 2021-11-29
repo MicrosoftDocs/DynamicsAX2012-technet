@@ -17,6 +17,9 @@ dev_langs:
 
 # AccountRelation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer configuration identifier (could be customer identifier, price group identifier, or empty).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

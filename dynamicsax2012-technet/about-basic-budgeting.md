@@ -22,6 +22,9 @@ ms.search.region: Global
 # About basic budgeting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Organizations, whether private or public, set financial and operational goals by creating budgets. The users who are responsible for setting up and maintaining budgets can do so by using the basic budgeting features in Budgeting.

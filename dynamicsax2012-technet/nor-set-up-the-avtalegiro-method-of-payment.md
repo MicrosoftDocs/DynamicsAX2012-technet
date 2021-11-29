@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the Avtalegiro method of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 AvtaleGiro is an agreement where a customer gives you permission to directly debit the customer’s account for a specified amount on a certain date.

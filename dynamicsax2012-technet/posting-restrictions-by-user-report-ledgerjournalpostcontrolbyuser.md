@@ -14,6 +14,9 @@ f1_keywords:
 # Posting restrictions by user report (LedgerJournalPostControlByUser) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view posting restriction information for users. This information includes the user name, journal type, and journal name. Posting restrictions determine whether specific users or user groups can post only journals that they create. For more information, see [Set up posting restrictions](set-up-posting-restrictions.md).

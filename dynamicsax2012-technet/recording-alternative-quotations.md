@@ -19,6 +19,9 @@ ms.search.region: Global
 # Recording alternative quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sometimes, your customers want more than one quotation for the items that they are interested in. Typically, they want items in a range of prices. In these situations, you can send several alternative quotations and link them. Each quotation might reflect different materials (for example, steel, copper, or aluminum) or different finishes (for example, brushed, polished, or matte).

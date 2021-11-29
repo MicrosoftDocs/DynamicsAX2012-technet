@@ -17,6 +17,9 @@ dev_langs:
 
 # DosageStrengthUnit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The unit the dosage strength is measured in, i.e mg, ml, etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

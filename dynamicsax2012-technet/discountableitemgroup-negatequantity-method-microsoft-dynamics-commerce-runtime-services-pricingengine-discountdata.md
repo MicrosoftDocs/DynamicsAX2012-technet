@@ -17,6 +17,9 @@ dev_langs:
 
 # NegateQuantity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Multiplies the quantities for each line by -1, for use in processing negative quantities just as positive quantities are processed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail operations manager security role (RetailOperationsManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The Retail operations manager security role represents a user who is responsible for the day-to-day management of retail stores, terminals, staff, and retail headquarters. This person handles all operational duties that are not related to merchandising.

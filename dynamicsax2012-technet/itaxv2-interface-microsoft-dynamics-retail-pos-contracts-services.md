@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaxV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 2.0 of Tax interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

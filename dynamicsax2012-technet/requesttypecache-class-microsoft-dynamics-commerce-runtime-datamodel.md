@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestTypeCache Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class keeps the results of request type reflection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

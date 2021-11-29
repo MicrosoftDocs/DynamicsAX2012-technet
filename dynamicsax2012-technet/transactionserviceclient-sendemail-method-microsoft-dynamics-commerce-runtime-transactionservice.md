@@ -17,6 +17,9 @@ dev_langs:
 
 # SendEmail Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends an email to a customer using the provided emailId in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

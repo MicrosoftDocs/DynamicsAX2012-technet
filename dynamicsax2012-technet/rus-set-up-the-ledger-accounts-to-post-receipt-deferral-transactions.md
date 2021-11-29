@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the ledger accounts to post receipt deferral transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Deferrals posting profiles** form to set up ledger accounts for receipt transactions that are related to deferred expenses. For more information, see [(RUS) Deferrals posting profiles (form)](https://technet.microsoft.com/library/jj665468\(v=ax.60\)).

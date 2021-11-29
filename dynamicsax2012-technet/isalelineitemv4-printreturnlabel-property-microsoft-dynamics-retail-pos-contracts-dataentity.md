@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintReturnLabel Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if the item should to print return label
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

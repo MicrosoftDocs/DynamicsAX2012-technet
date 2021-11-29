@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) Legal text ID validation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In releases before Microsoft Dynamics AX 2012 R2, legal texts are created from the Accounts receivable and Accounts payable modules in the **Sales texts** and **Receipt invoice texts** forms, and are stored in two separate tables. You could create legal texts with same identification code in the **Sales texts** and **Receipt invoice texts** forms. For example, you could create a sales legal text and a purchase legal text with the same 001 identification code in the **Sales texts** and **Receipt invoice texts** forms.

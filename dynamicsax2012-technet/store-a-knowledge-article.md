@@ -14,6 +14,9 @@ ms.search.region: Global
 # Store a knowledge article 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Knowledge article** form in Microsoft Dynamics AX to register, collect, and categorize links to files and documents that are located outside Microsoft Dynamics AX. This includes hyperlinks to Internet or intranet sites.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomerAffiliation Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ICustomerAffiliation interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

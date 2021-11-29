@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Generate a fixed asset note report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fixed asset note report is an itemization of fixed asset notes for a specific calendar year.

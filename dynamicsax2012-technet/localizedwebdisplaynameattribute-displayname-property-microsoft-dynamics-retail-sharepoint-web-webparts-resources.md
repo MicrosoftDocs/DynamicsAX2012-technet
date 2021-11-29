@@ -17,6 +17,9 @@ dev_langs:
 
 # DisplayName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Return value from the webpart's resource file.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources](microsoft-dynamics-retail-sharepoint-web-webparts-resources-namespace.md)  

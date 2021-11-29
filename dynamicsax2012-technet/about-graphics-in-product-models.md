@@ -15,6 +15,9 @@ ms.search.region: Global
 # About graphics in product models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 With the help of graphics, you can present a drawing of the configured item that reflects the choices made in the user dialog box. If the user makes the setup for the drawings for a product model, the drawing will show on a separate tab in the user dialog box and it will be available for printing from the order line that the item is being configured from.

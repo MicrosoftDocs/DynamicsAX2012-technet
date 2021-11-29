@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterWebApplicationForMonitoringDiscovery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Register web application in the registry, so monitoring applications can discover it.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

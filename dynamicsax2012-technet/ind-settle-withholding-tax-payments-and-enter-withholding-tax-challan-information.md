@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Settle withholding tax payments and enter withholding tax challan information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Periodically, you must settle withholding tax payments with tax authorities. Complete the following procedures to settle withholding tax payments for the Tax Deducted at Source (TDS) and Tax Collected at Source (TCS) tax types and enter withholding tax challan information.

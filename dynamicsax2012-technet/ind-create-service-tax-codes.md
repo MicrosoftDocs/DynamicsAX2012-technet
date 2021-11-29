@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create service tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create service tax codes for the service tax that your organization calculates and pays to the service tax authorities. Specify the percentage for the calculation of service tax in the **Sales tax codes** form.

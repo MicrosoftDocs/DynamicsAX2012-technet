@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DemoServiceResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DemoServiceResponse](demoserviceresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

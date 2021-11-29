@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableDrawers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the collection of properties of currently available cash drawers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

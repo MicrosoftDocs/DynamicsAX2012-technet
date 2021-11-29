@@ -22,6 +22,9 @@ ms.search.region: Global
 # About capabilities for operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A capability is the ability of a resource to perform a given activity relevant to production and the scheduling of resources for production.

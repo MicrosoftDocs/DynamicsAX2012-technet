@@ -14,6 +14,9 @@ ms.search.region: Global
 # View subledger journals for vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Subledger journal** form to view the debits and credits for vendor invoice lines. For more information about subledger journals, see [About accounting distributions and subledger journal entries for vendor invoices](about-accounting-distributions-and-subledger-journal-entries-for-vendor-invoices.md).

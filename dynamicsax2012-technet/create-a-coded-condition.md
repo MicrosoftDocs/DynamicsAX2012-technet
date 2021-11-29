@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a Coded condition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Coded conditions are written in X++ code. In the **Parameters** field group, variables that can be used in the code are selected. The code is expected to return a Boolean operator. If the code returns TRUE, a configuration is invalid.

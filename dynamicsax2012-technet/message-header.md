@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Message Header 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the \<Header\> tag section of inbound and outbound messages in Application Integration Framework (AIF). For more information about AIF messages, see [AIF Messages](aif-messages.md).

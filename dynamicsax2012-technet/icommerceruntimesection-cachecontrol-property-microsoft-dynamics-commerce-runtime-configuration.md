@@ -17,6 +17,9 @@ dev_langs:
 
 # CacheControl Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cache control element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

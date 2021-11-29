@@ -17,6 +17,9 @@ ms.search.region: Global
 # View projected forecast transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view projected inventory transactions that originated from a forecast. You may want to view these transactions when, for example, a forecast line specifies a total transaction amount instead of an item quantity. In this situation, one forecast line can produce several inventory forecast lines.

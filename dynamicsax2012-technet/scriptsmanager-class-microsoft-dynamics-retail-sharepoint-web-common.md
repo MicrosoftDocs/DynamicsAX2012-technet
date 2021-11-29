@@ -17,6 +17,9 @@ dev_langs:
 
 # ScriptsManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manages the core scripts that are needed by the storefront.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailTextBox Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The email text box.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

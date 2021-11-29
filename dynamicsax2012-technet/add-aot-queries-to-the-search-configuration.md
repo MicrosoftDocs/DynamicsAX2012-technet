@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Add AOT queries to the Search configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to add a new query for the Microsoft Dynamics AX Application Object Tree (AOT) to the Search configuration. After you add one or more queries to the Search configuration, you can publish the configuration so that the underlying database tables are indexed for Search.

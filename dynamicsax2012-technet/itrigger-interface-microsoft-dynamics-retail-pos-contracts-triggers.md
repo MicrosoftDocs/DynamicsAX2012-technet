@@ -17,6 +17,9 @@ dev_langs:
 
 # ITrigger Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ITrigger that is a base for all the trigger interfaces.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

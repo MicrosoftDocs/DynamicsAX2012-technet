@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure globally unique store identifiers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Store identifiers in Retail installations of Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012 R2, and Microsoft Dynamics AX 2012 R3 are shared globally across companies. Therefore, when you upgrade an installation of Microsoft Dynamics AX 2009 for Retail that has multiple companies, you must assign a globally unique identifier to each store.

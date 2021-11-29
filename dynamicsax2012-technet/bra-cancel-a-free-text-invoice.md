@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Cancel a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel a posted free text invoice that is incorrect. When you cancel a free text invoice, a negative free text invoice is created. When you post the negative free text invoice, the original and negative free text invoices are marked as canceled, and all the ledger and financial transactions are reversed. The original transaction is reported in the fiscal books as canceled, and the negative transaction is not reported in the fiscal books.

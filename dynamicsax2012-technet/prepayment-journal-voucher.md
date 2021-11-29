@@ -13,6 +13,9 @@ f1_keywords:
 
 # prepayment journal voucher
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount that is paid for items or services that have not been received.
 
 ## See also

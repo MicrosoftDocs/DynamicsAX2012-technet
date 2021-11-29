@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDeliveryOptionDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service request to get the delivery option.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

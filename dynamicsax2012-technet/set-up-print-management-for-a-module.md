@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up print management for a module 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up print management original or copy records and conditional settings for modules such as Accounts receivable and Accounts payable. The print management setup information that you enter is used when documents such as sales orders and purchase orders are printed during the posting process.

@@ -22,6 +22,9 @@ ms.search.region: Global
 # About audit cases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Audit cases** page to view and filter the list of audit cases, or to export audit case data to Microsoft Excel. Each audit case is a group of related audit policy violations.

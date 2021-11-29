@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Adjust the cost price in reporting currency by on-hand adjustment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you run the inventory closing process, you can adjust the inventory cost price for the remaining inventory items. The adjustment amount is assigned to all open receipts. You can perform adjustments of on-hand inventory only after the inventory closing process is run. You can view the adjusted amounts in the **Adjustment (cur.)** field in the **Transactions** form. For more information, see [(RUS) Inventory transactions (modified form)](https://technet.microsoft.com/library/jj733410\(v=ax.60\)).

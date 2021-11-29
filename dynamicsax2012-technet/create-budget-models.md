@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create budget models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Budget model** form to create various budget models. You can use a single budget model for all or some of the budgets, or you can create a budget model for each budget.

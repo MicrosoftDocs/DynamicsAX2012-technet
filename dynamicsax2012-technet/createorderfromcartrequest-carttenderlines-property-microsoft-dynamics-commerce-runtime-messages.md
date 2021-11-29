@@ -17,6 +17,9 @@ dev_langs:
 
 # CartTenderLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets collection of the CartTenderLines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

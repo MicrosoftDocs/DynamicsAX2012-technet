@@ -17,6 +17,9 @@ dev_langs:
 
 # AddColumn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a new column to the shopping cart grid with the specified header text and column elements.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

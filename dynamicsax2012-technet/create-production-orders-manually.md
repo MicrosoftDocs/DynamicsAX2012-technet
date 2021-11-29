@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create production orders manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add a new production order manually for any item in production. When you add a new production order manually, all base data information that is associated with the selected item is automatically available in the new order, and you can change it if necessary. The **Item number** and **Quantity** fields are blank when the order is first created. Select or enter the relevant information.

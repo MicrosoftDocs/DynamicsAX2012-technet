@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed-price project
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of project in which the customer pays a predetermined amount for the entire project.
 
 ## See also

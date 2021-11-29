@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IssueLoyaltyCardRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IssueLoyaltyCardRequest](issueloyaltycardrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

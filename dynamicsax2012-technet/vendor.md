@@ -13,6 +13,9 @@ f1_keywords:
 
 # vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A party that supplies products to one or more legal entities in exchange for payment.
 
 ## See also

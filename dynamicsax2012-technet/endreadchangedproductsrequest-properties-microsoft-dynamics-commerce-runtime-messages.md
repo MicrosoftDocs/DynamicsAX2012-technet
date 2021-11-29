@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EndReadChangedProductsRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EndReadChangedProductsRequest](endreadchangedproductsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

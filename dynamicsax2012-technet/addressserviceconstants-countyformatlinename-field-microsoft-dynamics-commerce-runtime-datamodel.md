@@ -18,6 +18,9 @@ dev_langs:
 
 # CountyFormatLineName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The county format line name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

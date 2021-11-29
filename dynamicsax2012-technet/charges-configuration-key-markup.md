@@ -14,6 +14,9 @@ f1_keywords:
 # Charges configuration key (Markup) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Charges** configuration key controls access to the setup and use of charges such as invoice fees, freight, or insurance in sales and purchase orders and also in free-text invoices.

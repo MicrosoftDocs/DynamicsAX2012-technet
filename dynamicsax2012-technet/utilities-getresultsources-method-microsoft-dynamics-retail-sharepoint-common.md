@@ -17,6 +17,9 @@ dev_langs:
 
 # GetResultSources Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns an enumerator with the result Sources
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

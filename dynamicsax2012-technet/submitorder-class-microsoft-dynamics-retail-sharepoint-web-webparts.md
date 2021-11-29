@@ -17,6 +17,9 @@ dev_langs:
 
 # SubmitOrder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The submit order control places the order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

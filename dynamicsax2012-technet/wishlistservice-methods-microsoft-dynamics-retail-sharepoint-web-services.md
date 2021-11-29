@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WishListService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WishListService](wishlistservice-class-microsoft-dynamics-retail-sharepoint-web-services.md) type exposes the following members.
 
 ## Methods

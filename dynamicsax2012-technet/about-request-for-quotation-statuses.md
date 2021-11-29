@@ -29,6 +29,9 @@ ms.search.region: Global
 # About request for quotation statuses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The status of a request for quotation (RFQ) is shown in the RFQ header and depends on the statuses of the RFQ lines. The status indicates the extent to which you have processed the RFQ. Each RFQ has two values for the status: lowest and highest. The lowest status is the least advanced stage of any line in the RFQ, and the highest status is the most advanced stage of any line in the RFQ. For example, if the least advanced stage in an RFQ is for a line that has been created, the lowest status for the RFQ is **Created**. If the most advanced stage in the RFQ is for a line that has been sent to vendors, the highest status for the RFQ is **Sent**. The statuses are automatically updated as you process an RFQ.

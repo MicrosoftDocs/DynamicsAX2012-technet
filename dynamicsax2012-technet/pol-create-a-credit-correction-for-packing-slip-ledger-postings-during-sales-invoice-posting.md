@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create a credit correction for packing slip ledger postings during sales invoice posting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For a sales order, you can post a packing slip for credit correction in the **Posting packing slip** form. The posted packing slip is reversed when the invoice is posted as a correction transaction.

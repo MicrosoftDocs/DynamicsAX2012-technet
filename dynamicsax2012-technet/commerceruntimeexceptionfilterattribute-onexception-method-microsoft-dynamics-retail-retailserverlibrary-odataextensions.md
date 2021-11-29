@@ -17,6 +17,9 @@ dev_langs:
 
 # OnException Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The CommerceRuntime exception handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

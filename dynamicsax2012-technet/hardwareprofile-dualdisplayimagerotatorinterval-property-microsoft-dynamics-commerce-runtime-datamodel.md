@@ -17,6 +17,9 @@ dev_langs:
 
 # DualDisplayImageRotatorInterval Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the dual display image rotation interval in seconds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

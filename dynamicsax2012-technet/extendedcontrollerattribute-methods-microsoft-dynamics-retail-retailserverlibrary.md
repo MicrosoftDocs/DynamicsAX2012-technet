@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ExtendedControllerAttribute Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ExtendedControllerAttribute](extendedcontrollerattribute-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Methods

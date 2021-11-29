@@ -23,6 +23,9 @@ ms.search.region: Global
 # About reporting production orders as finished 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The production stages Release, Start, and Report as finished are a part of actual production control. These stages direct or control the movement of goods through the complete manufacturing cycle, from the requisitioning of raw materials to the delivery of finished products.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up transportation parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Before you start using **Transportation management**, you can set up default values to reduce the data that must be entered when you perform transportation tasks. For example, you can create text for the default freight bill transaction that always appears on the journal line that is generated for freight bills.

@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyPayment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether it is a loyalty card refund.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.Transaction.MemoryTables](microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables-namespace.md)  

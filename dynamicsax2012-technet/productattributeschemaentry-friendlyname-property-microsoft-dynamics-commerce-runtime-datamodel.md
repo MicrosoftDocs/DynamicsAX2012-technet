@@ -17,6 +17,9 @@ dev_langs:
 
 # FriendlyName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the friendly name of the attribute suitable for display to the end user.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

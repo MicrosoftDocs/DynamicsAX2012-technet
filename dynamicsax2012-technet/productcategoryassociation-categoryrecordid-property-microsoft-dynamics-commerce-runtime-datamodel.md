@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryRecordId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the associated category record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

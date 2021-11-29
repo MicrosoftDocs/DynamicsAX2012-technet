@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournalServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetStockCountJournalResponse is the response class for GetStockCount journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

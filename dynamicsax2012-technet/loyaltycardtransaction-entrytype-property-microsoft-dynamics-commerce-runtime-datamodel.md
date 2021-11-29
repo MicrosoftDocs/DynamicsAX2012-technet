@@ -17,6 +17,9 @@ dev_langs:
 
 # EntryType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the entry type of the reward point, e.g. Earn, Redeem.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

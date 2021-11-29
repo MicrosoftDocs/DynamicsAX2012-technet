@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Intelligent Data Management Framework (IDMF) installation guide
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the system requirements and steps to install the Microsoft Dynamics AX Intelligent Data Management Framework (IDMF). 

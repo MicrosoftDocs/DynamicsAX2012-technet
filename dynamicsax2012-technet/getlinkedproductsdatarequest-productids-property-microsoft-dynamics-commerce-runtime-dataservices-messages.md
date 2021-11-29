@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages (in Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.dll)
 

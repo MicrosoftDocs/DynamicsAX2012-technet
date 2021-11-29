@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestedAction Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the action requested by catalog publisher.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

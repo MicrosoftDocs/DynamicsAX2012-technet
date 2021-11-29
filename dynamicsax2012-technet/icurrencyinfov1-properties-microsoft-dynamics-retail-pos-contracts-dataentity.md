@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICurrencyInfoV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICurrencyInfoV1](icurrencyinfov1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

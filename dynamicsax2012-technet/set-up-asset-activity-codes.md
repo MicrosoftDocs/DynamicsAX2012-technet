@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up asset activity codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up asset activity codes in the **Asset activity codes** form. You can then track fixed assets according to the activity categories they are used for, such as construction and other types of equipment.

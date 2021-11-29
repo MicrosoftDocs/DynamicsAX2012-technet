@@ -17,6 +17,9 @@ dev_langs:
 
 # BlankOperation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Blank operation handles custom operations.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -16,6 +16,9 @@ f1_keywords:
 # Generate upgrade task prioritization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Data upgrade checklist** item **Generate upgrade task prioritization** to plan the sequence of bulk copy and post-synchronization script operations during data upgrade. Data upgrade takes place while both the source system and the target system are in single-user mode. Consequently, business operations on Microsoft Dynamics AX are suspended during this time. Bulk copy and script operations, which run concurrently to minimize system downtime, must be prioritized to make the most efficient use of available processing capacity. Microsoft Dynamics AX uses a weighting algorithm to create a default prioritization, though you can use the **Prioritized upgrade scripts** form to override default priorities as needed to increase efficiency.

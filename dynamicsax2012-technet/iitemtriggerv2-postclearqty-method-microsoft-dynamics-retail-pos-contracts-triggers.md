@@ -17,6 +17,9 @@ dev_langs:
 
 # PostClearQty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after clear the quantity of an item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

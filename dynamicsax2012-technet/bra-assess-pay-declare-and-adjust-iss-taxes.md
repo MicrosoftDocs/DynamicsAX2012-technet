@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Assess, pay, declare, and adjust ISS taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to determine the amount of Brazilian service tax or Imposto sobre Serviços (ISS) to be paid to São Paulo for each fiscal establishment, and for each service code and tax rate.

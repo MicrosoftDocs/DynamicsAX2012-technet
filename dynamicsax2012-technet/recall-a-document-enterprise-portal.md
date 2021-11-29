@@ -14,6 +14,9 @@ ms.search.region: Global
 # Recall a document (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you want the workflow system to stop processing a document that you have submitted, use one of the following procedures to recall the document.

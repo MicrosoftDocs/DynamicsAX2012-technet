@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidTenderLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids the cart tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

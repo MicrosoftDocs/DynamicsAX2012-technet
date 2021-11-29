@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Set up the financial reports generator 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the Russian financial reports generator (FRG) to generate reports by using Microsoft Word and Microsoft Excel templates. The FRG is used to generate accounting report forms, tax declarations, and other reports for ledger transactions, budgets, and tax registers. The format of the FRG is determined in advance, and each cell is set up independently of the others.

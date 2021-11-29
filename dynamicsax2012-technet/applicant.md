@@ -14,6 +14,9 @@ f1_keywords:
 
 # applicant
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person who makes a formal written or electronic request to work for or fill an open position in an organization.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About quotation probability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use quotation probability codes to indicate the probability that the quotation will become a sales order or a project. The quotation probability is expressed as a percentage between 0–100 percent, and each quotation must have a probability defined for it when it is created.

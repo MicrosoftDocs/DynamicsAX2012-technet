@@ -17,6 +17,9 @@ dev_langs:
 
 # InventDimId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the inventory dimension id of the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

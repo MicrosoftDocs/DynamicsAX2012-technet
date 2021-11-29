@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomersDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomersDataRequest](getcustomersdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

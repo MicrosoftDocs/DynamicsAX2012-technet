@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a cost journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cost journal is used to create and post cost transactions. Before you enter and post cost transactions, you must create a cost journal by using one of the journal names that is created in the **Journal names** form (Click **Cost accounting** \> **Setup** \> **Journal names**.)

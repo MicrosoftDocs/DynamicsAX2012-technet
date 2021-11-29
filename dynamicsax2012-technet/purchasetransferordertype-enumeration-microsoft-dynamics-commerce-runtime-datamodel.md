@@ -23,6 +23,9 @@ dev_langs:
 
 # PurchaseTransferOrderType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The different order types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

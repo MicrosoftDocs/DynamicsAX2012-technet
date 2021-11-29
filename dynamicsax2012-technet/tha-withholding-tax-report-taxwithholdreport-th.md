@@ -19,6 +19,9 @@ f1_keywords:
 # (THA) Withholding tax report (TaxWithholdReport\_TH) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Withholding tax reports in Thailand must be generated and submitted to the Revenue Department of Thailand. Withholding tax reports can be printed in the following formats:

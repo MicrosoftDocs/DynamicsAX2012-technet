@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up aging period definitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use aging period definitions to analyze the maturity of customer accounts and vendor accounts, based on a date that you enter. Each aging period that you set up for the aging period definition corresponds to a column on the list page or in the form or report when the analysis is performed.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Key tasks: Create and share an Excel template by using the Office Add-ins 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 integrates automatically with Microsoft Excel. You can use tools and functionality in Excel to work with data in AX 2012. You can export data from AX 2012 to Excel, work with the data there, and then import the data back into AX 2012.

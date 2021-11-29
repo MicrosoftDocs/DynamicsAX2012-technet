@@ -19,6 +19,9 @@ ms.search.region: USA
 # (USA) Import a BAI2 statement and manually reconcile the accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Bank Administration Institute (BAI) file format is used to electronically transmit transaction data from a bank to an organization. Bank Administration Institute version 2 (BAI2) splits the payment amount into separate invoice references and corresponding payments. You can use this format to do the following tasks:

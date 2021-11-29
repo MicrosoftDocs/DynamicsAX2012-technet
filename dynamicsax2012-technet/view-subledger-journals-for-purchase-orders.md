@@ -14,6 +14,9 @@ ms.search.region: Global
 # View subledger journals for purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Subledger journal** form to view the debits and credits for purchase order lines. This form is available from a purchase order only if the **Enable encumbrance process** check box is cleared in the **General ledger parameters** form.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardCurrencyDifferentFromChannelCurrencyError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the error message that the gift card has a different currency than the store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

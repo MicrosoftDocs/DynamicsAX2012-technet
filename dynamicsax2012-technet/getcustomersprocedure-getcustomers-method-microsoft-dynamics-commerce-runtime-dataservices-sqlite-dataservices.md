@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite (in Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.dll)
 

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Project Upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The report upgrade tool is a command line tool that helps you prepare Microsoft Dynamics AX 2009 SQL Server Reporting Services report libraries for the Microsoft Dynamics AX 2012 AOT environment. This is a required step for Microsoft Dynamics AX 2009Reporting Services reports that you want to upgrade to Microsoft Dynamics AX 2012 Reporting Services reports because metadata is now accessed in the AOT nodes instead of .moxl files.

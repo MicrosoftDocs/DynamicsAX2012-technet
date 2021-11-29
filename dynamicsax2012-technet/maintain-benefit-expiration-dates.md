@@ -34,6 +34,9 @@ ms.search.region: Global
 # Maintain benefit expiration dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Mass benefit expiration allows you to change the expiration date of a benefit and of the enrollments of workers enrolled in that benefit at the same time. You can also select multiple workers who are enrolled in a benefit and change the ending date of their coverage. Depending on your version of Microsoft Dynamics AX 2012, the date when a worker’s coverage in a benefit expires may be called the enrollment end date or the coverage end date.

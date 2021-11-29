@@ -18,6 +18,9 @@ ms.search.region: India
 # (IND) Post service tax transactions by using a customer payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Payment journal** form to create and post service tax transactions that you receive from customers. You can specify the service code and the service category for each journal line before you post the journal.

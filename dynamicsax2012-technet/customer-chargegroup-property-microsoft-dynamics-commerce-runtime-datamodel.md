@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the customer's charge (markup) group for autocharges and shipping charges.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

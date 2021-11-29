@@ -33,6 +33,9 @@ ms.search.region: Brazil
 # (BRA) Set up, import, and verify NF-e XML documents and DANFE that you receive in emails 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up and use Microsoft Dynamics AX to import Nota Fiscal eletrônica (NF-e) XML documents and Documento Auxiliar da Nota Fiscal Eletrônica (DANFE) that you receive in emails. For more information, see [(BRA) Import and verify NF-e XML documents and DANFE that you receive in emails](bra-import-and-verify-nf-e-xml-documents-and-danfe-that-you-receive-in-emails.md).

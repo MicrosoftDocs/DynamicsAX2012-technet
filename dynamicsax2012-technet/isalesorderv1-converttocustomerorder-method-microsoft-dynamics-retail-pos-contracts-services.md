@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertToCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts the given transaction into a customer sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

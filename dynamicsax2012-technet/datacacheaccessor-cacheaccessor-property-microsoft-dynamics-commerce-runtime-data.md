@@ -17,6 +17,9 @@ dev_langs:
 
 # CacheAccessor Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets interface for cache data store, use the interface methods to access the data store (get, put and evict methods).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

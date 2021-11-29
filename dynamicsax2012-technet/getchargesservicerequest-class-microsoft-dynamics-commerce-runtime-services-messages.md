@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChargesServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to populate the auto-charges, price charges, and shipping charges on a transaction and its lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

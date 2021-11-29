@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN, USA) About vendor payment journal reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Vendor payment journal** and the **Vendor posted payment journal** reports to view account and payment details for individual vendors. Amounts on the reports are displayed in the currency of the payment and in the original currency for the transaction. Unapplied payments are included, but payment details are not included.

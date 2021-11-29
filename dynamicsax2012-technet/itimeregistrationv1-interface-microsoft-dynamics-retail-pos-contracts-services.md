@@ -17,6 +17,9 @@ dev_langs:
 
 # ITimeRegistrationV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 1.0 of TimeRegistration interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

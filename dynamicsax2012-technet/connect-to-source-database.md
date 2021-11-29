@@ -15,6 +15,9 @@ f1_keywords:
 # Connect to source database 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Connect to source database** task in the **Data upgrade checklist** establishes a connection between the Microsoft Dynamics AX source system database and the target system database. After you make this connection, you can begin preparing the target database for the bulk-copy operation that occurs during data upgrade.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Id Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft Dynamics AX rec ID
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

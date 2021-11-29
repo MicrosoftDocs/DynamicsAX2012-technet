@@ -13,6 +13,9 @@ f1_keywords:
 
 # foreign currency translation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A procedure for recording revalued functional currency account balances when restating account balances in a reporting currency.
 
 ## See also

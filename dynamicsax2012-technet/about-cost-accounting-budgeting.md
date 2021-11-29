@@ -15,6 +15,9 @@ ms.search.region: Global
 # About cost accounting budgeting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Budgeting is a forecasting feature that enables you to plan costs for the future. It extends the budgeting functionality of the general ledger, and makes it possible to transfer budget amounts from the general ledger.

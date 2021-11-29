@@ -17,6 +17,9 @@ dev_langs:
 
 # ToCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the currency code to which to convert.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

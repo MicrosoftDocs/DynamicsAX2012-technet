@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MarkReturnedItemsServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MarkReturnedItemsServiceRequest](markreturneditemsservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodesByGroupOrSingleId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason codes by group or single identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

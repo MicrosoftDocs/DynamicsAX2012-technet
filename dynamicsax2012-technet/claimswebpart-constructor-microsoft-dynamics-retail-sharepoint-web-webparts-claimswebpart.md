@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimsWebPart Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ClaimsWebPart](microsoft-dynamics-retail-sharepoint-web-webparts-claimswebpart-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.WebParts (in Microsoft.Dynamics.Retail.SP.Web.WebParts.dll)
 

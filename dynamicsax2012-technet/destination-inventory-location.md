@@ -13,6 +13,9 @@ f1_keywords:
 
 # destination inventory location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An inventory location where materials required by a final kanban production activity or transfer activity are received.
 
 ## See also

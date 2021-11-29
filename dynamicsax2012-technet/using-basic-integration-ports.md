@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Basic Integration Ports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Basic integration ports provide a way to define an endpoint for a service in Microsoft Dynamics AX. For example, you might create a basic port to use when you are testing a custom service in a non-production environment, and then create an enhanced port for the service in a production environment. Like an enhanced port, a basic port can contain more than one service. All services on one port must be either document services or custom services to guarantee consistency in the generated Web Services Description Language (WSDL).

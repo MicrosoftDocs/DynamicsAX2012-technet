@@ -17,6 +17,9 @@ dev_langs:
 
 # Excluded Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Whether the item line is to be excluded
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

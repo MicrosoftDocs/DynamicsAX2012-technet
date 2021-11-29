@@ -17,6 +17,9 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 # (THA, SAU, GBR, IRL) Set up a withholding tax code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a withholding tax code by using the **Withholding tax codes** form. After you create the code, you can assign a tax rate, exemption percentage, reporting currency, origin, and realization point. For more information, see [Withholding tax codes (form)](https://technet.microsoft.com/library/aa585361\(v=ax.60\)).

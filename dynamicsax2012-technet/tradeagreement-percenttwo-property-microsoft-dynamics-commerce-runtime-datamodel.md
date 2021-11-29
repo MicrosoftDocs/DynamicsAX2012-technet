@@ -17,6 +17,9 @@ dev_langs:
 
 # PercentTwo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the second percentage from this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

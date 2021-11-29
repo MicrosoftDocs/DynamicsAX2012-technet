@@ -23,6 +23,9 @@ ms.search.region: India
 # (IND) Generate and print an excise invoice for goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can generate and print an excise invoice for goods that are transported from a factory or warehouse using a sales order, a stock transfer order, or a purchase return order. You can modify the assessable value to calculate the excise duty in a stock transfer order.

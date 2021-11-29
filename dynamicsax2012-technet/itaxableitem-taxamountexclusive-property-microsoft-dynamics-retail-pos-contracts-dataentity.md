@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxAmountExclusive Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax amount that comes from an exclusive tax code, which indicates that an item price does not include tax. For example, for an item that is priced at $11.00, a tax exclusive rate equaling 10% would result in a tax of $1.10 (.10\*11.00).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

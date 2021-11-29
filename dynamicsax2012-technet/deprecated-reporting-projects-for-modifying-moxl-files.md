@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Reporting Projects for modifying .moxl files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, a Reporting Project is used when users modify .moxl files, which are representations of report models in files.

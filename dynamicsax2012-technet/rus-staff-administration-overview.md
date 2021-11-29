@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Staff administration overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In this section, you can configure the staff administration parameters and organizational structure for employees. The Human Resources Manager can hire, transfer, and dismiss a worker, and manage the workforce process. You can use the information that is created by the Human Resources department for payroll accounting. You can also print a list of staff administration reports.

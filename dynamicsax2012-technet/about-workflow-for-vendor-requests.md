@@ -15,6 +15,9 @@ ms.search.region: Global
 # About workflow for vendor requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All vendor requests are routed by workflow to the workers who are assigned to review them. The reviewers evaluate the requests, and then approve or reject them.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post an inventory journal for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Counting** form to create and post an inventory counting journal for an item that is stored in a warehouse.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Microsoft Dynamics AX form list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides a list of the Help topics for the forms in Microsoft Dynamics AX. These topics provide descriptions of the fields, buttons, tabs, and other controls in the forms, and other information about the purpose of the form. When you’re looking for information about a specific form, you can start your search in this topic. To search quickly, press Ctrl+F and enter the name of the form. In some cases, you can also enter the Application Object Tree (AOT) name of the form to search.

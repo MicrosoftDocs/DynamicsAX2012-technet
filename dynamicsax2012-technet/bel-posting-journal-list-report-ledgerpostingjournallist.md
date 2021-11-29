@@ -16,6 +16,9 @@ f1_keywords:
 # (BEL) Posting journal list report (LedgerPostingJournalList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Posting journal list** report lists the posted ledger transactions with totals for each posting journal. You can print specific journal types or transactions within a specific date range. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, accounting supervisors, and financial controllers to inquire into the status of general ledger transactions.

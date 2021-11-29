@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add an Embedded Image 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An embedded image is one that is added directly to a model in your reporting project. Before you add an image to a model, you first need to decide how the image will be used in your reports. You can add the image so that it is available to all reports within the model or to just a single report. After an image has been added to a model, it can be easily referenced by a report. The following procedure explains how to add an embedded image.

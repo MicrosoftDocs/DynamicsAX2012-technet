@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStoreId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the store associated with the sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

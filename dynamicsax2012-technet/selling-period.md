@@ -13,6 +13,9 @@ f1_keywords:
 
 # selling period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The period of time between an item or right receipt date and its expiration date.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up currency exchange rates (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up and define currency exchange rates between any two currencies, or a currency pair. The exchange rate that is calculated is based on the accounting currency, reporting currency, and exchange rate type for the legal entity. Currencies are shared and can be used by any legal entity.

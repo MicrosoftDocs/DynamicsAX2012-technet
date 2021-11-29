@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShipmentsResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response for the [GetShipmentsRequest](getshipmentsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

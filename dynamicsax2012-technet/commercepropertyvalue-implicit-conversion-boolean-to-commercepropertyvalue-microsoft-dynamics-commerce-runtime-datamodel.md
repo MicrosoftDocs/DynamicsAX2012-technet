@@ -15,6 +15,9 @@ dev_langs:
 
 # Implicit Conversion (Boolean to CommercePropertyValue)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines implicit bool-to-CommercePropertyValue conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

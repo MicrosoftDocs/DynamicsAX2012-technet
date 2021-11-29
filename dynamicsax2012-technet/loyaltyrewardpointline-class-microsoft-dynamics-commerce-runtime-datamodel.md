@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyRewardPointLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a transaction line for the loyalty reward points.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

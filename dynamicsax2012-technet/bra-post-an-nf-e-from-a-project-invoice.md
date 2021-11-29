@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Post an NF-e from a project invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a project invoice to generate a nota fiscal eletrônica (NF-e). When you post a project invoice, an NF-e XML file is generated and submitted to the Secretaria da Fazenda (SEFAZ).

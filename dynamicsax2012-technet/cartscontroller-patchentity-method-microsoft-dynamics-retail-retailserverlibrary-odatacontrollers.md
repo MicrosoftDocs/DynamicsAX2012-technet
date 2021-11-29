@@ -17,6 +17,9 @@ dev_langs:
 
 # PatchEntity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Patches Cart entity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

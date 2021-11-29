@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Schedule Retail data distribution (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to run and modify jobs and subjobs to distribute data to stores.

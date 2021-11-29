@@ -17,6 +17,9 @@ dev_langs:
 
 # FetchDeliveryOptionsForLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether to get the delivery options for line level or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardStatusRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the request for getting the status of a loyalty card including card tiers and reward points status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

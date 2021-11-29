@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update-type events 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Update events are part of the rules that trigger alerts when data is changed in the application. The following table explains the options that are available for update events.

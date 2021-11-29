@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update standard costs in a nonmanufacturing environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Nonmanufacturing and distribution environments maintain standard costs for purchased items. Maintaining standard costs includes updating the standard costs throughout the frozen period. Updates may reflect new items, corrections, or cost changes. The following guidelines assume the use of a two-version approach to updating standard cost. One costing version contains the originally defined standard costs for the frozen period, and the second costing version contains the incremental updates. Each update is entered as a cost record that is enclosed in the second costing version, and eventually it is enabled. An alternative, one-version approach uses the originally defined set of standard costs.

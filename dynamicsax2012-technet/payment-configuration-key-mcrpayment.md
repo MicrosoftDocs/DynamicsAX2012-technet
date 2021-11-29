@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Payment configuration key (MCRPayment) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Payment** configuration key controls access to payment functionality in the **Call center** module.

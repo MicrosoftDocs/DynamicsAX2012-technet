@@ -17,6 +17,9 @@ dev_langs:
 
 # Released Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the connection was released.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseConnection](microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection-namespace.md)  

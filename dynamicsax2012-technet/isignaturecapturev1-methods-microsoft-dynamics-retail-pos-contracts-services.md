@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISignatureCaptureV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISignatureCaptureV1](isignaturecapturev1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the terms of delivery for customs clearance of items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Terms of delivery** form to set up the terms of delivery for the customs clearance of imported items.

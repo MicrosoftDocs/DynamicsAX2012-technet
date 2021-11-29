@@ -17,6 +17,9 @@ ms.search.region: Spain
 # (ESP) About tax-exempt number validation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Tax-exempt numbers are unique identifiers issued by the Agencia Estatal de Administración Tributaria (AEAT) to Spanish companies and individuals, and to foreign residents. These numbers must be included on all legal documents. To comply with validation requirements, some companies must change their tax-exempt numbers, and will post transactions using both their old and new tax-exempt numbers.

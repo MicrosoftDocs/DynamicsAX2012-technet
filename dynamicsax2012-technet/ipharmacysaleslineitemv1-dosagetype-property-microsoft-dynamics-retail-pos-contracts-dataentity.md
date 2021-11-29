@@ -17,6 +17,9 @@ dev_langs:
 
 # DosageType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Dosage type,i.e pills, capules,etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

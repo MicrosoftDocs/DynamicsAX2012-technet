@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemReturn Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemReturn](itemreturn-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) type exposes the following members.
 
 ## Properties

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Role-based security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In earlier versions of Microsoft Dynamics AX, the management of application security was complex and time-consuming. Administrators had to determine which tables and fields were required for a task, and then grant a user permissions for those tables and fields. In Microsoft Dynamics AX 2012, security management is more intuitive and less time-consuming. Administrators manage security by defining roles and then assigning users to those roles. Developers assign permissions to program artifacts such as tables, forms, and form controls. Permissions are grouped into privileges and duties that are assigned to roles.

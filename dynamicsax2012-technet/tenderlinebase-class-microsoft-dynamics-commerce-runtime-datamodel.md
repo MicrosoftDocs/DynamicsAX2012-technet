@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderLineBase Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

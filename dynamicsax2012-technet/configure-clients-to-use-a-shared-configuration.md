@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure clients to use a shared configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, the Microsoft Dynamics AX client reads configuration information from the registry on the local computer. If you deploy many Microsoft Dynamics AX clients, it can be difficult to maintain or troubleshoot configurations. To enhance security and simplify client administration, we recommend that large deployments run the Microsoft Dynamics AX client as a Windows Server RemoteApp. For more information, see the Windows Server RemoteApp documentation on Microsoft on TechNet. If your organization cannot deploy the Microsoft Dynamics AX client as a remote application, we recommend that you deploy the client by using one of the methods that are listed in the following table.

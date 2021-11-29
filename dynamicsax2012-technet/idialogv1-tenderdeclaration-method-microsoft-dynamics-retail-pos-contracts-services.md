@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderDeclaration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method is invoked from bank drop, safe drop, and tender declaration operations.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

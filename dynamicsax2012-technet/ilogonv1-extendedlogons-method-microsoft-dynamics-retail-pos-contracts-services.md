@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedLogOns Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initiate flow for extended log on assignment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

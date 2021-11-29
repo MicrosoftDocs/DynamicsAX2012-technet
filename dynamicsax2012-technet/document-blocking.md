@@ -13,6 +13,9 @@ f1_keywords:
 
 # document blocking
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of placing an operations process on hold while ordered items are in a quality assurance process.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Entity overview pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Entity overview pages display various types of information about a single record, such as the record for a customer or an order. You can use these pages to view an overview of information that is related to the record.

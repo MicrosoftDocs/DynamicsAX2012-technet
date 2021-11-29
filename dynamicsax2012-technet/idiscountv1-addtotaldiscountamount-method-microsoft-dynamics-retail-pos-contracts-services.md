@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTotalDiscountAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Entry point for additional manipulation of the retail transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

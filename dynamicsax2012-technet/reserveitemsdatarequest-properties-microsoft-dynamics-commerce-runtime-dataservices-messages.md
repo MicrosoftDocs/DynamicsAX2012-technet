@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReserveItemsDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReserveItemsDataRequest](reserveitemsdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

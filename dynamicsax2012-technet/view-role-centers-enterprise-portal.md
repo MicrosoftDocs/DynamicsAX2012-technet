@@ -14,6 +14,9 @@ ms.search.region: Global
 # View Role centers (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your organization is using Role Centers, your Role Center is displayed when you open Enterprise Portal for Microsoft Dynamics AX. Users are assigned to Role Centers based on their user profiles. A user profile is a set of default information for a specific role in the organization. You can be assigned to only one user profile per company. Therefore, you can be assigned to only one Role Center per company. If you have access to multiple companies, the Role Center displays information about the company that is currently selected. To view your Role Center for another company, click the company in the **Company** list at the upper right of the Enterprise Portal page.

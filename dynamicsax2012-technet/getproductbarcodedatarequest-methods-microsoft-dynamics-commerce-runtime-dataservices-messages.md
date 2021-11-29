@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetProductBarcodeDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetProductBarcodeDataRequest](getproductbarcodedatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

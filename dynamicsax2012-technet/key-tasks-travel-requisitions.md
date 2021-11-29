@@ -17,6 +17,9 @@ ms.search.region: Global
 # Key tasks: Travel requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you travel for business and incur expenses that you charge to your organization, you may be required to create and submit a travel requisition. The travel requisition contains information about the projected costs of your travel. The expense costs that you enter in a travel requisition do not have to be exact. You only have to enter an estimate of the expense costs that you may incur.

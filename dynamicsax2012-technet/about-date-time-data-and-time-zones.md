@@ -19,6 +19,9 @@ ms.search.region: Global
 # About date/time data and time zones 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are three types of date and time fields in Microsoft Dynamics AX. They correspond to different data types in the database:

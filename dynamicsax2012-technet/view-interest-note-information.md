@@ -17,6 +17,9 @@ ms.search.region: Global
 # View interest note information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a customer does not pay an invoice amount even after they receive a collection letter, your organization might want to charge interest on the late payment. In addition, you can charge a fee for each calculation of the interest amount, and add this fee to the interest amount.

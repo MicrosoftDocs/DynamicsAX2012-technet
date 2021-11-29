@@ -20,6 +20,9 @@ ms.search.region: Japan
 # (JPN) Import Japanese ZIP/postal codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to import Japanese ZIP Codes and postal codes when you set up addresses. You must download the ZIP/postal codes file from the official website of the Japan Postal Office before you import the ZIP/postal codes. You must download the ZIP/postal codes file every month to guarantee that the ZIP/postal codes are current.

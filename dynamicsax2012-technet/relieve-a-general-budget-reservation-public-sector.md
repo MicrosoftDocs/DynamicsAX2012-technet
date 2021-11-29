@@ -23,6 +23,9 @@ ms.search.region: Denmark, France
 # Relieve a general budget reservation (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After a general budget reservation has been posted, it is relieved by one of the source documents that reference it.

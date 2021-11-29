@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentKey Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a Kit component's productId and its position (kitLineIdentifier) as it appears in the kitdefinition.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

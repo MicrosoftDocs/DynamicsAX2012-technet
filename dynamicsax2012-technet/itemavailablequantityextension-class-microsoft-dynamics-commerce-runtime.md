@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemAvailableQuantityExtension Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class extends the ItemAvailableQuantity class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

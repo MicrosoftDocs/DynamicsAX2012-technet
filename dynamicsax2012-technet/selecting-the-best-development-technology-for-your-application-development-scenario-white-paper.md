@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Selecting the Best Development Technology for Your Application Development Scenario (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper provides an overview of the common development patterns, programming models, and development tool changes in Microsoft Dynamics AX. It provides guidelines for selecting the best development technology for your business application development scenario.

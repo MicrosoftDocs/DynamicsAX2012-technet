@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Add-AXSecurityRoleMember
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Add-AXSecurityRoleMember
 
 Adds a Microsoft Dynamics AX user to a Microsoft Dynamics AX security role.

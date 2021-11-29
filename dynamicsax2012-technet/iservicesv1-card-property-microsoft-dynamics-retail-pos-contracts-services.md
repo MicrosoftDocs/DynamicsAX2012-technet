@@ -17,6 +17,9 @@ dev_langs:
 
 # Card Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Card service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

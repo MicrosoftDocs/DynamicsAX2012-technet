@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDatabaseTransaction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDatabaseTransaction](idatabasetransaction-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

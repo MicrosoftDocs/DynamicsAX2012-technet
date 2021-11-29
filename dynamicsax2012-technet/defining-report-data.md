@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Defining Report Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of report data sources and datasets and explains how they are defined using the Microsoft Visual Studio tools for Microsoft Dynamics AX.

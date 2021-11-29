@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessBarcodeTypeRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Workflow class helps to process the scanned barcode based on its type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

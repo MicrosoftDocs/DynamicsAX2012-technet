@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerOrderInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerOrderInfo](customerorderinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create, post, and print a by-product journal from a route card journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Production journal lines, route card** form to record material and resource consumption. Route cards provide feedback about the time that is associated with the operations resource. You can add additional operations and record information, such as time consumption, cost categories, the number of functional items, and the number of defective items. The site from the production order is entered on the route card journal line. The site cannot be changed.

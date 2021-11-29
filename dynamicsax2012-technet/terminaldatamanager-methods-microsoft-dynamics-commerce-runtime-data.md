@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TerminalDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TerminalDataManager](terminaldatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

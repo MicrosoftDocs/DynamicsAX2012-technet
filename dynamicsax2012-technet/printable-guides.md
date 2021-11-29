@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Printable guides 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following Microsoft Dynamics AX 2012 guides are available in PDF format. These guides are published in English only.

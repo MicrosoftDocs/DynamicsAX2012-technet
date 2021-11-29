@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Report Bound to a Dimension Data Source 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough provides the steps to create a report that uses dimensions. Dimensions are additional classifications defined in a table for financial, product, and cost attributes. You will create a report that displays a dimension string, dimension attributes, and a report parameter based on a dimension. When you run the report, you can filter the report by the dimension.

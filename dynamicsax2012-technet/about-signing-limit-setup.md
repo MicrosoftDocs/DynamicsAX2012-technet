@@ -15,6 +15,9 @@ ms.search.region: Global
 # About signing limit setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Expenditure management is a key part of financial risk management for organizations. Expenditure management involves strengthening internal controls and making sure that workers comply with these controls. Signing limits are an important part of the controls and compliance for expenditure management.

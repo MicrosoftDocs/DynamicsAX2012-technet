@@ -20,6 +20,9 @@ ms.search.region: Global
 # About indirect activities for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Indirect activities are used by workers to make registrations on jobs that are not directly related to a production order or a project. Also, indirect activities can be used to register breaks, on-call activities, and switch codes. Switch codes can be used to trigger a specific bonus pay or to switch one registration with another registration.

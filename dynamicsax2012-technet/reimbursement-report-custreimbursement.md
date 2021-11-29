@@ -14,6 +14,9 @@ f1_keywords:
 # Reimbursement report (CustReimbursement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the reimbursement transactions that were created by the **Reimbursement** periodic job.

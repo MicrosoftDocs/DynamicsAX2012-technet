@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessMaskSegmentsServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ProcessMaskSegmentsServiceResponse contains the response after ProcessBarCode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

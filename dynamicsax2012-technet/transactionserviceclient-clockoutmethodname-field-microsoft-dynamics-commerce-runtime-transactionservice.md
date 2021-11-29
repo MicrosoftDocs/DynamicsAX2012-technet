@@ -17,6 +17,9 @@ dev_langs:
 
 # ClockOutMethodName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clock out method name of transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

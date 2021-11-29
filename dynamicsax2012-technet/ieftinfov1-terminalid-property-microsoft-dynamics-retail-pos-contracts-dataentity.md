@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A unique terminal ID from Visa or Europay.
 
 The ID can be read after processing the transaction.

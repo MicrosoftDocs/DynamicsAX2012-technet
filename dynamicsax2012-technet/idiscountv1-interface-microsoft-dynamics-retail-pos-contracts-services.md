@@ -17,6 +17,9 @@ dev_langs:
 
 # IDiscountV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDiscountV1 interface version 1.0 for discount interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

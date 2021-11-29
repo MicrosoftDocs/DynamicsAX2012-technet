@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartController](shoppingcartcontroller-class-microsoft-dynamics-retail-sharepoint-web-services-objectmodel.md) type exposes the following members.
 
 ## Methods

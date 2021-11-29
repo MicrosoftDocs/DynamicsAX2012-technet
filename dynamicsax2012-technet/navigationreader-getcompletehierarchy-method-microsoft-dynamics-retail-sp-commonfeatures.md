@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCompleteHierarchy Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets complete hierarchy of navigation menu.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

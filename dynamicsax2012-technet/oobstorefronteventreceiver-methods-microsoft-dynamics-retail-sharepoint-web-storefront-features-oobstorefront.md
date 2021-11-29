@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OOBStorefrontEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OOBStorefrontEventReceiver](oobstorefronteventreceiver-class-microsoft-dynamics-retail-sharepoint-web-storefront-features-oobstorefront.md) type exposes the following members.
 
 ## Methods

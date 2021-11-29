@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the counting list (INV-3) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The counting list (INV-3) document is one of the primary documents used for inventory accounting. Actual data of available inventory holdings in the warehouses and other storage areas is reflected in this report.

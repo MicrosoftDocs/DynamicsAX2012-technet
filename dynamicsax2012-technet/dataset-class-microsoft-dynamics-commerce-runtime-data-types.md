@@ -17,6 +17,9 @@ dev_langs:
 
 # DataSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of data tables.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

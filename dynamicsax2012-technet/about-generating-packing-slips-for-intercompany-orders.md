@@ -20,6 +20,9 @@ ms.search.region: Global
 # About generating packing slips for intercompany orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you work with direct delivery, the packing slip is always generated automatically on both the intercompany purchase order and the original sales order when you generate the packing slip on the intercompany sales order. The intercompany purchase-order invoice is based on the intercompany purchase-order packing slip that was previously generated.

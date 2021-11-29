@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Data Region Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A data region is an area within a report that displays data. Data can be displayed in table, list, matrix, or chart formats. Each data region is associated with a single dataset. However, a dataset can be associated with more than one data region. This topic describes each of the data regions types that you can add to a report.

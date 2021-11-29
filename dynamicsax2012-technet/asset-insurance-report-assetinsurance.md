@@ -15,6 +15,9 @@ f1_keywords:
 # Asset insurance report (AssetInsurance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print insurance information about fixed assets. This includes policy numbers and insured values information from the **Insurance** FastTab in the **Fixed assets** form.

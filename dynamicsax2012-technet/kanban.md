@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A signal that communicates a requirement for a quantity of product.
 
 ## See also

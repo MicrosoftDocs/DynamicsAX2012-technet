@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemIdBarcodeMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that itemId and barcode were missing for inventory lookup.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

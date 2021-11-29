@@ -17,6 +17,9 @@ dev_langs:
 
 # NullOrWhiteSpace Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throws an ArgumentNullException if the string is null or only whitespace.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProviderCommunicationFailure Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that there was an error in establishing a connection with an external component.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

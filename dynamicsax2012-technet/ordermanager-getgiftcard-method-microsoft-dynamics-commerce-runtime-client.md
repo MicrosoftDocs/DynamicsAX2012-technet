@@ -17,6 +17,9 @@ dev_langs:
 
 # GetGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the gift card information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

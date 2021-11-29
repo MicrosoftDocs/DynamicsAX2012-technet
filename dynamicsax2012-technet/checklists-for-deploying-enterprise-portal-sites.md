@@ -16,6 +16,9 @@ f1_keywords:
 # Checklists for deploying Enterprise Portal sites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide checklists that can help you deploy different types of sites in Enterprise Portal for Microsoft Dynamics AX.

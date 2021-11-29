@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Print Management Integration Guide 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Print management gives users specialized control of print settings for selected Microsoft Dynamics AX reports. This document describes print management, how to set it up, and how to use it.

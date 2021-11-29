@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a purchase order for a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create purchase orders in **Project management and accounting** by using one of the four procedures in this topic. The method that you use to create a purchase order is determined by the purpose of the purchase order, by when the purchased items are consumed, and by when they are charged to a project. For more information about how to choose a method, see [About creating purchase orders for projects](about-creating-purchase-orders-for-projects.md).

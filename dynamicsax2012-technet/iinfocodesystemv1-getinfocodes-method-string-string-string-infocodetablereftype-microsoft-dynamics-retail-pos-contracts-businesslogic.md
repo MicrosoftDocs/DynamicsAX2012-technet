@@ -15,6 +15,9 @@ dev_langs:
 
 # GetInfocodes Method (String, String, String, InfoCodeTableRefType)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the infocode information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

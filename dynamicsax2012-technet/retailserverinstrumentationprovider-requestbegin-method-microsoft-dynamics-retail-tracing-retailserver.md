@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestBegin Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Occurs when trace event begins.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Tracing.RetailServer](microsoft-dynamics-retail-tracing-retailserver-namespace.md)  

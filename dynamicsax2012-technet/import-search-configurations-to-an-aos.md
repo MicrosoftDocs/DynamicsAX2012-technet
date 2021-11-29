@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Import Search configurations to an AOS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to import Search configurations to an instance of Application Object Server (AOS) for Microsoft Dynamics AX. We recommend that you configure Search in a development environment, test the configurations, and then import the Search configurations to the AOS instance in the production environment.

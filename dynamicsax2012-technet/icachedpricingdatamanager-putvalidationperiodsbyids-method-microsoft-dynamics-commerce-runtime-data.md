@@ -17,6 +17,9 @@ dev_langs:
 
 # PutValidationPeriodsByIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the result of a call to retrieve the the periodic discount validation periods for a given set of identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

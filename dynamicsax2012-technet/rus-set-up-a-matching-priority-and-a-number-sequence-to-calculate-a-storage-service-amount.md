@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a matching priority and a number sequence to calculate a storage service amount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Accounts receivable parameters** form to set up a matching priority to calculate the storage service amount. You also use this form to assign a number sequence to the storage calculation operations journal.

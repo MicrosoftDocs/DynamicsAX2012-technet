@@ -17,6 +17,9 @@ dev_langs:
 
 # TermPropertyImage Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of the category's property which contains category's image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

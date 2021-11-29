@@ -18,6 +18,9 @@ ms.search.region: Global
 # Review and approve timesheets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how project managers who have timesheet approval rights can review and approve timesheets in either the **Timesheet approval** form or the **Timesheet** form.

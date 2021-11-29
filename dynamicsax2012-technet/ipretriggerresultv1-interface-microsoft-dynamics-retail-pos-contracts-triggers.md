@@ -17,6 +17,9 @@ dev_langs:
 
 # IPreTriggerResultV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IPreTriggerResultV1 interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # OnInit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Raises the [Init](https://technet.microsoft.com/library/ddx12zse\(v=ax.60\)) event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

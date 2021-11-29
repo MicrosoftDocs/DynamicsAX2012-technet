@@ -13,6 +13,9 @@ f1_keywords:
 
 # hot-swapping
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The replacement of an assembly file with a revised assembly file in a running system. In-progress sessions continue to access the original assembly from active memory.
 
 ## See also

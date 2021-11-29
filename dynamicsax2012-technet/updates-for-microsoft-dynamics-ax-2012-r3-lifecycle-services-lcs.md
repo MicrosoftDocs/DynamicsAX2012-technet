@@ -10,6 +10,9 @@ mtps_version: v=AX.60
 ---
 
 # Updates for Microsoft Dynamics AX 2012 R3 (Lifecycle Services, LCS) 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 The Updates page on Microsoft Dynamics Lifecycle Services hosts the update installer for Microsoft Dynamics AX 2012 R3 that is used for cumulative updates. It also provides access to groups of updates that can be used for slipstream installations.
 
 > [!Important]

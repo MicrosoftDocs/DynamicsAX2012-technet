@@ -35,6 +35,9 @@ ms.search.region: Russia
 # (RUS) Configure parameters for time management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create a list of time codes for working time, overtime, idle time, vacation, sick leave, business trips, and different kinds of overtime.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxAmountInclusive Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax amount coming from inclusive tax codes, which indicates that an item price includes sales tax. For example, for an item that is priced at $11.00, a tax inclusive rate equaling 10% would indicate a tax of 1.00 added to a base price of 10.00.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

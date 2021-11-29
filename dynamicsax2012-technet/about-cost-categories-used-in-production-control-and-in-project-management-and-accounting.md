@@ -15,6 +15,9 @@ ms.search.region: Global
 # About cost categories used in Production control and in Project management and accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Certain types of production work can apply to project time estimates and reporting, which requires a cost category for production and project purposes. Additional project-related information must be defined when a cost category is used in production and projects. For example, the hourly costs that are associated with projects can be different from the hourly costs that are associated with production. A cost category that is used in **Production** and **Project** can be defined in the **Cost categories** form.

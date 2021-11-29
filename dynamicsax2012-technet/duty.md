@@ -14,6 +14,9 @@ f1_keywords:
 
 # duty
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - A responsibility to perform one or more tasks or to provide services for a job.
 
   - In the security model, a set of application access privileges that are required for a user to carry out their responsibilities.

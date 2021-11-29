@@ -17,6 +17,9 @@ dev_langs:
 
 # CannotChangeCustomerIdWhenEditingCustomerOrder Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that changing the customer when editing a customer order is not allowed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

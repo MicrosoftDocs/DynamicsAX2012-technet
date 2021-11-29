@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Making calculated modifications to the line
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

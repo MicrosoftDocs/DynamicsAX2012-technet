@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) CNPJ or CPF validation by using categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, a category is used to classify each customer and vendor as an organization, person, or foreigner. This information is used to validate the subscription number as CNPJ or CPF. The category was removed in Microsoft Dynamics AX 2012.

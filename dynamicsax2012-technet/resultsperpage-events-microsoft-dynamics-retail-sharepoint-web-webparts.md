@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ResultsPerPage Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ResultsPerPage](resultsperpage-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Events

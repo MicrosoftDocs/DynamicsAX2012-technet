@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up excise settlement periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Excise duty is paid at the end of a predefined period. Each period has the same duration. Create the excise tax settlement periods that the company uses when it pays the excise duty. You must select the authority created for the excise settlement periods.

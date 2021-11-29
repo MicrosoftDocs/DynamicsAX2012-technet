@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AOS topology 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An Application Object Server (AOS) instance is a core component of your Microsoft Dynamics AX installation and is installed by using Setup. An AOS instance enforces security, manages connections between clients and the database, and provides the foundation where Microsoft Dynamics AX business logic runs. The topics in this section describe the various roles in which AOS can function.

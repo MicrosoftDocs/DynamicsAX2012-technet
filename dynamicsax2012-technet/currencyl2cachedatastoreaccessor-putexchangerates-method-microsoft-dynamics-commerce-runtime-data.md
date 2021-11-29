@@ -17,6 +17,9 @@ dev_langs:
 
 # PutExchangeRates Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the exchange rate active on given date between these currencies on this channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

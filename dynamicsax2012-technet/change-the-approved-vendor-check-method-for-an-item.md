@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the approved vendor check method for an item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to change the vendor check method for an item that is approved for a vendor. This method determines the action taken if you submit a transaction for an item that uses an approved vendor, and either of the following criteria is met:

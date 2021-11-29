@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Fixed asset disposal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can dispose of fixed assets for any of the following reasons:

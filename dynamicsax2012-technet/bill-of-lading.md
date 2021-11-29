@@ -13,6 +13,9 @@ f1_keywords:
 
 # bill of lading
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business document issued by a carrier to a shipper that serves as the document of title.
 
 ## See also

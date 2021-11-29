@@ -17,6 +17,9 @@ dev_langs:
 
 # Address Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total address as a concatenated string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

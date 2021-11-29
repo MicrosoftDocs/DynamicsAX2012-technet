@@ -14,6 +14,9 @@ f1_keywords:
 
 # activity log
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A historic record of the state of a source document.
 
 ## See also

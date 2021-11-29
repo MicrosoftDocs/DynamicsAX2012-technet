@@ -28,6 +28,9 @@ dev_langs:
 
 # BarcodeMaskType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Describes the internal type of the barcode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

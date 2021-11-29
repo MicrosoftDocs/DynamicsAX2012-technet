@@ -13,6 +13,9 @@ f1_keywords:
 
 # cluster
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A group of warehouse-related work items of the same type, based on user-defined criteria (such as location and inventory number).
 
 ## See also

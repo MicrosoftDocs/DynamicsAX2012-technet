@@ -17,6 +17,9 @@ dev_langs:
 
 # ISalesInvoice Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesInvoice interface handles sales-invoice line items in the retail POS transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

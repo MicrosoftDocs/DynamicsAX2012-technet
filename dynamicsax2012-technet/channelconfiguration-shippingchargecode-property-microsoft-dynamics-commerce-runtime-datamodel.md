@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingChargeCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shipping charge code for Customer Orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

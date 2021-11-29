@@ -17,6 +17,9 @@ dev_langs:
 
 # ConcludeSuccessfulLogOn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Conclude the successfull logon operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

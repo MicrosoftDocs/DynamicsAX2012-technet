@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCurrentChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current channel identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

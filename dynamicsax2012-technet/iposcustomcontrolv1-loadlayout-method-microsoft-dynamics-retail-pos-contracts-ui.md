@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadLayout Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Load layout.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.UI](microsoft-dynamics-retail-pos-contracts-ui-namespace.md)  

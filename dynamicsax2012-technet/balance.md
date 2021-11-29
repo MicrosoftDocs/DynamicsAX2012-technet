@@ -13,6 +13,9 @@ f1_keywords:
 
 # balance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The amount of economic resource required to bring opposite economic resource flows to a state of equilibrium.
 
 ## See also

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up a ledger account alias 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Ledger account alias** form to set up ledger account aliases to provide a shortcut to a complete or partial ledger account number.

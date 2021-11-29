@@ -17,6 +17,9 @@ dev_langs:
 
 # ContainsProductForRetailDiscountLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if the trigger products contain the product or the variant Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplyDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determine the best set of discounts to apply to the specified transaction, and apply those discounts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing Budgeting (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, budgeting capabilities are enhanced to provide significantly more functionality than in earlier versions. To support new functionality, budgeting is integrated with the ledger, the new accounting distributions framework, the chart of accounts, and the new account and financial dimensions framework. Budgeting is also integrated with currency and exchange rate types, and integration data patterns have been completely revised. This paper describes new development patterns in budgeting and how to implement them.

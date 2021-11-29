@@ -19,6 +19,9 @@ ms.search.region: Global
 # Copy a forecast to a ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you copy a project forecast to a General ledger budget, the selected forecast transactions are copied to the General ledger budget.

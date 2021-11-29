@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Business Intelligence Properties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides a description of the Business Intelligence (BI) properties in Microsoft Dynamics AX that are used to define cubes that can be deployed to a SQL Server Analysis Services database. Property descriptions are divided into the following categories.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesOrderTransactionService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesOrderTransactionService](salesordertransactionservice-class-microsoft-dynamics-commerce-runtime-transactionservice.md) type exposes the following members.
 
 ## Properties

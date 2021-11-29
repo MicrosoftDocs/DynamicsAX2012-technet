@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up item posting by site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up or modify the posting of items to ledger accounts, based on item groups and warehouse sites for inventory transactions. By setting up ledger accounts of inventory value by site, you can post inventory transactions—such as inventory journals, sales orders, purchase orders, production journals, and project item journals—for each specific site.

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Application Object Server security and protection 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Application Object Server (AOS) processes client requests for data and performs Microsoft Dynamics AX business logic. If a malicious user gains access to AOS, that user may gain access to sensitive data, such as financial information and trade secrets. Therefore, we recommend that you follow the guidelines in this topic when you deploy AOS. By following these guidelines, you can help protect the data in your business or organization, and reduce the overall attack surface of this core component of Microsoft Dynamics AX.

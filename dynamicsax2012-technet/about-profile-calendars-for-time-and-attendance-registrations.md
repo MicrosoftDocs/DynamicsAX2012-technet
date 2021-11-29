@@ -15,6 +15,9 @@ ms.search.region: Global
 # About profile calendars for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The profile calendar is used to apply a specific work time profile to one or more workers on specific dates.

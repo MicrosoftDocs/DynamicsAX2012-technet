@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPeripherals Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPeripherals](iperipherals-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # LockPrices Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set whether or not prices are fixed, and not automatically calculated/updated/refreshed
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

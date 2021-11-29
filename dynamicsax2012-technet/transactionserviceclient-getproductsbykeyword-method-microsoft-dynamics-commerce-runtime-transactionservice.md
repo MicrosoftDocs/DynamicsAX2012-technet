@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsByKeyword Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the products matching the specified search keywords.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

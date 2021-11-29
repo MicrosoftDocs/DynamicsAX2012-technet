@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Employees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees are now a type of worker. A worker can be a person who is either a contractor or an employee. Multiple tables throughout Microsoft Dynamics AX 2012 have been renamed or changed to reflect this change in the conceptual model.

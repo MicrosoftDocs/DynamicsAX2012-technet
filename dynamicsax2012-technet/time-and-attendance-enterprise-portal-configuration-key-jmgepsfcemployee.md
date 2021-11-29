@@ -14,6 +14,9 @@ f1_keywords:
 # Time and attendance Enterprise Portal configuration key (JmgEPSFCEmployee) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Enterprise portal SFC employee role** configuration key controls access to time and attendance registration forms and functions, such as the electronic timecard.

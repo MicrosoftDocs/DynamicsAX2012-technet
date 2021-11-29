@@ -14,6 +14,9 @@ f1_keywords:
 # Customer balance list with credit limit report (CustBalanceList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print the balance for each customer account. The balance is displayed in the accounting currency, based on the value according to the most recent foreign currency revaluation. For each customer account, the report also displays the credit limit as specified in the **Customers** form, and any amount by which the credit limit has been exceeded.

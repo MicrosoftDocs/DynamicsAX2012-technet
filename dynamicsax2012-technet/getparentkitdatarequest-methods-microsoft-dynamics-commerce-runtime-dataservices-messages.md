@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetParentKitDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetParentKitDataRequest](getparentkitdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

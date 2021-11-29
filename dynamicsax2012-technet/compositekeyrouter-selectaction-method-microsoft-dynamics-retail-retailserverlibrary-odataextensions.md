@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectAction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Selects an OData action.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

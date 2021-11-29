@@ -15,6 +15,9 @@ ms.search.region: Global
 # About profile types for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Profile types provide the basis for creating work time profiles. Profiles cover a whole day, and the profile types define how a 24-hour period is divided into different types of work time. You create profile types for work time profiles in the **Profile types** form.

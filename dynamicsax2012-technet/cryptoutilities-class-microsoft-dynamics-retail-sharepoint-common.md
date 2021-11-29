@@ -17,6 +17,9 @@ dev_langs:
 
 # CryptoUtilities Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A crypto related utility class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

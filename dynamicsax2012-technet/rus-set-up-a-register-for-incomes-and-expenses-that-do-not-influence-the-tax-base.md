@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for incomes and expenses that do not influence the tax base 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Incomes and expenses that do not influence the tax base** register contains information about income and expenses that do not affect the tax base. This information is used to calculate tax difference registers.

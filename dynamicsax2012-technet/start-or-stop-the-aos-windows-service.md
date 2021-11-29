@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Start or stop the AOS Windows service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can start, stop, or restart the Application Object Server (AOS) service by using Server Manager. If you must stop the AOS service on a production server, we recommend that you perform the procedure during off-peak hours to avoid dropped connections for clients and databases.

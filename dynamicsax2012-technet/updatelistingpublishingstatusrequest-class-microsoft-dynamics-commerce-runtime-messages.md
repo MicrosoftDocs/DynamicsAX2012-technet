@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateListingPublishingStatusRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a request to update the publishing status for the specified listings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

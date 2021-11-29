@@ -13,6 +13,9 @@ f1_keywords:
 
 # obligation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A legally binding commitment.
 
 ## See also

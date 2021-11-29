@@ -13,6 +13,9 @@ f1_keywords:
 
 # transportation demand
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A sales order, purchase order, or transfer order that is ready for transportation planning.
 
 ## See also

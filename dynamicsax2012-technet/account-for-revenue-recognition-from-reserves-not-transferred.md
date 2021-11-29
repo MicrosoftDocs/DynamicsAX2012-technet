@@ -15,6 +15,9 @@ ms.search.region: Global
 # Account for revenue recognition from reserves not transferred 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fixed asset posting profiles** form includes the **Provision for reserve** and **Transfer from reserve** transaction types. You can use the **Provision for reserve** transaction type to handle deferred profit on fixed assets. The profit is posted as a liability.

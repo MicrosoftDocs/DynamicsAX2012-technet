@@ -19,6 +19,9 @@ ms.search.region: Global
 # Place a period on hold 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can temporarily block postings to a period by changing its module level access, or by setting the period status to **On hold**.

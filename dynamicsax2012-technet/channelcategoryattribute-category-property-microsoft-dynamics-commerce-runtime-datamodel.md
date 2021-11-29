@@ -17,6 +17,9 @@ dev_langs:
 
 # Category Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel category identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

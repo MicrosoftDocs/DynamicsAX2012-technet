@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) Taxes, taxation codes, and fiscal values on order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific functionality that supports modification of the taxation codes and fiscal values for purchase order and sales orders lines per sales tax code.

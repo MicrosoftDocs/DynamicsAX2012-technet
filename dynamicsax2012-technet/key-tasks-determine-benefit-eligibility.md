@@ -20,6 +20,9 @@ ms.search.region: Global
 # Key tasks: Determine benefit eligibility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 These tasks allow you to determine the benefits that each worker in your organization is eligible for, and to ensure that only eligible workers are allowed to enroll in benefits.

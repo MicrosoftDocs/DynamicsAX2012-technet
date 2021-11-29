@@ -17,6 +17,9 @@ dev_langs:
 
 # ITenderLineItemV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ITenderLineItem interface V2.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

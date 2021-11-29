@@ -14,6 +14,9 @@ f1_keywords:
 # (MEX) Generate the DIOT declaration report (DIOTDeclaration\_MX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Generate DIOT declaration** form generates a Declaración Informativa de Operaciones con Terceros (DIOT). The DIOT includes information about vendor transactions. VAT transaction details are also included as field concepts in the DIOT. Collections managers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, sales clerks, sales managers, and accounts payable clerks generate a DIOT to get information about the status of sales tax transactions.

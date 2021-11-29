@@ -14,6 +14,9 @@ ms.search.region: Global
 # Feedback 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If the existing documentation is not satisfactory in any way, you can send your feedback to the Content Publishing team so that we can prioritize our writing efforts to better meet your needs. We want to hear from you and learn exactly what you must have in order to successfully use Microsoft Dynamics AX.

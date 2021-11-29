@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOperationPermissions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets Operation Permissions for the operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

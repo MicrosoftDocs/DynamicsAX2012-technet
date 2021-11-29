@@ -14,6 +14,9 @@ f1_keywords:
 
 # asset
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting classifier used to classify the value of economic resources that are owned by a party.
 
 ## See also

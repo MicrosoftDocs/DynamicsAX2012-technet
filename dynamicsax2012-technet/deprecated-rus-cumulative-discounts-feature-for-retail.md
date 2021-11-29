@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (RUS) Cumulative discounts feature for Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 For Russian installations, Microsoft Dynamics AX 2012 R2 for Retail provides a country-specific feature that lets you configure and use cumulative discounts for Retail. The **Discounts** form is used to configure cumulative discounts for a retail periodic discount.

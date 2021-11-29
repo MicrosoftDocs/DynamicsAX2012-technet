@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TraceInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TraceInfo](traceinfo-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Properties

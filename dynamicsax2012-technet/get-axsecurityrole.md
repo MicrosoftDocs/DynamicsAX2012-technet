@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXSecurityRole
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXSecurityRole
 
 Retrieves a list of the security roles within Microsoft Dynamics AX that the specified UserID is associated with.

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Register payments automatically for intercompany customer invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX creates a customer transaction when an intercompany customer invoice is posted. This customer transaction remains open until it is settled, which means that it has been paid. When the corresponding intercompany purchase order is invoice updated, a vendor transaction matching the customer transaction is created. This vendor transaction also remains open until it is settled. To reduce the risk of differences, an accounts receivable payment journal can be automatically created and posted when the accounts payable payment journal is posted.

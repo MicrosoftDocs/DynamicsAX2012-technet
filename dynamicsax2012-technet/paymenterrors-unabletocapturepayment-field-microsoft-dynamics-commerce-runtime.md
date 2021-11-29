@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToCapturePayment Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that payment could not be captured.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

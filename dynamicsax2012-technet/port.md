@@ -13,6 +13,9 @@ f1_keywords:
 
 # port
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An inbound or outbound service endpoint that binds a communications protocol and data contract with a network address.
 
 ## See also

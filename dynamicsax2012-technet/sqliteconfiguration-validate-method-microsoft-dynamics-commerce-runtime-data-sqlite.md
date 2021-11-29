@@ -17,6 +17,9 @@ dev_langs:
 
 # Validate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks that the configuration values are valid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

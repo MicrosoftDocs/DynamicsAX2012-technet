@@ -17,6 +17,9 @@ ms.search.region: Italy
 # (ITA) Set up information for Model 770 reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Model 770 report is an annual report that provides information about the taxes that are withheld by a company when the company pays contractors and self-employed vendors. Companies remit the withheld taxes directly to the government throughout the year. At the end of the year, the company generates and transmits the Model 770 report, which itemizes the payments that were made and the taxes that were withheld, to each vendor. The Model 770 report contains only information about contractors and self-employed vendors for whom taxes were withheld from payments.

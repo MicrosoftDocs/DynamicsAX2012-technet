@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITaxableItem Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITaxableItem](itaxableitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Modify Role center pages (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Role Center pages contain various pieces, or Web parts, that display information. A Web part is a modular unit of information that forms the basic building block of a Web part page. The Web parts on a page are arranged in Web part zones. You can add Web parts to the zones on a page, and then customize the individual parts to create a page that meets your needs. All Web parts share a set of common properties. These properties control each Web part's appearance, such as the title, height, and width, and layout, such as the part's order in a zone and the direction of the content. The properties also control advanced characteristics, such as the image icons and description. For more information about Web parts and pages, see the SharePoint documentation.

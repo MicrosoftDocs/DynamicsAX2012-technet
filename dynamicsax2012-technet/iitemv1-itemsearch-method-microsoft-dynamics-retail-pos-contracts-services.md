@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemSearch Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays the Item Search dialog.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

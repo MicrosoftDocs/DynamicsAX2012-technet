@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Upgrade Microsoft Dynamics AX cubes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you upgrade to a new version of Microsoft Dynamics AX from Microsoft Dynamics AX 2009, you must create new cubes to display the information your old cubes displayed. When you upgrade from Microsoft Dynamics AX 2012 to Microsoft Dynamics AX 2012 R2, you can upgrade the cubes by using the SQL Server Analysis Services project wizard. The cubes can be categorized as follows:

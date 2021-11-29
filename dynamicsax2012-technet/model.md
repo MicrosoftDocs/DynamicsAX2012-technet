@@ -13,6 +13,9 @@ f1_keywords:
 
 # model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A representation of a declarative structure and behavior.
 
 ## See also

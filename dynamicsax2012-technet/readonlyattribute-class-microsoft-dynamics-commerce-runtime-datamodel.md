@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadOnlyAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Annotates that a property is read-only outside commerce runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

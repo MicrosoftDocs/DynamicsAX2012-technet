@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for the NVFA statement of writing-off (No. MB-8) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up parameters for not valuable fixed assets (NVFAs) by using the NVFA statement of writing-off (No. MB-8).

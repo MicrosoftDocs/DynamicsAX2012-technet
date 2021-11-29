@@ -22,6 +22,9 @@ ms.search.region: Global
 # About the sales tax calculation methods in the Origin field 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For each sales tax code that you create in the **Sales tax codes** form, you must select the method of calculation to apply to the tax base amount in the **Origin** field.

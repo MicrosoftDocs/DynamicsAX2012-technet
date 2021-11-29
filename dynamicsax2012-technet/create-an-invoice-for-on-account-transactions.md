@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create an invoice for on-account transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create invoice proposals for on-account transactions that can be charged to the customer for a project. After the invoice proposal is reviewed and posted, you can create a project invoice to send to the customer.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # contractor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A role assumed by a person who participates in a contractor-employer relationship with a legal entity.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCompoundable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether this discount line is of a type that can be repeated compounded
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

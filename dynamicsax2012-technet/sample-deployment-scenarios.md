@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sample deployment scenarios 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section describes sample deployment scenarios for Microsoft Dynamics AX. The scenarios range from a single-server deployment to a large-scale, distributed deployment. The scenarios are provided to help you understand requirements for the infrastructure and servers. These scenarios do not provide any guidelines for infrastructure sizing.

@@ -17,6 +17,9 @@ f1_keywords:
 # (SAU) Main Zakat report (LedgerMainReportZakat\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Main Zakat report** displays a summary of a legal entity’s income information, expense information, and Zakat liability details. This report includes information such as the total revenue, total expenses, total net profit adjustments, items added to the Zakat base, items charged to the Zakat base, total deductions, net Zakat base, and net Zakat value that must be paid to Zakat authorities. This report is typically used by accountants, collections managers, accounting mangers, accounting clerks, sales clerks, and sales managers.

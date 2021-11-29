@@ -17,6 +17,9 @@ dev_langs:
 
 # GetMinimumCurrencyUnit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the lowest currency unit that will be rounded to for a given currency code using either Sales or Amount rounding.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

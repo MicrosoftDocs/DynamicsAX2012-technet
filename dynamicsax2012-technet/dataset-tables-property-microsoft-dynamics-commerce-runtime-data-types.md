@@ -17,6 +17,9 @@ dev_langs:
 
 # Tables Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of tables.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

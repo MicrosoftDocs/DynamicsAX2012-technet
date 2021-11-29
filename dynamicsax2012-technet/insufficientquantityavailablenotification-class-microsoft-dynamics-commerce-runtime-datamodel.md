@@ -17,6 +17,9 @@ dev_langs:
 
 # InsufficientQuantityAvailableNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that not enough quantity available for the given sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

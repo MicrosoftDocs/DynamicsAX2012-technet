@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetItem(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Attempts to extract the item stored in the cache under the specified key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

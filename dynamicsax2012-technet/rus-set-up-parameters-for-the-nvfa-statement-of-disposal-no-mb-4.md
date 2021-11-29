@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for the NVFA statement of disposal (No. MB-4) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Companies are required to generate a unified NVFA Statement of disposal (No. MB-4) to document the disposal of work clothes, special rigging, and not valuable fixed assets (NVFAs). You can generate and print the NVFA Statement of disposal (No. MB-4) from the **FA journal** form. You can also generate the statement from the **Working clothes**, **Special rigging**, and **Not valuable FAs** forms. Data in the fixed asset journal is grouped by the department name. Data is also grouped by the general ledger account that corresponds to the transactions that occurred when the working clothes, special rigging, and NVFAs are put into operation.

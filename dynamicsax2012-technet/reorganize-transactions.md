@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reorganize transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You or a customer might pay one invoice on multiple dates, or use multiple payment methods, such as a check and cash. In these situations, you can reorganize an invoice into several parts and assign a separate payment method to each part. After you reorganize the invoice, you can settle each new invoice line with a separate payment.

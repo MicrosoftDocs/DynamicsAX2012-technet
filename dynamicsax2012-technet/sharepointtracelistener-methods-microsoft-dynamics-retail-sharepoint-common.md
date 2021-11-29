@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SharePointTraceListener Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SharePointTraceListener](sharepointtracelistener-class-microsoft-dynamics-retail-sharepoint-common.md) type exposes the following members.
 
 ## Methods

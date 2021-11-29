@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemDeliveryMethods Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemDeliveryMethods](itemdeliverymethods-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Properties

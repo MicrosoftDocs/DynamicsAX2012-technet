@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBarcodeById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets barcode by identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

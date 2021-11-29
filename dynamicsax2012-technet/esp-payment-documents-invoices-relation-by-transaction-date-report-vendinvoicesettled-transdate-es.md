@@ -18,6 +18,9 @@ f1_keywords:
 # (ESP) Payment documents-invoices relation by transaction date report (VendInvoiceSettled\_TransDate\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment documents-invoices relation by transaction date** report displays the relationship between promissory notes and invoices, grouped by transaction date. This report is used to inquire into the status of promissory notes. This report is typically used by chief financial officers, accountants, accounting managers, accounting supervisors, financial controllers, accounts payable clerks, and accounts payable managers.

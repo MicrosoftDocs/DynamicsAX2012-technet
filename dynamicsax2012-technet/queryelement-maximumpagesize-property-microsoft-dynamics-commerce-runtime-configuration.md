@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumPageSize Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the maximum page size for the PagingInfo class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

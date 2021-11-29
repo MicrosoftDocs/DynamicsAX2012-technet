@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAppSettingsModification Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the app settings modification.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

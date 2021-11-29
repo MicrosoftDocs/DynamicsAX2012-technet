@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Payment control report (CustDomStatement\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment control** report is used to print payment advice for direct debits. This payment advice is submitted along with the Dom80 electronic payment file to the bank. This report is typically used by accountants and accounts receivable payments clerks.

@@ -17,6 +17,9 @@ dev_langs:
 
 # AnyDayHasEndingTime Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether any day in this period has an ending time specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

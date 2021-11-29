@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerSearchCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The search criteria to search customers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

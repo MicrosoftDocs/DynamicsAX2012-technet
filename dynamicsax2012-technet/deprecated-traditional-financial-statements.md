@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Traditional financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX, you can use traditional financial statements to report on an organization's financial state at the end of a defined period. The traditional financial statements can include an operating statement (an income statement that includes the results shown with regard to profit and loss for typical business activities), a balance sheet (assets and liabilities), and other financial information.

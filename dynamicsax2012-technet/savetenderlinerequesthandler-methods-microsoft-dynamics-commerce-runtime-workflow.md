@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveTenderLineRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveTenderLineRequestHandler](savetenderlinerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

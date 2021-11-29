@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase order underdelivery percentage
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The percentage by which product receipt quantities are allowed to be less than the purchase order quantity.
 
 ## See also

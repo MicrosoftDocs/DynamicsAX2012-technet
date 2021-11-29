@@ -17,6 +17,9 @@ dev_langs:
 
 # ExternalProviderError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that an external provider returned an error.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

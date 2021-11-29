@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShippingDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShippingDataManager](shippingdatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

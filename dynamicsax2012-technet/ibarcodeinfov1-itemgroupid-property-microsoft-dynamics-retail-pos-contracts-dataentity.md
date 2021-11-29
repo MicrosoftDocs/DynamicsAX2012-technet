@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemGroupId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Gets or sets the retail group for the item.

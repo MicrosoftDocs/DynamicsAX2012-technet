@@ -18,6 +18,9 @@ dev_langs:
 
 # Execute Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the entry point of the request handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common](microsoft-dynamics-commerce-runtime-dataservices-common-namespace.md)  

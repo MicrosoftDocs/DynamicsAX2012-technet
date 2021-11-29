@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateHardwareStationToken Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate a hardware station token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

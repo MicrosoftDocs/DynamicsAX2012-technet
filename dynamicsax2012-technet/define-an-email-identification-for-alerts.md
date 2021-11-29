@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define an email identification for alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you define an email identification for alerts, you attach the identification that you created specifically for alerts to the alerts function.

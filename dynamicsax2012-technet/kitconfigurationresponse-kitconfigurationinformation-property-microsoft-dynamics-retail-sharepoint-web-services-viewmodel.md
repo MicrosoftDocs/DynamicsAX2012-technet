@@ -17,6 +17,9 @@ dev_langs:
 
 # KitConfigurationInformation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or set the information for a specific kit configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

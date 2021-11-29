@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) OCR payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Optical character recognition (OCR) payment is a process of receiving payments electronically from customers. Each OCR payment has a customer identification (KID) reference.

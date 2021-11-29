@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequestContext Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

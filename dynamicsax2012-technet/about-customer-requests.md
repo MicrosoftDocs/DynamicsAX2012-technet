@@ -23,6 +23,9 @@ ms.search.region: Global
 # About customer requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 A prospective customer might want to submit a request to become a registered customer in Microsoft Dynamics AX. The contact person for the prospective customer company can complete a request on the **Sign up** page in Enterprise Portal for Microsoft Dynamics AX, where they provide company address information, contact information, and their preferred user logon credentials.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetOnlineChannelResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetOnlineChannelResponse](getonlinechannelresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

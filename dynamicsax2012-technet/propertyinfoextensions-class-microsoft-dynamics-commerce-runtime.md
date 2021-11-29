@@ -17,6 +17,9 @@ dev_langs:
 
 # PropertyInfoExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionaltiy used to extend the [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

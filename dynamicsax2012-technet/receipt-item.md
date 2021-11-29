@@ -13,6 +13,9 @@ f1_keywords:
 
 # receipt item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that is received in an operations process.
 
 ## See also

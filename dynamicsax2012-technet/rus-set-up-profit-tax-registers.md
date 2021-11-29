@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up profit tax registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The accounting rules that are used to group objects for tax purposes differ from the rules that are used in general accounting. The tax base for each reporting period is calculated based on tax accounting data that is accumulated during that period.

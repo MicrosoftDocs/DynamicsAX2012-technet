@@ -17,6 +17,9 @@ dev_langs:
 
 # WrongEndpointException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The wrong endpoint exception.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -28,6 +28,9 @@ ms.search.region: Brazil
 # (BRA) Set up a default description for withholding tax, interest, and fine payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Default descriptions** form to set up default descriptions and corresponding transaction texts for withholding tax, interest, and fine payments that are made to a vendor or customer. When a transaction for withholding tax, interest, or fine payments is posted to the ledger, the transaction text is also posted. The transaction text is printed on the day book and analytical ledger reports. You must use the %7 variable as part of the text. When the texts are printed on the reports, the %7 variable is replaced with the vendor name in purchase invoice transactions or the customer name in sales invoice transactions. For more information, see [(BRA) Setting up standard text in accounting transactions](bra-setting-up-standard-text-in-accounting-transactions.md).

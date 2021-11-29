@@ -22,6 +22,9 @@ dev_langs:
 
 # ReasonCodeLineType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reason code line type. Maps to RetailInfocodeTransType in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

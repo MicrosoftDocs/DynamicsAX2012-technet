@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetSPServiceInstance(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to get the SPServiceInstance by name and server.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

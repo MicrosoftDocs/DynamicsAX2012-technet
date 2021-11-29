@@ -17,6 +17,9 @@ dev_langs:
 
 # GetIndex Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the index of an element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IndiaPriceHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IndiaPriceHelper](indiapricehelper-class-microsoft-dynamics-commerce-runtime-services-pricingengine.md) type exposes the following members.
 
 ## Methods

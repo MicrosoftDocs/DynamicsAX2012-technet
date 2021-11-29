@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About statements (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use the statement posting process to account for point-of-sale (POS) transactions. The statement posting process uses Retail scheduler to transmit a set of transactions from the POS to the Microsoft Dynamics AX client. You can define the criteria that are used to select the transactions that you want to transmit by using the **Retail parameters** form and the **Stores** form. For more information about these forms, click the links in the “See also” section at the end of this topic.

@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Obtain CIAP credit amount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Every month the tax credit amount is calculated for each fiscal establishment for its past fixed asset acquisitions for each fixed asset until the maximum number of tax credit installment payments is reached or the fixed asset no longer belongs to the legal entity. Each fixed asset tax credit installment payment is used to create a tax fiscal document that is part of the ICMS tax assessment for the legal entity.

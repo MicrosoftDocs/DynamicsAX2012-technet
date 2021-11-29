@@ -17,6 +17,9 @@ dev_langs:
 
 # BlindCloseShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Closes the current shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

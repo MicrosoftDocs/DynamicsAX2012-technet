@@ -15,6 +15,9 @@ dev_langs:
 
 # Execute(TResponse) Method (Request, RequestContext, IRequestHandler)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the specified request using the specified request context and handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

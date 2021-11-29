@@ -17,6 +17,9 @@ dev_langs:
 
 # KitLineProductPropertyDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the kit related properties of products used in a kit line as a component or substitute, keyed by the productId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

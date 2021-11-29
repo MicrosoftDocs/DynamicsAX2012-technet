@@ -128,6 +128,9 @@ ms.search.region: Global
 # Call center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail in Microsoft Dynamics AX 2012 R3 supports call centers as a type of retail channel. In a call center, workers take orders from customers over the phone and create sales orders.

@@ -28,6 +28,9 @@ ms.search.region: Russia
 # (RUS) Configure organizational information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create tax registration numbers, social insurance information, and the organizational structure for a legal entity and its branches. You can create departments in an organization, assign each department to a branch, and reserve a position for a department.

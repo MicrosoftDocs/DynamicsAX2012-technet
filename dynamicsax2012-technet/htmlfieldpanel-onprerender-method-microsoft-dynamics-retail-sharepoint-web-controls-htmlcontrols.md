@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPreRender Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds additional attributes before rendering.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

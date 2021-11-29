@@ -14,6 +14,9 @@ f1_keywords:
 # Posted customer invoice totals and transaction count chart report (CustPostedCustInvoiceTotalAndTrxCnt) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Posted customer invoice totals and transaction count** chart report to view, in graphical format, the total customer invoice amount that was posted by a specified user on a specified date.

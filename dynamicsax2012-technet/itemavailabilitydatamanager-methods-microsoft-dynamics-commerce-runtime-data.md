@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemAvailabilityDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemAvailabilityDataManager](itemavailabilitydatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

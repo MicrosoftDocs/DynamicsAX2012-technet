@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowDebugErrorMessagesPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies a configuration key to obtain whether to show debug info in error messages.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

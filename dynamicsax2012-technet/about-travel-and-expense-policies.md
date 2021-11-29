@@ -15,6 +15,9 @@ ms.search.region: Global
 # About travel and expense policies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, you can define policies that your workers must follow when entering and submitting expense reports and travel requisitions. Implementing travel and expense policies can help you manage expenses effectively.

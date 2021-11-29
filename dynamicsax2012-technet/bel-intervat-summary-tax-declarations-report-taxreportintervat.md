@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Intervat summary tax declarations report (TaxReportIntervat) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **INTERVAT summary tax declarations** report displays a summary of previous INTERVAT tax declarations. This report is used to inquire into the status of sales tax transactions and to view the totals in different sales tax boxes. This report is typically used by accountants, accounting managers, and clerks.

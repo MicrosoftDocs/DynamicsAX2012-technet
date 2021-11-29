@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Servers in the Microsoft Dynamics AX environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A production deployment of Microsoft Dynamics AX requires multiple servers. This topic describes the types of server that may be required in your implementation.

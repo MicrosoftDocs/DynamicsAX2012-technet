@@ -14,6 +14,9 @@ f1_keywords:
 # Sales performance by sales category report (RetailSalesBySalesCategory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view and compare sales performance by sales category during periods that you specify. The sales category is based on the default sales category hierarchy. This report includes the sales quantity, sales amount, profit margin, and profit percentage. This report is only available to users who are assigned to the Merchandising manager role.

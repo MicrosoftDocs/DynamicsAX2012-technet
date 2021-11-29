@@ -14,6 +14,9 @@ f1_keywords:
 
 # action
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An act that has an effect in a system.
 
 ## See also

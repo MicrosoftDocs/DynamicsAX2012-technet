@@ -14,6 +14,9 @@ ms.search.region: Belgium
 # (BEL) Convert Intrastat to PRODCOM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Intrastat to PRODCOM conversion** form to assign PRODCOM codes to Intrastat commodity codes. These codes can change every year. You can set up the information in a text file. To import the information, click **Import conversion data** and **Import PRODCOM data**.

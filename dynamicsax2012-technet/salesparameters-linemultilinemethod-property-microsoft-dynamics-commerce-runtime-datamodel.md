@@ -17,6 +17,9 @@ dev_langs:
 
 # LineMultilineMethod Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating how to combine trade agreement line and multiline discounts on a sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

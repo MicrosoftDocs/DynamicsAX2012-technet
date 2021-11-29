@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCustomerAllowed Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether \[is customer allowed\].
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

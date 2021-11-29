@@ -15,6 +15,9 @@ dev_langs:
 
 # DisplayText Method (String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Display two lines on the line display.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

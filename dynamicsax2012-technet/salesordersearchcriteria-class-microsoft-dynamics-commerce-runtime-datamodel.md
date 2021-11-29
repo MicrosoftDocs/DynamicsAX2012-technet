@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrderSearchCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for getting the sales order by the receipt identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

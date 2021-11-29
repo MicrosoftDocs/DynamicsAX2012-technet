@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataCacheAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataCacheAccessor](datacacheaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # ToCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the target currency for the exchange rate.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

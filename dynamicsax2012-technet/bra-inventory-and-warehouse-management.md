@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Inventory and warehouse management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use Inventory and warehouse management for inbound and outbound operations, quality assurance, warehouse activities, and inventory control.

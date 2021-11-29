@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintPromptOnReceipt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print what is prompted on the receipt
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

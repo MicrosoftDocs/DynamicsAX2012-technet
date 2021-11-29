@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Prevent Display of Print Setup for Reports (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A report can contain sensitive data that requires that it be printed to only a secure printer.

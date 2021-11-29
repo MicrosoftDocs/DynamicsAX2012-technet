@@ -17,6 +17,9 @@ dev_langs:
 
 # Dispose Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Disposes this data set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

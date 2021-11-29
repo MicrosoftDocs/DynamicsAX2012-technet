@@ -15,6 +15,9 @@ dev_langs:
 
 # Item Property (Int32)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the value based on an index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

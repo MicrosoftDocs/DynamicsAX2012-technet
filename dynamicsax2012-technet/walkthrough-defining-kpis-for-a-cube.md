@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Defining KPIs for a Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A Key Performance Indicator (KPI) is a business metric that can be displayed in places like reports and role center pages. For more information, see [Cube Overview](cube-overview.md).

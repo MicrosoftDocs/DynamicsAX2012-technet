@@ -17,6 +17,9 @@ dev_langs:
 
 # MarkupAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the markup amount to apply when using this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

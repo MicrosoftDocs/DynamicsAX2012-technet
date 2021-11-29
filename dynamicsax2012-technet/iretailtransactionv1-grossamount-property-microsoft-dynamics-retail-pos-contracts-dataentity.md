@@ -17,6 +17,9 @@ dev_langs:
 
 # GrossAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total amount excluding tax;
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

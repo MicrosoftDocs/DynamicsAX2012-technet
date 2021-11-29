@@ -17,6 +17,9 @@ dev_langs:
 
 # NotEnoughRewardPoints Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that there is not enough loyalty reward points available on the loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Tutorial: Extending Point of Sale 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This section contains tutorials about how to customize or extend Microsoft Dynamics AX for Retail POS.

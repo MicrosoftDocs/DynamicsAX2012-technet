@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # J
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [job](job.md)
 
 [job description](job-description.md)

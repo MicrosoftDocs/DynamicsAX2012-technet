@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Apply a custom control to the POS register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can enhance or change the information displayed on the Microsoft Dynamics AX for Retail POS register by adding custom controls. You implement custom controls using the Microsoft Dynamics AX for Retail POS Plug-ins. For more information about how to install Retail POS Plug-ins, see [Install the Retail SDK](install-retail-sdk-retail-pos-plug-ins.md).

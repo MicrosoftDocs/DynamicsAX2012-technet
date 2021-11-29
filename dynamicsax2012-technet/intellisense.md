@@ -13,6 +13,9 @@ f1_keywords:
 
 # IntelliSense
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A feature of an integrated development environment (IDE) that provides logical code elements that the user can select from a drop-down menu while coding.
 
 ## See also

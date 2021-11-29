@@ -13,6 +13,9 @@ f1_keywords:
 
 # delivery schedule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A schedule for the planned delivery of products.
 
 ## See also

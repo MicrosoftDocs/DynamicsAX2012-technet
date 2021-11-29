@@ -14,6 +14,9 @@ f1_keywords:
 # Full settlement configuration key (FullSettlement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Full settlement** configuration key is deprecated in Microsoft Dynamics AX 2012. The functionality that it controlled in previous release is automatically available to legal entities whose primary address is in Austria, Germany, or Switzerland.

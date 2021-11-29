@@ -17,6 +17,9 @@ dev_langs:
 
 # PreVoidItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before an item is voided.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

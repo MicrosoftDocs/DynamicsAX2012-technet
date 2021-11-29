@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShowDebugErrorsConfigurationSetting Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the indicator whether to show additional debug detail when displaying error messages.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

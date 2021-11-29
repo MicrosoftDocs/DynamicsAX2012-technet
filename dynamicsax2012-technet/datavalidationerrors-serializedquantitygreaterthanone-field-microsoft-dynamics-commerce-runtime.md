@@ -17,6 +17,9 @@ dev_langs:
 
 # SerializedQuantityGreaterThanOne Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that quantity for a serialized item was more than one.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

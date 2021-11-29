@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPropertyColumnAttribute Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the property column attribute by column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

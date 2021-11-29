@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Generate a fixed asset counting statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fixed asset counting statement displays the number of acquired fixed assets and their values.

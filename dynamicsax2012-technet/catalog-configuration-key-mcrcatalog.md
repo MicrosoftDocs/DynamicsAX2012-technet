@@ -15,6 +15,9 @@ f1_keywords:
 # Catalog configuration key (MCRCatalog) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Catalog** configuration key controls the processing of catalog requests in the **Call center** module.

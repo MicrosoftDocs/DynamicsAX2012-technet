@@ -15,6 +15,9 @@ dev_langs:
 
 # RemoveFromCommerceList Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Delete the commerce list line.
 
 This currently only applies to the online channel. It is used to delete a specific item from a commerce list.

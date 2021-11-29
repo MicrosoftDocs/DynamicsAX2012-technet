@@ -29,6 +29,9 @@ dev_langs:
 
 # InfoCodeInputType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies the Infocode input type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

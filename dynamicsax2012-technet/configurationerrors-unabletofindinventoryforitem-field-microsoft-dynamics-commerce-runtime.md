@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToFindInventoryForItem Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that no inventory can be found for an item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IWebApiConfig Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The WebApiConfig interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

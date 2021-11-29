@@ -14,6 +14,9 @@ ms.search.region: Global
 # Remit a bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use a remittance journal to generate a bill of exchange remittance file to send to your bank. The information in the file is based on bill of exchange journal lines that have been posted but not remitted.

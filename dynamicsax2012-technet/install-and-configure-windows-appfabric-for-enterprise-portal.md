@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install and configure Windows AppFabric for Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides sample configurations and settings for installing [Windows Server AppFabric](https://go.microsoft.com/fwlink/?linkid=324716) with Enterprise Portal for Microsoft Dynamics AX. AppFabric is required to run Enterprise Portal in a web farm with Microsoft Dynamics AX 2012 R2. AppFabric is not required for single-server Enterprise Portal deployments.

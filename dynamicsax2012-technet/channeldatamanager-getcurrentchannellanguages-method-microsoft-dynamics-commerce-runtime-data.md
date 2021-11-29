@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCurrentChannelLanguages Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the languages for the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

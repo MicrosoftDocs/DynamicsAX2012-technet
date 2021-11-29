@@ -18,6 +18,9 @@ f1_keywords:
 # Run live preprocessing scripts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Run live preprocessing scripts** task opens the **Upgrade live preprocessing** form and displays the scripts that will write prepared data into the shadow and dictionary tables that were created by the [Initialize preprocessing](initialize-preprocessing.md) task. After you run the live preprocessing scripts, you must correct any issues that are flagged with an error status in the grid. After you correct an issue, you must rerun the failed script, or all failed scripts, until all live preprocessing scripts finish without error. You cannot proceed to running the single-user mode preprocessing scripts until you resolve all live preprocessing script errors.

@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the view model for a kit component.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

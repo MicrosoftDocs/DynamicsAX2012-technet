@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a document content type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Document content types are used to describe the contents of unattached documents. For example purchase orders, invoices, or expense reports. The content types that you create are available in the **Unattached documents** form and the **New document file** form. When an unattached document is created, one of these content types is assigned to it. Workflow uses the content type to route the document to the appropriate user or work-item queue.

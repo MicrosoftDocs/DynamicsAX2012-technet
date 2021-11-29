@@ -13,6 +13,9 @@ f1_keywords:
 
 # backflush costing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting method that flows product and production costs to cost of goods sold accounts during an accounting period and that backflushes those costs to raw material and finished goods accounts for products not sold at the close of the accounting period.
 
 ## See also

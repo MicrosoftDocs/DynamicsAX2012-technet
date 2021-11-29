@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveNonSaleTenderServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SaveNonSaleTenderServiceResponse is the response class to save non sale tender operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

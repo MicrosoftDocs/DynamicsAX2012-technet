@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardOperation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating the type of gift card operation(Issue or AddTo).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

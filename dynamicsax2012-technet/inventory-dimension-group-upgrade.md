@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Inventory dimension group upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Preprocess inventory dimension groups** form to define how company-specific inventory dimension groups are consolidated into a set of inventory dimension groups that are shared between companies.

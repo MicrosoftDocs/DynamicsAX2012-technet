@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Post a statement for return transactions that are processed during a different shift 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to post a statement for return transactions that are processed during a different shift. You can then verify the details of the return transactions in the posted statement.

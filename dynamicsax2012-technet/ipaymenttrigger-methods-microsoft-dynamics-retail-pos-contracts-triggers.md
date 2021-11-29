@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPaymentTrigger Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPaymentTrigger](ipaymenttrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

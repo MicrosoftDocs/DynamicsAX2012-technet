@@ -14,6 +14,9 @@ f1_keywords:
 # Workflow elements performance report (WorkflowElementsPerformanceReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Workflow elements performance** report shows information about workflow elements in a specific workflow. For example, the report shows the average processing time for workflow elements. The report also shows the number of work items that were completed, approved, and rejected.

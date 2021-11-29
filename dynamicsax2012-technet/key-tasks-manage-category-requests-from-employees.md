@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Manage category requests from employees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a vendor is approved to provide items and services to your legal entity, the vendor is authorized to provide them only in specific procurement categories. Employees can request that a vendor be authorized to do business in additional procurement categories. Requests are submitted in the Employee services site in Enterprise Portal for Microsoft Dynamics AX.

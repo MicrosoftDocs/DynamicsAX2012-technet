@@ -18,6 +18,9 @@ ms.search.region: Spain
 # (ESP) Generate Report 340 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After you post vendor and customer transactions, you can generate Report 340 for all vendor invoices and customer invoices. You can transfer vendor invoices and customer invoices to the **Spanish VAT reports** form. You can then verify the information for each line, and generate the report as an ASCII file. For more information about Report 340, see [(ESP) Report 340](esp-report-340.md).

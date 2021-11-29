@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up buttons (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up buttons that are included in grids on the point-of-sale (POS) screen. You can customize various properties of individual buttons, such as the text, color, and operation. You can also add images to buttons. For information about how to customize groups of buttons in Retail essentials, see [Set up a button grid (Retail essentials)](set-up-a-button-grid-retail-essentials.md).

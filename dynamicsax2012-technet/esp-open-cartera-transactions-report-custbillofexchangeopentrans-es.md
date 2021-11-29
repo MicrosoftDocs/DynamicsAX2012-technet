@@ -14,6 +14,9 @@ f1_keywords:
 # (ESP) Open cartera transactions report (CustBillOfExchangeOpenTrans\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Open cartera transactions** report displays cartera transactions grouped by bill of exchange ID, customer, or due date. This report is used to inquire into the status of bills of exchange. This report is typically used by collections agents, collections managers, clerks, accountants, accounting managers, and financial controllers.

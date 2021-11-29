@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowKitComponents Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether to show the kit components when the shopping cart has kit items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

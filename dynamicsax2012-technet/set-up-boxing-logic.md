@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up boxing logic 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Boxing logic is a part of the process of releasing items for picking and grouping items on a picking route. If an item requires packaging, then boxing logic can help determine the smallest box for the items to most efficiently fit into. Boxing logic is designed to select a suitably-sized box, and optimize the maximum capacity of that box, for the set of items on a picking route.

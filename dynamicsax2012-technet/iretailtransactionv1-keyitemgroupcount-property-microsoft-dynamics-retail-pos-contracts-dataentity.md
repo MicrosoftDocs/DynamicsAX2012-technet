@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyItemGroupCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The number of items that where sold on an item group.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCommerceList Method (String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a single commerce list by id.
 
 Customer account number must also be provided to ensure that customers can only access their own commerce lists.

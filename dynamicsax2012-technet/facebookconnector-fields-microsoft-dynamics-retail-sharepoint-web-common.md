@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FacebookConnector Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FacebookConnector](facebookconnector-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Fields

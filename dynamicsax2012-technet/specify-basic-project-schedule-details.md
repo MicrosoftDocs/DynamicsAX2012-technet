@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify basic project schedule details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to specify the basic parameters of a project schedule.

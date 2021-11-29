@@ -17,6 +17,9 @@ dev_langs:
 
 # IRounding Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRounding interface contains various utility methods for rounding decimal values for display, printing, and rounding based on currency rules.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

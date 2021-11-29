@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate and approve the WIP and FP estimate in a tax accounting register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can calculate the value in the estimation of work in process (WIP) and finished products (FP) in the tax accounting register, you must calculate values in the depreciation of fixed assets (FA), the depreciation of intangible assets (IA), deferrals, and income and expenses that do not affect tax base registers. For more information, see [(RUS) Calculate the fixed asset depreciation register](rus-calculate-the-fixed-asset-depreciation-register.md), [(RUS) Calculate the intangible asset depreciation register](rus-calculate-the-intangible-asset-depreciation-register.md), [(RUS) Calculate the deferrals register](rus-calculate-the-deferrals-register.md).

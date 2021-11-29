@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) View information about Advance Authorization (AA) transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can find information about export-import (EXIM) authorizations for the Advance Authorization (AA) incentive scheme in several inquiry forms. Many of the forms also provide information about authorizations for the Duty Free Import Authorization (DFIA) incentive scheme.

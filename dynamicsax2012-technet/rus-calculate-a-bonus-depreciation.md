@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate a bonus depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The depreciation bonus is an additional depreciation amount that is assessed during the first year for some asset types that are operational. The depreciation bonus is calculated only for the tax value model for fixed assets. You must set up a posting profile before you can calculate the depreciation bonus for fixed assets.

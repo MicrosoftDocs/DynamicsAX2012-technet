@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountDataRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stock count data service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices](microsoft-dynamics-commerce-runtime-dataservices-namespace.md)  

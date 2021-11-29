@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Security keys and related APIs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Security keys are the permissions that control access to functionality in the application. Security keys are set for individual user groups and users. Permissions determine who can access menus, forms, reports, and tables. Developers can call the security key–related APIs to determine whether users have access to a particular security key and the level of access that those users have.

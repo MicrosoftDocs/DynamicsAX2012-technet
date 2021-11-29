@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplyPromotionCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Applies a promotion code to the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Global
 # About importing data from Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Data can be imported into Microsoft Dynamics AX by using a variety of tools and techniques. Some tools and techniques require extensive knowledge of the Microsoft Dynamics AX system and internal structure, and should be used only by a developer or system administrator. For more information about using developer tools to import data, see [Plan data import, export, and migration](plan-data-import-export-and-migration.md).

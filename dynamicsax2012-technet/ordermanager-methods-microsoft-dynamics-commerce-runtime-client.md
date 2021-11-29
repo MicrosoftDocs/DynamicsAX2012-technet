@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderManager](ordermanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

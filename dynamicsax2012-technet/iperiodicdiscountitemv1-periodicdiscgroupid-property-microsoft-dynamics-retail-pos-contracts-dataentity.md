@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscGroupId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies a particular application or 'instantiation' of a discount.
 
 When choosing best prices, the whole group is considered together.

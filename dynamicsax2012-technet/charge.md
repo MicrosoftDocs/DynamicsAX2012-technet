@@ -13,6 +13,9 @@ f1_keywords:
 
 # charge
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The incidental cost of product acquisition or product delivery.
 
 ## See also

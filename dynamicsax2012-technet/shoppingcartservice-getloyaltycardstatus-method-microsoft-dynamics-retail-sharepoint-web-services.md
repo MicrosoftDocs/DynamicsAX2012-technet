@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the status of a loyalty card given it's id
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

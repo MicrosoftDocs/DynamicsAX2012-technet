@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPromotionsRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles workflow for GetPromotionsForCart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

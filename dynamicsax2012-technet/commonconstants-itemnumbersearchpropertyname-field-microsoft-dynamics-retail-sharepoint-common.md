@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemNumberSearchPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the search property that contains the item's catalog number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

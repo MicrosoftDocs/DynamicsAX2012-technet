@@ -18,6 +18,9 @@ ms.search.region: Global
 # Select accrued revenue for posting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Select transactions to accrue revenue** form to select accrued revenue in time and material projects for posting. You can filter transactions on which you want to accrue revenue by project group, project, or transaction type.

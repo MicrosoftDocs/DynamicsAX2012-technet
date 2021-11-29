@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Update factures and post invoices for open purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post purchase order invoices that are based on packing slips that include different types of order lines. If an invoice has not already been created for an open purchase order, the facture update can be processed and printed together with the invoice that is based on the order lines.

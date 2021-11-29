@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) About transfer orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can transfer inventory items between warehouses that are located at different fiscal establishments by using transfer orders. You can transfer inventory items to another fiscal establishment that is in the same state or in another state.

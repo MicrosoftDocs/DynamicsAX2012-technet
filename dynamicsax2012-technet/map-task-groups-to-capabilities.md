@@ -16,6 +16,9 @@ f1_keywords:
 # Map task groups to capabilities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this item on the preprocessing checklist to specify the capability that you must have in order to convert task groups during the upgrade process. Task groups are not available in the target system.

@@ -23,6 +23,9 @@ ms.search.region: Brazil
 # (BRA) Cancel a vendor fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel incorrect vendor fiscal documents that are generated and issued by a legal entity for nontaxpayer vendors. When you cancel an incorrect vendor fiscal document, a negative purchase order is created. When you post a negative purchase order and run the fiscal book integration process, all of the tax, ledger, and financial transactions that are related to the purchase order are reversed in the fiscal books.

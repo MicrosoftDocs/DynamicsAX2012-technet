@@ -17,6 +17,9 @@ ms.search.region: Spain
 # (ESP) Transfer sales and purchase transactions for EU sales list reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sales and purchase transactions between European Union (EU) countries or regions must be reported to the government on the EU sales list. After you create and post invoices for EU trade transactions, you can transfer the invoice data to the EU sales list form for reporting. Before you transfer invoice information, you must set up sales tax groups and sales tax codes. For more information, see [Transfer transactions for EU sales list (form)](https://technet.microsoft.com/library/aa499405\(v=ax.60\)).

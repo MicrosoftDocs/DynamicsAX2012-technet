@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Testing best practices (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper outlines testing best practices that are provided by the Microsoft Dynamics AX 2012 internal development team. These practices apply both to the development of product extensions that independent software vendors (ISVs) build, and to customizations that Microsoft Dynamics AX implementation partners and customers perform for specific ERP deployments.

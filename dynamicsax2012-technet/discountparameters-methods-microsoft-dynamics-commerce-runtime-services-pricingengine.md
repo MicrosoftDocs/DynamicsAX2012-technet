@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DiscountParameters Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DiscountParameters](discountparameters-class-microsoft-dynamics-commerce-runtime-services-pricingengine.md) type exposes the following members.
 
 ## Methods

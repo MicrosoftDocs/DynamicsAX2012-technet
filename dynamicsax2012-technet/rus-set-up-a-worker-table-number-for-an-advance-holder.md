@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up a worker table number for an advance holder 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a worker table number for a worker. You can view the details of employees in the **Employment history** form, and you can identify the employees as advance holders.

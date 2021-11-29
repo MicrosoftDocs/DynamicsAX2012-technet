@@ -14,6 +14,9 @@ ms.search.region: Global
 # View daily registrations in manufacturing execution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Job registration** form, you can view lists or graphics that display the jobs you are scheduled to work on, or calculated registrations and current time registrations that were made in manufacturing execution.

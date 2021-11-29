@@ -17,6 +17,9 @@ dev_langs:
 
 # SortIndexInsideColumn Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sort index inside column.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

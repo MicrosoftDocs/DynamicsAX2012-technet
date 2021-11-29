@@ -15,6 +15,9 @@ ms.search.region: Global
 # About synchronization of customer information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Customer information is synchronized if the **Customer information** field is enabled when the sales order is created or a change is made to the customer, vendor reference, or customer requisition number.

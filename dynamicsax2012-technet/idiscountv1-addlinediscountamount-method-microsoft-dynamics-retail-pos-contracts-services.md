@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLineDiscountAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Applies a discount amount to a specific line item in a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

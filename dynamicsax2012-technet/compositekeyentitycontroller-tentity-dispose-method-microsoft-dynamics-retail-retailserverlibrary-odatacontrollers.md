@@ -19,6 +19,9 @@ dev_langs:
 
 # Dispose Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

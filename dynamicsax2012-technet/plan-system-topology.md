@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan system topology 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Plan your system topology carefully before deploying Microsoft Dynamics AX. Environments for development, testing, and production should be carefully optimized for throughput, response time, scalability, and availability. The following topics describe considerations in planning your system topology:

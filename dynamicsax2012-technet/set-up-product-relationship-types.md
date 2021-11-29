@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up product relationship types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product relationships define how products relate to one another. Before you can define product relationships, you must set up product relationship types. For example, you offer a laptop and a monitor on your procurement site. The monitor is an accessory for the laptop. Therefore, when a requester selects the laptop, you also want the monitor to be displayed. For this to occur, you must define a product relationship type of **Accessory**.

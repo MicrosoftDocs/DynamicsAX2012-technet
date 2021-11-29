@@ -17,6 +17,9 @@ dev_langs:
 
 # PutVariantDimensionsByItemIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the variant dimensions populated for the given dimension Ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

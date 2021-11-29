@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor invoice transactions report (VendInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor invoice transactions** report displays Accounts payable vendor invoice transactions, sorted by the general ledger account that was charged on each line of the invoice.

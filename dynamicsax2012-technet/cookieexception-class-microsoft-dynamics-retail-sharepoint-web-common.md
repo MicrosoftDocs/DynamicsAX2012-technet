@@ -17,6 +17,9 @@ dev_langs:
 
 # CookieException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Cookie exception.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

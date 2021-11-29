@@ -13,6 +13,9 @@ f1_keywords:
 
 # check digit calculator engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that calculates apportionment based on check digits.
 
 ## See also

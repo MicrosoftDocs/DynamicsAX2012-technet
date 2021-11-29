@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailServerConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates configuration data relevant to the retail server.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

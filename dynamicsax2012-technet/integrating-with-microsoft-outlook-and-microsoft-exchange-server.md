@@ -18,6 +18,9 @@ ms.search.region: Global
 # Integrating with Microsoft Outlook and Microsoft Exchange Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how a business user can integrate Microsoft Dynamics AX with Microsoft Outlook or Exchange Server.

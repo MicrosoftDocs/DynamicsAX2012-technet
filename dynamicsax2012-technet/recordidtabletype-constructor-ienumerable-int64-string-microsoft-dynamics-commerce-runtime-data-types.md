@@ -15,6 +15,9 @@ dev_langs:
 
 # RecordIdTableType Constructor (IEnumerable(Int64), String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [RecordIdTableType](recordidtabletype-class-microsoft-dynamics-commerce-runtime-data-types.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

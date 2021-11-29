@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowRequestHandler(TRequest, TResponse) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Abstract base class for all request handlers for workflow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

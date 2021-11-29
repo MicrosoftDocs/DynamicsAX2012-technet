@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up inventory parameters to create storno accounting transactions to calculate production order costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Inventory and warehouse management parameters** form to set up storno accounting transactions to update quantities of production items when you calculate the costs of production orders.

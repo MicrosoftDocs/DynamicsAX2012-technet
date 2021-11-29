@@ -13,6 +13,9 @@ f1_keywords:
 
 # stock
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accumulation of items that are owned and controlled by organizations.
 
 ## See also

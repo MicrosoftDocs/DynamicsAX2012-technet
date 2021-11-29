@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Setting up and maintaining Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about setting up and maintaining Retail.

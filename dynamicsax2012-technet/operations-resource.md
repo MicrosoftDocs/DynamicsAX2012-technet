@@ -13,6 +13,9 @@ f1_keywords:
 
 # operations resource
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An economic resource provided by products that flow into or flow out of operations activities.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # Use Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Uses an existing shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

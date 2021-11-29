@@ -26,6 +26,9 @@ ms.search.region: Japan
 # (JPN) Generate Fixed assets reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to generate detailed reports about depreciated fixed assets. The details that are displayed in the report depend on the depreciation method that you use to depreciate the fixed asset, and whether the fixed asset has increased or decreased in net value.

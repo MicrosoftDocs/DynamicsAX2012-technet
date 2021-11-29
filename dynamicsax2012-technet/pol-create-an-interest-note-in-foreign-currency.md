@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create an interest note in foreign currency 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Polish companies generate interest notes from invoices in foreign currencies and then send the invoices to their customers. You can define the setup to generate interest note proposals in the **Interest calculation** form.

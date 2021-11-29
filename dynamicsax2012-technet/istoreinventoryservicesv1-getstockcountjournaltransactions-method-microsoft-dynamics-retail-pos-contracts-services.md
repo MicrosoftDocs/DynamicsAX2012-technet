@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountJournalTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get list of stock count journal transactions by journal ID with HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

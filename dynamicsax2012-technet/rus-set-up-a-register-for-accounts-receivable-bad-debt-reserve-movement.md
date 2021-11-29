@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for accounts receivable bad debt reserve movement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Accounts receivable - bad debt reserve movement** register is created for summarizing the information about the bad debt reserve movement, its use, and the comparison of the reserve with the indicators of the reporting period. The register is calculated on the basis of the results of creating and using the bad debt reserve and contains the following information:

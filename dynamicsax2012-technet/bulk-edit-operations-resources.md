@@ -17,6 +17,9 @@ ms.search.region: Global
 # Bulk edit operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Bulk edit** button on the **Resources** and **Resource groups** forms to change a field value on one or more resources or resource groups at the same time.

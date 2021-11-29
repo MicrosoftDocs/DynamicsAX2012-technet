@@ -17,6 +17,9 @@ dev_langs:
 
 # RunTotalsVerification Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Run bank totals verification procedure
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

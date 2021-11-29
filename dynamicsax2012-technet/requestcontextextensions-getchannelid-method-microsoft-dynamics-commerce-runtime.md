@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel identifier for the request. Used only for Login request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

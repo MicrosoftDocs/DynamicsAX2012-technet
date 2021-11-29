@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfirmationPage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the confirmation page to redirect to after adding an item to the cart. Empty Url means no redirect.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

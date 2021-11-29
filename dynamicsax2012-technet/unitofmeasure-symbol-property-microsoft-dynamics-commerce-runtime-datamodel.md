@@ -17,6 +17,9 @@ dev_langs:
 
 # Symbol Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the symbol for the unit of measure (e.g. "Pcs", "Cm", "Lbs").
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

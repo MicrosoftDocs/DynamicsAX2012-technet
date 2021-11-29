@@ -17,6 +17,9 @@ dev_langs:
 
 # IncomeExpenseAmountColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set Income / Expense transaction amount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

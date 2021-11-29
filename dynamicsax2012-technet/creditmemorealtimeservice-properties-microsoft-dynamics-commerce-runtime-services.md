@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CreditMemoRealtimeService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CreditMemoRealtimeService](creditmemorealtimeservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

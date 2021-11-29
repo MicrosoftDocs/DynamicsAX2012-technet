@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxRatePercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax rate percentage from the collection of SalesLines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

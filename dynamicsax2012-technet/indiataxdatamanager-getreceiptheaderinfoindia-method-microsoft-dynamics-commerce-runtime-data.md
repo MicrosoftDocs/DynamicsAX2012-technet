@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReceiptHeaderInfoIndia Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets Receipt Header India information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

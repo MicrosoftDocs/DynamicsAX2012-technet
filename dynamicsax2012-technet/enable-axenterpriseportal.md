@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Enable-AXEnterprisePortal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Enable-AXEnterprisePortal
 
 Deploys a new virtual server site to an IIS web server that already has Enterprise Portal installed.

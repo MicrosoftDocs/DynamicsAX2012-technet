@@ -17,6 +17,9 @@ dev_langs:
 
 # IndiaSalesOrderDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DataManager class for India Sales Orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

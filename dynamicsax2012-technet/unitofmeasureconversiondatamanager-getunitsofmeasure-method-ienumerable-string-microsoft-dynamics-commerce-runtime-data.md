@@ -15,6 +15,9 @@ dev_langs:
 
 # GetUnitsOfMeasure Method (IEnumerable(String))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves a set of units of measure for the given symbol(s).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

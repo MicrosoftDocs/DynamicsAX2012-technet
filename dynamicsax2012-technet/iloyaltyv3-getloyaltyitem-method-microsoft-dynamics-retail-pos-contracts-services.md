@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets loyalty item based on the passed in card number
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

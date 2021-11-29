@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCartVersion Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the version of the cart that is attempted to be updated is older than what exists already.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

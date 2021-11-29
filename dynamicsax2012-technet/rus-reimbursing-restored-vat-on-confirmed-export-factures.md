@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Reimbursing restored VAT on confirmed export factures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must calculate restored value-added tax (VAT) for confirmed export factures before you can reimburse the restored VAT. For more information about calculating restored VAT, see [(RUS) Calculate restored VAT and revenue amounts](rus-calculate-restored-vat-and-revenue-amounts.md). Complete the following tasks to reimburse restored VAT for a confirmed export facture:

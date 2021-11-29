@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail Benchmark for Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 In 2013, Microsoft conducted a benchmark on Microsoft Dynamics AX 2012 R2 to measure the performance and scalability characteristics of the Microsoft Dynamics AX 2012 R2 retail solution in a simulated retail scenario. The benchmark showcases the ability of Microsoft Dynamics AX 2012 R2 to handle various specialized loads concurrently, without compromising performance and scalability on critical business processes. The benchmark includes many functional scenarios across different client and integration technologies, thereby providing a view of retail back-end scenarios. The following scenarios were executed to complete the benchmark:
 
 The following scenarios were executed to complete the benchmark:

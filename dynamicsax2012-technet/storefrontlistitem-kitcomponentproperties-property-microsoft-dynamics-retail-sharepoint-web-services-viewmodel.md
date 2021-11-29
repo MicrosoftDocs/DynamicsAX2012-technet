@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets key value pairs that indicate miscellaneous component properties such as UoM, price, etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

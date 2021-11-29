@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create closing transactions during transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you close a fiscal year, you can post closing transactions to all profit and loss accounts and all balance sheet accounts. Opening transactions still will be posted to balance sheet accounts.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # Application Integration Framework
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The framework that provides a collection of features, tools, and infrastructure that uses a services programming model to support application integration.
 
 ## See also

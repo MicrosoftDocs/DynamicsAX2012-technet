@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up a custom check layout for a bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up custom check layouts to print checks. You can then attach a custom check layout to a bank account. You can create different check layouts for different banks in Brazil.

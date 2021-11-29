@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Generate an outgoing electronic fiscal document for a service sale 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to generate a fiscal document or outgoing electronic fiscal document for services when you post a sales order for a service transaction.

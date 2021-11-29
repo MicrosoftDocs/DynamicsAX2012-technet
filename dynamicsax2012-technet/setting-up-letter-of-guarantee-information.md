@@ -18,6 +18,9 @@ ms.search.region: Global
 # Setting up letter of guarantee information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about activating the letter of guarantee, and setting up a payment purpose or reason code to specify the objective of a letter of guarantee transaction or agreement.

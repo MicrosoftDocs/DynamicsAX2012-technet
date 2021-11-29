@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Set up a method of payment for French checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The French check format includes a check letter that you can print along with a check. The check letter lists all of the payments that are associated with the current check. You can print checks for general ledger accounts to pay for bills from one-time vendors.

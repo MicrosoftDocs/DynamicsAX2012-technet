@@ -17,6 +17,9 @@ dev_langs:
 
 # Item Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The index of the dictionary key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

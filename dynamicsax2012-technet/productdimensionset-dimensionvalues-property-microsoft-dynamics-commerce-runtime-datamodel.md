@@ -17,6 +17,9 @@ dev_langs:
 
 # DimensionValues Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the set of values of this dimension as a flat list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

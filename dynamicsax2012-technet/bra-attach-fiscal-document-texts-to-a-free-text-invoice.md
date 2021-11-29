@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Attach fiscal document texts to a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can print fiscal document text at the bottom of a printed fiscal document. The fiscal document text provides additional information about the taxes and laws that are applied to the invoice. To print fiscal document text on a free text invoice, you can attach the fiscal document text to the free text invoice.

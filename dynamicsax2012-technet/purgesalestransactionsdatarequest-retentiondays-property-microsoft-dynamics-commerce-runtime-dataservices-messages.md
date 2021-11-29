@@ -17,6 +17,9 @@ dev_langs:
 
 # RetentionDays Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of days transaction data will be retained in Channel DB.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

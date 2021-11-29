@@ -27,6 +27,9 @@ dev_langs:
 
 # ReasonCodeInputType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason code input type enum. Maps to RetailInfocodeInputType enum in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

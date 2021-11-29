@@ -14,6 +14,9 @@ ms.search.region: Global
 # Workflow types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create a workflow, you must first select the type of workflow that you want to create. This topic lists the types of workflows that you can create in each module. The topic also describes what each type of workflow is used for, and whether the workflows of each type are associated with a specific company in the organization or with the whole organization.

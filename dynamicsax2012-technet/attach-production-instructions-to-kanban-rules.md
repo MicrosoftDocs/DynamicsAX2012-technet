@@ -15,6 +15,9 @@ ms.search.region: Global
 # Attach production instructions to kanban rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to attach production instructions to kanban rules that are configured to use the **Manufacturing** type and the **Fixed** replenishment strategy. When you attach production instructions to a kanban rule, the production instructions for a kanban job are displayed in the **Kanban board for process jobs** form. You can also display the production instructions on kanban cards that you print.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductVariantPropertyDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents all the properties of a given product and its eventual variants, keyed by their unique product identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

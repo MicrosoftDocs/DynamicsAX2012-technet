@@ -18,6 +18,9 @@ ms.search.region: Lithuania
 # (LTU) Set up number sequences for invoices and packing slips 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX, you can set up unique document number sequences for master data records and transaction records. If the tax authorities for your country or region assign a specific document number sequence or format to your organization, you can associate the number sequence to a document type in Microsoft Dynamics AX.

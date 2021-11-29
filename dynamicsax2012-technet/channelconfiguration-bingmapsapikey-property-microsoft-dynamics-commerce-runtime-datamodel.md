@@ -17,6 +17,9 @@ dev_langs:
 
 # BingMapsApiKey Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets Bing maps api key required for a Inventory features.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

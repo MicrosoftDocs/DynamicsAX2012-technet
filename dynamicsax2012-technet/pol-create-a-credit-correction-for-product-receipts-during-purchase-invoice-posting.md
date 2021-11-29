@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create a credit correction for product receipts during purchase invoice posting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 By using the **Posting product receipt** form, you can post a product receipt for credit correction for a purchase order. The posted product receipt is reversed when the invoice is posted as a correction transaction.

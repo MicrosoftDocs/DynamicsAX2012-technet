@@ -13,6 +13,9 @@ f1_keywords:
 
 # billing classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment request classifier documented on customer invoices that govern payment terms and conditions and the processing of the invoices.
 
 ## See also

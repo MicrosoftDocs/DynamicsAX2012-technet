@@ -27,6 +27,9 @@ ms.search.region: USA
 # Tax codes, tax groups, and posting definitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic answers questions you might have when you work with tax codes and tax groups, and when you use tax groups together with posting definitions. Tax groups let you designate transaction posting definitions for multiple tax codes at the same time. If you use tax groups to do this and you’re not getting the posting results that you want, the questions in this topic can help you resolve the issues.

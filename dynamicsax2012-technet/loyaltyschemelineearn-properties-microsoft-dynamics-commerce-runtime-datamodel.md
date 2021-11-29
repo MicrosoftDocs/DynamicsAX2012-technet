@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltySchemeLineEarn Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltySchemeLineEarn](loyaltyschemelineearn-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

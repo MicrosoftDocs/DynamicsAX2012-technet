@@ -19,6 +19,9 @@ ms.search.region: Global
 # About WIP invoice on-account accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create an on-account invoice for work in process (WIP) on a project. The amount that you select for the WIP invoice can be related to specific costs or to a specified percentage of the total contract amount. You can select an estimated amount on the invoice, and then reverse the estimate when you calculate the actual invoice amount earned on a project. For more information about how to create an on-account invoice, see [Create on-account invoices for all projects](create-on-account-invoices-for-all-projects.md).

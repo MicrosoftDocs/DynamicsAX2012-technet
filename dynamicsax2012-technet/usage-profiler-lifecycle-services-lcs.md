@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Usage profiler (Lifecycle Services, LCS) 
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Usage profiler provides you with the following information:
 
 -   A detailed summary of usage characteristics modeled for an organization, including system configuration, transaction volumes, and scheduling information.

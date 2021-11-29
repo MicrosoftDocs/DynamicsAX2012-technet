@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemPrices Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the items are part of a price agreement and returns either that price or the basic item price for each specified item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

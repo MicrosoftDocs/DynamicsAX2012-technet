@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up an AOS profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 An Application Object Server (AOS) profile provides the connection string that enables Commerce Data Exchange: Synch Service to communicate with the Microsoft Dynamics AX database.

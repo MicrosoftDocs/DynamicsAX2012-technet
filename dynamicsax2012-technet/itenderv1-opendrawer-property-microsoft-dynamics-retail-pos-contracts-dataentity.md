@@ -17,6 +17,9 @@ dev_langs:
 
 # OpenDrawer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set if using this tender will cause the drawer to open
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

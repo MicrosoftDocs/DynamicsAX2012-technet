@@ -17,6 +17,9 @@ dev_langs:
 
 # CatalogSearchCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a query to retrieve catalogs as emitted by the client.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

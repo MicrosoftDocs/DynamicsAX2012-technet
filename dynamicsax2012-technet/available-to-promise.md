@@ -14,6 +14,9 @@ f1_keywords:
 
 # available to promise
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The portion of inventory that is not allocated and which can be used to fulfill new orders and requirements.
 
 ## See also

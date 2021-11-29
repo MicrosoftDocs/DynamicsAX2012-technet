@@ -22,6 +22,9 @@ dev_langs:
 
 # PosBatchStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies the possible status values of a batch.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

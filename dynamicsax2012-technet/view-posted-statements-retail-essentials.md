@@ -14,6 +14,9 @@ f1_keywords:
 # View posted statements (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to view posted statements in the Statement journal. The **Statement journal** form displays a list of all statements and statement lines that have been posted. There is one statement line per payment method per register. You can view a list of the transactions that are associated with any statement or statement line. These transactions include tender declaration transactions, payment transactions, and banked tender transactions. You can also view the vouchers that are included in the sales orders for each statement. These vouchers include sales vouchers, payment vouchers, discount vouchers, and the special vouchers that are created in Retail essentials.

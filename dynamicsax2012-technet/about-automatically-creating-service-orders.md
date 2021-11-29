@@ -19,6 +19,9 @@ ms.search.region: Global
 # About automatically creating service orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate service orders that are based on a service agreement for the valid period of the service agreement.

@@ -31,6 +31,9 @@ ms.search.region: Brazil
 # (BRA) Set up email parameters and email templates for an NF-e 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to set up email parameters to send a Nota Fiscal eletrônica (NF-e) to a vendor or customer automatically after the NF-e is approved or canceled, or if you generate a correction letter. You can set up a batch group and email templates for an NF-e. You must create separate email templates for an approved NF-e, a canceled NF-e, and a correction letter. You can then create a batch process to send the NF-e by email.

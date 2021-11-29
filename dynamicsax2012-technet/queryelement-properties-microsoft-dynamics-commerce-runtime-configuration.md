@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # QueryElement Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [QueryElement](queryelement-class-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Properties

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OfflineDatabaseChunk Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OfflineDatabaseChunk](offlinedatabasechunk-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

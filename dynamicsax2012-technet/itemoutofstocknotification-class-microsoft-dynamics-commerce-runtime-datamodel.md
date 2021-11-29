@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemOutOfStockNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates quantity at hand for a particular items is zero or less.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetActiveListingPrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the best price for an item between all active catalogs for the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

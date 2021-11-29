@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Creating a Report from an External Data Source 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A data source is a facility for accessing data. You can use the predefined *Dynamics AX* data source, which connects to the Microsoft Dynamics AX application database. Or, you can define an external data source to retrieve data from a different location. In this walkthrough, you will create a report from data that is stored in a separate SQL database that you create. In your report model, you will define an external data source that specifies the connection information for the database so that you can retrieve data from that database to display in your report.

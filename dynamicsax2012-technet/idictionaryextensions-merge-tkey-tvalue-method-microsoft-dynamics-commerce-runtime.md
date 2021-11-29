@@ -17,6 +17,9 @@ dev_langs:
 
 # Merge(TKey, TValue) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Merges collection collection to current dictionary.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

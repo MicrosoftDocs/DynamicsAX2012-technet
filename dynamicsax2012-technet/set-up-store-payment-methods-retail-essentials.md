@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up store payment methods (Retail Essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to assign methods of payment to stores. After you create a payment method in Retail essentials, you can assign it to stores. Multiple store payment methods can be based on a single organization-wide payment method. Each store payment method can have different settings.

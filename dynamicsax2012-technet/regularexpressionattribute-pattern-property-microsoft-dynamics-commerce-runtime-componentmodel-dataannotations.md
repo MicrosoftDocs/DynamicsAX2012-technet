@@ -17,6 +17,9 @@ dev_langs:
 
 # Pattern Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the regular expression pattern to use.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

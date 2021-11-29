@@ -17,6 +17,9 @@ dev_langs:
 
 # RefRelation2 Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Second field in the primary key of what activated the infocode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

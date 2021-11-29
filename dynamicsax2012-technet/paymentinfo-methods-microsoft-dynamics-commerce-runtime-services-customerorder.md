@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PaymentInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PaymentInfo](paymentinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) type exposes the following members.
 
 ## Methods

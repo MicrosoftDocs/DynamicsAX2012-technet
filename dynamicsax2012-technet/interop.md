@@ -13,6 +13,9 @@ f1_keywords:
 
 # interop
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The technology that one software component uses to interoperate with another software component.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessPagedResults Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Processes the paged results.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (SWE) Swedish sales tax report (TaxReport\_SE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Swedish sales tax report** summarizes the sales tax component and is used to review the status of the sales tax process and sales tax transactions. This report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, clerks, and accountants.

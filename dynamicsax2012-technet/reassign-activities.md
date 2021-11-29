@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reassign activities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to reassign service activities from one worker to another worker. You can reassign service activities from one worker to another worker even if those workers are assigned to different dispatch teams.

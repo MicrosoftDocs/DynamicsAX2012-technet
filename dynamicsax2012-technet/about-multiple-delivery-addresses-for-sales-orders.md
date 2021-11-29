@@ -15,6 +15,9 @@ ms.search.region: Global
 # About multiple delivery addresses for sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using multiple delivery addresses, you can specify a different delivery address for each order line. When the lines are posted, a journal that lists the relevant order lines is produced for each delivery address.

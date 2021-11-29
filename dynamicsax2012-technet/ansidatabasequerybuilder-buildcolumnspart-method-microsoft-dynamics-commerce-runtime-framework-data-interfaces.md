@@ -18,6 +18,9 @@ dev_langs:
 
 # BuildColumnsPart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds column parts to a string builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

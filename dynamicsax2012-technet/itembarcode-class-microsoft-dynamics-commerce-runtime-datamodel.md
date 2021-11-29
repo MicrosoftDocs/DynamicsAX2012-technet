@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemBarcode Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an item and assocaited barcode information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

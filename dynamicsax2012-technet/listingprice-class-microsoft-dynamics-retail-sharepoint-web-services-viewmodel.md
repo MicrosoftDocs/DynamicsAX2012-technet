@@ -17,6 +17,9 @@ dev_langs:
 
 # ListingPrice Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Container for the price of an item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

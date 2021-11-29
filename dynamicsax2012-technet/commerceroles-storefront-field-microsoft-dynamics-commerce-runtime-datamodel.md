@@ -17,6 +17,9 @@ dev_langs:
 
 # Storefront Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sharepoint Role used by Connector.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

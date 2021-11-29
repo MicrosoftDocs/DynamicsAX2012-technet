@@ -17,6 +17,9 @@ ms.search.region: Global
 # About moving average 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Moving average is a perpetual costing method. Moving average is based on the average principle, where the costs on inventory issues do not change when the purchase cost does. The difference is capitalized and is based on a proportional calculation. The amount that remains is expensed.

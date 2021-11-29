@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Data Import/Export Framework for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Data Import/Export Framework is a feature that helps you export data and import it into Microsoft Dynamics AX. It is included in Microsoft Dynamics AX 2012 R3. Prior to Microsoft Dynamics AX 2012 R3, it was available as a separate download. For more information about Data Import/Export Framework, see [Data import/export framework user guide (DIXF, DMF)](data-import-export-framework-user-guide-dixf-dmf.md).

@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Preview and print transactions with a general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can preview and print ledger transactions before posting them to the ledger journal.

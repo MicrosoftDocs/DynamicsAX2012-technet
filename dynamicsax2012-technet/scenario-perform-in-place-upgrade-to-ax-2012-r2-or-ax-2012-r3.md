@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An upgrade from one version of Microsoft Dynamics AX 2012 to another is known as a minor version or in-place upgrade. This type of upgrade requires no source-to-target workflow of the kind that is used when you upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009. Instead, the upgrade operations are performed on a copy of your production system. This topic describes the method that Microsoft recommends for an in-place upgrade to either Microsoft Dynamics AX 2012 R2 or Microsoft Dynamics AX 2012 R3 from a previous Microsoft Dynamics AX 2012 version.

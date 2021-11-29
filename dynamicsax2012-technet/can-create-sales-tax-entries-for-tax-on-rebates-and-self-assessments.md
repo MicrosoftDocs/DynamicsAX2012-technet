@@ -18,6 +18,9 @@ ms.search.region: Canada
 # (CAN) Create sales tax entries for tax on rebates and self-assessments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Companies must submit Goods and Services Tax or Harmonized Sales Tax (GST/HST) returns to the Canada Revenue Agency (CRA) based on self-assessment of imported goods. If you import taxable supplies, you must assess the value of the goods, calculate the GST/HST amount due, and submit the total self-assessed amount with your tax return. You can claim any rebates to which you may be entitled from the government by filing manually.

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCatalogIds Method (IEnumerable(SalesLine))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get catalog identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issues a gift card given the current transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

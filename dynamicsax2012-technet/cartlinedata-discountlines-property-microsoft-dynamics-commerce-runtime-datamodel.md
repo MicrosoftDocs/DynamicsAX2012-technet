@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of all discounts belonging to the cart line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

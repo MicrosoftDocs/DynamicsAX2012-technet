@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate a payment order for a foreign vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Generate payments** form to generate a payment order for payments that are made to the foreign bank account of a vendor. Before you generate a payment order, you can use the **Journal voucher** form to register a line in the payment journal to record the vendor payments. For more information, see [Generate payments - vendor (class form)](https://technet.microsoft.com/library/aa586980\(v=ax.60\)).

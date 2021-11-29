@@ -29,6 +29,9 @@ ms.search.region: Brazil
 # (BRA, MEX) Set up General ledger to reverse and update opposite sign amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to post negative debit amounts as credits, and negative credit amounts as debits. It also describes how to verify and update negative debit or credit amounts that already exist in posted transactions in the general ledger.

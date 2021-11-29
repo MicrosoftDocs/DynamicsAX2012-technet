@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Process items sent as rentals, free samples, demonstrations, or repairs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In some circumstances, taxes may not be involved when you send items as rentals or free samples, or when items are sent for demonstration purposes or repairs. Use the following procedure to process items sent as rentals, free samples, demonstrations, or repairs.

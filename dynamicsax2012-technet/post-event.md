@@ -13,6 +13,9 @@ f1_keywords:
 
 # post-event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An asynchronous event whose handler runs only after the action that raised the event is complete.
 
 ## See also

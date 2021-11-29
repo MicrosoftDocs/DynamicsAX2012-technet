@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a storno transfer journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post transfer journals according to the storno option that is used for other inventory journal types. You can mark a journal and its lines with the storno option. Inventory transactions that are created for the lines are also marked as storno, which differentiates the lines on inventory reports. The general ledger transactions for the storno journal are also posted as storno. To simplify the process of creating the storno transfer journal, the extended Copy inventory journal function is available for transfer journals.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # object permission
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A permitted create, read, update, delete, or execute operation on a securable object.
 
 ## See also

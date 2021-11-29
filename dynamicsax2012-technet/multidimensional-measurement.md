@@ -13,6 +13,9 @@ f1_keywords:
 
 # multidimensional measurement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A measurement with many characterizations of the magnitude or extent of the property of an object.
 
 ## See also

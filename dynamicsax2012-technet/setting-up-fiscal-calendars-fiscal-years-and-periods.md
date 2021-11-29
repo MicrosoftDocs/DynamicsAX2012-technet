@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up fiscal calendars, fiscal years, and periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about setting up and using fiscal calendars, fiscal years, and periods that can be shared by multiple legal entities:

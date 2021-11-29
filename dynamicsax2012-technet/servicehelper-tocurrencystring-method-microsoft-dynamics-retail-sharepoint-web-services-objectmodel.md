@@ -17,6 +17,9 @@ dev_langs:
 
 # ToCurrencyString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Formats decimal value to represent currency.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

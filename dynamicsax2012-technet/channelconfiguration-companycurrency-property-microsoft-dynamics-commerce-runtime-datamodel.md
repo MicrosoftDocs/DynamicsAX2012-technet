@@ -17,6 +17,9 @@ dev_langs:
 
 # CompanyCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the company accounting currency
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

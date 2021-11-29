@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidCreditMemoPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids credit memo payment, releases the credit memo at the head office.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductPropertyTranslationDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the translations of a product's properties, keyed by the languages identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

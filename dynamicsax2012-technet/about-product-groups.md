@@ -15,6 +15,9 @@ ms.search.region: Global
 # About product groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The products that are represented as items in the **Items** table must be organized and filtered in a way that is suited to presentation on the Internet. This is performed in product groups in Microsoft Dynamics AX. The product groups are organized in a tree structure with two possible node types:

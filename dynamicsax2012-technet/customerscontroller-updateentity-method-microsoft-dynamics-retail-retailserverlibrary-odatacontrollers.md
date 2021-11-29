@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateEntity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates Customer entity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

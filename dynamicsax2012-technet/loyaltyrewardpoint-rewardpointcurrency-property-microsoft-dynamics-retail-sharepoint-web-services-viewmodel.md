@@ -17,6 +17,9 @@ dev_langs:
 
 # RewardPointCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the currency of the reward point if the reward point is amount type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

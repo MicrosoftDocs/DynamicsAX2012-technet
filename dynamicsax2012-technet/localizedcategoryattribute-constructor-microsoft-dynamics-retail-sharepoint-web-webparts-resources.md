@@ -17,6 +17,9 @@ dev_langs:
 
 # LocalizedCategoryAttribute Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constructor.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources](microsoft-dynamics-retail-sharepoint-web-webparts-resources-namespace.md)  

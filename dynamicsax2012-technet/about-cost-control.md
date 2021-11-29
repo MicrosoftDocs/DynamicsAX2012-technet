@@ -25,6 +25,9 @@ ms.search.region: Global
 # About cost control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Cost control** form to help you monitor the costs that your organization incurs during a project. By comparing the original budgeted costs for the project with the current actual costs and the committed costs, you can determine whether the project is on track, over budget, or under budget.

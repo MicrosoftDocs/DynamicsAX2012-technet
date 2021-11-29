@@ -22,6 +22,9 @@ ms.search.region: Global
 # About prepayments and prepayment journal vouchers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Organizations might issue prepayments to vendors for goods or services before those goods or services are fulfilled. To minimize risk, you can track prepayments by defining the prepayment on a purchase order. Vendors can also create a prepayment invoice that is associated with a purchase order.

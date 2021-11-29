@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCartRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shopping cart specified by cart id and optionally calculates the totals on the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create mail merge files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a mail merge file in two ways. You can base the mail merge file on an existing mailing list, or you can base it on prospects and contacts.

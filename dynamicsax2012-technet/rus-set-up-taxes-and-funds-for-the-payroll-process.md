@@ -48,6 +48,9 @@ ms.search.region: Russia
 # (RUS) Set up taxes and funds for the payroll process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can configure Microsoft Dynamics AX to allow a legal entity to act as a tax agent and an insurance agent for employees.

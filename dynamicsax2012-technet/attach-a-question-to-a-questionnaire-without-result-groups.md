@@ -15,6 +15,9 @@ ms.search.region: Global
 # Attach a question to a questionnaire without result groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Using result groups is optional when you attach questions to a questionnaire. If you do not want to evaluate results based on correct answers, you do not have to use result groups. For more information, see [About result groups](about-result-groups.md).

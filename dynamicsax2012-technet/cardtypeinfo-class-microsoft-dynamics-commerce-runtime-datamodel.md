@@ -17,6 +17,9 @@ dev_langs:
 
 # CardTypeInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains properties to get and set the described member variables.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) View the VAT deferment schedule installment for a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 VAT deferment installments are calculated based on the deferment schedule for the specified Tax Identification Number (TIN). The deferment schedule installments are calculated and updated only for the purchase or return of capital goods.

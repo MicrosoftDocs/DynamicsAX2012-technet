@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllLoyaltyCardsStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a read only collection of all loyalty card with their status
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

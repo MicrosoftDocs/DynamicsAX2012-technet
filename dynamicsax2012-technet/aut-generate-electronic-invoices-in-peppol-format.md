@@ -27,6 +27,9 @@ ms.search.region: Austria
 # (AUT) Generate electronic invoices in PEPPOL format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic includes information about generating electronic invoices (eInvoices) as XML files by posting sales orders, free text invoices, project invoices, and credit notes, and then converting the eInvoices into the PEPPOL format. The XML files are converted into files in the PEPPOL format during the batch processing of the invoices based on how you have set up AIF, batch groups, and batch jobs to convert the files. For more information about setting up batch processing of eInvoices, see [(AUT) Set up parameters to generate electronic invoices in PEPPOL format](aut-set-up-parameters-to-generate-electronic-invoices-in-peppol-format.md).

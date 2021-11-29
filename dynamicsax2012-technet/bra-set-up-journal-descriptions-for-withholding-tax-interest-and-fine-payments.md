@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up journal descriptions for withholding tax, interest, and fine payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal descriptions** form to set up journal descriptions for withholding tax, interest, and fine payments. You can set up standard descriptions for journals by using defined variables. The variables are replaced by corresponding values when the journal is posted. You can use the following variables to set up journal descriptions for withholding tax, interest, and fine payments:

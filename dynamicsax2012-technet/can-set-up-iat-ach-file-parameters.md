@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN) Set up IAT ACH file parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can transfer funds in Canadian dollars (CAD) or U.S. dollars (USD) through the Royal Bank of Canada Payment Distribution Service. Use the **RBC Payment Distribution Service (CA)** or **RBC Pre-Authorized Debits (PADS) Service (CA)** export format for the method of payment, and then select either **CAD** or **USD** as the currency when you generate payments. This format complies with the Royal Bank of Canada Standard 152 Payment Distribution Service format.

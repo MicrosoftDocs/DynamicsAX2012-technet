@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up depreciation of fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Poland, fixed asset depreciation methods differ from the standard depreciation methods. Additional rules and settings are used to meet specific fixed asset accounting requirements. According to Polish regulations, a yearly depreciation rate is used to calculate depreciation, instead of the **Straight line service life** or **Straight line life remaining** depreciation methods. The following depreciation methods are applied in Poland:

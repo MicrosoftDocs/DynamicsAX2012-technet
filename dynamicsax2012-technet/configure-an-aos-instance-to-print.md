@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure an AOS instance to print 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, users cannot print documents or reports from a printer connected to a Microsoft Dynamics AX Application Object Server (AOS). You must enable printing in the AOS and client configuration files, as described in this topic.

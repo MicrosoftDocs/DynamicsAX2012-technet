@@ -19,6 +19,9 @@ ms.search.region: Global
 # About statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Microsoft Dynamics AX 2012 for Retail, you can use the statement posting process to account for the transactions that occur in Microsoft Dynamics AX for Retail POS. The statement posting process uses Retail scheduler to transmit a set of the point-of-sale (POS) transactions to the Microsoft Dynamics AX client. You can define the criteria that are used to select transactions by using the **Retail parameters** form and the **Stores** form. (For more information about these forms, click the links in the “See also” section at the end of this topic.)

@@ -17,6 +17,9 @@ dev_langs:
 
 # PopulateCatalogMediaInformation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates the catalog media information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

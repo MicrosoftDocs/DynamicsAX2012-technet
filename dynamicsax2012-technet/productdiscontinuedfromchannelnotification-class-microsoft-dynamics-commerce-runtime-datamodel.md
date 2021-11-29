@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductDiscontinuedFromChannelNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that an item is not sold through the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

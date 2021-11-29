@@ -15,6 +15,9 @@ dev_langs:
 
 # GlobalASAXDeploymentJob Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the GlobalAsaxDeploymentJob class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

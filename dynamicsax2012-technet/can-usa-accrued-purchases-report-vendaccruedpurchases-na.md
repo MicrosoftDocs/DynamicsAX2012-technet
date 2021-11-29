@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Accrued purchases report (VendAccruedPurchases\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Accrued purchases** report displays details about product receipts that have been entered and posted, but not invoiced, as of the cutoff date that you specify. The report contains data that you can use to reconcile one or more accrued purchases accounts. Invoice details are displayed on the report when one of the following conditions is true:

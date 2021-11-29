@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLastClosedShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads the last closed Shift object from database for the specific terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

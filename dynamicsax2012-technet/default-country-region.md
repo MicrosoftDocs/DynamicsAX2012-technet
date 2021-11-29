@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Default country/region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, all postal addresses must have a corresponding country/region. Use this form to validate and update the default country/region code for each company in your organization. When you upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009, the country/region that you select here for a company becomes the country/region for address records in that company that do not have a specified country/region. After you have completed the **Prepare application data for preprocessing section** of the **Preprocessing upgrade checklist**, you can use the **Addresses with no country/region** form to change the country/region for an address record.

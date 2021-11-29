@@ -19,6 +19,9 @@ ms.search.region: Global
 # Elimination rules for transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Elimination transactions are required when a parent legal entity does business with one or more subsidiary legal entities and uses consolidated financial reporting. Transactions that occur between legal entities that are part of the same organization must be eliminated, because consolidated financial statements must include only transactions between the consolidated organization and other entities outside that organization. Therefore, transactions between legal entities that are in the same organization must be removed, or eliminated, from the general ledger so that they do not appear on financial reports.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Export a payment or cancel a payment exported to a client bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use electronic exchange formats to export payments to a client bank, and to import payments and bank account statements from a client bank. Payments include outgoing and incoming payments between Microsoft Dynamics AX and a client bank. For more information about the client bank process, see [(RUS) About the electronic exchange format for client bank payments](rus-about-the-electronic-exchange-format-for-client-bank-payments.md). Use the **Export of payments to client-bank** form to export a payment to a client bank. You can export transactions that are created in the payment journals to the client bank. You can also cancel a payment that is exported to a client bank by using the **Exported payments** form.

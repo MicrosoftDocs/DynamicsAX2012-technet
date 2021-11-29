@@ -18,6 +18,9 @@ ms.search.region: Global
 # About the production process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The production of items, sometimes also known as the production life cycle, follows specific steps that are needed to complete the manufacture of an item. The life cycle begins with the creation of the production order and ends with a finished, manufactured item that is ready for the customer. Each step in the life cycle requires different kinds of information to complete the process. When each step is completed, the production order reflects this by showing a change in production status.

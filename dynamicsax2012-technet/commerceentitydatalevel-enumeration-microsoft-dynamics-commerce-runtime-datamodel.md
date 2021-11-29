@@ -22,6 +22,9 @@ dev_langs:
 
 # CommerceEntityDataLevel Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the various levels of data which an entity can contain.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

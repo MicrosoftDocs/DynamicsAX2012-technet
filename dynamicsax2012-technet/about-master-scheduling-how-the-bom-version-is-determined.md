@@ -19,6 +19,9 @@ ms.search.region: Global
 # About master scheduling - how the BOM version is determined 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 During a demand explosion, if an item has a planned order type of production (in the coverage settings for an item), the planning engine finds a valid BOM version based on the site. The site is already known and is stated on the demand transaction. The following process is used to determine the BOM version to use:

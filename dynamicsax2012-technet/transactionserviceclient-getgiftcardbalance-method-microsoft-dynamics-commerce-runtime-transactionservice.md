@@ -17,6 +17,9 @@ dev_langs:
 
 # GetGiftCardBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the gift card balance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

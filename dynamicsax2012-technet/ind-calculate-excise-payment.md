@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate excise payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can adjust the tax amounts according to the setoff rule in the **Tax adjustment** form. Select only the excise-related voucher transactions to consider for the settlement process for that period in the **Transactions** form.

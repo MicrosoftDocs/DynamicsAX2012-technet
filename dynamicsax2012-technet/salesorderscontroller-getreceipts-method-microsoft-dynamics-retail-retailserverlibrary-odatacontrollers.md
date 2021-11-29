@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReceipts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a set of receipts based on the formTypes for Printing.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

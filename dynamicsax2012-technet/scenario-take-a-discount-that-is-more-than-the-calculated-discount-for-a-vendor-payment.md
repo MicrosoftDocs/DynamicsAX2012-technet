@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Take a discount that is more than the calculated discount for a vendor payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendor 3051 gives Fabrikam a cash discount of 4 percent if an invoice is paid in seven days. April enters an invoice on June 29 for 1,000.00. The vendor lets April take a discount of 60.00 instead of the default discount of 40.00 that is available for this invoice. April opens the Accounts payable **Payment journal** form, and then creates a payment journal. She clicks **Lines** to open the **Settle open transactions** form, and then clicks **Functions** \> **Settlement**. She marks the invoice and changes the **Cash discount amount** field value to 60.00.

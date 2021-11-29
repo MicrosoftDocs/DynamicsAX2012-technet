@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issue new credit memo.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

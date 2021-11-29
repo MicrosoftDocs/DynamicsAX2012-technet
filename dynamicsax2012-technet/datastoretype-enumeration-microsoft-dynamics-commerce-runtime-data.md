@@ -22,6 +22,9 @@ dev_langs:
 
 # DataStoreType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Types of data stores.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

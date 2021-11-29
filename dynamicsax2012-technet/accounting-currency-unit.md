@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit used to quantify the financial consequences of accounting events.
 
 ## See also

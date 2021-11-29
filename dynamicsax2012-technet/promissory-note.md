@@ -13,6 +13,9 @@ f1_keywords:
 
 # promissory note
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents an agreement between two parties based on an understanding that one party will commit to paying the other party at a specified time or on demand.
 
 ## See also

@@ -15,6 +15,9 @@ f1_keywords:
 # Strategies for Using the Budget Planning Analysis Data Cube in Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012 R2, organizations can use the budget planning analysis data cube to analyze their budget planning data to more effectively manage their budget planning processes and evaluate their budgeting.

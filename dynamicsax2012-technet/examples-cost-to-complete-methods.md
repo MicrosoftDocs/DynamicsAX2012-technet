@@ -16,6 +16,9 @@ ms.search.region: Global
 # Examples: Cost to complete methods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides six cost-to-complete methods that you can select in the **Create estimate** form. The method that you select is used to distribute the values of an estimate for a project. For more information, see [Create estimate (class form)](https://technet.microsoft.com/library/aa553468\(v=ax.60\)).

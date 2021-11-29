@@ -13,6 +13,9 @@ f1_keywords:
 
 # item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A tangible or intangible thing.
 
 ## See also

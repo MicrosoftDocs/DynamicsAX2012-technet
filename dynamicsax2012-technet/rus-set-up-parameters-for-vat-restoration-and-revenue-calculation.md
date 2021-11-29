@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for VAT restoration and revenue calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up parameters for the restoration of value-added tax (VAT) and for revenue calculation. These parameters are set up by using the **General ledger parameters** form. For more information, see [(RUS) Restoring VAT payments to a budget](rus-restoring-vat-payments-to-a-budget.md).

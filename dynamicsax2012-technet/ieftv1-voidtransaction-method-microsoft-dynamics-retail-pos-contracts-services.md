@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids the card payment by establishing a connection with the configured payment processor.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

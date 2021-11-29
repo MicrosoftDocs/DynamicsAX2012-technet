@@ -16,6 +16,9 @@ f1_keywords:
 # (CAN, USA) Open sales orders report (CustSalesOpenOrders\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Open sales orders** report displays information about open sales orders. An open sales order has one or more items that have been ordered by the customer but have not yet been shipped. This report is typically used by CFOs, CEOs, Accounts Receivable managers, and accountants to review customer invoices.

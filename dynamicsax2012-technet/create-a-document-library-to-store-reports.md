@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a document library to store reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If you are using Microsoft Dynamics AX 2012 R2 or later, and if Microsoft SQL Server Reporting Services is running in SharePoint integrated mode, create a document library in SharePoint to store your reports. Complete this procedure before you deploy the default reports that are included with Microsoft Dynamics AX.

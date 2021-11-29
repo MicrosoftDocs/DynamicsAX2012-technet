@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Import data from the Financial reports generator report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The electronic documents list directory is used to store all reports that are submitted electronically to the tax authorities. A tax document can have an unlimited number of versions. However, only the active version is processed when you use the document view and export functions.

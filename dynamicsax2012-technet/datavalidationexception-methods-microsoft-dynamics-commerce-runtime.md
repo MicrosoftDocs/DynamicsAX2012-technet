@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataValidationException Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataValidationException](datavalidationexception-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

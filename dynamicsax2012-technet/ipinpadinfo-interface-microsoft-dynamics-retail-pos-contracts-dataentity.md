@@ -17,6 +17,9 @@ dev_langs:
 
 # IPinPadInfo Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The event arguments for PinpadEntryCompleteHandler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

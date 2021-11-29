@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (POL) Polish coloration of chart of account lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Polish installations, Microsoft Dynamics AX 2009 provides an additional country-specific configuration key, **CRSEPoland**. When this configuration key is selected, the color of the **Heading** and **Sum** lines in the **Chart of accounts** form changes.

@@ -23,6 +23,9 @@ ms.search.region: Global
 # About estimates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An estimate provides a snapshot of a project’s finances at a single point in time. The progress of a project to date is measured by factoring together the value of the transactions that have been incurred to date and a prediction of the cost to complete the project.

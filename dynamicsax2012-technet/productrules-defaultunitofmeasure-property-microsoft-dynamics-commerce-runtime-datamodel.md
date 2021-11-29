@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultUnitOfMeasure Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default unit of measure for the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

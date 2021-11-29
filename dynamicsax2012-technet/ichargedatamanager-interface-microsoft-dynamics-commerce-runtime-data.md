@@ -17,6 +17,9 @@ dev_langs:
 
 # IChargeDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interface for the ChargeDataManager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

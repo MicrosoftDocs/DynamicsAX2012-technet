@@ -15,6 +15,9 @@ dev_langs:
 
 # Remove Method (TKey)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes the item for the given key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

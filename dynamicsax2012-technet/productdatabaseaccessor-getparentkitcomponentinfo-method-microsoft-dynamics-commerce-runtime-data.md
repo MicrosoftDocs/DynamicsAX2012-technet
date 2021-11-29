@@ -17,6 +17,9 @@ dev_langs:
 
 # GetParentKitComponentInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the component level details for all the kits whose product master identifiers are provided..
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

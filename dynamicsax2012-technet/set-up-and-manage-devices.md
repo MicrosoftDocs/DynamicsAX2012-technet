@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up and manage devices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up and manage devices, such as Windows computers and Windows tablets, in Microsoft Dynamics AX so they can be used with Retail POS or Modern POS. You can create, deactivate, and disable devices in Microsoft Dynamics AX. You can also activate a device from the device itself.

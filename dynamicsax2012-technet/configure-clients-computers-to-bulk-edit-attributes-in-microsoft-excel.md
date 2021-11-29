@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure clients computers to bulk edit attributes in Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX users can bulk edit product attributes for a retail catalog by using Microsoft Excel. The bulk-edit process uses a macro created specifically for Microsoft Dynamics AX. By default, macros are disabled in Excel. This topic describes how to enable signed macros in Excel and how to verify that Microsoft is a trusted macro publisher. After you perform the steps in this topic, Microsoft Dynamics AX users can perform a bulk edit, as described in [Bulk edit product attributes by using Excel](bulk-edit-product-attributes-by-using-excel.md).

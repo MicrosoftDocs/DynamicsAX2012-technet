@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Tax information in intercompany transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Intercompany transactions are based on the standard purchase order and sales order functionality. However, there are some differences when sales tax is calculated in intercompany transactions:

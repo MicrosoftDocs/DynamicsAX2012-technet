@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a posting profile for cash management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The ledger posting profile defines cash management posting in ledger accounts. A posting profile can be linked to a single cash account, or it can be linked to all the cash accounts.

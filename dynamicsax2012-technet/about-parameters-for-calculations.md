@@ -15,6 +15,9 @@ ms.search.region: Global
 # About parameters for calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Calculation parameters calculate work time and pay for workers. Click **Human resources** \> **Setup** \> **Time and attendance** \> **Calculation parameters**.

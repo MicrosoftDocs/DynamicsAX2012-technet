@@ -18,6 +18,9 @@ ms.search.region: Global
 # Validate and post trade agreement journal lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to validate and post trade agreement journal lines when you update sales prices and discounts. These updates can be applied manually or automatically to any related price or discount agreements, also known as trade agreements. For example, as a sales manager, you may want to increase sales prices for a specific product or for all products at the end of every calendar year, or you may want to offer discounted prices on specific products for a limited time as part of a campaign. Regardless of how many sales prices and discounts that you have to update, you can easily identify the prices and discounts to update, make the required changes, check for gaps and overlaps, and post the changes. When you post a trade agreement journal line, any related trade agreements are updated.

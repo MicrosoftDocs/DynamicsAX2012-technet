@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Reassign workers to stores after upgrade (Retail) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you upgrade to Microsoft Dynamics AX 2012 Feature Pack, you must manually reassign existing workers to stores. This step is necessary, because Microsoft Dynamics AX 2009 for Retail did not enforce a worker-to-store relationship, and the upgrade framework cannot derive these relationships.

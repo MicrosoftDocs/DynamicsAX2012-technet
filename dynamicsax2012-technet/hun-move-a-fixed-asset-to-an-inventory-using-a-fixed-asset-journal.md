@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Move a fixed asset to an inventory using a fixed asset journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Normally, the inventory value of a fixed asset is calculated based on the cost of the item at purchase. To comply with Hungarian accounting law, when you move a fixed asset to inventory, the inventory value must be equal to the net book value of the fixed asset.

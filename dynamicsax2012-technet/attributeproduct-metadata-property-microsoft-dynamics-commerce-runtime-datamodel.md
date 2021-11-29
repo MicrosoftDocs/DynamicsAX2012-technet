@@ -18,6 +18,9 @@ dev_langs:
 
 # Metadata Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the meta data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

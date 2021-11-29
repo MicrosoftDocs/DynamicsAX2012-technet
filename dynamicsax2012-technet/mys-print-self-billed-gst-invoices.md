@@ -14,6 +14,9 @@ ms.search.region: Malaysia
 # (MYS) Print self-billed GST invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to print a self-billed Malaysian Goods and Services Tax (GST) invoice for goods and services that you have purchased from a vendor. Before you can invoice yourself for a purchase transaction, you must acquire an approval number to print a self-billed invoice from the Malaysian tax authorities. It is mandatory to enter a reference number for the approval in the **Purchase order** form. A self-billed invoice also includes a tax summary with GST details. You can either use a detailed or a simple printing format for the invoice depending on the selection that you make in the **General ledger parameters** form.

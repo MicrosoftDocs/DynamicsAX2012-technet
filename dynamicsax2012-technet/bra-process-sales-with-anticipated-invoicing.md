@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Process sales with anticipated invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a sale that uses anticipated invoicing, you accept a prepayment, or advance payment, from a customer and issue a customer fiscal document later, when the items are actually delivered. In accordance with the price negotiation agreements with a customer, you can receive prepayments without delivering the items. However, you can issue the customer fiscal document only when the items are delivered to the customer. There is no physical or financial movement of inventory at the prepayment stage, and no taxes apply.

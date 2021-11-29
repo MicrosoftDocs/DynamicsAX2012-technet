@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StockCountJournalsController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StockCountJournalsController](stockcountjournalscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Methods

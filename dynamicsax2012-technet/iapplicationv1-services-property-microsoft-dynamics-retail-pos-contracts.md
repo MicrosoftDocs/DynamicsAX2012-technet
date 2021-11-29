@@ -17,6 +17,9 @@ dev_langs:
 
 # Services Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the application services.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

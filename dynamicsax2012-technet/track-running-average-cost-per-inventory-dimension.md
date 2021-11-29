@@ -14,6 +14,9 @@ ms.search.region: Global
 # Track running average cost per inventory dimension 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Each inventory item is assigned an inventory dimension group. The running average cost price for an item is therefore calculated based on the selection of inventory dimensions that are being tracked financially.

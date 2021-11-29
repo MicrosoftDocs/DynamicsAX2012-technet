@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementation Guide for Commerce Data Exchange (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This document describes recommended patterns and practices for setting up, configuring, customizing, monitoring, and diagnosing Commerce Data Exchange: Synch Service and Commerce Data Exchange: Real-time Service.
 
 [Download the paper](https://go.microsoft.com/fwlink/?linkid=306680)

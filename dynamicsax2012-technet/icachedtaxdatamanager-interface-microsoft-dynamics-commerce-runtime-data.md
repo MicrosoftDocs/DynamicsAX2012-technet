@@ -17,6 +17,9 @@ dev_langs:
 
 # ICachedTaxDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tax Data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PostSale Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after adding a sale line item to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

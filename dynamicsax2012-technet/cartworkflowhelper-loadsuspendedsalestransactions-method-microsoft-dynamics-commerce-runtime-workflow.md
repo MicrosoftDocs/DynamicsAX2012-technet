@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadSuspendedSalesTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Load all the suspended transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run Setup in silent mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you run the Setup wizard, Setup is running in interactive mode. In other words, a graphical user interface (GUI) prompts you for the required information. Alternatively, you can run Setup in silent mode. When Setup runs in silent mode, no GUI is displayed. Instead, you supply the required information at the command prompt or in a parameter file. You can install any Microsoft Dynamics AX component in silent mode.

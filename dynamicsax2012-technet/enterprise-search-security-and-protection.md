@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Search security and protection 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how Microsoft Dynamics AX restricts access to data, metadata, and documents in Enterprise Search results. If Search is installed by using Setup, users can search in the Microsoft Dynamics AX client or Enterprise Portal. After you install Search, the search box is available in the Microsoft Dynamics AX client. The data that is returned by Search is determined by queries that are listed in the Application Object Tree (AOT) and design features that trim data in Search results.

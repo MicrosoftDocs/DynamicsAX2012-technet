@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonGridZone Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The button grid zone entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

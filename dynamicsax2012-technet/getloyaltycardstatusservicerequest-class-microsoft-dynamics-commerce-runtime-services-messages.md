@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardStatusServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the request for getting the status of a loyalty card including card tiers and reward points status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

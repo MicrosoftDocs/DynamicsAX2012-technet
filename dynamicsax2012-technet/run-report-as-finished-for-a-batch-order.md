@@ -17,6 +17,9 @@ ms.search.region: Global
 # Run report as finished for a batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Report as finished is a production stage. At this stage, some or all of the quantity for a formula item, co-product, or by-product in a batch order is produced. The inventory is physically received in stock. When you perform the report as finished process, the finished products of the batch order are posted in a Report as finished journal. You can also automatically post the Route card and Picking list journals.

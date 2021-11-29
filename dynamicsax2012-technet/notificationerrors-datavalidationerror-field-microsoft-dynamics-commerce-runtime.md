@@ -17,6 +17,9 @@ dev_langs:
 
 # DataValidationError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a data validation error caused the notification error.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

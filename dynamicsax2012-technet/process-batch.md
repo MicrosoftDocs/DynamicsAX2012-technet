@@ -13,6 +13,9 @@ f1_keywords:
 
 # process batch
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The quantity of one or more items that is produced or that can be produced.
 
 ## See also

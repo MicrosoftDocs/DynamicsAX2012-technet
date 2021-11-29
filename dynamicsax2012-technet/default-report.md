@@ -13,6 +13,9 @@ f1_keywords:
 
 # default report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report that does not allow a user to modify the layout but that does allow a user to filter and sort the data in the report.
 
 ## See also

@@ -16,6 +16,9 @@ ms.search.region: USA
 # Setting up payroll: Basic topics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic contains high-level procedures to help you set up Payroll in Microsoft Dynamics AX 2012. Each procedure contains links to basic setup topics that describe the tasks that are required to set up Payroll for the first time.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateOrderAndQuoteCreationAndUpdate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates a sales transaction for customer order creation and update.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # ABC classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A system for ranking discrete categories of items according to Pareto's 80/20 principle that states that a small percentage of items account for the largest fraction of significance.
 
 ## See also

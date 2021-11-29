@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPreRender Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create the table body elements.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

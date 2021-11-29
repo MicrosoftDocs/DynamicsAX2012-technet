@@ -17,6 +17,9 @@ dev_langs:
 
 # BalanceReport Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints a balance report for all customers who have balance not equal to zero.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

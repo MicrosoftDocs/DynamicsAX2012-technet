@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCacheUpdatingDisabled Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether cache updates are allowed or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

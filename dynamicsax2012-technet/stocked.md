@@ -13,6 +13,9 @@ f1_keywords:
 
 # stocked
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that controls whether products are tracked in stock.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # DataRowCollection Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of rows contained in a data table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

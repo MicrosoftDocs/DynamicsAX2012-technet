@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCitiesDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCitiesDataRequest](getcitiesdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

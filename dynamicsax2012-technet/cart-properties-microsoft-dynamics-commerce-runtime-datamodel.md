@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Cart Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Cart](cart-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

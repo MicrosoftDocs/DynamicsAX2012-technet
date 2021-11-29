@@ -17,6 +17,9 @@ dev_langs:
 
 # ITransactionTriggerV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Transaction triggers interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

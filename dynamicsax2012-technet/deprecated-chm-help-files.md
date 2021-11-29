@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: .chm Help files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, Help content was available in the **HTML Help Files** node of the Microsoft Dynamics AX Application Object Tree (AOT). This Help content was in the form of .chm files.

@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Adjustment (cur.) report displays information about the cost adjustments of inventory items in the reporting currency. Accountants generate this report to analyze the values of cost adjustment transactions before the recalculation of cost values during the closing of the inventory.

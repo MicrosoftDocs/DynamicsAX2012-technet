@@ -17,6 +17,9 @@ dev_langs:
 
 # Create Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new instance of the merchandising manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

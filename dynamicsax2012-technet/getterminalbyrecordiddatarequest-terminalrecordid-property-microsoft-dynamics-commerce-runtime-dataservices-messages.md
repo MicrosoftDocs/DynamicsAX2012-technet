@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalRecordId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the terminal record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

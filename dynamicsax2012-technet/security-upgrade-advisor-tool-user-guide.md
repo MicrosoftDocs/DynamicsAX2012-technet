@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security Upgrade Advisor Tool User Guide 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX Security Upgrade Advisor Tool is intended to help simplify the process of upgrading security settings from earlier versions of Microsoft Dynamics AX to Microsoft Dynamics AX 2012. 

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsRequiredToBeUtc Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether \[is required to be UTC\].
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

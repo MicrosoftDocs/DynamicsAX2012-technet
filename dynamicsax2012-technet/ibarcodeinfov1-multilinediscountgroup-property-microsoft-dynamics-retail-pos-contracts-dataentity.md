@@ -17,6 +17,9 @@ dev_langs:
 
 # MultiLineDiscountGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the multiline discount group.
 
 The multiline discount group that the item is a part of.

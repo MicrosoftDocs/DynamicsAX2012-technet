@@ -13,6 +13,9 @@ f1_keywords:
 
 # single use kanban
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of kanban that is used with a fixed quantity kanban rule to meet exceptionally high demand. A single use kanban does not trigger a new kanban when it is discarded.
 
 ## See also

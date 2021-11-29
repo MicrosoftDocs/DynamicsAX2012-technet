@@ -13,6 +13,9 @@ f1_keywords:
 
 # job order costing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A costing method that uses production orders to assign incurred production costs to specific jobs.
 
 ## See also

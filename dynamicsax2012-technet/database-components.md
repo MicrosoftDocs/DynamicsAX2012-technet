@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Database components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX relies on two Microsoft SQL Server databases, the business database and the model store database. During upgrade, an additional database, the baseline model store, is used. This topic provides an overview of the databases and the types of tables that each database stores.

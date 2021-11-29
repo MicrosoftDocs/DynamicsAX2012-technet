@@ -17,6 +17,9 @@ dev_langs:
 
 # TrustedIdentityProviderSecurityTokenService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A custom SecurityTokenService implementation for trusted identity providers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (SAU) Letter of credit misc charges report (BankLCMiscChargeReport\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Letter of credit misc charges** report is used to display the miscellaneous charges that are applicable to a letter of credit. This report is typically used by chief financial officers, accountants, accounting managers, and accounting supervisors to maintain and inquire into the status of import letters of credit.

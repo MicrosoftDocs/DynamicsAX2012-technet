@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToConvertUnitOfMeasureNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that unable to convert quantity between unit of measures for an item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

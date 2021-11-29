@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up imported vendor catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide an overview of the process for importing vendor catalogs and the configuration setup that is required before you can incorporate vendor catalog files into your procurement catalog.

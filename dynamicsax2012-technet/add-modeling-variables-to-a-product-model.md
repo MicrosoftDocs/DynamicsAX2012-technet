@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add modeling variables to a product model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All modeling variables must belong to a variable group. You can add modeling variables to a product model only after you attach variable groups. Click **Grouping** on the **Product model** form.

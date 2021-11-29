@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up interest codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up and maintain interest codes. Interest codes contain settings that determine when interest is charged and how it is calculated on overdue accounts.

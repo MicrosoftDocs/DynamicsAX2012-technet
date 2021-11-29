@@ -19,6 +19,9 @@ ms.search.region: China (PRC)
 # (CHN) About accounting distributions and subledger journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you post a purchase order or a free text invoice, you can view the full accounting entry of the invoice, which includes debits and credits, to verify that the invoice is being posted to the correct accounts. This view of the full accounting entry is called a subledger journal. Subledger journal lines are accounting entries that are available from the advanced ledger entries in **General ledger**. You can view the subledger posting type and ledger lines for an accounting event. You can create subledger journals from source documents, such as invoices, packing slips, and picking lists for customers and vendors.

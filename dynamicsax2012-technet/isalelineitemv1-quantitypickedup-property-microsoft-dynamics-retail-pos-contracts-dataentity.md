@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityPickedUp Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of items picked up from order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

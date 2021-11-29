@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Copy a product group in the SION 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can assign a product group to your organization’s Standard Input Output Norms (SION) by copying from an existing SION product group.

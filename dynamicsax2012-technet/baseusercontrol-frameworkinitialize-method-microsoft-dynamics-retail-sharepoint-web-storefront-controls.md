@@ -17,6 +17,9 @@ dev_langs:
 
 # FrameworkInitialize Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes the control that is derived from the [TemplateControl](https://technet.microsoft.com/library/2174ac61\(v=ax.60\)) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintExternalReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints external receipt, i.e., any document received from an external device or a service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

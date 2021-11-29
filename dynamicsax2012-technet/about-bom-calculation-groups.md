@@ -15,6 +15,9 @@ ms.search.region: Global
 # About BOM calculation groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 One purpose of assigning a BOM calculation group to items is to define applicable warning conditions so that a BOM calculation generates warning messages about potential sources of calculation errors. A BOM calculation generates an Infolog that contains the warning messages. You can view this warning Infolog about a selected item when you use the **Complete** form to review BOM calculation results. The form displays an icon that indicates that a warning Infolog exists for an item.

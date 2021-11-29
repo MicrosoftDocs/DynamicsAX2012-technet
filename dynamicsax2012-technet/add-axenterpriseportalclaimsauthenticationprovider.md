@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Add-AXEnterprisePortalClaimsAuthenticationProvider
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Add-AXEnterprisePortalClaimsAuthenticationProvider
 
 Adds a registered claims-based authentication provider to the Enterprise Portal server.

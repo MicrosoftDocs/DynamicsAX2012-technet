@@ -17,6 +17,9 @@ dev_langs:
 
 # NonSalesTransaction Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents drawer entry operation - declare start amount/ float entry / tender removal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

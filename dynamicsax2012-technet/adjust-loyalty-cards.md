@@ -18,6 +18,9 @@ ms.search.region: Global
 # Adjust loyalty cards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to manually adjust loyalty cards, transfer balances between loyalty cards, and update loyalty tiers for a specific loyalty card. After you set up loyalty programs for your customers, you might have situations when you need to make manual adjustments to the customer’s loyalty card or reward balance.

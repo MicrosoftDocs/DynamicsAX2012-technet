@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateBarcodeInfo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates an [IBarcodeInfo](ibarcodeinfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

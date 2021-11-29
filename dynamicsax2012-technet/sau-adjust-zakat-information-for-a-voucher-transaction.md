@@ -18,6 +18,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Adjust Zakat information for a voucher transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you close out a fiscal year, you can review the Zakat reports generated during the year for accuracy. If you find discrepancies, you can adjust posted voucher transactions.

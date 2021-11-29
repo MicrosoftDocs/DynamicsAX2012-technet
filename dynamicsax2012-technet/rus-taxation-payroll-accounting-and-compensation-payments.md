@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Taxation, payroll accounting, and compensation payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In this section, you can set up parameters for taxation, payroll accounting, and benefits and compensation payments. You can register the employee’s absence, benefits, and compensation amounts using payroll calculation procedures. You can also print a list of payroll accounting reports.

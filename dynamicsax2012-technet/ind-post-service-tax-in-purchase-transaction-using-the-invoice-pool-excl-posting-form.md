@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post service tax in purchase transaction using the Invoice pool excl. posting form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

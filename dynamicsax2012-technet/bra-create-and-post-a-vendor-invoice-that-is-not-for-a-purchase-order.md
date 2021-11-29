@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a vendor invoice that is not for a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and post a vendor invoice that is not associated with a purchase order.

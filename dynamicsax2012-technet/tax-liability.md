@@ -13,6 +13,9 @@ f1_keywords:
 
 # tax liability
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A government authority's legal claim to the assets of a legal entity.
 
 ## See also

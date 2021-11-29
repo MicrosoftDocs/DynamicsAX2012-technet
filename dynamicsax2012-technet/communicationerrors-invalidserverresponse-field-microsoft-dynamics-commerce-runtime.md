@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidServerResponse Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that an invalid response was returned from the server.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

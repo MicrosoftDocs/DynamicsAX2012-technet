@@ -17,6 +17,9 @@ dev_langs:
 
 # Process Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the workflow to retrieve changed products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

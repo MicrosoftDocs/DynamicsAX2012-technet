@@ -14,6 +14,9 @@ ms.search.region: Global
 # Protest a bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a customer does not accept a bill of exchange or does not pay it on time, you can use the **Protest bill of exchange journal** to change the status of the bill of exchange from **Drawn** to **Protested**. You can also include a reference to the drawn bill of exchange.

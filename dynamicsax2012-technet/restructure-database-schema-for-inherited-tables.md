@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Restructure database schema for inherited tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After Microsoft Dynamics AX 2012 R2 or R3 data upgrade has been completed, the **Restructure database schema for inherited tables** task flattens the database schema inherited from the source system. The resulting simplified table hierarchy is intended to improve performance by speeding data retrieval.

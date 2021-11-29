@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add Reports to Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following procedure describes how to add a report to a report model in Microsoft Visual Studio. You must also add the report project to the AOT to access the report from the AOT. In the AOT, you can see the report was added in the **SSRS Reports** \> **Reports** node.

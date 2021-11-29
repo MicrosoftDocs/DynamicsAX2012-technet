@@ -14,6 +14,9 @@ f1_keywords:
 # Category consumption (actual vs. budget) report (ProjConsumCateg2Column) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze consumption for projects by category, and by comparing actual values and budgeted values.

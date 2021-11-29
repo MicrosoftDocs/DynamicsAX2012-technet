@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Commerce Data Exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Commerce Data Exchange is a system that transfers data between Microsoft Dynamics AX and retail channels, such as online stores or brick-and-mortar stores.

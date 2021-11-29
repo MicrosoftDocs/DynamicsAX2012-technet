@@ -17,6 +17,9 @@ dev_langs:
 
 # OriginalStaffIdClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Original Staff Id Claim - Used when manager override (elevation) is in effect.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

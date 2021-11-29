@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Enter token numbers for withholding tax statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can record token numbers for the Tax Deducted at Source (TDS) statements and Tax Collected at Source (TCS) statements that are filed. When you generate the following statements, the statements are automatically listed in the **Token numbers** form. You must then manually enter the token number for each statement.

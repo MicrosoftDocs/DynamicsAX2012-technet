@@ -18,6 +18,9 @@ ms.search.region: Denmark
 # (DNK) Set up customer accounts for OIOUBL electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Customers** form to specify the address and contact details for customers who you want to generate electronic invoices for. You can create contacts in the **Contacts** form and assign the contact to a customer account. The contact information is included when you generate an electronic invoice for a customer.

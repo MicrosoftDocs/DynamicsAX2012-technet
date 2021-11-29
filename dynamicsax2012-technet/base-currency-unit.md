@@ -13,6 +13,9 @@ f1_keywords:
 
 # base currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The computed currency unit in an exchange rate calculation.
 
 ## See also

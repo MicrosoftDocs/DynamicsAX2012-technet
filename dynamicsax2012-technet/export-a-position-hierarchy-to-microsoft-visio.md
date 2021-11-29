@@ -14,6 +14,9 @@ ms.search.region: Global
 # Export a position hierarchy to Microsoft Visio 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After you have entered the position information for your organization in Microsoft Dynamics AX, you can create a position hierarchy in Microsoft Visio. A position hierarchy is a visual representation of how positions relate to each other within your organization. You can use Microsoft Excel to export position information from Microsoft Dynamics AX and then you can use the Microsoft Visio **Organization Chart Wizard** to import the position information from Excel to an organization chart. To do this, complete the following steps:

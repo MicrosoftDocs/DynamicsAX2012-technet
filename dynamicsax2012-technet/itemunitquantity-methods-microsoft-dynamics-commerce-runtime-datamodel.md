@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemUnitQuantity Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemUnitQuantity](itemunitquantity-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

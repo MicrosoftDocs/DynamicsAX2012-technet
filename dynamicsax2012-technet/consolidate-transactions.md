@@ -18,6 +18,9 @@ ms.search.region: Global
 # Consolidate transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the consolidation functionality to combine the financial results for several subsidiary companies into results for a single, consolidated company. The subsidiaries can be in the same Microsoft Dynamics AX database or in separate databases.

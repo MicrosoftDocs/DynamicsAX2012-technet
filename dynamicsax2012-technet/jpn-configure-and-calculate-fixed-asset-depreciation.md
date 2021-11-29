@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Configure and calculate fixed asset depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up depreciation methods and allowable limits for depreciation, you can create a depreciation proposal that depreciates the asset and calculates the monthly depreciation expenses.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for deferrals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Deferred expense registers are created at actual recognition of losses incurred by the company for tax purposes with deferred expenses. Records are also created monthly or quarterly at actual accounting of expense data in the form of simple current expenses or payroll expenses.

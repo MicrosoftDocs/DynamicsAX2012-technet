@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductDimensionSet Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductDimensionSet](productdimensionset-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

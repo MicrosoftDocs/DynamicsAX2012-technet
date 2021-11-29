@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateDiv Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a division element (div) for adding display controls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

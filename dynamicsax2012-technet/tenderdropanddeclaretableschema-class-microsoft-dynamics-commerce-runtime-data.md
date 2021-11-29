@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderDropAndDeclareTableSchema Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class to save table schema for DB type TENDERDECLARATIONTRANSTYPE.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

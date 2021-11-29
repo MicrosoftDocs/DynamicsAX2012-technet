@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a letter of guarantee request for a new project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A letter of guarantee can be issued for a new project between a principal and beneficiary. After the project has been created, the principal can create a letter of guarantee request for the vendor and submit it to the bank. When the bank receives and approves the request, the letter of guarantee is issued to the beneficiary. For more information, see [About letter of guarantee](about-letter-of-guarantee.md) and [Activate the letter of guarantee](activate-the-letter-of-guarantee.md).

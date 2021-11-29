@@ -14,6 +14,9 @@ ms.search.region: Global
 # Summarize customer invoices based on packing slip numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create customer invoices that correspond to packing slip numbers. Each invoice can include line items from multiple sales orders, provided that the line items are included on the same packing slip. You can then invoice customers for each delivery, regardless of when the items were ordered.

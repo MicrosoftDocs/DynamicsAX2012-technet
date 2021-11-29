@@ -17,6 +17,9 @@ dev_langs:
 
 # VariantInventoryDimensionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the variant inventory dimension id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

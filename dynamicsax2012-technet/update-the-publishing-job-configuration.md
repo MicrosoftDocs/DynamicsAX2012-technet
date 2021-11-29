@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Update the Publishing Job Configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX for Retail publishing job has parameters that are stored in a .NET application configuration file. The file is loaded at runtime each time the job is started. Before the file is called by the publishing job code, it must be extracted from your SharePoint configuration database, where it is persisted in serialized form.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Unsent alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The guidelines in the following topic apply to administrators who help users who have not received the alerts that they expected to receive.

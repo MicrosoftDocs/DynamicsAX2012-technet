@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetPromotionsRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetPromotionsRequest](getpromotionsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

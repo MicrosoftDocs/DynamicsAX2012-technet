@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up an unrealized or realized exchange adjustment amount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 1.  Click **General ledger** \> **Setup** \> **General ledger parameters**.

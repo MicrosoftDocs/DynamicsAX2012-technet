@@ -17,6 +17,9 @@ dev_langs:
 
 # ICreditMemoTenderLineItemV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ITenderLineItem interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View and fix upgrade readiness issues 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **View and fix upgrade readiness issues** task opens the **Upgrade validation results** form. Use the **Upgrade validation results** form as a starting point to resolve issues that are discovered when you used the **Upgrade readiness** form to run the upgrade readiness scripts.

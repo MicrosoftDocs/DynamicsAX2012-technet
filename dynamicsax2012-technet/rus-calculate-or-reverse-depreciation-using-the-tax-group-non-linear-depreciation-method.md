@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate or reverse depreciation using the tax group non-linear depreciation method 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate depreciation in tax accounting by using the linear method or the non-linear method. You can also calculate tax depreciation by using the tax non-linear group depreciation method. This method allows you to specify a depreciation rate for each group, or a depreciation factor for each subgroup, to calculate the depreciation amount that is accrued for each depreciation group or subgroup.

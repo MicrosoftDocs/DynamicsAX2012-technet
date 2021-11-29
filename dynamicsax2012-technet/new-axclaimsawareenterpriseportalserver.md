@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # New-AXClaimsAwareEnterprisePortalServer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## New-AXClaimsAwareEnterprisePortalServer
 
 Creates a claims-aware instance of Enterprise Portal.

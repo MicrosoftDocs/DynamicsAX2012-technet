@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the base class for exceptions originating from the Commerce Runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

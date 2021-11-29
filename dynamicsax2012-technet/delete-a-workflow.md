@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete a workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delete all versions of a workflow, or you can delete specific versions of a workflow. To delete a workflow, you must be an administrator or have permission to maintain workflows in the module being used. You cannot delete a workflow that has an active instance.

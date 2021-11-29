@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISuspendRetrieveSystem Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISuspendRetrieveSystem](isuspendretrievesystem-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

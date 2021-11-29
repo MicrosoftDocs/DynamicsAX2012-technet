@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # New-AXModel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## New-AXModel
 
 Creates an empty model in a Microsoft Dynamics AX model store.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up charges on intercompany orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up charges to be added to intercompany orders. When a charge is added to an intercompany sales order, it is automatically synchronized to the intercompany purchase order. This works both ways—from the intercompany sales order to the purchase order and the other way around.

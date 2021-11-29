@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) Set up print management options for an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Print management setup** and **Print destination settings** forms to set up print management options for an electronic invoice. You can also set up print management options for a customer or vendor to override the print management destination setup for different modules.

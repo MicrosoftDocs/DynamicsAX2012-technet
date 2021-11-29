@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUserName Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the UserName of the authenticated user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

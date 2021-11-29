@@ -19,6 +19,9 @@ ms.search.region: Lithuania
 # (LTU) Enter details for a fixed asset repair statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When the repair cost for a fixed asset exceeds 50 percent of the fixed asset’s acquisition value, the net balance value of the asset increases by the repair amount. Repair information must be stored for all fixed assets. You can generate and print a report that includes information about the fixed asset repair.

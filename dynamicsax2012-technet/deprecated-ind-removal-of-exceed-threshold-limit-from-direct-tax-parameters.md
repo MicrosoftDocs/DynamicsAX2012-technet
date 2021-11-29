@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (IND) Removal of 'Exceed threshold limit' from Direct Tax parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Indian installations, Microsoft Dynamics AX 2009 includes a country-specific setup in the general ledger parameters. This feature lets users configure the system behavior when the Direct Tax (Tax Deducted at Source \[TDS\]/Tax Collected at Source \[TCS\]) threshold is exceeded for the first time. The system can have no response, issue a warning, or issue an error that prevents further progress.

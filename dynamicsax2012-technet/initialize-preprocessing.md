@@ -19,6 +19,9 @@ f1_keywords:
 # Initialize preprocessing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Initialize preprocessing** task prepares the Microsoft Dynamics AX source system for data upgrade by creating shadow and dictionary tables for all the data tables that are in the live production database. The task also initializes the preprocessing scripts. The tables that are created by this step will hold the data that is created during upgrade preprocessing. Most of the data in the shadow and dictionary tables is created by the live and delta preprocessing scripts, though some records are created by each of the other preprocessing tasks.

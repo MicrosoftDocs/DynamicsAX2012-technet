@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ValidateUpdateCartRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ValidateUpdateCartRequest](validateupdatecartrequest-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Properties

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Prerequisites for standard costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic covers the basic steps for using standard costs. Subsequent steps depend on the company’s operations, such as a nonmanufacturing environment, a manufacturing environment without routings, and a manufacturing environment with routings.

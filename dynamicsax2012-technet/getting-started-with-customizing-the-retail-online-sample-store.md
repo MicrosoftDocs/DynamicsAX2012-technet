@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Getting started with customizing the Retail online sample store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail in Microsoft Dynamics AX 2012 R3 includes starter stores that you can customize: the Contoso store that sells electronics and the Fabrikam store that sells clothing. These stores are built on the Microsoft SharePoint Server 2013 cross-site publishing platform. Source code and sample customizations for the starter stores are included in the [Retail SDK](install-retail-sdk-retail-pos-plug-ins.md).

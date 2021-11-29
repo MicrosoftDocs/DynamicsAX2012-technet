@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemAvailabilitiesByItemWarehousesServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to get item warehouses.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

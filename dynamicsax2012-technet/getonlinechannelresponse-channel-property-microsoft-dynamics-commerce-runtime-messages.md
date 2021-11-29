@@ -17,6 +17,9 @@ dev_langs:
 
 # Channel Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the online channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

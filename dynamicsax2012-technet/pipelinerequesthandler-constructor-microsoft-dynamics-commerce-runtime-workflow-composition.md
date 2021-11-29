@@ -17,6 +17,9 @@ dev_langs:
 
 # PipelineRequestHandler Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [PipelineRequestHandler](pipelinerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow-composition.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

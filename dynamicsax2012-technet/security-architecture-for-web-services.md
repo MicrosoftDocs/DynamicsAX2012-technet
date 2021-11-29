@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security architecture for Web services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Application Integration Framework (AIF) supports Web services for Windows Communication Foundation (WCF). In AIF, each document is represented by a service that can be exposed from an integration port. To consume services over the Internet, you must host services on Internet Information Services (IIS). AIF uses standard WCF processing to receive and process SOAP requests. For information about how to install Web services on IIS, see [Install web services on IIS](install-web-services-on-iis.md).

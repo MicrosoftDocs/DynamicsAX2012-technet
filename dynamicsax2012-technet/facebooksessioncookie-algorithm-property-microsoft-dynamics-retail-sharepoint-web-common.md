@@ -17,6 +17,9 @@ dev_langs:
 
 # Algorithm Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Algorithm.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBreakCategoryJobIdsByActivities Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the break category job identifiers for the given activities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

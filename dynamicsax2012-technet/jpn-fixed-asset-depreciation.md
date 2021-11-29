@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Fixed asset depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A fixed asset depreciates over the course of its useful life, decreasing the acquisition value of the asset. To regulate the depreciation of a fixed asset, you must assign one of the following depreciation methods to the asset based on the date when the asset was placed into service:

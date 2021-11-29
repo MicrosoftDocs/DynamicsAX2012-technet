@@ -15,6 +15,9 @@ dev_langs:
 
 # GetConfigurationSection Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the configuration section.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

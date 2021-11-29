@@ -17,6 +17,9 @@ dev_langs:
 
 # StatementCalculationBatchEndTimeInSeconds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the statement calculation batch end time in seconds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

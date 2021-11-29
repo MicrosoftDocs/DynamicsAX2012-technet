@@ -15,6 +15,9 @@ ms.search.region: Global
 # About line types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a BOM line, you use the BOM line type to indicate how you want the system to handle the line when you estimate the production order. Each line type gives a different result. The **Line type** field is located on the **General** tab of the **BOM line** form. You can select from the following BOM line types.

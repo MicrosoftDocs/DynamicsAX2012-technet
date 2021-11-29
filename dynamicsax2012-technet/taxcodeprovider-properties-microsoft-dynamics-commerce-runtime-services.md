@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TaxCodeProvider Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TaxCodeProvider](taxcodeprovider-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

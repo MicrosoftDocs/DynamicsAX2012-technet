@@ -14,6 +14,9 @@ f1_keywords:
 # View Retail POS shifts (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to use the **Shifts** form to look up closed shifts from stores. Shifts have unique numbers and are associated with specific registers. If some shifts did not post during statement posting, this form can help you determine the reason. You can also use this form to look up previous Z reports.

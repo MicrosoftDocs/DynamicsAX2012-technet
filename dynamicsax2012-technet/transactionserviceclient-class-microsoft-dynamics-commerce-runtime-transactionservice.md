@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionServiceClient Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Transaction Service Commerce Runtime Client API.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

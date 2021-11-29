@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnTerminalId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If the item is being return, this field stores the terminal id where the item was originally bought
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

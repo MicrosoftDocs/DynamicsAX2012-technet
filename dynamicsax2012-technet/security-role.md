@@ -13,6 +13,9 @@ f1_keywords:
 
 # security role
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A defined set of application access privileges. The security role assigned to a user determines which tasks the user can perform and which parts of the user interface the user can view. All users must be assigned at least one security role in order to access the system.
 
 ## See also

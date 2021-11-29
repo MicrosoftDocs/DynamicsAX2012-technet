@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Create, confirm, reopen, and print a consolidated customer invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create consolidated invoices for customer transactions for which sales revenues, such as accounts receivable and cost of goods sold, are recorded on the shipping date. Invoices for these transactions are generally printed and sent to the customer on the shipping date. However, in some cases, multiple transactions within a period are merged into a single consolidated invoice for the period. You can include invoices that are associated with letters of credit in a consolidated invoice.

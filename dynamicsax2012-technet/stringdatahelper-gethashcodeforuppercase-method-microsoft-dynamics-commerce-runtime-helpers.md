@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHashCodeForUpperCase Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns hash code for the upper cases version of supplied string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # HasMultiple(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if collection has more than one elements.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

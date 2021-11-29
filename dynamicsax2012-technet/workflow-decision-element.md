@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow decision element
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A guard condition that controls the logical branching of task sequences within a workflow process. A workflow decision can be made by a user or by an automation rule.
 
 ## See also

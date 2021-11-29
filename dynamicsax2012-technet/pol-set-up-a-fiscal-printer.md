@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up a fiscal printer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A fiscal printer is a specific printer that must be certified for retail sales by the local tax authorities. All items that are sold must be registered through the printer. The fiscal printer is connected to the computer through a serial port.

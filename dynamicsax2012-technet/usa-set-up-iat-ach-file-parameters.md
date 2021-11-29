@@ -19,6 +19,9 @@ ms.search.region: USA
 # (USA) Set up IAT ACH file parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The National Automated Clearing House Association (NACHA) and Office of Foreign Assets Control (OFAC) of the U.S Department of the Treasury have introduced a standard entry class code for International ACH Transactions (IAT). When you make payments to a vendor or refund a payment to a customer who is outside the United States, you must use this code in the transaction to denote the origin of the payment.

@@ -15,6 +15,9 @@ dev_langs:
 
 # SelectAffiliations Method (IList(IAffiliation))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Show affiliation page and return selected affiliations.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

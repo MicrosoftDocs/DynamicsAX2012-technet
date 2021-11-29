@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Adjust a transaction that has been posted to a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to adjust a project transaction as a whole or in part. Project adjustment transactions can be posted as corrections in the general ledger.

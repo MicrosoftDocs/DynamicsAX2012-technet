@@ -17,6 +17,9 @@ dev_langs:
 
 # RecallOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Recalls a customer order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

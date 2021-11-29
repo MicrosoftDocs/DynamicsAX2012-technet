@@ -17,6 +17,9 @@ dev_langs:
 
 # GrossWeightForItemNotFound Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the gross weight for item is not able to be retrieved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

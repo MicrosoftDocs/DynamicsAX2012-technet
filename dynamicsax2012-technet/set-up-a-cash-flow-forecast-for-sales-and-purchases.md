@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a cash flow forecast for sales and purchases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can complete the required setup for the sales and purchase cash flow forecast, or you can create a more extensive setup. You can also budget sales and purchases by customer and vendor group.

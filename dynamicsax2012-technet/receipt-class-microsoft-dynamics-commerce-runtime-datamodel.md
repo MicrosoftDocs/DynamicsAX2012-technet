@@ -17,6 +17,9 @@ dev_langs:
 
 # Receipt Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The commerce entity for the receipt. Will be used in print and email scenarios.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

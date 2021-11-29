@@ -17,6 +17,9 @@ dev_langs:
 
 # ScaleErrorMessageEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Scale device error message handler delegate.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up images 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can store images, each of which is assigned a unique ID. These images can be used in button grids that are displayed in Microsoft Dynamics AX for Retail POS. After button grids are set up, they can be added to a screen layout, and then displayed on a point of sale (POS) register at a store. Images can include logos, pictures of items, and icons.

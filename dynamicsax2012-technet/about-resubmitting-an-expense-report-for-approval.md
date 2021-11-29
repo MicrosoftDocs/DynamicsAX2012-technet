@@ -15,6 +15,9 @@ ms.search.region: Global
 # About resubmitting an expense report for approval 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When an expense report is returned to you without approval, you can respond to the changes or issues that are listed by the approver in the workflow history and then resubmit the report for approval.

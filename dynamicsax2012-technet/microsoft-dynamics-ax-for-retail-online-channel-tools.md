@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX for Retail online channel tools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The Retail SDK contains some tools that help you maintain your online channel. After you compile the Tools solution, you can use the SharePoint cleanup tool, the configuration updater tool, and the publishing job configuration tool.
 
 ## Compile Tools.sln

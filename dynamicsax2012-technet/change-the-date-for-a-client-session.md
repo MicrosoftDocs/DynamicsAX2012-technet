@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the date for a client session 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, client sessions use the current date when entering and posting journal entries or source documents. You can change the date that is used for your current Microsoft Dynamics AX client session. Use this feature to back-date journal entries or source documents, if necessary.

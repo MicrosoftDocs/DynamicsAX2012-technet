@@ -17,6 +17,9 @@ dev_langs:
 
 # RecallCustomerOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for getting sales orders and converting into a cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

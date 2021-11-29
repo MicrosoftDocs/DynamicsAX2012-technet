@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create service agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a service agreement for a customer. The service agreement defines the resources for services and how those resources are invoiced to the customer. You can also create a service agreement for a project.

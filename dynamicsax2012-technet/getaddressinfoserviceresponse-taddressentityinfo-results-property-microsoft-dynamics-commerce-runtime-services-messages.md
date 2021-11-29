@@ -17,6 +17,9 @@ dev_langs:
 
 # Results Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of results.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

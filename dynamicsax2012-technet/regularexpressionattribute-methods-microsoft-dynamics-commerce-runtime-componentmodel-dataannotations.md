@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RegularExpressionAttribute Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RegularExpressionAttribute](regularexpressionattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) type exposes the following members.
 
 ## Methods

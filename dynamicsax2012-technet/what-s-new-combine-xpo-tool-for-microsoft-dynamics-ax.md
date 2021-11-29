@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Combine XPO Tool for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX 2012 Combine XPO Tool, is a command-line program that combines a set of interdependent XPO files into a single XPO file. For example, if a team of developers is making code changes to different aspects of an application, the developers can use this tool to merge the changed files into one XPO file.

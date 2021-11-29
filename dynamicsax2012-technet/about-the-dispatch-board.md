@@ -15,6 +15,9 @@ ms.search.region: Global
 # About the dispatch board 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A dispatch board is the central location from which you can view the status of activities in a service order. You can perform the following tasks in a dispatch board:

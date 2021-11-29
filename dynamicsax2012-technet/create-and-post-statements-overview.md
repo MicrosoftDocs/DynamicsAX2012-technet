@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create and post statements overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Retail, you can create a statement to transmit transaction data from the point of sale (POS) database to the database for the head office. You can use the statement to calculate the total amount of all transactions that have occurred since the last store statement, and to calculate a related count of payment methods.

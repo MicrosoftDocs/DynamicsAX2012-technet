@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Classes
 
 <table>

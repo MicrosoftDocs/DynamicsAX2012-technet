@@ -18,6 +18,9 @@ dev_langs:
 
 # FormatLineElement Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The format element field name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsSaturdayTimeBounded Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether valid time is inside or outside specified bounds for Saturdays in this period.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

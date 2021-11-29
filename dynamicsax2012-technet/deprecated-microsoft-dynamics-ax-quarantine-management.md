@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Microsoft Dynamics AX Quarantine management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 For the next major release after Microsoft Dynamics AX 2012 R3, the quarantine order functionality will be deprecated.
 
 The quarantine order allows you to block inventory during inspection by transferring physical inventory to a dedicated quarantine warehouse. After inventory is blocked, the quarantined inventory is identified by the material requirements planning (MRP) feature. The quarantine order functionality also allows quarantined inventory to be scrapped.

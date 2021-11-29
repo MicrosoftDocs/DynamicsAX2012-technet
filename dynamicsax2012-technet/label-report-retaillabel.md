@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Label report (RetailLabel) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print or reprint shelf labels or product labels. A standard report format for printing shelf and product labels is provided, but you can add additional label formats.

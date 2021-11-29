@@ -18,6 +18,9 @@ ms.search.region: Finland
 # (FIN) Generate a Finnish Intrastat declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Intrastat declaration is used to report the movement of goods between European Union (EU) member states. Finnish companies can use the Intrastat form to generate an Intrastat declaration in CSV format for submittal to the Finnish customs authority. For more information, see [About Intrastat](about-intrastat.md).

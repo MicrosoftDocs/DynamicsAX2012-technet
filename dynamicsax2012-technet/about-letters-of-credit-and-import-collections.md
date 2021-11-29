@@ -15,6 +15,9 @@ ms.search.region: Global
 # About letters of credit and import collections 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Letters of credit and import collections are bank documents that are commonly used for the purchase and sale of goods across international borders.

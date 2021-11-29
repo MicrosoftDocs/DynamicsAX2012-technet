@@ -17,6 +17,9 @@ dev_langs:
 
 # SetPrincipal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the principal for the request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

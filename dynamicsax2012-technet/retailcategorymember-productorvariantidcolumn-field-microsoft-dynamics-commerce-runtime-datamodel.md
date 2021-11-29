@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductOrVariantIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Product or variant Id column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

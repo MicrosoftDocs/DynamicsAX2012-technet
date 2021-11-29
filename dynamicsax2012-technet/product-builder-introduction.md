@@ -16,6 +16,9 @@ ms.search.region: Global
 # Product builder introduction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use **Product Builder** to dynamically configure items, based on a sales order, purchase order, production order, sales quotation, project quotation, or item requirement and a set of modeling variables that are predefined for each item.

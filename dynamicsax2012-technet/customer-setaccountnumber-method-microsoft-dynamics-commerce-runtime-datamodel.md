@@ -17,6 +17,9 @@ dev_langs:
 
 # SetAccountNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the account number if it has not already been set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

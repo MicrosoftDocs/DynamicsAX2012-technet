@@ -13,6 +13,9 @@ f1_keywords:
 
 # mathematical statement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A combination of symbols that form a logical sentence that is true or false under a given interpretation.
 
 ## See also

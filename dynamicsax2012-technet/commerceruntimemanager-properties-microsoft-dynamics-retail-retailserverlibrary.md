@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeManager](commerceruntimemanager-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Properties

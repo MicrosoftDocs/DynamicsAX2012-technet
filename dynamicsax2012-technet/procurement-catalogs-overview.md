@@ -19,6 +19,9 @@ ms.search.region: Global
 # Procurement catalogs overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, purchasing professionals can create and maintain catalogs that company employees can use when they order items and services for internal use. The use of catalogs for indirect procurement has the following advantages:

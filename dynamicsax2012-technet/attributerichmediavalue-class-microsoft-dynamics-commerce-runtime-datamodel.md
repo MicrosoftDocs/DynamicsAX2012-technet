@@ -18,6 +18,9 @@ dev_langs:
 
 # AttributeRichMediaValue Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an attribute whose value is rich media location.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

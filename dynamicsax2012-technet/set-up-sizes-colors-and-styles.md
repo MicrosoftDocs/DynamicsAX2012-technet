@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up sizes, colors, and styles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Set up product sizes, colors, and styles to distinguish the product variants that your retail products are offered in. After you set up the different product variants, you can create variant groups, and then assign the groups to your retail products.

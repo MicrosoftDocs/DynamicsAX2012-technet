@@ -13,6 +13,9 @@ f1_keywords:
 
 # expense
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A cost that expires when the benefits that incurred the cost are received during an accounting period.
 
 ## See also

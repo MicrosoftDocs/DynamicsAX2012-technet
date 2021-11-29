@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up parameters for SPED ECD text files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to specify how Sistema Publico de Escrituração Digital (SPED) fiscal text files will be saved before you submit them to the federal tax authorities.

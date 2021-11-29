@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Sections (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sections determine the layout of a report in MorphX. Sections can be defined by a report template or directly in the custom design in your report. All the sections can be repeated.

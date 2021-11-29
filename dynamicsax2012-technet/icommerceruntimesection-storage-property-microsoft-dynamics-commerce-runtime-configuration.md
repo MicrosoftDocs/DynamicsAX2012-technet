@@ -17,6 +17,9 @@ dev_langs:
 
 # Storage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the storage element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

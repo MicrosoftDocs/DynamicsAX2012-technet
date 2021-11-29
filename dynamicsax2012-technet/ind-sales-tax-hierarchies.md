@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Sales tax hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up sales tax information to settle sales tax and to generate sales tax payments. In Microsoft Dynamics AX, you can set up sales tax information such as tax types, tax components, and tax record types using sales tax hierarchies. You can then retrieve and use the sales tax information that you configure using the sales tax hierarchy during the settlement and payment process.

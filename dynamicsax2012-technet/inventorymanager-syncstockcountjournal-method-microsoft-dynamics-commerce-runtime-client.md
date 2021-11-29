@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncStockCountJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Syncs the Stock Count journal from AX to RetailServer Db and gets the current list of SC journal from Db.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

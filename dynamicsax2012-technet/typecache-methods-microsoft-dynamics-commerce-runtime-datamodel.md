@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TypeCache Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TypeCache](typecache-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

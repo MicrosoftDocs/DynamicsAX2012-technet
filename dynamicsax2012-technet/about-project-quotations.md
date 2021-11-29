@@ -18,6 +18,9 @@ ms.search.region: Global
 # About project quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In a project quotation, you enter the services, basic contact information, special trade agreements and discounts, and possible taxes and surcharges that you estimate for a project. In Microsoft Dynamics AX, you can also select the activities or tasks for a project, and create a hierarchy of tasks and subtasks. For each activity, you can enter details about the timing and duration of the activity, and about the skills and experience that are required for workers who perform the activity. For more information about how to create a hierarchy of activities, see [Work breakdown structure (form)](https://technet.microsoft.com/library/hh209089\(v=ax.60\)).

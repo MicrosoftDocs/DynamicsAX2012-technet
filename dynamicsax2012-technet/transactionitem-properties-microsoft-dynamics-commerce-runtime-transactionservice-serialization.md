@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionItem Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransactionItem](transactionitem-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) type exposes the following members.
 
 ## Properties

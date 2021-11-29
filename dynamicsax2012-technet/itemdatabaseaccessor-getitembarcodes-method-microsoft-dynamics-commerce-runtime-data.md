@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemBarcodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets barcode information for the given set of Items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

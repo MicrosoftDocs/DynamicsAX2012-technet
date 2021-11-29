@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) About fiscal document text placeholders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Fiscal document text placeholders are predefined tags that represent specific values. You can include the placeholders in the **Text** field in the **Fiscal document source texts** form when you create a fiscal document source text. You can also include placeholders in the **Note** field in the **Fiscal document texts** form when you attach a fiscal document text to a sales order, purchase order, or free text invoice. When you post a sales order, purchase order, or free text invoice that has a fiscal document text that includes placeholders, the placeholders are replaced by the values in the predefined tags.

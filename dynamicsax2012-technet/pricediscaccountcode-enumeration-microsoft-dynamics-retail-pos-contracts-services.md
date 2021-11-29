@@ -20,6 +20,9 @@ dev_langs:
 
 # PriceDiscAccountCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.PriceDiscAccountCode interface enables a discount with regard to a customer, a superordinate customer group or to all customers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

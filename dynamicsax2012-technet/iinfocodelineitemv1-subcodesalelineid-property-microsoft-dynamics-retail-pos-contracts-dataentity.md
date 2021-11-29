@@ -17,6 +17,9 @@ dev_langs:
 
 # SubcodeSaleLineId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The line id of the item that was sold through the subcode
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

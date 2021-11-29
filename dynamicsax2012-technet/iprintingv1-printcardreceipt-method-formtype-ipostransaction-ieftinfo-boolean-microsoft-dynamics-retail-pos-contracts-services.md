@@ -15,6 +15,9 @@ dev_langs:
 
 # PrintCardReceipt Method (FormType, IPosTransaction, IEFTInfo, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints the card payment receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

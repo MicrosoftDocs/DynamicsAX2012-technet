@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post received orders for transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post transactions for orders that are received from a receiving warehouse in the **Transfer orders** form. For more information, see [(IND) Transfer orders (modified form)](https://technet.microsoft.com/library/jj677831\(v=ax.60\)).

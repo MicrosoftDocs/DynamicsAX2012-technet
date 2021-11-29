@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a ledger journal of land tax transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a ledger journal only if these land tax registers are set up, calculated, and approved:

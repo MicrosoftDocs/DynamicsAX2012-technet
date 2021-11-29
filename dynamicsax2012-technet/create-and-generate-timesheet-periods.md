@@ -22,6 +22,9 @@ ms.search.region: Global
 # Create and generate timesheet periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Project periods are applied to estimates, subscriptions, and workers. The periods are created based on a period type. For each period type, you create a period frequency. For example, if hours are to be reported weekly, you must create a period type with the period frequency of a week. You then select a period frequency to define the timesheet period.

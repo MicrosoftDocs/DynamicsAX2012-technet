@@ -17,6 +17,9 @@ dev_langs:
 
 # IDisbursementSlipInfo Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Disbursement slip information interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.Transaction.MemoryTables](microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables-namespace.md)  

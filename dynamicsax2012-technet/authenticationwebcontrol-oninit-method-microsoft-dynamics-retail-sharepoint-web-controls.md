@@ -18,6 +18,9 @@ dev_langs:
 
 # OnInit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Redirect as approrpriate depending on the requirements of this control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

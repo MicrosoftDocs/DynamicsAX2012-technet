@@ -28,6 +28,9 @@ ms.search.region: Finland
 # (FIN) Set up and generate the Finnish sales tax report in a foreign currency 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a foreign currency for a sales tax code, and then generate the sales tax report in the foreign currency. Alternatively, you can generate the sales tax report in a foreign currency that you specify in the **Finnish sales tax report** form.

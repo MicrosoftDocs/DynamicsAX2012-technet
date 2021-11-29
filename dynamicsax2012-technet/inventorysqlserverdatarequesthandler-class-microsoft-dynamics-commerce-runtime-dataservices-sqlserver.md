@@ -17,6 +17,9 @@ dev_langs:
 
 # InventorySqlServerDataRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Inventory (picking/receiving) SQL server data service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

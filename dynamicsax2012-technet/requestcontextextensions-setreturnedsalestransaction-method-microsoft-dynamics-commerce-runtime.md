@@ -17,6 +17,9 @@ dev_langs:
 
 # SetReturnedSalesTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the returned sales transaction object in [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

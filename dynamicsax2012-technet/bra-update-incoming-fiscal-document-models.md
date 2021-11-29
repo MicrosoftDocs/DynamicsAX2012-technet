@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) Update incoming fiscal document models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In releases before Microsoft Dynamics AX 2012 R2, you could enter identification codes of up to three characters for fiscal document models in incoming fiscal documents. In Microsoft Dynamics AX 2012 R2 and R3, the fiscal document models are available in the **Document model** form, and you can select these fiscal document models in incoming fiscal documents. During upgrade preprocessing, if an incoming fiscal document has a legacy fiscal document model that is not available in the **Document model** form in the target system, you must select a fiscal document model in the target system.

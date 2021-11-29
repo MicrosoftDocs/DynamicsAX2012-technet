@@ -13,6 +13,9 @@ f1_keywords:
 
 # organization model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Internal control, data access, and performance reporting structures designed to divide responsibility for human and operations resources and work processes.
 
 ## See also

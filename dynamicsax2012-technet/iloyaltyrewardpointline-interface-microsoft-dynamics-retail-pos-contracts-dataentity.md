@@ -17,6 +17,9 @@ dev_langs:
 
 # ILoyaltyRewardPointLine Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loyalty reward point line interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

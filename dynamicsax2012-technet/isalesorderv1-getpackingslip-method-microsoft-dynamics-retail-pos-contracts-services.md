@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPackingSlip Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the packing slip for the order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Tax statistics for fixed assets report (AssetTaxStatistic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Tax statistics for fixed assets** report displays information about tax statistics for fixed assets, with information based on the **Tax statistics** tab in the **Fixed assets** form. This form is typically used by accounting managers, accounting clerks, accountants, sales managers, sales clerks, accounting supervisors, and collections managers to inquire into the status of sales transactions.

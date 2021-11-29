@@ -27,6 +27,9 @@ ms.search.region: Global
 # Set up deduction management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up the deduction workbench so that you can process customer payments that include deductions.

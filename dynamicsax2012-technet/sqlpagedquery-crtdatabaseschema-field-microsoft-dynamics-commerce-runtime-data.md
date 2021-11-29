@@ -17,6 +17,9 @@ dev_langs:
 
 # CrtDatabaseSchema Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Thee database schema prefix.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

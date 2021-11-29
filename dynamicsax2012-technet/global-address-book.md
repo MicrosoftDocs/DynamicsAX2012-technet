@@ -13,6 +13,9 @@ f1_keywords:
 
 # global address book
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A complete list of party records.
 
 ## See also

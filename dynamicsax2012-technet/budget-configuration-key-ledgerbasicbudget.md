@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Budget configuration key (LedgerBasicBudget) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Budget** configuration key controls access to basic budgeting. When this key is enabled, you can define the financial dimensions for budgets, create budget models, and set up and use budget register entries. You can also set up budgeting workflows, if your organization requires that budget register entries be approved by a user other than the user who entered them. For more information, see [About basic budgeting](about-basic-budgeting.md).

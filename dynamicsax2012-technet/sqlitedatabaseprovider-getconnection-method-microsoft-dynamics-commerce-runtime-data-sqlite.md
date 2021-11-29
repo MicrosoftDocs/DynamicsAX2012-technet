@@ -17,6 +17,9 @@ dev_langs:
 
 # GetConnection Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a connection to operate against the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

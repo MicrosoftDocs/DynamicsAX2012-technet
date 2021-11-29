@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow type
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of metadata and event handlers in the Application Object Tree (AOT) that defines a workflow design template.
 
 ## See also

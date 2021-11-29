@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up integration with Microsoft Office Add-ins 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX can be integrated with Microsoft Word and Microsoft Excel. If your organization uses the Office Add-ins for Microsoft Dynamics AX, users can create Word documents and Excel workbooks that are linked dynamically to the tables in Microsoft Dynamics AX. Integration for the Office Add-ins must be set up before users can use the Office Add-ins to create files.

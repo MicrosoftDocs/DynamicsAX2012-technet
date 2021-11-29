@@ -19,6 +19,9 @@ ms.search.region: Global
 # About departments, jobs, and positions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Departments, jobs, and positions are organizational elements that are maintained within Human resources. This topic contains conceptual information about these elements.

@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Customer posted payment journal report (CustPostPaymJournal\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer posted payment journal** report is used to view the posted account and payment details for individual customers. This report displays the type of journal that is posted, the customer account, the payment reference, and whether there are any canceled journal vouchers. The report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, financial controllers, collections agents, collections managers, accounts receivable clerks, accountants, and accounting supervisors.

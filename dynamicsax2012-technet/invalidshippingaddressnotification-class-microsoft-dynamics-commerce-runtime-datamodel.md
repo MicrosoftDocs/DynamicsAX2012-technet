@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidShippingAddressNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that an invalid address was given and shipping service could not valid it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

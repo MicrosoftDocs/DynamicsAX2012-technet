@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InventorySqlServerDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InventorySqlServerDataRequestHandler](inventorysqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Properties

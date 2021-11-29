@@ -18,6 +18,9 @@ ms.search.region: Latvia
 # (LVA) Set up tax depreciation calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For annual income tax reporting in Latvia, tax depreciation is calculated for either an individual fixed assets or is based on summary information from all fixed assets that are assigned to the same fixed asset tax category.

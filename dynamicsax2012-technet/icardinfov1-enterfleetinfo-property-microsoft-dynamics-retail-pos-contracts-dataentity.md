@@ -17,6 +17,9 @@ dev_langs:
 
 # EnterFleetInfo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets “enter fleet” information.
 
 Set to true if fleet information must be entered for the card. This should be true only for special fleet cards.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ListingModifiedDateTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the listing modified date time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Device Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the device information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Entities](microsoft-dynamics-commerce-runtime-entities-namespace.md)  

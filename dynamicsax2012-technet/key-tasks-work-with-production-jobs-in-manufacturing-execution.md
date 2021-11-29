@@ -26,6 +26,9 @@ ms.search.region: Global
 # Key tasks: Work with production jobs in Manufacturing execution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Job registration** form, you can perform tasks that are related to one or more production jobs. For example, you can view the instructions for jobs, register feedback about jobs, and administer jobs.

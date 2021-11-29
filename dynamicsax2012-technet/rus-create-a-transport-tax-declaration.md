@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Create a transport tax declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create a transport tax declaration. You must calculate and approve the transport tax registers before you can generate an accurate transport tax declaration. For more information, see [(RUS) Calculate transport tax registers](rus-calculate-transport-tax-registers.md).

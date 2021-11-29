@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Architecture of Microsoft Dynamics AX Retail Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the architecture of Retail Server. Retail Server provides services and business logic for Modern Point of Sale (POS) clients.

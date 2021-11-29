@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN) Calculate financial statement balances for GIFI codes when multiple fiscal years are open 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are using General Index of Financial Information (GIFI) codes for Canadian financial statements, and more than one fiscal year is open, you must create clearing accounts. This will simulate the closing of the prior fiscal year to calculate accurate balance sheet amounts for the current date on financial statements. For example, if the current date is March 21, 2012, and you have not closed the 2011 fiscal year, following this procedure simulates closing the prior fiscal year:

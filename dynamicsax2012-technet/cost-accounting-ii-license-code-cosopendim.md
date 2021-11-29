@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cost accounting II license code (COSOpenDim) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Cost accounting II** license code allows users to distribute to more than two dimensions with cost accounting.

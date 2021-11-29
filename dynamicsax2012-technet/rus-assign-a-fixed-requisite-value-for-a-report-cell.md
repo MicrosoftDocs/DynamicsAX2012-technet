@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Assign a fixed requisite value for a report cell 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Field setup** form to create a report cell that has a line type of **Fixed requisite** in the report that is generated using the financial reports generator (FRG).

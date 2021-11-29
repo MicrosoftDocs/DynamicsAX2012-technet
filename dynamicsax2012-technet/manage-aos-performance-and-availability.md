@@ -16,6 +16,9 @@ f1_keywords:
 # Manage AOS performance and availability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information that can help you manage the performance and availability of Microsoft Dynamics AX Application Object Servers (AOSs).

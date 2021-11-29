@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up a number sequence for sales packing slips by warehouse 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a number sequence for sales packing slips by warehouse in the **Accounts receivable parameters** form. You can number delivery documents separately for each warehouse.

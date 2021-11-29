@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset lending history report (AssetLendingHistory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print information about the lending history for fixed assets. The report includes the lending date, expected return date, and actual return date, based on the information in the **Lending** form.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # production signal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A documented notification of a resource flow event that triggers a production or transfer activity.
 
 ## See also

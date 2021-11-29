@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up bonus depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When major repair work is performed on a fixed asset, a bonus depreciation allowance is applied to the asset on or after the date of the major repair transaction. You can create a major repair transaction for a fixed asset, and specify the bonus depreciation and the start date for the bonus depreciation. The start date for the bonus depreciation can be the same as the date of the major repair transaction or the next depreciation date. Bonus depreciation records are used to calculate bonus depreciation amounts through the bonus depreciation proposal process.

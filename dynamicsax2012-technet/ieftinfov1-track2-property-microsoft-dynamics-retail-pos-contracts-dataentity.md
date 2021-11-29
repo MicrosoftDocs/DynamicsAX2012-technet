@@ -17,6 +17,9 @@ dev_langs:
 
 # Track2 Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Track2 of the magnetic stripe of the card if the card was swiped through a card reader.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # commodity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interchangeable products with no physical differentiation that are supplied by multiple vendors.
 
 ## See also

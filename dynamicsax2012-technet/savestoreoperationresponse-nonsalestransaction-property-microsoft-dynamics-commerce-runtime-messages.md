@@ -17,6 +17,9 @@ dev_langs:
 
 # NonSalesTransaction Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the non sale tender operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a file format for a method of payment for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you and your bank agree to share information about vendor payments by using files that can be sent electronically, you must set up the agreed-upon file formats for relevant methods of payment. You can then export and import information about the vendor payments that are made with these methods of payment.

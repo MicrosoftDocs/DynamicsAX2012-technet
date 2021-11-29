@@ -17,6 +17,9 @@ dev_langs:
 
 # CapturePaymentServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates a request to capture payment.
 
 A valid request expects the payment in question to be already authorized.

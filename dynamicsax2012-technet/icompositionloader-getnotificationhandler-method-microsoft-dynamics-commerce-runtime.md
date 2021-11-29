@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNotificationHandler Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the notification handler for the specified notification. If no matching handler could be found, the default notification handler (if any) will be returned instead.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

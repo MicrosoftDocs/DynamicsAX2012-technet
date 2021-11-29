@@ -15,6 +15,9 @@ ms.search.region: Global
 # About quotation prognosis 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use quotation prognosis to indicate the time in which a quotation might become a sales order or a project. Defining a prognosis code for the quotation is optional and can be defined when a quotation is created.

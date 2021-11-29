@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUnitOfMeasure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the UnitOfMeasure for the given symbol.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

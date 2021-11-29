@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up traditional financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Financial statements use row definitions and column definitions to present information about the financial status of a business at specific point in time, and to list revenues, expenses, and income.

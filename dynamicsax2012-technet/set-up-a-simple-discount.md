@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a simple discount 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a simple discount for products. A simple discount reduces the price of one or more products by a set percentage or amount. Simple discounts and price adjustments are similar; however, a discount is applied after the product’s price is calculated, whereas a price adjustment adjusts the sales price directly. Optionally, you can post the discounted amount separately from the net price, which enables the reporting of sales revenue before discounts.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Importing Updated .NET Assembly Transforms 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you have imported a transform assembly (DLL) into Microsoft Dynamics AX, you may need to make changes to the assembly. Depending on what type of changes you make, the assembly may or may not need to be imported again. This topic covers the different types of changes you can make to an assembly and what you need to do in Microsoft Dynamics AX to be able to use the new transformation logic in the Application Integration Framework (AIF) pipeline.

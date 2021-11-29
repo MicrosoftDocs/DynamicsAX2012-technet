@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCustomerOrderModeForReturnTransaction Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the customer order mode is invalid for current return transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # SetSalesLineDefaultsFromOrderHeader Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the default properties on the sales line from the order header.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

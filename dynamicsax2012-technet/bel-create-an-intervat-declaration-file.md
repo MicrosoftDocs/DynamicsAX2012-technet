@@ -17,6 +17,9 @@ ms.search.region: Belgium
 # (BEL) Create an INTERVAT declaration file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **INTERVAT tax declaration** form to enter tax header declaration information, general information, and date and signature information for the INTERVAT declaration file.

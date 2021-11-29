@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up a provision for foreseeable losses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Project groups** form to create a provision for foreseeable losses in project groups. The provision for foreseeable losses applies to fixed-price and investment projects only.

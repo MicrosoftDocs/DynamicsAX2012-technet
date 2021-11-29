@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail essentials (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail essentials is a retail-centric configuration option for Microsoft Dynamics AX. Retail essentials provides a simplified, streamlined user experience that is optimized for organizations that use only the retail management functions of Microsoft Dynamics AX.

@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a return sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can return items that do not meet quality standards, do not meet customer order specifications, and items that are damaged in transit. You can create and post a return sales order to generate an incoming fiscal document for the returned items.

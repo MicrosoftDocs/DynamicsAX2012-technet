@@ -17,6 +17,9 @@ dev_langs:
 
 # Rate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the exchange rate factor from FromCurrency to ToCurrency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

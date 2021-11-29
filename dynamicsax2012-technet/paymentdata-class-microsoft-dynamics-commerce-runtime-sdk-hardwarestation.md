@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentData Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Holds the merchant data for a payment connector.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

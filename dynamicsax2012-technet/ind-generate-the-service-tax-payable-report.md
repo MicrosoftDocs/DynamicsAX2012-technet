@@ -23,6 +23,9 @@ ms.search.region: India
 # (IND) Generate the service tax payable report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax payments** form to generate the service tax payable report. This report contains details about service tax payable information by component for each accounting code that is used to make payment to the tax authorities.

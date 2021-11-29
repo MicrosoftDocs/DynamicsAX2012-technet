@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Extend the metadata 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you use OData with Microsoft Dynamics AX for Retail, metadata defines the contract between a client and server. It exposes entity definitions and action definitions, so when you make a change on the server side, you can use a tool on the client side to generate proxy code, reducing maintenance effort for developers. To consume new or changed entities and actions, you must extend the metadata.

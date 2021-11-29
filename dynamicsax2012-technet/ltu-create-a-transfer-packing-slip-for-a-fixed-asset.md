@@ -19,6 +19,9 @@ ms.search.region: Lithuania
 # (LTU) Create a transfer packing slip for a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If your organization must move a fixed asset from one department to another and the two departments are not in the same location, the transfer must be verified by a packing slip. You must also generate a transfer packing slip if the employee responsible for the fixed asset is changed. Depending on the parameters that are enabled, the packing slip can be numbered automatically or manually.

@@ -23,6 +23,9 @@ dev_langs:
 
 # ReceiptTransactionType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the type of transaction for which the receipt is being generated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

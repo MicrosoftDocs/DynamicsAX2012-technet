@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyController](loyaltycontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md) type exposes the following members.
 
 ## Properties

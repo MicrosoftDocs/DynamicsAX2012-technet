@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidGiftCardPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Void gift card payment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # rate engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that creates a rating structure and sets up an interface between rating services and carrier companies.
 
 ## See also

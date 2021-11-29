@@ -17,6 +17,9 @@ dev_langs:
 
 # RequiredAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validation attribute to indicate that a property field or parameter is required.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

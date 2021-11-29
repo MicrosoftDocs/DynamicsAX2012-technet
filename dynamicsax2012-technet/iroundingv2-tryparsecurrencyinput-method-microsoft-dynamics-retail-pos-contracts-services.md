@@ -17,6 +17,9 @@ dev_langs:
 
 # TryParseCurrencyInput Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts the string representation of a number input by a user to its System.Decimal equivalent based on how a decimal separator is treated as input in the system.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

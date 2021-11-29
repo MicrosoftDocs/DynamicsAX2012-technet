@@ -17,6 +17,9 @@ dev_langs:
 
 # DepositOverrideMayNotBeCleared Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the deposit override amount for a pick up operation may not be cleared.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

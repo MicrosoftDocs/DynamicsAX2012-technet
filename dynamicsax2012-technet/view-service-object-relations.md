@@ -17,6 +17,9 @@ ms.search.region: Global
 # View service object relations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Service object relations** page to view a list of the service object relations that have been created for a service agreement or order. You can then use the **Service object** page to view the details of the service object that is associated with the service object relation.

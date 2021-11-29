@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingPublishStatuses Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the publishing status for the specified listing ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

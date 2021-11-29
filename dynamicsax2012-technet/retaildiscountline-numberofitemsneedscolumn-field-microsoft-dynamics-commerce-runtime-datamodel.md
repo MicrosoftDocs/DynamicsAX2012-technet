@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberOfItemsNeedsColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of items needed column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CompositeKeyEntityController(TEntity) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The composite key entity controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

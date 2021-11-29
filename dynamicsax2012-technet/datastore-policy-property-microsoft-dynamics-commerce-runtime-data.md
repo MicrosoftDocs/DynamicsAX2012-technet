@@ -17,6 +17,9 @@ dev_langs:
 
 # Policy Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data store policy.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # capable to promise
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The portion of product output from available operations resources and available input product required to fulfill a specific customer requirement.
 
 ## See also

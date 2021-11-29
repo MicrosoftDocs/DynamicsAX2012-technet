@@ -17,6 +17,9 @@ dev_langs:
 
 # UseShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Use the specified shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

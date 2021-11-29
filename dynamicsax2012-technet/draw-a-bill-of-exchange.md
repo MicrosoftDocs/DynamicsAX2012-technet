@@ -14,6 +14,9 @@ ms.search.region: Global
 # Draw a bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can draw a bill of exchange automatically or in a draw bill of exchange journal. A bill of exchange always is based on an open customer transaction, either a customer invoice for a sales order or a free text invoice.

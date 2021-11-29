@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Setting up bank account information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about setting up bank accounts.

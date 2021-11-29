@@ -18,6 +18,9 @@ ms.search.region: Global
 # About the fixed-price project posting examples 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Based on the parameters **On-account invoicing**, **Revenue recognition accounting rule**, and **Matching principle** in the **Project groups** form, transactions are posted to the General ledger in eight different ways. The posting examples in this section illustrate how transactions are posted to the General ledger with each of the eight setup combinations.

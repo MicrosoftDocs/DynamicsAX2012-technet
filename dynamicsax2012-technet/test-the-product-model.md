@@ -14,6 +14,9 @@ ms.search.region: Global
 # Test the product model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the modeling tree is completed and the product model contains all the features that you want, it is time to test how it configures items. This testing phase is very important. You might have to go back to your model design several times to fix errors or add features before you are satisfied with the way in which the product model configures items. Remember that when the product model is released for general use, any errors that it might still contain are likely to cause both wrongly configured items and unhappy users or customers.

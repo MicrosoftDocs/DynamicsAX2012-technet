@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnsMustHaveQuantityLesserThanZero Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a return transaction must have negative quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

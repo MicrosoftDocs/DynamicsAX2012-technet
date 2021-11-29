@@ -13,6 +13,9 @@ f1_keywords:
 
 # requester
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The person who requests the economic resources.
 
 ## See also

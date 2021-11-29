@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up U.S. sales tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The sales tax functionality for the United States includes an additional grouping of sales tax codes, such as the sales tax jurisdiction, which is added to the sales tax group. Other sales tax and use tax rules that are specific to the United States also are included. These rules apply when you select the **Apply U.S. taxation rules** check box on the **Sales tax** tab in the **General ledger parameters** form.

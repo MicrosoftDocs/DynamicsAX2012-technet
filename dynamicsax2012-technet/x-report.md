@@ -13,6 +13,9 @@ f1_keywords:
 
 # x-report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report that is generated to record current sales totals for a specific cash register.
 
 ## See also

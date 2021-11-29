@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up tax rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Tax rates are used in calculating a register line, and these rates are set up in special rate directories rather than in the calculation algorithm.

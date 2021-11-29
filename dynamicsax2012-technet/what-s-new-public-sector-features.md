@@ -18,6 +18,9 @@ f1_keywords:
 # What's new: Public sector features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following features have been added to the [Public sector](public-sector.md) feature area. To learn more, see the tables that apply to your version of the product.

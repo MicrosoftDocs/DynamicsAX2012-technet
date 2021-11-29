@@ -13,6 +13,9 @@ f1_keywords:
 
 # Intrastat
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The system for collecting and generating statistics on the trade of items between countries/regions in the European Union.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # PostProcessOperation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 After the operation has been processed this trigger is called.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

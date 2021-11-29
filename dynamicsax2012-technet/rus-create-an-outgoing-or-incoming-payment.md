@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create an outgoing or incoming payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use electronic exchange file formats to export payments to a client bank, and to import payments and bank account statements from a client bank. Payments include outgoing and incoming payments between Microsoft Dynamics AX and a client bank. When the data exchange files are received from a client bank, you can export outgoing payments to the client bank or import incoming payments to Microsoft Dynamics AX. Use the **Journal voucher** form to create an outgoing or incoming payment. For more information, see [Journal voucher - Vendor payment journal (form)](https://technet.microsoft.com/library/aa599011\(v=ax.60\)) and [Journal voucher - Customer payment journal (form)](https://technet.microsoft.com/library/aa556141\(v=ax.60\)).

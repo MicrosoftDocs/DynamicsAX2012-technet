@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install multiple Microsoft Dynamics AX Retail online stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to create a second Microsoft Dynamics AX Retail online store. You deploy a second online store by using Windows PowerShell after you make changes in the oob-settings.xml and oob-topology.xml files. The second online store shares some components with the first or primary online store. In the context of the Microsoft Dynamics AX Retail online store, these shared components are combined into an entity called Common Global Modules.

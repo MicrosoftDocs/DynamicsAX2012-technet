@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the set of category identifiers mapped to this product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

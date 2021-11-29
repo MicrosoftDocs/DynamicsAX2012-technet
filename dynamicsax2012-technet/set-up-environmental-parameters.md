@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up environmental parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Parameters** form, you determine the point at which the environmental impact of a purchase order transaction is calculated. You can also use this form to set the number sequences for environmental sustainability records. You define number sequence codes in the **Number sequences** form. For more information, see [Number sequences (form)](https://technet.microsoft.com/library/hh209531\(v=ax.60\)). You must define number sequences for substance flows to allow substance flow information to appear on invoices created in the **Invoice register** or in **Purchase order** forms. When you define a number sequence code for a substance flow, you cannot set the code to manual.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (CHN) Bank reconciliation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Chinese installations, the Microsoft Dynamics AX 2009 SP1 GLSCON release provides country-specific features that import electronic bank statement files into the reconciliation journal, and that perform basic auto-matching between statements and Microsoft Dynamics AX bank records. Because the bank reconciliation features in Microsoft Dynamics AX 2012 provide this functionality, country-specific modifications are not required.

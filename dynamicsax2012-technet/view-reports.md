@@ -22,6 +22,9 @@ ms.search.region: Global
 # View reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use reports to monitor sales trends, inventory, pricing, and employee performance. Reports can help you gain valuable insights into the retail business.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StockCountRealtimeService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StockCountRealtimeService](stockcountrealtimeservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

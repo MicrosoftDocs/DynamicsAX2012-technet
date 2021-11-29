@@ -19,6 +19,9 @@ ms.search.region: Global
 # About manual depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a fixed asset depreciation profile and you select **Manual** in the **Method** field in the **Depreciation profiles** form, the depreciation of fixed assets that are assigned to this depreciation profile is determined by the percentage that you enter for each interval in the calendar year.

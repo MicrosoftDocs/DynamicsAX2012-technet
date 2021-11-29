@@ -17,6 +17,9 @@ dev_langs:
 
 # CompositeKeyRouter Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 OData composite key routing convention class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

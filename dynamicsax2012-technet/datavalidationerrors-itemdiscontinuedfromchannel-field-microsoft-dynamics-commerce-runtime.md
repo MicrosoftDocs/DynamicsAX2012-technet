@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemDiscontinuedFromChannel Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the some items are discontinued from current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

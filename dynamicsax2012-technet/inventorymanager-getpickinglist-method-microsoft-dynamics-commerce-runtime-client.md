@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPickingList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the picking lists from Ax or local database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

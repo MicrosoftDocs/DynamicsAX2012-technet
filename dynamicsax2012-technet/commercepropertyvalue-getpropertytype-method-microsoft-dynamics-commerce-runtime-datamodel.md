@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPropertyType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the property type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

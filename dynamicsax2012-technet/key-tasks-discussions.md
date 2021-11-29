@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Discussions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can track important conversations that you have with other workers by scheduling or tracking discussions in Microsoft Dynamics AX. Discussions can be used to gather useful information for employee goals because they provide a way to communicate and plan how an employee might evolve professionally or personally over the course of their employment.

@@ -21,6 +21,9 @@ ms.search.region: Global
 # About creating production orders for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A project-related production order can be linked to a sales order or item requirement by using either the finished item or consumed item method. If the production order is created manually, there is no link between the production order and the sales order or item requirement (no link to order). If the production order was created automatically to fulfill a sales order or an item requirement, there is a link between the production order and sales order or item requirement (link to order).

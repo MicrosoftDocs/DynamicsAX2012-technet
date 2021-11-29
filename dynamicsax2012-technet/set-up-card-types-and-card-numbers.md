@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up card types and card numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Create a card type for each type of card that your business accepts, such as debit cards, credit cards, loyalty cards, and corporate cards.

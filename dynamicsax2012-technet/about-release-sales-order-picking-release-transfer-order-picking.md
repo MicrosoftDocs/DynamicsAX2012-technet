@@ -20,6 +20,9 @@ ms.search.region: Global
 # About release sales order picking/release transfer order picking 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The release order picking functionality has been introduced to give warehouse employees an overview of the orders that are to be released for picking, based on actual availability of items, while taking into account customer service priority. Using this platform for the picking process ensures that picking lists are created only for items that are available in stock.

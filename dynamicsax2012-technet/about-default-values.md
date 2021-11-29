@@ -15,6 +15,9 @@ ms.search.region: Global
 # About default values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When an item is configured for a customer who has a default value set up, the configuration session’s user dialog box will be populated with any default values that apply. Default values are suggestions, not rules. The user can overwrite them with other values when needed.

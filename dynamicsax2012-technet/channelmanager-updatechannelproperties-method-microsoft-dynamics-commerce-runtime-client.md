@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateChannelProperties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates channel properties for the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

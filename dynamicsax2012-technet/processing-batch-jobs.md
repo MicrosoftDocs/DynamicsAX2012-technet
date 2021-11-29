@@ -14,6 +14,9 @@ ms.search.region: Global
 # Processing batch jobs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section describes how to use batch jobs. Batch jobs allow you to run tasks, such as printing reports or posting journals, at a different time. Batch jobs are added to a queue and are run automatically by a batch server. By using batch jobs, you can avoid slowing down your computer or the server during typical working hours.

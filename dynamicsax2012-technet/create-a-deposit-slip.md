@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a deposit slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use deposit slips to deposit payments that were made in a journal into bank accounts. The transactions for which the **Use a deposit slip** check box is selected in the **Journal voucher** form are displayed on a separate deposit slip for each bank account.

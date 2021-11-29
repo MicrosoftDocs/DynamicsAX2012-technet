@@ -24,6 +24,9 @@ ms.search.region: India
 # (IND) Manage gate entry and exit of goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can record a gate entry for goods that are entering and exiting an organization. You can then assign the gate entry to a purchase order, sales order, transfer order, or return order.

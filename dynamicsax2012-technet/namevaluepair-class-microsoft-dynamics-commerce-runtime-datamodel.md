@@ -17,6 +17,9 @@ dev_langs:
 
 # NameValuePair Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class representing a Map (name/value pair) item passed to AX in the transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

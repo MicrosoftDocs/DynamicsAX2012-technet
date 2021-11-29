@@ -15,6 +15,9 @@ dev_langs:
 
 # UserAuthorizationException Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [UserAuthorizationException](userauthorizationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

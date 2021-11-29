@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail headquarters configuration key (RetailHeadquarters) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The **Retail Headquarters** configuration key controls access to **Retail Headquarters** forms and functions.

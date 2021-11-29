@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Assess, pay, declare and adjust PIS and COFINS taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to determine the amount of PIS and COFINS tax to be paid per fiscal organization for a specific month. The difference between the PIS and COFINS tax amount collected on sales of goods and the PIS and COFINS tax amount paid on purchases of goods is calculated. If the net amount is results in a tax liability, you can enter a vendor invoice journal entry and pay the amount of PIS and COFINS tax that you owe to the tax authority.
 
 PIS and COFINS tax assessment is generated separted per tax type and per fiscal organization. When the tax assessment is created, the process warns when booking periods are missing for fiscal stablishment that belongs to the fiscal organization

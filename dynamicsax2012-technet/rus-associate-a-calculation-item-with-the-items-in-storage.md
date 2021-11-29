@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Associate a calculation item with the items in storage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Storage calculation setup** form to associate a calculation item with the items that are in storage. You can calculate the storage service amount for items by using the calculation item that is associated with the item. For more information, see [(RUS) Calculation of the storage service amount for items](rus-calculation-of-the-storage-service-amount-for-items.md).

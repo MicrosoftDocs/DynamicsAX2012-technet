@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Cash flow management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This article explains how you can use Cash flow management for Russia for Microsoft Dynamics AX. This functionality is available if you have installed hotfix 3072850 for Russia (RUS).
 
 The Cash flow management process involves the payment processing and includes the following tasks:

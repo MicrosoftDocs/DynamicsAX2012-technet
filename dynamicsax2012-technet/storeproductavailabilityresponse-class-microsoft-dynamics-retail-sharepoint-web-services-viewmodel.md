@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreProductAvailabilityResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store product availability response.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

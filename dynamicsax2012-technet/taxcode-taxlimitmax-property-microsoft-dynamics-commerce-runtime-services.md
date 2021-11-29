@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLimitMax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Maximum amount required to calculate this tax
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

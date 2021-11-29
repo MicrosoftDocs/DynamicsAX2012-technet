@@ -18,6 +18,9 @@ ms.search.region: Global
 # Copy a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Project Copy Wizard** to copy a project or a project tree hierarchy.

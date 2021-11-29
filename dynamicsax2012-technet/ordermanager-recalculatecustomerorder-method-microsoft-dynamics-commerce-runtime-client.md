@@ -17,6 +17,9 @@ dev_langs:
 
 # RecalculateCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Recalculates the prices of a customer order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

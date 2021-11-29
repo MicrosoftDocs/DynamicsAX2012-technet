@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Insurance report (RAssetInsurance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Insurance report displays information about fixed assets that are insured. The data on the report can include the insurance policy number, insured amount, and the date when the fixed asset is insured. Accountants generate this report periodically to review the insurance information for fixed assets that are insured.

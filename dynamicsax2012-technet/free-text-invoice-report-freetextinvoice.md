@@ -16,6 +16,9 @@ f1_keywords:
 # Free text invoice report (FreeTextInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Free text invoice** report displays pricing and correction information for a free text invoice. The free text invoice is printed when you post the invoice. If you print the invoice before you post it, the name of the report is **Pro forma invoice**.

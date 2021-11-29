@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NumberSequenceSeedTypeHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NumberSequenceSeedTypeHelper](numbersequenceseedtypehelper-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

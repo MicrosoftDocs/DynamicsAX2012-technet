@@ -15,6 +15,9 @@ dev_langs:
 
 # LogonCredentials Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [LogonCredentials](logoncredentials-class-microsoft-dynamics-commerce-runtime-entities.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Entities](microsoft-dynamics-commerce-runtime-entities-namespace.md)  

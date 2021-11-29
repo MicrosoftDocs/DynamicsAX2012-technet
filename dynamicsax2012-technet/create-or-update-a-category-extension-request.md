@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create or update a category extension request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When vendors are approved to provide products in your organization, they are granted permission to provide items and services only in specific legal entities. In those legal entities, the vendors are granted permission to provide items and services only in specific procurement categories. Procurement categories help classify vendor items and services. Procurement categories also help control the vendors and products that are available to employees when they make business-related purchases. Additionally, purchasing managers use these categories to measure and report on the overall health of the purchasing organization, and to evaluate vendor performance.

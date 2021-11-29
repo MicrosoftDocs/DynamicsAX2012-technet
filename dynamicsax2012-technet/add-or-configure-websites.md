@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Add or configure websites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In services and Application Integration Framework (AIF), the web services on IIS feature lets you expose services through websites. These websites are exposed to an intranet or the Internet through Internet Information Services (IIS). During installation of web services on IIS, Microsoft Dynamics AX Setup creates a default website, as follows:

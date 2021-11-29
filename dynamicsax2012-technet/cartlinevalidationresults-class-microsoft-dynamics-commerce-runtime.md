@@ -17,6 +17,9 @@ dev_langs:
 
 # CartLineValidationResults Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reprsenents a collection of validation results for the lines in a cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

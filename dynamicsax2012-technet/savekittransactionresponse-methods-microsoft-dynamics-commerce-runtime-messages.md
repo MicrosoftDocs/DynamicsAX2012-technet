@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveKitTransactionResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveKitTransactionResponse](savekittransactionresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

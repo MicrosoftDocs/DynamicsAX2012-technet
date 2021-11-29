@@ -17,6 +17,9 @@ dev_langs:
 
 # SetAutoMode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the cash changer to automode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

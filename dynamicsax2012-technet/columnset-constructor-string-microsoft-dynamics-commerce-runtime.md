@@ -15,6 +15,9 @@ dev_langs:
 
 # ColumnSet Constructor (String[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ColumnSet](columnset-class-microsoft-dynamics-commerce-runtime.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

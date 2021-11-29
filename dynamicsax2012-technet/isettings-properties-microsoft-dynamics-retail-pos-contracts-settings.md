@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISettings Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISettings](isettings-interface-microsoft-dynamics-retail-pos-contracts-settings.md) type exposes the following members.
 
 ## Properties

@@ -27,6 +27,9 @@ ms.search.region: Global
 # About default entries for write-off transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following tables show the default entries that are used when a write-off transaction is created by clicking **Write off** in the **Collections** form or on the **All customers** or **Open customer invoices** list pages. You can change this information in the journal before the transaction is posted.

@@ -17,6 +17,9 @@ dev_langs:
 
 # StringDataHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 String data helper class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

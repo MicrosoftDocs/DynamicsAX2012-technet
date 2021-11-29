@@ -17,6 +17,9 @@ dev_langs:
 
 # Application\_BeginRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the BeginRequest event of the Application control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

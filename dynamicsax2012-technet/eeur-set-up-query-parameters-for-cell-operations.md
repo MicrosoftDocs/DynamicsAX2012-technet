@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Set up query parameters for cell operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Query wizard** form that is provided by the Russian financial reports generator (FRG) to set up query parameters to calculate values for report cells.

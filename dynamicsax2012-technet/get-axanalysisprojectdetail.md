@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXAnalysisProjectDetail
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXAnalysisProjectDetail
 
 Returns a list of all Microsoft SQL Server Analysis Services projects in the Microsoft Dynamics AX Application Object Tree (AOT).

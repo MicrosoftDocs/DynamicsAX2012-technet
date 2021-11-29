@@ -18,6 +18,9 @@ ms.search.region: Global
 # View vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor invoices** and **View vendor invoice** pages to view information about vendor invoices for a specific vendor or purchase order, or for all vendors. You can view information such as the invoice currency and line amounts. You can also export invoice information to Microsoft Excel.

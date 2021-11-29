@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a retail hierarchy (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 You can create a product hierarchy to organize the products that you sell through your retail channels. You can use product hierarchies to group products that are used to create product assortments. You can also use retail product hierarchies for customer loyalty programs, and to assign product attributes and properties.
 
 When you create a retail product hierarchy, you must assign a category hierarchy type to identify the purpose of the category hierarchy. You can create one category hierarchy to represent all products and categories in your organization, and then use that category hierarchy for multiple purposes. Alternatively, you can create multiple category hierarchies for special purposes, such as product promotions.

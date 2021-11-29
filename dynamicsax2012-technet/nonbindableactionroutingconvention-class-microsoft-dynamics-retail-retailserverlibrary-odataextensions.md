@@ -17,6 +17,9 @@ dev_langs:
 
 # NonBindableActionRoutingConvention Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements a routing convention for non-bindable actions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

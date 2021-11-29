@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) About POS customization limitations and predefined blank operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 ## Limitations of POS customization for Brazil

@@ -17,6 +17,9 @@ dev_langs:
 
 # Dispose Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Disposes the database provider including its connection manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

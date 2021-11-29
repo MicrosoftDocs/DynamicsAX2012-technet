@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartUrl Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the redirect URL to the shopping cart. If omitted, no redirect happens.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

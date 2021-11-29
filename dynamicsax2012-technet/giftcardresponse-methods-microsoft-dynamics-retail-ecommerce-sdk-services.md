@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GiftCardResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GiftCardResponse](giftcardresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

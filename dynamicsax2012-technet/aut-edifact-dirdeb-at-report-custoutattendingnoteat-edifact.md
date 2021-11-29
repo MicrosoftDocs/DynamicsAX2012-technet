@@ -15,6 +15,9 @@ f1_keywords:
 # (AUT) EDIFACT-DIRDEB (AT) report (CustOutAttendingNoteAT\_EDIFACT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **EDIFACT-DIRDEB (AT)** report is used to print an attending note for electronic payments when a payment file is exported. This report is generated while posting the export information from a customer payment journal into an electronic payment file. A specific file format, **EDIFACT-DIRDEB (AT)**, is used for the file export. This report is typically used by credit managers and collections managers.

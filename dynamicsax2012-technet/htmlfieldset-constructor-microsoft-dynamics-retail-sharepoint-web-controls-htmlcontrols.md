@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlFieldSet Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a new instance of the [HtmlFieldSet](htmlfieldset-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) element.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

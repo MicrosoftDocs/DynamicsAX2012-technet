@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Form I-9 verification 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Immigration Reform and Control Act (IRCA) requires U.S. employers to verify the employment eligibility status of newly hired employees. This includes U.S. citizens. IRCA makes it unlawful for employers to knowingly hire or continue to use unauthorized workers.

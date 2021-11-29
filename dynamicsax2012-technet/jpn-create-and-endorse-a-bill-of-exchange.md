@@ -16,6 +16,9 @@ ms.search.region: Japan
 # (JPN) Create and endorse a bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can accept a bill of exchange (BOE) by drawing a bill of exchange, and you can endorse the BOE to a vendor for a partial or full payment by using Japan endorsement bills of exchange. You can endorse any BOE that is not matured, and that has a status of **Drawn** or **Redrawn**. Also you can settle the open vendor invoices with the endorsed BOE after you perform the endorsement.After the endorsed BOE is matured, you can settle the endorsed BOE if you have not received a non-acceptance message from the vendor. Additionally, if the endorsed BOE itself has not been settled, you can reverse the BOE endorsement at any time. However, if you have settled the BOE with a specific vendor invoice, you must first reverse the settlement with the vendor invoice.

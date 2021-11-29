@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IRadioFrequencyIDScannerV1 Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IRadioFrequencyIDScannerV1](iradiofrequencyidscannerv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Events

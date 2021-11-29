@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductPricesServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request to retrieve and update prices for the given products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

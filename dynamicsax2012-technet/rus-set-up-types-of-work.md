@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up types of work 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Types of works** form to define the types of work that employees perform. This information helps you determine the wear or usage period for each working clothes item, or the useful product output or mileage for each special rigging item.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # delivery note
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business document that documents the delivery of products between two parties.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnLabelContent Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents return label properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

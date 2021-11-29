@@ -18,6 +18,9 @@ ms.search.region: Global
 # Enter on-account invoice transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to enter on-account invoice transactions for projects. Use an on-account invoice to bill a customer for some or all of the contract value of a project. The amount that you enter in an on-account invoice for a project is based on the timing, percentage of completion, and other conditions that are specified in the project contract. The amount in an on-account invoice is not calculated based on the hours, items, or other transactions that are posted to a project.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TraceError Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TraceError](traceerror-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Methods

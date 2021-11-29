@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptTypes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the receipt types that are to be printed/emailed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

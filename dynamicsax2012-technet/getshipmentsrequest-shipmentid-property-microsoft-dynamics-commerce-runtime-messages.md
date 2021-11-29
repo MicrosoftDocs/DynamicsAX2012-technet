@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the packing slip/shipment identifier of the order to query for shipment information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

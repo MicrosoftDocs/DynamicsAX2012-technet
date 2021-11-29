@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ComponentKitVariantSet Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ComponentKitVariantSet](componentkitvariantset-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # ActiveCatalogs Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel active catalogs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

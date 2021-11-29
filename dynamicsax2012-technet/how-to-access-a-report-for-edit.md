@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Access a Report for Edit 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to access reports to edit from Microsoft Dynamics AX and Microsoft Visual Studio. This includes the default reports that were provided with Microsoft Dynamics AX and reports that you define.

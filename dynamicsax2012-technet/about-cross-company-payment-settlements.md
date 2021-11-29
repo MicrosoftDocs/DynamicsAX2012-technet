@@ -32,6 +32,9 @@ ms.search.region: Global
 # About cross-company payment settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a customer or vendor payment is entered in one legal entity and is settled with an invoice that was entered in another legal entity, the applicable settlement, due-to, and due-from transactions are automatically generated for each legal entity. A settlement record is created for each combination of invoice and payment in the transaction. Each settlement record is assigned a new voucher number, which is based on the **Payment voucher** number sequence series that is specified in the **Accounts receivable parameters** form for customers and in the **Accounts payable parameters** form for vendors.

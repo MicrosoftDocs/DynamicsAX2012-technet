@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Single-company and cross-company payment settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can select transactions for settlement by using the scenarios that are described in this topic. The scenarios that are available to you depend on how the system is configured for your organization. The scenario that applies is determined by the legal entity that you select for the following legal entities that are involved in the payment settlement process:

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPosBatchStagingV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPosBatchStagingV1](iposbatchstagingv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

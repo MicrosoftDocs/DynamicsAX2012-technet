@@ -13,6 +13,9 @@ f1_keywords:
 
 # foreign currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit of a country/region that is not the functional currency unit of the primary legal entity.
 
 ## See also

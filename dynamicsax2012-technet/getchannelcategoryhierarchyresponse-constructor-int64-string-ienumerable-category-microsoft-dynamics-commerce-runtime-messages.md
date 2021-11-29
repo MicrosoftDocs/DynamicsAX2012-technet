@@ -15,6 +15,9 @@ dev_langs:
 
 # GetChannelCategoryHierarchyResponse Constructor (Int64, String, IEnumerable(Category))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetChannelCategoryHierarchyResponse](getchannelcategoryhierarchyresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

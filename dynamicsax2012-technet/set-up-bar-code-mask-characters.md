@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up bar code mask characters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Bar code mask characters are alphabetical characters that are replaced with numbers when Microsoft Dynamics AX uses a bar code mask to generate a bar code. Use different bar code mask characters to generate different types of bar codes, such as bar codes for products, customers, or employees. A single mask character, such as a mask character that represents the item number, can add several characters to the bar code.

@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Create a promissory note document by using a fixed promissory note number method 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Cash and bank management** \> **Common** \> **Promissory notes**.

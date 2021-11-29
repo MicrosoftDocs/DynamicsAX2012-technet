@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up warehouse parameters for wave processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

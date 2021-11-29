@@ -18,6 +18,9 @@ dev_langs:
 
 # AttributeBooleanValue Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an attribute whose value is of type boolean.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

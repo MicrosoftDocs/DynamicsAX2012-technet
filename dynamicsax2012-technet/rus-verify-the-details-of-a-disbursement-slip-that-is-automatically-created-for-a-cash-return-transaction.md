@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Verify the details of a disbursement slip that is automatically created for a cash return transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up Microsoft Dynamics AX to process return transactions for items that are returned during a shift that is different from the shift in which the items are sold at the point of sale (POS). You can use one of the following methods to process a cash return transaction during a different shift:

@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnSet Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the column set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

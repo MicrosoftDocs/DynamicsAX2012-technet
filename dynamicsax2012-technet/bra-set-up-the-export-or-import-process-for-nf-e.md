@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up the export or import process for NF-e 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to set up the export or import process for a Nota Fiscal eletrônica (NF-e), so that you can generate or receive XML messages.

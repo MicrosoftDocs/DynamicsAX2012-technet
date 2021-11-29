@@ -20,6 +20,9 @@ dev_langs:
 
 # AddressType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer Address Type. These should stay in sync w/the DM enum and AX.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

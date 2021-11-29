@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceDescription Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Device Description (may be null or empty)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

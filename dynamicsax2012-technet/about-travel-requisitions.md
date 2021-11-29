@@ -19,6 +19,9 @@ ms.search.region: Global
 # About travel requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A travel requisition is a source document that documents expenses that will be incurred for the purpose of travel. A travel requisition is submitted for review and can then be used to authorize expenses.

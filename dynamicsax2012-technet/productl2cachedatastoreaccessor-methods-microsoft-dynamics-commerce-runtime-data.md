@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductL2CacheDataStoreAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductL2CacheDataStoreAccessor](productl2cachedatastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

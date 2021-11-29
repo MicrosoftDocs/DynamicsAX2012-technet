@@ -14,6 +14,9 @@ f1_keywords:
 # On-hand inventory report (InventOnhand) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **On-hand inventory** report to print on-hand inventory according to quantity. The quantity is based on the on-hand inventory and the product, tracking, and storage dimensions. Select which product, tracking, and storage dimensions you want to include in the report.

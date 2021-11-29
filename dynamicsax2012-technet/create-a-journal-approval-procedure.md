@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create a journal approval procedure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up approval procedures to define tasks that must be completed before a journal can be posted. A journal approval procedure can contain multiple stages. Each stage includes specific tasks and assigns a specific worker group to be responsible for the task.

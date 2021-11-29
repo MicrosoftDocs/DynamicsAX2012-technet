@@ -13,6 +13,9 @@ f1_keywords:
 
 # bulk item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A formula item input into a product delivery activity.
 
 ## See also

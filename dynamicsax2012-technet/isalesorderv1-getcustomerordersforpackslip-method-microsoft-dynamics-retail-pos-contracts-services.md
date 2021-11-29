@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerOrdersForPackSlip Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get Open customer orders for particular customer. If there is no customer then get all open customer orders.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About the methodology for total cost allocation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Total Cost Allocation (TCA) is a method of calculating the cost between the main formula item for a batch order and the co-products that are defined for the formula. The method is dynamic. It calculates the cost as a weighted average between the quantities that are reported as finished for the formula item and the co-products. When this method is used, the user does not have to review cost allocations for every batch order. If TCA is not selected, the formula calculation uses existing functionality.

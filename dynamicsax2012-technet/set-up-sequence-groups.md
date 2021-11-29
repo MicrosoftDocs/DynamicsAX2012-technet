@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up sequence groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create sequence groups that are used to schedule production. You can assign sequences to a sequence group and then rank these sequences in the order of preference. For example, in the paint industry, color-based paints can have color properties and other attributes, such as latex or enamel. You can create a sequence that contains values for colors that are ranked according to preference in which these colors are ordered or sorted. You can create another sequence that contains values for the type of paint, so that latex is preferred to enamel. You can then assign these sequences to a sequence group, and then rank the sequences so that all the colors that are available for a specified type of paint are sequenced, or all the types of paint that are available for a specified paint are sequenced, according to the ranks of the sequences in the sequence group.

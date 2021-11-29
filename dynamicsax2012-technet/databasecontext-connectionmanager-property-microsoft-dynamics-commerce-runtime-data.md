@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionManager Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the connection manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

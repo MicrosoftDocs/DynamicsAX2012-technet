@@ -14,6 +14,9 @@ f1_keywords:
 # Checklist: Configure Enterprise Portal security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Enterprise Portal for Microsoft Dynamics AX, security is enforced by using a combination of features and services. This topic includes checklists that can help you configure security in Enterprise Portal.

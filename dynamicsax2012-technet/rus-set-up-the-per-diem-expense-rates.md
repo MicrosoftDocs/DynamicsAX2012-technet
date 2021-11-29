@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the per diem expense rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Expense rates are used to generate an advance report for per diem expenses, and for automatic calculation of standard and over-rate amounts.

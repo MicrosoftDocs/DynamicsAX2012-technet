@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install a Retail online store (e-commerce) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to install a Microsoft Dynamics AX Retail online store. The Retail online store is also called the Microsoft Dynamics AX e-commerce store. This topic includes procedures for single server and server farm deployments. You can install the online store by using Setup.exe or by using Windows PowerShell scripts. Both options are described in this topic. After you complete the installation procedures described in this topic, a *starter* store is deployed in your computing environment. You can then configure, customize, and rebrand the starter store to meet your needs.

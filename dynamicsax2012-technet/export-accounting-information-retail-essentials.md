@@ -17,6 +17,9 @@ f1_keywords:
 # Export accounting information (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Some retailers use one software system for retail operations and another system for accounting. This topic explains how to set up accounting exports, and how to export accounting information from Retail essentials in a file that can be used in a third-party accounting system.

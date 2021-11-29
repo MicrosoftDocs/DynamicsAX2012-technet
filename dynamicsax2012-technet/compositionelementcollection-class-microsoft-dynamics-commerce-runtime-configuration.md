@@ -17,6 +17,9 @@ dev_langs:
 
 # CompositionElementCollection Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of [CompositionElement](compositionelement-class-microsoft-dynamics-commerce-runtime-configuration.md) classes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

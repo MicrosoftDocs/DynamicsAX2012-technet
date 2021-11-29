@@ -17,6 +17,9 @@ dev_langs:
 
 # CommunicationErrors Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class container for all errors resulting from communication operations in the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # general budget reservation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A document that is often used by public sector entities to set aside or earmark budgeted funds so that those funds are not available for other purposes.
 
 ## See also

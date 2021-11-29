@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CorsSupport Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CorsSupport](corssupport-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Methods

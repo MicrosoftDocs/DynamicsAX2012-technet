@@ -17,6 +17,9 @@ dev_langs:
 
 # HeaderDeliveryPreferenceTypes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of delivery preferences that have been computed for the entire cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

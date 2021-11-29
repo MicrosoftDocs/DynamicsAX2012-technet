@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up table links 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Table links define the conditions that must be met before the records in a child table can be distributed based on the distribution type of a parent table. A table link applies only to data distribution between Microsoft Dynamics AX and channels.

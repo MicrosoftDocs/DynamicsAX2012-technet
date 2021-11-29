@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up environmental processes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Environmental processes** form to define or modify a business process that affects the environment. A process can represent a vendor that sells you natural gas, the purchase of raw materials, the manufacturing process, the use of natural resources, the flows related to waste or decomposition, or the environment itself. A process is categorized according to the sphere that it belongs to:

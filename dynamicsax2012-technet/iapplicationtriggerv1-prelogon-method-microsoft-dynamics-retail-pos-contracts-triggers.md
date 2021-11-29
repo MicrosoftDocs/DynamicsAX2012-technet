@@ -17,6 +17,9 @@ dev_langs:
 
 # PreLogon Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers just before the login operation is run.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Classes
 
 <table>

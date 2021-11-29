@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CookieConstants Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CookieConstants](cookieconstants-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Fields

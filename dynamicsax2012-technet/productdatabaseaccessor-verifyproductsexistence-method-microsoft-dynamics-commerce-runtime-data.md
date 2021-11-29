@@ -17,6 +17,9 @@ dev_langs:
 
 # VerifyProductsExistence Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies existance of products by given composite IDs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

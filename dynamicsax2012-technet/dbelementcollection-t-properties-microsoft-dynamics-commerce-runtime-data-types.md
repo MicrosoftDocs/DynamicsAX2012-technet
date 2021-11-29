@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DbElementCollection(T) Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DbElementCollection\<T\>](dbelementcollection-t-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Properties

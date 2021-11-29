@@ -15,6 +15,9 @@ dev_langs:
 
 # ToString Method (Object)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts value to a string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

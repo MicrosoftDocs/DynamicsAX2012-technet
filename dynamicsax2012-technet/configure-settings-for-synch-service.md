@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure settings for Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to use the Synch Service Settings wizard to manage Commerce Data Exchange: Synch Service. You must have administrative credentials to open the Synch Service Settings wizard.

@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Set up parameters for cash management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In accordance with Eastern Europe accounting requirements, you can set up operations for cash accounts to automate the processes for receipts and expenditures. You can also set up automation processes to create cash documents and print reports.

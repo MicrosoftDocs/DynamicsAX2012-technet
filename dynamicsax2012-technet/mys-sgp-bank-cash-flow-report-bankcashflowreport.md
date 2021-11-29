@@ -14,6 +14,9 @@ f1_keywords:
 # (MYS, SGP) Bank cash flow report (BankCashflowReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bank cash flow** report prints a cash flow report that displays the transactions, totals, and details of the deposits and withdrawals for a specific date range for selected bank accounts. You can use the **Comparative balances** field group to specify a different period to compare totals with the totals of the transactions that you select in the **Period** field group. This report is typically used by accounts managers, accountants, and financial controllers to help reconcile bank statements and verify incoming and outgoing cash flow.

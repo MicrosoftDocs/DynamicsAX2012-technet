@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Merchandising (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about merchandising in Retail essentials. These topics include information about assortments, setting up products and product variants, price adjustments and discounts, and setting up the retail hierarchy.

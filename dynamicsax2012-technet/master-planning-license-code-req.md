@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Master planning license code (Req) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Master planning** license code enables access to some master planning features of Microsoft Dynamics AX.

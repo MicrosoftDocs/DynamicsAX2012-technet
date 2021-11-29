@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure jobs and subjobs in Retail Scheduler (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, scheduler jobs are used to distribute and synchronize data between Retail essentials and retail stores. Each job consists of one or more subjobs. This topic explains how to create jobs and subjobs to distribute retail data.

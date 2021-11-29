@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Topics in the What’s new section describe new and changed features that are included in Microsoft Dynamics AX 2012, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012 R2, and Microsoft Dynamics AX 2012 R3 releases. Some What’s new topics are focused on all the features that have been added to a specific module. For example, the [What's new: Accounts payable features](what-s-new-accounts-payable-features.md) topic includes a list of new and changed features in the **Accounts payable** module in AX 2012 releases. Other topics provide detailed information about key features that are included in AX 2012 releases. For example, the [What's new: Role-based security](what-s-new-role-based-security.md) topic provides details about the new role-based security framework for AX 2012. The topics are listed in alphabetical order by title.

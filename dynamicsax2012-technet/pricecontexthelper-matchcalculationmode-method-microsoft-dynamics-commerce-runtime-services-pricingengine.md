@@ -17,6 +17,9 @@ dev_langs:
 
 # MatchCalculationMode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Check whether discount type matches the discount calculation mode in price context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

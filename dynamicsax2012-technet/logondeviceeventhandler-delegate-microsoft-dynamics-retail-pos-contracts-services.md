@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnDeviceEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Log on device message event handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

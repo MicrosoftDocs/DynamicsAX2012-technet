@@ -17,6 +17,9 @@ dev_langs:
 
 # ITimeRegistration Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Time clock interface to register time
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

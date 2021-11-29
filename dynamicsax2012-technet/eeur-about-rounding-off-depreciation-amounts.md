@@ -18,6 +18,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) About rounding off depreciation amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can round fixed asset depreciation amounts up or down to the nearest whole number. Depreciation amounts are rounded up or down based on the value that is entered in the **Round off depreciation** field and the rounding method specified in the **Rounding method** field in the **Depreciation books** form.

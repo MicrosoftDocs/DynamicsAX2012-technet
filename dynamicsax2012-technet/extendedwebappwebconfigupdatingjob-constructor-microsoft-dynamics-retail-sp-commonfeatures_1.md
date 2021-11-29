@@ -15,6 +15,9 @@ dev_langs:
 
 # ExtendedWebAppWebConfigUpdatingJob Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the ExtendedWebAppWebConfigUpdatingJob class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

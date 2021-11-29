@@ -17,6 +17,9 @@ dev_langs:
 
 # AdditionalCheck Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Can be any value. Only to be used in the Infocode Service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

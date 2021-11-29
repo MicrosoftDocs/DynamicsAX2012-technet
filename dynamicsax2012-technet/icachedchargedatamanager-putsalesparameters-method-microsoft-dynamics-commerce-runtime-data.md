@@ -17,6 +17,9 @@ dev_langs:
 
 # PutSalesParameters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the sales parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

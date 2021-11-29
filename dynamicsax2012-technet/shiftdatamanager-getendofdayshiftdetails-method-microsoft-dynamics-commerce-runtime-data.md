@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEndOfDayshiftDetails Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads the shift sales data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

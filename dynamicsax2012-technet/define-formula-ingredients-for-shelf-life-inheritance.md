@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define formula ingredients for shelf life inheritance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can select ingredients that are used to update the shelf life information for finished items. If you select an ingredient that is a shelf life item, the **Inherit shelf life dates to end item** check box is available in the **Formula line** form. If the formula version contains co-products that are configured as shelf life items, the **Inherit shelf life dates to co-product** check box is available in the **Formula line** form.

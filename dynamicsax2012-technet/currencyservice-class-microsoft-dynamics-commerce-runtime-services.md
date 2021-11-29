@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapuslates the implementation of the currency service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

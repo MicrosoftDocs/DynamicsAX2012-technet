@@ -17,6 +17,9 @@ dev_langs:
 
 # DescriptionAlias Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A description alias of the line item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

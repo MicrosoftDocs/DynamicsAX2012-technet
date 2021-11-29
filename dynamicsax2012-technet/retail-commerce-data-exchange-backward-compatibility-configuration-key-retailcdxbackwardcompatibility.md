@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail Commerce Data Exchange backward compatibility configuration key (RetailCDXBackwardCompatibility) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Retail Commerce Data Exchange backward compatibility** configuration key enables you to use previous versions of Retail POS to exchange data with AX 2012 R3 or AX 2012 R3. This functionality is typically used during an upgrade.

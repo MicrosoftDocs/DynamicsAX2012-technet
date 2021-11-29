@@ -17,6 +17,9 @@ dev_langs:
 
 # SetSalesLineBasedOnReturnedSalesLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the sales line based on returned sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

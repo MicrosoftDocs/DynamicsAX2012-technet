@@ -17,6 +17,9 @@ dev_langs:
 
 # GetResponse Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the instance of the [DemoServiceResponse](demoserviceresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

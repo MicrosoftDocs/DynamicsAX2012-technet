@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductsController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductsController](productscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Methods

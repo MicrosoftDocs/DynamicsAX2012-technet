@@ -34,6 +34,9 @@ ms.search.region: USA
 # (USA) Request quotations online with Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes a solution for Sites Services for Microsoft Dynamics ERP that is named **Request for quotation**. After a Sites Services Web page is set up, a purchasing agent can use this solution to post purchasing requirements online in the form of a request for quotation (RFQ). Vendors can then review the RFQ and respond with quotations.

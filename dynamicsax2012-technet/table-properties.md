@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Table properties in the Application Object Tree (AOT)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This topic describes the properties that are in the<strong> Properties</strong> window for table elements in the Application Object Tree (AOT). Table elements are located under <strong>Data Dictionary</strong> &gt; <strong>Tables</strong>.
 
 For guidelines about setting property values, see [Best Practices for Table Properties](https://msdn.microsoft.com/library/5def498e-107d-4a2b-a621-fbbe0243e399(AX.60).aspx). Next is a list of topics about the properties of AOT elements that are sub-elements under a table element.

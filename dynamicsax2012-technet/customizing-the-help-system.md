@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customizing the Help System 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX Help enables you to add new documentation, update existing documentation, and add entries to the table of contents. To customize documentation, you add one or more files to the Help server. While you can customize documentation, you cannot customize or change the operation of the Help server or the Help viewer. The following sections provide an overview of the types of customizations that you can perform and how you add or update Help documentation.

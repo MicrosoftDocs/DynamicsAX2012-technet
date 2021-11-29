@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a sales tax code to calculate customs payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Sales tax codes** form to set up a sales tax code that can be used to calculate customs payments. You can also specify a customs duty amount based on the volume or quantity of items.

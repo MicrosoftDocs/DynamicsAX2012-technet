@@ -18,6 +18,9 @@ ms.search.region: Germany
 # (DEU) Set up the parameters to calculate depreciation for additional acquisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Use the **Fixed assets parameters** form to set up the parameters to calculate depreciation for additional acquisitions.

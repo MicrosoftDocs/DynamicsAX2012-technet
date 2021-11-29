@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaxProvider Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITaxProvider interface is implemented in the tax service and enables multiple tax calculations to occur in POS.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

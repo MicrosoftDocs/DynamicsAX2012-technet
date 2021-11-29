@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create variables on the Simple tab 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Variables of this type are simple variables that are used in product model calculations.

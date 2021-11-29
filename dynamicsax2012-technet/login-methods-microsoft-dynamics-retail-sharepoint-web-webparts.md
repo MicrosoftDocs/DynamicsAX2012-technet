@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Login Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Login](login-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Methods

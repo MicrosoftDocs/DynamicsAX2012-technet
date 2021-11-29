@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultSortOrderAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class defines an attribute that can be applied to commerce entity classs to define default sort order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

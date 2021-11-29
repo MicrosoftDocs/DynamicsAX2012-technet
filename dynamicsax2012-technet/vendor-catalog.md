@@ -13,6 +13,9 @@ f1_keywords:
 
 # vendor catalog
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A listing of product offerings that are available for purchase from a vendor.
 
 ## See also

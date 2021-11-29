@@ -14,6 +14,9 @@ f1_keywords:
 # Categories report (ProcCategory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Categories** report displays the name, friendly name, description, and status of the procurement categories that are defined for the legal entities in your organization.

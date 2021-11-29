@@ -17,6 +17,9 @@ dev_langs:
 
 # TypeName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides SPPersistedObjectTypeName().
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  

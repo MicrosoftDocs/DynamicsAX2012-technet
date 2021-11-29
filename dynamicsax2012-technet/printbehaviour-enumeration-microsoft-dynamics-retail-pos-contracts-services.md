@@ -21,6 +21,9 @@ dev_langs:
 
 # PrintBehaviour Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The PrintBehavior enumeration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

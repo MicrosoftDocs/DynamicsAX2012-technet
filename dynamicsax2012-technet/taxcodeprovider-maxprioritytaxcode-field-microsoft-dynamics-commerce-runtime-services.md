@@ -17,6 +17,9 @@ dev_langs:
 
 # MaxPriorityTaxCode Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum priority of a tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

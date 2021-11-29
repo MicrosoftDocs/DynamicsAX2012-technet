@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOnlineChannel Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets an online channel by the unique channel identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configuring batch jobs and tasks for AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Application Integration Framework (AIF) uses its gateway queue to handle asynchronous message routing in an orderly way. To move message into and out of the gateway queue, AIF requires a Microsoft Dynamics AX batch job that runs a particular set of services. For detailed information about how batch jobs work on Application Object Servers (AOS), see [Process batch jobs and tasks](process-batch-jobs-and-tasks.md).

@@ -13,6 +13,9 @@ f1_keywords:
 
 # mathematical equation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A mathematical statement that asserts the equality of two mathematical expressions.
 
 ## See also

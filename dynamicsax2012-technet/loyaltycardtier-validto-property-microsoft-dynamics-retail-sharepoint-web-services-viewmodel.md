@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidTo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the end date of the valid period.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up the currency name declension 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Lithuania, you must print both the full and short names of all currency units in the Lithuanian language on company financial documents. You can set up the singular and plural spellings in the nominal and genitive cases for currency units and the parts of each currency.

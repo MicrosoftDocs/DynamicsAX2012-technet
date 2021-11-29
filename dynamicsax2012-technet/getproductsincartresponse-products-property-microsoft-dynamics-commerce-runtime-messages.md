@@ -17,6 +17,9 @@ dev_langs:
 
 # Products Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the list of products used in context of the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

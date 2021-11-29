@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Giro configuration key (CustGiro) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Giro** configuration key controls access to print giro payment slips with documents such as invoices and interest notes. The following fields are added to the **Form setup** form:

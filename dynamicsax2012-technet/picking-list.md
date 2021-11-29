@@ -13,6 +13,9 @@ f1_keywords:
 
 # picking list
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list of the items, along with their quantities and locations, that are required to fill a manufacturing order or shipping order.
 
 ## See also

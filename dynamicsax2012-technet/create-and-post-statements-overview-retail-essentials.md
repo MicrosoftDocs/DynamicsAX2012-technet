@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create and post statements overview (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, you can create a statement to transmit transaction data from the point-of-sale (POS) database to the database for the head office. You can use the statement to calculate the total amount of all transactions that have occurred since the last store statement. You can also use the statement to calculate a related count of payment methods.

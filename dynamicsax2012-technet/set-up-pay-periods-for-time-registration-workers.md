@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up pay periods for time registration workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up pay periods for various tasks that are related to the calculation of pay for workers. For example, you use pay periods when you perform the following tasks:

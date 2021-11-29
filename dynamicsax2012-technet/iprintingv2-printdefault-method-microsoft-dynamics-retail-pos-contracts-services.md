@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintDefault Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print directly to the default (or fallback) printer using the printText provided
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

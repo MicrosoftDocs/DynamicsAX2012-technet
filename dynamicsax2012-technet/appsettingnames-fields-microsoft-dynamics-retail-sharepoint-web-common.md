@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AppSettingNames Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AppSettingNames](appsettingnames-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Fields

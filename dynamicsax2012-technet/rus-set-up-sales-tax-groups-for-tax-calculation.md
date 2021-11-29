@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up sales tax groups for tax calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Sales tax groups** form to set up sales tax groups for customers and vendors. The tax codes that you assign to the sales tax group do not relate to the items in your inventory.

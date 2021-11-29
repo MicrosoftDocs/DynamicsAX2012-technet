@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveKitTransactionRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Save all incoming kit (disassembly) operation transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

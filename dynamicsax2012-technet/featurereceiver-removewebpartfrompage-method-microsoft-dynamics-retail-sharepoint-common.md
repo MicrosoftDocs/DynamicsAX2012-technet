@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveWebPartFromPage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Programmatically adds a web part to a SharePoint site page.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

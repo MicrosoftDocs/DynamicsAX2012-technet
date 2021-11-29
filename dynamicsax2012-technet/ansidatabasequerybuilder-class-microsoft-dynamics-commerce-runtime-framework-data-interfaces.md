@@ -18,6 +18,9 @@ dev_langs:
 
 # AnsiDatabaseQueryBuilder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a ANSI SQL base database query builder that can build ANSI parts of SQL syntax from the [DatabaseQueryParts](databasequeryparts-class-microsoft-dynamics-commerce-runtime-data.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

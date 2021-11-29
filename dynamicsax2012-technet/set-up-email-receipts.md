@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up email receipts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Email receipts are an environmentally friendly option for processing retail sales. The customer can decide whether to receive a printed receipt, an email receipt, or both. This topic explains how to set up email receipts.

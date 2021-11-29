@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerDataService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerDataService](customerdataservice-class-microsoft-dynamics-commerce-runtime-dataservices.md) type exposes the following members.
 
 ## Methods

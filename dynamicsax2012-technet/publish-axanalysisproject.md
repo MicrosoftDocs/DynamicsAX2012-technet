@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Publish-AXAnalysisProject
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Publish-AXAnalysisProject
 
 Publishes (deploys) a project from the Microsoft Dynamics AX Application Object Tree to the Microsoft SQL Server Analysis Services server.

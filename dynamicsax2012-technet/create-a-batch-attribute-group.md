@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a batch attribute group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create batch attribute groups, which are groups of attributes that may share common characteristics or other similarities. When you assign an attribute group to an item, all attributes in that group apply to the item. Likewise, any changes you make to the group also apply to the items that use it.

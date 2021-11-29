@@ -17,6 +17,9 @@ dev_langs:
 
 # Currency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Currency service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

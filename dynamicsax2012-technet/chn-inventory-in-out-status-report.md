@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Inventory in/out status report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Generate and print a report that displays, by category, the amount of items coming in to your organization and the amount of items going out of your organization during a specified time. Categories might include **Purchased** or **Produced**.

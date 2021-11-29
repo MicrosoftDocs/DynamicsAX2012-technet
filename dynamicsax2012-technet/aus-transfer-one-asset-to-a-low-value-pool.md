@@ -15,6 +15,9 @@ ms.search.region: Australia
 # (AUS) Transfer one asset to a low-value pool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Transfer asset to low value pool** form to transfer low-cost and low-value assets to a low-value pool.

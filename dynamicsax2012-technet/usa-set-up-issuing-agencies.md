@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up issuing agencies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Issuing agencies are government entities that are authorized to issue documents that are used to verify a person's identity and employment eligibility. You must set up issuing agencies before you can set up I-9 document types.

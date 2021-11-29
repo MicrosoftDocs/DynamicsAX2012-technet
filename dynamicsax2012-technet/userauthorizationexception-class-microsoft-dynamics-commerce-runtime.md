@@ -17,6 +17,9 @@ dev_langs:
 
 # UserAuthorizationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Thrown when a user authorization error occurs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate VAT for various purchase types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Value Added Tax (VAT) can be calculated for various purchase types in a purchase order. If the VAT goods type is **Input goods**, the VAT amount is calculated and posted to the VAT recoverable account.

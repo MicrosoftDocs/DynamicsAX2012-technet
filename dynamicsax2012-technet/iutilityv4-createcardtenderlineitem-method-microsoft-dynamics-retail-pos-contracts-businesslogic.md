@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateCardTenderLineItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a tender line of type card
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # address verification service
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service that is provided by a credit card processor that validates that the billing address provided by a card holder matches the information on file with the issuing bank.
 
 ## See also

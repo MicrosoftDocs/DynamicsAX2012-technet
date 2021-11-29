@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ContinueShopping Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ContinueShopping](continueshopping-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Fields

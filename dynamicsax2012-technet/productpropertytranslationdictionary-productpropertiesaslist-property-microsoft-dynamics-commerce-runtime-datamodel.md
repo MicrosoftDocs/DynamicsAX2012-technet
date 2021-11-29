@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductPropertiesAsList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the product properties as a flat list of properties, qualified by their respective translation languages.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

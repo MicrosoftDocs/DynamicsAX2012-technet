@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransactionDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data manager for the [SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up and define resource groups for operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You should create resource groups before you create the operations resources that you will use in your production. These groups should be organized according to the logic and complexity of your manufacturing environment. The operations resources in a group should perform similar functions and share similar attributes so that they can be used interchangeably during scheduling.

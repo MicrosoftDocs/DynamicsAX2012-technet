@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Reverse a check or Bordero payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can reverse a check or Bordero payment. When you reverse a payment, the transaction is canceled, and the related vendor invoices are available for settlement. If taxes were withheld from the check or Bordero payment, the withholding taxes are also reversed.

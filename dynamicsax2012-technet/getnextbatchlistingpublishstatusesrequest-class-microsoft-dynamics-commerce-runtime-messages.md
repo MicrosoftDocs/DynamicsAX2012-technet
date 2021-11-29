@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextBatchListingPublishStatusesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to retrieve the next batch of listing publish statuses.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

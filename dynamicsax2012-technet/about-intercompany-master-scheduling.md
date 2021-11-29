@@ -18,6 +18,9 @@ ms.search.region: Global
 # About intercompany master scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Intercompany master scheduling is the means by which you calculate requirements and generate planned intercompany orders across several internal companies. Intercompany master scheduling is carried out over the number of iterations that you specify. To enable Microsoft Dynamics AX to carry out intercompany master scheduling, you must set up master scheduling in each of your intercompany companies. This entails a number of iterations in which Microsoft Dynamics AX automatically creates an intercompany purchase order; this, in turn, leads to the automatic creation of an intercompany sales order, which again leads to new demands.

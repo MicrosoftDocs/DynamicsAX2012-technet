@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Debugging AIF Service Operation Calls When Using File System Adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 AIF enables asynchronous document exchanges by processing XML messages that are stored as files. Debugging code in an asynchronous exchange requires the Microsoft Visual Studio debugger. You must first set up and configure the exchange by using an enhanced integration port. For more information about integration ports, the file system adapter, and messages in the Application Integration Framework (AIF), see [Integration ports](integration-ports.md), [Adapters](adapters.md), and [Messages and transforms in AIF](messages-and-transforms-in-aif.md) in the [Key concepts in AIF](key-concepts-in-aif.md) section of the documentation.

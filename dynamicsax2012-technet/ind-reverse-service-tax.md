@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Reverse service tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use a batch process to reverse service tax credits for vendor transactions. You can reverse service tax credits only for open invoices.

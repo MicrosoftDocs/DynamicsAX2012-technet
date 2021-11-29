@@ -19,6 +19,9 @@ ms.search.region: Global
 # Register and post a postdated check for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Journal voucher** form to register the details of a postdated check before you issue the check to a vendor. You can post the postdated check and generate financial transactions after you select the **Post journal entries for postdated checks** check box in the **Cash and bank management parameters** form.

@@ -14,6 +14,9 @@ f1_keywords:
 # (GBR) Print report report (TaxReport\_UK) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print report** report displays and prints information about sales tax payments together with the sales tax amounts. The information displayed in this report is sorted by settlement periods and the reporting codes that are used for sales tax transactions. This report is typically used by accounting managers, accounts receivable managers, and sales managers to inquire into the status of sales tax transactions.

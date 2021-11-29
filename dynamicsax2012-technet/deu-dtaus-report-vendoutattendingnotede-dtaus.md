@@ -17,6 +17,9 @@ f1_keywords:
 # (DEU) DTAUS report (VendOutAttendingNoteDE\_DTAUS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **DTAUS (DE)** report prints the payment advice for electronic vendor payments. This report is typically used by credit managers and collections managers.

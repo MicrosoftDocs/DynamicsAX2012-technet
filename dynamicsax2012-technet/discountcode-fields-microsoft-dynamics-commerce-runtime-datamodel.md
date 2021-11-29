@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DiscountCode Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DiscountCode](discountcode-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Fields

@@ -21,6 +21,9 @@ ms.search.region: Global
 # About using the Microsoft Dynamics AX Add-in for Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can export many forms, lists, and reports from Microsoft Dynamics AX and Enterprise Portal for Microsoft Dynamics AX to Microsoft Excel. If a form, list, or report has an **Export to Microsoft Excel** button on the **Action Pane**, you can export the data to Excel.

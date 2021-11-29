@@ -17,6 +17,9 @@ dev_langs:
 
 # GlobalCustomer Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class wraps the indivdual entities returned from a customer search.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

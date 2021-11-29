@@ -27,6 +27,9 @@ ms.search.region: Global
 # Configure project budget overrun settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The default setting for project budgets enables users to post a transaction even if the transaction will cause a budget overrun. However, when you create a budget for a project, you can override the default overrun selections.

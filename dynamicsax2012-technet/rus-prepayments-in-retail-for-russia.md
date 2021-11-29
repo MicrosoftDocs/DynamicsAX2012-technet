@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Prepayments in Retail for Russia 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following information describes how Microsoft Dynamics AX processes prepayment transactions for the following payment types in Retail:

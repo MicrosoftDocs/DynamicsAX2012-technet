@@ -17,6 +17,9 @@ dev_langs:
 
 # TransSalePmtDiff Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between payment and grossAmount plus rounded
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # System diagnostics (Lifecycle Services, LCS) 
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 In Microsoft Dynamics Lifecycle Services, System diagnostics helps administrators monitor and understand the health of one or more Microsoft Dynamics AX environments. It is a cloud-based tool that has a locally-installed component that can be configured to perform the following tasks:
 -   Discover on-premises Microsoft Dynamics AX environments (database instances and Microsoft Dynamics AX Application Object Server (AOS) instances).
 -   Collect data from the environments that were discovered.

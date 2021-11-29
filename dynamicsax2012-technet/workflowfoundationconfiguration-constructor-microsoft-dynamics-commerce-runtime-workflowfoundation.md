@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowFoundationConfiguration Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [WorkflowFoundationConfiguration](workflowfoundationconfiguration-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

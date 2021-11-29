@@ -15,6 +15,9 @@ dev_langs:
 
 # TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Writes trace information, a message, and event information to the listener specific output.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

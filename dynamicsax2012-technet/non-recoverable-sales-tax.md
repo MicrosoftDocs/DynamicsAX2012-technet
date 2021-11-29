@@ -13,6 +13,9 @@ f1_keywords:
 
 # non-recoverable sales tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A sales tax levied on purchased products that is not deducted from the sales tax levied on the sale of the purchased products when both sales taxes are paid by the same party.
 
 ## See also

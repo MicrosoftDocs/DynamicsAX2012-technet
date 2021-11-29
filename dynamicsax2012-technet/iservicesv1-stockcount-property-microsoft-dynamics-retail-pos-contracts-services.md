@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stock count service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

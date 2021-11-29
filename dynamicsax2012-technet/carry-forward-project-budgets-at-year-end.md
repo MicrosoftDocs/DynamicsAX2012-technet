@@ -22,6 +22,9 @@ ms.search.region: Global
 # Carry forward project budgets at year-end 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At the end of the year, you can transfer any remaining budget amounts for multiyear projects to future years. You can also create budget register details for those amounts in the associated general ledger accounts.

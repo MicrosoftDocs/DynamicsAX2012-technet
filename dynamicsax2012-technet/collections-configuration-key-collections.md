@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Collections configuration key (Collections) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Collections** configuration key controls access to the ability to manage collections information in a central location. For more information, see [Collections and credit in Accounts receivable](collections-and-credit-in-accounts-receivable.md). Collections-specific fields are available in the following forms:

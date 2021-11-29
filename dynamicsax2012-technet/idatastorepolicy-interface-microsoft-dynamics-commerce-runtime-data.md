@@ -17,6 +17,9 @@ dev_langs:
 
 # IDataStorePolicy Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interface to data store policy class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

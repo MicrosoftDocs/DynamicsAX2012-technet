@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Allow cost breakdown activation configuration key (BOMCostBreakdown) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Allow cost breakdown activation** configuration key controls access to inventory costing features and functions.

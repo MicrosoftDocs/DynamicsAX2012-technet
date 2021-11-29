@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumAmountAllowed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The highest amount possible to pay
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

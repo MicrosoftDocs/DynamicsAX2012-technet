@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IWebApiConfig Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IWebApiConfig](iwebapiconfig-interface-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Methods

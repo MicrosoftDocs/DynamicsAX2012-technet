@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WorkflowFoundationSection Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WorkflowFoundationSection](workflowfoundationsection-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Fields

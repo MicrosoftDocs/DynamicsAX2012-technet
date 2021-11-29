@@ -17,6 +17,9 @@ dev_langs:
 
 # IndiaTaxDatabaseAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 India tax database accessor.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

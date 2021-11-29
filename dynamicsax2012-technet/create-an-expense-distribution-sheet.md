@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create an expense distribution sheet 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must create an expense distribution sheet (EDS) before you can run an EDS report. In the EDS, you must set up the report lines and report columns that will appear in the report.

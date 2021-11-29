@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Controls Used to Render Report Parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 How you define a report parameter determines what a user sees when the parameter displays in the report. For more information about defining report parameters, see [How to: Define a Report Parameter](how-to-define-a-report-parameter.md).

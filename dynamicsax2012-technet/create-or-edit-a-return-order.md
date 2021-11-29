@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create or edit a return order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **New return order** page to create return orders for customers who return items that they have purchased. For example, a customer might return items if the incorrect item was received, or if an item is defective. You must create a return order for returned items before the items can be received into the warehouse.

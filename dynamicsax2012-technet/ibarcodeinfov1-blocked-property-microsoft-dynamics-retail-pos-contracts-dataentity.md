@@ -17,6 +17,9 @@ dev_langs:
 
 # Blocked Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the blocked barcode. Returns true if the barcode should be blocked, otherwise it returns false.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

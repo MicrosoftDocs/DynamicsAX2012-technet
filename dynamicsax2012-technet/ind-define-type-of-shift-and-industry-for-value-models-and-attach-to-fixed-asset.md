@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Define type of shift and industry for value models and attach to fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The calculation of depreciation for a fixed asset is for a specific period is based on the selected type of shift and industry. You can define rates for a single shift, double shift, and triple shift to calculate depreciation using the **Straight line service life** method or the **Reducing balance** method.

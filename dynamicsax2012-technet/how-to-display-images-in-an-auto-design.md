@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Display Images in an Auto Design 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can display images along with the data in a list or table data region, as well as in group headers and group footers. You can also display images in row groupings within a matrix data region. The following procedures explain how to display images in an auto design report.

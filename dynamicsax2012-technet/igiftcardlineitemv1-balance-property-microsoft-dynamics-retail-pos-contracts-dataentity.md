@@ -17,6 +17,9 @@ dev_langs:
 
 # Balance Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or set current balance on the gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up replenishment hierarchies (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up replenishment hierarchies. When you replenish inventory, you can group the stores that are replenished in one or more hierarchies. The groups can be based on how the stores are organized, the size of the stores, the inventory turnover rate of stores, or the type of stores.

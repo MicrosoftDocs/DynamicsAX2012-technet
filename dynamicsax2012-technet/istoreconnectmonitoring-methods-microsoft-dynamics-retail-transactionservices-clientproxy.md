@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IStoreConnectMonitoring Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IStoreConnectMonitoring](istoreconnectmonitoring-interface-microsoft-dynamics-retail-transactionservices-clientproxy.md) type exposes the following members.
 
 ## Methods

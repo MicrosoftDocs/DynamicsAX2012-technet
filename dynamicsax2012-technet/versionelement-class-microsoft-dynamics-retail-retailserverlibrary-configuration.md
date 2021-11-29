@@ -17,6 +17,9 @@ dev_langs:
 
 # VersionElement Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents configuration values used to indicate service version.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

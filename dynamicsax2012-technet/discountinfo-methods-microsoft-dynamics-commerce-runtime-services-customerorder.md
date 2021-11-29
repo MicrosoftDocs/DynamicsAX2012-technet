@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DiscountInfo Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DiscountInfo](discountinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) type exposes the following members.
 
 ## Methods

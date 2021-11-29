@@ -17,6 +17,9 @@ dev_langs:
 
 # btnSubmit\_Click Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Event raised after the user entered a correct username/password combination.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Spain
 # (ESP) Group cash payments by invoice year in Declaration 347 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 You can use the **Declaration 347** form to generate a Declaration 347 report for all customer transactions and vendor transactions. Before you generate the report, you can retrieve all of the cash payments that are received in a fiscal year based on the invoice date of the payments. The payments that are posted are transferred to the cash ledger accounts. If the invoice date of a payment is from a previous year, then the amount appears on the report for that previous year. You can specify the minimum amount for cash payments to include on the report. You can then group the cash payments based on the invoice year on the report. You can also generate a delta report to view the differences between the original report and the corrected report.

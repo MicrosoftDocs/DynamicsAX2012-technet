@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the file types and parameters to archive files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can archive a copy of the bank files that are received during the electronic banking process to a database. When you have to run the electronic banking process another time, you can use the archived files that are stored in the database.

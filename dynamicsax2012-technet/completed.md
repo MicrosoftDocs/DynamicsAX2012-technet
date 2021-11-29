@@ -13,6 +13,9 @@ f1_keywords:
 
 # completed
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state of having reached the normal or expected end to a program or process.
 
 ## See also

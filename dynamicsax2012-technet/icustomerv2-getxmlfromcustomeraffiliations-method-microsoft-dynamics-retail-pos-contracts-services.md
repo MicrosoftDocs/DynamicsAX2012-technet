@@ -17,6 +17,9 @@ dev_langs:
 
 # GetXmlFromCustomerAffiliations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get xml string from customer affiliations which would be transfered to transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

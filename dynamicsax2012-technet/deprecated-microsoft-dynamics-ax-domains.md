@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Microsoft Dynamics AX domains 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, a domain is a group of company accounts. You use domains to set up specific user permissions for a group of company accounts.

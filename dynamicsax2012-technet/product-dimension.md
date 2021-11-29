@@ -13,6 +13,9 @@ f1_keywords:
 
 # product dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The size, color, or configuration product attributes that are used for dimension-based configuration.
 
 ## See also

@@ -18,6 +18,9 @@ ms.search.region: Poland
 # (POL) Create and print a correction note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A correction note is a document that you can use to notify a vendor about errors in the document header of a purchase document. For example, a vendor may issue a sales document that has an incorrect address or value-added tax (VAT) identification number. You can accept and post the document as a purchase invoice, and then issue a correction note to the vendor later. The correction note should describe the error and provide the correct data.

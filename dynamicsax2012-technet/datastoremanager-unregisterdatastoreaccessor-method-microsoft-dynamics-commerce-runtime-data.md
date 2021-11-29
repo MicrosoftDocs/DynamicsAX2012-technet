@@ -17,6 +17,9 @@ dev_langs:
 
 # UnregisterDataStoreAccessor Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unregisters the data stores for the specified data store type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

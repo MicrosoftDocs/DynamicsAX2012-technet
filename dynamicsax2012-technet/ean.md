@@ -13,6 +13,9 @@ f1_keywords:
 
 # EAN
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A 13-digit international barcode standard maintained by GS1.
 
 ## See also

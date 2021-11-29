@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllPeriodicDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all the periodic discounts on the context's sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

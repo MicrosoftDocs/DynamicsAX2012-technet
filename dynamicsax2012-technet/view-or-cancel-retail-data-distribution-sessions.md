@@ -17,6 +17,9 @@ f1_keywords:
 # View or cancel retail data distribution sessions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Download sessions** form and the **Upload sessions** form show information about data distribution jobs that are in progress or have been completed. A run of a job is referred to as a session. Use the information in these forms for troubleshooting. You can also run a session again or cancel a session from these forms.

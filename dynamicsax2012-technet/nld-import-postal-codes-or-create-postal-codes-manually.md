@@ -18,6 +18,9 @@ ms.search.region: Netherlands
 # (NLD) Import postal codes or create postal codes manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Import ZIP/postal codes** form to import new Dutch postal codes into Microsoft Dynamics AX 2012. The new code format consists of four digits followed by a space and two letters. When you import the codes, the existing zip or postal codes are replaced with the new format, and any new codes are added.

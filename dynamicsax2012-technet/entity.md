@@ -13,6 +13,9 @@ f1_keywords:
 
 # entity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An object that can be uniquely identified.
 
 ## See also

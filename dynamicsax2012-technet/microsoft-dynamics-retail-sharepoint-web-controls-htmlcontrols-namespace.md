@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Classes
 
 <table>

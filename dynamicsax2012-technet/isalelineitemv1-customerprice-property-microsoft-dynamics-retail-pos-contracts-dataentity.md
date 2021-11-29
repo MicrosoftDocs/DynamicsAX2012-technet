@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price that is set for the customer only - Trade Agreements
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

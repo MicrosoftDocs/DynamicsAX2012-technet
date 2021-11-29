@@ -14,6 +14,9 @@ ms.search.region: Global
 # Close a deal and implement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you and your customer have come to an agreement about the potential sale, you can finalize the deal and begin to implement the sale.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # respondent
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A party that provides a response.
 
 ## See also

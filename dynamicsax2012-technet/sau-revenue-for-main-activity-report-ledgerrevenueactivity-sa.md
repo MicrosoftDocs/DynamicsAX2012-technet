@@ -17,6 +17,9 @@ f1_keywords:
 # (SAU) Revenue for main activity report (LedgerRevenueActivity\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Revenue for main activity** report displays a summary of the revenue from the main business activity of a legal entity. This report includes information such as the customer name, contract subject, contract date, contract value, contract period, year that the contract was created, and contract balance. This report is typically used by accountants, collections managers, accounts receivable clerks, and accounts receivable managers.

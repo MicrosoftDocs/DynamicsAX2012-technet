@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderDeliveryOptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the Delivery options for the entire order i.e., the delivery options that are common to all the lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

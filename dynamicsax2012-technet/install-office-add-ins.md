@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Office Add-ins 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to install Microsoft Office Add-ins by using the Microsoft Dynamics AX Setup wizard. In Microsoft Dynamics AX 2012 R3 and cumulative update 7 for Microsoft Dynamics AX 2012 R2, the Microsoft Project client add-in is included with the Office Add-ins.

@@ -26,6 +26,9 @@ ms.search.region: Denmark, France
 # Finalize a general budget reservation (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can close or finalize a completed or expired general budget reservation at the end of the year.

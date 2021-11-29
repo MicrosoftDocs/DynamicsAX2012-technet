@@ -17,6 +17,9 @@ dev_langs:
 
 # StandardRetailPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The standard retail price. Used to store a retail price for comparison with the customer price.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

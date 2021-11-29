@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculating costs for WIP and finished goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Companies can calculate the cost of works in process (WIP) and finished items at the end of each reporting period. Microsoft Dynamics AX lets you calculate the cost of a production order by using the normative method or the proportional method.

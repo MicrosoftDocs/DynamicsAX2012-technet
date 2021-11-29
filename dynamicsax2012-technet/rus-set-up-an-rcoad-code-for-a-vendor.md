@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an RCOAD code for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Vendors** form to set up a Russian Classification of Objects of Administrative Division (RCOAD) code for a vendor that is associated with a separate division of the company other than the head office. If a vendor is associated with a company division other than the head office, you must enter an RCOAD code for the vendor. An RCOAD code is a legislative or territorial code that is defined for each region or territory of the Russian Federation. These codes are specified in the company registration documents and are defined based on the location of the company’s separate division.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Reimburse for an expense report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can reimburse an employee for an expense report by using the **Vendor details** form in **Procurement and sourcing**. However, before you can reimburse an employee, you must create a vendor group for employees and a vendor record for the employee whom you are reimbursing.

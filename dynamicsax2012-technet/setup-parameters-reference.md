@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Setup parameters reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic lists the parameters that can be used for a silent installation. You can install any Microsoft Dynamics AX component in silent mode. For more information about how to install Microsoft Dynamics AX by using parameters, see [Run Setup in silent mode](run-setup-in-silent-mode.md).

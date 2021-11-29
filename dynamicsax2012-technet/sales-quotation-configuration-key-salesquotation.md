@@ -14,6 +14,9 @@ f1_keywords:
 # Sales quotation configuration key (SalesQuotation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales quotation** configuration key controls access to sales quotations. If this configuration key is enabled, you can access **Sales quotations** in the **Sales and marketing** module. You will also have access to quotation reports and specific quotation setup.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor sales price margins 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The vendor sales price margin contains a formula that converts the vendor's suggested retail price or the vendor's purchase price for a product to a sales price in local currency. The sales price margin is used only if there is no entry for the product in the vendor's sales price points.

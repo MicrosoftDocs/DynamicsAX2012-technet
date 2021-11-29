@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPeriodicDiscountV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPeriodicDiscountV1](iperiodicdiscountv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

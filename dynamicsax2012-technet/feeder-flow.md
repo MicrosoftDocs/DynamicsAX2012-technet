@@ -13,6 +13,9 @@ f1_keywords:
 
 # feeder flow
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A production flow that can supply other downstream production flows.
 
 ## See also

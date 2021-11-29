@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentsTransactionService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shipments real time service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

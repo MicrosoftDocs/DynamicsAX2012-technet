@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Generate the inventory balance turnover report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Inventory balance turnover** form to generate the inventory balance turnover report. You can generate the report grouped by the following dimensions:

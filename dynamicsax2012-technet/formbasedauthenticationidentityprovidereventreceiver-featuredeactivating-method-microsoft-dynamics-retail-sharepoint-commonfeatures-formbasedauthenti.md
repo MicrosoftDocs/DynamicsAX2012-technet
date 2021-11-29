@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureDeactivating Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the event that is raised when a Feature is deactivated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.FormBasedAuthenticationIdentityProvider](microsoft-dynamics-retail-sharepoint-commonfeatures-formbasedauthenticationidentityprovider-namespace.md)  

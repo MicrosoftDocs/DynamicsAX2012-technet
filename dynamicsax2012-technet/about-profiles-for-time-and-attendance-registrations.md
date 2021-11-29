@@ -15,6 +15,9 @@ ms.search.region: Global
 # About profiles for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Profiles are used to define the standard working hours for workers. The profiles must cover all work hours in a week to be able to calculate the work hours and pay time for each worker.

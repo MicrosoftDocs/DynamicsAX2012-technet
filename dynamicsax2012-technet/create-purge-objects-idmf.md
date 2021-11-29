@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Create purge objects for the Intelligent Data Management Framework
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Considerations for Purge Objects, driver tables, relations, and rules
 ---------------------------------------------------------------------
 

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a bank account for a customer account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to enter bank account information for a customer. You can use this information for electronic payments.

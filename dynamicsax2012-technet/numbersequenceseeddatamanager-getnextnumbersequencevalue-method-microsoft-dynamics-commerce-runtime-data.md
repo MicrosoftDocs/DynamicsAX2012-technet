@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextNumberSequenceValue Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the next value of a number sequence. Creates the number sequence seed data if not exists.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

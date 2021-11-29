@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveSalesTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the context's sales transaction to the DB.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

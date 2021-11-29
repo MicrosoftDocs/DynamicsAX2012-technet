@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for incoming VAT processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Parameters of VAT process** form to set up parameters for incoming value-added tax (VAT) processing and for restored VAT transactions.

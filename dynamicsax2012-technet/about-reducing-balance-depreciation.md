@@ -15,6 +15,9 @@ ms.search.region: Global
 # About reducing balance depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a fixed asset depreciation profile and select **Reducing balance** in the **Method** field in the **Depreciation profiles** form, the assets that have this depreciation profile assigned to them are depreciated by the same percentage in each depreciation period.

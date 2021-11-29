@@ -17,6 +17,9 @@ dev_langs:
 
 # PaySalesInvoice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Record payment of a single Sales Invoice Line in Headquarters
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

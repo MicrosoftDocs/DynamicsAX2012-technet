@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: AOS and Database for Developers in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the new and enhanced features that are available for Microsoft Dynamics AX Application Object Server (AOS) in Microsoft Dynamics AX 2012.

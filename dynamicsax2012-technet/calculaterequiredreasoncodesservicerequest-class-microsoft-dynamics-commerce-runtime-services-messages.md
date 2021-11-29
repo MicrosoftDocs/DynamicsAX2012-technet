@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateRequiredReasonCodesServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service request to calculate required reason codes on the current transaction, or on a sales/tender line in current transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

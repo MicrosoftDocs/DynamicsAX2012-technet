@@ -18,6 +18,9 @@ f1_keywords:
 # How to: Add or Delete Fields in a Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add or delete fields for a data region in an auto design report. Each data region has a single underlying dataset. If you add a field to a data region, the field must be from the same dataset as the other fields in the data region. The following procedure explains how to add or delete fields in a data region within an auto design.

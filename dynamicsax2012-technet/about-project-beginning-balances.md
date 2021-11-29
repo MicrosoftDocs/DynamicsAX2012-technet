@@ -15,6 +15,9 @@ ms.search.region: Global
 # About project beginning balances 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By entering beginning balance transactions, you can transfer projects to Microsoft Dynamics AX without affecting the general ledger. For example, if you have been tracking a project offline or in another program, you can migrate the project to Microsoft Dynamics AX, specify a beginning balance, and then continue to track the project information. You can also use a beginning balance journal if you have been recording project costs and revenues in Microsoft Dynamics AX, but have not recorded details in **Project management and accounting** and now want to track project details.

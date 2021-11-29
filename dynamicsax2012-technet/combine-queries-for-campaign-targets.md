@@ -14,6 +14,9 @@ ms.search.region: Global
 # Combine queries for campaign targets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can combine queries that you previously created, and then use the queries to select targets for the current campaign.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # refund
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The return of an amount paid.
 
 ## See also

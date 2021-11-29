@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot issues in Async Server or Async Client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the information in this topic to troubleshoot issues with Commerce Data Exchange: Async Server or Commerce Data Exchange: Async Client.

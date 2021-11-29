@@ -17,6 +17,9 @@ dev_langs:
 
 # SavePickingList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the count of a picking list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

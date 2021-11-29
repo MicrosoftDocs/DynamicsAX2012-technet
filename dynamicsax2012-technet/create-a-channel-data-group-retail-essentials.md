@@ -15,6 +15,9 @@ f1_keywords:
 # Create a channel data group (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a group of one or more retail store databases. When you run a distribution schedule, a data package is generated for each data group. All store databases in a data group subscribe to the same data. A database can belong to only one data group.

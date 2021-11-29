@@ -17,6 +17,9 @@ dev_langs:
 
 # ICompositionElement Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a single composition source to be loaded by the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

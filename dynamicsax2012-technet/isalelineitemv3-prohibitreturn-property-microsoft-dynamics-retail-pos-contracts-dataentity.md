@@ -17,6 +17,9 @@ dev_langs:
 
 # ProhibitReturn Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is true if the item is blocked from being returned on the POS system.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

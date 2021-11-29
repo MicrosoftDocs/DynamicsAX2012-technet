@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Use the \"Date to use to calculate discounts\" field to control discount calculations for vendor payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can take a cash discount that is based on a date other than the transaction date of the payment. You can do this by using the **Date to use for calculating discounts** field in the **Settle open transactions** form. This field is available only if you open the form from a list page, or from a form that opens when you double-click a record on a list page. For more information, see [Settle open transactions - vendor (form)](https://technet.microsoft.com/library/aa619609\(v=ax.60\)).

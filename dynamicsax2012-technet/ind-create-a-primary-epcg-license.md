@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Create a primary EPCG license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **EXIM EPCG Schemes** form to create a primary Export Promotion Capital Goods (EPCG) license. After the details are updated, you can submit the data to the customs authority. The customs authority verifies the data and provides an EPCG license number.

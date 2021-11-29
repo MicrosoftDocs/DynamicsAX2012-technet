@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a review process for reversals and cancellations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, reversals and cancellations are posted immediately when users click **Payment reversal** in the **Check** form or **Cancel payment** in the **Deposit slip** form. Use the following steps to send reversals and cancellations to journals for another user to review before the user approves and posts the reversal or cancellation, or rejects the reversal or cancellation.

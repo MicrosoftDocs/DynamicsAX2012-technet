@@ -13,6 +13,9 @@ f1_keywords:
 
 # work breakdown structure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A deliverable-oriented grouping of project elements that organizes and defines the total work scope of the project. Each descending level represents an increasingly detailed definition of the project work.
 
 ## See also

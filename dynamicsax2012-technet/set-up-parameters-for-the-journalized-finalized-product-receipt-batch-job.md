@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up parameters for the Journalized finalized product receipt batch job 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, you can accrue purchases when a product receipt is entered for a purchase order. When you invoice the product receipt, the accrual is relieved. Because a purchase order can differ from the vendor invoices that it is matched with, a recurring, scheduled batch job is installed for each legal entity. You can use this batch job, **Journalized finalized product receipt**, to clear and journalize any remaining accrual amounts when a product receipt is fully invoiced.

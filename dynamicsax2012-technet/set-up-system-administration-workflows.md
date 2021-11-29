@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up System administration workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As part of the system administration setup, you can create workflows to manage user provisioning for user requests, and to inactivate users following an inactivate user request.

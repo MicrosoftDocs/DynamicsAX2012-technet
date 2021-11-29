@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The controller for the customer loyalty card information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

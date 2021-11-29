@@ -18,6 +18,9 @@ ms.search.region: Global
 # Maintain open product releases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An open product release is created when the release of a product cannot be completed. An incomplete release can, for example, occur if the product, the product master, or the product variants that are included in the release session already exist in the company that you attempt to release to.

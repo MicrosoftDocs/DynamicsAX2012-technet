@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for exchange adjustment in accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Exchange adjustment in accounting** register contains information about expenses and revenues that are used to calculate tax difference registers.

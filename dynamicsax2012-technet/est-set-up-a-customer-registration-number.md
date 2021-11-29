@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Set up a customer registration number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Every Estonian citizen has a unique identification number, which is the personal ID code given at birth. Within the company, this code can be used, for example, to avoid duplication of data or for payroll purposes. You can also record the identification number as the business registration number for a customer.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShiftDataServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShiftDataServiceRequest](shiftdataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

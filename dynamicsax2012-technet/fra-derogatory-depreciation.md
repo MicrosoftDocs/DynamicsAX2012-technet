@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Derogatory depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Derogatory depreciation is an additional depreciation amount that is calculated from the difference between the tax value model depreciation amount and the accounting value model depreciation amount during the life of the fixed asset. If the amount is positive, the transaction type is **Derogatory decrease**. If the amount is negative, the transaction type is **Derogatory increase**.

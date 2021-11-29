@@ -16,6 +16,9 @@ f1_keywords:
 # (ITA) Sales tax (Italy) report (TaxReport\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax (Italy)** report displays Italian sales tax reports and sales tax payments. The report is sorted chronologically by voucher number for each sales tax book section. The voucher numbers are continuous, without gaps between them. All sales tax book sections of the **Sales tax book** are included in the report. A subtotal is printed for each sales tax book section, and an overall total is printed. This report is used to inquire into the status of sales tax transactions. This report is typically used by collections managers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, sales clerks, sales managers, and accounts payable clerks.

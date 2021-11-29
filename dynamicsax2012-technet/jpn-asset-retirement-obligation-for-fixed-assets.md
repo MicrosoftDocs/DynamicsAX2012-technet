@@ -23,6 +23,9 @@ ms.search.region: Japan
 # (JPN) Asset retirement obligation for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use Microsoft Dynamics AX to apply asset retirement obligation (ARO) to a tangible fixed asset when you acquire or construct the asset. ARO is used to estimate the costs that are related to the future disposal of an asset.

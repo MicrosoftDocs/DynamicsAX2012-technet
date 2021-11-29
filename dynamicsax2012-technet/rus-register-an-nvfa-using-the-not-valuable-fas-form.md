@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Register an NVFA using the Not valuable FAs form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to register a not valuable fixed asset (NVFA) by using the **Not valuable FAs** form.

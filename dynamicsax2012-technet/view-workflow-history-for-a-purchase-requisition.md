@@ -16,6 +16,9 @@ ms.search.region: Global
 # View workflow history for a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The workflow history of a purchase requisition includes information about who created the workflow work item, the time and date when the work item was created, a list of actions associated with the work item, and any comments that were entered during the workflow process.

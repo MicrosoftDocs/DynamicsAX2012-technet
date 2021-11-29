@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXReport
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXReport
 
 Retrieves a list of Microsoft SQL Server Reporting Services reports available from Microsoft Dynamics AX.

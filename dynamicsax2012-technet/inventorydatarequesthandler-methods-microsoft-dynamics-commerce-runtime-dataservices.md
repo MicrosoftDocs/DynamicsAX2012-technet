@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InventoryDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InventoryDataRequestHandler](inventorydatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices.md) type exposes the following members.
 
 ## Methods

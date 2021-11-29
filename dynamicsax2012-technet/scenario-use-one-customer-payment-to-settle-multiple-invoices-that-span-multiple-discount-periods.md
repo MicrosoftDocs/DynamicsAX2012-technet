@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Use one customer payment to settle multiple invoices that span multiple discount periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Fabrikam sells goods to customer 4032. Fabrikam offers a cash discount of 1 percent if the invoice is paid in 14 days, and also offers cash discounts on partial payments. For information about these setup parameters, see [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md) and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).

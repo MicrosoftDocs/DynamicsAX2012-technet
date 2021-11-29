@@ -14,6 +14,9 @@ ms.search.region: Malaysia
 # (MYS) Print GST invoice for credit note or debit note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to print a Malaysian goods and services tax (GST) invoice for a credit note or a debit note. You can print a GST invoice for a credit note or debit note from a sales order, free text invoice, purchase order, or project proposal. The invoice is printed in either full or simplified format, depending on the selection that you make in the **General ledger parameters** form.

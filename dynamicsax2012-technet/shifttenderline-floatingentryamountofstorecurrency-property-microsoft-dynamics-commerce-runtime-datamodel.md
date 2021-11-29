@@ -17,6 +17,9 @@ dev_langs:
 
 # FloatingEntryAmountOfStoreCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets float entry of tender in store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

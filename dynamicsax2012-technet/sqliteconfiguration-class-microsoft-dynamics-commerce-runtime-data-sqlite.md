@@ -17,6 +17,9 @@ dev_langs:
 
 # SqliteConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the configuration values for sqlite data access.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

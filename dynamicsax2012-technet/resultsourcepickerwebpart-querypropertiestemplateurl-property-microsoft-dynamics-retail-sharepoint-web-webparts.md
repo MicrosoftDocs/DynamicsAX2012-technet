@@ -17,6 +17,9 @@ dev_langs:
 
 # QueryPropertiesTemplateUrl Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the queryPropertiesTemplateUrl string
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

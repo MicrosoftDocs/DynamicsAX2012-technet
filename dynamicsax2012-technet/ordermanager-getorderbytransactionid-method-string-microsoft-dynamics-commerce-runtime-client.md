@@ -15,6 +15,9 @@ dev_langs:
 
 # GetOrderByTransactionId Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the pending sales order matching the transaction identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

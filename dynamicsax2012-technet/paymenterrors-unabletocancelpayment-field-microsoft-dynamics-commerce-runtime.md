@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToCancelPayment Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that payment could not be cancelled.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

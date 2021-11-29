@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (EEUR) Access log (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate a report that displays the fields and tables in Microsoft Dynamics AX that are related to an employee’s personal information, and that have been accessed within a specified time frame.

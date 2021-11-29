@@ -17,6 +17,9 @@ dev_langs:
 
 # GetMaximumRetailPriceFromTradeAgreement Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets maximum retail price from trade agreement.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

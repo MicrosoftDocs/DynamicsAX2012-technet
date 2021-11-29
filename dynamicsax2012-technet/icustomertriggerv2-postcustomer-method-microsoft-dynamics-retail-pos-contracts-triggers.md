@@ -17,6 +17,9 @@ dev_langs:
 
 # PostCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered at the end
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

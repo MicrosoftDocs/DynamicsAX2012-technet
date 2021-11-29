@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create a ledger journal of tax difference transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Transactions in the tax difference journal are based on the calculations in the **Calculation of temporary tax differences** and **Calculation of constant tax differences** registers.

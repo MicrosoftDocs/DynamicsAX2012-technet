@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) View purchase or sales release orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view all purchase or sales release order lines for a purchase or sales agreement, or you can view only order lines that have been released from a specific purchase or sales agreement line.

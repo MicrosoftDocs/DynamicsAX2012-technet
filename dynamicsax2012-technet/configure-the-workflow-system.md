@@ -16,6 +16,9 @@ ms.search.region: Global
 # Configure the workflow system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics describe the procedures that Microsoft Dynamics AX administrators must complete to enable workflow functionality in Microsoft Dynamics AX.

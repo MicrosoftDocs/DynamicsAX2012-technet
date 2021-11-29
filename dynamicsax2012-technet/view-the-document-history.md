@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View the document history 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Documents that are exchanged by using Application Integration Framework (AIF) are related to data in the Microsoft Dynamics AX database, such as a sales order. To exchange documents and data with external systems, AIF creates a message that contains header information and data.

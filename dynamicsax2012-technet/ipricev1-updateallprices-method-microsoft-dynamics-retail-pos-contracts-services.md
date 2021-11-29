@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateAllPrices Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To be used when a customer is specified or updated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

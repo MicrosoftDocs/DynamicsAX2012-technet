@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Analyzing Cube Data in Microsoft SQL Server Management Studio 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can analyze data by using Microsoft SQL Server Management Studio to connect to a Microsoft Dynamics AX OLAP cube.

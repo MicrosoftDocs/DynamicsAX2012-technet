@@ -17,6 +17,9 @@ dev_langs:
 
 # AddCartLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add cart lines to the given cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

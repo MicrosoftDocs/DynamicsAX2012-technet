@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Integration ports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, integration ports provide simplified administration of services and Application Integration Framework (AIF). Integration ports replace the AIF endpoints and related concepts that were used in previous releases of Microsoft Dynamics AX. Each integration port can expose one or more services, and each integration port has a unique Uniform Resource Identifier (URI) that identifies the address of the port.

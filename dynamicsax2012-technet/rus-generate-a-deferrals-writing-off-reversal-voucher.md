@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate a deferrals writing off reversal voucher 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

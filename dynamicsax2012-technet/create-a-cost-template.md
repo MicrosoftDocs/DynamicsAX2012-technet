@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create a cost template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cost template determines whether the automatically-calculated percentage of completion can be edited, and whether the percent complete is calculated in amounts or in units. Because a cost template refers to a set of cost template lines, when you set up a cost template you must also set up cost template lines.

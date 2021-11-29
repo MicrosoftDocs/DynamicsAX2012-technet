@@ -22,6 +22,9 @@ ms.search.region: Global
 # Process purchase orders at year end 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you record encumbrances for purchase orders in the general ledger, which includes purchase orders for projects, you can generate closing entries to the general ledger and against budget reservations at the end of each fiscal year. At the start of the new fiscal year, you can create opening entries to correctly record the encumbrances and budget reservations. These entries help make sure that the reservations for purchase order encumbrances are correctly recorded on the year-end financial statements and in budget control.

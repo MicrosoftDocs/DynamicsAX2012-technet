@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up service tax information for customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Specify the Service tax registration (STC) number for the address of the customer. If the customer has an alternate address, you can also specify the STC number for the alternate address of the customer.

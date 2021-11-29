@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post and print a reverse transaction for a purchase order credit note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post a purchase order credit note transaction as a reverse transaction by selecting the **Credit correction** check box in the **Posting invoice** and **Posting packing slip** forms. As a result, the warehouse operation is marked as **Storno** in the **Transactions** form, and a credit transaction is created for the vendor transaction. The reversed vendor transaction can be posted as a correction transaction in the General ledger.

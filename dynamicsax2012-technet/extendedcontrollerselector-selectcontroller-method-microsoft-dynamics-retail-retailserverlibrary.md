@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectController Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Selects controller based on request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

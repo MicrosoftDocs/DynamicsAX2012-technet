@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 For normal transactions, the authentication code can be read from this property.
 
 When manually calling for an authentication number, it must be placed in this property before authorization is requested.

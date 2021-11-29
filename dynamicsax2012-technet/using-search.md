@@ -20,6 +20,9 @@ ms.search.region: Global
 # Using search 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Enterprise Search in Microsoft Dynamics AX to search through data, metadata, documents that are attached to records, and Help topics in the Help Server. You can use common nouns such as 'customer' and 'cash flow report' as the search term. You can also search for specific data, such as a customer name, a product ID, or a telephone number. The search box is prominently displayed in the Microsoft Dynamics AX client, and you can view your recent search terms in the drop-down list.

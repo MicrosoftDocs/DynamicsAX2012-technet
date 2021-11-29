@@ -22,6 +22,9 @@ dev_langs:
 
 # TaxBase Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The origin from which the sales tax is calculated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

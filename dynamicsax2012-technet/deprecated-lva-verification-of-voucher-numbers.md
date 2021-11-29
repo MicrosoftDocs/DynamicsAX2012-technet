@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (LVA) Verification of voucher numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, Eastern European countries have a country/region-specific feature that enables number sequences to be configured for posted vouchers. For Latvian installations, an additional country-specific feature is a periodic job that assigns unused numbers to vouchers that have not been posted.

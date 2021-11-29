@@ -17,6 +17,9 @@ dev_langs:
 
 # AddToGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add to gift card given the current transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

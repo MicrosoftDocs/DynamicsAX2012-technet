@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportedRequestTypes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets list of supported request types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

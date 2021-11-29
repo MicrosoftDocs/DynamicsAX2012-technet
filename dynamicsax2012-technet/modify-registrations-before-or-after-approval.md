@@ -18,6 +18,9 @@ ms.search.region: Global
 # Modify registrations before or after approval 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can change worker registrations during the approval process. Click **Human resources** \> **Common** \> **Time and attendance** \> **Approve**.

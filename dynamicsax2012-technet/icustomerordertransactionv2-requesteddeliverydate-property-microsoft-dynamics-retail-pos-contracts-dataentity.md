@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestedDeliveryDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Requested Delivery date for the order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

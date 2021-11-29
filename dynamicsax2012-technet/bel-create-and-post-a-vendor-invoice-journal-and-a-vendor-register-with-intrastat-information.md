@@ -19,6 +19,9 @@ ms.search.region: Belgium
 # (BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Intrastat declaration is a mandatory statement that reports the movement of goods between the European Union (EU) member states. Belgian companies can use the **Intrastat** form to generate an Intrastat declaration in CSV format for submittal to the Belgian customs authority. Before you can create and post a vendor invoice journal or vendor register and submit an Intrastat declaration, you must set up Value Added Tax (VAT) and Intrastat information for the vendor.

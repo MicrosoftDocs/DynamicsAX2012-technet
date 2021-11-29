@@ -18,6 +18,9 @@ ms.search.region: Global
 # Copy a forecast item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A forecasted item transaction can be copied to a sales order, an item consumption journal, or an item requirement.

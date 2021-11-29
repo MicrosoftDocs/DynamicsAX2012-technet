@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Synch Service Pack Viewer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Commerce Data Exchange: Synch Service Pack Viewer is a tool that helps you examine the data that is contained in the packages that are sent and received by Synch Service. Use Pack Viewer as a troubleshooting resource when you experience an issue with data synchronization or replication.

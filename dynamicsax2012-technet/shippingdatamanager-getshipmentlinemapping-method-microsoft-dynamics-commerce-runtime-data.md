@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShipmentLineMapping Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the mapping between a sales line and all packing slips line that fulfill that sales line shipment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

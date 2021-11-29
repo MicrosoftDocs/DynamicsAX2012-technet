@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the tax amount properties on this taxable item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -14,6 +14,9 @@ dev_langs:
 # Scenario: Upgrade a Retail system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The upgrade process for Retail installations of Microsoft Dynamics AX 2012 is based on the Microsoft Dynamics AX 2012 upgrade framework, and uses procedures that are common to both Retail and non-Retail deployments. Before administrators attempt an upgrade, they must be familiar with the [Microsoft Dynamics AX 2012 Upgrade Guide](https://go.microsoft.com/fwlink/?linkid=163798) and the regularly updated upgrade documentation on TechNet.

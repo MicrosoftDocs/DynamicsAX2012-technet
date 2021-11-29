@@ -13,6 +13,9 @@ f1_keywords:
 
 # production order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the requirements for producing items to meet a demand.
 
 ## See also

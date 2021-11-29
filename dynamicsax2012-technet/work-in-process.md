@@ -13,6 +13,9 @@ f1_keywords:
 
 # work in process
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Material that is in some stage of the manufacturing process, from raw material issued to a production order to a manufactured product ready for acceptance into inventory.
 
 ## See also

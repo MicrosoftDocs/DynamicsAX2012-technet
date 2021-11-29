@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyTransactionServiceRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyTransactionServiceRequestHandler](loyaltytransactionservicerequesthandler-class-microsoft-dynamics-commerce-runtime-transactionservice.md) type exposes the following members.
 
 ## Properties

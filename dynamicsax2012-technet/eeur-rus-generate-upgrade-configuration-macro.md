@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (EEUR, RUS) Generate upgrade configuration macro 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Since some Russian Federation and Eastern European configurations of Microsoft Dynamics AX 4.0 lack objects targeted for compilation by the Microsoft Dynamics AX 2012 R2 or R3 upgrade scripts, errors can occur during upgrade preprocessing. The upgrade framework avoids this problem by compiling objects conditionally. The **Generate upgrade configuration macro** task verifies the existence of certain tables and fields in the Microsoft Dynamics AX 4.0 source system prior to data preprocessing, and then creates a macro to customize the execution of the data preprocessing scripts.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Submit a batch processing job from a form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This article describes how to submit a job or report to be run as part of a batch process on a different computer. The batch job is submitted to a batch server, where the jobs are queued and run.

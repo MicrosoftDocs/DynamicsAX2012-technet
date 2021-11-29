@@ -17,6 +17,9 @@ dev_langs:
 
 # GetRetailDiscountPriceGroupDictionary Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get offer identifier to retail discount price groups dictionary.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

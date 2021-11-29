@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a dimension group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a dimension group for each translation group. You can use the **Dimension groups** form to set up rules for the translation of dimensions from the source company to the target company. A separate rule group is created for converting dimensions for each translation group. A set of dimension conversion options is then determined for this group.

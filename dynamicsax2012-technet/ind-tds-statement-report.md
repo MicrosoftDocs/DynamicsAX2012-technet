@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (IND) TDS statement (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate a quarterly report statement for Tax deducted at source (TDS). For transactions with a resident status, use Form 26Q. For transactions with a non-resident status, use Form 27Q.

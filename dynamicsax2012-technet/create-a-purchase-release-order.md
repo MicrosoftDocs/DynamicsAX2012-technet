@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a purchase release order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A purchase release order is a purchase order that is released from an existing purchase agreement. When you release order lines from a purchase agreement, the commitment terms specified in the purchase agreement are applied to the purchase order.

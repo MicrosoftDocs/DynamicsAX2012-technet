@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LockUserAtLogOnDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LockUserAtLogOnDataRequest](lockuseratlogondatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

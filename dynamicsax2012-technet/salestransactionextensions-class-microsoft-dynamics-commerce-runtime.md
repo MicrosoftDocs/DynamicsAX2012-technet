@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransactionExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class defines lightweight calculated properties on objects in the SalesTransaction data model.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

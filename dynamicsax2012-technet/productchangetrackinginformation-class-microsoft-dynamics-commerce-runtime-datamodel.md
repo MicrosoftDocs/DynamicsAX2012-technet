@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductChangeTrackingInformation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the content of a master or kit product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

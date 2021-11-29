@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Transit account function 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Transit account** function to change the date of a posted transaction. The banking operation type must be created, and a transaction account must be set. This function is applied to transactions of the types **Bank-Bank**, **Cash account-Bank**, and **Ledger-Bank**.

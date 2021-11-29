@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomersResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomersResponse](getcustomersresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

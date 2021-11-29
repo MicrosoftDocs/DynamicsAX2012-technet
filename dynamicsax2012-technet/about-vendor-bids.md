@@ -31,6 +31,9 @@ ms.search.region: Global
 # About vendor bids 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how a vendor replies to your request for quotation (RFQ) for goods or services by submitting a bid.

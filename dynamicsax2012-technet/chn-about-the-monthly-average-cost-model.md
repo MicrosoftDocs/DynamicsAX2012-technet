@@ -19,6 +19,9 @@ ms.search.region: China (PRC)
 # (CHN) About the monthly average cost model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Inventory costing is used to determine the cost or monetary value of warehoused inventory items. Inventory costing can be performed by using the following standard models:

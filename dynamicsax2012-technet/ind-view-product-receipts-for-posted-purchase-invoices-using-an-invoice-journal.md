@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) View product receipts for posted purchase invoices using an invoice journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view the product receipt details that are matched to a posted purchase order invoice.

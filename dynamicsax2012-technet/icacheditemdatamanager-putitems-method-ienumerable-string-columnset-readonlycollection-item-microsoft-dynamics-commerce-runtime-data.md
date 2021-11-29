@@ -15,6 +15,9 @@ dev_langs:
 
 # PutItems Method (IEnumerable(String), ColumnSet, ReadOnlyCollection(Item))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the items using the specified item identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

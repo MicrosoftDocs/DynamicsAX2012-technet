@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) Operation type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In releases before Microsoft Dynamics AX 2012 R2, sales operation types are created in the **Sales operation types** form and purchase operation types are created in the **Purchase operation types** form. The sales and purchase operation types are stored in two different tables. You can create sales and purchase operation types with the same identification code in the **Sales operation types** and **Purchase operation types** forms. For example, the operation type code 001 could designate both a sales operation type and purchase operation type.

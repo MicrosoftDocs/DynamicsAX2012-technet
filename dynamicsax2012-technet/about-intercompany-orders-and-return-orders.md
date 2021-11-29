@@ -22,6 +22,9 @@ ms.search.region: Global
 # About intercompany orders and return orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how intercompany purchase orders, sales orders, return orders, purchase agreements, and sales agreements are created and updated.

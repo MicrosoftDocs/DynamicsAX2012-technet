@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidAddressComponentName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the invalid address component.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

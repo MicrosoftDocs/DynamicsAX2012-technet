@@ -13,6 +13,9 @@ f1_keywords:
 
 # cash float
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount of cash provided for the purpose of giving change or exchanging cash.
 
 ## See also

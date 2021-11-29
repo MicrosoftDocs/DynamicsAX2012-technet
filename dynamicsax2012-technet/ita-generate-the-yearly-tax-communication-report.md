@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Generate the Yearly tax communication report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 According to Italian tax legislation, companies must submit sales and purchase information in an electronic format to the Italian tax authorities in the month of February each year. In Microsoft Dynamics AX, you can generate and export the Yearly tax communication report to an ASCII file, and then upload it to the tax authority website.

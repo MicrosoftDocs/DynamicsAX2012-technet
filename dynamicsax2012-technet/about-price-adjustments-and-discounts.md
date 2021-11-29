@@ -15,6 +15,9 @@ ms.search.region: Global
 # About price adjustments and discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In **Retail**, you can make price adjustments to products, as well as set up discounts that are applied to a line item or a transaction at the point of sale. Both price adjustments and discounts can be linked to specific price groups. You can also specify start dates and end dates. You can delete a price adjustment or a discount. However, statistical information is lost.

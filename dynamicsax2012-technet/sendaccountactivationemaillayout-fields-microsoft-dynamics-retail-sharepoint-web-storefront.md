@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SendAccountActivationEmailLayout Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SendAccountActivationEmailLayout](sendaccountactivationemaillayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Fields

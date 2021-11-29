@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Production cube (ProdCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Production cube for Microsoft Dynamics AX is used to manage and track production activities. This article provides details about the cube.

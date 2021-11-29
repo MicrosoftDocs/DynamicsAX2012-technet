@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveTransferOrderRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class to handle SavePickingReceivingCountRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureDeactivating Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the event that is raised after a Feature is deactivated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.MiscSettingsFeature](microsoft-dynamics-retail-sp-commonfeatures-features-miscsettingsfeature-namespace.md)  

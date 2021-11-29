@@ -17,6 +17,9 @@ dev_langs:
 
 # HideNumbers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Replaces numbers on trackString by replacementToken.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

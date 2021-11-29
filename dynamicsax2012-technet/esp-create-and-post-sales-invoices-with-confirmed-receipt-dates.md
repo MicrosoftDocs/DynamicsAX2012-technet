@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Create and post sales invoices with confirmed receipt dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Sales order** and **Posting invoice** forms to create and post sales invoices that have confirmed receipt dates to calculate invoice due dates. Specify a date in the **Confirmed receipt date** field on the **Sales order header** FastTab in the **Sales order** form. This date is used as the delivery date to calculate the invoice due date.

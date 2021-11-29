@@ -31,6 +31,9 @@ ms.search.region: Japan
 # (JPN) Identify impaired assets and post journals for impairment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to generate a list of fixed assets that are possibly impaired, run the impairment recognition test to generate a list of impaired fixed assets, and then create and post journals for fixed asset impairments.

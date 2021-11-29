@@ -17,6 +17,9 @@ dev_langs:
 
 # ErrorResourceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the error resource id indicating the cause of the validation failure.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

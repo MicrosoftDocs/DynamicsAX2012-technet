@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Document the internal transfer of items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to document the internal transfer of items from one location to another location. The two-step process requires that you specify the loading and destination warehouses, and that you enter information about how the items are transported.

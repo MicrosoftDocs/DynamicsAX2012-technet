@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create and Use Labels 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You should use labels to specify the user interface text for forms and reports. Labels are created in the Label Editor, and then used in text-based properties in the Application Object Tree (AOT) or in X++ code.

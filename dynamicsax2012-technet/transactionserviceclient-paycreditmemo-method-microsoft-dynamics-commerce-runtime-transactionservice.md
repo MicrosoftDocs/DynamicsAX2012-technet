@@ -17,6 +17,9 @@ dev_langs:
 
 # PayCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Pay with credit memo.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

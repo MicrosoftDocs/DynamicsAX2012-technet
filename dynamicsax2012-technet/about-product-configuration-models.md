@@ -15,6 +15,9 @@ ms.search.region: Global
 # About product configuration models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product configuration models are created to represent a generic product structure. When you set up a product configuration model, you can create a distinct product variant that has a unique bill of materials (BOM) and a unique route. Product configuration models are based on constraints and use Microsoft Solver Foundation. You can configure items on sales orders, sales quotations, purchase orders, and production orders.

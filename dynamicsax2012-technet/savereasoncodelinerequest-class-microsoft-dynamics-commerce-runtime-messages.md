@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveReasonCodeLineRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for add or update reason code line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

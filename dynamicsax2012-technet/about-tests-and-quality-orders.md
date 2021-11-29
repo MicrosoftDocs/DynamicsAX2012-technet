@@ -18,6 +18,9 @@ ms.search.region: Global
 # About tests and quality orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A quality order defines a set of one or more tests that must be performed for an item and a test quantity of its related order (such as a purchase, sales, or production order) or a test quantity of its inventory.

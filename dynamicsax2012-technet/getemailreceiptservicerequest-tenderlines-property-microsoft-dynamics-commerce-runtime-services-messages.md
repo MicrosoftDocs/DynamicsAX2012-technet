@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tender lines associated with an order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

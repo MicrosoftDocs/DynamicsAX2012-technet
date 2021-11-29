@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Hyper-V Benchmark for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 In December 2011, Microsoft conducted a benchmark to measure the performance and scalability characteristics of Microsoft Dynamics AX 2012 on physical servers, Windows Server 2008 R2 Hyper-V virtual servers, and a mixture of physical servers and Hyper-V virtual servers.

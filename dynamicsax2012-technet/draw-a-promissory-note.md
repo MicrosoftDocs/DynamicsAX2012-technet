@@ -17,6 +17,9 @@ ms.search.region: Global
 # Draw a promissory note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can draw a promissory note automatically or in a journal. A promissory note always is based on an open vendor transaction that has a status of **Invoiced** on the **All purchase orders** list page.

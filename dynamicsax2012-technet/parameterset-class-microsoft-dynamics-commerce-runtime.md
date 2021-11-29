@@ -17,6 +17,9 @@ dev_langs:
 
 # ParameterSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates a collection of named parameters represented as key/value pairs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

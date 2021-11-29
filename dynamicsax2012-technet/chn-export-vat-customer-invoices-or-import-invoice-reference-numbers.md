@@ -25,6 +25,9 @@ ms.search.region: China (PRC)
 # (CHN) Export VAT customer invoices or import invoice reference numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to export the value-added tax (VAT) customer invoice export documents from Microsoft Dynamics AX, and then import reference numbers for the customer invoices that can be linked to the original invoices.

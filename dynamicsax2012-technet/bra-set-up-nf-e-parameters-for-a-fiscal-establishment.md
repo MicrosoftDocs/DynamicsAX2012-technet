@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up NF-e parameters for a fiscal establishment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to set up the parameters for a Nota Fiscal eletrônica (NF-e) for a fiscal establishment.

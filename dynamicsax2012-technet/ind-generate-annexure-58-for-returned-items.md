@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Generate annexure 58 for returned items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can generate and print annexure 58 for items that are returned from customers for repair or reconditioning, and then dispatched back to the customers after repair.

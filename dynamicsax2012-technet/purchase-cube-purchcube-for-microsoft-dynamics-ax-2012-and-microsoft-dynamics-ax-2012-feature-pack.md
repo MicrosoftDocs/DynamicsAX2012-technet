@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Purchase cube (PurchCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Purchase cube to report on purchase transactions.

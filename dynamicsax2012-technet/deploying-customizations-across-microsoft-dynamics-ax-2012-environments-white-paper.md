@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploying Customizations Across Microsoft Dynamics AX 2012 Environments (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes a standard process and best practices for developers and IT Pros who are seeking to deploy Microsoft Dynamics AX 2012 customizations between environments.

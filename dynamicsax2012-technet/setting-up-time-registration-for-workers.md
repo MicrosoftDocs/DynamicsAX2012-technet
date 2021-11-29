@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up time registration for workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers must be set up as time registration workers to be able to make registrations by using the time and attendance or manufacturing execution functionality.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a transit tax group to redraw miscellaneous charges to third parties 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a transit tax group so that you can redraw charges to third parties. This tax group is used in the invoice that is created during the redraw debt transaction.

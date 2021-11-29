@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrderDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DataManager class for Sales Orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # NoManualDiscountAllowed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is true if the item should never be allowed a manual discount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

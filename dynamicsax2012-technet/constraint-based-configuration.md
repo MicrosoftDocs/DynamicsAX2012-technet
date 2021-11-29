@@ -13,6 +13,9 @@ f1_keywords:
 
 # Constraint-based configuration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A configuration technology that uses constraints to develop product masters and to configure distinct products.
 
 ## See also

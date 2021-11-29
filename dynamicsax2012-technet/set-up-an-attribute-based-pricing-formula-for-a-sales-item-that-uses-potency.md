@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up an attribute-based pricing formula for a sales item that uses potency 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use this procedure to set up an attribute-based pricing formula to calculate sales prices for potency items.

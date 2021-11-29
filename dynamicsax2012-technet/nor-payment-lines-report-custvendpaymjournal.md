@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Payment lines report (CustVendPaymJournal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment lines** report displays a summary of the vouchers that are generated for a customer payment or vendor payment, along with the payment status of the vouchers. This report is typically used by accounts payable payments clerks and accounts receivable payments clerks to maintain customer payments and vendor payments.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up VAT deduction parameters for deferrals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 VAT deductions are calculated in proportion to deferral amounts that have been written off. For example, for the purchase of service items, operational equipment, or other commodities. At the end of each tax reporting period, you must mark the VAT that was received during that period as closed using incoming VAT processing in the purchase book. When you process incoming VAT to write off deferrals, you can verify the calculated blocked and unblocked facture VAT amounts, and then record the transactions in the purchase book. If you have not yet closed the purchase book for a period, you can reverse the transaction in the general journal to cancel the deferral amount that was written off. Use the following procedures to set up VAT deduction parameters for deferrals.

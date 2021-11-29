@@ -18,6 +18,9 @@ ms.search.region: Belgium
 # (BEL) Approve or cancel vendor register invoices with Intrastat information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can approve or cancel a vendor invoice that contains Intrastat information after the invoice has been registered and posted for approval. For more information, see [(BEL) Create and post a vendor invoice journal and a vendor register with Intrastat information](bel-create-and-post-a-vendor-invoice-journal-and-a-vendor-register-with-intrastat-information.md).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Ledger budget form and table 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, Ledger budget is the name of the form and table where budget amounts for ledger accounts are captured.

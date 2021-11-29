@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Select products to sell online 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a Commerce Services for Microsoft Dynamics ERP account has been set up, you can decide which products you want to sell online, select them in Microsoft Dynamics AX, and then synchronize them with Commerce Services.

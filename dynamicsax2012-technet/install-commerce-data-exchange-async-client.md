@@ -14,6 +14,9 @@ dev_langs:
 # Install Commerce Data Exchange: Async Client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Commerce Data Exchange: Async Client is part of the asynchronous system that shares data between the Microsoft Dynamics AX database and channel databases. Async Client is installed at the channel and communicates with the channel database. In addition to Async Client, Commerce Data Exchange includes Commerce Data Exchange: Async Server. Async Server is installed at headquarters and communicates with the Microsoft Dynamics AX database.

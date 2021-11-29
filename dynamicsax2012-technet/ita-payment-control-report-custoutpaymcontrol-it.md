@@ -17,6 +17,9 @@ f1_keywords:
 # (ITA) Payment control report (CustOutPaymControl\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment control** report prints the payment control details for customer payments. This report is typically used by accounts receivable payments clerks to maintain customer payments.

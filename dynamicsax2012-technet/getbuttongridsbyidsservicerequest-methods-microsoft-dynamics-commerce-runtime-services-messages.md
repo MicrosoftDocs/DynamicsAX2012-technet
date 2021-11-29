@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetButtonGridsByIdsServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetButtonGridsByIdsServiceRequest](getbuttongridsbyidsservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

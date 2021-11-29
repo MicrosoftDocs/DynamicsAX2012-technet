@@ -14,6 +14,9 @@ ms.search.region: Global
 # Find withholding tax transactions for a vendor by using transaction descriptions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a payment is posted for a vendor who is subject to withholding tax, the description of the payment is also used as the description for withholding tax transactions. You can query on the description to find the withholding tax transactions that are associated with a specific invoice.

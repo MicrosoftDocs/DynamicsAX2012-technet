@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounting for stocked items on product receipts and vendor invoices (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper describes the two types of accounting that take place when an accounting entry is generated for a product receipt or a vendor invoice that contains stocked items. The examples in this white paper illustrate the journal entries that are created.

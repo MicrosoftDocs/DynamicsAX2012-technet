@@ -17,6 +17,9 @@ dev_langs:
 
 # PostSuspendTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called after a transaction is suspended.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

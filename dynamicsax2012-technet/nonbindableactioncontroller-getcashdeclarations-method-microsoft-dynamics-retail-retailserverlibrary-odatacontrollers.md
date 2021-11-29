@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCashDeclarations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all cash declarations for the specific store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

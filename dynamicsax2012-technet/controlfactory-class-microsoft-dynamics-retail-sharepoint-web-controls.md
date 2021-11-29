@@ -17,6 +17,9 @@ dev_langs:
 
 # ControlFactory Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Factory for creating .NET server controls in a consistent manner.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

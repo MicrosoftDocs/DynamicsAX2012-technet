@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PurchaseOrdersController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PurchaseOrdersController](purchaseorderscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Methods

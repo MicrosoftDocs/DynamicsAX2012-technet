@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Generate an asset record report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Accounting for fixed assets is done by generating reports to establish the value and track the movement of assets over a specified period of time. One type of fixed asset report is the asset record report.

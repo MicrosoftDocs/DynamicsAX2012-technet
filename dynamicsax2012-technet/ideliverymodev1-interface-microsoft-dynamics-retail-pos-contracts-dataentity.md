@@ -17,6 +17,9 @@ dev_langs:
 
 # IDeliveryModeV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IDeliveryModeV1 interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

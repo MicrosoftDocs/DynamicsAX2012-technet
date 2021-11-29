@@ -17,6 +17,9 @@ dev_langs:
 
 # Password Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the password.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework](microsoft-dynamics-commerce-runtime-framework-namespace.md)  

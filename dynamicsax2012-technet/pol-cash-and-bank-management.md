@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Cash and bank management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use Cash and bank management to maintain the legal entity’s bank accounts and the financial instruments that are associated with those bank accounts. These instruments include deposit slips, checks, bills of exchange, and promissory notes. You can also reconcile bank statements and print bank data on standard reports.

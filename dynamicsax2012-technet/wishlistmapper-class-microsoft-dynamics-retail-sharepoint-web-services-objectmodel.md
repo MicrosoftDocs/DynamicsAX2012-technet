@@ -17,6 +17,9 @@ dev_langs:
 
 # WishListMapper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs mappings between the wish list view model and Commerce Runtime Sdk entities.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

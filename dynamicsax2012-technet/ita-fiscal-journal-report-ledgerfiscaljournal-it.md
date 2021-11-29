@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Fiscal journal report (LedgerFiscalJournal\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fiscal journal** report is a legal report that includes posting details in the order in which they were posted. The line numbers are allocated continuously based on the posting date and are not fixed. The line numbers are allocated when the report is printed. This report is used to review the status of general ledger processes. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, accounting supervisors, and financial controllers.

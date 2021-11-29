@@ -14,6 +14,9 @@ f1_keywords:
 # Budget details report (BudgetDetails) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Budget details** report displays details about the budget register entries for the financial dimension set and date range that you select. You can select a specific budget model and budget type by using an inquiry form, or include all available budget models and budget types. The report is grouped by budget model, dimension values, and budget type. Columns display dates and amounts for the budget register entries.

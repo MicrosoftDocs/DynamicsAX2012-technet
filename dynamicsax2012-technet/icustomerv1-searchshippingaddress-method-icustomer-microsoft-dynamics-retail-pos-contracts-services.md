@@ -15,6 +15,9 @@ dev_langs:
 
 # SearchShippingAddress Method (ICustomer)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for the customer shipping address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

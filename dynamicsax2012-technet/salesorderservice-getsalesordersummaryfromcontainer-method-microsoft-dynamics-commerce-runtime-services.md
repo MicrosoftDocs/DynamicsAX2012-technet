@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSalesOrderSummaryFromContainer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get sales order header information from AXContainer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

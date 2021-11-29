@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonGridQueryResultSettings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the buttongrid query result settings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

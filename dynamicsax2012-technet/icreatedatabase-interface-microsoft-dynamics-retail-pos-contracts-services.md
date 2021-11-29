@@ -17,6 +17,9 @@ dev_langs:
 
 # ICreateDatabase Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICreateDatabase interface creates a new database instance according to the config file or to the default config file, if one does not exist.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

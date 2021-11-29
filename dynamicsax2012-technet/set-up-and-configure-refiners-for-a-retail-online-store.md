@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up and configure refiners for a Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up and configure refiners for a Microsoft Dynamics AX Retail online store. Refiners are a component of search-driven navigation on a web page.

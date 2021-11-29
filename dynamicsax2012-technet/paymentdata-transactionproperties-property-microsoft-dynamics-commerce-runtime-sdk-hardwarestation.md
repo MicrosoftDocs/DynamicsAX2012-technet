@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction properties as an XML blob format.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # CreateResultSource Method (, Uri, String, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates ResultSource to be used by CBSs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

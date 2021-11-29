@@ -13,6 +13,9 @@ f1_keywords:
 
 # data entity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An information structure that represents the data characteristic of an entity.
 
 ## See also

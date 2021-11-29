@@ -17,6 +17,9 @@ dev_langs:
 
 # AddNew Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers information about a new customer into the database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

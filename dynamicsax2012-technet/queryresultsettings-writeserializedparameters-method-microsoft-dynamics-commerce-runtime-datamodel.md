@@ -17,6 +17,9 @@ dev_langs:
 
 # WriteSerializedParameters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Write serializedParameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

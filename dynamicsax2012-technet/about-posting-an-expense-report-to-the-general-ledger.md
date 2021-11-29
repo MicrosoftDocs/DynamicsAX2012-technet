@@ -15,6 +15,9 @@ ms.search.region: Global
 # About posting an expense report to the general ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After an expense report has been approved and transferred to the general journal, the report can be posted to the general ledger. When you post an expense report, expenses that are eligible for Value Added Tax (VAT) recovery are identified. The task of verifying and recovering VAT payments is assigned to the employee who is responsible for verifying the expense report.

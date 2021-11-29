@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeLineDiscountAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns true if discount amount is authorized.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

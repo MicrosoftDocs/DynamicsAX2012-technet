@@ -17,6 +17,9 @@ dev_langs:
 
 # InvoiceCommentColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoice comment column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

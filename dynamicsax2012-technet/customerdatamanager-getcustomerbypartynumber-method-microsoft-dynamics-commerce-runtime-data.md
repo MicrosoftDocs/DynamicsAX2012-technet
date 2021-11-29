@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerByPartyNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer by party number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

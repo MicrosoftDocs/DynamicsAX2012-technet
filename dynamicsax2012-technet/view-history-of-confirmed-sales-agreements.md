@@ -14,6 +14,9 @@ ms.search.region: Global
 # View history of confirmed sales agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a sales agreement is confirmed, the current version of the sales agreement is stored in a history table and assigned a version number. The confirmation history of a sales agreement contains information about the customer, line details from the sales agreement, and the terms of the sales agreement.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PublishingParameters Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PublishingParameters](publishingparameters-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md) type exposes the following members.
 
 ## Methods

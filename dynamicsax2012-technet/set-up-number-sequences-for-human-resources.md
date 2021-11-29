@@ -26,6 +26,9 @@ ms.search.region: Global
 # Set up number sequences for Human resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Number sequences are used throughout Microsoft Dynamics AX to allocate ID numbers or identifiers for entities. Before you can assign a number sequence to a Human resources reference, you must set up number sequences codes in the **Number sequences** list page. For more information, see [Set up number sequences](set-up-number-sequences.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStateProvinces Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the states or provinces filtered by country region.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

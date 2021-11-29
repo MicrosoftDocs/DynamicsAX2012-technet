@@ -14,6 +14,9 @@ f1_keywords:
 
 # variance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - The difference between two values, such as the difference between estimated and actual expenses.
 
   - The difference between an expected and an actual economic resource.

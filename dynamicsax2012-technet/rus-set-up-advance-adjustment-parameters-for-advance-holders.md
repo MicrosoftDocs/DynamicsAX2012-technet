@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up advance adjustment parameters for advance holders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The calculation of exchange adjustments on advance payments that are issued or received in currency is no longer required in business accounting.

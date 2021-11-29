@@ -14,6 +14,9 @@ ms.search.region: Global
 # Copy data from a grid to Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can copy information from some grids in Microsoft Dynamics AX and paste that information into a Microsoft Excel worksheet.

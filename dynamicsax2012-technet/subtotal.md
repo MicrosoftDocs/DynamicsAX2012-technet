@@ -13,6 +13,9 @@ f1_keywords:
 
 # subtotal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An intermediate partial sum, quantity, or amount.
 
 ## See also

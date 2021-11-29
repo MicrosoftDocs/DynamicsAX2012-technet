@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUnitsOfMeasure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the units of measure supported by the store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

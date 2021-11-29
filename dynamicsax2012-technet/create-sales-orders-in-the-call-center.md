@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create sales orders in the call center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create a sales order in the call center and how to complete additional tasks in the sales order. For example, you can search for products, add items for up-selling or cross-selling, add a coupon to a sales order, and add notes to a sales order header or line.

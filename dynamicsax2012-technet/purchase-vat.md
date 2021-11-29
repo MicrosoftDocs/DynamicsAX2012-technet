@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase VAT
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax on an organization’s purchases or input supplies, which is levied on the purchase price.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsValidationPeriodActive Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Finds the discount validation period and determines whether it is active for the given date and time
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

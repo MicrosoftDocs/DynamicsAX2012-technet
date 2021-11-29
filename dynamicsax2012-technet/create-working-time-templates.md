@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create working time templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The first step in setting up working time calendars is to create a working time template. Use the template to define the hours of operation, or the work periods in your production, for each day of the week.

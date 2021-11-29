@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # System user security role (SystemUser) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The System user security role represents a worker who is enabled to use basic Microsoft Dynamics AX features such as alerts.

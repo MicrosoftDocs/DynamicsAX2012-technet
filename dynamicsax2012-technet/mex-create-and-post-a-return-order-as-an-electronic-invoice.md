@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Create and post a return order as an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Return order** form to create a return order when a customer returns an item. Register the arrival of the returned item in the **Arrival overview** form. The details of the return order are then updated in the **Sales order** form. You can use the **Sales order** form to select and post the return order as an electronic invoice.

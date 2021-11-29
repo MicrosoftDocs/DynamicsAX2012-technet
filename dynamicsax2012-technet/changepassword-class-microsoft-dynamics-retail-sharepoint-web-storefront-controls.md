@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangePassword Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The control for changing password.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

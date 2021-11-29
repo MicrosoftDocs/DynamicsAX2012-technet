@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An inventory profile is used to track and report the movement of items, and the accounting of on-hand inventory quantities, based on the kind of activity that the company engages in. The general ledger transactions that correspond to inventory movements depend on the inventory profiles. The kind of activity refers to the following groups of inventory profiles:

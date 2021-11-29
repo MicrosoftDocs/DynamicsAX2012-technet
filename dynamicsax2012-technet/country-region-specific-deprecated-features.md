@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Country/region-specific deprecated features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section describe country/region-specific features that have been removed from the application in this version of Microsoft Dynamics AX, or that are planned for removal in subsequent versions.

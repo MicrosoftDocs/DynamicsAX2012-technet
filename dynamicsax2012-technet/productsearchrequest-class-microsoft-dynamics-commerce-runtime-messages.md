@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the collection of changed products since the last synchronization of the specified destination.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

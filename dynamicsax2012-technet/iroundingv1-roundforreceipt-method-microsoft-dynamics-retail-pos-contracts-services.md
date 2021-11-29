@@ -17,6 +17,9 @@ dev_langs:
 
 # RoundForReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the formatted string for receipt displaying.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

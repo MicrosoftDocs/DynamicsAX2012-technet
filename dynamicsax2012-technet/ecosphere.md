@@ -13,6 +13,9 @@ f1_keywords:
 
 # ecosphere
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The general environment, which is usually specified as being the air, water, or ground.
 
 ## See also

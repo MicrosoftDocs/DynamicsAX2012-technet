@@ -14,6 +14,9 @@ ms.search.region: Belgium
 # (BEL) Set up Belgisch Luxemburgs Wissel Instituut (BLWI) information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A Belgisch Luxemburgs Wissel Instituut (BLWI) declaration report is a declaration of the foreign trade of goods and the state of bank accounts outside of Belgium. It includes customer transactions, vendor transactions, and financial transactions for specific bank accounts and currencies.

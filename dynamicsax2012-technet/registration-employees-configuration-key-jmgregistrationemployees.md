@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Registration employees configuration key (JmgRegistrationEmployees) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Registration employees** configuration key controls access to forms and functions for registering time and attendance information. The forms and functions include set up forms for time registration workers and for configuring registration terminals.

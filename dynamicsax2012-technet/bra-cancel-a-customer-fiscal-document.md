@@ -23,6 +23,9 @@ ms.search.region: Brazil
 # (BRA) Cancel a customer fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel an incorrect customer fiscal document by using the **Cancel fiscal document** form. When you cancel a fiscal document, the fiscal document is marked as canceled, and all of the ledger transactions and financial transactions are reversed.

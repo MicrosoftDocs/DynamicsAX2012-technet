@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Data import export framework configuration key (DMF) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Data import export framework** configuration key controls access to the Data import export framework.
 
 You can enable or disable this key in the **License configuration** form.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CheckoutLayout Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CheckoutLayout](checkoutlayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Events

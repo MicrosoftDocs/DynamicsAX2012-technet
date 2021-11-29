@@ -30,6 +30,9 @@ ms.search.region: Global
 # View and reply to a request for quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As a vendor, you receive requests for quotation (RFQ) from a customer.

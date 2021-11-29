@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailDiscountPriceGroup Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailDiscountPriceGroup](retaildiscountpricegroup-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Fields

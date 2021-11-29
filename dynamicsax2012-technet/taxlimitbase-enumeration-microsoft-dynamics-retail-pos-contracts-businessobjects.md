@@ -23,6 +23,9 @@ dev_langs:
 
 # TaxLimitBase Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The basis of the sales tax limits.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About work planner 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The work planner is a graphic tool that enables you to plan shift work and print the plan.

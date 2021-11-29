@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sales tax configuration key (LedgerBasicSalesTax) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax** configuration key controls access to sales tax features. These features include purchase duty and packing duty.

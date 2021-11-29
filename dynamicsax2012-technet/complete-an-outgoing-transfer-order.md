@@ -17,6 +17,9 @@ ms.search.region: Global
 # Complete an outgoing transfer order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Enterprise Portal for Microsoft Dynamics AX to complete outgoing transfer orders and pick merchandise for them. Completed orders are then uploaded to Microsoft Dynamics AX for Retail Headquarters so that they can be posted.

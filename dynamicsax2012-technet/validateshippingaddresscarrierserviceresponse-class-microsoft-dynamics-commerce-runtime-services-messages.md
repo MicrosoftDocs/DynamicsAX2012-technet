@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateShippingAddressCarrierServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ValidateAddressResponse class that provides feedback if the provided address was valid, and provides list of recommended address if the flag was set in the request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

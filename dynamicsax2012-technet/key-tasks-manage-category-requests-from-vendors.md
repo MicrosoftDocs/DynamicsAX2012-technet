@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Manage category requests from vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendors who are approved to do business in a procurement category in your organization might want to extend their business to supply products in additional procurement categories. The vendor submits the category application request in the Vendor portal in Enterprise Portal for Microsoft Dynamics AX.

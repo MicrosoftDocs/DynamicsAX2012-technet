@@ -17,6 +17,9 @@ ms.search.region: Global
 # Change the project group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can change the project group of a project or an estimate project. You can make this change before or after the project transactions have been posted.

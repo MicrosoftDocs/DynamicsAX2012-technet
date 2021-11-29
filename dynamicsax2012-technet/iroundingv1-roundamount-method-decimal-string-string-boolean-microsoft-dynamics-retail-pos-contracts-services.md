@@ -15,6 +15,9 @@ dev_langs:
 
 # RoundAmount Method (Decimal, String, String, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rounds the tender amount according to store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

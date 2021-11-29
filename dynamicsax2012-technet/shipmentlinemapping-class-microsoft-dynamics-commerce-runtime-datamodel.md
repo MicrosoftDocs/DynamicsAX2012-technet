@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentLineMapping Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class that represents a mapping between a sales line and a packing slip line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

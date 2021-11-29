@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail Modern POS architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topic describes the architecture of Microsoft Dynamics AX Retail Modern point of sale (POS).

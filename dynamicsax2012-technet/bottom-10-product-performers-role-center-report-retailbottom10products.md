@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Bottom 10 product performers role center report (RetailBottom10Products) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a list of the products that are the lowest performers. You can use this information to optimize your assortments. This report lists the product name, the quantities sold, and the profit margin for the product.

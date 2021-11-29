@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllRetailDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all of the discounts configured in the system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

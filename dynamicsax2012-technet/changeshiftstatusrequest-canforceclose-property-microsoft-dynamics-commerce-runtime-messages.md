@@ -17,6 +17,9 @@ dev_langs:
 
 # CanForceClose Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the user can close the shift without check starting amounts and tender declaration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

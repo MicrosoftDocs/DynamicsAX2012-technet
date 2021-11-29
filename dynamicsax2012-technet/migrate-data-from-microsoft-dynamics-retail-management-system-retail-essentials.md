@@ -14,6 +14,9 @@ f1_keywords:
 # Migrate data from Microsoft Dynamics Retail Management System (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail essentials provides a data import feature that is optimized to import data from Microsoft Dynamics Retail Management System (RMS). RMS is a retail system from Microsoft that is a precursor to Retail essentials. The data import feature is built on top of the Data Import/Export Framework for Microsoft Dynamics AX 2012 and uses Data Import/Export Framework entities to migrate data.

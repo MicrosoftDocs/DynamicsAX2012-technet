@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up manual or automatic inventory reservations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following steps describe how to set up manual or automatic inventory reservations. If you change the existing setup, existing inventory reservations, order lines, or orders are not affected. Changes affect only future orders and order lines.

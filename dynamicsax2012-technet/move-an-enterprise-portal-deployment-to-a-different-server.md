@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Move an Enterprise Portal deployment to a different server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to move an Enterprise Portal for Microsoft Dynamics AX deployment from one server to another. Moving an Enterprise Portal deployment across servers is common for businesses or organizations that perform development and testing in one environment, and then move the deployment into a production environment. To move specific Enterprise Portal objects to a different server, see [Checklist: Deploy Enterprise Portal changes to a different server](checklist-deploy-enterprise-portal-changes-to-a-different-server.md).

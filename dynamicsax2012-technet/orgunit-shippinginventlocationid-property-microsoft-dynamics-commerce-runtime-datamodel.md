@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingInventLocationId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the warehouse id (invent location id) to be used for orders that will be shipped to customers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

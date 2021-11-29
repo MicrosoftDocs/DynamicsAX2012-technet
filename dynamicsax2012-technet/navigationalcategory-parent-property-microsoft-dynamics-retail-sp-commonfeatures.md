@@ -17,6 +17,9 @@ dev_langs:
 
 # Parent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the parent.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

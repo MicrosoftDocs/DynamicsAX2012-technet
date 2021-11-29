@@ -18,6 +18,9 @@ ms.search.region: Global
 # Review the workflow status and history for a project budget 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After an original project budget or budget revision is submitted for approval, you can use the **Workflow history** form to view details about the status and history of the budget workflow. Additionally, you can reassign a workflow task to another worker or cancel the workflow for a project budget.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCommittedSalesOrderByConfirmationId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the committed Sales order matching the confirmationId.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

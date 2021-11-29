@@ -13,6 +13,9 @@ f1_keywords:
 
 # work
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The entire range of inventory-related tasks that are performed by a company's warehouse employees. The creation of warehouse work is triggered either automatically by user-defined settings or manually by a worker. Each work item is performed on a mobile device by a warehouse worker.
 
 ## See also

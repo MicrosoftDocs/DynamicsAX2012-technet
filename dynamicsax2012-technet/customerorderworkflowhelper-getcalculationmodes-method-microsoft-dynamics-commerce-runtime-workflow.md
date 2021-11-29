@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCalculationModes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the calculation modes based on the operation being performed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

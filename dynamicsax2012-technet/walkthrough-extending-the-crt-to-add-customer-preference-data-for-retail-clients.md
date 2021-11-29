@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Extending the CRT to add customer preference data for Retail clients 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 To add the RetailCustPreferences table to the Commerce Runtime (CRT), you can make the modifications in the CRT yourself or you can add code to and re-run CommerceRuntimeScripts.sql. This topic describes the modifications and includes the entire text of CommerceRuntimeScripts.sql.

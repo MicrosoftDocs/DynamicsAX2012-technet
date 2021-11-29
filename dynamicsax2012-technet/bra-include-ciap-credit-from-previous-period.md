@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Include CIAP credit from previous period 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **CIAP fixed asset transactions** form to create CIAP credit installments. If a CIAP installment was not included in a previous booking period, an installment must be created so that the installment is processed in the current booking period as an ICMS tax assessment.

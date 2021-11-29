@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Ledger and subledger lines and distributions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Accounting distributions and subledger journal entries are the foundation of the new accounting framework. Accounting distributions let a user define how amounts on a source document affect account balances, such as ledger accounts in **General ledger** or projects. A subledger journal entry is the accounting entry that is created for a source document. The subledger journal entry remains in the subledger and can be previewed before a source document is journalized.

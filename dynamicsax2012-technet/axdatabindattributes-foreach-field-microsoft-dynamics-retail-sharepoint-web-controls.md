@@ -18,6 +18,9 @@ dev_langs:
 
 # ForEach Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-foreach" which binds the decentants with data in the specified collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

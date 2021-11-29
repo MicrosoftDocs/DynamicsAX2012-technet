@@ -13,6 +13,9 @@ f1_keywords:
 
 # requested ship date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date that the selling party should ship items to meet the customer's or vendor's requested receipt date.
 
 ## See also

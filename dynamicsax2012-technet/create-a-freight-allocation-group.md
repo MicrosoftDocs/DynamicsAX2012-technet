@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a freight allocation group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a freight allocation group. You can apply the freight allocation group to items that qualify for each allocation in the group. When you apply allocations to items at the group level, you do not have to assign each allocation individually.

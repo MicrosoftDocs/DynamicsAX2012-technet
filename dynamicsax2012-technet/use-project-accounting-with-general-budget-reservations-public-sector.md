@@ -22,6 +22,9 @@ ms.search.region: Denmark, France
 # Use project accounting with general budget reservations (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If your organization uses project accounting, you can include references to your project in general budget reservations. This can affect budgeting, committed costs, and funding-source reservations and consumption.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TierId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the readable identifier of the loyalty tier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

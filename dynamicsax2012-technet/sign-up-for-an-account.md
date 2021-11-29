@@ -17,6 +17,9 @@ ms.search.region: Global
 # Sign up for an account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Customer self-service portal on Enterprise Portal for Microsoft Dynamics AX to view and to order items. Before you can add items to your shopping cart or place orders, you must use the **Sign up** page to request an account.

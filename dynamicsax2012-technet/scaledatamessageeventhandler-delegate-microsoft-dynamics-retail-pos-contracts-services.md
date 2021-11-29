@@ -17,6 +17,9 @@ dev_langs:
 
 # ScaleDataMessageEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ScaleDataMessageEventHandler interface is the scale device message event handler delegate.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up loyalty cards (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to set up loyalty cards that entitle card holders to participate in your organization’s loyalty programs. Loyalty cards can be issued anonymously, or they can be assigned to a specific customer. If a loyalty card is assigned to a customer, the customer can redeem loyalty points from multiple associated loyalty cards, if the loyalty program allows for this. Loyalty cards can be issued from any retail store, and loyalty points can be redeemed in any retail store that participates in the loyalty programs that are assigned to the loyalty card.
 
 1.  Click **Retail essentials** \> **Customers** \> **Loyalty** \> **Loyalty cards**.

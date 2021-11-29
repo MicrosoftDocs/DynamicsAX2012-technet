@@ -47,6 +47,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for the payroll process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to set up parameters for payroll calculation, payroll groups, rates and dependencies for payroll calculation, payroll posting profiles, pay types, and funds.

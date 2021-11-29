@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountTypeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Periodic discount type column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

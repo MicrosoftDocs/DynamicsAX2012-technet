@@ -18,6 +18,9 @@ ms.search.region: Global
 # Maintain your personal information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Personal information** page to view and update information about you. Maintaining your personal information can include a variety of tasks, such as keeping your contact information current, maintaining your list of emergency contacts, and maintaining your personal mailing addresses.

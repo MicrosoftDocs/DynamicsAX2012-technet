@@ -35,6 +35,9 @@ dev_langs:
 
 # BarcodeSegmentType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.BarcodeSegmentType interface specifies the segment type of the barcode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

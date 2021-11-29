@@ -17,6 +17,9 @@ dev_langs:
 
 # PromotionLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of all promotions belonging to the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

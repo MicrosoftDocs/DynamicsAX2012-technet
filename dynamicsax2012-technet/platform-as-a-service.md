@@ -13,6 +13,9 @@ f1_keywords:
 
 # platform as a service
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The capability provided to the consumer of deploying onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure, including network, servers, operating systems, or storage, but has control over the deployed applications and possibly of the configuration settings for the application-hosting environment.
 
 ## See also

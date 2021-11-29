@@ -17,6 +17,9 @@ dev_langs:
 
 # HeadquarterTransactionServiceMethodCallFailure Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that there was an error when calling a transaction service method in the headquarters component.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

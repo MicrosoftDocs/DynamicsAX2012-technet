@@ -69,6 +69,9 @@ ms.search.region: Global
 # Trade allowance management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can use the **Trade allowance management** module to manage discounts that are offered by vendors to distributors, wholesalers, and retail customers as part of promotional incentives. Trade allowances help stimulate sales through price management. The **Trade allowance management** module provides the tools that are necessary to maintain relationships with vendors and customers throughout the promotional process. You can use this module to create, maintain, and quickly determine status of trade allowances.

@@ -23,6 +23,9 @@ ms.search.region: Global
 # Fixed asset posting and journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 See the following topics for information about how to set up posting journals and posting profiles, how to post budgets and transactions, and how to post with derived value models.

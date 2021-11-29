@@ -14,6 +14,9 @@ dev_langs:
 # Configure settings for Real-time Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can modify the logging and binding settings for Real-time Service by changing the web.config file, which is a standard WCF configuration file. By default, the file is located at \<Drive\>:\\inetpub\\DynamicsAxRetail\\CommerceDataExchangeRealtimeService\\Web.config.

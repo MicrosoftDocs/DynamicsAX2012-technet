@@ -15,6 +15,9 @@ dev_langs:
 
 # TryGetValue Method (TKey, TValue)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the key is present in the dictionary or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Packing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to add a packing unit and a quantity to sales order lines and how to change packing material transactions.

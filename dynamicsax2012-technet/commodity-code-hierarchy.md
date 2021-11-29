@@ -13,6 +13,9 @@ f1_keywords:
 
 # commodity code hierarchy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A category hierarchy that orders categories that are created from commodity codes.
 
 ## See also

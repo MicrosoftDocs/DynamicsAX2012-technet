@@ -18,6 +18,9 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 # (THA, SAU, GBR, IRL) Set up a ledger posting group and attach it to a withholding tax code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a ledger posting group, and then attach it to one or more withholding tax codes.

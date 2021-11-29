@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Transfer orders for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Complete the following procedures when you transfer items to a bailee for storage, and when you receive items from a bailee after storage:

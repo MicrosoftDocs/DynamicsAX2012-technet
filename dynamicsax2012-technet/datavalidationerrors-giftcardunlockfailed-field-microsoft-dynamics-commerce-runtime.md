@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardUnlockFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The gift card unlock failed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

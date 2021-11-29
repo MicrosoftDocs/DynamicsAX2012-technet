@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Save a sales order or quote in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

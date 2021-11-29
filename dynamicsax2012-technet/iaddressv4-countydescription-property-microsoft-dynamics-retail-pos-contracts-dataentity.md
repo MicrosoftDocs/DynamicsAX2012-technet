@@ -17,6 +17,9 @@ dev_langs:
 
 # CountyDescription Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Description of county (Russia)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

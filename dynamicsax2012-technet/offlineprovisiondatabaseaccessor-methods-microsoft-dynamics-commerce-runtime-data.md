@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OfflineProvisionDatabaseAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OfflineProvisionDatabaseAccessor](offlineprovisiondatabaseaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

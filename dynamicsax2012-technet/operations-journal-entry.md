@@ -13,6 +13,9 @@ f1_keywords:
 
 # operations journal entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A record of the operational and legal consequences of a resource flow event.
 
 ## See also

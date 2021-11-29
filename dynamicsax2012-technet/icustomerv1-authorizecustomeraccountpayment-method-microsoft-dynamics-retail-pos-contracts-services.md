@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeCustomerAccountPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Authenticates a payment from customer account.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

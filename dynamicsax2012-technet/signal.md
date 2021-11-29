@@ -13,6 +13,9 @@ f1_keywords:
 
 # signal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A notification of an event that triggers an activity.
 
 ## See also

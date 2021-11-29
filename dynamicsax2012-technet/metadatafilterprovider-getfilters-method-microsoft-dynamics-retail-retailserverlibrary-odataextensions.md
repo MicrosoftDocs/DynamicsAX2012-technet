@@ -17,6 +17,9 @@ dev_langs:
 
 # GetFilters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns filters for metadata controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountLinesDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service request to retrieve discount lines based on transaction identifier and sale line number provided.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

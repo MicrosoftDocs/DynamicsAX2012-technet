@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptSettings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the customer requests a printed receipt or a receipt sent in an email.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

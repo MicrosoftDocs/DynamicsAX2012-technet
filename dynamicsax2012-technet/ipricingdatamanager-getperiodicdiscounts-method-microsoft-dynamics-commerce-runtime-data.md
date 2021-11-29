@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPeriodicDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all retail periodic discounts (offer, quantity discounts, and mix and match discount) configurations which match the given product and context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

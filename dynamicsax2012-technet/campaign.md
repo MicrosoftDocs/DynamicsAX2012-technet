@@ -13,6 +13,9 @@ f1_keywords:
 
 # campaign
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A planned set of activities developed by an organization to meet the objective of increasing market shared over a distinct time period.
 
 ## See also

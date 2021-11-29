@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up work environment accommodation types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up an accommodation type to indicate that a worker requires that accommodation.

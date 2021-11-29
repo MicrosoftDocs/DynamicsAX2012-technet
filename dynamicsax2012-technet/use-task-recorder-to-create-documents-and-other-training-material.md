@@ -22,6 +22,9 @@ ms.search.region: Global
 # Use Task recorder to create documents and other training material 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to use Task recorder to quickly document business processes or tasks for training or other purposes. You can use Task recorder to create videos or documents. When you create a document, you can specify a template to use so that all of the documents that you create by using Task recorder have the same look and feel.

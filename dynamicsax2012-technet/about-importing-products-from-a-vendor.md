@@ -20,6 +20,9 @@ ms.search.region: Global
 # About importing products from a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Any products that you sell through retail channels must first be added to Microsoft Dynamics AX. You can create and maintain product data manually, or you can import product data from your vendors. To import product data from your vendors, you can use the catalog import feature in Microsoft Dynamics AX. The files from the vendors are submitted as catalog maintenance request (CMR) files. The information in these files can include the vendor’s product numbers, bar codes, descriptions, the vendor’s categories, size and color information, purchase prices, and sales prices. You can review the product data that is included in the CMR file, and then approve or reject the products. After the products are approved, the product data is added to the product master and released to specific legal entities. Product data for sales prices, purchase prices, bar codes, and variants is also added or updated, or used to create purchase orders.

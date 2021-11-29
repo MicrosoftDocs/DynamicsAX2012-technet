@@ -22,6 +22,9 @@ ms.search.region: Global
 # Set up product search options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to configure full-text searches for products in the **Sales order** form. After you define search criteria and parameters, users can enter search terms in the **Item number** field of the **Sales order** form to perform a full-text search of the product database. The search results show the products that match the search terms. The results also show availability information for each product.

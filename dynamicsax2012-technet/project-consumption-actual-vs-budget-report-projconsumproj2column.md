@@ -14,6 +14,9 @@ f1_keywords:
 # Project consumption (actual vs. budget) report (ProjConsumProj2Column) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze project consumption by comparing actual and budgeted values for a specified date range.

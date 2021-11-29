@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomersProcedure Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomersProcedure](getcustomersprocedure-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices.md) type exposes the following members.
 
 ## Methods

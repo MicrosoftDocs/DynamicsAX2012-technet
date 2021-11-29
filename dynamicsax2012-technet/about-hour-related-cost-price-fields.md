@@ -15,6 +15,9 @@ ms.search.region: Global
 # About hour-related cost price fields 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following example illustrates how the mathematical equations in the **Cost price** field group are calculated in the **Hour** form. (Click **Project management and accounting** \> **Inquiries** \> **Transactions** \> **Hour**.)

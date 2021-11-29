@@ -15,6 +15,9 @@ ms.search.region: Global
 # About answer session results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After respondents complete a questionnaire, you can view the results of the completed answer sessions. For more information, see [Viewing and evaluating results](viewing-and-evaluating-results.md) and [Using questionnaires](using-questionnaires.md).

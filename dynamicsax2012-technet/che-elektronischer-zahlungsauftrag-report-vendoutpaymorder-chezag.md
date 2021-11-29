@@ -14,6 +14,9 @@ f1_keywords:
 # (CHE) Elektronischer Zahlungsauftrag report (VendOutPaymOrder\_CHEZAG) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Elektronischer Zahlungsauftrag** report prints the payment order for vendor payments that are made by using the **EZAG (CH)** export format. You must select **EZAG (CH)** in the **Export format** field in the **Generate payments** form. This report is typically used by accounts payable payments clerks to maintain vendor payments.

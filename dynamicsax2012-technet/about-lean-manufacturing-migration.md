@@ -18,6 +18,9 @@ f1_keywords:
 # About Lean manufacturing migration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the migration scenario for Microsoft Dynamics AX 2012 Lean manufacturing. There is a new data model, so there is no code upgrade needed. However, before you upgrade to Microsoft Dynamics AX 2012, you must migrate the Lean manufacturing for Microsoft Dynamics AX 2009 data to the new model. This scenario requires that you complete the following pre-upgrade tasks:

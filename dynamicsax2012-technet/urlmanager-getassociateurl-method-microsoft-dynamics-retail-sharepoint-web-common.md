@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAssociateUrl Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Url for the Associate page.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

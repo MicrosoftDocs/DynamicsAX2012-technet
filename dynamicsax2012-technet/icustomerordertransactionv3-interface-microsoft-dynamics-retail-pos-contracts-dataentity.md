@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomerOrderTransactionV3 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ICustomerOrderTransaction interface version 3.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductVariant Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a variant of a product with size, color, style, and config dimensions.
 
 Also has information about the legal entity the variant is in.

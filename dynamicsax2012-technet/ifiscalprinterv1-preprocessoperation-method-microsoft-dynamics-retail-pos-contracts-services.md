@@ -17,6 +17,9 @@ dev_langs:
 
 # PreProcessOperation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Before the operation is processed this trigger is called.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

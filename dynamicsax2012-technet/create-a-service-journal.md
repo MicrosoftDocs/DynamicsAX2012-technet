@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a service journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The service journal is used to create and post service transactions. Before you can enter and post the service transactions, you must create the cost journal. You create the cost journal by using one of the journal names that you created in the **Journal names** form. (Click **Cost accounting** \> **Setup** \> **Journal names**.)

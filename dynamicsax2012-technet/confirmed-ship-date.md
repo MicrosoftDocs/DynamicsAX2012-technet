@@ -13,6 +13,9 @@ f1_keywords:
 
 # confirmed ship date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date that the selling party confirms that the items will ship to a customer or vendor.
 
 ## See also

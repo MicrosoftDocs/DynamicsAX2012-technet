@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Developing Extensible Data Security Policies (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The extensible data security framework is a new feature in Microsoft Dynamics AX 2012 that can enable developers and administrators to provide comprehensive data security using rich policies. This document describes the steps involved in developing policies that have minimal performance overheads.

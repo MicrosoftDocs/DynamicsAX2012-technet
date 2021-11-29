@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and split a location journal based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Item arrival** form or the **Production input** form to create and split an invoice based on the inventory profile.

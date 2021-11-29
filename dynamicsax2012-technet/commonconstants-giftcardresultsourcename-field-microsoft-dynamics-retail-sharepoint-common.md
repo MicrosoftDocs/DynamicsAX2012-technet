@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardResultSourceName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the result source that corressponds to giftcard items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Receipts list report (PurchReceiptsList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Receipts list** report to verify the quantity that is expected to be received against the quantity that is received.

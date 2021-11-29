@@ -17,6 +17,9 @@ dev_langs:
 
 # OfferId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the identifier of the price adjustment this rule is part of.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

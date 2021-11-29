@@ -20,6 +20,9 @@ ms.search.region: Global
 # About derived depreciation books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Setting up derived depreciation books lets you enter a transaction once and update multiple fixed assets and books. You select a value model, which usually is the value model that is used for accounting depreciation. You then attach the value model to other depreciation books that are set up to post transactions in the same intervals as the value model.

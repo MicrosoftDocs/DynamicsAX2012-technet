@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DateTimeOffsetExtensions Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DateTimeOffsetExtensions](datetimeoffsetextensions-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

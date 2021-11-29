@@ -21,6 +21,9 @@ ms.search.region: Global
 # Borrow or return company equipment for an employee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this page to indicate that you have borrowed or returned company-owned equipment. If you are a manager, you also can use this page to view your employee’s list of loaned equipment or indicate that an employee has returned equipment.

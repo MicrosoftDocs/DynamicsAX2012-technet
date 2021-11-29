@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add a Visual Studio Project to Microsoft Dynamics AX Version Control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to add a Visual Studio project in the AOT to version control. If a project is under version control, basic version control scenarios can be performed in Visual Studio. Advanced scenarios must be performed in the MorphX Integrated Development Environment (IDE).

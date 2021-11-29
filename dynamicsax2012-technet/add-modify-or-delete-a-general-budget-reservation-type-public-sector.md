@@ -26,6 +26,9 @@ ms.search.region: Denmark, France
 # Add, modify, or delete a general budget reservation type (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can create different types of general budget reservation in order to specify various requirements, according to your purchasing needs. For example, you might create three reservation types for use with purchase requisitions, purchase orders, and vendor invoices. A reservation type also defines characteristics, such as workflow, and default values of the general budget reservation.

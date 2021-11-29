@@ -17,6 +17,9 @@ dev_langs:
 
 # VerifyUrlInSiteDomain Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Function to verify that a given url is the same domain as the current site
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

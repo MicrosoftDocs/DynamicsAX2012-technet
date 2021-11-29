@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Monitor users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes several features to help you monitor which users are currently logged on to Microsoft Dynamics AX, how frequently a particular user has logged on, and the length of time that a user has been logged on. The procedures in this topic explain how complete the following actions:

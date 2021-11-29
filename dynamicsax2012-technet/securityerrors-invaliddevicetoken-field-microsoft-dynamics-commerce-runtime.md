@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidDeviceToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the that the current device token is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

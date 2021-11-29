@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Acquire a CIAP fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When a legal entity purchases a fixed asset, the ICMS tax on the transaction, which is included in the fixed asset price, can be refunded in 48 installments. The legal entity must present a specific fiscal book or report the information within the SPED fiscal file to the government. Create a Controle de Crédito de ICMS do Ativo Permanente (CIAP) fixed asset to track these installments.

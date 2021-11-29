@@ -14,6 +14,9 @@ ms.search.region: Denmark, France
 # Managing customer information (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to maintain customer information for public sector organizations. These topics complement the information that can be found under the main section for “Maintaining customer information.”

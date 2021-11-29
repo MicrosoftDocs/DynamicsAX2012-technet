@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: SQL Server Report Builder integration with Microsoft Dynamics AX report models 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft SQL Server Report Builder is a tool that is distributed with SQL Server. This tool lets users create simple reports by using Microsoft Dynamics AX data. This feature was introduced in Microsoft Dynamics AX 4.0 and was also included in Microsoft Dynamics AX 2009.

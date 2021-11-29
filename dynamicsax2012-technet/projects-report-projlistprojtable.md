@@ -14,6 +14,9 @@ f1_keywords:
 # Projects report (ProjListProjTable) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view information about a project, such as the project name, project ID, project contract, group, project status, and other base data from the **Projects** form.

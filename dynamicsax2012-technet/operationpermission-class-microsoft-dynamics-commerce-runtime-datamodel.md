@@ -17,6 +17,9 @@ dev_langs:
 
 # OperationPermission Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an operation associated with a permission.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

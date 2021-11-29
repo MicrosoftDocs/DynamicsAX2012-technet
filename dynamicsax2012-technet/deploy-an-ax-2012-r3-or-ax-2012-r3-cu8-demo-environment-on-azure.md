@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment on Azure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858570).

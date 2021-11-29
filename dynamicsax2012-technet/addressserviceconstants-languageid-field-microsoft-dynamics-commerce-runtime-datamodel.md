@@ -18,6 +18,9 @@ dev_langs:
 
 # LanguageId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The language identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # aggregation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A collection of shared objects.
 
 ## See also

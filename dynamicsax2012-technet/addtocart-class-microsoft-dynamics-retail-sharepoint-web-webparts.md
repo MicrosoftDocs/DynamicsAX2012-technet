@@ -18,6 +18,9 @@ dev_langs:
 
 # AddToCart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This web part provides functionality for adding a product to a shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up excise taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can create sales orders or post invoices that include excise taxes, you must set up the following:

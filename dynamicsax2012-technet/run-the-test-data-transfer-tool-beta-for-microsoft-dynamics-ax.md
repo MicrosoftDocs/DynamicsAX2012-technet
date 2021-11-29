@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run the Test Data Transfer Tool (beta) for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/run-the-test-data-transfer-tool-beta-for-microsoft-dynamics-ax/) in the Dynamics AX Help wiki.
 
   

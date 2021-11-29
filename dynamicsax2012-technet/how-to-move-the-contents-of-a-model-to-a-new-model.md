@@ -14,6 +14,9 @@ dev_langs:
 # How to: Move the Contents of a Model to a New Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to move the contents of one model to another model in the same layer. You can use either Windows PowerShell cmdlets or the AXUtil command-line utility to perform this task.

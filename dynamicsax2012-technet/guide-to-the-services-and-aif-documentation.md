@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Guide to the Services and AIF Documentation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This topic provides a guide to the Microsoft Dynamics AX Services and Application Integration Framework (AIF) documentation. The linked documents are recommended starting points grouped according to specific interests and levels of expertise.

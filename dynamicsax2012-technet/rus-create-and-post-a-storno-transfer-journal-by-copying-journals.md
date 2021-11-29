@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a storno transfer journal by copying journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To reverse an entry for a transfer journal, you can use the **Copy** function.

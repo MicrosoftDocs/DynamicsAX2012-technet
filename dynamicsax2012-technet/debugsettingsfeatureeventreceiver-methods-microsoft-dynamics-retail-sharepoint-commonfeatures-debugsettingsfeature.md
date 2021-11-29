@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DebugSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DebugSettingsFeatureEventReceiver](debugsettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sharepoint-commonfeatures-debugsettingsfeature.md) type exposes the following members.
 
 ## Methods

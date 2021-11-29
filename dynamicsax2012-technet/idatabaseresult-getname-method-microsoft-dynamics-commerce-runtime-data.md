@@ -17,6 +17,9 @@ dev_langs:
 
 # GetName Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the field in a specific index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

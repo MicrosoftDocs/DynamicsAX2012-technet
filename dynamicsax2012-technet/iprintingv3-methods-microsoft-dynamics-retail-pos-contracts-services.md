@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPrintingV3 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPrintingV3](iprintingv3-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

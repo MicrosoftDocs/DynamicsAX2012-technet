@@ -14,6 +14,9 @@ ms.search.region: Global
 # Control posting and printing of collection letters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can select options to control how collection letters are posted and printed. Before you begin, you must set up collection letters in the **Collection letter** form. (Click **Accounts receivable** \> **Setup** \> **Collections** \> **Collection letter**.)

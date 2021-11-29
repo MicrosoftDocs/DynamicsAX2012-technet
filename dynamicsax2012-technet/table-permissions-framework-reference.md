@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Table Permissions Framework reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Table Permissions Framework (TPF) enables administrators to set restrictions on tables that store data, including sensitive data. To enable TPF, an administrator specifies a value for the AOSAuthorizationProperty on a specific table in the Application Object Tree (AOT). The AOSAuthorizationProperty can be used to authorize Create, Read, Update, and Delete operations.

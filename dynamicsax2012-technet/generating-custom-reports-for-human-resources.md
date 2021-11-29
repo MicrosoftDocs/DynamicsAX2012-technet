@@ -27,6 +27,9 @@ ms.search.region: Global
 # Generating custom reports for Human resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The tables in this topic provide examples of common questions you might ask, and the measures and dimensions in the data cube for Human Resources that you can use to answer those questions.

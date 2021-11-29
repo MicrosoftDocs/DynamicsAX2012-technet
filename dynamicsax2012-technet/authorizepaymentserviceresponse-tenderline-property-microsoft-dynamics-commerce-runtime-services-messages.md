@@ -18,6 +18,9 @@ dev_langs:
 
 # TenderLine Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

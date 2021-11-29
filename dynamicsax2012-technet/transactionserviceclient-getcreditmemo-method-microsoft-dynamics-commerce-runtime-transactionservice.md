@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the credit memo balance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

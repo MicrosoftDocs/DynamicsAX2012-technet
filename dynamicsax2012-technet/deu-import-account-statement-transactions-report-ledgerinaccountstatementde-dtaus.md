@@ -15,6 +15,9 @@ f1_keywords:
 # (DEU) Import account statement (transactions) report (LedgerInAccountStatementDE\_DTAUS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Import account statement (transactions)** report is used to import bank account statements for transactions in the general journal. This report is typically used by accountants and accounting supervisors to maintain general journals and ledger transactions.

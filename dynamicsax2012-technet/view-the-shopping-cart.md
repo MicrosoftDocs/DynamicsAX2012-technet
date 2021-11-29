@@ -16,6 +16,9 @@ ms.search.region: Global
 # View the shopping cart 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Enterprise Portal to order items online. Before placing your order, you must add the items to your shopping cart. For more information, see [Add items to the shopping cart](add-items-to-the-shopping-cart.md). You then can use the **Shopping cart** page to view the items that are currently in your shopping cart, and make changes to the items or delivery information before placing your order.

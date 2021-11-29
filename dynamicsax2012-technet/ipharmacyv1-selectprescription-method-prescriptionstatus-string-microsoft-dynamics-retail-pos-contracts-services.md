@@ -15,6 +15,9 @@ dev_langs:
 
 # SelectPrescription Method (PrescriptionStatus, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Selects a prescription that contains a certain string from a list of all valid prescriptions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

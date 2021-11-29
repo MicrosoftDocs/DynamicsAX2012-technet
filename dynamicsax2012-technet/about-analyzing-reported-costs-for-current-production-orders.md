@@ -15,6 +15,9 @@ ms.search.region: Global
 # About analyzing reported costs for current production orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reported production activities can be grouped into four types of transactions. Three types of transactions represent the reported consumption of material, routing operations and indirect costs, and one type of transaction represents the reported production activities as finished items. Separate reports provide information about each type of transaction. Use these reports to analyze costs for reported production activities. Information is only displayed for current production orders that have a status of started or reported as finished.

@@ -51,6 +51,9 @@ ms.search.region: Russia
 # (RUS) Set up calculation procedures for the payroll process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to set up calculation procedures, their sequences and counters, and calculation methods to calculate the salaries for workers. You can create calculation procedures to set up the sequences that define the rules and calculation order for the salary calculation of employees. Calculation procedures are processed separately for specific accruals and deductions.

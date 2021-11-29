@@ -13,6 +13,9 @@ f1_keywords:
 
 # transaction threshold
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum limit of a transaction value, up to which a tax on the transaction value is not calculated.
 
 ## See also

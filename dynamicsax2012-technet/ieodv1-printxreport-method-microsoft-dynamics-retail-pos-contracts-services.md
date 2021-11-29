@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintXReport Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints an 'X report'.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

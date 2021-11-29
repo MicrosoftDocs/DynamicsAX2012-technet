@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Queries to Access Report Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of how to use a query created in the AOT to access data for a report. The following topics describe how to use a query to access data for a report.

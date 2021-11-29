@@ -15,6 +15,9 @@ f1_keywords:
 # Sales performance by retail product category report (RetailSalesByRetailCategory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view and compare sales performance by retail product category during periods that you specify. The retail product categories are based on the retail product hierarchy that is defined for your organization. This report includes the sales quantity, sales amount, profit margin, and profit percentage. This report is only available to users who are assigned to the Merchandising manager role.

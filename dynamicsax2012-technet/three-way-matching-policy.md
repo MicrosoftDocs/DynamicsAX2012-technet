@@ -13,6 +13,9 @@ f1_keywords:
 
 # three-way matching policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A matching policy that requires one or more vendor invoice prices to match with one or more purchase order prices and that requires one or more vendor invoice quantities to match with one or more product receipt quantities.
 
 ## See also

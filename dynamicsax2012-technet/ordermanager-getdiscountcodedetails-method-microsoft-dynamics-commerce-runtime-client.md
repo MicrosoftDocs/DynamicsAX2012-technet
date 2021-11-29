@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountCodeDetails Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the discount code details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

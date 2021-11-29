@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Hide the register fields 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before generating the registers, you can elect to hide fields that you might not need. You can also change the display options for fields that are set up when you create a register.

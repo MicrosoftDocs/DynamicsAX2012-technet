@@ -14,6 +14,9 @@ dev_langs:
 # Message Body 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the \<Body\> tag section of inbound and outbound messages in Application Integration Framework (AIF). The \<Body\> tag must follow the closing \</Header\> tag. For more information about messages and their format in Microsoft Dynamics AX, see [Messages and transforms in AIF](messages-and-transforms-in-aif.md).

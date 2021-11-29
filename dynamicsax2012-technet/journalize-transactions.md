@@ -14,6 +14,9 @@ ms.search.region: Global
 # Journalize transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Transactions are usually recorded in a journal at least once a month. Each transaction is marked with the number of the journal it was recorded in, as well as the line number.

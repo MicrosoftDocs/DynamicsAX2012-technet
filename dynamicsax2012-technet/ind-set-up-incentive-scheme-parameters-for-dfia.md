@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Set up incentive scheme parameters for DFIA 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can use the Duty Free Import Authorization (DFIA) incentive scheme, you must set up the details of the scheme that pertain to the recording of customs duty and incentive scheme amounts. Use the **Incentive scheme parameters** form to enable the DFIA incentive scheme and enter the details.

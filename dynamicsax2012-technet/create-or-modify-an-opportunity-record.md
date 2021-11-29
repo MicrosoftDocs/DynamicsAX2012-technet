@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create or modify an opportunity record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create lead records to help your sales and marketing teams gather and store information about a lead. For more information, see [Create or modify a lead record](create-or-modify-a-lead-record.md). When leads are qualified, they become opportunities.

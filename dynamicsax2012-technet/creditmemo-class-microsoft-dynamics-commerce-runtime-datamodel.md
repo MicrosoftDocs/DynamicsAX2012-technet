@@ -17,6 +17,9 @@ dev_langs:
 
 # CreditMemo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a credit memo.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

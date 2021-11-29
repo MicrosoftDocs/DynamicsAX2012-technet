@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Receive a group of fixed assets from another company 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can register the receipt of several fixed assets or inventory assets at a time by using transfer journals. This can be done when the transferring company has posted asset numbers in the FA journal. If information about value models is not displayed, you must enter or modify the information manually.

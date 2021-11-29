@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxOverrideSearch Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tax override search.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

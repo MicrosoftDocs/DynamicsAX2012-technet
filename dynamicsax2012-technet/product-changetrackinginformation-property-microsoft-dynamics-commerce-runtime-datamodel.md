@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeTrackingInformation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets information regarding the change tracking aspects of the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

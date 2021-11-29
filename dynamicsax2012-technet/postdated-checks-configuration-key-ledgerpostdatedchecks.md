@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Postdated checks configuration key (LedgerPostDatedChecks) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Postdated checks** configuration key controls access to the **Vendor postdated checks** and **Customer postdated checks** forms and functions.

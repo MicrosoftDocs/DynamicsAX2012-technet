@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Advance holder balance report (EmplBalance\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Advance holder balance report displays the balances of amounts that are paid to advance holders in an organization. Accountants generate this report periodically or daily to review and monitor the debts of an advance holder.

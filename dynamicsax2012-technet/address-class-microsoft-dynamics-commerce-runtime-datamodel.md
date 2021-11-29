@@ -18,6 +18,9 @@ dev_langs:
 
 # Address Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

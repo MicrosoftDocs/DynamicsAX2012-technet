@@ -14,6 +14,9 @@ ms.search.region: Global
 # Roadmap for Cost Accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides a set of resources for structured learning of cost accounting in supply chain management in Microsoft Dynamics AX 2012. The topics and resources listed here provide background and conceptual information to help you learn about cost accounting.

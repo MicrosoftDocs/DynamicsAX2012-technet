@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCommerceListsByCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all commerce lists associated with the specified customer account number.
 
 Because it retrieves entire commerce list entities, this method is most applicable for use by the online channel.

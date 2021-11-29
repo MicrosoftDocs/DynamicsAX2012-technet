@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up financial dimensions for integrating applications (Excel and Management Reporter) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to specify the financial dimensions that are available in lookups in Microsoft Excel when you use Office Add-ins for Microsoft Dynamics AX, and the order in which financial dimensions are displayed in Management Reporter for Microsoft Dynamics ERP. You might use this functionality to bring financial dimensions into a budget planning worksheet in Excel, or to develop financial statements in Management Reporter.

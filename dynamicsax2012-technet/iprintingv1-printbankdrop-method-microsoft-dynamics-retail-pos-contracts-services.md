@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintBankDrop Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints a bank drop receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

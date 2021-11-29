@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultSkip Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default number of records to be skipped if no skip has been specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

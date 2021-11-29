@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up Payment Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can configure Microsoft Dynamics AX with Payment Services for Microsoft Dynamics ERP to process credit card transactions at retail point-of-sale (POS) registers, in online stores, and in the **Accounts receivable** module in Microsoft Dynamics AX. Payment data is captured once and flows securely from POS registers, online stores, and **Accounts receivable** through your business processes in Microsoft Dynamics AX.

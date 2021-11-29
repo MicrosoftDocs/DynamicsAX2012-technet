@@ -17,6 +17,9 @@ dev_langs:
 
 # OnlineChannel Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an online channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

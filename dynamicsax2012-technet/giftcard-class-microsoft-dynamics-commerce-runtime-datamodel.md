@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCard Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

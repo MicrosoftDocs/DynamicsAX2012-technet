@@ -17,6 +17,9 @@ dev_langs:
 
 # FiscalPrinter Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fiscal printer peripheral device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

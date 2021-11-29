@@ -23,6 +23,9 @@ ms.search.region: Global
 # About job scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Job scheduling is a more detailed form of scheduling than operations scheduling. You can use job scheduling to schedule individual jobs or shop orders and to control the manufacturing environment. It breaks down each operation into its individual tasks or jobs. These jobs are then assigned to the operations resources that will perform them.

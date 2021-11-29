@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Enterprise Portal and Role Centers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides a set of websites that give you access to data and that you can use to participate in business processes by using web-based forms. These sites are collectively called Enterprise Portal for Microsoft Dynamics AX.

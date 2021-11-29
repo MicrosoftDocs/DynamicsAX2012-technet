@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an inventory owner for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Inventory owner** form to set up an inventory owner, or bailor, for the bailment process. A vendor, or bailee, can store items that belong to multiple owners. Therefore, you must set up an inventory owner for a vendor. You can set up an identification number for an inventory owner by using the **Accounts payable parameters** form or the **Inventory and warehouse management parameters** form. For more information, see [Accounts payable parameters (form)](https://technet.microsoft.com/library/aa596348\(v=ax.60\)) and [Inventory and warehouse management parameters (form)](https://technet.microsoft.com/library/aa587658\(v=ax.60\)).

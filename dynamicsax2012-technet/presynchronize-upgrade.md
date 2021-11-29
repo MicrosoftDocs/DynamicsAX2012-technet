@@ -15,6 +15,9 @@ f1_keywords:
 # Presynchronize (upgrade) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you perform the **Presynchronize** task in the target system, you use the **Data upgrade cockpit (%1 -\> %2)** to run scripts that map the database schema on the source Microsoft Dynamics AX system to the database schema on the target system. This table-to-table and column-to-column mapping is new with Microsoft Dynamics AX 2012, and prepares the target database for synchronization. If like-to-like mapping fails and errors result, you can manually repair the mapping and rerun the script.

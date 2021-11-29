@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 TaxGroup that this Tax Code belongs to
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

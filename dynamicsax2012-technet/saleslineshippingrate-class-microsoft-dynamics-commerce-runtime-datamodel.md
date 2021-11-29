@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesLineShippingRate Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Container for SalesLineId and the cost of shipping the items in it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

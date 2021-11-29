@@ -17,6 +17,9 @@ dev_langs:
 
 # NoDiscountAllowed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether no discount is allowed for an item. If set to true, discount is not allowed for the item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

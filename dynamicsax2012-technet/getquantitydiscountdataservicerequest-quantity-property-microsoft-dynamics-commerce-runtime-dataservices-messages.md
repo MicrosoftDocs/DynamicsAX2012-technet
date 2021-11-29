@@ -17,6 +17,9 @@ dev_langs:
 
 # Quantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the quantity value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

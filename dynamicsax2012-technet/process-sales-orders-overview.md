@@ -17,6 +17,9 @@ ms.search.region: Global
 # Process sales orders overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about processing quotations, entering and validating sales orders, managing back orders, and completing invoice information.

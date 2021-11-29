@@ -16,6 +16,9 @@ ms.search.region: Global
 # View category guidelines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to view the guidelines for a procurement category. Procurement category guidelines consist of rules that employees must follow when they add a product from a procurement category to a purchase requisition. The guidelines can contain rules about vendor selection for the product; announcements, such as a sale on a product; or policies set by your organization, such as when a product must be recorded as a fixed asset. Your purchasing manager defines these guidelines and policies for a procurement category in Microsoft Dynamics AX.

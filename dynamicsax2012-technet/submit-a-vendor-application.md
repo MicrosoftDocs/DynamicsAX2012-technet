@@ -17,6 +17,9 @@ ms.search.region: Global
 # Submit a vendor application 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You received an email message that invites you to submit an application to become an approved vendor for an organization. If you want to become a vendor for the organization, the first step is to submit the application. The organization evaluates the information that you submit. If your application is approved, you receive a notification that tells you what legal entities and procurement categories at the organization you are allowed to do business in.

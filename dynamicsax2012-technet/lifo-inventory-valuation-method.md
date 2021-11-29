@@ -13,6 +13,9 @@ f1_keywords:
 
 # LIFO inventory valuation method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An inventory valuation method in which inventory that is received most recently is considered sold or used first for accounting purposes.
 
 ## See also

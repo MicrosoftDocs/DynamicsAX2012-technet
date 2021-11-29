@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) About RB/SL depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 RB/SL reducing balance is a depreciation method that calculates depreciation amounts using the reducing balance depreciation method and the straight-line depreciation method, and then uses the greater of the two calculated depreciation amounts as the RB/SL reducing balance depreciation amount. When you set up a fixed asset depreciation profile and select **RB/SL (France)** in the **Method** field in the **Depreciation profiles** form, the depreciation of the fixed assets that are assigned to the depreciation profile is based on the service life of the assets. For more information about setting up depreciation profiles, see [Set up depreciation profiles](set-up-depreciation-profiles.md).

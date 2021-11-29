@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentAmountInvoiced Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Amount of Prepayment that has been invoiced as part of a Pickup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

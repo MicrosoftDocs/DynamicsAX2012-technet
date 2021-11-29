@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up an exchange rate date parameter in the Accounts receivable parameter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In accordance with Polish tax law, you must calculate an exchange rate based on the document date, posting date, or date of VAT register to post invoices that are issued in a foreign currency.

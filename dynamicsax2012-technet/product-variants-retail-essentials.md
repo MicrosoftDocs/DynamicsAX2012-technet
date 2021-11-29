@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product variants (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, you can define a product as a *product master*. After you define a product master, you can use dimensions, such as size, color, and style, to define product variants. For example, a particular shirt might have variants that are combinations of size, color, and style.

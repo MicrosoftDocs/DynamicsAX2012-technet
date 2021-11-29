@@ -14,6 +14,9 @@ f1_keywords:
 
 # application model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Within a single application layer, a model that includes a specific set of developer elements such as classes, tables, and forms.
 
 ## See also

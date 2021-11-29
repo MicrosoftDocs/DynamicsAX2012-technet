@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IBlankOperations Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IBlankOperations](iblankoperations-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

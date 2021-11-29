@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Define a Nested Data Contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Create a nested data contract class when you have a parameter that you want to reuse on many reports that are bound to a report data provider (RDP) class. An RDP class is an X++ class that is used to access and process data for a report. X++ classes are created in the AOT and an RDP class will be bound to a report by using the Visual Studio tools for Microsoft Dynamics AX.

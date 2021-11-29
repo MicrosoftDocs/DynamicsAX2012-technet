@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureActivated Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the event that is raised after a Feature is activated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.TrustedIdentityProviderSettingsFeature](microsoft-dynamics-retail-sp-commonfeatures-features-trustedidentityprovidersettingsfeature-namespace.md)  

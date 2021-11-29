@@ -32,6 +32,9 @@ ms.search.region: Denmark, France
 # View, modify, delete, or cancel a general budget reservation (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can view the details of a general budget reservation, including information about the vendor, items or services ordered, and budget specifics. You can also access the source documents that the reservation applies to.

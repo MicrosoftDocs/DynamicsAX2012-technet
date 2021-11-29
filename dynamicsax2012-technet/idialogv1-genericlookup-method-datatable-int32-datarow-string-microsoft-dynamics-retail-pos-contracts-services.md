@@ -15,6 +15,9 @@ dev_langs:
 
 # GenericLookup Method (DataTable, Int32, DataRow, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays generic lookup dialog box.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

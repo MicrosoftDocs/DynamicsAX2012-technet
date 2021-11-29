@@ -17,6 +17,9 @@ dev_langs:
 
 # Columns Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the column definition for the data table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

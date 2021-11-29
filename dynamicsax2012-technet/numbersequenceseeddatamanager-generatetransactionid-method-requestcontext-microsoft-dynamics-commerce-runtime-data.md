@@ -15,6 +15,9 @@ dev_langs:
 
 # GenerateTransactionId Method (RequestContext)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates a new transaction identifier formatted as "StoreId-TerminalId-SequenceNumber".
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

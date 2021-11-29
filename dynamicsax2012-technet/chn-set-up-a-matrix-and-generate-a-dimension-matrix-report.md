@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up a matrix and generate a dimension matrix report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Matrix dimension report** form to set up a dimension matrix that defines the sublevel dimensions for the selected dimension type. You can then generate the **Matrix dimension** report to view transaction details for the selected sublevel dimensions in the Chinese or horizontal format.

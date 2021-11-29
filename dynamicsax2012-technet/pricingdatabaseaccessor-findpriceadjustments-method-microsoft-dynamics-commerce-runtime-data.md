@@ -17,6 +17,9 @@ dev_langs:
 
 # FindPriceAdjustments Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all retail price adjustments matching the given product, channel price groups, currency, unit of measure, and date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

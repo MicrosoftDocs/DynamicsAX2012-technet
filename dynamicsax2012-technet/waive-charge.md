@@ -13,6 +13,9 @@ f1_keywords:
 
 # waive charge
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To withdraw the interest or fees originally owed by a party.
 
 ## See also

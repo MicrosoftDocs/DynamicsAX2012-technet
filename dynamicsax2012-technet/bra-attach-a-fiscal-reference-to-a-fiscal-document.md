@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Attach a fiscal reference to a fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Brazilian legal entities can submit their fiscal and ledger information as Sistema Público de Escrituração Digital (SPED) fiscal reports. These reports also contain information about fiscal references that link several fiscal documents. These references are reported in Notas fiscais eletrônicas (NF-e) that are issued by Brazilian legal entities.

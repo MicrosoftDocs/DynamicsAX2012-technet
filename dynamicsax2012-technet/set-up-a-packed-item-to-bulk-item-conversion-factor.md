@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a packed item to bulk item conversion factor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up the conversion factor for converting a packed item to a related bulk item. You must create the packed and bulk items before you can set up the conversion factor for them.

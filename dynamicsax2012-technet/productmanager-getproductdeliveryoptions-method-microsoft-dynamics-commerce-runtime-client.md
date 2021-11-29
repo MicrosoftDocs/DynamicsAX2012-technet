@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductDeliveryOptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the delivery options that are applicable to the given item and address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

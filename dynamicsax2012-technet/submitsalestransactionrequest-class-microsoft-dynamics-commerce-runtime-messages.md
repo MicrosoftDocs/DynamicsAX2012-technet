@@ -17,6 +17,9 @@ dev_langs:
 
 # SubmitSalesTransactionRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initiates a submit sales transaction request given the cart identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

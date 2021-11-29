@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Import an XSLT Transform 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic shows you how to import an XSLT transform in Microsoft Dynamics AX. After you import the XSLT, you can use it in the Application Integration Framework (AIF) pipeline. XSLTs are used to transform data in a request before it reaches the message queue.

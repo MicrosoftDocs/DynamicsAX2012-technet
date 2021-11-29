@@ -14,6 +14,9 @@ ms.search.region: Global
 # Modify a Service BOM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can record the history of an element in a service BOM. Every time that you update a BOM line, a history line is created in the **History** pane. The history line shows the current state of the BOM line.

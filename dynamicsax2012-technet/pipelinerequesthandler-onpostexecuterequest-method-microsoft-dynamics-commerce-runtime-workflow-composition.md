@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPostExecuteRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked after the handler for the request has returned.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

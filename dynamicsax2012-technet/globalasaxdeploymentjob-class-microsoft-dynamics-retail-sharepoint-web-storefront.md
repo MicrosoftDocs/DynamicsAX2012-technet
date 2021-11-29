@@ -17,6 +17,9 @@ dev_langs:
 
 # GlobalASAXDeploymentJob Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Job that installs the global.asax file in the web app. Note: There is no corresponding job that removes this file, as we really do not know if other features rely on this file and we do not want to remove stuff that is not ours.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

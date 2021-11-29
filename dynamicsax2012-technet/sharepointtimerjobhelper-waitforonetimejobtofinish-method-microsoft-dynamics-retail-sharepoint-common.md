@@ -17,6 +17,9 @@ dev_langs:
 
 # WaitForOnetimeJobToFinish Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Waits for the Job to finish.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

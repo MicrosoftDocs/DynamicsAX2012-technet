@@ -17,6 +17,9 @@ dev_langs:
 
 # GetConsolidatedPermission Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper method to get consolidated permission.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

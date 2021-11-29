@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Setup report (BankPaymIdTypesSetup\_NO) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Setup** report displays details of customer payments together with the payment ID type and method of payment that is used to make the customer payment. This report is used by accountants, accounting managers, accounting supervisors, accounts receivable centralized payments clerks, accounts receivable clerks, accounts receivable managers, collections agents, collections managers, compliance managers, and financial controllers. This report is used to inquire into the status of collections and invoice processes and cash processes to maintain invoice policies, cash policies, and collections policies.

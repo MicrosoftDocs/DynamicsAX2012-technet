@@ -13,6 +13,9 @@ f1_keywords:
 
 # project budget revision
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A change to a project budget that affects the current and remaining available budget funds.
 
 ## See also

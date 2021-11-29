@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Record Level Security and Outbound Documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Record-level security (RLS) enables you to restrict the information shown in reports and on forms. RLS also restricts the information that is sent from Application Integration Framework (AIF) to external systems.

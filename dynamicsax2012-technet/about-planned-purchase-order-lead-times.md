@@ -23,6 +23,9 @@ ms.search.region: Global
 # About planned purchase order lead times 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up purchase lead times on a vendor, a vendor trade agreement, an item's coverage settings, or an item. During master scheduling, Microsoft Dynamics AX searches for the purchase lead time according to the following priority:

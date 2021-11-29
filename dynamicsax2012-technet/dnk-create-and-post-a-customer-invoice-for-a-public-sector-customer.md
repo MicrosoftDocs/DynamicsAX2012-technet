@@ -14,6 +14,9 @@ ms.search.region: Denmark
 # (DNK) Create and post a customer invoice for a public sector customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales order** and **Posting invoice** forms to create and post a sales order invoice and to generate the invoice as an .xml file. The .xml file is then converted to the Offentlig Information Online Universal Business Language (OIOUBL) format. You can generate electronic invoices for customers for whom you have specified a European Article Numbering (EAN) number in the **EAN** field and selected the **eInvoice** check box in the **Customers** form.

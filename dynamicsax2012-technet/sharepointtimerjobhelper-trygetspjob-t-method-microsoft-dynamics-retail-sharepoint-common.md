@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetSPJob(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to get the SPJobDefinition by name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

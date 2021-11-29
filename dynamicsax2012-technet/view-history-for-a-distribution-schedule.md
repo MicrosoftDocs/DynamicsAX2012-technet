@@ -15,6 +15,9 @@ f1_keywords:
 # View history for a distribution schedule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Download history** form shows information about the jobs that were previously run for a selected distribution schedule. A run of a job is referred to as a session. Use the information in this form for troubleshooting. You can also run a session again from this form.

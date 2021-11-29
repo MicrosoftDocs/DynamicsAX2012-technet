@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPosCustomControlV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPosCustomControlV1](iposcustomcontrolv1-interface-microsoft-dynamics-retail-pos-contracts-ui.md) type exposes the following members.
 
 ## Methods

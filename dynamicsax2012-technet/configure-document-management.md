@@ -21,6 +21,9 @@ ms.search.region: Global
 # Configure document management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to configure document management for the first time. You can use document management, also known as document handling, to attach notes, documents, or document references to records. You can also use Office Add-ins for Microsoft Dynamics AX to integrate with document management and create Microsoft Word and Microsoft Excel documents or document templates that use Microsoft Dynamics AX data.

@@ -17,6 +17,9 @@ dev_langs:
 
 # UserSettingsOutOfRange Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throw exception if user settings does not match expected value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

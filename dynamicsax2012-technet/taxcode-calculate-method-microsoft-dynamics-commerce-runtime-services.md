@@ -17,6 +17,9 @@ dev_langs:
 
 # Calculate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates tax for this tax code
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

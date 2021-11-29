@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 User authentication.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

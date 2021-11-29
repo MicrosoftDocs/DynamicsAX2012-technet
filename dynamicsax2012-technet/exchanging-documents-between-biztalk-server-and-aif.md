@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Exchanging documents between BizTalk Server and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2009 included a specialized adapter that provided the ability to integrate with Microsoft BizTalk Server through Application Integration Framework (AIF). Microsoft Dynamics AX 2012 no longer includes this adapter. Instead, you can connect AIF with BizTalk by using the Windows Communication Framework (WCF)-based adapters that are included with AIF.

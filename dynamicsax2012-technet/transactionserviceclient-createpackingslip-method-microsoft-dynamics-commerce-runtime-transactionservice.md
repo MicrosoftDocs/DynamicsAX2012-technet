@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatePackingSlip Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates packing slip.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

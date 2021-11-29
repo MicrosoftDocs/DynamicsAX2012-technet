@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressDisplay Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The address web part allows displaying an en-us address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

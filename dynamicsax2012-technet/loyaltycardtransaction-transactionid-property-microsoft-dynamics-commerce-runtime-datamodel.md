@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the identifier of the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

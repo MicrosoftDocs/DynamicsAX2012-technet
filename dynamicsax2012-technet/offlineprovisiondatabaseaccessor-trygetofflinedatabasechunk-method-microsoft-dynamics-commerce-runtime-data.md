@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetOfflineDatabaseChunk Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populate the database metadata with partitions information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

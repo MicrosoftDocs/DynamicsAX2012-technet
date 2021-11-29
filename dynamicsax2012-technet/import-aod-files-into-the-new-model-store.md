@@ -15,6 +15,9 @@ f1_keywords:
 # Import AOD files into the new model store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Import the .aod file for the layer that you want to upgrade from the source system into the new model store.

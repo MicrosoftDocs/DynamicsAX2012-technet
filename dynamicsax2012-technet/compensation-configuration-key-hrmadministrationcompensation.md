@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Compensation configuration key (HRMAdministrationCompensation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Compensation** configuration key controls access to features that help you set up and maintain compensation information for Human resources.

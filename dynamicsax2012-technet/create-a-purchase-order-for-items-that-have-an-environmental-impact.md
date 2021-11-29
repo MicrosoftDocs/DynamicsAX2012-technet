@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a purchase order for items that have an environmental impact 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a purchase order that meets the criteria enabled in the **Environmental parameters** form, you must enter information on the **Environment** tab in the **Purchase order** form before you can post the purchase order.

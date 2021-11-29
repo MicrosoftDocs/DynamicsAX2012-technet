@@ -15,6 +15,9 @@ dev_langs:
 
 # LoggingService Constructor (String, String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [LoggingService](loggingservice-class-microsoft-dynamics-retail-sharepoint-common.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

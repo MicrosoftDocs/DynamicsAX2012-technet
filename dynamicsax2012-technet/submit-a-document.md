@@ -14,6 +14,9 @@ ms.search.region: Global
 # Submit a document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To submit a document to the workflow system for processing, click the **Submit** button in the form that you are working in. For example, to submit a purchase requisition, click the **Submit** button in the **Purchase requisitions** form.

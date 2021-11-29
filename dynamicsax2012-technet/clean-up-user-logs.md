@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Clean up user logs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **User log cleanup** form to delete user log information that is no longer needed.

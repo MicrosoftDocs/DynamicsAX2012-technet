@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Install-AXReportInstanceExtensions
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Install-AXReportInstanceExtensions
 
 If multiple instances of Microsoft SQL Server Reporting Services are running on the same computer, automates the process of integrating those instances with Microsoft Dynamics AX.

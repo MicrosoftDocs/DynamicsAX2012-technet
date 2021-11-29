@@ -13,6 +13,9 @@ f1_keywords:
 
 # smart rounding
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A marketing practice to use odd numbers that are marginally less than their nearest round number to set prices.
 
 ## See also

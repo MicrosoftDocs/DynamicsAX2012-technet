@@ -13,6 +13,9 @@ f1_keywords:
 
 # measure dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A dimension used to characterize the magnitude of a measurement.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderDeliveryOptionsServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the response containing delivery options computed at order level (i.e. common to all the line items).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

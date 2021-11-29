@@ -19,6 +19,9 @@ ms.search.region: Global
 # Handle policy rule violations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendor invoices are validated against the applicable vendor invoice policies when the invoices are posted using the **Vendor invoice** form, including when they are posted through the vendor self-service portal. The invoices are also validated when the **Policy violations** form is opened, and when the invoices are submitted to an approval workflow that includes a validation task.

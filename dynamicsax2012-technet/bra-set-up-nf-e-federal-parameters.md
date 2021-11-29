@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Set up NF-e federal parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up Nota Fiscal eletrônica (NF-e) web services, rejection codes, and schema to generate an NF-e. After you generate an NF-e, XML messages are generated and submitted to the Secretaria da Fazenda (SEFAZ).

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrgUnitConfiguration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the configuration for the current organization unit.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Transfer absence journals for approval 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Absence journals contain absence registrations for a specific worker for a specific period of time. When all absence registrations have been created for a worker for the current absence period, you can transfer that absence journal for that absence period to be approved. You can transfer your own absence journal for approval, or if you are an absence administrator, you can transfer another worker’s absence journal for approval. The absence administrator is the person in charge of the absence setup that is associated with a worker.

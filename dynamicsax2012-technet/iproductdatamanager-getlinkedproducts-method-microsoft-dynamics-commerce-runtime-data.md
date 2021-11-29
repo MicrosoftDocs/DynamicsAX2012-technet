@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLinkedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Given a set of product identifiers, return all linked products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

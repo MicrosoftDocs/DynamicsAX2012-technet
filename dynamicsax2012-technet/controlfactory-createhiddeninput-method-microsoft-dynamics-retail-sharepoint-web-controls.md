@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateHiddenInput Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a .NET HTML Hidden Input control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

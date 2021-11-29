@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create tax groups for service tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and manage sales tax groups that determine the calculation of service tax. For example, for a vendor or a customer, you can create a sales tax group that includes tax codes for service tax, E-cess, or SHE-cess. You can then attach the sales tax groups to service tax codes.

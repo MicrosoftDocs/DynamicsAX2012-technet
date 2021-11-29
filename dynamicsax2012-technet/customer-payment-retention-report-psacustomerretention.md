@@ -22,6 +22,9 @@ f1_keywords:
 # Customer payment retention report (PSACustomerRetention) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Customer payment retention** report to view a summary of all customer payment retention amounts for a customer, project contract, project, or billing rule, or for any combination of these criteria.

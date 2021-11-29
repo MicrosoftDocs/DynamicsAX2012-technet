@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadChangedProductsSession Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a session needed to read changed products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

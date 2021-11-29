@@ -17,6 +17,9 @@ dev_langs:
 
 # Email Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the e-mail address string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

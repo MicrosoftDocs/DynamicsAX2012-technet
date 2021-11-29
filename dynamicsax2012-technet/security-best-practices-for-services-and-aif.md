@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security best practices for services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 It is very important that you maintain data security when you use services and Application Integration Framework (AIF) to exchange data with other systems. Follow the security-related recommendations in this topic when you configure AIF. For more information about security and web services in AIF, see [Security architecture for Web services](security-architecture-for-web-services.md).

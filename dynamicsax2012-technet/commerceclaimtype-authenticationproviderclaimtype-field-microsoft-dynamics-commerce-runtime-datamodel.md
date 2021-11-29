@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthenticationProviderClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Authentication Provider Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

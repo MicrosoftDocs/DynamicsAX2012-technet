@@ -17,6 +17,9 @@ dev_langs:
 
 # ISalesOrderV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1 interface is the version 1.0 sales order interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

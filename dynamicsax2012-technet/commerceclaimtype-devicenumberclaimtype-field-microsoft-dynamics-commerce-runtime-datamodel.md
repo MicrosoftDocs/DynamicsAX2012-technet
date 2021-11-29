@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceNumberClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Device Number Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

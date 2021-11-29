@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create packaging material transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Create packing material transaction** form to create packaging material transactions for an invoiced sales order. You can review sales to customers in specific countries/regions, and also review the unit price for the material. Prices can be calculated and displayed with up to five decimal places.

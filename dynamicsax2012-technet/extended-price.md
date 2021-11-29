@@ -13,6 +13,9 @@ f1_keywords:
 
 # extended price
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The price of a quantity of product expressed in purchase units calculated from the sales unit price, multiplied by the product quantity in purchase units, divided by the sales unit quantity.
 
 ## See also

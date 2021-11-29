@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IUserAccessSystem Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IUserAccessSystem](iuseraccesssystem-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

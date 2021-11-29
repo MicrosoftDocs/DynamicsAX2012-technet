@@ -17,6 +17,9 @@ dev_langs:
 
 # Credential Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the authencation credential information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework](microsoft-dynamics-commerce-runtime-framework-namespace.md)  

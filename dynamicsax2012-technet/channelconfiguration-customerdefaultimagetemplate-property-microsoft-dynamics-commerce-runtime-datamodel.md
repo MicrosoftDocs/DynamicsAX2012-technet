@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerDefaultImageTemplate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default customer image template.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

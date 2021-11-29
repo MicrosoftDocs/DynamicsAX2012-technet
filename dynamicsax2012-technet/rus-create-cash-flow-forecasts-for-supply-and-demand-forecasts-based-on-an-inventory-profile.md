@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create cash flow forecasts for supply and demand forecasts based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create cash flow forecasts for supply and demand forecasts, based on an inventory profile. The vendor or customer inventory profile that is used to define the general ledger account depends on the inventory profile dimension that is specified on the forecast line. The general ledger account that the inventory movement for a forecast line is posted to depends on the value of the inventory profile dimension.

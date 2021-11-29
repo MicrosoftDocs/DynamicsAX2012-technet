@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCardTypeRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCardTypeRequestHandler](getcardtyperequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

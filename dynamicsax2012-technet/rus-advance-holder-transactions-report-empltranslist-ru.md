@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Advance holder transactions report (EmplTransList\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Advance holder transactions report displays the expense transactions of an employee and the amounts that are paid in advance to that employee. Accountants generate this report periodically or daily to review and monitor the advance transactions between an employee and the legal entity.

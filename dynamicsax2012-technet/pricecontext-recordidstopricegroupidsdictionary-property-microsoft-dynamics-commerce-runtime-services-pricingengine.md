@@ -17,6 +17,9 @@ dev_langs:
 
 # RecordIdsToPriceGroupIdsDictionary Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the translation between record ids and price group identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

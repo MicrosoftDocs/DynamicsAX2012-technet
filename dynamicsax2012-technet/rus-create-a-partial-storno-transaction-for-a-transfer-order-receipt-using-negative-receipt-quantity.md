@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create a partial storno transaction for a transfer order receipt using negative receipt quantity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a partial storno transaction by specifying part of the received quantity as a negative value in the **Receive now** field in the **Transfer orders** form.

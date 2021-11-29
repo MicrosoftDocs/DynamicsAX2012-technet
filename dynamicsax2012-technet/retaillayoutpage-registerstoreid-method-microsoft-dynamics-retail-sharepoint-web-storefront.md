@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterStoreId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Register the channel id that will be used for getting product price.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

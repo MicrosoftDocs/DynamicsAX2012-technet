@@ -17,6 +17,9 @@ dev_langs:
 
 # CartTenderLine Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cart tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

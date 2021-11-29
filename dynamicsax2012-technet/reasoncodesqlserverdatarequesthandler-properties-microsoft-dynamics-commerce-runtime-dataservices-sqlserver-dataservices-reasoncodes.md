@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReasonCodeSqlServerDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReasonCodeSqlServerDataRequestHandler](reasoncodesqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-reasoncodes.md) type exposes the following members.
 
 ## Properties

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Payroll cube (PayrollCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Payroll cube for Microsoft Dynamics AX is used to analyze data about earnings statements, pay statements, workers, positions, arrears, tax history, benefits, benefit accruals, and reversals. Analysis of payroll data is required for organizations to effectively manage payrolls and make decisions based on accurate information. This article provides details about the cube.

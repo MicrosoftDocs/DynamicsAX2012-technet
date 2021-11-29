@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InvalidTaxGroupNotification Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InvalidTaxGroupNotification](invalidtaxgroupnotification-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

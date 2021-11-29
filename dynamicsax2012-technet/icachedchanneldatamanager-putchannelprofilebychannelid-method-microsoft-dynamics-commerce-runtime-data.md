@@ -17,6 +17,9 @@ dev_langs:
 
 # PutChannelProfileByChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the channel profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About batch attributes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Batch attributes are characteristics of raw materials and finished products that make up inventory batches. Batch attributes can differ depending on several factors, such as environmental conditions or the quality of the raw materials used to produce the batch. The number and types of batch attributes used can vary widely from one industry to another.

@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveAt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes an element from the collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

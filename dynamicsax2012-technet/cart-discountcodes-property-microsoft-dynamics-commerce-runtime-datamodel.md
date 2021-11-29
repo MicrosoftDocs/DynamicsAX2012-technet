@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountCodes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets all the discount/promotion codes currently active on this cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

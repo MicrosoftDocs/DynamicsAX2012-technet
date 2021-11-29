@@ -17,6 +17,9 @@ dev_langs:
 
 # ICachedProductDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Decoration of the product data manager interface for cache accessors.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

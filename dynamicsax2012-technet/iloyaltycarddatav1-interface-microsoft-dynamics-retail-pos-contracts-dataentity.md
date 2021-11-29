@@ -17,6 +17,9 @@ dev_langs:
 
 # ILoyaltyCardDataV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loyalty card data interface version 1.0.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -16,6 +16,9 @@ f1_keywords:
 # Specify Role Center web site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX and the Enterprise Portal framework include customizable home pages called Role Centers. Role Centers display specific data, reports, alerts, and common tasks that are associated with a user's role in the organization. Users can access Role Centers from the Microsoft Dynamics AX client or from an Enterprise Portal web site.

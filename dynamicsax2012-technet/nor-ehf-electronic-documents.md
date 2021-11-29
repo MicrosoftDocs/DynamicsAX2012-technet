@@ -16,6 +16,9 @@ ms.search.region: Norway
 # (NOR) EHF electronic documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 You can send customer invoices, free text invoices, or collection letters to Norwegian public sector organizations as electronic documents in the Elektronisk HandelsFormat (EHF) format. In Microsoft Dynamics AX, the Application Integration Framework (AIF) is used to generate the electronic documents as XML files, which are then converted to EHF files.

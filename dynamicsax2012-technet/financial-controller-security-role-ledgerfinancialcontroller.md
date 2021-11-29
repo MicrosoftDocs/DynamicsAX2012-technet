@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Financial controller security role (LedgerFinancialController) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Financial controller security role represents a user who reviews the performance of all accounting processes and enables those processes.

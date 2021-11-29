@@ -17,6 +17,9 @@ dev_langs:
 
 # LanguageId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the language identifier for the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

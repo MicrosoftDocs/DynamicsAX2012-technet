@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Configuring an inbound integration port for catalog import 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create and maintain procurement catalogs on your procurement site, you can allow vendors to submit catalog maintenance request (CMR) files by using the vendor self-service portal. Before a vendor can use the vendor self-service portal to import catalog files, you must set up an integration port by using Application Integration Framework (AIF). Only users who are assigned to the System Administrator role can configure integration ports.

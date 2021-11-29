@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add values to an enumerate type batch attribute 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to add values to an enumerate type batch attribute. Enumerate values follow a particular sequence or pattern. For example, an attribute you define as Color might have enumerate values of Green, Yellow, Blue, and Red.

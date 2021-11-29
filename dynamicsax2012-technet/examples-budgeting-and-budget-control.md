@@ -17,6 +17,9 @@ ms.search.region: Global
 # Examples: Budgeting and budget control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Examples 1 through 3 for budgeting and budget control show the balances and results for budget register entries that have the following budget types: **Original budget**, **Transfer**, or **Revision**. Examples 4 and 5 describe manual budget reservations and how to set up a budget group.

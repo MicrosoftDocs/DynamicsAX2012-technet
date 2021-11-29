@@ -13,6 +13,9 @@ f1_keywords:
 
 # formula
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A numeric relationship among production process inputs and production process outputs.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # foreign currency revaluation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A procedure for recording revalued assets and liabilities that account for differences in exchange rates between an original transaction currency unit and accounting currency unit conversion and a period end transaction currency and accounting currency conversion.
 
 ## See also

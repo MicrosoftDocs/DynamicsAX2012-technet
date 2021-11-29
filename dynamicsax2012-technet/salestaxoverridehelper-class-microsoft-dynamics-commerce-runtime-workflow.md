@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTaxOverrideHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds or updates a tax override.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

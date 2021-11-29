@@ -13,6 +13,9 @@ f1_keywords:
 
 # quotation currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The currency unit in an exchange rate calculation.
 
 ## See also

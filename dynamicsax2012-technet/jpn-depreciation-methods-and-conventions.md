@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Depreciation methods and conventions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The following topics provide information about the depreciation methods and the conventions that are used to depreciate fixed assets.

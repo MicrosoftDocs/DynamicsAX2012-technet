@@ -18,6 +18,9 @@ ms.search.region: Global
 # Post timesheet hours and view distributions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use the **Unposted timesheets** list page to preview the distributions for a timesheet, and to post hours from timesheets that have been approved. Approved timesheets appear in the unposted timesheets list if manual posting of timesheet hours is specified in the **Project management and accounting parameters** form, or if automatic posting failed.

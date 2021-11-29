@@ -17,6 +17,9 @@ dev_langs:
 
 # SharePointTraceListenerSettingsFeatureEventReceiver Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.SharePointTraceListenerSettingsFeature](microsoft-dynamics-retail-sp-commonfeatures-features-sharepointtracelistenersettingsfeature-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Storefront (in Microsoft.Dynamics.Retail.SP.Web.Storefront.dll)
 

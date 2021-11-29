@@ -18,6 +18,9 @@ ms.search.region: United Kingdom
 # (GBR) Create and submit an Intrastat report in the CSV02 file format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can now create and submit your Intrastat reports in the new CSV02 file format, which is an updated version of the CSV format. The Intrastat declaration is used to report the movement of goods between European Union (EU) member states. British companies can use the **Intrastat** form to generate an Intrastat declaration in CSV format for submittal to Her Majesty’s Revenue and Customs (HMRC) authority. In CSV02, all string characters are in uppercase. The values of all amounts are rounded up to the nearest whole number. For more information, see [About Intrastat](about-intrastat.md).

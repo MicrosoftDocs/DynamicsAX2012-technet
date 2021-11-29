@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerPaymentService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates tender line operations related to customer account payments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

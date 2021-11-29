@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductProperty Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [(Default Namespace)](default-namespace-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector (in Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.dll)
 

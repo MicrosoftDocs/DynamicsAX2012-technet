@@ -24,6 +24,9 @@ ms.search.region: USA
 # Benefit setup tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up current and future benefits that workers and their dependents and beneficiaries can receive, and also how to maintain payroll information for benefits. Examples of benefits include medical insurance, retirement investments, workers’ compensation plans, and parking benefits.

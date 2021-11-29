@@ -14,6 +14,9 @@ ms.search.region: Global
 # Identify the posting search sequence 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, posting specifies the current item number, account, and sales tax code. If there is no specification for this combination, posting for the current item number and account is used, but without specification of the sales-tax code. Microsoft Dynamics AX then continues to search in the posting table until it finds a posting that matches the current transaction.

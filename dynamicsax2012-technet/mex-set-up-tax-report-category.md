@@ -17,6 +17,9 @@ ms.search.region: Mexico
 # (MEX) Set up tax report category 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate sales tax and purchase tax reports to prepare, verify, and reconcile VAT and income tax declarations. To generate the reports that comply with the current tax ID configuration structure, you must set up report category codes.

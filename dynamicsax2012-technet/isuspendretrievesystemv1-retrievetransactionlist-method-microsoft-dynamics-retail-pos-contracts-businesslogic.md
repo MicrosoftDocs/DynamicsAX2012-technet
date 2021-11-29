@@ -17,6 +17,9 @@ dev_langs:
 
 # RetrieveTransactionList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the list of transactions from a store.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

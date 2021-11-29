@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Download orders from online marketplaces 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When customers purchase the products that you list for sale in online marketplaces, Commerce Services for Microsoft Dynamics ERP creates the sales orders online. Microsoft Dynamics AX downloads the orders automatically according to the synchronization schedule. By default, Microsoft Dynamics AX synchronizes with Commerce Services every 15 minutes. Alternately, you can synchronize orders on demand. Either way, the downloaded orders become part of the regular sales order process in Microsoft Dynamics AX.

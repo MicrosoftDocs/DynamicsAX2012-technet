@@ -17,6 +17,9 @@ dev_langs:
 
 # ToString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Object.ToString()](https://technet.microsoft.com/library/7bxwbwt2\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models](microsoft-dynamics-retail-ecommerce-sdk-core-models-namespace.md)  

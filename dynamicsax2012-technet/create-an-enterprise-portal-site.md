@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create an Enterprise Portal site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create a site for Enterprise Portal for Microsoft Dynamics AX. After you create the site, you can configure it as an internal Microsoft Dynamics AX site, an employee self-service portal, a customer self-service portal, or a vendor self-service portal. For more information about how to configure the various kinds of portals, see the following topics:

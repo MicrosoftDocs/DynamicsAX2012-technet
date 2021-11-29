@@ -16,6 +16,9 @@ ms.search.region: Global
 # Delink from or delete a collaboration workspace (Project) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a project no longer requires a collaboration workspace, you can either remove its association with the workspace or delete the collaboration workspace entirely.

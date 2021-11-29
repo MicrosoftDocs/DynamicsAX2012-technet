@@ -20,6 +20,9 @@ dev_langs:
 
 # RelationType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 RelationType enum linked to the AX DIRPARTYTABLE
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

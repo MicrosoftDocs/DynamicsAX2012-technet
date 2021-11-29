@@ -18,6 +18,9 @@ f1_keywords:
 # (DEU) DTAZV report (VendOutCoveringLetter\_DEDTAZV) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **DTAZV (DE)** report prints the cover letter for an electronic vendor payment. This report is printed when you are posting the payment journal. This report is typically used by credit managers and collections managers.

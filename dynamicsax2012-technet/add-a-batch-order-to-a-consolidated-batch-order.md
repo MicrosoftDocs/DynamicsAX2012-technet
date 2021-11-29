@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add a batch order to a consolidated batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to add a batch order to a consolidated order. This procedure assumes that both the batch order and the consolidated order already exist.

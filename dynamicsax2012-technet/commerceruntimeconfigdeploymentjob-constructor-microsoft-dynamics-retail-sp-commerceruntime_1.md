@@ -15,6 +15,9 @@ dev_langs:
 
 # CommerceRuntimeConfigDeploymentJob Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the CommerceRuntimeConfigDeploymentJob class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime](microsoft-dynamics-retail-sp-commerceruntime-namespace.md)  

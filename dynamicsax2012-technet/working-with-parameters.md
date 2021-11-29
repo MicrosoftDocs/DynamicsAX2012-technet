@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with Parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of parameters and explains how to work with parameters in a report.

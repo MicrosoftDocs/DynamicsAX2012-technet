@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create Commerce Runtime Workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The commerce runtime includes workflow business logic that enforces rules for your business. For example, after a customer places an order, you could use workflow to make sure there is sufficient quantity available, validate the tax calculation, check for credit approval, and then place the order. You can use the workflows that are included in commerce runtime or create your own.

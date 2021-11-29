@@ -17,6 +17,9 @@ dev_langs:
 
 # SortIndex Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the index of the sort.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

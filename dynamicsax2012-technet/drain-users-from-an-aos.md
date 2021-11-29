@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Drain users from an AOS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to close client sessions that are connected to an instance of Application Object Server (AOS) for Microsoft Dynamics AX. When you close client sessions without force, you are said to drain users. Administrators drain users from an AOS instance before they perform maintenance on the server or take it offline.

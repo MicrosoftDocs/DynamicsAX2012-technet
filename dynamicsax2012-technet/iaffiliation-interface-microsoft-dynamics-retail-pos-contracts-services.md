@@ -17,6 +17,9 @@ dev_langs:
 
 # IAffiliation Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The default implementation has not been finished yet. Currently implementated by AffiliationItem for edit customer and transaciton affiliation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

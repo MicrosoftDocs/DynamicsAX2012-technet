@@ -15,6 +15,9 @@ ms.search.region: Global
 # About active versions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Active versions are the only versions that the system uses outside of the bill of materials (BOM) functionality. **Production control**, for example, uses only active versions. You can also set up version dates by using the **BOM designer** form.

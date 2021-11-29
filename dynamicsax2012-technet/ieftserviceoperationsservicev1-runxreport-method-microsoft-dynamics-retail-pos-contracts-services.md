@@ -17,6 +17,9 @@ dev_langs:
 
 # RunXReport Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Run bank X Report
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # equity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The net worth of an organization after deducting liabilities from assets.
 
 ## See also

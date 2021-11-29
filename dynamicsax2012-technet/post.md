@@ -13,6 +13,9 @@ f1_keywords:
 
 # post
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To record the monetary value of an economic event in a specific account, or to summarize and reclassify general and subsidiary journal account entries into general and subsidiary ledger account entries.
 
 ## See also

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TrustedIdentityProviderSettingsFeatureEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TrustedIdentityProviderSettingsFeatureEventReceiver](trustedidentityprovidersettingsfeatureeventreceiver-class-microsoft-dynamics-retail-sp-commonfeatures-features-trustedidentityprovidersettingsfeature.md) type exposes the following members.
 
 ## Methods

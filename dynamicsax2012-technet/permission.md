@@ -13,6 +13,9 @@ f1_keywords:
 
 # permission
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 One or more securable object permissions that secure access to logical units of application data and functionality.
 
 ## See also

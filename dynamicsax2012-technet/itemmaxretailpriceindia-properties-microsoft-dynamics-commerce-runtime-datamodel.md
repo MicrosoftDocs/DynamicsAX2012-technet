@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemMaxRetailPriceIndia Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemMaxRetailPriceIndia](itemmaxretailpriceindia-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

@@ -22,6 +22,9 @@ dev_langs:
 
 # DiscountLineType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the different types of discount lines.
 
 Maps to base enum RetailDiscountOrigin in AX.

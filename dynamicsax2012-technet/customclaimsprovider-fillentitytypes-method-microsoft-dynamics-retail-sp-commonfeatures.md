@@ -17,6 +17,9 @@ dev_langs:
 
 # FillEntityTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills the entity types.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

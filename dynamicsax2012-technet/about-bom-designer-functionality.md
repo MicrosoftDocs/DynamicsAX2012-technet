@@ -15,6 +15,9 @@ ms.search.region: Global
 # About BOM designer functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Designer** form to design and work with bill-of-material (BOM) tree structures. The designer graphically displays the BOM structure. You can select different configurations and decide what information you want to display on the lines of the tree.

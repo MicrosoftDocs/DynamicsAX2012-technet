@@ -17,6 +17,9 @@ dev_langs:
 
 # FacebookSecurityTokenServiceConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A custom SecurityTokenServiceConfiguration implementation for Facebook.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

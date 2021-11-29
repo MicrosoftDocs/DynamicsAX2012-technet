@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfigurationErrors Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class container for all error codes resulting from configuration of the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

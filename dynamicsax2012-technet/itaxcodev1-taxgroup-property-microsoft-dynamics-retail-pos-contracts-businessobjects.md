@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The identifier for the TaxGroup that the tax code belongs to.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Define budget exchange rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can define currency exchange rates between currency pairs for the **Budget** exchange rate type, which is already set up. For more information, see [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).

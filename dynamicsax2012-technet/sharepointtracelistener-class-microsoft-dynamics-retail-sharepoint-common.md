@@ -17,6 +17,9 @@ dev_langs:
 
 # SharePointTraceListener Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Directs tracing to a specific class that writes to the Sharepoint ULS (Unified Logging System).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

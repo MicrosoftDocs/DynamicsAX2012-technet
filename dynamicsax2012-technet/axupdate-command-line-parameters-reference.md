@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AXUpdate command line parameters reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you run the AXUpdate.exe, by default it runs the Update Setup Wizard. This wizard has a graphical user interface (GUI) that prompts you for required information. You can also run AXUpdate.exe at a command prompt, in silent mode. When AXUpdate.exe runs in silent mode, there is no GUI. Instead, you must supply all the required information at the command prompt when you start AXUpdate.exe.

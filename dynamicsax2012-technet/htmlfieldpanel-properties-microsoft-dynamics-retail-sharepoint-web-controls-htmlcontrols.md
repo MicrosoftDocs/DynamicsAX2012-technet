@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlFieldPanel Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlFieldPanel](htmlfieldpanel-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Properties

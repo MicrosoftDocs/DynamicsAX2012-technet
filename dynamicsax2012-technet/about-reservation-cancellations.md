@@ -20,6 +20,9 @@ ms.search.region: Global
 # About reservation cancellations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can cancel reservations on items and orders in, for example, the following circumstances:

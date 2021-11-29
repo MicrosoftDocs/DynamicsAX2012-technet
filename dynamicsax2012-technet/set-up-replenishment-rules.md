@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up replenishment rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can create replenishment rules to define multiple parameters for replenishment. Rules can apply to specific retail channels or specific replenishment hierarchies. The default weight and default percentage that are used in the replenishment rules are based on the replenishment weight that is defined on the **Retail** tab in the **Warehouses** form.

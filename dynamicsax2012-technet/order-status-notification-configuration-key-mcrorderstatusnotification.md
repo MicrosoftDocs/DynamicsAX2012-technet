@@ -15,6 +15,9 @@ f1_keywords:
 # Order status notification configuration key (MCROrderStatusNotification) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Order status notification** configuration key controls the processing of automatic notification and cancellation events for delayed orders in the **Call center** module.

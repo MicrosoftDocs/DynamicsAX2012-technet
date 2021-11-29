@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the identifier of the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

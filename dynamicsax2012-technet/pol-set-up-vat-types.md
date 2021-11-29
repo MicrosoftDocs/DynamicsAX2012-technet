@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up VAT types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Polish accounting, the VAT register report forms the basis for reporting taxes to the tax authorities. VAT registers are printed regularly for reporting periods, usually every month. The reports must be printed on paper and signed by one or more company authorities, such as the chief accountant or chief financial officer. These reports are used as the basis for the monthly VAT 7 tax declaration.

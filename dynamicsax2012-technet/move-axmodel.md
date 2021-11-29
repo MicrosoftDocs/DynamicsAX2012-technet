@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Move-AXModel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Move-AXModel
 
 Moves the content from one model in the Microsoft Dynamics AX model store to another model in the same layer.

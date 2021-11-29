@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up intra-community VAT transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you purchase products from countries/regions in the European Union, the payable value-added tax (VAT) must be paid to the tax authority in the VAT period that includes the document date. The document date is the date on which the sales invoice is issued. You can deduct the receivable VAT only after the products are received and the corresponding receipt document is posted.

@@ -14,6 +14,9 @@ f1_keywords:
 # Budget plan audit report (BudgetPlanBudgetTransAuditReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to verify that the correct budget plan lines were used to generate the budget register entries. You can also determine whether the budget plan lines or the budget register entries have changed since the budget register entries were generated. The report lists revenue amounts and expense amounts for financial dimensions across budget plans and budget register entries. The report can be grouped and subtotaled by using a summary option.

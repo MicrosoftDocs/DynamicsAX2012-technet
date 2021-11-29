@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PagedResult(TEntity) Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PagedResult\<TEntity\>](pagedresult-tentity-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

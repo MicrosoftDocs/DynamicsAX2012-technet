@@ -18,6 +18,9 @@ ms.search.region: Sweden
 # (SWE) Set up the BG direct debit method of payment for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Customers** form to set up a Bank giro (BG) direct debit method of payment for an existing or new customer.

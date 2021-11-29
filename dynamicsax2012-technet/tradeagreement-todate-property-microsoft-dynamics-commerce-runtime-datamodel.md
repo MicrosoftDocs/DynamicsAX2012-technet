@@ -17,6 +17,9 @@ dev_langs:
 
 # ToDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the ending date when this rule becomes inactive.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

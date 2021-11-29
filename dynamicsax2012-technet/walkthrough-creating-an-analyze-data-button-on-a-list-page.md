@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating an Analyze Data Button on a List Page 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use Power View to create interactive ad-hoc reports in Microsoft Dynamics AX. Several list pages have an **Analyze data** button that launches a Power View report designer. The Power View report designer connects to an Analysis Cube and allows you to drag and drop fields for quick analysis. This topic describes how to add an **Analyze data** button to additional list pages.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # use tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An excise tax levied on products in the United States where a sales tax is not levied.
 
 ## See also

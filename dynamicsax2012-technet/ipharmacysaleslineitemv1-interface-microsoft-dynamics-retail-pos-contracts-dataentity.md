@@ -17,6 +17,9 @@ dev_langs:
 
 # IPharmacySalesLineItemV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IPharmacySalesLineItem interface version 1.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

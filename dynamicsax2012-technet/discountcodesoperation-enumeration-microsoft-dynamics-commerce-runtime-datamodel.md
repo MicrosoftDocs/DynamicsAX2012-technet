@@ -20,6 +20,9 @@ dev_langs:
 
 # DiscountCodesOperation Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the operations on discount codes in shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

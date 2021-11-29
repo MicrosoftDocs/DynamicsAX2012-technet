@@ -27,6 +27,9 @@ dev_langs:
 
 # ProductAttributeValueSource Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The product attribute value source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

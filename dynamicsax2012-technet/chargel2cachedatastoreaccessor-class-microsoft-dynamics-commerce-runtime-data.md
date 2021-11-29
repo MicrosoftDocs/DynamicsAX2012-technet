@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeL2CacheDataStoreAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Level 2 cache data accessor implementation for the charge data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

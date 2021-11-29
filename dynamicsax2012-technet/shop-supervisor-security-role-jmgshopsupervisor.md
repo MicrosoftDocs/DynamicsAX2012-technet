@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Shop supervisor security role (JmgShopSupervisor) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Shop supervisor security role represents a user who ensures the day-to-day execution of orders/jobs so Machine operators know what to work on, who is available and can respond to the main requests from Machine operators.

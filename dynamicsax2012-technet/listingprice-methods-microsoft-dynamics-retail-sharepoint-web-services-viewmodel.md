@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ListingPrice Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ListingPrice](listingprice-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

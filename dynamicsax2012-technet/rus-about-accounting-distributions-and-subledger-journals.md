@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) About accounting distributions and subledger journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Subledger journal lines are accounting entries that are posted to the general ledger by using the general journal. You can generate subledgers from source documents such as invoices, packing slips, and picking lists for customers and vendors. Before you post the voucher information to the general ledger, you can view or modify subledger journals by using the distribution method. This method lets you allocate posting amounts between multiple financial dimensions, and change the default ledger account number or financial dimension values based on user permissions. Distributions serve as an interface to the subledger journals and only contain one side of the accounting entry.

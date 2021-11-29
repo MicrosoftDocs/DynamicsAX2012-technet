@@ -14,6 +14,9 @@ ms.search.region: Global
 # Perform an export or import consolidation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In an export or import consolidation, the subsidiary legal entities are in different databases than the consolidated legal entity. The subsidiary data is exported to files that are created automatically. Those files are then imported into the database of the consolidated legal entity.

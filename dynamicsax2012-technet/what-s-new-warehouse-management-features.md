@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Warehouse management features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A new module, **Warehouse management**, has been added in Microsoft Dynamics AX 2012 R3. This topic is a high-level overview of the feature areas that are included in the new module, and it also lists the new Warehouse management features that were added in Microsoft Dynamics AX 2012 R3 Cumulative Update 8.

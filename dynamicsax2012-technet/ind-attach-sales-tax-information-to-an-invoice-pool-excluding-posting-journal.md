@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Attach sales tax information to an Invoice pool excluding posting journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

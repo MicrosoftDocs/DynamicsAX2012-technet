@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemUnitConversion Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item unit conversion given the sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

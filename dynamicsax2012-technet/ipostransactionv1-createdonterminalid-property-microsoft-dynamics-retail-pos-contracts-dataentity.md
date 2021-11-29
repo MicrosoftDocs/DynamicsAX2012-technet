@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatedOnTerminalId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the original terminal that the transaction was created on, if the transaction was transferred from another terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

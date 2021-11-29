@@ -17,6 +17,9 @@ ms.search.region: Global
 # View opportunity records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the **Opportunities** page, you can view a list of opportunity records. You can also view detailed information about a specific opportunity record.

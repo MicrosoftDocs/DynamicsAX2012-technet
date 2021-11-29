@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets granularity of item selection to search for (i.e. single, group, all).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXModelManifest
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXModelManifest
 
 Retrieves the properties of a model file.

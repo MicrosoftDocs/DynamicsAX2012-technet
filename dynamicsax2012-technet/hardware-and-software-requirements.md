@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Hardware and software requirements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For up-to-date hardware and software requirements for Microsoft Dynamics AX, download the [system requirements document](https://go.microsoft.com/fwlink/?linkid=165377).

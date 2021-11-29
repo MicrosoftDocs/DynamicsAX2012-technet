@@ -17,6 +17,9 @@ dev_langs:
 
 # DeliveryDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets os sets the delivery date.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

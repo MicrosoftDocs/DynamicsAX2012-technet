@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up transportation management engines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 To calculate rates, you must manually create one or more transportation management engines, or automatically initialize the base engine data. In Microsoft Dynamics AX 2012 R3, you can search for available shipment rates based on information such as travel distance or zones in a region. The search criteria are interpreted by transportation management engines that calculate the available rates.

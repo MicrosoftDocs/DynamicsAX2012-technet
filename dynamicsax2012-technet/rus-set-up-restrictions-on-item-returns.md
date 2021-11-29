@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up restrictions on item returns 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Released product details**, **Retail product hierarchy**, and **Permission groups** forms to set up parameters that determine whether to reject the return of nonreturnable items for Retail and point of sale (POS). These items can belong to specific categories of items such as medicinal drugs or undergarments.

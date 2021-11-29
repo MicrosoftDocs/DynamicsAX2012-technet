@@ -17,6 +17,9 @@ f1_keywords:
 # (CHE) Payment advice report (VendOutPaymAdvice\_CHDTA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment advice** report prints payment advice for vendor payments when you post a payment journal. The vendor payments that are included in this report are made by using the **DTA (CH)** export format. You must select **DTA (CH)** in the **Export format** field in the **Generate payments** form. This report is typically used by accounts payable payments clerks to maintain vendor payments.

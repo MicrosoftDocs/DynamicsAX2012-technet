@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the new Reporting Services instance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can install multiple instances of Microsoft SQL Server Reporting Services on the same computer. Each instance will have its own report server database, configuration files, and virtual directories. One instance can be the default instance. All other instances must be named instances. A server can run multiple instances of Reporting Services at the same time, and each instance runs independently of the other instances.

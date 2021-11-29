@@ -17,6 +17,9 @@ dev_langs:
 
 # EFTServiceOperations Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Bank operations service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

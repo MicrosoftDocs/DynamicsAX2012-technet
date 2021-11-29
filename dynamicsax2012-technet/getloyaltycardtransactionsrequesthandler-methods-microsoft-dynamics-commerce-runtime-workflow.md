@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetLoyaltyCardTransactionsRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetLoyaltyCardTransactionsRequestHandler](getloyaltycardtransactionsrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

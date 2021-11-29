@@ -14,6 +14,9 @@ dev_langs:
 # Example: Read Action 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes sample inbound and outbound messages for the read action in Application Integration Framework (AIF) document services. The read action retrieves records that have specific entity key values that you specify in the inbound message. All of the fields are returned for the selected records.

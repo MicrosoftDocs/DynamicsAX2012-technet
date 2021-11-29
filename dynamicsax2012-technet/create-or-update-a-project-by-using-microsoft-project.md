@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create or update a project by using Microsoft Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to use Microsoft Project to manage some aspects of a project that is created or maintained in Microsoft Dynamics AX. Projects can be created and managed in either program. The program that you use to manage a project does not have to be the same program that you use to create the project.

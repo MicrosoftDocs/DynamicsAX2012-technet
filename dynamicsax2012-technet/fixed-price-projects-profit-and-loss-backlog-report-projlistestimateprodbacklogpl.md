@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed-price projects - profit and loss backlog report (ProjListEstimateprodBacklogPL) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to create a profit and loss backlog report. The profit and loss backlog provides an overview of how much profit remains to be posted to profit and loss accounts for the current estimate projects. The profit and loss backlog is created when the accumulated amount is subtracted from the total estimate amount.

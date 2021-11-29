@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) About fiscal documents and the fiscal document framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A fiscal document is a legal document that registers the transfer of ownership of an item or service that is provided by a fiscal establishment (issuer) to a person or another fiscal establishment (customer, vendor, subsidiary, or branch). A fiscal document is used to register taxes.

@@ -16,6 +16,9 @@ f1_keywords:
 # (ESP) Spanish journal list report (LedgerJournalizeReport\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Spanish journal list** report displays the Spanish journal list. This report contains all journalized transactions and is sorted by date and journal number. This report is used to review the status of general ledger processes. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, accounting supervisors, and financial controllers.

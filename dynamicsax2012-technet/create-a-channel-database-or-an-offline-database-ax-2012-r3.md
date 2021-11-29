@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a channel database or an offline database (AX 2012 R3) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create retail channel databases and offline databases by using the Retail Channel Configuration Utility.

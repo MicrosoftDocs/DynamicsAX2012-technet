@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Full feature set configuration key (RetailNonSMB) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Full feature set** configuration key controls **Retail** access to all modules in Microsoft Dynamics AX and access to all **Retail** channels in the **Retail** module. If this configuration key is not selected, access is limited to the **Retail essentials** module with traditional brick-and-mortar channel management.

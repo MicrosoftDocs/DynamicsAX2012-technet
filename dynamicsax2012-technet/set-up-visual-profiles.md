@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up visual profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A visual profile contains basic information that determines the appearance of Microsoft Dynamics AX for Retail POS registers. This topic explains how to use the **POS visual profiles** form to select the POS application and the colors or pictures that are visible on the register.

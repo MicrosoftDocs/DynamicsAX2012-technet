@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate, print, and export a traditional financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you set up a specific financial statement as described in [Design the rows and columns of a traditional financial statement](design-the-rows-and-columns-of-a-traditional-financial-statement.md), you can generate and print a traditional financial statement and export the results to various kinds of export files.

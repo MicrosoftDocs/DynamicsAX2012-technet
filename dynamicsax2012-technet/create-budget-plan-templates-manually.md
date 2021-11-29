@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create budget plan templates manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create budget plan templates for Microsoft Excel and Microsoft Word. After you create budget plan templates, users can create Excel worksheets and Word justification documents that are linked to the budget plan tables in Microsoft Dynamics AX. For information about how to set up template folders and templates, see [Key tasks: Configure budget planning and set up budget planning processes](key-tasks-configure-budget-planning-and-set-up-budget-planning-processes.md). For information about how to work with worksheets and justifications in budget plans, see [Key tasks: Create and process budget plans](key-tasks-create-and-process-budget-plans.md).

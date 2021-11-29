@@ -14,6 +14,9 @@ f1_keywords:
 
 # accrual accounting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting method that recognizes revenues when they are earned and expenses when they are incurred, regardless of when they are received or paid.
 
 ## See also

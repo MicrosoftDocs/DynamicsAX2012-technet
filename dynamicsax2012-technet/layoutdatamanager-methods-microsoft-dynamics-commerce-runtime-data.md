@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LayoutDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LayoutDataManager](layoutdatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

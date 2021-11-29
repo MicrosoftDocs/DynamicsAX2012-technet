@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeActivity Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a employee activities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

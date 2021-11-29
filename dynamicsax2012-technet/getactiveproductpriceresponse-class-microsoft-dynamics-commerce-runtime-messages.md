@@ -17,6 +17,9 @@ dev_langs:
 
 # GetActiveProductPriceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response from getting the active product prices for items.
 
 This contains three prices for an item: Base Price: Base sales price on an item Trade Agreement Price: Price defined by trade agreements Price Adjustment Price: Price defined by price adjustments, if better than trade agreements.

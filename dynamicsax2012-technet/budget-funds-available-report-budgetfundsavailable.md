@@ -14,6 +14,9 @@ f1_keywords:
 # Budget funds available report (BudgetFundsAvailable) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Budget funds available** report displays totals grouped by budget model and dimension values for actual expenditures, budget revisions, encumbrances, pre-encumbrances, and the budget funds that are available. The totals for the budget funds that are available are determined by the budget funds available calculation in the **Budget control configuration** form.

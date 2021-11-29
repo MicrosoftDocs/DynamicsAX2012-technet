@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductPricesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response containing the product prices which were calculated (and possibly updated).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

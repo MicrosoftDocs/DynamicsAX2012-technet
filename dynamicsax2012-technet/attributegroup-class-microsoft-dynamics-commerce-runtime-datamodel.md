@@ -18,6 +18,9 @@ dev_langs:
 
 # AttributeGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an attribute group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

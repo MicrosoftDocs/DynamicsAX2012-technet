@@ -14,6 +14,9 @@ f1_keywords:
 # Check ledger transactions report (LedgerCheckTrans) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view ledger transaction amounts when the sum of the amounts is not zero. The details of ledger transactions for which a difference in amounts exists will be printed. The report displays the voucher number, transaction date, and difference in amounts.

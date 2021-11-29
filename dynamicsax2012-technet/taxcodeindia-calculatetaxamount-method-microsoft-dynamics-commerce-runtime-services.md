@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateTaxAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates tax for this code for the line item.
 
 Updates the line item by adding a new Tax Item.

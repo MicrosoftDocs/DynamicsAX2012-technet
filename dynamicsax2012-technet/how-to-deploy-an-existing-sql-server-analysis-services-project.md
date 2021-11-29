@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Deploy an Existing SQL Server Analysis Services Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can deploy and process Analysis cubes by using the Analysis Services project wizard in Microsoft Dynamics AX) or by using SQL Server Business Intelligence Development Studio (BIDS).

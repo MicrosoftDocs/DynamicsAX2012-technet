@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up operations for production 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Operations represent the tasks that are required to produce items in your production. To set up operations, you must know what task or activity is being completed, the order of the process and operation priorities, and which and how many resources perform the operation.

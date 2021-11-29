@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateOnlineChannelPublishStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Update the publishing status of the online channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

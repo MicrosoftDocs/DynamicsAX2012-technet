@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add or Delete a Field Group in a Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you bind a report to a query that was defined in the AOT, the report framework provides support for field groups. Field groups are objects that group together fields that logically belong together. When a change is made to a field group, the change is reflected in all cases where the field group is used. This means that the change is reflected in the report. For more information on field groups created in Microsoft Dynamics AX, see [Defining Field Groups](https://technet.microsoft.com/library/bb314861\(v=ax.60\)).

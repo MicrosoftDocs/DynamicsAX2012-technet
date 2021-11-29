@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UnlockRegisterRequestRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UnlockRegisterRequestRequestHandler](unlockregisterrequestrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

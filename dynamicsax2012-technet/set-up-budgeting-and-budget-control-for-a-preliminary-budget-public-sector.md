@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Set up budgeting and budget control for a preliminary budget (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a temporary, preliminary budget while the actual budget is being reviewed and approved. If you use budget control, you can select source documents and accounting journals to evaluate for budget control while you use the preliminary budget. You can track the preliminary budget amounts using separate budget codes for the preliminary budge type, and after the approved budget is adopted, the preliminary budget amounts can be reduced as the approved budget amounts are increased.

@@ -18,6 +18,9 @@ dev_langs:
 
 # StateName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

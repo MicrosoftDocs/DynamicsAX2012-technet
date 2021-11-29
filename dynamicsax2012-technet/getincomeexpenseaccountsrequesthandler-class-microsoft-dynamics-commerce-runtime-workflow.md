@@ -17,6 +17,9 @@ dev_langs:
 
 # GetIncomeExpenseAccountsRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Workflow to handle the income or expense accounts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

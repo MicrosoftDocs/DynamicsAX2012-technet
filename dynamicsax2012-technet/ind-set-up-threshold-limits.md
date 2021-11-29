@@ -37,6 +37,9 @@ ms.search.region: India
 # (IND) Set up threshold limits 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can set up thresholds and concession certificates for direct tax calculations, you must create threshold definitions and set up threshold hierarchies. Follow the steps in this topic to set up threshold limits.

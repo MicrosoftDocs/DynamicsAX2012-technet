@@ -14,6 +14,9 @@ ms.search.region: Global
 # Examples: Depreciation effects with reversals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can reverse fixed asset transactions, and the transactions that are associated with a fixed asset. You can also revoke a reversed transaction.

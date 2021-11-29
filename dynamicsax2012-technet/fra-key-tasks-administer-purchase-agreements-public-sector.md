@@ -20,6 +20,9 @@ ms.search.region: France
 # (FRA) Key tasks: Administer purchase agreements (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The standard processes related to purchase agreements are augmented for French entities in the public sector.

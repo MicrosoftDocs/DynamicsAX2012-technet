@@ -26,6 +26,9 @@ ms.search.region: Global
 # About calculating, approving and transferring registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create and manage time and attendance registrations. Registrations made by workers must be calculated, approved, and transferred daily. During that process, any registration errors can be corrected, missing registrations can be added, and incorrect registrations can be deleted.

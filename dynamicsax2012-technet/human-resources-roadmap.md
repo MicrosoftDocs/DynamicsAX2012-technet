@@ -14,6 +14,9 @@ ms.search.region: Global
 # Human resources roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic is a roadmap to additional information about Human resources in Microsoft Dynamics AX 2012. It includes links to information about how to get started with, configure, use, and integrate with Human resources in AX 2012. You can use this information to help you plan a Human resources implementation, guide you through the implementation steps, and give you a comprehensive list of links to most of the tasks you need to complete.
 
 The Human resources module in AX 2012 streamlines and automates many of the day-to-day recordkeeping processes and provides a framework for human resources (HR) staff to manage areas of oversight. These areas include employee recruitment and retention, benefits administration, training, performance reviews, and change management.

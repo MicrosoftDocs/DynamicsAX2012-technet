@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Manage notifications to vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create notifications to send electronically to one or more vendors. Vendors with access to the vendor self-service portal can view notifications in the vendor self-service portal, and vendor contacts can receive notifications in their e-mail. For example, use notifications to inform your vendors about new procedures when they use the vendor self-service portal, or to notify only the vendors associated with a specific procurement category to respond to a new questionnaire for the category.

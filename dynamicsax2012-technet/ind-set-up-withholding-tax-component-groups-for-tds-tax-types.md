@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up withholding tax component groups for TDS tax types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up withholding tax component groups for Tax Deducted at Source (TDS) tax types, such as **Rent** or **Contractor**.

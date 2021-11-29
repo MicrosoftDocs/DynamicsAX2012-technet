@@ -24,6 +24,9 @@ ms.search.region: Global
 # About audit policy violations and cases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Audit policies are used to identify expense reports, purchase orders, and vendor invoices that do not comply with business rules that you define and configure as audit policy rules.

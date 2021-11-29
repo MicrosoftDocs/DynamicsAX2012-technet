@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up tracking dimensions for an inventory owner 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Tracking dimension groups** form to set up tracking dimensions for the owner inventory dimension. The owner dimension lets you determine the owner of the items that are transferred for storage.

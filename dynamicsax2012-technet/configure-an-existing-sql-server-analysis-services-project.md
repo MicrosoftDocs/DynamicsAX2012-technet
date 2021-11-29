@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure an Existing SQL Server Analysis Services Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes several default cubes. If you deploy these cubes before you modify your license configuration, you must update the cubes that you deployed by using the Analysis Services project wizard.

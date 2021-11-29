@@ -17,6 +17,9 @@ dev_langs:
 
 # EndReadChangedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Ends session used to read changed products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

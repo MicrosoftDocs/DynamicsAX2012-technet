@@ -17,6 +17,9 @@ dev_langs:
 
 # IsOffline Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the database is currently in Offline mode or not.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Settings](microsoft-dynamics-retail-pos-contracts-settings-namespace.md)  

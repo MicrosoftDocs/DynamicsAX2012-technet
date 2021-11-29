@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateParagraph Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a paragraph element (p) for inserting text.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

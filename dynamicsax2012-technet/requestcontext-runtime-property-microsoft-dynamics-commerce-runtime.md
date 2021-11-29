@@ -17,6 +17,9 @@ dev_langs:
 
 # Runtime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the instance of the runtime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

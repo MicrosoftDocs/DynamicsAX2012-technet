@@ -17,6 +17,9 @@ dev_langs:
 
 # Changes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches and retrieves changed products given the specified query criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

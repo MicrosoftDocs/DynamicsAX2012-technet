@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTestMode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The test mode for card processing.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

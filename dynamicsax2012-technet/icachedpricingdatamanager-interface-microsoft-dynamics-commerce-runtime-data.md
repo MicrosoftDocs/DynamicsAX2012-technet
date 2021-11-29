@@ -17,6 +17,9 @@ dev_langs:
 
 # ICachedPricingDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Declares the paired, cache-updating methods matching the standard pricing manager interfaces.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

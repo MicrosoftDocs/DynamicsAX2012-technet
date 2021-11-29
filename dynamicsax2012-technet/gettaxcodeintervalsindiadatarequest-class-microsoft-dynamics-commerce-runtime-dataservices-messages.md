@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTaxCodeIntervalsIndiaDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service request to get tax code intervals for India.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

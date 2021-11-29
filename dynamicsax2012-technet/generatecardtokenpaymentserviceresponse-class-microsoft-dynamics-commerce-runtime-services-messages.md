@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateCardTokenPaymentServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response object returned from processing generate card token.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

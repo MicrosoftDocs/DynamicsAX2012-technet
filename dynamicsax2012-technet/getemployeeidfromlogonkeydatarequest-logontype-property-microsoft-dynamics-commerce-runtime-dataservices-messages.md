@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the type of the log on.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

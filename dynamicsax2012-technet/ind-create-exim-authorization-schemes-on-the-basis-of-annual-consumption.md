@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Create EXIM authorization schemes on the basis of annual consumption 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create export-import (EXIM) authorization schemes for confirmed sales orders and export orders, and on the basis of annual consumption. This topic describes how to create EXIM authorization schemes on the basis of annual consumption.

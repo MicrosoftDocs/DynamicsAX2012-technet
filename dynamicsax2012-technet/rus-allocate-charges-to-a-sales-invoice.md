@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Allocate charges to a sales invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Allocate charges** form to allocate charges to a sales invoice that was posted. The charges are adjusted against that sales invoice.

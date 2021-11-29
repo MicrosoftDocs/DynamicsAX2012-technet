@@ -13,6 +13,9 @@ f1_keywords:
 
 # net book value
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value of a fixed asset calculated as the difference between the original cost of the fixed asset minus its accumulated depreciations.
 
 ## See also

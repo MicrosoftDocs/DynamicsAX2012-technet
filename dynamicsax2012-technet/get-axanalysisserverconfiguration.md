@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXAnalysisServerConfiguration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXAnalysisServerConfiguration
 
 Retrieves the configuration that specifies the connection settings between a Microsoft Dynamics AX Application Object Server (AOS) instance and a Microsoft SQL Server Analysis Services instance.

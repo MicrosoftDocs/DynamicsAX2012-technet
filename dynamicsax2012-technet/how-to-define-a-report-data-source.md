@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Define a Report Data Source 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To retrieve data for your reports, you can use the predefined *Dynamics AX* or *DynamicsAXOLAP* data sources to connect to the Microsoft Dynamics AX application databases. Or, you can define your own data sources. For example, if you want to use a database other than the application database, you must define a data source to specify connection information and a provider type for that database. The following procedure explains how to define a data source.

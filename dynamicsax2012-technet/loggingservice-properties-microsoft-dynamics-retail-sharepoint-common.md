@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoggingService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoggingService](loggingservice-class-microsoft-dynamics-retail-sharepoint-common.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # TargetCountryNamePropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of configuration app settings key which stores Country ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

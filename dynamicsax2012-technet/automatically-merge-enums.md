@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Automatically merge enums 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Each code upgrade checklist in Microsoft Dynamics AX 2012 R2 or R3 contains the optional **Automatically merge enums** task, which is run before the application is compiled. This task identifies enums (enumerated data types) that differ between versions, but that can be merged automatically. By merging enums before compiling, you can reduce the number of compile errors and the time that is required to resolve code conflicts.

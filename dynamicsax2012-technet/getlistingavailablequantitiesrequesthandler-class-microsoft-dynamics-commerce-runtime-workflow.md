@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingAvailableQuantitiesRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves quantities of provided listings from the default warehouse associated with the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # IndexOf Method (T)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the index of an element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

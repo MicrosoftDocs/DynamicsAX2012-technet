@@ -23,6 +23,9 @@ ms.search.region: Global
 # About credit card authorizations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can authorize a credit card that is submitted for the payment of a sales order without charging the customer's credit card. Microsoft Dynamics AX can work with a payment service that acts as a bridge between your legal entity and the bank that processes the customer's credit card charges.

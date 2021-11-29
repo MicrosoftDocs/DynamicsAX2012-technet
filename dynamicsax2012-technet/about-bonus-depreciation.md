@@ -20,6 +20,9 @@ ms.search.region: Global
 # About bonus depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 With bonus depreciation, you can take extra or bonus depreciation amounts during the first year that the asset is put in service and depreciated. Bonus depreciation is available only for depreciation books, not value models, and it is always taken before any other depreciation calculations.

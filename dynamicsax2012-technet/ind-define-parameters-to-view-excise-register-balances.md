@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Define parameters to view excise register balances 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a query to view the balances of excise registers, you must first select the parameters for the query in the **Excise registers balance inquiry** form. These parameters include the tax ledger posting group, the Excise Control Code (ECC) number, and the date. The balance amounts that are displayed in the **Excise balance** form are based on the parameters that are set up in the **Excise registers balance inquiry** form.

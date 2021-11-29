@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Define a Report Dataset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A report dataset identifies data that is displayed in a report. You can use a query, stored procedure, or a data method to retrieve data. The following procedure explains how to define a report dataset.

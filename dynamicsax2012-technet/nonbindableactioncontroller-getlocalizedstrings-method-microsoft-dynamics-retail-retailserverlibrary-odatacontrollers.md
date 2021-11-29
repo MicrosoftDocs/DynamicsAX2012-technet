@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLocalizedStrings Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all localized strings filtered by language identifier, text identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

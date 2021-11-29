@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # G
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [general budget reservation](general-budget-reservation.md)
 
 [general ledger](general-ledger_1.md)

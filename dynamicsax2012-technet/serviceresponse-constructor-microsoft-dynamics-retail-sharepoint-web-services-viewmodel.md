@@ -17,6 +17,9 @@ dev_langs:
 
 # ServiceResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new instance of the [ServiceResponse](serviceresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

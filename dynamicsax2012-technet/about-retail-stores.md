@@ -15,6 +15,9 @@ ms.search.region: Global
 # About retail stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Microsoft Dynamics AX 2012 for Retail supports multiple retail channels, including online stores, online marketplaces, and brick-and-mortar stores. In Retail, a brick-and-mortar store is called a *retail store*. Each retail store can have its own payment methods, price groups, point-of-sale (POS) registers, income accounts and expense accounts, and staff.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Customizing a Default Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX has default cubes included that you can customize. In this walkthrough, you will customize the Customer Relationship Management (CRM) cube by modifying the Status expression in the Sales Key Performance Indicator (KPI) and adding a KPI that reports the average revenue earned for each sale. These KPIs can be displayed from a role center in the Microsoft Dynamics AX client or Enterprise Portal.

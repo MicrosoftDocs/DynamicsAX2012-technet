@@ -17,6 +17,9 @@ dev_langs:
 
 # SqlPagedQuery Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an abstraction to simplify writing select queries that are by default always paged.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

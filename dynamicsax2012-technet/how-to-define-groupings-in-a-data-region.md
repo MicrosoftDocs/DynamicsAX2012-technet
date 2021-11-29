@@ -18,6 +18,9 @@ f1_keywords:
 # How to: Define Groupings in a Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can group fields to organize related information within a report data region. For example, you can create a grouping that groups data for salespersons according to the regions to which they are assigned or by the type of accounts that they handle. Groupings can be added to table, list, matrix, and chart data regions. For matrix data regions, the groupings are divided into column groupings and row groupings. For chart data regions, the groupings are divided into categories and series.

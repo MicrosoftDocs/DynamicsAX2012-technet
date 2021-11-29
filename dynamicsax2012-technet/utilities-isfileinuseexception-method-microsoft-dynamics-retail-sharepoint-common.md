@@ -17,6 +17,9 @@ dev_langs:
 
 # IsFileInUseException Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the exception is of type "The process cannot access the file because it is being used by another process.". ERROR\_SHARING\_VIOLATION 32 (0x20)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

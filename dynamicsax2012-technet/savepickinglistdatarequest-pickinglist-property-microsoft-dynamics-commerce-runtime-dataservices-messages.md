@@ -17,6 +17,9 @@ dev_langs:
 
 # PickingList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the picking list to be saved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

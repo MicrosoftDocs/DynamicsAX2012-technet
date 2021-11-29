@@ -17,6 +17,9 @@ dev_langs:
 
 # RtsBindingsConfigFileName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents file name of RTS bindings configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

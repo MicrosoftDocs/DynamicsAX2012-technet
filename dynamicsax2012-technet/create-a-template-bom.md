@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a template BOM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a template BOM by using any of the following methods. For all methods, the **From date** and **To date** fields are optional and for information only.

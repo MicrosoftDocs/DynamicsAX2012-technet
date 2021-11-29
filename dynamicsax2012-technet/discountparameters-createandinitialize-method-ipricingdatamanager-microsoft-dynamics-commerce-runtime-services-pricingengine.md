@@ -15,6 +15,9 @@ dev_langs:
 
 # CreateAndInitialize Method (IPricingDataManager)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a new DiscountParameters object and initialize from database if possible.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # user-defined financial dimension type
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A financial dimension mapped to a user-defined list of values.
 
 ## See also

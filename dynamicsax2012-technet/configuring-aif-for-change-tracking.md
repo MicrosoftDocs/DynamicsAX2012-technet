@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configuring AIF for change tracking 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In services and Application Integration Framework (AIF) document services, you can use change tracking to retrieve documents that have been modified, based on criteria that you specify.

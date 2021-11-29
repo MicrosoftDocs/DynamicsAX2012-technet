@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Set up a dual warehouse layer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can perform cost value accounting by using a reporting currency. You can also perform recalculations or inventory closings, or adjust on-hand inventory or inventory receipts in the reporting currency to generate ledger transactions. These ledger transactions use the dual warehouse posting layer.

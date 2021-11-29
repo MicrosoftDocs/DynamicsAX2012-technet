@@ -17,6 +17,9 @@ dev_langs:
 
 # ObjectVersionMismatchError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the version of the object in the database is different from the one that is attempted to be saved indicating an optmistic concurrency issue.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

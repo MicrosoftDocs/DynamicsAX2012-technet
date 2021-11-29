@@ -1,6 +1,9 @@
 ---
 # required metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 title: Deploy high-availability environments on Azure
 description: This article explains how to deploy a high availability environment on Microsoft Azure. To deploy the environment, you'll use the Cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 author: kfend
@@ -13,17 +16,35 @@ ms.technology:
 
 # optional metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 # ms.search.form: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 # ROBOTS: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 audience: Developer, IT Pro
 # ms.devlang: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.reviewer: sericks
 ms.search.scope: AX 2012
 # ms.tgt_pltfrm: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.custom: 21231
 ms.assetid: c53d7b21-1638-41a8-826b-89105d2e51e8
 ms.search.region: Global
 # ms.search.industry: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.author: kfend
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
@@ -31,6 +52,9 @@ ms.dyn365.ops.version: 2012
 ---
 
 # Deploy high-availability environments on Azure
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 This article explains how to deploy a high availability environment on Microsoft Azure. To deploy the environment, you'll use the Cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 

@@ -17,6 +17,9 @@ dev_langs:
 
 # NextSyncAnchor Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the anchor for subsequent listing synchronizations for the specified destination.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

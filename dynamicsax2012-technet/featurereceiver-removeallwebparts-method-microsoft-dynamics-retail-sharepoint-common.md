@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveAllWebParts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes all web parts from the page and zone.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

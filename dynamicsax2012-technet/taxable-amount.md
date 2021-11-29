@@ -13,6 +13,9 @@ f1_keywords:
 
 # taxable amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount that is subject to tax.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # Track2Parts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 TrackParts are the two parts of Track2 that are separated by the card separator character.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

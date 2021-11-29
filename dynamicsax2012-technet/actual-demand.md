@@ -14,6 +14,9 @@ f1_keywords:
 
 # actual demand
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The demand for products driven by customer orders.
 
 ## See also

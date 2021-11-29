@@ -19,6 +19,9 @@ dev_langs:
 
 # IEnumerable.GetEnumerator Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements the GetEnumerator of IEnumerable explicitly.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

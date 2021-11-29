@@ -19,6 +19,9 @@ ms.search.region: Global
 # About the Production + profit matching principle 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Production + profit matching principle, which applies to fixed-price projects only, is used to recognize all costs on a project, plus a percentage of the total estimated profit, as the total revenue for the given period. When the Production + profit matching principle is used and the estimate is posted, the recognized revenue is split into cost and profit. The cost portion of the revenue is posted to the Accrued revenue – production account.

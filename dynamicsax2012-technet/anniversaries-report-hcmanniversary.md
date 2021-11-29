@@ -15,6 +15,9 @@ f1_keywords:
 # Anniversaries report (HcmAnniversary) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print a listing of worker anniversaries. The report uses the value in the **Seniority date** date on the **Worker** form as the basis for its calculation.

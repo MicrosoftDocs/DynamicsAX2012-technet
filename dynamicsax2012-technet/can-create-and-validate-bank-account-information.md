@@ -17,6 +17,9 @@ ms.search.region: Canada
 # (CAN) Create and validate bank account information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a bank account and bank group to submit payments to vendors or receive payments from customers, the bank account information is validated against specific validation criteria mandated by the Canadian banking system. In the **Application user Help** form, on the **Address** tab, select **CAN** in the **Country/region** field so that the validation can be performed. The bank account number, routing number type, and routing number are validated. Use the following procedures to set up bank accounts and bank groups to validate your bank account information.

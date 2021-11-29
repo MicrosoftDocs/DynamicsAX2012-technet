@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReportDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Requests the report data set based on the report id and parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

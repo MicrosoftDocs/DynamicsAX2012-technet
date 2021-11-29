@@ -18,6 +18,9 @@ ms.search.region: Global
 # Delete forecast model transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To delete a forecast, you must delete forecast transactions from the forecast model in which the transactions were entered.

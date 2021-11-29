@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget control rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The encoding of a business decision to check committed and actual expenditure against available budget funds allocated for detailed or aggregate activities defined by valid budget control dimension value combinations.
 
 ## See also

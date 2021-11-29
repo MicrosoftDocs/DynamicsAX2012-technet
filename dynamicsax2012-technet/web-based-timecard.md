@@ -14,6 +14,9 @@ ms.search.region: Global
 # Web-based timecard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the electronic timecard from **Employee services** on the Enterprise Portal. However, you must first acquire the specific Enterprise Portal role for Time and attendance. Also, you must have the profile of a time registration worker in Microsoft Dynamics AX.

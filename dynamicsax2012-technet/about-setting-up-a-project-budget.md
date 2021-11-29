@@ -19,6 +19,9 @@ ms.search.region: Global
 # About setting up a project budget 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you start to use budget control for projects, complete the procedures in the following topics. Although you can work through the topics in whatever order is most convenient for you, the order listed here is usually the most efficient.

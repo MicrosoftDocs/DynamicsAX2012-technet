@@ -17,6 +17,9 @@ dev_langs:
 
 # IPrintingV3 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 3.0 for printing interface
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

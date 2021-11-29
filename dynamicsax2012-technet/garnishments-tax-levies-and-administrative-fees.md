@@ -19,6 +19,9 @@ ms.search.region: USA
 # Garnishments, tax levies, and administrative fees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic contains answers to questions that you might have about garnishments and tax levies. It provides information to help you quickly and accurately set up garnishments and tax levies to keep your organization in compliance with applicable laws, regulations, and court orders. If you have a question that isn’t answered here or in the related topics, ask your legal advisors.

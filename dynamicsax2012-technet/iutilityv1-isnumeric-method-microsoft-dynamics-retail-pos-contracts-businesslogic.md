@@ -17,6 +17,9 @@ dev_langs:
 
 # IsNumeric Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies if the expression is numeric.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

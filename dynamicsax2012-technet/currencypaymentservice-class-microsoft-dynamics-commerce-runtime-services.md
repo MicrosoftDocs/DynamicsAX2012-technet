@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyPaymentService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates tender line operations related to currency payments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

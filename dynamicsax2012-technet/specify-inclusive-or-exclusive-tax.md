@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify inclusive or exclusive tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Inclusive taxes are included in product prices. Value-added tax (VAT) is one example of inclusive tax. Exclusive taxes are not included in product prices. In Retail, you can specify settings for inclusive tax and exclusive tax for each customer. You can also specify settings for each store.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IAffiliationV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IAffiliationV1](iaffiliationv1-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

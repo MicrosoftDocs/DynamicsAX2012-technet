@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateOrUpdateShipmentStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates or updates shipments status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

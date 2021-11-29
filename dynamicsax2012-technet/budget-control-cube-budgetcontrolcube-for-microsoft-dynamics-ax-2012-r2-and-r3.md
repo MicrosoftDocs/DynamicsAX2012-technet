@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Budget control cube (BudgetControlCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Budget control cube for Microsoft Dynamics AX is used to analyze data from budget register entries. Analysis of this data helps organizations effectively manage their approved budgets and make decisions based on accurate information. This article provides details about the cube.

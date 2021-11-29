@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 StockCount datamanger that performs SQL operations for StockCount feature.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

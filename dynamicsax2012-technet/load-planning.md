@@ -13,6 +13,9 @@ f1_keywords:
 
 # load planning
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of scheduling, picking, packing, and consolidating one or more shipments of warehouse inventory items for transportation and delivery.
 
 ## See also

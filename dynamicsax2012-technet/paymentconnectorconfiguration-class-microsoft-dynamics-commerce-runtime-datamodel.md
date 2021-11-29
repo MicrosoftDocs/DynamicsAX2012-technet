@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentConnectorConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Holds the merchant data for a payment connector.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

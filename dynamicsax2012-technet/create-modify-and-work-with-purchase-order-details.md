@@ -31,6 +31,9 @@ ms.search.region: Global
 # Create, modify, and work with purchase order details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about how to create, modify, and how to work with purchase order details. The purchase order details covered include, amongst others, how to work with delivery schedules, delivery addresses, statuses, and distributions. There are also topics that provide information about how to journalize the completed purchase order.

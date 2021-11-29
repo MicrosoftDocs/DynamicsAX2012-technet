@@ -17,6 +17,9 @@ dev_langs:
 
 # FiscalDocumentId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the fiscal document ID. Available for add-in use; limited to 80 characters.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

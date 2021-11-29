@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Profit tax totals cube (RTax25Registers) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Profit tax totals cube for Microsoft Dynamics AX provides data that can help you track tax information. This cube can be useful only for Russia because it is based on Russian tables. This article provides details about the cube.

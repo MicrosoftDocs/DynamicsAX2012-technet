@@ -17,6 +17,9 @@ dev_langs:
 
 # Credential Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework](microsoft-dynamics-commerce-runtime-framework-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)
 

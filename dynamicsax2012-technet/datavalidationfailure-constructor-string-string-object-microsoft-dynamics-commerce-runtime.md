@@ -15,6 +15,9 @@ dev_langs:
 
 # DataValidationFailure Constructor (String, String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [DataValidationFailure](datavalidationfailure-class-microsoft-dynamics-commerce-runtime.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # STSCustomClaimsProviderWebConfigDeactivationJob Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class for job that carries out the deactivation steps for the custom claims provider in the STS web.config.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

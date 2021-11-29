@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Information technology manager security role (SysServerITManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Information technology manager security role represents a user who maintains servers and software for Microsoft Dynamics AX. A user in this role maintains and configures settings for batch servers, load balancing, databases, Enterprise Portal, services, and workflow.

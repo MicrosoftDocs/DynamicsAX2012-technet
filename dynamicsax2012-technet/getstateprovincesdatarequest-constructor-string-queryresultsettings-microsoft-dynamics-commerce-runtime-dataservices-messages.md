@@ -15,6 +15,9 @@ dev_langs:
 
 # GetStateProvincesDataRequest Constructor (String, QueryResultSettings)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetStateProvincesDataRequest](getstateprovincesdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

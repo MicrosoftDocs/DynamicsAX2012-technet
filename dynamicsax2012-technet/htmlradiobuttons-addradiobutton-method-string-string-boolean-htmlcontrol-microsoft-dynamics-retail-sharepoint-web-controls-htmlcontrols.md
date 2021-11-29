@@ -15,6 +15,9 @@ dev_langs:
 
 # AddRadioButton Method (String, String, Boolean, HtmlControl)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a radio button to the group with the specified text, value and checked.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

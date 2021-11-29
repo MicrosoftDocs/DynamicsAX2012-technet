@@ -15,6 +15,9 @@ dev_langs:
 
 # AddAttribute Method (HtmlControl, String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified attribute to the element.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create language texts for modeling variables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Modeling variable descriptions or field prompts and help texts can be created in different languages. To do this, take the following steps.

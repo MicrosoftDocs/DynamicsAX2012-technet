@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure and manage financial dimension links to sites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a link between a financial dimension and the site inventory dimension, your legal entity can calculate profit and loss figures for each site. Use the following procedures to configure and manage financial dimension links for sites:

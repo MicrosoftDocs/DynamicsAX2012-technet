@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up a transportation mode and method for a shipping carrier 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

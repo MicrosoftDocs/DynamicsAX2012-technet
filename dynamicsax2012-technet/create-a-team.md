@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a team 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create teams to associate groups of people who might not otherwise work together. For example, you can create a team for a customer advisory board that includes employees from various departments in your company.

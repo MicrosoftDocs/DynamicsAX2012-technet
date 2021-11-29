@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create Microsoft Word documents from Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Many document types in Microsoft Dynamics AX can be saved as Microsoft Word files. After you save a Word document, you can use features in Word to add text and graphics to the document. For example, you can add your organization’s contact information and logo.

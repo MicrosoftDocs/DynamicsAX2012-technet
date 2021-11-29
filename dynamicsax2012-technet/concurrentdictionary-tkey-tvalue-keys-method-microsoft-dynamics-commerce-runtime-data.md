@@ -17,6 +17,9 @@ dev_langs:
 
 # Keys Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of dictionary keys.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

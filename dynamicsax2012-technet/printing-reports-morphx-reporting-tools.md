@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Printing Reports (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A report can be viewed on the screen or printed on paper. Printing can be restricted to a subset of pages, and it can be restricted to one particular printer.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up keyboard mapping and mapping groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up keyboard mapping groups and keyboard mapping. A keyboard mapping group contains one or more key mappings that associate individual keyboard keys with operations in Retail POS. For example, you could map the number “2” keyboard key to the “Issue gift card” operation. If your store issues gift cards often, this shortcut key could save time at the point of sale.

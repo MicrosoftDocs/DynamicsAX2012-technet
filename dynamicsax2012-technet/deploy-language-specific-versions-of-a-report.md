@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy language-specific versions of a report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Typically, when you deploy a report, one version of the report is deployed. This version can then be rendered automatically in every language that is supported by Microsoft Dynamics AX. However, you can configure Microsoft Dynamics AX so that language-specific versions of a report are deployed. A language-specific version of a report is sometimes referred to as a *static version*.

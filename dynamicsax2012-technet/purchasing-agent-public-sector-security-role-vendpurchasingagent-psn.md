@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Purchasing agent - Public Sector security role (VendPurchasingAgent\_PSN) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Purchasing agent – Public Sector security role supports the public sector extensions for the Project management module. Assign this role in addition to the Purchasing agent role to give purchasing agents access to purchasing functionality for the public sector.

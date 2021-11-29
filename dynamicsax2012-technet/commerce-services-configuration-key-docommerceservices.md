@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Commerce Services configuration key (DOCommerceServices) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Commerce Services** configuration key enables access to Commerce Services for Microsoft Dynamics ERP. With this key enabled, you can use Commerce Services to sell products from Microsoft Dynamics AX in marketplaces like eBay or in your own online store. You can download online orders and then process and fulfill them normally in Microsoft Dynamics AX.

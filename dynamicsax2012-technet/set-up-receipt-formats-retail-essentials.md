@@ -14,6 +14,9 @@ f1_keywords:
 # Set up receipt formats (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create and modify form layouts to control how receipts, invoices, and other documents are printed. Retail essentials includes a form layout designer that you can use to easily and graphically create and modify various kinds of form layout.

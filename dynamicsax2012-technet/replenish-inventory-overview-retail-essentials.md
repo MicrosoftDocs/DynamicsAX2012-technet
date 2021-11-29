@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Replenish inventory overview (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to replenish inventory.

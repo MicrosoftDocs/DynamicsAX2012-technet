@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage store inventory overview (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to create and record inventory transactions for retail stores. Information includes how to create purchase orders and transfer orders, perform stock counts, and post these documents.

@@ -17,6 +17,9 @@ f1_keywords:
 # Generate table mappings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Generate table mappings** task in the **Data upgrade checklist** creates the mapping between the tables and fields in the Microsoft Dynamics AX source database and the tables and fields that were created in the Microsoft Dynamics AX 2012 database during the **Create tables** step in the **Data upgrade checklist**.

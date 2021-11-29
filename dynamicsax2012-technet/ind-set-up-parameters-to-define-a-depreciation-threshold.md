@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up parameters to define a depreciation threshold 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up parameters to define the depreciation threshold and determine the percentage of depreciation on a fixed asset. If a fixed asset was purchased and used for fewer than 180 days during the previous financial year, only 50 percent of the rate of depreciation is calculated for the asset. For example, if the rate of depreciation is 10 percent, only 5 percent depreciation is calculated on the asset.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Setting up prices, price adjustments, and discounts (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, you can make price adjustments to products. You can also set up discounts that are applied to a line item or a transaction at the point of sale. You can base price adjustments and discounts on specific price groups or currencies. You can also specify start dates and end dates. You can delete a price adjustment or a discount, but if you do, statistical information is lost.

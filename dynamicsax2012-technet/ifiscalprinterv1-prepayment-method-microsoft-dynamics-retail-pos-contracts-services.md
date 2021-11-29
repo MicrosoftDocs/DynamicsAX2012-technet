@@ -17,6 +17,9 @@ dev_langs:
 
 # PrePayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered prior to a payment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

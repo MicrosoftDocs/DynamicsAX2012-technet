@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: AxBuild.exe for faster X++ compiles on AOS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The AxBuild.exe utility program enables you to accomplish a full compile of all the X++ code on your system much faster than you can with the MorphX client. AxBuild.exe is run at a command prompt on a computer that hosts the Application Object Server (AOS). This approach eliminates the burden of transferring metadata between the AOS and the client. Also, AxBuild.exe starts several parallel processes and divides pieces of the full compile among them.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCurrentChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel identifier associated with the current instance of the [CommerceRuntime](commerceruntime-class-microsoft-dynamics-commerce-runtime.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

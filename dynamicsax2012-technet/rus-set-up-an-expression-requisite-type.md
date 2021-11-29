@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up an expression requisite type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Queries** and **Fixed requisites** forms to set up a requisite for the name of an employee.

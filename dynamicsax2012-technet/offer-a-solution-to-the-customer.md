@@ -14,6 +14,9 @@ ms.search.region: Global
 # Offer a solution to the customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you arrive at a financial agreement with a customer, you can make the offer final. The topics in this section provide information about how to offer a solution to a customer.

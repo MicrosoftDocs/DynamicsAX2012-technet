@@ -17,6 +17,9 @@ dev_langs:
 
 # CCTVOutput Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends an output to a CCTV system.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

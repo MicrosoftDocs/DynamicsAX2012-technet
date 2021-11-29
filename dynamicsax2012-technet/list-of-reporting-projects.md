@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # List of Reporting Projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides a list of the Microsoft Dynamics AX reporting projects and the reports that each project contains. To access a reporting project from the AOT or Application Explorer, click **Visual Studio Projects** \> **Dynamics AX Model Projects**. When you know the name of the report that you want to edit, use this list to find the name of the reporting project that contains the report. You should open the project that contains the report that you want to edit. The project solution will contain any necessary dependencies for the report to build. For example, report drill-throughs require both the source and target report to be loaded in the solution to build successfully.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentConnectorName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the payment connector.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChangeShiftStatusRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChangeShiftStatusRequestHandler](changeshiftstatusrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

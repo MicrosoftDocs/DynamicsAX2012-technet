@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncStockCountTransactionsFromAxServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SyncStockCountTransactionsFromAxResponse is the response class set after Syncing Stockcount transactions from AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

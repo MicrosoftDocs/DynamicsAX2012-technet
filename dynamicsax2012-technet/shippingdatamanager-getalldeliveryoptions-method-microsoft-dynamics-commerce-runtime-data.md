@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllDeliveryOptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all delivery options available for the channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

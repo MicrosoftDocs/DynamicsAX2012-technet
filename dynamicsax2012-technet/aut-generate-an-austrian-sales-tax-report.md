@@ -18,6 +18,9 @@ ms.search.region: Austria
 # (AUT) Generate an Austrian sales tax report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate the Austrian annual sales tax report as a .pdf file for all sales tax reporting codes that are specified in the Austrian reporting layout. You can also generate a monthly sales tax statement as an .xml file, which can be uploaded to the online Austrian Ministry of Finance portal.

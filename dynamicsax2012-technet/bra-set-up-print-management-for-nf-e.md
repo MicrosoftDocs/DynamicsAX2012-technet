@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up print management for NF-e 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to set up the format that is used to print an electronic fiscal document (NF-e). To print the Documento Auxiliar da Nota Fiscal Eletrônica (DANFE) automatically after an NF-e is approved by the Secretaria da Fazenda (SEFAZ), you must set up all documents that generate an NF-e in print management.

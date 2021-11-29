@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up injury and illness information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employers need to know when their employees are being injured or becoming ill due to hazards in the workplace.

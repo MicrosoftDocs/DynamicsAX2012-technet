@@ -15,6 +15,9 @@ dev_langs:
 
 # PutItem(T) Method (String, T, IDataStore)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Puts an item in the cache under the specified key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

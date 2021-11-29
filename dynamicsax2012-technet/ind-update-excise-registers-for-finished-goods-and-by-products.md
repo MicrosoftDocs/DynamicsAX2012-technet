@@ -26,6 +26,9 @@ ms.search.region: India
 # (IND) Update excise registers for finished goods and by-products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can generate and print an excise invoice for goods that are transported from a factory or a warehouse using a sales order, a transfer order, or a purchase return order. You can update the Daily stock account (DSA) and excise registers for finished goods, damaged goods, expired goods, and by-products.

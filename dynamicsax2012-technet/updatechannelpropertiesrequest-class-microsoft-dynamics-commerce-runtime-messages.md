@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateChannelPropertiesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The request of setting channel-specific properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

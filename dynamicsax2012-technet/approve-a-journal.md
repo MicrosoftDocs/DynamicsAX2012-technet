@@ -15,6 +15,9 @@ ms.search.region: Global
 # Approve a journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If journals are approved by a user other than the one who enters the journal lines, an approval system can be set up. The posting function will be unavailable until the approver has approved the journal. If the journal is rejected instead of approved, it cannot be posted. You can view the approval history on the **History** tab of the **Journal** and **Journal voucher** forms. For more information, see [Set up financial journal approvals](set-up-financial-journal-approvals.md).

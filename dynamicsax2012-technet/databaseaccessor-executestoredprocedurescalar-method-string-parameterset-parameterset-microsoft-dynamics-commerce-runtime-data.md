@@ -15,6 +15,9 @@ dev_langs:
 
 # ExecuteStoredProcedureScalar Method (String, ParameterSet, ParameterSet)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the stored procedure using the specified parameters and returns the return value of the stored procedure as an integer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

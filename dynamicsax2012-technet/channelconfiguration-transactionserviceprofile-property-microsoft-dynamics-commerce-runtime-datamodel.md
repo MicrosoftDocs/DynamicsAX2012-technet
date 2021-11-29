@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionServiceProfile Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction service profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

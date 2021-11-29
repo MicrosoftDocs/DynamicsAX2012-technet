@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLatestOfflineDatabaseChunks Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the chunks collection of the latest offline database of the given database type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

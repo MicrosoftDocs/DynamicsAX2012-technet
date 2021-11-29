@@ -17,6 +17,9 @@ dev_langs:
 
 # EntryType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the entry type of the reward point, e.g. Earn, Redeem.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

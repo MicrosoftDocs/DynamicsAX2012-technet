@@ -15,6 +15,9 @@ ms.search.region: Global
 # About formula designer functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Formula designer** form to design and work with formula tree structures. The designer graphically displays the formula structure. You can select different configurations and decide what information to display on the nodes of the tree.

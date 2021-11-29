@@ -20,6 +20,9 @@ ms.search.region: Global
 # Respond to a questionnaire 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To view a list of questionnaires that are available for you to complete, use the **Questionnaires to complete** page. Questionnaires can be used to gather information for a variety of purposes, such as testing skills of employees and applicants, evaluating a training course, or surveying employee or customer satisfaction.

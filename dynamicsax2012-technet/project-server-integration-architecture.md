@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Project Server integration architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By setting up integration between Microsoft Dynamics AX and Microsoft Project Server, project managers can create projects in either program, and then synchronize project data between the programs. Therefore, you can take advantage of both the core capabilities that Project Server provides for project management and the capabilities that Microsoft Dynamics AX provides for financial management.

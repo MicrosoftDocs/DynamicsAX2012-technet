@@ -17,6 +17,9 @@ dev_langs:
 
 # GetZipCodesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the response associated with the [GetZipCodesServiceRequest](getzipcodesservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a case 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create cases to track issues that are raised by workers and by customers. The case type determines the module where you should create the case.

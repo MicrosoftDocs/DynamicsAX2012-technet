@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WorkflowLocation Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WorkflowLocation](workflowlocation-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Methods

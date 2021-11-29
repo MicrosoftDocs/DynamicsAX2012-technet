@@ -14,6 +14,9 @@ f1_keywords:
 
 # apportionment engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that determines and processes the apportionment of freight charges, either by weight or by volume.
 
 ## See also

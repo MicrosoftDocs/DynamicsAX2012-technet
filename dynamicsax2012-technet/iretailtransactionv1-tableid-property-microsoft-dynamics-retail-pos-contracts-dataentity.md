@@ -17,6 +17,9 @@ dev_langs:
 
 # TableId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The table id where the customers where sitting
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

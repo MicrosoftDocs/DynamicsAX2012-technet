@@ -34,6 +34,9 @@ ms.search.region: Global
 # Compare bids and award a contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to evaluate bids and award a contract after vendors respond to your request for quotation (RFQ).

@@ -17,6 +17,9 @@ dev_langs:
 
 # SerialNumberMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a serial number was not provided for a product that needs a serial number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

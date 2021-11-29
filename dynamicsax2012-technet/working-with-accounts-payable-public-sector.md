@@ -14,6 +14,9 @@ ms.search.region: Denmark, France
 # Working with Accounts payable (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 These public sector topics complement the information that is listed in the main section for [Working with Accounts payable](working-with-accounts-payable.md).

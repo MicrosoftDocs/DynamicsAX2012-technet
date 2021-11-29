@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up fixed asset groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Fixed asset groups simplify the setup of fixed assets. These groups also help classify information for reporting and decision-making about assets.

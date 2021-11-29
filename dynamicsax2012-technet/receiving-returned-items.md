@@ -20,6 +20,9 @@ ms.search.region: Global
 # Receiving returned items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a return shipment arrives, you match it to a return order that has already been created.

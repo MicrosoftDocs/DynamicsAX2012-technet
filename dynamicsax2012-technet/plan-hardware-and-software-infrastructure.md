@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan hardware and software infrastructure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you deploy Microsoft Dynamics AX, you must have a clear understanding of your organization's or customers' requirements. In this manner, you can make good decisions as you recommend hardware and software, install the system, and customize the system.

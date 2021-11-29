@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up excise tax groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and manage excise tax groups that determine the excise duty calculation for customers, vendors, or ledger accounts. The excise tax codes are attached to excise tax groups.

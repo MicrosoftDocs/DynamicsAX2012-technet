@@ -17,6 +17,9 @@ dev_langs:
 
 # Id Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 User ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

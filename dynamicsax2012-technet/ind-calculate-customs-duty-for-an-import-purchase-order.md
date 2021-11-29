@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Calculate customs duty for an import purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create an import purchase order and add import landing charges, you can specify the currency that is used for the charges. You can calculate the charges in the company’s currency, the transaction currency, or the vendor’s currency. If you select a currency other than the company currency, when you confirm the import order, the applicable customs exchange rate is used to convert the charges to the company currency.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsAuthorized Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks authorization for all OData calls.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

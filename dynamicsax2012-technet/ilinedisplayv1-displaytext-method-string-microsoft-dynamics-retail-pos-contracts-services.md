@@ -15,6 +15,9 @@ dev_langs:
 
 # DisplayText Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays one line on the line display.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

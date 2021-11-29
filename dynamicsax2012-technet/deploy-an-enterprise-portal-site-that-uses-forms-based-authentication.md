@@ -17,6 +17,9 @@ f1_keywords:
 # Deploy an Enterprise Portal site that uses forms-based authentication 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to deploy an Enterprise Portal for Microsoft Dynamics AX site that uses the claims-mode authentication that is provided by SharePoint. In the context of Microsoft Dynamics AX, this kind of authentication is called flexible authentication. Flexible authentication enables businesses and organizations to authenticate Enterprise Portal users without having to store user accounts in Active Directory Domain Services. By using flexible authentication, you can configure a claims-aware Enterprise Portal site to authenticate users by using one of the following services: forms-based authentication or Microsoft Active Directory Federation Services (AD FS). This topic describes how to deploy an Enterprise Portal site that uses forms-based authentication. Forms-based authentication validates credentials that are entered in a logon form and stored in an ASP.NET database.

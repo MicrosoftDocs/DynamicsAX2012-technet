@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Generate the Sintegra tax statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to generate a Sintegra tax statement in a text file by using the **Booking period** list page. The Sintegra text file provides information about fiscal documents that have been received and issued each month. This information is used by tax authorities. The Sintegra text file also includes information about tax payments during the month.

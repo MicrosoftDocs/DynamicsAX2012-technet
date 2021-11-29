@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidFromFriendly Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the start date of the valid period in a numeric string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

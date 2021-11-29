@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderWorkflowErrors Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class container for all errors associated with the cart and order workflows.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

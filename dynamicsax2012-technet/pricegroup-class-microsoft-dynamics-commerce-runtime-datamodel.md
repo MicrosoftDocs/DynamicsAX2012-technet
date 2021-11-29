@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceGroup Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a price group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

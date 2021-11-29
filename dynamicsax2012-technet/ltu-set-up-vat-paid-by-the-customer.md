@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up VAT paid by the customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Under certain conditions, sales or purchase VAT is calculated and paid by the customer or vendor, if the customer or vendor is registered in Lithuania as a VAT payer. These conditions include:

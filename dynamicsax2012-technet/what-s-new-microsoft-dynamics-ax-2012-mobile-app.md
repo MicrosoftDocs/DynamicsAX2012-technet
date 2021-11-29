@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Microsoft Dynamics AX 2012 Mobile app 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Along with cumulative update 7 for Microsoft Dynamics AX 2012 R2, Microsoft is releasing the Microsoft Dynamics AX mobile application that works with the product. This app is compatible only with installations of Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create tax ledger posting groups and attach an STC number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a ledger posting group for service tax. You can then attach ledger accounts to various components of the service tax for a specific service tax (STC) number or all STC numbers.

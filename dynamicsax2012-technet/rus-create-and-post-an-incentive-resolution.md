@@ -30,6 +30,9 @@ ms.search.region: Russia
 # (RUS) Create and post an incentive resolution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how you can generate Human Resources resolutions that relate to incentive pay. You can create incentive lines to specify to whom you can pay incentive bonuses, and how much you can pay. You can also create incentive lines to create a payroll journal, recalculate payroll taxes for an employee, reverse a posted payroll journal, and restore the original resolution. You can process and view storno adjustments to the journal in the current period by creating a new journal and posting it.

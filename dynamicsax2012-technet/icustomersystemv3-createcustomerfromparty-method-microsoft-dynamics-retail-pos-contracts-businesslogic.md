@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateCustomerFromParty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer info cross company.
 
 Creates customer from different company if it doesn't exist in the current one.

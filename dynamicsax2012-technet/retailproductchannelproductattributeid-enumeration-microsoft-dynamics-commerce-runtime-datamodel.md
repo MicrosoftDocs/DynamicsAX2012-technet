@@ -32,6 +32,9 @@ dev_langs:
 
 # RetailProductChannelProductAttributeId Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The default attributes from RetailChannelProductAttributeID base enumeration in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

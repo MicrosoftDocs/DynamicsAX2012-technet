@@ -17,6 +17,9 @@ dev_langs:
 
 # ICurrencyItemInfoV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class that includes all properties of each entity of a currency whether it is a bill or a coin.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

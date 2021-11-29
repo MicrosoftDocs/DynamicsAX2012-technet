@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonGrid Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a buttongrid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

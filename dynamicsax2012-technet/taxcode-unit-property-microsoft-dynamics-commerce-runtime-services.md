@@ -17,6 +17,9 @@ dev_langs:
 
 # Unit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unit for calculating per-unit amounts
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

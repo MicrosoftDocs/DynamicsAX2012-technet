@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

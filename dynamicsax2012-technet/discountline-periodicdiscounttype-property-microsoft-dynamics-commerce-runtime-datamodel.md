@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The type of a periodic discount, i.e multibuy, mix and match, offer, promotion.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

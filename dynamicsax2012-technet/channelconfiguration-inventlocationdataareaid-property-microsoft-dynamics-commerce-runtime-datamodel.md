@@ -17,6 +17,9 @@ dev_langs:
 
 # InventLocationDataAreaId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data area for the current invent location.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

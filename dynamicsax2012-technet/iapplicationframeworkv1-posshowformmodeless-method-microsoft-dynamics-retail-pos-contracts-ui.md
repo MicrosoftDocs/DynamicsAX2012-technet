@@ -17,6 +17,9 @@ dev_langs:
 
 # POSShowFormModeless Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shows the form modeless.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.UI](microsoft-dynamics-retail-pos-contracts-ui-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issue credit memo, issues a gift certificate and adds it to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

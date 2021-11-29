@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LogonCredentials Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LogonCredentials](logoncredentials-class-microsoft-dynamics-commerce-runtime-entities.md) type exposes the following members.
 
 ## Properties

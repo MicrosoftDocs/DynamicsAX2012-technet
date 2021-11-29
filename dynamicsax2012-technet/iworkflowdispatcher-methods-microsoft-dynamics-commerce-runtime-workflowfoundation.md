@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IWorkflowDispatcher Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IWorkflowDispatcher](iworkflowdispatcher-interface-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Methods

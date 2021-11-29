@@ -17,6 +17,9 @@ dev_langs:
 
 # PerformStockCount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invokes the StockCount UI
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

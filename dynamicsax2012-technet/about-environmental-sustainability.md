@@ -20,6 +20,9 @@ ms.search.region: Global
 # About Environmental sustainability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Environmental sustainability dashboard helps you determine your organization’s environmental footprint. By using the dashboard, you can track the raw materials and energy that your organization consumes. You can then calculate and record the flow of finished products to customers, and the flow of hazardous emissions into the environment. When you adjust the way that your organization views consumption, you can take the following steps:

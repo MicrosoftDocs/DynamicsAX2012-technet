@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Update the system register for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 By default, in the **Requisites setup** form, the Microsoft Excel template opens in a new window. To set up requisites, the Excel template must be opened in the lower pane of the **Requisites setup** form. You must update the system register to open the Excel template in the lower pane of the form.

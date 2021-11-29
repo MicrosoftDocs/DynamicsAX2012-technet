@@ -13,6 +13,9 @@ f1_keywords:
 
 # dataset parameter
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of parameter that is created by the reporting framework when a dataset is created based on the Query property and the Dynamic Filters property of the dataset.
 
 ## See also

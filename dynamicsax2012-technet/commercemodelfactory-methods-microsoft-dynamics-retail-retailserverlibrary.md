@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceModelFactory Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceModelFactory](commercemodelfactory-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Methods

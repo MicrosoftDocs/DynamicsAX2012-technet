@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Provide license information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 License codes and configuration keys are used to control the features and functionality that are available in Microsoft Dynamics AX. Large sets of functionality, such as modules, are controlled by license codes. Many license codes, in turn, enable configuration keys that allow you to enable and disable functionality at a more detailed level. Use the procedures in this topic to enter or modify information about license codes.

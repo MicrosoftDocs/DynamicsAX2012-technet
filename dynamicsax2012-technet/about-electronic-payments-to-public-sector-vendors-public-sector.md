@@ -18,6 +18,9 @@ ms.search.region: Denmark, France
 # About electronic payments to public sector vendors (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how you can distribute the payment of an invoice to multiple vendor bank accounts. On the Accounts payable **Vendor invoice** form, you can select multiple bank accounts and allocate a percentage to each bank account. Based on the vendor bank accounts that you select, single or multiple open transactions are created against the invoice. You can create payments for each journal line without creating a partial payment for each vendor bank account.

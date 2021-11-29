@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a catch weight item with partial visibility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a catch weight item with partial visibility. For a catch weight item with partial visibility, one or more units of inventory use the same serial number or batch number. Only the aggregate of the values in the inventory unit is recorded. The values for individual units that share the same batch or serial number do not have to be recorded. As a result, the value in the inventory unit must be entered for each transaction that includes the inventory unit.

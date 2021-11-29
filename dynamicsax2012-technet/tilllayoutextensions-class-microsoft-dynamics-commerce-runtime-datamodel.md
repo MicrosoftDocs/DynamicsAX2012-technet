@@ -17,6 +17,9 @@ dev_langs:
 
 # TillLayoutExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides helper methods for till layout.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

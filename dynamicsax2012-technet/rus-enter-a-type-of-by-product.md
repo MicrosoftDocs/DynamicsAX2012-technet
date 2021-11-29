@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Enter a type of by-product 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Kinds of by-product** form to enter a type of by-product. You also specify the number of the general ledger account that is used to write off the cost of the scrap that you receive from production.

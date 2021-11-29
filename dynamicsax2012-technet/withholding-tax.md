@@ -13,6 +13,9 @@ f1_keywords:
 
 # withholding tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A tax levied by a government authority that is deducted from compensation.
 
 ## See also

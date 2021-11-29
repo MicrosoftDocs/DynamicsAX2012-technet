@@ -13,6 +13,9 @@ f1_keywords:
 
 # unit of work
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An object that uses referential integrity constraints to sequence database reading and writing operations in one atomic work process.
 
 ## See also

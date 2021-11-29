@@ -15,6 +15,9 @@ dev_langs:
 
 # Add Method (Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a new row based on it's data content.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

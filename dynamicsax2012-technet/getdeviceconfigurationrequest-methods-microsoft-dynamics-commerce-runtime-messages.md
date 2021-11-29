@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetDeviceConfigurationRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetDeviceConfigurationRequest](getdeviceconfigurationrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

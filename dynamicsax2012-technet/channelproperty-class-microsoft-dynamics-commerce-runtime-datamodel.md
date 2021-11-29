@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelProperty Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a single property of the channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

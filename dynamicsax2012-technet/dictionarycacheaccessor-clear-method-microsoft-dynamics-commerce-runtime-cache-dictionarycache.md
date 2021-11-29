@@ -17,6 +17,9 @@ dev_langs:
 
 # Clear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clears all the entities for the given data store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache](microsoft-dynamics-commerce-runtime-cache-dictionarycache-namespace.md)  

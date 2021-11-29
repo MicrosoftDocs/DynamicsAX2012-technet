@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a customer as a foreign counteragent 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Customers** form to set up a customer as a foreign counteragent, so that the customer can receive items that must be exported. The customer must be set up as a foreign counteragent before you can create a customs journal for the export operation.

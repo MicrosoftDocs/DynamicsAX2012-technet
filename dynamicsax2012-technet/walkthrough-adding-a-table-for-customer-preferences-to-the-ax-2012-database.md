@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Adding a table for customer preferences to the AX 2012 database 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In this walkthrough you create a new table in Microsoft Dynamics AX 2012 to capture additional customer data in a retail channel. The new table is called RetailCustPreferences and it is related to the CustTable so that each customer has the new fields for marketing preferences. You modify the customer form to display and add values to the field in the new table.

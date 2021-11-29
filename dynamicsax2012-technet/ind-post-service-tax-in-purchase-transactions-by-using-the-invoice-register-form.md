@@ -18,6 +18,9 @@ ms.search.region: India
 # (IND) Post service tax in purchase transactions by using the Invoice register form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Invoice register** form to post service tax in purchase transactions. You can specify the service code and service category for each journal line before you post the journal.

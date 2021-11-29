@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a completed sales order and its details.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

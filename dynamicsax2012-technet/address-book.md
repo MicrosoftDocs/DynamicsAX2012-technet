@@ -14,6 +14,9 @@ f1_keywords:
 
 # address book
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list of party records.
 
 ## See also

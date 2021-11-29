@@ -17,6 +17,9 @@ dev_langs:
 
 # PickAndPackOrderRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Workflow for picking list and packing slip creation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

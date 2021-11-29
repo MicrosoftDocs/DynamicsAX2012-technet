@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeActivitySearchCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a query to retrieve employee timeclock activities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

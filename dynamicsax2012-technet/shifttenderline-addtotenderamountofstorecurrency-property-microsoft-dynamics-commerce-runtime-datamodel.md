@@ -17,6 +17,9 @@ dev_langs:
 
 # AddToTenderAmountOfStoreCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets total amount added to tender in store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

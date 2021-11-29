@@ -13,6 +13,9 @@ f1_keywords:
 
 # posting layer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A current, tax, or operations ledger classification that is assigned to accounting journal entries.
 
 ## See also

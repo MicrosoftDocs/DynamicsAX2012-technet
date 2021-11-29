@@ -17,6 +17,9 @@ dev_langs:
 
 # GetRetailCategoryMembersForItems Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the category membership information for the product or variant identifiers passed in.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

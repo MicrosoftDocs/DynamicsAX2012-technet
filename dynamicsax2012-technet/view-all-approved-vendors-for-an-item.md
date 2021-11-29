@@ -14,6 +14,9 @@ ms.search.region: Global
 # View all approved vendors for an item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can display a list of approved vendors for a product from the Procurement and sourcing navigation pane or the Product information management navigation pane. You can also specify an effective period using the **Effective** and **Expiration** fields to view vendors who are approved during that specific time frame. If you specify only an effective date, all vendors who are approved on or after that date appear in the list.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Reporting currency configuration key (CurrencySecondaryCurrency) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Reporting currency** configuration key controls access to reporting currency functions.

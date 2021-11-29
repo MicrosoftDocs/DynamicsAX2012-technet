@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create an ODC file for a Business Overview Web Part 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Business Overview web part in role centers or Enterprise Portal to display business information such as measures or Key Performance Indicators (KPIs). An Office Data Connection (ODC) file is used to identify the Analysis Services database that contains measures and KPIs. You do not need an ODC file if you use measures or KPIs from the default Analysis Services database that ships with Microsoft Dynamics AX because the Business Overview web part will point to the default Analysis Services database. However, if you create additional Analysis Services databases, you must create ODC files to use measures and KPIs from those databases.

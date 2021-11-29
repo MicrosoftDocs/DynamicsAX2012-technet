@@ -17,6 +17,9 @@ dev_langs:
 
 # CostPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cost price of the item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Azure deployments of Microsoft Dynamics AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics Lifecycle Services, Cloud-hosted environments is a new tool that you can use to deploy Microsoft Dynamics AX 2012 R3 environments on Microsoft Azure.

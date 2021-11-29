@@ -17,6 +17,9 @@ dev_langs:
 
 # Distance Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the distance to the location.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

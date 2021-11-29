@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateHardwareStationTokenResult Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the activation result for a specific device.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

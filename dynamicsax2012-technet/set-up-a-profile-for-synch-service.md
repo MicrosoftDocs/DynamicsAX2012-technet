@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a profile for Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A profile for Commerce Data Exchange: Synch Service provides the connection string that enables Microsoft Dynamics AX to communicate with a particular instance of Synch Service.

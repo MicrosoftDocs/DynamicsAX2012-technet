@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AffiliationSqlServerDataService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AffiliationSqlServerDataService](affiliationsqlserverdataservice-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Properties

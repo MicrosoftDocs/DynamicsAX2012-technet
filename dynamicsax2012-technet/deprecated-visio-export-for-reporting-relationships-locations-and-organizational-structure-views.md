@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Visio Export for reporting relationships, locations, and organizational structure views 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, you can export the reporting relationships view, locations view, and organizational structure view to Visio.

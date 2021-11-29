@@ -17,6 +17,9 @@ dev_langs:
 
 # RemainingBalance Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The remaining balance on the card account, if available.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

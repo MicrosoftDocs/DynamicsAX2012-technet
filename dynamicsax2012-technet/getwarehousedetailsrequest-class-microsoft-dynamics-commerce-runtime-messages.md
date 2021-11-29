@@ -17,6 +17,9 @@ dev_langs:
 
 # GetWarehouseDetailsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetWarehouseDetailsRequest class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

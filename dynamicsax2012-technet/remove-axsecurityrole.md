@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Remove-AXSecurityRole
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Remove-AXSecurityRole
 
 Removes a security role from Microsoft Dynamics AX.

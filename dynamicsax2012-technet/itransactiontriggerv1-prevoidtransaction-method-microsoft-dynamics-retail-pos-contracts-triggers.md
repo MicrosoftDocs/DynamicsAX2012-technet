@@ -17,6 +17,9 @@ dev_langs:
 
 # PreVoidTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called before a transaction is voided.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

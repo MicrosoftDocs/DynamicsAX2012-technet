@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTotalDiscPctLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds total discount lines to the item lines.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

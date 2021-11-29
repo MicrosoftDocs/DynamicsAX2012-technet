@@ -13,6 +13,9 @@ f1_keywords:
 
 # filter
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A tool that you can use to categorize inventory items for quick searching. Filters also restrict the availability of items to customers, vendors, and warehouse processes.
 
 ## See also

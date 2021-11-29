@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a new Microsoft Dynamics AX configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Complete the following procedure to create a new configuration of Microsoft Dynamics AX and to export the configuration settings to a file.

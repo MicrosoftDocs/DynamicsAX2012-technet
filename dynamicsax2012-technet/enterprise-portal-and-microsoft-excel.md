@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enterprise Portal and Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The data that is contained in lists in Enterprise Portal for Microsoft Dynamics AX can be exported to Microsoft Excel. Click the **Export to Microsoft Excel** button on the **Action Pane**. In a static export, the data in Excel remains unchanged, unless you directly modify the data. In a dynamic export, when the data is refreshed in the database, Excel retrieves the updated data from Microsoft Dynamics AX by using Query Services.

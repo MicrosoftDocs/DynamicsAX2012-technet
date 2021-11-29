@@ -17,6 +17,9 @@ dev_langs:
 
 # ControllerName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

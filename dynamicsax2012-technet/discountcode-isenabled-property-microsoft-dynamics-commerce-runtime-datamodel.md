@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEnabled Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether this [DiscountCode](discountcode-class-microsoft-dynamics-commerce-runtime-datamodel.md) is enabled.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

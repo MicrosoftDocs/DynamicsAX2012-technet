@@ -14,6 +14,9 @@ f1_keywords:
 # Data Method Selector 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you use business logic to define a dataset for a report, you must specify a data method that is a source of data for the dataset. Only data methods that return a System.Data.IEnumerable instance can be used. When defining the dataset, you can type the data method name for the dataset **Query** property in the **Properties** window. Or, you can click the ellipsis button (…) for the **Query** property to display the **Select a Data Method** window. This window displays a list of all data methods that are available for the report. You can select a data method from the list. You can also execute data methods to view the results in the results pane. The following illustration shows the **Select a Data Method** window.

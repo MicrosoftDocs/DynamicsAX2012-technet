@@ -17,6 +17,9 @@ dev_langs:
 
 # DemoModeOperationNotSupported Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the operation is not supported in demo mode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

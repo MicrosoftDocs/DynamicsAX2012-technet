@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductSearchServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductSearchServiceRequest](productsearchservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

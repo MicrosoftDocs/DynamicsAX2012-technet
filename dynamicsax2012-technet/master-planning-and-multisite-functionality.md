@@ -18,6 +18,9 @@ ms.search.region: Global
 # Master planning and multisite functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To accommodate the multisite functionality, master scheduling must take the settings of the site and warehouse inventory dimensions into account. The site dimension is mandatory, and you can set the warehouse dimension to mandatory.

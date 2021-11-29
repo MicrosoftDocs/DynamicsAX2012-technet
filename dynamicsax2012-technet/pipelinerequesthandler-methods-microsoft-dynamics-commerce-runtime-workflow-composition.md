@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PipelineRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PipelineRequestHandler](pipelinerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow-composition.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Export financial information for auditors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can export financial data using the formats specified by the Standard Import Export Group (SIE), the organization in Sweden that develops standard formats. Before you export data, you must set up a three-digit Standardiserad Räkenskaps Utdrag (SRU) code for each general ledger account. For more information, see [(SWE) Set up SRU codes for ledger accounts](swe-set-up-sru-codes-for-ledger-accounts.md).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade conditions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you upgrade, you may have to modify conditions that are no longer valid. For example, you may have to update workflow conditions or expense policies. Use the following procedure to identify any conditions that have to be updated, and modify them.

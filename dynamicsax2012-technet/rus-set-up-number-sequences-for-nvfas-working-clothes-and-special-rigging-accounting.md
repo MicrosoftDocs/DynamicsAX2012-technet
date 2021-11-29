@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up number sequences for NVFAs, working clothes, and special rigging accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Fixed asset parameters** form to set up number sequences for working clothes, special rigging, not valuable fixed assets (NVFAs), and the related issue journals.

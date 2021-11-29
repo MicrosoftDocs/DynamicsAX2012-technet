@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestPipeline Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the handler to execute the pipeline.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

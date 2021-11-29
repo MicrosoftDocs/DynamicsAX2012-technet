@@ -18,6 +18,9 @@ dev_langs:
 
 # BuildWherePart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds WHERE clause to a string builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # activity occurrence
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An instance of an activity.
 
 ## See also

@@ -14,6 +14,9 @@ f1_keywords:
 # Service Management configuration key (SMAManagement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Service management** configuration key controls access to forms and functions for the subscription features in **Service management**. Service management is used to manage service agreements, service objects, service tasks, and service orders.

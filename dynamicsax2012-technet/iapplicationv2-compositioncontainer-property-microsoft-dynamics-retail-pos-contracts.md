@@ -17,6 +17,9 @@ dev_langs:
 
 # CompositionContainer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the composition container.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

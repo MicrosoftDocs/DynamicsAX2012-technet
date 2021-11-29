@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) CFOP code (upgrade) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In releases prior to Microsoft Dynamics AX 2012 R2, you could create multiple records for the same Código Fiscal de Operações e Prestações (CFOP) code by specifying different locations or types of transaction. In Microsoft Dynamics AX 2012 R2 and R3, you must create unique CFOP codes based on the location and direction of movement of the items. During upgrade preprocessing, if multiple records are available with the same CFOP code for different locations and types of transaction on the source system, you must select a unique CFOP code to add to the target system. The default location and direction for the CFOP code are updated in the **Location** and **Direction** fields in the **CFOP codes** form, based on the first digit of the CFOP code. The following table contains the first digits of CFOP codes and the default locations and directions they signify.

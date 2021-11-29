@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncRoot Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets an object that can be used to synchronize access to the collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

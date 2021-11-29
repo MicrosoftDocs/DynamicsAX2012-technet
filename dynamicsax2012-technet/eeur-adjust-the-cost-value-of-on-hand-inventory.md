@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Adjust the cost value of on-hand inventory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to adjust the cost value of complete on-hand inventories. The process recalculates the cost value of on-hand inventory quantities after an inventory close process is run, and then adjusts the transactions. The adjustments can be recorded as corrections in the general ledger.

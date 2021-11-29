@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Help content at an alternative location 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Help server folder on the file system contains both system files and content files. The location of this folder is a fixed parameter in Microsoft Dynamics AX. However, you can store the content at a different location by using the virtual directory feature in Internet Information Services (IIS).

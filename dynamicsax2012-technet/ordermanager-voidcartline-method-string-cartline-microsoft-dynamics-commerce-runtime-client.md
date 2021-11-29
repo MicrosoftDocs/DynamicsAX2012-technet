@@ -15,6 +15,9 @@ dev_langs:
 
 # VoidCartLine Method (String, CartLine)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids the cart line with default calculation modes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # economic resource
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A resource that is consumed, produced, and used to add value to an organization’s product delivery activities.
 
 ## See also

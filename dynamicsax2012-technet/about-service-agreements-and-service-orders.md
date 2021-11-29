@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service agreements and service orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Service agreements are agreements between service providers and customers that specify the amount and type of service that will be provided. These include, for example, monthly service visits for office equipment maintenance. You can automatically create service orders based on service agreements. You can associate service tasks and service objects to a service order line so you can group the service order lines by tasks and objects. All service agreements are attached to projects through which transactions are posted and invoiced.

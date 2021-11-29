@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the status of a loyalty card including card tiers and reward points status.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

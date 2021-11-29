@@ -17,6 +17,9 @@ dev_langs:
 
 # CashBack Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cash back amount associated with the transaction for a debit card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

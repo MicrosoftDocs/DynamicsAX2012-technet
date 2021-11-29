@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the collection of columns that should be retrieved by the query.
 
 If no columns have been specified, all columns are retrieved by default.

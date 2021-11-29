@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNearbyStores Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the nearby stores.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

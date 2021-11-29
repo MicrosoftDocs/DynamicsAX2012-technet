@@ -23,6 +23,9 @@ ms.search.region: Global
 # About catch weight items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You often use catch weight products in industries where products can vary slightly by weight or size, or both, such as the food industry. Catch weight products use two units of measure – an inventory unit and a catch weight unit. The inventory unit is the unit of measure in which the product is weighed and invoiced. The catch weight unit is the unit in which the inventory transactions are performed, such as sold, received, transferred, picked, and shipped. The nominal quantity represents the conversion between the catch weight unit and the inventory unit. Minimum and maximum quantities represent the allowed interval in which the inventory quantity can vary.

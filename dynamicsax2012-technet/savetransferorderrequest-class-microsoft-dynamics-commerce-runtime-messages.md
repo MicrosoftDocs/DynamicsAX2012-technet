@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveTransferOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The request to save a transfer order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

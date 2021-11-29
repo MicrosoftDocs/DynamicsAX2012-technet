@@ -17,6 +17,9 @@ dev_langs:
 
 # ThrowIfNull Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper activity to validate arguments before using them.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  

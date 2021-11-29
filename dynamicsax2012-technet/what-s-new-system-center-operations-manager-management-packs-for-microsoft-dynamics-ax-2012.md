@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: System Center Operations Manager Management Packs for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 System Center Operations Manager management packs are available for both Microsoft Dynamics AX and Microsoft Dynamics AX Retail. The System Center Management Pack for Microsoft Dynamics AX 2012 has been updated to work with Microsoft Dynamics AX 2012 R3, and is cumulative for all versions of Microsoft Dynamics AX 2012. The System Center Management Pack for Microsoft Dynamics AX Retail 2012 R3 works only with Microsoft Dynamics AX 2012 R3.

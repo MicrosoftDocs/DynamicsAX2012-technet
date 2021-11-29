@@ -17,6 +17,9 @@ dev_langs:
 
 # EmptyInventoryUnitOfMeasureForItem Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the inventory unit of measure is not set for an item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

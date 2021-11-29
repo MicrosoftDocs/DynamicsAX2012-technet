@@ -13,6 +13,9 @@ f1_keywords:
 
 # consolidation opportunity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A potential cost-savings event obtained by grouping approved requisition line items in order to negotiate a more favorable price with vendors.
 
 ## See also

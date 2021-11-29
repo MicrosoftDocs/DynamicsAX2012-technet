@@ -15,6 +15,9 @@ ms.search.region: Global
 # About registrations in electronic timecards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers can use the **Electronic timecard** form to register their work time. The electronic timecard is typically used by workers with job tasks that do not require immediate feedback, for example, project activities.

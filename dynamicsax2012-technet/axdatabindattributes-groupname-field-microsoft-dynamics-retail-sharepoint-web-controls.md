@@ -18,6 +18,9 @@ dev_langs:
 
 # GroupName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-bind" which binds the element's input to the specified data property.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

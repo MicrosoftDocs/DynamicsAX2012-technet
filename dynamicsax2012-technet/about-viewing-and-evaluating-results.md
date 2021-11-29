@@ -18,6 +18,9 @@ ms.search.region: Global
 # About viewing and evaluating results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After respondents complete a questionnaire, you can view and evaluate the questionnaire results in the following ways:

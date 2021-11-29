@@ -17,6 +17,9 @@ dev_langs:
 
 # IsExceptionSupported Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if expcetion is supported or not.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

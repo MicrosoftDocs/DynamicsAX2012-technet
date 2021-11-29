@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Client security and protection 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes important considerations and best practices for the security of Microsoft Dynamics AX 2012 client computers. One of the most important security considerations is how you deploy the client. Attention must be given to security when the Microsoft Dynamics AX client is deployed. Otherwise, malicious users may gain access to Microsoft Dynamics AX data, or users in your business or organization may unintentionally gain access to sensitive data. Regardless of whether your business or organization runs only a few Microsoft Dynamics AX clients or dozens of clients, we recommend that you deploy the client in the way that is described in this topic. By following these recommendations, you can help protect your data and reduce the overall attack surface of your computing environment. This topic includes the following information:

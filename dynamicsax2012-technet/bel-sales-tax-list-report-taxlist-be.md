@@ -18,6 +18,9 @@ f1_keywords:
 # (BEL) Sales tax list report (TaxList\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax list** report displays and prints details of posted sales tax. This report includes the total amounts, original amounts, and tax amounts for each sales tax code and ledger account. This report is typically used by accounts receivable managers, accounting managers, accounting supervisors, sales managers, sales clerk, accountants, and collections managers to inquire into the status of sales tax transactions.

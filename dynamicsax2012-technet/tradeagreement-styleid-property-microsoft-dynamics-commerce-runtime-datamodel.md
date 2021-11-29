@@ -17,6 +17,9 @@ dev_langs:
 
 # StyleId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the style Id (if any) set on this trade agreement.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

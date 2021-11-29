@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetExternalShippingRateServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetExternalShippingRateServiceRequest](getexternalshippingrateservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

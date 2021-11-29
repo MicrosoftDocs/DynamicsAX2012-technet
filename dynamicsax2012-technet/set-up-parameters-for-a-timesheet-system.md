@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up parameters for a timesheet system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure options for your organization’s timesheet system by using the **General** and **Timesheet** areas in the **Project management and accounting parameters** form.

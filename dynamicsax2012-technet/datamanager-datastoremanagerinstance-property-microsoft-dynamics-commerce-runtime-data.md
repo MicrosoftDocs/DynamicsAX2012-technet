@@ -17,6 +17,9 @@ dev_langs:
 
 # DataStoreManagerInstance Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the instance of the associated data store manager object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

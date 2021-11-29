@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up folders to save exported electronic documents to and store the statuses of reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you export electronic documents, you must set up company information in the **Legal entities** form. For more information, see [(RUS) Legal entities (modified form)](https://technet.microsoft.com/library/jj711352\(v=ax.60\)).

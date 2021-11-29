@@ -13,6 +13,9 @@ f1_keywords:
 
 # reinstate charge
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To reintroduce interest or fees that were originally waived for a party.
 
 ## See also

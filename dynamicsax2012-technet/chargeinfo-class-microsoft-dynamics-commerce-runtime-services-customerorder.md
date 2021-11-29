@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Misc. Charge, info for use in transmitting via TS call.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

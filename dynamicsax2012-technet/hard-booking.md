@@ -13,6 +13,9 @@ f1_keywords:
 
 # hard booking
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A project booking that commits a resource to a project or activity, usually for a specified period of time on a project schedule.
 
 ## See also

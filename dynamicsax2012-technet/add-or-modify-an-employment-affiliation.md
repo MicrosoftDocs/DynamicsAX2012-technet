@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add or modify an employment affiliation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add or modify a worker’s employment affiliation in the following ways:

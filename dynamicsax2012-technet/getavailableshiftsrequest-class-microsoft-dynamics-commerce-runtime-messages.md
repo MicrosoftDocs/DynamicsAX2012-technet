@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableShiftsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get available shifts request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetItemBarcodesByIdResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetItemBarcodesByIdResponse](getitembarcodesbyidresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

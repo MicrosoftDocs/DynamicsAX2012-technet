@@ -13,6 +13,9 @@ f1_keywords:
 
 # upcast
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An expression that modifies an object type into the type of a base class.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # natural key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A primary key or alternate key whose values identify objects in the real world.
 
 ## See also

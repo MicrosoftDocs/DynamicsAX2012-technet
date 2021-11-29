@@ -18,6 +18,9 @@ dev_langs:
 
 # Label Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generic css class for label elements.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

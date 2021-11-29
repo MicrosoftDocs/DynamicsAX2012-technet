@@ -15,6 +15,9 @@ dev_langs:
 
 # ValidRelation Method (PriceDiscountAccountCode, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if there is a valid relation between the accountcode and relation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

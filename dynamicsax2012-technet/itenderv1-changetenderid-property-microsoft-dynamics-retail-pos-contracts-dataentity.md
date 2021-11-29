@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeTenderID Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tender ID used to pay charge
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

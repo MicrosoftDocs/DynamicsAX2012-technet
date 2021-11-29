@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase order discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount deducted from the total net amount calculation on a purchase order.
 
 ## See also

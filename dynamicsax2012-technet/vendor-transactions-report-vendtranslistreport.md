@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor transactions report (VendTransListReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use report to view a list of vendor transactions that have been invoiced. The report includes the debit, credit, and currency amounts for each invoice. Amounts are displayed in the currency of the transaction and in the accounting currency.

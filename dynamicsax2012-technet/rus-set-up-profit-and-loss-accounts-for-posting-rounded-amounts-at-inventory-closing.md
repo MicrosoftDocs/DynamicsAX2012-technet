@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up profit and loss accounts for posting rounded amounts at inventory closing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a ledger account to post rounding differences that occur during inventory settlement. The rounding difference can be a profit or a loss, based on the difference between the amount of the cost value adjustment for an inventory transaction and the minimum throughput adjustment that is indicated during inventory closing. You must perform inventory settlement before you run the inventory closing process.

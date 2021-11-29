@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Post an internal invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An internal invoice documents how taxes are calculated for purchases that are made within the European Union (EU). The internal invoice is a tax calculation document that is separate from the vendor invoice. You can create one EU internal invoice for multiple transactions or you can create an EU invoice for each transaction.

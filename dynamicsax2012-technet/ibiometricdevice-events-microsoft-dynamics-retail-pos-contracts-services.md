@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IBiometricDevice Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IBiometricDevice](ibiometricdevice-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Events

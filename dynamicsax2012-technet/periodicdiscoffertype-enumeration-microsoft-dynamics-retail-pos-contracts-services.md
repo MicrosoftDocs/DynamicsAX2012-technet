@@ -22,6 +22,9 @@ dev_langs:
 
 # PeriodicDiscOfferType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.PeriodicDiscOfferType interface defines the type of the discount: offer, promotion, quantity discount, or mix and match discount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

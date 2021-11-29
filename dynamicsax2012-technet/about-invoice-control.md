@@ -18,6 +18,9 @@ ms.search.region: Global
 # About invoice control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use invoice control to track both invoiced and non-invoiced transactions, and to analyze those transactions against quotations for an end-to-end view of your projects from the quotation stage to completion. The **Invoice control** form provides a view of which transactions have been charged to a specific project. It also provides a view of which lines have been invoiced. As with other types of control forms, you can also view individual transactions so that you can adjust them after they are posted.

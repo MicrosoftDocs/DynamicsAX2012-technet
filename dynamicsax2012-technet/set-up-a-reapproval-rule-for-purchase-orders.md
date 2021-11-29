@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a reapproval rule for purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a reapproval rule that specifies the fields that, when they are changed, require an approved purchase order to be manually reapproved. When you create this kind of rule, you can control when a purchase order requires manual reapproval by the designated approvers in the workflow process that is defined for your organization. Any fields that are not included in the reapproval rule are automatically approved by the workflow process. For example, you might not want a routine change that is considered standard for the purchase order process to require manual reapproval by the approvers in the purchase order workflow, such as when the vendor’s confirmed delivery date is entered. Therefore, you would not include the **Confirmed** field in your reapproval rule.

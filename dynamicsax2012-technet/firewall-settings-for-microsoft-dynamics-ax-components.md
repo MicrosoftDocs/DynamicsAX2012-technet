@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Firewall settings for Microsoft Dynamics AX components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you use Windows Firewall to help protect your computers, Microsoft Dynamics AX components require the settings in the following table. For more information about Windows Firewall, see the Windows documentation.

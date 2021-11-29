@@ -17,6 +17,9 @@ dev_langs:
 
 # SubtotalAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the subtotal amount on this sales transaction.
 
 Subtotal is the net amount for the transaction (which includes the discounts, but not charges), and optionally the tax amount if tax inclusive.

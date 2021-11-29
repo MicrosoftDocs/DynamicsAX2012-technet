@@ -18,6 +18,9 @@ ms.search.region: Global
 # About setting up taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You must set up sales tax codes, item sales tax groups, and sales tax groups by completing the tasks that are described in Microsoft Dynamics AX Help. To support retail operations, you must also complete the following tasks.

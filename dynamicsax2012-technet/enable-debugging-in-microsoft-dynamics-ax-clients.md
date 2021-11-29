@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enable debugging in Microsoft Dynamics AX clients 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about how to enable breakpoints by using the Microsoft Dynamics AX 2012 Configuration utility. After you enable breakpoints, you can debug a Microsoft Dynamics AX client or an instance of .NET Business Connector.

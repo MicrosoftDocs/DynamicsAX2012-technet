@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridByIdServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ButtonGridServiceRequest class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

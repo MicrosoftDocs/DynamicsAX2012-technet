@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponentPropertiesSearchPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the search property that contains the properties of the item when it appears as a component of a kit.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

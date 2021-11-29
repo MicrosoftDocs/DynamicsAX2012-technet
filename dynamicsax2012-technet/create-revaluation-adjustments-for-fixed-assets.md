@@ -22,6 +22,9 @@ ms.search.region: Global
 # Create revaluation adjustments for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Revaluation changes the value of an asset and can cause either an increase or decrease in the value of an asset. One of the main reasons for the revaluation of an asset is to accurately reflect the fair market price of the asset.

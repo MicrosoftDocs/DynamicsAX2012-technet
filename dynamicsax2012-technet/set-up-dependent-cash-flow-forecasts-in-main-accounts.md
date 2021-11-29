@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up dependent cash flow forecasts in main accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a dependent cash flow forecast for a main account that contains transactions that are directly related to transactions in another main account. For example, expected sales tax payments directly follow the expected transaction amounts in vendor accounts.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Key tasks: Set up a category hierarchy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Category hierarchies are used to classify products, vendors, and other data for reporting and analysis. Each hierarchy consists of a parent category and a structure of subcategories, which are also named the child categories. An organization may have more than one category hierarchy. For example, there may be a category hierarchy of commodity codes that are used for sales, and another category hierarchy for categorizing procurement activities. You can import commodity codes from a standard industry classification system, or you can manually create a category hierarchy to meet the business requirements for your organization.

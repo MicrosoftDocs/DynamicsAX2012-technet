@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the type of the purchase/transfer/picking order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

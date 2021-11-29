@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTuesdayEndTimeAfterMidnight Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether ending time wraps around after midnight for Tuesdays in this period.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

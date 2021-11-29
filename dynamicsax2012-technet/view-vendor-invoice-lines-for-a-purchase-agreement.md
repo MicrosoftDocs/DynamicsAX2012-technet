@@ -14,6 +14,9 @@ ms.search.region: Global
 # View vendor invoice lines for a purchase agreement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to view vendor invoice lines that are associated with purchase orders that have been released from a purchase agreement.

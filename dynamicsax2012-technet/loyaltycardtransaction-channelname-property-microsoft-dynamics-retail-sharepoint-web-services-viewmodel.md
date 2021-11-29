@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel name where the transaction occurred.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

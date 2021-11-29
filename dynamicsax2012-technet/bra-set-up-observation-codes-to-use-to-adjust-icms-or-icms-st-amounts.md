@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up observation codes to use to adjust ICMS or ICMS-ST amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you adjust Imposto sobre Circulação de Mercadorias e Serviços (ICMS) or ICMS tributary substitution (ICMS-ST) tax amounts for fiscal documents, you can specify an observation code and description that provides more information about the reason for the adjustment. Before you can adjust ICMS or ICMS-ST tax amounts for fiscal documents, you must create observation codes. This topic explains how to create observation codes by using the **Observation codes** form. For information about how to adjust ICMS or ICMS-ST amounts for fiscal documents, see [(BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes](bra-assess-pay-declare-and-adjust-icms-and-icms-st-taxes.md).

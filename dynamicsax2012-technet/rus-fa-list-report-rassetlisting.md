@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA list report (RAssetListing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA list report displays information about fixed assets, such as the identification number, name, status, and net book value. Accountants generate this report periodically to verify the information for a list of fixed assets.

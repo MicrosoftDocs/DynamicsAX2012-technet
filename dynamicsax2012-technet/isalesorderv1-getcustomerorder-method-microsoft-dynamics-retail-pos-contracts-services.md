@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

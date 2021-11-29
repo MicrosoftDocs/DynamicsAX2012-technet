@@ -17,6 +17,9 @@ ms.search.region: Global
 # Verifying expense reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before an expense report can be approved, it must complete an approval process that has predefined steps. These steps might include automatic approval or an assignment to one or more reviewers or approvers. Reviewers or approvers of the expense report can verify the expenses to assure they conform to expense report policies.

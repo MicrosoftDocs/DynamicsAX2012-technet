@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckDatabase Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks the specified database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

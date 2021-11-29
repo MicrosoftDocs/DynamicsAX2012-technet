@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHardwareProfileById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets hardware profile by ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

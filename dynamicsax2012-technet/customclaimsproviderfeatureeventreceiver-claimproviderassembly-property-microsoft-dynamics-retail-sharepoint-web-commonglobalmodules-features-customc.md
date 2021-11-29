@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimProviderAssembly Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the assembly that contains the claims provider.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.CommonGlobalModules.Features.CustomClaimsProviderFeature](microsoft-dynamics-retail-sharepoint-web-commonglobalmodules-features-customclaimsproviderfeature-namespace.md)  

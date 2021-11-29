@@ -13,6 +13,9 @@ f1_keywords:
 
 # process
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A functional work structure that an organization is responsible for designing, controlling, and improving. A process comprises a coordinated set of activities in which one or more participants consume, produce, and use economic resources to achieve one or more organizational goals.
 
 ## See also

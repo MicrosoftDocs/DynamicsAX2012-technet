@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up travel and expense parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin to work in **Travel and expense**, you can set default values in the **Travel and expense parameters** form. By presetting these values, you can reduce the amount of data that must be entered manually when you create new expense reports and complete expense report transactions.

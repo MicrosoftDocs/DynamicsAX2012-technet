@@ -15,6 +15,9 @@ ms.search.region: Global
 # About inventory recalculation and the general ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Several of the tasks that you can perform from the **Closing and adjustment** form cause an update to the general ledger. These tasks include adjusting on-hand inventory, adjusting inventory transactions, running inventory recalculations, and running inventory closes.

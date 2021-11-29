@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Fix Element IDs (SQL patch script for AX 2012 R2 + CU6 upgrade scenarios) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This topic provides a SQL script to repair incorrect element IDs when upgrading to Microsoft Dynamics AX 2012 R2 + CU6 from any of the following configurations:

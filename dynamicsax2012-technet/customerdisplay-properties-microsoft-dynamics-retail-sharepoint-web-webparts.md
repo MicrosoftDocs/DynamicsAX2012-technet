@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerDisplay Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerDisplay](customerdisplay-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryLookup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the inventory lookup.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CreateHardwareStationTokenRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CreateHardwareStationTokenRequest](createhardwarestationtokenrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

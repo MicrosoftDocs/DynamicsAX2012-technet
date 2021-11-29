@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridsByIdsRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the workflow required to fetch buttongrids by identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

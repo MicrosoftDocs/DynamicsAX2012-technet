@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceActionParameterNames Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The commerce action parameter names.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

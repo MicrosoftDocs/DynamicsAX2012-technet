@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelConfiguration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel configuration for the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

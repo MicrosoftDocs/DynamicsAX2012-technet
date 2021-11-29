@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create or modify a security privilege, duty, or process cycle 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If the security privileges, duties, and process cycles that are provided with Microsoft Dynamics AX do not meet the requirements of your business, you can create new privileges, duties, and process cycles.

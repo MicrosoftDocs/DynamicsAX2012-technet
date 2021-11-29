@@ -13,6 +13,9 @@ f1_keywords:
 
 # performance dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A dimension used to distinguish and categorize key performance activity against objectives.
 
 ## See also

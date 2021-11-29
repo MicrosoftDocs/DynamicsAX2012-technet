@@ -17,6 +17,9 @@ dev_langs:
 
 # InitializePrinter Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to initialize the printer driver, connect to the serial port, verifies the printer state, paper status and recover any pending transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

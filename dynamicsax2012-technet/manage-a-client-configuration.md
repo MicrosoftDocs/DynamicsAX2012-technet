@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage a client configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are a member of the Administrators group on the local computer, you can manage configurations for Microsoft Dynamics AX clients by using the Microsoft Dynamics AX 2012 Configuration utility. For information about how to use a shared configuration file to manage Microsoft Dynamics AX clients, see [Configure clients to use a shared configuration](configure-clients-to-use-a-shared-configuration.md). For information about how to manage configurations for .NET Business Connector, see [Create a configuration for .NET Business Connector](create-a-configuration-for-net-business-connector.md). This topic includes the following sections.

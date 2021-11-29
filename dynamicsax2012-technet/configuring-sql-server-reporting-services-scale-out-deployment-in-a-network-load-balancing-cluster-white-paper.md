@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configuring SQL Server Reporting Services scale-out deployment in a Network Load Balancing cluster (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper explains how to configure a Microsoft SQL Server Reporting Services scale-out deployment to run in a Network Load Balancing (NLB) cluster.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Load Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads the device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

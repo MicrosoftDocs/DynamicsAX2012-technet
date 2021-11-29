@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule in an accounting system that controls the principles, methods, and procedures for classifying, recording, and reporting the financial consequences of accounting events.
 
 ## See also

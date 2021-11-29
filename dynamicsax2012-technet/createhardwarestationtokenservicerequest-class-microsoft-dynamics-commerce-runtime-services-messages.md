@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateHardwareStationTokenServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Service request for creating a hardware station token
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay\_RU) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Pay-sheet of receipts and expenditure report displays transactions that are related to the receipt, issue, and consumption of inventory items. The data on this report is grouped by the site and the warehouse where the items are stored. Accountants use this report to review the quantity and value of inventory items that are issued and received.

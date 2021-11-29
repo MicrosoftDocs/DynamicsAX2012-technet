@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About recalculation of indirect taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Sometimes, when a transaction is posted, the taxes that are included in the transaction must be recalculated. Indirect taxes, such as excise tax, service tax, and value-added tax (VAT), and the information that is entered in specific fields will cause taxes to be recalculated when a an invoice is generated for the transaction. The information is then updated in the **Temporary sales tax transactions** form. When the transaction invoice is posted, the information in the **Temporary sales tax transactions** form will be included in when the invoice is posted.

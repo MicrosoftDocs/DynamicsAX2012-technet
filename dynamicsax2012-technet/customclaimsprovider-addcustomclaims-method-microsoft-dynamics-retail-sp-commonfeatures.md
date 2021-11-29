@@ -17,6 +17,9 @@ dev_langs:
 
 # AddCustomClaims Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add Custom claims name i.e. Email and customer Id
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

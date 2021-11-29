@@ -18,6 +18,9 @@ ms.search.region: Denmark
 # (DNK) Create and post a project invoice for a public sector customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate electronic invoices for customers for whom you have specified the European Article Numbering (EAN) number in the **EAN** field and selected the **eInvoice** check box in the **Customers** form. Verify that a contact person is assigned for the customer in the **Customers** form.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueLoyaltyCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issues a new loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

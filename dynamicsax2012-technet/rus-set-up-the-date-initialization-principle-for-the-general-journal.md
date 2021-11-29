@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up the date initialization principle for the general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal names** form to set up the **Principle of date initialization** value for general ledger journals.

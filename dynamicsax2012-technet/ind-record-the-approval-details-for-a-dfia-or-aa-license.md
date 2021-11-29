@@ -30,6 +30,9 @@ ms.search.region: India
 # (IND) Record the approval details for a DFIA or AA license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you receive approval from the customs authority for an export-import (EXIM) incentive scheme authorization, use this procedure to enter the approval details in Microsoft Dynamics AX.

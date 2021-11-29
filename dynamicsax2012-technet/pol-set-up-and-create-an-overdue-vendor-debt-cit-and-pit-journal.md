@@ -38,6 +38,9 @@ ms.search.region: Poland
 # (POL) Set up and create an overdue vendor debt CIT and PIT journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the parameters that are used to identify the transactions that are included in the overdue vendor debt Corporate Income Tax (CIT) and Personal Income Tax (PIT) journal. You can then create an overdue vendor debt CIT and PIT journal for a period that you specify. The journal contains the following information:

@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPreRender Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs WS-Federation Passive Protocol processing.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

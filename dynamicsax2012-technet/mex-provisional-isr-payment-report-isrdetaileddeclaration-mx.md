@@ -16,6 +16,9 @@ f1_keywords:
 # (MEX) Provisional ISR payment report (ISRDetailedDeclaration\_MX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Provisional ISR payment report** displays the details of ledger transactions for each main account and Impuesto sobre la renta (ISR) report concept. The ISR report concept is a method based on which the ISR provisional payment is calculated. This report is used to verify the ledger transactions before you print a summary of ISR provisional payments. This report is typically used by chief executive officers, chief financial officers, compliance managers, accountants, accounting supervisors, financial controllers, and clerks to inquire into the status of the ledger transactions.

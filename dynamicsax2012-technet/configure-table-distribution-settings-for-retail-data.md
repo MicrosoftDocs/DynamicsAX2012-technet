@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure table distribution settings for Retail data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This section explains how to use table distributions in Retail in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 Feature Pack. The distribution settings for a table determine whether the data is distributed between Microsoft Dynamics AX and stores. These settings also specify which locations the data is distributed to, and whether records in parent tables or child tables are distributed together with the data.

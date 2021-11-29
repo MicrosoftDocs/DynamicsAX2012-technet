@@ -17,6 +17,9 @@ dev_langs:
 
 # PaySalesInvoice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Settle payment against an existing open sales invoice.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

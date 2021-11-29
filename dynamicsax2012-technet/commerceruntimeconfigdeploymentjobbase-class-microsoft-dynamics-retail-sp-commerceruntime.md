@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeConfigDeploymentJobBase Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Job that installs or uninstalls the commonRuntime.config and workflowFoundation.config files next to the web.config file in a specified web app.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime](microsoft-dynamics-retail-sp-commerceruntime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # BusinessLogic Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the application business logic.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

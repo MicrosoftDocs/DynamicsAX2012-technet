@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a tax line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

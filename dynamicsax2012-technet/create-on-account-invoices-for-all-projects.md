@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create on-account invoices for all projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create an on-account invoice as a progress billing that is unrelated to specific costs on Time and material projects. You can also create on-account invoices for a specified percentage of Fixed-price contract amounts.

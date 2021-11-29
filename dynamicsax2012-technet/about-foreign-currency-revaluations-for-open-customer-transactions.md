@@ -15,6 +15,9 @@ ms.search.region: Global
 # About foreign currency revaluations for open customer transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The theoretical value, or book value, of open customer transactions in foreign currencies varies over time, based on fluctuations in the exchange rates.

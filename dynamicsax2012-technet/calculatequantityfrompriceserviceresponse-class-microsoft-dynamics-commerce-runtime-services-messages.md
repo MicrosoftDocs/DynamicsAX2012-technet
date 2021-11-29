@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateQuantityFromPriceServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CalculateQuantityFromPriceServiceResponse contains the service response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -16,6 +16,9 @@ ms.search.region: Global
 # Get started with the workflow system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide an overview of the workflow system and explain how you can use it in your organization.

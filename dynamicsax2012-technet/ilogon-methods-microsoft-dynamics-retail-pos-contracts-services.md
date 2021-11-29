@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ILogOn Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ILogOn](ilogon-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

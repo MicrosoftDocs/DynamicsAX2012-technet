@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesInvoice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sale invoice service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

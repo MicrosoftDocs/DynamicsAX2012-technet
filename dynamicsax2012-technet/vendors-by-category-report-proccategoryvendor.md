@@ -15,6 +15,9 @@ f1_keywords:
 # Vendors by category report (ProcCategoryVendor) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendors by category** report to view the vendors that are authorized to supply products for a selected procurement category in a legal entity. The report displays the vendor account, vendor name, and vendor status for the legal entity and procurement category that you select.

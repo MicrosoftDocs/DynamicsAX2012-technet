@@ -13,6 +13,9 @@ f1_keywords:
 
 # receipt advice
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A business document that documents a summary of the products a buyer receives from a vendor.
 
 ## See also

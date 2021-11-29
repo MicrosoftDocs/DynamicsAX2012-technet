@@ -17,6 +17,9 @@ dev_langs:
 
 # ShouldCountNonDiscountItems Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the threshold offer setting indicated whether non-discount items contribute to threshold amount trigger.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up bank reconciliation matching rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up reconciliation matching rules and reconciliation matching rule sets to help the bank reconciliation process. Reconciliation matching rules are a set of criteria that are used to filter bank statement lines and bank document lines during the reconciliation process. You can set up more than one matching rule and create a reconciliation matching rule set in the **Reconciliation matching rule sets** form. Use the **Reconciliation matching rules** form to set up the reconciliation matching rules.

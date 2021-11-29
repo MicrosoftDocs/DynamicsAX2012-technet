@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up dynamic table requisites for text formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Dynamic table requisites are uniform requisites that can be consolidated into a table if you do not know the number of table lines when you set up the template. In text formats, the code for dynamic table requisites is generated like the code for table requisites. The code is based on the rule in the **Format** field, and on the line and column number in the table. Because the number of lines in a dynamic table is not known when you set up the template, you can assign the same line number to all requisites.

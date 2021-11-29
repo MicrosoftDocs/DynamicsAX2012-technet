@@ -15,6 +15,9 @@ dev_langs:
 
 # IsValidSqlDateTime Method (DateTimeOffset)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the specified [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) is valid within the allowed range of a [SqlDateTime](https://technet.microsoft.com/library/f1ys9ehh\(v=ax.60\)) data type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

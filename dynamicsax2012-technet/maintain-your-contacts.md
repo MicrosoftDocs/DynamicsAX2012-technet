@@ -19,6 +19,9 @@ ms.search.region: Global
 # Maintain your contacts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the Vendor portal, you can view, add, modify, or delete contact information about the individuals in your company who interact with the customer.

@@ -17,6 +17,9 @@ dev_langs:
 
 # RedeemRanking Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the redeem ranking.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

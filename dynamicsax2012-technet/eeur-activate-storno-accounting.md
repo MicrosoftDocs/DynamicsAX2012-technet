@@ -20,6 +20,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Activate storno accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use these procedures to set up storno accounting in Microsoft Dynamics AX. In storno accounting, you reverse the sign on amounts to reverse incorrect original transactions. For example, the following transactions are incorrectly recorded.

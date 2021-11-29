@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToFindDeliveryOptions Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the specified notification type is unknown.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

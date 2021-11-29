@@ -14,6 +14,9 @@ ms.search.region: Global
 # Revoke a reversed transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You might have to revoke a transaction that has been reversed. For example, you must revoke a reversed transaction if you have to change the transaction date of the original posting.

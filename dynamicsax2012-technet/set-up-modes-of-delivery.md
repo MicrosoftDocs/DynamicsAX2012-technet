@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up modes of delivery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to specify which modes of delivery are available to customers in your retail stores and online stores. You can also specify different modes of delivery for specific combinations of retail channels, products, and geographic areas.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # source company account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The legal entity that is the origin of a liability in an intercompany economic transaction.
 
 ## See also

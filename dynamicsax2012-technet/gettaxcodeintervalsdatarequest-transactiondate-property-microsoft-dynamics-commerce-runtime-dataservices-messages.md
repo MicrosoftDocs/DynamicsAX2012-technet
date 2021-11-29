@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

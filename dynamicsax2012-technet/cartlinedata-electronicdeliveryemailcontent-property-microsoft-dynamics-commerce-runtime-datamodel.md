@@ -17,6 +17,9 @@ dev_langs:
 
 # ElectronicDeliveryEmailContent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value for the electronic delivery email content.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

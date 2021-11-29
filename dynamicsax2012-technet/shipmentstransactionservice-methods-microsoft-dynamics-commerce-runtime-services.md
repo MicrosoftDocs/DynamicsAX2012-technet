@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShipmentsTransactionService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShipmentsTransactionService](shipmentstransactionservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

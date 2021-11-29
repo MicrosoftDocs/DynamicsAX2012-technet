@@ -13,6 +13,9 @@ f1_keywords:
 
 # consolidation account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The main account in the parent legal entity that is used for ledger consolidation.
 
 ## See also

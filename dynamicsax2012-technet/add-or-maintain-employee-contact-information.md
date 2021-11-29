@@ -17,6 +17,9 @@ ms.search.region: Global
 # Add or maintain employee contact information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are a manager, you can use the **View employee** page to update the contact information for your employees. If you are an employee, see [Maintain your personal information](maintain-your-personal-information.md) for more information.

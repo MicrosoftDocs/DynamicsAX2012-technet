@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlRadioButtons Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a group of related Html radio buttons.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

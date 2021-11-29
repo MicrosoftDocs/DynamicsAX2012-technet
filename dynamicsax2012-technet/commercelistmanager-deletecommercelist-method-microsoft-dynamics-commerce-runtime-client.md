@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteCommerceList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Delete the commerce list.
 
 This method deletes an entire commerce list entity. This capability currently only applies to the online channel.

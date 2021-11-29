@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPageFromCollections(T, TKey) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a page from collections based on current pagination info.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

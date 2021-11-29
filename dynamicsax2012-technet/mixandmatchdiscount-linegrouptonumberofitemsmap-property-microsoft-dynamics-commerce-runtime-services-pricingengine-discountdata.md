@@ -17,6 +17,9 @@ dev_langs:
 
 # LineGroupToNumberOfItemsMap Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the map of mix and match line group to number of items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

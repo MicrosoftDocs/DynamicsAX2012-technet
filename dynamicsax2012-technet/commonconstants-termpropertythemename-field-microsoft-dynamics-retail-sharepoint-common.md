@@ -17,6 +17,9 @@ dev_langs:
 
 # TermPropertyThemeName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of the theme name used to render category's image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

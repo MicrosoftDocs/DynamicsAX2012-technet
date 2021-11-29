@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Sales tax corrections report (TaxReportCorrectionBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax corrections** report displays an overview of the adjustments that are made to the VAT declaration amount by using the sales tax corrections feature, without posting the sales tax corrections. The sales tax corrections are grouped by settlement period and sales tax box. This report is typically used by accounting clerks, accounting managers, and accounting supervisors to inquire into the adjustments made to the sales tax amounts in VAT declarations.

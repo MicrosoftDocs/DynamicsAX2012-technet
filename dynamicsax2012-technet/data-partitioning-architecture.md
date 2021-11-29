@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Data partitioning architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2012 R2 enables data isolation by using data partitions. For example, an organization has several subsidiaries. If the management of the organization does not want employees of one subsidiary to have access to the data for other subsidiaries, data partitions can provide the boundaries that are required for data isolation.

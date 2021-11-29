@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure an AOS instance as a batch server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to configure an Application Object Server (AOS) instance to function as a batch server.

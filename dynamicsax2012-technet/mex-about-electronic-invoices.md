@@ -21,6 +21,9 @@ ms.search.region: Mexico
 # (MEX) About electronic invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An electronic invoice is a legally accepted digital tax receipt that your organization submits to the Servicio de Administración Tributaria (SAT). By using Microsoft Dynamics AX to generate electronic invoices, you help make sure that the electronic invoices that your organization generates are secure, confidential, authentic, and legally acceptable. You can also make sure that international standards are applied to your electronic invoices.

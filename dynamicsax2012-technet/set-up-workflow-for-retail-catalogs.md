@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up workflow for retail catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up workflow for retail catalogs, so that the catalog products can be reviewed and approved before they are published. When you set up the workflow process for retail product catalogs, you have two options. The workflow process can approve the retail product catalogs automatically, without manual intervention, or you can route the catalogs to one or more reviewers for review and approval. A retail product catalog must be approved before it can be published.

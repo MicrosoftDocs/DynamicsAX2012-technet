@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTenderLinesForSalesOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the details of the transactions that are to be present on the receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

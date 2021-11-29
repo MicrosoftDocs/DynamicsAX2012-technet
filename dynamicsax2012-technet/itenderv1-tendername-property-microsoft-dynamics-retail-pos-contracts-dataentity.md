@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tender name
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Setup PIS and COFINS tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to setup specific PIS and COFINS tables used during the generation of PIS and COFINS tax assessment. These tables are required to generates the SPED EFD - Contributions text file.
 
 ## Set up CFOP and Credit base source table

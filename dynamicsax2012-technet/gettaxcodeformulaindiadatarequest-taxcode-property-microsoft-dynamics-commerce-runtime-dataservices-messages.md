@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

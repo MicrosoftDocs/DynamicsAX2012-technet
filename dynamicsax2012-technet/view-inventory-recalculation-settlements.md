@@ -14,6 +14,9 @@ ms.search.region: Global
 # View inventory recalculation settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Settlements for voucher** form to review the items that are affected by inventory close, inventory recalculation, on-hand adjustments, and transaction adjustments.

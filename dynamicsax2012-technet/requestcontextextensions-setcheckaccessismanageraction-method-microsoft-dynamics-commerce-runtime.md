@@ -17,6 +17,9 @@ dev_langs:
 
 # SetCheckAccessIsManagerAction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the delegate to check if user is manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

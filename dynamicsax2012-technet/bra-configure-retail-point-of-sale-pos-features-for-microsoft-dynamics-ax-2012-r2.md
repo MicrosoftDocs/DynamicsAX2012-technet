@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Configure Retail point of sale (POS) features for Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to configure Retail point of sale (POS) features for Microsoft Dynamics AX 2012 R2 for the Brazilian market.

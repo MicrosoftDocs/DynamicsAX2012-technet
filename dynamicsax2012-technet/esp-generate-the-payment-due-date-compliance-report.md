@@ -20,6 +20,9 @@ ms.search.region: Spain
 # (ESP) Generate the payment due date compliance report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate the Payments due date compliance report, which is a statistics report that contains information about the invoices that are paid during a period that you specify. The report displays the amounts that are paid based on the payment terms, as well as the amounts that are paid outside of the payment terms. The amounts that are paid using payment journals and promissory notes are included in the report.

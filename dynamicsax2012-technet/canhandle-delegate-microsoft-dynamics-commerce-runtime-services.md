@@ -17,6 +17,9 @@ dev_langs:
 
 # CanHandle Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns whether or not address can be processed based on the type of filter.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

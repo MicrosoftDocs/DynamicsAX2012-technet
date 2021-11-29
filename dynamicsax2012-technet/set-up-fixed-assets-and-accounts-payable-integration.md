@@ -25,6 +25,9 @@ ms.search.region: Global
 # Set up Fixed assets and Accounts payable integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following methods are available for integrating Fixed assets and Accounts payable. When you select a method, you must use that same method for all fixed assets.

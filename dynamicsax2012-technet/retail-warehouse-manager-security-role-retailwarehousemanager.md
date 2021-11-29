@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail warehouse manager security role (RetailWarehouseManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack_
 
 The Retail warehouse manager security role represents a user who is responsible for setting up and maintaining retail store inventory reference data.

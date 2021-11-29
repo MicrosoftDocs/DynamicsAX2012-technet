@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Project transactions report (ProjListTransProject) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view details of transactions that are posted to projects as of a specified date.

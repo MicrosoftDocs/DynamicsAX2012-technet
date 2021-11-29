@@ -18,6 +18,9 @@ ms.search.region: Global
 # Flexible budgets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Flexible budgets is a forecast function that extends the basic cost and service budgeting features of Microsoft Dynamics AX and gives you more flexibility in working with budgets. The most important feature is the ability to make plan calculations.

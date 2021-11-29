@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the discount code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

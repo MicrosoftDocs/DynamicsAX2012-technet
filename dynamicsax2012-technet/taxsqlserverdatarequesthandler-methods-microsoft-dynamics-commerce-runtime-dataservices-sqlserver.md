@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TaxSqlServerDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TaxSqlServerDataRequestHandler](taxsqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Methods

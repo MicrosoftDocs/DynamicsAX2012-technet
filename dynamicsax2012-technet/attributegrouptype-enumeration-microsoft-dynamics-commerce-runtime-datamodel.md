@@ -20,6 +20,9 @@ dev_langs:
 
 # AttributeGroupType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Attribute group type enum, matches corresponding enum in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

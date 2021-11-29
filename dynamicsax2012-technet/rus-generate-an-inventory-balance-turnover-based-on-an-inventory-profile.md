@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate an inventory balance turnover based on an inventory profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate an inventory balance turnover for the on-hand inventory of items, based on the inventory profile and the kind of activity, by using the **Inventory balance turnover** form.

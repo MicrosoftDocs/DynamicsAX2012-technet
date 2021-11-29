@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

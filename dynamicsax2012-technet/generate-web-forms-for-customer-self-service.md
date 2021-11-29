@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate web forms for customer self-service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can use **Customer self-service** with a product model, you must generate the Web forms from the product model.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintRemoveTenderReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints a tender-removal receipt, triggered when a Tender removal transaction is made.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

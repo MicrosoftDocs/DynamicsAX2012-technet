@@ -13,6 +13,9 @@ f1_keywords:
 
 # planned intercompany demand
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Predicted demand for a product by a legal entity that assumes the role of a vendor. The planned demand is generated from planned demand for the product from a downstream legal entity.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # Resume Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Resumes a suspended cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

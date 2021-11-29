@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the exchange adjustment in the accounting register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can calculate the **Exchange adjustment in accounting** register, you must set up the register in the **Tax registers** form and create a tax register journal.

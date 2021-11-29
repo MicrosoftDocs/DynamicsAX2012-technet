@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceCheck Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Display a dialog box for the price-check operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Ledger transactions including dimension details (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays ledger transactions that are grouped together based on ledger accounts and dimension values for a specified period.

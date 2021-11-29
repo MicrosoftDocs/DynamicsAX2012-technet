@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specify when a vendor bank account is active 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendor bank accounts are used when you pay a vendor electronically. You can modify the active and expiration dates for a vendor bank account to specify when a bank account is available to accept payments. You might modify the dates when a vendor no longer uses a specific bank account, or when a bank account exists but you cannot yet send payments to it.

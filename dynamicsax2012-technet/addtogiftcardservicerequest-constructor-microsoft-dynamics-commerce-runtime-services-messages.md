@@ -18,6 +18,9 @@ dev_langs:
 
 # AddToGiftCardServiceRequest Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

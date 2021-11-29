@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX Retail Windows Phone Point of Sale 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 for Retail Retail Modern POS includes sample code for Windows Phone Point of Sale in the Retail SDK.

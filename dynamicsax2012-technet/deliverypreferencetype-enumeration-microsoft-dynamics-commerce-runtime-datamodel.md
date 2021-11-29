@@ -22,6 +22,9 @@ dev_langs:
 
 # DeliveryPreferenceType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines the available delivery preference types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

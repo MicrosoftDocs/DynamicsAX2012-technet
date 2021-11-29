@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountOriginType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the discount origin type.
 
 Maps to enum RetailDiscountOriginType in AX.

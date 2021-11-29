@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TaxViewLine Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TaxViewLine](taxviewline-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

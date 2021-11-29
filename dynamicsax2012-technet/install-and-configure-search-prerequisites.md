@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install and configure Search prerequisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to configure prerequisite software and services for Microsoft Dynamics AX Enterprise Search. If the Microsoft Dynamics AX Prerequisite Checker displayed an error when you tried to install Enterprise Search, then this topic might help you troubleshoot the error.

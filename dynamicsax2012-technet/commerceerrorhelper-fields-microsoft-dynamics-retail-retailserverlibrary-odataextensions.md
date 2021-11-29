@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceErrorHelper Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceErrorHelper](commerceerrorhelper-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md) type exposes the following members.
 
 ## Fields

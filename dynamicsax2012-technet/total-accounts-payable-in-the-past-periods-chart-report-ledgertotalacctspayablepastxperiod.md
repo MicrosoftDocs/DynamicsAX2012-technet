@@ -14,6 +14,9 @@ f1_keywords:
 # Total accounts payable in the past periods chart report (LedgerTotalAcctsPayablePastXPeriod) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this chart report to view the total accounts payable in past periods, in a graphical format.

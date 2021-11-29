@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Transportation management features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A new module, **Transportation management**, has been added in Microsoft Dynamics AX 2012. This topic is a high-level overview of the feature areas that are included in this module and it also lists the new Transportation management features that were added in Microsoft Dynamics AX 2012 R3 Cumulative Update 8.

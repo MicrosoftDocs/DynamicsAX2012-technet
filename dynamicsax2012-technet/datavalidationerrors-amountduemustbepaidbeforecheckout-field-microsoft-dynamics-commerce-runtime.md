@@ -17,6 +17,9 @@ dev_langs:
 
 # AmountDueMustBePaidBeforeCheckout Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that amount due must be paid before checkout.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

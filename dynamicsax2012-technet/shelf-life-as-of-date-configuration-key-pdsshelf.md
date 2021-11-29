@@ -17,6 +17,9 @@ f1_keywords:
 # Shelf life as of date configuration key (PdsShelf) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Shelf life as of date** configuration key controls access to the forms, fields, and functions that are used to work with the shelf life of inventory batches in process manufacturing logistics.

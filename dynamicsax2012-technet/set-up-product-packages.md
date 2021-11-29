@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up product packages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A product package is a group of products that are ordered from a supplier. Packages can help you create purchase orders, because you do not have to select items individually. Instead, you can select a package that includes the items. Order lines are updated automatically when the items in a package are changed.

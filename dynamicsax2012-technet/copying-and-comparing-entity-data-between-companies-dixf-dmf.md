@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Copy and compare entity data between companies
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This process for copying entity data between companies is supported only for Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3. If you are running an earlier version of the Data Import/Export Framework, see the instructions in [Copy data between Dynamics AX companies](walkthrough-copy-data-between-microsoft-dynamics-ax-companies-dixf-dmf.md). This topic describes the following processes:

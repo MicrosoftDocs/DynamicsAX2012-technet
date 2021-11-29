@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create advanced account structures and rules for a chart of accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create advanced rules to provide additional financial dimensions that are part of the account combination, but that are not included in the account structure.

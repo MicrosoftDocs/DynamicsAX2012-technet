@@ -13,6 +13,9 @@ f1_keywords:
 
 # product master
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A standard or functional product representation that is the basis for configuring product variants.
 
 ## See also

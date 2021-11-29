@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ILogOnOffTransaction Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ILogOnOffTransaction](ilogonofftransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Manage store inventory overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The topics in this section provide information about how to work with inventory for retail stores. For example, the topics explain how to perform stock counts, receive purchase orders and transfer orders, and pick transfer orders.

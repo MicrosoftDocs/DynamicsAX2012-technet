@@ -15,6 +15,9 @@ dev_langs:
 
 # Round Method (Decimal, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Standard round to the minimal coin or amount according to the store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

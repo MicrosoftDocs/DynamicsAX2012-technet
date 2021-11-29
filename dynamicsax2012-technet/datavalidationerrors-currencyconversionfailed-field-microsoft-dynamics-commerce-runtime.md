@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyConversionFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a currency conversion failed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

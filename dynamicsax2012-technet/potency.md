@@ -13,6 +13,9 @@ f1_keywords:
 
 # potency
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A relative measure of the strength characteristic of an item.
 
 ## See also

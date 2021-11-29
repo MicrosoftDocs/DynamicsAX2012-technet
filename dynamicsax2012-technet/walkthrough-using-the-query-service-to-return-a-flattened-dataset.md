@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Using the Query Service to Return a Flattened Dataset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough shows you how to call the query service and retrieve data from tables that implement table inheritance in Microsoft Dynamics AX in a flattened data table. This is accomplished by setting the ReturnFlatDataSet property on the query object. When this property is set to true, data from the base table and any derived tables that make up the query data sources is returned in a single DataTable in the DataSet. For more information about how to use the query service to return data from hierarchical tables, see [Walkthrough: Using the Query Service to Query Tables in a Hierarchy](walkthrough-using-the-query-service-to-query-tables-in-a-hierarchy.md).

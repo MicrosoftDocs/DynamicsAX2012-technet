@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Considerations for installing multiple instances on a computer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In a single environment, you can install multiple instances of Application Object Server (AOS) and the Microsoft Dynamics AX database.

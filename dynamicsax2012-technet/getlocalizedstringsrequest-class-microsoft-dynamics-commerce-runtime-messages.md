@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLocalizedStringsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the localized strings, optionally using the language and text identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

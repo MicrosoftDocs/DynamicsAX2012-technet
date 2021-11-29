@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Post a sales delivery slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post a delivery slip for a sales order that has multiple sales order lines with a delivery Código Fiscal de Operações e Prestações (CFOP) code. For each sales order line, you must specify the CFOP code that has a delivery CFOP code assigned to it. A delivery slip is used when you deliver items to a customer who is different than the one invoiced. That is, when customer and invoice accounts are different. Delivery slips are posted in chronological order. You must attach fiscal references to delivery slips before you post them. Use the **Posting delivery slip** form to post and print delivery slips.

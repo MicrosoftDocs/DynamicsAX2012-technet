@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create orders from item lists 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to use item lists to add items to sales orders. An item list is a list of items that a customer habitually buys, including quantities. When you create a new sales order for a customer, instead of adding items line by line, you can select the item list that has been created for the customer.

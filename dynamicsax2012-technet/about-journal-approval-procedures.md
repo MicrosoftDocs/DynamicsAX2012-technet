@@ -18,6 +18,9 @@ ms.search.region: Global
 # About journal approval procedures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you define an approval procedure for a journal, journal lines that are entered in the journal cannot be processed until the tasks that require approval have been approved. For example, you can use a journal approval procedure to require that hours that are submitted on timesheets be approved before the related transaction is posted.

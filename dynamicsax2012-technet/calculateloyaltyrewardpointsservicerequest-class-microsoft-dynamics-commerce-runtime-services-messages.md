@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateLoyaltyRewardPointsServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the request for calculating the reward points for a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

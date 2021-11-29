@@ -14,6 +14,9 @@ f1_keywords:
 
 # Automated Clearing House
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An electronic funds transfer system available in the United States that facilitates the transfer of funds between receiving party and originating party bank accounts.
 
 ## See also

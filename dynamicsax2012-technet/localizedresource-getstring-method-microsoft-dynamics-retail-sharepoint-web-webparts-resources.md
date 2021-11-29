@@ -17,6 +17,9 @@ dev_langs:
 
 # GetString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a localized string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources](microsoft-dynamics-retail-sharepoint-web-webparts-resources-namespace.md)  

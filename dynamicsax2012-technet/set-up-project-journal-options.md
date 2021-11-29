@@ -22,6 +22,9 @@ ms.search.region: Global
 # Set up project journal options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to set up options that control how journal entries that are used by projects are created. You set up options separately for the following types of journals:

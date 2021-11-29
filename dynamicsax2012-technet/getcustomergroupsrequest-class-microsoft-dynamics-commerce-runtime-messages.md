@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerGroupsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the customer groups.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

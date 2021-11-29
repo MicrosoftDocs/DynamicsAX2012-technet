@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create customs ledger accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must create customs import duty accounts and export duty accounts for each tax component and Importer Exporter Code (IEC) number.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign sizes, colors, or styles to variant groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Set up variant groups for sizes, colors, and styles, and then assign the groups to retail products. Variant groups let you identify the different options in which a product is available. For example, you can create a size group that is named **Men's Shoes**, and then assign specific sizes to this group.

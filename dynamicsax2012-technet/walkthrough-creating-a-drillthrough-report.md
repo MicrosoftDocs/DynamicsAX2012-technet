@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Drillthrough Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough you will create a drillthrough report. A drillthrough report is a report that a user opens by clicking a linked item in another report. It allows users to drill through to additional data.

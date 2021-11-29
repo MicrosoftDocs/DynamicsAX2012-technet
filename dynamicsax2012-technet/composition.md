@@ -13,6 +13,9 @@ f1_keywords:
 
 # composition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A whole-part relationship in which the life cycle of the part object is dependent on the life cycle of the whole object.
 
 ## See also

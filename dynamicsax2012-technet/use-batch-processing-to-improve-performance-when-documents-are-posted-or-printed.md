@@ -14,6 +14,9 @@ ms.search.region: Global
 # Use batch processing to improve performance when documents are posted or printed 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 To improve performance when you post source documents or print statements that include large amounts of data, use batch processing. When you use batch processing, you can run specific tasks as batch jobs, and then schedule those batch jobs to be run on a different computer (a batch server). When you move the processing of these tasks to a batch server, the report performance on the client computer can improve. You can also apply range restrictions to limit the size of each batch. You can improve performance by submitting multiple, smaller batches to be processed at the same time on different servers, instead of submitting one large batch.

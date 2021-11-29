@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Publish-AXReport
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Publish-AXReport
 
 Deploys reports from Microsoft Dynamics AX to a Microsoft SQL Server Reporting Services instance.

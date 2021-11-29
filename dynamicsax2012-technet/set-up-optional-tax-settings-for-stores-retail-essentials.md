@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up optional tax settings for stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to specify optional sales tax settings for stores. After you set up sales taxes for retail stores, you can specify several additional, optional settings. For example, you can assign sales tax groups to stores, specify inclusive taxes or exclusive taxes, and set up sales tax overrides.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShiftAlreadyOpenOnDifferentTerminal Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The current shift is already open on a different terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

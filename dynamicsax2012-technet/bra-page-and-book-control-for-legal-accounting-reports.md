@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Page and book control for legal accounting reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Day book report, which is the primary legal accounting report, contains the daily transactions sorted by date for a specified period. The Day book, Financial statement, and Chart of accounts reports are generated for a legal entity that has made an actual profit. For a legal entity that has made a presumed profit, the Financial statement report for statements of changes in equity and the Trial balance summary report are generated, in addition to the previous reports.

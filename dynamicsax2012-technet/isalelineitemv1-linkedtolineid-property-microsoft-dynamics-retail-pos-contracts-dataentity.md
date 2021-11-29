@@ -17,6 +17,9 @@ dev_langs:
 
 # LinkedToLineId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is the line id of the item the linked item is linked to.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

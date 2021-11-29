@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Reversing entries configuration key (LedgerBasicReversingEntries) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Reversing entries** configuration key controls access to the **Reversing entry** and the **Reversing date** fields in the **General journal** and **Journal voucher** forms.

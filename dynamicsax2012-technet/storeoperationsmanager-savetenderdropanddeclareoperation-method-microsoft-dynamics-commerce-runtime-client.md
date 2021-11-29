@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveTenderDropAndDeclareOperation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the tender drop and declare operation transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

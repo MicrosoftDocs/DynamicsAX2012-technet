@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up file formats for the export of a traditional financial statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Follow these steps if file formats are not available for selection in the **File format** field on the **Export to** tab of the **Financial statement** form, or if the file format that you want to use is not listed.

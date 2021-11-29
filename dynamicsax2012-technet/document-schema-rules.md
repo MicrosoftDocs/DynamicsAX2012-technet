@@ -14,6 +14,9 @@ dev_langs:
 # Document Schema Rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the schema rules and conventions for the document schemas in Application Integration Framework (AIF). Each document in AIF has a schema that defines the structure and format of the XML that the document can serialize and deserialize. This is called the document XML Schema Definition (XSD) or the schema. The document schema defines the structure and format for all possible fields in the document.

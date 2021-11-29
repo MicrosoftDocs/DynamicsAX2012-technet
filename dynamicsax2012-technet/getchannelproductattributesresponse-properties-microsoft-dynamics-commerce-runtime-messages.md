@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelProductAttributesResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelProductAttributesResponse](getchannelproductattributesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

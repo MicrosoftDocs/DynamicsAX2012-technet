@@ -22,6 +22,9 @@ ms.search.region: Global
 # Add or remove multiple parties in an address book 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedures to add or remove multiple party records in an address book.

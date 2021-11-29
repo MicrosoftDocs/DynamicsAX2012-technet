@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextReceiptId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets and increments the next available receipt ID for the IPosTransaction transaction given.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

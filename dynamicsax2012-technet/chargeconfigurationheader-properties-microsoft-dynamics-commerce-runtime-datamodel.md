@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChargeConfigurationHeader Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChargeConfigurationHeader](chargeconfigurationheader-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

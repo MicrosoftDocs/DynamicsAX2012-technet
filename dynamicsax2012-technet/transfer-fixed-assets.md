@@ -21,6 +21,9 @@ ms.search.region: Global
 # Transfer fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to transfer the financial information for a fixed asset when the ownership of or the responsibility for that asset changes. In Microsoft Dynamics AX, a transfer involves changing the financial dimension values for one more of the value models that are associated with the asset. Therefore, although it is commonly referred to as transferring a fixed asset, it is more accurate to say that you’re transferring the value models that are associated with the fixed asset.

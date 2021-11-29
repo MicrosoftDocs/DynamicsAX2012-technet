@@ -14,6 +14,9 @@ f1_keywords:
 # Quotations configuration key (QuotationBasic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Quotations** configuration key controls access to sales quotations and project quotations. If the **Quotations** configuration key is enabled, you can access **Sales quotations** in the **Sales and marketing** module and **Quotations** in the **Project management and accounting** module.

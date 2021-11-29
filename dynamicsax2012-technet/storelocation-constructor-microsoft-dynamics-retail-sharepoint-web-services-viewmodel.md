@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreLocation Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [StoreProductAvailability](storeproductavailability-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

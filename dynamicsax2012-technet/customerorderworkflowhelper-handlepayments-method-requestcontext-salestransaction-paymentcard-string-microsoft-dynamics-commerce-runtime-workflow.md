@@ -15,6 +15,9 @@ dev_langs:
 
 # HandlePayments Method (RequestContext, SalesTransaction, PaymentCard, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles payments for customer orders, it includes: \* Capturing deposit.
 
 \* Creating token for shipped items.

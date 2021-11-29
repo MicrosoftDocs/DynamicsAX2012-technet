@@ -20,6 +20,9 @@ dev_langs:
 
 # ExpirationTimeUnit Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ExpirationTimeUnit interface indicates the expiration time unit.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowJournalDialog Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shows journal dialog.
 
 Displays a dialog box listing journal transactions.

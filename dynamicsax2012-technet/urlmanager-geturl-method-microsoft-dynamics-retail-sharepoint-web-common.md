@@ -17,6 +17,9 @@ dev_langs:
 
 # GetUrl Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a url for the page and return url values.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

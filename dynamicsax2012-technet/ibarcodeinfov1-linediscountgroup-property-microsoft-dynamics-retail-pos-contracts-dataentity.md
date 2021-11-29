@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDiscountGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the line discount group.
 
 The line discount group that the item belongs to.

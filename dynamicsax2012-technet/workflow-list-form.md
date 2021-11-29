@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow list form
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A form that displays a list of workflows for a particular module, along with the versions of the workflow.
 
 ## See also

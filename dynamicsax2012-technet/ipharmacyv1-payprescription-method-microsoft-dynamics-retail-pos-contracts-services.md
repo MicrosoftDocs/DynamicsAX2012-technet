@@ -17,6 +17,9 @@ dev_langs:
 
 # PayPrescription Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Marks the prescription as paid.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

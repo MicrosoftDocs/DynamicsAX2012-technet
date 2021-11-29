@@ -13,6 +13,9 @@ f1_keywords:
 
 # phantom bill of materials item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A bill of materials item that is produced but not stocked.
 
 ## See also

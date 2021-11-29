@@ -14,6 +14,9 @@ f1_keywords:
 # (ESP) View Intra-Community invoice report (VendEUVatInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **View Intra-Community invoice** report displays and prints a copy of the intra-community invoice. The intra-community invoice is issued for transactions between legal entities that are located in different European Union (EU) member states. This report is typically used by accountants, accounting managers, purchase managers, financial controllers, and clerks to review the status of purchase orders and to inquire into the status of vendor invoices.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales order policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that authorizes parties to modify sales order terms and to control order processing and payment processes.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemReturn Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data Contract for item return parameter serializations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

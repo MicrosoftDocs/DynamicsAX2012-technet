@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales lines to get the delivery options for.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

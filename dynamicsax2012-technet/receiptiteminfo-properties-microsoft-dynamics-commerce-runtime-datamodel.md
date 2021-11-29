@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReceiptItemInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReceiptItemInfo](receiptiteminfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

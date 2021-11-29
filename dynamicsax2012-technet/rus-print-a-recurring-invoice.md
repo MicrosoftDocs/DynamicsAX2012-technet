@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Print a recurring invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Recurring invoices are invoices that are issued at regular intervals for the same amount. Some examples of recurring invoices are monthly rental fees, annual membership fees, and monthly retainers.

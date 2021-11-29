@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemUnitQuantity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item unit quantity given the item available quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

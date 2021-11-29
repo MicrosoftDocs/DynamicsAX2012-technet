@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer response class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

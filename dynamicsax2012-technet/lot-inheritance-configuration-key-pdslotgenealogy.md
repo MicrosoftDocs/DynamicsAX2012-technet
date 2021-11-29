@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Lot inheritance configuration key (PDSLotGenealogy) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Lot inheritance** configuration key controls access to the fields and functions that are used to set up and work with finished items that inherit batch attributes or shelf life information from formula ingredients or co-products. For more information, see [About lot inheritance](about-lot-inheritance.md).
 
 You can enable or disable this key in the **License configuration** form.

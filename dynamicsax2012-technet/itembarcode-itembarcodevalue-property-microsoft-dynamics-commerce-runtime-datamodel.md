@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemBarcodeValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item's barcode idenfitier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

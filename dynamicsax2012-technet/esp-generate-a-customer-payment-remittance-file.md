@@ -22,6 +22,9 @@ ms.search.region: Spain
 # (ESP) Generate a customer payment remittance file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to generate remittance files for a selected method of payment format. You can generate remittance files for a bill of exchange (BOE) that is created for Single European Payment Area (SEPA). Before you create the remittance journal, complete the following tasks:

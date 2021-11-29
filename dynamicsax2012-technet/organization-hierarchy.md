@@ -13,6 +13,9 @@ f1_keywords:
 
 # organization hierarchy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A structure that orders organizations using a superordinate-subordinate relationship.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use a Report Data Provider Class in a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A report data provider (RDP) class is an X++ class that is used to access and process data for a report. An RDP class is an appropriate data source type when the following conditions are met:

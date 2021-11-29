@@ -17,6 +17,9 @@ dev_langs:
 
 # SortColumn Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a column used as part of an order by clause.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

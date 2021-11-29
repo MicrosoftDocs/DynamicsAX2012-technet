@@ -23,6 +23,9 @@ ms.search.region: Global
 # About co-products and by-products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Co-products are desirable secondary goods that are generated during the manufacturing process and can be sold or reused profitably. They might also be products that are usually manufactured together or sequentially because of product or process similarities. Although co-products are usually planned, desirable outputs from the manufacturing process, they can also be used as ingredients in other production processes.

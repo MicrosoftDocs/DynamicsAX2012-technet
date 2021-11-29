@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Generate a vendor payment using Foreign Payment Transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Lithuanian market began using LITAS, the unified electronic banking system, in 2005. LITAS is the unified file format used to export foreign vendor payments from the company accounting system to the banking system.

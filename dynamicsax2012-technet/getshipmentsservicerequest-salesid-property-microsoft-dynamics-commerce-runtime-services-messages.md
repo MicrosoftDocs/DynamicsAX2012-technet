@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales identifier of the order to query for shipment info.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

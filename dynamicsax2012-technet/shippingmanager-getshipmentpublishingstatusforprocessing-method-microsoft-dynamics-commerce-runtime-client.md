@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShipmentPublishingStatusForProcessing Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -29,6 +29,9 @@ ms.search.region: Global
 # Perform a catalog area analysis 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to perform an analysis of the catalog area in a printed catalog. This analysis helps you determine whether page space is being used efficiently to generate sales. To perform this analysis, you specify where each product appears on the page, the amount of space that is given to the product, and the total cost of producing the page. The sales for each item can then be compared to the cost of displaying the item on the page.

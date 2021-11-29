@@ -17,6 +17,9 @@ dev_langs:
 
 # DispatcherAssembly Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets assembly name to load dispatcher from.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

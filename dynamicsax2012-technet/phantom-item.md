@@ -13,6 +13,9 @@ f1_keywords:
 
 # phantom item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item that is produced but not stocked.
 
 ## See also

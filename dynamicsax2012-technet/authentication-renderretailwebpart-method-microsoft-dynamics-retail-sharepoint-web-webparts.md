@@ -18,6 +18,9 @@ dev_langs:
 
 # RenderRetailWebPart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create any child controls in preparation for posting back or rendering.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

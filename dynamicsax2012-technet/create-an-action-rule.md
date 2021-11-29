@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create an Action rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If rules are of the **Action** type, the **Actions** tab page is available, where you can define actions for true or false conditions.

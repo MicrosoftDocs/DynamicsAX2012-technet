@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveShoppingCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the name of the shopping cart associated with the given identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

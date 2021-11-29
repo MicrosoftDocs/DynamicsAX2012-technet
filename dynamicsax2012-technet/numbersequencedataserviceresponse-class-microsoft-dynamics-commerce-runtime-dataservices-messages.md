@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberSequenceDataServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 NumberSequenceDataServiceResponse contains the number sequence response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

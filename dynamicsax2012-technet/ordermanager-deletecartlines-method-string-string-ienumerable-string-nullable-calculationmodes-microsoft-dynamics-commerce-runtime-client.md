@@ -15,6 +15,9 @@ dev_langs:
 
 # DeleteCartLines Method (String, String, IEnumerable(String), Nullable(CalculationModes))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes the specified items from the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

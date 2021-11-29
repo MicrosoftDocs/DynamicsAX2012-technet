@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeActivitySearchCriteria Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The employee activity search criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

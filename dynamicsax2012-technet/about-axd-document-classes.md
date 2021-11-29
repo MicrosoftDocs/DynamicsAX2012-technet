@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About Axd\<Document\> Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the Axd \<Document\> classes that are included in Application Integration Framework (AIF). The Axd \<Document\> classes contain implementation details that support the document service classes.

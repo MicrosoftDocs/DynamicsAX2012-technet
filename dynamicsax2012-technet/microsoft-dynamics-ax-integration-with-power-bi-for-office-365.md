@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX integration with Power BI for Office 365 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This article explains how to use the features and services that are included in Power BI for Office 365 to access, explore, and gain insight from your Microsoft Dynamics AX data.

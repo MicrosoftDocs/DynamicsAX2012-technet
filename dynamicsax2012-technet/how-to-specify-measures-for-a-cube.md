@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Specify Measures for a Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you specify a measure in Microsoft Dynamics AX, you must decide the scope of the measure and where it should be defined. You can specify a measure the following ways:

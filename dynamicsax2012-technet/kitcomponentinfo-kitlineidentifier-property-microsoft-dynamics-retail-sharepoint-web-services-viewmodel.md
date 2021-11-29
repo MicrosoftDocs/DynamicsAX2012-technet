@@ -17,6 +17,9 @@ dev_langs:
 
 # KitLineIdentifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the kit line identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

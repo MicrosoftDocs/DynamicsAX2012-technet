@@ -18,6 +18,9 @@ dev_langs:
 
 # ImageAltText Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The alternative text to display for the AddToCart image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # version
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The status of an entity participating in a release process.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Type with the specified name, performing a case-sensitive search.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

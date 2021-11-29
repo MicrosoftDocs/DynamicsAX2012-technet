@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Register realty as a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you put a realty fixed asset into use and calculate depreciation, you need to register the fixed asset in the assessed tax registers. Use the **Fixed assets** form to register a fixed asset of the **Realty** type.

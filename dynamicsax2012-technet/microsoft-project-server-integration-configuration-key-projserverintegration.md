@@ -14,6 +14,9 @@ f1_keywords:
 # Microsoft Project Server integration configuration key (ProjServerIntegration) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Microsoft Project Server integration** configuration key controls the ability to integrate Microsoft Dynamics AX projects with Microsoft Project Server for managing project resources.

@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Enter the authorization approval details for DFIA 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After the customs authority approves your application for a Duty Free Import Authorization (DFIA) and issues an authorization number for it, use this procedure to enter the approval details into Microsoft Dynamics AX.

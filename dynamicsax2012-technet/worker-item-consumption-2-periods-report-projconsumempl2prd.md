@@ -14,6 +14,9 @@ f1_keywords:
 # Worker/item consumption (2 periods) report (ProjConsumEmpl2Prd) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze worker and item transactions by project for two separate periods.

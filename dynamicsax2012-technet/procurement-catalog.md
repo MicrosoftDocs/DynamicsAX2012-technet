@@ -13,6 +13,9 @@ f1_keywords:
 
 # procurement catalog
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A listing of product offerings that are grouped by procurement category. A procurement catalog is used to request products for internal use by an organization.
 
 ## See also

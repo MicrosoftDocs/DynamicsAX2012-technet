@@ -17,6 +17,9 @@ dev_langs:
 
 # MakePayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Makes a payment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

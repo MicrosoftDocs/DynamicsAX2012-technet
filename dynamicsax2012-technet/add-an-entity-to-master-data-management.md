@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Add an Entity to Master Data Management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Out of the box, Microsoft Dynamics AX Master Data Management (MDM) supports synchronization of the Customers, Vendors, Employees, Global Address Book, and Product entities. To synchronize any other data, you can use an existing entity or create a custom Data Import/Export Framework entity and then add settings that make the Data Import/Export Framework entity available to MDM. MDM does not support compound Data Import/Export Framework entities.

@@ -23,6 +23,9 @@ ms.search.region: Denmark, France
 # Carry forward general budget reservation information to a new fiscal year (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 For any general budget reservation that has not expired at the fiscal year-end, you can carry forward (roll over) the document to the new year. The carry-forward process creates all the accounting and budgeting entries to close the document in the current year and open the document in the new year.

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Key tasks: Courses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about creating courses and items related to courses such as agendas, sessions, and tracks.

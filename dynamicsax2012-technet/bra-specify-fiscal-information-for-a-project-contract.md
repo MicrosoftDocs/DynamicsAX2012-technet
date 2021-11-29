@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Specify fiscal information for a project contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to specify fiscal information for a project contract. You can set up the service codes that are used for the project contract. Service codes are printed on the fiscal documents that are issued for project contracts.

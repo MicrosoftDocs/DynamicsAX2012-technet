@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set prices in a catalog 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to manage the prices of retail products in catalogs by using price groups. The price group links the catalog and its products with the trade agreements that specify prices. This is especially useful if your company publishes many catalogs and uses many price changes.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutPriceTradeAgreements Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store the superset of price trade agreements which could apply to all of these items and customer for the given date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsPropertyDefined(T, T2) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks whether a property is defined in this entity or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

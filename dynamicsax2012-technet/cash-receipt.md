@@ -13,6 +13,9 @@ f1_keywords:
 
 # cash receipt
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the receipt of cash or cash equivalents.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About the Delete close-of-year transactions during transfer check box 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If the **Delete close-of-year transactions during transfer** check box is selected in the **General ledger parameters** form, opening transactions and system-generated closing transactions that exist for the year to be closed are deleted when the transfer is processed again in the **Opening transactions** form.

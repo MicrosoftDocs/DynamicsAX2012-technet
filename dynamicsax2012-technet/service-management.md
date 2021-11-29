@@ -14,6 +14,9 @@ ms.search.region: Global
 # Service management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use **Service management** to establish service agreements and service subscriptions, handle service orders and customer inquiries, and to manage and analyze the delivery of services to customers. You can use service agreements to define the resources that are used in a typical service visit. You can also use service agreements to view how those resources are invoiced to the customer. A service agreement can also include a service level agreement that specifies standard response times, and offers tools to record the actual time.

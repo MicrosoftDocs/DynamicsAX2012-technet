@@ -26,6 +26,9 @@ ms.search.region: Global
 # Create call center catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In a call center, you can use product catalogs to identify the products that you want to offer to customers. Call centers typically use printed catalogs. The design and production of a printed catalog is handled outside Microsoft Dynamics AX, but you can create and store a digital form of a catalog in Microsoft Dynamics AX 2012 for Retail by using the same forms that you use to set up online Retail catalogs.

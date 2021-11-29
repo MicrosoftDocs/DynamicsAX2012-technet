@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Credential Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Credential](credential-class-microsoft-dynamics-commerce-runtime-framework.md) type exposes the following members.
 
 ## Properties

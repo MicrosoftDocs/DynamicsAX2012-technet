@@ -17,6 +17,9 @@ dev_langs:
 
 # SetSalesLineInventory Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Activity that sets inventory for sales lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  

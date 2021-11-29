@@ -17,6 +17,9 @@ dev_langs:
 
 # InsufficientQuantityAvailable Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates an insufficient quantity available.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

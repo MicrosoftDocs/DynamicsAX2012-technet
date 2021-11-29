@@ -14,6 +14,9 @@ ms.search.region: Global
 # Insert a BOM node 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The bill of materials (BOM) node is useful for adding individual BOM lines to a product model. To add a complete BOM from the **Bills of materials** form, you should use a **Default node** instead.

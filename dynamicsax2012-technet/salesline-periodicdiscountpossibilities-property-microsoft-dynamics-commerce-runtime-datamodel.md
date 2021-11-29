@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountPossibilities Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a collection of all periodic discounts which this line is eligible for.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

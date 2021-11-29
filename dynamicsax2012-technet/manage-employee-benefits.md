@@ -18,6 +18,9 @@ ms.search.region: Global
 # Manage employee benefits 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Benefits** page to assign and manage employee benefits. Depending on your permissions, you can view your benefits, or you might be able to modify and assign benefits for other users.

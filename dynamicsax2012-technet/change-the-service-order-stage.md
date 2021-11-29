@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the service order stage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Follow these steps to move a service order to the next stage in the service workflow or revert it to a previous stage.

@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasureSymbol Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the symbol of unit of measure of the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Help prevent employees of one company from viewing cube data for another company 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your organization may consist of several companies. To help prevent employees of one company from viewing the data for another company by using cubes, we recommend that you create a role for each company in Microsoft SQL Server Analysis Services.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateTableSchema Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the table schema.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

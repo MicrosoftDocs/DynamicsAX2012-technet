@@ -17,6 +17,9 @@ dev_langs:
 
 # UrlRewriteWebConfigUpdater Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [UrlRewriteWebConfigUpdater](urlrewritewebconfigupdater-class-microsoft-dynamics-retail-sp-commonfeatures.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

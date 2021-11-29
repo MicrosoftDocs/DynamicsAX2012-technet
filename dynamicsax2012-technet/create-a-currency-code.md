@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a currency code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Many currency codes are already set up, based on the International Organization for Standardization (ISO) currency codes. However, you can update existing currency codes with information that is specific to your legal entity.

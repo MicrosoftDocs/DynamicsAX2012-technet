@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # White papers for application users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The white papers listed below describe the practices that we recommend for application users who implement Microsoft Dynamics AX 2012.

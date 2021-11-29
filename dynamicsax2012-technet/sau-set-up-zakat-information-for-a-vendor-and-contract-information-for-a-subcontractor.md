@@ -17,6 +17,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Set up Zakat information for a vendor and contract information for a subcontractor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add Zakat information to your records for new and existing vendors. If a vendor is also a subcontractor, you must record the vendor’s contract information.

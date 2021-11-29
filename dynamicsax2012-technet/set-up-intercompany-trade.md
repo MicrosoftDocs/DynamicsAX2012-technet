@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up intercompany trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To enable Microsoft Dynamics AX to run intercompany trade, you must set up customers and vendors to run intercompany trade. You must also set up Accounts payable, Accounts receivable, Procurement and sourcing, and Sales and marketing.

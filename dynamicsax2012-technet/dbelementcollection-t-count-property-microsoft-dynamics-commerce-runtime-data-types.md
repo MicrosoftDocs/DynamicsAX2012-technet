@@ -17,6 +17,9 @@ dev_langs:
 
 # Count Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of elements in this collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

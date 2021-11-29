@@ -19,6 +19,9 @@ ms.search.region: Sweden
 # (SWE) Import and post a payment return file for a partially used credit memo 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can settle partially-used credit memos that have a remaining balance that is greater than the total of a vendor's debit invoices. When you import a payment return file from BankGiroCentralen (BGC), the partial credit memo is verified if the amount matches the associated journal voucher number and journal number. If the partial credit memo amount does not match, the payment line is adjusted to reflect the difference, and a new payment line showing the credit is created and marked as **Approved**. The status of the payment line with the debit invoice amount is updated to **Approved**.

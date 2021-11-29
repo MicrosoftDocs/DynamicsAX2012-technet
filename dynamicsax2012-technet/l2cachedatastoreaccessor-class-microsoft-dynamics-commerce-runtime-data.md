@@ -17,6 +17,9 @@ dev_langs:
 
 # L2CacheDataStoreAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements L2CacheDataStoreAccessor class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentAmountOverridden Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set true, if pre payment (deposit) amount is overridden.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

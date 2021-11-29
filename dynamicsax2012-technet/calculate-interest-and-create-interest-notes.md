@@ -20,6 +20,9 @@ ms.search.region: Global
 # Calculate interest and create interest notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to calculate interest with or without creating interest notes. You can use the second procedure to create interest notes that have fees but that do not calculate interest.

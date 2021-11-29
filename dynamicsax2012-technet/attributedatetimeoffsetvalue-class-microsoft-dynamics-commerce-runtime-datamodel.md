@@ -18,6 +18,9 @@ dev_langs:
 
 # AttributeDateTimeOffsetValue Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an attribute whose value is of type DateTimeOffset.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

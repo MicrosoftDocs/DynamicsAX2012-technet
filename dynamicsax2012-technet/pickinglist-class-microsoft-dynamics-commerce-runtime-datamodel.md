@@ -17,6 +17,9 @@ dev_langs:
 
 # PickingList Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The picking list entity. Used in picking and receiving flow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

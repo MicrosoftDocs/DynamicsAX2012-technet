@@ -13,6 +13,9 @@ f1_keywords:
 
 # best practice rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule that is optionally enforced after compilation in X++. The rules represent safe or consistent code design.
 
 ## See also

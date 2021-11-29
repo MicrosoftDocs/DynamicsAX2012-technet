@@ -13,6 +13,9 @@ f1_keywords:
 
 # cycle counting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An inventory counting method where items that are stored in different warehouse locations are counted to verify the on-hand inventory levels and to facilitate inventory-level corrections.
 
 ## See also

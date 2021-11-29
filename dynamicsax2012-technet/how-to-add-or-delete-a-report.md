@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Add or Delete a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to add a Microsoft Dynamics AX report in Visual Studio.

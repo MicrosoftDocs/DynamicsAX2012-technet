@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up trade allowance funds 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Funds for a trade allowances must be allotted before the trade allowance agreement can be finalized. This topic explains how to set up trade allowance funds.

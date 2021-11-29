@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with sites and warehouses (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up a site to store products, and how to set up a warehouse for the site. A site is a grouping of business resources, such as warehouses and production units that share interrelated transactions, are located at a particular geographic location, and belong to a single legal entity. A single site cannot be shared by multiple legal entities.

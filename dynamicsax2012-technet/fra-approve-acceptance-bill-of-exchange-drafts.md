@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Approve acceptance bill of exchange drafts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 **Bill with acceptance** is one of the draft types that you can assign to a bill of exchange. The customer must approve the bill of exchange when it is received, whereas the other draft types can be received automatically. You can approve the bill of exchange payment in the **Journal voucher** form. After the payment is approved, you can include it in a remittance file. You also can approve acceptance bills of exchange in the **Redraw bill of exchange journal** form.

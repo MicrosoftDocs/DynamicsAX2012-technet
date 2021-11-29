@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartCookieMinutesUntilExpiration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies a configuration key to obtain the number of minutes until the shopping cart cookies expire.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

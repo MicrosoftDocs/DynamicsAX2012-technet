@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor, public sector security role (VendVendor\_PSN) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Vendor, public sector security role represents an external user in vendor relation role with legal entities.

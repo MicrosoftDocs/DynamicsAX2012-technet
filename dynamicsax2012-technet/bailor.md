@@ -13,6 +13,9 @@ f1_keywords:
 
 # bailor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A person or an organization that transfers personal property or items, but not proprietary rights, to another person or organization for storage purposes.
 
 ## See also

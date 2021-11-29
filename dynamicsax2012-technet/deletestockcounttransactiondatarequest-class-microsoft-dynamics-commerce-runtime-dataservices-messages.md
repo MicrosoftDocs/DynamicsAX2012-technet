@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteStockCountTransactionDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DeleteStockCountTransactionDataRequest request class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

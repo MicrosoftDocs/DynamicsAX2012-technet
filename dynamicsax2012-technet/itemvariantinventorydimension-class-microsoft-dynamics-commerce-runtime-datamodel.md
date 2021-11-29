@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemVariantInventoryDimension Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an item and variant inventory dimension combination.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

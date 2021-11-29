@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create, modify, and delete project quotation templates or template groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you create quotation templates, you must create template groups. Quotation templates must be organized into template groups before they can be used.

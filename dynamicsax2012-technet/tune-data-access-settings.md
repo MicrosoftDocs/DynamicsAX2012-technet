@@ -17,6 +17,9 @@ f1_keywords:
 # Tune data access settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You might want to tune the database settings for Microsoft Dynamics AX to improve performance. Settings that you can tune include connections, query settings for the use of literals, string functions, or hints, concurrency mode used for database changes, and the table and index options, such as table and index data compression, and index fill factor and sort in tempdb settings.

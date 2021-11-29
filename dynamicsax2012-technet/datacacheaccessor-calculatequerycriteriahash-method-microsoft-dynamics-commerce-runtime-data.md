@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateQueryCriteriaHash Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the signature of the criteria object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

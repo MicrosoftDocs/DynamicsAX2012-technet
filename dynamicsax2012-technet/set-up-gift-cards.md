@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up gift cards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up retail gift cards that can be issued at one store and redeemed at any store in your organization. At the point of sale (POS), cashiers can accept a gift card as payment, see the balance on a gift card, issue a gift card, and add money to a gift card.

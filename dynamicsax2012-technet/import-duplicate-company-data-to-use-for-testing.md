@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Import duplicate company data to use for testing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the duplicate company feature was used extensively to copy data from one company to another. The feature was also used to build development or test environments, and deployment scenarios that moved data from one environment to another. However, this feature became obsolete in Microsoft Dynamics AX 2012.

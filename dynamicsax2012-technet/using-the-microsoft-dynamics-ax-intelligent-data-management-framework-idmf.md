@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using the Microsoft Dynamics AX Intelligent Data Management Framework (IDMF) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/overview-of-the-microsoft-dynamics-ax-intelligent-data-management-framework-idmf/) in the Dynamics AX Help wiki.

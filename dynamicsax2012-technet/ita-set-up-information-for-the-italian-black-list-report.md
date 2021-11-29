@@ -14,6 +14,9 @@ ms.search.region: Italy
 # (ITA) Set up information for the \"Italian black list\" report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Legal entities must report all taxable sales and purchase transactions with other companies in countries that offer privileged tax structures. These countries are referred to as “black listed” countries by the Italian government. These countries present a high risk from a tax standpoint. Legal entities in Italy must report these transactions on a monthly or quarterly basis to the government.

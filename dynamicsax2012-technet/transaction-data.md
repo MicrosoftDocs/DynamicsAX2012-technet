@@ -13,6 +13,9 @@ f1_keywords:
 
 # transaction data
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Entities that document economic, resource flow, and accounting events and record their financial, legal, and operational consequences.
 
 ## See also

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About registering picking lists 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Companies that use serial numbers or batch numbers to trace their items must also keep track of the serial numbers and batch numbers of picked items. The intercompany functionality automates the push/pull of serial numbers and batch numbers from one company to another. When you register the batch numbers and serial numbers for the items on an intercompany sales order, you can set up the program to push these numbers automatically to the intercompany purchase order and original sales order. You set up the relevant parameters on the **Intercompany** form for the sales order:

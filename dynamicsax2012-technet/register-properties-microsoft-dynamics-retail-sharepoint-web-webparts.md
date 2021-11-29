@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Register Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Register](register-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

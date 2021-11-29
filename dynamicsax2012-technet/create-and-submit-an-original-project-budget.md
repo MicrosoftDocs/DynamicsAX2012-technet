@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create and submit an original project budget 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you create a budget for a project in Microsoft Dynamics AX, you must select several settings in the program. These settings help you control the types of transactions, project categories, and budget overruns that apply to a project. You can select the starting and ending dates for the budget, and whether to allocate the budget amounts to multiple fiscal periods. You can also specify different settings for specific users and user groups.

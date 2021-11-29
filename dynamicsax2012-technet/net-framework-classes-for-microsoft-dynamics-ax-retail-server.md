@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # .NET Framework Classes for Microsoft Dynamics AX Retail Server
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This section contains reference documentation for the .NET Framework classes that are used in Microsoft Dynamics AX Retail Server development.

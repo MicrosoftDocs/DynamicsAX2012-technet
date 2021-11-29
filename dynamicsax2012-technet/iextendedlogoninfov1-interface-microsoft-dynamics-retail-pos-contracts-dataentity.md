@@ -17,6 +17,9 @@ dev_langs:
 
 # IExtendedLogOnInfoV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 1.0. IExtendedLogOnInfo interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

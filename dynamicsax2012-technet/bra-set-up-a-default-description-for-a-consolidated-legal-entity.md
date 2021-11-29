@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up a default description for a consolidated legal entity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Default descriptions** form to set up transaction text for transactions. When you post a transaction, the transaction type is identified by using the default description and the transaction text that corresponds to the default description is posted to the ledger. The transaction text is printed on the day book and analytical ledger reports. You must use the %6 variable as part of the transaction text.

@@ -17,6 +17,9 @@ dev_langs:
 
 # WishListLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a wish list line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

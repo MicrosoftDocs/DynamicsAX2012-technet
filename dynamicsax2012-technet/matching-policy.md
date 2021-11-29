@@ -13,6 +13,9 @@ f1_keywords:
 
 # matching policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that controls the purchase order, product receipt, and vendor invoice matching requirements in the accounts payable process. The policy can mandate no matching requirement or a combination of unit price matching, extended price matching, quantity matching, line matching, or total matching requirements.
 
 ## See also

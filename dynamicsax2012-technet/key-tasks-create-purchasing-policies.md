@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Create purchasing policies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Purchasing policies are business rules that you define to help control the procure-to-pay process and enforce your overall procurement business strategy. You can view a list of your purchasing policies on the **Purchasing policies** list page. Information on the list page includes the name, description, and status (active or retired) of each policy.

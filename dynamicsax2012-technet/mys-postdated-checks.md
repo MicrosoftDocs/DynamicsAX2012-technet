@@ -14,6 +14,9 @@ ms.search.region: Malaysia
 # (MYS) Postdated checks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can issue and receive postdated checks (PDCs) to make payments and to receive payments in countries and regions in Southeast Asia. The postdated check transactions are included in the **Customer balance list with payments in transfer** report, but they are not included in the subtotal amount until the date of the check.

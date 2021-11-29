@@ -18,6 +18,9 @@ f1_keywords:
 # (ESP) Open transactions by method of payment report (VendTransOpen\_PaymMode\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Open transactions by method of payment** report displays open vendor transactions that are grouped by vendor, due date, risk date, posting date, and method of payment. This report can be used to specify the criteria for including open vendor transactions based on the methods of payment that you select in the **Method of payment 1**, **Method of payment 2**, **Method of payment 3**, and **Method of payment 4** fields.

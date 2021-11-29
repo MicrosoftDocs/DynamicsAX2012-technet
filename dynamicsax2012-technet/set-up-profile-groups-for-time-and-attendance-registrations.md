@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up profile groups for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use profile groups to set up one or more work time profiles in the same group. The profiles are used to calculate, for example, work time and overtime for a worker based on the worker’s clock-in time.

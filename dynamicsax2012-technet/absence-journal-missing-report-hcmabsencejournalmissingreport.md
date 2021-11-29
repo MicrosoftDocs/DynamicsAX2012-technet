@@ -15,6 +15,9 @@ f1_keywords:
 # Absence journal missing report (HcmAbsenceJournalMissingReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print an overview of all employees who have absence journals that are pending approval.

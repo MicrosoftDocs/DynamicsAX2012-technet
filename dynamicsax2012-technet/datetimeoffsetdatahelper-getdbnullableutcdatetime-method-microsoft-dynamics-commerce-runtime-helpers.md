@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDbNullableUtcDateTime Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the database nullable UTC date/time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

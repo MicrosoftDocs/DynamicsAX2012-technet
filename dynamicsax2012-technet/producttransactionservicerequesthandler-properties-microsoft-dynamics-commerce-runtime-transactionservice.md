@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductTransactionServiceRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductTransactionServiceRequestHandler](producttransactionservicerequesthandler-class-microsoft-dynamics-commerce-runtime-transactionservice.md) type exposes the following members.
 
 ## Properties

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About changing and deleting an original sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you change a sales order, your changes are automatically synchronized with both the relevant intercompany purchase order and the intercompany sales order.

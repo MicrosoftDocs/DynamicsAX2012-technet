@@ -58,6 +58,9 @@ ms.search.region: Russia
 # (RUS) Hire, transfer, and dismiss a worker 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to hire an employee, transfer an employee to a position, and dismiss an employee from a position. You can hire or transfer an employee for full-time employment or for contractual employment. Payroll is calculated based on employment type. You can also employ a person as a civil contract worker.

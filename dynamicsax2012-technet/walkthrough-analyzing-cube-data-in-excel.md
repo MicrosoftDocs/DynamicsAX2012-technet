@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Analyzing Cube Data in Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can analyze data by using Microsoft Office Excel to connect to a Microsoft Dynamics AX analysis cube.

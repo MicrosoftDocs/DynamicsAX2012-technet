@@ -15,6 +15,9 @@ f1_keywords:
 # Resolve conflicts in loyalty card numbers after upgrade (Retail) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to resolve conflicts in Retail loyalty card numbers after you upgrade to Microsoft Dynamics AX 2012 R3. In previous releases of Microsoft Dynamics AX, you could use the same loyalty scheme ID and loyalty card numbers to represent different loyalty programs in different legal entities in your organization. For example, **Scheme1** in Contoso Canada could have different requirements and rewards than **Scheme1** in Contoso USA. Also, **Card1** could be issued to a Contoso Canada customer and also to a Contoso USA customer. In Microsoft Dynamics AX 2012 R3, you can have multiple loyalty programs, but the loyalty scheme ID and the loyalty card numbers must be unique.

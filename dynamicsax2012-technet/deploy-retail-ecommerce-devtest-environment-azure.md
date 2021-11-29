@@ -1,6 +1,9 @@
 ---
 # required metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 title: Deploy Retail e-Commerce dev/test environments on Azure
 description: This topic explains how to deploy a Retail e-commerce dev/test environment on Microsoft Azure. To deploy the environment, you’ll use the cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 author: aamirallaqaband
@@ -13,17 +16,35 @@ ms.technology:
 
 # optional metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 # ms.search.form: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 # ROBOTS: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 audience: Developer, IT Pro
 # ms.devlang: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.reviewer: sericks
 ms.search.scope: AX 2012
 # ms.tgt_pltfrm: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.custom: 13241
 ms.assetid: c69e8d08-b4f8-4660-b19f-53638170b13f
 ms.search.region: Global
 # ms.search.industry: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.author: aamiral
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
@@ -31,6 +52,9 @@ ms.dyn365.ops.version: 2012
 ---
 
 # Deploy Retail e-Commerce dev/test environments on Azure
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 This topic explains how to deploy a Retail e-commerce dev/test environment on Microsoft Azure. To deploy the environment, you’ll use the cloud-hosted environments tool in Microsoft Dynamics Lifecycle Services. 
 

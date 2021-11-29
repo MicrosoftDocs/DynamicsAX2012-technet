@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowFoundationSection Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the configuration section for the WorkflowFoundation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # System administrator security role (-SYSADMIN-) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The System administrator security role represents a user who maintains the Microsoft Dynamics AX system. Users in this role have access to all artifacts in the system. This role cannot be modified.

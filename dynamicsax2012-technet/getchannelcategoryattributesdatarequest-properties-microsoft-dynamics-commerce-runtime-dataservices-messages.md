@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelCategoryAttributesDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelCategoryAttributesDataRequest](getchannelcategoryattributesdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

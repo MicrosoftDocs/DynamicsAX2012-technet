@@ -15,6 +15,9 @@ ms.search.region: Australia
 # (AUS) Set up a method of payment to pay vendors through Australian banks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 You can pay vendors electronically through banks. The names of the banks and the file formats that they accept for the electronic payments are listed in the following table.

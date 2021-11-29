@@ -19,6 +19,9 @@ ms.search.region: Global
 # Consume item requirements in a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, an item requirement is managed as a sales order line on a single sales order that is associated with a project. This item can be immediately consumed from inventory, or it can initiate a production order or purchase order for the item. Item consumption is recorded as a posting that registers that the item was used in the project.

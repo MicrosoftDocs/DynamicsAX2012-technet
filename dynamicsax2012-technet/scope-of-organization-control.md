@@ -13,6 +13,9 @@ f1_keywords:
 
 # scope of organization control
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The direct or indirect amount of control that an operating unit has over the output of a process.
 
 ## See also

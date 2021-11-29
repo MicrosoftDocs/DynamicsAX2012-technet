@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets list of Products from Product search in AX - Transaction Service call
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOrderReceipts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sync the local list of order receipt documents with HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

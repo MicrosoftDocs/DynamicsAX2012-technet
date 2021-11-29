@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Create and post a sales return order for a not inventoried item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 All indirect taxes in India must be calculated and posted for negative stocked sales order lines, just as for negative inventoried lines. Indirect taxes include sales tax, value-added tax (VAT), excise tax, service tax, and customs tax. The calculation of indirect taxes also applies to negative inventoried sales order lines. Direct taxes, such as the calculation codes for Tax Deducted at Source (TDS) and Tax Collected at Source (TCS), restrict negative inventoried lines. These codes also apply to negative inventoried sales order lines.

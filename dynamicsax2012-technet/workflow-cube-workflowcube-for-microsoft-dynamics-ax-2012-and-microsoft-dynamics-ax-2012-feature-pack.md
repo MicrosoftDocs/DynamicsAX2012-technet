@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Workflow cube (WorkflowCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Workflow cube provides data that can help you track the performance and degree of automation associated with business processes in your organization, which will enable you to identify processes that have become inefficient.

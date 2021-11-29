@@ -17,6 +17,9 @@ dev_langs:
 
 # DatabaseQueryParts Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines parts required to build a complete query by [IDatabaseQueryBuilder](idatabasequerybuilder-interface-microsoft-dynamics-commerce-runtime-data.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

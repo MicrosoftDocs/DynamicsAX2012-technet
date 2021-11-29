@@ -14,6 +14,9 @@ ms.search.region: Global
 # Filter the data on a report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By filtering the data that is displayed on a report, you can view only the data that is important to you. The following procedure shows how to filter the data on the **Customers** report. You can modify this procedure to filter the data on the report that you are working with.

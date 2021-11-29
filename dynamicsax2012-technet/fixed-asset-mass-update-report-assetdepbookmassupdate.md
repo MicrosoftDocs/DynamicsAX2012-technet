@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset mass update report (AssetDepBookMassUpdate) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print information about fixed asset records that have been updated by using the mass update process. To specify the information to view, you can select a depreciation book, the dates when the fixed assets were placed in service, and the depreciation conventions.

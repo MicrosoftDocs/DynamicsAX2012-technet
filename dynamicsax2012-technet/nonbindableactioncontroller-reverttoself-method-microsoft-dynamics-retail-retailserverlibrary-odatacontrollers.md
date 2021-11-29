@@ -17,6 +17,9 @@ dev_langs:
 
 # RevertToSelf Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manager revert.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

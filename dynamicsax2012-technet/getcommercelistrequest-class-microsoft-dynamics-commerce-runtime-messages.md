@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCommerceListRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the commerce list specified by the commerce list identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

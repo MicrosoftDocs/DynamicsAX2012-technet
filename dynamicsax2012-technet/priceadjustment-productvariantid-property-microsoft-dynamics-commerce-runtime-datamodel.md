@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductVariantId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the identifier of the distinct product variant with which this price adjustment is associated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

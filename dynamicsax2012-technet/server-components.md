@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Server components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide an overview of the server components for Microsoft Dynamics AX. The server components include Application Object Server (AOS) and the components that are hosted on either AOS or Internet Information Services (IIS).

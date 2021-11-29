@@ -17,6 +17,9 @@ dev_langs:
 
 # RedirectUri Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the redirect URI object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

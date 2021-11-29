@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Import initial setup data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you plan to import data, you must complete this task before you start using Microsoft Dynamics AX in a production environment. Parameters, setup data, default data, and master data are typically imported for initial setup.

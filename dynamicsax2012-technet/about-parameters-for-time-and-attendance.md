@@ -15,6 +15,9 @@ ms.search.region: Global
 # About parameters for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic includes general information about the parameters that you must set before you can use time and attendance with **Human resources**. For more detailed information about specific time and attendance parameters, see [Time and attendance parameters (form)](https://technet.microsoft.com/library/aa634266\(v=ax.60\)).

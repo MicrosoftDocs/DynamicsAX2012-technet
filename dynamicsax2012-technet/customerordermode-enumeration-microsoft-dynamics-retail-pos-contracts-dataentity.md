@@ -23,6 +23,9 @@ dev_langs:
 
 # CustomerOrderMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 UI state of the order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

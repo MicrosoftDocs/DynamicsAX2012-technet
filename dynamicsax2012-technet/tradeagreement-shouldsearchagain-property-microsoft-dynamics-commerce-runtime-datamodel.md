@@ -17,6 +17,9 @@ dev_langs:
 
 # ShouldSearchAgain Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether price or discount search should continue after finding this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

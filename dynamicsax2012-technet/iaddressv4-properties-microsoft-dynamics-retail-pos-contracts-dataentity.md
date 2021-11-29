@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IAddressV4 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IAddressV4](iaddressv4-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

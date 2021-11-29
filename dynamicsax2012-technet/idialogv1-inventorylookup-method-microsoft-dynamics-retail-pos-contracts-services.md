@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryLookup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays the inventory search through transaction service. This dialog show quantity on hand in multiple stores.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

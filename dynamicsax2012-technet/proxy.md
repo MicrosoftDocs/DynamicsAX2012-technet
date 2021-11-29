@@ -13,6 +13,9 @@ f1_keywords:
 
 # proxy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A software component that intermediates requests from client software components and responses from service or server software components that respond to those requests.
 
 ## See also

@@ -22,6 +22,9 @@ ms.search.region: Global
 # Create a contact for an unsolicited vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the following steps to create a vendor contact from an existing record for an unsolicited vendor.

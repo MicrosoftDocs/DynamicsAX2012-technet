@@ -14,6 +14,9 @@ ms.search.region: Switzerland
 # (CHE) Set up an LSV+ method of payment for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a method of payment to draw direct debit payments from a customer’s bank account. You must have a signed debit authorization form from the customer who authorizes you to collect direct debit Lastschriftenverfahren (LSV+) payments.

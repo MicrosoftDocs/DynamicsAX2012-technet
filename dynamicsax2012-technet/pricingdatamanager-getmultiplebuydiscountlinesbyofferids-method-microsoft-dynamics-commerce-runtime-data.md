@@ -17,6 +17,9 @@ dev_langs:
 
 # GetMultipleBuyDiscountLinesByOfferIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the multi buy discount lines associated with the given offers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

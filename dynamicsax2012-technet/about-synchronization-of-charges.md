@@ -15,6 +15,9 @@ ms.search.region: Global
 # About synchronization of charges 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Charges are synchronized only between the intercompany sales order and the intercompany purchase order, and synchronization always occurs.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Adjust a demand forecast in Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to adjust forecast quantities. After you have created a baseline forecast, you can adjust the forecasted quantities in response to business realities or plans. You can also use the demand forecast as it is, without adjusting the forecasted quantities.

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Assortments (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 An assortment is a collection of related products that you assign to a retail store. You use assortments to identify the products that are available in each store. If you include a category in an assortment, all products that are assigned to that category are included in the assortment. An assortment can also include specific products and specific variants of products. By setting up an assortment, you can assign thousands of products to your retail channels at that same time, in any combination that your stores require.

@@ -17,6 +17,9 @@ dev_langs:
 
 # MixAndMatchDiscountPercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the percent off of a mix and match set if this is a mix and match discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

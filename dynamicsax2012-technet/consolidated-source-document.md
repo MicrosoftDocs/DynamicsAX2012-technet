@@ -13,6 +13,9 @@ f1_keywords:
 
 # consolidated source document
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents a sum of product quantities and monetary amounts from more than one referenced source document of the same class.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultResultSource Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the default result source in SharePoint search.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

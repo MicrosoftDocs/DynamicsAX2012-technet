@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN, USA) Reuse a check number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can reuse check numbers if you enabled the functionality when you set up bank parameters. For example, if a check is damaged while it is being printed, you can print the same check number on a new check. The original information is voided and replaced with the reprinted check information.

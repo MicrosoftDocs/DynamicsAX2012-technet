@@ -17,6 +17,9 @@ dev_langs:
 
 # Item Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the validation results at index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

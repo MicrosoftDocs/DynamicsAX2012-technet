@@ -17,6 +17,9 @@ dev_langs:
 
 # DbElementCollection(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a collection of database elements.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

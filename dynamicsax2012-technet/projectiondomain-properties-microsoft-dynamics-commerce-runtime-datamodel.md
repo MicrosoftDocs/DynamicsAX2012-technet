@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProjectionDomain Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProjectionDomain](projectiondomain-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

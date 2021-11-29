@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateUpdateStockCountJournals Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Insert/Update one (or) more of StockCount journals.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

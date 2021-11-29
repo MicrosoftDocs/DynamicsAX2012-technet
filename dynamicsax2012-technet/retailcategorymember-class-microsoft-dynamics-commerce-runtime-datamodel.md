@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailCategoryMember Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains information about the products or variants that belong to a specific category.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

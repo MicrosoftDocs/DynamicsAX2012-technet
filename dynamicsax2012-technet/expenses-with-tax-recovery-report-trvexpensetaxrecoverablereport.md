@@ -14,6 +14,9 @@ f1_keywords:
 # Expenses with tax recovery report (TrvExpenseTaxRecoverableReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view any expenses that are eligible for tax recovery for a selected country/region.

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up notification and cancellation for delayed orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When a customer's order cannot be shipped on time, a company can automatically send notification email messages to the customer to explain the order status and give the customer the opportunity to cancel the order. If the delay extends beyond a specified threshold, the order can be canceled automatically. This topic describes how to set up automatic notification and cancellation for delayed orders.

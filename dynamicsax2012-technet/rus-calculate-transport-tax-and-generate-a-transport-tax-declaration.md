@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate transport tax and generate a transport tax declaration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Print transport tax declaration** form to generate a declaration of transport tax. After you generate and export the transport tax declaration by using Microsoft Excel, you can submit it electronically to the tax authority. You can also print and mail the declaration to the tax authority.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPriceServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetPriceResponse class for pricing reqeusts with transaction information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

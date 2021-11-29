@@ -17,6 +17,9 @@ dev_langs:
 
 # PrepaymentPaidColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prepayment paid column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PurchaseTransferOrderMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the purchase or transfer order was not found in the xml.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

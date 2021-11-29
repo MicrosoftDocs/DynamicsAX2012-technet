@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerByAccountNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer by account number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

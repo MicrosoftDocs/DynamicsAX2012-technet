@@ -18,6 +18,9 @@ ms.search.region: Global
 # About Constraint rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Constraints are used to set up an exception condition, that is, a combination of conditions which must not exist. For example, you can use a constraint to set up the condition in which the user, while configuring a lamp, cannot select a red shade if he or she has selected plastic for the material. Conditions can be a **Simple**, **Advanced**, or **Code** type. You can set up a constraint that combines different types of conditions.

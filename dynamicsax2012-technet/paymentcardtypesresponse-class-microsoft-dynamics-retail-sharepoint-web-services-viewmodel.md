@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentCardTypesResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment card types response.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IStoreConnectMonitoringChannel Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IStoreConnectMonitoringChannel](istoreconnectmonitoringchannel-interface-microsoft-dynamics-retail-transactionservices-clientproxy.md) type exposes the following members.
 
 ## Events

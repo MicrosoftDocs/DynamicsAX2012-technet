@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmptyProductDeliveryOptionSetNotification Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmptyProductDeliveryOptionSetNotification](emptyproductdeliveryoptionsetnotification-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

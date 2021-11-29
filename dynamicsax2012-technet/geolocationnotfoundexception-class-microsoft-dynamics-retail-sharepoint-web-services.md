@@ -17,6 +17,9 @@ dev_langs:
 
 # GeoLocationNotFoundException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Exception for when a geographical location cannot be found.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

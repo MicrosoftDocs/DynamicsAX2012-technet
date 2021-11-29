@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the ledger accounts for expense and income codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a ledger account for transaction data to be transferred into a specified income or expense code.

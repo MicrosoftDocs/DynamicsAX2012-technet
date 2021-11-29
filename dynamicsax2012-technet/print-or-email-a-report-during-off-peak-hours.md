@@ -14,6 +14,9 @@ ms.search.region: Global
 # Print or email a report during off-peak hours 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Occasionally, you may have to print an especially long report, such as a report that contains hundreds of rows of data. In this case, it may be best to print the report during off-peak hours, when few users are logged on to Microsoft Dynamics AX. The following procedure explains how to schedule a report to be printed during off-peak hours.

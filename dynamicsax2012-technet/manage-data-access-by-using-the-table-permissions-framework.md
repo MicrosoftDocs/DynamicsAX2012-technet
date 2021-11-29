@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage data access by using the Table Permissions Framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Table Permissions Framework (TPF) enables administrators to add an additional level of security to tables that store sensitive data.

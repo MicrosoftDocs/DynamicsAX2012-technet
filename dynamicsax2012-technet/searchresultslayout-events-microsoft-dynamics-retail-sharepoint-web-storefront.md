@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SearchResultsLayout Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SearchResultsLayout](searchresultslayout-class-microsoft-dynamics-retail-sharepoint-web-storefront.md) type exposes the following members.
 
 ## Events

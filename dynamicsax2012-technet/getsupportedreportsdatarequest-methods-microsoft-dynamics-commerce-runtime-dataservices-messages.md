@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetSupportedReportsDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetSupportedReportsDataRequest](getsupportedreportsdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

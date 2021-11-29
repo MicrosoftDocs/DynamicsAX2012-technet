@@ -17,6 +17,9 @@ dev_langs:
 
 # IsLoyaltyDiscountApplied Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the loyalty discount was applied to this line or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

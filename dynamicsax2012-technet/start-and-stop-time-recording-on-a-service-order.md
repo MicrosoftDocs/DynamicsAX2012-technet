@@ -14,6 +14,9 @@ ms.search.region: Global
 # Start and stop time recording on a service order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to start and stop time recording for a service order for which a service level agreement is defined.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PreEndTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered at the end a transaction, before saving the transaction and printing of receipts
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

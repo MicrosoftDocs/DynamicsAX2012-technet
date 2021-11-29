@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPriceParameters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves PriceParameters from the database. This indicates which types of trade agreements are active for various combinations of customer and item types.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

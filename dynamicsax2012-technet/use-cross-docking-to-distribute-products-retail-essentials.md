@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use cross docking to distribute products (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to use cross-docking to create transfer orders from a purchase order in Retail essentials. The transfer orders distribute products from the receiving warehouse to stores, based on the quantities and rules that you specify. If the stores that are being distributed to are in another legal entity, sales orders and purchase orders are created.

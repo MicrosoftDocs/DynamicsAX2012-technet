@@ -17,6 +17,9 @@ dev_langs:
 
 # ToRewardAmountQuantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the amount or the quantity of the reward.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

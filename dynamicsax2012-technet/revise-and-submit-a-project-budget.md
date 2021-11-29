@@ -22,6 +22,9 @@ ms.search.region: Global
 # Revise and submit a project budget 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can revise a project budget as many times as necessary. The sum total of all the approved revisions for each category is shown in the **Project budget revision** form. You cannot see the amount of any individual revision if the budget has been revised more than one time.

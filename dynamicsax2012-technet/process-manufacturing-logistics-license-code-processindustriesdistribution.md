@@ -14,6 +14,9 @@ f1_keywords:
 # Process manufacturing logistics license code (ProcessIndustriesDistribution) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Process Manufacturing Logistics** license code enables access to the logistics-related features of process manufacturing in Microsoft Dynamics AX.

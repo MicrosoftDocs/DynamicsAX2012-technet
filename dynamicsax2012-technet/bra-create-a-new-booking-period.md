@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Create a new booking period 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Sistema Publico de Escrituração Digital (SPED) fiscal text files provide information about all fiscal documents that have been received and issued in a month. They are used by the federal tax authority to verify Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) and Imposto sobre Produtos Industrializados (IPI) tax calculations.

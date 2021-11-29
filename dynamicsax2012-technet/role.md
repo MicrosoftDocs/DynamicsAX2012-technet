@@ -14,6 +14,9 @@ f1_keywords:
 
 # role
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - In the security model, a behavior pattern of a person playing an organization role, a functional role, and an application role.
 
   - A behavior pattern of a participant in a relationship.

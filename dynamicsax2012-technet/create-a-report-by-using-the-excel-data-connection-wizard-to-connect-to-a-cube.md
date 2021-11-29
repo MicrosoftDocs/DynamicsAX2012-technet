@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a report by using the Excel data connection wizard to connect to a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following procedure explains how to use Microsoft Excel to create a custom report that uses a Microsoft SQL Server Analysis Services cube as a data source.

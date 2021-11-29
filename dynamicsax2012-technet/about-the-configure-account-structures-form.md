@@ -20,6 +20,9 @@ ms.search.region: Global
 # About the Configure account structures form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A relational chart of accounts uses an account structure that requires that you set up valid accounts and financial dimension values, and then set up rules to specify how the accounts and dimensions will come together to create account structures. Setting up valid combinations helps make sure that data entry is accurate.

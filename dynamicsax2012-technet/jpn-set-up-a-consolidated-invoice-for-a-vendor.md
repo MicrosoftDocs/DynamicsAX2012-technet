@@ -18,6 +18,9 @@ ms.search.region: Japan
 # (JPN) Set up a consolidated invoice for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can consolidate multiple purchase orders into one invoice, based on a consolidation date that is specified in the **Vendors** form. You can also set up holiday due date control, the cutoff day for consolidation, and the number sequence for consolidation invoices. For more information, see [Vendors (form)](https://technet.microsoft.com/library/aa592162\(v=ax.60\)).

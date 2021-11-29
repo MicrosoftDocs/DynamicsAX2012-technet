@@ -17,6 +17,9 @@ dev_langs:
 
 # Quantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Item's quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

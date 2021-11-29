@@ -27,6 +27,9 @@ ms.search.region: Global
 # Key tasks: Set up a work cell for lean manufacturing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure resource groups to function as work cells where process kanban jobs for lean manufacturing are performed. Kanban jobs are then assigned to the work cell that is defined on the referenced process activity.

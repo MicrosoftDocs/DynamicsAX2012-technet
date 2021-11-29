@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceAdjustmentPriceLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price line representing a price adjustment on a item. Could be more than one of these.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

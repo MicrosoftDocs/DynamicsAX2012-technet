@@ -17,6 +17,9 @@ ms.search.region: Global
 # Item configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create a sales order, sales quotation, purchase order, production order, project quotation, or item requirement for a modeling-enabled item, you can start the configuration process. For sales and purchase orders and quotations, click **Configure line**. For production orders, click **Configure production**. For item requirements, click **Functions** \> **Configure line**.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up receipt options (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up receipt options. You can specify receipt options for all customers and for specific customers who have been added to the **Customers** form. Receipts can be printed, sent in email messages, or both printed and sent in email messages. Customers can also choose receipt options at the point of sale (POS).

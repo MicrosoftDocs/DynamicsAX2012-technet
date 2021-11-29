@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up a production unit 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A production unit is an administrative unit that is a collection of resource groups. A production unit can contain multiple resource groups, but a resource group can be assigned to only one production unit. A production unit reflects the physical layout of production resources and has no effect on transactions or how they are processed.

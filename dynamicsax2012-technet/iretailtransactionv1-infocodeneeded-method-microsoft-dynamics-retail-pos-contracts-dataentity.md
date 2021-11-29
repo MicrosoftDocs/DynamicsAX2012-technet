@@ -17,6 +17,9 @@ dev_langs:
 
 # InfoCodeNeeded Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Looks through existing infocodes and check if the infocode already exists on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

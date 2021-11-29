@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create definition groups for import and export 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Definition groups identify groups of tables that can be imported or exported when you use Microsoft Dynamics AX data import/export

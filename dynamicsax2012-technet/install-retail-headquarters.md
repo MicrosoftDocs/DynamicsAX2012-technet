@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Retail Headquarters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The Retail Headquarters component installs runtime components that are required to enable key aspects of Retail functionality, such as the screen layout designer. This component must be installed on the Application Object Server (AOS) computer and on Microsoft Dynamics AX client computers.

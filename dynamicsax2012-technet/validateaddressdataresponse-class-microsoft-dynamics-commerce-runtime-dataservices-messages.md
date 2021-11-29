@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateAddressDataResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The validation response from a [ValidateAddressDataRequest](validateaddressdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertDateTimeToChannelDate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) object that is set to the current date and time on the current computer, with the offset set to the channel time's offset from Coordinated Universal Time (UTC).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

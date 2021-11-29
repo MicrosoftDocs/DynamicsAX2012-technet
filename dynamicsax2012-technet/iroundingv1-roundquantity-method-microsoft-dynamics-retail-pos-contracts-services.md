@@ -17,6 +17,9 @@ dev_langs:
 
 # RoundQuantity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the quantity rounded to the correct amount of decimals.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

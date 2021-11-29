@@ -20,6 +20,9 @@ ms.search.region: Global
 # Process a customer request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Customer requests that have been submitted in Enterprise Portal for Microsoft Dynamics AX are received and processed in the **Registration** form in the Microsoft Dynamics AX client. When you approve and process a customer request, you grant the customer access to your company’s **Customer self-service** portal.

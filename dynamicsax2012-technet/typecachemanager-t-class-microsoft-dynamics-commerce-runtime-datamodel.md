@@ -17,6 +17,9 @@ dev_langs:
 
 # TypeCacheManager(T) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manages the [EntityTypeCache](entitytypecache-class-microsoft-dynamics-commerce-runtime-datamodel.md) classes that allows reflection on entity types to be done only once.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

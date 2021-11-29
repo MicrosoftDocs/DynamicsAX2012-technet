@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the VSS writer for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Volume Shadow Copy Service writer for Microsoft Dynamics AX (AX VSS writer) can be used together with Microsoft System Center 2012 Data Protection Manager (DPM) to help protect Microsoft Dynamics AX data and servers.

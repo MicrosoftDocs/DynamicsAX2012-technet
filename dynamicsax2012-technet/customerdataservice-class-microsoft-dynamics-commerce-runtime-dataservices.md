@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer data services that contains methods to retrieve the customer information from underlying data storage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices](microsoft-dynamics-commerce-runtime-dataservices-namespace.md)  

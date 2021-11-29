@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetStockCountResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetStockCountResponse](getstockcountresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

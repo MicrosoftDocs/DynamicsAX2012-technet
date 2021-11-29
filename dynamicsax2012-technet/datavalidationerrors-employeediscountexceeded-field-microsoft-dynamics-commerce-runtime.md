@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeDiscountExceeded Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the employee discount amount exceeded.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

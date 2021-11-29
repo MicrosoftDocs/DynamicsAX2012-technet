@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Remove-AXEnterprisePortalClaimsAuthenticationProvider
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Remove-AXEnterprisePortalClaimsAuthenticationProvider
 
 Removes a registered claims-based authentication provider from the Enterprise Portal server.

@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreExchangeRate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the exchange rate between the headquarters currency and the store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

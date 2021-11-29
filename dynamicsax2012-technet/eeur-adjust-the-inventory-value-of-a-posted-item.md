@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Adjust the inventory value of a posted item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to adjust the financial value of the selected receipt transaction. The process recalculates the cost value of the item, and then adjusts the receipt transactions. The adjustments can be recorded as corrections in the general ledger.

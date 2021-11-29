@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security Development Tool User Guide 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 > [!NOTE]

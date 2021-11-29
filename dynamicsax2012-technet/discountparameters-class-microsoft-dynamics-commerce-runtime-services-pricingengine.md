@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountParameters Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 These parameters indicate which types of AX discounts (aka trade agreement discounts, aka not Retail Periodic Discounts) are currently activated and should be allowed on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

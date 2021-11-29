@@ -17,6 +17,9 @@ dev_langs:
 
 # ToRewardPointCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the currency of the reward point if the reward point is amount type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

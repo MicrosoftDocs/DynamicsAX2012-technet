@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransactionFillInTransactionItems Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills in the sales transaction with transaction items data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

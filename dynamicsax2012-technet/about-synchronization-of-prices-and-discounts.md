@@ -15,6 +15,9 @@ ms.search.region: Global
 # About synchronization of prices and discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Discounts and prices are always synchronized between the intercompany sales order and the intercompany purchase order. You can also synchronize the price and discounts to and from the original sales order, so that all orders have the same prices and discounts. You do this from the **Intercompany** form that is accessed from the **General** tab on the **All customers** list page—either from **Sales and marketing** or from **Procurement and sourcing**.

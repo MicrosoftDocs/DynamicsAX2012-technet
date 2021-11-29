@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow tracking data
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data that is logged during the execution of a workflow instance.
 
 ## See also

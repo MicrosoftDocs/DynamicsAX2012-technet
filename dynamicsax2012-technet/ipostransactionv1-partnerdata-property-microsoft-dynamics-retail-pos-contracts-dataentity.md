@@ -17,6 +17,9 @@ dev_langs:
 
 # PartnerData Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the dynamic object that holds the partner's data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

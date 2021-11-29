@@ -17,6 +17,9 @@ dev_langs:
 
 # MinimumQuantityColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Minimum quantity column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

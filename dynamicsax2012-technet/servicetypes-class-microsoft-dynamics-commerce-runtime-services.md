@@ -17,6 +17,9 @@ dev_langs:
 
 # ServiceTypes Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Used to standardize the different service type names.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IStoreProductAvailabilityService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IStoreProductAvailabilityService](istoreproductavailabilityservice-interface-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

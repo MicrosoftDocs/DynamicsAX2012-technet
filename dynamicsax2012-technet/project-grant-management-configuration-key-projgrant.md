@@ -18,6 +18,9 @@ f1_keywords:
 # Project grant management configuration key (ProjGrant) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Project grant management** configuration key controls access to grant management forms and functions in the **Project management and accounting** module. When this configuration key is enabled, you can enter and track grants and define their relationships to projects and project contracts.

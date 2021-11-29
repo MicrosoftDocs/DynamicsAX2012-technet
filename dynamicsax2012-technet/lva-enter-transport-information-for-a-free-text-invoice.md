@@ -18,6 +18,9 @@ ms.search.region: Latvia
 # (LVA) Enter transport information for a free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In the **Free text invoice** form, you can enter additional information about the transport of items or materials. This information can be printed on the packing slip and on an invoice.

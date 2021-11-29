@@ -17,6 +17,9 @@ dev_langs:
 
 # ActiveVariantProductId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the distinct product variant id of the variant which matches the input search criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

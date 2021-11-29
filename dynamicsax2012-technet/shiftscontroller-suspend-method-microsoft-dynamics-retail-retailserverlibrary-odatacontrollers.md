@@ -17,6 +17,9 @@ dev_langs:
 
 # Suspend Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Suspends a shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

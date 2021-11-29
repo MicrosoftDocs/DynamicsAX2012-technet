@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffResetPassword Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reset password for a specified user.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

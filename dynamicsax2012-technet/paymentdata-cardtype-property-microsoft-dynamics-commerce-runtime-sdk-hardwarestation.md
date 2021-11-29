@@ -17,6 +17,9 @@ dev_langs:
 
 # CardType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a card type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

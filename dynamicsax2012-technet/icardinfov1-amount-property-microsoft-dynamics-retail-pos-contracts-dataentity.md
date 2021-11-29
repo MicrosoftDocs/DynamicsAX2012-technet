@@ -17,6 +17,9 @@ dev_langs:
 
 # Amount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The amount associated with the card authorization.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

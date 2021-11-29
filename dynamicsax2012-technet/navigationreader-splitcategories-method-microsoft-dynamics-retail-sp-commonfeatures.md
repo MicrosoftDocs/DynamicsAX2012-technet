@@ -17,6 +17,9 @@ dev_langs:
 
 # SplitCategories Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Splits categories by columns.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

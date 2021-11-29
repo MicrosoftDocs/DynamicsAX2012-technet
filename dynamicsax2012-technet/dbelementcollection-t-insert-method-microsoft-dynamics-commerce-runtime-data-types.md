@@ -17,6 +17,9 @@ dev_langs:
 
 # Insert Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Inserts an element in a specific position.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

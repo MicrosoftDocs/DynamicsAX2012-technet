@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerSystemV3 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerSystemV3](icustomersystemv3-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

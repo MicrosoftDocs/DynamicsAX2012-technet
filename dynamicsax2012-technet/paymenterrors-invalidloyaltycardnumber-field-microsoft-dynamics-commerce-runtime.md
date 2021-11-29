@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidLoyaltyCardNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the loyalty card number does not exists.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

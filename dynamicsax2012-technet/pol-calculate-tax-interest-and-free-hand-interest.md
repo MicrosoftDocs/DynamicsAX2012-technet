@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Calculate tax interest and free-hand interest 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Poland, the tax interest rates are determined by the Ministry of Finance. The vendor calculates the interest if the payment settlement is made after the due date. If the payment period is shorter than 30 days, the vendor can calculate the tax interest from the due date through the payment date. Free-hand interest rates apply when payments are settled between the 31st day after the posting and the due date.

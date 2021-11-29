@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonCodeSettings Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason code settings type. Represents the reason code settings in the functionality profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

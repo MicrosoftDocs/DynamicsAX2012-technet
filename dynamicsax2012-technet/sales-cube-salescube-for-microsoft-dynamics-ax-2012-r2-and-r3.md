@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sales cube (SalesCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Sales cube for Microsoft Dynamics AX is used to report on shipped and invoiced sales order lines. This article provides details about the cube.

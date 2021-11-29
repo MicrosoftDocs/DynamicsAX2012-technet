@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Security Development Tool
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 > [!NOTE] 
 > This is pre-release documentation of a preliminary nature and is subject to change at any time without notice. Microsoft cannot guarantee the accuracy of any information provided herein. Before you install the Security Development Tool, be aware that we assume that you meet the following prerequisites:
 

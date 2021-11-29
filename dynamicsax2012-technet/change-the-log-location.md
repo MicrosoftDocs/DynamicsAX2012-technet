@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Change the log location 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can change the location of the log files for Microsoft Dynamics AX clients by using the Microsoft Dynamics AX 2012 Configuration utility. Some businesses and organizations centralize the storage location for log files to improve client performance. The Microsoft Dynamics AX 2012 Configuration utility accepts variables in the paths of log files. For example, the default path is %USERPROFILE%\\Microsoft\\DynamicsAx\\Log.

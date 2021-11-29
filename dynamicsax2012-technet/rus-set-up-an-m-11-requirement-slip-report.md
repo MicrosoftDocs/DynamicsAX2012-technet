@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an M-11 requirement slip report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can monitor inventory flows between departments as well as between responsible officers within the organization by using M-11 requirement slips. The requirement slips are prepared in duplicate by the dispatching officer who is delivering the goods. The delivering warehouse uses one copy to release and write off the inventory items, and the receiving warehouse uses the second copy to accept the items. You can also use copies of requirement slips to deliver waste, defective items from the production department to the warehouse, and non-used materials if they were received by request.

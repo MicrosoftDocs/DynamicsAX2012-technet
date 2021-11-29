@@ -15,6 +15,9 @@ dev_langs:
 
 # GetDeliveryOptionsRequest Constructor (String, String, ICollection(String), Boolean, Address)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetDeliveryOptionsRequest](getdeliveryoptionsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

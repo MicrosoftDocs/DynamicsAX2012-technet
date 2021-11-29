@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add details to a case 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create a case, you can add activities, dependent cases, associations, case log information, documents, and responsibilities to the case. You can add these details when you first create the case or you can add them later as needed.

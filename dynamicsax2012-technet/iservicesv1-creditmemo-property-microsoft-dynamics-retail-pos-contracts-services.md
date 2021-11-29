@@ -17,6 +17,9 @@ dev_langs:
 
 # CreditMemo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Credit memo service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

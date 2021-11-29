@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Create and post an invoice register for a non-managed vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can invoice purchase transactions for non-managed vendors using an invoice register after you enter tax details for the vendor in the **Vendors** form. A non-managed vendor is a vendor with whom the company does not maintain an ongoing business relationship. For more information, see [(MEX) Create a vendor account with tax registration details](mex-create-a-vendor-account-with-tax-registration-details.md).

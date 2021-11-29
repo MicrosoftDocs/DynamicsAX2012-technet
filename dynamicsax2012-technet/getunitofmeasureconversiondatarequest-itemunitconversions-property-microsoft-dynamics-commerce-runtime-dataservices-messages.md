@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemUnitConversions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item unit conversions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

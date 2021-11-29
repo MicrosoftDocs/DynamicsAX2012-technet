@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up an assortment (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up assortments, so that you can link the products that you sell to the retail channels that sell those products. Assortments are used to group related products and assign them to a retail channel. You can assign the same product to one or more assortments, and you can assign one or more assortments to the same retail channel.

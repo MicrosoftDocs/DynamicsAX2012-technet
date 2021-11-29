@@ -14,6 +14,9 @@ ms.search.region: Netherlands
 # (NLD) Set up electronic tax error messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Electronic tax error messages** form to set up the possible error messages that can be returned from the Dutch tax authority for the Dutch Intracommunautaire Prestaties (ICP) tax declaration and the Dutch Omzetbelasting (OB) tax declaration.

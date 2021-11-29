@@ -17,6 +17,9 @@ dev_langs:
 
 # MaximumValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum value that is allowed as a input.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A fixed amount or percentage deducted from a quoted price or price total.
 
 ## See also

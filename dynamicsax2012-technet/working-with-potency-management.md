@@ -21,6 +21,9 @@ ms.search.region: Global
 # Working with potency management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to work with potency management.

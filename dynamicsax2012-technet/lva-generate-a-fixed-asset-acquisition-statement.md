@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Generate a fixed asset acquisition statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fixed asset acquisition statement is a list of all fixed assets acquired during a specified period.

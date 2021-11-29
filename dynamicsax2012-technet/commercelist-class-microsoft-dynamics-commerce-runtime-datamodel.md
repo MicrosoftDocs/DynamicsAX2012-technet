@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceList Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a commerce list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

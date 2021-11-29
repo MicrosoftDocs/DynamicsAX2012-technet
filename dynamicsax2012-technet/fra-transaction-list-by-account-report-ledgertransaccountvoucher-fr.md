@@ -16,6 +16,9 @@ f1_keywords:
 # (FRA) Transaction list by account report (LedgerTransAccountVoucher\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Transaction list by account** report displays the transaction list for a specified date interval and a ledger account interval. The report includes the following information:

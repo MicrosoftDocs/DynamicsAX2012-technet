@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateAmountsPaidAndDue Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the paid and due amounts for the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

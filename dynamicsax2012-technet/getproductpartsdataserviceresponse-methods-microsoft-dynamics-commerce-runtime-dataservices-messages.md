@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetProductPartsDataServiceResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetProductPartsDataServiceResponse](getproductpartsdataserviceresponse-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

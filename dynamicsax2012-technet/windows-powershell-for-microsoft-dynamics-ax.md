@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Windows PowerShell for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to use Windows PowerShell together with Microsoft Dynamics AX 2012 to perform simple and complex administrative tasks. You can access information about cmdlets in Microsoft Dynamics AX by using the command-line Help. For general information about Windows PowerShell, visit the [Windows PowerShell Script Center](https://go.microsoft.com/fwlink/?linkid=235070).

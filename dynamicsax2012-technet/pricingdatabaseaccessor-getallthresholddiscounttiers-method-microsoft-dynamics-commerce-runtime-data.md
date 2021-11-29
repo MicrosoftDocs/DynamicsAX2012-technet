@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllThresholdDiscountTiers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all of the threshold discount tiers for all threshold discounts.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

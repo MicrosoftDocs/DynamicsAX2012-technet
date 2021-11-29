@@ -31,6 +31,9 @@ ms.search.region: Global
 # Procurement and sourcing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Procurement and sourcing, you create purchasing policies to control the purchasing process. You identify suppliers, onboard suppliers as new vendors, maintain vendor information, create agreements with your vendors, order items and services, maintain purchase orders, and confirm receipt of products. After vendor transactions are processed through Accounts payable, you can also analyze spending and vendor performance.

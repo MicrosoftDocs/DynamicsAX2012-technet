@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Vendor invoice policies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendor invoice policies let you evaluate vendor invoices for compliance with policy rules that you create.

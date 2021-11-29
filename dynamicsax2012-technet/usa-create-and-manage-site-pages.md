@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Create and manage site pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create a Sites Services for Microsoft Dynamics ERP solution, you must create its web pages. You can also view information about a solution's pages in Microsoft Dynamics AX and manage the pages on the Sites Services web site.

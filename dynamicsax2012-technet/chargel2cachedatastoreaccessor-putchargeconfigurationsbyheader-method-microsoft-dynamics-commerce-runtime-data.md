@@ -17,6 +17,9 @@ dev_langs:
 
 # PutChargeConfigurationsByHeader Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the charge configuration by header.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

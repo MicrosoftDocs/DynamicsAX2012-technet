@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new in Microsoft Dynamics AX 2012 R3 cumulative update 8 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 In Microsoft Dynamics AX 2012 R3 Cumulative Update 8, we added and changed several features. This topic lists the feature changes by module and by country/region, and provides links to related topics.
 
 ## New features for Microsoft Dynamics AX 2012 R3 Cumulative Update 8

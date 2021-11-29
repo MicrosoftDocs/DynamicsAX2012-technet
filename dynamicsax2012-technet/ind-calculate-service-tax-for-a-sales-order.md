@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Calculate service tax for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Sales order** form to create and post a sales order for which service tax is calculated. You can specify the service code for each sales order line before you post the sales order.

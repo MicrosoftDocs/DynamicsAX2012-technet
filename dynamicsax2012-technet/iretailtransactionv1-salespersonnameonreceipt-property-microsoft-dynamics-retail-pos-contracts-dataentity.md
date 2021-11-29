@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesPersonNameOnReceipt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The name of a salesperson if other than other than the operator.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

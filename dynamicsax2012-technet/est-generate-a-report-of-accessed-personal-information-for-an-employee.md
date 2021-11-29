@@ -18,6 +18,9 @@ ms.search.region: Estonia
 # (EST) Generate a report of accessed personal information for an employee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Estonia, any employee in your organization can request a report that shows the employee’s personal information stored by the organization, what personal information is tracked, and who has viewed, added, updated, or removed any of this information.

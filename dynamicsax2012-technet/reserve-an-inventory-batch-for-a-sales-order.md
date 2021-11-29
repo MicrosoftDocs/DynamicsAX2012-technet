@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reserve an inventory batch for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to reserve on-hand inventory batches for a sales order. This procedure is applicable for both catch weight items and for regular items.

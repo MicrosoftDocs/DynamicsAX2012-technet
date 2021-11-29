@@ -17,6 +17,9 @@ ms.search.region: Global
 # My meter readings and substance entries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a worker in your organization has been assigned the task of entering periodic meter readings or substance flow amounts in the Microsoft Dynamics AX client, the worker can create new entries or view previous entries in Enterprise Portal. When a worker opens the **My substance entry** or **My meter readings** page, the worker sees only the meters or substances that are assigned to him or her, with the default settings entered.

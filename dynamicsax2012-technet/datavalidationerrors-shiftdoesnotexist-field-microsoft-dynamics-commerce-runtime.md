@@ -17,6 +17,9 @@ dev_langs:
 
 # ShiftDoesNotExist Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The shift does not exist on the terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

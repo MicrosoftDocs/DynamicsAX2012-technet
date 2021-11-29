@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerOrderInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the customer order information. Used in serializing and transmitting the order to AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # cross-docking
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A distribution practice in which items flow from receiving to shipping, with limited or no storage required.
 
 ## See also

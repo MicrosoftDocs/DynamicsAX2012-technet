@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPurchaseOrderServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service request to get purchase or transfer orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

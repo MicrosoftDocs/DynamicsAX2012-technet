@@ -17,6 +17,9 @@ dev_langs:
 
 # RoundingSalePmtDiff Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rouding difference between payment and sales amount. Sales can be 9,99 but payment can be 10
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

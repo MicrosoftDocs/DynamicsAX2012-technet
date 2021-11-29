@@ -13,6 +13,9 @@ f1_keywords:
 
 # system currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit that is used as the default currency unit if no currency unit is specified when entering monetary amounts.
 
 ## See also

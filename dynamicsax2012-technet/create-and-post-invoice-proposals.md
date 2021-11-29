@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create and post invoice proposals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An invoice proposal is a preliminary invoice that you can review before you create a customer invoice for project transactions. This topic explains how to create an invoice proposal for posted project transactions that are chargeable to a customer. You can also add a customer prepayment or a customer-retained amount to an invoice proposal.

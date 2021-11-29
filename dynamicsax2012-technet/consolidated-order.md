@@ -13,6 +13,9 @@ f1_keywords:
 
 # consolidated order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents more than one referenced order.
 
 ## See also

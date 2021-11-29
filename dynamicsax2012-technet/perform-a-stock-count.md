@@ -19,6 +19,9 @@ ms.search.region: Global
 # Perform a stock count 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Enterprise Portal for Microsoft Dynamics AX to perform stock counts from any computer that has Internet access. You do not have to use a point of sale (POS) register.

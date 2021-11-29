@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerBalanceServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetCustomerBalanceServiceResponse class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # StartDateColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Start date column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

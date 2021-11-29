@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up proposed assets and proposed projects for budget plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Proposed assets are placeholders for fixed assets that are planned, but that have not been acquired yet in Fixed assets. Proposed projects are placeholders for projects that are planned, but that have not been created yet in Project management and accounting. You can select a proposed asset or a proposed project for a budget plan line on the **Line details** FastTab of the **Budget plan** form.

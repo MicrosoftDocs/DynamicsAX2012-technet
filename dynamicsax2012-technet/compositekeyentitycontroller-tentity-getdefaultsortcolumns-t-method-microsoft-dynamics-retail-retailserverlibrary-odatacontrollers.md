@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDefaultSortColumns(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default sort column array.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

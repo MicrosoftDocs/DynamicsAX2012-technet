@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Set up calculation sequences and counters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Standard expenses sequence** and **Counter setup** forms to create calculation sequences that are used to create deferrals for vendor invoices. For more information, see [(RUS) Standard expenses sequence (form)](https://technet.microsoft.com/library/jj853198\(v=ax.60\))

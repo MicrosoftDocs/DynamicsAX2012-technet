@@ -17,6 +17,9 @@ dev_langs:
 
 # PreSetQty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered prior to setting the quantity of a sale line item at the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

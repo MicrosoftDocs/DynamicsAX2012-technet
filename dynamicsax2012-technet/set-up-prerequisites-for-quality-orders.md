@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up prerequisites for quality orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the basic steps that you must follow to set up prerequisites so that you can use quality orders.

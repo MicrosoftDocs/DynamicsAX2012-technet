@@ -14,6 +14,9 @@ ms.search.region: Global
 # Changing campaign activity data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Changing data in the **Activity details** form that makes specific reference to campaigns does not affect the campaign on which the activity is based. However, changing the actual campaign generally does affect the associated activity.

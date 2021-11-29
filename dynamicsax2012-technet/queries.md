@@ -17,6 +17,9 @@ ms.search.region: Global
 # Queries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX **Sales and marketing**, you can create queries to view data for your company in different ways. The query functionality is common throughout Microsoft Dynamics AX. However, in **Sales and marketing**, you can also create queries that are based on workers, items, or the organization.

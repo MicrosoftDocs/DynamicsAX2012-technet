@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Production cost comparison (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Generate and print a report that displays a comparison of product costs during two specified periods, so that you can analyze trends or changes in cost.

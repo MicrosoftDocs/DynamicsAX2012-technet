@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter an addition to a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An addition to a fixed asset is maintenance to or an add-on item for a fixed asset. An addition is considered part of a fixed asset, but is not a separate asset. For example, an extra battery for a laptop is an addition to the laptop fixed asset. Typically, an addition is maintenance or an improvement and is related to a write-up adjustment.

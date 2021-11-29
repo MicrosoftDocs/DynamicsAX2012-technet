@@ -17,6 +17,9 @@ dev_langs:
 
 # ElevateUser Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 User elevation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # OnInit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Raises the \[E:Init\] event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

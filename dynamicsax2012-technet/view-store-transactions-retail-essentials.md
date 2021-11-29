@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View store transactions (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to view a list of transactions for all statements for retail stores or for a specific statement. The statement posting process is used to account for the transactions that occur in Retail essentials. The statement posting process uses Retail Scheduler to transmit a set of the point-of-sale (POS) transactions to Retail essentials so that you can view them in this form.

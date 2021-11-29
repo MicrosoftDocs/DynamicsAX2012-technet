@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelCategoryAttributesResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelCategoryAttributesResponse](getchannelcategoryattributesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

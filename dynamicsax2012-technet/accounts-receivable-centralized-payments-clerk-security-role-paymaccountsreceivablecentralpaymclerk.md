@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounts receivable centralized payments clerk security role (PaymAccountsReceivableCentralPaymClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Accounts receivable centralized payments clerk security role represents a user who documents accounts receivable centralized payment events and responds to centralized payment inquiries.

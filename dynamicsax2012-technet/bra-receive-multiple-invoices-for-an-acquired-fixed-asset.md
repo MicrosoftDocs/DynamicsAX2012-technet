@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Receive multiple invoices for an acquired fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When there is more than one invoice for the same fixed asset, the tax credit control must be applied to each combination of fixed asset and invoice. The combination will have its own control in terms of value and period, and the information is used to calculate fixed asset tax credit assessment in a future booking period.

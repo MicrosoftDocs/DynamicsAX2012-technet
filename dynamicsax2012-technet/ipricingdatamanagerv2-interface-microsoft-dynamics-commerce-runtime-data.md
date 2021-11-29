@@ -17,6 +17,9 @@ dev_langs:
 
 # IPricingDataManagerV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates second version of data access to pricing information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

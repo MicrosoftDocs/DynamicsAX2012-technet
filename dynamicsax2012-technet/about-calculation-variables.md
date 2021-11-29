@@ -18,6 +18,9 @@ ms.search.region: Global
 # About calculation variables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Unlike the modeling variables, calculation variables are invisible in the user dialog box. They can be used for various types of intermediate calculations in the product model, or to retrieve data from other parts of the system. For example, if a calculation must be performed by the product model, you can define calculation variables to handle the tasks. Calculation variables are created using the tabs in the upper pane of the **Product model** form. The tabs are described in the following table.

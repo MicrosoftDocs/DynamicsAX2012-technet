@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTransaction Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a channel agnostic sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

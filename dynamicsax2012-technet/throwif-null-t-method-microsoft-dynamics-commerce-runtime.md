@@ -17,6 +17,9 @@ dev_langs:
 
 # Null(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Throws ArgumentNullException if the argument is null, otherwise passes it through.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

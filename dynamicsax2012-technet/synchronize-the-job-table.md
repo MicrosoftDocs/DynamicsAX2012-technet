@@ -19,6 +19,9 @@ ms.search.region: Global
 # Synchronize the job table 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers can make registrations on various kinds of jobs in **Time and attendance**:

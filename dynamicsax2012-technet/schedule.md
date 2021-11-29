@@ -13,6 +13,9 @@ f1_keywords:
 
 # schedule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A timetable of planned activities and economic resource allocations.
 
 ## See also

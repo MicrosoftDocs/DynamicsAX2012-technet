@@ -18,6 +18,9 @@ f1_keywords:
 # Request for quotation report (RFQSend) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This report displays the details about a request for quotation (RFQ) for a specific vendor. You can send the report to the selected vendor.

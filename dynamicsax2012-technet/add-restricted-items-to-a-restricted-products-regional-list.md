@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add restricted items to a restricted products regional list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this information to add items to a restricted products regional list. You can add items by using the **Restricted products – Country/State by item** form or the **Restricted products – Item by Country/State** form. Use the **Restricted products – Country/State by item** form when you want to add multiple items at the same time.

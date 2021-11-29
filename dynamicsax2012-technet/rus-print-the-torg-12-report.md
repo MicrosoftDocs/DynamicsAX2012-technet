@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Print the TORG-12 report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate the TORG-12 report by using the **Posting invoice** form.

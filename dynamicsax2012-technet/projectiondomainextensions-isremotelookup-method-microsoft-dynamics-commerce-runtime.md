@@ -17,6 +17,9 @@ dev_langs:
 
 # IsRemoteLookup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the current context requires a remote lookup.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

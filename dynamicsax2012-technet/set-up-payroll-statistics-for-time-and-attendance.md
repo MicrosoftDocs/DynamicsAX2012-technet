@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up payroll statistics for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create payroll statistics to view the calculation of workers’ pay for different types of wages, such as standard time and overtime. The basis for a payroll statistic is one or more pay types that are summarized over a specific period of time.

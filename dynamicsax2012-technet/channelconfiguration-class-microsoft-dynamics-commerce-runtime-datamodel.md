@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelConfiguration Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the current channel configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

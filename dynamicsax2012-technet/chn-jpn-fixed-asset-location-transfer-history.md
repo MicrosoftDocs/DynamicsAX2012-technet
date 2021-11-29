@@ -19,6 +19,9 @@ ms.search.region: China (PRC)
 # (CHN, JPN) Fixed asset location transfer history 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you transfer a fixed asset from one location to another within the same company, Microsoft Dynamics AX records the transfer details to ensure accurate fixed asset reporting.

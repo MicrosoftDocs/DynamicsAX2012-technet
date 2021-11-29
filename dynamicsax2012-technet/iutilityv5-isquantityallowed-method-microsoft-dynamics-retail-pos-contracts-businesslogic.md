@@ -17,6 +17,9 @@ dev_langs:
 
 # IsQuantityAllowed Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies if the quantity is valid for the specified unit of measure.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

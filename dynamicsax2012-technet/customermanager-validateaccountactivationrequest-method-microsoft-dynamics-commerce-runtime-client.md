@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateAccountActivationRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate customer account activation request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

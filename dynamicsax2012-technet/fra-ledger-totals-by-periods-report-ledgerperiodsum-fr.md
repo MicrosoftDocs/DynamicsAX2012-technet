@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) Ledger totals by periods report (LedgerPeriodSum\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Ledger totals by periods** report is used to print ledger account totals by period for a date interval and a voucher interval. The report displays the changes in accounts for a period or time interval that you specify. The report allows you to review the accounting records. This is an annual statement that you can generate at the end of the year. The report includes the following information:

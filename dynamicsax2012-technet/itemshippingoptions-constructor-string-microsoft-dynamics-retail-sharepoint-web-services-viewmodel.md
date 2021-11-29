@@ -15,6 +15,9 @@ dev_langs:
 
 # ItemShippingOptions Constructor (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ItemShippingOptions](itemshippingoptions-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

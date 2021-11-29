@@ -16,6 +16,9 @@ ms.search.region: Global
 # View vendor price agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Price agreements** page to view a list of prices and discounts that are set up for specific items from a vendor. This **Price agreements** page includes the price agreements that you have created for this vendor.

@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Create, approve, and post a general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create, approve, and post a general journal that contains lines by using the **Chinese vouchers** form. To record a customer payment, you must create a journal header, enter voucher transactions on the journal lines, approve the voucher, and then post the voucher to the general ledger.

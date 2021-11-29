@@ -17,6 +17,9 @@ dev_langs:
 
 # AddToGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add funds to gift card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

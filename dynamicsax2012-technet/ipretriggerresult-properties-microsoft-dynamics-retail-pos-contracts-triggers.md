@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPreTriggerResult Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPreTriggerResult](ipretriggerresult-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Properties

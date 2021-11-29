@@ -18,6 +18,9 @@ dev_langs:
 
 # FieldPanel Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generic css class for div elements which contain a label and an input field.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

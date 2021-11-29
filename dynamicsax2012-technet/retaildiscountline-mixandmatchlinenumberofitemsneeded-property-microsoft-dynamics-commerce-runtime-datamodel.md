@@ -17,6 +17,9 @@ dev_langs:
 
 # MixAndMatchLineNumberOfItemsNeeded Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the number of items from the discount line group if this is a mix and match discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

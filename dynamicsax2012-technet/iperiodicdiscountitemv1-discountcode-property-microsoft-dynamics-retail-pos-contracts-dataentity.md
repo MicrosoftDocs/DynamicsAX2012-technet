@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Which coupon/promotion code (if any?) activated this discount
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

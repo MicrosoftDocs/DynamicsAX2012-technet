@@ -17,6 +17,9 @@ dev_langs:
 
 # LinkedParentLineId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the line id of the product to which this product is linked to.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

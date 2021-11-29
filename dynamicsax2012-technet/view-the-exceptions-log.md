@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View the exceptions log 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The exceptions log contains a record of all the errors that occur during document exchanges in Application Integration Framework (AIF). In the **Exceptions** form, you can view information about the module and subsystem where the error occurred, and a description of the error. You can also view information about when the error was logged, the user who is associated with the error, and the form or business logic where the error occurred.

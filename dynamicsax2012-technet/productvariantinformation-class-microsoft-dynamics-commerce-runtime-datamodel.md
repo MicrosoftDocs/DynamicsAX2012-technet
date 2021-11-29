@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductVariantInformation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the information comprising the variant of a product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up an online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to set up an online store, which is a type of retail channel that customers can access on the web. An online store gives a retailer an online presence so that their customers can purchase products from their online store in addition to their brick-and-mortar store. Customers who purchase products from the online store can have the products shipped to them, or they can pick up the products from a local store.

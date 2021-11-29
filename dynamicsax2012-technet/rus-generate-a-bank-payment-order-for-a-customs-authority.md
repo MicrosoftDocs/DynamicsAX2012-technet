@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate a bank payment order for a customs authority 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal voucher** form to generate a bank payment order that includes the customs authority code or customs office code. You must create a customer counteragent before you can generate a bank payment order. For more information, see [(RUS) Set up a customs counteragent](rus-set-up-a-customs-counteragent.md).

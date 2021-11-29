@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up depreciation groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Depreciation groups are defined for the value model for a fixed asset. Depreciation groups describe the depreciation profile, the service life, and the parameters for deferrals that are generated when a fixed asset is depreciated.

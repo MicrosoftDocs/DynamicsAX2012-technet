@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create facility agreements for the letter of guarantee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up a bank facility agreement and enter letter of guarantee information. Before you set up a bank facility agreement, set up bank facility types and bank facility groups in the **Bank facilities** form.

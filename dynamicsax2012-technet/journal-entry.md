@@ -13,6 +13,9 @@ f1_keywords:
 
 # journal entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A record of the financial consequence an accounting event.
 
 ## See also

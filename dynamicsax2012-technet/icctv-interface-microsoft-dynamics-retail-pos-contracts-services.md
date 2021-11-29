@@ -17,6 +17,9 @@ dev_langs:
 
 # ICCTV Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICCTV interface gets a data-based feedback displayed on the monitor about the transactions while supervising the POS.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

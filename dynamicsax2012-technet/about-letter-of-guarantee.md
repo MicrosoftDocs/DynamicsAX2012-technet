@@ -19,6 +19,9 @@ ms.search.region: Global
 # About letter of guarantee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A letter of guarantee is an agreement by a bank (the guarantor) to pay a set amount of money to another person (the beneficiary) if the bank’s customer (the principal) defaults on a payment or an obligation to the beneficiary. Letters of guarantee are not transferable, and apply only to the beneficiary named in the guarantee agreement. The principal can request an increase or decrease in the value of a letter of guarantee, subject to the terms of the agreement.

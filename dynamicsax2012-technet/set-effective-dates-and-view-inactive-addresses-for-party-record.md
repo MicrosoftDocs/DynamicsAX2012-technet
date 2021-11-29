@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set effective dates and view inactive addresses for party record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can assign one or more addresses to all party record types in Microsoft Dynamics AX. For example, a customer might have one address for their main office, another address for deliveries, and another address for billing. You can view a record of each address on the **Addresses** FastTab in the party record’s form, for example, the **Customers** form.

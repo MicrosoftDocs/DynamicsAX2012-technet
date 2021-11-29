@@ -13,6 +13,9 @@ f1_keywords:
 
 # benefit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indirect compensation or reward offered by an organization.
 
 ## See also

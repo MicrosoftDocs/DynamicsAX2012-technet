@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for amount differences in tax accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **Amount difference in tax accounting** register is used to calculate amount differences in tax accounting, and to summarize expenses and revenues that are used in the calculation of the tax differences register. Transactions that have amount differences are processed in the ledger journal based on the amounts in the **Amount difference in tax accounting** register.

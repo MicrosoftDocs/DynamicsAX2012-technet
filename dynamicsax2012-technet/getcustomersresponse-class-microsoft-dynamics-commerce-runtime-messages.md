@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomersResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response for the [GetCustomersRequest](getcustomersrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

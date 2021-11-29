@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Demand forecasting in Microsoft Dynamics AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This paper describes the main features of the demand forecasting tool and how they integrate with Microsoft Dynamics AX 2012. These features include:
 
   - Generation of baseline forecast based on historical data

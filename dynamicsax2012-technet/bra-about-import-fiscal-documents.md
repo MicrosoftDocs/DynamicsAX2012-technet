@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) About import fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can issue an import fiscal document when you create a purchase order to import items from a foreign vendor. An import fiscal document records transit information about the items that you import. The import fiscal document is used to release items from customs, and to validate the entry of the items in the warehouse of the legal entity. You must specify the import declaration information (the addition number and import declaration number) for a purchase order that is issued to import items from a foreign vendor before you post the purchase order.

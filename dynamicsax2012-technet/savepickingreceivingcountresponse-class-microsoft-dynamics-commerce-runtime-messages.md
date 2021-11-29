@@ -17,6 +17,9 @@ dev_langs:
 
 # SavePickingReceivingCountResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response to SavePickingReceivingCountRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

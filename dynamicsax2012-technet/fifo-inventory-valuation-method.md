@@ -13,6 +13,9 @@ f1_keywords:
 
 # FIFO inventory valuation method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of inventory valuation in which inventory is assumed for accounting purposes to move in the order it was received, regardless of its actual physical movement.
 
 ## See also

@@ -16,6 +16,9 @@ ms.search.region: China (PRC)
 # (CHN) Key tasks: Set up and export financial information for GB/T 24589-2010 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use these procedures to create a GB/T 24589-2010 report. You set up parameters and reporting schemas to export the business information for a selected fiscal period to XML files. You can validate the structure and information in the XML files before you send the GB/T 24589-2010 report to the authorities.

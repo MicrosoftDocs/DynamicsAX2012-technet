@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Exchanging documents by using the file system adapter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic demonstrates how to perform an asynchronous document exchange. In this scenario, a new sales order request is sent to AIF by using the file system adapter.

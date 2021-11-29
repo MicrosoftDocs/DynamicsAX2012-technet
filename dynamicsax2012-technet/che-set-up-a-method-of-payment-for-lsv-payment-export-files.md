@@ -14,6 +14,9 @@ ms.search.region: Switzerland
 # (CHE) Set up a method of payment for LSV+ payment export files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Methods of payment** form to set up a method of payment for Lastschriftenverfahren (LSV+) payment export files.

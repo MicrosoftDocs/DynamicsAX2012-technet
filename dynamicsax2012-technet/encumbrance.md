@@ -13,6 +13,9 @@ f1_keywords:
 
 # encumbrance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A commitment made by legal entities to reserve budget funds for expenditure obligations.
 
 ## See also

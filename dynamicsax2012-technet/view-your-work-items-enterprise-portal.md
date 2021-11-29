@@ -14,6 +14,9 @@ ms.search.region: Global
 # View your work items (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view the work items assigned to you in the **Work list** Web part. If your organization uses Role Centers, the **Work list** Web part is displayed on your Role Center, which you can view by clicking **Home** on the top link bar. You can also add this Web part to other pages.

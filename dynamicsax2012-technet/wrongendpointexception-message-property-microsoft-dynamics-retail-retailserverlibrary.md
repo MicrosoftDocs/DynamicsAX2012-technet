@@ -17,6 +17,9 @@ dev_langs:
 
 # Message Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the error message.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

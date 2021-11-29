@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor internal account statement report (VendAccountStatementInt) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print and view internal account statements for each vendor account. Each statement includes basic vendor information, such as the vendor name, address, and terms of payment. The statement also includes transaction information, such as the transaction date, voucher number, invoice number, due date, and amounts.

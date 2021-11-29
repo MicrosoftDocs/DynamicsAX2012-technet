@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Generate and print financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Financial statement %1** report to generate and print financial reports, such as profit and loss statements, balance sheets, and changes in equity reports.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateLoyaltyCardId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates loyalty card ID and associates the loyalty card with the current cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

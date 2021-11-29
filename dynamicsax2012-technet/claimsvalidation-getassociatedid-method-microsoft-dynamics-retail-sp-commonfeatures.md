@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAssociatedId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer Id from the claims for the authenticated user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

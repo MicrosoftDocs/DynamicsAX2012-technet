@@ -13,6 +13,9 @@ f1_keywords:
 
 # void
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To prohibit the use of a document as a contract.
 
 ## See also

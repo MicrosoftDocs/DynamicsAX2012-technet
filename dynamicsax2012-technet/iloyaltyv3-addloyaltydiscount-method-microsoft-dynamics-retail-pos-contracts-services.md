@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLoyaltyDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds loyalty discount to the transaction. User is prompted to enter loyalty card number and discount amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Set up the terms of payment and the cutoff day for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Terms of payment** form to set up the cutoff day and payment day for a vendor. For more information, see [(JPN) Terms of payment (modified form)](https://technet.microsoft.com/library/jj711223\(v=ax.60\)).

@@ -17,6 +17,9 @@ dev_langs:
 
 # RetrieveIdsOfChangedProducts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the ids of products that satisfy the specified change-tracking criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

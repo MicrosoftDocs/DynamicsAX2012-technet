@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisteredActivityDateTimeOffset Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current registered activity datetime.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

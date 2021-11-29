@@ -17,6 +17,9 @@ dev_langs:
 
 # DataModelExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data adapter class to conver SDK objects to AX objects for usage in the Retail Transaction Service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

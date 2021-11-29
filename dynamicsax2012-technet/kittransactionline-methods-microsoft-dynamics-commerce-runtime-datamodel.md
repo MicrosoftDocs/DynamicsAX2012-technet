@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # KitTransactionLine Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [KitTransactionLine](kittransactionline-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

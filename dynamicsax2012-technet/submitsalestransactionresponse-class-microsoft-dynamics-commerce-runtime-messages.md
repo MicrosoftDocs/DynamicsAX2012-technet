@@ -17,6 +17,9 @@ dev_langs:
 
 # SubmitSalesTransactionResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response to a Submit sales transaction request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

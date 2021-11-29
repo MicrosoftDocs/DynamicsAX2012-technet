@@ -17,6 +17,9 @@ dev_langs:
 
 # ConcludeTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Does what needs to be done when the transaction is concluded. Updates loyalty, giftcards. Prints transactions; Saves transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

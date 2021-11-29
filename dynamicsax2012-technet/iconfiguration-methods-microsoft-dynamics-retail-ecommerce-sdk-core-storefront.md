@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IConfiguration Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IConfiguration](iconfiguration-interface-microsoft-dynamics-retail-ecommerce-sdk-core-storefront.md) type exposes the following members.
 
 ## Methods

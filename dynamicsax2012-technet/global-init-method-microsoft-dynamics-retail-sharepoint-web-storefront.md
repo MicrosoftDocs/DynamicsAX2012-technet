@@ -17,6 +17,9 @@ dev_langs:
 
 # Init Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes custom initialization code after all event handler modules have been added.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

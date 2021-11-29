@@ -17,6 +17,9 @@ dev_langs:
 
 # AccountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the type of the account (for example, checking, saving, etc.).
 
 A debit operation, for example, may require that the account type be specified.

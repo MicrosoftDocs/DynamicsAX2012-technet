@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up an attribute-based pricing formula for a potency item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a batch attribute-based pricing formula for a potency item. You can create an identifier (ID) for advanced pricing with calculation equations that change the purchase price paid for the potency item.

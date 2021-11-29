@@ -19,6 +19,9 @@ f1_keywords:
 # (BEL) Belgian sales tax by customer report (TaxAmountByCustomer\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Belgian sales tax by customer** report displays the details of sales taxes that are paid by Belgian customers to legal entities operating in Belgium. This report is used to review the status of the sales tax process. This report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, accounts receivable clerks, accounts receivable managers, and accountants.

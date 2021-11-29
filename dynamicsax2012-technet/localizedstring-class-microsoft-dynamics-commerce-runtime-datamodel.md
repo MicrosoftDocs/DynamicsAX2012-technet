@@ -17,6 +17,9 @@ dev_langs:
 
 # LocalizedString Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a localized string for use in client applications.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

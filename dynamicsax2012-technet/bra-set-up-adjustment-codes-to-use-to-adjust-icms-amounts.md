@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up adjustment codes to use to adjust ICMS amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a Sistema Publico de Escrituração Digital (SPED) fiscal text file, record E111 includes information about adjustments of Imposto sobre Circulação de Mercadorias e Serviços (ICMS) taxes that have been applied in the period that is covered by the SPED fiscal text file. Before you can adjust ICMS taxes, you must specify the adjustment codes that are determined by the Brazilian government depending on the adjustment criteria. This topic explains how to set up adjustment codes to be applied for ICMS and ICMS tributary substitution (ICMS-ST) taxes. You do this by using the **ICMS and ICMS-ST adjustment codes table** form. For information about how to enter ICMS and ICMS-ST tax adjustment transactions, see [(BRA) Assess, pay, declare, and adjust ICMS and ICMS-ST taxes](bra-assess-pay-declare-and-adjust-icms-and-icms-st-taxes.md).

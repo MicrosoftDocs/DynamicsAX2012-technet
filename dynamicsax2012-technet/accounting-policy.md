@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that prescribes the general principles and procedures that an organization follows to prepare statements that report on its performance.
 
 ## See also

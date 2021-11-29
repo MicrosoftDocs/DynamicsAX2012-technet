@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor requests configuration key (VendRequest) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor requests** configuration key controls access to all vendor request features in both Microsoft Dynamics AX and Enterprise Portal for Microsoft Dynamics AX.

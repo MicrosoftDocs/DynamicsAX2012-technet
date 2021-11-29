@@ -17,6 +17,9 @@ ms.search.region: Global
 # Customize your workspace 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes several features to help you customize the appearance of your workspace. For example, you can customize the list of buttons that appear in the Navigation Pane, and you can hide or display the Navigation Pane, the Favorites pane, or the content page.

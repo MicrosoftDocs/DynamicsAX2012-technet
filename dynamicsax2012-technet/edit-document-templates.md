@@ -16,6 +16,9 @@ ms.search.region: Global
 # Edit document templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A document template defines the properties and workflow steps for documents, the order in which each document on the **Internal controls** page can be nested or grouped, and how the documents are grouped. You can change the default document templates to more closely match the needs of your organization. For example, you have a control matrix in a Microsoft Excel worksheet and you want to import the controls from the worksheet. If the worksheet contains columns that are not part of the default document templates, you can modify the document templates to add the corresponding document properties. Then you can import controls.

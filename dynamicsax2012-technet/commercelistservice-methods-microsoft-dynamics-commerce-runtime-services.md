@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceListService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceListService](commercelistservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

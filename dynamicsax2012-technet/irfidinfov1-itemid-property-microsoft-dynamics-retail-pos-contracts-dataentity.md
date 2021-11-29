@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The item ID found in the database that corresponds to the RFID tag that was scanned.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

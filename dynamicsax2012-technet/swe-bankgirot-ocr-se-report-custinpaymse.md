@@ -14,6 +14,9 @@ f1_keywords:
 # (SWE) Bankgirot OCR (SE) report (CustInPaymSE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bankgirot OCR (SE)** report is used to print the details of import payments. The details that are included in the report depend on the import format that is specified as the method of payment. This report is typically used by accountants and accounting managers to maintain customer payment details.
